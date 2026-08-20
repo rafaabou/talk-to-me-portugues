@@ -1,0 +1,2023 @@
+{
+  "id": "B1-08",
+  "level": "B1",
+  "level_name": {
+    "pt": "Intermediário",
+    "en": "Intermediate",
+    "ar": "متوسط"
+  },
+  "title": {
+    "pt": "Moradia e Aluguel",
+    "en": "Housing and Rent",
+    "ar": "السكن والإيجار"
+  },
+  "objectives": [
+    {
+      "pt": "Descrever tipos de moradia e ambientes da casa.",
+      "en": "Describe types of housing and rooms in a home.",
+      "ar": "وصف أنواع المساكن وغرف المنزل."
+    },
+    {
+      "pt": "Entender e negociar termos de aluguel, como caução e contrato.",
+      "en": "Understand and negotiate rental terms, such as deposit and contract.",
+      "ar": "فهم والتفاوض حول شروط الإيجار، مثل الضمانة والعقد."
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "o aluguel",
+      "ipa": "/u a.luˈɡɛw/",
+      "en": "the rent",
+      "ar": "الإيجار",
+      "example": {
+        "pt": "Quanto é o aluguel? Preciso pagar caução?",
+        "en": "How much is the rent? Do I need to pay a deposit?",
+        "ar": "كم الإيجار؟ هل أحتاج إلى دفع ضمانة؟"
+      }
+    },
+    {
+      "pt": "morar",
+      "ipa": "/moˈɾaʁ/",
+      "en": "to live",
+      "ar": "يسكن",
+      "example": {
+        "pt": "Este apartamento tem dois quartos e uma cozinha ampla.",
+        "en": "This apartment has two bedrooms and a spacious kitchen.",
+        "ar": "هذه الشقة تحتوي على غرفتي نوم ومطبخ واسع."
+      }
+    },
+    {
+      "pt": "o apartamento",
+      "ipa": "/u a.paʁ.taˈmẽ.tu/",
+      "en": "the apartment",
+      "ar": "الشقة",
+      "example": {
+        "pt": "Quanto é o aluguel? Preciso pagar caução?",
+        "en": "How much is the rent? Do I need to pay a deposit?",
+        "ar": "كم الإيجار؟ هل أحتاج إلى دفع ضمانة؟"
+      }
+    },
+    {
+      "pt": "a casa",
+      "ipa": "/a ˈka.zɐ/",
+      "en": "the house",
+      "ar": "المنزل",
+      "example": {
+        "pt": "Sim, fica a dez minutos do metrô.",
+        "en": "Yes, it is ten minutes from the subway.",
+        "ar": "نعم، تبعد عشر دقائق عن المترو."
+      }
+    },
+    {
+      "pt": "o quarto",
+      "ipa": "/u ˈkwaʁ.tu/",
+      "en": "the bedroom",
+      "ar": "غرفة النوم",
+      "example": {
+        "pt": "Quanto é o aluguel? Preciso pagar caução?",
+        "en": "How much is the rent? Do I need to pay a deposit?",
+        "ar": "كم الإيجار؟ هل أحتاج إلى دفع ضمانة؟"
+      }
+    },
+    {
+      "pt": "a sala",
+      "ipa": "/a ˈsa.lɐ/",
+      "en": "the living room",
+      "ar": "غرفة المعيشة",
+      "example": {
+        "pt": "Sim, fica a dez minutos do metrô.",
+        "en": "Yes, it is ten minutes from the subway.",
+        "ar": "نعم، تبعد عشر دقائق عن المترو."
+      }
+    },
+    {
+      "pt": "a cozinha",
+      "ipa": "/a koˈzĩ.ɲɐ/",
+      "en": "the kitchen",
+      "ar": "المطبخ",
+      "example": {
+        "pt": "Sim, fica a dez minutos do metrô.",
+        "en": "Yes, it is ten minutes from the subway.",
+        "ar": "نعم، تبعد عشر دقائق عن المترو."
+      }
+    },
+    {
+      "pt": "o banheiro",
+      "ipa": "/u bɐ̃ˈɲej.ɾu/",
+      "en": "the bathroom",
+      "ar": "الحمّام",
+      "example": {
+        "pt": "Quanto é o aluguel? Preciso pagar caução?",
+        "en": "How much is the rent? Do I need to pay a deposit?",
+        "ar": "كم الإيجار؟ هل أحتاج إلى دفع ضمانة؟"
+      }
+    },
+    {
+      "pt": "o condomínio",
+      "ipa": "/u kõ.do.miˈɲju/",
+      "en": "the condominium",
+      "ar": "العمارة السكنية",
+      "example": {
+        "pt": "Quanto é o aluguel? Preciso pagar caução?",
+        "en": "How much is the rent? Do I need to pay a deposit?",
+        "ar": "كم الإيجار؟ هل أحتاج إلى دفع ضمانة؟"
+      }
+    },
+    {
+      "pt": "o proprietário",
+      "ipa": "/u pɾo.pɾi.eˈta.ɾju/",
+      "en": "the owner / landlord",
+      "ar": "المالك",
+      "example": {
+        "pt": "Quanto é o aluguel? Preciso pagar caução?",
+        "en": "How much is the rent? Do I need to pay a deposit?",
+        "ar": "كم الإيجار؟ هل أحتاج إلى دفع ضمانة؟"
+      }
+    },
+    {
+      "pt": "o inquilino",
+      "ipa": "/u ĩ.kiˈlĩ.nu/",
+      "en": "the tenant",
+      "ar": "المستأجر",
+      "example": {
+        "pt": "Quanto é o aluguel? Preciso pagar caução?",
+        "en": "How much is the rent? Do I need to pay a deposit?",
+        "ar": "كم الإيجار؟ هل أحتاج إلى دفع ضمانة؟"
+      }
+    },
+    {
+      "pt": "o contrato de locação",
+      "ipa": "/u kõˈtɾa.tu dʒi lo.kaˈsɐ̃w/",
+      "en": "the lease agreement",
+      "ar": "عقد الإيجار",
+      "example": {
+        "pt": "Quanto é o aluguel? Preciso pagar caução?",
+        "en": "How much is the rent? Do I need to pay a deposit?",
+        "ar": "كم الإيجار؟ هل أحتاج إلى دفع ضمانة؟"
+      }
+    },
+    {
+      "pt": "o fiador",
+      "ipa": "/u fi.aˈdoʁ/",
+      "en": "the guarantor",
+      "ar": "الكفيل",
+      "example": {
+        "pt": "Quanto é o aluguel? Preciso pagar caução?",
+        "en": "How much is the rent? Do I need to pay a deposit?",
+        "ar": "كم الإيجار؟ هل أحتاج إلى دفع ضمانة؟"
+      }
+    },
+    {
+      "pt": "a caução",
+      "ipa": "/a kawˈsɐ̃w/",
+      "en": "the deposit",
+      "ar": "الضمانة",
+      "example": {
+        "pt": "Sim, fica a dez minutos do metrô.",
+        "en": "Yes, it is ten minutes from the subway.",
+        "ar": "نعم، تبعد عشر دقائق عن المترو."
+      }
+    },
+    {
+      "pt": "a imobiliária",
+      "ipa": "/a i.mo.bi.liˈa.ɾjɐ/",
+      "en": "the real estate agency",
+      "ar": "الوكالة العقارية",
+      "example": {
+        "pt": "Sim, fica a dez minutos do metrô.",
+        "en": "Yes, it is ten minutes from the subway.",
+        "ar": "نعم، تبعد عشر دقائق عن المترو."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "title": {
+        "pt": "Preposições de lugar",
+        "en": "Prepositions of place",
+        "ar": "حروف الجر المكانية"
+      },
+      "explanation": {
+        "pt": "Para localizar uma moradia, usamos 'perto de', 'longe de', 'em frente de', 'ao lado de' e 'entre'. Elas combinam com artigos: 'perto do metrô', 'ao lado da praça'.",
+        "en": "To locate a home we use 'perto de', 'longe de', 'em frente de', 'ao lado de' and 'entre'. They combine with articles: 'perto do metrô', 'ao lado da praça'.",
+        "ar": "لتحديد موقع المسكن نستخدم 'perto de' (قريب من) و'longe de' (بعيد عن) و'em frente de' (أمام) و'ao lado de' (بجانب) و'entre' (بين). وهي تندمج مع أدوات التعريف."
+      },
+      "examples": [
+        {
+          "pt": "A casa é perto do metrô.",
+          "en": "The house is near the subway.",
+          "ar": "المنزل قريب من المترو."
+        },
+        {
+          "pt": "O apartamento fica em frente ao parque.",
+          "en": "The apartment is across from the park.",
+          "ar": "الشقة تقع أمام الحديقة."
+        },
+        {
+          "pt": "A escola fica ao lado do banco.",
+          "en": "The school is next to the bank.",
+          "ar": "المدرسة تقع بجانب البنك."
+        }
+      ]
+    },
+    {
+      "title": {
+        "pt": "Futuro do presente para planos de mudança",
+        "en": "Simple future for moving plans",
+        "ar": "المستقبل البسيط لخطط الانتقال"
+      },
+      "explanation": {
+        "pt": "Para planos e decisões sobre moradia, usamos o futuro do presente ('vou morar', 'vai alugar') ou a estrutura 'ir + infinitivo'.",
+        "en": "For housing plans and decisions, we use the simple future ('vou morar', 'vai alugar') or the structure 'ir + infinitive'.",
+        "ar": "للخطط والقرارات المتعلقة بالسكن، نستخدم المستقبل البسيط أو تركيب 'ir + المصدر' أي سوف."
+      },
+      "examples": [
+        {
+          "pt": "Vou me mudar em março.",
+          "en": "I will move in March.",
+          "ar": "سأنتقل في شهر مارس."
+        },
+        {
+          "pt": "O casal vai alugar um apartamento maior.",
+          "en": "The couple will rent a bigger apartment.",
+          "ar": "سوف يستأجر الزوجان شقة أكبر."
+        },
+        {
+          "pt": "A imobiliária vai mostrar o imóvel amanhã.",
+          "en": "The agency will show the property tomorrow.",
+          "ar": "ستعرض الوكالة العقارية العقار غداً."
+        }
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": {
+      "pt": "Visitando um apartamento",
+      "en": "Visiting an apartment",
+      "ar": "زيارة شقة"
+    },
+    "lines": [
+      {
+        "speaker": "Corretor",
+        "pt": "Este apartamento tem dois quartos e uma cozinha ampla.",
+        "en": "This apartment has two bedrooms and a spacious kitchen.",
+        "ar": "هذه الشقة تحتوي على غرفتي نوم ومطبخ واسع."
+      },
+      {
+        "speaker": "Sofia",
+        "pt": "É perto do meu trabalho? Fica perto do metrô?",
+        "en": "Is it near my work? Is it near the subway?",
+        "ar": "هل هي قريبة من عملي؟ هل تقع قرب المترو؟"
+      },
+      {
+        "speaker": "Corretor",
+        "pt": "Sim, fica a dez minutos do metrô.",
+        "en": "Yes, it is ten minutes from the subway.",
+        "ar": "نعم، تبعد عشر دقائق عن المترو."
+      },
+      {
+        "speaker": "Sofia",
+        "pt": "Quanto é o aluguel? Preciso pagar caução?",
+        "en": "How much is the rent? Do I need to pay a deposit?",
+        "ar": "كم الإيجار؟ هل أحتاج إلى دفع ضمانة؟"
+      },
+      {
+        "speaker": "Corretor",
+        "pt": "O aluguel é mil reais e a caução é de três meses.",
+        "en": "The rent is a thousand reais and the deposit is three months.",
+        "ar": "الإيجار ألف ريال والضمانة ثلاثة أشهر."
+      },
+      {
+        "speaker": "Sofia",
+        "pt": "Então vou pensar e falarei com meu fiador.",
+        "en": "Then I will think about it and talk to my guarantor.",
+        "ar": "إذن سأفكر في الأمر وأتحدث مع كفيلي."
+      }
+    ]
+  },
+  "reading": {
+    "title": {
+      "pt": "Um anúncio de aluguel",
+      "en": "A rental ad",
+      "ar": "إعلان إيجار"
+    },
+    "text_pt": "Aluga-se um apartamento de dois quartos perto da praia. O imóvel tem sala ampla, cozinha equipada e banheiro moderno. O condomínio possui piscina e academia. O contrato de locação é por dois anos.",
+    "text_en": "A two-bedroom apartment near the beach is available for rent. The property has a large living room, an equipped kitchen and a modern bathroom. The condominium has a pool and a gym. The lease agreement is for two years.",
+    "text_ar": "شقة من غرفتي نوم قريبة من الشاطئ للإيجار. العقار يحتوي على صالة واسعة ومطبخ مجهز وحمّام حديث. العمارة تضم مسبحاً وصالة رياضية. عقد الإيجار لمدة سنتين."
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Complete: \"O apartamento fica ___ da praia.\"",
+        "en": "Complete: \"The apartment is ___ the beach.\"",
+        "ar": "أكمل: \"الشقة تقع ___ الشاطئ.\""
+      },
+      "options": [
+        {
+          "pt": "perto",
+          "en": "near",
+          "ar": "قريبة من"
+        },
+        {
+          "pt": "ao",
+          "en": "next (to)",
+          "ar": "بجانب"
+        },
+        {
+          "pt": "em",
+          "en": "in",
+          "ar": "في"
+        },
+        {
+          "pt": "na",
+          "en": "in (fem.)",
+          "ar": "على"
+        }
+      ],
+      "answer": "perto",
+      "explanation": {
+        "pt": "A expressão 'perto de' exige a preposição 'de': 'perto da praia'.",
+        "en": "The expression 'perto de' requires the preposition 'de': 'perto da praia'.",
+        "ar": "يتطلب تعبير 'perto de' حرف الجر 'de': أي قريب من الشاطئ."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Complete: \"___ imobiliária vai mostrar o imóvel amanhã.\"",
+        "en": "Complete: \"___ real estate agency will show the property tomorrow.\"",
+        "ar": "أكمل: \"___ الوكالة العقارية ستعرض العقار غداً.\""
+      },
+      "options": [
+        {
+          "pt": "A",
+          "en": "The (fem. sg.)",
+          "ar": "الـ (مفرد مؤنث)"
+        },
+        {
+          "pt": "O",
+          "en": "The (masc. sg.)",
+          "ar": "الـ (مفرد مذكر)"
+        },
+        {
+          "pt": "As",
+          "en": "The (fem. pl.)",
+          "ar": "الـ (جمع مؤنث)"
+        },
+        {
+          "pt": "Um",
+          "en": "A (masc.)",
+          "ar": "واحدة"
+        }
+      ],
+      "answer": "A",
+      "explanation": {
+        "pt": "'Imobiliária' é substantivo feminino singular, portanto usamos o artigo 'A'.",
+        "en": "'Imobiliária' is a singular feminine noun, so we use the article 'A'.",
+        "ar": "'imobiliária' اسم مفرد مؤنث، لذا نستخدم أداة التعريف المؤنثة 'A'."
+      }
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o inglês: \"O aluguel inclui água e luz.\"",
+        "en": "Translate to English: \"O aluguel inclui água e luz.\"",
+        "ar": "ترجم إلى الإنجليزية: \"O aluguel inclui água e luz.\""
+      },
+      "options": [],
+      "answer": "The rent includes water and electricity.",
+      "explanation": {
+        "pt": "'Luz' no contexto de contas significa eletricidade.",
+        "en": "'Luz' in the context of bills means electricity.",
+        "ar": "كلمة 'luz' في سياق الفواتير تعني الكهرباء."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "e",
+          "en": "e",
+          "ar": "e"
+        },
+        {
+          "pt": "quartos",
+          "en": "quartos",
+          "ar": "quartos"
+        },
+        {
+          "pt": "Este",
+          "en": "Este",
+          "ar": "Este"
+        },
+        {
+          "pt": "uma",
+          "en": "uma",
+          "ar": "uma"
+        },
+        {
+          "pt": "ampla.",
+          "en": "ampla.",
+          "ar": "ampla."
+        },
+        {
+          "pt": "apartamento",
+          "en": "apartamento",
+          "ar": "apartamento"
+        },
+        {
+          "pt": "tem",
+          "en": "tem",
+          "ar": "tem"
+        },
+        {
+          "pt": "dois",
+          "en": "dois",
+          "ar": "dois"
+        },
+        {
+          "pt": "cozinha",
+          "en": "cozinha",
+          "ar": "cozinha"
+        }
+      ],
+      "answer": "Este apartamento tem dois quartos e uma cozinha ampla.",
+      "accepted": [
+        "Este apartamento tem dois quartos e uma cozinha ampla."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Este apartamento tem dois quartos e uma cozinha ampla.'",
+        "en": "The correct order: 'This apartment has two bedrooms and a spacious kitchen.'",
+        "ar": "الترتيب الصحيح: 'هذه الشقة تحتوي على غرفتي نوم ومطبخ واسع.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o aluguel",
+          "en": "the house",
+          "ar": "o aluguel"
+        },
+        {
+          "pt": "o quarto",
+          "en": "the living room",
+          "ar": "o quarto"
+        },
+        {
+          "pt": "a casa",
+          "en": "the bedroom",
+          "ar": "a casa"
+        },
+        {
+          "pt": "a sala",
+          "en": "the apartment",
+          "ar": "a sala"
+        },
+        {
+          "pt": "morar",
+          "en": "the rent",
+          "ar": "morar"
+        },
+        {
+          "pt": "o apartamento",
+          "en": "to live",
+          "ar": "o apartamento"
+        }
+      ],
+      "answer": "o aluguel::the house|o quarto::the living room|a casa::the bedroom|a sala::the apartment|morar::the rent|o apartamento::to live",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim, fica a dez minutos do metrô.",
+          "en": "This apartment has two bedrooms and a spacious kitchen.",
+          "ar": "إذن سأفكر في الأمر وأتحدث مع كفيلي."
+        },
+        {
+          "pt": "Então vou pensar e falarei com meu fiador.",
+          "en": "Then I will think about it and talk to my guarantor.",
+          "ar": "هذه الشقة تحتوي على غرفتي نوم ومطبخ واسع."
+        },
+        {
+          "pt": "Este apartamento tem dois quartos e uma cozinha ampla.",
+          "en": "Yes, it is ten minutes from the subway.",
+          "ar": "نعم، تبعد عشر دقائق عن المترو."
+        }
+      ],
+      "answer": "Este apartamento tem dois quartos e uma cozinha ampla.",
+      "accepted": [],
+      "audio": "Este apartamento tem dois quartos e uma cozinha ampla.",
+      "explanation": {
+        "pt": "Você ouviu: 'Este apartamento tem dois quartos e uma cozinha ampla.' — 'This apartment has two bedrooms and a spacious kitchen.'",
+        "en": "You heard: 'Este apartamento tem dois quartos e uma cozinha ampla.' — 'This apartment has two bedrooms and a spacious kitchen.'",
+        "ar": "سمعت: 'Este apartamento tem dois quartos e uma cozinha ampla.' — 'هذه الشقة تحتوي على غرفتي نوم ومطبخ واسع.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim, fica a dez minutos do metrô.",
+          "en": "Yes, it is ten minutes from the subway.",
+          "ar": "هل هي قريبة من عملي؟ هل تقع قرب المترو؟"
+        },
+        {
+          "pt": "É perto do meu trabalho? Fica perto do metrô?",
+          "en": "This apartment has two bedrooms and a spacious kitchen.",
+          "ar": "هذه الشقة تحتوي على غرفتي نوم ومطبخ واسع."
+        },
+        {
+          "pt": "Este apartamento tem dois quartos e uma cozinha ampla.",
+          "en": "Is it near my work? Is it near the subway?",
+          "ar": "نعم، تبعد عشر دقائق عن المترو."
+        }
+      ],
+      "answer": "É perto do meu trabalho? Fica perto do metrô?",
+      "accepted": [],
+      "audio": "É perto do meu trabalho? Fica perto do metrô?",
+      "explanation": {
+        "pt": "Você ouviu: 'É perto do meu trabalho? Fica perto do metrô?' — 'Is it near my work? Is it near the subway?'",
+        "en": "You heard: 'É perto do meu trabalho? Fica perto do metrô?' — 'Is it near my work? Is it near the subway?'",
+        "ar": "سمعت: 'É perto do meu trabalho? Fica perto do metrô?' — 'هل هي قريبة من عملي؟ هل تقع قرب المترو؟'"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "A ___ é perto do metrô.",
+        "en": "A ___ é perto do metrô.",
+        "ar": "A ___ é perto do metrô."
+      },
+      "options": [
+        {
+          "pt": "fica",
+          "en": "fica",
+          "ar": "fica"
+        },
+        {
+          "pt": "casa",
+          "en": "casa",
+          "ar": "casa"
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        }
+      ],
+      "answer": "casa",
+      "accepted": [],
+      "explanation": {
+        "pt": "A resposta é 'casa'. Frase completa: A casa é perto do metrô.",
+        "en": "The answer is 'casa'. Full sentence: The house is near the subway.",
+        "ar": "الإجابة الصحيحة: 'casa'. الجملة كاملة: المنزل قريب من المترو."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "uma",
+          "en": "uma",
+          "ar": "uma"
+        },
+        {
+          "pt": "ampla.",
+          "en": "ampla.",
+          "ar": "ampla."
+        },
+        {
+          "pt": "dois",
+          "en": "dois",
+          "ar": "dois"
+        },
+        {
+          "pt": "tem",
+          "en": "tem",
+          "ar": "tem"
+        },
+        {
+          "pt": "apartamento",
+          "en": "apartamento",
+          "ar": "apartamento"
+        },
+        {
+          "pt": "quartos",
+          "en": "quartos",
+          "ar": "quartos"
+        },
+        {
+          "pt": "cozinha",
+          "en": "cozinha",
+          "ar": "cozinha"
+        },
+        {
+          "pt": "Este",
+          "en": "Este",
+          "ar": "Este"
+        },
+        {
+          "pt": "e",
+          "en": "e",
+          "ar": "e"
+        }
+      ],
+      "answer": "Este apartamento tem dois quartos e uma cozinha ampla.",
+      "accepted": [
+        "Este apartamento tem dois quartos e uma cozinha ampla."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Este apartamento tem dois quartos e uma cozinha ampla.'",
+        "en": "The correct order: 'This apartment has two bedrooms and a spacious kitchen.'",
+        "ar": "الترتيب الصحيح: 'هذه الشقة تحتوي على غرفتي نوم ومطبخ واسع.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o aluguel",
+          "en": "the house",
+          "ar": "o aluguel"
+        },
+        {
+          "pt": "o quarto",
+          "en": "the bedroom",
+          "ar": "o quarto"
+        },
+        {
+          "pt": "o apartamento",
+          "en": "the rent",
+          "ar": "o apartamento"
+        },
+        {
+          "pt": "morar",
+          "en": "the apartment",
+          "ar": "morar"
+        },
+        {
+          "pt": "a sala",
+          "en": "the living room",
+          "ar": "a sala"
+        },
+        {
+          "pt": "a casa",
+          "en": "to live",
+          "ar": "a casa"
+        }
+      ],
+      "answer": "o aluguel::the house|o quarto::the bedroom|o apartamento::the rent|morar::the apartment|a sala::the living room|a casa::to live",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Este apartamento tem dois quartos e uma cozinha ampla.",
+          "en": "This apartment has two bedrooms and a spacious kitchen.",
+          "ar": "الإيجار ألف ريال والضمانة ثلاثة أشهر."
+        },
+        {
+          "pt": "O aluguel é mil reais e a caução é de três meses.",
+          "en": "Then I will think about it and talk to my guarantor.",
+          "ar": "إذن سأفكر في الأمر وأتحدث مع كفيلي."
+        },
+        {
+          "pt": "Então vou pensar e falarei com meu fiador.",
+          "en": "The rent is a thousand reais and the deposit is three months.",
+          "ar": "هذه الشقة تحتوي على غرفتي نوم ومطبخ واسع."
+        }
+      ],
+      "answer": "Este apartamento tem dois quartos e uma cozinha ampla.",
+      "accepted": [],
+      "audio": "Este apartamento tem dois quartos e uma cozinha ampla.",
+      "explanation": {
+        "pt": "Você ouviu: 'Este apartamento tem dois quartos e uma cozinha ampla.' — 'This apartment has two bedrooms and a spacious kitchen.'",
+        "en": "You heard: 'Este apartamento tem dois quartos e uma cozinha ampla.' — 'This apartment has two bedrooms and a spacious kitchen.'",
+        "ar": "سمعت: 'Este apartamento tem dois quartos e uma cozinha ampla.' — 'هذه الشقة تحتوي على غرفتي نوم ومطبخ واسع.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Este apartamento tem dois quartos e uma cozinha ampla.",
+          "en": "This apartment has two bedrooms and a spacious kitchen.",
+          "ar": "هل هي قريبة من عملي؟ هل تقع قرب المترو؟"
+        },
+        {
+          "pt": "Quanto é o aluguel? Preciso pagar caução?",
+          "en": "Is it near my work? Is it near the subway?",
+          "ar": "هذه الشقة تحتوي على غرفتي نوم ومطبخ واسع."
+        },
+        {
+          "pt": "É perto do meu trabalho? Fica perto do metrô?",
+          "en": "How much is the rent? Do I need to pay a deposit?",
+          "ar": "كم الإيجار؟ هل أحتاج إلى دفع ضمانة؟"
+        }
+      ],
+      "answer": "É perto do meu trabalho? Fica perto do metrô?",
+      "accepted": [],
+      "audio": "É perto do meu trabalho? Fica perto do metrô?",
+      "explanation": {
+        "pt": "Você ouviu: 'É perto do meu trabalho? Fica perto do metrô?' — 'Is it near my work? Is it near the subway?'",
+        "en": "You heard: 'É perto do meu trabalho? Fica perto do metrô?' — 'Is it near my work? Is it near the subway?'",
+        "ar": "سمعت: 'É perto do meu trabalho? Fica perto do metrô?' — 'هل هي قريبة من عملي؟ هل تقع قرب المترو؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "tem",
+          "en": "tem",
+          "ar": "tem"
+        },
+        {
+          "pt": "apartamento",
+          "en": "apartamento",
+          "ar": "apartamento"
+        },
+        {
+          "pt": "Este",
+          "en": "Este",
+          "ar": "Este"
+        },
+        {
+          "pt": "uma",
+          "en": "uma",
+          "ar": "uma"
+        },
+        {
+          "pt": "cozinha",
+          "en": "cozinha",
+          "ar": "cozinha"
+        },
+        {
+          "pt": "e",
+          "en": "e",
+          "ar": "e"
+        },
+        {
+          "pt": "quartos",
+          "en": "quartos",
+          "ar": "quartos"
+        },
+        {
+          "pt": "ampla.",
+          "en": "ampla.",
+          "ar": "ampla."
+        },
+        {
+          "pt": "dois",
+          "en": "dois",
+          "ar": "dois"
+        }
+      ],
+      "answer": "Este apartamento tem dois quartos e uma cozinha ampla.",
+      "accepted": [
+        "Este apartamento tem dois quartos e uma cozinha ampla."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Este apartamento tem dois quartos e uma cozinha ampla.'",
+        "en": "The correct order: 'This apartment has two bedrooms and a spacious kitchen.'",
+        "ar": "الترتيب الصحيح: 'هذه الشقة تحتوي على غرفتي نوم ومطبخ واسع.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o aluguel",
+          "en": "the living room",
+          "ar": "o aluguel"
+        },
+        {
+          "pt": "o apartamento",
+          "en": "the bedroom",
+          "ar": "o apartamento"
+        },
+        {
+          "pt": "a sala",
+          "en": "to live",
+          "ar": "a sala"
+        },
+        {
+          "pt": "a casa",
+          "en": "the apartment",
+          "ar": "a casa"
+        },
+        {
+          "pt": "o quarto",
+          "en": "the house",
+          "ar": "o quarto"
+        },
+        {
+          "pt": "morar",
+          "en": "the rent",
+          "ar": "morar"
+        }
+      ],
+      "answer": "o aluguel::the living room|o apartamento::the bedroom|a sala::to live|a casa::the apartment|o quarto::the house|morar::the rent",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "É perto do meu trabalho? Fica perto do metrô?",
+          "en": "Yes, it is ten minutes from the subway.",
+          "ar": "هذه الشقة تحتوي على غرفتي نوم ومطبخ واسع."
+        },
+        {
+          "pt": "Este apartamento tem dois quartos e uma cozinha ampla.",
+          "en": "Is it near my work? Is it near the subway?",
+          "ar": "نعم، تبعد عشر دقائق عن المترو."
+        },
+        {
+          "pt": "Sim, fica a dez minutos do metrô.",
+          "en": "This apartment has two bedrooms and a spacious kitchen.",
+          "ar": "هل هي قريبة من عملي؟ هل تقع قرب المترو؟"
+        }
+      ],
+      "answer": "Este apartamento tem dois quartos e uma cozinha ampla.",
+      "accepted": [],
+      "audio": "Este apartamento tem dois quartos e uma cozinha ampla.",
+      "explanation": {
+        "pt": "Você ouviu: 'Este apartamento tem dois quartos e uma cozinha ampla.' — 'This apartment has two bedrooms and a spacious kitchen.'",
+        "en": "You heard: 'Este apartamento tem dois quartos e uma cozinha ampla.' — 'This apartment has two bedrooms and a spacious kitchen.'",
+        "ar": "سمعت: 'Este apartamento tem dois quartos e uma cozinha ampla.' — 'هذه الشقة تحتوي على غرفتي نوم ومطبخ واسع.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "É perto do meu trabalho? Fica perto do metrô?",
+          "en": "Is it near my work? Is it near the subway?",
+          "ar": "هل هي قريبة من عملي؟ هل تقع قرب المترو؟"
+        },
+        {
+          "pt": "Este apartamento tem dois quartos e uma cozinha ampla.",
+          "en": "The rent is a thousand reais and the deposit is three months.",
+          "ar": "هذه الشقة تحتوي على غرفتي نوم ومطبخ واسع."
+        },
+        {
+          "pt": "O aluguel é mil reais e a caução é de três meses.",
+          "en": "This apartment has two bedrooms and a spacious kitchen.",
+          "ar": "الإيجار ألف ريال والضمانة ثلاثة أشهر."
+        }
+      ],
+      "answer": "É perto do meu trabalho? Fica perto do metrô?",
+      "accepted": [],
+      "audio": "É perto do meu trabalho? Fica perto do metrô?",
+      "explanation": {
+        "pt": "Você ouviu: 'É perto do meu trabalho? Fica perto do metrô?' — 'Is it near my work? Is it near the subway?'",
+        "en": "You heard: 'É perto do meu trabalho? Fica perto do metrô?' — 'Is it near my work? Is it near the subway?'",
+        "ar": "سمعت: 'É perto do meu trabalho? Fica perto do metrô?' — 'هل هي قريبة من عملي؟ هل تقع قرب المترو؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "e",
+          "en": "e",
+          "ar": "e"
+        },
+        {
+          "pt": "tem",
+          "en": "tem",
+          "ar": "tem"
+        },
+        {
+          "pt": "quartos",
+          "en": "quartos",
+          "ar": "quartos"
+        },
+        {
+          "pt": "Este",
+          "en": "Este",
+          "ar": "Este"
+        },
+        {
+          "pt": "cozinha",
+          "en": "cozinha",
+          "ar": "cozinha"
+        },
+        {
+          "pt": "uma",
+          "en": "uma",
+          "ar": "uma"
+        },
+        {
+          "pt": "dois",
+          "en": "dois",
+          "ar": "dois"
+        },
+        {
+          "pt": "ampla.",
+          "en": "ampla.",
+          "ar": "ampla."
+        },
+        {
+          "pt": "apartamento",
+          "en": "apartamento",
+          "ar": "apartamento"
+        }
+      ],
+      "answer": "Este apartamento tem dois quartos e uma cozinha ampla.",
+      "accepted": [
+        "Este apartamento tem dois quartos e uma cozinha ampla."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Este apartamento tem dois quartos e uma cozinha ampla.'",
+        "en": "The correct order: 'This apartment has two bedrooms and a spacious kitchen.'",
+        "ar": "الترتيب الصحيح: 'هذه الشقة تحتوي على غرفتي نوم ومطبخ واسع.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o aluguel",
+          "en": "to live",
+          "ar": "o aluguel"
+        },
+        {
+          "pt": "o quarto",
+          "en": "the apartment",
+          "ar": "o quarto"
+        },
+        {
+          "pt": "a sala",
+          "en": "the house",
+          "ar": "a sala"
+        },
+        {
+          "pt": "a casa",
+          "en": "the bedroom",
+          "ar": "a casa"
+        },
+        {
+          "pt": "o apartamento",
+          "en": "the rent",
+          "ar": "o apartamento"
+        },
+        {
+          "pt": "morar",
+          "en": "the living room",
+          "ar": "morar"
+        }
+      ],
+      "answer": "o aluguel::to live|o quarto::the apartment|a sala::the house|a casa::the bedroom|o apartamento::the rent|morar::the living room",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Então vou pensar e falarei com meu fiador.",
+          "en": "Then I will think about it and talk to my guarantor.",
+          "ar": "هذه الشقة تحتوي على غرفتي نوم ومطبخ واسع."
+        },
+        {
+          "pt": "Este apartamento tem dois quartos e uma cozinha ampla.",
+          "en": "The rent is a thousand reais and the deposit is three months.",
+          "ar": "إذن سأفكر في الأمر وأتحدث مع كفيلي."
+        },
+        {
+          "pt": "O aluguel é mil reais e a caução é de três meses.",
+          "en": "This apartment has two bedrooms and a spacious kitchen.",
+          "ar": "الإيجار ألف ريال والضمانة ثلاثة أشهر."
+        }
+      ],
+      "answer": "Este apartamento tem dois quartos e uma cozinha ampla.",
+      "accepted": [],
+      "audio": "Este apartamento tem dois quartos e uma cozinha ampla.",
+      "explanation": {
+        "pt": "Você ouviu: 'Este apartamento tem dois quartos e uma cozinha ampla.' — 'This apartment has two bedrooms and a spacious kitchen.'",
+        "en": "You heard: 'Este apartamento tem dois quartos e uma cozinha ampla.' — 'This apartment has two bedrooms and a spacious kitchen.'",
+        "ar": "سمعت: 'Este apartamento tem dois quartos e uma cozinha ampla.' — 'هذه الشقة تحتوي على غرفتي نوم ومطبخ واسع.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Quanto é o aluguel? Preciso pagar caução?",
+          "en": "Is it near my work? Is it near the subway?",
+          "ar": "هل هي قريبة من عملي؟ هل تقع قرب المترو؟"
+        },
+        {
+          "pt": "O aluguel é mil reais e a caução é de três meses.",
+          "en": "How much is the rent? Do I need to pay a deposit?",
+          "ar": "الإيجار ألف ريال والضمانة ثلاثة أشهر."
+        },
+        {
+          "pt": "É perto do meu trabalho? Fica perto do metrô?",
+          "en": "The rent is a thousand reais and the deposit is three months.",
+          "ar": "كم الإيجار؟ هل أحتاج إلى دفع ضمانة؟"
+        }
+      ],
+      "answer": "É perto do meu trabalho? Fica perto do metrô?",
+      "accepted": [],
+      "audio": "É perto do meu trabalho? Fica perto do metrô?",
+      "explanation": {
+        "pt": "Você ouviu: 'É perto do meu trabalho? Fica perto do metrô?' — 'Is it near my work? Is it near the subway?'",
+        "en": "You heard: 'É perto do meu trabalho? Fica perto do metrô?' — 'Is it near my work? Is it near the subway?'",
+        "ar": "سمعت: 'É perto do meu trabalho? Fica perto do metrô?' — 'هل هي قريبة من عملي؟ هل تقع قرب المترو؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Este",
+          "en": "Este",
+          "ar": "Este"
+        },
+        {
+          "pt": "cozinha",
+          "en": "cozinha",
+          "ar": "cozinha"
+        },
+        {
+          "pt": "e",
+          "en": "e",
+          "ar": "e"
+        },
+        {
+          "pt": "uma",
+          "en": "uma",
+          "ar": "uma"
+        },
+        {
+          "pt": "apartamento",
+          "en": "apartamento",
+          "ar": "apartamento"
+        },
+        {
+          "pt": "tem",
+          "en": "tem",
+          "ar": "tem"
+        },
+        {
+          "pt": "ampla.",
+          "en": "ampla.",
+          "ar": "ampla."
+        },
+        {
+          "pt": "quartos",
+          "en": "quartos",
+          "ar": "quartos"
+        },
+        {
+          "pt": "dois",
+          "en": "dois",
+          "ar": "dois"
+        }
+      ],
+      "answer": "Este apartamento tem dois quartos e uma cozinha ampla.",
+      "accepted": [
+        "Este apartamento tem dois quartos e uma cozinha ampla."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Este apartamento tem dois quartos e uma cozinha ampla.'",
+        "en": "The correct order: 'This apartment has two bedrooms and a spacious kitchen.'",
+        "ar": "الترتيب الصحيح: 'هذه الشقة تحتوي على غرفتي نوم ومطبخ واسع.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a casa",
+          "en": "to live",
+          "ar": "a casa"
+        },
+        {
+          "pt": "o apartamento",
+          "en": "the apartment",
+          "ar": "o apartamento"
+        },
+        {
+          "pt": "o quarto",
+          "en": "the rent",
+          "ar": "o quarto"
+        },
+        {
+          "pt": "o aluguel",
+          "en": "the house",
+          "ar": "o aluguel"
+        },
+        {
+          "pt": "a sala",
+          "en": "the bedroom",
+          "ar": "a sala"
+        },
+        {
+          "pt": "morar",
+          "en": "the living room",
+          "ar": "morar"
+        }
+      ],
+      "answer": "a casa::to live|o apartamento::the apartment|o quarto::the rent|o aluguel::the house|a sala::the bedroom|morar::the living room",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Este apartamento tem dois quartos e uma cozinha ampla.",
+          "en": "This apartment has two bedrooms and a spacious kitchen.",
+          "ar": "هذه الشقة تحتوي على غرفتي نوم ومطبخ واسع."
+        },
+        {
+          "pt": "O aluguel é mil reais e a caução é de três meses.",
+          "en": "Then I will think about it and talk to my guarantor.",
+          "ar": "الإيجار ألف ريال والضمانة ثلاثة أشهر."
+        },
+        {
+          "pt": "Então vou pensar e falarei com meu fiador.",
+          "en": "The rent is a thousand reais and the deposit is three months.",
+          "ar": "إذن سأفكر في الأمر وأتحدث مع كفيلي."
+        }
+      ],
+      "answer": "Este apartamento tem dois quartos e uma cozinha ampla.",
+      "accepted": [],
+      "audio": "Este apartamento tem dois quartos e uma cozinha ampla.",
+      "explanation": {
+        "pt": "Você ouviu: 'Este apartamento tem dois quartos e uma cozinha ampla.' — 'This apartment has two bedrooms and a spacious kitchen.'",
+        "en": "You heard: 'Este apartamento tem dois quartos e uma cozinha ampla.' — 'This apartment has two bedrooms and a spacious kitchen.'",
+        "ar": "سمعت: 'Este apartamento tem dois quartos e uma cozinha ampla.' — 'هذه الشقة تحتوي على غرفتي نوم ومطبخ واسع.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "É perto do meu trabalho? Fica perto do metrô?",
+          "en": "Is it near my work? Is it near the subway?",
+          "ar": "هذه الشقة تحتوي على غرفتي نوم ومطبخ واسع."
+        },
+        {
+          "pt": "O aluguel é mil reais e a caução é de três meses.",
+          "en": "This apartment has two bedrooms and a spacious kitchen.",
+          "ar": "هل هي قريبة من عملي؟ هل تقع قرب المترو؟"
+        },
+        {
+          "pt": "Este apartamento tem dois quartos e uma cozinha ampla.",
+          "en": "The rent is a thousand reais and the deposit is three months.",
+          "ar": "الإيجار ألف ريال والضمانة ثلاثة أشهر."
+        }
+      ],
+      "answer": "É perto do meu trabalho? Fica perto do metrô?",
+      "accepted": [],
+      "audio": "É perto do meu trabalho? Fica perto do metrô?",
+      "explanation": {
+        "pt": "Você ouviu: 'É perto do meu trabalho? Fica perto do metrô?' — 'Is it near my work? Is it near the subway?'",
+        "en": "You heard: 'É perto do meu trabalho? Fica perto do metrô?' — 'Is it near my work? Is it near the subway?'",
+        "ar": "سمعت: 'É perto do meu trabalho? Fica perto do metrô?' — 'هل هي قريبة من عملي؟ هل تقع قرب المترو؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "dois",
+          "en": "dois",
+          "ar": "dois"
+        },
+        {
+          "pt": "ampla.",
+          "en": "ampla.",
+          "ar": "ampla."
+        },
+        {
+          "pt": "Este",
+          "en": "Este",
+          "ar": "Este"
+        },
+        {
+          "pt": "apartamento",
+          "en": "apartamento",
+          "ar": "apartamento"
+        },
+        {
+          "pt": "e",
+          "en": "e",
+          "ar": "e"
+        },
+        {
+          "pt": "tem",
+          "en": "tem",
+          "ar": "tem"
+        },
+        {
+          "pt": "quartos",
+          "en": "quartos",
+          "ar": "quartos"
+        },
+        {
+          "pt": "cozinha",
+          "en": "cozinha",
+          "ar": "cozinha"
+        },
+        {
+          "pt": "uma",
+          "en": "uma",
+          "ar": "uma"
+        }
+      ],
+      "answer": "Este apartamento tem dois quartos e uma cozinha ampla.",
+      "accepted": [
+        "Este apartamento tem dois quartos e uma cozinha ampla."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Este apartamento tem dois quartos e uma cozinha ampla.'",
+        "en": "The correct order: 'This apartment has two bedrooms and a spacious kitchen.'",
+        "ar": "الترتيب الصحيح: 'هذه الشقة تحتوي على غرفتي نوم ومطبخ واسع.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a sala",
+          "en": "the bedroom",
+          "ar": "a sala"
+        },
+        {
+          "pt": "o aluguel",
+          "en": "to live",
+          "ar": "o aluguel"
+        },
+        {
+          "pt": "morar",
+          "en": "the rent",
+          "ar": "morar"
+        },
+        {
+          "pt": "o quarto",
+          "en": "the living room",
+          "ar": "o quarto"
+        },
+        {
+          "pt": "a casa",
+          "en": "the apartment",
+          "ar": "a casa"
+        },
+        {
+          "pt": "o apartamento",
+          "en": "the house",
+          "ar": "o apartamento"
+        }
+      ],
+      "answer": "a sala::the bedroom|o aluguel::to live|morar::the rent|o quarto::the living room|a casa::the apartment|o apartamento::the house",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim, fica a dez minutos do metrô.",
+          "en": "This apartment has two bedrooms and a spacious kitchen.",
+          "ar": "هذه الشقة تحتوي على غرفتي نوم ومطبخ واسع."
+        },
+        {
+          "pt": "Este apartamento tem dois quartos e uma cozinha ampla.",
+          "en": "Yes, it is ten minutes from the subway.",
+          "ar": "الإيجار ألف ريال والضمانة ثلاثة أشهر."
+        },
+        {
+          "pt": "O aluguel é mil reais e a caução é de três meses.",
+          "en": "The rent is a thousand reais and the deposit is three months.",
+          "ar": "نعم، تبعد عشر دقائق عن المترو."
+        }
+      ],
+      "answer": "Este apartamento tem dois quartos e uma cozinha ampla.",
+      "accepted": [],
+      "audio": "Este apartamento tem dois quartos e uma cozinha ampla.",
+      "explanation": {
+        "pt": "Você ouviu: 'Este apartamento tem dois quartos e uma cozinha ampla.' — 'This apartment has two bedrooms and a spacious kitchen.'",
+        "en": "You heard: 'Este apartamento tem dois quartos e uma cozinha ampla.' — 'This apartment has two bedrooms and a spacious kitchen.'",
+        "ar": "سمعت: 'Este apartamento tem dois quartos e uma cozinha ampla.' — 'هذه الشقة تحتوي على غرفتي نوم ومطبخ واسع.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "É perto do meu trabalho? Fica perto do metrô?",
+          "en": "Yes, it is ten minutes from the subway.",
+          "ar": "هل هي قريبة من عملي؟ هل تقع قرب المترو؟"
+        },
+        {
+          "pt": "Sim, fica a dez minutos do metrô.",
+          "en": "How much is the rent? Do I need to pay a deposit?",
+          "ar": "نعم، تبعد عشر دقائق عن المترو."
+        },
+        {
+          "pt": "Quanto é o aluguel? Preciso pagar caução?",
+          "en": "Is it near my work? Is it near the subway?",
+          "ar": "كم الإيجار؟ هل أحتاج إلى دفع ضمانة؟"
+        }
+      ],
+      "answer": "É perto do meu trabalho? Fica perto do metrô?",
+      "accepted": [],
+      "audio": "É perto do meu trabalho? Fica perto do metrô?",
+      "explanation": {
+        "pt": "Você ouviu: 'É perto do meu trabalho? Fica perto do metrô?' — 'Is it near my work? Is it near the subway?'",
+        "en": "You heard: 'É perto do meu trabalho? Fica perto do metrô?' — 'Is it near my work? Is it near the subway?'",
+        "ar": "سمعت: 'É perto do meu trabalho? Fica perto do metrô?' — 'هل هي قريبة من عملي؟ هل تقع قرب المترو؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "cozinha",
+          "en": "cozinha",
+          "ar": "cozinha"
+        },
+        {
+          "pt": "Este",
+          "en": "Este",
+          "ar": "Este"
+        },
+        {
+          "pt": "apartamento",
+          "en": "apartamento",
+          "ar": "apartamento"
+        },
+        {
+          "pt": "ampla.",
+          "en": "ampla.",
+          "ar": "ampla."
+        },
+        {
+          "pt": "e",
+          "en": "e",
+          "ar": "e"
+        },
+        {
+          "pt": "tem",
+          "en": "tem",
+          "ar": "tem"
+        },
+        {
+          "pt": "dois",
+          "en": "dois",
+          "ar": "dois"
+        },
+        {
+          "pt": "quartos",
+          "en": "quartos",
+          "ar": "quartos"
+        },
+        {
+          "pt": "uma",
+          "en": "uma",
+          "ar": "uma"
+        }
+      ],
+      "answer": "Este apartamento tem dois quartos e uma cozinha ampla.",
+      "accepted": [
+        "Este apartamento tem dois quartos e uma cozinha ampla."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Este apartamento tem dois quartos e uma cozinha ampla.'",
+        "en": "The correct order: 'This apartment has two bedrooms and a spacious kitchen.'",
+        "ar": "الترتيب الصحيح: 'هذه الشقة تحتوي على غرفتي نوم ومطبخ واسع.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "morar",
+          "en": "the house",
+          "ar": "morar"
+        },
+        {
+          "pt": "o apartamento",
+          "en": "the living room",
+          "ar": "o apartamento"
+        },
+        {
+          "pt": "o quarto",
+          "en": "the apartment",
+          "ar": "o quarto"
+        },
+        {
+          "pt": "a casa",
+          "en": "the rent",
+          "ar": "a casa"
+        },
+        {
+          "pt": "a sala",
+          "en": "to live",
+          "ar": "a sala"
+        },
+        {
+          "pt": "o aluguel",
+          "en": "the bedroom",
+          "ar": "o aluguel"
+        }
+      ],
+      "answer": "morar::the house|o apartamento::the living room|o quarto::the apartment|a casa::the rent|a sala::to live|o aluguel::the bedroom",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Este apartamento tem dois quartos e uma cozinha ampla.",
+          "en": "This apartment has two bedrooms and a spacious kitchen.",
+          "ar": "نعم، تبعد عشر دقائق عن المترو."
+        },
+        {
+          "pt": "O aluguel é mil reais e a caução é de três meses.",
+          "en": "Yes, it is ten minutes from the subway.",
+          "ar": "هذه الشقة تحتوي على غرفتي نوم ومطبخ واسع."
+        },
+        {
+          "pt": "Sim, fica a dez minutos do metrô.",
+          "en": "The rent is a thousand reais and the deposit is three months.",
+          "ar": "الإيجار ألف ريال والضمانة ثلاثة أشهر."
+        }
+      ],
+      "answer": "Este apartamento tem dois quartos e uma cozinha ampla.",
+      "accepted": [],
+      "audio": "Este apartamento tem dois quartos e uma cozinha ampla.",
+      "explanation": {
+        "pt": "Você ouviu: 'Este apartamento tem dois quartos e uma cozinha ampla.' — 'This apartment has two bedrooms and a spacious kitchen.'",
+        "en": "You heard: 'Este apartamento tem dois quartos e uma cozinha ampla.' — 'This apartment has two bedrooms and a spacious kitchen.'",
+        "ar": "سمعت: 'Este apartamento tem dois quartos e uma cozinha ampla.' — 'هذه الشقة تحتوي على غرفتي نوم ومطبخ واسع.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Quanto é o aluguel? Preciso pagar caução?",
+          "en": "Is it near my work? Is it near the subway?",
+          "ar": "كم الإيجار؟ هل أحتاج إلى دفع ضمانة؟"
+        },
+        {
+          "pt": "Este apartamento tem dois quartos e uma cozinha ampla.",
+          "en": "How much is the rent? Do I need to pay a deposit?",
+          "ar": "هل هي قريبة من عملي؟ هل تقع قرب المترو؟"
+        },
+        {
+          "pt": "É perto do meu trabalho? Fica perto do metrô?",
+          "en": "This apartment has two bedrooms and a spacious kitchen.",
+          "ar": "هذه الشقة تحتوي على غرفتي نوم ومطبخ واسع."
+        }
+      ],
+      "answer": "É perto do meu trabalho? Fica perto do metrô?",
+      "accepted": [],
+      "audio": "É perto do meu trabalho? Fica perto do metrô?",
+      "explanation": {
+        "pt": "Você ouviu: 'É perto do meu trabalho? Fica perto do metrô?' — 'Is it near my work? Is it near the subway?'",
+        "en": "You heard: 'É perto do meu trabalho? Fica perto do metrô?' — 'Is it near my work? Is it near the subway?'",
+        "ar": "سمعت: 'É perto do meu trabalho? Fica perto do metrô?' — 'هل هي قريبة من عملي؟ هل تقع قرب المترو؟'"
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'the rent'",
+        "en": "Type in Portuguese: 'the rent'",
+        "ar": "اكتب بالبرتغالية: 'الإيجار'"
+      },
+      "options": [],
+      "answer": "o aluguel",
+      "accepted": [
+        "o aluguel"
+      ],
+      "explanation": {
+        "pt": "'o aluguel' significa 'the rent'.",
+        "en": "'o aluguel' means 'the rent'.",
+        "ar": "'$o aluguel' بالعربية: '$الإيجار'."
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'to live'",
+        "en": "Type in Portuguese: 'to live'",
+        "ar": "اكتب بالبرتغالية: 'يسكن'"
+      },
+      "options": [],
+      "answer": "morar",
+      "accepted": [
+        "morar"
+      ],
+      "explanation": {
+        "pt": "'morar' significa 'to live'.",
+        "en": "'morar' means 'to live'.",
+        "ar": "'$morar' بالعربية: '$يسكن'."
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Então vou pensar e falarei com meu fiador.",
+          "en": "Então vou pensar e falarei com meu fiador.",
+          "ar": "Então vou pensar e falarei com meu fiador."
+        },
+        {
+          "pt": "Este apartamento tem dois quartos e uma cozinha ampla.",
+          "en": "Este apartamento tem dois quartos e uma cozinha ampla.",
+          "ar": "Este apartamento tem dois quartos e uma cozinha ampla."
+        },
+        {
+          "pt": "O aluguel é mil reais e a caução é de três meses.",
+          "en": "O aluguel é mil reais e a caução é de três meses.",
+          "ar": "O aluguel é mil reais e a caução é de três meses."
+        }
+      ],
+      "answer": "Este apartamento tem dois quartos e uma cozinha ampla.",
+      "accepted": [],
+      "audio": "Este apartamento tem dois quartos e uma cozinha ampla.",
+      "explanation": {
+        "pt": "Você ouviu: 'Este apartamento tem dois quartos e uma cozinha ampla.'",
+        "en": "You heard: 'Este apartamento tem dois quartos e uma cozinha ampla.'",
+        "ar": "سمعت: 'Este apartamento tem dois quartos e uma cozinha ampla.'"
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "O aluguel é mil reais e a caução é de três meses.",
+          "en": "O aluguel é mil reais e a caução é de três meses.",
+          "ar": "O aluguel é mil reais e a caução é de três meses."
+        },
+        {
+          "pt": "É perto do meu trabalho? Fica perto do metrô?",
+          "en": "É perto do meu trabalho? Fica perto do metrô?",
+          "ar": "É perto do meu trabalho? Fica perto do metrô?"
+        },
+        {
+          "pt": "Este apartamento tem dois quartos e uma cozinha ampla.",
+          "en": "Este apartamento tem dois quartos e uma cozinha ampla.",
+          "ar": "Este apartamento tem dois quartos e uma cozinha ampla."
+        }
+      ],
+      "answer": "É perto do meu trabalho? Fica perto do metrô?",
+      "accepted": [],
+      "audio": "É perto do meu trabalho? Fica perto do metrô?",
+      "explanation": {
+        "pt": "Você ouviu: 'É perto do meu trabalho? Fica perto do metrô?'",
+        "en": "You heard: 'É perto do meu trabalho? Fica perto do metrô?'",
+        "ar": "سمعت: 'É perto do meu trabalho? Fica perto do metrô?'"
+      }
+    },
+    {
+      "type": "dictation",
+      "prompt": {
+        "pt": "Ouça e escreva o que você ouviu.",
+        "en": "Listen and type what you hear.",
+        "ar": "استمع واكتب ما سمعته."
+      },
+      "options": [],
+      "answer": "Este apartamento tem dois quartos e uma cozinha ampla.",
+      "accepted": [],
+      "audio": "Este apartamento tem dois quartos e uma cozinha ampla.",
+      "explanation": {
+        "pt": "A frase correta: 'Este apartamento tem dois quartos e uma cozinha ampla.'",
+        "en": "The correct sentence: 'Este apartamento tem dois quartos e uma cozinha ampla.'",
+        "ar": "الجملة الصحيحة: 'Este apartamento tem dois quartos e uma cozinha ampla.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "apartamento",
+          "en": "apartamento",
+          "ar": "apartamento"
+        },
+        {
+          "pt": "Este",
+          "en": "Este",
+          "ar": "Este"
+        },
+        {
+          "pt": "quartos",
+          "en": "quartos",
+          "ar": "quartos"
+        },
+        {
+          "pt": "cozinha",
+          "en": "cozinha",
+          "ar": "cozinha"
+        },
+        {
+          "pt": "e",
+          "en": "e",
+          "ar": "e"
+        },
+        {
+          "pt": "uma",
+          "en": "uma",
+          "ar": "uma"
+        },
+        {
+          "pt": "ampla.",
+          "en": "ampla.",
+          "ar": "ampla."
+        },
+        {
+          "pt": "tem",
+          "en": "tem",
+          "ar": "tem"
+        },
+        {
+          "pt": "dois",
+          "en": "dois",
+          "ar": "dois"
+        }
+      ],
+      "answer": "Este apartamento tem dois quartos e uma cozinha ampla.",
+      "accepted": [
+        "Este apartamento tem dois quartos e uma cozinha ampla."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Este apartamento tem dois quartos e uma cozinha ampla.'",
+        "en": "The correct order: 'This apartment has two bedrooms and a spacious kitchen.'",
+        "ar": "الترتيب الصحيح: 'هذه الشقة تحتوي على غرفتي نوم ومطبخ واسع.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o aluguel",
+          "en": "the rent",
+          "ar": "o aluguel"
+        },
+        {
+          "pt": "a sala",
+          "en": "the living room",
+          "ar": "a sala"
+        },
+        {
+          "pt": "o apartamento",
+          "en": "to live",
+          "ar": "o apartamento"
+        },
+        {
+          "pt": "o quarto",
+          "en": "the house",
+          "ar": "o quarto"
+        },
+        {
+          "pt": "morar",
+          "en": "the bedroom",
+          "ar": "morar"
+        },
+        {
+          "pt": "a casa",
+          "en": "the apartment",
+          "ar": "a casa"
+        }
+      ],
+      "answer": "o aluguel::the rent|a sala::the living room|o apartamento::to live|o quarto::the house|morar::the bedroom|a casa::the apartment",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Este apartamento tem dois quartos e uma cozinha ampla.",
+          "en": "Then I will think about it and talk to my guarantor.",
+          "ar": "هذه الشقة تحتوي على غرفتي نوم ومطبخ واسع."
+        },
+        {
+          "pt": "É perto do meu trabalho? Fica perto do metrô?",
+          "en": "Is it near my work? Is it near the subway?",
+          "ar": "إذن سأفكر في الأمر وأتحدث مع كفيلي."
+        },
+        {
+          "pt": "Então vou pensar e falarei com meu fiador.",
+          "en": "This apartment has two bedrooms and a spacious kitchen.",
+          "ar": "هل هي قريبة من عملي؟ هل تقع قرب المترو؟"
+        }
+      ],
+      "answer": "Este apartamento tem dois quartos e uma cozinha ampla.",
+      "accepted": [],
+      "audio": "Este apartamento tem dois quartos e uma cozinha ampla.",
+      "explanation": {
+        "pt": "Você ouviu: 'Este apartamento tem dois quartos e uma cozinha ampla.' — 'This apartment has two bedrooms and a spacious kitchen.'",
+        "en": "You heard: 'Este apartamento tem dois quartos e uma cozinha ampla.' — 'This apartment has two bedrooms and a spacious kitchen.'",
+        "ar": "سمعت: 'Este apartamento tem dois quartos e uma cozinha ampla.' — 'هذه الشقة تحتوي على غرفتي نوم ومطبخ واسع.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim, fica a dez minutos do metrô.",
+          "en": "How much is the rent? Do I need to pay a deposit?",
+          "ar": "نعم، تبعد عشر دقائق عن المترو."
+        },
+        {
+          "pt": "É perto do meu trabalho? Fica perto do metrô?",
+          "en": "Is it near my work? Is it near the subway?",
+          "ar": "هل هي قريبة من عملي؟ هل تقع قرب المترو؟"
+        },
+        {
+          "pt": "Quanto é o aluguel? Preciso pagar caução?",
+          "en": "Yes, it is ten minutes from the subway.",
+          "ar": "كم الإيجار؟ هل أحتاج إلى دفع ضمانة؟"
+        }
+      ],
+      "answer": "É perto do meu trabalho? Fica perto do metrô?",
+      "accepted": [],
+      "audio": "É perto do meu trabalho? Fica perto do metrô?",
+      "explanation": {
+        "pt": "Você ouviu: 'É perto do meu trabalho? Fica perto do metrô?' — 'Is it near my work? Is it near the subway?'",
+        "en": "You heard: 'É perto do meu trabalho? Fica perto do metrô?' — 'Is it near my work? Is it near the subway?'",
+        "ar": "سمعت: 'É perto do meu trabalho? Fica perto do metrô?' — 'هل هي قريبة من عملي؟ هل تقع قرب المترو؟'"
+      }
+    }
+  ],
+  "speaking": {
+    "title": {
+      "pt": "Fale Agora — Ouça e Repita",
+      "en": "Speak Now — Listen and Repeat",
+      "ar": "تحدث الآن — استمع وكرر"
+    },
+    "phrases": [
+      {
+        "pt": "Este apartamento tem dois quartos e uma cozinha ampla.",
+        "en": "This apartment has two bedrooms and a spacious kitchen.",
+        "ar": "هذه الشقة تحتوي على غرفتي نوم ومطبخ واسع."
+      },
+      {
+        "pt": "É perto do meu trabalho? Fica perto do metrô?",
+        "en": "Is it near my work? Is it near the subway?",
+        "ar": "هل هي قريبة من عملي؟ هل تقع قرب المترو؟"
+      },
+      {
+        "pt": "Sim, fica a dez minutos do metrô.",
+        "en": "Yes, it is ten minutes from the subway.",
+        "ar": "نعم، تبعد عشر دقائق عن المترو."
+      },
+      {
+        "pt": "Quanto é o aluguel? Preciso pagar caução?",
+        "en": "How much is the rent? Do I need to pay a deposit?",
+        "ar": "كم الإيجار؟ هل أحتاج إلى دفع ضمانة؟"
+      },
+      {
+        "pt": "O aluguel é mil reais e a caução é de três meses.",
+        "en": "The rent is a thousand reais and the deposit is three months.",
+        "ar": "الإيجار ألف ريال والضمانة ثلاثة أشهر."
+      },
+      {
+        "pt": "Então vou pensar e falarei com meu fiador.",
+        "en": "Then I will think about it and talk to my guarantor.",
+        "ar": "إذن سأفكر في الأمر وأتحدث مع كفيلي."
+      },
+      {
+        "pt": "o aluguel",
+        "en": "the rent",
+        "ar": "الإيجار"
+      },
+      {
+        "pt": "morar",
+        "en": "to live",
+        "ar": "يسكن"
+      },
+      {
+        "pt": "o apartamento",
+        "en": "the apartment",
+        "ar": "الشقة"
+      }
+    ]
+  },
+  "cultural_tips": {
+    "pt": "",
+    "en": "",
+    "ar": ""
+  }
+}

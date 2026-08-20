@@ -1,0 +1,2068 @@
+{
+  "id": "B2-12",
+  "level": "B2",
+  "level_name": {
+    "pt": "Intermediário Alto",
+    "en": "Upper-Intermediate",
+    "ar": "متوسط متقدم"
+  },
+  "title": {
+    "pt": "Revisão B2",
+    "en": "B2 Review",
+    "ar": "مراجعة المستوى B2"
+  },
+  "objectives": [
+    {
+      "pt": "Revisar os três tempos do subjuntivo",
+      "en": "Review the three subjunctive tenses",
+      "ar": "مراجعة أزمنة الشرط الثلاثة"
+    },
+    {
+      "pt": "Revisar a voz passiva e os conectivos",
+      "en": "Review the passive voice and connectors",
+      "ar": "مراجعة المبني للمجهول وأدوات الربط"
+    },
+    {
+      "pt": "Consolidar o vocabulário do nível B2",
+      "en": "Consolidate B2-level vocabulary",
+      "ar": "تثبيت مفردات المستوى B2"
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "o subjuntivo",
+      "ipa": "/u sub.ʒũˈtʃi.vu/",
+      "en": "the subjunctive",
+      "ar": "صيغة الشرط",
+      "example": {
+        "pt": "Excelente. Lembrem-se de que o subjuntivo precisa de prática diária.",
+        "en": "Excellent. Remember that the subjunctive needs daily practice.",
+        "ar": "ممتاز. تذكروا أن صيغة الشرط تحتاج إلى ممارسة يومية."
+      }
+    },
+    {
+      "pt": "a voz passiva",
+      "ipa": "/a vɔs paˈsi.va/",
+      "en": "the passive voice",
+      "ar": "المبني للمجهول",
+      "example": {
+        "pt": "Talvez a gente se veja no próximo mês. (presente)",
+        "en": "Maybe we'll see each other next month. (present)",
+        "ar": "ربما نلتقي الشهر القادم. (مضارع)"
+      }
+    },
+    {
+      "pt": "o conectivo",
+      "ipa": "/u ko.neˈtʃi.vu/",
+      "en": "the connector",
+      "ar": "أداة الربط",
+      "example": {
+        "pt": "Excelente. Lembrem-se de que o subjuntivo precisa de prática diária.",
+        "en": "Excellent. Remember that the subjunctive needs daily practice.",
+        "ar": "ممتاز. تذكروا أن صيغة الشرط تحتاج إلى ممارسة يومية."
+      }
+    },
+    {
+      "pt": "o vocabulário",
+      "ipa": "/u vo.ka.buˈla.ɾju/",
+      "en": "the vocabulary",
+      "ar": "المفردات",
+      "example": {
+        "pt": "Excelente. Lembrem-se de que o subjuntivo precisa de prática diária.",
+        "en": "Excellent. Remember that the subjunctive needs daily practice.",
+        "ar": "ممتاز. تذكروا أن صيغة الشرط تحتاج إلى ممارسة يومية."
+      }
+    },
+    {
+      "pt": "a descoberta",
+      "ipa": "/a dʒis.kɔˈbɛχ.ta/",
+      "en": "the discovery",
+      "ar": "الاكتشاف",
+      "example": {
+        "pt": "Talvez a gente se veja no próximo mês. (presente)",
+        "en": "Maybe we'll see each other next month. (present)",
+        "ar": "ربما نلتقي الشهر القادم. (مضارع)"
+      }
+    },
+    {
+      "pt": "a sustentabilidade",
+      "ipa": "/a sus.ta.na.bi.liˈda.dʒi/",
+      "en": "the sustainability",
+      "ar": "الاستدامة",
+      "example": {
+        "pt": "Talvez a gente se veja no próximo mês. (presente)",
+        "en": "Maybe we'll see each other next month. (present)",
+        "ar": "ربما نلتقي الشهر القادم. (مضارع)"
+      }
+    },
+    {
+      "pt": "a negociação",
+      "ipa": "/a ne.ɡo.si.aˈsɐ̃w/",
+      "en": "the negotiation",
+      "ar": "التفاوض",
+      "example": {
+        "pt": "Talvez a gente se veja no próximo mês. (presente)",
+        "en": "Maybe we'll see each other next month. (present)",
+        "ar": "ربما نلتقي الشهر القادم. (مضارع)"
+      }
+    },
+    {
+      "pt": "o personagem",
+      "ipa": "/u peʁ.soˈna.ʒẽj/",
+      "en": "the character",
+      "ar": "الشخصية",
+      "example": {
+        "pt": "Excelente. Lembrem-se de que o subjuntivo precisa de prática diária.",
+        "en": "Excellent. Remember that the subjunctive needs daily practice.",
+        "ar": "ممتاز. تذكروا أن صيغة الشرط تحتاج إلى ممارسة يومية."
+      }
+    },
+    {
+      "pt": "o meio ambiente",
+      "ipa": "/u ˈme.ju ɐ̃.biˈẽ.tʃi/",
+      "en": "the environment",
+      "ar": "البيئة",
+      "example": {
+        "pt": "Excelente. Lembrem-se de que o subjuntivo precisa de prática diária.",
+        "en": "Excellent. Remember that the subjunctive needs daily practice.",
+        "ar": "ممتاز. تذكروا أن صيغة الشرط تحتاج إلى ممارسة يومية."
+      }
+    },
+    {
+      "pt": "a eleição",
+      "ipa": "/a e.lejˈsɐ̃w/",
+      "en": "the election",
+      "ar": "الانتخابات",
+      "example": {
+        "pt": "Talvez a gente se veja no próximo mês. (presente)",
+        "en": "Maybe we'll see each other next month. (present)",
+        "ar": "ربما نلتقي الشهر القادم. (مضارع)"
+      }
+    },
+    {
+      "pt": "o investimento",
+      "ipa": "/u ĩ.ves.tʃiˈmẽ.tu/",
+      "en": "the investment",
+      "ar": "الاستثمار",
+      "example": {
+        "pt": "Excelente. Lembrem-se de que o subjuntivo precisa de prática diária.",
+        "en": "Excellent. Remember that the subjunctive needs daily practice.",
+        "ar": "ممتاز. تذكروا أن صيغة الشرط تحتاج إلى ممارسة يومية."
+      }
+    },
+    {
+      "pt": "a inteligência artificial",
+      "ipa": "/a ĩ.te.liˈʒẽ.si.a aχ.tʃi.fi.siˈaw/",
+      "en": "artificial intelligence",
+      "ar": "الذكاء الاصطناعي",
+      "example": {
+        "pt": "Talvez a gente se veja no próximo mês. (presente)",
+        "en": "Maybe we'll see each other next month. (present)",
+        "ar": "ربما نلتقي الشهر القادم. (مضارع)"
+      }
+    },
+    {
+      "pt": "a cidadania",
+      "ipa": "/a si.da.daˈni.a/",
+      "en": "the citizenship",
+      "ar": "المواطنة",
+      "example": {
+        "pt": "Talvez a gente se veja no próximo mês. (presente)",
+        "en": "Maybe we'll see each other next month. (present)",
+        "ar": "ربما نلتقي الشهر القادم. (مضارع)"
+      }
+    },
+    {
+      "pt": "o enredo",
+      "ipa": "/u ẽˈʁe.du/",
+      "en": "the plot",
+      "ar": "الحبكة",
+      "example": {
+        "pt": "Excelente. Lembrem-se de que o subjuntivo precisa de prática diária.",
+        "en": "Excellent. Remember that the subjunctive needs daily practice.",
+        "ar": "ممتاز. تذكروا أن صيغة الشرط تحتاج إلى ممارسة يومية."
+      }
+    },
+    {
+      "pt": "a reciclagem",
+      "ipa": "/a ʁe.si.klaˈʒẽj/",
+      "en": "the recycling",
+      "ar": "إعادة التدوير",
+      "example": {
+        "pt": "Talvez a gente se veja no próximo mês. (presente)",
+        "en": "Maybe we'll see each other next month. (present)",
+        "ar": "ربما نلتقي الشهر القادم. (مضارع)"
+      }
+    },
+    {
+      "pt": "o emprego",
+      "ipa": "/u ẽˈpɾe.ɡu/",
+      "en": "the job",
+      "ar": "الوظيفة",
+      "example": {
+        "pt": "Excelente. Lembrem-se de que o subjuntivo precisa de prática diária.",
+        "en": "Excellent. Remember that the subjunctive needs daily practice.",
+        "ar": "ممتاز. تذكروا أن صيغة الشرط تحتاج إلى ممارسة يومية."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "title": {
+        "pt": "Panorama do Subjuntivo",
+        "en": "Overview of the Subjunctive",
+        "ar": "نظرة شاملة على صيغة الشرط"
+      },
+      "explanation": {
+        "pt": "Resumo dos três tempos: presente (fatos presentes ou futuros incertos, após expressões de desejo e dúvida), imperfeito (hipóteses irreais e condições com 'se'), futuro (orações temporais e condicionais que se referem ao futuro).",
+        "en": "Summary of the three tenses: present (uncertain present or future facts, after expressions of desire and doubt), imperfect (unreal hypotheses and conditions with 'se'), future (temporal and conditional clauses that refer to the future).",
+        "ar": "ملخص الأزمنة الثلاثة: المضارع (حقائق حاضرة أو مستقبلية غير مؤكدة بعد تعبيرات الرغبة والشك)، والناقص (فرضيات غير واقعية وشروط مع 'se')، والمستقبل (الجمل الزمنية والشرطية التي تشير إلى المستقبل)."
+      },
+      "examples": [
+        {
+          "pt": "É importante que você estude todos os dias. (presente)",
+          "en": "It's important that you study every day. (present)",
+          "ar": "من المهم أن تدرس كل يوم. (مضارع)"
+        },
+        {
+          "pt": "Se eu tivesse mais tempo, aprenderia três idiomas. (imperfeito)",
+          "en": "If I had more time, I would learn three languages. (imperfect)",
+          "ar": "لو كان لدي مزيد من الوقت، لتعلمت ثلاث لغات. (ناقص)"
+        },
+        {
+          "pt": "Quando você terminar o curso, vai sentir saudades. (futuro)",
+          "en": "When you finish the course, you'll miss it. (future)",
+          "ar": "عندما تنهي الدورة، ستشعر بالحنين إليها. (مستقبل)"
+        },
+        {
+          "pt": "Talvez a gente se veja no próximo mês. (presente)",
+          "en": "Maybe we'll see each other next month. (present)",
+          "ar": "ربما نلتقي الشهر القادم. (مضارع)"
+        }
+      ]
+    },
+    {
+      "title": {
+        "pt": "Voz Passiva e Conectivos em Revisão",
+        "en": "Passive Voice and Connectors in Review",
+        "ar": "مراجعة المبني للمجهول وأدوات الربط"
+      },
+      "explanation": {
+        "pt": "A voz passiva usa ser + particípio e pode dispensar o agente. A passiva com se é usada para afirmações gerais. Os conectivos organizam a argumentação e ligam as ideias do texto.",
+        "en": "The passive voice uses ser + participle and can omit the agent. The se-passive is used for general statements. Connectors organize argumentation and link the ideas of the text.",
+        "ar": "يستخدم المبني للمجهول ser + اسم المفعول ويمكن حذف الفاعل. ويُستخدم المبني للمجهول مع se للعبارات العامة. وتنظم أدوات الربط الحجج وتربط أفكار النص."
+      },
+      "examples": [
+        {
+          "pt": "A prova foi corrigida pelo professor.",
+          "en": "The exam was graded by the teacher.",
+          "ar": "صُحح الامتحان من قبل الأستاذ."
+        },
+        {
+          "pt": "Alugam-se salas para eventos.",
+          "en": "Rooms for events are rented.",
+          "ar": "تُستأجر قاعات للمناسبات."
+        },
+        {
+          "pt": "O projeto é bom; contudo, precisa de ajustes.",
+          "en": "The project is good; however, it needs adjustments.",
+          "ar": "المشروع جيد؛ ومع ذلك يحتاج إلى تعديلات."
+        },
+        {
+          "pt": "Estudamos muito; portanto, merecemos descansar.",
+          "en": "We studied a lot; therefore, we deserve a break.",
+          "ar": "درسنا كثيرًا؛ لذلك نستحق الراحة."
+        }
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": {
+      "pt": "O Progresso no Curso",
+      "en": "The Progress in the Course",
+      "ar": "التقدم في الدورة"
+    },
+    "lines": [
+      {
+        "speaker": "Professora",
+        "pt": "Vocês chegaram ao fim do nível B2. Como se sentem?",
+        "en": "You've reached the end of level B2. How do you feel?",
+        "ar": "لقد وصلتم إلى نهاية المستوى B2. كيف تشعرون؟"
+      },
+      {
+        "speaker": "Aluno",
+        "pt": "Muito bem! Agora consigo discutir temas complexos em português.",
+        "en": "Very good! Now I can discuss complex topics in Portuguese.",
+        "ar": "جيد جدًا! الآن أستطيع مناقشة مواضيع معقدة بالبرتغالية."
+      },
+      {
+        "speaker": "Professora",
+        "pt": "Excelente. Lembrem-se de que o subjuntivo precisa de prática diária.",
+        "en": "Excellent. Remember that the subjunctive needs daily practice.",
+        "ar": "ممتاز. تذكروا أن صيغة الشرط تحتاج إلى ممارسة يومية."
+      },
+      {
+        "speaker": "Aluno",
+        "pt": "Sim. Se eu praticar todos os dias, vou melhorar cada vez mais.",
+        "en": "Yes. If I practice every day, I'll keep improving.",
+        "ar": "نعم. إذا تدربت كل يوم، سأتحسن أكثر فأكثر."
+      },
+      {
+        "speaker": "Professora",
+        "pt": "Certo. Quando vocês se sentirem confiantes, passem para o nível C1.",
+        "en": "Right. When you feel confident, move on to level C1.",
+        "ar": "صحيح. عندما تشعرون بالثقة، انتقلوا إلى المستوى C1."
+      }
+    ]
+  },
+  "reading": {
+    "title": {
+      "pt": "A Jornada do Aprendiz",
+      "en": "The Learner's Journey",
+      "ar": "رحلة المتعلم"
+    },
+    "text_pt": "Aprender uma língua é uma jornada longa, mas gratificante. No nível B2, o aluno já discute política, economia e ciência em português. Mesmo assim, é importante continuar praticando a leitura e a conversação todos os dias. Quem persiste, alcança a fluência.",
+    "text_en": "Learning a language is a long but rewarding journey. At B2 level, the student already discusses politics, economy and science in Portuguese. Even so, it is important to keep practicing reading and conversation every day. Whoever persists reaches fluency.",
+    "text_ar": "تعلم اللغة رحلة طويلة لكنها مجزية. في المستوى B2، يناقش الطالب بالفعل السياسة والاقتصاد والعلوم بالبرتغالية. ورغم ذلك، من المهم مواصلة ممارسة القراءة والمحادثة كل يوم. ومن يواصل، يصل إلى الطلاقة."
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Se eu ___ mais tempo, aprenderia três idiomas.",
+        "en": "If I ___ more time, I would learn three languages.",
+        "ar": "لو ___ لدي مزيد من الوقت، لتعلمت ثلاث لغات."
+      },
+      "options": [
+        {
+          "pt": "tinha",
+          "en": "tinha",
+          "ar": "tinha"
+        },
+        {
+          "pt": "tivesse",
+          "en": "tivesse",
+          "ar": "tivesse"
+        },
+        {
+          "pt": "tenho",
+          "en": "tenho",
+          "ar": "tenho"
+        }
+      ],
+      "answer": "tivesse",
+      "explanation": {
+        "pt": "Hipótese irreal: 'se' + imperfeito do subjuntivo (tivesse) + condicional (aprenderia).",
+        "en": "Unreal hypothesis: 'se' + imperfect subjunctive (tivesse) + conditional (aprenderia).",
+        "ar": "فرضية غير واقعية: 'se' + الماضي الناقص الشرطي (tivesse) + الصيغة الشرطية (aprenderia)."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Quando você ___ o curso, vai sentir saudades.",
+        "en": "When you ___ the course, you'll miss it.",
+        "ar": "عندما ___ الدورة، ستشعر بالحنين إليها."
+      },
+      "options": [
+        {
+          "pt": "termina",
+          "en": "termina",
+          "ar": "termina"
+        },
+        {
+          "pt": "terminar",
+          "en": "terminar",
+          "ar": "terminar"
+        },
+        {
+          "pt": "terminou",
+          "en": "terminou",
+          "ar": "terminou"
+        }
+      ],
+      "answer": "terminar",
+      "explanation": {
+        "pt": "Oração temporal futura: 'quando' + futuro do subjuntivo (terminar).",
+        "en": "Future temporal clause: 'quando' + future subjunctive (terminar).",
+        "ar": "جملة زمنية مستقبلية: 'quando' + المستقبل الشرطي (terminar)."
+      }
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza: 'The exam was graded by the teacher.'",
+        "en": "Translate: 'The exam was graded by the teacher.'",
+        "ar": "ترجم: 'The exam was graded by the teacher.'"
+      },
+      "options": [],
+      "answer": "A prova foi corrigida pelo professor.",
+      "explanation": {
+        "pt": "Voz passiva no pretérito: 'foi corrigida' + agente 'pelo professor'.",
+        "en": "Passive voice in the preterite: 'foi corrigida' + agent 'pelo professor'.",
+        "ar": "المبني للمجهول في الماضي: 'foi corrigida' + الفاعل 'pelo professor'."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Como",
+          "en": "Como",
+          "ar": "Como"
+        },
+        {
+          "pt": "chegaram",
+          "en": "chegaram",
+          "ar": "chegaram"
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "B2.",
+          "en": "B2.",
+          "ar": "B2."
+        },
+        {
+          "pt": "sentem?",
+          "en": "sentem?",
+          "ar": "sentem?"
+        },
+        {
+          "pt": "ao",
+          "en": "ao",
+          "ar": "ao"
+        },
+        {
+          "pt": "Vocês",
+          "en": "Vocês",
+          "ar": "Vocês"
+        },
+        {
+          "pt": "fim",
+          "en": "fim",
+          "ar": "fim"
+        },
+        {
+          "pt": "nível",
+          "en": "nível",
+          "ar": "nível"
+        },
+        {
+          "pt": "se",
+          "en": "se",
+          "ar": "se"
+        }
+      ],
+      "answer": "Vocês chegaram ao fim do nível B2. Como se sentem?",
+      "accepted": [
+        "Vocês chegaram ao fim do nível B2. Como se sentem?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Vocês chegaram ao fim do nível B2. Como se sentem?'",
+        "en": "The correct order: 'You've reached the end of level B2. How do you feel?'",
+        "ar": "الترتيب الصحيح: 'لقد وصلتم إلى نهاية المستوى B2. كيف تشعرون؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o vocabulário",
+          "en": "the discovery",
+          "ar": "o vocabulário"
+        },
+        {
+          "pt": "o subjuntivo",
+          "en": "the connector",
+          "ar": "o subjuntivo"
+        },
+        {
+          "pt": "a voz passiva",
+          "en": "the passive voice",
+          "ar": "a voz passiva"
+        },
+        {
+          "pt": "o conectivo",
+          "en": "the subjunctive",
+          "ar": "o conectivo"
+        },
+        {
+          "pt": "a descoberta",
+          "en": "the vocabulary",
+          "ar": "a descoberta"
+        },
+        {
+          "pt": "a sustentabilidade",
+          "en": "the sustainability",
+          "ar": "a sustentabilidade"
+        }
+      ],
+      "answer": "o vocabulário::the discovery|o subjuntivo::the connector|a voz passiva::the passive voice|o conectivo::the subjunctive|a descoberta::the vocabulary|a sustentabilidade::the sustainability",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Excelente. Lembrem-se de que o subjuntivo precisa de prática diária.",
+          "en": "Right. When you feel confident, move on to level C1.",
+          "ar": "صحيح. عندما تشعرون بالثقة، انتقلوا إلى المستوى C1."
+        },
+        {
+          "pt": "Certo. Quando vocês se sentirem confiantes, passem para o nível C1.",
+          "en": "You've reached the end of level B2. How do you feel?",
+          "ar": "ممتاز. تذكروا أن صيغة الشرط تحتاج إلى ممارسة يومية."
+        },
+        {
+          "pt": "Vocês chegaram ao fim do nível B2. Como se sentem?",
+          "en": "Excellent. Remember that the subjunctive needs daily practice.",
+          "ar": "لقد وصلتم إلى نهاية المستوى B2. كيف تشعرون؟"
+        }
+      ],
+      "answer": "Vocês chegaram ao fim do nível B2. Como se sentem?",
+      "accepted": [],
+      "audio": "Vocês chegaram ao fim do nível B2. Como se sentem?",
+      "explanation": {
+        "pt": "Você ouviu: 'Vocês chegaram ao fim do nível B2. Como se sentem?' — 'You've reached the end of level B2. How do you feel?'",
+        "en": "You heard: 'Vocês chegaram ao fim do nível B2. Como se sentem?' — 'You've reached the end of level B2. How do you feel?'",
+        "ar": "سمعت: 'Vocês chegaram ao fim do nível B2. Como se sentem?' — 'لقد وصلتم إلى نهاية المستوى B2. كيف تشعرون؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Certo. Quando vocês se sentirem confiantes, passem para o nível C1.",
+          "en": "Right. When you feel confident, move on to level C1.",
+          "ar": "نعم. إذا تدربت كل يوم، سأتحسن أكثر فأكثر."
+        },
+        {
+          "pt": "Muito bem! Agora consigo discutir temas complexos em português.",
+          "en": "Very good! Now I can discuss complex topics in Portuguese.",
+          "ar": "صحيح. عندما تشعرون بالثقة، انتقلوا إلى المستوى C1."
+        },
+        {
+          "pt": "Sim. Se eu praticar todos os dias, vou melhorar cada vez mais.",
+          "en": "Yes. If I practice every day, I'll keep improving.",
+          "ar": "جيد جدًا! الآن أستطيع مناقشة مواضيع معقدة بالبرتغالية."
+        }
+      ],
+      "answer": "Muito bem! Agora consigo discutir temas complexos em português.",
+      "accepted": [],
+      "audio": "Muito bem! Agora consigo discutir temas complexos em português.",
+      "explanation": {
+        "pt": "Você ouviu: 'Muito bem! Agora consigo discutir temas complexos em português.' — 'Very good! Now I can discuss complex topics in Portuguese.'",
+        "en": "You heard: 'Muito bem! Agora consigo discutir temas complexos em português.' — 'Very good! Now I can discuss complex topics in Portuguese.'",
+        "ar": "سمعت: 'Muito bem! Agora consigo discutir temas complexos em português.' — 'جيد جدًا! الآن أستطيع مناقشة مواضيع معقدة بالبرتغالية.'"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "É ___ que você estude todos os dias. (presente)",
+        "en": "É ___ que você estude todos os dias. (presente)",
+        "ar": "É ___ que você estude todos os dias. (presente)"
+      },
+      "options": [
+        {
+          "pt": "importante",
+          "en": "importante",
+          "ar": "importante"
+        },
+        {
+          "pt": "tivesse",
+          "en": "tivesse",
+          "ar": "tivesse"
+        },
+        {
+          "pt": "veja",
+          "en": "veja",
+          "ar": "veja"
+        }
+      ],
+      "answer": "importante",
+      "accepted": [],
+      "explanation": {
+        "pt": "A resposta é 'importante'. Frase completa: É importante que você estude todos os dias. (presente)",
+        "en": "The answer is 'importante'. Full sentence: It's important that you study every day. (present)",
+        "ar": "الإجابة الصحيحة: 'importante'. الجملة كاملة: من المهم أن تدرس كل يوم. (مضارع)"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "se",
+          "en": "se",
+          "ar": "se"
+        },
+        {
+          "pt": "Vocês",
+          "en": "Vocês",
+          "ar": "Vocês"
+        },
+        {
+          "pt": "B2.",
+          "en": "B2.",
+          "ar": "B2."
+        },
+        {
+          "pt": "fim",
+          "en": "fim",
+          "ar": "fim"
+        },
+        {
+          "pt": "chegaram",
+          "en": "chegaram",
+          "ar": "chegaram"
+        },
+        {
+          "pt": "ao",
+          "en": "ao",
+          "ar": "ao"
+        },
+        {
+          "pt": "sentem?",
+          "en": "sentem?",
+          "ar": "sentem?"
+        },
+        {
+          "pt": "Como",
+          "en": "Como",
+          "ar": "Como"
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "nível",
+          "en": "nível",
+          "ar": "nível"
+        }
+      ],
+      "answer": "Vocês chegaram ao fim do nível B2. Como se sentem?",
+      "accepted": [
+        "Vocês chegaram ao fim do nível B2. Como se sentem?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Vocês chegaram ao fim do nível B2. Como se sentem?'",
+        "en": "The correct order: 'You've reached the end of level B2. How do you feel?'",
+        "ar": "الترتيب الصحيح: 'لقد وصلتم إلى نهاية المستوى B2. كيف تشعرون؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o vocabulário",
+          "en": "the subjunctive",
+          "ar": "o vocabulário"
+        },
+        {
+          "pt": "a descoberta",
+          "en": "the discovery",
+          "ar": "a descoberta"
+        },
+        {
+          "pt": "o subjuntivo",
+          "en": "the connector",
+          "ar": "o subjuntivo"
+        },
+        {
+          "pt": "o conectivo",
+          "en": "the sustainability",
+          "ar": "o conectivo"
+        },
+        {
+          "pt": "a voz passiva",
+          "en": "the passive voice",
+          "ar": "a voz passiva"
+        },
+        {
+          "pt": "a sustentabilidade",
+          "en": "the vocabulary",
+          "ar": "a sustentabilidade"
+        }
+      ],
+      "answer": "o vocabulário::the subjunctive|a descoberta::the discovery|o subjuntivo::the connector|o conectivo::the sustainability|a voz passiva::the passive voice|a sustentabilidade::the vocabulary",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Excelente. Lembrem-se de que o subjuntivo precisa de prática diária.",
+          "en": "Yes. If I practice every day, I'll keep improving.",
+          "ar": "لقد وصلتم إلى نهاية المستوى B2. كيف تشعرون؟"
+        },
+        {
+          "pt": "Vocês chegaram ao fim do nível B2. Como se sentem?",
+          "en": "You've reached the end of level B2. How do you feel?",
+          "ar": "ممتاز. تذكروا أن صيغة الشرط تحتاج إلى ممارسة يومية."
+        },
+        {
+          "pt": "Sim. Se eu praticar todos os dias, vou melhorar cada vez mais.",
+          "en": "Excellent. Remember that the subjunctive needs daily practice.",
+          "ar": "نعم. إذا تدربت كل يوم، سأتحسن أكثر فأكثر."
+        }
+      ],
+      "answer": "Vocês chegaram ao fim do nível B2. Como se sentem?",
+      "accepted": [],
+      "audio": "Vocês chegaram ao fim do nível B2. Como se sentem?",
+      "explanation": {
+        "pt": "Você ouviu: 'Vocês chegaram ao fim do nível B2. Como se sentem?' — 'You've reached the end of level B2. How do you feel?'",
+        "en": "You heard: 'Vocês chegaram ao fim do nível B2. Como se sentem?' — 'You've reached the end of level B2. How do you feel?'",
+        "ar": "سمعت: 'Vocês chegaram ao fim do nível B2. Como se sentem?' — 'لقد وصلتم إلى نهاية المستوى B2. كيف تشعرون؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Excelente. Lembrem-se de que o subjuntivo precisa de prática diária.",
+          "en": "Very good! Now I can discuss complex topics in Portuguese.",
+          "ar": "ممتاز. تذكروا أن صيغة الشرط تحتاج إلى ممارسة يومية."
+        },
+        {
+          "pt": "Muito bem! Agora consigo discutir temas complexos em português.",
+          "en": "You've reached the end of level B2. How do you feel?",
+          "ar": "جيد جدًا! الآن أستطيع مناقشة مواضيع معقدة بالبرتغالية."
+        },
+        {
+          "pt": "Vocês chegaram ao fim do nível B2. Como se sentem?",
+          "en": "Excellent. Remember that the subjunctive needs daily practice.",
+          "ar": "لقد وصلتم إلى نهاية المستوى B2. كيف تشعرون؟"
+        }
+      ],
+      "answer": "Muito bem! Agora consigo discutir temas complexos em português.",
+      "accepted": [],
+      "audio": "Muito bem! Agora consigo discutir temas complexos em português.",
+      "explanation": {
+        "pt": "Você ouviu: 'Muito bem! Agora consigo discutir temas complexos em português.' — 'Very good! Now I can discuss complex topics in Portuguese.'",
+        "en": "You heard: 'Muito bem! Agora consigo discutir temas complexos em português.' — 'Very good! Now I can discuss complex topics in Portuguese.'",
+        "ar": "سمعت: 'Muito bem! Agora consigo discutir temas complexos em português.' — 'جيد جدًا! الآن أستطيع مناقشة مواضيع معقدة بالبرتغالية.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "sentem?",
+          "en": "sentem?",
+          "ar": "sentem?"
+        },
+        {
+          "pt": "Vocês",
+          "en": "Vocês",
+          "ar": "Vocês"
+        },
+        {
+          "pt": "nível",
+          "en": "nível",
+          "ar": "nível"
+        },
+        {
+          "pt": "chegaram",
+          "en": "chegaram",
+          "ar": "chegaram"
+        },
+        {
+          "pt": "se",
+          "en": "se",
+          "ar": "se"
+        },
+        {
+          "pt": "Como",
+          "en": "Como",
+          "ar": "Como"
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "B2.",
+          "en": "B2.",
+          "ar": "B2."
+        },
+        {
+          "pt": "fim",
+          "en": "fim",
+          "ar": "fim"
+        },
+        {
+          "pt": "ao",
+          "en": "ao",
+          "ar": "ao"
+        }
+      ],
+      "answer": "Vocês chegaram ao fim do nível B2. Como se sentem?",
+      "accepted": [
+        "Vocês chegaram ao fim do nível B2. Como se sentem?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Vocês chegaram ao fim do nível B2. Como se sentem?'",
+        "en": "The correct order: 'You've reached the end of level B2. How do you feel?'",
+        "ar": "الترتيب الصحيح: 'لقد وصلتم إلى نهاية المستوى B2. كيف تشعرون؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o conectivo",
+          "en": "the connector",
+          "ar": "o conectivo"
+        },
+        {
+          "pt": "a sustentabilidade",
+          "en": "the subjunctive",
+          "ar": "a sustentabilidade"
+        },
+        {
+          "pt": "a descoberta",
+          "en": "the sustainability",
+          "ar": "a descoberta"
+        },
+        {
+          "pt": "o subjuntivo",
+          "en": "the vocabulary",
+          "ar": "o subjuntivo"
+        },
+        {
+          "pt": "o vocabulário",
+          "en": "the discovery",
+          "ar": "o vocabulário"
+        },
+        {
+          "pt": "a voz passiva",
+          "en": "the passive voice",
+          "ar": "a voz passiva"
+        }
+      ],
+      "answer": "o conectivo::the connector|a sustentabilidade::the subjunctive|a descoberta::the sustainability|o subjuntivo::the vocabulary|o vocabulário::the discovery|a voz passiva::the passive voice",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Muito bem! Agora consigo discutir temas complexos em português.",
+          "en": "You've reached the end of level B2. How do you feel?",
+          "ar": "جيد جدًا! الآن أستطيع مناقشة مواضيع معقدة بالبرتغالية."
+        },
+        {
+          "pt": "Sim. Se eu praticar todos os dias, vou melhorar cada vez mais.",
+          "en": "Yes. If I practice every day, I'll keep improving.",
+          "ar": "لقد وصلتم إلى نهاية المستوى B2. كيف تشعرون؟"
+        },
+        {
+          "pt": "Vocês chegaram ao fim do nível B2. Como se sentem?",
+          "en": "Very good! Now I can discuss complex topics in Portuguese.",
+          "ar": "نعم. إذا تدربت كل يوم، سأتحسن أكثر فأكثر."
+        }
+      ],
+      "answer": "Vocês chegaram ao fim do nível B2. Como se sentem?",
+      "accepted": [],
+      "audio": "Vocês chegaram ao fim do nível B2. Como se sentem?",
+      "explanation": {
+        "pt": "Você ouviu: 'Vocês chegaram ao fim do nível B2. Como se sentem?' — 'You've reached the end of level B2. How do you feel?'",
+        "en": "You heard: 'Vocês chegaram ao fim do nível B2. Como se sentem?' — 'You've reached the end of level B2. How do you feel?'",
+        "ar": "سمعت: 'Vocês chegaram ao fim do nível B2. Como se sentem?' — 'لقد وصلتم إلى نهاية المستوى B2. كيف تشعرون؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Certo. Quando vocês se sentirem confiantes, passem para o nível C1.",
+          "en": "You've reached the end of level B2. How do you feel?",
+          "ar": "صحيح. عندما تشعرون بالثقة، انتقلوا إلى المستوى C1."
+        },
+        {
+          "pt": "Muito bem! Agora consigo discutir temas complexos em português.",
+          "en": "Very good! Now I can discuss complex topics in Portuguese.",
+          "ar": "جيد جدًا! الآن أستطيع مناقشة مواضيع معقدة بالبرتغالية."
+        },
+        {
+          "pt": "Vocês chegaram ao fim do nível B2. Como se sentem?",
+          "en": "Right. When you feel confident, move on to level C1.",
+          "ar": "لقد وصلتم إلى نهاية المستوى B2. كيف تشعرون؟"
+        }
+      ],
+      "answer": "Muito bem! Agora consigo discutir temas complexos em português.",
+      "accepted": [],
+      "audio": "Muito bem! Agora consigo discutir temas complexos em português.",
+      "explanation": {
+        "pt": "Você ouviu: 'Muito bem! Agora consigo discutir temas complexos em português.' — 'Very good! Now I can discuss complex topics in Portuguese.'",
+        "en": "You heard: 'Muito bem! Agora consigo discutir temas complexos em português.' — 'Very good! Now I can discuss complex topics in Portuguese.'",
+        "ar": "سمعت: 'Muito bem! Agora consigo discutir temas complexos em português.' — 'جيد جدًا! الآن أستطيع مناقشة مواضيع معقدة بالبرتغالية.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "se",
+          "en": "se",
+          "ar": "se"
+        },
+        {
+          "pt": "fim",
+          "en": "fim",
+          "ar": "fim"
+        },
+        {
+          "pt": "chegaram",
+          "en": "chegaram",
+          "ar": "chegaram"
+        },
+        {
+          "pt": "sentem?",
+          "en": "sentem?",
+          "ar": "sentem?"
+        },
+        {
+          "pt": "Como",
+          "en": "Como",
+          "ar": "Como"
+        },
+        {
+          "pt": "nível",
+          "en": "nível",
+          "ar": "nível"
+        },
+        {
+          "pt": "B2.",
+          "en": "B2.",
+          "ar": "B2."
+        },
+        {
+          "pt": "ao",
+          "en": "ao",
+          "ar": "ao"
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "Vocês",
+          "en": "Vocês",
+          "ar": "Vocês"
+        }
+      ],
+      "answer": "Vocês chegaram ao fim do nível B2. Como se sentem?",
+      "accepted": [
+        "Vocês chegaram ao fim do nível B2. Como se sentem?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Vocês chegaram ao fim do nível B2. Como se sentem?'",
+        "en": "The correct order: 'You've reached the end of level B2. How do you feel?'",
+        "ar": "الترتيب الصحيح: 'لقد وصلتم إلى نهاية المستوى B2. كيف تشعرون؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a sustentabilidade",
+          "en": "the connector",
+          "ar": "a sustentabilidade"
+        },
+        {
+          "pt": "o conectivo",
+          "en": "the vocabulary",
+          "ar": "o conectivo"
+        },
+        {
+          "pt": "a voz passiva",
+          "en": "the passive voice",
+          "ar": "a voz passiva"
+        },
+        {
+          "pt": "a descoberta",
+          "en": "the subjunctive",
+          "ar": "a descoberta"
+        },
+        {
+          "pt": "o subjuntivo",
+          "en": "the sustainability",
+          "ar": "o subjuntivo"
+        },
+        {
+          "pt": "o vocabulário",
+          "en": "the discovery",
+          "ar": "o vocabulário"
+        }
+      ],
+      "answer": "a sustentabilidade::the connector|o conectivo::the vocabulary|a voz passiva::the passive voice|a descoberta::the subjunctive|o subjuntivo::the sustainability|o vocabulário::the discovery",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Excelente. Lembrem-se de que o subjuntivo precisa de prática diária.",
+          "en": "Very good! Now I can discuss complex topics in Portuguese.",
+          "ar": "ممتاز. تذكروا أن صيغة الشرط تحتاج إلى ممارسة يومية."
+        },
+        {
+          "pt": "Muito bem! Agora consigo discutir temas complexos em português.",
+          "en": "Excellent. Remember that the subjunctive needs daily practice.",
+          "ar": "جيد جدًا! الآن أستطيع مناقشة مواضيع معقدة بالبرتغالية."
+        },
+        {
+          "pt": "Vocês chegaram ao fim do nível B2. Como se sentem?",
+          "en": "You've reached the end of level B2. How do you feel?",
+          "ar": "لقد وصلتم إلى نهاية المستوى B2. كيف تشعرون؟"
+        }
+      ],
+      "answer": "Vocês chegaram ao fim do nível B2. Como se sentem?",
+      "accepted": [],
+      "audio": "Vocês chegaram ao fim do nível B2. Como se sentem?",
+      "explanation": {
+        "pt": "Você ouviu: 'Vocês chegaram ao fim do nível B2. Como se sentem?' — 'You've reached the end of level B2. How do you feel?'",
+        "en": "You heard: 'Vocês chegaram ao fim do nível B2. Como se sentem?' — 'You've reached the end of level B2. How do you feel?'",
+        "ar": "سمعت: 'Vocês chegaram ao fim do nível B2. Como se sentem?' — 'لقد وصلتم إلى نهاية المستوى B2. كيف تشعرون؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Excelente. Lembrem-se de que o subjuntivo precisa de prática diária.",
+          "en": "Right. When you feel confident, move on to level C1.",
+          "ar": "ممتاز. تذكروا أن صيغة الشرط تحتاج إلى ممارسة يومية."
+        },
+        {
+          "pt": "Muito bem! Agora consigo discutir temas complexos em português.",
+          "en": "Very good! Now I can discuss complex topics in Portuguese.",
+          "ar": "صحيح. عندما تشعرون بالثقة، انتقلوا إلى المستوى C1."
+        },
+        {
+          "pt": "Certo. Quando vocês se sentirem confiantes, passem para o nível C1.",
+          "en": "Excellent. Remember that the subjunctive needs daily practice.",
+          "ar": "جيد جدًا! الآن أستطيع مناقشة مواضيع معقدة بالبرتغالية."
+        }
+      ],
+      "answer": "Muito bem! Agora consigo discutir temas complexos em português.",
+      "accepted": [],
+      "audio": "Muito bem! Agora consigo discutir temas complexos em português.",
+      "explanation": {
+        "pt": "Você ouviu: 'Muito bem! Agora consigo discutir temas complexos em português.' — 'Very good! Now I can discuss complex topics in Portuguese.'",
+        "en": "You heard: 'Muito bem! Agora consigo discutir temas complexos em português.' — 'Very good! Now I can discuss complex topics in Portuguese.'",
+        "ar": "سمعت: 'Muito bem! Agora consigo discutir temas complexos em português.' — 'جيد جدًا! الآن أستطيع مناقشة مواضيع معقدة بالبرتغالية.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "ao",
+          "en": "ao",
+          "ar": "ao"
+        },
+        {
+          "pt": "nível",
+          "en": "nível",
+          "ar": "nível"
+        },
+        {
+          "pt": "se",
+          "en": "se",
+          "ar": "se"
+        },
+        {
+          "pt": "B2.",
+          "en": "B2.",
+          "ar": "B2."
+        },
+        {
+          "pt": "Vocês",
+          "en": "Vocês",
+          "ar": "Vocês"
+        },
+        {
+          "pt": "sentem?",
+          "en": "sentem?",
+          "ar": "sentem?"
+        },
+        {
+          "pt": "fim",
+          "en": "fim",
+          "ar": "fim"
+        },
+        {
+          "pt": "Como",
+          "en": "Como",
+          "ar": "Como"
+        },
+        {
+          "pt": "chegaram",
+          "en": "chegaram",
+          "ar": "chegaram"
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        }
+      ],
+      "answer": "Vocês chegaram ao fim do nível B2. Como se sentem?",
+      "accepted": [
+        "Vocês chegaram ao fim do nível B2. Como se sentem?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Vocês chegaram ao fim do nível B2. Como se sentem?'",
+        "en": "The correct order: 'You've reached the end of level B2. How do you feel?'",
+        "ar": "الترتيب الصحيح: 'لقد وصلتم إلى نهاية المستوى B2. كيف تشعرون؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o subjuntivo",
+          "en": "the connector",
+          "ar": "o subjuntivo"
+        },
+        {
+          "pt": "o conectivo",
+          "en": "the discovery",
+          "ar": "o conectivo"
+        },
+        {
+          "pt": "o vocabulário",
+          "en": "the subjunctive",
+          "ar": "o vocabulário"
+        },
+        {
+          "pt": "a sustentabilidade",
+          "en": "the sustainability",
+          "ar": "a sustentabilidade"
+        },
+        {
+          "pt": "a voz passiva",
+          "en": "the passive voice",
+          "ar": "a voz passiva"
+        },
+        {
+          "pt": "a descoberta",
+          "en": "the vocabulary",
+          "ar": "a descoberta"
+        }
+      ],
+      "answer": "o subjuntivo::the connector|o conectivo::the discovery|o vocabulário::the subjunctive|a sustentabilidade::the sustainability|a voz passiva::the passive voice|a descoberta::the vocabulary",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Vocês chegaram ao fim do nível B2. Como se sentem?",
+          "en": "Right. When you feel confident, move on to level C1.",
+          "ar": "صحيح. عندما تشعرون بالثقة، انتقلوا إلى المستوى C1."
+        },
+        {
+          "pt": "Sim. Se eu praticar todos os dias, vou melhorar cada vez mais.",
+          "en": "You've reached the end of level B2. How do you feel?",
+          "ar": "لقد وصلتم إلى نهاية المستوى B2. كيف تشعرون؟"
+        },
+        {
+          "pt": "Certo. Quando vocês se sentirem confiantes, passem para o nível C1.",
+          "en": "Yes. If I practice every day, I'll keep improving.",
+          "ar": "نعم. إذا تدربت كل يوم، سأتحسن أكثر فأكثر."
+        }
+      ],
+      "answer": "Vocês chegaram ao fim do nível B2. Como se sentem?",
+      "accepted": [],
+      "audio": "Vocês chegaram ao fim do nível B2. Como se sentem?",
+      "explanation": {
+        "pt": "Você ouviu: 'Vocês chegaram ao fim do nível B2. Como se sentem?' — 'You've reached the end of level B2. How do you feel?'",
+        "en": "You heard: 'Vocês chegaram ao fim do nível B2. Como se sentem?' — 'You've reached the end of level B2. How do you feel?'",
+        "ar": "سمعت: 'Vocês chegaram ao fim do nível B2. Como se sentem?' — 'لقد وصلتم إلى نهاية المستوى B2. كيف تشعرون؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Vocês chegaram ao fim do nível B2. Como se sentem?",
+          "en": "Very good! Now I can discuss complex topics in Portuguese.",
+          "ar": "جيد جدًا! الآن أستطيع مناقشة مواضيع معقدة بالبرتغالية."
+        },
+        {
+          "pt": "Sim. Se eu praticar todos os dias, vou melhorar cada vez mais.",
+          "en": "Yes. If I practice every day, I'll keep improving.",
+          "ar": "لقد وصلتم إلى نهاية المستوى B2. كيف تشعرون؟"
+        },
+        {
+          "pt": "Muito bem! Agora consigo discutir temas complexos em português.",
+          "en": "You've reached the end of level B2. How do you feel?",
+          "ar": "نعم. إذا تدربت كل يوم، سأتحسن أكثر فأكثر."
+        }
+      ],
+      "answer": "Muito bem! Agora consigo discutir temas complexos em português.",
+      "accepted": [],
+      "audio": "Muito bem! Agora consigo discutir temas complexos em português.",
+      "explanation": {
+        "pt": "Você ouviu: 'Muito bem! Agora consigo discutir temas complexos em português.' — 'Very good! Now I can discuss complex topics in Portuguese.'",
+        "en": "You heard: 'Muito bem! Agora consigo discutir temas complexos em português.' — 'Very good! Now I can discuss complex topics in Portuguese.'",
+        "ar": "سمعت: 'Muito bem! Agora consigo discutir temas complexos em português.' — 'جيد جدًا! الآن أستطيع مناقشة مواضيع معقدة بالبرتغالية.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "sentem?",
+          "en": "sentem?",
+          "ar": "sentem?"
+        },
+        {
+          "pt": "B2.",
+          "en": "B2.",
+          "ar": "B2."
+        },
+        {
+          "pt": "ao",
+          "en": "ao",
+          "ar": "ao"
+        },
+        {
+          "pt": "Como",
+          "en": "Como",
+          "ar": "Como"
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "fim",
+          "en": "fim",
+          "ar": "fim"
+        },
+        {
+          "pt": "Vocês",
+          "en": "Vocês",
+          "ar": "Vocês"
+        },
+        {
+          "pt": "chegaram",
+          "en": "chegaram",
+          "ar": "chegaram"
+        },
+        {
+          "pt": "se",
+          "en": "se",
+          "ar": "se"
+        },
+        {
+          "pt": "nível",
+          "en": "nível",
+          "ar": "nível"
+        }
+      ],
+      "answer": "Vocês chegaram ao fim do nível B2. Como se sentem?",
+      "accepted": [
+        "Vocês chegaram ao fim do nível B2. Como se sentem?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Vocês chegaram ao fim do nível B2. Como se sentem?'",
+        "en": "The correct order: 'You've reached the end of level B2. How do you feel?'",
+        "ar": "الترتيب الصحيح: 'لقد وصلتم إلى نهاية المستوى B2. كيف تشعرون؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o conectivo",
+          "en": "the subjunctive",
+          "ar": "o conectivo"
+        },
+        {
+          "pt": "o vocabulário",
+          "en": "the passive voice",
+          "ar": "o vocabulário"
+        },
+        {
+          "pt": "a sustentabilidade",
+          "en": "the discovery",
+          "ar": "a sustentabilidade"
+        },
+        {
+          "pt": "o subjuntivo",
+          "en": "the connector",
+          "ar": "o subjuntivo"
+        },
+        {
+          "pt": "a descoberta",
+          "en": "the sustainability",
+          "ar": "a descoberta"
+        },
+        {
+          "pt": "a voz passiva",
+          "en": "the vocabulary",
+          "ar": "a voz passiva"
+        }
+      ],
+      "answer": "o conectivo::the subjunctive|o vocabulário::the passive voice|a sustentabilidade::the discovery|o subjuntivo::the connector|a descoberta::the sustainability|a voz passiva::the vocabulary",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Muito bem! Agora consigo discutir temas complexos em português.",
+          "en": "Very good! Now I can discuss complex topics in Portuguese.",
+          "ar": "جيد جدًا! الآن أستطيع مناقشة مواضيع معقدة بالبرتغالية."
+        },
+        {
+          "pt": "Vocês chegaram ao fim do nível B2. Como se sentem?",
+          "en": "Right. When you feel confident, move on to level C1.",
+          "ar": "صحيح. عندما تشعرون بالثقة، انتقلوا إلى المستوى C1."
+        },
+        {
+          "pt": "Certo. Quando vocês se sentirem confiantes, passem para o nível C1.",
+          "en": "You've reached the end of level B2. How do you feel?",
+          "ar": "لقد وصلتم إلى نهاية المستوى B2. كيف تشعرون؟"
+        }
+      ],
+      "answer": "Vocês chegaram ao fim do nível B2. Como se sentem?",
+      "accepted": [],
+      "audio": "Vocês chegaram ao fim do nível B2. Como se sentem?",
+      "explanation": {
+        "pt": "Você ouviu: 'Vocês chegaram ao fim do nível B2. Como se sentem?' — 'You've reached the end of level B2. How do you feel?'",
+        "en": "You heard: 'Vocês chegaram ao fim do nível B2. Como se sentem?' — 'You've reached the end of level B2. How do you feel?'",
+        "ar": "سمعت: 'Vocês chegaram ao fim do nível B2. Como se sentem?' — 'لقد وصلتم إلى نهاية المستوى B2. كيف تشعرون؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Muito bem! Agora consigo discutir temas complexos em português.",
+          "en": "You've reached the end of level B2. How do you feel?",
+          "ar": "جيد جدًا! الآن أستطيع مناقشة مواضيع معقدة بالبرتغالية."
+        },
+        {
+          "pt": "Excelente. Lembrem-se de que o subjuntivo precisa de prática diária.",
+          "en": "Very good! Now I can discuss complex topics in Portuguese.",
+          "ar": "ممتاز. تذكروا أن صيغة الشرط تحتاج إلى ممارسة يومية."
+        },
+        {
+          "pt": "Vocês chegaram ao fim do nível B2. Como se sentem?",
+          "en": "Excellent. Remember that the subjunctive needs daily practice.",
+          "ar": "لقد وصلتم إلى نهاية المستوى B2. كيف تشعرون؟"
+        }
+      ],
+      "answer": "Muito bem! Agora consigo discutir temas complexos em português.",
+      "accepted": [],
+      "audio": "Muito bem! Agora consigo discutir temas complexos em português.",
+      "explanation": {
+        "pt": "Você ouviu: 'Muito bem! Agora consigo discutir temas complexos em português.' — 'Very good! Now I can discuss complex topics in Portuguese.'",
+        "en": "You heard: 'Muito bem! Agora consigo discutir temas complexos em português.' — 'Very good! Now I can discuss complex topics in Portuguese.'",
+        "ar": "سمعت: 'Muito bem! Agora consigo discutir temas complexos em português.' — 'جيد جدًا! الآن أستطيع مناقشة مواضيع معقدة بالبرتغالية.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Vocês",
+          "en": "Vocês",
+          "ar": "Vocês"
+        },
+        {
+          "pt": "fim",
+          "en": "fim",
+          "ar": "fim"
+        },
+        {
+          "pt": "B2.",
+          "en": "B2.",
+          "ar": "B2."
+        },
+        {
+          "pt": "chegaram",
+          "en": "chegaram",
+          "ar": "chegaram"
+        },
+        {
+          "pt": "sentem?",
+          "en": "sentem?",
+          "ar": "sentem?"
+        },
+        {
+          "pt": "se",
+          "en": "se",
+          "ar": "se"
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "nível",
+          "en": "nível",
+          "ar": "nível"
+        },
+        {
+          "pt": "ao",
+          "en": "ao",
+          "ar": "ao"
+        },
+        {
+          "pt": "Como",
+          "en": "Como",
+          "ar": "Como"
+        }
+      ],
+      "answer": "Vocês chegaram ao fim do nível B2. Como se sentem?",
+      "accepted": [
+        "Vocês chegaram ao fim do nível B2. Como se sentem?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Vocês chegaram ao fim do nível B2. Como se sentem?'",
+        "en": "The correct order: 'You've reached the end of level B2. How do you feel?'",
+        "ar": "الترتيب الصحيح: 'لقد وصلتم إلى نهاية المستوى B2. كيف تشعرون؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a sustentabilidade",
+          "en": "the connector",
+          "ar": "a sustentabilidade"
+        },
+        {
+          "pt": "a descoberta",
+          "en": "the subjunctive",
+          "ar": "a descoberta"
+        },
+        {
+          "pt": "a voz passiva",
+          "en": "the sustainability",
+          "ar": "a voz passiva"
+        },
+        {
+          "pt": "o subjuntivo",
+          "en": "the vocabulary",
+          "ar": "o subjuntivo"
+        },
+        {
+          "pt": "o conectivo",
+          "en": "the passive voice",
+          "ar": "o conectivo"
+        },
+        {
+          "pt": "o vocabulário",
+          "en": "the discovery",
+          "ar": "o vocabulário"
+        }
+      ],
+      "answer": "a sustentabilidade::the connector|a descoberta::the subjunctive|a voz passiva::the sustainability|o subjuntivo::the vocabulary|o conectivo::the passive voice|o vocabulário::the discovery",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Vocês chegaram ao fim do nível B2. Como se sentem?",
+          "en": "Yes. If I practice every day, I'll keep improving.",
+          "ar": "صحيح. عندما تشعرون بالثقة، انتقلوا إلى المستوى C1."
+        },
+        {
+          "pt": "Sim. Se eu praticar todos os dias, vou melhorar cada vez mais.",
+          "en": "Right. When you feel confident, move on to level C1.",
+          "ar": "لقد وصلتم إلى نهاية المستوى B2. كيف تشعرون؟"
+        },
+        {
+          "pt": "Certo. Quando vocês se sentirem confiantes, passem para o nível C1.",
+          "en": "You've reached the end of level B2. How do you feel?",
+          "ar": "نعم. إذا تدربت كل يوم، سأتحسن أكثر فأكثر."
+        }
+      ],
+      "answer": "Vocês chegaram ao fim do nível B2. Como se sentem?",
+      "accepted": [],
+      "audio": "Vocês chegaram ao fim do nível B2. Como se sentem?",
+      "explanation": {
+        "pt": "Você ouviu: 'Vocês chegaram ao fim do nível B2. Como se sentem?' — 'You've reached the end of level B2. How do you feel?'",
+        "en": "You heard: 'Vocês chegaram ao fim do nível B2. Como se sentem?' — 'You've reached the end of level B2. How do you feel?'",
+        "ar": "سمعت: 'Vocês chegaram ao fim do nível B2. Como se sentem?' — 'لقد وصلتم إلى نهاية المستوى B2. كيف تشعرون؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Excelente. Lembrem-se de que o subjuntivo precisa de prática diária.",
+          "en": "Excellent. Remember that the subjunctive needs daily practice.",
+          "ar": "جيد جدًا! الآن أستطيع مناقشة مواضيع معقدة بالبرتغالية."
+        },
+        {
+          "pt": "Sim. Se eu praticar todos os dias, vou melhorar cada vez mais.",
+          "en": "Very good! Now I can discuss complex topics in Portuguese.",
+          "ar": "نعم. إذا تدربت كل يوم، سأتحسن أكثر فأكثر."
+        },
+        {
+          "pt": "Muito bem! Agora consigo discutir temas complexos em português.",
+          "en": "Yes. If I practice every day, I'll keep improving.",
+          "ar": "ممتاز. تذكروا أن صيغة الشرط تحتاج إلى ممارسة يومية."
+        }
+      ],
+      "answer": "Muito bem! Agora consigo discutir temas complexos em português.",
+      "accepted": [],
+      "audio": "Muito bem! Agora consigo discutir temas complexos em português.",
+      "explanation": {
+        "pt": "Você ouviu: 'Muito bem! Agora consigo discutir temas complexos em português.' — 'Very good! Now I can discuss complex topics in Portuguese.'",
+        "en": "You heard: 'Muito bem! Agora consigo discutir temas complexos em português.' — 'Very good! Now I can discuss complex topics in Portuguese.'",
+        "ar": "سمعت: 'Muito bem! Agora consigo discutir temas complexos em português.' — 'جيد جدًا! الآن أستطيع مناقشة مواضيع معقدة بالبرتغالية.'"
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'the subjunctive'",
+        "en": "Type in Portuguese: 'the subjunctive'",
+        "ar": "اكتب بالبرتغالية: 'صيغة الشرط'"
+      },
+      "options": [],
+      "answer": "o subjuntivo",
+      "accepted": [
+        "o subjuntivo"
+      ],
+      "explanation": {
+        "pt": "'o subjuntivo' significa 'the subjunctive'.",
+        "en": "'o subjuntivo' means 'the subjunctive'.",
+        "ar": "'$o subjuntivo' بالعربية: '$صيغة الشرط'."
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'the passive voice'",
+        "en": "Type in Portuguese: 'the passive voice'",
+        "ar": "اكتب بالبرتغالية: 'المبني للمجهول'"
+      },
+      "options": [],
+      "answer": "a voz passiva",
+      "accepted": [
+        "a voz passiva"
+      ],
+      "explanation": {
+        "pt": "'a voz passiva' significa 'the passive voice'.",
+        "en": "'a voz passiva' means 'the passive voice'.",
+        "ar": "'$a voz passiva' بالعربية: '$المبني للمجهول'."
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Certo. Quando vocês se sentirem confiantes, passem para o nível C1.",
+          "en": "Certo. Quando vocês se sentirem confiantes, passem para o nível C1.",
+          "ar": "Certo. Quando vocês se sentirem confiantes, passem para o nível C1."
+        },
+        {
+          "pt": "Muito bem! Agora consigo discutir temas complexos em português.",
+          "en": "Muito bem! Agora consigo discutir temas complexos em português.",
+          "ar": "Muito bem! Agora consigo discutir temas complexos em português."
+        },
+        {
+          "pt": "Vocês chegaram ao fim do nível B2. Como se sentem?",
+          "en": "Vocês chegaram ao fim do nível B2. Como se sentem?",
+          "ar": "Vocês chegaram ao fim do nível B2. Como se sentem?"
+        }
+      ],
+      "answer": "Vocês chegaram ao fim do nível B2. Como se sentem?",
+      "accepted": [],
+      "audio": "Vocês chegaram ao fim do nível B2. Como se sentem?",
+      "explanation": {
+        "pt": "Você ouviu: 'Vocês chegaram ao fim do nível B2. Como se sentem?'",
+        "en": "You heard: 'Vocês chegaram ao fim do nível B2. Como se sentem?'",
+        "ar": "سمعت: 'Vocês chegaram ao fim do nível B2. Como se sentem?'"
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Muito bem! Agora consigo discutir temas complexos em português.",
+          "en": "Muito bem! Agora consigo discutir temas complexos em português.",
+          "ar": "Muito bem! Agora consigo discutir temas complexos em português."
+        },
+        {
+          "pt": "Sim. Se eu praticar todos os dias, vou melhorar cada vez mais.",
+          "en": "Sim. Se eu praticar todos os dias, vou melhorar cada vez mais.",
+          "ar": "Sim. Se eu praticar todos os dias, vou melhorar cada vez mais."
+        },
+        {
+          "pt": "Vocês chegaram ao fim do nível B2. Como se sentem?",
+          "en": "Vocês chegaram ao fim do nível B2. Como se sentem?",
+          "ar": "Vocês chegaram ao fim do nível B2. Como se sentem?"
+        }
+      ],
+      "answer": "Muito bem! Agora consigo discutir temas complexos em português.",
+      "accepted": [],
+      "audio": "Muito bem! Agora consigo discutir temas complexos em português.",
+      "explanation": {
+        "pt": "Você ouviu: 'Muito bem! Agora consigo discutir temas complexos em português.'",
+        "en": "You heard: 'Muito bem! Agora consigo discutir temas complexos em português.'",
+        "ar": "سمعت: 'Muito bem! Agora consigo discutir temas complexos em português.'"
+      }
+    },
+    {
+      "type": "dictation",
+      "prompt": {
+        "pt": "Ouça e escreva o que você ouviu.",
+        "en": "Listen and type what you hear.",
+        "ar": "استمع واكتب ما سمعته."
+      },
+      "options": [],
+      "answer": "Vocês chegaram ao fim do nível B2. Como se sentem?",
+      "accepted": [],
+      "audio": "Vocês chegaram ao fim do nível B2. Como se sentem?",
+      "explanation": {
+        "pt": "A frase correta: 'Vocês chegaram ao fim do nível B2. Como se sentem?'",
+        "en": "The correct sentence: 'Vocês chegaram ao fim do nível B2. Como se sentem?'",
+        "ar": "الجملة الصحيحة: 'Vocês chegaram ao fim do nível B2. Como se sentem?'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "chegaram",
+          "en": "chegaram",
+          "ar": "chegaram"
+        },
+        {
+          "pt": "Como",
+          "en": "Como",
+          "ar": "Como"
+        },
+        {
+          "pt": "Vocês",
+          "en": "Vocês",
+          "ar": "Vocês"
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "nível",
+          "en": "nível",
+          "ar": "nível"
+        },
+        {
+          "pt": "ao",
+          "en": "ao",
+          "ar": "ao"
+        },
+        {
+          "pt": "sentem?",
+          "en": "sentem?",
+          "ar": "sentem?"
+        },
+        {
+          "pt": "fim",
+          "en": "fim",
+          "ar": "fim"
+        },
+        {
+          "pt": "se",
+          "en": "se",
+          "ar": "se"
+        },
+        {
+          "pt": "B2.",
+          "en": "B2.",
+          "ar": "B2."
+        }
+      ],
+      "answer": "Vocês chegaram ao fim do nível B2. Como se sentem?",
+      "accepted": [
+        "Vocês chegaram ao fim do nível B2. Como se sentem?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Vocês chegaram ao fim do nível B2. Como se sentem?'",
+        "en": "The correct order: 'You've reached the end of level B2. How do you feel?'",
+        "ar": "الترتيب الصحيح: 'لقد وصلتم إلى نهاية المستوى B2. كيف تشعرون؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o conectivo",
+          "en": "the subjunctive",
+          "ar": "o conectivo"
+        },
+        {
+          "pt": "o vocabulário",
+          "en": "the sustainability",
+          "ar": "o vocabulário"
+        },
+        {
+          "pt": "a sustentabilidade",
+          "en": "the vocabulary",
+          "ar": "a sustentabilidade"
+        },
+        {
+          "pt": "a descoberta",
+          "en": "the passive voice",
+          "ar": "a descoberta"
+        },
+        {
+          "pt": "a voz passiva",
+          "en": "the discovery",
+          "ar": "a voz passiva"
+        },
+        {
+          "pt": "o subjuntivo",
+          "en": "the connector",
+          "ar": "o subjuntivo"
+        }
+      ],
+      "answer": "o conectivo::the subjunctive|o vocabulário::the sustainability|a sustentabilidade::the vocabulary|a descoberta::the passive voice|a voz passiva::the discovery|o subjuntivo::the connector",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim. Se eu praticar todos os dias, vou melhorar cada vez mais.",
+          "en": "You've reached the end of level B2. How do you feel?",
+          "ar": "نعم. إذا تدربت كل يوم، سأتحسن أكثر فأكثر."
+        },
+        {
+          "pt": "Excelente. Lembrem-se de que o subjuntivo precisa de prática diária.",
+          "en": "Yes. If I practice every day, I'll keep improving.",
+          "ar": "لقد وصلتم إلى نهاية المستوى B2. كيف تشعرون؟"
+        },
+        {
+          "pt": "Vocês chegaram ao fim do nível B2. Como se sentem?",
+          "en": "Excellent. Remember that the subjunctive needs daily practice.",
+          "ar": "ممتاز. تذكروا أن صيغة الشرط تحتاج إلى ممارسة يومية."
+        }
+      ],
+      "answer": "Vocês chegaram ao fim do nível B2. Como se sentem?",
+      "accepted": [],
+      "audio": "Vocês chegaram ao fim do nível B2. Como se sentem?",
+      "explanation": {
+        "pt": "Você ouviu: 'Vocês chegaram ao fim do nível B2. Como se sentem?' — 'You've reached the end of level B2. How do you feel?'",
+        "en": "You heard: 'Vocês chegaram ao fim do nível B2. Como se sentem?' — 'You've reached the end of level B2. How do you feel?'",
+        "ar": "سمعت: 'Vocês chegaram ao fim do nível B2. Como se sentem?' — 'لقد وصلتم إلى نهاية المستوى B2. كيف تشعرون؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Vocês chegaram ao fim do nível B2. Como se sentem?",
+          "en": "Yes. If I practice every day, I'll keep improving.",
+          "ar": "لقد وصلتم إلى نهاية المستوى B2. كيف تشعرون؟"
+        },
+        {
+          "pt": "Muito bem! Agora consigo discutir temas complexos em português.",
+          "en": "You've reached the end of level B2. How do you feel?",
+          "ar": "جيد جدًا! الآن أستطيع مناقشة مواضيع معقدة بالبرتغالية."
+        },
+        {
+          "pt": "Sim. Se eu praticar todos os dias, vou melhorar cada vez mais.",
+          "en": "Very good! Now I can discuss complex topics in Portuguese.",
+          "ar": "نعم. إذا تدربت كل يوم، سأتحسن أكثر فأكثر."
+        }
+      ],
+      "answer": "Muito bem! Agora consigo discutir temas complexos em português.",
+      "accepted": [],
+      "audio": "Muito bem! Agora consigo discutir temas complexos em português.",
+      "explanation": {
+        "pt": "Você ouviu: 'Muito bem! Agora consigo discutir temas complexos em português.' — 'Very good! Now I can discuss complex topics in Portuguese.'",
+        "en": "You heard: 'Muito bem! Agora consigo discutir temas complexos em português.' — 'Very good! Now I can discuss complex topics in Portuguese.'",
+        "ar": "سمعت: 'Muito bem! Agora consigo discutir temas complexos em português.' — 'جيد جدًا! الآن أستطيع مناقشة مواضيع معقدة بالبرتغالية.'"
+      }
+    }
+  ],
+  "speaking": {
+    "title": {
+      "pt": "Fale Agora — Ouça e Repita",
+      "en": "Speak Now — Listen and Repeat",
+      "ar": "تحدث الآن — استمع وكرر"
+    },
+    "phrases": [
+      {
+        "pt": "Vocês chegaram ao fim do nível B2. Como se sentem?",
+        "en": "You've reached the end of level B2. How do you feel?",
+        "ar": "لقد وصلتم إلى نهاية المستوى B2. كيف تشعرون؟"
+      },
+      {
+        "pt": "Muito bem! Agora consigo discutir temas complexos em português.",
+        "en": "Very good! Now I can discuss complex topics in Portuguese.",
+        "ar": "جيد جدًا! الآن أستطيع مناقشة مواضيع معقدة بالبرتغالية."
+      },
+      {
+        "pt": "Excelente. Lembrem-se de que o subjuntivo precisa de prática diária.",
+        "en": "Excellent. Remember that the subjunctive needs daily practice.",
+        "ar": "ممتاز. تذكروا أن صيغة الشرط تحتاج إلى ممارسة يومية."
+      },
+      {
+        "pt": "Sim. Se eu praticar todos os dias, vou melhorar cada vez mais.",
+        "en": "Yes. If I practice every day, I'll keep improving.",
+        "ar": "نعم. إذا تدربت كل يوم، سأتحسن أكثر فأكثر."
+      },
+      {
+        "pt": "Certo. Quando vocês se sentirem confiantes, passem para o nível C1.",
+        "en": "Right. When you feel confident, move on to level C1.",
+        "ar": "صحيح. عندما تشعرون بالثقة، انتقلوا إلى المستوى C1."
+      },
+      {
+        "pt": "o subjuntivo",
+        "en": "the subjunctive",
+        "ar": "صيغة الشرط"
+      },
+      {
+        "pt": "a voz passiva",
+        "en": "the passive voice",
+        "ar": "المبني للمجهول"
+      },
+      {
+        "pt": "o conectivo",
+        "en": "the connector",
+        "ar": "أداة الربط"
+      }
+    ]
+  },
+  "cultural_tips": {
+    "pt": "",
+    "en": "",
+    "ar": ""
+  }
+}

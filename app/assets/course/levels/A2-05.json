@@ -1,0 +1,1960 @@
+{
+  "id": "A2-05",
+  "level": "A2",
+  "level_name": {
+    "pt": "Básico",
+    "en": "Elementary",
+    "ar": "أساسي"
+  },
+  "title": {
+    "pt": "Comparativos e Superlativos",
+    "en": "Comparatives and Superlatives",
+    "ar": "أسماء التفضيل والمقارنة"
+  },
+  "objectives": [
+    {
+      "pt": "Comparar pessoas e coisas (mais/menos/tão)",
+      "en": "Compare people and things (more/less/as)",
+      "ar": "المقارنة بين الأشخاص والأشياء (أكثر/أقل/بنفس القدر)"
+    },
+    {
+      "pt": "Usar o superlativo (o melhor, o mais...)",
+      "en": "Use the superlative (the best, the most...)",
+      "ar": "استخدام صيغة التفضيل (الأفضل، الأكثر...)"
+    },
+    {
+      "pt": "Reconhecer comparativos irregulares",
+      "en": "Recognize irregular comparatives",
+      "ar": "التعرف على صيغ المقارنة الشاذة"
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "mais",
+      "ipa": "/majs/",
+      "en": "more",
+      "ar": "أكثر",
+      "example": {
+        "pt": "É maior do que Recife, mas é mais cara.",
+        "en": "It is bigger than Recife, but it is more expensive.",
+        "ar": "إنها أكبر من ريسيفي، لكنها أغلى."
+      }
+    },
+    {
+      "pt": "menos",
+      "ipa": "/ˈmẽ.nus/",
+      "en": "less",
+      "ar": "أقل",
+      "example": {
+        "pt": "Este livro é menos interessante do que aquele.",
+        "en": "This book is less interesting than that one.",
+        "ar": "هذا الكتاب أقل إثارة من ذلك."
+      }
+    },
+    {
+      "pt": "do que",
+      "ipa": "/du ki/",
+      "en": "than",
+      "ar": "من (للمقارنة)",
+      "example": {
+        "pt": "É maior do que Recife, mas é mais cara.",
+        "en": "It is bigger than Recife, but it is more expensive.",
+        "ar": "إنها أكبر من ريسيفي، لكنها أغلى."
+      }
+    },
+    {
+      "pt": "tão... quanto",
+      "ipa": "/tɐ̃w ... ˈkwɐ̃.tu/",
+      "en": "as... as",
+      "ar": "بنفس قدر",
+      "example": {
+        "pt": "O que você acha de São Paulo?",
+        "en": "What do you think of São Paulo?",
+        "ar": "ما رأيك في ساو باولو؟"
+      }
+    },
+    {
+      "pt": "melhor",
+      "ipa": "/meˈʎɔʁ/",
+      "en": "better",
+      "ar": "أفضل",
+      "example": {
+        "pt": "Verdade. Lá a vida é melhor para a família.",
+        "en": "True. There, life is better for the family.",
+        "ar": "صحيح. الحياة هناك أفضل للعائلة."
+      }
+    },
+    {
+      "pt": "pior",
+      "ipa": "/piˈɔʁ/",
+      "en": "worse",
+      "ar": "أسوأ",
+      "example": {
+        "pt": "O trânsito de São Paulo é o pior do Brasil.",
+        "en": "São Paulo's traffic is the worst in Brazil.",
+        "ar": "حركة مرور ساو باولو هي الأسوأ في البرازيل."
+      }
+    },
+    {
+      "pt": "o melhor",
+      "ipa": "/u meˈʎɔʁ/",
+      "en": "the best",
+      "ar": "الأفضل",
+      "example": {
+        "pt": "O que você acha de São Paulo?",
+        "en": "What do you think of São Paulo?",
+        "ar": "ما رأيك في ساو باولو؟"
+      }
+    },
+    {
+      "pt": "o pior",
+      "ipa": "/u piˈɔʁ/",
+      "en": "the worst",
+      "ar": "الأسوأ",
+      "example": {
+        "pt": "O que você acha de São Paulo?",
+        "en": "What do you think of São Paulo?",
+        "ar": "ما رأيك في ساو باولو؟"
+      }
+    },
+    {
+      "pt": "maior",
+      "ipa": "/majˈɔʁ/",
+      "en": "bigger",
+      "ar": "أكبر",
+      "example": {
+        "pt": "É maior do que Recife, mas é mais cara.",
+        "en": "It is bigger than Recife, but it is more expensive.",
+        "ar": "إنها أكبر من ريسيفي، لكنها أغلى."
+      }
+    },
+    {
+      "pt": "menor",
+      "ipa": "/meˈnɔʁ/",
+      "en": "smaller",
+      "ar": "أصغر",
+      "example": {
+        "pt": "O que você acha de São Paulo?",
+        "en": "What do you think of São Paulo?",
+        "ar": "ما رأيك في ساو باولو؟"
+      }
+    },
+    {
+      "pt": "grande",
+      "ipa": "/ˈɡɾɐ̃.dʒi/",
+      "en": "big",
+      "ar": "كبير",
+      "example": {
+        "pt": "O que você acha de São Paulo?",
+        "en": "What do you think of São Paulo?",
+        "ar": "ما رأيك في ساو باولو؟"
+      }
+    },
+    {
+      "pt": "pequeno",
+      "ipa": "/peˈkẽ.nu/",
+      "en": "small",
+      "ar": "صغير",
+      "example": {
+        "pt": "O que você acha de São Paulo?",
+        "en": "What do you think of São Paulo?",
+        "ar": "ما رأيك في ساو باولو؟"
+      }
+    },
+    {
+      "pt": "bonito",
+      "ipa": "/boˈni.tu/",
+      "en": "beautiful",
+      "ar": "جميل",
+      "example": {
+        "pt": "O que você acha de São Paulo?",
+        "en": "What do you think of São Paulo?",
+        "ar": "ما رأيك في ساو باولو؟"
+      }
+    },
+    {
+      "pt": "igual",
+      "ipa": "/iˈɡwaw/",
+      "en": "equal / the same",
+      "ar": "متساوٍ / مماثل",
+      "example": {
+        "pt": "O que você acha de São Paulo?",
+        "en": "What do you think of São Paulo?",
+        "ar": "ما رأيك في ساو باولو؟"
+      }
+    },
+    {
+      "pt": "diferente",
+      "ipa": "/dʒi.feˈɾẽ.tʃi/",
+      "en": "different",
+      "ar": "مختلف",
+      "example": {
+        "pt": "O que você acha de São Paulo?",
+        "en": "What do you think of São Paulo?",
+        "ar": "ما رأيك في ساو باولو؟"
+      }
+    },
+    {
+      "pt": "a altura",
+      "ipa": "/a awˈtu.ɾa/",
+      "en": "the height",
+      "ar": "الطول",
+      "example": {
+        "pt": "Verdade. Lá a vida é melhor para a família.",
+        "en": "True. There, life is better for the family.",
+        "ar": "صحيح. الحياة هناك أفضل للعائلة."
+      }
+    },
+    {
+      "pt": "a idade",
+      "ipa": "/a iˈda.dʒi/",
+      "en": "the age",
+      "ar": "العمر",
+      "example": {
+        "pt": "Verdade. Lá a vida é melhor para a família.",
+        "en": "True. There, life is better for the family.",
+        "ar": "صحيح. الحياة هناك أفضل للعائلة."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "title": {
+        "pt": "Comparativos",
+        "en": "Comparatives",
+        "ar": "صيغ المقارنة"
+      },
+      "explanation": {
+        "pt": "Comparativos de superioridade: mais... do que (more... than). Inferioridade: menos... do que. Igualdade: tão... quanto (as... as). Exemplos: 'São Paulo é maior do que Curitiba', 'O café é menos caro do que o suco', 'Ela é tão alta quanto o irmão'.",
+        "en": "Comparatives of superiority: mais... do que (more... than). Inferiority: menos... do que. Equality: tão... quanto (as... as). Examples: 'São Paulo é maior do que Curitiba' (São Paulo is bigger than Curitiba), 'O café é menos caro do que o suco' (Coffee is less expensive than the juice), 'Ela é tão alta quanto o irmão' (She is as tall as her brother).",
+        "ar": "صيغ المقارنة للتفضيل: mais... do que (أكثر من). للنقصان: menos... do que. للمساواة: tão... quanto (بنفس قدر). أمثلة: 'São Paulo é maior do que Curitiba' (ساو باولو أكبر من كوريتيبا)، 'O café é menos caro do que o suco' (القهوة أقل غلاءً من العصير)، 'Ela é tão alta quanto o irmão' (هي بطول أخيها)."
+      },
+      "examples": [
+        {
+          "pt": "O ônibus é mais barato do que o avião.",
+          "en": "The bus is cheaper than the plane.",
+          "ar": "الحافلة أرخص من الطائرة."
+        },
+        {
+          "pt": "Este livro é menos interessante do que aquele.",
+          "en": "This book is less interesting than that one.",
+          "ar": "هذا الكتاب أقل إثارة من ذلك."
+        },
+        {
+          "pt": "Ela é tão simpática quanto a mãe.",
+          "en": "She is as friendly as her mother.",
+          "ar": "هي ودودة مثل أمها تمامًا."
+        }
+      ]
+    },
+    {
+      "title": {
+        "pt": "Superlativos",
+        "en": "Superlatives",
+        "ar": "صيغة التفضيل"
+      },
+      "explanation": {
+        "pt": "Superlativos: o/a mais + adjetivo + de: 'O Rio é a cidade mais bonita do Brasil.' Superlativos irregulares: melhor (the best), pior (the worst), maior (the biggest), menor (the smallest). 'O melhor' = the best, 'o pior' = the worst.",
+        "en": "Superlatives: o/a mais + adjective + de: 'O Rio é a cidade mais bonita do Brasil.' (Rio is the most beautiful city in Brazil.) Irregular superlatives: melhor (the best), pior (the worst), maior (the biggest), menor (the smallest).",
+        "ar": "صيغة التفضيل: o/a mais + صفة + de: 'O Rio é a cidade mais bonita do Brasil.' (ريو هي أجمل مدينة في البرازيل). صيغ التفضيل الشاذة: melhor (الأفضل)، pior (الأسوأ)، maior (الأكبر)، menor (الأصغر)."
+      },
+      "examples": [
+        {
+          "pt": "Este é o melhor restaurante da cidade.",
+          "en": "This is the best restaurant in the city.",
+          "ar": "هذا هو أفضل مطعم في المدينة."
+        },
+        {
+          "pt": "O inverno é a estação mais fria do ano.",
+          "en": "Winter is the coldest season of the year.",
+          "ar": "الشتاء هو أبرد فصول السنة."
+        },
+        {
+          "pt": "Ela é a aluna mais dedicada da turma.",
+          "en": "She is the most dedicated student in the class.",
+          "ar": "هي الطالبة الأكثر اجتهادًا في الفصل."
+        }
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": {
+      "pt": "Comparando Cidades",
+      "en": "Comparing Cities",
+      "ar": "مقارنة المدن"
+    },
+    "lines": [
+      {
+        "speaker": "Lina",
+        "pt": "O que você acha de São Paulo?",
+        "en": "What do you think of São Paulo?",
+        "ar": "ما رأيك في ساو باولو؟"
+      },
+      {
+        "speaker": "Bruno",
+        "pt": "É maior do que Recife, mas é mais cara.",
+        "en": "It is bigger than Recife, but it is more expensive.",
+        "ar": "إنها أكبر من ريسيفي، لكنها أغلى."
+      },
+      {
+        "speaker": "Lina",
+        "pt": "E o trânsito?",
+        "en": "And the traffic?",
+        "ar": "وحركة المرور؟"
+      },
+      {
+        "speaker": "Bruno",
+        "pt": "O trânsito de São Paulo é o pior do Brasil.",
+        "en": "São Paulo's traffic is the worst in Brazil.",
+        "ar": "حركة مرور ساو باولو هي الأسوأ في البرازيل."
+      },
+      {
+        "speaker": "Lina",
+        "pt": "Prefiro cidades mais calmas, como Florianópolis.",
+        "en": "I prefer calmer cities, like Florianópolis.",
+        "ar": "أفضّل المدن الأكثر هدوءًا مثل فلوريانوبوليس."
+      },
+      {
+        "speaker": "Bruno",
+        "pt": "Verdade. Lá a vida é melhor para a família.",
+        "en": "True. There, life is better for the family.",
+        "ar": "صحيح. الحياة هناك أفضل للعائلة."
+      }
+    ]
+  },
+  "reading": {
+    "title": {
+      "pt": "Curitiba e as Outras Cidades",
+      "en": "Curitiba and the Other Cities",
+      "ar": "كوريتيبا والمدن الأخرى"
+    },
+    "text_pt": "Curitiba é uma das melhores cidades do Brasil para morar. O transporte público é mais organizado do que em muitas capitais, e os parques são mais bonitos do que em outras cidades. Porém, o custo de vida é mais alto do que no interior. Mesmo assim, muita gente quer morar lá.",
+    "text_en": "Curitiba is one of the best cities in Brazil to live in. Public transport is more organized than in many capitals, and the parks are more beautiful than in other cities. However, the cost of living is higher than in the countryside. Even so, many people want to live there.",
+    "text_ar": "كوريتيبا من أفضل المدن في البرازيل للعيش. وسائل النقل العامة أكثر تنظيمًا مما هي عليه في عواصم كثيرة، والمتنزهات أجمل مما هي عليه في مدن أخرى. لكن تكلفة المعيشة أعلى مما هي عليه في الريف. ومع ذلك، يريد كثير من الناس العيش هناك."
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "São Paulo é ___ do que Curitiba.",
+        "en": "São Paulo is ___ than Curitiba.",
+        "ar": "ساو باولو ___ من كوريتيبا."
+      },
+      "options": [
+        {
+          "pt": "maior",
+          "en": "maior",
+          "ar": "maior"
+        },
+        {
+          "pt": "melhor",
+          "en": "melhor",
+          "ar": "melhor"
+        },
+        {
+          "pt": "menos",
+          "en": "menos",
+          "ar": "menos"
+        }
+      ],
+      "answer": "maior",
+      "explanation": {
+        "pt": "'Maior' é o comparativo irregular de 'grande'.",
+        "en": "'Maior' is the irregular comparative of 'grande' (big).",
+        "ar": "'maior' هي صيغة المقارنة الشاذة لكلمة 'grande' (كبير)."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Este é ___ melhor filme do ano.",
+        "en": "This is ___ best movie of the year.",
+        "ar": "هذا هو ___ أفضل فيلم في السنة."
+      },
+      "options": [
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "um",
+          "en": "um",
+          "ar": "um"
+        }
+      ],
+      "answer": "o",
+      "explanation": {
+        "pt": "Superlativo: 'o melhor' (masculino).",
+        "en": "Superlative: 'o melhor' (masculine).",
+        "ar": "صيغة التفضيل: 'o melhor' (مذكر)."
+      }
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza: 'the best'",
+        "en": "Translate: 'the best'",
+        "ar": "ترجم: 'the best'"
+      },
+      "options": [],
+      "answer": "o melhor",
+      "explanation": {
+        "pt": "'O melhor' = the best.",
+        "en": "'O melhor' = the best.",
+        "ar": "'o melhor' = الأفضل."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "acha",
+          "en": "acha",
+          "ar": "acha"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "São",
+          "en": "São",
+          "ar": "São"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "Paulo?",
+          "en": "Paulo?",
+          "ar": "Paulo?"
+        }
+      ],
+      "answer": "O que você acha de São Paulo?",
+      "accepted": [
+        "O que você acha de São Paulo?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'O que você acha de São Paulo?'",
+        "en": "The correct order: 'What do you think of São Paulo?'",
+        "ar": "الترتيب الصحيح: 'ما رأيك في ساو باولو؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "tão... quanto",
+          "en": "better",
+          "ar": "tão... quanto"
+        },
+        {
+          "pt": "mais",
+          "en": "worse",
+          "ar": "mais"
+        },
+        {
+          "pt": "pior",
+          "en": "less",
+          "ar": "pior"
+        },
+        {
+          "pt": "melhor",
+          "en": "as... as",
+          "ar": "melhor"
+        },
+        {
+          "pt": "do que",
+          "en": "more",
+          "ar": "do que"
+        },
+        {
+          "pt": "menos",
+          "en": "than",
+          "ar": "menos"
+        }
+      ],
+      "answer": "tão... quanto::better|mais::worse|pior::less|melhor::as... as|do que::more|menos::than",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "E o trânsito?",
+          "en": "And the traffic?",
+          "ar": "صحيح. الحياة هناك أفضل للعائلة."
+        },
+        {
+          "pt": "Verdade. Lá a vida é melhor para a família.",
+          "en": "What do you think of São Paulo?",
+          "ar": "وحركة المرور؟"
+        },
+        {
+          "pt": "O que você acha de São Paulo?",
+          "en": "True. There, life is better for the family.",
+          "ar": "ما رأيك في ساو باولو؟"
+        }
+      ],
+      "answer": "O que você acha de São Paulo?",
+      "accepted": [],
+      "audio": "O que você acha de São Paulo?",
+      "explanation": {
+        "pt": "Você ouviu: 'O que você acha de São Paulo?' — 'What do you think of São Paulo?'",
+        "en": "You heard: 'O que você acha de São Paulo?' — 'What do you think of São Paulo?'",
+        "ar": "سمعت: 'O que você acha de São Paulo?' — 'ما رأيك في ساو باولو؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "É maior do que Recife, mas é mais cara.",
+          "en": "São Paulo's traffic is the worst in Brazil.",
+          "ar": "إنها أكبر من ريسيفي، لكنها أغلى."
+        },
+        {
+          "pt": "O que você acha de São Paulo?",
+          "en": "It is bigger than Recife, but it is more expensive.",
+          "ar": "حركة مرور ساو باولو هي الأسوأ في البرازيل."
+        },
+        {
+          "pt": "O trânsito de São Paulo é o pior do Brasil.",
+          "en": "What do you think of São Paulo?",
+          "ar": "ما رأيك في ساو باولو؟"
+        }
+      ],
+      "answer": "É maior do que Recife, mas é mais cara.",
+      "accepted": [],
+      "audio": "É maior do que Recife, mas é mais cara.",
+      "explanation": {
+        "pt": "Você ouviu: 'É maior do que Recife, mas é mais cara.' — 'It is bigger than Recife, but it is more expensive.'",
+        "en": "You heard: 'É maior do que Recife, mas é mais cara.' — 'It is bigger than Recife, but it is more expensive.'",
+        "ar": "سمعت: 'É maior do que Recife, mas é mais cara.' — 'إنها أكبر من ريسيفي، لكنها أغلى.'"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "O ônibus é mais barato do que ___ avião.",
+        "en": "O ônibus é mais barato do que ___ avião.",
+        "ar": "O ônibus é mais barato do que ___ avião."
+      },
+      "options": [
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "Ela",
+          "en": "Ela",
+          "ar": "Ela"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        }
+      ],
+      "answer": "o",
+      "accepted": [],
+      "explanation": {
+        "pt": "A resposta é 'o'. Frase completa: O ônibus é mais barato do que o avião.",
+        "en": "The answer is 'o'. Full sentence: The bus is cheaper than the plane.",
+        "ar": "الإجابة الصحيحة: 'o'. الجملة كاملة: الحافلة أرخص من الطائرة."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "São",
+          "en": "São",
+          "ar": "São"
+        },
+        {
+          "pt": "Paulo?",
+          "en": "Paulo?",
+          "ar": "Paulo?"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "acha",
+          "en": "acha",
+          "ar": "acha"
+        }
+      ],
+      "answer": "O que você acha de São Paulo?",
+      "accepted": [
+        "O que você acha de São Paulo?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'O que você acha de São Paulo?'",
+        "en": "The correct order: 'What do you think of São Paulo?'",
+        "ar": "الترتيب الصحيح: 'ما رأيك في ساو باولو؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "pior",
+          "en": "less",
+          "ar": "pior"
+        },
+        {
+          "pt": "tão... quanto",
+          "en": "as... as",
+          "ar": "tão... quanto"
+        },
+        {
+          "pt": "do que",
+          "en": "than",
+          "ar": "do que"
+        },
+        {
+          "pt": "mais",
+          "en": "better",
+          "ar": "mais"
+        },
+        {
+          "pt": "menos",
+          "en": "worse",
+          "ar": "menos"
+        },
+        {
+          "pt": "melhor",
+          "en": "more",
+          "ar": "melhor"
+        }
+      ],
+      "answer": "pior::less|tão... quanto::as... as|do que::than|mais::better|menos::worse|melhor::more",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Verdade. Lá a vida é melhor para a família.",
+          "en": "What do you think of São Paulo?",
+          "ar": "إنها أكبر من ريسيفي، لكنها أغلى."
+        },
+        {
+          "pt": "O que você acha de São Paulo?",
+          "en": "It is bigger than Recife, but it is more expensive.",
+          "ar": "صحيح. الحياة هناك أفضل للعائلة."
+        },
+        {
+          "pt": "É maior do que Recife, mas é mais cara.",
+          "en": "True. There, life is better for the family.",
+          "ar": "ما رأيك في ساو باولو؟"
+        }
+      ],
+      "answer": "O que você acha de São Paulo?",
+      "accepted": [],
+      "audio": "O que você acha de São Paulo?",
+      "explanation": {
+        "pt": "Você ouviu: 'O que você acha de São Paulo?' — 'What do you think of São Paulo?'",
+        "en": "You heard: 'O que você acha de São Paulo?' — 'What do you think of São Paulo?'",
+        "ar": "سمعت: 'O que você acha de São Paulo?' — 'ما رأيك في ساو باولو؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "O que você acha de São Paulo?",
+          "en": "And the traffic?",
+          "ar": "إنها أكبر من ريسيفي، لكنها أغلى."
+        },
+        {
+          "pt": "E o trânsito?",
+          "en": "What do you think of São Paulo?",
+          "ar": "وحركة المرور؟"
+        },
+        {
+          "pt": "É maior do que Recife, mas é mais cara.",
+          "en": "It is bigger than Recife, but it is more expensive.",
+          "ar": "ما رأيك في ساو باولو؟"
+        }
+      ],
+      "answer": "É maior do que Recife, mas é mais cara.",
+      "accepted": [],
+      "audio": "É maior do que Recife, mas é mais cara.",
+      "explanation": {
+        "pt": "Você ouviu: 'É maior do que Recife, mas é mais cara.' — 'It is bigger than Recife, but it is more expensive.'",
+        "en": "You heard: 'É maior do que Recife, mas é mais cara.' — 'It is bigger than Recife, but it is more expensive.'",
+        "ar": "سمعت: 'É maior do que Recife, mas é mais cara.' — 'إنها أكبر من ريسيفي، لكنها أغلى.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "acha",
+          "en": "acha",
+          "ar": "acha"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "Paulo?",
+          "en": "Paulo?",
+          "ar": "Paulo?"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "São",
+          "en": "São",
+          "ar": "São"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        }
+      ],
+      "answer": "O que você acha de São Paulo?",
+      "accepted": [
+        "O que você acha de São Paulo?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'O que você acha de São Paulo?'",
+        "en": "The correct order: 'What do you think of São Paulo?'",
+        "ar": "الترتيب الصحيح: 'ما رأيك في ساو باولو؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "pior",
+          "en": "better",
+          "ar": "pior"
+        },
+        {
+          "pt": "mais",
+          "en": "worse",
+          "ar": "mais"
+        },
+        {
+          "pt": "tão... quanto",
+          "en": "more",
+          "ar": "tão... quanto"
+        },
+        {
+          "pt": "melhor",
+          "en": "than",
+          "ar": "melhor"
+        },
+        {
+          "pt": "menos",
+          "en": "less",
+          "ar": "menos"
+        },
+        {
+          "pt": "do que",
+          "en": "as... as",
+          "ar": "do que"
+        }
+      ],
+      "answer": "pior::better|mais::worse|tão... quanto::more|melhor::than|menos::less|do que::as... as",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "O que você acha de São Paulo?",
+          "en": "São Paulo's traffic is the worst in Brazil.",
+          "ar": "أفضّل المدن الأكثر هدوءًا مثل فلوريانوبوليس."
+        },
+        {
+          "pt": "O trânsito de São Paulo é o pior do Brasil.",
+          "en": "What do you think of São Paulo?",
+          "ar": "ما رأيك في ساو باولو؟"
+        },
+        {
+          "pt": "Prefiro cidades mais calmas, como Florianópolis.",
+          "en": "I prefer calmer cities, like Florianópolis.",
+          "ar": "حركة مرور ساو باولو هي الأسوأ في البرازيل."
+        }
+      ],
+      "answer": "O que você acha de São Paulo?",
+      "accepted": [],
+      "audio": "O que você acha de São Paulo?",
+      "explanation": {
+        "pt": "Você ouviu: 'O que você acha de São Paulo?' — 'What do you think of São Paulo?'",
+        "en": "You heard: 'O que você acha de São Paulo?' — 'What do you think of São Paulo?'",
+        "ar": "سمعت: 'O que você acha de São Paulo?' — 'ما رأيك في ساو باولو؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "O trânsito de São Paulo é o pior do Brasil.",
+          "en": "It is bigger than Recife, but it is more expensive.",
+          "ar": "إنها أكبر من ريسيفي، لكنها أغلى."
+        },
+        {
+          "pt": "O que você acha de São Paulo?",
+          "en": "São Paulo's traffic is the worst in Brazil.",
+          "ar": "حركة مرور ساو باولو هي الأسوأ في البرازيل."
+        },
+        {
+          "pt": "É maior do que Recife, mas é mais cara.",
+          "en": "What do you think of São Paulo?",
+          "ar": "ما رأيك في ساو باولو؟"
+        }
+      ],
+      "answer": "É maior do que Recife, mas é mais cara.",
+      "accepted": [],
+      "audio": "É maior do que Recife, mas é mais cara.",
+      "explanation": {
+        "pt": "Você ouviu: 'É maior do que Recife, mas é mais cara.' — 'It is bigger than Recife, but it is more expensive.'",
+        "en": "You heard: 'É maior do que Recife, mas é mais cara.' — 'It is bigger than Recife, but it is more expensive.'",
+        "ar": "سمعت: 'É maior do que Recife, mas é mais cara.' — 'إنها أكبر من ريسيفي، لكنها أغلى.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "Paulo?",
+          "en": "Paulo?",
+          "ar": "Paulo?"
+        },
+        {
+          "pt": "São",
+          "en": "São",
+          "ar": "São"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "acha",
+          "en": "acha",
+          "ar": "acha"
+        }
+      ],
+      "answer": "O que você acha de São Paulo?",
+      "accepted": [
+        "O que você acha de São Paulo?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'O que você acha de São Paulo?'",
+        "en": "The correct order: 'What do you think of São Paulo?'",
+        "ar": "الترتيب الصحيح: 'ما رأيك في ساو باولو؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "melhor",
+          "en": "more",
+          "ar": "melhor"
+        },
+        {
+          "pt": "pior",
+          "en": "worse",
+          "ar": "pior"
+        },
+        {
+          "pt": "tão... quanto",
+          "en": "than",
+          "ar": "tão... quanto"
+        },
+        {
+          "pt": "menos",
+          "en": "as... as",
+          "ar": "menos"
+        },
+        {
+          "pt": "do que",
+          "en": "better",
+          "ar": "do que"
+        },
+        {
+          "pt": "mais",
+          "en": "less",
+          "ar": "mais"
+        }
+      ],
+      "answer": "melhor::more|pior::worse|tão... quanto::than|menos::as... as|do que::better|mais::less",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "O trânsito de São Paulo é o pior do Brasil.",
+          "en": "I prefer calmer cities, like Florianópolis.",
+          "ar": "أفضّل المدن الأكثر هدوءًا مثل فلوريانوبوليس."
+        },
+        {
+          "pt": "Prefiro cidades mais calmas, como Florianópolis.",
+          "en": "São Paulo's traffic is the worst in Brazil.",
+          "ar": "ما رأيك في ساو باولو؟"
+        },
+        {
+          "pt": "O que você acha de São Paulo?",
+          "en": "What do you think of São Paulo?",
+          "ar": "حركة مرور ساو باولو هي الأسوأ في البرازيل."
+        }
+      ],
+      "answer": "O que você acha de São Paulo?",
+      "accepted": [],
+      "audio": "O que você acha de São Paulo?",
+      "explanation": {
+        "pt": "Você ouviu: 'O que você acha de São Paulo?' — 'What do you think of São Paulo?'",
+        "en": "You heard: 'O que você acha de São Paulo?' — 'What do you think of São Paulo?'",
+        "ar": "سمعت: 'O que você acha de São Paulo?' — 'ما رأيك في ساو باولو؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "É maior do que Recife, mas é mais cara.",
+          "en": "I prefer calmer cities, like Florianópolis.",
+          "ar": "إنها أكبر من ريسيفي، لكنها أغلى."
+        },
+        {
+          "pt": "O trânsito de São Paulo é o pior do Brasil.",
+          "en": "São Paulo's traffic is the worst in Brazil.",
+          "ar": "حركة مرور ساو باولو هي الأسوأ في البرازيل."
+        },
+        {
+          "pt": "Prefiro cidades mais calmas, como Florianópolis.",
+          "en": "It is bigger than Recife, but it is more expensive.",
+          "ar": "أفضّل المدن الأكثر هدوءًا مثل فلوريانوبوليس."
+        }
+      ],
+      "answer": "É maior do que Recife, mas é mais cara.",
+      "accepted": [],
+      "audio": "É maior do que Recife, mas é mais cara.",
+      "explanation": {
+        "pt": "Você ouviu: 'É maior do que Recife, mas é mais cara.' — 'It is bigger than Recife, but it is more expensive.'",
+        "en": "You heard: 'É maior do que Recife, mas é mais cara.' — 'It is bigger than Recife, but it is more expensive.'",
+        "ar": "سمعت: 'É maior do que Recife, mas é mais cara.' — 'إنها أكبر من ريسيفي، لكنها أغلى.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "São",
+          "en": "São",
+          "ar": "São"
+        },
+        {
+          "pt": "acha",
+          "en": "acha",
+          "ar": "acha"
+        },
+        {
+          "pt": "Paulo?",
+          "en": "Paulo?",
+          "ar": "Paulo?"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        }
+      ],
+      "answer": "O que você acha de São Paulo?",
+      "accepted": [
+        "O que você acha de São Paulo?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'O que você acha de São Paulo?'",
+        "en": "The correct order: 'What do you think of São Paulo?'",
+        "ar": "الترتيب الصحيح: 'ما رأيك في ساو باولو؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "pior",
+          "en": "better",
+          "ar": "pior"
+        },
+        {
+          "pt": "mais",
+          "en": "than",
+          "ar": "mais"
+        },
+        {
+          "pt": "melhor",
+          "en": "more",
+          "ar": "melhor"
+        },
+        {
+          "pt": "do que",
+          "en": "as... as",
+          "ar": "do que"
+        },
+        {
+          "pt": "menos",
+          "en": "less",
+          "ar": "menos"
+        },
+        {
+          "pt": "tão... quanto",
+          "en": "worse",
+          "ar": "tão... quanto"
+        }
+      ],
+      "answer": "pior::better|mais::than|melhor::more|do que::as... as|menos::less|tão... quanto::worse",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "O que você acha de São Paulo?",
+          "en": "And the traffic?",
+          "ar": "ما رأيك في ساو باولو؟"
+        },
+        {
+          "pt": "E o trânsito?",
+          "en": "I prefer calmer cities, like Florianópolis.",
+          "ar": "وحركة المرور؟"
+        },
+        {
+          "pt": "Prefiro cidades mais calmas, como Florianópolis.",
+          "en": "What do you think of São Paulo?",
+          "ar": "أفضّل المدن الأكثر هدوءًا مثل فلوريانوبوليس."
+        }
+      ],
+      "answer": "O que você acha de São Paulo?",
+      "accepted": [],
+      "audio": "O que você acha de São Paulo?",
+      "explanation": {
+        "pt": "Você ouviu: 'O que você acha de São Paulo?' — 'What do you think of São Paulo?'",
+        "en": "You heard: 'O que você acha de São Paulo?' — 'What do you think of São Paulo?'",
+        "ar": "سمعت: 'O que você acha de São Paulo?' — 'ما رأيك في ساو باولو؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "O que você acha de São Paulo?",
+          "en": "São Paulo's traffic is the worst in Brazil.",
+          "ar": "ما رأيك في ساو باولو؟"
+        },
+        {
+          "pt": "O trânsito de São Paulo é o pior do Brasil.",
+          "en": "It is bigger than Recife, but it is more expensive.",
+          "ar": "حركة مرور ساو باولو هي الأسوأ في البرازيل."
+        },
+        {
+          "pt": "É maior do que Recife, mas é mais cara.",
+          "en": "What do you think of São Paulo?",
+          "ar": "إنها أكبر من ريسيفي، لكنها أغلى."
+        }
+      ],
+      "answer": "É maior do que Recife, mas é mais cara.",
+      "accepted": [],
+      "audio": "É maior do que Recife, mas é mais cara.",
+      "explanation": {
+        "pt": "Você ouviu: 'É maior do que Recife, mas é mais cara.' — 'It is bigger than Recife, but it is more expensive.'",
+        "en": "You heard: 'É maior do que Recife, mas é mais cara.' — 'It is bigger than Recife, but it is more expensive.'",
+        "ar": "سمعت: 'É maior do que Recife, mas é mais cara.' — 'إنها أكبر من ريسيفي، لكنها أغلى.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "São",
+          "en": "São",
+          "ar": "São"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "acha",
+          "en": "acha",
+          "ar": "acha"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "Paulo?",
+          "en": "Paulo?",
+          "ar": "Paulo?"
+        }
+      ],
+      "answer": "O que você acha de São Paulo?",
+      "accepted": [
+        "O que você acha de São Paulo?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'O que você acha de São Paulo?'",
+        "en": "The correct order: 'What do you think of São Paulo?'",
+        "ar": "الترتيب الصحيح: 'ما رأيك في ساو باولو؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "menos",
+          "en": "better",
+          "ar": "menos"
+        },
+        {
+          "pt": "tão... quanto",
+          "en": "less",
+          "ar": "tão... quanto"
+        },
+        {
+          "pt": "do que",
+          "en": "worse",
+          "ar": "do que"
+        },
+        {
+          "pt": "mais",
+          "en": "as... as",
+          "ar": "mais"
+        },
+        {
+          "pt": "pior",
+          "en": "than",
+          "ar": "pior"
+        },
+        {
+          "pt": "melhor",
+          "en": "more",
+          "ar": "melhor"
+        }
+      ],
+      "answer": "menos::better|tão... quanto::less|do que::worse|mais::as... as|pior::than|melhor::more",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Verdade. Lá a vida é melhor para a família.",
+          "en": "It is bigger than Recife, but it is more expensive.",
+          "ar": "صحيح. الحياة هناك أفضل للعائلة."
+        },
+        {
+          "pt": "É maior do que Recife, mas é mais cara.",
+          "en": "What do you think of São Paulo?",
+          "ar": "إنها أكبر من ريسيفي، لكنها أغلى."
+        },
+        {
+          "pt": "O que você acha de São Paulo?",
+          "en": "True. There, life is better for the family.",
+          "ar": "ما رأيك في ساو باولو؟"
+        }
+      ],
+      "answer": "O que você acha de São Paulo?",
+      "accepted": [],
+      "audio": "O que você acha de São Paulo?",
+      "explanation": {
+        "pt": "Você ouviu: 'O que você acha de São Paulo?' — 'What do you think of São Paulo?'",
+        "en": "You heard: 'O que você acha de São Paulo?' — 'What do you think of São Paulo?'",
+        "ar": "سمعت: 'O que você acha de São Paulo?' — 'ما رأيك في ساو باولو؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "O trânsito de São Paulo é o pior do Brasil.",
+          "en": "And the traffic?",
+          "ar": "إنها أكبر من ريسيفي، لكنها أغلى."
+        },
+        {
+          "pt": "E o trânsito?",
+          "en": "São Paulo's traffic is the worst in Brazil.",
+          "ar": "حركة مرور ساو باولو هي الأسوأ في البرازيل."
+        },
+        {
+          "pt": "É maior do que Recife, mas é mais cara.",
+          "en": "It is bigger than Recife, but it is more expensive.",
+          "ar": "وحركة المرور؟"
+        }
+      ],
+      "answer": "É maior do que Recife, mas é mais cara.",
+      "accepted": [],
+      "audio": "É maior do que Recife, mas é mais cara.",
+      "explanation": {
+        "pt": "Você ouviu: 'É maior do que Recife, mas é mais cara.' — 'It is bigger than Recife, but it is more expensive.'",
+        "en": "You heard: 'É maior do que Recife, mas é mais cara.' — 'It is bigger than Recife, but it is more expensive.'",
+        "ar": "سمعت: 'É maior do que Recife, mas é mais cara.' — 'إنها أكبر من ريسيفي، لكنها أغلى.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "São",
+          "en": "São",
+          "ar": "São"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "Paulo?",
+          "en": "Paulo?",
+          "ar": "Paulo?"
+        },
+        {
+          "pt": "acha",
+          "en": "acha",
+          "ar": "acha"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        }
+      ],
+      "answer": "O que você acha de São Paulo?",
+      "accepted": [
+        "O que você acha de São Paulo?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'O que você acha de São Paulo?'",
+        "en": "The correct order: 'What do you think of São Paulo?'",
+        "ar": "الترتيب الصحيح: 'ما رأيك في ساو باولو؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "pior",
+          "en": "better",
+          "ar": "pior"
+        },
+        {
+          "pt": "mais",
+          "en": "worse",
+          "ar": "mais"
+        },
+        {
+          "pt": "do que",
+          "en": "less",
+          "ar": "do que"
+        },
+        {
+          "pt": "menos",
+          "en": "as... as",
+          "ar": "menos"
+        },
+        {
+          "pt": "tão... quanto",
+          "en": "than",
+          "ar": "tão... quanto"
+        },
+        {
+          "pt": "melhor",
+          "en": "more",
+          "ar": "melhor"
+        }
+      ],
+      "answer": "pior::better|mais::worse|do que::less|menos::as... as|tão... quanto::than|melhor::more",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "É maior do que Recife, mas é mais cara.",
+          "en": "What do you think of São Paulo?",
+          "ar": "حركة مرور ساو باولو هي الأسوأ في البرازيل."
+        },
+        {
+          "pt": "O que você acha de São Paulo?",
+          "en": "It is bigger than Recife, but it is more expensive.",
+          "ar": "ما رأيك في ساو باولو؟"
+        },
+        {
+          "pt": "O trânsito de São Paulo é o pior do Brasil.",
+          "en": "São Paulo's traffic is the worst in Brazil.",
+          "ar": "إنها أكبر من ريسيفي، لكنها أغلى."
+        }
+      ],
+      "answer": "O que você acha de São Paulo?",
+      "accepted": [],
+      "audio": "O que você acha de São Paulo?",
+      "explanation": {
+        "pt": "Você ouviu: 'O que você acha de São Paulo?' — 'What do you think of São Paulo?'",
+        "en": "You heard: 'O que você acha de São Paulo?' — 'What do you think of São Paulo?'",
+        "ar": "سمعت: 'O que você acha de São Paulo?' — 'ما رأيك في ساو باولو؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "O que você acha de São Paulo?",
+          "en": "I prefer calmer cities, like Florianópolis.",
+          "ar": "ما رأيك في ساو باولو؟"
+        },
+        {
+          "pt": "É maior do que Recife, mas é mais cara.",
+          "en": "What do you think of São Paulo?",
+          "ar": "إنها أكبر من ريسيفي، لكنها أغلى."
+        },
+        {
+          "pt": "Prefiro cidades mais calmas, como Florianópolis.",
+          "en": "It is bigger than Recife, but it is more expensive.",
+          "ar": "أفضّل المدن الأكثر هدوءًا مثل فلوريانوبوليس."
+        }
+      ],
+      "answer": "É maior do que Recife, mas é mais cara.",
+      "accepted": [],
+      "audio": "É maior do que Recife, mas é mais cara.",
+      "explanation": {
+        "pt": "Você ouviu: 'É maior do que Recife, mas é mais cara.' — 'It is bigger than Recife, but it is more expensive.'",
+        "en": "You heard: 'É maior do que Recife, mas é mais cara.' — 'It is bigger than Recife, but it is more expensive.'",
+        "ar": "سمعت: 'É maior do que Recife, mas é mais cara.' — 'إنها أكبر من ريسيفي، لكنها أغلى.'"
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'more'",
+        "en": "Type in Portuguese: 'more'",
+        "ar": "اكتب بالبرتغالية: 'أكثر'"
+      },
+      "options": [],
+      "answer": "mais",
+      "accepted": [
+        "mais"
+      ],
+      "explanation": {
+        "pt": "'mais' significa 'more'.",
+        "en": "'mais' means 'more'.",
+        "ar": "'$mais' بالعربية: '$أكثر'."
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'less'",
+        "en": "Type in Portuguese: 'less'",
+        "ar": "اكتب بالبرتغالية: 'أقل'"
+      },
+      "options": [],
+      "answer": "menos",
+      "accepted": [
+        "menos"
+      ],
+      "explanation": {
+        "pt": "'menos' significa 'less'.",
+        "en": "'menos' means 'less'.",
+        "ar": "'$menos' بالعربية: '$أقل'."
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "O que você acha de São Paulo?",
+          "en": "O que você acha de São Paulo?",
+          "ar": "O que você acha de São Paulo?"
+        },
+        {
+          "pt": "É maior do que Recife, mas é mais cara.",
+          "en": "É maior do que Recife, mas é mais cara.",
+          "ar": "É maior do que Recife, mas é mais cara."
+        },
+        {
+          "pt": "E o trânsito?",
+          "en": "E o trânsito?",
+          "ar": "E o trânsito?"
+        }
+      ],
+      "answer": "O que você acha de São Paulo?",
+      "accepted": [],
+      "audio": "O que você acha de São Paulo?",
+      "explanation": {
+        "pt": "Você ouviu: 'O que você acha de São Paulo?'",
+        "en": "You heard: 'O que você acha de São Paulo?'",
+        "ar": "سمعت: 'O que você acha de São Paulo?'"
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "E o trânsito?",
+          "en": "E o trânsito?",
+          "ar": "E o trânsito?"
+        },
+        {
+          "pt": "Verdade. Lá a vida é melhor para a família.",
+          "en": "Verdade. Lá a vida é melhor para a família.",
+          "ar": "Verdade. Lá a vida é melhor para a família."
+        },
+        {
+          "pt": "É maior do que Recife, mas é mais cara.",
+          "en": "É maior do que Recife, mas é mais cara.",
+          "ar": "É maior do que Recife, mas é mais cara."
+        }
+      ],
+      "answer": "É maior do que Recife, mas é mais cara.",
+      "accepted": [],
+      "audio": "É maior do que Recife, mas é mais cara.",
+      "explanation": {
+        "pt": "Você ouviu: 'É maior do que Recife, mas é mais cara.'",
+        "en": "You heard: 'É maior do que Recife, mas é mais cara.'",
+        "ar": "سمعت: 'É maior do que Recife, mas é mais cara.'"
+      }
+    },
+    {
+      "type": "dictation",
+      "prompt": {
+        "pt": "Ouça e escreva o que você ouviu.",
+        "en": "Listen and type what you hear.",
+        "ar": "استمع واكتب ما سمعته."
+      },
+      "options": [],
+      "answer": "O que você acha de São Paulo?",
+      "accepted": [],
+      "audio": "O que você acha de São Paulo?",
+      "explanation": {
+        "pt": "A frase correta: 'O que você acha de São Paulo?'",
+        "en": "The correct sentence: 'O que você acha de São Paulo?'",
+        "ar": "الجملة الصحيحة: 'O que você acha de São Paulo?'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "acha",
+          "en": "acha",
+          "ar": "acha"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "São",
+          "en": "São",
+          "ar": "São"
+        },
+        {
+          "pt": "Paulo?",
+          "en": "Paulo?",
+          "ar": "Paulo?"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        }
+      ],
+      "answer": "O que você acha de São Paulo?",
+      "accepted": [
+        "O que você acha de São Paulo?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'O que você acha de São Paulo?'",
+        "en": "The correct order: 'What do you think of São Paulo?'",
+        "ar": "الترتيب الصحيح: 'ما رأيك في ساو باولو؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "tão... quanto",
+          "en": "better",
+          "ar": "tão... quanto"
+        },
+        {
+          "pt": "menos",
+          "en": "more",
+          "ar": "menos"
+        },
+        {
+          "pt": "mais",
+          "en": "as... as",
+          "ar": "mais"
+        },
+        {
+          "pt": "do que",
+          "en": "less",
+          "ar": "do que"
+        },
+        {
+          "pt": "pior",
+          "en": "worse",
+          "ar": "pior"
+        },
+        {
+          "pt": "melhor",
+          "en": "than",
+          "ar": "melhor"
+        }
+      ],
+      "answer": "tão... quanto::better|menos::more|mais::as... as|do que::less|pior::worse|melhor::than",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "É maior do que Recife, mas é mais cara.",
+          "en": "True. There, life is better for the family.",
+          "ar": "إنها أكبر من ريسيفي، لكنها أغلى."
+        },
+        {
+          "pt": "Verdade. Lá a vida é melhor para a família.",
+          "en": "What do you think of São Paulo?",
+          "ar": "ما رأيك في ساو باولو؟"
+        },
+        {
+          "pt": "O que você acha de São Paulo?",
+          "en": "It is bigger than Recife, but it is more expensive.",
+          "ar": "صحيح. الحياة هناك أفضل للعائلة."
+        }
+      ],
+      "answer": "O que você acha de São Paulo?",
+      "accepted": [],
+      "audio": "O que você acha de São Paulo?",
+      "explanation": {
+        "pt": "Você ouviu: 'O que você acha de São Paulo?' — 'What do you think of São Paulo?'",
+        "en": "You heard: 'O que você acha de São Paulo?' — 'What do you think of São Paulo?'",
+        "ar": "سمعت: 'O que você acha de São Paulo?' — 'ما رأيك في ساو باولو؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Prefiro cidades mais calmas, como Florianópolis.",
+          "en": "It is bigger than Recife, but it is more expensive.",
+          "ar": "إنها أكبر من ريسيفي، لكنها أغلى."
+        },
+        {
+          "pt": "É maior do que Recife, mas é mais cara.",
+          "en": "I prefer calmer cities, like Florianópolis.",
+          "ar": "حركة مرور ساو باولو هي الأسوأ في البرازيل."
+        },
+        {
+          "pt": "O trânsito de São Paulo é o pior do Brasil.",
+          "en": "São Paulo's traffic is the worst in Brazil.",
+          "ar": "أفضّل المدن الأكثر هدوءًا مثل فلوريانوبوليس."
+        }
+      ],
+      "answer": "É maior do que Recife, mas é mais cara.",
+      "accepted": [],
+      "audio": "É maior do que Recife, mas é mais cara.",
+      "explanation": {
+        "pt": "Você ouviu: 'É maior do que Recife, mas é mais cara.' — 'It is bigger than Recife, but it is more expensive.'",
+        "en": "You heard: 'É maior do que Recife, mas é mais cara.' — 'It is bigger than Recife, but it is more expensive.'",
+        "ar": "سمعت: 'É maior do que Recife, mas é mais cara.' — 'إنها أكبر من ريسيفي، لكنها أغلى.'"
+      }
+    }
+  ],
+  "speaking": {
+    "title": {
+      "pt": "Fale Agora — Ouça e Repita",
+      "en": "Speak Now — Listen and Repeat",
+      "ar": "تحدث الآن — استمع وكرر"
+    },
+    "phrases": [
+      {
+        "pt": "O que você acha de São Paulo?",
+        "en": "What do you think of São Paulo?",
+        "ar": "ما رأيك في ساو باولو؟"
+      },
+      {
+        "pt": "É maior do que Recife, mas é mais cara.",
+        "en": "It is bigger than Recife, but it is more expensive.",
+        "ar": "إنها أكبر من ريسيفي، لكنها أغلى."
+      },
+      {
+        "pt": "E o trânsito?",
+        "en": "And the traffic?",
+        "ar": "وحركة المرور؟"
+      },
+      {
+        "pt": "O trânsito de São Paulo é o pior do Brasil.",
+        "en": "São Paulo's traffic is the worst in Brazil.",
+        "ar": "حركة مرور ساو باولو هي الأسوأ في البرازيل."
+      },
+      {
+        "pt": "Prefiro cidades mais calmas, como Florianópolis.",
+        "en": "I prefer calmer cities, like Florianópolis.",
+        "ar": "أفضّل المدن الأكثر هدوءًا مثل فلوريانوبوليس."
+      },
+      {
+        "pt": "Verdade. Lá a vida é melhor para a família.",
+        "en": "True. There, life is better for the family.",
+        "ar": "صحيح. الحياة هناك أفضل للعائلة."
+      },
+      {
+        "pt": "mais",
+        "en": "more",
+        "ar": "أكثر"
+      },
+      {
+        "pt": "menos",
+        "en": "less",
+        "ar": "أقل"
+      },
+      {
+        "pt": "do que",
+        "en": "than",
+        "ar": "من (للمقارنة)"
+      }
+    ]
+  },
+  "cultural_tips": {
+    "pt": "",
+    "en": "",
+    "ar": ""
+  }
+}

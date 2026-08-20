@@ -1,0 +1,2039 @@
+{
+  "id": "B2-10",
+  "level": "B2",
+  "level_name": {
+    "pt": "Intermediário Alto",
+    "en": "Upper-Intermediate",
+    "ar": "متوسط متقدم"
+  },
+  "title": {
+    "pt": "Negócios e Economia",
+    "en": "Business and Economy",
+    "ar": "الأعمال والاقتصاد"
+  },
+  "objectives": [
+    {
+      "pt": "Discutir economia e finanças",
+      "en": "Discuss economy and finances",
+      "ar": "مناقشة الاقتصاد والمالية"
+    },
+    {
+      "pt": "Negociar e fechar acordos",
+      "en": "Negotiate and close deals",
+      "ar": "التفاوض وإبرام الصفقات"
+    },
+    {
+      "pt": "Falar sobre mercado de trabalho e empresas",
+      "en": "Talk about the labor market and companies",
+      "ar": "التحدث عن سوق العمل والشركات"
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "o mercado",
+      "ipa": "/u meχˈka.du/",
+      "en": "the market",
+      "ar": "السوق",
+      "example": {
+        "pt": "Com certeza. Seria possível aumentar o prazo de pagamento?",
+        "en": "Of course. Would it be possible to extend the payment period?",
+        "ar": "بالتأكيد. هل يمكن تمديد مدة السداد؟"
+      }
+    },
+    {
+      "pt": "a empresa",
+      "ipa": "/a ẽˈpɾe.za/",
+      "en": "the company",
+      "ar": "الشركة",
+      "example": {
+        "pt": "Justo. Além disso, precisamos de um prazo maior para a entrega.",
+        "en": "Fair. Besides, we need a longer delivery deadline.",
+        "ar": "عادل. بالإضافة إلى ذلك، نحتاج إلى مهلة أطول للتسليم."
+      }
+    },
+    {
+      "pt": "o investimento",
+      "ipa": "/u ĩ.ves.tʃiˈmẽ.tu/",
+      "en": "the investment",
+      "ar": "الاستثمار",
+      "example": {
+        "pt": "Com certeza. Seria possível aumentar o prazo de pagamento?",
+        "en": "Of course. Would it be possible to extend the payment period?",
+        "ar": "بالتأكيد. هل يمكن تمديد مدة السداد؟"
+      }
+    },
+    {
+      "pt": "o lucro",
+      "ipa": "/u ˈlu.kɾu/",
+      "en": "the profit",
+      "ar": "الربح",
+      "example": {
+        "pt": "Com certeza. Seria possível aumentar o prazo de pagamento?",
+        "en": "Of course. Would it be possible to extend the payment period?",
+        "ar": "بالتأكيد. هل يمكن تمديد مدة السداد؟"
+      }
+    },
+    {
+      "pt": "o prejuízo",
+      "ipa": "/u pɾe.ʒuˈi.zu/",
+      "en": "the loss",
+      "ar": "الخسارة",
+      "example": {
+        "pt": "Com certeza. Seria possível aumentar o prazo de pagamento?",
+        "en": "Of course. Would it be possible to extend the payment period?",
+        "ar": "بالتأكيد. هل يمكن تمديد مدة السداد؟"
+      }
+    },
+    {
+      "pt": "a inflação",
+      "ipa": "/a ĩ.flaˈsɐ̃w/",
+      "en": "the inflation",
+      "ar": "التضخم",
+      "example": {
+        "pt": "Justo. Além disso, precisamos de um prazo maior para a entrega.",
+        "en": "Fair. Besides, we need a longer delivery deadline.",
+        "ar": "عادل. بالإضافة إلى ذلك، نحتاج إلى مهلة أطول للتسليم."
+      }
+    },
+    {
+      "pt": "o juro",
+      "ipa": "/u ˈʒu.ɾu/",
+      "en": "the interest",
+      "ar": "الفائدة",
+      "example": {
+        "pt": "Com certeza. Seria possível aumentar o prazo de pagamento?",
+        "en": "Of course. Would it be possible to extend the payment period?",
+        "ar": "بالتأكيد. هل يمكن تمديد مدة السداد؟"
+      }
+    },
+    {
+      "pt": "o orçamento",
+      "ipa": "/u oχ.saˈmẽ.tu/",
+      "en": "the budget",
+      "ar": "الميزانية",
+      "example": {
+        "pt": "Com certeza. Seria possível aumentar o prazo de pagamento?",
+        "en": "Of course. Would it be possible to extend the payment period?",
+        "ar": "بالتأكيد. هل يمكن تمديد مدة السداد؟"
+      }
+    },
+    {
+      "pt": "a negociação",
+      "ipa": "/a ne.ɡo.si.aˈsɐ̃w/",
+      "en": "the negotiation",
+      "ar": "التفاوض",
+      "example": {
+        "pt": "Justo. Além disso, precisamos de um prazo maior para a entrega.",
+        "en": "Fair. Besides, we need a longer delivery deadline.",
+        "ar": "عادل. بالإضافة إلى ذلك، نحتاج إلى مهلة أطول للتسليم."
+      }
+    },
+    {
+      "pt": "o contrato",
+      "ipa": "/u kõˈtɾa.tu/",
+      "en": "the contract",
+      "ar": "العقد",
+      "example": {
+        "pt": "Com certeza. Seria possível aumentar o prazo de pagamento?",
+        "en": "Of course. Would it be possible to extend the payment period?",
+        "ar": "بالتأكيد. هل يمكن تمديد مدة السداد؟"
+      }
+    },
+    {
+      "pt": "o cliente",
+      "ipa": "/u kliˈẽ.tʃi/",
+      "en": "the client",
+      "ar": "العميل",
+      "example": {
+        "pt": "Com certeza. Seria possível aumentar o prazo de pagamento?",
+        "en": "Of course. Would it be possible to extend the payment period?",
+        "ar": "بالتأكيد. هل يمكن تمديد مدة السداد؟"
+      }
+    },
+    {
+      "pt": "o fornecedor",
+      "ipa": "/u foχ.ne.seˈdoχ/",
+      "en": "the supplier",
+      "ar": "المورد",
+      "example": {
+        "pt": "Com certeza. Seria possível aumentar o prazo de pagamento?",
+        "en": "Of course. Would it be possible to extend the payment period?",
+        "ar": "بالتأكيد. هل يمكن تمديد مدة السداد؟"
+      }
+    },
+    {
+      "pt": "a concorrência",
+      "ipa": "/a kõ.kõˈʁẽ.si.a/",
+      "en": "the competition",
+      "ar": "المنافسة",
+      "example": {
+        "pt": "Justo. Além disso, precisamos de um prazo maior para a entrega.",
+        "en": "Fair. Besides, we need a longer delivery deadline.",
+        "ar": "عادل. بالإضافة إلى ذلك، نحتاج إلى مهلة أطول للتسليم."
+      }
+    },
+    {
+      "pt": "a bolsa de valores",
+      "ipa": "/a ˈbɔw.sa dʒi vaˈlo.ɾis/",
+      "en": "the stock exchange",
+      "ar": "البورصة",
+      "example": {
+        "pt": "Justo. Além disso, precisamos de um prazo maior para a entrega.",
+        "en": "Fair. Besides, we need a longer delivery deadline.",
+        "ar": "عادل. بالإضافة إلى ذلك، نحتاج إلى مهلة أطول للتسليم."
+      }
+    },
+    {
+      "pt": "o crescimento",
+      "ipa": "/u kɾe.siˈmẽ.tu/",
+      "en": "the growth",
+      "ar": "النمو",
+      "example": {
+        "pt": "Com certeza. Seria possível aumentar o prazo de pagamento?",
+        "en": "Of course. Would it be possible to extend the payment period?",
+        "ar": "بالتأكيد. هل يمكن تمديد مدة السداد؟"
+      }
+    },
+    {
+      "pt": "a moeda",
+      "ipa": "/a moˈɛ.da/",
+      "en": "the currency",
+      "ar": "العملة",
+      "example": {
+        "pt": "Justo. Além disso, precisamos de um prazo maior para a entrega.",
+        "en": "Fair. Besides, we need a longer delivery deadline.",
+        "ar": "عادل. بالإضافة إلى ذلك، نحتاج إلى مهلة أطول للتسليم."
+      }
+    },
+    {
+      "pt": "o emprego",
+      "ipa": "/u ẽˈpɾe.ɡu/",
+      "en": "the job",
+      "ar": "الوظيفة",
+      "example": {
+        "pt": "Com certeza. Seria possível aumentar o prazo de pagamento?",
+        "en": "Of course. Would it be possible to extend the payment period?",
+        "ar": "بالتأكيد. هل يمكن تمديد مدة السداد؟"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "title": {
+        "pt": "O Condicional nos Negócios",
+        "en": "The Conditional in Business",
+        "ar": "الصيغة الشرطية في الأعمال"
+      },
+      "explanation": {
+        "pt": "O condicional expressa pedidos educados, sugestões e hipóteses: seria possível, gostaríamos, poderia. Em negociações, essas formas suavizam as propostas e demonstram cortesia.",
+        "en": "The conditional expresses polite requests, suggestions and hypotheses: seria possível, gostaríamos, poderia. In negotiations, these forms soften proposals and show courtesy.",
+        "ar": "تعبر الصيغة الشرطية عن الطلبات المهذبة والاقتراحات والفرضيات: seria possível، gostaríamos، poderia. في التفاوض تخفف هذه الصيغ المقترحات وتظهر اللباقة."
+      },
+      "examples": [
+        {
+          "pt": "Seria possível reduzir o preço em dez por cento?",
+          "en": "Would it be possible to reduce the price by ten percent?",
+          "ar": "هل يمكن تخفيض السعر بنسبة عشرة بالمئة؟"
+        },
+        {
+          "pt": "Nós gostaríamos de assinar o contrato ainda esta semana.",
+          "en": "We would like to sign the contract this week.",
+          "ar": "نود توقيع العقد هذا الأسبوع."
+        },
+        {
+          "pt": "Com mais investimento, a empresa cresceria mais rápido.",
+          "en": "With more investment, the company would grow faster.",
+          "ar": "مع مزيد من الاستثمار، ستنمو الشركة بشكل أسرع."
+        },
+        {
+          "pt": "Se a inflação subisse, os preços aumentariam.",
+          "en": "If inflation rose, prices would increase.",
+          "ar": "لو ارتفع التضخم، لارتفعت الأسعار."
+        }
+      ]
+    },
+    {
+      "title": {
+        "pt": "Expressões de Negociação",
+        "en": "Negotiation Expressions",
+        "ar": "عبارات التفاوض"
+      },
+      "explanation": {
+        "pt": "Na negociação usamos expressões como: fechar negócio, chegar a um acordo, dar um desconto, aceitar as condições e está fechado. Muitas vezes o futuro do subjuntivo aparece: se você aceitar.",
+        "en": "In negotiation we use expressions like: fechar negócio (to close a deal), chegar a um acordo (to reach an agreement), dar um desconto (to give a discount), aceitar as condições (to accept the conditions) and está fechado (it's a deal). Often the future subjunctive appears: se você aceitar.",
+        "ar": "نستخدم في التفاوض عبارات مثل: fechar negócio (إبرام الصفقة)، chegar a um acordo (التوصل إلى اتفاق)، dar um desconto (منح خصم)، aceitar as condições (قبول الشروط) و está fechado (تم الاتفاق). وغالبًا ما يظهر المستقبل الشرطي: se você aceitar."
+      },
+      "examples": [
+        {
+          "pt": "Vamos tentar fechar negócio ainda hoje.",
+          "en": "Let's try to close the deal today.",
+          "ar": "لنحاول إبرام الصفقة اليوم."
+        },
+        {
+          "pt": "Se você aceitar nossas condições, está fechado.",
+          "en": "If you accept our conditions, it's a deal.",
+          "ar": "إذا قبلت شروطنا، فقد تم الاتفاق."
+        },
+        {
+          "pt": "O fornecedor deu um bom desconto na última compra.",
+          "en": "The supplier gave a good discount on the last purchase.",
+          "ar": "أعطى المورد خصمًا جيدًا في آخر عملية شراء."
+        },
+        {
+          "pt": "É preciso chegar a um acordo que beneficie as duas partes.",
+          "en": "We must reach an agreement that benefits both sides.",
+          "ar": "يجب التوصل إلى اتفاق يفيد الطرفين."
+        }
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": {
+      "pt": "A Reunião de Negócios",
+      "en": "The Business Meeting",
+      "ar": "اجتماع العمل"
+    },
+    "lines": [
+      {
+        "speaker": "Sra. Almeida",
+        "pt": "Boa tarde. Gostaríamos de discutir os termos do contrato.",
+        "en": "Good afternoon. We would like to discuss the contract terms.",
+        "ar": "مساء الخير. نود مناقشة بنود العقد."
+      },
+      {
+        "speaker": "Sr. Costa",
+        "pt": "Com certeza. Seria possível aumentar o prazo de pagamento?",
+        "en": "Of course. Would it be possible to extend the payment period?",
+        "ar": "بالتأكيد. هل يمكن تمديد مدة السداد؟"
+      },
+      {
+        "speaker": "Sra. Almeida",
+        "pt": "Podemos considerar, se o valor total for mantido.",
+        "en": "We can consider it, if the total amount stays the same.",
+        "ar": "يمكننا النظر في ذلك، إذا بقي المبلغ الإجمالي كما هو."
+      },
+      {
+        "speaker": "Sr. Costa",
+        "pt": "Justo. Além disso, precisamos de um prazo maior para a entrega.",
+        "en": "Fair. Besides, we need a longer delivery deadline.",
+        "ar": "عادل. بالإضافة إلى ذلك، نحتاج إلى مهلة أطول للتسليم."
+      },
+      {
+        "speaker": "Sra. Almeida",
+        "pt": "Combinado. Se concordarem com tudo, fechamos o negócio hoje.",
+        "en": "Agreed. If you agree to everything, we close the deal today.",
+        "ar": "متفق. إذا وافقتم على كل شيء، نُبرم الصفقة اليوم."
+      }
+    ]
+  },
+  "reading": {
+    "title": {
+      "pt": "O Pequeno Negócio",
+      "en": "The Small Business",
+      "ar": "المشروع الصغير"
+    },
+    "text_pt": "Uma pequena padaria do bairro cresceu muito em poucos anos. Seus donos investiram em qualidade e em bom atendimento ao cliente. Hoje, a empresa emprega quinze pessoas e planeja abrir uma segunda filial. Para continuar crescendo, os donos sabem que é preciso inovar sempre.",
+    "text_en": "A small neighborhood bakery grew a lot in a few years. Its owners invested in quality and good customer service. Today, the company employs fifteen people and plans to open a second branch. To keep growing, the owners know they must always innovate.",
+    "text_ar": "نما مخبز صغير في الحي كثيرًا في غضون سنوات قليلة. استثمر أصحابه في الجودة وحسن خدمة العملاء. اليوم، توظف الشركة خمسة عشر شخصًا وتخطط لفتح فرع ثانٍ. ولكي تستمر في النمو، يعرف أصحابها أنه يجب عليهم الابتكار دائمًا."
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "___ possível reduzir o preço?",
+        "en": "___ it be possible to reduce the price?",
+        "ar": "___ من الممكن تخفيض السعر؟"
+      },
+      "options": [
+        {
+          "pt": "Seria",
+          "en": "Seria",
+          "ar": "Seria"
+        },
+        {
+          "pt": "É ser",
+          "en": "É ser",
+          "ar": "É ser"
+        },
+        {
+          "pt": "Seja",
+          "en": "Seja",
+          "ar": "Seja"
+        }
+      ],
+      "answer": "Seria",
+      "explanation": {
+        "pt": "Pedido educado: condicional 'seria possível'.",
+        "en": "Polite request: conditional 'seria possível'.",
+        "ar": "طلب مهذب: الصيغة الشرطية 'seria possível'."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Se você ___ nossas condições, está fechado.",
+        "en": "If you ___ our conditions, it's a deal.",
+        "ar": "إذا ___ شروطنا، فقد تم الاتفاق."
+      },
+      "options": [
+        {
+          "pt": "aceita",
+          "en": "aceita",
+          "ar": "aceita"
+        },
+        {
+          "pt": "aceitar",
+          "en": "aceitar",
+          "ar": "aceitar"
+        },
+        {
+          "pt": "aceitou",
+          "en": "aceitou",
+          "ar": "aceitou"
+        }
+      ],
+      "answer": "aceitar",
+      "explanation": {
+        "pt": "Condição futura: 'se' + futuro do subjuntivo (aceitar).",
+        "en": "Future condition: 'se' + future subjunctive (aceitar).",
+        "ar": "شرط مستقبلي: 'se' + المستقبل الشرطي (aceitar)."
+      }
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza: 'We would like to sign the contract this week.'",
+        "en": "Translate: 'We would like to sign the contract this week.'",
+        "ar": "ترجم: 'We would like to sign the contract this week.'"
+      },
+      "options": [],
+      "answer": "Nós gostaríamos de assinar o contrato ainda esta semana.",
+      "explanation": {
+        "pt": "Pedido educado: 'gostaríamos de' + infinitivo 'assinar'.",
+        "en": "Polite request: 'gostaríamos de' + infinitive 'assinar'.",
+        "ar": "طلب مهذب: 'gostaríamos de' + المصدر 'assinar'."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "os",
+          "en": "os",
+          "ar": "os"
+        },
+        {
+          "pt": "termos",
+          "en": "termos",
+          "ar": "termos"
+        },
+        {
+          "pt": "Gostaríamos",
+          "en": "Gostaríamos",
+          "ar": "Gostaríamos"
+        },
+        {
+          "pt": "contrato.",
+          "en": "contrato.",
+          "ar": "contrato."
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "tarde.",
+          "en": "tarde.",
+          "ar": "tarde."
+        },
+        {
+          "pt": "discutir",
+          "en": "discutir",
+          "ar": "discutir"
+        },
+        {
+          "pt": "Boa",
+          "en": "Boa",
+          "ar": "Boa"
+        }
+      ],
+      "answer": "Boa tarde. Gostaríamos de discutir os termos do contrato.",
+      "accepted": [
+        "Boa tarde. Gostaríamos de discutir os termos do contrato."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Boa tarde. Gostaríamos de discutir os termos do contrato.'",
+        "en": "The correct order: 'Good afternoon. We would like to discuss the contract terms.'",
+        "ar": "الترتيب الصحيح: 'مساء الخير. نود مناقشة بنود العقد.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o prejuízo",
+          "en": "the market",
+          "ar": "o prejuízo"
+        },
+        {
+          "pt": "o lucro",
+          "en": "the profit",
+          "ar": "o lucro"
+        },
+        {
+          "pt": "a inflação",
+          "en": "the loss",
+          "ar": "a inflação"
+        },
+        {
+          "pt": "a empresa",
+          "en": "the inflation",
+          "ar": "a empresa"
+        },
+        {
+          "pt": "o investimento",
+          "en": "the investment",
+          "ar": "o investimento"
+        },
+        {
+          "pt": "o mercado",
+          "en": "the company",
+          "ar": "o mercado"
+        }
+      ],
+      "answer": "o prejuízo::the market|o lucro::the profit|a inflação::the loss|a empresa::the inflation|o investimento::the investment|o mercado::the company",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Boa tarde. Gostaríamos de discutir os termos do contrato.",
+          "en": "Good afternoon. We would like to discuss the contract terms.",
+          "ar": "يمكننا النظر في ذلك، إذا بقي المبلغ الإجمالي كما هو."
+        },
+        {
+          "pt": "Justo. Além disso, precisamos de um prazo maior para a entrega.",
+          "en": "Fair. Besides, we need a longer delivery deadline.",
+          "ar": "عادل. بالإضافة إلى ذلك، نحتاج إلى مهلة أطول للتسليم."
+        },
+        {
+          "pt": "Podemos considerar, se o valor total for mantido.",
+          "en": "We can consider it, if the total amount stays the same.",
+          "ar": "مساء الخير. نود مناقشة بنود العقد."
+        }
+      ],
+      "answer": "Boa tarde. Gostaríamos de discutir os termos do contrato.",
+      "accepted": [],
+      "audio": "Boa tarde. Gostaríamos de discutir os termos do contrato.",
+      "explanation": {
+        "pt": "Você ouviu: 'Boa tarde. Gostaríamos de discutir os termos do contrato.' — 'Good afternoon. We would like to discuss the contract terms.'",
+        "en": "You heard: 'Boa tarde. Gostaríamos de discutir os termos do contrato.' — 'Good afternoon. We would like to discuss the contract terms.'",
+        "ar": "سمعت: 'Boa tarde. Gostaríamos de discutir os termos do contrato.' — 'مساء الخير. نود مناقشة بنود العقد.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Boa tarde. Gostaríamos de discutir os termos do contrato.",
+          "en": "Good afternoon. We would like to discuss the contract terms.",
+          "ar": "مساء الخير. نود مناقشة بنود العقد."
+        },
+        {
+          "pt": "Com certeza. Seria possível aumentar o prazo de pagamento?",
+          "en": "Agreed. If you agree to everything, we close the deal today.",
+          "ar": "متفق. إذا وافقتم على كل شيء، نُبرم الصفقة اليوم."
+        },
+        {
+          "pt": "Combinado. Se concordarem com tudo, fechamos o negócio hoje.",
+          "en": "Of course. Would it be possible to extend the payment period?",
+          "ar": "بالتأكيد. هل يمكن تمديد مدة السداد؟"
+        }
+      ],
+      "answer": "Com certeza. Seria possível aumentar o prazo de pagamento?",
+      "accepted": [],
+      "audio": "Com certeza. Seria possível aumentar o prazo de pagamento?",
+      "explanation": {
+        "pt": "Você ouviu: 'Com certeza. Seria possível aumentar o prazo de pagamento?' — 'Of course. Would it be possible to extend the payment period?'",
+        "en": "You heard: 'Com certeza. Seria possível aumentar o prazo de pagamento?' — 'Of course. Would it be possible to extend the payment period?'",
+        "ar": "سمعت: 'Com certeza. Seria possível aumentar o prazo de pagamento?' — 'بالتأكيد. هل يمكن تمديد مدة السداد؟'"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Seria ___ reduzir o preço em dez por cento?",
+        "en": "Seria ___ reduzir o preço em dez por cento?",
+        "ar": "Seria ___ reduzir o preço em dez por cento?"
+      },
+      "options": [
+        {
+          "pt": "possível",
+          "en": "possível",
+          "ar": "possível"
+        },
+        {
+          "pt": "assinar",
+          "en": "assinar",
+          "ar": "assinar"
+        },
+        {
+          "pt": "gostaríamos",
+          "en": "gostaríamos",
+          "ar": "gostaríamos"
+        }
+      ],
+      "answer": "possível",
+      "accepted": [],
+      "explanation": {
+        "pt": "A resposta é 'possível'. Frase completa: Seria possível reduzir o preço em dez por cento?",
+        "en": "The answer is 'possível'. Full sentence: Would it be possible to reduce the price by ten percent?",
+        "ar": "الإجابة الصحيحة: 'possível'. الجملة كاملة: هل يمكن تخفيض السعر بنسبة عشرة بالمئة؟"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "termos",
+          "en": "termos",
+          "ar": "termos"
+        },
+        {
+          "pt": "contrato.",
+          "en": "contrato.",
+          "ar": "contrato."
+        },
+        {
+          "pt": "Gostaríamos",
+          "en": "Gostaríamos",
+          "ar": "Gostaríamos"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "discutir",
+          "en": "discutir",
+          "ar": "discutir"
+        },
+        {
+          "pt": "tarde.",
+          "en": "tarde.",
+          "ar": "tarde."
+        },
+        {
+          "pt": "Boa",
+          "en": "Boa",
+          "ar": "Boa"
+        },
+        {
+          "pt": "os",
+          "en": "os",
+          "ar": "os"
+        }
+      ],
+      "answer": "Boa tarde. Gostaríamos de discutir os termos do contrato.",
+      "accepted": [
+        "Boa tarde. Gostaríamos de discutir os termos do contrato."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Boa tarde. Gostaríamos de discutir os termos do contrato.'",
+        "en": "The correct order: 'Good afternoon. We would like to discuss the contract terms.'",
+        "ar": "الترتيب الصحيح: 'مساء الخير. نود مناقشة بنود العقد.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o investimento",
+          "en": "the market",
+          "ar": "o investimento"
+        },
+        {
+          "pt": "o mercado",
+          "en": "the company",
+          "ar": "o mercado"
+        },
+        {
+          "pt": "a inflação",
+          "en": "the investment",
+          "ar": "a inflação"
+        },
+        {
+          "pt": "a empresa",
+          "en": "the loss",
+          "ar": "a empresa"
+        },
+        {
+          "pt": "o prejuízo",
+          "en": "the inflation",
+          "ar": "o prejuízo"
+        },
+        {
+          "pt": "o lucro",
+          "en": "the profit",
+          "ar": "o lucro"
+        }
+      ],
+      "answer": "o investimento::the market|o mercado::the company|a inflação::the investment|a empresa::the loss|o prejuízo::the inflation|o lucro::the profit",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Justo. Além disso, precisamos de um prazo maior para a entrega.",
+          "en": "Fair. Besides, we need a longer delivery deadline.",
+          "ar": "عادل. بالإضافة إلى ذلك، نحتاج إلى مهلة أطول للتسليم."
+        },
+        {
+          "pt": "Podemos considerar, se o valor total for mantido.",
+          "en": "Good afternoon. We would like to discuss the contract terms.",
+          "ar": "يمكننا النظر في ذلك، إذا بقي المبلغ الإجمالي كما هو."
+        },
+        {
+          "pt": "Boa tarde. Gostaríamos de discutir os termos do contrato.",
+          "en": "We can consider it, if the total amount stays the same.",
+          "ar": "مساء الخير. نود مناقشة بنود العقد."
+        }
+      ],
+      "answer": "Boa tarde. Gostaríamos de discutir os termos do contrato.",
+      "accepted": [],
+      "audio": "Boa tarde. Gostaríamos de discutir os termos do contrato.",
+      "explanation": {
+        "pt": "Você ouviu: 'Boa tarde. Gostaríamos de discutir os termos do contrato.' — 'Good afternoon. We would like to discuss the contract terms.'",
+        "en": "You heard: 'Boa tarde. Gostaríamos de discutir os termos do contrato.' — 'Good afternoon. We would like to discuss the contract terms.'",
+        "ar": "سمعت: 'Boa tarde. Gostaríamos de discutir os termos do contrato.' — 'مساء الخير. نود مناقشة بنود العقد.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Boa tarde. Gostaríamos de discutir os termos do contrato.",
+          "en": "Of course. Would it be possible to extend the payment period?",
+          "ar": "بالتأكيد. هل يمكن تمديد مدة السداد؟"
+        },
+        {
+          "pt": "Justo. Além disso, precisamos de um prazo maior para a entrega.",
+          "en": "Fair. Besides, we need a longer delivery deadline.",
+          "ar": "مساء الخير. نود مناقشة بنود العقد."
+        },
+        {
+          "pt": "Com certeza. Seria possível aumentar o prazo de pagamento?",
+          "en": "Good afternoon. We would like to discuss the contract terms.",
+          "ar": "عادل. بالإضافة إلى ذلك، نحتاج إلى مهلة أطول للتسليم."
+        }
+      ],
+      "answer": "Com certeza. Seria possível aumentar o prazo de pagamento?",
+      "accepted": [],
+      "audio": "Com certeza. Seria possível aumentar o prazo de pagamento?",
+      "explanation": {
+        "pt": "Você ouviu: 'Com certeza. Seria possível aumentar o prazo de pagamento?' — 'Of course. Would it be possible to extend the payment period?'",
+        "en": "You heard: 'Com certeza. Seria possível aumentar o prazo de pagamento?' — 'Of course. Would it be possible to extend the payment period?'",
+        "ar": "سمعت: 'Com certeza. Seria possível aumentar o prazo de pagamento?' — 'بالتأكيد. هل يمكن تمديد مدة السداد؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "tarde.",
+          "en": "tarde.",
+          "ar": "tarde."
+        },
+        {
+          "pt": "os",
+          "en": "os",
+          "ar": "os"
+        },
+        {
+          "pt": "contrato.",
+          "en": "contrato.",
+          "ar": "contrato."
+        },
+        {
+          "pt": "Boa",
+          "en": "Boa",
+          "ar": "Boa"
+        },
+        {
+          "pt": "discutir",
+          "en": "discutir",
+          "ar": "discutir"
+        },
+        {
+          "pt": "Gostaríamos",
+          "en": "Gostaríamos",
+          "ar": "Gostaríamos"
+        },
+        {
+          "pt": "termos",
+          "en": "termos",
+          "ar": "termos"
+        }
+      ],
+      "answer": "Boa tarde. Gostaríamos de discutir os termos do contrato.",
+      "accepted": [
+        "Boa tarde. Gostaríamos de discutir os termos do contrato."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Boa tarde. Gostaríamos de discutir os termos do contrato.'",
+        "en": "The correct order: 'Good afternoon. We would like to discuss the contract terms.'",
+        "ar": "الترتيب الصحيح: 'مساء الخير. نود مناقشة بنود العقد.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o mercado",
+          "en": "the inflation",
+          "ar": "o mercado"
+        },
+        {
+          "pt": "o lucro",
+          "en": "the profit",
+          "ar": "o lucro"
+        },
+        {
+          "pt": "o prejuízo",
+          "en": "the loss",
+          "ar": "o prejuízo"
+        },
+        {
+          "pt": "a inflação",
+          "en": "the investment",
+          "ar": "a inflação"
+        },
+        {
+          "pt": "a empresa",
+          "en": "the market",
+          "ar": "a empresa"
+        },
+        {
+          "pt": "o investimento",
+          "en": "the company",
+          "ar": "o investimento"
+        }
+      ],
+      "answer": "o mercado::the inflation|o lucro::the profit|o prejuízo::the loss|a inflação::the investment|a empresa::the market|o investimento::the company",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Podemos considerar, se o valor total for mantido.",
+          "en": "Fair. Besides, we need a longer delivery deadline.",
+          "ar": "يمكننا النظر في ذلك، إذا بقي المبلغ الإجمالي كما هو."
+        },
+        {
+          "pt": "Boa tarde. Gostaríamos de discutir os termos do contrato.",
+          "en": "We can consider it, if the total amount stays the same.",
+          "ar": "مساء الخير. نود مناقشة بنود العقد."
+        },
+        {
+          "pt": "Justo. Além disso, precisamos de um prazo maior para a entrega.",
+          "en": "Good afternoon. We would like to discuss the contract terms.",
+          "ar": "عادل. بالإضافة إلى ذلك، نحتاج إلى مهلة أطول للتسليم."
+        }
+      ],
+      "answer": "Boa tarde. Gostaríamos de discutir os termos do contrato.",
+      "accepted": [],
+      "audio": "Boa tarde. Gostaríamos de discutir os termos do contrato.",
+      "explanation": {
+        "pt": "Você ouviu: 'Boa tarde. Gostaríamos de discutir os termos do contrato.' — 'Good afternoon. We would like to discuss the contract terms.'",
+        "en": "You heard: 'Boa tarde. Gostaríamos de discutir os termos do contrato.' — 'Good afternoon. We would like to discuss the contract terms.'",
+        "ar": "سمعت: 'Boa tarde. Gostaríamos de discutir os termos do contrato.' — 'مساء الخير. نود مناقشة بنود العقد.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Com certeza. Seria possível aumentar o prazo de pagamento?",
+          "en": "Fair. Besides, we need a longer delivery deadline.",
+          "ar": "بالتأكيد. هل يمكن تمديد مدة السداد؟"
+        },
+        {
+          "pt": "Justo. Além disso, precisamos de um prazo maior para a entrega.",
+          "en": "Of course. Would it be possible to extend the payment period?",
+          "ar": "يمكننا النظر في ذلك، إذا بقي المبلغ الإجمالي كما هو."
+        },
+        {
+          "pt": "Podemos considerar, se o valor total for mantido.",
+          "en": "We can consider it, if the total amount stays the same.",
+          "ar": "عادل. بالإضافة إلى ذلك، نحتاج إلى مهلة أطول للتسليم."
+        }
+      ],
+      "answer": "Com certeza. Seria possível aumentar o prazo de pagamento?",
+      "accepted": [],
+      "audio": "Com certeza. Seria possível aumentar o prazo de pagamento?",
+      "explanation": {
+        "pt": "Você ouviu: 'Com certeza. Seria possível aumentar o prazo de pagamento?' — 'Of course. Would it be possible to extend the payment period?'",
+        "en": "You heard: 'Com certeza. Seria possível aumentar o prazo de pagamento?' — 'Of course. Would it be possible to extend the payment period?'",
+        "ar": "سمعت: 'Com certeza. Seria possível aumentar o prazo de pagamento?' — 'بالتأكيد. هل يمكن تمديد مدة السداد؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "tarde.",
+          "en": "tarde.",
+          "ar": "tarde."
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "contrato.",
+          "en": "contrato.",
+          "ar": "contrato."
+        },
+        {
+          "pt": "termos",
+          "en": "termos",
+          "ar": "termos"
+        },
+        {
+          "pt": "Boa",
+          "en": "Boa",
+          "ar": "Boa"
+        },
+        {
+          "pt": "discutir",
+          "en": "discutir",
+          "ar": "discutir"
+        },
+        {
+          "pt": "os",
+          "en": "os",
+          "ar": "os"
+        },
+        {
+          "pt": "Gostaríamos",
+          "en": "Gostaríamos",
+          "ar": "Gostaríamos"
+        }
+      ],
+      "answer": "Boa tarde. Gostaríamos de discutir os termos do contrato.",
+      "accepted": [
+        "Boa tarde. Gostaríamos de discutir os termos do contrato."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Boa tarde. Gostaríamos de discutir os termos do contrato.'",
+        "en": "The correct order: 'Good afternoon. We would like to discuss the contract terms.'",
+        "ar": "الترتيب الصحيح: 'مساء الخير. نود مناقشة بنود العقد.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o prejuízo",
+          "en": "the market",
+          "ar": "o prejuízo"
+        },
+        {
+          "pt": "o mercado",
+          "en": "the investment",
+          "ar": "o mercado"
+        },
+        {
+          "pt": "a inflação",
+          "en": "the inflation",
+          "ar": "a inflação"
+        },
+        {
+          "pt": "o investimento",
+          "en": "the loss",
+          "ar": "o investimento"
+        },
+        {
+          "pt": "a empresa",
+          "en": "the profit",
+          "ar": "a empresa"
+        },
+        {
+          "pt": "o lucro",
+          "en": "the company",
+          "ar": "o lucro"
+        }
+      ],
+      "answer": "o prejuízo::the market|o mercado::the investment|a inflação::the inflation|o investimento::the loss|a empresa::the profit|o lucro::the company",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Combinado. Se concordarem com tudo, fechamos o negócio hoje.",
+          "en": "Good afternoon. We would like to discuss the contract terms.",
+          "ar": "يمكننا النظر في ذلك، إذا بقي المبلغ الإجمالي كما هو."
+        },
+        {
+          "pt": "Boa tarde. Gostaríamos de discutir os termos do contrato.",
+          "en": "Agreed. If you agree to everything, we close the deal today.",
+          "ar": "مساء الخير. نود مناقشة بنود العقد."
+        },
+        {
+          "pt": "Podemos considerar, se o valor total for mantido.",
+          "en": "We can consider it, if the total amount stays the same.",
+          "ar": "متفق. إذا وافقتم على كل شيء، نُبرم الصفقة اليوم."
+        }
+      ],
+      "answer": "Boa tarde. Gostaríamos de discutir os termos do contrato.",
+      "accepted": [],
+      "audio": "Boa tarde. Gostaríamos de discutir os termos do contrato.",
+      "explanation": {
+        "pt": "Você ouviu: 'Boa tarde. Gostaríamos de discutir os termos do contrato.' — 'Good afternoon. We would like to discuss the contract terms.'",
+        "en": "You heard: 'Boa tarde. Gostaríamos de discutir os termos do contrato.' — 'Good afternoon. We would like to discuss the contract terms.'",
+        "ar": "سمعت: 'Boa tarde. Gostaríamos de discutir os termos do contrato.' — 'مساء الخير. نود مناقشة بنود العقد.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Boa tarde. Gostaríamos de discutir os termos do contrato.",
+          "en": "Fair. Besides, we need a longer delivery deadline.",
+          "ar": "عادل. بالإضافة إلى ذلك، نحتاج إلى مهلة أطول للتسليم."
+        },
+        {
+          "pt": "Com certeza. Seria possível aumentar o prazo de pagamento?",
+          "en": "Good afternoon. We would like to discuss the contract terms.",
+          "ar": "مساء الخير. نود مناقشة بنود العقد."
+        },
+        {
+          "pt": "Justo. Além disso, precisamos de um prazo maior para a entrega.",
+          "en": "Of course. Would it be possible to extend the payment period?",
+          "ar": "بالتأكيد. هل يمكن تمديد مدة السداد؟"
+        }
+      ],
+      "answer": "Com certeza. Seria possível aumentar o prazo de pagamento?",
+      "accepted": [],
+      "audio": "Com certeza. Seria possível aumentar o prazo de pagamento?",
+      "explanation": {
+        "pt": "Você ouviu: 'Com certeza. Seria possível aumentar o prazo de pagamento?' — 'Of course. Would it be possible to extend the payment period?'",
+        "en": "You heard: 'Com certeza. Seria possível aumentar o prazo de pagamento?' — 'Of course. Would it be possible to extend the payment period?'",
+        "ar": "سمعت: 'Com certeza. Seria possível aumentar o prazo de pagamento?' — 'بالتأكيد. هل يمكن تمديد مدة السداد؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "termos",
+          "en": "termos",
+          "ar": "termos"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "Gostaríamos",
+          "en": "Gostaríamos",
+          "ar": "Gostaríamos"
+        },
+        {
+          "pt": "discutir",
+          "en": "discutir",
+          "ar": "discutir"
+        },
+        {
+          "pt": "tarde.",
+          "en": "tarde.",
+          "ar": "tarde."
+        },
+        {
+          "pt": "Boa",
+          "en": "Boa",
+          "ar": "Boa"
+        },
+        {
+          "pt": "contrato.",
+          "en": "contrato.",
+          "ar": "contrato."
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "os",
+          "en": "os",
+          "ar": "os"
+        }
+      ],
+      "answer": "Boa tarde. Gostaríamos de discutir os termos do contrato.",
+      "accepted": [
+        "Boa tarde. Gostaríamos de discutir os termos do contrato."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Boa tarde. Gostaríamos de discutir os termos do contrato.'",
+        "en": "The correct order: 'Good afternoon. We would like to discuss the contract terms.'",
+        "ar": "الترتيب الصحيح: 'مساء الخير. نود مناقشة بنود العقد.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o prejuízo",
+          "en": "the market",
+          "ar": "o prejuízo"
+        },
+        {
+          "pt": "a inflação",
+          "en": "the investment",
+          "ar": "a inflação"
+        },
+        {
+          "pt": "a empresa",
+          "en": "the loss",
+          "ar": "a empresa"
+        },
+        {
+          "pt": "o investimento",
+          "en": "the company",
+          "ar": "o investimento"
+        },
+        {
+          "pt": "o mercado",
+          "en": "the profit",
+          "ar": "o mercado"
+        },
+        {
+          "pt": "o lucro",
+          "en": "the inflation",
+          "ar": "o lucro"
+        }
+      ],
+      "answer": "o prejuízo::the market|a inflação::the investment|a empresa::the loss|o investimento::the company|o mercado::the profit|o lucro::the inflation",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Combinado. Se concordarem com tudo, fechamos o negócio hoje.",
+          "en": "Of course. Would it be possible to extend the payment period?",
+          "ar": "متفق. إذا وافقتم على كل شيء، نُبرم الصفقة اليوم."
+        },
+        {
+          "pt": "Com certeza. Seria possível aumentar o prazo de pagamento?",
+          "en": "Agreed. If you agree to everything, we close the deal today.",
+          "ar": "بالتأكيد. هل يمكن تمديد مدة السداد؟"
+        },
+        {
+          "pt": "Boa tarde. Gostaríamos de discutir os termos do contrato.",
+          "en": "Good afternoon. We would like to discuss the contract terms.",
+          "ar": "مساء الخير. نود مناقشة بنود العقد."
+        }
+      ],
+      "answer": "Boa tarde. Gostaríamos de discutir os termos do contrato.",
+      "accepted": [],
+      "audio": "Boa tarde. Gostaríamos de discutir os termos do contrato.",
+      "explanation": {
+        "pt": "Você ouviu: 'Boa tarde. Gostaríamos de discutir os termos do contrato.' — 'Good afternoon. We would like to discuss the contract terms.'",
+        "en": "You heard: 'Boa tarde. Gostaríamos de discutir os termos do contrato.' — 'Good afternoon. We would like to discuss the contract terms.'",
+        "ar": "سمعت: 'Boa tarde. Gostaríamos de discutir os termos do contrato.' — 'مساء الخير. نود مناقشة بنود العقد.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Combinado. Se concordarem com tudo, fechamos o negócio hoje.",
+          "en": "Agreed. If you agree to everything, we close the deal today.",
+          "ar": "متفق. إذا وافقتم على كل شيء، نُبرم الصفقة اليوم."
+        },
+        {
+          "pt": "Com certeza. Seria possível aumentar o prazo de pagamento?",
+          "en": "Good afternoon. We would like to discuss the contract terms.",
+          "ar": "بالتأكيد. هل يمكن تمديد مدة السداد؟"
+        },
+        {
+          "pt": "Boa tarde. Gostaríamos de discutir os termos do contrato.",
+          "en": "Of course. Would it be possible to extend the payment period?",
+          "ar": "مساء الخير. نود مناقشة بنود العقد."
+        }
+      ],
+      "answer": "Com certeza. Seria possível aumentar o prazo de pagamento?",
+      "accepted": [],
+      "audio": "Com certeza. Seria possível aumentar o prazo de pagamento?",
+      "explanation": {
+        "pt": "Você ouviu: 'Com certeza. Seria possível aumentar o prazo de pagamento?' — 'Of course. Would it be possible to extend the payment period?'",
+        "en": "You heard: 'Com certeza. Seria possível aumentar o prazo de pagamento?' — 'Of course. Would it be possible to extend the payment period?'",
+        "ar": "سمعت: 'Com certeza. Seria possível aumentar o prazo de pagamento?' — 'بالتأكيد. هل يمكن تمديد مدة السداد؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "os",
+          "en": "os",
+          "ar": "os"
+        },
+        {
+          "pt": "discutir",
+          "en": "discutir",
+          "ar": "discutir"
+        },
+        {
+          "pt": "termos",
+          "en": "termos",
+          "ar": "termos"
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "tarde.",
+          "en": "tarde.",
+          "ar": "tarde."
+        },
+        {
+          "pt": "contrato.",
+          "en": "contrato.",
+          "ar": "contrato."
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "Gostaríamos",
+          "en": "Gostaríamos",
+          "ar": "Gostaríamos"
+        },
+        {
+          "pt": "Boa",
+          "en": "Boa",
+          "ar": "Boa"
+        }
+      ],
+      "answer": "Boa tarde. Gostaríamos de discutir os termos do contrato.",
+      "accepted": [
+        "Boa tarde. Gostaríamos de discutir os termos do contrato."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Boa tarde. Gostaríamos de discutir os termos do contrato.'",
+        "en": "The correct order: 'Good afternoon. We would like to discuss the contract terms.'",
+        "ar": "الترتيب الصحيح: 'مساء الخير. نود مناقشة بنود العقد.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o prejuízo",
+          "en": "the loss",
+          "ar": "o prejuízo"
+        },
+        {
+          "pt": "a empresa",
+          "en": "the market",
+          "ar": "a empresa"
+        },
+        {
+          "pt": "o investimento",
+          "en": "the inflation",
+          "ar": "o investimento"
+        },
+        {
+          "pt": "a inflação",
+          "en": "the company",
+          "ar": "a inflação"
+        },
+        {
+          "pt": "o lucro",
+          "en": "the profit",
+          "ar": "o lucro"
+        },
+        {
+          "pt": "o mercado",
+          "en": "the investment",
+          "ar": "o mercado"
+        }
+      ],
+      "answer": "o prejuízo::the loss|a empresa::the market|o investimento::the inflation|a inflação::the company|o lucro::the profit|o mercado::the investment",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Boa tarde. Gostaríamos de discutir os termos do contrato.",
+          "en": "Good afternoon. We would like to discuss the contract terms.",
+          "ar": "بالتأكيد. هل يمكن تمديد مدة السداد؟"
+        },
+        {
+          "pt": "Podemos considerar, se o valor total for mantido.",
+          "en": "We can consider it, if the total amount stays the same.",
+          "ar": "يمكننا النظر في ذلك، إذا بقي المبلغ الإجمالي كما هو."
+        },
+        {
+          "pt": "Com certeza. Seria possível aumentar o prazo de pagamento?",
+          "en": "Of course. Would it be possible to extend the payment period?",
+          "ar": "مساء الخير. نود مناقشة بنود العقد."
+        }
+      ],
+      "answer": "Boa tarde. Gostaríamos de discutir os termos do contrato.",
+      "accepted": [],
+      "audio": "Boa tarde. Gostaríamos de discutir os termos do contrato.",
+      "explanation": {
+        "pt": "Você ouviu: 'Boa tarde. Gostaríamos de discutir os termos do contrato.' — 'Good afternoon. We would like to discuss the contract terms.'",
+        "en": "You heard: 'Boa tarde. Gostaríamos de discutir os termos do contrato.' — 'Good afternoon. We would like to discuss the contract terms.'",
+        "ar": "سمعت: 'Boa tarde. Gostaríamos de discutir os termos do contrato.' — 'مساء الخير. نود مناقشة بنود العقد.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Com certeza. Seria possível aumentar o prazo de pagamento?",
+          "en": "Of course. Would it be possible to extend the payment period?",
+          "ar": "متفق. إذا وافقتم على كل شيء، نُبرم الصفقة اليوم."
+        },
+        {
+          "pt": "Combinado. Se concordarem com tudo, fechamos o negócio hoje.",
+          "en": "Fair. Besides, we need a longer delivery deadline.",
+          "ar": "عادل. بالإضافة إلى ذلك، نحتاج إلى مهلة أطول للتسليم."
+        },
+        {
+          "pt": "Justo. Além disso, precisamos de um prazo maior para a entrega.",
+          "en": "Agreed. If you agree to everything, we close the deal today.",
+          "ar": "بالتأكيد. هل يمكن تمديد مدة السداد؟"
+        }
+      ],
+      "answer": "Com certeza. Seria possível aumentar o prazo de pagamento?",
+      "accepted": [],
+      "audio": "Com certeza. Seria possível aumentar o prazo de pagamento?",
+      "explanation": {
+        "pt": "Você ouviu: 'Com certeza. Seria possível aumentar o prazo de pagamento?' — 'Of course. Would it be possible to extend the payment period?'",
+        "en": "You heard: 'Com certeza. Seria possível aumentar o prazo de pagamento?' — 'Of course. Would it be possible to extend the payment period?'",
+        "ar": "سمعت: 'Com certeza. Seria possível aumentar o prazo de pagamento?' — 'بالتأكيد. هل يمكن تمديد مدة السداد؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "tarde.",
+          "en": "tarde.",
+          "ar": "tarde."
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "os",
+          "en": "os",
+          "ar": "os"
+        },
+        {
+          "pt": "discutir",
+          "en": "discutir",
+          "ar": "discutir"
+        },
+        {
+          "pt": "Boa",
+          "en": "Boa",
+          "ar": "Boa"
+        },
+        {
+          "pt": "Gostaríamos",
+          "en": "Gostaríamos",
+          "ar": "Gostaríamos"
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "termos",
+          "en": "termos",
+          "ar": "termos"
+        },
+        {
+          "pt": "contrato.",
+          "en": "contrato.",
+          "ar": "contrato."
+        }
+      ],
+      "answer": "Boa tarde. Gostaríamos de discutir os termos do contrato.",
+      "accepted": [
+        "Boa tarde. Gostaríamos de discutir os termos do contrato."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Boa tarde. Gostaríamos de discutir os termos do contrato.'",
+        "en": "The correct order: 'Good afternoon. We would like to discuss the contract terms.'",
+        "ar": "الترتيب الصحيح: 'مساء الخير. نود مناقشة بنود العقد.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o prejuízo",
+          "en": "the loss",
+          "ar": "o prejuízo"
+        },
+        {
+          "pt": "o mercado",
+          "en": "the profit",
+          "ar": "o mercado"
+        },
+        {
+          "pt": "a inflação",
+          "en": "the market",
+          "ar": "a inflação"
+        },
+        {
+          "pt": "o lucro",
+          "en": "the inflation",
+          "ar": "o lucro"
+        },
+        {
+          "pt": "a empresa",
+          "en": "the investment",
+          "ar": "a empresa"
+        },
+        {
+          "pt": "o investimento",
+          "en": "the company",
+          "ar": "o investimento"
+        }
+      ],
+      "answer": "o prejuízo::the loss|o mercado::the profit|a inflação::the market|o lucro::the inflation|a empresa::the investment|o investimento::the company",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Podemos considerar, se o valor total for mantido.",
+          "en": "Good afternoon. We would like to discuss the contract terms.",
+          "ar": "يمكننا النظر في ذلك، إذا بقي المبلغ الإجمالي كما هو."
+        },
+        {
+          "pt": "Combinado. Se concordarem com tudo, fechamos o negócio hoje.",
+          "en": "We can consider it, if the total amount stays the same.",
+          "ar": "مساء الخير. نود مناقشة بنود العقد."
+        },
+        {
+          "pt": "Boa tarde. Gostaríamos de discutir os termos do contrato.",
+          "en": "Agreed. If you agree to everything, we close the deal today.",
+          "ar": "متفق. إذا وافقتم على كل شيء، نُبرم الصفقة اليوم."
+        }
+      ],
+      "answer": "Boa tarde. Gostaríamos de discutir os termos do contrato.",
+      "accepted": [],
+      "audio": "Boa tarde. Gostaríamos de discutir os termos do contrato.",
+      "explanation": {
+        "pt": "Você ouviu: 'Boa tarde. Gostaríamos de discutir os termos do contrato.' — 'Good afternoon. We would like to discuss the contract terms.'",
+        "en": "You heard: 'Boa tarde. Gostaríamos de discutir os termos do contrato.' — 'Good afternoon. We would like to discuss the contract terms.'",
+        "ar": "سمعت: 'Boa tarde. Gostaríamos de discutir os termos do contrato.' — 'مساء الخير. نود مناقشة بنود العقد.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Justo. Além disso, precisamos de um prazo maior para a entrega.",
+          "en": "We can consider it, if the total amount stays the same.",
+          "ar": "عادل. بالإضافة إلى ذلك، نحتاج إلى مهلة أطول للتسليم."
+        },
+        {
+          "pt": "Com certeza. Seria possível aumentar o prazo de pagamento?",
+          "en": "Of course. Would it be possible to extend the payment period?",
+          "ar": "بالتأكيد. هل يمكن تمديد مدة السداد؟"
+        },
+        {
+          "pt": "Podemos considerar, se o valor total for mantido.",
+          "en": "Fair. Besides, we need a longer delivery deadline.",
+          "ar": "يمكننا النظر في ذلك، إذا بقي المبلغ الإجمالي كما هو."
+        }
+      ],
+      "answer": "Com certeza. Seria possível aumentar o prazo de pagamento?",
+      "accepted": [],
+      "audio": "Com certeza. Seria possível aumentar o prazo de pagamento?",
+      "explanation": {
+        "pt": "Você ouviu: 'Com certeza. Seria possível aumentar o prazo de pagamento?' — 'Of course. Would it be possible to extend the payment period?'",
+        "en": "You heard: 'Com certeza. Seria possível aumentar o prazo de pagamento?' — 'Of course. Would it be possible to extend the payment period?'",
+        "ar": "سمعت: 'Com certeza. Seria possível aumentar o prazo de pagamento?' — 'بالتأكيد. هل يمكن تمديد مدة السداد؟'"
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'the market'",
+        "en": "Type in Portuguese: 'the market'",
+        "ar": "اكتب بالبرتغالية: 'السوق'"
+      },
+      "options": [],
+      "answer": "o mercado",
+      "accepted": [
+        "o mercado"
+      ],
+      "explanation": {
+        "pt": "'o mercado' significa 'the market'.",
+        "en": "'o mercado' means 'the market'.",
+        "ar": "'$o mercado' بالعربية: '$السوق'."
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'the company'",
+        "en": "Type in Portuguese: 'the company'",
+        "ar": "اكتب بالبرتغالية: 'الشركة'"
+      },
+      "options": [],
+      "answer": "a empresa",
+      "accepted": [
+        "a empresa"
+      ],
+      "explanation": {
+        "pt": "'a empresa' significa 'the company'.",
+        "en": "'a empresa' means 'the company'.",
+        "ar": "'$a empresa' بالعربية: '$الشركة'."
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Combinado. Se concordarem com tudo, fechamos o negócio hoje.",
+          "en": "Combinado. Se concordarem com tudo, fechamos o negócio hoje.",
+          "ar": "Combinado. Se concordarem com tudo, fechamos o negócio hoje."
+        },
+        {
+          "pt": "Boa tarde. Gostaríamos de discutir os termos do contrato.",
+          "en": "Boa tarde. Gostaríamos de discutir os termos do contrato.",
+          "ar": "Boa tarde. Gostaríamos de discutir os termos do contrato."
+        },
+        {
+          "pt": "Justo. Além disso, precisamos de um prazo maior para a entrega.",
+          "en": "Justo. Além disso, precisamos de um prazo maior para a entrega.",
+          "ar": "Justo. Além disso, precisamos de um prazo maior para a entrega."
+        }
+      ],
+      "answer": "Boa tarde. Gostaríamos de discutir os termos do contrato.",
+      "accepted": [],
+      "audio": "Boa tarde. Gostaríamos de discutir os termos do contrato.",
+      "explanation": {
+        "pt": "Você ouviu: 'Boa tarde. Gostaríamos de discutir os termos do contrato.'",
+        "en": "You heard: 'Boa tarde. Gostaríamos de discutir os termos do contrato.'",
+        "ar": "سمعت: 'Boa tarde. Gostaríamos de discutir os termos do contrato.'"
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Com certeza. Seria possível aumentar o prazo de pagamento?",
+          "en": "Com certeza. Seria possível aumentar o prazo de pagamento?",
+          "ar": "Com certeza. Seria possível aumentar o prazo de pagamento?"
+        },
+        {
+          "pt": "Boa tarde. Gostaríamos de discutir os termos do contrato.",
+          "en": "Boa tarde. Gostaríamos de discutir os termos do contrato.",
+          "ar": "Boa tarde. Gostaríamos de discutir os termos do contrato."
+        },
+        {
+          "pt": "Justo. Além disso, precisamos de um prazo maior para a entrega.",
+          "en": "Justo. Além disso, precisamos de um prazo maior para a entrega.",
+          "ar": "Justo. Além disso, precisamos de um prazo maior para a entrega."
+        }
+      ],
+      "answer": "Com certeza. Seria possível aumentar o prazo de pagamento?",
+      "accepted": [],
+      "audio": "Com certeza. Seria possível aumentar o prazo de pagamento?",
+      "explanation": {
+        "pt": "Você ouviu: 'Com certeza. Seria possível aumentar o prazo de pagamento?'",
+        "en": "You heard: 'Com certeza. Seria possível aumentar o prazo de pagamento?'",
+        "ar": "سمعت: 'Com certeza. Seria possível aumentar o prazo de pagamento?'"
+      }
+    },
+    {
+      "type": "dictation",
+      "prompt": {
+        "pt": "Ouça e escreva o que você ouviu.",
+        "en": "Listen and type what you hear.",
+        "ar": "استمع واكتب ما سمعته."
+      },
+      "options": [],
+      "answer": "Boa tarde. Gostaríamos de discutir os termos do contrato.",
+      "accepted": [],
+      "audio": "Boa tarde. Gostaríamos de discutir os termos do contrato.",
+      "explanation": {
+        "pt": "A frase correta: 'Boa tarde. Gostaríamos de discutir os termos do contrato.'",
+        "en": "The correct sentence: 'Boa tarde. Gostaríamos de discutir os termos do contrato.'",
+        "ar": "الجملة الصحيحة: 'Boa tarde. Gostaríamos de discutir os termos do contrato.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Gostaríamos",
+          "en": "Gostaríamos",
+          "ar": "Gostaríamos"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "contrato.",
+          "en": "contrato.",
+          "ar": "contrato."
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "termos",
+          "en": "termos",
+          "ar": "termos"
+        },
+        {
+          "pt": "Boa",
+          "en": "Boa",
+          "ar": "Boa"
+        },
+        {
+          "pt": "discutir",
+          "en": "discutir",
+          "ar": "discutir"
+        },
+        {
+          "pt": "os",
+          "en": "os",
+          "ar": "os"
+        },
+        {
+          "pt": "tarde.",
+          "en": "tarde.",
+          "ar": "tarde."
+        }
+      ],
+      "answer": "Boa tarde. Gostaríamos de discutir os termos do contrato.",
+      "accepted": [
+        "Boa tarde. Gostaríamos de discutir os termos do contrato."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Boa tarde. Gostaríamos de discutir os termos do contrato.'",
+        "en": "The correct order: 'Good afternoon. We would like to discuss the contract terms.'",
+        "ar": "الترتيب الصحيح: 'مساء الخير. نود مناقشة بنود العقد.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a inflação",
+          "en": "the company",
+          "ar": "a inflação"
+        },
+        {
+          "pt": "o mercado",
+          "en": "the investment",
+          "ar": "o mercado"
+        },
+        {
+          "pt": "a empresa",
+          "en": "the market",
+          "ar": "a empresa"
+        },
+        {
+          "pt": "o prejuízo",
+          "en": "the inflation",
+          "ar": "o prejuízo"
+        },
+        {
+          "pt": "o lucro",
+          "en": "the profit",
+          "ar": "o lucro"
+        },
+        {
+          "pt": "o investimento",
+          "en": "the loss",
+          "ar": "o investimento"
+        }
+      ],
+      "answer": "a inflação::the company|o mercado::the investment|a empresa::the market|o prejuízo::the inflation|o lucro::the profit|o investimento::the loss",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Com certeza. Seria possível aumentar o prazo de pagamento?",
+          "en": "Agreed. If you agree to everything, we close the deal today.",
+          "ar": "متفق. إذا وافقتم على كل شيء، نُبرم الصفقة اليوم."
+        },
+        {
+          "pt": "Boa tarde. Gostaríamos de discutir os termos do contrato.",
+          "en": "Of course. Would it be possible to extend the payment period?",
+          "ar": "بالتأكيد. هل يمكن تمديد مدة السداد؟"
+        },
+        {
+          "pt": "Combinado. Se concordarem com tudo, fechamos o negócio hoje.",
+          "en": "Good afternoon. We would like to discuss the contract terms.",
+          "ar": "مساء الخير. نود مناقشة بنود العقد."
+        }
+      ],
+      "answer": "Boa tarde. Gostaríamos de discutir os termos do contrato.",
+      "accepted": [],
+      "audio": "Boa tarde. Gostaríamos de discutir os termos do contrato.",
+      "explanation": {
+        "pt": "Você ouviu: 'Boa tarde. Gostaríamos de discutir os termos do contrato.' — 'Good afternoon. We would like to discuss the contract terms.'",
+        "en": "You heard: 'Boa tarde. Gostaríamos de discutir os termos do contrato.' — 'Good afternoon. We would like to discuss the contract terms.'",
+        "ar": "سمعت: 'Boa tarde. Gostaríamos de discutir os termos do contrato.' — 'مساء الخير. نود مناقشة بنود العقد.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Com certeza. Seria possível aumentar o prazo de pagamento?",
+          "en": "Good afternoon. We would like to discuss the contract terms.",
+          "ar": "مساء الخير. نود مناقشة بنود العقد."
+        },
+        {
+          "pt": "Boa tarde. Gostaríamos de discutir os termos do contrato.",
+          "en": "Of course. Would it be possible to extend the payment period?",
+          "ar": "عادل. بالإضافة إلى ذلك، نحتاج إلى مهلة أطول للتسليم."
+        },
+        {
+          "pt": "Justo. Além disso, precisamos de um prazo maior para a entrega.",
+          "en": "Fair. Besides, we need a longer delivery deadline.",
+          "ar": "بالتأكيد. هل يمكن تمديد مدة السداد؟"
+        }
+      ],
+      "answer": "Com certeza. Seria possível aumentar o prazo de pagamento?",
+      "accepted": [],
+      "audio": "Com certeza. Seria possível aumentar o prazo de pagamento?",
+      "explanation": {
+        "pt": "Você ouviu: 'Com certeza. Seria possível aumentar o prazo de pagamento?' — 'Of course. Would it be possible to extend the payment period?'",
+        "en": "You heard: 'Com certeza. Seria possível aumentar o prazo de pagamento?' — 'Of course. Would it be possible to extend the payment period?'",
+        "ar": "سمعت: 'Com certeza. Seria possível aumentar o prazo de pagamento?' — 'بالتأكيد. هل يمكن تمديد مدة السداد؟'"
+      }
+    }
+  ],
+  "speaking": {
+    "title": {
+      "pt": "Fale Agora — Ouça e Repita",
+      "en": "Speak Now — Listen and Repeat",
+      "ar": "تحدث الآن — استمع وكرر"
+    },
+    "phrases": [
+      {
+        "pt": "Boa tarde. Gostaríamos de discutir os termos do contrato.",
+        "en": "Good afternoon. We would like to discuss the contract terms.",
+        "ar": "مساء الخير. نود مناقشة بنود العقد."
+      },
+      {
+        "pt": "Com certeza. Seria possível aumentar o prazo de pagamento?",
+        "en": "Of course. Would it be possible to extend the payment period?",
+        "ar": "بالتأكيد. هل يمكن تمديد مدة السداد؟"
+      },
+      {
+        "pt": "Podemos considerar, se o valor total for mantido.",
+        "en": "We can consider it, if the total amount stays the same.",
+        "ar": "يمكننا النظر في ذلك، إذا بقي المبلغ الإجمالي كما هو."
+      },
+      {
+        "pt": "Justo. Além disso, precisamos de um prazo maior para a entrega.",
+        "en": "Fair. Besides, we need a longer delivery deadline.",
+        "ar": "عادل. بالإضافة إلى ذلك، نحتاج إلى مهلة أطول للتسليم."
+      },
+      {
+        "pt": "Combinado. Se concordarem com tudo, fechamos o negócio hoje.",
+        "en": "Agreed. If you agree to everything, we close the deal today.",
+        "ar": "متفق. إذا وافقتم على كل شيء، نُبرم الصفقة اليوم."
+      },
+      {
+        "pt": "o mercado",
+        "en": "the market",
+        "ar": "السوق"
+      },
+      {
+        "pt": "a empresa",
+        "en": "the company",
+        "ar": "الشركة"
+      },
+      {
+        "pt": "o investimento",
+        "en": "the investment",
+        "ar": "الاستثمار"
+      }
+    ]
+  },
+  "cultural_tips": {
+    "pt": "",
+    "en": "",
+    "ar": ""
+  }
+}

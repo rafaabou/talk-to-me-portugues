@@ -1,0 +1,1863 @@
+{
+  "id": "B1-04",
+  "level": "B1",
+  "level_name": {
+    "pt": "Intermediário",
+    "en": "Intermediate",
+    "ar": "متوسط"
+  },
+  "title": {
+    "pt": "Mídia e Notícias",
+    "en": "Media and News",
+    "ar": "الإعلام والأخبار"
+  },
+  "objectives": [
+    {
+      "pt": "Compreender e produzir vocabulário de mídia e notícias.",
+      "en": "Understand and produce media and news vocabulary.",
+      "ar": "فهم واستخدام مفردات الإعلام والأخبار."
+    },
+    {
+      "pt": "Usar a voz passiva e o discurso indireto para relatar informações.",
+      "en": "Use the passive voice and reported speech to relay information.",
+      "ar": "استخدام المبني للمجهول والكلام المنقول لنقل المعلومات."
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "a notícia",
+      "ipa": "/a noˈtʃi.si.ɐ/",
+      "en": "the news item",
+      "ar": "الخبر",
+      "example": {
+        "pt": "Sim, a notícia foi publicada esta manhã.",
+        "en": "Yes, the news was published this morning.",
+        "ar": "نعم، نُشر الخبر هذا الصباح."
+      }
+    },
+    {
+      "pt": "o jornal",
+      "ipa": "/u ʒoʁˈnaw/",
+      "en": "the newspaper",
+      "ar": "الجريدة",
+      "example": {
+        "pt": "O acidente foi confirmado pela polícia.",
+        "en": "The accident was confirmed by the police.",
+        "ar": "أكّدت الشرطة الحادث."
+      }
+    },
+    {
+      "pt": "a revista",
+      "ipa": "/a heˈvis.ta/",
+      "en": "the magazine",
+      "ar": "المجلة",
+      "example": {
+        "pt": "Sim, a notícia foi publicada esta manhã.",
+        "en": "Yes, the news was published this morning.",
+        "ar": "نعم، نُشر الخبر هذا الصباح."
+      }
+    },
+    {
+      "pt": "o repórter",
+      "ipa": "/u heˈpoʁ.teʁ/",
+      "en": "the reporter",
+      "ar": "المراسل",
+      "example": {
+        "pt": "O acidente foi confirmado pela polícia.",
+        "en": "The accident was confirmed by the police.",
+        "ar": "أكّدت الشرطة الحادث."
+      }
+    },
+    {
+      "pt": "a manchete",
+      "ipa": "/a mɐ̃ˈʃe.ti/",
+      "en": "the headline",
+      "ar": "العنوان الرئيسي",
+      "example": {
+        "pt": "Sim, a notícia foi publicada esta manhã.",
+        "en": "Yes, the news was published this morning.",
+        "ar": "نعم، نُشر الخبر هذا الصباح."
+      }
+    },
+    {
+      "pt": "a reportagem",
+      "ipa": "/a he.poʁ.taˈʒẽj/",
+      "en": "the news report",
+      "ar": "التقرير",
+      "example": {
+        "pt": "Sim, a notícia foi publicada esta manhã.",
+        "en": "Yes, the news was published this morning.",
+        "ar": "نعم، نُشر الخبر هذا الصباح."
+      }
+    },
+    {
+      "pt": "a televisão",
+      "ipa": "/a te.le.vi.zaˈɐ̃w/",
+      "en": "the television",
+      "ar": "التلفزيون",
+      "example": {
+        "pt": "Sim, a notícia foi publicada esta manhã.",
+        "en": "Yes, the news was published this morning.",
+        "ar": "نعم، نُشر الخبر هذا الصباح."
+      }
+    },
+    {
+      "pt": "o rádio",
+      "ipa": "/u ˈha.dʒju/",
+      "en": "the radio",
+      "ar": "الراديو / الإذاعة",
+      "example": {
+        "pt": "O acidente foi confirmado pela polícia.",
+        "en": "The accident was confirmed by the police.",
+        "ar": "أكّدت الشرطة الحادث."
+      }
+    },
+    {
+      "pt": "o jornalista",
+      "ipa": "/u ʒoʁ.naˈlis.ta/",
+      "en": "the journalist",
+      "ar": "الصحفي",
+      "example": {
+        "pt": "O acidente foi confirmado pela polícia.",
+        "en": "The accident was confirmed by the police.",
+        "ar": "أكّدت الشرطة الحادث."
+      }
+    },
+    {
+      "pt": "o noticiário",
+      "ipa": "/u no.tʃi.si.aˈɾju/",
+      "en": "the newscast",
+      "ar": "نشرة الأخبار",
+      "example": {
+        "pt": "O acidente foi confirmado pela polícia.",
+        "en": "The accident was confirmed by the police.",
+        "ar": "أكّدت الشرطة الحادث."
+      }
+    },
+    {
+      "pt": "a fofoca",
+      "ipa": "/a foˈfo.kɐ/",
+      "en": "the gossip",
+      "ar": "النميمة",
+      "example": {
+        "pt": "Sim, a notícia foi publicada esta manhã.",
+        "en": "Yes, the news was published this morning.",
+        "ar": "نعم، نُشر الخبر هذا الصباح."
+      }
+    },
+    {
+      "pt": "verídico",
+      "ipa": "/veˈɾi.dʒi.ku/",
+      "en": "truthful",
+      "ar": "حقيقي / موثوق",
+      "example": {
+        "pt": "Preciso verificar se é verídico.",
+        "en": "I need to check if it is true.",
+        "ar": "أحتاج إلى التحقق من صحة الخبر."
+      }
+    },
+    {
+      "pt": "o boato",
+      "ipa": "/u boˈa.tu/",
+      "en": "the rumor",
+      "ar": "الشائعة",
+      "example": {
+        "pt": "O acidente foi confirmado pela polícia.",
+        "en": "The accident was confirmed by the police.",
+        "ar": "أكّدت الشرطة الحادث."
+      }
+    },
+    {
+      "pt": "a audiência",
+      "ipa": "/a aw.dʒiˈẽ.si.ɐ/",
+      "en": "the audience / ratings",
+      "ar": "الجمهور / المتابَعة",
+      "example": {
+        "pt": "Sim, a notícia foi publicada esta manhã.",
+        "en": "Yes, the news was published this morning.",
+        "ar": "نعم، نُشر الخبر هذا الصباح."
+      }
+    },
+    {
+      "pt": "ao vivo",
+      "ipa": "/aw ˈvi.vu/",
+      "en": "live",
+      "ar": "مباشر",
+      "example": {
+        "pt": "Você viu as notícias hoje?",
+        "en": "Did you watch the news today?",
+        "ar": "هل شاهدت الأخبار اليوم؟"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "title": {
+        "pt": "Voz passiva nas notícias",
+        "en": "Passive voice in the news",
+        "ar": "المبني للمجهول في الأخبار"
+      },
+      "explanation": {
+        "pt": "As notícias costumam destacar a ação, não quem a pratica. Por isso usamos muito a voz passiva com 'ser' no tempo adequado e o particípio.",
+        "en": "News reports usually highlight the action, not the doer. That is why the passive voice with 'ser' in the right tense and the participle is very common.",
+        "ar": "عادةً ما تُبرز الأخبار الفعل وليس الفاعل. لذلك نستخدم كثيراً المبني للمجهول مع 'ser' في الزمن المناسب واسم المفعول."
+      },
+      "examples": [
+        {
+          "pt": "A notícia foi publicada esta manhã.",
+          "en": "The news was published this morning.",
+          "ar": "نُشر الخبر هذا الصباح."
+        },
+        {
+          "pt": "O acidente foi confirmado pela polícia.",
+          "en": "The accident was confirmed by the police.",
+          "ar": "أكّدت الشرطة الحادث."
+        },
+        {
+          "pt": "As informações serão divulgadas amanhã.",
+          "en": "The information will be released tomorrow.",
+          "ar": "سيُكشَف عن المعلومات غداً."
+        }
+      ]
+    },
+    {
+      "title": {
+        "pt": "Discurso indireto",
+        "en": "Reported speech",
+        "ar": "الكلام المنقول"
+      },
+      "explanation": {
+        "pt": "Para relatar o que alguém disse, usamos 'dizer que', 'afirmar que' ou 'anunciar que', ajustando os tempos verbais.",
+        "en": "To report what someone said, we use 'dizer que', 'afirmar que' or 'anunciar que', adjusting the verb tenses.",
+        "ar": "لنقل ما قاله شخص ما، نستخدم 'dizer que' أو 'afirmar que' أو 'anunciar que' مع تعديل الأزمنة."
+      },
+      "examples": [
+        {
+          "pt": "O presidente disse que a economia está melhorando.",
+          "en": "The president said that the economy is improving.",
+          "ar": "قال الرئيس إن الاقتصاد يتحسن."
+        },
+        {
+          "pt": "A repórter afirmou que a reunião acontecerá amanhã.",
+          "en": "The reporter stated that the meeting will happen tomorrow.",
+          "ar": "أكّدت المراسلة أن الاجتماع سيُعقد غداً."
+        },
+        {
+          "pt": "Eles anunciaram que o resultado sairá na semana que vem.",
+          "en": "They announced that the result will come out next week.",
+          "ar": "أعلنوا أن النتيجة ستصدر الأسبوع المقبل."
+        }
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": {
+      "pt": "Falando de notícias",
+      "en": "Talking about the news",
+      "ar": "التحدث عن الأخبار"
+    },
+    "lines": [
+      {
+        "speaker": "João",
+        "pt": "Você viu as notícias hoje?",
+        "en": "Did you watch the news today?",
+        "ar": "هل شاهدت الأخبار اليوم؟"
+      },
+      {
+        "speaker": "Beatriz",
+        "pt": "Não, ainda não tive tempo.",
+        "en": "No, I haven't had time yet.",
+        "ar": "لا، لم أجد وقتاً بعد."
+      },
+      {
+        "speaker": "João",
+        "pt": "Houve um grande acidente na rodovia.",
+        "en": "There was a big accident on the highway.",
+        "ar": "وقع حادث كبير على الطريق السريع."
+      },
+      {
+        "speaker": "Beatriz",
+        "pt": "Sério? Foi divulgado no jornal?",
+        "en": "Really? Was it reported in the newspaper?",
+        "ar": "حقاً؟ هل نُشر في الجريدة؟"
+      },
+      {
+        "speaker": "João",
+        "pt": "Sim, a notícia foi publicada esta manhã.",
+        "en": "Yes, the news was published this morning.",
+        "ar": "نعم، نُشر الخبر هذا الصباح."
+      },
+      {
+        "speaker": "Beatriz",
+        "pt": "Preciso verificar se é verídico.",
+        "en": "I need to check if it is true.",
+        "ar": "أحتاج إلى التحقق من صحة الخبر."
+      }
+    ]
+  },
+  "reading": {
+    "title": {
+      "pt": "Notícia do dia",
+      "en": "News of the day",
+      "ar": "أخبار اليوم"
+    },
+    "text_pt": "O prefeito anunciou que uma nova linha de metrô será construída. A obra foi aprovada pelo conselho municipal. Os moradores comemoraram a decisão. A construção começará no próximo ano.",
+    "text_en": "The mayor announced that a new subway line will be built. The project was approved by the city council. Residents celebrated the decision. Construction will begin next year.",
+    "text_ar": "أعلن رئيس البلدية أن خط مترو جديداً سيُبنى. وافق مجلس المدينة على المشروع. واحتفل السكان بالقرار. وسيبدأ البناء في العام المقبل."
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Complete na voz passiva: \"A notícia ___ publicada ontem.\"",
+        "en": "Complete in the passive voice: \"The news ___ published yesterday.\"",
+        "ar": "أكمل في المبني للمجهول: \"الخبر ___ بالأمس.\""
+      },
+      "options": [
+        {
+          "pt": "foi",
+          "en": "was",
+          "ar": "نُشر"
+        },
+        {
+          "pt": "é",
+          "en": "is",
+          "ar": "يُنشر"
+        },
+        {
+          "pt": "será",
+          "en": "will be",
+          "ar": "سيُنشر"
+        },
+        {
+          "pt": "seja",
+          "en": "be (subjunctive)",
+          "ar": "أن يُنشر"
+        }
+      ],
+      "answer": "foi",
+      "explanation": {
+        "pt": "'Ontem' indica passado concluído, então usamos 'foi' + particípio.",
+        "en": "'Ontem' (yesterday) indicates a completed past action, so we use 'foi' + participle.",
+        "ar": "'ontem' أي أمس تدل على فعل مكتمل في الماضي، لذلك نستخدم 'foi' مع اسم المفعول."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Complete o discurso indireto: \"A repórter disse ___ o resultado sairá amanhã.\"",
+        "en": "Complete the reported speech: \"The reporter said ___ the result will come out tomorrow.\"",
+        "ar": "أكمل الكلام المنقول: \"قالت المراسلة ___ النتيجة ستصدر غداً.\""
+      },
+      "options": [
+        {
+          "pt": "que",
+          "en": "that",
+          "ar": "أن"
+        },
+        {
+          "pt": "se",
+          "en": "if",
+          "ar": "إذا"
+        },
+        {
+          "pt": "quem",
+          "en": "who",
+          "ar": "من"
+        },
+        {
+          "pt": "onde",
+          "en": "where",
+          "ar": "حيث"
+        }
+      ],
+      "answer": "que",
+      "explanation": {
+        "pt": "O discurso indireto com 'dizer', 'afirmar' ou 'anunciar' usa a conjunção 'que'.",
+        "en": "Reported speech with 'dizer', 'afirmar' or 'anunciar' uses the conjunction 'que'.",
+        "ar": "الكلام المنقول مع 'dizer' أو 'afirmar' أو 'anunciar' يستخدم أداة الربط 'que' أي أن."
+      }
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o inglês: \"O jornalista afirmou que a economia está melhorando.\"",
+        "en": "Translate to English: \"O jornalista afirmou que a economia está melhorando.\"",
+        "ar": "ترجم إلى الإنجليزية: \"O jornalista afirmou que a economia está melhorando.\""
+      },
+      "options": [],
+      "answer": "The journalist stated that the economy is improving.",
+      "explanation": {
+        "pt": "'Afirmou que' equivale a 'stated that' em inglês.",
+        "en": "'Afirmou que' corresponds to 'stated that' in English.",
+        "ar": "تكافئ 'afirmou que' عبارة 'stated that' في الإنجليزية أي أكّد أن."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "viu",
+          "en": "viu",
+          "ar": "viu"
+        },
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        },
+        {
+          "pt": "hoje?",
+          "en": "hoje?",
+          "ar": "hoje?"
+        },
+        {
+          "pt": "notícias",
+          "en": "notícias",
+          "ar": "notícias"
+        },
+        {
+          "pt": "as",
+          "en": "as",
+          "ar": "as"
+        }
+      ],
+      "answer": "Você viu as notícias hoje?",
+      "accepted": [
+        "Você viu as notícias hoje?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Você viu as notícias hoje?'",
+        "en": "The correct order: 'Did you watch the news today?'",
+        "ar": "الترتيب الصحيح: 'هل شاهدت الأخبار اليوم؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a reportagem",
+          "en": "the news report",
+          "ar": "a reportagem"
+        },
+        {
+          "pt": "a notícia",
+          "en": "the reporter",
+          "ar": "a notícia"
+        },
+        {
+          "pt": "a revista",
+          "en": "the magazine",
+          "ar": "a revista"
+        },
+        {
+          "pt": "o jornal",
+          "en": "the news item",
+          "ar": "o jornal"
+        },
+        {
+          "pt": "a manchete",
+          "en": "the newspaper",
+          "ar": "a manchete"
+        },
+        {
+          "pt": "o repórter",
+          "en": "the headline",
+          "ar": "o repórter"
+        }
+      ],
+      "answer": "a reportagem::the news report|a notícia::the reporter|a revista::the magazine|o jornal::the news item|a manchete::the newspaper|o repórter::the headline",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Houve um grande acidente na rodovia.",
+          "en": "Did you watch the news today?",
+          "ar": "وقع حادث كبير على الطريق السريع."
+        },
+        {
+          "pt": "Você viu as notícias hoje?",
+          "en": "There was a big accident on the highway.",
+          "ar": "لا، لم أجد وقتاً بعد."
+        },
+        {
+          "pt": "Não, ainda não tive tempo.",
+          "en": "No, I haven't had time yet.",
+          "ar": "هل شاهدت الأخبار اليوم؟"
+        }
+      ],
+      "answer": "Você viu as notícias hoje?",
+      "accepted": [],
+      "audio": "Você viu as notícias hoje?",
+      "explanation": {
+        "pt": "Você ouviu: 'Você viu as notícias hoje?' — 'Did you watch the news today?'",
+        "en": "You heard: 'Você viu as notícias hoje?' — 'Did you watch the news today?'",
+        "ar": "سمعت: 'Você viu as notícias hoje?' — 'هل شاهدت الأخبار اليوم؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim, a notícia foi publicada esta manhã.",
+          "en": "Yes, the news was published this morning.",
+          "ar": "لا، لم أجد وقتاً بعد."
+        },
+        {
+          "pt": "Não, ainda não tive tempo.",
+          "en": "No, I haven't had time yet.",
+          "ar": "حقاً؟ هل نُشر في الجريدة؟"
+        },
+        {
+          "pt": "Sério? Foi divulgado no jornal?",
+          "en": "Really? Was it reported in the newspaper?",
+          "ar": "نعم، نُشر الخبر هذا الصباح."
+        }
+      ],
+      "answer": "Não, ainda não tive tempo.",
+      "accepted": [],
+      "audio": "Não, ainda não tive tempo.",
+      "explanation": {
+        "pt": "Você ouviu: 'Não, ainda não tive tempo.' — 'No, I haven't had time yet.'",
+        "en": "You heard: 'Não, ainda não tive tempo.' — 'No, I haven't had time yet.'",
+        "ar": "سمعت: 'Não, ainda não tive tempo.' — 'لا، لم أجد وقتاً بعد.'"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "A notícia ___ publicada esta manhã.",
+        "en": "A notícia ___ publicada esta manhã.",
+        "ar": "A notícia ___ publicada esta manhã."
+      },
+      "options": [
+        {
+          "pt": "confirmado",
+          "en": "confirmado",
+          "ar": "confirmado"
+        },
+        {
+          "pt": "acidente",
+          "en": "acidente",
+          "ar": "acidente"
+        },
+        {
+          "pt": "foi",
+          "en": "foi",
+          "ar": "foi"
+        }
+      ],
+      "answer": "foi",
+      "accepted": [],
+      "explanation": {
+        "pt": "A resposta é 'foi'. Frase completa: A notícia foi publicada esta manhã.",
+        "en": "The answer is 'foi'. Full sentence: The news was published this morning.",
+        "ar": "الإجابة الصحيحة: 'foi'. الجملة كاملة: نُشر الخبر هذا الصباح."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "viu",
+          "en": "viu",
+          "ar": "viu"
+        },
+        {
+          "pt": "hoje?",
+          "en": "hoje?",
+          "ar": "hoje?"
+        },
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        },
+        {
+          "pt": "notícias",
+          "en": "notícias",
+          "ar": "notícias"
+        },
+        {
+          "pt": "as",
+          "en": "as",
+          "ar": "as"
+        }
+      ],
+      "answer": "Você viu as notícias hoje?",
+      "accepted": [
+        "Você viu as notícias hoje?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Você viu as notícias hoje?'",
+        "en": "The correct order: 'Did you watch the news today?'",
+        "ar": "الترتيب الصحيح: 'هل شاهدت الأخبار اليوم؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a notícia",
+          "en": "the news item",
+          "ar": "a notícia"
+        },
+        {
+          "pt": "a revista",
+          "en": "the headline",
+          "ar": "a revista"
+        },
+        {
+          "pt": "a reportagem",
+          "en": "the magazine",
+          "ar": "a reportagem"
+        },
+        {
+          "pt": "a manchete",
+          "en": "the newspaper",
+          "ar": "a manchete"
+        },
+        {
+          "pt": "o repórter",
+          "en": "the reporter",
+          "ar": "o repórter"
+        },
+        {
+          "pt": "o jornal",
+          "en": "the news report",
+          "ar": "o jornal"
+        }
+      ],
+      "answer": "a notícia::the news item|a revista::the headline|a reportagem::the magazine|a manchete::the newspaper|o repórter::the reporter|o jornal::the news report",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Não, ainda não tive tempo.",
+          "en": "Did you watch the news today?",
+          "ar": "لا، لم أجد وقتاً بعد."
+        },
+        {
+          "pt": "Sim, a notícia foi publicada esta manhã.",
+          "en": "No, I haven't had time yet.",
+          "ar": "هل شاهدت الأخبار اليوم؟"
+        },
+        {
+          "pt": "Você viu as notícias hoje?",
+          "en": "Yes, the news was published this morning.",
+          "ar": "نعم، نُشر الخبر هذا الصباح."
+        }
+      ],
+      "answer": "Você viu as notícias hoje?",
+      "accepted": [],
+      "audio": "Você viu as notícias hoje?",
+      "explanation": {
+        "pt": "Você ouviu: 'Você viu as notícias hoje?' — 'Did you watch the news today?'",
+        "en": "You heard: 'Você viu as notícias hoje?' — 'Did you watch the news today?'",
+        "ar": "سمعت: 'Você viu as notícias hoje?' — 'هل شاهدت الأخبار اليوم؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Não, ainda não tive tempo.",
+          "en": "Did you watch the news today?",
+          "ar": "وقع حادث كبير على الطريق السريع."
+        },
+        {
+          "pt": "Você viu as notícias hoje?",
+          "en": "No, I haven't had time yet.",
+          "ar": "لا، لم أجد وقتاً بعد."
+        },
+        {
+          "pt": "Houve um grande acidente na rodovia.",
+          "en": "There was a big accident on the highway.",
+          "ar": "هل شاهدت الأخبار اليوم؟"
+        }
+      ],
+      "answer": "Não, ainda não tive tempo.",
+      "accepted": [],
+      "audio": "Não, ainda não tive tempo.",
+      "explanation": {
+        "pt": "Você ouviu: 'Não, ainda não tive tempo.' — 'No, I haven't had time yet.'",
+        "en": "You heard: 'Não, ainda não tive tempo.' — 'No, I haven't had time yet.'",
+        "ar": "سمعت: 'Não, ainda não tive tempo.' — 'لا، لم أجد وقتاً بعد.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "hoje?",
+          "en": "hoje?",
+          "ar": "hoje?"
+        },
+        {
+          "pt": "notícias",
+          "en": "notícias",
+          "ar": "notícias"
+        },
+        {
+          "pt": "viu",
+          "en": "viu",
+          "ar": "viu"
+        },
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        },
+        {
+          "pt": "as",
+          "en": "as",
+          "ar": "as"
+        }
+      ],
+      "answer": "Você viu as notícias hoje?",
+      "accepted": [
+        "Você viu as notícias hoje?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Você viu as notícias hoje?'",
+        "en": "The correct order: 'Did you watch the news today?'",
+        "ar": "الترتيب الصحيح: 'هل شاهدت الأخبار اليوم؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a manchete",
+          "en": "the newspaper",
+          "ar": "a manchete"
+        },
+        {
+          "pt": "a revista",
+          "en": "the news item",
+          "ar": "a revista"
+        },
+        {
+          "pt": "a reportagem",
+          "en": "the reporter",
+          "ar": "a reportagem"
+        },
+        {
+          "pt": "o repórter",
+          "en": "the headline",
+          "ar": "o repórter"
+        },
+        {
+          "pt": "a notícia",
+          "en": "the magazine",
+          "ar": "a notícia"
+        },
+        {
+          "pt": "o jornal",
+          "en": "the news report",
+          "ar": "o jornal"
+        }
+      ],
+      "answer": "a manchete::the newspaper|a revista::the news item|a reportagem::the reporter|o repórter::the headline|a notícia::the magazine|o jornal::the news report",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Houve um grande acidente na rodovia.",
+          "en": "Did you watch the news today?",
+          "ar": "هل شاهدت الأخبار اليوم؟"
+        },
+        {
+          "pt": "Você viu as notícias hoje?",
+          "en": "There was a big accident on the highway.",
+          "ar": "وقع حادث كبير على الطريق السريع."
+        },
+        {
+          "pt": "Sério? Foi divulgado no jornal?",
+          "en": "Really? Was it reported in the newspaper?",
+          "ar": "حقاً؟ هل نُشر في الجريدة؟"
+        }
+      ],
+      "answer": "Você viu as notícias hoje?",
+      "accepted": [],
+      "audio": "Você viu as notícias hoje?",
+      "explanation": {
+        "pt": "Você ouviu: 'Você viu as notícias hoje?' — 'Did you watch the news today?'",
+        "en": "You heard: 'Você viu as notícias hoje?' — 'Did you watch the news today?'",
+        "ar": "سمعت: 'Você viu as notícias hoje?' — 'هل شاهدت الأخبار اليوم؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Houve um grande acidente na rodovia.",
+          "en": "Really? Was it reported in the newspaper?",
+          "ar": "لا، لم أجد وقتاً بعد."
+        },
+        {
+          "pt": "Não, ainda não tive tempo.",
+          "en": "There was a big accident on the highway.",
+          "ar": "حقاً؟ هل نُشر في الجريدة؟"
+        },
+        {
+          "pt": "Sério? Foi divulgado no jornal?",
+          "en": "No, I haven't had time yet.",
+          "ar": "وقع حادث كبير على الطريق السريع."
+        }
+      ],
+      "answer": "Não, ainda não tive tempo.",
+      "accepted": [],
+      "audio": "Não, ainda não tive tempo.",
+      "explanation": {
+        "pt": "Você ouviu: 'Não, ainda não tive tempo.' — 'No, I haven't had time yet.'",
+        "en": "You heard: 'Não, ainda não tive tempo.' — 'No, I haven't had time yet.'",
+        "ar": "سمعت: 'Não, ainda não tive tempo.' — 'لا، لم أجد وقتاً بعد.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "hoje?",
+          "en": "hoje?",
+          "ar": "hoje?"
+        },
+        {
+          "pt": "notícias",
+          "en": "notícias",
+          "ar": "notícias"
+        },
+        {
+          "pt": "as",
+          "en": "as",
+          "ar": "as"
+        },
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        },
+        {
+          "pt": "viu",
+          "en": "viu",
+          "ar": "viu"
+        }
+      ],
+      "answer": "Você viu as notícias hoje?",
+      "accepted": [
+        "Você viu as notícias hoje?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Você viu as notícias hoje?'",
+        "en": "The correct order: 'Did you watch the news today?'",
+        "ar": "الترتيب الصحيح: 'هل شاهدت الأخبار اليوم؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a reportagem",
+          "en": "the reporter",
+          "ar": "a reportagem"
+        },
+        {
+          "pt": "a manchete",
+          "en": "the newspaper",
+          "ar": "a manchete"
+        },
+        {
+          "pt": "o repórter",
+          "en": "the magazine",
+          "ar": "o repórter"
+        },
+        {
+          "pt": "o jornal",
+          "en": "the headline",
+          "ar": "o jornal"
+        },
+        {
+          "pt": "a notícia",
+          "en": "the news report",
+          "ar": "a notícia"
+        },
+        {
+          "pt": "a revista",
+          "en": "the news item",
+          "ar": "a revista"
+        }
+      ],
+      "answer": "a reportagem::the reporter|a manchete::the newspaper|o repórter::the magazine|o jornal::the headline|a notícia::the news report|a revista::the news item",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Você viu as notícias hoje?",
+          "en": "I need to check if it is true.",
+          "ar": "وقع حادث كبير على الطريق السريع."
+        },
+        {
+          "pt": "Preciso verificar se é verídico.",
+          "en": "Did you watch the news today?",
+          "ar": "هل شاهدت الأخبار اليوم؟"
+        },
+        {
+          "pt": "Houve um grande acidente na rodovia.",
+          "en": "There was a big accident on the highway.",
+          "ar": "أحتاج إلى التحقق من صحة الخبر."
+        }
+      ],
+      "answer": "Você viu as notícias hoje?",
+      "accepted": [],
+      "audio": "Você viu as notícias hoje?",
+      "explanation": {
+        "pt": "Você ouviu: 'Você viu as notícias hoje?' — 'Did you watch the news today?'",
+        "en": "You heard: 'Você viu as notícias hoje?' — 'Did you watch the news today?'",
+        "ar": "سمعت: 'Você viu as notícias hoje?' — 'هل شاهدت الأخبار اليوم؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Houve um grande acidente na rodovia.",
+          "en": "Did you watch the news today?",
+          "ar": "وقع حادث كبير على الطريق السريع."
+        },
+        {
+          "pt": "Não, ainda não tive tempo.",
+          "en": "There was a big accident on the highway.",
+          "ar": "هل شاهدت الأخبار اليوم؟"
+        },
+        {
+          "pt": "Você viu as notícias hoje?",
+          "en": "No, I haven't had time yet.",
+          "ar": "لا، لم أجد وقتاً بعد."
+        }
+      ],
+      "answer": "Não, ainda não tive tempo.",
+      "accepted": [],
+      "audio": "Não, ainda não tive tempo.",
+      "explanation": {
+        "pt": "Você ouviu: 'Não, ainda não tive tempo.' — 'No, I haven't had time yet.'",
+        "en": "You heard: 'Não, ainda não tive tempo.' — 'No, I haven't had time yet.'",
+        "ar": "سمعت: 'Não, ainda não tive tempo.' — 'لا، لم أجد وقتاً بعد.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "viu",
+          "en": "viu",
+          "ar": "viu"
+        },
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        },
+        {
+          "pt": "as",
+          "en": "as",
+          "ar": "as"
+        },
+        {
+          "pt": "hoje?",
+          "en": "hoje?",
+          "ar": "hoje?"
+        },
+        {
+          "pt": "notícias",
+          "en": "notícias",
+          "ar": "notícias"
+        }
+      ],
+      "answer": "Você viu as notícias hoje?",
+      "accepted": [
+        "Você viu as notícias hoje?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Você viu as notícias hoje?'",
+        "en": "The correct order: 'Did you watch the news today?'",
+        "ar": "الترتيب الصحيح: 'هل شاهدت الأخبار اليوم؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a manchete",
+          "en": "the magazine",
+          "ar": "a manchete"
+        },
+        {
+          "pt": "a revista",
+          "en": "the headline",
+          "ar": "a revista"
+        },
+        {
+          "pt": "o jornal",
+          "en": "the newspaper",
+          "ar": "o jornal"
+        },
+        {
+          "pt": "a reportagem",
+          "en": "the news report",
+          "ar": "a reportagem"
+        },
+        {
+          "pt": "o repórter",
+          "en": "the news item",
+          "ar": "o repórter"
+        },
+        {
+          "pt": "a notícia",
+          "en": "the reporter",
+          "ar": "a notícia"
+        }
+      ],
+      "answer": "a manchete::the magazine|a revista::the headline|o jornal::the newspaper|a reportagem::the news report|o repórter::the news item|a notícia::the reporter",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Você viu as notícias hoje?",
+          "en": "Really? Was it reported in the newspaper?",
+          "ar": "هل شاهدت الأخبار اليوم؟"
+        },
+        {
+          "pt": "Sim, a notícia foi publicada esta manhã.",
+          "en": "Yes, the news was published this morning.",
+          "ar": "نعم، نُشر الخبر هذا الصباح."
+        },
+        {
+          "pt": "Sério? Foi divulgado no jornal?",
+          "en": "Did you watch the news today?",
+          "ar": "حقاً؟ هل نُشر في الجريدة؟"
+        }
+      ],
+      "answer": "Você viu as notícias hoje?",
+      "accepted": [],
+      "audio": "Você viu as notícias hoje?",
+      "explanation": {
+        "pt": "Você ouviu: 'Você viu as notícias hoje?' — 'Did you watch the news today?'",
+        "en": "You heard: 'Você viu as notícias hoje?' — 'Did you watch the news today?'",
+        "ar": "سمعت: 'Você viu as notícias hoje?' — 'هل شاهدت الأخبار اليوم؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim, a notícia foi publicada esta manhã.",
+          "en": "Did you watch the news today?",
+          "ar": "نعم، نُشر الخبر هذا الصباح."
+        },
+        {
+          "pt": "Não, ainda não tive tempo.",
+          "en": "No, I haven't had time yet.",
+          "ar": "هل شاهدت الأخبار اليوم؟"
+        },
+        {
+          "pt": "Você viu as notícias hoje?",
+          "en": "Yes, the news was published this morning.",
+          "ar": "لا، لم أجد وقتاً بعد."
+        }
+      ],
+      "answer": "Não, ainda não tive tempo.",
+      "accepted": [],
+      "audio": "Não, ainda não tive tempo.",
+      "explanation": {
+        "pt": "Você ouviu: 'Não, ainda não tive tempo.' — 'No, I haven't had time yet.'",
+        "en": "You heard: 'Não, ainda não tive tempo.' — 'No, I haven't had time yet.'",
+        "ar": "سمعت: 'Não, ainda não tive tempo.' — 'لا، لم أجد وقتاً بعد.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "hoje?",
+          "en": "hoje?",
+          "ar": "hoje?"
+        },
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        },
+        {
+          "pt": "viu",
+          "en": "viu",
+          "ar": "viu"
+        },
+        {
+          "pt": "notícias",
+          "en": "notícias",
+          "ar": "notícias"
+        },
+        {
+          "pt": "as",
+          "en": "as",
+          "ar": "as"
+        }
+      ],
+      "answer": "Você viu as notícias hoje?",
+      "accepted": [
+        "Você viu as notícias hoje?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Você viu as notícias hoje?'",
+        "en": "The correct order: 'Did you watch the news today?'",
+        "ar": "الترتيب الصحيح: 'هل شاهدت الأخبار اليوم؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a revista",
+          "en": "the reporter",
+          "ar": "a revista"
+        },
+        {
+          "pt": "a manchete",
+          "en": "the news item",
+          "ar": "a manchete"
+        },
+        {
+          "pt": "a notícia",
+          "en": "the news report",
+          "ar": "a notícia"
+        },
+        {
+          "pt": "o jornal",
+          "en": "the newspaper",
+          "ar": "o jornal"
+        },
+        {
+          "pt": "a reportagem",
+          "en": "the headline",
+          "ar": "a reportagem"
+        },
+        {
+          "pt": "o repórter",
+          "en": "the magazine",
+          "ar": "o repórter"
+        }
+      ],
+      "answer": "a revista::the reporter|a manchete::the news item|a notícia::the news report|o jornal::the newspaper|a reportagem::the headline|o repórter::the magazine",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Preciso verificar se é verídico.",
+          "en": "There was a big accident on the highway.",
+          "ar": "أحتاج إلى التحقق من صحة الخبر."
+        },
+        {
+          "pt": "Houve um grande acidente na rodovia.",
+          "en": "I need to check if it is true.",
+          "ar": "وقع حادث كبير على الطريق السريع."
+        },
+        {
+          "pt": "Você viu as notícias hoje?",
+          "en": "Did you watch the news today?",
+          "ar": "هل شاهدت الأخبار اليوم؟"
+        }
+      ],
+      "answer": "Você viu as notícias hoje?",
+      "accepted": [],
+      "audio": "Você viu as notícias hoje?",
+      "explanation": {
+        "pt": "Você ouviu: 'Você viu as notícias hoje?' — 'Did you watch the news today?'",
+        "en": "You heard: 'Você viu as notícias hoje?' — 'Did you watch the news today?'",
+        "ar": "سمعت: 'Você viu as notícias hoje?' — 'هل شاهدت الأخبار اليوم؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Não, ainda não tive tempo.",
+          "en": "No, I haven't had time yet.",
+          "ar": "هل شاهدت الأخبار اليوم؟"
+        },
+        {
+          "pt": "Houve um grande acidente na rodovia.",
+          "en": "Did you watch the news today?",
+          "ar": "وقع حادث كبير على الطريق السريع."
+        },
+        {
+          "pt": "Você viu as notícias hoje?",
+          "en": "There was a big accident on the highway.",
+          "ar": "لا، لم أجد وقتاً بعد."
+        }
+      ],
+      "answer": "Não, ainda não tive tempo.",
+      "accepted": [],
+      "audio": "Não, ainda não tive tempo.",
+      "explanation": {
+        "pt": "Você ouviu: 'Não, ainda não tive tempo.' — 'No, I haven't had time yet.'",
+        "en": "You heard: 'Não, ainda não tive tempo.' — 'No, I haven't had time yet.'",
+        "ar": "سمعت: 'Não, ainda não tive tempo.' — 'لا، لم أجد وقتاً بعد.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "viu",
+          "en": "viu",
+          "ar": "viu"
+        },
+        {
+          "pt": "as",
+          "en": "as",
+          "ar": "as"
+        },
+        {
+          "pt": "notícias",
+          "en": "notícias",
+          "ar": "notícias"
+        },
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        },
+        {
+          "pt": "hoje?",
+          "en": "hoje?",
+          "ar": "hoje?"
+        }
+      ],
+      "answer": "Você viu as notícias hoje?",
+      "accepted": [
+        "Você viu as notícias hoje?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Você viu as notícias hoje?'",
+        "en": "The correct order: 'Did you watch the news today?'",
+        "ar": "الترتيب الصحيح: 'هل شاهدت الأخبار اليوم؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o repórter",
+          "en": "the newspaper",
+          "ar": "o repórter"
+        },
+        {
+          "pt": "a reportagem",
+          "en": "the news report",
+          "ar": "a reportagem"
+        },
+        {
+          "pt": "a manchete",
+          "en": "the headline",
+          "ar": "a manchete"
+        },
+        {
+          "pt": "a revista",
+          "en": "the news item",
+          "ar": "a revista"
+        },
+        {
+          "pt": "a notícia",
+          "en": "the magazine",
+          "ar": "a notícia"
+        },
+        {
+          "pt": "o jornal",
+          "en": "the reporter",
+          "ar": "o jornal"
+        }
+      ],
+      "answer": "o repórter::the newspaper|a reportagem::the news report|a manchete::the headline|a revista::the news item|a notícia::the magazine|o jornal::the reporter",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Você viu as notícias hoje?",
+          "en": "There was a big accident on the highway.",
+          "ar": "هل شاهدت الأخبار اليوم؟"
+        },
+        {
+          "pt": "Houve um grande acidente na rodovia.",
+          "en": "Did you watch the news today?",
+          "ar": "وقع حادث كبير على الطريق السريع."
+        },
+        {
+          "pt": "Sim, a notícia foi publicada esta manhã.",
+          "en": "Yes, the news was published this morning.",
+          "ar": "نعم، نُشر الخبر هذا الصباح."
+        }
+      ],
+      "answer": "Você viu as notícias hoje?",
+      "accepted": [],
+      "audio": "Você viu as notícias hoje?",
+      "explanation": {
+        "pt": "Você ouviu: 'Você viu as notícias hoje?' — 'Did you watch the news today?'",
+        "en": "You heard: 'Você viu as notícias hoje?' — 'Did you watch the news today?'",
+        "ar": "سمعت: 'Você viu as notícias hoje?' — 'هل شاهدت الأخبار اليوم؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Não, ainda não tive tempo.",
+          "en": "No, I haven't had time yet.",
+          "ar": "وقع حادث كبير على الطريق السريع."
+        },
+        {
+          "pt": "Preciso verificar se é verídico.",
+          "en": "I need to check if it is true.",
+          "ar": "لا، لم أجد وقتاً بعد."
+        },
+        {
+          "pt": "Houve um grande acidente na rodovia.",
+          "en": "There was a big accident on the highway.",
+          "ar": "أحتاج إلى التحقق من صحة الخبر."
+        }
+      ],
+      "answer": "Não, ainda não tive tempo.",
+      "accepted": [],
+      "audio": "Não, ainda não tive tempo.",
+      "explanation": {
+        "pt": "Você ouviu: 'Não, ainda não tive tempo.' — 'No, I haven't had time yet.'",
+        "en": "You heard: 'Não, ainda não tive tempo.' — 'No, I haven't had time yet.'",
+        "ar": "سمعت: 'Não, ainda não tive tempo.' — 'لا، لم أجد وقتاً بعد.'"
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'the news item'",
+        "en": "Type in Portuguese: 'the news item'",
+        "ar": "اكتب بالبرتغالية: 'الخبر'"
+      },
+      "options": [],
+      "answer": "a notícia",
+      "accepted": [
+        "a notícia"
+      ],
+      "explanation": {
+        "pt": "'a notícia' significa 'the news item'.",
+        "en": "'a notícia' means 'the news item'.",
+        "ar": "'$a notícia' بالعربية: '$الخبر'."
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'the newspaper'",
+        "en": "Type in Portuguese: 'the newspaper'",
+        "ar": "اكتب بالبرتغالية: 'الجريدة'"
+      },
+      "options": [],
+      "answer": "o jornal",
+      "accepted": [
+        "o jornal"
+      ],
+      "explanation": {
+        "pt": "'o jornal' significa 'the newspaper'.",
+        "en": "'o jornal' means 'the newspaper'.",
+        "ar": "'$o jornal' بالعربية: '$الجريدة'."
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Preciso verificar se é verídico.",
+          "en": "Preciso verificar se é verídico.",
+          "ar": "Preciso verificar se é verídico."
+        },
+        {
+          "pt": "Houve um grande acidente na rodovia.",
+          "en": "Houve um grande acidente na rodovia.",
+          "ar": "Houve um grande acidente na rodovia."
+        },
+        {
+          "pt": "Você viu as notícias hoje?",
+          "en": "Você viu as notícias hoje?",
+          "ar": "Você viu as notícias hoje?"
+        }
+      ],
+      "answer": "Você viu as notícias hoje?",
+      "accepted": [],
+      "audio": "Você viu as notícias hoje?",
+      "explanation": {
+        "pt": "Você ouviu: 'Você viu as notícias hoje?'",
+        "en": "You heard: 'Você viu as notícias hoje?'",
+        "ar": "سمعت: 'Você viu as notícias hoje?'"
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Não, ainda não tive tempo.",
+          "en": "Não, ainda não tive tempo.",
+          "ar": "Não, ainda não tive tempo."
+        },
+        {
+          "pt": "Preciso verificar se é verídico.",
+          "en": "Preciso verificar se é verídico.",
+          "ar": "Preciso verificar se é verídico."
+        },
+        {
+          "pt": "Houve um grande acidente na rodovia.",
+          "en": "Houve um grande acidente na rodovia.",
+          "ar": "Houve um grande acidente na rodovia."
+        }
+      ],
+      "answer": "Não, ainda não tive tempo.",
+      "accepted": [],
+      "audio": "Não, ainda não tive tempo.",
+      "explanation": {
+        "pt": "Você ouviu: 'Não, ainda não tive tempo.'",
+        "en": "You heard: 'Não, ainda não tive tempo.'",
+        "ar": "سمعت: 'Não, ainda não tive tempo.'"
+      }
+    },
+    {
+      "type": "dictation",
+      "prompt": {
+        "pt": "Ouça e escreva o que você ouviu.",
+        "en": "Listen and type what you hear.",
+        "ar": "استمع واكتب ما سمعته."
+      },
+      "options": [],
+      "answer": "Você viu as notícias hoje?",
+      "accepted": [],
+      "audio": "Você viu as notícias hoje?",
+      "explanation": {
+        "pt": "A frase correta: 'Você viu as notícias hoje?'",
+        "en": "The correct sentence: 'Você viu as notícias hoje?'",
+        "ar": "الجملة الصحيحة: 'Você viu as notícias hoje?'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "viu",
+          "en": "viu",
+          "ar": "viu"
+        },
+        {
+          "pt": "notícias",
+          "en": "notícias",
+          "ar": "notícias"
+        },
+        {
+          "pt": "as",
+          "en": "as",
+          "ar": "as"
+        },
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        },
+        {
+          "pt": "hoje?",
+          "en": "hoje?",
+          "ar": "hoje?"
+        }
+      ],
+      "answer": "Você viu as notícias hoje?",
+      "accepted": [
+        "Você viu as notícias hoje?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Você viu as notícias hoje?'",
+        "en": "The correct order: 'Did you watch the news today?'",
+        "ar": "الترتيب الصحيح: 'هل شاهدت الأخبار اليوم؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a revista",
+          "en": "the magazine",
+          "ar": "a revista"
+        },
+        {
+          "pt": "a manchete",
+          "en": "the reporter",
+          "ar": "a manchete"
+        },
+        {
+          "pt": "o repórter",
+          "en": "the news report",
+          "ar": "o repórter"
+        },
+        {
+          "pt": "o jornal",
+          "en": "the news item",
+          "ar": "o jornal"
+        },
+        {
+          "pt": "a notícia",
+          "en": "the newspaper",
+          "ar": "a notícia"
+        },
+        {
+          "pt": "a reportagem",
+          "en": "the headline",
+          "ar": "a reportagem"
+        }
+      ],
+      "answer": "a revista::the magazine|a manchete::the reporter|o repórter::the news report|o jornal::the news item|a notícia::the newspaper|a reportagem::the headline",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Você viu as notícias hoje?",
+          "en": "There was a big accident on the highway.",
+          "ar": "لا، لم أجد وقتاً بعد."
+        },
+        {
+          "pt": "Não, ainda não tive tempo.",
+          "en": "No, I haven't had time yet.",
+          "ar": "هل شاهدت الأخبار اليوم؟"
+        },
+        {
+          "pt": "Houve um grande acidente na rodovia.",
+          "en": "Did you watch the news today?",
+          "ar": "وقع حادث كبير على الطريق السريع."
+        }
+      ],
+      "answer": "Você viu as notícias hoje?",
+      "accepted": [],
+      "audio": "Você viu as notícias hoje?",
+      "explanation": {
+        "pt": "Você ouviu: 'Você viu as notícias hoje?' — 'Did you watch the news today?'",
+        "en": "You heard: 'Você viu as notícias hoje?' — 'Did you watch the news today?'",
+        "ar": "سمعت: 'Você viu as notícias hoje?' — 'هل شاهدت الأخبار اليوم؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sério? Foi divulgado no jornal?",
+          "en": "Yes, the news was published this morning.",
+          "ar": "حقاً؟ هل نُشر في الجريدة؟"
+        },
+        {
+          "pt": "Não, ainda não tive tempo.",
+          "en": "No, I haven't had time yet.",
+          "ar": "لا، لم أجد وقتاً بعد."
+        },
+        {
+          "pt": "Sim, a notícia foi publicada esta manhã.",
+          "en": "Really? Was it reported in the newspaper?",
+          "ar": "نعم، نُشر الخبر هذا الصباح."
+        }
+      ],
+      "answer": "Não, ainda não tive tempo.",
+      "accepted": [],
+      "audio": "Não, ainda não tive tempo.",
+      "explanation": {
+        "pt": "Você ouviu: 'Não, ainda não tive tempo.' — 'No, I haven't had time yet.'",
+        "en": "You heard: 'Não, ainda não tive tempo.' — 'No, I haven't had time yet.'",
+        "ar": "سمعت: 'Não, ainda não tive tempo.' — 'لا، لم أجد وقتاً بعد.'"
+      }
+    }
+  ],
+  "speaking": {
+    "title": {
+      "pt": "Fale Agora — Ouça e Repita",
+      "en": "Speak Now — Listen and Repeat",
+      "ar": "تحدث الآن — استمع وكرر"
+    },
+    "phrases": [
+      {
+        "pt": "Você viu as notícias hoje?",
+        "en": "Did you watch the news today?",
+        "ar": "هل شاهدت الأخبار اليوم؟"
+      },
+      {
+        "pt": "Não, ainda não tive tempo.",
+        "en": "No, I haven't had time yet.",
+        "ar": "لا، لم أجد وقتاً بعد."
+      },
+      {
+        "pt": "Houve um grande acidente na rodovia.",
+        "en": "There was a big accident on the highway.",
+        "ar": "وقع حادث كبير على الطريق السريع."
+      },
+      {
+        "pt": "Sério? Foi divulgado no jornal?",
+        "en": "Really? Was it reported in the newspaper?",
+        "ar": "حقاً؟ هل نُشر في الجريدة؟"
+      },
+      {
+        "pt": "Sim, a notícia foi publicada esta manhã.",
+        "en": "Yes, the news was published this morning.",
+        "ar": "نعم، نُشر الخبر هذا الصباح."
+      },
+      {
+        "pt": "Preciso verificar se é verídico.",
+        "en": "I need to check if it is true.",
+        "ar": "أحتاج إلى التحقق من صحة الخبر."
+      },
+      {
+        "pt": "a notícia",
+        "en": "the news item",
+        "ar": "الخبر"
+      },
+      {
+        "pt": "o jornal",
+        "en": "the newspaper",
+        "ar": "الجريدة"
+      },
+      {
+        "pt": "a revista",
+        "en": "the magazine",
+        "ar": "المجلة"
+      }
+    ]
+  },
+  "cultural_tips": {
+    "pt": "",
+    "en": "",
+    "ar": ""
+  }
+}

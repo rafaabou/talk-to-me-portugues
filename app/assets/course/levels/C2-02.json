@@ -1,0 +1,2016 @@
+{
+  "id": "C2-02",
+  "level": "C2",
+  "level_name": {
+    "pt": "Proficiência",
+    "en": "Proficiency",
+    "ar": "إتقان"
+  },
+  "title": {
+    "pt": "Análise de Textos Literários",
+    "en": "Literary Text Analysis",
+    "ar": "تحليل النصوص الأدبية"
+  },
+  "objectives": [
+    {
+      "pt": "Identificar figuras de linguagem em textos literários",
+      "en": "Identify figures of speech in literary texts",
+      "ar": "تحديد المجازات اللغوية في النصوص الأدبية"
+    },
+    {
+      "pt": "Analisar o narrador e os tempos narrativos",
+      "en": "Analyze the narrator and narrative tenses",
+      "ar": "تحليل الراوي والأزمنة السردية"
+    },
+    {
+      "pt": "Compreender discurso direto, indireto e indireto livre",
+      "en": "Understand direct, indirect and free indirect speech",
+      "ar": "فهم الخطاب المباشر وغير المباشر وغير المباشر الحر"
+    },
+    {
+      "pt": "Redigir uma análise crítica estruturada",
+      "en": "Write a structured critical analysis",
+      "ar": "كتابة تحليل نقدي منظم"
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "a metáfora",
+      "ipa": "/meˈta.fo.ɾa/",
+      "en": "metaphor",
+      "ar": "الاستعارة",
+      "example": {
+        "pt": "Como o narrador constrói a atmosfera nesse trecho?",
+        "en": "How does the narrator build the atmosphere in this passage?",
+        "ar": "كيف يبني الراوي الأجواء في هذا المقطع؟"
+      }
+    },
+    {
+      "pt": "a metonímia",
+      "ipa": "/me.toˈnĩ.mi.a/",
+      "en": "metonymy",
+      "ar": "المجاز المرسل",
+      "example": {
+        "pt": "Como o narrador constrói a atmosfera nesse trecho?",
+        "en": "How does the narrator build the atmosphere in this passage?",
+        "ar": "كيف يبني الراوي الأجواء في هذا المقطع؟"
+      }
+    },
+    {
+      "pt": "a alegoria",
+      "ipa": "/a.le.ɡoˈɾi.a/",
+      "en": "allegory",
+      "ar": "الرمزية",
+      "example": {
+        "pt": "Como o narrador constrói a atmosfera nesse trecho?",
+        "en": "How does the narrator build the atmosphere in this passage?",
+        "ar": "كيف يبني الراوي الأجواء في هذا المقطع؟"
+      }
+    },
+    {
+      "pt": "o narrador",
+      "ipa": "/na.haˈdoʁ/",
+      "en": "the narrator",
+      "ar": "الراوي",
+      "example": {
+        "pt": "Como o narrador constrói a atmosfera nesse trecho?",
+        "en": "How does the narrator build the atmosphere in this passage?",
+        "ar": "كيف يبني الراوي الأجواء في هذا المقطع؟"
+      }
+    },
+    {
+      "pt": "onisciente",
+      "ipa": "/o.ni.siˈẽ.tʃi/",
+      "en": "omniscient",
+      "ar": "عليم بكل شيء",
+      "example": {
+        "pt": "Muito bem. Observe que o narrador é onisciente e usa o discurso indireto livre nas reflexões da personagem.",
+        "en": "Very good. Note that the narrator is omniscient and uses free indirect speech in the character's reflections.",
+        "ar": "أحسنتِ. لاحظي أن الراوي عليم بكل شيء ويستخدم الخطاب غير المباشر الحر في تأملات الشخصية."
+      }
+    },
+    {
+      "pt": "o eufemismo",
+      "ipa": "/ew.feˈmiz.mu/",
+      "en": "euphemism",
+      "ar": "التلطيف / اللفظ الموازي",
+      "example": {
+        "pt": "Como o narrador constrói a atmosfera nesse trecho?",
+        "en": "How does the narrator build the atmosphere in this passage?",
+        "ar": "كيف يبني الراوي الأجواء في هذا المقطع؟"
+      }
+    },
+    {
+      "pt": "a hipérbole",
+      "ipa": "/iˈpɛʁ.bo.li/",
+      "en": "hyperbole",
+      "ar": "المبالغة",
+      "example": {
+        "pt": "Como o narrador constrói a atmosfera nesse trecho?",
+        "en": "How does the narrator build the atmosphere in this passage?",
+        "ar": "كيف يبني الراوي الأجواء في هذا المقطع؟"
+      }
+    },
+    {
+      "pt": "a ironia",
+      "ipa": "/i.ɾoˈni.a/",
+      "en": "irony",
+      "ar": "السخرية",
+      "example": {
+        "pt": "Como o narrador constrói a atmosfera nesse trecho?",
+        "en": "How does the narrator build the atmosphere in this passage?",
+        "ar": "كيف يبني الراوي الأجواء في هذا المقطع؟"
+      }
+    },
+    {
+      "pt": "a personagem",
+      "ipa": "/peʁ.soˈna.ʒẽj/",
+      "en": "the character",
+      "ar": "الشخصية",
+      "example": {
+        "pt": "Como o narrador constrói a atmosfera nesse trecho?",
+        "en": "How does the narrator build the atmosphere in this passage?",
+        "ar": "كيف يبني الراوي الأجواء في هذا المقطع؟"
+      }
+    },
+    {
+      "pt": "o enredo",
+      "ipa": "/ẽˈhe.du/",
+      "en": "the plot",
+      "ar": "الحبكة",
+      "example": {
+        "pt": "Como o narrador constrói a atmosfera nesse trecho?",
+        "en": "How does the narrator build the atmosphere in this passage?",
+        "ar": "كيف يبني الراوي الأجواء في هذا المقطع؟"
+      }
+    },
+    {
+      "pt": "o desfecho",
+      "ipa": "/desˈfe.ʃu/",
+      "en": "the ending / resolution",
+      "ar": "الخاتمة / الحل",
+      "example": {
+        "pt": "Como o narrador constrói a atmosfera nesse trecho?",
+        "en": "How does the narrator build the atmosphere in this passage?",
+        "ar": "كيف يبني الراوي الأجواء في هذا المقطع؟"
+      }
+    },
+    {
+      "pt": "o clímax",
+      "ipa": "/ˈkli.maks/",
+      "en": "the climax",
+      "ar": "الذروة",
+      "example": {
+        "pt": "Como o narrador constrói a atmosfera nesse trecho?",
+        "en": "How does the narrator build the atmosphere in this passage?",
+        "ar": "كيف يبني الراوي الأجواء في هذا المقطع؟"
+      }
+    },
+    {
+      "pt": "a antítese",
+      "ipa": "/ɐ̃ˈtʃi.te.zi/",
+      "en": "antithesis",
+      "ar": "الطباق / التقابل",
+      "example": {
+        "pt": "Como o narrador constrói a atmosfera nesse trecho?",
+        "en": "How does the narrator build the atmosphere in this passage?",
+        "ar": "كيف يبني الراوي الأجواء في هذا المقطع؟"
+      }
+    },
+    {
+      "pt": "o paradoxo",
+      "ipa": "/pa.ɾaˈdɔk.su/",
+      "en": "paradox",
+      "ar": "المفارقة",
+      "example": {
+        "pt": "Como o narrador constrói a atmosfera nesse trecho?",
+        "en": "How does the narrator build the atmosphere in this passage?",
+        "ar": "كيف يبني الراوي الأجواء في هذا المقطع؟"
+      }
+    },
+    {
+      "pt": "a intertextualidade",
+      "ipa": "/ĩ.teʁ.teks.tu.a.liˈda.dʒi/",
+      "en": "intertextuality",
+      "ar": "التناص",
+      "example": {
+        "pt": "Como o narrador constrói a atmosfera nesse trecho?",
+        "en": "How does the narrator build the atmosphere in this passage?",
+        "ar": "كيف يبني الراوي الأجواء في هذا المقطع؟"
+      }
+    },
+    {
+      "pt": "a catarse",
+      "ipa": "/kaˈtaʁ.si/",
+      "en": "catharsis",
+      "ar": "التطهير النفسي",
+      "example": {
+        "pt": "Como o narrador constrói a atmosfera nesse trecho?",
+        "en": "How does the narrator build the atmosphere in this passage?",
+        "ar": "كيف يبني الراوي الأجواء في هذا المقطع؟"
+      }
+    },
+    {
+      "pt": "a prolepse",
+      "ipa": "/pɾoˈlɛp.si/",
+      "en": "flash-forward",
+      "ar": "الاستباق",
+      "example": {
+        "pt": "Como o narrador constrói a atmosfera nesse trecho?",
+        "en": "How does the narrator build the atmosphere in this passage?",
+        "ar": "كيف يبني الراوي الأجواء في هذا المقطع؟"
+      }
+    },
+    {
+      "pt": "a analepse",
+      "ipa": "/a.naˈlɛp.si/",
+      "en": "flashback",
+      "ar": "الاسترجاع",
+      "example": {
+        "pt": "Como o narrador constrói a atmosfera nesse trecho?",
+        "en": "How does the narrator build the atmosphere in this passage?",
+        "ar": "كيف يبني الراوي الأجواء في هذا المقطع؟"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "title": {
+        "pt": "Tempos Narrativos",
+        "en": "Narrative Tenses",
+        "ar": "أزمنة السرد"
+      },
+      "explanation": {
+        "pt": "Na narrativa literária, o pretérito perfeito avança a ação, o pretérito imperfeito pinta o cenário e o hábito, e o mais-que-perfeito localiza um fato anterior a outro já passado. Em 'Ele entrou no salão; a orquestra tocava baixinho e ela já saíra', temos os três valores: ação pontual, ambientação e anterioridade.",
+        "en": "In literary narrative, the simple past (pretérito perfeito) advances the action, the imperfect (pretérito imperfeito) paints the scene and habits, and the pluperfect (mais-que-perfeito) places an event before another past event. In 'Ele entrou no salão; a orquestra tocava baixinho e ela já saíra', we have the three values: punctual action, setting and anteriority.",
+        "ar": "في السرد الأدبي، يقدّم الماضي البسيط الحدث، ويصوّر الماضي الناقص المشهد والعادات، ويحدد الماضي الأسبق حدثًا وقع قبل حدث ماضٍ آخر. في جملة 'Ele entrou no salão; a orquestra tocava baixinho e ela já saíra' (دخل القاعة؛ كانت الفرقة تعزف بهدوء وكانت قد غادرت بالفعل) نجد القيم الثلاث: الحدث اللحظي، والتصوير، والأسبقية."
+      },
+      "examples": [
+        {
+          "pt": "Ela chegou à praia e sentiu a brisa. (perfeito + imperfeito)",
+          "en": "She arrived at the beach and felt the breeze. (perfect + imperfect)",
+          "ar": "وصلت إلى الشاطئ وشعرت بالنسمات."
+        },
+        {
+          "pt": "Todos os domingos, a família se reunia na varanda. (imperfeito de hábito)",
+          "en": "Every Sunday the family used to gather on the porch. (habitual imperfect)",
+          "ar": "كانت العائلة تجتمع على الشرفة كل يوم أحد."
+        },
+        {
+          "pt": "Quando cheguei, ela já partira sem deixar recado. (mais-que-perfeito)",
+          "en": "When I arrived, she had already left without leaving a message. (pluperfect)",
+          "ar": "عندما وصلت، كانت قد رحلت دون أن تترك رسالة."
+        }
+      ]
+    },
+    {
+      "title": {
+        "pt": "Discurso Direto, Indireto e Indireto Livre",
+        "en": "Direct, Indirect and Free Indirect Speech",
+        "ar": "الخطاب المباشر وغير المباشر وغير المباشر الحر"
+      },
+      "explanation": {
+        "pt": "No discurso direto, reproduzimos a fala com verbos declarativos e travessão ou aspas. No indireto, transpomos para a terceira pessoa com 'que': 'Ela disse que estava cansada'. No indireto livre, fundem-se narrador e personagem sem verbo declarativo: 'Que cansaço... Aquela sala não tinha fim' — a emoção é da personagem, a sintaxe, do narrador.",
+        "en": "In direct speech, we reproduce the utterance with declarative verbs and dashes or quotation marks. In indirect speech, we transpose to the third person with 'que': 'Ela disse que estava cansada' (She said she was tired). In free indirect speech, narrator and character merge without a declarative verb: 'Que cansaço... Aquela sala não tinha fim' — the emotion belongs to the character, the syntax to the narrator.",
+        "ar": "في الخطاب المباشر نعيد إنتاج الكلام مع أفعال القول وشرطات أو علامات اقتباس. وفي غير المباشر ننقل الكلام إلى الغائب مع 'que': 'Ela disse que estava cansada' (قالت إنها متعبة). أما في غير المباشر الحر فيندمج الراوي بالشخصية دون فعل قول: 'Que cansaço... Aquela sala não tinha fim' (يا له من تعب... تلك القاعة لا نهاية لها) — فالشعور للشخصية والتركيب للراوي."
+      },
+      "examples": [
+        {
+          "pt": "Direto: Ela perguntou: 'Você vai ficar?'",
+          "en": "Direct: She asked: 'Are you staying?'",
+          "ar": "مباشر: سألت: 'هل ستبقى؟'"
+        },
+        {
+          "pt": "Indireto: Ela perguntou se eu ia ficar.",
+          "en": "Indirect: She asked whether I was staying.",
+          "ar": "غير مباشر: سألت ما إذا كنت سأبقى."
+        },
+        {
+          "pt": "Indireto livre: Ia ficar? E por que não? A cidade inteira dormia sob a chuva.",
+          "en": "Free indirect: Was he staying? And why not? The whole city slept under the rain.",
+          "ar": "غير مباشر حر: هل سيبقى؟ ولم لا؟ كانت المدينة كلها نائمة تحت المطر."
+        }
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": {
+      "pt": "Na Aula de Literatura",
+      "en": "In the Literature Class",
+      "ar": "في حصة الأدب"
+    },
+    "lines": [
+      {
+        "speaker": "Professora",
+        "pt": "Como o narrador constrói a atmosfera nesse trecho?",
+        "en": "How does the narrator build the atmosphere in this passage?",
+        "ar": "كيف يبني الراوي الأجواء في هذا المقطع؟"
+      },
+      {
+        "speaker": "Luísa",
+        "pt": "Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.",
+        "en": "Through the imperfect, professor: 'the afternoon was falling', 'the shadows lengthened' create the setting.",
+        "ar": "من خلال الماضي الناقص، أستاذة: 'كانت تُسدل الغروب' و'كانت الظلال تمدد' يخلقان الجو."
+      },
+      {
+        "speaker": "Professora",
+        "pt": "Exato. E que figura de linguagem marca a descrição do protagonista?",
+        "en": "Exactly. And what figure of speech marks the description of the protagonist?",
+        "ar": "تمامًا. وما المجاز الذي يميز وصف الشخصية الرئيسية؟"
+      },
+      {
+        "speaker": "Luísa",
+        "pt": "A hipérbole: 'um coração do tamanho do mar'. Há também um paradoxo no desfecho.",
+        "en": "Hyperbole: 'a heart the size of the sea'. There is also a paradox in the ending.",
+        "ar": "المبالغة: 'قلب بحجم البحر'. وهناك أيضًا مفارقة في الخاتمة."
+      },
+      {
+        "speaker": "Professora",
+        "pt": "Muito bem. Observe que o narrador é onisciente e usa o discurso indireto livre nas reflexões da personagem.",
+        "en": "Very good. Note that the narrator is omniscient and uses free indirect speech in the character's reflections.",
+        "ar": "أحسنتِ. لاحظي أن الراوي عليم بكل شيء ويستخدم الخطاب غير المباشر الحر في تأملات الشخصية."
+      },
+      {
+        "speaker": "Luísa",
+        "pt": "Entendi. E o mais-que-perfeito em 'vira' marca a analepse da infância dela.",
+        "en": "I see. And the pluperfect in 'vira' marks the flashback to her childhood.",
+        "ar": "فهمت. والماضي الأسبق في 'vira' يشير إلى استرجاع طفولتها."
+      }
+    ]
+  },
+  "reading": {
+    "title": {
+      "pt": "Um Desfecho Literário",
+      "en": "A Literary Ending",
+      "ar": "خاتمة أدبية"
+    },
+    "text_pt": "O romancista encerra a obra com uma antítese: a cidade crescia e ele diminuía. A metáfora do trem que parte sem passageiro prolonga o desfecho em aberto. No capítulo final, o narrador abandona a onisciência e passa ao discurso indireto livre, aproximando-se da angústia do protagonista. A leitura exige que o leitor reconheça as vozes e preencha os silêncios.",
+    "text_en": "The novelist ends the work with an antithesis: the city grew and he shrank. The metaphor of the train leaving without a passenger extends the open ending. In the final chapter, the narrator abandons omniscience and shifts to free indirect speech, drawing closer to the protagonist's anguish. Reading requires the reader to recognize the voices and fill in the silences.",
+    "text_ar": "يُنهي الروائي عمله بطباق: كانت المدينة تكبر بينما كان هو يصغر. استعارة القطار الذي ينطلق دون راكب تطيل الخاتمة المفتوحة. في الفصل الأخير، يترك الراوي علمه المطلق ويلجأ إلى الخطاب غير المباشر الحر، مقتربًا من قلق بطل الرواية. تقتضي القراءة أن يميز القارئ الأصوات وأن يملأ الفراغات."
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Em 'Quando cheguei, ela já saíra', o verbo 'saíra' está no...",
+        "en": "In 'Quando cheguei, ela já saíra', the verb 'saíra' is in the...",
+        "ar": "في جملة 'Quando cheguei, ela já saíra'، يكون الفعل 'saíra' في زمن..."
+      },
+      "options": [
+        {
+          "pt": "pretérito perfeito",
+          "en": "pretérito perfeito (simple past)",
+          "ar": "الماضي البسيط"
+        },
+        {
+          "pt": "pretérito mais-que-perfeito",
+          "en": "pretérito mais-que-perfeito (pluperfect)",
+          "ar": "الماضي الأسبق"
+        },
+        {
+          "pt": "futuro do pretérito",
+          "en": "futuro do pretérito (conditional)",
+          "ar": "المستقبل الشرطي"
+        }
+      ],
+      "answer": "pretérito mais-que-perfeito",
+      "explanation": {
+        "pt": "'Saíra' é a forma sintética do mais-que-perfeito, indicando anterioridade.",
+        "en": "'Saíra' is the synthetic pluperfect, indicating anteriority.",
+        "ar": "'saíra' هي الصيغة المختزلة للماضي الأسبق، وتدل على الأسبقية."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual figura de linguagem aparece em 'a cidade crescia e ele diminuía'?",
+        "en": "Which figure of speech appears in 'a cidade crescia e ele diminuía'?",
+        "ar": "ما المجاز الذي يظهر في 'a cidade crescia e ele diminuía'؟"
+      },
+      "options": [
+        {
+          "pt": "a antítese",
+          "en": "antithesis",
+          "ar": "الطباق"
+        },
+        {
+          "pt": "o eufemismo",
+          "en": "euphemism",
+          "ar": "التلطيف"
+        },
+        {
+          "pt": "a metonímia",
+          "en": "metonymy",
+          "ar": "المجاز المرسل"
+        }
+      ],
+      "answer": "a antítese",
+      "explanation": {
+        "pt": "Há oposição entre 'crescia' e 'diminuía': antítese.",
+        "en": "There is opposition between 'crescia' (grew) and 'diminuía' (shrank): antithesis.",
+        "ar": "هناك تقابل بين 'crescia' (تكبر) و 'diminuía' (يصغر): طباق."
+      }
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: 'free indirect speech'",
+        "en": "Translate into Portuguese: 'free indirect speech'",
+        "ar": "ترجم إلى البرتغالية: 'free indirect speech'"
+      },
+      "options": [],
+      "answer": "discurso indireto livre",
+      "explanation": {
+        "pt": "'Discurso indireto livre' é o termo técnico.",
+        "en": "'Discurso indireto livre' is the technical term.",
+        "ar": "المصطلح التقني هو 'discurso indireto livre'."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "nesse",
+          "en": "nesse",
+          "ar": "nesse"
+        },
+        {
+          "pt": "narrador",
+          "en": "narrador",
+          "ar": "narrador"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "trecho?",
+          "en": "trecho?",
+          "ar": "trecho?"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "atmosfera",
+          "en": "atmosfera",
+          "ar": "atmosfera"
+        },
+        {
+          "pt": "constrói",
+          "en": "constrói",
+          "ar": "constrói"
+        },
+        {
+          "pt": "Como",
+          "en": "Como",
+          "ar": "Como"
+        }
+      ],
+      "answer": "Como o narrador constrói a atmosfera nesse trecho?",
+      "accepted": [
+        "Como o narrador constrói a atmosfera nesse trecho?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Como o narrador constrói a atmosfera nesse trecho?'",
+        "en": "The correct order: 'How does the narrator build the atmosphere in this passage?'",
+        "ar": "الترتيب الصحيح: 'كيف يبني الراوي الأجواء في هذا المقطع؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o eufemismo",
+          "en": "the narrator",
+          "ar": "o eufemismo"
+        },
+        {
+          "pt": "a metonímia",
+          "en": "omniscient",
+          "ar": "a metonímia"
+        },
+        {
+          "pt": "a metáfora",
+          "en": "euphemism",
+          "ar": "a metáfora"
+        },
+        {
+          "pt": "onisciente",
+          "en": "metonymy",
+          "ar": "onisciente"
+        },
+        {
+          "pt": "a alegoria",
+          "en": "metaphor",
+          "ar": "a alegoria"
+        },
+        {
+          "pt": "o narrador",
+          "en": "allegory",
+          "ar": "o narrador"
+        }
+      ],
+      "answer": "o eufemismo::the narrator|a metonímia::omniscient|a metáfora::euphemism|onisciente::metonymy|a alegoria::metaphor|o narrador::allegory",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Como o narrador constrói a atmosfera nesse trecho?",
+          "en": "I see. And the pluperfect in 'vira' marks the flashback to her childhood.",
+          "ar": "المبالغة: 'قلب بحجم البحر'. وهناك أيضًا مفارقة في الخاتمة."
+        },
+        {
+          "pt": "Entendi. E o mais-que-perfeito em 'vira' marca a analepse da infância dela.",
+          "en": "How does the narrator build the atmosphere in this passage?",
+          "ar": "فهمت. والماضي الأسبق في 'vira' يشير إلى استرجاع طفولتها."
+        },
+        {
+          "pt": "A hipérbole: 'um coração do tamanho do mar'. Há também um paradoxo no desfecho.",
+          "en": "Hyperbole: 'a heart the size of the sea'. There is also a paradox in the ending.",
+          "ar": "كيف يبني الراوي الأجواء في هذا المقطع؟"
+        }
+      ],
+      "answer": "Como o narrador constrói a atmosfera nesse trecho?",
+      "accepted": [],
+      "audio": "Como o narrador constrói a atmosfera nesse trecho?",
+      "explanation": {
+        "pt": "Você ouviu: 'Como o narrador constrói a atmosfera nesse trecho?' — 'How does the narrator build the atmosphere in this passage?'",
+        "en": "You heard: 'Como o narrador constrói a atmosfera nesse trecho?' — 'How does the narrator build the atmosphere in this passage?'",
+        "ar": "سمعت: 'Como o narrador constrói a atmosfera nesse trecho?' — 'كيف يبني الراوي الأجواء في هذا المقطع؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Exato. E que figura de linguagem marca a descrição do protagonista?",
+          "en": "Through the imperfect, professor: 'the afternoon was falling', 'the shadows lengthened' create the setting.",
+          "ar": "المبالغة: 'قلب بحجم البحر'. وهناك أيضًا مفارقة في الخاتمة."
+        },
+        {
+          "pt": "A hipérbole: 'um coração do tamanho do mar'. Há também um paradoxo no desfecho.",
+          "en": "Hyperbole: 'a heart the size of the sea'. There is also a paradox in the ending.",
+          "ar": "تمامًا. وما المجاز الذي يميز وصف الشخصية الرئيسية؟"
+        },
+        {
+          "pt": "Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.",
+          "en": "Exactly. And what figure of speech marks the description of the protagonist?",
+          "ar": "من خلال الماضي الناقص، أستاذة: 'كانت تُسدل الغروب' و'كانت الظلال تمدد' يخلقان الجو."
+        }
+      ],
+      "answer": "Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.",
+      "accepted": [],
+      "audio": "Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.",
+      "explanation": {
+        "pt": "Você ouviu: 'Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.' — 'Through the imperfect, professor: 'the afternoon was falling', 'the shadows lengthened' create the setting.'",
+        "en": "You heard: 'Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.' — 'Through the imperfect, professor: 'the afternoon was falling', 'the shadows lengthened' create the setting.'",
+        "ar": "سمعت: 'Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.' — 'من خلال الماضي الناقص، أستاذة: 'كانت تُسدل الغروب' و'كانت الظلال تمدد' يخلقان الجو.'"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Ela chegou à praia ___ sentiu a brisa. (perfeito + imperfeito)",
+        "en": "Ela chegou à praia ___ sentiu a brisa. (perfeito + imperfeito)",
+        "ar": "Ela chegou à praia ___ sentiu a brisa. (perfeito + imperfeito)"
+      },
+      "options": [
+        {
+          "pt": "já",
+          "en": "já",
+          "ar": "já"
+        },
+        {
+          "pt": "e",
+          "en": "e",
+          "ar": "e"
+        },
+        {
+          "pt": "sem",
+          "en": "sem",
+          "ar": "sem"
+        }
+      ],
+      "answer": "e",
+      "accepted": [],
+      "explanation": {
+        "pt": "A resposta é 'e'. Frase completa: Ela chegou à praia e sentiu a brisa. (perfeito + imperfeito)",
+        "en": "The answer is 'e'. Full sentence: She arrived at the beach and felt the breeze. (perfect + imperfect)",
+        "ar": "الإجابة الصحيحة: 'e'. الجملة كاملة: وصلت إلى الشاطئ وشعرت بالنسمات."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "nesse",
+          "en": "nesse",
+          "ar": "nesse"
+        },
+        {
+          "pt": "trecho?",
+          "en": "trecho?",
+          "ar": "trecho?"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "atmosfera",
+          "en": "atmosfera",
+          "ar": "atmosfera"
+        },
+        {
+          "pt": "narrador",
+          "en": "narrador",
+          "ar": "narrador"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "constrói",
+          "en": "constrói",
+          "ar": "constrói"
+        },
+        {
+          "pt": "Como",
+          "en": "Como",
+          "ar": "Como"
+        }
+      ],
+      "answer": "Como o narrador constrói a atmosfera nesse trecho?",
+      "accepted": [
+        "Como o narrador constrói a atmosfera nesse trecho?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Como o narrador constrói a atmosfera nesse trecho?'",
+        "en": "The correct order: 'How does the narrator build the atmosphere in this passage?'",
+        "ar": "الترتيب الصحيح: 'كيف يبني الراوي الأجواء في هذا المقطع؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o narrador",
+          "en": "allegory",
+          "ar": "o narrador"
+        },
+        {
+          "pt": "o eufemismo",
+          "en": "the narrator",
+          "ar": "o eufemismo"
+        },
+        {
+          "pt": "onisciente",
+          "en": "metonymy",
+          "ar": "onisciente"
+        },
+        {
+          "pt": "a metonímia",
+          "en": "euphemism",
+          "ar": "a metonímia"
+        },
+        {
+          "pt": "a alegoria",
+          "en": "metaphor",
+          "ar": "a alegoria"
+        },
+        {
+          "pt": "a metáfora",
+          "en": "omniscient",
+          "ar": "a metáfora"
+        }
+      ],
+      "answer": "o narrador::allegory|o eufemismo::the narrator|onisciente::metonymy|a metonímia::euphemism|a alegoria::metaphor|a metáfora::omniscient",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "A hipérbole: 'um coração do tamanho do mar'. Há também um paradoxo no desfecho.",
+          "en": "How does the narrator build the atmosphere in this passage?",
+          "ar": "المبالغة: 'قلب بحجم البحر'. وهناك أيضًا مفارقة في الخاتمة."
+        },
+        {
+          "pt": "Como o narrador constrói a atmosfera nesse trecho?",
+          "en": "Very good. Note that the narrator is omniscient and uses free indirect speech in the character's reflections.",
+          "ar": "أحسنتِ. لاحظي أن الراوي عليم بكل شيء ويستخدم الخطاب غير المباشر الحر في تأملات الشخصية."
+        },
+        {
+          "pt": "Muito bem. Observe que o narrador é onisciente e usa o discurso indireto livre nas reflexões da personagem.",
+          "en": "Hyperbole: 'a heart the size of the sea'. There is also a paradox in the ending.",
+          "ar": "كيف يبني الراوي الأجواء في هذا المقطع؟"
+        }
+      ],
+      "answer": "Como o narrador constrói a atmosfera nesse trecho?",
+      "accepted": [],
+      "audio": "Como o narrador constrói a atmosfera nesse trecho?",
+      "explanation": {
+        "pt": "Você ouviu: 'Como o narrador constrói a atmosfera nesse trecho?' — 'How does the narrator build the atmosphere in this passage?'",
+        "en": "You heard: 'Como o narrador constrói a atmosfera nesse trecho?' — 'How does the narrator build the atmosphere in this passage?'",
+        "ar": "سمعت: 'Como o narrador constrói a atmosfera nesse trecho?' — 'كيف يبني الراوي الأجواء في هذا المقطع؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.",
+          "en": "Through the imperfect, professor: 'the afternoon was falling', 'the shadows lengthened' create the setting.",
+          "ar": "كيف يبني الراوي الأجواء في هذا المقطع؟"
+        },
+        {
+          "pt": "Como o narrador constrói a atmosfera nesse trecho?",
+          "en": "I see. And the pluperfect in 'vira' marks the flashback to her childhood.",
+          "ar": "فهمت. والماضي الأسبق في 'vira' يشير إلى استرجاع طفولتها."
+        },
+        {
+          "pt": "Entendi. E o mais-que-perfeito em 'vira' marca a analepse da infância dela.",
+          "en": "How does the narrator build the atmosphere in this passage?",
+          "ar": "من خلال الماضي الناقص، أستاذة: 'كانت تُسدل الغروب' و'كانت الظلال تمدد' يخلقان الجو."
+        }
+      ],
+      "answer": "Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.",
+      "accepted": [],
+      "audio": "Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.",
+      "explanation": {
+        "pt": "Você ouviu: 'Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.' — 'Through the imperfect, professor: 'the afternoon was falling', 'the shadows lengthened' create the setting.'",
+        "en": "You heard: 'Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.' — 'Through the imperfect, professor: 'the afternoon was falling', 'the shadows lengthened' create the setting.'",
+        "ar": "سمعت: 'Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.' — 'من خلال الماضي الناقص، أستاذة: 'كانت تُسدل الغروب' و'كانت الظلال تمدد' يخلقان الجو.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "narrador",
+          "en": "narrador",
+          "ar": "narrador"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "atmosfera",
+          "en": "atmosfera",
+          "ar": "atmosfera"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "trecho?",
+          "en": "trecho?",
+          "ar": "trecho?"
+        },
+        {
+          "pt": "nesse",
+          "en": "nesse",
+          "ar": "nesse"
+        },
+        {
+          "pt": "constrói",
+          "en": "constrói",
+          "ar": "constrói"
+        },
+        {
+          "pt": "Como",
+          "en": "Como",
+          "ar": "Como"
+        }
+      ],
+      "answer": "Como o narrador constrói a atmosfera nesse trecho?",
+      "accepted": [
+        "Como o narrador constrói a atmosfera nesse trecho?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Como o narrador constrói a atmosfera nesse trecho?'",
+        "en": "The correct order: 'How does the narrator build the atmosphere in this passage?'",
+        "ar": "الترتيب الصحيح: 'كيف يبني الراوي الأجواء في هذا المقطع؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a metáfora",
+          "en": "metonymy",
+          "ar": "a metáfora"
+        },
+        {
+          "pt": "a alegoria",
+          "en": "metaphor",
+          "ar": "a alegoria"
+        },
+        {
+          "pt": "o narrador",
+          "en": "euphemism",
+          "ar": "o narrador"
+        },
+        {
+          "pt": "onisciente",
+          "en": "allegory",
+          "ar": "onisciente"
+        },
+        {
+          "pt": "a metonímia",
+          "en": "the narrator",
+          "ar": "a metonímia"
+        },
+        {
+          "pt": "o eufemismo",
+          "en": "omniscient",
+          "ar": "o eufemismo"
+        }
+      ],
+      "answer": "a metáfora::metonymy|a alegoria::metaphor|o narrador::euphemism|onisciente::allegory|a metonímia::the narrator|o eufemismo::omniscient",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Exato. E que figura de linguagem marca a descrição do protagonista?",
+          "en": "I see. And the pluperfect in 'vira' marks the flashback to her childhood.",
+          "ar": "فهمت. والماضي الأسبق في 'vira' يشير إلى استرجاع طفولتها."
+        },
+        {
+          "pt": "Entendi. E o mais-que-perfeito em 'vira' marca a analepse da infância dela.",
+          "en": "Exactly. And what figure of speech marks the description of the protagonist?",
+          "ar": "تمامًا. وما المجاز الذي يميز وصف الشخصية الرئيسية؟"
+        },
+        {
+          "pt": "Como o narrador constrói a atmosfera nesse trecho?",
+          "en": "How does the narrator build the atmosphere in this passage?",
+          "ar": "كيف يبني الراوي الأجواء في هذا المقطع؟"
+        }
+      ],
+      "answer": "Como o narrador constrói a atmosfera nesse trecho?",
+      "accepted": [],
+      "audio": "Como o narrador constrói a atmosfera nesse trecho?",
+      "explanation": {
+        "pt": "Você ouviu: 'Como o narrador constrói a atmosfera nesse trecho?' — 'How does the narrator build the atmosphere in this passage?'",
+        "en": "You heard: 'Como o narrador constrói a atmosfera nesse trecho?' — 'How does the narrator build the atmosphere in this passage?'",
+        "ar": "سمعت: 'Como o narrador constrói a atmosfera nesse trecho?' — 'كيف يبني الراوي الأجواء في هذا المقطع؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.",
+          "en": "Exactly. And what figure of speech marks the description of the protagonist?",
+          "ar": "تمامًا. وما المجاز الذي يميز وصف الشخصية الرئيسية؟"
+        },
+        {
+          "pt": "A hipérbole: 'um coração do tamanho do mar'. Há também um paradoxo no desfecho.",
+          "en": "Hyperbole: 'a heart the size of the sea'. There is also a paradox in the ending.",
+          "ar": "المبالغة: 'قلب بحجم البحر'. وهناك أيضًا مفارقة في الخاتمة."
+        },
+        {
+          "pt": "Exato. E que figura de linguagem marca a descrição do protagonista?",
+          "en": "Through the imperfect, professor: 'the afternoon was falling', 'the shadows lengthened' create the setting.",
+          "ar": "من خلال الماضي الناقص، أستاذة: 'كانت تُسدل الغروب' و'كانت الظلال تمدد' يخلقان الجو."
+        }
+      ],
+      "answer": "Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.",
+      "accepted": [],
+      "audio": "Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.",
+      "explanation": {
+        "pt": "Você ouviu: 'Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.' — 'Through the imperfect, professor: 'the afternoon was falling', 'the shadows lengthened' create the setting.'",
+        "en": "You heard: 'Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.' — 'Through the imperfect, professor: 'the afternoon was falling', 'the shadows lengthened' create the setting.'",
+        "ar": "سمعت: 'Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.' — 'من خلال الماضي الناقص، أستاذة: 'كانت تُسدل الغروب' و'كانت الظلال تمدد' يخلقان الجو.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "atmosfera",
+          "en": "atmosfera",
+          "ar": "atmosfera"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "Como",
+          "en": "Como",
+          "ar": "Como"
+        },
+        {
+          "pt": "trecho?",
+          "en": "trecho?",
+          "ar": "trecho?"
+        },
+        {
+          "pt": "narrador",
+          "en": "narrador",
+          "ar": "narrador"
+        },
+        {
+          "pt": "constrói",
+          "en": "constrói",
+          "ar": "constrói"
+        },
+        {
+          "pt": "nesse",
+          "en": "nesse",
+          "ar": "nesse"
+        }
+      ],
+      "answer": "Como o narrador constrói a atmosfera nesse trecho?",
+      "accepted": [
+        "Como o narrador constrói a atmosfera nesse trecho?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Como o narrador constrói a atmosfera nesse trecho?'",
+        "en": "The correct order: 'How does the narrator build the atmosphere in this passage?'",
+        "ar": "الترتيب الصحيح: 'كيف يبني الراوي الأجواء في هذا المقطع؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "onisciente",
+          "en": "the narrator",
+          "ar": "onisciente"
+        },
+        {
+          "pt": "o eufemismo",
+          "en": "omniscient",
+          "ar": "o eufemismo"
+        },
+        {
+          "pt": "o narrador",
+          "en": "euphemism",
+          "ar": "o narrador"
+        },
+        {
+          "pt": "a alegoria",
+          "en": "metonymy",
+          "ar": "a alegoria"
+        },
+        {
+          "pt": "a metonímia",
+          "en": "allegory",
+          "ar": "a metonímia"
+        },
+        {
+          "pt": "a metáfora",
+          "en": "metaphor",
+          "ar": "a metáfora"
+        }
+      ],
+      "answer": "onisciente::the narrator|o eufemismo::omniscient|o narrador::euphemism|a alegoria::metonymy|a metonímia::allegory|a metáfora::metaphor",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Exato. E que figura de linguagem marca a descrição do protagonista?",
+          "en": "How does the narrator build the atmosphere in this passage?",
+          "ar": "تمامًا. وما المجاز الذي يميز وصف الشخصية الرئيسية؟"
+        },
+        {
+          "pt": "Como o narrador constrói a atmosfera nesse trecho?",
+          "en": "Through the imperfect, professor: 'the afternoon was falling', 'the shadows lengthened' create the setting.",
+          "ar": "من خلال الماضي الناقص، أستاذة: 'كانت تُسدل الغروب' و'كانت الظلال تمدد' يخلقان الجو."
+        },
+        {
+          "pt": "Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.",
+          "en": "Exactly. And what figure of speech marks the description of the protagonist?",
+          "ar": "كيف يبني الراوي الأجواء في هذا المقطع؟"
+        }
+      ],
+      "answer": "Como o narrador constrói a atmosfera nesse trecho?",
+      "accepted": [],
+      "audio": "Como o narrador constrói a atmosfera nesse trecho?",
+      "explanation": {
+        "pt": "Você ouviu: 'Como o narrador constrói a atmosfera nesse trecho?' — 'How does the narrator build the atmosphere in this passage?'",
+        "en": "You heard: 'Como o narrador constrói a atmosfera nesse trecho?' — 'How does the narrator build the atmosphere in this passage?'",
+        "ar": "سمعت: 'Como o narrador constrói a atmosfera nesse trecho?' — 'كيف يبني الراوي الأجواء في هذا المقطع؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.",
+          "en": "How does the narrator build the atmosphere in this passage?",
+          "ar": "كيف يبني الراوي الأجواء في هذا المقطع؟"
+        },
+        {
+          "pt": "Como o narrador constrói a atmosfera nesse trecho?",
+          "en": "Through the imperfect, professor: 'the afternoon was falling', 'the shadows lengthened' create the setting.",
+          "ar": "من خلال الماضي الناقص، أستاذة: 'كانت تُسدل الغروب' و'كانت الظلال تمدد' يخلقان الجو."
+        },
+        {
+          "pt": "A hipérbole: 'um coração do tamanho do mar'. Há também um paradoxo no desfecho.",
+          "en": "Hyperbole: 'a heart the size of the sea'. There is also a paradox in the ending.",
+          "ar": "المبالغة: 'قلب بحجم البحر'. وهناك أيضًا مفارقة في الخاتمة."
+        }
+      ],
+      "answer": "Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.",
+      "accepted": [],
+      "audio": "Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.",
+      "explanation": {
+        "pt": "Você ouviu: 'Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.' — 'Through the imperfect, professor: 'the afternoon was falling', 'the shadows lengthened' create the setting.'",
+        "en": "You heard: 'Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.' — 'Through the imperfect, professor: 'the afternoon was falling', 'the shadows lengthened' create the setting.'",
+        "ar": "سمعت: 'Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.' — 'من خلال الماضي الناقص، أستاذة: 'كانت تُسدل الغروب' و'كانت الظلال تمدد' يخلقان الجو.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "constrói",
+          "en": "constrói",
+          "ar": "constrói"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "trecho?",
+          "en": "trecho?",
+          "ar": "trecho?"
+        },
+        {
+          "pt": "atmosfera",
+          "en": "atmosfera",
+          "ar": "atmosfera"
+        },
+        {
+          "pt": "Como",
+          "en": "Como",
+          "ar": "Como"
+        },
+        {
+          "pt": "nesse",
+          "en": "nesse",
+          "ar": "nesse"
+        },
+        {
+          "pt": "narrador",
+          "en": "narrador",
+          "ar": "narrador"
+        }
+      ],
+      "answer": "Como o narrador constrói a atmosfera nesse trecho?",
+      "accepted": [
+        "Como o narrador constrói a atmosfera nesse trecho?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Como o narrador constrói a atmosfera nesse trecho?'",
+        "en": "The correct order: 'How does the narrator build the atmosphere in this passage?'",
+        "ar": "الترتيب الصحيح: 'كيف يبني الراوي الأجواء في هذا المقطع؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o narrador",
+          "en": "euphemism",
+          "ar": "o narrador"
+        },
+        {
+          "pt": "o eufemismo",
+          "en": "the narrator",
+          "ar": "o eufemismo"
+        },
+        {
+          "pt": "a alegoria",
+          "en": "metonymy",
+          "ar": "a alegoria"
+        },
+        {
+          "pt": "a metáfora",
+          "en": "omniscient",
+          "ar": "a metáfora"
+        },
+        {
+          "pt": "a metonímia",
+          "en": "metaphor",
+          "ar": "a metonímia"
+        },
+        {
+          "pt": "onisciente",
+          "en": "allegory",
+          "ar": "onisciente"
+        }
+      ],
+      "answer": "o narrador::euphemism|o eufemismo::the narrator|a alegoria::metonymy|a metáfora::omniscient|a metonímia::metaphor|onisciente::allegory",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Entendi. E o mais-que-perfeito em 'vira' marca a analepse da infância dela.",
+          "en": "Through the imperfect, professor: 'the afternoon was falling', 'the shadows lengthened' create the setting.",
+          "ar": "كيف يبني الراوي الأجواء في هذا المقطع؟"
+        },
+        {
+          "pt": "Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.",
+          "en": "How does the narrator build the atmosphere in this passage?",
+          "ar": "من خلال الماضي الناقص، أستاذة: 'كانت تُسدل الغروب' و'كانت الظلال تمدد' يخلقان الجو."
+        },
+        {
+          "pt": "Como o narrador constrói a atmosfera nesse trecho?",
+          "en": "I see. And the pluperfect in 'vira' marks the flashback to her childhood.",
+          "ar": "فهمت. والماضي الأسبق في 'vira' يشير إلى استرجاع طفولتها."
+        }
+      ],
+      "answer": "Como o narrador constrói a atmosfera nesse trecho?",
+      "accepted": [],
+      "audio": "Como o narrador constrói a atmosfera nesse trecho?",
+      "explanation": {
+        "pt": "Você ouviu: 'Como o narrador constrói a atmosfera nesse trecho?' — 'How does the narrator build the atmosphere in this passage?'",
+        "en": "You heard: 'Como o narrador constrói a atmosfera nesse trecho?' — 'How does the narrator build the atmosphere in this passage?'",
+        "ar": "سمعت: 'Como o narrador constrói a atmosfera nesse trecho?' — 'كيف يبني الراوي الأجواء في هذا المقطع؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Como o narrador constrói a atmosfera nesse trecho?",
+          "en": "Exactly. And what figure of speech marks the description of the protagonist?",
+          "ar": "كيف يبني الراوي الأجواء في هذا المقطع؟"
+        },
+        {
+          "pt": "Exato. E que figura de linguagem marca a descrição do protagonista?",
+          "en": "How does the narrator build the atmosphere in this passage?",
+          "ar": "تمامًا. وما المجاز الذي يميز وصف الشخصية الرئيسية؟"
+        },
+        {
+          "pt": "Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.",
+          "en": "Through the imperfect, professor: 'the afternoon was falling', 'the shadows lengthened' create the setting.",
+          "ar": "من خلال الماضي الناقص، أستاذة: 'كانت تُسدل الغروب' و'كانت الظلال تمدد' يخلقان الجو."
+        }
+      ],
+      "answer": "Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.",
+      "accepted": [],
+      "audio": "Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.",
+      "explanation": {
+        "pt": "Você ouviu: 'Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.' — 'Through the imperfect, professor: 'the afternoon was falling', 'the shadows lengthened' create the setting.'",
+        "en": "You heard: 'Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.' — 'Through the imperfect, professor: 'the afternoon was falling', 'the shadows lengthened' create the setting.'",
+        "ar": "سمعت: 'Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.' — 'من خلال الماضي الناقص، أستاذة: 'كانت تُسدل الغروب' و'كانت الظلال تمدد' يخلقان الجو.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "constrói",
+          "en": "constrói",
+          "ar": "constrói"
+        },
+        {
+          "pt": "nesse",
+          "en": "nesse",
+          "ar": "nesse"
+        },
+        {
+          "pt": "atmosfera",
+          "en": "atmosfera",
+          "ar": "atmosfera"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "trecho?",
+          "en": "trecho?",
+          "ar": "trecho?"
+        },
+        {
+          "pt": "narrador",
+          "en": "narrador",
+          "ar": "narrador"
+        },
+        {
+          "pt": "Como",
+          "en": "Como",
+          "ar": "Como"
+        }
+      ],
+      "answer": "Como o narrador constrói a atmosfera nesse trecho?",
+      "accepted": [
+        "Como o narrador constrói a atmosfera nesse trecho?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Como o narrador constrói a atmosfera nesse trecho?'",
+        "en": "The correct order: 'How does the narrator build the atmosphere in this passage?'",
+        "ar": "الترتيب الصحيح: 'كيف يبني الراوي الأجواء في هذا المقطع؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a metáfora",
+          "en": "metonymy",
+          "ar": "a metáfora"
+        },
+        {
+          "pt": "onisciente",
+          "en": "the narrator",
+          "ar": "onisciente"
+        },
+        {
+          "pt": "o narrador",
+          "en": "allegory",
+          "ar": "o narrador"
+        },
+        {
+          "pt": "a metonímia",
+          "en": "euphemism",
+          "ar": "a metonímia"
+        },
+        {
+          "pt": "o eufemismo",
+          "en": "metaphor",
+          "ar": "o eufemismo"
+        },
+        {
+          "pt": "a alegoria",
+          "en": "omniscient",
+          "ar": "a alegoria"
+        }
+      ],
+      "answer": "a metáfora::metonymy|onisciente::the narrator|o narrador::allegory|a metonímia::euphemism|o eufemismo::metaphor|a alegoria::omniscient",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.",
+          "en": "Through the imperfect, professor: 'the afternoon was falling', 'the shadows lengthened' create the setting.",
+          "ar": "كيف يبني الراوي الأجواء في هذا المقطع؟"
+        },
+        {
+          "pt": "A hipérbole: 'um coração do tamanho do mar'. Há também um paradoxo no desfecho.",
+          "en": "Hyperbole: 'a heart the size of the sea'. There is also a paradox in the ending.",
+          "ar": "من خلال الماضي الناقص، أستاذة: 'كانت تُسدل الغروب' و'كانت الظلال تمدد' يخلقان الجو."
+        },
+        {
+          "pt": "Como o narrador constrói a atmosfera nesse trecho?",
+          "en": "How does the narrator build the atmosphere in this passage?",
+          "ar": "المبالغة: 'قلب بحجم البحر'. وهناك أيضًا مفارقة في الخاتمة."
+        }
+      ],
+      "answer": "Como o narrador constrói a atmosfera nesse trecho?",
+      "accepted": [],
+      "audio": "Como o narrador constrói a atmosfera nesse trecho?",
+      "explanation": {
+        "pt": "Você ouviu: 'Como o narrador constrói a atmosfera nesse trecho?' — 'How does the narrator build the atmosphere in this passage?'",
+        "en": "You heard: 'Como o narrador constrói a atmosfera nesse trecho?' — 'How does the narrator build the atmosphere in this passage?'",
+        "ar": "سمعت: 'Como o narrador constrói a atmosfera nesse trecho?' — 'كيف يبني الراوي الأجواء في هذا المقطع؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.",
+          "en": "Through the imperfect, professor: 'the afternoon was falling', 'the shadows lengthened' create the setting.",
+          "ar": "من خلال الماضي الناقص، أستاذة: 'كانت تُسدل الغروب' و'كانت الظلال تمدد' يخلقان الجو."
+        },
+        {
+          "pt": "A hipérbole: 'um coração do tamanho do mar'. Há também um paradoxo no desfecho.",
+          "en": "How does the narrator build the atmosphere in this passage?",
+          "ar": "المبالغة: 'قلب بحجم البحر'. وهناك أيضًا مفارقة في الخاتمة."
+        },
+        {
+          "pt": "Como o narrador constrói a atmosfera nesse trecho?",
+          "en": "Hyperbole: 'a heart the size of the sea'. There is also a paradox in the ending.",
+          "ar": "كيف يبني الراوي الأجواء في هذا المقطع؟"
+        }
+      ],
+      "answer": "Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.",
+      "accepted": [],
+      "audio": "Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.",
+      "explanation": {
+        "pt": "Você ouviu: 'Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.' — 'Through the imperfect, professor: 'the afternoon was falling', 'the shadows lengthened' create the setting.'",
+        "en": "You heard: 'Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.' — 'Through the imperfect, professor: 'the afternoon was falling', 'the shadows lengthened' create the setting.'",
+        "ar": "سمعت: 'Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.' — 'من خلال الماضي الناقص، أستاذة: 'كانت تُسدل الغروب' و'كانت الظلال تمدد' يخلقان الجو.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "narrador",
+          "en": "narrador",
+          "ar": "narrador"
+        },
+        {
+          "pt": "trecho?",
+          "en": "trecho?",
+          "ar": "trecho?"
+        },
+        {
+          "pt": "atmosfera",
+          "en": "atmosfera",
+          "ar": "atmosfera"
+        },
+        {
+          "pt": "nesse",
+          "en": "nesse",
+          "ar": "nesse"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "Como",
+          "en": "Como",
+          "ar": "Como"
+        },
+        {
+          "pt": "constrói",
+          "en": "constrói",
+          "ar": "constrói"
+        }
+      ],
+      "answer": "Como o narrador constrói a atmosfera nesse trecho?",
+      "accepted": [
+        "Como o narrador constrói a atmosfera nesse trecho?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Como o narrador constrói a atmosfera nesse trecho?'",
+        "en": "The correct order: 'How does the narrator build the atmosphere in this passage?'",
+        "ar": "الترتيب الصحيح: 'كيف يبني الراوي الأجواء في هذا المقطع؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a metáfora",
+          "en": "metaphor",
+          "ar": "a metáfora"
+        },
+        {
+          "pt": "onisciente",
+          "en": "the narrator",
+          "ar": "onisciente"
+        },
+        {
+          "pt": "o eufemismo",
+          "en": "omniscient",
+          "ar": "o eufemismo"
+        },
+        {
+          "pt": "o narrador",
+          "en": "euphemism",
+          "ar": "o narrador"
+        },
+        {
+          "pt": "a alegoria",
+          "en": "metonymy",
+          "ar": "a alegoria"
+        },
+        {
+          "pt": "a metonímia",
+          "en": "allegory",
+          "ar": "a metonímia"
+        }
+      ],
+      "answer": "a metáfora::metaphor|onisciente::the narrator|o eufemismo::omniscient|o narrador::euphemism|a alegoria::metonymy|a metonímia::allegory",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Entendi. E o mais-que-perfeito em 'vira' marca a analepse da infância dela.",
+          "en": "How does the narrator build the atmosphere in this passage?",
+          "ar": "كيف يبني الراوي الأجواء في هذا المقطع؟"
+        },
+        {
+          "pt": "Muito bem. Observe que o narrador é onisciente e usa o discurso indireto livre nas reflexões da personagem.",
+          "en": "I see. And the pluperfect in 'vira' marks the flashback to her childhood.",
+          "ar": "أحسنتِ. لاحظي أن الراوي عليم بكل شيء ويستخدم الخطاب غير المباشر الحر في تأملات الشخصية."
+        },
+        {
+          "pt": "Como o narrador constrói a atmosfera nesse trecho?",
+          "en": "Very good. Note that the narrator is omniscient and uses free indirect speech in the character's reflections.",
+          "ar": "فهمت. والماضي الأسبق في 'vira' يشير إلى استرجاع طفولتها."
+        }
+      ],
+      "answer": "Como o narrador constrói a atmosfera nesse trecho?",
+      "accepted": [],
+      "audio": "Como o narrador constrói a atmosfera nesse trecho?",
+      "explanation": {
+        "pt": "Você ouviu: 'Como o narrador constrói a atmosfera nesse trecho?' — 'How does the narrator build the atmosphere in this passage?'",
+        "en": "You heard: 'Como o narrador constrói a atmosfera nesse trecho?' — 'How does the narrator build the atmosphere in this passage?'",
+        "ar": "سمعت: 'Como o narrador constrói a atmosfera nesse trecho?' — 'كيف يبني الراوي الأجواء في هذا المقطع؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "A hipérbole: 'um coração do tamanho do mar'. Há também um paradoxo no desfecho.",
+          "en": "Very good. Note that the narrator is omniscient and uses free indirect speech in the character's reflections.",
+          "ar": "أحسنتِ. لاحظي أن الراوي عليم بكل شيء ويستخدم الخطاب غير المباشر الحر في تأملات الشخصية."
+        },
+        {
+          "pt": "Muito bem. Observe que o narrador é onisciente e usa o discurso indireto livre nas reflexões da personagem.",
+          "en": "Hyperbole: 'a heart the size of the sea'. There is also a paradox in the ending.",
+          "ar": "المبالغة: 'قلب بحجم البحر'. وهناك أيضًا مفارقة في الخاتمة."
+        },
+        {
+          "pt": "Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.",
+          "en": "Through the imperfect, professor: 'the afternoon was falling', 'the shadows lengthened' create the setting.",
+          "ar": "من خلال الماضي الناقص، أستاذة: 'كانت تُسدل الغروب' و'كانت الظلال تمدد' يخلقان الجو."
+        }
+      ],
+      "answer": "Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.",
+      "accepted": [],
+      "audio": "Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.",
+      "explanation": {
+        "pt": "Você ouviu: 'Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.' — 'Through the imperfect, professor: 'the afternoon was falling', 'the shadows lengthened' create the setting.'",
+        "en": "You heard: 'Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.' — 'Through the imperfect, professor: 'the afternoon was falling', 'the shadows lengthened' create the setting.'",
+        "ar": "سمعت: 'Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.' — 'من خلال الماضي الناقص، أستاذة: 'كانت تُسدل الغروب' و'كانت الظلال تمدد' يخلقان الجو.'"
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'metaphor'",
+        "en": "Type in Portuguese: 'metaphor'",
+        "ar": "اكتب بالبرتغالية: 'الاستعارة'"
+      },
+      "options": [],
+      "answer": "a metáfora",
+      "accepted": [
+        "a metáfora"
+      ],
+      "explanation": {
+        "pt": "'a metáfora' significa 'metaphor'.",
+        "en": "'a metáfora' means 'metaphor'.",
+        "ar": "'$a metáfora' بالعربية: '$الاستعارة'."
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'metonymy'",
+        "en": "Type in Portuguese: 'metonymy'",
+        "ar": "اكتب بالبرتغالية: 'المجاز المرسل'"
+      },
+      "options": [],
+      "answer": "a metonímia",
+      "accepted": [
+        "a metonímia"
+      ],
+      "explanation": {
+        "pt": "'a metonímia' significa 'metonymy'.",
+        "en": "'a metonímia' means 'metonymy'.",
+        "ar": "'$a metonímia' بالعربية: '$المجاز المرسل'."
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Como o narrador constrói a atmosfera nesse trecho?",
+          "en": "Como o narrador constrói a atmosfera nesse trecho?",
+          "ar": "Como o narrador constrói a atmosfera nesse trecho?"
+        },
+        {
+          "pt": "Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.",
+          "en": "Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.",
+          "ar": "Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação."
+        },
+        {
+          "pt": "Entendi. E o mais-que-perfeito em 'vira' marca a analepse da infância dela.",
+          "en": "Entendi. E o mais-que-perfeito em 'vira' marca a analepse da infância dela.",
+          "ar": "Entendi. E o mais-que-perfeito em 'vira' marca a analepse da infância dela."
+        }
+      ],
+      "answer": "Como o narrador constrói a atmosfera nesse trecho?",
+      "accepted": [],
+      "audio": "Como o narrador constrói a atmosfera nesse trecho?",
+      "explanation": {
+        "pt": "Você ouviu: 'Como o narrador constrói a atmosfera nesse trecho?'",
+        "en": "You heard: 'Como o narrador constrói a atmosfera nesse trecho?'",
+        "ar": "سمعت: 'Como o narrador constrói a atmosfera nesse trecho?'"
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.",
+          "en": "Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.",
+          "ar": "Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação."
+        },
+        {
+          "pt": "Como o narrador constrói a atmosfera nesse trecho?",
+          "en": "Como o narrador constrói a atmosfera nesse trecho?",
+          "ar": "Como o narrador constrói a atmosfera nesse trecho?"
+        },
+        {
+          "pt": "Muito bem. Observe que o narrador é onisciente e usa o discurso indireto livre nas reflexões da personagem.",
+          "en": "Muito bem. Observe que o narrador é onisciente e usa o discurso indireto livre nas reflexões da personagem.",
+          "ar": "Muito bem. Observe que o narrador é onisciente e usa o discurso indireto livre nas reflexões da personagem."
+        }
+      ],
+      "answer": "Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.",
+      "accepted": [],
+      "audio": "Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.",
+      "explanation": {
+        "pt": "Você ouviu: 'Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.'",
+        "en": "You heard: 'Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.'",
+        "ar": "سمعت: 'Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.'"
+      }
+    },
+    {
+      "type": "dictation",
+      "prompt": {
+        "pt": "Ouça e escreva o que você ouviu.",
+        "en": "Listen and type what you hear.",
+        "ar": "استمع واكتب ما سمعته."
+      },
+      "options": [],
+      "answer": "Como o narrador constrói a atmosfera nesse trecho?",
+      "accepted": [],
+      "audio": "Como o narrador constrói a atmosfera nesse trecho?",
+      "explanation": {
+        "pt": "A frase correta: 'Como o narrador constrói a atmosfera nesse trecho?'",
+        "en": "The correct sentence: 'Como o narrador constrói a atmosfera nesse trecho?'",
+        "ar": "الجملة الصحيحة: 'Como o narrador constrói a atmosfera nesse trecho?'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "constrói",
+          "en": "constrói",
+          "ar": "constrói"
+        },
+        {
+          "pt": "atmosfera",
+          "en": "atmosfera",
+          "ar": "atmosfera"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "Como",
+          "en": "Como",
+          "ar": "Como"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "nesse",
+          "en": "nesse",
+          "ar": "nesse"
+        },
+        {
+          "pt": "narrador",
+          "en": "narrador",
+          "ar": "narrador"
+        },
+        {
+          "pt": "trecho?",
+          "en": "trecho?",
+          "ar": "trecho?"
+        }
+      ],
+      "answer": "Como o narrador constrói a atmosfera nesse trecho?",
+      "accepted": [
+        "Como o narrador constrói a atmosfera nesse trecho?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Como o narrador constrói a atmosfera nesse trecho?'",
+        "en": "The correct order: 'How does the narrator build the atmosphere in this passage?'",
+        "ar": "الترتيب الصحيح: 'كيف يبني الراوي الأجواء في هذا المقطع؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a alegoria",
+          "en": "euphemism",
+          "ar": "a alegoria"
+        },
+        {
+          "pt": "o eufemismo",
+          "en": "omniscient",
+          "ar": "o eufemismo"
+        },
+        {
+          "pt": "onisciente",
+          "en": "allegory",
+          "ar": "onisciente"
+        },
+        {
+          "pt": "o narrador",
+          "en": "the narrator",
+          "ar": "o narrador"
+        },
+        {
+          "pt": "a metáfora",
+          "en": "metaphor",
+          "ar": "a metáfora"
+        },
+        {
+          "pt": "a metonímia",
+          "en": "metonymy",
+          "ar": "a metonímia"
+        }
+      ],
+      "answer": "a alegoria::euphemism|o eufemismo::omniscient|onisciente::allegory|o narrador::the narrator|a metáfora::metaphor|a metonímia::metonymy",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "A hipérbole: 'um coração do tamanho do mar'. Há também um paradoxo no desfecho.",
+          "en": "Hyperbole: 'a heart the size of the sea'. There is also a paradox in the ending.",
+          "ar": "من خلال الماضي الناقص، أستاذة: 'كانت تُسدل الغروب' و'كانت الظلال تمدد' يخلقان الجو."
+        },
+        {
+          "pt": "Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.",
+          "en": "Through the imperfect, professor: 'the afternoon was falling', 'the shadows lengthened' create the setting.",
+          "ar": "المبالغة: 'قلب بحجم البحر'. وهناك أيضًا مفارقة في الخاتمة."
+        },
+        {
+          "pt": "Como o narrador constrói a atmosfera nesse trecho?",
+          "en": "How does the narrator build the atmosphere in this passage?",
+          "ar": "كيف يبني الراوي الأجواء في هذا المقطع؟"
+        }
+      ],
+      "answer": "Como o narrador constrói a atmosfera nesse trecho?",
+      "accepted": [],
+      "audio": "Como o narrador constrói a atmosfera nesse trecho?",
+      "explanation": {
+        "pt": "Você ouviu: 'Como o narrador constrói a atmosfera nesse trecho?' — 'How does the narrator build the atmosphere in this passage?'",
+        "en": "You heard: 'Como o narrador constrói a atmosfera nesse trecho?' — 'How does the narrator build the atmosphere in this passage?'",
+        "ar": "سمعت: 'Como o narrador constrói a atmosfera nesse trecho?' — 'كيف يبني الراوي الأجواء في هذا المقطع؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.",
+          "en": "Through the imperfect, professor: 'the afternoon was falling', 'the shadows lengthened' create the setting.",
+          "ar": "فهمت. والماضي الأسبق في 'vira' يشير إلى استرجاع طفولتها."
+        },
+        {
+          "pt": "Exato. E que figura de linguagem marca a descrição do protagonista?",
+          "en": "Exactly. And what figure of speech marks the description of the protagonist?",
+          "ar": "تمامًا. وما المجاز الذي يميز وصف الشخصية الرئيسية؟"
+        },
+        {
+          "pt": "Entendi. E o mais-que-perfeito em 'vira' marca a analepse da infância dela.",
+          "en": "I see. And the pluperfect in 'vira' marks the flashback to her childhood.",
+          "ar": "من خلال الماضي الناقص، أستاذة: 'كانت تُسدل الغروب' و'كانت الظلال تمدد' يخلقان الجو."
+        }
+      ],
+      "answer": "Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.",
+      "accepted": [],
+      "audio": "Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.",
+      "explanation": {
+        "pt": "Você ouviu: 'Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.' — 'Through the imperfect, professor: 'the afternoon was falling', 'the shadows lengthened' create the setting.'",
+        "en": "You heard: 'Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.' — 'Through the imperfect, professor: 'the afternoon was falling', 'the shadows lengthened' create the setting.'",
+        "ar": "سمعت: 'Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.' — 'من خلال الماضي الناقص، أستاذة: 'كانت تُسدل الغروب' و'كانت الظلال تمدد' يخلقان الجو.'"
+      }
+    }
+  ],
+  "speaking": {
+    "title": {
+      "pt": "Fale Agora — Ouça e Repita",
+      "en": "Speak Now — Listen and Repeat",
+      "ar": "تحدث الآن — استمع وكرر"
+    },
+    "phrases": [
+      {
+        "pt": "Como o narrador constrói a atmosfera nesse trecho?",
+        "en": "How does the narrator build the atmosphere in this passage?",
+        "ar": "كيف يبني الراوي الأجواء في هذا المقطع؟"
+      },
+      {
+        "pt": "Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.",
+        "en": "Through the imperfect, professor: 'the afternoon was falling', 'the shadows lengthened' create the setting.",
+        "ar": "من خلال الماضي الناقص، أستاذة: 'كانت تُسدل الغروب' و'كانت الظلال تمدد' يخلقان الجو."
+      },
+      {
+        "pt": "Exato. E que figura de linguagem marca a descrição do protagonista?",
+        "en": "Exactly. And what figure of speech marks the description of the protagonist?",
+        "ar": "تمامًا. وما المجاز الذي يميز وصف الشخصية الرئيسية؟"
+      },
+      {
+        "pt": "A hipérbole: 'um coração do tamanho do mar'. Há também um paradoxo no desfecho.",
+        "en": "Hyperbole: 'a heart the size of the sea'. There is also a paradox in the ending.",
+        "ar": "المبالغة: 'قلب بحجم البحر'. وهناك أيضًا مفارقة في الخاتمة."
+      },
+      {
+        "pt": "Muito bem. Observe que o narrador é onisciente e usa o discurso indireto livre nas reflexões da personagem.",
+        "en": "Very good. Note that the narrator is omniscient and uses free indirect speech in the character's reflections.",
+        "ar": "أحسنتِ. لاحظي أن الراوي عليم بكل شيء ويستخدم الخطاب غير المباشر الحر في تأملات الشخصية."
+      },
+      {
+        "pt": "Entendi. E o mais-que-perfeito em 'vira' marca a analepse da infância dela.",
+        "en": "I see. And the pluperfect in 'vira' marks the flashback to her childhood.",
+        "ar": "فهمت. والماضي الأسبق في 'vira' يشير إلى استرجاع طفولتها."
+      },
+      {
+        "pt": "a metáfora",
+        "en": "metaphor",
+        "ar": "الاستعارة"
+      },
+      {
+        "pt": "a metonímia",
+        "en": "metonymy",
+        "ar": "المجاز المرسل"
+      },
+      {
+        "pt": "a alegoria",
+        "en": "allegory",
+        "ar": "الرمزية"
+      }
+    ]
+  },
+  "cultural_tips": {
+    "pt": "",
+    "en": "",
+    "ar": ""
+  }
+}

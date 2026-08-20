@@ -1,0 +1,2011 @@
+{
+  "id": "A2-01",
+  "level": "A2",
+  "level_name": {
+    "pt": "Básico",
+    "en": "Elementary",
+    "ar": "أساسي"
+  },
+  "title": {
+    "pt": "Pretérito Perfeito",
+    "en": "Simple Past",
+    "ar": "الماضي البسيط"
+  },
+  "objectives": [
+    {
+      "pt": "Usar o pretérito perfeito para falar de ações completas no passado",
+      "en": "Use the simple past to talk about completed actions in the past",
+      "ar": "استخدام الماضي التام للتحدث عن أفعال منجزة في الماضي"
+    },
+    {
+      "pt": "Conjugar verbos regulares em -ar, -er e -ir no passado",
+      "en": "Conjugate regular -ar, -er and -ir verbs in the past",
+      "ar": "تصريف الأفعال المنتظمة في الماضي"
+    },
+    {
+      "pt": "Contar o que você fez no fim de semana",
+      "en": "Tell what you did on the weekend",
+      "ar": "سرد ما فعلته في عطلة نهاية الأسبوع"
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "ontem",
+      "ipa": "/ˈõ.tẽj/",
+      "en": "yesterday",
+      "ar": "أمس",
+      "example": {
+        "pt": "Ontem eu trabalhei até tarde.",
+        "en": "Yesterday I worked until late.",
+        "ar": "بالأمس عملت حتى وقت متأخر."
+      }
+    },
+    {
+      "pt": "hoje",
+      "ipa": "/ˈo.ʒi/",
+      "en": "today",
+      "ar": "اليوم",
+      "example": {
+        "pt": "O que você fez no fim de semana?",
+        "en": "What did you do on the weekend?",
+        "ar": "ماذا فعلتِ في عطلة نهاية الأسبوع؟"
+      }
+    },
+    {
+      "pt": "a semana passada",
+      "ipa": "/a seˈmɐ̃.na paˈsa.da/",
+      "en": "last week",
+      "ar": "الأسبوع الماضي",
+      "example": {
+        "pt": "Comprei um presente para a minha mãe. Ela adorou!",
+        "en": "I bought a gift for my mother. She loved it!",
+        "ar": "اشتريت هدية لأمي. لقد أحبّتها!"
+      }
+    },
+    {
+      "pt": "o fim de semana",
+      "ipa": "/u fĩ dʒi seˈmɐ̃.na/",
+      "en": "the weekend",
+      "ar": "عطلة نهاية الأسبوع",
+      "example": {
+        "pt": "O que você fez no fim de semana?",
+        "en": "What did you do on the weekend?",
+        "ar": "ماذا فعلتِ في عطلة نهاية الأسبوع؟"
+      }
+    },
+    {
+      "pt": "viajar",
+      "ipa": "/vi.aˈʒaʁ/",
+      "en": "to travel",
+      "ar": "يسافر",
+      "example": {
+        "pt": "O que você fez no fim de semana?",
+        "en": "What did you do on the weekend?",
+        "ar": "ماذا فعلتِ في عطلة نهاية الأسبوع؟"
+      }
+    },
+    {
+      "pt": "trabalhar",
+      "ipa": "/tɾa.baˈʎaʁ/",
+      "en": "to work",
+      "ar": "يعمل",
+      "example": {
+        "pt": "O que você fez no fim de semana?",
+        "en": "What did you do on the weekend?",
+        "ar": "ماذا فعلتِ في عطلة نهاية الأسبوع؟"
+      }
+    },
+    {
+      "pt": "comprar",
+      "ipa": "/kõˈpɾaʁ/",
+      "en": "to buy",
+      "ar": "يشتري",
+      "example": {
+        "pt": "O que você fez no fim de semana?",
+        "en": "What did you do on the weekend?",
+        "ar": "ماذا فعلتِ في عطلة نهاية الأسبوع؟"
+      }
+    },
+    {
+      "pt": "encontrar",
+      "ipa": "/ẽ.kõˈtɾaʁ/",
+      "en": "to meet / to find",
+      "ar": "يلتقي / يجد",
+      "example": {
+        "pt": "O que você fez no fim de semana?",
+        "en": "What did you do on the weekend?",
+        "ar": "ماذا فعلتِ في عطلة نهاية الأسبوع؟"
+      }
+    },
+    {
+      "pt": "terminar",
+      "ipa": "/teʁ.miˈnaʁ/",
+      "en": "to finish",
+      "ar": "ينهي",
+      "example": {
+        "pt": "O que você fez no fim de semana?",
+        "en": "What did you do on the weekend?",
+        "ar": "ماذا فعلتِ في عطلة نهاية الأسبوع؟"
+      }
+    },
+    {
+      "pt": "chegar",
+      "ipa": "/ʃeˈɡaʁ/",
+      "en": "to arrive",
+      "ar": "يصل",
+      "example": {
+        "pt": "O que você fez no fim de semana?",
+        "en": "What did you do on the weekend?",
+        "ar": "ماذا فعلتِ في عطلة نهاية الأسبوع؟"
+      }
+    },
+    {
+      "pt": "voltar",
+      "ipa": "/voʊˈtaʁ/",
+      "en": "to return",
+      "ar": "يعود",
+      "example": {
+        "pt": "O que você fez no fim de semana?",
+        "en": "What did you do on the weekend?",
+        "ar": "ماذا فعلتِ في عطلة نهاية الأسبوع؟"
+      }
+    },
+    {
+      "pt": "falar",
+      "ipa": "/faˈlaʁ/",
+      "en": "to speak",
+      "ar": "يتحدث",
+      "example": {
+        "pt": "O que você fez no fim de semana?",
+        "en": "What did you do on the weekend?",
+        "ar": "ماذا فعلتِ في عطلة نهاية الأسبوع؟"
+      }
+    },
+    {
+      "pt": "comemorar",
+      "ipa": "/ko.me.moˈɾaʁ/",
+      "en": "to celebrate",
+      "ar": "يحتفل",
+      "example": {
+        "pt": "O que você fez no fim de semana?",
+        "en": "What did you do on the weekend?",
+        "ar": "ماذا فعلتِ في عطلة نهاية الأسبوع؟"
+      }
+    },
+    {
+      "pt": "ficar",
+      "ipa": "/fiˈkaʁ/",
+      "en": "to stay",
+      "ar": "يبقى",
+      "example": {
+        "pt": "O que você fez no fim de semana?",
+        "en": "What did you do on the weekend?",
+        "ar": "ماذا فعلتِ في عطلة نهاية الأسبوع؟"
+      }
+    },
+    {
+      "pt": "passear",
+      "ipa": "/pa.seˈaʁ/",
+      "en": "to stroll / to go out",
+      "ar": "يتنزه",
+      "example": {
+        "pt": "O que você fez no fim de semana?",
+        "en": "What did you do on the weekend?",
+        "ar": "ماذا فعلتِ في عطلة نهاية الأسبوع؟"
+      }
+    },
+    {
+      "pt": "acontecer",
+      "ipa": "/a.kõ.teˈseʁ/",
+      "en": "to happen",
+      "ar": "يحدث",
+      "example": {
+        "pt": "O que você fez no fim de semana?",
+        "en": "What did you do on the weekend?",
+        "ar": "ماذا فعلتِ في عطلة نهاية الأسبوع؟"
+      }
+    },
+    {
+      "pt": "o almoço",
+      "ipa": "/u awˈmo.su/",
+      "en": "the lunch",
+      "ar": "الغداء",
+      "example": {
+        "pt": "O que você fez no fim de semana?",
+        "en": "What did you do on the weekend?",
+        "ar": "ماذا فعلتِ في عطلة نهاية الأسبوع؟"
+      }
+    },
+    {
+      "pt": "há dois dias",
+      "ipa": "/a dois ˈdʒi.as/",
+      "en": "two days ago",
+      "ar": "قبل يومين",
+      "example": {
+        "pt": "O que você fez no fim de semana?",
+        "en": "What did you do on the weekend?",
+        "ar": "ماذا فعلتِ في عطلة نهاية الأسبوع؟"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "title": {
+        "pt": "Formação do Pretérito Perfeito (-ar)",
+        "en": "Forming the Simple Past (-ar)",
+        "ar": "تكوين الماضي التام (الأفعال المنتهية بـ -ar)"
+      },
+      "explanation": {
+        "pt": "O pretérito perfeito descreve ações completas no passado. Verbos em -ar: eu falei, você falou, ele falou, nós falamos, vocês falaram. A terminação -ou é muito característica e só aparece nesse tempo.",
+        "en": "The simple past describes completed actions in the past. -ar verbs: eu falei, você falou, ele falou, nós falamos, vocês falaram. The -ou ending is very characteristic and only appears in this tense.",
+        "ar": "الماضي التام يصف أفعالًا منجزة في الماضي. الأفعال المنتهية بـ -ar: eu falei (تحدثت)، você falou، ele falou، nós falamos، vocês falaram. النهاية -ou مميزة جدًا ولا تظهر إلا في هذا الزمن."
+      },
+      "examples": [
+        {
+          "pt": "Ontem eu trabalhei até tarde.",
+          "en": "Yesterday I worked until late.",
+          "ar": "بالأمس عملت حتى وقت متأخر."
+        },
+        {
+          "pt": "Você comprou o presente ontem?",
+          "en": "Did you buy the gift yesterday?",
+          "ar": "هل اشتريت الهدية أمس؟"
+        },
+        {
+          "pt": "Nós conversamos muito no jantar.",
+          "en": "We talked a lot at dinner.",
+          "ar": "تحدثنا كثيرًا أثناء العشاء."
+        }
+      ]
+    },
+    {
+      "title": {
+        "pt": "Pretérito Perfeito em -er/-ir e Irregulares",
+        "en": "Simple Past in -er/-ir and Irregular Verbs",
+        "ar": "الماضي التام في الأفعال المنتهية بـ -er/-ir والأفعال الشاذة"
+      },
+      "explanation": {
+        "pt": "Verbos em -er/-ir: eu comi, você comeu, nós comemos, eles comeram; eu abri, você abriu, nós abrimos, eles abriram. Irregulares importantes: ser (fui, foi, fomos, foram), estar (estive, esteve), ter (tive, teve), ir (fui, foi), fazer (fiz, fez).",
+        "en": "-er/-ir verbs: eu comi, você comeu, nós comemos, eles comeram; eu abri, você abriu, nós abrimos, eles abriram. Important irregulars: ser (fui, foi, fomos, foram), estar (estive, esteve), ter (tive, teve), ir (fui, foi), fazer (fiz, fez).",
+        "ar": "الأفعال المنتهية بـ -er/-ir: eu comi (أكلت)، você comeu، nós comemos، eles comeram؛ eu abri (فتحت)، você abriu، nós abrimos، eles abriram. أفعال شاذة مهمة: ser (fui، foi، fomos، foram)، estar (estive، esteve)، ter (tive، teve)، ir (fui، foi)، fazer (fiz، fez)."
+      },
+      "examples": [
+        {
+          "pt": "Eu comi feijoada no sábado.",
+          "en": "I ate feijoada on Saturday.",
+          "ar": "أكلت فيجوعادا يوم السبت."
+        },
+        {
+          "pt": "Ela teve um dia muito corrido.",
+          "en": "She had a very busy day.",
+          "ar": "كان يومها مزدحمًا جدًا."
+        },
+        {
+          "pt": "Eles fizeram uma festa surpresa.",
+          "en": "They threw a surprise party.",
+          "ar": "أقاموا حفلة مفاجئة."
+        }
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": {
+      "pt": "O Fim de Semana",
+      "en": "The Weekend",
+      "ar": "عطلة نهاية الأسبوع"
+    },
+    "lines": [
+      {
+        "speaker": "João",
+        "pt": "O que você fez no fim de semana?",
+        "en": "What did you do on the weekend?",
+        "ar": "ماذا فعلتِ في عطلة نهاية الأسبوع؟"
+      },
+      {
+        "speaker": "Ana",
+        "pt": "Eu viajei para o litoral e visitei minha avó.",
+        "en": "I traveled to the coast and visited my grandmother.",
+        "ar": "سافرت إلى الساحل وزرت جدتي."
+      },
+      {
+        "speaker": "João",
+        "pt": "Que bom! Você ficou lá dois dias?",
+        "en": "Great! Did you stay there two days?",
+        "ar": "رائع! هل بقيتِ هناك يومين؟"
+      },
+      {
+        "speaker": "Ana",
+        "pt": "Sim. No sábado, nós passeamos na praia e comemos frutos do mar.",
+        "en": "Yes. On Saturday, we strolled on the beach and ate seafood.",
+        "ar": "نعم. يوم السبت، تنزهنا على الشاطئ وأكلنا المأكولات البحرية."
+      },
+      {
+        "speaker": "João",
+        "pt": "Você comprou alguma coisa?",
+        "en": "Did you buy anything?",
+        "ar": "هل اشتريتِ شيئًا؟"
+      },
+      {
+        "speaker": "Ana",
+        "pt": "Comprei um presente para a minha mãe. Ela adorou!",
+        "en": "I bought a gift for my mother. She loved it!",
+        "ar": "اشتريت هدية لأمي. لقد أحبّتها!"
+      }
+    ]
+  },
+  "reading": {
+    "title": {
+      "pt": "Uma Viagem ao Rio",
+      "en": "A Trip to Rio",
+      "ar": "رحلة إلى ريو"
+    },
+    "text_pt": "Na semana passada, Paulo e Maria viajaram para o Rio de Janeiro. Eles visitaram o Cristo Redentor e comeram em um restaurante típico. No domingo, eles voltaram para casa cansados, mas felizes. Foi um fim de semana inesquecível.",
+    "text_en": "Last week, Paulo and Maria traveled to Rio de Janeiro. They visited Christ the Redeemer and ate at a typical restaurant. On Sunday, they returned home tired, but happy. It was an unforgettable weekend.",
+    "text_ar": "في الأسبوع الماضي، سافر باولو وماريا إلى ريو دي جانيرو. زارا تمثال المسيح الفادي وتناولا الطعام في مطعم تقليدي. يوم الأحد، عادا إلى المنزل متعبين لكن سعيدين. كانت عطلة نهاية أسبوع لا تُنسى."
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Ontem, eu ___ ao mercado. (ir)",
+        "en": "Yesterday, I ___ to the market. (ir)",
+        "ar": "بالأمس، أنا ___ إلى السوق. (ir)"
+      },
+      "options": [
+        {
+          "pt": "fui",
+          "en": "fui",
+          "ar": "fui"
+        },
+        {
+          "pt": "vou",
+          "en": "vou",
+          "ar": "vou"
+        },
+        {
+          "pt": "ia",
+          "en": "ia",
+          "ar": "ia"
+        }
+      ],
+      "answer": "fui",
+      "explanation": {
+        "pt": "'Ir' no pretérito perfeito com 'eu' = fui.",
+        "en": "'Ir' in the simple past with 'eu' = fui.",
+        "ar": "الفعل 'ir' في الماضي التام مع 'eu' = fui."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Nós ___ português na aula passada. (falar)",
+        "en": "We ___ Portuguese in the last class. (falar)",
+        "ar": "نحن ___ البرتغالية في الحصة الماضية. (falar)"
+      },
+      "options": [
+        {
+          "pt": "falamos",
+          "en": "falamos",
+          "ar": "falamos"
+        },
+        {
+          "pt": "falaram",
+          "en": "falaram",
+          "ar": "falaram"
+        },
+        {
+          "pt": "falávamos",
+          "en": "falávamos",
+          "ar": "falávamos"
+        }
+      ],
+      "answer": "falamos",
+      "explanation": {
+        "pt": "Nós + pretérito perfeito (-ar) = -amos: falamos.",
+        "en": "Nós + simple past (-ar) = -amos: falamos.",
+        "ar": "مع 'nós' يأتي الماضي التام (-ar) بصيغة -amos: falamos."
+      }
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza: 'last week'",
+        "en": "Translate: 'last week'",
+        "ar": "ترجم: 'last week'"
+      },
+      "options": [],
+      "answer": "a semana passada",
+      "explanation": {
+        "pt": "'A semana passada' = last week.",
+        "en": "'A semana passada' = last week.",
+        "ar": "'a semana passada' تعني الأسبوع الماضي."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "semana?",
+          "en": "semana?",
+          "ar": "semana?"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "no",
+          "en": "no",
+          "ar": "no"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "fim",
+          "en": "fim",
+          "ar": "fim"
+        },
+        {
+          "pt": "fez",
+          "en": "fez",
+          "ar": "fez"
+        }
+      ],
+      "answer": "O que você fez no fim de semana?",
+      "accepted": [
+        "O que você fez no fim de semana?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'O que você fez no fim de semana?'",
+        "en": "The correct order: 'What did you do on the weekend?'",
+        "ar": "الترتيب الصحيح: 'ماذا فعلتِ في عطلة نهاية الأسبوع؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "ontem",
+          "en": "to travel",
+          "ar": "ontem"
+        },
+        {
+          "pt": "o fim de semana",
+          "en": "to work",
+          "ar": "o fim de semana"
+        },
+        {
+          "pt": "viajar",
+          "en": "yesterday",
+          "ar": "viajar"
+        },
+        {
+          "pt": "trabalhar",
+          "en": "today",
+          "ar": "trabalhar"
+        },
+        {
+          "pt": "a semana passada",
+          "en": "the weekend",
+          "ar": "a semana passada"
+        },
+        {
+          "pt": "hoje",
+          "en": "last week",
+          "ar": "hoje"
+        }
+      ],
+      "answer": "ontem::to travel|o fim de semana::to work|viajar::yesterday|trabalhar::today|a semana passada::the weekend|hoje::last week",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "O que você fez no fim de semana?",
+          "en": "Great! Did you stay there two days?",
+          "ar": "ماذا فعلتِ في عطلة نهاية الأسبوع؟"
+        },
+        {
+          "pt": "Que bom! Você ficou lá dois dias?",
+          "en": "I bought a gift for my mother. She loved it!",
+          "ar": "اشتريت هدية لأمي. لقد أحبّتها!"
+        },
+        {
+          "pt": "Comprei um presente para a minha mãe. Ela adorou!",
+          "en": "What did you do on the weekend?",
+          "ar": "رائع! هل بقيتِ هناك يومين؟"
+        }
+      ],
+      "answer": "O que você fez no fim de semana?",
+      "accepted": [],
+      "audio": "O que você fez no fim de semana?",
+      "explanation": {
+        "pt": "Você ouviu: 'O que você fez no fim de semana?' — 'What did you do on the weekend?'",
+        "en": "You heard: 'O que você fez no fim de semana?' — 'What did you do on the weekend?'",
+        "ar": "سمعت: 'O que você fez no fim de semana?' — 'ماذا فعلتِ في عطلة نهاية الأسبوع؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Você comprou alguma coisa?",
+          "en": "What did you do on the weekend?",
+          "ar": "سافرت إلى الساحل وزرت جدتي."
+        },
+        {
+          "pt": "Eu viajei para o litoral e visitei minha avó.",
+          "en": "Did you buy anything?",
+          "ar": "هل اشتريتِ شيئًا؟"
+        },
+        {
+          "pt": "O que você fez no fim de semana?",
+          "en": "I traveled to the coast and visited my grandmother.",
+          "ar": "ماذا فعلتِ في عطلة نهاية الأسبوع؟"
+        }
+      ],
+      "answer": "Eu viajei para o litoral e visitei minha avó.",
+      "accepted": [],
+      "audio": "Eu viajei para o litoral e visitei minha avó.",
+      "explanation": {
+        "pt": "Você ouviu: 'Eu viajei para o litoral e visitei minha avó.' — 'I traveled to the coast and visited my grandmother.'",
+        "en": "You heard: 'Eu viajei para o litoral e visitei minha avó.' — 'I traveled to the coast and visited my grandmother.'",
+        "ar": "سمعت: 'Eu viajei para o litoral e visitei minha avó.' — 'سافرت إلى الساحل وزرت جدتي.'"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Ontem eu ___ até tarde.",
+        "en": "Ontem eu ___ até tarde.",
+        "ar": "Ontem eu ___ até tarde."
+      },
+      "options": [
+        {
+          "pt": "trabalhei",
+          "en": "trabalhei",
+          "ar": "trabalhei"
+        },
+        {
+          "pt": "muito",
+          "en": "muito",
+          "ar": "muito"
+        },
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        }
+      ],
+      "answer": "trabalhei",
+      "accepted": [],
+      "explanation": {
+        "pt": "A resposta é 'trabalhei'. Frase completa: Ontem eu trabalhei até tarde.",
+        "en": "The answer is 'trabalhei'. Full sentence: Yesterday I worked until late.",
+        "ar": "الإجابة الصحيحة: 'trabalhei'. الجملة كاملة: بالأمس عملت حتى وقت متأخر."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "fim",
+          "en": "fim",
+          "ar": "fim"
+        },
+        {
+          "pt": "semana?",
+          "en": "semana?",
+          "ar": "semana?"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "no",
+          "en": "no",
+          "ar": "no"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "fez",
+          "en": "fez",
+          "ar": "fez"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        }
+      ],
+      "answer": "O que você fez no fim de semana?",
+      "accepted": [
+        "O que você fez no fim de semana?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'O que você fez no fim de semana?'",
+        "en": "The correct order: 'What did you do on the weekend?'",
+        "ar": "الترتيب الصحيح: 'ماذا فعلتِ في عطلة نهاية الأسبوع؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "viajar",
+          "en": "to work",
+          "ar": "viajar"
+        },
+        {
+          "pt": "hoje",
+          "en": "to travel",
+          "ar": "hoje"
+        },
+        {
+          "pt": "trabalhar",
+          "en": "the weekend",
+          "ar": "trabalhar"
+        },
+        {
+          "pt": "ontem",
+          "en": "last week",
+          "ar": "ontem"
+        },
+        {
+          "pt": "o fim de semana",
+          "en": "today",
+          "ar": "o fim de semana"
+        },
+        {
+          "pt": "a semana passada",
+          "en": "yesterday",
+          "ar": "a semana passada"
+        }
+      ],
+      "answer": "viajar::to work|hoje::to travel|trabalhar::the weekend|ontem::last week|o fim de semana::today|a semana passada::yesterday",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "O que você fez no fim de semana?",
+          "en": "Great! Did you stay there two days?",
+          "ar": "نعم. يوم السبت، تنزهنا على الشاطئ وأكلنا المأكولات البحرية."
+        },
+        {
+          "pt": "Que bom! Você ficou lá dois dias?",
+          "en": "Yes. On Saturday, we strolled on the beach and ate seafood.",
+          "ar": "رائع! هل بقيتِ هناك يومين؟"
+        },
+        {
+          "pt": "Sim. No sábado, nós passeamos na praia e comemos frutos do mar.",
+          "en": "What did you do on the weekend?",
+          "ar": "ماذا فعلتِ في عطلة نهاية الأسبوع؟"
+        }
+      ],
+      "answer": "O que você fez no fim de semana?",
+      "accepted": [],
+      "audio": "O que você fez no fim de semana?",
+      "explanation": {
+        "pt": "Você ouviu: 'O que você fez no fim de semana?' — 'What did you do on the weekend?'",
+        "en": "You heard: 'O que você fez no fim de semana?' — 'What did you do on the weekend?'",
+        "ar": "سمعت: 'O que você fez no fim de semana?' — 'ماذا فعلتِ في عطلة نهاية الأسبوع؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Eu viajei para o litoral e visitei minha avó.",
+          "en": "I traveled to the coast and visited my grandmother.",
+          "ar": "سافرت إلى الساحل وزرت جدتي."
+        },
+        {
+          "pt": "Sim. No sábado, nós passeamos na praia e comemos frutos do mar.",
+          "en": "I bought a gift for my mother. She loved it!",
+          "ar": "اشتريت هدية لأمي. لقد أحبّتها!"
+        },
+        {
+          "pt": "Comprei um presente para a minha mãe. Ela adorou!",
+          "en": "Yes. On Saturday, we strolled on the beach and ate seafood.",
+          "ar": "نعم. يوم السبت، تنزهنا على الشاطئ وأكلنا المأكولات البحرية."
+        }
+      ],
+      "answer": "Eu viajei para o litoral e visitei minha avó.",
+      "accepted": [],
+      "audio": "Eu viajei para o litoral e visitei minha avó.",
+      "explanation": {
+        "pt": "Você ouviu: 'Eu viajei para o litoral e visitei minha avó.' — 'I traveled to the coast and visited my grandmother.'",
+        "en": "You heard: 'Eu viajei para o litoral e visitei minha avó.' — 'I traveled to the coast and visited my grandmother.'",
+        "ar": "سمعت: 'Eu viajei para o litoral e visitei minha avó.' — 'سافرت إلى الساحل وزرت جدتي.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "fim",
+          "en": "fim",
+          "ar": "fim"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "no",
+          "en": "no",
+          "ar": "no"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "fez",
+          "en": "fez",
+          "ar": "fez"
+        },
+        {
+          "pt": "semana?",
+          "en": "semana?",
+          "ar": "semana?"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        }
+      ],
+      "answer": "O que você fez no fim de semana?",
+      "accepted": [
+        "O que você fez no fim de semana?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'O que você fez no fim de semana?'",
+        "en": "The correct order: 'What did you do on the weekend?'",
+        "ar": "الترتيب الصحيح: 'ماذا فعلتِ في عطلة نهاية الأسبوع؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "trabalhar",
+          "en": "last week",
+          "ar": "trabalhar"
+        },
+        {
+          "pt": "hoje",
+          "en": "the weekend",
+          "ar": "hoje"
+        },
+        {
+          "pt": "ontem",
+          "en": "yesterday",
+          "ar": "ontem"
+        },
+        {
+          "pt": "viajar",
+          "en": "today",
+          "ar": "viajar"
+        },
+        {
+          "pt": "a semana passada",
+          "en": "to work",
+          "ar": "a semana passada"
+        },
+        {
+          "pt": "o fim de semana",
+          "en": "to travel",
+          "ar": "o fim de semana"
+        }
+      ],
+      "answer": "trabalhar::last week|hoje::the weekend|ontem::yesterday|viajar::today|a semana passada::to work|o fim de semana::to travel",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Você comprou alguma coisa?",
+          "en": "Great! Did you stay there two days?",
+          "ar": "رائع! هل بقيتِ هناك يومين؟"
+        },
+        {
+          "pt": "Que bom! Você ficou lá dois dias?",
+          "en": "Did you buy anything?",
+          "ar": "ماذا فعلتِ في عطلة نهاية الأسبوع؟"
+        },
+        {
+          "pt": "O que você fez no fim de semana?",
+          "en": "What did you do on the weekend?",
+          "ar": "هل اشتريتِ شيئًا؟"
+        }
+      ],
+      "answer": "O que você fez no fim de semana?",
+      "accepted": [],
+      "audio": "O que você fez no fim de semana?",
+      "explanation": {
+        "pt": "Você ouviu: 'O que você fez no fim de semana?' — 'What did you do on the weekend?'",
+        "en": "You heard: 'O que você fez no fim de semana?' — 'What did you do on the weekend?'",
+        "ar": "سمعت: 'O que você fez no fim de semana?' — 'ماذا فعلتِ في عطلة نهاية الأسبوع؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Você comprou alguma coisa?",
+          "en": "I traveled to the coast and visited my grandmother.",
+          "ar": "ماذا فعلتِ في عطلة نهاية الأسبوع؟"
+        },
+        {
+          "pt": "Eu viajei para o litoral e visitei minha avó.",
+          "en": "Did you buy anything?",
+          "ar": "سافرت إلى الساحل وزرت جدتي."
+        },
+        {
+          "pt": "O que você fez no fim de semana?",
+          "en": "What did you do on the weekend?",
+          "ar": "هل اشتريتِ شيئًا؟"
+        }
+      ],
+      "answer": "Eu viajei para o litoral e visitei minha avó.",
+      "accepted": [],
+      "audio": "Eu viajei para o litoral e visitei minha avó.",
+      "explanation": {
+        "pt": "Você ouviu: 'Eu viajei para o litoral e visitei minha avó.' — 'I traveled to the coast and visited my grandmother.'",
+        "en": "You heard: 'Eu viajei para o litoral e visitei minha avó.' — 'I traveled to the coast and visited my grandmother.'",
+        "ar": "سمعت: 'Eu viajei para o litoral e visitei minha avó.' — 'سافرت إلى الساحل وزرت جدتي.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "no",
+          "en": "no",
+          "ar": "no"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "fim",
+          "en": "fim",
+          "ar": "fim"
+        },
+        {
+          "pt": "fez",
+          "en": "fez",
+          "ar": "fez"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "semana?",
+          "en": "semana?",
+          "ar": "semana?"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        }
+      ],
+      "answer": "O que você fez no fim de semana?",
+      "accepted": [
+        "O que você fez no fim de semana?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'O que você fez no fim de semana?'",
+        "en": "The correct order: 'What did you do on the weekend?'",
+        "ar": "الترتيب الصحيح: 'ماذا فعلتِ في عطلة نهاية الأسبوع؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o fim de semana",
+          "en": "yesterday",
+          "ar": "o fim de semana"
+        },
+        {
+          "pt": "hoje",
+          "en": "last week",
+          "ar": "hoje"
+        },
+        {
+          "pt": "a semana passada",
+          "en": "to travel",
+          "ar": "a semana passada"
+        },
+        {
+          "pt": "ontem",
+          "en": "the weekend",
+          "ar": "ontem"
+        },
+        {
+          "pt": "trabalhar",
+          "en": "today",
+          "ar": "trabalhar"
+        },
+        {
+          "pt": "viajar",
+          "en": "to work",
+          "ar": "viajar"
+        }
+      ],
+      "answer": "o fim de semana::yesterday|hoje::last week|a semana passada::to travel|ontem::the weekend|trabalhar::today|viajar::to work",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim. No sábado, nós passeamos na praia e comemos frutos do mar.",
+          "en": "I traveled to the coast and visited my grandmother.",
+          "ar": "سافرت إلى الساحل وزرت جدتي."
+        },
+        {
+          "pt": "O que você fez no fim de semana?",
+          "en": "Yes. On Saturday, we strolled on the beach and ate seafood.",
+          "ar": "نعم. يوم السبت، تنزهنا على الشاطئ وأكلنا المأكولات البحرية."
+        },
+        {
+          "pt": "Eu viajei para o litoral e visitei minha avó.",
+          "en": "What did you do on the weekend?",
+          "ar": "ماذا فعلتِ في عطلة نهاية الأسبوع؟"
+        }
+      ],
+      "answer": "O que você fez no fim de semana?",
+      "accepted": [],
+      "audio": "O que você fez no fim de semana?",
+      "explanation": {
+        "pt": "Você ouviu: 'O que você fez no fim de semana?' — 'What did you do on the weekend?'",
+        "en": "You heard: 'O que você fez no fim de semana?' — 'What did you do on the weekend?'",
+        "ar": "سمعت: 'O que você fez no fim de semana?' — 'ماذا فعلتِ في عطلة نهاية الأسبوع؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Você comprou alguma coisa?",
+          "en": "Great! Did you stay there two days?",
+          "ar": "رائع! هل بقيتِ هناك يومين؟"
+        },
+        {
+          "pt": "Eu viajei para o litoral e visitei minha avó.",
+          "en": "Did you buy anything?",
+          "ar": "سافرت إلى الساحل وزرت جدتي."
+        },
+        {
+          "pt": "Que bom! Você ficou lá dois dias?",
+          "en": "I traveled to the coast and visited my grandmother.",
+          "ar": "هل اشتريتِ شيئًا؟"
+        }
+      ],
+      "answer": "Eu viajei para o litoral e visitei minha avó.",
+      "accepted": [],
+      "audio": "Eu viajei para o litoral e visitei minha avó.",
+      "explanation": {
+        "pt": "Você ouviu: 'Eu viajei para o litoral e visitei minha avó.' — 'I traveled to the coast and visited my grandmother.'",
+        "en": "You heard: 'Eu viajei para o litoral e visitei minha avó.' — 'I traveled to the coast and visited my grandmother.'",
+        "ar": "سمعت: 'Eu viajei para o litoral e visitei minha avó.' — 'سافرت إلى الساحل وزرت جدتي.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "no",
+          "en": "no",
+          "ar": "no"
+        },
+        {
+          "pt": "semana?",
+          "en": "semana?",
+          "ar": "semana?"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "fim",
+          "en": "fim",
+          "ar": "fim"
+        },
+        {
+          "pt": "fez",
+          "en": "fez",
+          "ar": "fez"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        }
+      ],
+      "answer": "O que você fez no fim de semana?",
+      "accepted": [
+        "O que você fez no fim de semana?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'O que você fez no fim de semana?'",
+        "en": "The correct order: 'What did you do on the weekend?'",
+        "ar": "الترتيب الصحيح: 'ماذا فعلتِ في عطلة نهاية الأسبوع؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "viajar",
+          "en": "to work",
+          "ar": "viajar"
+        },
+        {
+          "pt": "ontem",
+          "en": "yesterday",
+          "ar": "ontem"
+        },
+        {
+          "pt": "a semana passada",
+          "en": "last week",
+          "ar": "a semana passada"
+        },
+        {
+          "pt": "trabalhar",
+          "en": "to travel",
+          "ar": "trabalhar"
+        },
+        {
+          "pt": "hoje",
+          "en": "today",
+          "ar": "hoje"
+        },
+        {
+          "pt": "o fim de semana",
+          "en": "the weekend",
+          "ar": "o fim de semana"
+        }
+      ],
+      "answer": "viajar::to work|ontem::yesterday|a semana passada::last week|trabalhar::to travel|hoje::today|o fim de semana::the weekend",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "O que você fez no fim de semana?",
+          "en": "Great! Did you stay there two days?",
+          "ar": "رائع! هل بقيتِ هناك يومين؟"
+        },
+        {
+          "pt": "Que bom! Você ficou lá dois dias?",
+          "en": "Yes. On Saturday, we strolled on the beach and ate seafood.",
+          "ar": "ماذا فعلتِ في عطلة نهاية الأسبوع؟"
+        },
+        {
+          "pt": "Sim. No sábado, nós passeamos na praia e comemos frutos do mar.",
+          "en": "What did you do on the weekend?",
+          "ar": "نعم. يوم السبت، تنزهنا على الشاطئ وأكلنا المأكولات البحرية."
+        }
+      ],
+      "answer": "O que você fez no fim de semana?",
+      "accepted": [],
+      "audio": "O que você fez no fim de semana?",
+      "explanation": {
+        "pt": "Você ouviu: 'O que você fez no fim de semana?' — 'What did you do on the weekend?'",
+        "en": "You heard: 'O que você fez no fim de semana?' — 'What did you do on the weekend?'",
+        "ar": "سمعت: 'O que você fez no fim de semana?' — 'ماذا فعلتِ في عطلة نهاية الأسبوع؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Comprei um presente para a minha mãe. Ela adorou!",
+          "en": "I traveled to the coast and visited my grandmother.",
+          "ar": "نعم. يوم السبت، تنزهنا على الشاطئ وأكلنا المأكولات البحرية."
+        },
+        {
+          "pt": "Eu viajei para o litoral e visitei minha avó.",
+          "en": "Yes. On Saturday, we strolled on the beach and ate seafood.",
+          "ar": "سافرت إلى الساحل وزرت جدتي."
+        },
+        {
+          "pt": "Sim. No sábado, nós passeamos na praia e comemos frutos do mar.",
+          "en": "I bought a gift for my mother. She loved it!",
+          "ar": "اشتريت هدية لأمي. لقد أحبّتها!"
+        }
+      ],
+      "answer": "Eu viajei para o litoral e visitei minha avó.",
+      "accepted": [],
+      "audio": "Eu viajei para o litoral e visitei minha avó.",
+      "explanation": {
+        "pt": "Você ouviu: 'Eu viajei para o litoral e visitei minha avó.' — 'I traveled to the coast and visited my grandmother.'",
+        "en": "You heard: 'Eu viajei para o litoral e visitei minha avó.' — 'I traveled to the coast and visited my grandmother.'",
+        "ar": "سمعت: 'Eu viajei para o litoral e visitei minha avó.' — 'سافرت إلى الساحل وزرت جدتي.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "fez",
+          "en": "fez",
+          "ar": "fez"
+        },
+        {
+          "pt": "no",
+          "en": "no",
+          "ar": "no"
+        },
+        {
+          "pt": "semana?",
+          "en": "semana?",
+          "ar": "semana?"
+        },
+        {
+          "pt": "fim",
+          "en": "fim",
+          "ar": "fim"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        }
+      ],
+      "answer": "O que você fez no fim de semana?",
+      "accepted": [
+        "O que você fez no fim de semana?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'O que você fez no fim de semana?'",
+        "en": "The correct order: 'What did you do on the weekend?'",
+        "ar": "الترتيب الصحيح: 'ماذا فعلتِ في عطلة نهاية الأسبوع؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o fim de semana",
+          "en": "yesterday",
+          "ar": "o fim de semana"
+        },
+        {
+          "pt": "viajar",
+          "en": "today",
+          "ar": "viajar"
+        },
+        {
+          "pt": "ontem",
+          "en": "last week",
+          "ar": "ontem"
+        },
+        {
+          "pt": "hoje",
+          "en": "the weekend",
+          "ar": "hoje"
+        },
+        {
+          "pt": "trabalhar",
+          "en": "to travel",
+          "ar": "trabalhar"
+        },
+        {
+          "pt": "a semana passada",
+          "en": "to work",
+          "ar": "a semana passada"
+        }
+      ],
+      "answer": "o fim de semana::yesterday|viajar::today|ontem::last week|hoje::the weekend|trabalhar::to travel|a semana passada::to work",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Que bom! Você ficou lá dois dias?",
+          "en": "What did you do on the weekend?",
+          "ar": "رائع! هل بقيتِ هناك يومين؟"
+        },
+        {
+          "pt": "O que você fez no fim de semana?",
+          "en": "Did you buy anything?",
+          "ar": "ماذا فعلتِ في عطلة نهاية الأسبوع؟"
+        },
+        {
+          "pt": "Você comprou alguma coisa?",
+          "en": "Great! Did you stay there two days?",
+          "ar": "هل اشتريتِ شيئًا؟"
+        }
+      ],
+      "answer": "O que você fez no fim de semana?",
+      "accepted": [],
+      "audio": "O que você fez no fim de semana?",
+      "explanation": {
+        "pt": "Você ouviu: 'O que você fez no fim de semana?' — 'What did you do on the weekend?'",
+        "en": "You heard: 'O que você fez no fim de semana?' — 'What did you do on the weekend?'",
+        "ar": "سمعت: 'O que você fez no fim de semana?' — 'ماذا فعلتِ في عطلة نهاية الأسبوع؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "O que você fez no fim de semana?",
+          "en": "What did you do on the weekend?",
+          "ar": "سافرت إلى الساحل وزرت جدتي."
+        },
+        {
+          "pt": "Eu viajei para o litoral e visitei minha avó.",
+          "en": "Yes. On Saturday, we strolled on the beach and ate seafood.",
+          "ar": "ماذا فعلتِ في عطلة نهاية الأسبوع؟"
+        },
+        {
+          "pt": "Sim. No sábado, nós passeamos na praia e comemos frutos do mar.",
+          "en": "I traveled to the coast and visited my grandmother.",
+          "ar": "نعم. يوم السبت، تنزهنا على الشاطئ وأكلنا المأكولات البحرية."
+        }
+      ],
+      "answer": "Eu viajei para o litoral e visitei minha avó.",
+      "accepted": [],
+      "audio": "Eu viajei para o litoral e visitei minha avó.",
+      "explanation": {
+        "pt": "Você ouviu: 'Eu viajei para o litoral e visitei minha avó.' — 'I traveled to the coast and visited my grandmother.'",
+        "en": "You heard: 'Eu viajei para o litoral e visitei minha avó.' — 'I traveled to the coast and visited my grandmother.'",
+        "ar": "سمعت: 'Eu viajei para o litoral e visitei minha avó.' — 'سافرت إلى الساحل وزرت جدتي.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "fez",
+          "en": "fez",
+          "ar": "fez"
+        },
+        {
+          "pt": "no",
+          "en": "no",
+          "ar": "no"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "fim",
+          "en": "fim",
+          "ar": "fim"
+        },
+        {
+          "pt": "semana?",
+          "en": "semana?",
+          "ar": "semana?"
+        }
+      ],
+      "answer": "O que você fez no fim de semana?",
+      "accepted": [
+        "O que você fez no fim de semana?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'O que você fez no fim de semana?'",
+        "en": "The correct order: 'What did you do on the weekend?'",
+        "ar": "الترتيب الصحيح: 'ماذا فعلتِ في عطلة نهاية الأسبوع؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "trabalhar",
+          "en": "to work",
+          "ar": "trabalhar"
+        },
+        {
+          "pt": "viajar",
+          "en": "today",
+          "ar": "viajar"
+        },
+        {
+          "pt": "ontem",
+          "en": "to travel",
+          "ar": "ontem"
+        },
+        {
+          "pt": "o fim de semana",
+          "en": "last week",
+          "ar": "o fim de semana"
+        },
+        {
+          "pt": "a semana passada",
+          "en": "yesterday",
+          "ar": "a semana passada"
+        },
+        {
+          "pt": "hoje",
+          "en": "the weekend",
+          "ar": "hoje"
+        }
+      ],
+      "answer": "trabalhar::to work|viajar::today|ontem::to travel|o fim de semana::last week|a semana passada::yesterday|hoje::the weekend",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Comprei um presente para a minha mãe. Ela adorou!",
+          "en": "What did you do on the weekend?",
+          "ar": "نعم. يوم السبت، تنزهنا على الشاطئ وأكلنا المأكولات البحرية."
+        },
+        {
+          "pt": "Sim. No sábado, nós passeamos na praia e comemos frutos do mar.",
+          "en": "I bought a gift for my mother. She loved it!",
+          "ar": "اشتريت هدية لأمي. لقد أحبّتها!"
+        },
+        {
+          "pt": "O que você fez no fim de semana?",
+          "en": "Yes. On Saturday, we strolled on the beach and ate seafood.",
+          "ar": "ماذا فعلتِ في عطلة نهاية الأسبوع؟"
+        }
+      ],
+      "answer": "O que você fez no fim de semana?",
+      "accepted": [],
+      "audio": "O que você fez no fim de semana?",
+      "explanation": {
+        "pt": "Você ouviu: 'O que você fez no fim de semana?' — 'What did you do on the weekend?'",
+        "en": "You heard: 'O que você fez no fim de semana?' — 'What did you do on the weekend?'",
+        "ar": "سمعت: 'O que você fez no fim de semana?' — 'ماذا فعلتِ في عطلة نهاية الأسبوع؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim. No sábado, nós passeamos na praia e comemos frutos do mar.",
+          "en": "Yes. On Saturday, we strolled on the beach and ate seafood.",
+          "ar": "رائع! هل بقيتِ هناك يومين؟"
+        },
+        {
+          "pt": "Que bom! Você ficou lá dois dias?",
+          "en": "I traveled to the coast and visited my grandmother.",
+          "ar": "نعم. يوم السبت، تنزهنا على الشاطئ وأكلنا المأكولات البحرية."
+        },
+        {
+          "pt": "Eu viajei para o litoral e visitei minha avó.",
+          "en": "Great! Did you stay there two days?",
+          "ar": "سافرت إلى الساحل وزرت جدتي."
+        }
+      ],
+      "answer": "Eu viajei para o litoral e visitei minha avó.",
+      "accepted": [],
+      "audio": "Eu viajei para o litoral e visitei minha avó.",
+      "explanation": {
+        "pt": "Você ouviu: 'Eu viajei para o litoral e visitei minha avó.' — 'I traveled to the coast and visited my grandmother.'",
+        "en": "You heard: 'Eu viajei para o litoral e visitei minha avó.' — 'I traveled to the coast and visited my grandmother.'",
+        "ar": "سمعت: 'Eu viajei para o litoral e visitei minha avó.' — 'سافرت إلى الساحل وزرت جدتي.'"
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'yesterday'",
+        "en": "Type in Portuguese: 'yesterday'",
+        "ar": "اكتب بالبرتغالية: 'أمس'"
+      },
+      "options": [],
+      "answer": "ontem",
+      "accepted": [
+        "ontem"
+      ],
+      "explanation": {
+        "pt": "'ontem' significa 'yesterday'.",
+        "en": "'ontem' means 'yesterday'.",
+        "ar": "'$ontem' بالعربية: '$أمس'."
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'today'",
+        "en": "Type in Portuguese: 'today'",
+        "ar": "اكتب بالبرتغالية: 'اليوم'"
+      },
+      "options": [],
+      "answer": "hoje",
+      "accepted": [
+        "hoje"
+      ],
+      "explanation": {
+        "pt": "'hoje' significa 'today'.",
+        "en": "'hoje' means 'today'.",
+        "ar": "'$hoje' بالعربية: '$اليوم'."
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "O que você fez no fim de semana?",
+          "en": "O que você fez no fim de semana?",
+          "ar": "O que você fez no fim de semana?"
+        },
+        {
+          "pt": "Você comprou alguma coisa?",
+          "en": "Você comprou alguma coisa?",
+          "ar": "Você comprou alguma coisa?"
+        },
+        {
+          "pt": "Que bom! Você ficou lá dois dias?",
+          "en": "Que bom! Você ficou lá dois dias?",
+          "ar": "Que bom! Você ficou lá dois dias?"
+        }
+      ],
+      "answer": "O que você fez no fim de semana?",
+      "accepted": [],
+      "audio": "O que você fez no fim de semana?",
+      "explanation": {
+        "pt": "Você ouviu: 'O que você fez no fim de semana?'",
+        "en": "You heard: 'O que você fez no fim de semana?'",
+        "ar": "سمعت: 'O que você fez no fim de semana?'"
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Que bom! Você ficou lá dois dias?",
+          "en": "Que bom! Você ficou lá dois dias?",
+          "ar": "Que bom! Você ficou lá dois dias?"
+        },
+        {
+          "pt": "Eu viajei para o litoral e visitei minha avó.",
+          "en": "Eu viajei para o litoral e visitei minha avó.",
+          "ar": "Eu viajei para o litoral e visitei minha avó."
+        },
+        {
+          "pt": "Sim. No sábado, nós passeamos na praia e comemos frutos do mar.",
+          "en": "Sim. No sábado, nós passeamos na praia e comemos frutos do mar.",
+          "ar": "Sim. No sábado, nós passeamos na praia e comemos frutos do mar."
+        }
+      ],
+      "answer": "Eu viajei para o litoral e visitei minha avó.",
+      "accepted": [],
+      "audio": "Eu viajei para o litoral e visitei minha avó.",
+      "explanation": {
+        "pt": "Você ouviu: 'Eu viajei para o litoral e visitei minha avó.'",
+        "en": "You heard: 'Eu viajei para o litoral e visitei minha avó.'",
+        "ar": "سمعت: 'Eu viajei para o litoral e visitei minha avó.'"
+      }
+    },
+    {
+      "type": "dictation",
+      "prompt": {
+        "pt": "Ouça e escreva o que você ouviu.",
+        "en": "Listen and type what you hear.",
+        "ar": "استمع واكتب ما سمعته."
+      },
+      "options": [],
+      "answer": "O que você fez no fim de semana?",
+      "accepted": [],
+      "audio": "O que você fez no fim de semana?",
+      "explanation": {
+        "pt": "A frase correta: 'O que você fez no fim de semana?'",
+        "en": "The correct sentence: 'O que você fez no fim de semana?'",
+        "ar": "الجملة الصحيحة: 'O que você fez no fim de semana?'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "fez",
+          "en": "fez",
+          "ar": "fez"
+        },
+        {
+          "pt": "no",
+          "en": "no",
+          "ar": "no"
+        },
+        {
+          "pt": "semana?",
+          "en": "semana?",
+          "ar": "semana?"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "fim",
+          "en": "fim",
+          "ar": "fim"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        }
+      ],
+      "answer": "O que você fez no fim de semana?",
+      "accepted": [
+        "O que você fez no fim de semana?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'O que você fez no fim de semana?'",
+        "en": "The correct order: 'What did you do on the weekend?'",
+        "ar": "الترتيب الصحيح: 'ماذا فعلتِ في عطلة نهاية الأسبوع؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "viajar",
+          "en": "yesterday",
+          "ar": "viajar"
+        },
+        {
+          "pt": "trabalhar",
+          "en": "last week",
+          "ar": "trabalhar"
+        },
+        {
+          "pt": "ontem",
+          "en": "the weekend",
+          "ar": "ontem"
+        },
+        {
+          "pt": "o fim de semana",
+          "en": "to travel",
+          "ar": "o fim de semana"
+        },
+        {
+          "pt": "a semana passada",
+          "en": "to work",
+          "ar": "a semana passada"
+        },
+        {
+          "pt": "hoje",
+          "en": "today",
+          "ar": "hoje"
+        }
+      ],
+      "answer": "viajar::yesterday|trabalhar::last week|ontem::the weekend|o fim de semana::to travel|a semana passada::to work|hoje::today",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Você comprou alguma coisa?",
+          "en": "What did you do on the weekend?",
+          "ar": "رائع! هل بقيتِ هناك يومين؟"
+        },
+        {
+          "pt": "O que você fez no fim de semana?",
+          "en": "Great! Did you stay there two days?",
+          "ar": "هل اشتريتِ شيئًا؟"
+        },
+        {
+          "pt": "Que bom! Você ficou lá dois dias?",
+          "en": "Did you buy anything?",
+          "ar": "ماذا فعلتِ في عطلة نهاية الأسبوع؟"
+        }
+      ],
+      "answer": "O que você fez no fim de semana?",
+      "accepted": [],
+      "audio": "O que você fez no fim de semana?",
+      "explanation": {
+        "pt": "Você ouviu: 'O que você fez no fim de semana?' — 'What did you do on the weekend?'",
+        "en": "You heard: 'O que você fez no fim de semana?' — 'What did you do on the weekend?'",
+        "ar": "سمعت: 'O que você fez no fim de semana?' — 'ماذا فعلتِ في عطلة نهاية الأسبوع؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim. No sábado, nós passeamos na praia e comemos frutos do mar.",
+          "en": "Did you buy anything?",
+          "ar": "هل اشتريتِ شيئًا؟"
+        },
+        {
+          "pt": "Eu viajei para o litoral e visitei minha avó.",
+          "en": "I traveled to the coast and visited my grandmother.",
+          "ar": "سافرت إلى الساحل وزرت جدتي."
+        },
+        {
+          "pt": "Você comprou alguma coisa?",
+          "en": "Yes. On Saturday, we strolled on the beach and ate seafood.",
+          "ar": "نعم. يوم السبت، تنزهنا على الشاطئ وأكلنا المأكولات البحرية."
+        }
+      ],
+      "answer": "Eu viajei para o litoral e visitei minha avó.",
+      "accepted": [],
+      "audio": "Eu viajei para o litoral e visitei minha avó.",
+      "explanation": {
+        "pt": "Você ouviu: 'Eu viajei para o litoral e visitei minha avó.' — 'I traveled to the coast and visited my grandmother.'",
+        "en": "You heard: 'Eu viajei para o litoral e visitei minha avó.' — 'I traveled to the coast and visited my grandmother.'",
+        "ar": "سمعت: 'Eu viajei para o litoral e visitei minha avó.' — 'سافرت إلى الساحل وزرت جدتي.'"
+      }
+    }
+  ],
+  "speaking": {
+    "title": {
+      "pt": "Fale Agora — Ouça e Repita",
+      "en": "Speak Now — Listen and Repeat",
+      "ar": "تحدث الآن — استمع وكرر"
+    },
+    "phrases": [
+      {
+        "pt": "O que você fez no fim de semana?",
+        "en": "What did you do on the weekend?",
+        "ar": "ماذا فعلتِ في عطلة نهاية الأسبوع؟"
+      },
+      {
+        "pt": "Eu viajei para o litoral e visitei minha avó.",
+        "en": "I traveled to the coast and visited my grandmother.",
+        "ar": "سافرت إلى الساحل وزرت جدتي."
+      },
+      {
+        "pt": "Que bom! Você ficou lá dois dias?",
+        "en": "Great! Did you stay there two days?",
+        "ar": "رائع! هل بقيتِ هناك يومين؟"
+      },
+      {
+        "pt": "Sim. No sábado, nós passeamos na praia e comemos frutos do mar.",
+        "en": "Yes. On Saturday, we strolled on the beach and ate seafood.",
+        "ar": "نعم. يوم السبت، تنزهنا على الشاطئ وأكلنا المأكولات البحرية."
+      },
+      {
+        "pt": "Você comprou alguma coisa?",
+        "en": "Did you buy anything?",
+        "ar": "هل اشتريتِ شيئًا؟"
+      },
+      {
+        "pt": "Comprei um presente para a minha mãe. Ela adorou!",
+        "en": "I bought a gift for my mother. She loved it!",
+        "ar": "اشتريت هدية لأمي. لقد أحبّتها!"
+      },
+      {
+        "pt": "ontem",
+        "en": "yesterday",
+        "ar": "أمس"
+      },
+      {
+        "pt": "hoje",
+        "en": "today",
+        "ar": "اليوم"
+      },
+      {
+        "pt": "a semana passada",
+        "en": "last week",
+        "ar": "الأسبوع الماضي"
+      }
+    ]
+  },
+  "cultural_tips": {
+    "pt": "",
+    "en": "",
+    "ar": ""
+  }
+}

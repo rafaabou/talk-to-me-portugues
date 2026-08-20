@@ -1,0 +1,2096 @@
+{
+  "id": "C2-06",
+  "level": "C2",
+  "level_name": {
+    "pt": "Proficiência",
+    "en": "Proficiency",
+    "ar": "إتقان"
+  },
+  "title": {
+    "pt": "Humor e Ironia",
+    "en": "Humor and Irony",
+    "ar": "الفكاهة والسخرية"
+  },
+  "objectives": [
+    {
+      "pt": "Identificar ironia, sarcasmo e humor em textos orais e escritos",
+      "en": "Identify irony, sarcasm and humor in oral and written texts",
+      "ar": "تحديد السخرية والتهكم والفكاهة في النصوص الشفهية والمكتوبة"
+    },
+    {
+      "pt": "Usar a entonação e os operadores de ironia adequadamente",
+      "en": "Use intonation and irony operators appropriately",
+      "ar": "استخدام النبر والعوامل الساخرة بشكل مناسب"
+    },
+    {
+      "pt": "Reconhecer trocadilhos e duplos sentidos",
+      "en": "Recognize puns and double meanings",
+      "ar": "التعرف على التلاعب اللفظي والمعاني المزدوجة"
+    },
+    {
+      "pt": "Produzir humor com quebra de expectativa",
+      "en": "Produce humor with expectation subversion",
+      "ar": "إنتاج الفكاهة عبر كسر التوقع"
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "a ironia",
+      "ipa": "/i.ɾoˈni.a/",
+      "en": "irony",
+      "ar": "السخرية",
+      "example": {
+        "pt": "Foi o dia mais tranquilo da minha semana: perdi a reunião e o almoço.",
+        "en": "It was the most peaceful day of my week: I missed the meeting and lunch.",
+        "ar": "كان اليوم الأكثر هدوءًا في أسبوعي: فاتني الاجتماع والغداء."
+      }
+    },
+    {
+      "pt": "o sarcasmo",
+      "ipa": "/saʁˈkaz.mu/",
+      "en": "sarcasm",
+      "ar": "التهكم",
+      "example": {
+        "pt": "Foi o dia mais tranquilo da minha semana: perdi a reunião e o almoço.",
+        "en": "It was the most peaceful day of my week: I missed the meeting and lunch.",
+        "ar": "كان اليوم الأكثر هدوءًا في أسبوعي: فاتني الاجتماع والغداء."
+      }
+    },
+    {
+      "pt": "a piada",
+      "ipa": "/piˈa.da/",
+      "en": "joke",
+      "ar": "النكتة",
+      "example": {
+        "pt": "Foi o dia mais tranquilo da minha semana: perdi a reunião e o almoço.",
+        "en": "It was the most peaceful day of my week: I missed the meeting and lunch.",
+        "ar": "كان اليوم الأكثر هدوءًا في أسبوعي: فاتني الاجتماع والغداء."
+      }
+    },
+    {
+      "pt": "o trocadilho",
+      "ipa": "/tɾo.kaˈdʒi.ʎu/",
+      "en": "pun",
+      "ar": "التلاعب اللفظي",
+      "example": {
+        "pt": "Foi o dia mais tranquilo da minha semana: perdi a reunião e o almoço.",
+        "en": "It was the most peaceful day of my week: I missed the meeting and lunch.",
+        "ar": "كان اليوم الأكثر هدوءًا في أسبوعي: فاتني الاجتماع والغداء."
+      }
+    },
+    {
+      "pt": "o duplo sentido",
+      "ipa": "/ˈdu.plu sĩˈtʃi.du/",
+      "en": "double meaning",
+      "ar": "المعنى المزدوج",
+      "example": {
+        "pt": "Foi o dia mais tranquilo da minha semana: perdi a reunião e o almoço.",
+        "en": "It was the most peaceful day of my week: I missed the meeting and lunch.",
+        "ar": "كان اليوم الأكثر هدوءًا في أسبوعي: فاتني الاجتماع والغداء."
+      }
+    },
+    {
+      "pt": "a paródia",
+      "ipa": "/paˈɾɔ.dʒi.a/",
+      "en": "parody",
+      "ar": "المحاكاة الساخرة",
+      "example": {
+        "pt": "Foi o dia mais tranquilo da minha semana: perdi a reunião e o almoço.",
+        "en": "It was the most peaceful day of my week: I missed the meeting and lunch.",
+        "ar": "كان اليوم الأكثر هدوءًا في أسبوعي: فاتني الاجتماع والغداء."
+      }
+    },
+    {
+      "pt": "o deboche",
+      "ipa": "/deˈbɔ.ʃi/",
+      "en": "mockery",
+      "ar": "الاستهزاء",
+      "example": {
+        "pt": "Foi o dia mais tranquilo da minha semana: perdi a reunião e o almoço.",
+        "en": "It was the most peaceful day of my week: I missed the meeting and lunch.",
+        "ar": "كان اليوم الأكثر هدوءًا في أسبوعي: فاتني الاجتماع والغداء."
+      }
+    },
+    {
+      "pt": "a zombaria",
+      "ipa": "/zõ.baˈɾi.a/",
+      "en": "jeering, mockery",
+      "ar": "السخرية والاستهزاء",
+      "example": {
+        "pt": "Foi o dia mais tranquilo da minha semana: perdi a reunião e o almoço.",
+        "en": "It was the most peaceful day of my week: I missed the meeting and lunch.",
+        "ar": "كان اليوم الأكثر هدوءًا في أسبوعي: فاتني الاجتماع والغداء."
+      }
+    },
+    {
+      "pt": "a caricatura",
+      "ipa": "/ka.ɾi.kaˈtu.ɾa/",
+      "en": "caricature",
+      "ar": "الرسم الكاريكاتوري",
+      "example": {
+        "pt": "Foi o dia mais tranquilo da minha semana: perdi a reunião e o almoço.",
+        "en": "It was the most peaceful day of my week: I missed the meeting and lunch.",
+        "ar": "كان اليوم الأكثر هدوءًا في أسبوعي: فاتني الاجتماع والغداء."
+      }
+    },
+    {
+      "pt": "o humor negro",
+      "ipa": "/uˈmoʁ ˈne.ɡɾu/",
+      "en": "dark humor",
+      "ar": "الفكاهة السوداء",
+      "example": {
+        "pt": "Foi o dia mais tranquilo da minha semana: perdi a reunião e o almoço.",
+        "en": "It was the most peaceful day of my week: I missed the meeting and lunch.",
+        "ar": "كان اليوم الأكثر هدوءًا في أسبوعي: فاتني الاجتماع والغداء."
+      }
+    },
+    {
+      "pt": "a quebra de expectativa",
+      "ipa": "/ˈkɛ.bɾa dʒi es.pek.taˈtʃi.va/",
+      "en": "expectation subversion",
+      "ar": "كسر التوقع",
+      "example": {
+        "pt": "Foi o dia mais tranquilo da minha semana: perdi a reunião e o almoço.",
+        "en": "It was the most peaceful day of my week: I missed the meeting and lunch.",
+        "ar": "كان اليوم الأكثر هدوءًا في أسبوعي: فاتني الاجتماع والغداء."
+      }
+    },
+    {
+      "pt": "o exagero",
+      "ipa": "/e.zaˈʒe.ɾu/",
+      "en": "exaggeration",
+      "ar": "المبالغة",
+      "example": {
+        "pt": "Foi o dia mais tranquilo da minha semana: perdi a reunião e o almoço.",
+        "en": "It was the most peaceful day of my week: I missed the meeting and lunch.",
+        "ar": "كان اليوم الأكثر هدوءًا في أسبوعي: فاتني الاجتماع والغداء."
+      }
+    },
+    {
+      "pt": "a ironia dramática",
+      "ipa": "/i.ɾoˈni.a dɾaˈma.tʃi.ka/",
+      "en": "dramatic irony",
+      "ar": "السخرية الدرامية",
+      "example": {
+        "pt": "Foi o dia mais tranquilo da minha semana: perdi a reunião e o almoço.",
+        "en": "It was the most peaceful day of my week: I missed the meeting and lunch.",
+        "ar": "كان اليوم الأكثر هدوءًا في أسبوعي: فاتني الاجتماع والغداء."
+      }
+    },
+    {
+      "pt": "o non sequitur",
+      "ipa": "/nõ ˈse.kwi.tuʁ/",
+      "en": "non sequitur",
+      "ar": "خروج غير منطقي عن السياق",
+      "example": {
+        "pt": "Foi o dia mais tranquilo da minha semana: perdi a reunião e o almoço.",
+        "en": "It was the most peaceful day of my week: I missed the meeting and lunch.",
+        "ar": "كان اليوم الأكثر هدوءًا في أسبوعي: فاتني الاجتماع والغداء."
+      }
+    },
+    {
+      "pt": "o duplo sentido ambíguo",
+      "ipa": "/ˈdu.plu sĩˈtʃi.du ɐ̃ˈbi.ɡu.u/",
+      "en": "ambiguous double meaning",
+      "ar": "المعنى المزدوج الغامض",
+      "example": {
+        "pt": "Foi o dia mais tranquilo da minha semana: perdi a reunião e o almoço.",
+        "en": "It was the most peaceful day of my week: I missed the meeting and lunch.",
+        "ar": "كان اليوم الأكثر هدوءًا في أسبوعي: فاتني الاجتماع والغداء."
+      }
+    },
+    {
+      "pt": "a piada interna",
+      "ipa": "/piˈa.da ĩˈteʁ.na/",
+      "en": "inside joke",
+      "ar": "النكتة الخاصة بين الأصدقاء",
+      "example": {
+        "pt": "Foi o dia mais tranquilo da minha semana: perdi a reunião e o almoço.",
+        "en": "It was the most peaceful day of my week: I missed the meeting and lunch.",
+        "ar": "كان اليوم الأكثر هدوءًا في أسبوعي: فاتني الاجتماع والغداء."
+      }
+    },
+    {
+      "pt": "fazer troça",
+      "ipa": "/faˈzeʁ ˈtɾɔ.sa/",
+      "en": "to mock, to make fun",
+      "ar": "يسخر من",
+      "example": {
+        "pt": "Com esse humor, você deveria fazer uma comédia stand-up.",
+        "en": "With that humor, you should do a stand-up comedy show.",
+        "ar": "بفضل هذه الفكاهة، ينبغي أن تقدم عرضًا كوميديًا."
+      }
+    },
+    {
+      "pt": "rir por fora",
+      "ipa": "/ˈxiʁ puʁ ˈfɔ.ɾa/",
+      "en": "to laugh on the outside",
+      "ar": "يضحك ظاهريًا",
+      "example": {
+        "pt": "Que delícia acordar às seis para pegar três ônibus, não?",
+        "en": "What a delight to wake up at six to catch three buses, right?",
+        "ar": "يا لها من متعة أن تستيقظ في السادسة لتركب ثلاث حافلات، أليس كذلك؟"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "title": {
+        "pt": "Operadores de Ironia",
+        "en": "Operators of Irony",
+        "ar": "عوامل السخرية"
+      },
+      "explanation": {
+        "pt": "A ironia verbal apoia-se em advérbios e interjeições que invertem o valor da frase: 'Que maravilha, o ônibus atrasou de novo', 'Ótimo, perdemos a viagem'. Também se usam aspas irônicas na escrita e pausas seguidas de tom descendente na fala. O sarcasmo agrava a ironia com crueldade ou mordacidade, exigindo registro e intimidade adequados.",
+        "en": "Verbal irony relies on adverbs and interjections that invert the value of the sentence: 'Que maravilha, o ônibus atrasou de novo' (How wonderful, the bus is late again), 'Ótimo, perdemos a viagem' (Great, we missed the trip). Scare quotes are also used in writing, and pauses followed by a falling tone in speech. Sarcasm sharpens irony with cruelty or biting wit, requiring appropriate register and intimacy.",
+        "ar": "تعتمد السخرية اللفظية على ظروف وأدوات تعكس قيمة الجملة: 'Que maravilha, o ônibus atrasou de novo' (يا للروعة، تأخر الحافلة مرة أخرى)، 'Ótimo, perdemos a viagem' (رائع، فاتتنا الرحلة). كما تُستخدم علامات الاقتباس الساخرة في الكتابة، والتوقفات مع نبرة هابطة في الكلام. أما التهكم فيعمّق السخرية بقسوة أو لذع، ويتطلب مستوى مناسبًا من الألفة."
+      },
+      "examples": [
+        {
+          "pt": "Ótimo, agora choveu e o asfalto já foi recapeado.",
+          "en": "Great, now it rained and the asphalt has just been repaved.",
+          "ar": "رائع، الآن أمطرت وقد أعيد تمهيد الطريق للتو."
+        },
+        {
+          "pt": "Que pontualidade a sua: três horas de atraso.",
+          "en": "What punctuality of yours: three hours late.",
+          "ar": "يا له من التزام بمواعيدك: ثلاث ساعات تأخير."
+        },
+        {
+          "pt": "Aquele 'trabalho' dele foi digno de prêmio, ironizou a chefe.",
+          "en": "That 'work' of his was prize-worthy, the boss mocked.",
+          "ar": "قالت المديرة بسخرية: إن 'عمله' ذاك يستحق الجائزة."
+        }
+      ]
+    },
+    {
+      "title": {
+        "pt": "Quebra de Expectativa",
+        "en": "Subversion of Expectation",
+        "ar": "كسر التوقع"
+      },
+      "explanation": {
+        "pt": "Grande parte do humor brasileiro explora a quebra de expectativa: a primeira parte cria uma projeção, e a segunda a desmente com uma conjunção adversativa ou um final inesperado. Ex.: 'Eu ia seguir uma dieta, até ver a sobremesa'. O efeito cômico também nasce do exagero (hipérbole) e do trocadilho fonético.",
+        "en": "Much Brazilian humor exploits expectation subversion: the first part creates a projection, and the second undermines it with an adversative conjunction or an unexpected ending. E.g.: 'Eu ia seguir uma dieta, até ver a sobremesa' (I was going to follow a diet, until I saw dessert). The comic effect also comes from exaggeration (hyperbole) and phonetic puns.",
+        "ar": "يستغل جزء كبير من الفكاهة البرازيلية كسر التوقع: الجزء الأول يبني انطباعًا، والثاني يهدمه برابط استدراكي أو نهاية غير متوقعة. مثال: 'Eu ia seguir uma dieta, até ver a sobremesa' (كنت عازمًا على اتباع حمية، حتى رأيت الحلوى). وينبع الأثر الفكاهي أيضًا من المبالغة والتلاعب اللفظي الصوتي."
+      },
+      "examples": [
+        {
+          "pt": "Eu estava decidido a acordar cedo... amanhã.",
+          "en": "I was determined to wake up early... tomorrow.",
+          "ar": "كنت مصممًا على الاستيقاظ مبكرًا... غدًا."
+        },
+        {
+          "pt": "A reunião foi tão produtiva que continuamos no estacionamento por mais uma hora.",
+          "en": "The meeting was so productive that we continued in the parking lot for another hour.",
+          "ar": "كان الاجتماع مثمرًا جدًا لدرجة أننا واصلناه في موقف السيارات ساعة أخرى."
+        },
+        {
+          "pt": "Ele economiza tanto que comprou uma carteira para guardar as moedas que não tem.",
+          "en": "He saves so much that he bought a wallet to keep the coins he does not have.",
+          "ar": "إنه يوفّر كثيرًا لدرجة أنه اشترى محفظة ليضع فيها العملات التي لا يملكها."
+        }
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": {
+      "pt": "Comentários da Segunda-Feira",
+      "en": "Monday Comments",
+      "ar": "تعليقات يوم الاثنين"
+    },
+    "lines": [
+      {
+        "speaker": "Caio",
+        "pt": "Que delícia acordar às seis para pegar três ônibus, não?",
+        "en": "What a delight to wake up at six to catch three buses, right?",
+        "ar": "يا لها من متعة أن تستيقظ في السادسة لتركب ثلاث حافلات، أليس كذلك؟"
+      },
+      {
+        "speaker": "Lívia",
+        "pt": "Sarcasmo às sete da manhã? Hoje você está realmente inspirado.",
+        "en": "Sarcasm at seven in the morning? You are really inspired today.",
+        "ar": "تهكم في السابعة صباحًا؟ أنت ملهم فعلًا اليوم."
+      },
+      {
+        "speaker": "Caio",
+        "pt": "Foi o dia mais tranquilo da minha semana: perdi a reunião e o almoço.",
+        "en": "It was the most peaceful day of my week: I missed the meeting and lunch.",
+        "ar": "كان اليوم الأكثر هدوءًا في أسبوعي: فاتني الاجتماع والغداء."
+      },
+      {
+        "speaker": "Lívia",
+        "pt": "Não exagera. Você só esqueceu o celular, a chave e o relatório.",
+        "en": "Don't exaggerate. You only forgot your phone, your keys and the report.",
+        "ar": "لا تبالغ. نسيتَ فقط هاتفك ومفاتيحك والتقرير."
+      },
+      {
+        "speaker": "Caio",
+        "pt": "Viu? E ainda dizem que segunda-feira é um dia comum.",
+        "en": "See? And they still say Monday is an ordinary day.",
+        "ar": "أرأيت؟ وما زالوا يقولون إن الاثنين يوم عادي."
+      },
+      {
+        "speaker": "Lívia",
+        "pt": "Com esse humor, você deveria fazer uma comédia stand-up.",
+        "en": "With that humor, you should do a stand-up comedy show.",
+        "ar": "بفضل هذه الفكاهة، ينبغي أن تقدم عرضًا كوميديًا."
+      }
+    ]
+  },
+  "reading": {
+    "title": {
+      "pt": "O Humor como Arma",
+      "en": "Humor as a Weapon",
+      "ar": "الفكاهة كسلاح"
+    },
+    "text_pt": "O cronista abre o texto com uma ironia mordaz sobre o trânsito e a fecha com uma paródia do discurso político. Entre um e outro, explora trocadilhos e a quebra de expectativa para criticar sem agredir. O leitor atento percebe que a zombaria não é gratuita: aponta contradições sociais. Dominar esses mecanismos é saber ler o Brasil pelas entrelinhas.",
+    "text_en": "The columnist opens the text with a biting irony about traffic and closes with a parody of political discourse. Between one and the other, he explores puns and expectation subversion to criticize without attacking. The attentive reader realizes that the mockery is not gratuitous: it points out social contradictions. Mastering these mechanisms is knowing how to read Brazil between the lines.",
+    "text_ar": "يفتتح الكاتب نصه بسخرية لاذعة من حركة المرور ويختمه بمحاكاة ساخرة لخطاب السياسيين. وبين الفتح والختم، يستغل التلاعب اللفظي وكسر التوقع للنقد دون إساءة. ويدرك القارئ المتيقظ أن الاستهزاء ليس مجانيًا: فهو يكشف التناقضات الاجتماعية. إتقان هذه الآليات يعني معرفة قراءة البرازيل بين السطور."
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Em 'Que maravilha, o ônibus atrasou de novo', o efeito é de...",
+        "en": "In 'Que maravilha, o ônibus atrasou de novo', the effect is one of...",
+        "ar": "في جملة 'Que maravilha, o ônibus atrasou de novo'، يكون الأثر..."
+      },
+      "options": [
+        {
+          "pt": "ironia",
+          "en": "irony",
+          "ar": "سخرية"
+        },
+        {
+          "pt": "elogio sincero",
+          "en": "sincere praise",
+          "ar": "مدح صادق"
+        },
+        {
+          "pt": "ordem direta",
+          "en": "a direct order",
+          "ar": "أمر مباشر"
+        }
+      ],
+      "answer": "ironia",
+      "explanation": {
+        "pt": "A expressão 'Que maravilha' inverte o valor: é ironia.",
+        "en": "The phrase 'Que maravilha' inverts the value: it is irony.",
+        "ar": "عبارة 'Que maravilha' تعكس المعنى: إنها سخرية."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual recurso mais caracteriza 'Eu ia seguir uma dieta, até ver a sobremesa'?",
+        "en": "Which device most characterizes 'Eu ia seguir uma dieta, até ver a sobremesa'?",
+        "ar": "ما الأداة التي تميز جملة 'Eu ia seguir uma dieta, até ver a sobremesa'؟"
+      },
+      "options": [
+        {
+          "pt": "quebra de expectativa",
+          "en": "expectation subversion",
+          "ar": "كسر التوقع"
+        },
+        {
+          "pt": "sarcasmo agressivo",
+          "en": "aggressive sarcasm",
+          "ar": "تهكم عدواني"
+        },
+        {
+          "pt": "eufemismo",
+          "en": "euphemism",
+          "ar": "تلطيف"
+        }
+      ],
+      "answer": "quebra de expectativa",
+      "explanation": {
+        "pt": "A segunda parte contraria a intenção anunciada: quebra de expectativa.",
+        "en": "The second part contradicts the announced intention: subversion of expectation.",
+        "ar": "الجزء الثاني يناقض النية المعلنة: كسر التوقع."
+      }
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: 'to make fun of someone'",
+        "en": "Translate into Portuguese: 'to make fun of someone'",
+        "ar": "ترجم إلى البرتغالية: 'to make fun of someone'"
+      },
+      "options": [],
+      "answer": "fazer troça de alguém",
+      "explanation": {
+        "pt": "'Fazer troça de alguém' equivale a 'make fun of someone'.",
+        "en": "'Fazer troça de alguém' is the equivalent of 'make fun of someone'.",
+        "ar": "التعبير 'fazer troça de alguém' يعادل 'make fun of someone'."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "seis",
+          "en": "seis",
+          "ar": "seis"
+        },
+        {
+          "pt": "não?",
+          "en": "não?",
+          "ar": "não?"
+        },
+        {
+          "pt": "ônibus,",
+          "en": "ônibus,",
+          "ar": "ônibus,"
+        },
+        {
+          "pt": "delícia",
+          "en": "delícia",
+          "ar": "delícia"
+        },
+        {
+          "pt": "para",
+          "en": "para",
+          "ar": "para"
+        },
+        {
+          "pt": "três",
+          "en": "três",
+          "ar": "três"
+        },
+        {
+          "pt": "acordar",
+          "en": "acordar",
+          "ar": "acordar"
+        },
+        {
+          "pt": "às",
+          "en": "às",
+          "ar": "às"
+        },
+        {
+          "pt": "pegar",
+          "en": "pegar",
+          "ar": "pegar"
+        },
+        {
+          "pt": "Que",
+          "en": "Que",
+          "ar": "Que"
+        }
+      ],
+      "answer": "Que delícia acordar às seis para pegar três ônibus, não?",
+      "accepted": [
+        "Que delícia acordar às seis para pegar três ônibus, não?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Que delícia acordar às seis para pegar três ônibus, não?'",
+        "en": "The correct order: 'What a delight to wake up at six to catch three buses, right?'",
+        "ar": "الترتيب الصحيح: 'يا لها من متعة أن تستيقظ في السادسة لتركب ثلاث حافلات، أليس كذلك؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a ironia",
+          "en": "irony",
+          "ar": "a ironia"
+        },
+        {
+          "pt": "a paródia",
+          "en": "double meaning",
+          "ar": "a paródia"
+        },
+        {
+          "pt": "o trocadilho",
+          "en": "sarcasm",
+          "ar": "o trocadilho"
+        },
+        {
+          "pt": "o duplo sentido",
+          "en": "joke",
+          "ar": "o duplo sentido"
+        },
+        {
+          "pt": "o sarcasmo",
+          "en": "pun",
+          "ar": "o sarcasmo"
+        },
+        {
+          "pt": "a piada",
+          "en": "parody",
+          "ar": "a piada"
+        }
+      ],
+      "answer": "a ironia::irony|a paródia::double meaning|o trocadilho::sarcasm|o duplo sentido::joke|o sarcasmo::pun|a piada::parody",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Viu? E ainda dizem que segunda-feira é um dia comum.",
+          "en": "What a delight to wake up at six to catch three buses, right?",
+          "ar": "يا لها من متعة أن تستيقظ في السادسة لتركب ثلاث حافلات، أليس كذلك؟"
+        },
+        {
+          "pt": "Com esse humor, você deveria fazer uma comédia stand-up.",
+          "en": "With that humor, you should do a stand-up comedy show.",
+          "ar": "أرأيت؟ وما زالوا يقولون إن الاثنين يوم عادي."
+        },
+        {
+          "pt": "Que delícia acordar às seis para pegar três ônibus, não?",
+          "en": "See? And they still say Monday is an ordinary day.",
+          "ar": "بفضل هذه الفكاهة، ينبغي أن تقدم عرضًا كوميديًا."
+        }
+      ],
+      "answer": "Que delícia acordar às seis para pegar três ônibus, não?",
+      "accepted": [],
+      "audio": "Que delícia acordar às seis para pegar três ônibus, não?",
+      "explanation": {
+        "pt": "Você ouviu: 'Que delícia acordar às seis para pegar três ônibus, não?' — 'What a delight to wake up at six to catch three buses, right?'",
+        "en": "You heard: 'Que delícia acordar às seis para pegar três ônibus, não?' — 'What a delight to wake up at six to catch three buses, right?'",
+        "ar": "سمعت: 'Que delícia acordar às seis para pegar três ônibus, não?' — 'يا لها من متعة أن تستيقظ في السادسة لتركب ثلاث حافلات، أليس كذلك؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Que delícia acordar às seis para pegar três ônibus, não?",
+          "en": "With that humor, you should do a stand-up comedy show.",
+          "ar": "يا لها من متعة أن تستيقظ في السادسة لتركب ثلاث حافلات، أليس كذلك؟"
+        },
+        {
+          "pt": "Com esse humor, você deveria fazer uma comédia stand-up.",
+          "en": "What a delight to wake up at six to catch three buses, right?",
+          "ar": "بفضل هذه الفكاهة، ينبغي أن تقدم عرضًا كوميديًا."
+        },
+        {
+          "pt": "Sarcasmo às sete da manhã? Hoje você está realmente inspirado.",
+          "en": "Sarcasm at seven in the morning? You are really inspired today.",
+          "ar": "تهكم في السابعة صباحًا؟ أنت ملهم فعلًا اليوم."
+        }
+      ],
+      "answer": "Sarcasmo às sete da manhã? Hoje você está realmente inspirado.",
+      "accepted": [],
+      "audio": "Sarcasmo às sete da manhã? Hoje você está realmente inspirado.",
+      "explanation": {
+        "pt": "Você ouviu: 'Sarcasmo às sete da manhã? Hoje você está realmente inspirado.' — 'Sarcasm at seven in the morning? You are really inspired today.'",
+        "en": "You heard: 'Sarcasmo às sete da manhã? Hoje você está realmente inspirado.' — 'Sarcasm at seven in the morning? You are really inspired today.'",
+        "ar": "سمعت: 'Sarcasmo às sete da manhã? Hoje você está realmente inspirado.' — 'تهكم في السابعة صباحًا؟ أنت ملهم فعلًا اليوم.'"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Ótimo, agora choveu e o asfalto já ___ recapeado.",
+        "en": "Ótimo, agora choveu e o asfalto já ___ recapeado.",
+        "ar": "Ótimo, agora choveu e o asfalto já ___ recapeado."
+      },
+      "options": [
+        {
+          "pt": "digno",
+          "en": "digno",
+          "ar": "digno"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "foi",
+          "en": "foi",
+          "ar": "foi"
+        }
+      ],
+      "answer": "foi",
+      "accepted": [],
+      "explanation": {
+        "pt": "A resposta é 'foi'. Frase completa: Ótimo, agora choveu e o asfalto já foi recapeado.",
+        "en": "The answer is 'foi'. Full sentence: Great, now it rained and the asphalt has just been repaved.",
+        "ar": "الإجابة الصحيحة: 'foi'. الجملة كاملة: رائع، الآن أمطرت وقد أعيد تمهيد الطريق للتو."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "delícia",
+          "en": "delícia",
+          "ar": "delícia"
+        },
+        {
+          "pt": "pegar",
+          "en": "pegar",
+          "ar": "pegar"
+        },
+        {
+          "pt": "para",
+          "en": "para",
+          "ar": "para"
+        },
+        {
+          "pt": "ônibus,",
+          "en": "ônibus,",
+          "ar": "ônibus,"
+        },
+        {
+          "pt": "às",
+          "en": "às",
+          "ar": "às"
+        },
+        {
+          "pt": "não?",
+          "en": "não?",
+          "ar": "não?"
+        },
+        {
+          "pt": "acordar",
+          "en": "acordar",
+          "ar": "acordar"
+        },
+        {
+          "pt": "seis",
+          "en": "seis",
+          "ar": "seis"
+        },
+        {
+          "pt": "Que",
+          "en": "Que",
+          "ar": "Que"
+        },
+        {
+          "pt": "três",
+          "en": "três",
+          "ar": "três"
+        }
+      ],
+      "answer": "Que delícia acordar às seis para pegar três ônibus, não?",
+      "accepted": [
+        "Que delícia acordar às seis para pegar três ônibus, não?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Que delícia acordar às seis para pegar três ônibus, não?'",
+        "en": "The correct order: 'What a delight to wake up at six to catch three buses, right?'",
+        "ar": "الترتيب الصحيح: 'يا لها من متعة أن تستيقظ في السادسة لتركب ثلاث حافلات، أليس كذلك؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o trocadilho",
+          "en": "double meaning",
+          "ar": "o trocadilho"
+        },
+        {
+          "pt": "o sarcasmo",
+          "en": "joke",
+          "ar": "o sarcasmo"
+        },
+        {
+          "pt": "o duplo sentido",
+          "en": "parody",
+          "ar": "o duplo sentido"
+        },
+        {
+          "pt": "a paródia",
+          "en": "sarcasm",
+          "ar": "a paródia"
+        },
+        {
+          "pt": "a ironia",
+          "en": "irony",
+          "ar": "a ironia"
+        },
+        {
+          "pt": "a piada",
+          "en": "pun",
+          "ar": "a piada"
+        }
+      ],
+      "answer": "o trocadilho::double meaning|o sarcasmo::joke|o duplo sentido::parody|a paródia::sarcasm|a ironia::irony|a piada::pun",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Que delícia acordar às seis para pegar três ônibus, não?",
+          "en": "See? And they still say Monday is an ordinary day.",
+          "ar": "بفضل هذه الفكاهة، ينبغي أن تقدم عرضًا كوميديًا."
+        },
+        {
+          "pt": "Com esse humor, você deveria fazer uma comédia stand-up.",
+          "en": "What a delight to wake up at six to catch three buses, right?",
+          "ar": "أرأيت؟ وما زالوا يقولون إن الاثنين يوم عادي."
+        },
+        {
+          "pt": "Viu? E ainda dizem que segunda-feira é um dia comum.",
+          "en": "With that humor, you should do a stand-up comedy show.",
+          "ar": "يا لها من متعة أن تستيقظ في السادسة لتركب ثلاث حافلات، أليس كذلك؟"
+        }
+      ],
+      "answer": "Que delícia acordar às seis para pegar três ônibus, não?",
+      "accepted": [],
+      "audio": "Que delícia acordar às seis para pegar três ônibus, não?",
+      "explanation": {
+        "pt": "Você ouviu: 'Que delícia acordar às seis para pegar três ônibus, não?' — 'What a delight to wake up at six to catch three buses, right?'",
+        "en": "You heard: 'Que delícia acordar às seis para pegar três ônibus, não?' — 'What a delight to wake up at six to catch three buses, right?'",
+        "ar": "سمعت: 'Que delícia acordar às seis para pegar três ônibus, não?' — 'يا لها من متعة أن تستيقظ في السادسة لتركب ثلاث حافلات، أليس كذلك؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Não exagera. Você só esqueceu o celular, a chave e o relatório.",
+          "en": "What a delight to wake up at six to catch three buses, right?",
+          "ar": "لا تبالغ. نسيتَ فقط هاتفك ومفاتيحك والتقرير."
+        },
+        {
+          "pt": "Que delícia acordar às seis para pegar três ônibus, não?",
+          "en": "Don't exaggerate. You only forgot your phone, your keys and the report.",
+          "ar": "يا لها من متعة أن تستيقظ في السادسة لتركب ثلاث حافلات، أليس كذلك؟"
+        },
+        {
+          "pt": "Sarcasmo às sete da manhã? Hoje você está realmente inspirado.",
+          "en": "Sarcasm at seven in the morning? You are really inspired today.",
+          "ar": "تهكم في السابعة صباحًا؟ أنت ملهم فعلًا اليوم."
+        }
+      ],
+      "answer": "Sarcasmo às sete da manhã? Hoje você está realmente inspirado.",
+      "accepted": [],
+      "audio": "Sarcasmo às sete da manhã? Hoje você está realmente inspirado.",
+      "explanation": {
+        "pt": "Você ouviu: 'Sarcasmo às sete da manhã? Hoje você está realmente inspirado.' — 'Sarcasm at seven in the morning? You are really inspired today.'",
+        "en": "You heard: 'Sarcasmo às sete da manhã? Hoje você está realmente inspirado.' — 'Sarcasm at seven in the morning? You are really inspired today.'",
+        "ar": "سمعت: 'Sarcasmo às sete da manhã? Hoje você está realmente inspirado.' — 'تهكم في السابعة صباحًا؟ أنت ملهم فعلًا اليوم.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "delícia",
+          "en": "delícia",
+          "ar": "delícia"
+        },
+        {
+          "pt": "Que",
+          "en": "Que",
+          "ar": "Que"
+        },
+        {
+          "pt": "pegar",
+          "en": "pegar",
+          "ar": "pegar"
+        },
+        {
+          "pt": "às",
+          "en": "às",
+          "ar": "às"
+        },
+        {
+          "pt": "ônibus,",
+          "en": "ônibus,",
+          "ar": "ônibus,"
+        },
+        {
+          "pt": "para",
+          "en": "para",
+          "ar": "para"
+        },
+        {
+          "pt": "seis",
+          "en": "seis",
+          "ar": "seis"
+        },
+        {
+          "pt": "não?",
+          "en": "não?",
+          "ar": "não?"
+        },
+        {
+          "pt": "três",
+          "en": "três",
+          "ar": "três"
+        },
+        {
+          "pt": "acordar",
+          "en": "acordar",
+          "ar": "acordar"
+        }
+      ],
+      "answer": "Que delícia acordar às seis para pegar três ônibus, não?",
+      "accepted": [
+        "Que delícia acordar às seis para pegar três ônibus, não?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Que delícia acordar às seis para pegar três ônibus, não?'",
+        "en": "The correct order: 'What a delight to wake up at six to catch three buses, right?'",
+        "ar": "الترتيب الصحيح: 'يا لها من متعة أن تستيقظ في السادسة لتركب ثلاث حافلات، أليس كذلك؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o duplo sentido",
+          "en": "joke",
+          "ar": "o duplo sentido"
+        },
+        {
+          "pt": "o sarcasmo",
+          "en": "double meaning",
+          "ar": "o sarcasmo"
+        },
+        {
+          "pt": "a piada",
+          "en": "irony",
+          "ar": "a piada"
+        },
+        {
+          "pt": "o trocadilho",
+          "en": "parody",
+          "ar": "o trocadilho"
+        },
+        {
+          "pt": "a paródia",
+          "en": "sarcasm",
+          "ar": "a paródia"
+        },
+        {
+          "pt": "a ironia",
+          "en": "pun",
+          "ar": "a ironia"
+        }
+      ],
+      "answer": "o duplo sentido::joke|o sarcasmo::double meaning|a piada::irony|o trocadilho::parody|a paródia::sarcasm|a ironia::pun",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Não exagera. Você só esqueceu o celular, a chave e o relatório.",
+          "en": "It was the most peaceful day of my week: I missed the meeting and lunch.",
+          "ar": "لا تبالغ. نسيتَ فقط هاتفك ومفاتيحك والتقرير."
+        },
+        {
+          "pt": "Foi o dia mais tranquilo da minha semana: perdi a reunião e o almoço.",
+          "en": "What a delight to wake up at six to catch three buses, right?",
+          "ar": "كان اليوم الأكثر هدوءًا في أسبوعي: فاتني الاجتماع والغداء."
+        },
+        {
+          "pt": "Que delícia acordar às seis para pegar três ônibus, não?",
+          "en": "Don't exaggerate. You only forgot your phone, your keys and the report.",
+          "ar": "يا لها من متعة أن تستيقظ في السادسة لتركب ثلاث حافلات، أليس كذلك؟"
+        }
+      ],
+      "answer": "Que delícia acordar às seis para pegar três ônibus, não?",
+      "accepted": [],
+      "audio": "Que delícia acordar às seis para pegar três ônibus, não?",
+      "explanation": {
+        "pt": "Você ouviu: 'Que delícia acordar às seis para pegar três ônibus, não?' — 'What a delight to wake up at six to catch three buses, right?'",
+        "en": "You heard: 'Que delícia acordar às seis para pegar três ônibus, não?' — 'What a delight to wake up at six to catch three buses, right?'",
+        "ar": "سمعت: 'Que delícia acordar às seis para pegar três ônibus, não?' — 'يا لها من متعة أن تستيقظ في السادسة لتركب ثلاث حافلات، أليس كذلك؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Com esse humor, você deveria fazer uma comédia stand-up.",
+          "en": "With that humor, you should do a stand-up comedy show.",
+          "ar": "أرأيت؟ وما زالوا يقولون إن الاثنين يوم عادي."
+        },
+        {
+          "pt": "Viu? E ainda dizem que segunda-feira é um dia comum.",
+          "en": "Sarcasm at seven in the morning? You are really inspired today.",
+          "ar": "تهكم في السابعة صباحًا؟ أنت ملهم فعلًا اليوم."
+        },
+        {
+          "pt": "Sarcasmo às sete da manhã? Hoje você está realmente inspirado.",
+          "en": "See? And they still say Monday is an ordinary day.",
+          "ar": "بفضل هذه الفكاهة، ينبغي أن تقدم عرضًا كوميديًا."
+        }
+      ],
+      "answer": "Sarcasmo às sete da manhã? Hoje você está realmente inspirado.",
+      "accepted": [],
+      "audio": "Sarcasmo às sete da manhã? Hoje você está realmente inspirado.",
+      "explanation": {
+        "pt": "Você ouviu: 'Sarcasmo às sete da manhã? Hoje você está realmente inspirado.' — 'Sarcasm at seven in the morning? You are really inspired today.'",
+        "en": "You heard: 'Sarcasmo às sete da manhã? Hoje você está realmente inspirado.' — 'Sarcasm at seven in the morning? You are really inspired today.'",
+        "ar": "سمعت: 'Sarcasmo às sete da manhã? Hoje você está realmente inspirado.' — 'تهكم في السابعة صباحًا؟ أنت ملهم فعلًا اليوم.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "três",
+          "en": "três",
+          "ar": "três"
+        },
+        {
+          "pt": "Que",
+          "en": "Que",
+          "ar": "Que"
+        },
+        {
+          "pt": "para",
+          "en": "para",
+          "ar": "para"
+        },
+        {
+          "pt": "seis",
+          "en": "seis",
+          "ar": "seis"
+        },
+        {
+          "pt": "às",
+          "en": "às",
+          "ar": "às"
+        },
+        {
+          "pt": "não?",
+          "en": "não?",
+          "ar": "não?"
+        },
+        {
+          "pt": "delícia",
+          "en": "delícia",
+          "ar": "delícia"
+        },
+        {
+          "pt": "ônibus,",
+          "en": "ônibus,",
+          "ar": "ônibus,"
+        },
+        {
+          "pt": "acordar",
+          "en": "acordar",
+          "ar": "acordar"
+        },
+        {
+          "pt": "pegar",
+          "en": "pegar",
+          "ar": "pegar"
+        }
+      ],
+      "answer": "Que delícia acordar às seis para pegar três ônibus, não?",
+      "accepted": [
+        "Que delícia acordar às seis para pegar três ônibus, não?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Que delícia acordar às seis para pegar três ônibus, não?'",
+        "en": "The correct order: 'What a delight to wake up at six to catch three buses, right?'",
+        "ar": "الترتيب الصحيح: 'يا لها من متعة أن تستيقظ في السادسة لتركب ثلاث حافلات، أليس كذلك؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o sarcasmo",
+          "en": "sarcasm",
+          "ar": "o sarcasmo"
+        },
+        {
+          "pt": "o duplo sentido",
+          "en": "double meaning",
+          "ar": "o duplo sentido"
+        },
+        {
+          "pt": "a paródia",
+          "en": "irony",
+          "ar": "a paródia"
+        },
+        {
+          "pt": "o trocadilho",
+          "en": "joke",
+          "ar": "o trocadilho"
+        },
+        {
+          "pt": "a ironia",
+          "en": "parody",
+          "ar": "a ironia"
+        },
+        {
+          "pt": "a piada",
+          "en": "pun",
+          "ar": "a piada"
+        }
+      ],
+      "answer": "o sarcasmo::sarcasm|o duplo sentido::double meaning|a paródia::irony|o trocadilho::joke|a ironia::parody|a piada::pun",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Viu? E ainda dizem que segunda-feira é um dia comum.",
+          "en": "See? And they still say Monday is an ordinary day.",
+          "ar": "أرأيت؟ وما زالوا يقولون إن الاثنين يوم عادي."
+        },
+        {
+          "pt": "Que delícia acordar às seis para pegar três ônibus, não?",
+          "en": "Sarcasm at seven in the morning? You are really inspired today.",
+          "ar": "يا لها من متعة أن تستيقظ في السادسة لتركب ثلاث حافلات، أليس كذلك؟"
+        },
+        {
+          "pt": "Sarcasmo às sete da manhã? Hoje você está realmente inspirado.",
+          "en": "What a delight to wake up at six to catch three buses, right?",
+          "ar": "تهكم في السابعة صباحًا؟ أنت ملهم فعلًا اليوم."
+        }
+      ],
+      "answer": "Que delícia acordar às seis para pegar três ônibus, não?",
+      "accepted": [],
+      "audio": "Que delícia acordar às seis para pegar três ônibus, não?",
+      "explanation": {
+        "pt": "Você ouviu: 'Que delícia acordar às seis para pegar três ônibus, não?' — 'What a delight to wake up at six to catch three buses, right?'",
+        "en": "You heard: 'Que delícia acordar às seis para pegar três ônibus, não?' — 'What a delight to wake up at six to catch three buses, right?'",
+        "ar": "سمعت: 'Que delícia acordar às seis para pegar três ônibus, não?' — 'يا لها من متعة أن تستيقظ في السادسة لتركب ثلاث حافلات، أليس كذلك؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sarcasmo às sete da manhã? Hoje você está realmente inspirado.",
+          "en": "Sarcasm at seven in the morning? You are really inspired today.",
+          "ar": "أرأيت؟ وما زالوا يقولون إن الاثنين يوم عادي."
+        },
+        {
+          "pt": "Com esse humor, você deveria fazer uma comédia stand-up.",
+          "en": "With that humor, you should do a stand-up comedy show.",
+          "ar": "تهكم في السابعة صباحًا؟ أنت ملهم فعلًا اليوم."
+        },
+        {
+          "pt": "Viu? E ainda dizem que segunda-feira é um dia comum.",
+          "en": "See? And they still say Monday is an ordinary day.",
+          "ar": "بفضل هذه الفكاهة، ينبغي أن تقدم عرضًا كوميديًا."
+        }
+      ],
+      "answer": "Sarcasmo às sete da manhã? Hoje você está realmente inspirado.",
+      "accepted": [],
+      "audio": "Sarcasmo às sete da manhã? Hoje você está realmente inspirado.",
+      "explanation": {
+        "pt": "Você ouviu: 'Sarcasmo às sete da manhã? Hoje você está realmente inspirado.' — 'Sarcasm at seven in the morning? You are really inspired today.'",
+        "en": "You heard: 'Sarcasmo às sete da manhã? Hoje você está realmente inspirado.' — 'Sarcasm at seven in the morning? You are really inspired today.'",
+        "ar": "سمعت: 'Sarcasmo às sete da manhã? Hoje você está realmente inspirado.' — 'تهكم في السابعة صباحًا؟ أنت ملهم فعلًا اليوم.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "para",
+          "en": "para",
+          "ar": "para"
+        },
+        {
+          "pt": "seis",
+          "en": "seis",
+          "ar": "seis"
+        },
+        {
+          "pt": "delícia",
+          "en": "delícia",
+          "ar": "delícia"
+        },
+        {
+          "pt": "às",
+          "en": "às",
+          "ar": "às"
+        },
+        {
+          "pt": "pegar",
+          "en": "pegar",
+          "ar": "pegar"
+        },
+        {
+          "pt": "não?",
+          "en": "não?",
+          "ar": "não?"
+        },
+        {
+          "pt": "acordar",
+          "en": "acordar",
+          "ar": "acordar"
+        },
+        {
+          "pt": "Que",
+          "en": "Que",
+          "ar": "Que"
+        },
+        {
+          "pt": "ônibus,",
+          "en": "ônibus,",
+          "ar": "ônibus,"
+        },
+        {
+          "pt": "três",
+          "en": "três",
+          "ar": "três"
+        }
+      ],
+      "answer": "Que delícia acordar às seis para pegar três ônibus, não?",
+      "accepted": [
+        "Que delícia acordar às seis para pegar três ônibus, não?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Que delícia acordar às seis para pegar três ônibus, não?'",
+        "en": "The correct order: 'What a delight to wake up at six to catch three buses, right?'",
+        "ar": "الترتيب الصحيح: 'يا لها من متعة أن تستيقظ في السادسة لتركب ثلاث حافلات، أليس كذلك؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o sarcasmo",
+          "en": "sarcasm",
+          "ar": "o sarcasmo"
+        },
+        {
+          "pt": "a paródia",
+          "en": "joke",
+          "ar": "a paródia"
+        },
+        {
+          "pt": "o duplo sentido",
+          "en": "irony",
+          "ar": "o duplo sentido"
+        },
+        {
+          "pt": "a piada",
+          "en": "parody",
+          "ar": "a piada"
+        },
+        {
+          "pt": "a ironia",
+          "en": "double meaning",
+          "ar": "a ironia"
+        },
+        {
+          "pt": "o trocadilho",
+          "en": "pun",
+          "ar": "o trocadilho"
+        }
+      ],
+      "answer": "o sarcasmo::sarcasm|a paródia::joke|o duplo sentido::irony|a piada::parody|a ironia::double meaning|o trocadilho::pun",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sarcasmo às sete da manhã? Hoje você está realmente inspirado.",
+          "en": "What a delight to wake up at six to catch three buses, right?",
+          "ar": "يا لها من متعة أن تستيقظ في السادسة لتركب ثلاث حافلات، أليس كذلك؟"
+        },
+        {
+          "pt": "Viu? E ainda dizem que segunda-feira é um dia comum.",
+          "en": "Sarcasm at seven in the morning? You are really inspired today.",
+          "ar": "أرأيت؟ وما زالوا يقولون إن الاثنين يوم عادي."
+        },
+        {
+          "pt": "Que delícia acordar às seis para pegar três ônibus, não?",
+          "en": "See? And they still say Monday is an ordinary day.",
+          "ar": "تهكم في السابعة صباحًا؟ أنت ملهم فعلًا اليوم."
+        }
+      ],
+      "answer": "Que delícia acordar às seis para pegar três ônibus, não?",
+      "accepted": [],
+      "audio": "Que delícia acordar às seis para pegar três ônibus, não?",
+      "explanation": {
+        "pt": "Você ouviu: 'Que delícia acordar às seis para pegar três ônibus, não?' — 'What a delight to wake up at six to catch three buses, right?'",
+        "en": "You heard: 'Que delícia acordar às seis para pegar três ônibus, não?' — 'What a delight to wake up at six to catch three buses, right?'",
+        "ar": "سمعت: 'Que delícia acordar às seis para pegar três ônibus, não?' — 'يا لها من متعة أن تستيقظ في السادسة لتركب ثلاث حافلات، أليس كذلك؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Não exagera. Você só esqueceu o celular, a chave e o relatório.",
+          "en": "Don't exaggerate. You only forgot your phone, your keys and the report.",
+          "ar": "أرأيت؟ وما زالوا يقولون إن الاثنين يوم عادي."
+        },
+        {
+          "pt": "Viu? E ainda dizem que segunda-feira é um dia comum.",
+          "en": "See? And they still say Monday is an ordinary day.",
+          "ar": "لا تبالغ. نسيتَ فقط هاتفك ومفاتيحك والتقرير."
+        },
+        {
+          "pt": "Sarcasmo às sete da manhã? Hoje você está realmente inspirado.",
+          "en": "Sarcasm at seven in the morning? You are really inspired today.",
+          "ar": "تهكم في السابعة صباحًا؟ أنت ملهم فعلًا اليوم."
+        }
+      ],
+      "answer": "Sarcasmo às sete da manhã? Hoje você está realmente inspirado.",
+      "accepted": [],
+      "audio": "Sarcasmo às sete da manhã? Hoje você está realmente inspirado.",
+      "explanation": {
+        "pt": "Você ouviu: 'Sarcasmo às sete da manhã? Hoje você está realmente inspirado.' — 'Sarcasm at seven in the morning? You are really inspired today.'",
+        "en": "You heard: 'Sarcasmo às sete da manhã? Hoje você está realmente inspirado.' — 'Sarcasm at seven in the morning? You are really inspired today.'",
+        "ar": "سمعت: 'Sarcasmo às sete da manhã? Hoje você está realmente inspirado.' — 'تهكم في السابعة صباحًا؟ أنت ملهم فعلًا اليوم.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "três",
+          "en": "três",
+          "ar": "três"
+        },
+        {
+          "pt": "não?",
+          "en": "não?",
+          "ar": "não?"
+        },
+        {
+          "pt": "Que",
+          "en": "Que",
+          "ar": "Que"
+        },
+        {
+          "pt": "pegar",
+          "en": "pegar",
+          "ar": "pegar"
+        },
+        {
+          "pt": "para",
+          "en": "para",
+          "ar": "para"
+        },
+        {
+          "pt": "ônibus,",
+          "en": "ônibus,",
+          "ar": "ônibus,"
+        },
+        {
+          "pt": "delícia",
+          "en": "delícia",
+          "ar": "delícia"
+        },
+        {
+          "pt": "seis",
+          "en": "seis",
+          "ar": "seis"
+        },
+        {
+          "pt": "acordar",
+          "en": "acordar",
+          "ar": "acordar"
+        },
+        {
+          "pt": "às",
+          "en": "às",
+          "ar": "às"
+        }
+      ],
+      "answer": "Que delícia acordar às seis para pegar três ônibus, não?",
+      "accepted": [
+        "Que delícia acordar às seis para pegar três ônibus, não?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Que delícia acordar às seis para pegar três ônibus, não?'",
+        "en": "The correct order: 'What a delight to wake up at six to catch three buses, right?'",
+        "ar": "الترتيب الصحيح: 'يا لها من متعة أن تستيقظ في السادسة لتركب ثلاث حافلات، أليس كذلك؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a piada",
+          "en": "pun",
+          "ar": "a piada"
+        },
+        {
+          "pt": "a ironia",
+          "en": "sarcasm",
+          "ar": "a ironia"
+        },
+        {
+          "pt": "a paródia",
+          "en": "double meaning",
+          "ar": "a paródia"
+        },
+        {
+          "pt": "o sarcasmo",
+          "en": "parody",
+          "ar": "o sarcasmo"
+        },
+        {
+          "pt": "o duplo sentido",
+          "en": "joke",
+          "ar": "o duplo sentido"
+        },
+        {
+          "pt": "o trocadilho",
+          "en": "irony",
+          "ar": "o trocadilho"
+        }
+      ],
+      "answer": "a piada::pun|a ironia::sarcasm|a paródia::double meaning|o sarcasmo::parody|o duplo sentido::joke|o trocadilho::irony",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Não exagera. Você só esqueceu o celular, a chave e o relatório.",
+          "en": "With that humor, you should do a stand-up comedy show.",
+          "ar": "يا لها من متعة أن تستيقظ في السادسة لتركب ثلاث حافلات، أليس كذلك؟"
+        },
+        {
+          "pt": "Que delícia acordar às seis para pegar três ônibus, não?",
+          "en": "What a delight to wake up at six to catch three buses, right?",
+          "ar": "بفضل هذه الفكاهة، ينبغي أن تقدم عرضًا كوميديًا."
+        },
+        {
+          "pt": "Com esse humor, você deveria fazer uma comédia stand-up.",
+          "en": "Don't exaggerate. You only forgot your phone, your keys and the report.",
+          "ar": "لا تبالغ. نسيتَ فقط هاتفك ومفاتيحك والتقرير."
+        }
+      ],
+      "answer": "Que delícia acordar às seis para pegar três ônibus, não?",
+      "accepted": [],
+      "audio": "Que delícia acordar às seis para pegar três ônibus, não?",
+      "explanation": {
+        "pt": "Você ouviu: 'Que delícia acordar às seis para pegar três ônibus, não?' — 'What a delight to wake up at six to catch three buses, right?'",
+        "en": "You heard: 'Que delícia acordar às seis para pegar três ônibus, não?' — 'What a delight to wake up at six to catch three buses, right?'",
+        "ar": "سمعت: 'Que delícia acordar às seis para pegar três ônibus, não?' — 'يا لها من متعة أن تستيقظ في السادسة لتركب ثلاث حافلات، أليس كذلك؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sarcasmo às sete da manhã? Hoje você está realmente inspirado.",
+          "en": "See? And they still say Monday is an ordinary day.",
+          "ar": "أرأيت؟ وما زالوا يقولون إن الاثنين يوم عادي."
+        },
+        {
+          "pt": "Viu? E ainda dizem que segunda-feira é um dia comum.",
+          "en": "Don't exaggerate. You only forgot your phone, your keys and the report.",
+          "ar": "لا تبالغ. نسيتَ فقط هاتفك ومفاتيحك والتقرير."
+        },
+        {
+          "pt": "Não exagera. Você só esqueceu o celular, a chave e o relatório.",
+          "en": "Sarcasm at seven in the morning? You are really inspired today.",
+          "ar": "تهكم في السابعة صباحًا؟ أنت ملهم فعلًا اليوم."
+        }
+      ],
+      "answer": "Sarcasmo às sete da manhã? Hoje você está realmente inspirado.",
+      "accepted": [],
+      "audio": "Sarcasmo às sete da manhã? Hoje você está realmente inspirado.",
+      "explanation": {
+        "pt": "Você ouviu: 'Sarcasmo às sete da manhã? Hoje você está realmente inspirado.' — 'Sarcasm at seven in the morning? You are really inspired today.'",
+        "en": "You heard: 'Sarcasmo às sete da manhã? Hoje você está realmente inspirado.' — 'Sarcasm at seven in the morning? You are really inspired today.'",
+        "ar": "سمعت: 'Sarcasmo às sete da manhã? Hoje você está realmente inspirado.' — 'تهكم في السابعة صباحًا؟ أنت ملهم فعلًا اليوم.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "acordar",
+          "en": "acordar",
+          "ar": "acordar"
+        },
+        {
+          "pt": "ônibus,",
+          "en": "ônibus,",
+          "ar": "ônibus,"
+        },
+        {
+          "pt": "às",
+          "en": "às",
+          "ar": "às"
+        },
+        {
+          "pt": "pegar",
+          "en": "pegar",
+          "ar": "pegar"
+        },
+        {
+          "pt": "não?",
+          "en": "não?",
+          "ar": "não?"
+        },
+        {
+          "pt": "delícia",
+          "en": "delícia",
+          "ar": "delícia"
+        },
+        {
+          "pt": "três",
+          "en": "três",
+          "ar": "três"
+        },
+        {
+          "pt": "seis",
+          "en": "seis",
+          "ar": "seis"
+        },
+        {
+          "pt": "para",
+          "en": "para",
+          "ar": "para"
+        },
+        {
+          "pt": "Que",
+          "en": "Que",
+          "ar": "Que"
+        }
+      ],
+      "answer": "Que delícia acordar às seis para pegar três ônibus, não?",
+      "accepted": [
+        "Que delícia acordar às seis para pegar três ônibus, não?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Que delícia acordar às seis para pegar três ônibus, não?'",
+        "en": "The correct order: 'What a delight to wake up at six to catch three buses, right?'",
+        "ar": "الترتيب الصحيح: 'يا لها من متعة أن تستيقظ في السادسة لتركب ثلاث حافلات، أليس كذلك؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o duplo sentido",
+          "en": "joke",
+          "ar": "o duplo sentido"
+        },
+        {
+          "pt": "a paródia",
+          "en": "sarcasm",
+          "ar": "a paródia"
+        },
+        {
+          "pt": "o sarcasmo",
+          "en": "double meaning",
+          "ar": "o sarcasmo"
+        },
+        {
+          "pt": "a ironia",
+          "en": "irony",
+          "ar": "a ironia"
+        },
+        {
+          "pt": "a piada",
+          "en": "pun",
+          "ar": "a piada"
+        },
+        {
+          "pt": "o trocadilho",
+          "en": "parody",
+          "ar": "o trocadilho"
+        }
+      ],
+      "answer": "o duplo sentido::joke|a paródia::sarcasm|o sarcasmo::double meaning|a ironia::irony|a piada::pun|o trocadilho::parody",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Viu? E ainda dizem que segunda-feira é um dia comum.",
+          "en": "What a delight to wake up at six to catch three buses, right?",
+          "ar": "يا لها من متعة أن تستيقظ في السادسة لتركب ثلاث حافلات، أليس كذلك؟"
+        },
+        {
+          "pt": "Que delícia acordar às seis para pegar três ônibus, não?",
+          "en": "With that humor, you should do a stand-up comedy show.",
+          "ar": "أرأيت؟ وما زالوا يقولون إن الاثنين يوم عادي."
+        },
+        {
+          "pt": "Com esse humor, você deveria fazer uma comédia stand-up.",
+          "en": "See? And they still say Monday is an ordinary day.",
+          "ar": "بفضل هذه الفكاهة، ينبغي أن تقدم عرضًا كوميديًا."
+        }
+      ],
+      "answer": "Que delícia acordar às seis para pegar três ônibus, não?",
+      "accepted": [],
+      "audio": "Que delícia acordar às seis para pegar três ônibus, não?",
+      "explanation": {
+        "pt": "Você ouviu: 'Que delícia acordar às seis para pegar três ônibus, não?' — 'What a delight to wake up at six to catch three buses, right?'",
+        "en": "You heard: 'Que delícia acordar às seis para pegar três ônibus, não?' — 'What a delight to wake up at six to catch three buses, right?'",
+        "ar": "سمعت: 'Que delícia acordar às seis para pegar três ônibus, não?' — 'يا لها من متعة أن تستيقظ في السادسة لتركب ثلاث حافلات، أليس كذلك؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Foi o dia mais tranquilo da minha semana: perdi a reunião e o almoço.",
+          "en": "What a delight to wake up at six to catch three buses, right?",
+          "ar": "يا لها من متعة أن تستيقظ في السادسة لتركب ثلاث حافلات، أليس كذلك؟"
+        },
+        {
+          "pt": "Sarcasmo às sete da manhã? Hoje você está realmente inspirado.",
+          "en": "It was the most peaceful day of my week: I missed the meeting and lunch.",
+          "ar": "تهكم في السابعة صباحًا؟ أنت ملهم فعلًا اليوم."
+        },
+        {
+          "pt": "Que delícia acordar às seis para pegar três ônibus, não?",
+          "en": "Sarcasm at seven in the morning? You are really inspired today.",
+          "ar": "كان اليوم الأكثر هدوءًا في أسبوعي: فاتني الاجتماع والغداء."
+        }
+      ],
+      "answer": "Sarcasmo às sete da manhã? Hoje você está realmente inspirado.",
+      "accepted": [],
+      "audio": "Sarcasmo às sete da manhã? Hoje você está realmente inspirado.",
+      "explanation": {
+        "pt": "Você ouviu: 'Sarcasmo às sete da manhã? Hoje você está realmente inspirado.' — 'Sarcasm at seven in the morning? You are really inspired today.'",
+        "en": "You heard: 'Sarcasmo às sete da manhã? Hoje você está realmente inspirado.' — 'Sarcasm at seven in the morning? You are really inspired today.'",
+        "ar": "سمعت: 'Sarcasmo às sete da manhã? Hoje você está realmente inspirado.' — 'تهكم في السابعة صباحًا؟ أنت ملهم فعلًا اليوم.'"
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'irony'",
+        "en": "Type in Portuguese: 'irony'",
+        "ar": "اكتب بالبرتغالية: 'السخرية'"
+      },
+      "options": [],
+      "answer": "a ironia",
+      "accepted": [
+        "a ironia"
+      ],
+      "explanation": {
+        "pt": "'a ironia' significa 'irony'.",
+        "en": "'a ironia' means 'irony'.",
+        "ar": "'$a ironia' بالعربية: '$السخرية'."
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'sarcasm'",
+        "en": "Type in Portuguese: 'sarcasm'",
+        "ar": "اكتب بالبرتغالية: 'التهكم'"
+      },
+      "options": [],
+      "answer": "o sarcasmo",
+      "accepted": [
+        "o sarcasmo"
+      ],
+      "explanation": {
+        "pt": "'o sarcasmo' significa 'sarcasm'.",
+        "en": "'o sarcasmo' means 'sarcasm'.",
+        "ar": "'$o sarcasmo' بالعربية: '$التهكم'."
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Sarcasmo às sete da manhã? Hoje você está realmente inspirado.",
+          "en": "Sarcasmo às sete da manhã? Hoje você está realmente inspirado.",
+          "ar": "Sarcasmo às sete da manhã? Hoje você está realmente inspirado."
+        },
+        {
+          "pt": "Não exagera. Você só esqueceu o celular, a chave e o relatório.",
+          "en": "Não exagera. Você só esqueceu o celular, a chave e o relatório.",
+          "ar": "Não exagera. Você só esqueceu o celular, a chave e o relatório."
+        },
+        {
+          "pt": "Que delícia acordar às seis para pegar três ônibus, não?",
+          "en": "Que delícia acordar às seis para pegar três ônibus, não?",
+          "ar": "Que delícia acordar às seis para pegar três ônibus, não?"
+        }
+      ],
+      "answer": "Que delícia acordar às seis para pegar três ônibus, não?",
+      "accepted": [],
+      "audio": "Que delícia acordar às seis para pegar três ônibus, não?",
+      "explanation": {
+        "pt": "Você ouviu: 'Que delícia acordar às seis para pegar três ônibus, não?'",
+        "en": "You heard: 'Que delícia acordar às seis para pegar três ônibus, não?'",
+        "ar": "سمعت: 'Que delícia acordar às seis para pegar três ônibus, não?'"
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Sarcasmo às sete da manhã? Hoje você está realmente inspirado.",
+          "en": "Sarcasmo às sete da manhã? Hoje você está realmente inspirado.",
+          "ar": "Sarcasmo às sete da manhã? Hoje você está realmente inspirado."
+        },
+        {
+          "pt": "Não exagera. Você só esqueceu o celular, a chave e o relatório.",
+          "en": "Não exagera. Você só esqueceu o celular, a chave e o relatório.",
+          "ar": "Não exagera. Você só esqueceu o celular, a chave e o relatório."
+        },
+        {
+          "pt": "Com esse humor, você deveria fazer uma comédia stand-up.",
+          "en": "Com esse humor, você deveria fazer uma comédia stand-up.",
+          "ar": "Com esse humor, você deveria fazer uma comédia stand-up."
+        }
+      ],
+      "answer": "Sarcasmo às sete da manhã? Hoje você está realmente inspirado.",
+      "accepted": [],
+      "audio": "Sarcasmo às sete da manhã? Hoje você está realmente inspirado.",
+      "explanation": {
+        "pt": "Você ouviu: 'Sarcasmo às sete da manhã? Hoje você está realmente inspirado.'",
+        "en": "You heard: 'Sarcasmo às sete da manhã? Hoje você está realmente inspirado.'",
+        "ar": "سمعت: 'Sarcasmo às sete da manhã? Hoje você está realmente inspirado.'"
+      }
+    },
+    {
+      "type": "dictation",
+      "prompt": {
+        "pt": "Ouça e escreva o que você ouviu.",
+        "en": "Listen and type what you hear.",
+        "ar": "استمع واكتب ما سمعته."
+      },
+      "options": [],
+      "answer": "Que delícia acordar às seis para pegar três ônibus, não?",
+      "accepted": [],
+      "audio": "Que delícia acordar às seis para pegar três ônibus, não?",
+      "explanation": {
+        "pt": "A frase correta: 'Que delícia acordar às seis para pegar três ônibus, não?'",
+        "en": "The correct sentence: 'Que delícia acordar às seis para pegar três ônibus, não?'",
+        "ar": "الجملة الصحيحة: 'Que delícia acordar às seis para pegar três ônibus, não?'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "delícia",
+          "en": "delícia",
+          "ar": "delícia"
+        },
+        {
+          "pt": "seis",
+          "en": "seis",
+          "ar": "seis"
+        },
+        {
+          "pt": "às",
+          "en": "às",
+          "ar": "às"
+        },
+        {
+          "pt": "para",
+          "en": "para",
+          "ar": "para"
+        },
+        {
+          "pt": "acordar",
+          "en": "acordar",
+          "ar": "acordar"
+        },
+        {
+          "pt": "ônibus,",
+          "en": "ônibus,",
+          "ar": "ônibus,"
+        },
+        {
+          "pt": "Que",
+          "en": "Que",
+          "ar": "Que"
+        },
+        {
+          "pt": "três",
+          "en": "três",
+          "ar": "três"
+        },
+        {
+          "pt": "pegar",
+          "en": "pegar",
+          "ar": "pegar"
+        },
+        {
+          "pt": "não?",
+          "en": "não?",
+          "ar": "não?"
+        }
+      ],
+      "answer": "Que delícia acordar às seis para pegar três ônibus, não?",
+      "accepted": [
+        "Que delícia acordar às seis para pegar três ônibus, não?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Que delícia acordar às seis para pegar três ônibus, não?'",
+        "en": "The correct order: 'What a delight to wake up at six to catch three buses, right?'",
+        "ar": "الترتيب الصحيح: 'يا لها من متعة أن تستيقظ في السادسة لتركب ثلاث حافلات، أليس كذلك؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a piada",
+          "en": "joke",
+          "ar": "a piada"
+        },
+        {
+          "pt": "a paródia",
+          "en": "pun",
+          "ar": "a paródia"
+        },
+        {
+          "pt": "a ironia",
+          "en": "irony",
+          "ar": "a ironia"
+        },
+        {
+          "pt": "o duplo sentido",
+          "en": "double meaning",
+          "ar": "o duplo sentido"
+        },
+        {
+          "pt": "o sarcasmo",
+          "en": "parody",
+          "ar": "o sarcasmo"
+        },
+        {
+          "pt": "o trocadilho",
+          "en": "sarcasm",
+          "ar": "o trocadilho"
+        }
+      ],
+      "answer": "a piada::joke|a paródia::pun|a ironia::irony|o duplo sentido::double meaning|o sarcasmo::parody|o trocadilho::sarcasm",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Que delícia acordar às seis para pegar três ônibus, não?",
+          "en": "It was the most peaceful day of my week: I missed the meeting and lunch.",
+          "ar": "يا لها من متعة أن تستيقظ في السادسة لتركب ثلاث حافلات، أليس كذلك؟"
+        },
+        {
+          "pt": "Com esse humor, você deveria fazer uma comédia stand-up.",
+          "en": "What a delight to wake up at six to catch three buses, right?",
+          "ar": "بفضل هذه الفكاهة، ينبغي أن تقدم عرضًا كوميديًا."
+        },
+        {
+          "pt": "Foi o dia mais tranquilo da minha semana: perdi a reunião e o almoço.",
+          "en": "With that humor, you should do a stand-up comedy show.",
+          "ar": "كان اليوم الأكثر هدوءًا في أسبوعي: فاتني الاجتماع والغداء."
+        }
+      ],
+      "answer": "Que delícia acordar às seis para pegar três ônibus, não?",
+      "accepted": [],
+      "audio": "Que delícia acordar às seis para pegar três ônibus, não?",
+      "explanation": {
+        "pt": "Você ouviu: 'Que delícia acordar às seis para pegar três ônibus, não?' — 'What a delight to wake up at six to catch three buses, right?'",
+        "en": "You heard: 'Que delícia acordar às seis para pegar três ônibus, não?' — 'What a delight to wake up at six to catch three buses, right?'",
+        "ar": "سمعت: 'Que delícia acordar às seis para pegar três ônibus, não?' — 'يا لها من متعة أن تستيقظ في السادسة لتركب ثلاث حافلات، أليس كذلك؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Que delícia acordar às seis para pegar três ônibus, não?",
+          "en": "Sarcasm at seven in the morning? You are really inspired today.",
+          "ar": "تهكم في السابعة صباحًا؟ أنت ملهم فعلًا اليوم."
+        },
+        {
+          "pt": "Com esse humor, você deveria fazer uma comédia stand-up.",
+          "en": "With that humor, you should do a stand-up comedy show.",
+          "ar": "بفضل هذه الفكاهة، ينبغي أن تقدم عرضًا كوميديًا."
+        },
+        {
+          "pt": "Sarcasmo às sete da manhã? Hoje você está realmente inspirado.",
+          "en": "What a delight to wake up at six to catch three buses, right?",
+          "ar": "يا لها من متعة أن تستيقظ في السادسة لتركب ثلاث حافلات، أليس كذلك؟"
+        }
+      ],
+      "answer": "Sarcasmo às sete da manhã? Hoje você está realmente inspirado.",
+      "accepted": [],
+      "audio": "Sarcasmo às sete da manhã? Hoje você está realmente inspirado.",
+      "explanation": {
+        "pt": "Você ouviu: 'Sarcasmo às sete da manhã? Hoje você está realmente inspirado.' — 'Sarcasm at seven in the morning? You are really inspired today.'",
+        "en": "You heard: 'Sarcasmo às sete da manhã? Hoje você está realmente inspirado.' — 'Sarcasm at seven in the morning? You are really inspired today.'",
+        "ar": "سمعت: 'Sarcasmo às sete da manhã? Hoje você está realmente inspirado.' — 'تهكم في السابعة صباحًا؟ أنت ملهم فعلًا اليوم.'"
+      }
+    }
+  ],
+  "speaking": {
+    "title": {
+      "pt": "Fale Agora — Ouça e Repita",
+      "en": "Speak Now — Listen and Repeat",
+      "ar": "تحدث الآن — استمع وكرر"
+    },
+    "phrases": [
+      {
+        "pt": "Que delícia acordar às seis para pegar três ônibus, não?",
+        "en": "What a delight to wake up at six to catch three buses, right?",
+        "ar": "يا لها من متعة أن تستيقظ في السادسة لتركب ثلاث حافلات، أليس كذلك؟"
+      },
+      {
+        "pt": "Sarcasmo às sete da manhã? Hoje você está realmente inspirado.",
+        "en": "Sarcasm at seven in the morning? You are really inspired today.",
+        "ar": "تهكم في السابعة صباحًا؟ أنت ملهم فعلًا اليوم."
+      },
+      {
+        "pt": "Foi o dia mais tranquilo da minha semana: perdi a reunião e o almoço.",
+        "en": "It was the most peaceful day of my week: I missed the meeting and lunch.",
+        "ar": "كان اليوم الأكثر هدوءًا في أسبوعي: فاتني الاجتماع والغداء."
+      },
+      {
+        "pt": "Não exagera. Você só esqueceu o celular, a chave e o relatório.",
+        "en": "Don't exaggerate. You only forgot your phone, your keys and the report.",
+        "ar": "لا تبالغ. نسيتَ فقط هاتفك ومفاتيحك والتقرير."
+      },
+      {
+        "pt": "Viu? E ainda dizem que segunda-feira é um dia comum.",
+        "en": "See? And they still say Monday is an ordinary day.",
+        "ar": "أرأيت؟ وما زالوا يقولون إن الاثنين يوم عادي."
+      },
+      {
+        "pt": "Com esse humor, você deveria fazer uma comédia stand-up.",
+        "en": "With that humor, you should do a stand-up comedy show.",
+        "ar": "بفضل هذه الفكاهة، ينبغي أن تقدم عرضًا كوميديًا."
+      },
+      {
+        "pt": "a ironia",
+        "en": "irony",
+        "ar": "السخرية"
+      },
+      {
+        "pt": "o sarcasmo",
+        "en": "sarcasm",
+        "ar": "التهكم"
+      },
+      {
+        "pt": "a piada",
+        "en": "joke",
+        "ar": "النكتة"
+      }
+    ]
+  },
+  "cultural_tips": {
+    "pt": "",
+    "en": "",
+    "ar": ""
+  }
+}

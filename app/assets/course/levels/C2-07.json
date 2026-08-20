@@ -1,0 +1,2056 @@
+{
+  "id": "C2-07",
+  "level": "C2",
+  "level_name": {
+    "pt": "Proficiência",
+    "en": "Proficiency",
+    "ar": "إتقان"
+  },
+  "title": {
+    "pt": "Tradução Avançada (PT↔EN↔AR)",
+    "en": "Advanced Translation (PT↔EN↔AR)",
+    "ar": "الترجمة المتقدمة (برتغالي↔إنجليزي↔عربي)"
+  },
+  "objectives": [
+    {
+      "pt": "Aplicar estratégias de equivalência e adaptação na tradução",
+      "en": "Apply equivalence and adaptation strategies in translation",
+      "ar": "تطبيق استراتيجيات التكافؤ والتكييف في الترجمة"
+    },
+    {
+      "pt": "Identificar falsos cognatos e ambiguidades",
+      "en": "Identify false cognates and ambiguities",
+      "ar": "تحديد الألفاظ المشتركة الخادعة والغموض"
+    },
+    {
+      "pt": "Preservar registro, tom e carga cultural do texto-fonte",
+      "en": "Preserve the register, tone and cultural load of the source text",
+      "ar": "الحفاظ على المستوى والنبرة والحمولة الثقافية للنص الأصلي"
+    },
+    {
+      "pt": "Justificar escolhas tradutórias com argumentos técnicos",
+      "en": "Justify translation choices with technical arguments",
+      "ar": "تبرير الخيارات الترجمية بحجج تقنية"
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "a tradução",
+      "ipa": "/tɾa.duˈsɐ̃w/",
+      "en": "translation",
+      "ar": "الترجمة",
+      "example": {
+        "pt": "Para o público jovem, um equivalente adaptado funciona melhor que a nota.",
+        "en": "For a young audience, an adapted equivalent works better than a footnote.",
+        "ar": "بالنسبة لجمهور الشباب، يعمل المكافئ المُكيَّف أفضل من الحاشية."
+      }
+    },
+    {
+      "pt": "o tradutor",
+      "ipa": "/tɾa.duˈtoʁ/",
+      "en": "translator",
+      "ar": "المترجم",
+      "example": {
+        "pt": "E o trocadilho do anúncio? Domesticamos ou mantemos com nota?",
+        "en": "And the pun in the ad? Do we domesticate it or keep it with a footnote?",
+        "ar": "والتلاعب اللفظي في الإعلان؟ هل نقربه من القارئ أم نحتفظ به مع حاشية؟"
+      }
+    },
+    {
+      "pt": "o sentido denotativo",
+      "ipa": "/sĩˈtʃi.du de.no.taˈtʃi.vu/",
+      "en": "denotative meaning",
+      "ar": "المعنى اللفظي المباشر",
+      "example": {
+        "pt": "E o trocadilho do anúncio? Domesticamos ou mantemos com nota?",
+        "en": "And the pun in the ad? Do we domesticate it or keep it with a footnote?",
+        "ar": "والتلاعب اللفظي في الإعلان؟ هل نقربه من القارئ أم نحتفظ به مع حاشية؟"
+      }
+    },
+    {
+      "pt": "o sentido conotativo",
+      "ipa": "/sĩˈtʃi.du ko.no.taˈtʃi.vu/",
+      "en": "connotative meaning",
+      "ar": "المعنى الدلالي المجازي",
+      "example": {
+        "pt": "E o trocadilho do anúncio? Domesticamos ou mantemos com nota?",
+        "en": "And the pun in the ad? Do we domesticate it or keep it with a footnote?",
+        "ar": "والتلاعب اللفظي في الإعلان؟ هل نقربه من القارئ أم نحتفظ به مع حاشية؟"
+      }
+    },
+    {
+      "pt": "o calque",
+      "ipa": "/ˈkaw.ki/",
+      "en": "calque",
+      "ar": "الترجمة الحرفية التركيبية",
+      "example": {
+        "pt": "E o trocadilho do anúncio? Domesticamos ou mantemos com nota?",
+        "en": "And the pun in the ad? Do we domesticate it or keep it with a footnote?",
+        "ar": "والتلاعب اللفظي في الإعلان؟ هل نقربه من القارئ أم نحتفظ به مع حاشية؟"
+      }
+    },
+    {
+      "pt": "o empréstimo",
+      "ipa": "/ẽˈpɾɛs.tʃi.mu/",
+      "en": "loanword",
+      "ar": "اللفظ المقترض",
+      "example": {
+        "pt": "E o trocadilho do anúncio? Domesticamos ou mantemos com nota?",
+        "en": "And the pun in the ad? Do we domesticate it or keep it with a footnote?",
+        "ar": "والتلاعب اللفظي في الإعلان؟ هل نقربه من القارئ أم نحتفظ به مع حاشية؟"
+      }
+    },
+    {
+      "pt": "a equivalência",
+      "ipa": "/e.ki.vaˈlẽ.si.a/",
+      "en": "equivalence",
+      "ar": "التكافؤ",
+      "example": {
+        "pt": "Para o público jovem, um equivalente adaptado funciona melhor que a nota.",
+        "en": "For a young audience, an adapted equivalent works better than a footnote.",
+        "ar": "بالنسبة لجمهور الشباب، يعمل المكافئ المُكيَّف أفضل من الحاشية."
+      }
+    },
+    {
+      "pt": "a adaptação",
+      "ipa": "/a.dap.taˈsɐ̃w/",
+      "en": "adaptation",
+      "ar": "التكييف",
+      "example": {
+        "pt": "Para o público jovem, um equivalente adaptado funciona melhor que a nota.",
+        "en": "For a young audience, an adapted equivalent works better than a footnote.",
+        "ar": "بالنسبة لجمهور الشباب، يعمل المكافئ المُكيَّف أفضل من الحاشية."
+      }
+    },
+    {
+      "pt": "a domesticação",
+      "ipa": "/do.mes.tʃi.kaˈsɐ̃w/",
+      "en": "domestication",
+      "ar": "الترجمة المقربة من القارئ",
+      "example": {
+        "pt": "Para o público jovem, um equivalente adaptado funciona melhor que a nota.",
+        "en": "For a young audience, an adapted equivalent works better than a footnote.",
+        "ar": "بالنسبة لجمهور الشباب، يعمل المكافئ المُكيَّف أفضل من الحاشية."
+      }
+    },
+    {
+      "pt": "a estrangeirização",
+      "ipa": "/es.tɾɐ̃.ʒej.ɾi.zaˈsɐ̃w/",
+      "en": "foreignization",
+      "ar": "الترجمة المبعدة عن القارئ",
+      "example": {
+        "pt": "Para o público jovem, um equivalente adaptado funciona melhor que a nota.",
+        "en": "For a young audience, an adapted equivalent works better than a footnote.",
+        "ar": "بالنسبة لجمهور الشباب، يعمل المكافئ المُكيَّف أفضل من الحاشية."
+      }
+    },
+    {
+      "pt": "o falso cognato",
+      "ipa": "/ˈfaw.su koɡˈna.tu/",
+      "en": "false cognate",
+      "ar": "المشترك اللفظي الخادع",
+      "example": {
+        "pt": "E o trocadilho do anúncio? Domesticamos ou mantemos com nota?",
+        "en": "And the pun in the ad? Do we domesticate it or keep it with a footnote?",
+        "ar": "والتلاعب اللفظي في الإعلان؟ هل نقربه من القارئ أم نحتفظ به مع حاشية؟"
+      }
+    },
+    {
+      "pt": "o cognato",
+      "ipa": "/koɡˈna.tu/",
+      "en": "cognate",
+      "ar": "اللفظ المشترك",
+      "example": {
+        "pt": "E o trocadilho do anúncio? Domesticamos ou mantemos com nota?",
+        "en": "And the pun in the ad? Do we domesticate it or keep it with a footnote?",
+        "ar": "والتلاعب اللفظي في الإعلان؟ هل نقربه من القارئ أم نحتفظ به مع حاشية؟"
+      }
+    },
+    {
+      "pt": "o registro",
+      "ipa": "/xeˈʒis.tɾu/",
+      "en": "register",
+      "ar": "المستوى اللغوي",
+      "example": {
+        "pt": "E o trocadilho do anúncio? Domesticamos ou mantemos com nota?",
+        "en": "And the pun in the ad? Do we domesticate it or keep it with a footnote?",
+        "ar": "والتلاعب اللفظي في الإعلان؟ هل نقربه من القارئ أم نحتفظ به مع حاشية؟"
+      }
+    },
+    {
+      "pt": "a ambiguidade",
+      "ipa": "/ɐ̃.bi.ɡiˈda.dʒi/",
+      "en": "ambiguity",
+      "ar": "الغموض",
+      "example": {
+        "pt": "Para o público jovem, um equivalente adaptado funciona melhor que a nota.",
+        "en": "For a young audience, an adapted equivalent works better than a footnote.",
+        "ar": "بالنسبة لجمهور الشباب، يعمل المكافئ المُكيَّف أفضل من الحاشية."
+      }
+    },
+    {
+      "pt": "o contexto",
+      "ipa": "/kõˈtes.tu/",
+      "en": "context",
+      "ar": "السياق",
+      "example": {
+        "pt": "E o trocadilho do anúncio? Domesticamos ou mantemos com nota?",
+        "en": "And the pun in the ad? Do we domesticate it or keep it with a footnote?",
+        "ar": "والتلاعب اللفظي في الإعلان؟ هل نقربه من القارئ أم نحتفظ به مع حاشية؟"
+      }
+    },
+    {
+      "pt": "o público-alvo",
+      "ipa": "/ˈpu.bli.ku ˈaw.vu/",
+      "en": "target audience",
+      "ar": "الجمهور المستهدف",
+      "example": {
+        "pt": "E o trocadilho do anúncio? Domesticamos ou mantemos com nota?",
+        "en": "And the pun in the ad? Do we domesticate it or keep it with a footnote?",
+        "ar": "والتلاعب اللفظي في الإعلان؟ هل نقربه من القارئ أم نحتفظ به مع حاشية؟"
+      }
+    },
+    {
+      "pt": "a revisão",
+      "ipa": "/xe.viˈzɐ̃w/",
+      "en": "revision / proofreading",
+      "ar": "المراجعة",
+      "example": {
+        "pt": "Para o público jovem, um equivalente adaptado funciona melhor que a nota.",
+        "en": "For a young audience, an adapted equivalent works better than a footnote.",
+        "ar": "بالنسبة لجمهور الشباب، يعمل المكافئ المُكيَّف أفضل من الحاشية."
+      }
+    },
+    {
+      "pt": "a nota de rodapé",
+      "ipa": "/ˈnɔ.ta dʒi ʁo.doˈpɛ/",
+      "en": "footnote",
+      "ar": "الحاشية السفلية",
+      "example": {
+        "pt": "Para o público jovem, um equivalente adaptado funciona melhor que a nota.",
+        "en": "For a young audience, an adapted equivalent works better than a footnote.",
+        "ar": "بالنسبة لجمهور الشباب، يعمل المكافئ المُكيَّف أفضل من الحاشية."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "title": {
+        "pt": "Falsos Cognatos e Decisões",
+        "en": "False Cognates and Decisions",
+        "ar": "الألفاظ المشتركة الخادعة وقرارات المترجم"
+      },
+      "explanation": {
+        "pt": "O tradutor não traduz palavras, mas efeitos. 'Actually' não é 'atualmente' (é 'na verdade'), e 'library' não é 'livraria' (é 'biblioteca'); 'livraria' é 'bookstore'. Falsos cognatos como 'pretend' (pretender = 'to intend'), 'push' (empurrar) e 'parents' (pais, não 'parentes') exigem checagem contextual. A decisão entre 'empréstimo', 'calque' ou 'equivalente' depende do público-alvo e do gênero textual.",
+        "en": "The translator does not translate words but effects. 'Actually' is not 'atualmente' (it is 'na verdade'), and 'library' is not 'livraria' (it is 'biblioteca'); 'livraria' is 'bookstore'. False cognates such as 'pretend' (pretender = 'to intend'), 'push' (empurrar) and 'parents' (pais, not 'parentes') require contextual checking. The decision between 'loanword', 'calque' or 'equivalent' depends on the target audience and the text genre.",
+        "ar": "لا يترجم المترجم الألفاظ بل الأثر. كلمة 'Actually' ليست 'atualmente' (بل هي 'na verdade')، و'library' ليست 'livraria' (بل 'biblioteca')؛ و'livraria' تعني bookstore. وتتطلب الألفاظ المشتركة الخادعة مثل 'pretend' (pretender تعني to intend) و'push' (empurrar) و'parents' (تعني الوالدين لا 'parentes') فحصًا سياقيًا. أما القرار بين الاقتراض أو الترجمة الحرفية أو التكافؤ فيعتمد على الجمهور المستهدف ونوع النص."
+      },
+      "examples": [
+        {
+          "pt": "Na verdade, ela não disse isso. (actually)",
+          "en": "Actually, she did not say that.",
+          "ar": "في الحقيقة، لم تقل ذلك."
+        },
+        {
+          "pt": "Os pais dela chegaram ontem. (parents)",
+          "en": "Her parents arrived yesterday.",
+          "ar": "وصل والداها أمس."
+        },
+        {
+          "pt": "A biblioteca fica ao lado da livraria. (library / bookstore)",
+          "en": "The library is next to the bookstore.",
+          "ar": "تقع المكتبة العامة بجوار مكتبة البيع."
+        }
+      ]
+    },
+    {
+      "title": {
+        "pt": "Equivalência de Idiomatismos",
+        "en": "Equivalence of Idioms",
+        "ar": "تكافؤ التعابير الاصطلاحية"
+      },
+      "explanation": {
+        "pt": "Idiomatismos raramente têm tradução literal viável. 'To hit the nail on the head' equivale a 'acertar na mosca'; 'it's raining cats and dogs' pode virar 'está chovendo canivetes'. Quando não há equivalente, o tradutor adapta o sentido ou acrescenta nota de rodapé. A domesticação aproxima o texto do leitor-alvo; a estrangeirização preserva a cor local, muitas vezes com nota explicativa.",
+        "en": "Idioms rarely have a viable literal translation. 'To hit the nail on the head' equals 'acertar na mosca'; 'it's raining cats and dogs' can become 'está chovendo canivetes'. When there is no equivalent, the translator adapts the meaning or adds a footnote. Domestication brings the text closer to the target reader; foreignization preserves local color, often with an explanatory note.",
+        "ar": "نادرًا ما يكون للتعابير الاصطلاحية ترجمة حرفية صالحة. عبارة 'To hit the nail on the head' تقابلها 'acertar na mosca'؛ و'it's raining cats and dogs' قد تصير 'está chovendo canivetes'. وعند غياب المكافئ، يكيّف المترجم المعنى أو يضيف حاشية. الترجمة المقربة من القارئ تقرب النص من الجمهور المستهدف؛ أما الترجمة المبعدة فتحفظ اللون المحلي غالبًا مع حاشية توضيحية."
+      },
+      "examples": [
+        {
+          "pt": "Você acertou na mosca com essa previsão. (to hit the nail on the head)",
+          "en": "You hit the nail on the head with that forecast.",
+          "ar": "لقد أصبت الهدف تمامًا بهذا التوقع."
+        },
+        {
+          "pt": "Lá fora está chovendo canivetes. (it's raining cats and dogs)",
+          "en": "It's raining cats and dogs outside.",
+          "ar": "إنها تمطر بغزارة في الخارج."
+        },
+        {
+          "pt": "Deixei a casa a mil no anúncio. (adapted register)",
+          "en": "I left the house 'a mil' in the ad. (adapted register)",
+          "ar": "قوّيت وصف المنزل كثيرًا في الإعلان. (مستوى مُكيَّف)"
+        }
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": {
+      "pt": "Na Agência de Tradução",
+      "en": "At the Translation Agency",
+      "ar": "في وكالة الترجمة"
+    },
+    "lines": [
+      {
+        "speaker": "Otávio",
+        "pt": "Este texto técnico pede equivalência precisa, não tradução literal.",
+        "en": "This technical text calls for precise equivalence, not literal translation.",
+        "ar": "هذا النص التقني يتطلب تكافؤًا دقيقًا لا ترجمة حرفية."
+      },
+      {
+        "speaker": "Fátima",
+        "pt": "Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.",
+        "en": "I agree. 'Pretend' here is not 'pretender' in the sense of desiring, but rather 'alegar' (to claim).",
+        "ar": "أتفق. كلمة 'pretend' هنا لا تعني 'pretender' بمعنى الرغبة، بل 'alegar' أي الادعاء."
+      },
+      {
+        "speaker": "Otávio",
+        "pt": "E o trocadilho do anúncio? Domesticamos ou mantemos com nota?",
+        "en": "And the pun in the ad? Do we domesticate it or keep it with a footnote?",
+        "ar": "والتلاعب اللفظي في الإعلان؟ هل نقربه من القارئ أم نحتفظ به مع حاشية؟"
+      },
+      {
+        "speaker": "Fátima",
+        "pt": "Para o público jovem, um equivalente adaptado funciona melhor que a nota.",
+        "en": "For a young audience, an adapted equivalent works better than a footnote.",
+        "ar": "بالنسبة لجمهور الشباب، يعمل المكافئ المُكيَّف أفضل من الحاشية."
+      },
+      {
+        "speaker": "Otávio",
+        "pt": "Então preservamos o tom, ajustamos o registro e mantemos a fluência.",
+        "en": "Then we preserve the tone, adjust the register and keep fluency.",
+        "ar": "إذن نحافظ على النبرة ونضبط المستوى ونحافظ على السلاسة."
+      },
+      {
+        "speaker": "Fátima",
+        "pt": "Perfeito. Depois da revisão, ainda checamos cada falso cognato.",
+        "en": "Perfect. After the revision, we still check every false cognate.",
+        "ar": "ممتاز. بعد المراجعة، نفحص أيضًا كل لفظ مشترك خادع."
+      }
+    ]
+  },
+  "reading": {
+    "title": {
+      "pt": "Traduzir é Recriar",
+      "en": "To Translate Is to Recreate",
+      "ar": "الترجمة إعادة خلق"
+    },
+    "text_pt": "Traduzir um texto literário exige decidir entre fidelidade literal e efeito estético. O tradutor que opta pela domesticação aproxima o leitor da obra, enquanto a estrangeirização respeita a alteridade cultural. Nos dois casos, os falsos cognatos e as ambiguidades são armadilhas constantes. O bom profissional traduz intenções, não meramente palavras.",
+    "text_en": "Translating a literary text requires deciding between literal fidelity and aesthetic effect. The translator who opts for domestication brings the reader closer to the work, while foreignization respects cultural otherness. In both cases, false cognates and ambiguities are constant traps. The good professional translates intentions, not merely words.",
+    "text_ar": "تتطلب ترجمة النص الأدبي قرارًا بين الإخلاص الحرفي والأثر الجمالي. فالمترجم الذي يختار الترجمة المقربة من القارئ يقربه من العمل، بينما تحترم الترجمة المبعدة اختلاف الثقافة. وفي الحالتين، تشكل الألفاظ المشتركة الخادعة والغموض فخاخًا دائمة. المترجم المحترف يترجم المقاصد لا الكلمات فحسب."
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual é a tradução correta de 'library'?",
+        "en": "What is the correct translation of 'library'?",
+        "ar": "ما الترجمة الصحيحة لكلمة 'library'؟"
+      },
+      "options": [
+        {
+          "pt": "livraria",
+          "en": "livraria",
+          "ar": "livraria"
+        },
+        {
+          "pt": "biblioteca",
+          "en": "biblioteca",
+          "ar": "biblioteca"
+        },
+        {
+          "pt": "livro",
+          "en": "livro",
+          "ar": "livro"
+        }
+      ],
+      "answer": "biblioteca",
+      "explanation": {
+        "pt": "'Library' é 'biblioteca'; 'livraria' é 'bookstore'.",
+        "en": "'Library' is 'biblioteca'; 'livraria' is 'bookstore'.",
+        "ar": "'library' تعني 'biblioteca'؛ أما 'livraria' فتعني bookstore."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual estratégia aproxima o texto do leitor-alvo?",
+        "en": "Which strategy brings the text closer to the target reader?",
+        "ar": "ما الاستراتيجية التي تقرّب النص من القارئ المستهدف؟"
+      },
+      "options": [
+        {
+          "pt": "a domesticação",
+          "en": "domestication",
+          "ar": "الترجمة المقربة"
+        },
+        {
+          "pt": "o calque total",
+          "en": "total calque",
+          "ar": "الترجمة الحرفية الكاملة"
+        },
+        {
+          "pt": "a estrangeirização",
+          "en": "foreignization",
+          "ar": "الترجمة المبعدة"
+        }
+      ],
+      "answer": "a domesticação",
+      "explanation": {
+        "pt": "A domesticação adapta o texto à cultura do leitor-alvo.",
+        "en": "Domestication adapts the text to the target reader's culture.",
+        "ar": "الترجمة المقربة تكيّف النص مع ثقافة القارئ المستهدف."
+      }
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: 'to hit the nail on the head'",
+        "en": "Translate into Portuguese: 'to hit the nail on the head'",
+        "ar": "ترجم إلى البرتغالية: 'to hit the nail on the head'"
+      },
+      "options": [],
+      "answer": "acertar na mosca",
+      "explanation": {
+        "pt": "O equivalente idiomático é 'acertar na mosca'.",
+        "en": "The idiomatic equivalent is 'acertar na mosca'.",
+        "ar": "المكافئ الاصطلاحي هو 'acertar na mosca'."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "texto",
+          "en": "texto",
+          "ar": "texto"
+        },
+        {
+          "pt": "Este",
+          "en": "Este",
+          "ar": "Este"
+        },
+        {
+          "pt": "não",
+          "en": "não",
+          "ar": "não"
+        },
+        {
+          "pt": "tradução",
+          "en": "tradução",
+          "ar": "tradução"
+        },
+        {
+          "pt": "pede",
+          "en": "pede",
+          "ar": "pede"
+        },
+        {
+          "pt": "equivalência",
+          "en": "equivalência",
+          "ar": "equivalência"
+        },
+        {
+          "pt": "técnico",
+          "en": "técnico",
+          "ar": "técnico"
+        },
+        {
+          "pt": "literal.",
+          "en": "literal.",
+          "ar": "literal."
+        },
+        {
+          "pt": "precisa,",
+          "en": "precisa,",
+          "ar": "precisa,"
+        }
+      ],
+      "answer": "Este texto técnico pede equivalência precisa, não tradução literal.",
+      "accepted": [
+        "Este texto técnico pede equivalência precisa, não tradução literal."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Este texto técnico pede equivalência precisa, não tradução literal.'",
+        "en": "The correct order: 'This technical text calls for precise equivalence, not literal translation.'",
+        "ar": "الترتيب الصحيح: 'هذا النص التقني يتطلب تكافؤًا دقيقًا لا ترجمة حرفية.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o empréstimo",
+          "en": "connotative meaning",
+          "ar": "o empréstimo"
+        },
+        {
+          "pt": "a tradução",
+          "en": "loanword",
+          "ar": "a tradução"
+        },
+        {
+          "pt": "o calque",
+          "en": "translation",
+          "ar": "o calque"
+        },
+        {
+          "pt": "o sentido conotativo",
+          "en": "translator",
+          "ar": "o sentido conotativo"
+        },
+        {
+          "pt": "o tradutor",
+          "en": "denotative meaning",
+          "ar": "o tradutor"
+        },
+        {
+          "pt": "o sentido denotativo",
+          "en": "calque",
+          "ar": "o sentido denotativo"
+        }
+      ],
+      "answer": "o empréstimo::connotative meaning|a tradução::loanword|o calque::translation|o sentido conotativo::translator|o tradutor::denotative meaning|o sentido denotativo::calque",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "E o trocadilho do anúncio? Domesticamos ou mantemos com nota?",
+          "en": "Perfect. After the revision, we still check every false cognate.",
+          "ar": "ممتاز. بعد المراجعة، نفحص أيضًا كل لفظ مشترك خادع."
+        },
+        {
+          "pt": "Este texto técnico pede equivalência precisa, não tradução literal.",
+          "en": "This technical text calls for precise equivalence, not literal translation.",
+          "ar": "هذا النص التقني يتطلب تكافؤًا دقيقًا لا ترجمة حرفية."
+        },
+        {
+          "pt": "Perfeito. Depois da revisão, ainda checamos cada falso cognato.",
+          "en": "And the pun in the ad? Do we domesticate it or keep it with a footnote?",
+          "ar": "والتلاعب اللفظي في الإعلان؟ هل نقربه من القارئ أم نحتفظ به مع حاشية؟"
+        }
+      ],
+      "answer": "Este texto técnico pede equivalência precisa, não tradução literal.",
+      "accepted": [],
+      "audio": "Este texto técnico pede equivalência precisa, não tradução literal.",
+      "explanation": {
+        "pt": "Você ouviu: 'Este texto técnico pede equivalência precisa, não tradução literal.' — 'This technical text calls for precise equivalence, not literal translation.'",
+        "en": "You heard: 'Este texto técnico pede equivalência precisa, não tradução literal.' — 'This technical text calls for precise equivalence, not literal translation.'",
+        "ar": "سمعت: 'Este texto técnico pede equivalência precisa, não tradução literal.' — 'هذا النص التقني يتطلب تكافؤًا دقيقًا لا ترجمة حرفية.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Perfeito. Depois da revisão, ainda checamos cada falso cognato.",
+          "en": "Perfect. After the revision, we still check every false cognate.",
+          "ar": "هذا النص التقني يتطلب تكافؤًا دقيقًا لا ترجمة حرفية."
+        },
+        {
+          "pt": "Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.",
+          "en": "This technical text calls for precise equivalence, not literal translation.",
+          "ar": "ممتاز. بعد المراجعة، نفحص أيضًا كل لفظ مشترك خادع."
+        },
+        {
+          "pt": "Este texto técnico pede equivalência precisa, não tradução literal.",
+          "en": "I agree. 'Pretend' here is not 'pretender' in the sense of desiring, but rather 'alegar' (to claim).",
+          "ar": "أتفق. كلمة 'pretend' هنا لا تعني 'pretender' بمعنى الرغبة، بل 'alegar' أي الادعاء."
+        }
+      ],
+      "answer": "Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.",
+      "accepted": [],
+      "audio": "Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.",
+      "explanation": {
+        "pt": "Você ouviu: 'Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.' — 'I agree. 'Pretend' here is not 'pretender' in the sense of desiring, but rather 'alegar' (to claim).'",
+        "en": "You heard: 'Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.' — 'I agree. 'Pretend' here is not 'pretender' in the sense of desiring, but rather 'alegar' (to claim).'",
+        "ar": "سمعت: 'Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.' — 'أتفق. كلمة 'pretend' هنا لا تعني 'pretender' بمعنى الرغبة، بل 'alegar' أي الادعاء.'"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Na ___ ela não disse isso. (actually)",
+        "en": "Na ___ ela não disse isso. (actually)",
+        "ar": "Na ___ ela não disse isso. (actually)"
+      },
+      "options": [
+        {
+          "pt": "lado",
+          "en": "lado",
+          "ar": "lado"
+        },
+        {
+          "pt": "Os",
+          "en": "Os",
+          "ar": "Os"
+        },
+        {
+          "pt": "verdade,",
+          "en": "verdade,",
+          "ar": "verdade,"
+        }
+      ],
+      "answer": "verdade,",
+      "accepted": [],
+      "explanation": {
+        "pt": "A resposta é 'verdade,'. Frase completa: Na verdade, ela não disse isso. (actually)",
+        "en": "The answer is 'verdade,'. Full sentence: Actually, she did not say that.",
+        "ar": "الإجابة الصحيحة: 'verdade,'. الجملة كاملة: في الحقيقة، لم تقل ذلك."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "precisa,",
+          "en": "precisa,",
+          "ar": "precisa,"
+        },
+        {
+          "pt": "pede",
+          "en": "pede",
+          "ar": "pede"
+        },
+        {
+          "pt": "Este",
+          "en": "Este",
+          "ar": "Este"
+        },
+        {
+          "pt": "equivalência",
+          "en": "equivalência",
+          "ar": "equivalência"
+        },
+        {
+          "pt": "não",
+          "en": "não",
+          "ar": "não"
+        },
+        {
+          "pt": "texto",
+          "en": "texto",
+          "ar": "texto"
+        },
+        {
+          "pt": "literal.",
+          "en": "literal.",
+          "ar": "literal."
+        },
+        {
+          "pt": "técnico",
+          "en": "técnico",
+          "ar": "técnico"
+        },
+        {
+          "pt": "tradução",
+          "en": "tradução",
+          "ar": "tradução"
+        }
+      ],
+      "answer": "Este texto técnico pede equivalência precisa, não tradução literal.",
+      "accepted": [
+        "Este texto técnico pede equivalência precisa, não tradução literal."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Este texto técnico pede equivalência precisa, não tradução literal.'",
+        "en": "The correct order: 'This technical text calls for precise equivalence, not literal translation.'",
+        "ar": "الترتيب الصحيح: 'هذا النص التقني يتطلب تكافؤًا دقيقًا لا ترجمة حرفية.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o calque",
+          "en": "translator",
+          "ar": "o calque"
+        },
+        {
+          "pt": "o sentido denotativo",
+          "en": "translation",
+          "ar": "o sentido denotativo"
+        },
+        {
+          "pt": "o empréstimo",
+          "en": "connotative meaning",
+          "ar": "o empréstimo"
+        },
+        {
+          "pt": "o sentido conotativo",
+          "en": "calque",
+          "ar": "o sentido conotativo"
+        },
+        {
+          "pt": "o tradutor",
+          "en": "denotative meaning",
+          "ar": "o tradutor"
+        },
+        {
+          "pt": "a tradução",
+          "en": "loanword",
+          "ar": "a tradução"
+        }
+      ],
+      "answer": "o calque::translator|o sentido denotativo::translation|o empréstimo::connotative meaning|o sentido conotativo::calque|o tradutor::denotative meaning|a tradução::loanword",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Então preservamos o tom, ajustamos o registro e mantemos a fluência.",
+          "en": "I agree. 'Pretend' here is not 'pretender' in the sense of desiring, but rather 'alegar' (to claim).",
+          "ar": "هذا النص التقني يتطلب تكافؤًا دقيقًا لا ترجمة حرفية."
+        },
+        {
+          "pt": "Este texto técnico pede equivalência precisa, não tradução literal.",
+          "en": "Then we preserve the tone, adjust the register and keep fluency.",
+          "ar": "أتفق. كلمة 'pretend' هنا لا تعني 'pretender' بمعنى الرغبة، بل 'alegar' أي الادعاء."
+        },
+        {
+          "pt": "Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.",
+          "en": "This technical text calls for precise equivalence, not literal translation.",
+          "ar": "إذن نحافظ على النبرة ونضبط المستوى ونحافظ على السلاسة."
+        }
+      ],
+      "answer": "Este texto técnico pede equivalência precisa, não tradução literal.",
+      "accepted": [],
+      "audio": "Este texto técnico pede equivalência precisa, não tradução literal.",
+      "explanation": {
+        "pt": "Você ouviu: 'Este texto técnico pede equivalência precisa, não tradução literal.' — 'This technical text calls for precise equivalence, not literal translation.'",
+        "en": "You heard: 'Este texto técnico pede equivalência precisa, não tradução literal.' — 'This technical text calls for precise equivalence, not literal translation.'",
+        "ar": "سمعت: 'Este texto técnico pede equivalência precisa, não tradução literal.' — 'هذا النص التقني يتطلب تكافؤًا دقيقًا لا ترجمة حرفية.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "E o trocadilho do anúncio? Domesticamos ou mantemos com nota?",
+          "en": "I agree. 'Pretend' here is not 'pretender' in the sense of desiring, but rather 'alegar' (to claim).",
+          "ar": "والتلاعب اللفظي في الإعلان؟ هل نقربه من القارئ أم نحتفظ به مع حاشية؟"
+        },
+        {
+          "pt": "Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.",
+          "en": "And the pun in the ad? Do we domesticate it or keep it with a footnote?",
+          "ar": "هذا النص التقني يتطلب تكافؤًا دقيقًا لا ترجمة حرفية."
+        },
+        {
+          "pt": "Este texto técnico pede equivalência precisa, não tradução literal.",
+          "en": "This technical text calls for precise equivalence, not literal translation.",
+          "ar": "أتفق. كلمة 'pretend' هنا لا تعني 'pretender' بمعنى الرغبة، بل 'alegar' أي الادعاء."
+        }
+      ],
+      "answer": "Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.",
+      "accepted": [],
+      "audio": "Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.",
+      "explanation": {
+        "pt": "Você ouviu: 'Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.' — 'I agree. 'Pretend' here is not 'pretender' in the sense of desiring, but rather 'alegar' (to claim).'",
+        "en": "You heard: 'Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.' — 'I agree. 'Pretend' here is not 'pretender' in the sense of desiring, but rather 'alegar' (to claim).'",
+        "ar": "سمعت: 'Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.' — 'أتفق. كلمة 'pretend' هنا لا تعني 'pretender' بمعنى الرغبة، بل 'alegar' أي الادعاء.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "não",
+          "en": "não",
+          "ar": "não"
+        },
+        {
+          "pt": "precisa,",
+          "en": "precisa,",
+          "ar": "precisa,"
+        },
+        {
+          "pt": "texto",
+          "en": "texto",
+          "ar": "texto"
+        },
+        {
+          "pt": "equivalência",
+          "en": "equivalência",
+          "ar": "equivalência"
+        },
+        {
+          "pt": "literal.",
+          "en": "literal.",
+          "ar": "literal."
+        },
+        {
+          "pt": "tradução",
+          "en": "tradução",
+          "ar": "tradução"
+        },
+        {
+          "pt": "Este",
+          "en": "Este",
+          "ar": "Este"
+        },
+        {
+          "pt": "pede",
+          "en": "pede",
+          "ar": "pede"
+        },
+        {
+          "pt": "técnico",
+          "en": "técnico",
+          "ar": "técnico"
+        }
+      ],
+      "answer": "Este texto técnico pede equivalência precisa, não tradução literal.",
+      "accepted": [
+        "Este texto técnico pede equivalência precisa, não tradução literal."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Este texto técnico pede equivalência precisa, não tradução literal.'",
+        "en": "The correct order: 'This technical text calls for precise equivalence, not literal translation.'",
+        "ar": "الترتيب الصحيح: 'هذا النص التقني يتطلب تكافؤًا دقيقًا لا ترجمة حرفية.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o empréstimo",
+          "en": "connotative meaning",
+          "ar": "o empréstimo"
+        },
+        {
+          "pt": "o calque",
+          "en": "translator",
+          "ar": "o calque"
+        },
+        {
+          "pt": "o sentido denotativo",
+          "en": "denotative meaning",
+          "ar": "o sentido denotativo"
+        },
+        {
+          "pt": "o sentido conotativo",
+          "en": "loanword",
+          "ar": "o sentido conotativo"
+        },
+        {
+          "pt": "a tradução",
+          "en": "calque",
+          "ar": "a tradução"
+        },
+        {
+          "pt": "o tradutor",
+          "en": "translation",
+          "ar": "o tradutor"
+        }
+      ],
+      "answer": "o empréstimo::connotative meaning|o calque::translator|o sentido denotativo::denotative meaning|o sentido conotativo::loanword|a tradução::calque|o tradutor::translation",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Perfeito. Depois da revisão, ainda checamos cada falso cognato.",
+          "en": "And the pun in the ad? Do we domesticate it or keep it with a footnote?",
+          "ar": "هذا النص التقني يتطلب تكافؤًا دقيقًا لا ترجمة حرفية."
+        },
+        {
+          "pt": "E o trocadilho do anúncio? Domesticamos ou mantemos com nota?",
+          "en": "This technical text calls for precise equivalence, not literal translation.",
+          "ar": "ممتاز. بعد المراجعة، نفحص أيضًا كل لفظ مشترك خادع."
+        },
+        {
+          "pt": "Este texto técnico pede equivalência precisa, não tradução literal.",
+          "en": "Perfect. After the revision, we still check every false cognate.",
+          "ar": "والتلاعب اللفظي في الإعلان؟ هل نقربه من القارئ أم نحتفظ به مع حاشية؟"
+        }
+      ],
+      "answer": "Este texto técnico pede equivalência precisa, não tradução literal.",
+      "accepted": [],
+      "audio": "Este texto técnico pede equivalência precisa, não tradução literal.",
+      "explanation": {
+        "pt": "Você ouviu: 'Este texto técnico pede equivalência precisa, não tradução literal.' — 'This technical text calls for precise equivalence, not literal translation.'",
+        "en": "You heard: 'Este texto técnico pede equivalência precisa, não tradução literal.' — 'This technical text calls for precise equivalence, not literal translation.'",
+        "ar": "سمعت: 'Este texto técnico pede equivalência precisa, não tradução literal.' — 'هذا النص التقني يتطلب تكافؤًا دقيقًا لا ترجمة حرفية.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.",
+          "en": "I agree. 'Pretend' here is not 'pretender' in the sense of desiring, but rather 'alegar' (to claim).",
+          "ar": "أتفق. كلمة 'pretend' هنا لا تعني 'pretender' بمعنى الرغبة، بل 'alegar' أي الادعاء."
+        },
+        {
+          "pt": "E o trocadilho do anúncio? Domesticamos ou mantemos com nota?",
+          "en": "This technical text calls for precise equivalence, not literal translation.",
+          "ar": "هذا النص التقني يتطلب تكافؤًا دقيقًا لا ترجمة حرفية."
+        },
+        {
+          "pt": "Este texto técnico pede equivalência precisa, não tradução literal.",
+          "en": "And the pun in the ad? Do we domesticate it or keep it with a footnote?",
+          "ar": "والتلاعب اللفظي في الإعلان؟ هل نقربه من القارئ أم نحتفظ به مع حاشية؟"
+        }
+      ],
+      "answer": "Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.",
+      "accepted": [],
+      "audio": "Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.",
+      "explanation": {
+        "pt": "Você ouviu: 'Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.' — 'I agree. 'Pretend' here is not 'pretender' in the sense of desiring, but rather 'alegar' (to claim).'",
+        "en": "You heard: 'Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.' — 'I agree. 'Pretend' here is not 'pretender' in the sense of desiring, but rather 'alegar' (to claim).'",
+        "ar": "سمعت: 'Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.' — 'أتفق. كلمة 'pretend' هنا لا تعني 'pretender' بمعنى الرغبة، بل 'alegar' أي الادعاء.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "precisa,",
+          "en": "precisa,",
+          "ar": "precisa,"
+        },
+        {
+          "pt": "tradução",
+          "en": "tradução",
+          "ar": "tradução"
+        },
+        {
+          "pt": "literal.",
+          "en": "literal.",
+          "ar": "literal."
+        },
+        {
+          "pt": "pede",
+          "en": "pede",
+          "ar": "pede"
+        },
+        {
+          "pt": "Este",
+          "en": "Este",
+          "ar": "Este"
+        },
+        {
+          "pt": "equivalência",
+          "en": "equivalência",
+          "ar": "equivalência"
+        },
+        {
+          "pt": "texto",
+          "en": "texto",
+          "ar": "texto"
+        },
+        {
+          "pt": "não",
+          "en": "não",
+          "ar": "não"
+        },
+        {
+          "pt": "técnico",
+          "en": "técnico",
+          "ar": "técnico"
+        }
+      ],
+      "answer": "Este texto técnico pede equivalência precisa, não tradução literal.",
+      "accepted": [
+        "Este texto técnico pede equivalência precisa, não tradução literal."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Este texto técnico pede equivalência precisa, não tradução literal.'",
+        "en": "The correct order: 'This technical text calls for precise equivalence, not literal translation.'",
+        "ar": "الترتيب الصحيح: 'هذا النص التقني يتطلب تكافؤًا دقيقًا لا ترجمة حرفية.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o empréstimo",
+          "en": "loanword",
+          "ar": "o empréstimo"
+        },
+        {
+          "pt": "o sentido conotativo",
+          "en": "denotative meaning",
+          "ar": "o sentido conotativo"
+        },
+        {
+          "pt": "a tradução",
+          "en": "translation",
+          "ar": "a tradução"
+        },
+        {
+          "pt": "o sentido denotativo",
+          "en": "calque",
+          "ar": "o sentido denotativo"
+        },
+        {
+          "pt": "o calque",
+          "en": "connotative meaning",
+          "ar": "o calque"
+        },
+        {
+          "pt": "o tradutor",
+          "en": "translator",
+          "ar": "o tradutor"
+        }
+      ],
+      "answer": "o empréstimo::loanword|o sentido conotativo::denotative meaning|a tradução::translation|o sentido denotativo::calque|o calque::connotative meaning|o tradutor::translator",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "E o trocadilho do anúncio? Domesticamos ou mantemos com nota?",
+          "en": "This technical text calls for precise equivalence, not literal translation.",
+          "ar": "والتلاعب اللفظي في الإعلان؟ هل نقربه من القارئ أم نحتفظ به مع حاشية؟"
+        },
+        {
+          "pt": "Para o público jovem, um equivalente adaptado funciona melhor que a nota.",
+          "en": "For a young audience, an adapted equivalent works better than a footnote.",
+          "ar": "هذا النص التقني يتطلب تكافؤًا دقيقًا لا ترجمة حرفية."
+        },
+        {
+          "pt": "Este texto técnico pede equivalência precisa, não tradução literal.",
+          "en": "And the pun in the ad? Do we domesticate it or keep it with a footnote?",
+          "ar": "بالنسبة لجمهور الشباب، يعمل المكافئ المُكيَّف أفضل من الحاشية."
+        }
+      ],
+      "answer": "Este texto técnico pede equivalência precisa, não tradução literal.",
+      "accepted": [],
+      "audio": "Este texto técnico pede equivalência precisa, não tradução literal.",
+      "explanation": {
+        "pt": "Você ouviu: 'Este texto técnico pede equivalência precisa, não tradução literal.' — 'This technical text calls for precise equivalence, not literal translation.'",
+        "en": "You heard: 'Este texto técnico pede equivalência precisa, não tradução literal.' — 'This technical text calls for precise equivalence, not literal translation.'",
+        "ar": "سمعت: 'Este texto técnico pede equivalência precisa, não tradução literal.' — 'هذا النص التقني يتطلب تكافؤًا دقيقًا لا ترجمة حرفية.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "E o trocadilho do anúncio? Domesticamos ou mantemos com nota?",
+          "en": "Then we preserve the tone, adjust the register and keep fluency.",
+          "ar": "إذن نحافظ على النبرة ونضبط المستوى ونحافظ على السلاسة."
+        },
+        {
+          "pt": "Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.",
+          "en": "I agree. 'Pretend' here is not 'pretender' in the sense of desiring, but rather 'alegar' (to claim).",
+          "ar": "والتلاعب اللفظي في الإعلان؟ هل نقربه من القارئ أم نحتفظ به مع حاشية؟"
+        },
+        {
+          "pt": "Então preservamos o tom, ajustamos o registro e mantemos a fluência.",
+          "en": "And the pun in the ad? Do we domesticate it or keep it with a footnote?",
+          "ar": "أتفق. كلمة 'pretend' هنا لا تعني 'pretender' بمعنى الرغبة، بل 'alegar' أي الادعاء."
+        }
+      ],
+      "answer": "Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.",
+      "accepted": [],
+      "audio": "Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.",
+      "explanation": {
+        "pt": "Você ouviu: 'Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.' — 'I agree. 'Pretend' here is not 'pretender' in the sense of desiring, but rather 'alegar' (to claim).'",
+        "en": "You heard: 'Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.' — 'I agree. 'Pretend' here is not 'pretender' in the sense of desiring, but rather 'alegar' (to claim).'",
+        "ar": "سمعت: 'Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.' — 'أتفق. كلمة 'pretend' هنا لا تعني 'pretender' بمعنى الرغبة، بل 'alegar' أي الادعاء.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "literal.",
+          "en": "literal.",
+          "ar": "literal."
+        },
+        {
+          "pt": "não",
+          "en": "não",
+          "ar": "não"
+        },
+        {
+          "pt": "pede",
+          "en": "pede",
+          "ar": "pede"
+        },
+        {
+          "pt": "Este",
+          "en": "Este",
+          "ar": "Este"
+        },
+        {
+          "pt": "técnico",
+          "en": "técnico",
+          "ar": "técnico"
+        },
+        {
+          "pt": "texto",
+          "en": "texto",
+          "ar": "texto"
+        },
+        {
+          "pt": "equivalência",
+          "en": "equivalência",
+          "ar": "equivalência"
+        },
+        {
+          "pt": "precisa,",
+          "en": "precisa,",
+          "ar": "precisa,"
+        },
+        {
+          "pt": "tradução",
+          "en": "tradução",
+          "ar": "tradução"
+        }
+      ],
+      "answer": "Este texto técnico pede equivalência precisa, não tradução literal.",
+      "accepted": [
+        "Este texto técnico pede equivalência precisa, não tradução literal."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Este texto técnico pede equivalência precisa, não tradução literal.'",
+        "en": "The correct order: 'This technical text calls for precise equivalence, not literal translation.'",
+        "ar": "الترتيب الصحيح: 'هذا النص التقني يتطلب تكافؤًا دقيقًا لا ترجمة حرفية.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o sentido denotativo",
+          "en": "connotative meaning",
+          "ar": "o sentido denotativo"
+        },
+        {
+          "pt": "o empréstimo",
+          "en": "translation",
+          "ar": "o empréstimo"
+        },
+        {
+          "pt": "o sentido conotativo",
+          "en": "denotative meaning",
+          "ar": "o sentido conotativo"
+        },
+        {
+          "pt": "o tradutor",
+          "en": "calque",
+          "ar": "o tradutor"
+        },
+        {
+          "pt": "o calque",
+          "en": "translator",
+          "ar": "o calque"
+        },
+        {
+          "pt": "a tradução",
+          "en": "loanword",
+          "ar": "a tradução"
+        }
+      ],
+      "answer": "o sentido denotativo::connotative meaning|o empréstimo::translation|o sentido conotativo::denotative meaning|o tradutor::calque|o calque::translator|a tradução::loanword",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Para o público jovem, um equivalente adaptado funciona melhor que a nota.",
+          "en": "For a young audience, an adapted equivalent works better than a footnote.",
+          "ar": "أتفق. كلمة 'pretend' هنا لا تعني 'pretender' بمعنى الرغبة، بل 'alegar' أي الادعاء."
+        },
+        {
+          "pt": "Este texto técnico pede equivalência precisa, não tradução literal.",
+          "en": "This technical text calls for precise equivalence, not literal translation.",
+          "ar": "بالنسبة لجمهور الشباب، يعمل المكافئ المُكيَّف أفضل من الحاشية."
+        },
+        {
+          "pt": "Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.",
+          "en": "I agree. 'Pretend' here is not 'pretender' in the sense of desiring, but rather 'alegar' (to claim).",
+          "ar": "هذا النص التقني يتطلب تكافؤًا دقيقًا لا ترجمة حرفية."
+        }
+      ],
+      "answer": "Este texto técnico pede equivalência precisa, não tradução literal.",
+      "accepted": [],
+      "audio": "Este texto técnico pede equivalência precisa, não tradução literal.",
+      "explanation": {
+        "pt": "Você ouviu: 'Este texto técnico pede equivalência precisa, não tradução literal.' — 'This technical text calls for precise equivalence, not literal translation.'",
+        "en": "You heard: 'Este texto técnico pede equivalência precisa, não tradução literal.' — 'This technical text calls for precise equivalence, not literal translation.'",
+        "ar": "سمعت: 'Este texto técnico pede equivalência precisa, não tradução literal.' — 'هذا النص التقني يتطلب تكافؤًا دقيقًا لا ترجمة حرفية.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.",
+          "en": "I agree. 'Pretend' here is not 'pretender' in the sense of desiring, but rather 'alegar' (to claim).",
+          "ar": "هذا النص التقني يتطلب تكافؤًا دقيقًا لا ترجمة حرفية."
+        },
+        {
+          "pt": "Este texto técnico pede equivalência precisa, não tradução literal.",
+          "en": "For a young audience, an adapted equivalent works better than a footnote.",
+          "ar": "بالنسبة لجمهور الشباب، يعمل المكافئ المُكيَّف أفضل من الحاشية."
+        },
+        {
+          "pt": "Para o público jovem, um equivalente adaptado funciona melhor que a nota.",
+          "en": "This technical text calls for precise equivalence, not literal translation.",
+          "ar": "أتفق. كلمة 'pretend' هنا لا تعني 'pretender' بمعنى الرغبة، بل 'alegar' أي الادعاء."
+        }
+      ],
+      "answer": "Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.",
+      "accepted": [],
+      "audio": "Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.",
+      "explanation": {
+        "pt": "Você ouviu: 'Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.' — 'I agree. 'Pretend' here is not 'pretender' in the sense of desiring, but rather 'alegar' (to claim).'",
+        "en": "You heard: 'Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.' — 'I agree. 'Pretend' here is not 'pretender' in the sense of desiring, but rather 'alegar' (to claim).'",
+        "ar": "سمعت: 'Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.' — 'أتفق. كلمة 'pretend' هنا لا تعني 'pretender' بمعنى الرغبة، بل 'alegar' أي الادعاء.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "pede",
+          "en": "pede",
+          "ar": "pede"
+        },
+        {
+          "pt": "Este",
+          "en": "Este",
+          "ar": "Este"
+        },
+        {
+          "pt": "técnico",
+          "en": "técnico",
+          "ar": "técnico"
+        },
+        {
+          "pt": "literal.",
+          "en": "literal.",
+          "ar": "literal."
+        },
+        {
+          "pt": "equivalência",
+          "en": "equivalência",
+          "ar": "equivalência"
+        },
+        {
+          "pt": "não",
+          "en": "não",
+          "ar": "não"
+        },
+        {
+          "pt": "precisa,",
+          "en": "precisa,",
+          "ar": "precisa,"
+        },
+        {
+          "pt": "texto",
+          "en": "texto",
+          "ar": "texto"
+        },
+        {
+          "pt": "tradução",
+          "en": "tradução",
+          "ar": "tradução"
+        }
+      ],
+      "answer": "Este texto técnico pede equivalência precisa, não tradução literal.",
+      "accepted": [
+        "Este texto técnico pede equivalência precisa, não tradução literal."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Este texto técnico pede equivalência precisa, não tradução literal.'",
+        "en": "The correct order: 'This technical text calls for precise equivalence, not literal translation.'",
+        "ar": "الترتيب الصحيح: 'هذا النص التقني يتطلب تكافؤًا دقيقًا لا ترجمة حرفية.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o calque",
+          "en": "connotative meaning",
+          "ar": "o calque"
+        },
+        {
+          "pt": "o sentido denotativo",
+          "en": "denotative meaning",
+          "ar": "o sentido denotativo"
+        },
+        {
+          "pt": "a tradução",
+          "en": "translation",
+          "ar": "a tradução"
+        },
+        {
+          "pt": "o sentido conotativo",
+          "en": "translator",
+          "ar": "o sentido conotativo"
+        },
+        {
+          "pt": "o empréstimo",
+          "en": "calque",
+          "ar": "o empréstimo"
+        },
+        {
+          "pt": "o tradutor",
+          "en": "loanword",
+          "ar": "o tradutor"
+        }
+      ],
+      "answer": "o calque::connotative meaning|o sentido denotativo::denotative meaning|a tradução::translation|o sentido conotativo::translator|o empréstimo::calque|o tradutor::loanword",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Este texto técnico pede equivalência precisa, não tradução literal.",
+          "en": "This technical text calls for precise equivalence, not literal translation.",
+          "ar": "هذا النص التقني يتطلب تكافؤًا دقيقًا لا ترجمة حرفية."
+        },
+        {
+          "pt": "Então preservamos o tom, ajustamos o registro e mantemos a fluência.",
+          "en": "Perfect. After the revision, we still check every false cognate.",
+          "ar": "إذن نحافظ على النبرة ونضبط المستوى ونحافظ على السلاسة."
+        },
+        {
+          "pt": "Perfeito. Depois da revisão, ainda checamos cada falso cognato.",
+          "en": "Then we preserve the tone, adjust the register and keep fluency.",
+          "ar": "ممتاز. بعد المراجعة، نفحص أيضًا كل لفظ مشترك خادع."
+        }
+      ],
+      "answer": "Este texto técnico pede equivalência precisa, não tradução literal.",
+      "accepted": [],
+      "audio": "Este texto técnico pede equivalência precisa, não tradução literal.",
+      "explanation": {
+        "pt": "Você ouviu: 'Este texto técnico pede equivalência precisa, não tradução literal.' — 'This technical text calls for precise equivalence, not literal translation.'",
+        "en": "You heard: 'Este texto técnico pede equivalência precisa, não tradução literal.' — 'This technical text calls for precise equivalence, not literal translation.'",
+        "ar": "سمعت: 'Este texto técnico pede equivalência precisa, não tradução literal.' — 'هذا النص التقني يتطلب تكافؤًا دقيقًا لا ترجمة حرفية.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Perfeito. Depois da revisão, ainda checamos cada falso cognato.",
+          "en": "This technical text calls for precise equivalence, not literal translation.",
+          "ar": "هذا النص التقني يتطلب تكافؤًا دقيقًا لا ترجمة حرفية."
+        },
+        {
+          "pt": "Este texto técnico pede equivalência precisa, não tradução literal.",
+          "en": "I agree. 'Pretend' here is not 'pretender' in the sense of desiring, but rather 'alegar' (to claim).",
+          "ar": "ممتاز. بعد المراجعة، نفحص أيضًا كل لفظ مشترك خادع."
+        },
+        {
+          "pt": "Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.",
+          "en": "Perfect. After the revision, we still check every false cognate.",
+          "ar": "أتفق. كلمة 'pretend' هنا لا تعني 'pretender' بمعنى الرغبة، بل 'alegar' أي الادعاء."
+        }
+      ],
+      "answer": "Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.",
+      "accepted": [],
+      "audio": "Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.",
+      "explanation": {
+        "pt": "Você ouviu: 'Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.' — 'I agree. 'Pretend' here is not 'pretender' in the sense of desiring, but rather 'alegar' (to claim).'",
+        "en": "You heard: 'Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.' — 'I agree. 'Pretend' here is not 'pretender' in the sense of desiring, but rather 'alegar' (to claim).'",
+        "ar": "سمعت: 'Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.' — 'أتفق. كلمة 'pretend' هنا لا تعني 'pretender' بمعنى الرغبة، بل 'alegar' أي الادعاء.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "tradução",
+          "en": "tradução",
+          "ar": "tradução"
+        },
+        {
+          "pt": "literal.",
+          "en": "literal.",
+          "ar": "literal."
+        },
+        {
+          "pt": "pede",
+          "en": "pede",
+          "ar": "pede"
+        },
+        {
+          "pt": "texto",
+          "en": "texto",
+          "ar": "texto"
+        },
+        {
+          "pt": "Este",
+          "en": "Este",
+          "ar": "Este"
+        },
+        {
+          "pt": "precisa,",
+          "en": "precisa,",
+          "ar": "precisa,"
+        },
+        {
+          "pt": "técnico",
+          "en": "técnico",
+          "ar": "técnico"
+        },
+        {
+          "pt": "não",
+          "en": "não",
+          "ar": "não"
+        },
+        {
+          "pt": "equivalência",
+          "en": "equivalência",
+          "ar": "equivalência"
+        }
+      ],
+      "answer": "Este texto técnico pede equivalência precisa, não tradução literal.",
+      "accepted": [
+        "Este texto técnico pede equivalência precisa, não tradução literal."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Este texto técnico pede equivalência precisa, não tradução literal.'",
+        "en": "The correct order: 'This technical text calls for precise equivalence, not literal translation.'",
+        "ar": "الترتيب الصحيح: 'هذا النص التقني يتطلب تكافؤًا دقيقًا لا ترجمة حرفية.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o calque",
+          "en": "translator",
+          "ar": "o calque"
+        },
+        {
+          "pt": "o sentido conotativo",
+          "en": "denotative meaning",
+          "ar": "o sentido conotativo"
+        },
+        {
+          "pt": "o empréstimo",
+          "en": "loanword",
+          "ar": "o empréstimo"
+        },
+        {
+          "pt": "o sentido denotativo",
+          "en": "connotative meaning",
+          "ar": "o sentido denotativo"
+        },
+        {
+          "pt": "a tradução",
+          "en": "translation",
+          "ar": "a tradução"
+        },
+        {
+          "pt": "o tradutor",
+          "en": "calque",
+          "ar": "o tradutor"
+        }
+      ],
+      "answer": "o calque::translator|o sentido conotativo::denotative meaning|o empréstimo::loanword|o sentido denotativo::connotative meaning|a tradução::translation|o tradutor::calque",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Este texto técnico pede equivalência precisa, não tradução literal.",
+          "en": "Perfect. After the revision, we still check every false cognate.",
+          "ar": "ممتاز. بعد المراجعة، نفحص أيضًا كل لفظ مشترك خادع."
+        },
+        {
+          "pt": "Perfeito. Depois da revisão, ainda checamos cada falso cognato.",
+          "en": "I agree. 'Pretend' here is not 'pretender' in the sense of desiring, but rather 'alegar' (to claim).",
+          "ar": "هذا النص التقني يتطلب تكافؤًا دقيقًا لا ترجمة حرفية."
+        },
+        {
+          "pt": "Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.",
+          "en": "This technical text calls for precise equivalence, not literal translation.",
+          "ar": "أتفق. كلمة 'pretend' هنا لا تعني 'pretender' بمعنى الرغبة، بل 'alegar' أي الادعاء."
+        }
+      ],
+      "answer": "Este texto técnico pede equivalência precisa, não tradução literal.",
+      "accepted": [],
+      "audio": "Este texto técnico pede equivalência precisa, não tradução literal.",
+      "explanation": {
+        "pt": "Você ouviu: 'Este texto técnico pede equivalência precisa, não tradução literal.' — 'This technical text calls for precise equivalence, not literal translation.'",
+        "en": "You heard: 'Este texto técnico pede equivalência precisa, não tradução literal.' — 'This technical text calls for precise equivalence, not literal translation.'",
+        "ar": "سمعت: 'Este texto técnico pede equivalência precisa, não tradução literal.' — 'هذا النص التقني يتطلب تكافؤًا دقيقًا لا ترجمة حرفية.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.",
+          "en": "I agree. 'Pretend' here is not 'pretender' in the sense of desiring, but rather 'alegar' (to claim).",
+          "ar": "ممتاز. بعد المراجعة، نفحص أيضًا كل لفظ مشترك خادع."
+        },
+        {
+          "pt": "Perfeito. Depois da revisão, ainda checamos cada falso cognato.",
+          "en": "Perfect. After the revision, we still check every false cognate.",
+          "ar": "أتفق. كلمة 'pretend' هنا لا تعني 'pretender' بمعنى الرغبة، بل 'alegar' أي الادعاء."
+        },
+        {
+          "pt": "Para o público jovem, um equivalente adaptado funciona melhor que a nota.",
+          "en": "For a young audience, an adapted equivalent works better than a footnote.",
+          "ar": "بالنسبة لجمهور الشباب، يعمل المكافئ المُكيَّف أفضل من الحاشية."
+        }
+      ],
+      "answer": "Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.",
+      "accepted": [],
+      "audio": "Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.",
+      "explanation": {
+        "pt": "Você ouviu: 'Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.' — 'I agree. 'Pretend' here is not 'pretender' in the sense of desiring, but rather 'alegar' (to claim).'",
+        "en": "You heard: 'Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.' — 'I agree. 'Pretend' here is not 'pretender' in the sense of desiring, but rather 'alegar' (to claim).'",
+        "ar": "سمعت: 'Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.' — 'أتفق. كلمة 'pretend' هنا لا تعني 'pretender' بمعنى الرغبة، بل 'alegar' أي الادعاء.'"
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'translation'",
+        "en": "Type in Portuguese: 'translation'",
+        "ar": "اكتب بالبرتغالية: 'الترجمة'"
+      },
+      "options": [],
+      "answer": "a tradução",
+      "accepted": [
+        "a tradução"
+      ],
+      "explanation": {
+        "pt": "'a tradução' significa 'translation'.",
+        "en": "'a tradução' means 'translation'.",
+        "ar": "'$a tradução' بالعربية: '$الترجمة'."
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'translator'",
+        "en": "Type in Portuguese: 'translator'",
+        "ar": "اكتب بالبرتغالية: 'المترجم'"
+      },
+      "options": [],
+      "answer": "o tradutor",
+      "accepted": [
+        "o tradutor"
+      ],
+      "explanation": {
+        "pt": "'o tradutor' significa 'translator'.",
+        "en": "'o tradutor' means 'translator'.",
+        "ar": "'$o tradutor' بالعربية: '$المترجم'."
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Este texto técnico pede equivalência precisa, não tradução literal.",
+          "en": "Este texto técnico pede equivalência precisa, não tradução literal.",
+          "ar": "Este texto técnico pede equivalência precisa, não tradução literal."
+        },
+        {
+          "pt": "Perfeito. Depois da revisão, ainda checamos cada falso cognato.",
+          "en": "Perfeito. Depois da revisão, ainda checamos cada falso cognato.",
+          "ar": "Perfeito. Depois da revisão, ainda checamos cada falso cognato."
+        },
+        {
+          "pt": "Para o público jovem, um equivalente adaptado funciona melhor que a nota.",
+          "en": "Para o público jovem, um equivalente adaptado funciona melhor que a nota.",
+          "ar": "Para o público jovem, um equivalente adaptado funciona melhor que a nota."
+        }
+      ],
+      "answer": "Este texto técnico pede equivalência precisa, não tradução literal.",
+      "accepted": [],
+      "audio": "Este texto técnico pede equivalência precisa, não tradução literal.",
+      "explanation": {
+        "pt": "Você ouviu: 'Este texto técnico pede equivalência precisa, não tradução literal.'",
+        "en": "You heard: 'Este texto técnico pede equivalência precisa, não tradução literal.'",
+        "ar": "سمعت: 'Este texto técnico pede equivalência precisa, não tradução literal.'"
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "E o trocadilho do anúncio? Domesticamos ou mantemos com nota?",
+          "en": "E o trocadilho do anúncio? Domesticamos ou mantemos com nota?",
+          "ar": "E o trocadilho do anúncio? Domesticamos ou mantemos com nota?"
+        },
+        {
+          "pt": "Para o público jovem, um equivalente adaptado funciona melhor que a nota.",
+          "en": "Para o público jovem, um equivalente adaptado funciona melhor que a nota.",
+          "ar": "Para o público jovem, um equivalente adaptado funciona melhor que a nota."
+        },
+        {
+          "pt": "Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.",
+          "en": "Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.",
+          "ar": "Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'."
+        }
+      ],
+      "answer": "Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.",
+      "accepted": [],
+      "audio": "Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.",
+      "explanation": {
+        "pt": "Você ouviu: 'Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.'",
+        "en": "You heard: 'Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.'",
+        "ar": "سمعت: 'Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.'"
+      }
+    },
+    {
+      "type": "dictation",
+      "prompt": {
+        "pt": "Ouça e escreva o que você ouviu.",
+        "en": "Listen and type what you hear.",
+        "ar": "استمع واكتب ما سمعته."
+      },
+      "options": [],
+      "answer": "Este texto técnico pede equivalência precisa, não tradução literal.",
+      "accepted": [],
+      "audio": "Este texto técnico pede equivalência precisa, não tradução literal.",
+      "explanation": {
+        "pt": "A frase correta: 'Este texto técnico pede equivalência precisa, não tradução literal.'",
+        "en": "The correct sentence: 'Este texto técnico pede equivalência precisa, não tradução literal.'",
+        "ar": "الجملة الصحيحة: 'Este texto técnico pede equivalência precisa, não tradução literal.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "precisa,",
+          "en": "precisa,",
+          "ar": "precisa,"
+        },
+        {
+          "pt": "não",
+          "en": "não",
+          "ar": "não"
+        },
+        {
+          "pt": "literal.",
+          "en": "literal.",
+          "ar": "literal."
+        },
+        {
+          "pt": "texto",
+          "en": "texto",
+          "ar": "texto"
+        },
+        {
+          "pt": "tradução",
+          "en": "tradução",
+          "ar": "tradução"
+        },
+        {
+          "pt": "técnico",
+          "en": "técnico",
+          "ar": "técnico"
+        },
+        {
+          "pt": "Este",
+          "en": "Este",
+          "ar": "Este"
+        },
+        {
+          "pt": "equivalência",
+          "en": "equivalência",
+          "ar": "equivalência"
+        },
+        {
+          "pt": "pede",
+          "en": "pede",
+          "ar": "pede"
+        }
+      ],
+      "answer": "Este texto técnico pede equivalência precisa, não tradução literal.",
+      "accepted": [
+        "Este texto técnico pede equivalência precisa, não tradução literal."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Este texto técnico pede equivalência precisa, não tradução literal.'",
+        "en": "The correct order: 'This technical text calls for precise equivalence, not literal translation.'",
+        "ar": "الترتيب الصحيح: 'هذا النص التقني يتطلب تكافؤًا دقيقًا لا ترجمة حرفية.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o empréstimo",
+          "en": "connotative meaning",
+          "ar": "o empréstimo"
+        },
+        {
+          "pt": "o calque",
+          "en": "denotative meaning",
+          "ar": "o calque"
+        },
+        {
+          "pt": "o sentido denotativo",
+          "en": "translation",
+          "ar": "o sentido denotativo"
+        },
+        {
+          "pt": "o tradutor",
+          "en": "translator",
+          "ar": "o tradutor"
+        },
+        {
+          "pt": "a tradução",
+          "en": "loanword",
+          "ar": "a tradução"
+        },
+        {
+          "pt": "o sentido conotativo",
+          "en": "calque",
+          "ar": "o sentido conotativo"
+        }
+      ],
+      "answer": "o empréstimo::connotative meaning|o calque::denotative meaning|o sentido denotativo::translation|o tradutor::translator|a tradução::loanword|o sentido conotativo::calque",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Este texto técnico pede equivalência precisa, não tradução literal.",
+          "en": "This technical text calls for precise equivalence, not literal translation.",
+          "ar": "والتلاعب اللفظي في الإعلان؟ هل نقربه من القارئ أم نحتفظ به مع حاشية؟"
+        },
+        {
+          "pt": "Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.",
+          "en": "And the pun in the ad? Do we domesticate it or keep it with a footnote?",
+          "ar": "هذا النص التقني يتطلب تكافؤًا دقيقًا لا ترجمة حرفية."
+        },
+        {
+          "pt": "E o trocadilho do anúncio? Domesticamos ou mantemos com nota?",
+          "en": "I agree. 'Pretend' here is not 'pretender' in the sense of desiring, but rather 'alegar' (to claim).",
+          "ar": "أتفق. كلمة 'pretend' هنا لا تعني 'pretender' بمعنى الرغبة، بل 'alegar' أي الادعاء."
+        }
+      ],
+      "answer": "Este texto técnico pede equivalência precisa, não tradução literal.",
+      "accepted": [],
+      "audio": "Este texto técnico pede equivalência precisa, não tradução literal.",
+      "explanation": {
+        "pt": "Você ouviu: 'Este texto técnico pede equivalência precisa, não tradução literal.' — 'This technical text calls for precise equivalence, not literal translation.'",
+        "en": "You heard: 'Este texto técnico pede equivalência precisa, não tradução literal.' — 'This technical text calls for precise equivalence, not literal translation.'",
+        "ar": "سمعت: 'Este texto técnico pede equivalência precisa, não tradução literal.' — 'هذا النص التقني يتطلب تكافؤًا دقيقًا لا ترجمة حرفية.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Então preservamos o tom, ajustamos o registro e mantemos a fluência.",
+          "en": "And the pun in the ad? Do we domesticate it or keep it with a footnote?",
+          "ar": "إذن نحافظ على النبرة ونضبط المستوى ونحافظ على السلاسة."
+        },
+        {
+          "pt": "E o trocadilho do anúncio? Domesticamos ou mantemos com nota?",
+          "en": "I agree. 'Pretend' here is not 'pretender' in the sense of desiring, but rather 'alegar' (to claim).",
+          "ar": "والتلاعب اللفظي في الإعلان؟ هل نقربه من القارئ أم نحتفظ به مع حاشية؟"
+        },
+        {
+          "pt": "Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.",
+          "en": "Then we preserve the tone, adjust the register and keep fluency.",
+          "ar": "أتفق. كلمة 'pretend' هنا لا تعني 'pretender' بمعنى الرغبة، بل 'alegar' أي الادعاء."
+        }
+      ],
+      "answer": "Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.",
+      "accepted": [],
+      "audio": "Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.",
+      "explanation": {
+        "pt": "Você ouviu: 'Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.' — 'I agree. 'Pretend' here is not 'pretender' in the sense of desiring, but rather 'alegar' (to claim).'",
+        "en": "You heard: 'Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.' — 'I agree. 'Pretend' here is not 'pretender' in the sense of desiring, but rather 'alegar' (to claim).'",
+        "ar": "سمعت: 'Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.' — 'أتفق. كلمة 'pretend' هنا لا تعني 'pretender' بمعنى الرغبة، بل 'alegar' أي الادعاء.'"
+      }
+    }
+  ],
+  "speaking": {
+    "title": {
+      "pt": "Fale Agora — Ouça e Repita",
+      "en": "Speak Now — Listen and Repeat",
+      "ar": "تحدث الآن — استمع وكرر"
+    },
+    "phrases": [
+      {
+        "pt": "Este texto técnico pede equivalência precisa, não tradução literal.",
+        "en": "This technical text calls for precise equivalence, not literal translation.",
+        "ar": "هذا النص التقني يتطلب تكافؤًا دقيقًا لا ترجمة حرفية."
+      },
+      {
+        "pt": "Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.",
+        "en": "I agree. 'Pretend' here is not 'pretender' in the sense of desiring, but rather 'alegar' (to claim).",
+        "ar": "أتفق. كلمة 'pretend' هنا لا تعني 'pretender' بمعنى الرغبة، بل 'alegar' أي الادعاء."
+      },
+      {
+        "pt": "E o trocadilho do anúncio? Domesticamos ou mantemos com nota?",
+        "en": "And the pun in the ad? Do we domesticate it or keep it with a footnote?",
+        "ar": "والتلاعب اللفظي في الإعلان؟ هل نقربه من القارئ أم نحتفظ به مع حاشية؟"
+      },
+      {
+        "pt": "Para o público jovem, um equivalente adaptado funciona melhor que a nota.",
+        "en": "For a young audience, an adapted equivalent works better than a footnote.",
+        "ar": "بالنسبة لجمهور الشباب، يعمل المكافئ المُكيَّف أفضل من الحاشية."
+      },
+      {
+        "pt": "Então preservamos o tom, ajustamos o registro e mantemos a fluência.",
+        "en": "Then we preserve the tone, adjust the register and keep fluency.",
+        "ar": "إذن نحافظ على النبرة ونضبط المستوى ونحافظ على السلاسة."
+      },
+      {
+        "pt": "Perfeito. Depois da revisão, ainda checamos cada falso cognato.",
+        "en": "Perfect. After the revision, we still check every false cognate.",
+        "ar": "ممتاز. بعد المراجعة، نفحص أيضًا كل لفظ مشترك خادع."
+      },
+      {
+        "pt": "a tradução",
+        "en": "translation",
+        "ar": "الترجمة"
+      },
+      {
+        "pt": "o tradutor",
+        "en": "translator",
+        "ar": "المترجم"
+      },
+      {
+        "pt": "o sentido denotativo",
+        "en": "denotative meaning",
+        "ar": "المعنى اللفظي المباشر"
+      }
+    ]
+  },
+  "cultural_tips": {
+    "pt": "",
+    "en": "",
+    "ar": ""
+  }
+}

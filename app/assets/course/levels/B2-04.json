@@ -1,0 +1,2148 @@
+{
+  "id": "B2-04",
+  "level": "B2",
+  "level_name": {
+    "pt": "Intermediário Alto",
+    "en": "Upper-Intermediate",
+    "ar": "متوسط متقدم"
+  },
+  "title": {
+    "pt": "Meio Ambiente",
+    "en": "Environment",
+    "ar": "البيئة"
+  },
+  "objectives": [
+    {
+      "pt": "Falar sobre problemas ambientais",
+      "en": "Talk about environmental problems",
+      "ar": "التحدث عن المشكلات البيئية"
+    },
+    {
+      "pt": "Usar conectivos de causa e consequência",
+      "en": "Use connectors of cause and consequence",
+      "ar": "استخدام أدوات الربط للسبب والنتيجة"
+    },
+    {
+      "pt": "Propor soluções sustentáveis",
+      "en": "Propose sustainable solutions",
+      "ar": "اقتراح حلول مستدامة"
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "o meio ambiente",
+      "ipa": "/u ˈme.ju ɐ̃.biˈẽ.tʃi/",
+      "en": "the environment",
+      "ar": "البيئة",
+      "example": {
+        "pt": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
+        "en": "Did you know our neighborhood will get a recycling system?",
+        "ar": "هل تعلم أن حينا سيحصل على نظام لإعادة التدوير؟"
+      }
+    },
+    {
+      "pt": "a sustentabilidade",
+      "ipa": "/a sus.ta.na.bi.liˈda.dʒi/",
+      "en": "the sustainability",
+      "ar": "الاستدامة",
+      "example": {
+        "pt": "Que ótimo! É fundamental que a gente separe o lixo em casa.",
+        "en": "Great! It's essential that we sort the garbage at home.",
+        "ar": "رائع! من الضروري أن نفرز القمامة في المنزل."
+      }
+    },
+    {
+      "pt": "o desmatamento",
+      "ipa": "/u dez.ma.taˈmẽ.tu/",
+      "en": "the deforestation",
+      "ar": "إزالة الغابات",
+      "example": {
+        "pt": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
+        "en": "Did you know our neighborhood will get a recycling system?",
+        "ar": "هل تعلم أن حينا سيحصل على نظام لإعادة التدوير؟"
+      }
+    },
+    {
+      "pt": "a poluição",
+      "ipa": "/a po.lu.iˈsɐ̃w/",
+      "en": "the pollution",
+      "ar": "التلوث",
+      "example": {
+        "pt": "Que ótimo! É fundamental que a gente separe o lixo em casa.",
+        "en": "Great! It's essential that we sort the garbage at home.",
+        "ar": "رائع! من الضروري أن نفرز القمامة في المنزل."
+      }
+    },
+    {
+      "pt": "o lixo",
+      "ipa": "/u ˈli.ʃu/",
+      "en": "the garbage",
+      "ar": "القمامة",
+      "example": {
+        "pt": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
+        "en": "Did you know our neighborhood will get a recycling system?",
+        "ar": "هل تعلم أن حينا سيحصل على نظام لإعادة التدوير؟"
+      }
+    },
+    {
+      "pt": "a reciclagem",
+      "ipa": "/a ʁe.si.klaˈʒẽj/",
+      "en": "the recycling",
+      "ar": "إعادة التدوير",
+      "example": {
+        "pt": "Que ótimo! É fundamental que a gente separe o lixo em casa.",
+        "en": "Great! It's essential that we sort the garbage at home.",
+        "ar": "رائع! من الضروري أن نفرز القمامة في المنزل."
+      }
+    },
+    {
+      "pt": "o aquecimento global",
+      "ipa": "/u a.ke.siˈmẽ.tu ɡloˈbaw/",
+      "en": "the global warming",
+      "ar": "الاحتباس الحراري",
+      "example": {
+        "pt": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
+        "en": "Did you know our neighborhood will get a recycling system?",
+        "ar": "هل تعلم أن حينا سيحصل على نظام لإعادة التدوير؟"
+      }
+    },
+    {
+      "pt": "a energia renovável",
+      "ipa": "/a e.neʁˈʒi.a ʁe.no.vaˈvew/",
+      "en": "the renewable energy",
+      "ar": "الطاقة المتجددة",
+      "example": {
+        "pt": "Que ótimo! É fundamental que a gente separe o lixo em casa.",
+        "en": "Great! It's essential that we sort the garbage at home.",
+        "ar": "رائع! من الضروري أن نفرز القمامة في المنزل."
+      }
+    },
+    {
+      "pt": "a preservação",
+      "ipa": "/a pɾe.zeʁ.vaˈsɐ̃w/",
+      "en": "the preservation",
+      "ar": "الحفاظ",
+      "example": {
+        "pt": "Que ótimo! É fundamental que a gente separe o lixo em casa.",
+        "en": "Great! It's essential that we sort the garbage at home.",
+        "ar": "رائع! من الضروري أن نفرز القمامة في المنزل."
+      }
+    },
+    {
+      "pt": "o ecossistema",
+      "ipa": "/u e.kɔ.sisˈtẽ.mɐ/",
+      "en": "the ecosystem",
+      "ar": "النظام البيئي",
+      "example": {
+        "pt": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
+        "en": "Did you know our neighborhood will get a recycling system?",
+        "ar": "هل تعلم أن حينا سيحصل على نظام لإعادة التدوير؟"
+      }
+    },
+    {
+      "pt": "a espécie ameaçada",
+      "ipa": "/a esˈpɛ.si a.me.aˈsa.da/",
+      "en": "the endangered species",
+      "ar": "الأنواع المهددة بالانقراض",
+      "example": {
+        "pt": "Que ótimo! É fundamental que a gente separe o lixo em casa.",
+        "en": "Great! It's essential that we sort the garbage at home.",
+        "ar": "رائع! من الضروري أن نفرز القمامة في المنزل."
+      }
+    },
+    {
+      "pt": "o recurso natural",
+      "ipa": "/u ʁeˈkuʁ.su na.tuˈɾaw/",
+      "en": "the natural resource",
+      "ar": "المورد الطبيعي",
+      "example": {
+        "pt": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
+        "en": "Did you know our neighborhood will get a recycling system?",
+        "ar": "هل تعلم أن حينا سيحصل على نظام لإعادة التدوير؟"
+      }
+    },
+    {
+      "pt": "a seca",
+      "ipa": "/a ˈsɛ.ka/",
+      "en": "the drought",
+      "ar": "الجفاف",
+      "example": {
+        "pt": "Que ótimo! É fundamental que a gente separe o lixo em casa.",
+        "en": "Great! It's essential that we sort the garbage at home.",
+        "ar": "رائع! من الضروري أن نفرز القمامة في المنزل."
+      }
+    },
+    {
+      "pt": "a enchente",
+      "ipa": "/a ẽˈʃẽ.tʃi/",
+      "en": "the flood",
+      "ar": "الفيضان",
+      "example": {
+        "pt": "Que ótimo! É fundamental que a gente separe o lixo em casa.",
+        "en": "Great! It's essential that we sort the garbage at home.",
+        "ar": "رائع! من الضروري أن نفرز القمامة في المنزل."
+      }
+    },
+    {
+      "pt": "reduzir",
+      "ipa": "/ʁe.duˈziχ/",
+      "en": "to reduce",
+      "ar": "يقلل",
+      "example": {
+        "pt": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
+        "en": "Did you know our neighborhood will get a recycling system?",
+        "ar": "هل تعلم أن حينا سيحصل على نظام لإعادة التدوير؟"
+      }
+    },
+    {
+      "pt": "reutilizar",
+      "ipa": "/ʁew.tʃi.liˈzaχ/",
+      "en": "to reuse",
+      "ar": "يعيد الاستخدام",
+      "example": {
+        "pt": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
+        "en": "Did you know our neighborhood will get a recycling system?",
+        "ar": "هل تعلم أن حينا سيحصل على نظام لإعادة التدوير؟"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "title": {
+        "pt": "Causa e Consequência",
+        "en": "Cause and Consequence",
+        "ar": "السبب والنتيجة"
+      },
+      "explanation": {
+        "pt": "Para expressar causa usamos 'por causa de', 'devido a' e 'porque'. Para consequência usamos 'por isso', 'portanto' e 'consequentemente'. Esses conectivos organizam a argumentação sobre o meio ambiente.",
+        "en": "To express cause we use 'por causa de', 'devido a' and 'porque'. For consequence we use 'por isso', 'portanto' and 'consequentemente'. These connectors organize argumentation about the environment.",
+        "ar": "للتعبير عن السبب نستخدم 'por causa de' و'devido a' و'porque'. وللنتيجة نستخدم 'por isso' و'portanto' و'consequentemente'. تنظم أدوات الربط هذه الحجج حول البيئة."
+      },
+      "examples": [
+        {
+          "pt": "Devido ao desmatamento, muitas espécies desapareceram.",
+          "en": "Because of deforestation, many species disappeared.",
+          "ar": "بسبب إزالة الغابات، اختفت أنواع كثيرة."
+        },
+        {
+          "pt": "O lixo não foi reciclado; consequentemente, a poluição aumentou.",
+          "en": "The garbage was not recycled; consequently, pollution increased.",
+          "ar": "لم يُعَد تدوير القمامة؛ ونتيجة لذلك، ازداد التلوث."
+        },
+        {
+          "pt": "A seca foi longa; portanto, os agricultores perderam a colheita.",
+          "en": "The drought was long; therefore, the farmers lost their harvest.",
+          "ar": "كان الجفاف طويلًا؛ لذلك خسر المزارعون محصولهم."
+        },
+        {
+          "pt": "Por causa da poluição, a qualidade do ar piorou.",
+          "en": "Because of pollution, air quality got worse.",
+          "ar": "بسبب التلوث، ساءت جودة الهواء."
+        }
+      ]
+    },
+    {
+      "title": {
+        "pt": "Propostas e Recomendações",
+        "en": "Proposals and Recommendations",
+        "ar": "الاقتراحات والتوصيات"
+      },
+      "explanation": {
+        "pt": "Para propor soluções usamos expressões impessoais com subjuntivo: 'é preciso que', 'é fundamental que', 'sugiro que', 'tomara que'.",
+        "en": "To propose solutions we use impersonal expressions with the subjunctive: 'é preciso que', 'é fundamental que', 'sugiro que', 'tomara que'.",
+        "ar": "لاقتراح الحلول نستخدم تعبيرات غير شخصية مع صيغة الشرط: 'é preciso que' و'é fundamental que' و'sugiro que' و'tomara que'."
+      },
+      "examples": [
+        {
+          "pt": "É preciso que todos reduzam o consumo de plástico.",
+          "en": "Everyone must reduce plastic consumption.",
+          "ar": "يجب أن يقلل الجميع من استهلاك البلاستيك."
+        },
+        {
+          "pt": "Sugiro que a cidade invista em transporte público.",
+          "en": "I suggest the city invest in public transportation.",
+          "ar": "أقترح أن تستثمر المدينة في النقل العام."
+        },
+        {
+          "pt": "É fundamental que as empresas respeitem o meio ambiente.",
+          "en": "It is essential that companies respect the environment.",
+          "ar": "من الضروري أن تحترم الشركات البيئة."
+        },
+        {
+          "pt": "Tomara que os governos tomem medidas urgentes.",
+          "en": "Let's hope the governments take urgent measures.",
+          "ar": "ليت الحكومات تتخذ إجراءات عاجلة."
+        }
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": {
+      "pt": "O Bairro Sustentável",
+      "en": "The Sustainable Neighborhood",
+      "ar": "الحي المستدام"
+    },
+    "lines": [
+      {
+        "speaker": "Maria",
+        "pt": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
+        "en": "Did you know our neighborhood will get a recycling system?",
+        "ar": "هل تعلم أن حينا سيحصل على نظام لإعادة التدوير؟"
+      },
+      {
+        "speaker": "João",
+        "pt": "Que ótimo! É fundamental que a gente separe o lixo em casa.",
+        "en": "Great! It's essential that we sort the garbage at home.",
+        "ar": "رائع! من الضروري أن نفرز القمامة في المنزل."
+      },
+      {
+        "speaker": "Maria",
+        "pt": "Por causa do aquecimento global, temos que agir já.",
+        "en": "Because of global warming, we have to act now.",
+        "ar": "بسبب الاحتباس الحراري، يجب أن نتحرك الآن."
+      },
+      {
+        "speaker": "João",
+        "pt": "Concordo. Sugiro que a gente também plante árvores no parque.",
+        "en": "I agree. I suggest we also plant trees in the park.",
+        "ar": "أوافق. أقترح أن نزرع الأشجار في الحديقة أيضًا."
+      },
+      {
+        "speaker": "Maria",
+        "pt": "Boa ideia! Se cada um fizer a sua parte, o bairro fica melhor.",
+        "en": "Good idea! If everyone does their part, the neighborhood gets better.",
+        "ar": "فكرة جيدة! إذا قام كل واحد بدوره، سيصبح الحي أفضل."
+      }
+    ]
+  },
+  "reading": {
+    "title": {
+      "pt": "A Floresta em Perigo",
+      "en": "The Forest in Danger",
+      "ar": "الغابة في خطر"
+    },
+    "text_pt": "A Floresta Amazônica é essencial para o equilíbrio do planeta. Por causa do desmatamento, milhões de árvores são derrubadas todos os anos. As espécies ameaçadas sofrem com a destruição do seu habitat. É urgente que governos e sociedade trabalhem juntos pela preservação.",
+    "text_en": "The Amazon Rainforest is essential to the planet's balance. Because of deforestation, millions of trees are cut down every year. Endangered species suffer from the destruction of their habitat. It is urgent that governments and society work together for its preservation.",
+    "text_ar": "غابة الأمازون ضرورية لتوازن الكوكب. بسبب إزالة الغابات، تُقطع ملايين الأشجار كل عام. تعاني الأنواع المهددة بالانقراض من تدمير موطنها. ومن الملح أن تعمل الحكومات والمجتمع معًا من أجل الحفاظ عليها."
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "___ do aquecimento global, o clima está mudando.",
+        "en": "___ global warming, the climate is changing.",
+        "ar": "___ الاحتباس الحراري، المناخ يتغير."
+      },
+      "options": [
+        {
+          "pt": "Por causa",
+          "en": "Por causa",
+          "ar": "Por causa"
+        },
+        {
+          "pt": "Porém",
+          "en": "Porém",
+          "ar": "Porém"
+        },
+        {
+          "pt": "Apesar",
+          "en": "Apesar",
+          "ar": "Apesar"
+        }
+      ],
+      "answer": "Por causa",
+      "explanation": {
+        "pt": "Causa: 'Por causa de' + substantivo.",
+        "en": "Cause: 'Por causa de' + noun.",
+        "ar": "السبب: 'Por causa de' + الاسم."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "É urgente que os governos ___ medidas.",
+        "en": "It is urgent that governments ___ measures.",
+        "ar": "من الملح أن ___ الحكومات إجراءات."
+      },
+      "options": [
+        {
+          "pt": "tomam",
+          "en": "tomam",
+          "ar": "tomam"
+        },
+        {
+          "pt": "tomem",
+          "en": "tomem",
+          "ar": "tomem"
+        },
+        {
+          "pt": "tomar",
+          "en": "tomar",
+          "ar": "tomar"
+        }
+      ],
+      "answer": "tomem",
+      "explanation": {
+        "pt": "Depois de 'é urgente que' usamos o subjuntivo: que tomem.",
+        "en": "After 'é urgente que' we use the subjunctive: que tomem.",
+        "ar": "بعد 'é urgente que' نستخدم المضارع الشرطي: que tomem."
+      }
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza: 'Because of deforestation, many species disappeared.'",
+        "en": "Translate: 'Because of deforestation, many species disappeared.'",
+        "ar": "ترجم: 'Because of deforestation, many species disappeared.'"
+      },
+      "options": [],
+      "answer": "Por causa do desmatamento, muitas espécies desapareceram.",
+      "explanation": {
+        "pt": "Causa: 'por causa de' + consequência no pretérito.",
+        "en": "Cause: 'por causa de' + consequence in the preterite.",
+        "ar": "السبب: 'por causa de' + النتيجة في الماضي."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "ganhar",
+          "en": "ganhar",
+          "ar": "ganhar"
+        },
+        {
+          "pt": "sabia",
+          "en": "sabia",
+          "ar": "sabia"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "bairro",
+          "en": "bairro",
+          "ar": "bairro"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "reciclagem?",
+          "en": "reciclagem?",
+          "ar": "reciclagem?"
+        },
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        },
+        {
+          "pt": "um",
+          "en": "um",
+          "ar": "um"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "nosso",
+          "en": "nosso",
+          "ar": "nosso"
+        },
+        {
+          "pt": "sistema",
+          "en": "sistema",
+          "ar": "sistema"
+        },
+        {
+          "pt": "vai",
+          "en": "vai",
+          "ar": "vai"
+        }
+      ],
+      "answer": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
+      "accepted": [
+        "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?'",
+        "en": "The correct order: 'Did you know our neighborhood will get a recycling system?'",
+        "ar": "الترتيب الصحيح: 'هل تعلم أن حينا سيحصل على نظام لإعادة التدوير؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o meio ambiente",
+          "en": "the deforestation",
+          "ar": "o meio ambiente"
+        },
+        {
+          "pt": "o desmatamento",
+          "en": "the recycling",
+          "ar": "o desmatamento"
+        },
+        {
+          "pt": "a poluição",
+          "en": "the garbage",
+          "ar": "a poluição"
+        },
+        {
+          "pt": "o lixo",
+          "en": "the sustainability",
+          "ar": "o lixo"
+        },
+        {
+          "pt": "a reciclagem",
+          "en": "the environment",
+          "ar": "a reciclagem"
+        },
+        {
+          "pt": "a sustentabilidade",
+          "en": "the pollution",
+          "ar": "a sustentabilidade"
+        }
+      ],
+      "answer": "o meio ambiente::the deforestation|o desmatamento::the recycling|a poluição::the garbage|o lixo::the sustainability|a reciclagem::the environment|a sustentabilidade::the pollution",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Boa ideia! Se cada um fizer a sua parte, o bairro fica melhor.",
+          "en": "Did you know our neighborhood will get a recycling system?",
+          "ar": "فكرة جيدة! إذا قام كل واحد بدوره، سيصبح الحي أفضل."
+        },
+        {
+          "pt": "Que ótimo! É fundamental que a gente separe o lixo em casa.",
+          "en": "Great! It's essential that we sort the garbage at home.",
+          "ar": "هل تعلم أن حينا سيحصل على نظام لإعادة التدوير؟"
+        },
+        {
+          "pt": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
+          "en": "Good idea! If everyone does their part, the neighborhood gets better.",
+          "ar": "رائع! من الضروري أن نفرز القمامة في المنزل."
+        }
+      ],
+      "answer": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
+      "accepted": [],
+      "audio": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
+      "explanation": {
+        "pt": "Você ouviu: 'Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?' — 'Did you know our neighborhood will get a recycling system?'",
+        "en": "You heard: 'Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?' — 'Did you know our neighborhood will get a recycling system?'",
+        "ar": "سمعت: 'Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?' — 'هل تعلم أن حينا سيحصل على نظام لإعادة التدوير؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Que ótimo! É fundamental que a gente separe o lixo em casa.",
+          "en": "Great! It's essential that we sort the garbage at home.",
+          "ar": "أوافق. أقترح أن نزرع الأشجار في الحديقة أيضًا."
+        },
+        {
+          "pt": "Concordo. Sugiro que a gente também plante árvores no parque.",
+          "en": "Good idea! If everyone does their part, the neighborhood gets better.",
+          "ar": "رائع! من الضروري أن نفرز القمامة في المنزل."
+        },
+        {
+          "pt": "Boa ideia! Se cada um fizer a sua parte, o bairro fica melhor.",
+          "en": "I agree. I suggest we also plant trees in the park.",
+          "ar": "فكرة جيدة! إذا قام كل واحد بدوره، سيصبح الحي أفضل."
+        }
+      ],
+      "answer": "Que ótimo! É fundamental que a gente separe o lixo em casa.",
+      "accepted": [],
+      "audio": "Que ótimo! É fundamental que a gente separe o lixo em casa.",
+      "explanation": {
+        "pt": "Você ouviu: 'Que ótimo! É fundamental que a gente separe o lixo em casa.' — 'Great! It's essential that we sort the garbage at home.'",
+        "en": "You heard: 'Que ótimo! É fundamental que a gente separe o lixo em casa.' — 'Great! It's essential that we sort the garbage at home.'",
+        "ar": "سمعت: 'Que ótimo! É fundamental que a gente separe o lixo em casa.' — 'رائع! من الضروري أن نفرز القمامة في المنزل.'"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Devido ao desmatamento, muitas ___ desapareceram.",
+        "en": "Devido ao desmatamento, muitas ___ desapareceram.",
+        "ar": "Devido ao desmatamento, muitas ___ desapareceram."
+      },
+      "options": [
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "espécies",
+          "en": "espécies",
+          "ar": "espécies"
+        },
+        {
+          "pt": "seca",
+          "en": "seca",
+          "ar": "seca"
+        }
+      ],
+      "answer": "espécies",
+      "accepted": [],
+      "explanation": {
+        "pt": "A resposta é 'espécies'. Frase completa: Devido ao desmatamento, muitas espécies desapareceram.",
+        "en": "The answer is 'espécies'. Full sentence: Because of deforestation, many species disappeared.",
+        "ar": "الإجابة الصحيحة: 'espécies'. الجملة كاملة: بسبب إزالة الغابات، اختفت أنواع كثيرة."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        },
+        {
+          "pt": "bairro",
+          "en": "bairro",
+          "ar": "bairro"
+        },
+        {
+          "pt": "vai",
+          "en": "vai",
+          "ar": "vai"
+        },
+        {
+          "pt": "sistema",
+          "en": "sistema",
+          "ar": "sistema"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "nosso",
+          "en": "nosso",
+          "ar": "nosso"
+        },
+        {
+          "pt": "ganhar",
+          "en": "ganhar",
+          "ar": "ganhar"
+        },
+        {
+          "pt": "reciclagem?",
+          "en": "reciclagem?",
+          "ar": "reciclagem?"
+        },
+        {
+          "pt": "um",
+          "en": "um",
+          "ar": "um"
+        },
+        {
+          "pt": "sabia",
+          "en": "sabia",
+          "ar": "sabia"
+        }
+      ],
+      "answer": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
+      "accepted": [
+        "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?'",
+        "en": "The correct order: 'Did you know our neighborhood will get a recycling system?'",
+        "ar": "الترتيب الصحيح: 'هل تعلم أن حينا سيحصل على نظام لإعادة التدوير؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a sustentabilidade",
+          "en": "the recycling",
+          "ar": "a sustentabilidade"
+        },
+        {
+          "pt": "a reciclagem",
+          "en": "the garbage",
+          "ar": "a reciclagem"
+        },
+        {
+          "pt": "o lixo",
+          "en": "the pollution",
+          "ar": "o lixo"
+        },
+        {
+          "pt": "o desmatamento",
+          "en": "the deforestation",
+          "ar": "o desmatamento"
+        },
+        {
+          "pt": "o meio ambiente",
+          "en": "the sustainability",
+          "ar": "o meio ambiente"
+        },
+        {
+          "pt": "a poluição",
+          "en": "the environment",
+          "ar": "a poluição"
+        }
+      ],
+      "answer": "a sustentabilidade::the recycling|a reciclagem::the garbage|o lixo::the pollution|o desmatamento::the deforestation|o meio ambiente::the sustainability|a poluição::the environment",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
+          "en": "Good idea! If everyone does their part, the neighborhood gets better.",
+          "ar": "فكرة جيدة! إذا قام كل واحد بدوره، سيصبح الحي أفضل."
+        },
+        {
+          "pt": "Que ótimo! É fundamental que a gente separe o lixo em casa.",
+          "en": "Did you know our neighborhood will get a recycling system?",
+          "ar": "رائع! من الضروري أن نفرز القمامة في المنزل."
+        },
+        {
+          "pt": "Boa ideia! Se cada um fizer a sua parte, o bairro fica melhor.",
+          "en": "Great! It's essential that we sort the garbage at home.",
+          "ar": "هل تعلم أن حينا سيحصل على نظام لإعادة التدوير؟"
+        }
+      ],
+      "answer": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
+      "accepted": [],
+      "audio": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
+      "explanation": {
+        "pt": "Você ouviu: 'Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?' — 'Did you know our neighborhood will get a recycling system?'",
+        "en": "You heard: 'Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?' — 'Did you know our neighborhood will get a recycling system?'",
+        "ar": "سمعت: 'Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?' — 'هل تعلم أن حينا سيحصل على نظام لإعادة التدوير؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Que ótimo! É fundamental que a gente separe o lixo em casa.",
+          "en": "Great! It's essential that we sort the garbage at home.",
+          "ar": "رائع! من الضروري أن نفرز القمامة في المنزل."
+        },
+        {
+          "pt": "Boa ideia! Se cada um fizer a sua parte, o bairro fica melhor.",
+          "en": "Good idea! If everyone does their part, the neighborhood gets better.",
+          "ar": "فكرة جيدة! إذا قام كل واحد بدوره، سيصبح الحي أفضل."
+        },
+        {
+          "pt": "Concordo. Sugiro que a gente também plante árvores no parque.",
+          "en": "I agree. I suggest we also plant trees in the park.",
+          "ar": "أوافق. أقترح أن نزرع الأشجار في الحديقة أيضًا."
+        }
+      ],
+      "answer": "Que ótimo! É fundamental que a gente separe o lixo em casa.",
+      "accepted": [],
+      "audio": "Que ótimo! É fundamental que a gente separe o lixo em casa.",
+      "explanation": {
+        "pt": "Você ouviu: 'Que ótimo! É fundamental que a gente separe o lixo em casa.' — 'Great! It's essential that we sort the garbage at home.'",
+        "en": "You heard: 'Que ótimo! É fundamental que a gente separe o lixo em casa.' — 'Great! It's essential that we sort the garbage at home.'",
+        "ar": "سمعت: 'Que ótimo! É fundamental que a gente separe o lixo em casa.' — 'رائع! من الضروري أن نفرز القمامة في المنزل.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "reciclagem?",
+          "en": "reciclagem?",
+          "ar": "reciclagem?"
+        },
+        {
+          "pt": "sabia",
+          "en": "sabia",
+          "ar": "sabia"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "sistema",
+          "en": "sistema",
+          "ar": "sistema"
+        },
+        {
+          "pt": "bairro",
+          "en": "bairro",
+          "ar": "bairro"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "um",
+          "en": "um",
+          "ar": "um"
+        },
+        {
+          "pt": "ganhar",
+          "en": "ganhar",
+          "ar": "ganhar"
+        },
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "vai",
+          "en": "vai",
+          "ar": "vai"
+        },
+        {
+          "pt": "nosso",
+          "en": "nosso",
+          "ar": "nosso"
+        }
+      ],
+      "answer": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
+      "accepted": [
+        "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?'",
+        "en": "The correct order: 'Did you know our neighborhood will get a recycling system?'",
+        "ar": "الترتيب الصحيح: 'هل تعلم أن حينا سيحصل على نظام لإعادة التدوير؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a poluição",
+          "en": "the pollution",
+          "ar": "a poluição"
+        },
+        {
+          "pt": "a sustentabilidade",
+          "en": "the recycling",
+          "ar": "a sustentabilidade"
+        },
+        {
+          "pt": "o meio ambiente",
+          "en": "the environment",
+          "ar": "o meio ambiente"
+        },
+        {
+          "pt": "o desmatamento",
+          "en": "the sustainability",
+          "ar": "o desmatamento"
+        },
+        {
+          "pt": "o lixo",
+          "en": "the deforestation",
+          "ar": "o lixo"
+        },
+        {
+          "pt": "a reciclagem",
+          "en": "the garbage",
+          "ar": "a reciclagem"
+        }
+      ],
+      "answer": "a poluição::the pollution|a sustentabilidade::the recycling|o meio ambiente::the environment|o desmatamento::the sustainability|o lixo::the deforestation|a reciclagem::the garbage",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
+          "en": "Great! It's essential that we sort the garbage at home.",
+          "ar": "أوافق. أقترح أن نزرع الأشجار في الحديقة أيضًا."
+        },
+        {
+          "pt": "Que ótimo! É fundamental que a gente separe o lixo em casa.",
+          "en": "I agree. I suggest we also plant trees in the park.",
+          "ar": "هل تعلم أن حينا سيحصل على نظام لإعادة التدوير؟"
+        },
+        {
+          "pt": "Concordo. Sugiro que a gente também plante árvores no parque.",
+          "en": "Did you know our neighborhood will get a recycling system?",
+          "ar": "رائع! من الضروري أن نفرز القمامة في المنزل."
+        }
+      ],
+      "answer": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
+      "accepted": [],
+      "audio": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
+      "explanation": {
+        "pt": "Você ouviu: 'Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?' — 'Did you know our neighborhood will get a recycling system?'",
+        "en": "You heard: 'Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?' — 'Did you know our neighborhood will get a recycling system?'",
+        "ar": "سمعت: 'Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?' — 'هل تعلم أن حينا سيحصل على نظام لإعادة التدوير؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Por causa do aquecimento global, temos que agir já.",
+          "en": "I agree. I suggest we also plant trees in the park.",
+          "ar": "أوافق. أقترح أن نزرع الأشجار في الحديقة أيضًا."
+        },
+        {
+          "pt": "Que ótimo! É fundamental que a gente separe o lixo em casa.",
+          "en": "Great! It's essential that we sort the garbage at home.",
+          "ar": "بسبب الاحتباس الحراري، يجب أن نتحرك الآن."
+        },
+        {
+          "pt": "Concordo. Sugiro que a gente também plante árvores no parque.",
+          "en": "Because of global warming, we have to act now.",
+          "ar": "رائع! من الضروري أن نفرز القمامة في المنزل."
+        }
+      ],
+      "answer": "Que ótimo! É fundamental que a gente separe o lixo em casa.",
+      "accepted": [],
+      "audio": "Que ótimo! É fundamental que a gente separe o lixo em casa.",
+      "explanation": {
+        "pt": "Você ouviu: 'Que ótimo! É fundamental que a gente separe o lixo em casa.' — 'Great! It's essential that we sort the garbage at home.'",
+        "en": "You heard: 'Que ótimo! É fundamental que a gente separe o lixo em casa.' — 'Great! It's essential that we sort the garbage at home.'",
+        "ar": "سمعت: 'Que ótimo! É fundamental que a gente separe o lixo em casa.' — 'رائع! من الضروري أن نفرز القمامة في المنزل.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "ganhar",
+          "en": "ganhar",
+          "ar": "ganhar"
+        },
+        {
+          "pt": "sistema",
+          "en": "sistema",
+          "ar": "sistema"
+        },
+        {
+          "pt": "reciclagem?",
+          "en": "reciclagem?",
+          "ar": "reciclagem?"
+        },
+        {
+          "pt": "um",
+          "en": "um",
+          "ar": "um"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        },
+        {
+          "pt": "sabia",
+          "en": "sabia",
+          "ar": "sabia"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "nosso",
+          "en": "nosso",
+          "ar": "nosso"
+        },
+        {
+          "pt": "bairro",
+          "en": "bairro",
+          "ar": "bairro"
+        },
+        {
+          "pt": "vai",
+          "en": "vai",
+          "ar": "vai"
+        }
+      ],
+      "answer": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
+      "accepted": [
+        "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?'",
+        "en": "The correct order: 'Did you know our neighborhood will get a recycling system?'",
+        "ar": "الترتيب الصحيح: 'هل تعلم أن حينا سيحصل على نظام لإعادة التدوير؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o lixo",
+          "en": "the environment",
+          "ar": "o lixo"
+        },
+        {
+          "pt": "a sustentabilidade",
+          "en": "the pollution",
+          "ar": "a sustentabilidade"
+        },
+        {
+          "pt": "o meio ambiente",
+          "en": "the garbage",
+          "ar": "o meio ambiente"
+        },
+        {
+          "pt": "a reciclagem",
+          "en": "the recycling",
+          "ar": "a reciclagem"
+        },
+        {
+          "pt": "a poluição",
+          "en": "the sustainability",
+          "ar": "a poluição"
+        },
+        {
+          "pt": "o desmatamento",
+          "en": "the deforestation",
+          "ar": "o desmatamento"
+        }
+      ],
+      "answer": "o lixo::the environment|a sustentabilidade::the pollution|o meio ambiente::the garbage|a reciclagem::the recycling|a poluição::the sustainability|o desmatamento::the deforestation",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
+          "en": "Great! It's essential that we sort the garbage at home.",
+          "ar": "رائع! من الضروري أن نفرز القمامة في المنزل."
+        },
+        {
+          "pt": "Boa ideia! Se cada um fizer a sua parte, o bairro fica melhor.",
+          "en": "Did you know our neighborhood will get a recycling system?",
+          "ar": "هل تعلم أن حينا سيحصل على نظام لإعادة التدوير؟"
+        },
+        {
+          "pt": "Que ótimo! É fundamental que a gente separe o lixo em casa.",
+          "en": "Good idea! If everyone does their part, the neighborhood gets better.",
+          "ar": "فكرة جيدة! إذا قام كل واحد بدوره، سيصبح الحي أفضل."
+        }
+      ],
+      "answer": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
+      "accepted": [],
+      "audio": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
+      "explanation": {
+        "pt": "Você ouviu: 'Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?' — 'Did you know our neighborhood will get a recycling system?'",
+        "en": "You heard: 'Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?' — 'Did you know our neighborhood will get a recycling system?'",
+        "ar": "سمعت: 'Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?' — 'هل تعلم أن حينا سيحصل على نظام لإعادة التدوير؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Que ótimo! É fundamental que a gente separe o lixo em casa.",
+          "en": "I agree. I suggest we also plant trees in the park.",
+          "ar": "أوافق. أقترح أن نزرع الأشجار في الحديقة أيضًا."
+        },
+        {
+          "pt": "Concordo. Sugiro que a gente também plante árvores no parque.",
+          "en": "Good idea! If everyone does their part, the neighborhood gets better.",
+          "ar": "رائع! من الضروري أن نفرز القمامة في المنزل."
+        },
+        {
+          "pt": "Boa ideia! Se cada um fizer a sua parte, o bairro fica melhor.",
+          "en": "Great! It's essential that we sort the garbage at home.",
+          "ar": "فكرة جيدة! إذا قام كل واحد بدوره، سيصبح الحي أفضل."
+        }
+      ],
+      "answer": "Que ótimo! É fundamental que a gente separe o lixo em casa.",
+      "accepted": [],
+      "audio": "Que ótimo! É fundamental que a gente separe o lixo em casa.",
+      "explanation": {
+        "pt": "Você ouviu: 'Que ótimo! É fundamental que a gente separe o lixo em casa.' — 'Great! It's essential that we sort the garbage at home.'",
+        "en": "You heard: 'Que ótimo! É fundamental que a gente separe o lixo em casa.' — 'Great! It's essential that we sort the garbage at home.'",
+        "ar": "سمعت: 'Que ótimo! É fundamental que a gente separe o lixo em casa.' — 'رائع! من الضروري أن نفرز القمامة في المنزل.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "vai",
+          "en": "vai",
+          "ar": "vai"
+        },
+        {
+          "pt": "reciclagem?",
+          "en": "reciclagem?",
+          "ar": "reciclagem?"
+        },
+        {
+          "pt": "sistema",
+          "en": "sistema",
+          "ar": "sistema"
+        },
+        {
+          "pt": "ganhar",
+          "en": "ganhar",
+          "ar": "ganhar"
+        },
+        {
+          "pt": "nosso",
+          "en": "nosso",
+          "ar": "nosso"
+        },
+        {
+          "pt": "um",
+          "en": "um",
+          "ar": "um"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "bairro",
+          "en": "bairro",
+          "ar": "bairro"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "sabia",
+          "en": "sabia",
+          "ar": "sabia"
+        },
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        }
+      ],
+      "answer": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
+      "accepted": [
+        "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?'",
+        "en": "The correct order: 'Did you know our neighborhood will get a recycling system?'",
+        "ar": "الترتيب الصحيح: 'هل تعلم أن حينا سيحصل على نظام لإعادة التدوير؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a sustentabilidade",
+          "en": "the sustainability",
+          "ar": "a sustentabilidade"
+        },
+        {
+          "pt": "a poluição",
+          "en": "the pollution",
+          "ar": "a poluição"
+        },
+        {
+          "pt": "o desmatamento",
+          "en": "the environment",
+          "ar": "o desmatamento"
+        },
+        {
+          "pt": "o lixo",
+          "en": "the recycling",
+          "ar": "o lixo"
+        },
+        {
+          "pt": "a reciclagem",
+          "en": "the garbage",
+          "ar": "a reciclagem"
+        },
+        {
+          "pt": "o meio ambiente",
+          "en": "the deforestation",
+          "ar": "o meio ambiente"
+        }
+      ],
+      "answer": "a sustentabilidade::the sustainability|a poluição::the pollution|o desmatamento::the environment|o lixo::the recycling|a reciclagem::the garbage|o meio ambiente::the deforestation",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Boa ideia! Se cada um fizer a sua parte, o bairro fica melhor.",
+          "en": "Did you know our neighborhood will get a recycling system?",
+          "ar": "فكرة جيدة! إذا قام كل واحد بدوره، سيصبح الحي أفضل."
+        },
+        {
+          "pt": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
+          "en": "Good idea! If everyone does their part, the neighborhood gets better.",
+          "ar": "هل تعلم أن حينا سيحصل على نظام لإعادة التدوير؟"
+        },
+        {
+          "pt": "Por causa do aquecimento global, temos que agir já.",
+          "en": "Because of global warming, we have to act now.",
+          "ar": "بسبب الاحتباس الحراري، يجب أن نتحرك الآن."
+        }
+      ],
+      "answer": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
+      "accepted": [],
+      "audio": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
+      "explanation": {
+        "pt": "Você ouviu: 'Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?' — 'Did you know our neighborhood will get a recycling system?'",
+        "en": "You heard: 'Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?' — 'Did you know our neighborhood will get a recycling system?'",
+        "ar": "سمعت: 'Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?' — 'هل تعلم أن حينا سيحصل على نظام لإعادة التدوير؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Que ótimo! É fundamental que a gente separe o lixo em casa.",
+          "en": "Great! It's essential that we sort the garbage at home.",
+          "ar": "بسبب الاحتباس الحراري، يجب أن نتحرك الآن."
+        },
+        {
+          "pt": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
+          "en": "Because of global warming, we have to act now.",
+          "ar": "هل تعلم أن حينا سيحصل على نظام لإعادة التدوير؟"
+        },
+        {
+          "pt": "Por causa do aquecimento global, temos que agir já.",
+          "en": "Did you know our neighborhood will get a recycling system?",
+          "ar": "رائع! من الضروري أن نفرز القمامة في المنزل."
+        }
+      ],
+      "answer": "Que ótimo! É fundamental que a gente separe o lixo em casa.",
+      "accepted": [],
+      "audio": "Que ótimo! É fundamental que a gente separe o lixo em casa.",
+      "explanation": {
+        "pt": "Você ouviu: 'Que ótimo! É fundamental que a gente separe o lixo em casa.' — 'Great! It's essential that we sort the garbage at home.'",
+        "en": "You heard: 'Que ótimo! É fundamental que a gente separe o lixo em casa.' — 'Great! It's essential that we sort the garbage at home.'",
+        "ar": "سمعت: 'Que ótimo! É fundamental que a gente separe o lixo em casa.' — 'رائع! من الضروري أن نفرز القمامة في المنزل.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "vai",
+          "en": "vai",
+          "ar": "vai"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "reciclagem?",
+          "en": "reciclagem?",
+          "ar": "reciclagem?"
+        },
+        {
+          "pt": "sabia",
+          "en": "sabia",
+          "ar": "sabia"
+        },
+        {
+          "pt": "sistema",
+          "en": "sistema",
+          "ar": "sistema"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "bairro",
+          "en": "bairro",
+          "ar": "bairro"
+        },
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        },
+        {
+          "pt": "ganhar",
+          "en": "ganhar",
+          "ar": "ganhar"
+        },
+        {
+          "pt": "nosso",
+          "en": "nosso",
+          "ar": "nosso"
+        },
+        {
+          "pt": "um",
+          "en": "um",
+          "ar": "um"
+        }
+      ],
+      "answer": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
+      "accepted": [
+        "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?'",
+        "en": "The correct order: 'Did you know our neighborhood will get a recycling system?'",
+        "ar": "الترتيب الصحيح: 'هل تعلم أن حينا سيحصل على نظام لإعادة التدوير؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o desmatamento",
+          "en": "the deforestation",
+          "ar": "o desmatamento"
+        },
+        {
+          "pt": "o lixo",
+          "en": "the environment",
+          "ar": "o lixo"
+        },
+        {
+          "pt": "a reciclagem",
+          "en": "the garbage",
+          "ar": "a reciclagem"
+        },
+        {
+          "pt": "a poluição",
+          "en": "the pollution",
+          "ar": "a poluição"
+        },
+        {
+          "pt": "o meio ambiente",
+          "en": "the recycling",
+          "ar": "o meio ambiente"
+        },
+        {
+          "pt": "a sustentabilidade",
+          "en": "the sustainability",
+          "ar": "a sustentabilidade"
+        }
+      ],
+      "answer": "o desmatamento::the deforestation|o lixo::the environment|a reciclagem::the garbage|a poluição::the pollution|o meio ambiente::the recycling|a sustentabilidade::the sustainability",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Por causa do aquecimento global, temos que agir já.",
+          "en": "Did you know our neighborhood will get a recycling system?",
+          "ar": "بسبب الاحتباس الحراري، يجب أن نتحرك الآن."
+        },
+        {
+          "pt": "Boa ideia! Se cada um fizer a sua parte, o bairro fica melhor.",
+          "en": "Because of global warming, we have to act now.",
+          "ar": "هل تعلم أن حينا سيحصل على نظام لإعادة التدوير؟"
+        },
+        {
+          "pt": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
+          "en": "Good idea! If everyone does their part, the neighborhood gets better.",
+          "ar": "فكرة جيدة! إذا قام كل واحد بدوره، سيصبح الحي أفضل."
+        }
+      ],
+      "answer": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
+      "accepted": [],
+      "audio": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
+      "explanation": {
+        "pt": "Você ouviu: 'Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?' — 'Did you know our neighborhood will get a recycling system?'",
+        "en": "You heard: 'Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?' — 'Did you know our neighborhood will get a recycling system?'",
+        "ar": "سمعت: 'Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?' — 'هل تعلم أن حينا سيحصل على نظام لإعادة التدوير؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
+          "en": "Because of global warming, we have to act now.",
+          "ar": "بسبب الاحتباس الحراري، يجب أن نتحرك الآن."
+        },
+        {
+          "pt": "Que ótimo! É fundamental que a gente separe o lixo em casa.",
+          "en": "Great! It's essential that we sort the garbage at home.",
+          "ar": "رائع! من الضروري أن نفرز القمامة في المنزل."
+        },
+        {
+          "pt": "Por causa do aquecimento global, temos que agir já.",
+          "en": "Did you know our neighborhood will get a recycling system?",
+          "ar": "هل تعلم أن حينا سيحصل على نظام لإعادة التدوير؟"
+        }
+      ],
+      "answer": "Que ótimo! É fundamental que a gente separe o lixo em casa.",
+      "accepted": [],
+      "audio": "Que ótimo! É fundamental que a gente separe o lixo em casa.",
+      "explanation": {
+        "pt": "Você ouviu: 'Que ótimo! É fundamental que a gente separe o lixo em casa.' — 'Great! It's essential that we sort the garbage at home.'",
+        "en": "You heard: 'Que ótimo! É fundamental que a gente separe o lixo em casa.' — 'Great! It's essential that we sort the garbage at home.'",
+        "ar": "سمعت: 'Que ótimo! É fundamental que a gente separe o lixo em casa.' — 'رائع! من الضروري أن نفرز القمامة في المنزل.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        },
+        {
+          "pt": "nosso",
+          "en": "nosso",
+          "ar": "nosso"
+        },
+        {
+          "pt": "ganhar",
+          "en": "ganhar",
+          "ar": "ganhar"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "bairro",
+          "en": "bairro",
+          "ar": "bairro"
+        },
+        {
+          "pt": "um",
+          "en": "um",
+          "ar": "um"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "sistema",
+          "en": "sistema",
+          "ar": "sistema"
+        },
+        {
+          "pt": "vai",
+          "en": "vai",
+          "ar": "vai"
+        },
+        {
+          "pt": "reciclagem?",
+          "en": "reciclagem?",
+          "ar": "reciclagem?"
+        },
+        {
+          "pt": "sabia",
+          "en": "sabia",
+          "ar": "sabia"
+        }
+      ],
+      "answer": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
+      "accepted": [
+        "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?'",
+        "en": "The correct order: 'Did you know our neighborhood will get a recycling system?'",
+        "ar": "الترتيب الصحيح: 'هل تعلم أن حينا سيحصل على نظام لإعادة التدوير؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a sustentabilidade",
+          "en": "the environment",
+          "ar": "a sustentabilidade"
+        },
+        {
+          "pt": "o lixo",
+          "en": "the pollution",
+          "ar": "o lixo"
+        },
+        {
+          "pt": "o meio ambiente",
+          "en": "the deforestation",
+          "ar": "o meio ambiente"
+        },
+        {
+          "pt": "a reciclagem",
+          "en": "the recycling",
+          "ar": "a reciclagem"
+        },
+        {
+          "pt": "a poluição",
+          "en": "the garbage",
+          "ar": "a poluição"
+        },
+        {
+          "pt": "o desmatamento",
+          "en": "the sustainability",
+          "ar": "o desmatamento"
+        }
+      ],
+      "answer": "a sustentabilidade::the environment|o lixo::the pollution|o meio ambiente::the deforestation|a reciclagem::the recycling|a poluição::the garbage|o desmatamento::the sustainability",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Que ótimo! É fundamental que a gente separe o lixo em casa.",
+          "en": "Did you know our neighborhood will get a recycling system?",
+          "ar": "هل تعلم أن حينا سيحصل على نظام لإعادة التدوير؟"
+        },
+        {
+          "pt": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
+          "en": "I agree. I suggest we also plant trees in the park.",
+          "ar": "أوافق. أقترح أن نزرع الأشجار في الحديقة أيضًا."
+        },
+        {
+          "pt": "Concordo. Sugiro que a gente também plante árvores no parque.",
+          "en": "Great! It's essential that we sort the garbage at home.",
+          "ar": "رائع! من الضروري أن نفرز القمامة في المنزل."
+        }
+      ],
+      "answer": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
+      "accepted": [],
+      "audio": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
+      "explanation": {
+        "pt": "Você ouviu: 'Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?' — 'Did you know our neighborhood will get a recycling system?'",
+        "en": "You heard: 'Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?' — 'Did you know our neighborhood will get a recycling system?'",
+        "ar": "سمعت: 'Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?' — 'هل تعلم أن حينا سيحصل على نظام لإعادة التدوير؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Que ótimo! É fundamental que a gente separe o lixo em casa.",
+          "en": "Great! It's essential that we sort the garbage at home.",
+          "ar": "هل تعلم أن حينا سيحصل على نظام لإعادة التدوير؟"
+        },
+        {
+          "pt": "Boa ideia! Se cada um fizer a sua parte, o bairro fica melhor.",
+          "en": "Did you know our neighborhood will get a recycling system?",
+          "ar": "فكرة جيدة! إذا قام كل واحد بدوره، سيصبح الحي أفضل."
+        },
+        {
+          "pt": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
+          "en": "Good idea! If everyone does their part, the neighborhood gets better.",
+          "ar": "رائع! من الضروري أن نفرز القمامة في المنزل."
+        }
+      ],
+      "answer": "Que ótimo! É fundamental que a gente separe o lixo em casa.",
+      "accepted": [],
+      "audio": "Que ótimo! É fundamental que a gente separe o lixo em casa.",
+      "explanation": {
+        "pt": "Você ouviu: 'Que ótimo! É fundamental que a gente separe o lixo em casa.' — 'Great! It's essential that we sort the garbage at home.'",
+        "en": "You heard: 'Que ótimo! É fundamental que a gente separe o lixo em casa.' — 'Great! It's essential that we sort the garbage at home.'",
+        "ar": "سمعت: 'Que ótimo! É fundamental que a gente separe o lixo em casa.' — 'رائع! من الضروري أن نفرز القمامة في المنزل.'"
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'the environment'",
+        "en": "Type in Portuguese: 'the environment'",
+        "ar": "اكتب بالبرتغالية: 'البيئة'"
+      },
+      "options": [],
+      "answer": "o meio ambiente",
+      "accepted": [
+        "o meio ambiente"
+      ],
+      "explanation": {
+        "pt": "'o meio ambiente' significa 'the environment'.",
+        "en": "'o meio ambiente' means 'the environment'.",
+        "ar": "'$o meio ambiente' بالعربية: '$البيئة'."
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'the sustainability'",
+        "en": "Type in Portuguese: 'the sustainability'",
+        "ar": "اكتب بالبرتغالية: 'الاستدامة'"
+      },
+      "options": [],
+      "answer": "a sustentabilidade",
+      "accepted": [
+        "a sustentabilidade"
+      ],
+      "explanation": {
+        "pt": "'a sustentabilidade' significa 'the sustainability'.",
+        "en": "'a sustentabilidade' means 'the sustainability'.",
+        "ar": "'$a sustentabilidade' بالعربية: '$الاستدامة'."
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Por causa do aquecimento global, temos que agir já.",
+          "en": "Por causa do aquecimento global, temos que agir já.",
+          "ar": "Por causa do aquecimento global, temos que agir já."
+        },
+        {
+          "pt": "Boa ideia! Se cada um fizer a sua parte, o bairro fica melhor.",
+          "en": "Boa ideia! Se cada um fizer a sua parte, o bairro fica melhor.",
+          "ar": "Boa ideia! Se cada um fizer a sua parte, o bairro fica melhor."
+        },
+        {
+          "pt": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
+          "en": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
+          "ar": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?"
+        }
+      ],
+      "answer": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
+      "accepted": [],
+      "audio": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
+      "explanation": {
+        "pt": "Você ouviu: 'Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?'",
+        "en": "You heard: 'Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?'",
+        "ar": "سمعت: 'Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?'"
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Concordo. Sugiro que a gente também plante árvores no parque.",
+          "en": "Concordo. Sugiro que a gente também plante árvores no parque.",
+          "ar": "Concordo. Sugiro que a gente também plante árvores no parque."
+        },
+        {
+          "pt": "Que ótimo! É fundamental que a gente separe o lixo em casa.",
+          "en": "Que ótimo! É fundamental que a gente separe o lixo em casa.",
+          "ar": "Que ótimo! É fundamental que a gente separe o lixo em casa."
+        },
+        {
+          "pt": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
+          "en": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
+          "ar": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?"
+        }
+      ],
+      "answer": "Que ótimo! É fundamental que a gente separe o lixo em casa.",
+      "accepted": [],
+      "audio": "Que ótimo! É fundamental que a gente separe o lixo em casa.",
+      "explanation": {
+        "pt": "Você ouviu: 'Que ótimo! É fundamental que a gente separe o lixo em casa.'",
+        "en": "You heard: 'Que ótimo! É fundamental que a gente separe o lixo em casa.'",
+        "ar": "سمعت: 'Que ótimo! É fundamental que a gente separe o lixo em casa.'"
+      }
+    },
+    {
+      "type": "dictation",
+      "prompt": {
+        "pt": "Ouça e escreva o que você ouviu.",
+        "en": "Listen and type what you hear.",
+        "ar": "استمع واكتب ما سمعته."
+      },
+      "options": [],
+      "answer": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
+      "accepted": [],
+      "audio": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
+      "explanation": {
+        "pt": "A frase correta: 'Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?'",
+        "en": "The correct sentence: 'Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?'",
+        "ar": "الجملة الصحيحة: 'Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "sistema",
+          "en": "sistema",
+          "ar": "sistema"
+        },
+        {
+          "pt": "nosso",
+          "en": "nosso",
+          "ar": "nosso"
+        },
+        {
+          "pt": "reciclagem?",
+          "en": "reciclagem?",
+          "ar": "reciclagem?"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "um",
+          "en": "um",
+          "ar": "um"
+        },
+        {
+          "pt": "vai",
+          "en": "vai",
+          "ar": "vai"
+        },
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        },
+        {
+          "pt": "sabia",
+          "en": "sabia",
+          "ar": "sabia"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "ganhar",
+          "en": "ganhar",
+          "ar": "ganhar"
+        },
+        {
+          "pt": "bairro",
+          "en": "bairro",
+          "ar": "bairro"
+        }
+      ],
+      "answer": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
+      "accepted": [
+        "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?'",
+        "en": "The correct order: 'Did you know our neighborhood will get a recycling system?'",
+        "ar": "الترتيب الصحيح: 'هل تعلم أن حينا سيحصل على نظام لإعادة التدوير؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o meio ambiente",
+          "en": "the garbage",
+          "ar": "o meio ambiente"
+        },
+        {
+          "pt": "o lixo",
+          "en": "the environment",
+          "ar": "o lixo"
+        },
+        {
+          "pt": "a sustentabilidade",
+          "en": "the recycling",
+          "ar": "a sustentabilidade"
+        },
+        {
+          "pt": "a poluição",
+          "en": "the pollution",
+          "ar": "a poluição"
+        },
+        {
+          "pt": "a reciclagem",
+          "en": "the sustainability",
+          "ar": "a reciclagem"
+        },
+        {
+          "pt": "o desmatamento",
+          "en": "the deforestation",
+          "ar": "o desmatamento"
+        }
+      ],
+      "answer": "o meio ambiente::the garbage|o lixo::the environment|a sustentabilidade::the recycling|a poluição::the pollution|a reciclagem::the sustainability|o desmatamento::the deforestation",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Que ótimo! É fundamental que a gente separe o lixo em casa.",
+          "en": "Did you know our neighborhood will get a recycling system?",
+          "ar": "بسبب الاحتباس الحراري، يجب أن نتحرك الآن."
+        },
+        {
+          "pt": "Por causa do aquecimento global, temos que agir já.",
+          "en": "Because of global warming, we have to act now.",
+          "ar": "رائع! من الضروري أن نفرز القمامة في المنزل."
+        },
+        {
+          "pt": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
+          "en": "Great! It's essential that we sort the garbage at home.",
+          "ar": "هل تعلم أن حينا سيحصل على نظام لإعادة التدوير؟"
+        }
+      ],
+      "answer": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
+      "accepted": [],
+      "audio": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
+      "explanation": {
+        "pt": "Você ouviu: 'Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?' — 'Did you know our neighborhood will get a recycling system?'",
+        "en": "You heard: 'Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?' — 'Did you know our neighborhood will get a recycling system?'",
+        "ar": "سمعت: 'Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?' — 'هل تعلم أن حينا سيحصل على نظام لإعادة التدوير؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Boa ideia! Se cada um fizer a sua parte, o bairro fica melhor.",
+          "en": "Because of global warming, we have to act now.",
+          "ar": "بسبب الاحتباس الحراري، يجب أن نتحرك الآن."
+        },
+        {
+          "pt": "Por causa do aquecimento global, temos que agir já.",
+          "en": "Great! It's essential that we sort the garbage at home.",
+          "ar": "رائع! من الضروري أن نفرز القمامة في المنزل."
+        },
+        {
+          "pt": "Que ótimo! É fundamental que a gente separe o lixo em casa.",
+          "en": "Good idea! If everyone does their part, the neighborhood gets better.",
+          "ar": "فكرة جيدة! إذا قام كل واحد بدوره، سيصبح الحي أفضل."
+        }
+      ],
+      "answer": "Que ótimo! É fundamental que a gente separe o lixo em casa.",
+      "accepted": [],
+      "audio": "Que ótimo! É fundamental que a gente separe o lixo em casa.",
+      "explanation": {
+        "pt": "Você ouviu: 'Que ótimo! É fundamental que a gente separe o lixo em casa.' — 'Great! It's essential that we sort the garbage at home.'",
+        "en": "You heard: 'Que ótimo! É fundamental que a gente separe o lixo em casa.' — 'Great! It's essential that we sort the garbage at home.'",
+        "ar": "سمعت: 'Que ótimo! É fundamental que a gente separe o lixo em casa.' — 'رائع! من الضروري أن نفرز القمامة في المنزل.'"
+      }
+    }
+  ],
+  "speaking": {
+    "title": {
+      "pt": "Fale Agora — Ouça e Repita",
+      "en": "Speak Now — Listen and Repeat",
+      "ar": "تحدث الآن — استمع وكرر"
+    },
+    "phrases": [
+      {
+        "pt": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
+        "en": "Did you know our neighborhood will get a recycling system?",
+        "ar": "هل تعلم أن حينا سيحصل على نظام لإعادة التدوير؟"
+      },
+      {
+        "pt": "Que ótimo! É fundamental que a gente separe o lixo em casa.",
+        "en": "Great! It's essential that we sort the garbage at home.",
+        "ar": "رائع! من الضروري أن نفرز القمامة في المنزل."
+      },
+      {
+        "pt": "Por causa do aquecimento global, temos que agir já.",
+        "en": "Because of global warming, we have to act now.",
+        "ar": "بسبب الاحتباس الحراري، يجب أن نتحرك الآن."
+      },
+      {
+        "pt": "Concordo. Sugiro que a gente também plante árvores no parque.",
+        "en": "I agree. I suggest we also plant trees in the park.",
+        "ar": "أوافق. أقترح أن نزرع الأشجار في الحديقة أيضًا."
+      },
+      {
+        "pt": "Boa ideia! Se cada um fizer a sua parte, o bairro fica melhor.",
+        "en": "Good idea! If everyone does their part, the neighborhood gets better.",
+        "ar": "فكرة جيدة! إذا قام كل واحد بدوره، سيصبح الحي أفضل."
+      },
+      {
+        "pt": "o meio ambiente",
+        "en": "the environment",
+        "ar": "البيئة"
+      },
+      {
+        "pt": "a sustentabilidade",
+        "en": "the sustainability",
+        "ar": "الاستدامة"
+      },
+      {
+        "pt": "o desmatamento",
+        "en": "the deforestation",
+        "ar": "إزالة الغابات"
+      }
+    ]
+  },
+  "cultural_tips": {
+    "pt": "",
+    "en": "",
+    "ar": ""
+  }
+}

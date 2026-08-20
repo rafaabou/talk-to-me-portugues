@@ -1,0 +1,1950 @@
+{
+  "id": "A1-05",
+  "level": "A1",
+  "level_name": {
+    "pt": "Iniciante",
+    "en": "Beginner",
+    "ar": "مبتدئ"
+  },
+  "title": {
+    "pt": "Verbo Ser e Estar",
+    "en": "Verb to Be (Ser/Estar)",
+    "ar": "فعل الكينونة (Ser/Estar)"
+  },
+  "objectives": [
+    {
+      "pt": "Diferenciar os verbos 'ser' e 'estar'",
+      "en": "Differentiate the verbs 'ser' and 'estar'",
+      "ar": "التمييز بين الفعلين 'ser' و 'estar'"
+    },
+    {
+      "pt": "Conjugar ser e estar no presente",
+      "en": "Conjugate ser and estar in the present",
+      "ar": "تصريف ser و estar في المضارع"
+    },
+    {
+      "pt": "Usar ser para características e estar para estados",
+      "en": "Use ser for characteristics and estar for states",
+      "ar": "استخدام ser للصفات الدائمة و estar للحالات المؤقتة"
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "ser",
+      "ipa": "/seʁ/",
+      "en": "to be (permanent)",
+      "ar": "يكون (صفة دائمة)",
+      "example": {
+        "pt": "Olá, eu sou o João. Eu sou engenheiro.",
+        "en": "Hello, I'm João. I'm an engineer.",
+        "ar": "مرحبًا، أنا جواو. أنا مهندس."
+      }
+    },
+    {
+      "pt": "estar",
+      "ipa": "/isˈtaʁ/",
+      "en": "to be (temporary)",
+      "ar": "يكون (حالة مؤقتة)",
+      "example": {
+        "pt": "Olá, eu sou o João. Eu sou engenheiro.",
+        "en": "Hello, I'm João. I'm an engineer.",
+        "ar": "مرحبًا، أنا جواو. أنا مهندس."
+      }
+    },
+    {
+      "pt": "eu sou",
+      "ipa": "/ew sow/",
+      "en": "I am",
+      "ar": "أنا (دائم)",
+      "example": {
+        "pt": "Olá, eu sou o João. Eu sou engenheiro.",
+        "en": "Hello, I'm João. I'm an engineer.",
+        "ar": "مرحبًا، أنا جواو. أنا مهندس."
+      }
+    },
+    {
+      "pt": "eu estou",
+      "ipa": "/ew isˈtow/",
+      "en": "I am (temporarily)",
+      "ar": "أنا (مؤقتًا)",
+      "example": {
+        "pt": "Olá, eu sou o João. Eu sou engenheiro.",
+        "en": "Hello, I'm João. I'm an engineer.",
+        "ar": "مرحبًا، أنا جواو. أنا مهندس."
+      }
+    },
+    {
+      "pt": "feliz",
+      "ipa": "/feˈlis/",
+      "en": "happy",
+      "ar": "سعيد",
+      "example": {
+        "pt": "Muito prazer! Eu estou muito feliz de trabalhar com você.",
+        "en": "Nice to meet you! I'm very happy to work with you.",
+        "ar": "سررت بلقائك! أنا سعيدة جدًا بالعمل معك."
+      }
+    },
+    {
+      "pt": "cansado",
+      "ipa": "/kɐ̃ˈza.du/",
+      "en": "tired",
+      "ar": "متعب",
+      "example": {
+        "pt": "Eu também. Eu estou um pouco cansado hoje.",
+        "en": "Me too. I'm a little tired today.",
+        "ar": "وأنا أيضًا. أنا متعب قليلًا اليوم."
+      }
+    },
+    {
+      "pt": "brasileiro",
+      "ipa": "/bɾa.ziˈlej.ɾu/",
+      "en": "Brazilian",
+      "ar": "برازيلي",
+      "example": {
+        "pt": "Olá, eu sou o João. Eu sou engenheiro.",
+        "en": "Hello, I'm João. I'm an engineer.",
+        "ar": "مرحبًا، أنا جواو. أنا مهندس."
+      }
+    },
+    {
+      "pt": "professor",
+      "ipa": "/pɾo.feˈsoʁ/",
+      "en": "teacher",
+      "ar": "معلم",
+      "example": {
+        "pt": "Eu sou professor.",
+        "en": "I am a teacher. (identity)",
+        "ar": "أنا معلم. (هوية)"
+      }
+    },
+    {
+      "pt": "doente",
+      "ipa": "/duˈẽ.tʃi/",
+      "en": "sick",
+      "ar": "مريض",
+      "example": {
+        "pt": "Ele está doente.",
+        "en": "He is sick. (temporary)",
+        "ar": "هو مريض. (حالة مؤقتة)"
+      }
+    },
+    {
+      "pt": "ocupado",
+      "ipa": "/o.kuˈpa.du/",
+      "en": "busy",
+      "ar": "مشغول",
+      "example": {
+        "pt": "Olá, eu sou o João. Eu sou engenheiro.",
+        "en": "Hello, I'm João. I'm an engineer.",
+        "ar": "مرحبًا، أنا جواو. أنا مهندس."
+      }
+    },
+    {
+      "pt": "alto",
+      "ipa": "/ˈaw.tu/",
+      "en": "tall",
+      "ar": "طويل القامة",
+      "example": {
+        "pt": "Olá, eu sou o João. Eu sou engenheiro.",
+        "en": "Hello, I'm João. I'm an engineer.",
+        "ar": "مرحبًا، أنا جواو. أنا مهندس."
+      }
+    },
+    {
+      "pt": "inteligente",
+      "ipa": "/ĩ.tɛ.liˈʒẽ.tʃi/",
+      "en": "intelligent",
+      "ar": "ذكي",
+      "example": {
+        "pt": "Você é muito inteligente.",
+        "en": "You are very intelligent.",
+        "ar": "أنت ذكي جدًا."
+      }
+    },
+    {
+      "pt": "hoje",
+      "ipa": "/ˈɔ.ʒi/",
+      "en": "today",
+      "ar": "اليوم",
+      "example": {
+        "pt": "Eu também. Eu estou um pouco cansado hoje.",
+        "en": "Me too. I'm a little tired today.",
+        "ar": "وأنا أيضًا. أنا متعب قليلًا اليوم."
+      }
+    },
+    {
+      "pt": "agora",
+      "ipa": "/aˈɡɔ.ɾa/",
+      "en": "now",
+      "ar": "الآن",
+      "example": {
+        "pt": "Eles estão na escola agora.",
+        "en": "They are at school now.",
+        "ar": "هم في المدرسة الآن."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "title": {
+        "pt": "Ser vs. Estar",
+        "en": "Ser vs. Estar",
+        "ar": "Ser مقابل Estar"
+      },
+      "explanation": {
+        "pt": "'Ser' é usado para características permanentes, identidade e origem: Eu sou brasileiro (I am Brazilian). 'Estar' é usado para estados temporários, condições e localização: Eu estou cansado (I am tired). As duas palavras significam 'to be' mas são usadas em contextos diferentes.",
+        "en": "'Ser' is used for permanent characteristics, identity and origin: Eu sou brasileiro (I am Brazilian). 'Estar' is used for temporary states, conditions and location: Eu estou cansado (I am tired). Both words mean 'to be' but are used in different contexts.",
+        "ar": "يُستخدم 'ser' للصفات الدائمة والهوية والأصل: Eu sou brasileiro (أنا برازيلي). ويُستخدم 'estar' للحالات المؤقتة والأحوال والمكان: Eu estou cansado (أنا متعب). كلتا الكلمتين تعني 'يكون' لكن تُستخدمان في سياقات مختلفة."
+      },
+      "examples": [
+        {
+          "pt": "Eu sou professor.",
+          "en": "I am a teacher. (identity)",
+          "ar": "أنا معلم. (هوية)"
+        },
+        {
+          "pt": "Eu estou cansado.",
+          "en": "I am tired. (temporary)",
+          "ar": "أنا متعب. (مؤقت)"
+        },
+        {
+          "pt": "Ela é feliz.",
+          "en": "She is happy. (characteristic)",
+          "ar": "هي سعيدة. (صفة دائمة)"
+        },
+        {
+          "pt": "Ele está doente.",
+          "en": "He is sick. (temporary)",
+          "ar": "هو مريض. (حالة مؤقتة)"
+        }
+      ]
+    },
+    {
+      "title": {
+        "pt": "Conjugação de Ser e Estar",
+        "en": "Conjugation of Ser and Estar",
+        "ar": "تصريف Ser و Estar"
+      },
+      "explanation": {
+        "pt": "Ser: eu sou, você é, ele/ela é, nós somos, vocês são, eles/elas são. Estar: eu estou, você está, ele/ela está, nós estamos, vocês estão, eles/elas estão. Observe que 'você' usa a terceira pessoa.",
+        "en": "Ser: eu sou (I am), você é (you are), ele/ela é (he/she is), nós somos (we are), vocês são (you pl. are), eles/elas são (they are). Estar: eu estou, você está, ele/ela está, nós estamos, vocês estão, eles/elas estão. Note that 'você' uses the third person.",
+        "ar": "Ser: eu sou (أنا)، você é (أنتَ)، ele/ela é (هو/هي)، nós somos (نحن)، vocês são (أنتم)، eles/elas são (هم/هن). Estar: eu estou، você está، ele/ela está، nós estamos، vocês estão، eles/elas estão. لاحظ أن 'você' تستخدم صيغة الغائب."
+      },
+      "examples": [
+        {
+          "pt": "Nós somos estudantes.",
+          "en": "We are students.",
+          "ar": "نحن طلاب."
+        },
+        {
+          "pt": "Eles estão na escola agora.",
+          "en": "They are at school now.",
+          "ar": "هم في المدرسة الآن."
+        },
+        {
+          "pt": "Você é muito inteligente.",
+          "en": "You are very intelligent.",
+          "ar": "أنت ذكي جدًا."
+        }
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": {
+      "pt": "Apresentação no Trabalho",
+      "en": "Introduction at Work",
+      "ar": "التعريف في العمل"
+    },
+    "lines": [
+      {
+        "speaker": "João",
+        "pt": "Olá, eu sou o João. Eu sou engenheiro.",
+        "en": "Hello, I'm João. I'm an engineer.",
+        "ar": "مرحبًا، أنا جواو. أنا مهندس."
+      },
+      {
+        "speaker": "Maria",
+        "pt": "Muito prazer! Eu estou muito feliz de trabalhar com você.",
+        "en": "Nice to meet you! I'm very happy to work with you.",
+        "ar": "سررت بلقائك! أنا سعيدة جدًا بالعمل معك."
+      },
+      {
+        "speaker": "João",
+        "pt": "Eu também. Eu estou um pouco cansado hoje.",
+        "en": "Me too. I'm a little tired today.",
+        "ar": "وأنا أيضًا. أنا متعب قليلًا اليوم."
+      },
+      {
+        "speaker": "Maria",
+        "pt": "Descansa no fim de semana. Você é muito dedicado.",
+        "en": "Rest on the weekend. You are very dedicated.",
+        "ar": "استرح في عطلة نهاية الأسبوع. أنت مخلص جدًا."
+      }
+    ]
+  },
+  "reading": {
+    "title": {
+      "pt": "Quem É a Ana?",
+      "en": "Who Is Ana?",
+      "ar": "من هي آنا؟"
+    },
+    "text_pt": "Ana é brasileira. Ela é alta e inteligente. Hoje ela está feliz porque está de férias. O irmão dela, Paulo, é engenheiro. Ele está no Rio de Janeiro agora. Os dois estão ocupados mas são muito amigos.",
+    "text_en": "Ana is Brazilian. She is tall and intelligent. Today she is happy because she is on vacation. Her brother, Paulo, is an engineer. He is in Rio de Janeiro now. They are both busy but they are good friends.",
+    "text_ar": "آنا برازيلية. إنها طويلة وذكية. اليوم هي سعيدة لأنها في إجازة. أخوها باولو مهندس. هو في ريو دي جانيرو الآن. كلاهما مشغولان لكنهما صديقان حميمان."
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Eu ___ brasileiro. (característica permanente)",
+        "en": "I ___ Brazilian. (permanent characteristic)",
+        "ar": "أنا برازيلي. (صفة دائمة)"
+      },
+      "options": [
+        {
+          "pt": "estou",
+          "en": "estou",
+          "ar": "estou"
+        },
+        {
+          "pt": "sou",
+          "en": "sou",
+          "ar": "sou"
+        },
+        {
+          "pt": "estar",
+          "en": "estar",
+          "ar": "estar"
+        }
+      ],
+      "answer": "sou",
+      "explanation": {
+        "pt": "Nacionalidade usa 'ser': eu sou.",
+        "en": "Nationality uses 'ser': eu sou.",
+        "ar": "الجنسية تستخدم 'ser': eu sou."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Ele ___ doente hoje. (estado temporário)",
+        "en": "He ___ sick today. (temporary state)",
+        "ar": "هو مريض اليوم. (حالة مؤقتة)"
+      },
+      "options": [
+        {
+          "pt": "é",
+          "en": "é",
+          "ar": "é"
+        },
+        {
+          "pt": "está",
+          "en": "está",
+          "ar": "está"
+        },
+        {
+          "pt": "são",
+          "en": "são",
+          "ar": "são"
+        }
+      ],
+      "answer": "está",
+      "explanation": {
+        "pt": "Estados temporários usam 'estar': ele está.",
+        "en": "Temporary states use 'estar': ele está.",
+        "ar": "الحالات المؤقتة تستخدم 'estar': ele está."
+      }
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza: 'I am tired'",
+        "en": "Translate: 'I am tired'",
+        "ar": "ترجم: 'I am tired'"
+      },
+      "options": [],
+      "answer": "Eu estou cansado",
+      "explanation": {
+        "pt": "Cansaço é temporário: 'Eu estou cansado'.",
+        "en": "Tiredness is temporary: 'Eu estou cansado'.",
+        "ar": "التعب حالة مؤقتة: 'Eu estou cansado'."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "João.",
+          "en": "João.",
+          "ar": "João."
+        },
+        {
+          "pt": "engenheiro.",
+          "en": "engenheiro.",
+          "ar": "engenheiro."
+        },
+        {
+          "pt": "Eu",
+          "en": "Eu",
+          "ar": "Eu"
+        },
+        {
+          "pt": "sou",
+          "en": "sou",
+          "ar": "sou"
+        },
+        {
+          "pt": "eu",
+          "en": "eu",
+          "ar": "eu"
+        },
+        {
+          "pt": "Olá,",
+          "en": "Olá,",
+          "ar": "Olá,"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "sou",
+          "en": "sou",
+          "ar": "sou"
+        }
+      ],
+      "answer": "Olá, eu sou o João. Eu sou engenheiro.",
+      "accepted": [
+        "Olá, eu sou o João. Eu sou engenheiro."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Olá, eu sou o João. Eu sou engenheiro.'",
+        "en": "The correct order: 'Hello, I'm João. I'm an engineer.'",
+        "ar": "الترتيب الصحيح: 'مرحبًا، أنا جواو. أنا مهندس.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "feliz",
+          "en": "to be (temporary)",
+          "ar": "feliz"
+        },
+        {
+          "pt": "eu sou",
+          "en": "tired",
+          "ar": "eu sou"
+        },
+        {
+          "pt": "eu estou",
+          "en": "to be (permanent)",
+          "ar": "eu estou"
+        },
+        {
+          "pt": "cansado",
+          "en": "I am",
+          "ar": "cansado"
+        },
+        {
+          "pt": "ser",
+          "en": "happy",
+          "ar": "ser"
+        },
+        {
+          "pt": "estar",
+          "en": "I am (temporarily)",
+          "ar": "estar"
+        }
+      ],
+      "answer": "feliz::to be (temporary)|eu sou::tired|eu estou::to be (permanent)|cansado::I am|ser::happy|estar::I am (temporarily)",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Eu também. Eu estou um pouco cansado hoje.",
+          "en": "Me too. I'm a little tired today.",
+          "ar": "مرحبًا، أنا جواو. أنا مهندس."
+        },
+        {
+          "pt": "Olá, eu sou o João. Eu sou engenheiro.",
+          "en": "Nice to meet you! I'm very happy to work with you.",
+          "ar": "وأنا أيضًا. أنا متعب قليلًا اليوم."
+        },
+        {
+          "pt": "Muito prazer! Eu estou muito feliz de trabalhar com você.",
+          "en": "Hello, I'm João. I'm an engineer.",
+          "ar": "سررت بلقائك! أنا سعيدة جدًا بالعمل معك."
+        }
+      ],
+      "answer": "Olá, eu sou o João. Eu sou engenheiro.",
+      "accepted": [],
+      "audio": "Olá, eu sou o João. Eu sou engenheiro.",
+      "explanation": {
+        "pt": "Você ouviu: 'Olá, eu sou o João. Eu sou engenheiro.' — 'Hello, I'm João. I'm an engineer.'",
+        "en": "You heard: 'Olá, eu sou o João. Eu sou engenheiro.' — 'Hello, I'm João. I'm an engineer.'",
+        "ar": "سمعت: 'Olá, eu sou o João. Eu sou engenheiro.' — 'مرحبًا، أنا جواو. أنا مهندس.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Eu também. Eu estou um pouco cansado hoje.",
+          "en": "Me too. I'm a little tired today.",
+          "ar": "مرحبًا، أنا جواو. أنا مهندس."
+        },
+        {
+          "pt": "Olá, eu sou o João. Eu sou engenheiro.",
+          "en": "Nice to meet you! I'm very happy to work with you.",
+          "ar": "سررت بلقائك! أنا سعيدة جدًا بالعمل معك."
+        },
+        {
+          "pt": "Muito prazer! Eu estou muito feliz de trabalhar com você.",
+          "en": "Hello, I'm João. I'm an engineer.",
+          "ar": "وأنا أيضًا. أنا متعب قليلًا اليوم."
+        }
+      ],
+      "answer": "Muito prazer! Eu estou muito feliz de trabalhar com você.",
+      "accepted": [],
+      "audio": "Muito prazer! Eu estou muito feliz de trabalhar com você.",
+      "explanation": {
+        "pt": "Você ouviu: 'Muito prazer! Eu estou muito feliz de trabalhar com você.' — 'Nice to meet you! I'm very happy to work with you.'",
+        "en": "You heard: 'Muito prazer! Eu estou muito feliz de trabalhar com você.' — 'Nice to meet you! I'm very happy to work with you.'",
+        "ar": "سمعت: 'Muito prazer! Eu estou muito feliz de trabalhar com você.' — 'سررت بلقائك! أنا سعيدة جدًا بالعمل معك.'"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Eles ___ na escola agora.",
+        "en": "Eles ___ na escola agora.",
+        "ar": "Eles ___ na escola agora."
+      },
+      "options": [
+        {
+          "pt": "Nós",
+          "en": "Nós",
+          "ar": "Nós"
+        },
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        },
+        {
+          "pt": "estão",
+          "en": "estão",
+          "ar": "estão"
+        }
+      ],
+      "answer": "estão",
+      "accepted": [],
+      "explanation": {
+        "pt": "A resposta é 'estão'. Frase completa: Eles estão na escola agora.",
+        "en": "The answer is 'estão'. Full sentence: They are at school now.",
+        "ar": "الإجابة الصحيحة: 'estão'. الجملة كاملة: هم في المدرسة الآن."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "João.",
+          "en": "João.",
+          "ar": "João."
+        },
+        {
+          "pt": "sou",
+          "en": "sou",
+          "ar": "sou"
+        },
+        {
+          "pt": "sou",
+          "en": "sou",
+          "ar": "sou"
+        },
+        {
+          "pt": "Olá,",
+          "en": "Olá,",
+          "ar": "Olá,"
+        },
+        {
+          "pt": "engenheiro.",
+          "en": "engenheiro.",
+          "ar": "engenheiro."
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "eu",
+          "en": "eu",
+          "ar": "eu"
+        },
+        {
+          "pt": "Eu",
+          "en": "Eu",
+          "ar": "Eu"
+        }
+      ],
+      "answer": "Olá, eu sou o João. Eu sou engenheiro.",
+      "accepted": [
+        "Olá, eu sou o João. Eu sou engenheiro."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Olá, eu sou o João. Eu sou engenheiro.'",
+        "en": "The correct order: 'Hello, I'm João. I'm an engineer.'",
+        "ar": "الترتيب الصحيح: 'مرحبًا، أنا جواو. أنا مهندس.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "eu sou",
+          "en": "I am",
+          "ar": "eu sou"
+        },
+        {
+          "pt": "ser",
+          "en": "to be (temporary)",
+          "ar": "ser"
+        },
+        {
+          "pt": "cansado",
+          "en": "happy",
+          "ar": "cansado"
+        },
+        {
+          "pt": "eu estou",
+          "en": "to be (permanent)",
+          "ar": "eu estou"
+        },
+        {
+          "pt": "estar",
+          "en": "tired",
+          "ar": "estar"
+        },
+        {
+          "pt": "feliz",
+          "en": "I am (temporarily)",
+          "ar": "feliz"
+        }
+      ],
+      "answer": "eu sou::I am|ser::to be (temporary)|cansado::happy|eu estou::to be (permanent)|estar::tired|feliz::I am (temporarily)",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Muito prazer! Eu estou muito feliz de trabalhar com você.",
+          "en": "Hello, I'm João. I'm an engineer.",
+          "ar": "سررت بلقائك! أنا سعيدة جدًا بالعمل معك."
+        },
+        {
+          "pt": "Descansa no fim de semana. Você é muito dedicado.",
+          "en": "Nice to meet you! I'm very happy to work with you.",
+          "ar": "مرحبًا، أنا جواو. أنا مهندس."
+        },
+        {
+          "pt": "Olá, eu sou o João. Eu sou engenheiro.",
+          "en": "Rest on the weekend. You are very dedicated.",
+          "ar": "استرح في عطلة نهاية الأسبوع. أنت مخلص جدًا."
+        }
+      ],
+      "answer": "Olá, eu sou o João. Eu sou engenheiro.",
+      "accepted": [],
+      "audio": "Olá, eu sou o João. Eu sou engenheiro.",
+      "explanation": {
+        "pt": "Você ouviu: 'Olá, eu sou o João. Eu sou engenheiro.' — 'Hello, I'm João. I'm an engineer.'",
+        "en": "You heard: 'Olá, eu sou o João. Eu sou engenheiro.' — 'Hello, I'm João. I'm an engineer.'",
+        "ar": "سمعت: 'Olá, eu sou o João. Eu sou engenheiro.' — 'مرحبًا، أنا جواو. أنا مهندس.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Descansa no fim de semana. Você é muito dedicado.",
+          "en": "Nice to meet you! I'm very happy to work with you.",
+          "ar": "سررت بلقائك! أنا سعيدة جدًا بالعمل معك."
+        },
+        {
+          "pt": "Olá, eu sou o João. Eu sou engenheiro.",
+          "en": "Rest on the weekend. You are very dedicated.",
+          "ar": "استرح في عطلة نهاية الأسبوع. أنت مخلص جدًا."
+        },
+        {
+          "pt": "Muito prazer! Eu estou muito feliz de trabalhar com você.",
+          "en": "Hello, I'm João. I'm an engineer.",
+          "ar": "مرحبًا، أنا جواو. أنا مهندس."
+        }
+      ],
+      "answer": "Muito prazer! Eu estou muito feliz de trabalhar com você.",
+      "accepted": [],
+      "audio": "Muito prazer! Eu estou muito feliz de trabalhar com você.",
+      "explanation": {
+        "pt": "Você ouviu: 'Muito prazer! Eu estou muito feliz de trabalhar com você.' — 'Nice to meet you! I'm very happy to work with you.'",
+        "en": "You heard: 'Muito prazer! Eu estou muito feliz de trabalhar com você.' — 'Nice to meet you! I'm very happy to work with you.'",
+        "ar": "سمعت: 'Muito prazer! Eu estou muito feliz de trabalhar com você.' — 'سررت بلقائك! أنا سعيدة جدًا بالعمل معك.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "Olá,",
+          "en": "Olá,",
+          "ar": "Olá,"
+        },
+        {
+          "pt": "sou",
+          "en": "sou",
+          "ar": "sou"
+        },
+        {
+          "pt": "sou",
+          "en": "sou",
+          "ar": "sou"
+        },
+        {
+          "pt": "engenheiro.",
+          "en": "engenheiro.",
+          "ar": "engenheiro."
+        },
+        {
+          "pt": "eu",
+          "en": "eu",
+          "ar": "eu"
+        },
+        {
+          "pt": "Eu",
+          "en": "Eu",
+          "ar": "Eu"
+        },
+        {
+          "pt": "João.",
+          "en": "João.",
+          "ar": "João."
+        }
+      ],
+      "answer": "Olá, eu sou o João. Eu sou engenheiro.",
+      "accepted": [
+        "Olá, eu sou o João. Eu sou engenheiro."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Olá, eu sou o João. Eu sou engenheiro.'",
+        "en": "The correct order: 'Hello, I'm João. I'm an engineer.'",
+        "ar": "الترتيب الصحيح: 'مرحبًا، أنا جواو. أنا مهندس.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "feliz",
+          "en": "to be (temporary)",
+          "ar": "feliz"
+        },
+        {
+          "pt": "estar",
+          "en": "happy",
+          "ar": "estar"
+        },
+        {
+          "pt": "eu sou",
+          "en": "tired",
+          "ar": "eu sou"
+        },
+        {
+          "pt": "cansado",
+          "en": "I am (temporarily)",
+          "ar": "cansado"
+        },
+        {
+          "pt": "eu estou",
+          "en": "I am",
+          "ar": "eu estou"
+        },
+        {
+          "pt": "ser",
+          "en": "to be (permanent)",
+          "ar": "ser"
+        }
+      ],
+      "answer": "feliz::to be (temporary)|estar::happy|eu sou::tired|cansado::I am (temporarily)|eu estou::I am|ser::to be (permanent)",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Eu também. Eu estou um pouco cansado hoje.",
+          "en": "Me too. I'm a little tired today.",
+          "ar": "مرحبًا، أنا جواو. أنا مهندس."
+        },
+        {
+          "pt": "Olá, eu sou o João. Eu sou engenheiro.",
+          "en": "Nice to meet you! I'm very happy to work with you.",
+          "ar": "وأنا أيضًا. أنا متعب قليلًا اليوم."
+        },
+        {
+          "pt": "Muito prazer! Eu estou muito feliz de trabalhar com você.",
+          "en": "Hello, I'm João. I'm an engineer.",
+          "ar": "سررت بلقائك! أنا سعيدة جدًا بالعمل معك."
+        }
+      ],
+      "answer": "Olá, eu sou o João. Eu sou engenheiro.",
+      "accepted": [],
+      "audio": "Olá, eu sou o João. Eu sou engenheiro.",
+      "explanation": {
+        "pt": "Você ouviu: 'Olá, eu sou o João. Eu sou engenheiro.' — 'Hello, I'm João. I'm an engineer.'",
+        "en": "You heard: 'Olá, eu sou o João. Eu sou engenheiro.' — 'Hello, I'm João. I'm an engineer.'",
+        "ar": "سمعت: 'Olá, eu sou o João. Eu sou engenheiro.' — 'مرحبًا، أنا جواو. أنا مهندس.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Eu também. Eu estou um pouco cansado hoje.",
+          "en": "Me too. I'm a little tired today.",
+          "ar": "سررت بلقائك! أنا سعيدة جدًا بالعمل معك."
+        },
+        {
+          "pt": "Olá, eu sou o João. Eu sou engenheiro.",
+          "en": "Nice to meet you! I'm very happy to work with you.",
+          "ar": "مرحبًا، أنا جواو. أنا مهندس."
+        },
+        {
+          "pt": "Muito prazer! Eu estou muito feliz de trabalhar com você.",
+          "en": "Hello, I'm João. I'm an engineer.",
+          "ar": "وأنا أيضًا. أنا متعب قليلًا اليوم."
+        }
+      ],
+      "answer": "Muito prazer! Eu estou muito feliz de trabalhar com você.",
+      "accepted": [],
+      "audio": "Muito prazer! Eu estou muito feliz de trabalhar com você.",
+      "explanation": {
+        "pt": "Você ouviu: 'Muito prazer! Eu estou muito feliz de trabalhar com você.' — 'Nice to meet you! I'm very happy to work with you.'",
+        "en": "You heard: 'Muito prazer! Eu estou muito feliz de trabalhar com você.' — 'Nice to meet you! I'm very happy to work with you.'",
+        "ar": "سمعت: 'Muito prazer! Eu estou muito feliz de trabalhar com você.' — 'سررت بلقائك! أنا سعيدة جدًا بالعمل معك.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Olá,",
+          "en": "Olá,",
+          "ar": "Olá,"
+        },
+        {
+          "pt": "João.",
+          "en": "João.",
+          "ar": "João."
+        },
+        {
+          "pt": "sou",
+          "en": "sou",
+          "ar": "sou"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "sou",
+          "en": "sou",
+          "ar": "sou"
+        },
+        {
+          "pt": "engenheiro.",
+          "en": "engenheiro.",
+          "ar": "engenheiro."
+        },
+        {
+          "pt": "Eu",
+          "en": "Eu",
+          "ar": "Eu"
+        },
+        {
+          "pt": "eu",
+          "en": "eu",
+          "ar": "eu"
+        }
+      ],
+      "answer": "Olá, eu sou o João. Eu sou engenheiro.",
+      "accepted": [
+        "Olá, eu sou o João. Eu sou engenheiro."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Olá, eu sou o João. Eu sou engenheiro.'",
+        "en": "The correct order: 'Hello, I'm João. I'm an engineer.'",
+        "ar": "الترتيب الصحيح: 'مرحبًا، أنا جواو. أنا مهندس.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "eu estou",
+          "en": "tired",
+          "ar": "eu estou"
+        },
+        {
+          "pt": "ser",
+          "en": "to be (temporary)",
+          "ar": "ser"
+        },
+        {
+          "pt": "estar",
+          "en": "I am (temporarily)",
+          "ar": "estar"
+        },
+        {
+          "pt": "eu sou",
+          "en": "happy",
+          "ar": "eu sou"
+        },
+        {
+          "pt": "feliz",
+          "en": "to be (permanent)",
+          "ar": "feliz"
+        },
+        {
+          "pt": "cansado",
+          "en": "I am",
+          "ar": "cansado"
+        }
+      ],
+      "answer": "eu estou::tired|ser::to be (temporary)|estar::I am (temporarily)|eu sou::happy|feliz::to be (permanent)|cansado::I am",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Descansa no fim de semana. Você é muito dedicado.",
+          "en": "Nice to meet you! I'm very happy to work with you.",
+          "ar": "استرح في عطلة نهاية الأسبوع. أنت مخلص جدًا."
+        },
+        {
+          "pt": "Muito prazer! Eu estou muito feliz de trabalhar com você.",
+          "en": "Rest on the weekend. You are very dedicated.",
+          "ar": "مرحبًا، أنا جواو. أنا مهندس."
+        },
+        {
+          "pt": "Olá, eu sou o João. Eu sou engenheiro.",
+          "en": "Hello, I'm João. I'm an engineer.",
+          "ar": "سررت بلقائك! أنا سعيدة جدًا بالعمل معك."
+        }
+      ],
+      "answer": "Olá, eu sou o João. Eu sou engenheiro.",
+      "accepted": [],
+      "audio": "Olá, eu sou o João. Eu sou engenheiro.",
+      "explanation": {
+        "pt": "Você ouviu: 'Olá, eu sou o João. Eu sou engenheiro.' — 'Hello, I'm João. I'm an engineer.'",
+        "en": "You heard: 'Olá, eu sou o João. Eu sou engenheiro.' — 'Hello, I'm João. I'm an engineer.'",
+        "ar": "سمعت: 'Olá, eu sou o João. Eu sou engenheiro.' — 'مرحبًا، أنا جواو. أنا مهندس.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Olá, eu sou o João. Eu sou engenheiro.",
+          "en": "Hello, I'm João. I'm an engineer.",
+          "ar": "مرحبًا، أنا جواو. أنا مهندس."
+        },
+        {
+          "pt": "Muito prazer! Eu estou muito feliz de trabalhar com você.",
+          "en": "Rest on the weekend. You are very dedicated.",
+          "ar": "سررت بلقائك! أنا سعيدة جدًا بالعمل معك."
+        },
+        {
+          "pt": "Descansa no fim de semana. Você é muito dedicado.",
+          "en": "Nice to meet you! I'm very happy to work with you.",
+          "ar": "استرح في عطلة نهاية الأسبوع. أنت مخلص جدًا."
+        }
+      ],
+      "answer": "Muito prazer! Eu estou muito feliz de trabalhar com você.",
+      "accepted": [],
+      "audio": "Muito prazer! Eu estou muito feliz de trabalhar com você.",
+      "explanation": {
+        "pt": "Você ouviu: 'Muito prazer! Eu estou muito feliz de trabalhar com você.' — 'Nice to meet you! I'm very happy to work with you.'",
+        "en": "You heard: 'Muito prazer! Eu estou muito feliz de trabalhar com você.' — 'Nice to meet you! I'm very happy to work with you.'",
+        "ar": "سمعت: 'Muito prazer! Eu estou muito feliz de trabalhar com você.' — 'سررت بلقائك! أنا سعيدة جدًا بالعمل معك.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Eu",
+          "en": "Eu",
+          "ar": "Eu"
+        },
+        {
+          "pt": "João.",
+          "en": "João.",
+          "ar": "João."
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "engenheiro.",
+          "en": "engenheiro.",
+          "ar": "engenheiro."
+        },
+        {
+          "pt": "Olá,",
+          "en": "Olá,",
+          "ar": "Olá,"
+        },
+        {
+          "pt": "sou",
+          "en": "sou",
+          "ar": "sou"
+        },
+        {
+          "pt": "eu",
+          "en": "eu",
+          "ar": "eu"
+        },
+        {
+          "pt": "sou",
+          "en": "sou",
+          "ar": "sou"
+        }
+      ],
+      "answer": "Olá, eu sou o João. Eu sou engenheiro.",
+      "accepted": [
+        "Olá, eu sou o João. Eu sou engenheiro."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Olá, eu sou o João. Eu sou engenheiro.'",
+        "en": "The correct order: 'Hello, I'm João. I'm an engineer.'",
+        "ar": "الترتيب الصحيح: 'مرحبًا، أنا جواو. أنا مهندس.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "eu estou",
+          "en": "I am",
+          "ar": "eu estou"
+        },
+        {
+          "pt": "ser",
+          "en": "tired",
+          "ar": "ser"
+        },
+        {
+          "pt": "feliz",
+          "en": "happy",
+          "ar": "feliz"
+        },
+        {
+          "pt": "eu sou",
+          "en": "I am (temporarily)",
+          "ar": "eu sou"
+        },
+        {
+          "pt": "estar",
+          "en": "to be (permanent)",
+          "ar": "estar"
+        },
+        {
+          "pt": "cansado",
+          "en": "to be (temporary)",
+          "ar": "cansado"
+        }
+      ],
+      "answer": "eu estou::I am|ser::tired|feliz::happy|eu sou::I am (temporarily)|estar::to be (permanent)|cansado::to be (temporary)",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Muito prazer! Eu estou muito feliz de trabalhar com você.",
+          "en": "Me too. I'm a little tired today.",
+          "ar": "وأنا أيضًا. أنا متعب قليلًا اليوم."
+        },
+        {
+          "pt": "Olá, eu sou o João. Eu sou engenheiro.",
+          "en": "Nice to meet you! I'm very happy to work with you.",
+          "ar": "مرحبًا، أنا جواو. أنا مهندس."
+        },
+        {
+          "pt": "Eu também. Eu estou um pouco cansado hoje.",
+          "en": "Hello, I'm João. I'm an engineer.",
+          "ar": "سررت بلقائك! أنا سعيدة جدًا بالعمل معك."
+        }
+      ],
+      "answer": "Olá, eu sou o João. Eu sou engenheiro.",
+      "accepted": [],
+      "audio": "Olá, eu sou o João. Eu sou engenheiro.",
+      "explanation": {
+        "pt": "Você ouviu: 'Olá, eu sou o João. Eu sou engenheiro.' — 'Hello, I'm João. I'm an engineer.'",
+        "en": "You heard: 'Olá, eu sou o João. Eu sou engenheiro.' — 'Hello, I'm João. I'm an engineer.'",
+        "ar": "سمعت: 'Olá, eu sou o João. Eu sou engenheiro.' — 'مرحبًا، أنا جواو. أنا مهندس.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Muito prazer! Eu estou muito feliz de trabalhar com você.",
+          "en": "Nice to meet you! I'm very happy to work with you.",
+          "ar": "استرح في عطلة نهاية الأسبوع. أنت مخلص جدًا."
+        },
+        {
+          "pt": "Descansa no fim de semana. Você é muito dedicado.",
+          "en": "Rest on the weekend. You are very dedicated.",
+          "ar": "وأنا أيضًا. أنا متعب قليلًا اليوم."
+        },
+        {
+          "pt": "Eu também. Eu estou um pouco cansado hoje.",
+          "en": "Me too. I'm a little tired today.",
+          "ar": "سررت بلقائك! أنا سعيدة جدًا بالعمل معك."
+        }
+      ],
+      "answer": "Muito prazer! Eu estou muito feliz de trabalhar com você.",
+      "accepted": [],
+      "audio": "Muito prazer! Eu estou muito feliz de trabalhar com você.",
+      "explanation": {
+        "pt": "Você ouviu: 'Muito prazer! Eu estou muito feliz de trabalhar com você.' — 'Nice to meet you! I'm very happy to work with you.'",
+        "en": "You heard: 'Muito prazer! Eu estou muito feliz de trabalhar com você.' — 'Nice to meet you! I'm very happy to work with you.'",
+        "ar": "سمعت: 'Muito prazer! Eu estou muito feliz de trabalhar com você.' — 'سررت بلقائك! أنا سعيدة جدًا بالعمل معك.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "eu",
+          "en": "eu",
+          "ar": "eu"
+        },
+        {
+          "pt": "sou",
+          "en": "sou",
+          "ar": "sou"
+        },
+        {
+          "pt": "João.",
+          "en": "João.",
+          "ar": "João."
+        },
+        {
+          "pt": "sou",
+          "en": "sou",
+          "ar": "sou"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "engenheiro.",
+          "en": "engenheiro.",
+          "ar": "engenheiro."
+        },
+        {
+          "pt": "Eu",
+          "en": "Eu",
+          "ar": "Eu"
+        },
+        {
+          "pt": "Olá,",
+          "en": "Olá,",
+          "ar": "Olá,"
+        }
+      ],
+      "answer": "Olá, eu sou o João. Eu sou engenheiro.",
+      "accepted": [
+        "Olá, eu sou o João. Eu sou engenheiro."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Olá, eu sou o João. Eu sou engenheiro.'",
+        "en": "The correct order: 'Hello, I'm João. I'm an engineer.'",
+        "ar": "الترتيب الصحيح: 'مرحبًا، أنا جواو. أنا مهندس.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "feliz",
+          "en": "to be (temporary)",
+          "ar": "feliz"
+        },
+        {
+          "pt": "cansado",
+          "en": "to be (permanent)",
+          "ar": "cansado"
+        },
+        {
+          "pt": "eu estou",
+          "en": "I am (temporarily)",
+          "ar": "eu estou"
+        },
+        {
+          "pt": "eu sou",
+          "en": "happy",
+          "ar": "eu sou"
+        },
+        {
+          "pt": "estar",
+          "en": "tired",
+          "ar": "estar"
+        },
+        {
+          "pt": "ser",
+          "en": "I am",
+          "ar": "ser"
+        }
+      ],
+      "answer": "feliz::to be (temporary)|cansado::to be (permanent)|eu estou::I am (temporarily)|eu sou::happy|estar::tired|ser::I am",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Muito prazer! Eu estou muito feliz de trabalhar com você.",
+          "en": "Nice to meet you! I'm very happy to work with you.",
+          "ar": "استرح في عطلة نهاية الأسبوع. أنت مخلص جدًا."
+        },
+        {
+          "pt": "Descansa no fim de semana. Você é muito dedicado.",
+          "en": "Rest on the weekend. You are very dedicated.",
+          "ar": "مرحبًا، أنا جواو. أنا مهندس."
+        },
+        {
+          "pt": "Olá, eu sou o João. Eu sou engenheiro.",
+          "en": "Hello, I'm João. I'm an engineer.",
+          "ar": "سررت بلقائك! أنا سعيدة جدًا بالعمل معك."
+        }
+      ],
+      "answer": "Olá, eu sou o João. Eu sou engenheiro.",
+      "accepted": [],
+      "audio": "Olá, eu sou o João. Eu sou engenheiro.",
+      "explanation": {
+        "pt": "Você ouviu: 'Olá, eu sou o João. Eu sou engenheiro.' — 'Hello, I'm João. I'm an engineer.'",
+        "en": "You heard: 'Olá, eu sou o João. Eu sou engenheiro.' — 'Hello, I'm João. I'm an engineer.'",
+        "ar": "سمعت: 'Olá, eu sou o João. Eu sou engenheiro.' — 'مرحبًا، أنا جواو. أنا مهندس.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Muito prazer! Eu estou muito feliz de trabalhar com você.",
+          "en": "Nice to meet you! I'm very happy to work with you.",
+          "ar": "وأنا أيضًا. أنا متعب قليلًا اليوم."
+        },
+        {
+          "pt": "Eu também. Eu estou um pouco cansado hoje.",
+          "en": "Rest on the weekend. You are very dedicated.",
+          "ar": "سررت بلقائك! أنا سعيدة جدًا بالعمل معك."
+        },
+        {
+          "pt": "Descansa no fim de semana. Você é muito dedicado.",
+          "en": "Me too. I'm a little tired today.",
+          "ar": "استرح في عطلة نهاية الأسبوع. أنت مخلص جدًا."
+        }
+      ],
+      "answer": "Muito prazer! Eu estou muito feliz de trabalhar com você.",
+      "accepted": [],
+      "audio": "Muito prazer! Eu estou muito feliz de trabalhar com você.",
+      "explanation": {
+        "pt": "Você ouviu: 'Muito prazer! Eu estou muito feliz de trabalhar com você.' — 'Nice to meet you! I'm very happy to work with you.'",
+        "en": "You heard: 'Muito prazer! Eu estou muito feliz de trabalhar com você.' — 'Nice to meet you! I'm very happy to work with you.'",
+        "ar": "سمعت: 'Muito prazer! Eu estou muito feliz de trabalhar com você.' — 'سررت بلقائك! أنا سعيدة جدًا بالعمل معك.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Olá,",
+          "en": "Olá,",
+          "ar": "Olá,"
+        },
+        {
+          "pt": "engenheiro.",
+          "en": "engenheiro.",
+          "ar": "engenheiro."
+        },
+        {
+          "pt": "sou",
+          "en": "sou",
+          "ar": "sou"
+        },
+        {
+          "pt": "Eu",
+          "en": "Eu",
+          "ar": "Eu"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "eu",
+          "en": "eu",
+          "ar": "eu"
+        },
+        {
+          "pt": "sou",
+          "en": "sou",
+          "ar": "sou"
+        },
+        {
+          "pt": "João.",
+          "en": "João.",
+          "ar": "João."
+        }
+      ],
+      "answer": "Olá, eu sou o João. Eu sou engenheiro.",
+      "accepted": [
+        "Olá, eu sou o João. Eu sou engenheiro."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Olá, eu sou o João. Eu sou engenheiro.'",
+        "en": "The correct order: 'Hello, I'm João. I'm an engineer.'",
+        "ar": "الترتيب الصحيح: 'مرحبًا، أنا جواو. أنا مهندس.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "cansado",
+          "en": "tired",
+          "ar": "cansado"
+        },
+        {
+          "pt": "ser",
+          "en": "I am",
+          "ar": "ser"
+        },
+        {
+          "pt": "eu sou",
+          "en": "happy",
+          "ar": "eu sou"
+        },
+        {
+          "pt": "feliz",
+          "en": "I am (temporarily)",
+          "ar": "feliz"
+        },
+        {
+          "pt": "eu estou",
+          "en": "to be (temporary)",
+          "ar": "eu estou"
+        },
+        {
+          "pt": "estar",
+          "en": "to be (permanent)",
+          "ar": "estar"
+        }
+      ],
+      "answer": "cansado::tired|ser::I am|eu sou::happy|feliz::I am (temporarily)|eu estou::to be (temporary)|estar::to be (permanent)",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Descansa no fim de semana. Você é muito dedicado.",
+          "en": "Nice to meet you! I'm very happy to work with you.",
+          "ar": "مرحبًا، أنا جواو. أنا مهندس."
+        },
+        {
+          "pt": "Muito prazer! Eu estou muito feliz de trabalhar com você.",
+          "en": "Hello, I'm João. I'm an engineer.",
+          "ar": "استرح في عطلة نهاية الأسبوع. أنت مخلص جدًا."
+        },
+        {
+          "pt": "Olá, eu sou o João. Eu sou engenheiro.",
+          "en": "Rest on the weekend. You are very dedicated.",
+          "ar": "سررت بلقائك! أنا سعيدة جدًا بالعمل معك."
+        }
+      ],
+      "answer": "Olá, eu sou o João. Eu sou engenheiro.",
+      "accepted": [],
+      "audio": "Olá, eu sou o João. Eu sou engenheiro.",
+      "explanation": {
+        "pt": "Você ouviu: 'Olá, eu sou o João. Eu sou engenheiro.' — 'Hello, I'm João. I'm an engineer.'",
+        "en": "You heard: 'Olá, eu sou o João. Eu sou engenheiro.' — 'Hello, I'm João. I'm an engineer.'",
+        "ar": "سمعت: 'Olá, eu sou o João. Eu sou engenheiro.' — 'مرحبًا، أنا جواو. أنا مهندس.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Olá, eu sou o João. Eu sou engenheiro.",
+          "en": "Me too. I'm a little tired today.",
+          "ar": "مرحبًا، أنا جواو. أنا مهندس."
+        },
+        {
+          "pt": "Muito prazer! Eu estou muito feliz de trabalhar com você.",
+          "en": "Nice to meet you! I'm very happy to work with you.",
+          "ar": "وأنا أيضًا. أنا متعب قليلًا اليوم."
+        },
+        {
+          "pt": "Eu também. Eu estou um pouco cansado hoje.",
+          "en": "Hello, I'm João. I'm an engineer.",
+          "ar": "سررت بلقائك! أنا سعيدة جدًا بالعمل معك."
+        }
+      ],
+      "answer": "Muito prazer! Eu estou muito feliz de trabalhar com você.",
+      "accepted": [],
+      "audio": "Muito prazer! Eu estou muito feliz de trabalhar com você.",
+      "explanation": {
+        "pt": "Você ouviu: 'Muito prazer! Eu estou muito feliz de trabalhar com você.' — 'Nice to meet you! I'm very happy to work with you.'",
+        "en": "You heard: 'Muito prazer! Eu estou muito feliz de trabalhar com você.' — 'Nice to meet you! I'm very happy to work with you.'",
+        "ar": "سمعت: 'Muito prazer! Eu estou muito feliz de trabalhar com você.' — 'سررت بلقائك! أنا سعيدة جدًا بالعمل معك.'"
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'to be (permanent)'",
+        "en": "Type in Portuguese: 'to be (permanent)'",
+        "ar": "اكتب بالبرتغالية: 'يكون (صفة دائمة)'"
+      },
+      "options": [],
+      "answer": "ser",
+      "accepted": [
+        "ser"
+      ],
+      "explanation": {
+        "pt": "'ser' significa 'to be (permanent)'.",
+        "en": "'ser' means 'to be (permanent)'.",
+        "ar": "'$ser' بالعربية: '$يكون (صفة دائمة)'."
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'to be (temporary)'",
+        "en": "Type in Portuguese: 'to be (temporary)'",
+        "ar": "اكتب بالبرتغالية: 'يكون (حالة مؤقتة)'"
+      },
+      "options": [],
+      "answer": "estar",
+      "accepted": [
+        "estar"
+      ],
+      "explanation": {
+        "pt": "'estar' significa 'to be (temporary)'.",
+        "en": "'estar' means 'to be (temporary)'.",
+        "ar": "'$estar' بالعربية: '$يكون (حالة مؤقتة)'."
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Olá, eu sou o João. Eu sou engenheiro.",
+          "en": "Olá, eu sou o João. Eu sou engenheiro.",
+          "ar": "Olá, eu sou o João. Eu sou engenheiro."
+        },
+        {
+          "pt": "Muito prazer! Eu estou muito feliz de trabalhar com você.",
+          "en": "Muito prazer! Eu estou muito feliz de trabalhar com você.",
+          "ar": "Muito prazer! Eu estou muito feliz de trabalhar com você."
+        },
+        {
+          "pt": "Descansa no fim de semana. Você é muito dedicado.",
+          "en": "Descansa no fim de semana. Você é muito dedicado.",
+          "ar": "Descansa no fim de semana. Você é muito dedicado."
+        }
+      ],
+      "answer": "Olá, eu sou o João. Eu sou engenheiro.",
+      "accepted": [],
+      "audio": "Olá, eu sou o João. Eu sou engenheiro.",
+      "explanation": {
+        "pt": "Você ouviu: 'Olá, eu sou o João. Eu sou engenheiro.'",
+        "en": "You heard: 'Olá, eu sou o João. Eu sou engenheiro.'",
+        "ar": "سمعت: 'Olá, eu sou o João. Eu sou engenheiro.'"
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Olá, eu sou o João. Eu sou engenheiro.",
+          "en": "Olá, eu sou o João. Eu sou engenheiro.",
+          "ar": "Olá, eu sou o João. Eu sou engenheiro."
+        },
+        {
+          "pt": "Eu também. Eu estou um pouco cansado hoje.",
+          "en": "Eu também. Eu estou um pouco cansado hoje.",
+          "ar": "Eu também. Eu estou um pouco cansado hoje."
+        },
+        {
+          "pt": "Muito prazer! Eu estou muito feliz de trabalhar com você.",
+          "en": "Muito prazer! Eu estou muito feliz de trabalhar com você.",
+          "ar": "Muito prazer! Eu estou muito feliz de trabalhar com você."
+        }
+      ],
+      "answer": "Muito prazer! Eu estou muito feliz de trabalhar com você.",
+      "accepted": [],
+      "audio": "Muito prazer! Eu estou muito feliz de trabalhar com você.",
+      "explanation": {
+        "pt": "Você ouviu: 'Muito prazer! Eu estou muito feliz de trabalhar com você.'",
+        "en": "You heard: 'Muito prazer! Eu estou muito feliz de trabalhar com você.'",
+        "ar": "سمعت: 'Muito prazer! Eu estou muito feliz de trabalhar com você.'"
+      }
+    },
+    {
+      "type": "dictation",
+      "prompt": {
+        "pt": "Ouça e escreva o que você ouviu.",
+        "en": "Listen and type what you hear.",
+        "ar": "استمع واكتب ما سمعته."
+      },
+      "options": [],
+      "answer": "Olá, eu sou o João. Eu sou engenheiro.",
+      "accepted": [],
+      "audio": "Olá, eu sou o João. Eu sou engenheiro.",
+      "explanation": {
+        "pt": "A frase correta: 'Olá, eu sou o João. Eu sou engenheiro.'",
+        "en": "The correct sentence: 'Olá, eu sou o João. Eu sou engenheiro.'",
+        "ar": "الجملة الصحيحة: 'Olá, eu sou o João. Eu sou engenheiro.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Olá,",
+          "en": "Olá,",
+          "ar": "Olá,"
+        },
+        {
+          "pt": "João.",
+          "en": "João.",
+          "ar": "João."
+        },
+        {
+          "pt": "sou",
+          "en": "sou",
+          "ar": "sou"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "eu",
+          "en": "eu",
+          "ar": "eu"
+        },
+        {
+          "pt": "engenheiro.",
+          "en": "engenheiro.",
+          "ar": "engenheiro."
+        },
+        {
+          "pt": "Eu",
+          "en": "Eu",
+          "ar": "Eu"
+        },
+        {
+          "pt": "sou",
+          "en": "sou",
+          "ar": "sou"
+        }
+      ],
+      "answer": "Olá, eu sou o João. Eu sou engenheiro.",
+      "accepted": [
+        "Olá, eu sou o João. Eu sou engenheiro."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Olá, eu sou o João. Eu sou engenheiro.'",
+        "en": "The correct order: 'Hello, I'm João. I'm an engineer.'",
+        "ar": "الترتيب الصحيح: 'مرحبًا، أنا جواو. أنا مهندس.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "eu estou",
+          "en": "I am",
+          "ar": "eu estou"
+        },
+        {
+          "pt": "eu sou",
+          "en": "happy",
+          "ar": "eu sou"
+        },
+        {
+          "pt": "ser",
+          "en": "to be (temporary)",
+          "ar": "ser"
+        },
+        {
+          "pt": "estar",
+          "en": "tired",
+          "ar": "estar"
+        },
+        {
+          "pt": "feliz",
+          "en": "I am (temporarily)",
+          "ar": "feliz"
+        },
+        {
+          "pt": "cansado",
+          "en": "to be (permanent)",
+          "ar": "cansado"
+        }
+      ],
+      "answer": "eu estou::I am|eu sou::happy|ser::to be (temporary)|estar::tired|feliz::I am (temporarily)|cansado::to be (permanent)",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Muito prazer! Eu estou muito feliz de trabalhar com você.",
+          "en": "Me too. I'm a little tired today.",
+          "ar": "مرحبًا، أنا جواو. أنا مهندس."
+        },
+        {
+          "pt": "Eu também. Eu estou um pouco cansado hoje.",
+          "en": "Nice to meet you! I'm very happy to work with you.",
+          "ar": "سررت بلقائك! أنا سعيدة جدًا بالعمل معك."
+        },
+        {
+          "pt": "Olá, eu sou o João. Eu sou engenheiro.",
+          "en": "Hello, I'm João. I'm an engineer.",
+          "ar": "وأنا أيضًا. أنا متعب قليلًا اليوم."
+        }
+      ],
+      "answer": "Olá, eu sou o João. Eu sou engenheiro.",
+      "accepted": [],
+      "audio": "Olá, eu sou o João. Eu sou engenheiro.",
+      "explanation": {
+        "pt": "Você ouviu: 'Olá, eu sou o João. Eu sou engenheiro.' — 'Hello, I'm João. I'm an engineer.'",
+        "en": "You heard: 'Olá, eu sou o João. Eu sou engenheiro.' — 'Hello, I'm João. I'm an engineer.'",
+        "ar": "سمعت: 'Olá, eu sou o João. Eu sou engenheiro.' — 'مرحبًا، أنا جواو. أنا مهندس.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Descansa no fim de semana. Você é muito dedicado.",
+          "en": "Me too. I'm a little tired today.",
+          "ar": "سررت بلقائك! أنا سعيدة جدًا بالعمل معك."
+        },
+        {
+          "pt": "Muito prazer! Eu estou muito feliz de trabalhar com você.",
+          "en": "Rest on the weekend. You are very dedicated.",
+          "ar": "وأنا أيضًا. أنا متعب قليلًا اليوم."
+        },
+        {
+          "pt": "Eu também. Eu estou um pouco cansado hoje.",
+          "en": "Nice to meet you! I'm very happy to work with you.",
+          "ar": "استرح في عطلة نهاية الأسبوع. أنت مخلص جدًا."
+        }
+      ],
+      "answer": "Muito prazer! Eu estou muito feliz de trabalhar com você.",
+      "accepted": [],
+      "audio": "Muito prazer! Eu estou muito feliz de trabalhar com você.",
+      "explanation": {
+        "pt": "Você ouviu: 'Muito prazer! Eu estou muito feliz de trabalhar com você.' — 'Nice to meet you! I'm very happy to work with you.'",
+        "en": "You heard: 'Muito prazer! Eu estou muito feliz de trabalhar com você.' — 'Nice to meet you! I'm very happy to work with you.'",
+        "ar": "سمعت: 'Muito prazer! Eu estou muito feliz de trabalhar com você.' — 'سررت بلقائك! أنا سعيدة جدًا بالعمل معك.'"
+      }
+    }
+  ],
+  "speaking": {
+    "title": {
+      "pt": "Fale Agora — Ouça e Repita",
+      "en": "Speak Now — Listen and Repeat",
+      "ar": "تحدث الآن — استمع وكرر"
+    },
+    "phrases": [
+      {
+        "pt": "Olá, eu sou o João. Eu sou engenheiro.",
+        "en": "Hello, I'm João. I'm an engineer.",
+        "ar": "مرحبًا، أنا جواو. أنا مهندس."
+      },
+      {
+        "pt": "Muito prazer! Eu estou muito feliz de trabalhar com você.",
+        "en": "Nice to meet you! I'm very happy to work with you.",
+        "ar": "سررت بلقائك! أنا سعيدة جدًا بالعمل معك."
+      },
+      {
+        "pt": "Eu também. Eu estou um pouco cansado hoje.",
+        "en": "Me too. I'm a little tired today.",
+        "ar": "وأنا أيضًا. أنا متعب قليلًا اليوم."
+      },
+      {
+        "pt": "Descansa no fim de semana. Você é muito dedicado.",
+        "en": "Rest on the weekend. You are very dedicated.",
+        "ar": "استرح في عطلة نهاية الأسبوع. أنت مخلص جدًا."
+      },
+      {
+        "pt": "ser",
+        "en": "to be (permanent)",
+        "ar": "يكون (صفة دائمة)"
+      },
+      {
+        "pt": "estar",
+        "en": "to be (temporary)",
+        "ar": "يكون (حالة مؤقتة)"
+      },
+      {
+        "pt": "eu sou",
+        "en": "I am",
+        "ar": "أنا (دائم)"
+      }
+    ]
+  },
+  "cultural_tips": {
+    "pt": "",
+    "en": "",
+    "ar": ""
+  }
+}

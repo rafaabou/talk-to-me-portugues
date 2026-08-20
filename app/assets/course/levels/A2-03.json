@@ -1,0 +1,1891 @@
+{
+  "id": "A2-03",
+  "level": "A2",
+  "level_name": {
+    "pt": "Básico",
+    "en": "Elementary",
+    "ar": "أساسي"
+  },
+  "title": {
+    "pt": "Pronomes Oblíquos",
+    "en": "Object Pronouns",
+    "ar": "ضمائر المفعول"
+  },
+  "objectives": [
+    {
+      "pt": "Usar pronomes oblíquos (me, te, lhe, nos)",
+      "en": "Use object pronouns (me, te, lhe, nos)",
+      "ar": "استخدام ضمائر المفعول (me، te، lhe، nos)"
+    },
+    {
+      "pt": "Substituir objetos diretos e indiretos",
+      "en": "Replace direct and indirect objects",
+      "ar": "استبدال المفعول به المباشر وغير المباشر"
+    },
+    {
+      "pt": "Fazer pedidos de favor com naturalidade",
+      "en": "Make requests for favors naturally",
+      "ar": "تقديم طلبات المعروف بشكل طبيعي"
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "me",
+      "ipa": "/mi/",
+      "en": "me",
+      "ar": "إياي / لي",
+      "example": {
+        "pt": "Pedro, você pode me ajudar?",
+        "en": "Pedro, can you help me?",
+        "ar": "بيدرو، هل يمكنك مساعدتي؟"
+      }
+    },
+    {
+      "pt": "te",
+      "ipa": "/tʃi/",
+      "en": "you",
+      "ar": "إياك / لك",
+      "example": {
+        "pt": "Sem problema. Eu te espero na garagem.",
+        "en": "No problem. I will wait for you at the garage.",
+        "ar": "لا مشكلة. سأنتظرك في المرآب."
+      }
+    },
+    {
+      "pt": "o / a",
+      "ipa": "/u/ /a/",
+      "en": "him / her / it",
+      "ar": "إياه / إياها",
+      "example": {
+        "pt": "Claro! O que você precisa?",
+        "en": "Of course! What do you need?",
+        "ar": "بالتأكيد! ماذا تحتاجين؟"
+      }
+    },
+    {
+      "pt": "os / as",
+      "ipa": "/us/ /as/",
+      "en": "them",
+      "ar": "إياهم / إياهن",
+      "example": {
+        "pt": "Nós os convidamos para a festa.",
+        "en": "We invited them to the party.",
+        "ar": "دعونا إياهم إلى الحفلة."
+      }
+    },
+    {
+      "pt": "lhe",
+      "ipa": "/ʎi/",
+      "en": "to him / to her",
+      "ar": "له / لها",
+      "example": {
+        "pt": "Muito obrigada! Eu lhe devolvo à noite.",
+        "en": "Thank you very much! I will return it to you tonight.",
+        "ar": "شكرًا جزيلًا! سأعيدها لك في الليل."
+      }
+    },
+    {
+      "pt": "nos",
+      "ipa": "/nus/",
+      "en": "us",
+      "ar": "إيانا / لنا",
+      "example": {
+        "pt": "Pedro, você pode me ajudar?",
+        "en": "Pedro, can you help me?",
+        "ar": "بيدرو، هل يمكنك مساعدتي؟"
+      }
+    },
+    {
+      "pt": "dar",
+      "ipa": "/daʁ/",
+      "en": "to give",
+      "ar": "يعطي",
+      "example": {
+        "pt": "Pedro, você pode me ajudar?",
+        "en": "Pedro, can you help me?",
+        "ar": "بيدرو، هل يمكنك مساعدتي؟"
+      }
+    },
+    {
+      "pt": "emprestar",
+      "ipa": "/ẽ.pɾesˈtaʁ/",
+      "en": "to lend",
+      "ar": "يعير",
+      "example": {
+        "pt": "Pedro, você pode me ajudar?",
+        "en": "Pedro, can you help me?",
+        "ar": "بيدرو، هل يمكنك مساعدتي؟"
+      }
+    },
+    {
+      "pt": "pedir",
+      "ipa": "/peˈdʒiʁ/",
+      "en": "to ask for",
+      "ar": "يطلب",
+      "example": {
+        "pt": "Pedro, você pode me ajudar?",
+        "en": "Pedro, can you help me?",
+        "ar": "بيدرو، هل يمكنك مساعدتي؟"
+      }
+    },
+    {
+      "pt": "ajudar",
+      "ipa": "/a.ʒuˈdaʁ/",
+      "en": "to help",
+      "ar": "يساعد",
+      "example": {
+        "pt": "Pedro, você pode me ajudar?",
+        "en": "Pedro, can you help me?",
+        "ar": "بيدرو، هل يمكنك مساعدتي؟"
+      }
+    },
+    {
+      "pt": "ouvir",
+      "ipa": "/oʊˈviʁ/",
+      "en": "to hear / to listen",
+      "ar": "يسمع",
+      "example": {
+        "pt": "Pedro, você pode me ajudar?",
+        "en": "Pedro, can you help me?",
+        "ar": "بيدرو، هل يمكنك مساعدتي؟"
+      }
+    },
+    {
+      "pt": "convidar",
+      "ipa": "/kõ.viˈdaʁ/",
+      "en": "to invite",
+      "ar": "يدعو",
+      "example": {
+        "pt": "Pedro, você pode me ajudar?",
+        "en": "Pedro, can you help me?",
+        "ar": "بيدرو، هل يمكنك مساعدتي؟"
+      }
+    },
+    {
+      "pt": "esperar",
+      "ipa": "/is.peˈɾaʁ/",
+      "en": "to wait for",
+      "ar": "ينتظر",
+      "example": {
+        "pt": "Pedro, você pode me ajudar?",
+        "en": "Pedro, can you help me?",
+        "ar": "بيدرو، هل يمكنك مساعدتي؟"
+      }
+    },
+    {
+      "pt": "abraçar",
+      "ipa": "/a.bɾaˈsaʁ/",
+      "en": "to hug",
+      "ar": "يعانق",
+      "example": {
+        "pt": "Pedro, você pode me ajudar?",
+        "en": "Pedro, can you help me?",
+        "ar": "بيدرو، هل يمكنك مساعدتي؟"
+      }
+    },
+    {
+      "pt": "o favor",
+      "ipa": "/u faˈvoʁ/",
+      "en": "the favor",
+      "ar": "المعروف",
+      "example": {
+        "pt": "Claro! O que você precisa?",
+        "en": "Of course! What do you need?",
+        "ar": "بالتأكيد! ماذا تحتاجين؟"
+      }
+    },
+    {
+      "pt": "o conselho",
+      "ipa": "/u kõˈse.ʎu/",
+      "en": "the advice",
+      "ar": "النصيحة",
+      "example": {
+        "pt": "Claro! O que você precisa?",
+        "en": "Of course! What do you need?",
+        "ar": "بالتأكيد! ماذا تحتاجين؟"
+      }
+    },
+    {
+      "pt": "a resposta",
+      "ipa": "/a ʁesˈpɔs.ta/",
+      "en": "the answer",
+      "ar": "الإجابة",
+      "example": {
+        "pt": "Nós os convidamos para a festa.",
+        "en": "We invited them to the party.",
+        "ar": "دعونا إياهم إلى الحفلة."
+      }
+    },
+    {
+      "pt": "entender",
+      "ipa": "/ẽ.tẽˈdeʁ/",
+      "en": "to understand",
+      "ar": "يفهم",
+      "example": {
+        "pt": "Pedro, você pode me ajudar?",
+        "en": "Pedro, can you help me?",
+        "ar": "بيدرو، هل يمكنك مساعدتي؟"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "title": {
+        "pt": "Pronomes de Objeto Direto",
+        "en": "Direct Object Pronouns",
+        "ar": "ضمائر المفعول به المباشر"
+      },
+      "explanation": {
+        "pt": "Os pronomes oblíquos átonos substituem o objeto direto: me (me), te (you), o/a (him/her/it), nos (us), os/as (them). No português do Brasil, eles geralmente vêm antes do verbo: 'Eu te vejo.' Na fala informal, começar com o pronome é comum: 'Te chamo amanhã.'",
+        "en": "The unstressed object pronouns replace the direct object: me (me), te (you), o/a (him/her/it), nos (us), os/as (them). In Brazilian Portuguese they usually come before the verb: 'Eu te vejo.' In informal speech, starting with the pronoun is common: 'Te chamo amanhã.'",
+        "ar": "ضمائر المفعول غير المشددة تحل محل المفعول به المباشر: me (إياي)، te (إياك)، o/a (إياه/إياها)، nos (إيانا)، os/as (إياهم/إياهن). في البرتغالية البرازيلية تأتي عادة قبل الفعل: 'Eu te vejo.' في الكلام غير الرسمي، البدء بالضمير شائع: 'Te chamo amanhã.'"
+      },
+      "examples": [
+        {
+          "pt": "Eu te vejo hoje à noite.",
+          "en": "I see you tonight.",
+          "ar": "أراك الليلة."
+        },
+        {
+          "pt": "Ela me espera na escola.",
+          "en": "She waits for me at school.",
+          "ar": "تنتظرني في المدرسة."
+        },
+        {
+          "pt": "Nós os convidamos para a festa.",
+          "en": "We invited them to the party.",
+          "ar": "دعونا إياهم إلى الحفلة."
+        }
+      ]
+    },
+    {
+      "title": {
+        "pt": "Pronomes de Objeto Indireto",
+        "en": "Indirect Object Pronouns",
+        "ar": "ضمائر المفعول به غير المباشر"
+      },
+      "explanation": {
+        "pt": "Os pronomes de objeto indireto indicam para quem: me, te, lhe, nos, lhes. 'Lhe' significa 'para ele/ela'. Exemplos: 'Eu lhe dou o livro' (I give him/her the book), 'Ela te empresta o carro' (She lends you the car). Verbos comuns: dar, emprestar, pedir.",
+        "en": "The indirect object pronouns indicate for whom: me, te, lhe, nos, lhes. 'Lhe' means 'to him/her'. Examples: 'Eu lhe dou o livro' (I give him/her the book), 'Ela te empresta o carro' (She lends you the car). Common verbs: dar, emprestar, pedir.",
+        "ar": "ضمائر المفعول به غير المباشر تدل على الجهة المستفيدة: me، te، lhe، nos، lhes. 'lhe' تعني 'له/لها'. أمثلة: 'Eu lhe dou o livro' (أعطيه الكتاب)، 'Ela te empresta o carro' (هي تعيرك السيارة). أفعال شائعة: dar، emprestar، pedir."
+      },
+      "examples": [
+        {
+          "pt": "Eu lhe empresto o dinheiro.",
+          "en": "I lend you/him/her the money.",
+          "ar": "أقرضه المال."
+        },
+        {
+          "pt": "Ela me pediu um favor.",
+          "en": "She asked me a favor.",
+          "ar": "طلبت مني معروفًا."
+        },
+        {
+          "pt": "Nós lhe damos um conselho.",
+          "en": "We give you/him/her advice.",
+          "ar": "نعطيه نصيحة."
+        }
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": {
+      "pt": "O Pedido de Favor",
+      "en": "The Request for a Favor",
+      "ar": "طلب المعروف"
+    },
+    "lines": [
+      {
+        "speaker": "Marina",
+        "pt": "Pedro, você pode me ajudar?",
+        "en": "Pedro, can you help me?",
+        "ar": "بيدرو، هل يمكنك مساعدتي؟"
+      },
+      {
+        "speaker": "Pedro",
+        "pt": "Claro! O que você precisa?",
+        "en": "Of course! What do you need?",
+        "ar": "بالتأكيد! ماذا تحتاجين؟"
+      },
+      {
+        "speaker": "Marina",
+        "pt": "Preciso que você me empreste o carro hoje.",
+        "en": "I need you to lend me the car today.",
+        "ar": "أحتاج أن تعيرني السيارة اليوم."
+      },
+      {
+        "speaker": "Pedro",
+        "pt": "Sem problema. Eu te espero na garagem.",
+        "en": "No problem. I will wait for you at the garage.",
+        "ar": "لا مشكلة. سأنتظرك في المرآب."
+      },
+      {
+        "speaker": "Marina",
+        "pt": "Muito obrigada! Eu lhe devolvo à noite.",
+        "en": "Thank you very much! I will return it to you tonight.",
+        "ar": "شكرًا جزيلًا! سأعيدها لك في الليل."
+      },
+      {
+        "speaker": "Pedro",
+        "pt": "Pode deixar. Qualquer coisa, me liga.",
+        "en": "Do not worry. Anything, call me.",
+        "ar": "لا تقلقي. أي شيء، اتصل بي."
+      }
+    ]
+  },
+  "reading": {
+    "title": {
+      "pt": "A Ajuda do Irmão",
+      "en": "The Brother's Help",
+      "ar": "مساعدة الأخ"
+    },
+    "text_pt": "Maria vai se mudar e precisa de ajuda. Ela pediu ao irmão que a ajude no sábado, e ele aceitou. Ele vai esperá-la no novo apartamento. Ela lhe dará um presente para agradecer.",
+    "text_en": "Maria is going to move and needs help. She asked her brother to help her on Saturday, and he accepted. He will wait for her at the new apartment. She will give him a gift to thank him.",
+    "text_ar": "ماريا على وشك الانتقال وتحتاج إلى مساعدة. طلبت من أخيها مساعدتها يوم السبت، فوافق. سينتظرها في الشقة الجديدة. ستعطيه هدية لشكره."
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Ela ___ ajudou com a tarefa.",
+        "en": "She ___ helped with the homework.",
+        "ar": "هي ___ ساعدت في الواجب."
+      },
+      "options": [
+        {
+          "pt": "me",
+          "en": "me",
+          "ar": "me"
+        },
+        {
+          "pt": "te",
+          "en": "te",
+          "ar": "te"
+        },
+        {
+          "pt": "lhe",
+          "en": "lhe",
+          "ar": "lhe"
+        }
+      ],
+      "answer": "me",
+      "explanation": {
+        "pt": "'Me' = me (objeto direto).",
+        "en": "'Me' = me (direct object).",
+        "ar": "'me' = إياي (مفعول به مباشر)."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Nós ___ emprestamos o carro.",
+        "en": "We ___ lend the car.",
+        "ar": "نحن ___ نعير السيارة."
+      },
+      "options": [
+        {
+          "pt": "lhe",
+          "en": "lhe",
+          "ar": "lhe"
+        },
+        {
+          "pt": "nos",
+          "en": "nos",
+          "ar": "nos"
+        },
+        {
+          "pt": "os",
+          "en": "os",
+          "ar": "os"
+        }
+      ],
+      "answer": "lhe",
+      "explanation": {
+        "pt": "'Lhe' = para ele/ela. Emprestar algo a alguém.",
+        "en": "'Lhe' = to him/her. To lend something to someone.",
+        "ar": "'lhe' = له/لها. إعارة شيء لشخص ما."
+      }
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza: 'can you help me?'",
+        "en": "Translate: 'can you help me?'",
+        "ar": "ترجم: 'can you help me?'"
+      },
+      "options": [],
+      "answer": "você pode me ajudar?",
+      "explanation": {
+        "pt": "'Pode me ajudar?' = Can you help me?",
+        "en": "'Pode me ajudar?' = Can you help me?",
+        "ar": "'Pode me ajudar?' = هل يمكنك مساعدتي؟"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "me",
+          "en": "me",
+          "ar": "me"
+        },
+        {
+          "pt": "Pedro,",
+          "en": "Pedro,",
+          "ar": "Pedro,"
+        },
+        {
+          "pt": "ajudar?",
+          "en": "ajudar?",
+          "ar": "ajudar?"
+        },
+        {
+          "pt": "pode",
+          "en": "pode",
+          "ar": "pode"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        }
+      ],
+      "answer": "Pedro, você pode me ajudar?",
+      "accepted": [
+        "Pedro, você pode me ajudar?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Pedro, você pode me ajudar?'",
+        "en": "The correct order: 'Pedro, can you help me?'",
+        "ar": "الترتيب الصحيح: 'بيدرو، هل يمكنك مساعدتي؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "nos",
+          "en": "me",
+          "ar": "nos"
+        },
+        {
+          "pt": "me",
+          "en": "him / her / it",
+          "ar": "me"
+        },
+        {
+          "pt": "os / as",
+          "en": "to him / to her",
+          "ar": "os / as"
+        },
+        {
+          "pt": "lhe",
+          "en": "you",
+          "ar": "lhe"
+        },
+        {
+          "pt": "o / a",
+          "en": "us",
+          "ar": "o / a"
+        },
+        {
+          "pt": "te",
+          "en": "them",
+          "ar": "te"
+        }
+      ],
+      "answer": "nos::me|me::him / her / it|os / as::to him / to her|lhe::you|o / a::us|te::them",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Pedro, você pode me ajudar?",
+          "en": "Do not worry. Anything, call me.",
+          "ar": "لا تقلقي. أي شيء، اتصل بي."
+        },
+        {
+          "pt": "Pode deixar. Qualquer coisa, me liga.",
+          "en": "No problem. I will wait for you at the garage.",
+          "ar": "بيدرو، هل يمكنك مساعدتي؟"
+        },
+        {
+          "pt": "Sem problema. Eu te espero na garagem.",
+          "en": "Pedro, can you help me?",
+          "ar": "لا مشكلة. سأنتظرك في المرآب."
+        }
+      ],
+      "answer": "Pedro, você pode me ajudar?",
+      "accepted": [],
+      "audio": "Pedro, você pode me ajudar?",
+      "explanation": {
+        "pt": "Você ouviu: 'Pedro, você pode me ajudar?' — 'Pedro, can you help me?'",
+        "en": "You heard: 'Pedro, você pode me ajudar?' — 'Pedro, can you help me?'",
+        "ar": "سمعت: 'Pedro, você pode me ajudar?' — 'بيدرو، هل يمكنك مساعدتي؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Preciso que você me empreste o carro hoje.",
+          "en": "I need you to lend me the car today.",
+          "ar": "لا تقلقي. أي شيء، اتصل بي."
+        },
+        {
+          "pt": "Pode deixar. Qualquer coisa, me liga.",
+          "en": "Do not worry. Anything, call me.",
+          "ar": "بالتأكيد! ماذا تحتاجين؟"
+        },
+        {
+          "pt": "Claro! O que você precisa?",
+          "en": "Of course! What do you need?",
+          "ar": "أحتاج أن تعيرني السيارة اليوم."
+        }
+      ],
+      "answer": "Claro! O que você precisa?",
+      "accepted": [],
+      "audio": "Claro! O que você precisa?",
+      "explanation": {
+        "pt": "Você ouviu: 'Claro! O que você precisa?' — 'Of course! What do you need?'",
+        "en": "You heard: 'Claro! O que você precisa?' — 'Of course! What do you need?'",
+        "ar": "سمعت: 'Claro! O que você precisa?' — 'بالتأكيد! ماذا تحتاجين؟'"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Eu ___ vejo hoje à noite.",
+        "en": "Eu ___ vejo hoje à noite.",
+        "ar": "Eu ___ vejo hoje à noite."
+      },
+      "options": [
+        {
+          "pt": "te",
+          "en": "te",
+          "ar": "te"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "Nós",
+          "en": "Nós",
+          "ar": "Nós"
+        }
+      ],
+      "answer": "te",
+      "accepted": [],
+      "explanation": {
+        "pt": "A resposta é 'te'. Frase completa: Eu te vejo hoje à noite.",
+        "en": "The answer is 'te'. Full sentence: I see you tonight.",
+        "ar": "الإجابة الصحيحة: 'te'. الجملة كاملة: أراك الليلة."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "pode",
+          "en": "pode",
+          "ar": "pode"
+        },
+        {
+          "pt": "Pedro,",
+          "en": "Pedro,",
+          "ar": "Pedro,"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "me",
+          "en": "me",
+          "ar": "me"
+        },
+        {
+          "pt": "ajudar?",
+          "en": "ajudar?",
+          "ar": "ajudar?"
+        }
+      ],
+      "answer": "Pedro, você pode me ajudar?",
+      "accepted": [
+        "Pedro, você pode me ajudar?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Pedro, você pode me ajudar?'",
+        "en": "The correct order: 'Pedro, can you help me?'",
+        "ar": "الترتيب الصحيح: 'بيدرو، هل يمكنك مساعدتي؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "os / as",
+          "en": "them",
+          "ar": "os / as"
+        },
+        {
+          "pt": "te",
+          "en": "you",
+          "ar": "te"
+        },
+        {
+          "pt": "nos",
+          "en": "to him / to her",
+          "ar": "nos"
+        },
+        {
+          "pt": "o / a",
+          "en": "us",
+          "ar": "o / a"
+        },
+        {
+          "pt": "lhe",
+          "en": "him / her / it",
+          "ar": "lhe"
+        },
+        {
+          "pt": "me",
+          "en": "me",
+          "ar": "me"
+        }
+      ],
+      "answer": "os / as::them|te::you|nos::to him / to her|o / a::us|lhe::him / her / it|me::me",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Pedro, você pode me ajudar?",
+          "en": "Of course! What do you need?",
+          "ar": "بيدرو، هل يمكنك مساعدتي؟"
+        },
+        {
+          "pt": "Claro! O que você precisa?",
+          "en": "I need you to lend me the car today.",
+          "ar": "بالتأكيد! ماذا تحتاجين؟"
+        },
+        {
+          "pt": "Preciso que você me empreste o carro hoje.",
+          "en": "Pedro, can you help me?",
+          "ar": "أحتاج أن تعيرني السيارة اليوم."
+        }
+      ],
+      "answer": "Pedro, você pode me ajudar?",
+      "accepted": [],
+      "audio": "Pedro, você pode me ajudar?",
+      "explanation": {
+        "pt": "Você ouviu: 'Pedro, você pode me ajudar?' — 'Pedro, can you help me?'",
+        "en": "You heard: 'Pedro, você pode me ajudar?' — 'Pedro, can you help me?'",
+        "ar": "سمعت: 'Pedro, você pode me ajudar?' — 'بيدرو، هل يمكنك مساعدتي؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Muito obrigada! Eu lhe devolvo à noite.",
+          "en": "I need you to lend me the car today.",
+          "ar": "شكرًا جزيلًا! سأعيدها لك في الليل."
+        },
+        {
+          "pt": "Preciso que você me empreste o carro hoje.",
+          "en": "Thank you very much! I will return it to you tonight.",
+          "ar": "أحتاج أن تعيرني السيارة اليوم."
+        },
+        {
+          "pt": "Claro! O que você precisa?",
+          "en": "Of course! What do you need?",
+          "ar": "بالتأكيد! ماذا تحتاجين؟"
+        }
+      ],
+      "answer": "Claro! O que você precisa?",
+      "accepted": [],
+      "audio": "Claro! O que você precisa?",
+      "explanation": {
+        "pt": "Você ouviu: 'Claro! O que você precisa?' — 'Of course! What do you need?'",
+        "en": "You heard: 'Claro! O que você precisa?' — 'Of course! What do you need?'",
+        "ar": "سمعت: 'Claro! O que você precisa?' — 'بالتأكيد! ماذا تحتاجين؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "me",
+          "en": "me",
+          "ar": "me"
+        },
+        {
+          "pt": "pode",
+          "en": "pode",
+          "ar": "pode"
+        },
+        {
+          "pt": "Pedro,",
+          "en": "Pedro,",
+          "ar": "Pedro,"
+        },
+        {
+          "pt": "ajudar?",
+          "en": "ajudar?",
+          "ar": "ajudar?"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        }
+      ],
+      "answer": "Pedro, você pode me ajudar?",
+      "accepted": [
+        "Pedro, você pode me ajudar?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Pedro, você pode me ajudar?'",
+        "en": "The correct order: 'Pedro, can you help me?'",
+        "ar": "الترتيب الصحيح: 'بيدرو، هل يمكنك مساعدتي؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o / a",
+          "en": "you",
+          "ar": "o / a"
+        },
+        {
+          "pt": "os / as",
+          "en": "me",
+          "ar": "os / as"
+        },
+        {
+          "pt": "me",
+          "en": "to him / to her",
+          "ar": "me"
+        },
+        {
+          "pt": "nos",
+          "en": "us",
+          "ar": "nos"
+        },
+        {
+          "pt": "te",
+          "en": "him / her / it",
+          "ar": "te"
+        },
+        {
+          "pt": "lhe",
+          "en": "them",
+          "ar": "lhe"
+        }
+      ],
+      "answer": "o / a::you|os / as::me|me::to him / to her|nos::us|te::him / her / it|lhe::them",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Pode deixar. Qualquer coisa, me liga.",
+          "en": "Pedro, can you help me?",
+          "ar": "بيدرو، هل يمكنك مساعدتي؟"
+        },
+        {
+          "pt": "Muito obrigada! Eu lhe devolvo à noite.",
+          "en": "Thank you very much! I will return it to you tonight.",
+          "ar": "شكرًا جزيلًا! سأعيدها لك في الليل."
+        },
+        {
+          "pt": "Pedro, você pode me ajudar?",
+          "en": "Do not worry. Anything, call me.",
+          "ar": "لا تقلقي. أي شيء، اتصل بي."
+        }
+      ],
+      "answer": "Pedro, você pode me ajudar?",
+      "accepted": [],
+      "audio": "Pedro, você pode me ajudar?",
+      "explanation": {
+        "pt": "Você ouviu: 'Pedro, você pode me ajudar?' — 'Pedro, can you help me?'",
+        "en": "You heard: 'Pedro, você pode me ajudar?' — 'Pedro, can you help me?'",
+        "ar": "سمعت: 'Pedro, você pode me ajudar?' — 'بيدرو، هل يمكنك مساعدتي؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Muito obrigada! Eu lhe devolvo à noite.",
+          "en": "Thank you very much! I will return it to you tonight.",
+          "ar": "شكرًا جزيلًا! سأعيدها لك في الليل."
+        },
+        {
+          "pt": "Sem problema. Eu te espero na garagem.",
+          "en": "No problem. I will wait for you at the garage.",
+          "ar": "لا مشكلة. سأنتظرك في المرآب."
+        },
+        {
+          "pt": "Claro! O que você precisa?",
+          "en": "Of course! What do you need?",
+          "ar": "بالتأكيد! ماذا تحتاجين؟"
+        }
+      ],
+      "answer": "Claro! O que você precisa?",
+      "accepted": [],
+      "audio": "Claro! O que você precisa?",
+      "explanation": {
+        "pt": "Você ouviu: 'Claro! O que você precisa?' — 'Of course! What do you need?'",
+        "en": "You heard: 'Claro! O que você precisa?' — 'Of course! What do you need?'",
+        "ar": "سمعت: 'Claro! O que você precisa?' — 'بالتأكيد! ماذا تحتاجين؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "ajudar?",
+          "en": "ajudar?",
+          "ar": "ajudar?"
+        },
+        {
+          "pt": "Pedro,",
+          "en": "Pedro,",
+          "ar": "Pedro,"
+        },
+        {
+          "pt": "me",
+          "en": "me",
+          "ar": "me"
+        },
+        {
+          "pt": "pode",
+          "en": "pode",
+          "ar": "pode"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        }
+      ],
+      "answer": "Pedro, você pode me ajudar?",
+      "accepted": [
+        "Pedro, você pode me ajudar?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Pedro, você pode me ajudar?'",
+        "en": "The correct order: 'Pedro, can you help me?'",
+        "ar": "الترتيب الصحيح: 'بيدرو، هل يمكنك مساعدتي؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "nos",
+          "en": "to him / to her",
+          "ar": "nos"
+        },
+        {
+          "pt": "te",
+          "en": "them",
+          "ar": "te"
+        },
+        {
+          "pt": "o / a",
+          "en": "you",
+          "ar": "o / a"
+        },
+        {
+          "pt": "lhe",
+          "en": "me",
+          "ar": "lhe"
+        },
+        {
+          "pt": "me",
+          "en": "us",
+          "ar": "me"
+        },
+        {
+          "pt": "os / as",
+          "en": "him / her / it",
+          "ar": "os / as"
+        }
+      ],
+      "answer": "nos::to him / to her|te::them|o / a::you|lhe::me|me::us|os / as::him / her / it",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sem problema. Eu te espero na garagem.",
+          "en": "No problem. I will wait for you at the garage.",
+          "ar": "بيدرو، هل يمكنك مساعدتي؟"
+        },
+        {
+          "pt": "Pedro, você pode me ajudar?",
+          "en": "Pedro, can you help me?",
+          "ar": "أحتاج أن تعيرني السيارة اليوم."
+        },
+        {
+          "pt": "Preciso que você me empreste o carro hoje.",
+          "en": "I need you to lend me the car today.",
+          "ar": "لا مشكلة. سأنتظرك في المرآب."
+        }
+      ],
+      "answer": "Pedro, você pode me ajudar?",
+      "accepted": [],
+      "audio": "Pedro, você pode me ajudar?",
+      "explanation": {
+        "pt": "Você ouviu: 'Pedro, você pode me ajudar?' — 'Pedro, can you help me?'",
+        "en": "You heard: 'Pedro, você pode me ajudar?' — 'Pedro, can you help me?'",
+        "ar": "سمعت: 'Pedro, você pode me ajudar?' — 'بيدرو، هل يمكنك مساعدتي؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Muito obrigada! Eu lhe devolvo à noite.",
+          "en": "No problem. I will wait for you at the garage.",
+          "ar": "شكرًا جزيلًا! سأعيدها لك في الليل."
+        },
+        {
+          "pt": "Sem problema. Eu te espero na garagem.",
+          "en": "Thank you very much! I will return it to you tonight.",
+          "ar": "بالتأكيد! ماذا تحتاجين؟"
+        },
+        {
+          "pt": "Claro! O que você precisa?",
+          "en": "Of course! What do you need?",
+          "ar": "لا مشكلة. سأنتظرك في المرآب."
+        }
+      ],
+      "answer": "Claro! O que você precisa?",
+      "accepted": [],
+      "audio": "Claro! O que você precisa?",
+      "explanation": {
+        "pt": "Você ouviu: 'Claro! O que você precisa?' — 'Of course! What do you need?'",
+        "en": "You heard: 'Claro! O que você precisa?' — 'Of course! What do you need?'",
+        "ar": "سمعت: 'Claro! O que você precisa?' — 'بالتأكيد! ماذا تحتاجين؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "pode",
+          "en": "pode",
+          "ar": "pode"
+        },
+        {
+          "pt": "me",
+          "en": "me",
+          "ar": "me"
+        },
+        {
+          "pt": "ajudar?",
+          "en": "ajudar?",
+          "ar": "ajudar?"
+        },
+        {
+          "pt": "Pedro,",
+          "en": "Pedro,",
+          "ar": "Pedro,"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        }
+      ],
+      "answer": "Pedro, você pode me ajudar?",
+      "accepted": [
+        "Pedro, você pode me ajudar?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Pedro, você pode me ajudar?'",
+        "en": "The correct order: 'Pedro, can you help me?'",
+        "ar": "الترتيب الصحيح: 'بيدرو، هل يمكنك مساعدتي؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "os / as",
+          "en": "you",
+          "ar": "os / as"
+        },
+        {
+          "pt": "lhe",
+          "en": "us",
+          "ar": "lhe"
+        },
+        {
+          "pt": "me",
+          "en": "him / her / it",
+          "ar": "me"
+        },
+        {
+          "pt": "nos",
+          "en": "to him / to her",
+          "ar": "nos"
+        },
+        {
+          "pt": "te",
+          "en": "me",
+          "ar": "te"
+        },
+        {
+          "pt": "o / a",
+          "en": "them",
+          "ar": "o / a"
+        }
+      ],
+      "answer": "os / as::you|lhe::us|me::him / her / it|nos::to him / to her|te::me|o / a::them",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sem problema. Eu te espero na garagem.",
+          "en": "No problem. I will wait for you at the garage.",
+          "ar": "بيدرو، هل يمكنك مساعدتي؟"
+        },
+        {
+          "pt": "Pedro, você pode me ajudar?",
+          "en": "Do not worry. Anything, call me.",
+          "ar": "لا مشكلة. سأنتظرك في المرآب."
+        },
+        {
+          "pt": "Pode deixar. Qualquer coisa, me liga.",
+          "en": "Pedro, can you help me?",
+          "ar": "لا تقلقي. أي شيء، اتصل بي."
+        }
+      ],
+      "answer": "Pedro, você pode me ajudar?",
+      "accepted": [],
+      "audio": "Pedro, você pode me ajudar?",
+      "explanation": {
+        "pt": "Você ouviu: 'Pedro, você pode me ajudar?' — 'Pedro, can you help me?'",
+        "en": "You heard: 'Pedro, você pode me ajudar?' — 'Pedro, can you help me?'",
+        "ar": "سمعت: 'Pedro, você pode me ajudar?' — 'بيدرو، هل يمكنك مساعدتي؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Pedro, você pode me ajudar?",
+          "en": "Pedro, can you help me?",
+          "ar": "بيدرو، هل يمكنك مساعدتي؟"
+        },
+        {
+          "pt": "Muito obrigada! Eu lhe devolvo à noite.",
+          "en": "Of course! What do you need?",
+          "ar": "بالتأكيد! ماذا تحتاجين؟"
+        },
+        {
+          "pt": "Claro! O que você precisa?",
+          "en": "Thank you very much! I will return it to you tonight.",
+          "ar": "شكرًا جزيلًا! سأعيدها لك في الليل."
+        }
+      ],
+      "answer": "Claro! O que você precisa?",
+      "accepted": [],
+      "audio": "Claro! O que você precisa?",
+      "explanation": {
+        "pt": "Você ouviu: 'Claro! O que você precisa?' — 'Of course! What do you need?'",
+        "en": "You heard: 'Claro! O que você precisa?' — 'Of course! What do you need?'",
+        "ar": "سمعت: 'Claro! O que você precisa?' — 'بالتأكيد! ماذا تحتاجين؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Pedro,",
+          "en": "Pedro,",
+          "ar": "Pedro,"
+        },
+        {
+          "pt": "me",
+          "en": "me",
+          "ar": "me"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "ajudar?",
+          "en": "ajudar?",
+          "ar": "ajudar?"
+        },
+        {
+          "pt": "pode",
+          "en": "pode",
+          "ar": "pode"
+        }
+      ],
+      "answer": "Pedro, você pode me ajudar?",
+      "accepted": [
+        "Pedro, você pode me ajudar?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Pedro, você pode me ajudar?'",
+        "en": "The correct order: 'Pedro, can you help me?'",
+        "ar": "الترتيب الصحيح: 'بيدرو، هل يمكنك مساعدتي؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o / a",
+          "en": "us",
+          "ar": "o / a"
+        },
+        {
+          "pt": "me",
+          "en": "them",
+          "ar": "me"
+        },
+        {
+          "pt": "lhe",
+          "en": "him / her / it",
+          "ar": "lhe"
+        },
+        {
+          "pt": "os / as",
+          "en": "to him / to her",
+          "ar": "os / as"
+        },
+        {
+          "pt": "te",
+          "en": "me",
+          "ar": "te"
+        },
+        {
+          "pt": "nos",
+          "en": "you",
+          "ar": "nos"
+        }
+      ],
+      "answer": "o / a::us|me::them|lhe::him / her / it|os / as::to him / to her|te::me|nos::you",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Pode deixar. Qualquer coisa, me liga.",
+          "en": "Thank you very much! I will return it to you tonight.",
+          "ar": "شكرًا جزيلًا! سأعيدها لك في الليل."
+        },
+        {
+          "pt": "Muito obrigada! Eu lhe devolvo à noite.",
+          "en": "Pedro, can you help me?",
+          "ar": "لا تقلقي. أي شيء، اتصل بي."
+        },
+        {
+          "pt": "Pedro, você pode me ajudar?",
+          "en": "Do not worry. Anything, call me.",
+          "ar": "بيدرو، هل يمكنك مساعدتي؟"
+        }
+      ],
+      "answer": "Pedro, você pode me ajudar?",
+      "accepted": [],
+      "audio": "Pedro, você pode me ajudar?",
+      "explanation": {
+        "pt": "Você ouviu: 'Pedro, você pode me ajudar?' — 'Pedro, can you help me?'",
+        "en": "You heard: 'Pedro, você pode me ajudar?' — 'Pedro, can you help me?'",
+        "ar": "سمعت: 'Pedro, você pode me ajudar?' — 'بيدرو، هل يمكنك مساعدتي؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Claro! O que você precisa?",
+          "en": "Of course! What do you need?",
+          "ar": "بالتأكيد! ماذا تحتاجين؟"
+        },
+        {
+          "pt": "Muito obrigada! Eu lhe devolvo à noite.",
+          "en": "I need you to lend me the car today.",
+          "ar": "شكرًا جزيلًا! سأعيدها لك في الليل."
+        },
+        {
+          "pt": "Preciso que você me empreste o carro hoje.",
+          "en": "Thank you very much! I will return it to you tonight.",
+          "ar": "أحتاج أن تعيرني السيارة اليوم."
+        }
+      ],
+      "answer": "Claro! O que você precisa?",
+      "accepted": [],
+      "audio": "Claro! O que você precisa?",
+      "explanation": {
+        "pt": "Você ouviu: 'Claro! O que você precisa?' — 'Of course! What do you need?'",
+        "en": "You heard: 'Claro! O que você precisa?' — 'Of course! What do you need?'",
+        "ar": "سمعت: 'Claro! O que você precisa?' — 'بالتأكيد! ماذا تحتاجين؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Pedro,",
+          "en": "Pedro,",
+          "ar": "Pedro,"
+        },
+        {
+          "pt": "ajudar?",
+          "en": "ajudar?",
+          "ar": "ajudar?"
+        },
+        {
+          "pt": "me",
+          "en": "me",
+          "ar": "me"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "pode",
+          "en": "pode",
+          "ar": "pode"
+        }
+      ],
+      "answer": "Pedro, você pode me ajudar?",
+      "accepted": [
+        "Pedro, você pode me ajudar?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Pedro, você pode me ajudar?'",
+        "en": "The correct order: 'Pedro, can you help me?'",
+        "ar": "الترتيب الصحيح: 'بيدرو، هل يمكنك مساعدتي؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "te",
+          "en": "to him / to her",
+          "ar": "te"
+        },
+        {
+          "pt": "nos",
+          "en": "him / her / it",
+          "ar": "nos"
+        },
+        {
+          "pt": "os / as",
+          "en": "you",
+          "ar": "os / as"
+        },
+        {
+          "pt": "o / a",
+          "en": "me",
+          "ar": "o / a"
+        },
+        {
+          "pt": "me",
+          "en": "them",
+          "ar": "me"
+        },
+        {
+          "pt": "lhe",
+          "en": "us",
+          "ar": "lhe"
+        }
+      ],
+      "answer": "te::to him / to her|nos::him / her / it|os / as::you|o / a::me|me::them|lhe::us",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Preciso que você me empreste o carro hoje.",
+          "en": "No problem. I will wait for you at the garage.",
+          "ar": "بيدرو، هل يمكنك مساعدتي؟"
+        },
+        {
+          "pt": "Pedro, você pode me ajudar?",
+          "en": "I need you to lend me the car today.",
+          "ar": "أحتاج أن تعيرني السيارة اليوم."
+        },
+        {
+          "pt": "Sem problema. Eu te espero na garagem.",
+          "en": "Pedro, can you help me?",
+          "ar": "لا مشكلة. سأنتظرك في المرآب."
+        }
+      ],
+      "answer": "Pedro, você pode me ajudar?",
+      "accepted": [],
+      "audio": "Pedro, você pode me ajudar?",
+      "explanation": {
+        "pt": "Você ouviu: 'Pedro, você pode me ajudar?' — 'Pedro, can you help me?'",
+        "en": "You heard: 'Pedro, você pode me ajudar?' — 'Pedro, can you help me?'",
+        "ar": "سمعت: 'Pedro, você pode me ajudar?' — 'بيدرو، هل يمكنك مساعدتي؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Preciso que você me empreste o carro hoje.",
+          "en": "Of course! What do you need?",
+          "ar": "بالتأكيد! ماذا تحتاجين؟"
+        },
+        {
+          "pt": "Claro! O que você precisa?",
+          "en": "I need you to lend me the car today.",
+          "ar": "أحتاج أن تعيرني السيارة اليوم."
+        },
+        {
+          "pt": "Pedro, você pode me ajudar?",
+          "en": "Pedro, can you help me?",
+          "ar": "بيدرو، هل يمكنك مساعدتي؟"
+        }
+      ],
+      "answer": "Claro! O que você precisa?",
+      "accepted": [],
+      "audio": "Claro! O que você precisa?",
+      "explanation": {
+        "pt": "Você ouviu: 'Claro! O que você precisa?' — 'Of course! What do you need?'",
+        "en": "You heard: 'Claro! O que você precisa?' — 'Of course! What do you need?'",
+        "ar": "سمعت: 'Claro! O que você precisa?' — 'بالتأكيد! ماذا تحتاجين؟'"
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'me'",
+        "en": "Type in Portuguese: 'me'",
+        "ar": "اكتب بالبرتغالية: 'إياي / لي'"
+      },
+      "options": [],
+      "answer": "me",
+      "accepted": [
+        "me"
+      ],
+      "explanation": {
+        "pt": "'me' significa 'me'.",
+        "en": "'me' means 'me'.",
+        "ar": "'$me' بالعربية: '$إياي / لي'."
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'you'",
+        "en": "Type in Portuguese: 'you'",
+        "ar": "اكتب بالبرتغالية: 'إياك / لك'"
+      },
+      "options": [],
+      "answer": "te",
+      "accepted": [
+        "te"
+      ],
+      "explanation": {
+        "pt": "'te' significa 'you'.",
+        "en": "'te' means 'you'.",
+        "ar": "'$te' بالعربية: '$إياك / لك'."
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Pedro, você pode me ajudar?",
+          "en": "Pedro, você pode me ajudar?",
+          "ar": "Pedro, você pode me ajudar?"
+        },
+        {
+          "pt": "Pode deixar. Qualquer coisa, me liga.",
+          "en": "Pode deixar. Qualquer coisa, me liga.",
+          "ar": "Pode deixar. Qualquer coisa, me liga."
+        },
+        {
+          "pt": "Preciso que você me empreste o carro hoje.",
+          "en": "Preciso que você me empreste o carro hoje.",
+          "ar": "Preciso que você me empreste o carro hoje."
+        }
+      ],
+      "answer": "Pedro, você pode me ajudar?",
+      "accepted": [],
+      "audio": "Pedro, você pode me ajudar?",
+      "explanation": {
+        "pt": "Você ouviu: 'Pedro, você pode me ajudar?'",
+        "en": "You heard: 'Pedro, você pode me ajudar?'",
+        "ar": "سمعت: 'Pedro, você pode me ajudar?'"
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Sem problema. Eu te espero na garagem.",
+          "en": "Sem problema. Eu te espero na garagem.",
+          "ar": "Sem problema. Eu te espero na garagem."
+        },
+        {
+          "pt": "Pode deixar. Qualquer coisa, me liga.",
+          "en": "Pode deixar. Qualquer coisa, me liga.",
+          "ar": "Pode deixar. Qualquer coisa, me liga."
+        },
+        {
+          "pt": "Claro! O que você precisa?",
+          "en": "Claro! O que você precisa?",
+          "ar": "Claro! O que você precisa?"
+        }
+      ],
+      "answer": "Claro! O que você precisa?",
+      "accepted": [],
+      "audio": "Claro! O que você precisa?",
+      "explanation": {
+        "pt": "Você ouviu: 'Claro! O que você precisa?'",
+        "en": "You heard: 'Claro! O que você precisa?'",
+        "ar": "سمعت: 'Claro! O que você precisa?'"
+      }
+    },
+    {
+      "type": "dictation",
+      "prompt": {
+        "pt": "Ouça e escreva o que você ouviu.",
+        "en": "Listen and type what you hear.",
+        "ar": "استمع واكتب ما سمعته."
+      },
+      "options": [],
+      "answer": "Pedro, você pode me ajudar?",
+      "accepted": [],
+      "audio": "Pedro, você pode me ajudar?",
+      "explanation": {
+        "pt": "A frase correta: 'Pedro, você pode me ajudar?'",
+        "en": "The correct sentence: 'Pedro, você pode me ajudar?'",
+        "ar": "الجملة الصحيحة: 'Pedro, você pode me ajudar?'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "pode",
+          "en": "pode",
+          "ar": "pode"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "Pedro,",
+          "en": "Pedro,",
+          "ar": "Pedro,"
+        },
+        {
+          "pt": "ajudar?",
+          "en": "ajudar?",
+          "ar": "ajudar?"
+        },
+        {
+          "pt": "me",
+          "en": "me",
+          "ar": "me"
+        }
+      ],
+      "answer": "Pedro, você pode me ajudar?",
+      "accepted": [
+        "Pedro, você pode me ajudar?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Pedro, você pode me ajudar?'",
+        "en": "The correct order: 'Pedro, can you help me?'",
+        "ar": "الترتيب الصحيح: 'بيدرو، هل يمكنك مساعدتي؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o / a",
+          "en": "me",
+          "ar": "o / a"
+        },
+        {
+          "pt": "nos",
+          "en": "him / her / it",
+          "ar": "nos"
+        },
+        {
+          "pt": "lhe",
+          "en": "you",
+          "ar": "lhe"
+        },
+        {
+          "pt": "me",
+          "en": "to him / to her",
+          "ar": "me"
+        },
+        {
+          "pt": "os / as",
+          "en": "us",
+          "ar": "os / as"
+        },
+        {
+          "pt": "te",
+          "en": "them",
+          "ar": "te"
+        }
+      ],
+      "answer": "o / a::me|nos::him / her / it|lhe::you|me::to him / to her|os / as::us|te::them",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Pode deixar. Qualquer coisa, me liga.",
+          "en": "Do not worry. Anything, call me.",
+          "ar": "بيدرو، هل يمكنك مساعدتي؟"
+        },
+        {
+          "pt": "Claro! O que você precisa?",
+          "en": "Pedro, can you help me?",
+          "ar": "لا تقلقي. أي شيء، اتصل بي."
+        },
+        {
+          "pt": "Pedro, você pode me ajudar?",
+          "en": "Of course! What do you need?",
+          "ar": "بالتأكيد! ماذا تحتاجين؟"
+        }
+      ],
+      "answer": "Pedro, você pode me ajudar?",
+      "accepted": [],
+      "audio": "Pedro, você pode me ajudar?",
+      "explanation": {
+        "pt": "Você ouviu: 'Pedro, você pode me ajudar?' — 'Pedro, can you help me?'",
+        "en": "You heard: 'Pedro, você pode me ajudar?' — 'Pedro, can you help me?'",
+        "ar": "سمعت: 'Pedro, você pode me ajudar?' — 'بيدرو، هل يمكنك مساعدتي؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Pode deixar. Qualquer coisa, me liga.",
+          "en": "Do not worry. Anything, call me.",
+          "ar": "أحتاج أن تعيرني السيارة اليوم."
+        },
+        {
+          "pt": "Preciso que você me empreste o carro hoje.",
+          "en": "Of course! What do you need?",
+          "ar": "لا تقلقي. أي شيء، اتصل بي."
+        },
+        {
+          "pt": "Claro! O que você precisa?",
+          "en": "I need you to lend me the car today.",
+          "ar": "بالتأكيد! ماذا تحتاجين؟"
+        }
+      ],
+      "answer": "Claro! O que você precisa?",
+      "accepted": [],
+      "audio": "Claro! O que você precisa?",
+      "explanation": {
+        "pt": "Você ouviu: 'Claro! O que você precisa?' — 'Of course! What do you need?'",
+        "en": "You heard: 'Claro! O que você precisa?' — 'Of course! What do you need?'",
+        "ar": "سمعت: 'Claro! O que você precisa?' — 'بالتأكيد! ماذا تحتاجين؟'"
+      }
+    }
+  ],
+  "speaking": {
+    "title": {
+      "pt": "Fale Agora — Ouça e Repita",
+      "en": "Speak Now — Listen and Repeat",
+      "ar": "تحدث الآن — استمع وكرر"
+    },
+    "phrases": [
+      {
+        "pt": "Pedro, você pode me ajudar?",
+        "en": "Pedro, can you help me?",
+        "ar": "بيدرو، هل يمكنك مساعدتي؟"
+      },
+      {
+        "pt": "Claro! O que você precisa?",
+        "en": "Of course! What do you need?",
+        "ar": "بالتأكيد! ماذا تحتاجين؟"
+      },
+      {
+        "pt": "Preciso que você me empreste o carro hoje.",
+        "en": "I need you to lend me the car today.",
+        "ar": "أحتاج أن تعيرني السيارة اليوم."
+      },
+      {
+        "pt": "Sem problema. Eu te espero na garagem.",
+        "en": "No problem. I will wait for you at the garage.",
+        "ar": "لا مشكلة. سأنتظرك في المرآب."
+      },
+      {
+        "pt": "Muito obrigada! Eu lhe devolvo à noite.",
+        "en": "Thank you very much! I will return it to you tonight.",
+        "ar": "شكرًا جزيلًا! سأعيدها لك في الليل."
+      },
+      {
+        "pt": "Pode deixar. Qualquer coisa, me liga.",
+        "en": "Do not worry. Anything, call me.",
+        "ar": "لا تقلقي. أي شيء، اتصل بي."
+      },
+      {
+        "pt": "me",
+        "en": "me",
+        "ar": "إياي / لي"
+      },
+      {
+        "pt": "te",
+        "en": "you",
+        "ar": "إياك / لك"
+      },
+      {
+        "pt": "o / a",
+        "en": "him / her / it",
+        "ar": "إياه / إياها"
+      }
+    ]
+  },
+  "cultural_tips": {
+    "pt": "",
+    "en": "",
+    "ar": ""
+  }
+}

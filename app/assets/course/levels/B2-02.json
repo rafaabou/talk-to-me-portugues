@@ -1,0 +1,1908 @@
+{
+  "id": "B2-02",
+  "level": "B2",
+  "level_name": {
+    "pt": "Intermediário Alto",
+    "en": "Upper-Intermediate",
+    "ar": "متوسط متقدم"
+  },
+  "title": {
+    "pt": "Política e Sociedade",
+    "en": "Politics and Society",
+    "ar": "السياسة والمجتمع"
+  },
+  "objectives": [
+    {
+      "pt": "Compreender e usar o vocabulário básico da política",
+      "en": "Understand and use basic political vocabulary",
+      "ar": "فهم واستخدام المفردات السياسية الأساسية"
+    },
+    {
+      "pt": "Expressar opiniões sobre questões sociais",
+      "en": "Express opinions on social issues",
+      "ar": "التعبير عن الآراء حول القضايا الاجتماعية"
+    },
+    {
+      "pt": "Discutir o processo eleitoral em português",
+      "en": "Discuss the electoral process in Portuguese",
+      "ar": "مناقشة العملية الانتخابية باللغة البرتغالية"
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "o governo",
+      "ipa": "/u ɡoˈveʁ.nu/",
+      "en": "the government",
+      "ar": "الحكومة",
+      "example": {
+        "pt": "Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.",
+        "en": "Of course! In my opinion, voting is a duty and a right of every citizen.",
+        "ar": "بالتأكيد! في رأيي، التصويت واجب وحق لكل مواطن."
+      }
+    },
+    {
+      "pt": "a eleição",
+      "ipa": "/a e.lejˈsɐ̃w/",
+      "en": "the election",
+      "ar": "الانتخابات",
+      "example": {
+        "pt": "Por isso é preciso que a gente acompanhe a política de perto.",
+        "en": "That's why we need to follow politics closely.",
+        "ar": "لذلك يجب أن نتابع السياسة عن قرب."
+      }
+    },
+    {
+      "pt": "o voto",
+      "ipa": "/u ˈvɔ.tu/",
+      "en": "the vote",
+      "ar": "التصويت",
+      "example": {
+        "pt": "Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.",
+        "en": "Of course! In my opinion, voting is a duty and a right of every citizen.",
+        "ar": "بالتأكيد! في رأيي، التصويت واجب وحق لكل مواطن."
+      }
+    },
+    {
+      "pt": "o candidato",
+      "ipa": "/u kɐ̃.dʒiˈda.tu/",
+      "en": "the candidate",
+      "ar": "المرشح",
+      "example": {
+        "pt": "Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.",
+        "en": "Of course! In my opinion, voting is a duty and a right of every citizen.",
+        "ar": "بالتأكيد! في رأيي، التصويت واجب وحق لكل مواطن."
+      }
+    },
+    {
+      "pt": "o partido",
+      "ipa": "/u paχˈtʃi.du/",
+      "en": "the political party",
+      "ar": "الحزب السياسي",
+      "example": {
+        "pt": "Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.",
+        "en": "Of course! In my opinion, voting is a duty and a right of every citizen.",
+        "ar": "بالتأكيد! في رأيي، التصويت واجب وحق لكل مواطن."
+      }
+    },
+    {
+      "pt": "o presidente",
+      "ipa": "/u pɾe.ziˈdẽ.tʃi/",
+      "en": "the president",
+      "ar": "الرئيس",
+      "example": {
+        "pt": "Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.",
+        "en": "Of course! In my opinion, voting is a duty and a right of every citizen.",
+        "ar": "بالتأكيد! في رأيي، التصويت واجب وحق لكل مواطن."
+      }
+    },
+    {
+      "pt": "o senador",
+      "ipa": "/u se.naˈdoχ/",
+      "en": "the senator",
+      "ar": "السيناتور",
+      "example": {
+        "pt": "Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.",
+        "en": "Of course! In my opinion, voting is a duty and a right of every citizen.",
+        "ar": "بالتأكيد! في رأيي، التصويت واجب وحق لكل مواطن."
+      }
+    },
+    {
+      "pt": "o deputado",
+      "ipa": "/u de.puˈta.du/",
+      "en": "the congressman",
+      "ar": "النائب",
+      "example": {
+        "pt": "Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.",
+        "en": "Of course! In my opinion, voting is a duty and a right of every citizen.",
+        "ar": "بالتأكيد! في رأيي، التصويت واجب وحق لكل مواطن."
+      }
+    },
+    {
+      "pt": "o direito",
+      "ipa": "/u dʒiˈɾej.tu/",
+      "en": "the right",
+      "ar": "الحق",
+      "example": {
+        "pt": "Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.",
+        "en": "Of course! In my opinion, voting is a duty and a right of every citizen.",
+        "ar": "بالتأكيد! في رأيي، التصويت واجب وحق لكل مواطن."
+      }
+    },
+    {
+      "pt": "a lei",
+      "ipa": "/a lej/",
+      "en": "the law",
+      "ar": "القانون",
+      "example": {
+        "pt": "Por isso é preciso que a gente acompanhe a política de perto.",
+        "en": "That's why we need to follow politics closely.",
+        "ar": "لذلك يجب أن نتابع السياسة عن قرب."
+      }
+    },
+    {
+      "pt": "a democracia",
+      "ipa": "/a de.mo.kɾaˈsi.a/",
+      "en": "the democracy",
+      "ar": "الديمقراطية",
+      "example": {
+        "pt": "Por isso é preciso que a gente acompanhe a política de perto.",
+        "en": "That's why we need to follow politics closely.",
+        "ar": "لذلك يجب أن نتابع السياسة عن قرب."
+      }
+    },
+    {
+      "pt": "a justiça",
+      "ipa": "/a ʒusˈtʃi.sa/",
+      "en": "the justice",
+      "ar": "العدالة",
+      "example": {
+        "pt": "Por isso é preciso que a gente acompanhe a política de perto.",
+        "en": "That's why we need to follow politics closely.",
+        "ar": "لذلك يجب أن نتابع السياسة عن قرب."
+      }
+    },
+    {
+      "pt": "o imposto",
+      "ipa": "/u ĩˈpɔs.tu/",
+      "en": "the tax",
+      "ar": "الضريبة",
+      "example": {
+        "pt": "Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.",
+        "en": "Of course! In my opinion, voting is a duty and a right of every citizen.",
+        "ar": "بالتأكيد! في رأيي، التصويت واجب وحق لكل مواطن."
+      }
+    },
+    {
+      "pt": "a cidadania",
+      "ipa": "/a si.da.daˈni.a/",
+      "en": "the citizenship",
+      "ar": "المواطنة",
+      "example": {
+        "pt": "Por isso é preciso que a gente acompanhe a política de perto.",
+        "en": "That's why we need to follow politics closely.",
+        "ar": "لذلك يجب أن نتابع السياسة عن قرب."
+      }
+    },
+    {
+      "pt": "a liberdade",
+      "ipa": "/a li.beχˈda.dʒi/",
+      "en": "the freedom",
+      "ar": "الحرية",
+      "example": {
+        "pt": "Por isso é preciso que a gente acompanhe a política de perto.",
+        "en": "That's why we need to follow politics closely.",
+        "ar": "لذلك يجب أن نتابع السياسة عن قرب."
+      }
+    },
+    {
+      "pt": "a manifestação",
+      "ipa": "/a ma.ni.fes.tɐˈsɐ̃w/",
+      "en": "the demonstration",
+      "ar": "المظاهرة",
+      "example": {
+        "pt": "Por isso é preciso que a gente acompanhe a política de perto.",
+        "en": "That's why we need to follow politics closely.",
+        "ar": "لذلك يجب أن نتابع السياسة عن قرب."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "title": {
+        "pt": "Formação de Palavras Políticas",
+        "en": "Forming Political Words",
+        "ar": "تكوين الكلمات السياسية"
+      },
+      "explanation": {
+        "pt": "Muitos substantivos políticos vêm de verbos. O sufixo -ção cria substantivos a partir de verbos em -ar: manifestar → manifestação. Outros verbos mudam a forma: eleger → eleição, governar → governo, votar → voto.",
+        "en": "Many political nouns come from verbs. The suffix -ção creates nouns from -ar verbs: manifestar → manifestação. Other verbs change form: eleger → eleição, governar → governo, votar → voto.",
+        "ar": "تشتق أسماء سياسية كثيرة من الأفعال. اللاحقة -ção تكوّن الأسماء من الأفعال المنتهية بـ -ar: manifestar ← manifestação. وتتغير أشكال أفعال أخرى: eleger ← eleição، governar ← governo، votar ← voto."
+      },
+      "examples": [
+        {
+          "pt": "eleger → a eleição",
+          "en": "to elect → the election",
+          "ar": "ينتخب ← الانتخابات"
+        },
+        {
+          "pt": "governar → o governo",
+          "en": "to govern → the government",
+          "ar": "يحكم ← الحكومة"
+        },
+        {
+          "pt": "manifestar → a manifestação",
+          "en": "to demonstrate → the demonstration",
+          "ar": "يتظاهر ← المظاهرة"
+        },
+        {
+          "pt": "votar → o voto",
+          "en": "to vote → the vote",
+          "ar": "يصوت ← التصويت"
+        }
+      ]
+    },
+    {
+      "title": {
+        "pt": "Expressar Opinião e Exigir Ações",
+        "en": "Expressing Opinion and Demanding Action",
+        "ar": "التعبير عن الرأي والمطالبة بالإجراءات"
+      },
+      "explanation": {
+        "pt": "Para dar opinião usamos 'na minha opinião', 'eu acho que' (com indicativo) e 'não dá para negar que'. Para exigir ou recomendar ações usamos 'é preciso que', 'é fundamental que' + subjuntivo.",
+        "en": "To give an opinion we use 'na minha opinião', 'eu acho que' (with indicative) and 'não dá para negar que'. To demand or recommend actions we use 'é preciso que', 'é fundamental que' + subjunctive.",
+        "ar": "لإبداء الرأي نستخدم 'na minha opinião' و'eu acho que' (مع المضارع الإخباري) و'não dá para negar que'. وللمطالبة بأفعال أو التوصية بها نستخدم 'é preciso que' و'é fundamental que' مع صيغة الشرط."
+      },
+      "examples": [
+        {
+          "pt": "Na minha opinião, o voto é essencial para a democracia.",
+          "en": "In my opinion, voting is essential to democracy.",
+          "ar": "في رأيي، التصويت ضروري للديمقراطية."
+        },
+        {
+          "pt": "Eu acho que os impostos deveriam ser mais justos.",
+          "en": "I think taxes should be fairer.",
+          "ar": "أعتقد أن الضرائب يجب أن تكون أكثر عدلًا."
+        },
+        {
+          "pt": "É preciso que os cidadãos participem da vida pública.",
+          "en": "Citizens must participate in public life.",
+          "ar": "يجب أن يشارك المواطنون في الحياة العامة."
+        },
+        {
+          "pt": "Não dá para negar que a justiça é importante para todos.",
+          "en": "There's no denying that justice matters to everyone.",
+          "ar": "لا يمكن إنكار أن العدالة مهمة للجميع."
+        }
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": {
+      "pt": "A Discussão sobre as Eleições",
+      "en": "The Discussion about the Elections",
+      "ar": "النقاش حول الانتخابات"
+    },
+    "lines": [
+      {
+        "speaker": "Paulo",
+        "pt": "Você vai votar nas próximas eleições?",
+        "en": "Are you going to vote in the next elections?",
+        "ar": "هل ستصوت في الانتخابات المقبلة؟"
+      },
+      {
+        "speaker": "Carla",
+        "pt": "Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.",
+        "en": "Of course! In my opinion, voting is a duty and a right of every citizen.",
+        "ar": "بالتأكيد! في رأيي، التصويت واجب وحق لكل مواطن."
+      },
+      {
+        "speaker": "Paulo",
+        "pt": "É verdade, mas acho que muitos candidatos não cumprem suas promessas.",
+        "en": "That's true, but I think many candidates don't keep their promises.",
+        "ar": "هذا صحيح، لكنني أعتقد أن العديد من المرشحين لا يوفون بوعودهم."
+      },
+      {
+        "speaker": "Carla",
+        "pt": "Por isso é preciso que a gente acompanhe a política de perto.",
+        "en": "That's why we need to follow politics closely.",
+        "ar": "لذلك يجب أن نتابع السياسة عن قرب."
+      },
+      {
+        "speaker": "Paulo",
+        "pt": "Concordo. A participação da sociedade é fundamental para a democracia.",
+        "en": "I agree. Society's participation is essential to democracy.",
+        "ar": "أوافقك الرأي. مشاركة المجتمع أساسية للديمقراطية."
+      }
+    ]
+  },
+  "reading": {
+    "title": {
+      "pt": "Cidadania e Participação",
+      "en": "Citizenship and Participation",
+      "ar": "المواطنة والمشاركة"
+    },
+    "text_pt": "A democracia depende da participação de todos. Os cidadãos escolhem seus representantes pelo voto. É fundamental que cada pessoa conheça as propostas dos candidatos antes de decidir. Quando a sociedade participa, o governo fica mais atento às necessidades do povo.",
+    "text_en": "Democracy depends on everyone's participation. Citizens choose their representatives through voting. It is essential that each person know the candidates' proposals before deciding. When society participates, the government becomes more attentive to the people's needs.",
+    "text_ar": "تعتمد الديمقراطية على مشاركة الجميع. يختار المواطنون ممثليهم عن طريق التصويت. من الضروري أن يتعرف كل شخص على برامج المرشحين قبل اتخاذ القرار. وعندما يشارك المجتمع، تصبح الحكومة أكثر انتباهاً لاحتياجات الشعب."
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "O ___ é o direito de escolher os governantes.",
+        "en": "The ___ is the right to choose the rulers.",
+        "ar": "إن ___ هي حق اختيار الحكام."
+      },
+      "options": [
+        {
+          "pt": "imposto",
+          "en": "imposto",
+          "ar": "imposto"
+        },
+        {
+          "pt": "voto",
+          "en": "voto",
+          "ar": "voto"
+        },
+        {
+          "pt": "partido",
+          "en": "partido",
+          "ar": "partido"
+        }
+      ],
+      "answer": "voto",
+      "explanation": {
+        "pt": "O voto é o ato de escolher os governantes em uma eleição.",
+        "en": "The vote is the act of choosing the rulers in an election.",
+        "ar": "التصويت هو فعل اختيار الحكام في الانتخابات."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "É fundamental que cada pessoa ___ as propostas dos candidatos.",
+        "en": "It is essential that each person ___ the candidates' proposals.",
+        "ar": "من الضروري أن ___ كل شخص برامج المرشحين."
+      },
+      "options": [
+        {
+          "pt": "conhece",
+          "en": "conhece",
+          "ar": "conhece"
+        },
+        {
+          "pt": "conhecer",
+          "en": "conhecer",
+          "ar": "conhecer"
+        },
+        {
+          "pt": "conheça",
+          "en": "conheça",
+          "ar": "conheça"
+        }
+      ],
+      "answer": "conheça",
+      "explanation": {
+        "pt": "Depois de 'é fundamental que' usamos o subjuntivo: que cada pessoa conheça.",
+        "en": "After 'é fundamental que' we use the subjunctive: que cada pessoa conheça.",
+        "ar": "بعد 'é fundamental que' نستخدم المضارع الشرطي: que cada pessoa conheça."
+      }
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza: 'In my opinion, taxes should be fairer.'",
+        "en": "Translate: 'In my opinion, taxes should be fairer.'",
+        "ar": "ترجم: 'In my opinion, taxes should be fairer.'"
+      },
+      "options": [],
+      "answer": "Na minha opinião, os impostos deveriam ser mais justos.",
+      "explanation": {
+        "pt": "Opinião: 'Na minha opinião' + condicional 'deveriam'.",
+        "en": "Opinion: 'Na minha opinião' + conditional 'deveriam'.",
+        "ar": "الرأي: 'Na minha opinião' + صيغة الشرط 'deveriam'."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "votar",
+          "en": "votar",
+          "ar": "votar"
+        },
+        {
+          "pt": "nas",
+          "en": "nas",
+          "ar": "nas"
+        },
+        {
+          "pt": "próximas",
+          "en": "próximas",
+          "ar": "próximas"
+        },
+        {
+          "pt": "eleições?",
+          "en": "eleições?",
+          "ar": "eleições?"
+        },
+        {
+          "pt": "vai",
+          "en": "vai",
+          "ar": "vai"
+        },
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        }
+      ],
+      "answer": "Você vai votar nas próximas eleições?",
+      "accepted": [
+        "Você vai votar nas próximas eleições?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Você vai votar nas próximas eleições?'",
+        "en": "The correct order: 'Are you going to vote in the next elections?'",
+        "ar": "الترتيب الصحيح: 'هل ستصوت في الانتخابات المقبلة؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o presidente",
+          "en": "the candidate",
+          "ar": "o presidente"
+        },
+        {
+          "pt": "a eleição",
+          "en": "the president",
+          "ar": "a eleição"
+        },
+        {
+          "pt": "o partido",
+          "en": "the political party",
+          "ar": "o partido"
+        },
+        {
+          "pt": "o governo",
+          "en": "the vote",
+          "ar": "o governo"
+        },
+        {
+          "pt": "o voto",
+          "en": "the government",
+          "ar": "o voto"
+        },
+        {
+          "pt": "o candidato",
+          "en": "the election",
+          "ar": "o candidato"
+        }
+      ],
+      "answer": "o presidente::the candidate|a eleição::the president|o partido::the political party|o governo::the vote|o voto::the government|o candidato::the election",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Você vai votar nas próximas eleições?",
+          "en": "I agree. Society's participation is essential to democracy.",
+          "ar": "أوافقك الرأي. مشاركة المجتمع أساسية للديمقراطية."
+        },
+        {
+          "pt": "Concordo. A participação da sociedade é fundamental para a democracia.",
+          "en": "That's why we need to follow politics closely.",
+          "ar": "هل ستصوت في الانتخابات المقبلة؟"
+        },
+        {
+          "pt": "Por isso é preciso que a gente acompanhe a política de perto.",
+          "en": "Are you going to vote in the next elections?",
+          "ar": "لذلك يجب أن نتابع السياسة عن قرب."
+        }
+      ],
+      "answer": "Você vai votar nas próximas eleições?",
+      "accepted": [],
+      "audio": "Você vai votar nas próximas eleições?",
+      "explanation": {
+        "pt": "Você ouviu: 'Você vai votar nas próximas eleições?' — 'Are you going to vote in the next elections?'",
+        "en": "You heard: 'Você vai votar nas próximas eleições?' — 'Are you going to vote in the next elections?'",
+        "ar": "سمعت: 'Você vai votar nas próximas eleições?' — 'هل ستصوت في الانتخابات المقبلة؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.",
+          "en": "Of course! In my opinion, voting is a duty and a right of every citizen.",
+          "ar": "لذلك يجب أن نتابع السياسة عن قرب."
+        },
+        {
+          "pt": "Concordo. A participação da sociedade é fundamental para a democracia.",
+          "en": "That's why we need to follow politics closely.",
+          "ar": "بالتأكيد! في رأيي، التصويت واجب وحق لكل مواطن."
+        },
+        {
+          "pt": "Por isso é preciso que a gente acompanhe a política de perto.",
+          "en": "I agree. Society's participation is essential to democracy.",
+          "ar": "أوافقك الرأي. مشاركة المجتمع أساسية للديمقراطية."
+        }
+      ],
+      "answer": "Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.",
+      "accepted": [],
+      "audio": "Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.",
+      "explanation": {
+        "pt": "Você ouviu: 'Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.' — 'Of course! In my opinion, voting is a duty and a right of every citizen.'",
+        "en": "You heard: 'Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.' — 'Of course! In my opinion, voting is a duty and a right of every citizen.'",
+        "ar": "سمعت: 'Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.' — 'بالتأكيد! في رأيي، التصويت واجب وحق لكل مواطن.'"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Na ___ opinião, o voto é essencial para a democracia.",
+        "en": "Na ___ opinião, o voto é essencial para a democracia.",
+        "ar": "Na ___ opinião, o voto é essencial para a democracia."
+      },
+      "options": [
+        {
+          "pt": "minha",
+          "en": "minha",
+          "ar": "minha"
+        },
+        {
+          "pt": "importante",
+          "en": "importante",
+          "ar": "importante"
+        },
+        {
+          "pt": "impostos",
+          "en": "impostos",
+          "ar": "impostos"
+        }
+      ],
+      "answer": "minha",
+      "accepted": [],
+      "explanation": {
+        "pt": "A resposta é 'minha'. Frase completa: Na minha opinião, o voto é essencial para a democracia.",
+        "en": "The answer is 'minha'. Full sentence: In my opinion, voting is essential to democracy.",
+        "ar": "الإجابة الصحيحة: 'minha'. الجملة كاملة: في رأيي، التصويت ضروري للديمقراطية."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "vai",
+          "en": "vai",
+          "ar": "vai"
+        },
+        {
+          "pt": "nas",
+          "en": "nas",
+          "ar": "nas"
+        },
+        {
+          "pt": "votar",
+          "en": "votar",
+          "ar": "votar"
+        },
+        {
+          "pt": "eleições?",
+          "en": "eleições?",
+          "ar": "eleições?"
+        },
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        },
+        {
+          "pt": "próximas",
+          "en": "próximas",
+          "ar": "próximas"
+        }
+      ],
+      "answer": "Você vai votar nas próximas eleições?",
+      "accepted": [
+        "Você vai votar nas próximas eleições?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Você vai votar nas próximas eleições?'",
+        "en": "The correct order: 'Are you going to vote in the next elections?'",
+        "ar": "الترتيب الصحيح: 'هل ستصوت في الانتخابات المقبلة؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o presidente",
+          "en": "the government",
+          "ar": "o presidente"
+        },
+        {
+          "pt": "o governo",
+          "en": "the political party",
+          "ar": "o governo"
+        },
+        {
+          "pt": "a eleição",
+          "en": "the vote",
+          "ar": "a eleição"
+        },
+        {
+          "pt": "o candidato",
+          "en": "the candidate",
+          "ar": "o candidato"
+        },
+        {
+          "pt": "o partido",
+          "en": "the election",
+          "ar": "o partido"
+        },
+        {
+          "pt": "o voto",
+          "en": "the president",
+          "ar": "o voto"
+        }
+      ],
+      "answer": "o presidente::the government|o governo::the political party|a eleição::the vote|o candidato::the candidate|o partido::the election|o voto::the president",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "É verdade, mas acho que muitos candidatos não cumprem suas promessas.",
+          "en": "That's true, but I think many candidates don't keep their promises.",
+          "ar": "بالتأكيد! في رأيي، التصويت واجب وحق لكل مواطن."
+        },
+        {
+          "pt": "Você vai votar nas próximas eleições?",
+          "en": "Of course! In my opinion, voting is a duty and a right of every citizen.",
+          "ar": "هذا صحيح، لكنني أعتقد أن العديد من المرشحين لا يوفون بوعودهم."
+        },
+        {
+          "pt": "Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.",
+          "en": "Are you going to vote in the next elections?",
+          "ar": "هل ستصوت في الانتخابات المقبلة؟"
+        }
+      ],
+      "answer": "Você vai votar nas próximas eleições?",
+      "accepted": [],
+      "audio": "Você vai votar nas próximas eleições?",
+      "explanation": {
+        "pt": "Você ouviu: 'Você vai votar nas próximas eleições?' — 'Are you going to vote in the next elections?'",
+        "en": "You heard: 'Você vai votar nas próximas eleições?' — 'Are you going to vote in the next elections?'",
+        "ar": "سمعت: 'Você vai votar nas próximas eleições?' — 'هل ستصوت في الانتخابات المقبلة؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.",
+          "en": "Of course! In my opinion, voting is a duty and a right of every citizen.",
+          "ar": "هل ستصوت في الانتخابات المقبلة؟"
+        },
+        {
+          "pt": "Concordo. A participação da sociedade é fundamental para a democracia.",
+          "en": "Are you going to vote in the next elections?",
+          "ar": "أوافقك الرأي. مشاركة المجتمع أساسية للديمقراطية."
+        },
+        {
+          "pt": "Você vai votar nas próximas eleições?",
+          "en": "I agree. Society's participation is essential to democracy.",
+          "ar": "بالتأكيد! في رأيي، التصويت واجب وحق لكل مواطن."
+        }
+      ],
+      "answer": "Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.",
+      "accepted": [],
+      "audio": "Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.",
+      "explanation": {
+        "pt": "Você ouviu: 'Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.' — 'Of course! In my opinion, voting is a duty and a right of every citizen.'",
+        "en": "You heard: 'Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.' — 'Of course! In my opinion, voting is a duty and a right of every citizen.'",
+        "ar": "سمعت: 'Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.' — 'بالتأكيد! في رأيي، التصويت واجب وحق لكل مواطن.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "nas",
+          "en": "nas",
+          "ar": "nas"
+        },
+        {
+          "pt": "eleições?",
+          "en": "eleições?",
+          "ar": "eleições?"
+        },
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        },
+        {
+          "pt": "próximas",
+          "en": "próximas",
+          "ar": "próximas"
+        },
+        {
+          "pt": "vai",
+          "en": "vai",
+          "ar": "vai"
+        },
+        {
+          "pt": "votar",
+          "en": "votar",
+          "ar": "votar"
+        }
+      ],
+      "answer": "Você vai votar nas próximas eleições?",
+      "accepted": [
+        "Você vai votar nas próximas eleições?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Você vai votar nas próximas eleições?'",
+        "en": "The correct order: 'Are you going to vote in the next elections?'",
+        "ar": "الترتيب الصحيح: 'هل ستصوت في الانتخابات المقبلة؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o voto",
+          "en": "the political party",
+          "ar": "o voto"
+        },
+        {
+          "pt": "o candidato",
+          "en": "the candidate",
+          "ar": "o candidato"
+        },
+        {
+          "pt": "o partido",
+          "en": "the government",
+          "ar": "o partido"
+        },
+        {
+          "pt": "a eleição",
+          "en": "the president",
+          "ar": "a eleição"
+        },
+        {
+          "pt": "o presidente",
+          "en": "the vote",
+          "ar": "o presidente"
+        },
+        {
+          "pt": "o governo",
+          "en": "the election",
+          "ar": "o governo"
+        }
+      ],
+      "answer": "o voto::the political party|o candidato::the candidate|o partido::the government|a eleição::the president|o presidente::the vote|o governo::the election",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Você vai votar nas próximas eleições?",
+          "en": "I agree. Society's participation is essential to democracy.",
+          "ar": "هذا صحيح، لكنني أعتقد أن العديد من المرشحين لا يوفون بوعودهم."
+        },
+        {
+          "pt": "Concordo. A participação da sociedade é fundamental para a democracia.",
+          "en": "That's true, but I think many candidates don't keep their promises.",
+          "ar": "هل ستصوت في الانتخابات المقبلة؟"
+        },
+        {
+          "pt": "É verdade, mas acho que muitos candidatos não cumprem suas promessas.",
+          "en": "Are you going to vote in the next elections?",
+          "ar": "أوافقك الرأي. مشاركة المجتمع أساسية للديمقراطية."
+        }
+      ],
+      "answer": "Você vai votar nas próximas eleições?",
+      "accepted": [],
+      "audio": "Você vai votar nas próximas eleições?",
+      "explanation": {
+        "pt": "Você ouviu: 'Você vai votar nas próximas eleições?' — 'Are you going to vote in the next elections?'",
+        "en": "You heard: 'Você vai votar nas próximas eleições?' — 'Are you going to vote in the next elections?'",
+        "ar": "سمعت: 'Você vai votar nas próximas eleições?' — 'هل ستصوت في الانتخابات المقبلة؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.",
+          "en": "That's true, but I think many candidates don't keep their promises.",
+          "ar": "هذا صحيح، لكنني أعتقد أن العديد من المرشحين لا يوفون بوعودهم."
+        },
+        {
+          "pt": "Por isso é preciso que a gente acompanhe a política de perto.",
+          "en": "Of course! In my opinion, voting is a duty and a right of every citizen.",
+          "ar": "لذلك يجب أن نتابع السياسة عن قرب."
+        },
+        {
+          "pt": "É verdade, mas acho que muitos candidatos não cumprem suas promessas.",
+          "en": "That's why we need to follow politics closely.",
+          "ar": "بالتأكيد! في رأيي، التصويت واجب وحق لكل مواطن."
+        }
+      ],
+      "answer": "Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.",
+      "accepted": [],
+      "audio": "Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.",
+      "explanation": {
+        "pt": "Você ouviu: 'Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.' — 'Of course! In my opinion, voting is a duty and a right of every citizen.'",
+        "en": "You heard: 'Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.' — 'Of course! In my opinion, voting is a duty and a right of every citizen.'",
+        "ar": "سمعت: 'Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.' — 'بالتأكيد! في رأيي، التصويت واجب وحق لكل مواطن.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "eleições?",
+          "en": "eleições?",
+          "ar": "eleições?"
+        },
+        {
+          "pt": "vai",
+          "en": "vai",
+          "ar": "vai"
+        },
+        {
+          "pt": "votar",
+          "en": "votar",
+          "ar": "votar"
+        },
+        {
+          "pt": "nas",
+          "en": "nas",
+          "ar": "nas"
+        },
+        {
+          "pt": "próximas",
+          "en": "próximas",
+          "ar": "próximas"
+        },
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        }
+      ],
+      "answer": "Você vai votar nas próximas eleições?",
+      "accepted": [
+        "Você vai votar nas próximas eleições?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Você vai votar nas próximas eleições?'",
+        "en": "The correct order: 'Are you going to vote in the next elections?'",
+        "ar": "الترتيب الصحيح: 'هل ستصوت في الانتخابات المقبلة؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o partido",
+          "en": "the government",
+          "ar": "o partido"
+        },
+        {
+          "pt": "o voto",
+          "en": "the candidate",
+          "ar": "o voto"
+        },
+        {
+          "pt": "o presidente",
+          "en": "the vote",
+          "ar": "o presidente"
+        },
+        {
+          "pt": "o candidato",
+          "en": "the election",
+          "ar": "o candidato"
+        },
+        {
+          "pt": "a eleição",
+          "en": "the president",
+          "ar": "a eleição"
+        },
+        {
+          "pt": "o governo",
+          "en": "the political party",
+          "ar": "o governo"
+        }
+      ],
+      "answer": "o partido::the government|o voto::the candidate|o presidente::the vote|o candidato::the election|a eleição::the president|o governo::the political party",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.",
+          "en": "I agree. Society's participation is essential to democracy.",
+          "ar": "بالتأكيد! في رأيي، التصويت واجب وحق لكل مواطن."
+        },
+        {
+          "pt": "Concordo. A participação da sociedade é fundamental para a democracia.",
+          "en": "Of course! In my opinion, voting is a duty and a right of every citizen.",
+          "ar": "أوافقك الرأي. مشاركة المجتمع أساسية للديمقراطية."
+        },
+        {
+          "pt": "Você vai votar nas próximas eleições?",
+          "en": "Are you going to vote in the next elections?",
+          "ar": "هل ستصوت في الانتخابات المقبلة؟"
+        }
+      ],
+      "answer": "Você vai votar nas próximas eleições?",
+      "accepted": [],
+      "audio": "Você vai votar nas próximas eleições?",
+      "explanation": {
+        "pt": "Você ouviu: 'Você vai votar nas próximas eleições?' — 'Are you going to vote in the next elections?'",
+        "en": "You heard: 'Você vai votar nas próximas eleições?' — 'Are you going to vote in the next elections?'",
+        "ar": "سمعت: 'Você vai votar nas próximas eleições?' — 'هل ستصوت في الانتخابات المقبلة؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Por isso é preciso que a gente acompanhe a política de perto.",
+          "en": "That's true, but I think many candidates don't keep their promises.",
+          "ar": "هذا صحيح، لكنني أعتقد أن العديد من المرشحين لا يوفون بوعودهم."
+        },
+        {
+          "pt": "Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.",
+          "en": "That's why we need to follow politics closely.",
+          "ar": "بالتأكيد! في رأيي، التصويت واجب وحق لكل مواطن."
+        },
+        {
+          "pt": "É verdade, mas acho que muitos candidatos não cumprem suas promessas.",
+          "en": "Of course! In my opinion, voting is a duty and a right of every citizen.",
+          "ar": "لذلك يجب أن نتابع السياسة عن قرب."
+        }
+      ],
+      "answer": "Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.",
+      "accepted": [],
+      "audio": "Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.",
+      "explanation": {
+        "pt": "Você ouviu: 'Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.' — 'Of course! In my opinion, voting is a duty and a right of every citizen.'",
+        "en": "You heard: 'Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.' — 'Of course! In my opinion, voting is a duty and a right of every citizen.'",
+        "ar": "سمعت: 'Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.' — 'بالتأكيد! في رأيي، التصويت واجب وحق لكل مواطن.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "votar",
+          "en": "votar",
+          "ar": "votar"
+        },
+        {
+          "pt": "próximas",
+          "en": "próximas",
+          "ar": "próximas"
+        },
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        },
+        {
+          "pt": "eleições?",
+          "en": "eleições?",
+          "ar": "eleições?"
+        },
+        {
+          "pt": "nas",
+          "en": "nas",
+          "ar": "nas"
+        },
+        {
+          "pt": "vai",
+          "en": "vai",
+          "ar": "vai"
+        }
+      ],
+      "answer": "Você vai votar nas próximas eleições?",
+      "accepted": [
+        "Você vai votar nas próximas eleições?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Você vai votar nas próximas eleições?'",
+        "en": "The correct order: 'Are you going to vote in the next elections?'",
+        "ar": "الترتيب الصحيح: 'هل ستصوت في الانتخابات المقبلة؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o governo",
+          "en": "the election",
+          "ar": "o governo"
+        },
+        {
+          "pt": "o candidato",
+          "en": "the political party",
+          "ar": "o candidato"
+        },
+        {
+          "pt": "o presidente",
+          "en": "the government",
+          "ar": "o presidente"
+        },
+        {
+          "pt": "o voto",
+          "en": "the candidate",
+          "ar": "o voto"
+        },
+        {
+          "pt": "a eleição",
+          "en": "the vote",
+          "ar": "a eleição"
+        },
+        {
+          "pt": "o partido",
+          "en": "the president",
+          "ar": "o partido"
+        }
+      ],
+      "answer": "o governo::the election|o candidato::the political party|o presidente::the government|o voto::the candidate|a eleição::the vote|o partido::the president",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.",
+          "en": "Are you going to vote in the next elections?",
+          "ar": "هل ستصوت في الانتخابات المقبلة؟"
+        },
+        {
+          "pt": "É verdade, mas acho que muitos candidatos não cumprem suas promessas.",
+          "en": "That's true, but I think many candidates don't keep their promises.",
+          "ar": "هذا صحيح، لكنني أعتقد أن العديد من المرشحين لا يوفون بوعودهم."
+        },
+        {
+          "pt": "Você vai votar nas próximas eleições?",
+          "en": "Of course! In my opinion, voting is a duty and a right of every citizen.",
+          "ar": "بالتأكيد! في رأيي، التصويت واجب وحق لكل مواطن."
+        }
+      ],
+      "answer": "Você vai votar nas próximas eleições?",
+      "accepted": [],
+      "audio": "Você vai votar nas próximas eleições?",
+      "explanation": {
+        "pt": "Você ouviu: 'Você vai votar nas próximas eleições?' — 'Are you going to vote in the next elections?'",
+        "en": "You heard: 'Você vai votar nas próximas eleições?' — 'Are you going to vote in the next elections?'",
+        "ar": "سمعت: 'Você vai votar nas próximas eleições?' — 'هل ستصوت في الانتخابات المقبلة؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.",
+          "en": "Are you going to vote in the next elections?",
+          "ar": "هل ستصوت في الانتخابات المقبلة؟"
+        },
+        {
+          "pt": "Você vai votar nas próximas eleições?",
+          "en": "Of course! In my opinion, voting is a duty and a right of every citizen.",
+          "ar": "بالتأكيد! في رأيي، التصويت واجب وحق لكل مواطن."
+        },
+        {
+          "pt": "Por isso é preciso que a gente acompanhe a política de perto.",
+          "en": "That's why we need to follow politics closely.",
+          "ar": "لذلك يجب أن نتابع السياسة عن قرب."
+        }
+      ],
+      "answer": "Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.",
+      "accepted": [],
+      "audio": "Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.",
+      "explanation": {
+        "pt": "Você ouviu: 'Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.' — 'Of course! In my opinion, voting is a duty and a right of every citizen.'",
+        "en": "You heard: 'Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.' — 'Of course! In my opinion, voting is a duty and a right of every citizen.'",
+        "ar": "سمعت: 'Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.' — 'بالتأكيد! في رأيي، التصويت واجب وحق لكل مواطن.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        },
+        {
+          "pt": "vai",
+          "en": "vai",
+          "ar": "vai"
+        },
+        {
+          "pt": "votar",
+          "en": "votar",
+          "ar": "votar"
+        },
+        {
+          "pt": "eleições?",
+          "en": "eleições?",
+          "ar": "eleições?"
+        },
+        {
+          "pt": "nas",
+          "en": "nas",
+          "ar": "nas"
+        },
+        {
+          "pt": "próximas",
+          "en": "próximas",
+          "ar": "próximas"
+        }
+      ],
+      "answer": "Você vai votar nas próximas eleições?",
+      "accepted": [
+        "Você vai votar nas próximas eleições?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Você vai votar nas próximas eleições?'",
+        "en": "The correct order: 'Are you going to vote in the next elections?'",
+        "ar": "الترتيب الصحيح: 'هل ستصوت في الانتخابات المقبلة؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a eleição",
+          "en": "the election",
+          "ar": "a eleição"
+        },
+        {
+          "pt": "o presidente",
+          "en": "the candidate",
+          "ar": "o presidente"
+        },
+        {
+          "pt": "o governo",
+          "en": "the vote",
+          "ar": "o governo"
+        },
+        {
+          "pt": "o candidato",
+          "en": "the president",
+          "ar": "o candidato"
+        },
+        {
+          "pt": "o voto",
+          "en": "the government",
+          "ar": "o voto"
+        },
+        {
+          "pt": "o partido",
+          "en": "the political party",
+          "ar": "o partido"
+        }
+      ],
+      "answer": "a eleição::the election|o presidente::the candidate|o governo::the vote|o candidato::the president|o voto::the government|o partido::the political party",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "É verdade, mas acho que muitos candidatos não cumprem suas promessas.",
+          "en": "I agree. Society's participation is essential to democracy.",
+          "ar": "هل ستصوت في الانتخابات المقبلة؟"
+        },
+        {
+          "pt": "Concordo. A participação da sociedade é fundamental para a democracia.",
+          "en": "Are you going to vote in the next elections?",
+          "ar": "هذا صحيح، لكنني أعتقد أن العديد من المرشحين لا يوفون بوعودهم."
+        },
+        {
+          "pt": "Você vai votar nas próximas eleições?",
+          "en": "That's true, but I think many candidates don't keep their promises.",
+          "ar": "أوافقك الرأي. مشاركة المجتمع أساسية للديمقراطية."
+        }
+      ],
+      "answer": "Você vai votar nas próximas eleições?",
+      "accepted": [],
+      "audio": "Você vai votar nas próximas eleições?",
+      "explanation": {
+        "pt": "Você ouviu: 'Você vai votar nas próximas eleições?' — 'Are you going to vote in the next elections?'",
+        "en": "You heard: 'Você vai votar nas próximas eleições?' — 'Are you going to vote in the next elections?'",
+        "ar": "سمعت: 'Você vai votar nas próximas eleições?' — 'هل ستصوت في الانتخابات المقبلة؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Você vai votar nas próximas eleições?",
+          "en": "Of course! In my opinion, voting is a duty and a right of every citizen.",
+          "ar": "هذا صحيح، لكنني أعتقد أن العديد من المرشحين لا يوفون بوعودهم."
+        },
+        {
+          "pt": "É verdade, mas acho que muitos candidatos não cumprem suas promessas.",
+          "en": "That's true, but I think many candidates don't keep their promises.",
+          "ar": "بالتأكيد! في رأيي، التصويت واجب وحق لكل مواطن."
+        },
+        {
+          "pt": "Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.",
+          "en": "Are you going to vote in the next elections?",
+          "ar": "هل ستصوت في الانتخابات المقبلة؟"
+        }
+      ],
+      "answer": "Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.",
+      "accepted": [],
+      "audio": "Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.",
+      "explanation": {
+        "pt": "Você ouviu: 'Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.' — 'Of course! In my opinion, voting is a duty and a right of every citizen.'",
+        "en": "You heard: 'Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.' — 'Of course! In my opinion, voting is a duty and a right of every citizen.'",
+        "ar": "سمعت: 'Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.' — 'بالتأكيد! في رأيي، التصويت واجب وحق لكل مواطن.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "votar",
+          "en": "votar",
+          "ar": "votar"
+        },
+        {
+          "pt": "eleições?",
+          "en": "eleições?",
+          "ar": "eleições?"
+        },
+        {
+          "pt": "próximas",
+          "en": "próximas",
+          "ar": "próximas"
+        },
+        {
+          "pt": "nas",
+          "en": "nas",
+          "ar": "nas"
+        },
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        },
+        {
+          "pt": "vai",
+          "en": "vai",
+          "ar": "vai"
+        }
+      ],
+      "answer": "Você vai votar nas próximas eleições?",
+      "accepted": [
+        "Você vai votar nas próximas eleições?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Você vai votar nas próximas eleições?'",
+        "en": "The correct order: 'Are you going to vote in the next elections?'",
+        "ar": "الترتيب الصحيح: 'هل ستصوت في الانتخابات المقبلة؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o candidato",
+          "en": "the political party",
+          "ar": "o candidato"
+        },
+        {
+          "pt": "o presidente",
+          "en": "the vote",
+          "ar": "o presidente"
+        },
+        {
+          "pt": "o partido",
+          "en": "the election",
+          "ar": "o partido"
+        },
+        {
+          "pt": "o voto",
+          "en": "the government",
+          "ar": "o voto"
+        },
+        {
+          "pt": "a eleição",
+          "en": "the president",
+          "ar": "a eleição"
+        },
+        {
+          "pt": "o governo",
+          "en": "the candidate",
+          "ar": "o governo"
+        }
+      ],
+      "answer": "o candidato::the political party|o presidente::the vote|o partido::the election|o voto::the government|a eleição::the president|o governo::the candidate",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Você vai votar nas próximas eleições?",
+          "en": "I agree. Society's participation is essential to democracy.",
+          "ar": "أوافقك الرأي. مشاركة المجتمع أساسية للديمقراطية."
+        },
+        {
+          "pt": "Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.",
+          "en": "Of course! In my opinion, voting is a duty and a right of every citizen.",
+          "ar": "هل ستصوت في الانتخابات المقبلة؟"
+        },
+        {
+          "pt": "Concordo. A participação da sociedade é fundamental para a democracia.",
+          "en": "Are you going to vote in the next elections?",
+          "ar": "بالتأكيد! في رأيي، التصويت واجب وحق لكل مواطن."
+        }
+      ],
+      "answer": "Você vai votar nas próximas eleições?",
+      "accepted": [],
+      "audio": "Você vai votar nas próximas eleições?",
+      "explanation": {
+        "pt": "Você ouviu: 'Você vai votar nas próximas eleições?' — 'Are you going to vote in the next elections?'",
+        "en": "You heard: 'Você vai votar nas próximas eleições?' — 'Are you going to vote in the next elections?'",
+        "ar": "سمعت: 'Você vai votar nas próximas eleições?' — 'هل ستصوت في الانتخابات المقبلة؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.",
+          "en": "That's true, but I think many candidates don't keep their promises.",
+          "ar": "بالتأكيد! في رأيي، التصويت واجب وحق لكل مواطن."
+        },
+        {
+          "pt": "É verdade, mas acho que muitos candidatos não cumprem suas promessas.",
+          "en": "Are you going to vote in the next elections?",
+          "ar": "هل ستصوت في الانتخابات المقبلة؟"
+        },
+        {
+          "pt": "Você vai votar nas próximas eleições?",
+          "en": "Of course! In my opinion, voting is a duty and a right of every citizen.",
+          "ar": "هذا صحيح، لكنني أعتقد أن العديد من المرشحين لا يوفون بوعودهم."
+        }
+      ],
+      "answer": "Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.",
+      "accepted": [],
+      "audio": "Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.",
+      "explanation": {
+        "pt": "Você ouviu: 'Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.' — 'Of course! In my opinion, voting is a duty and a right of every citizen.'",
+        "en": "You heard: 'Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.' — 'Of course! In my opinion, voting is a duty and a right of every citizen.'",
+        "ar": "سمعت: 'Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.' — 'بالتأكيد! في رأيي، التصويت واجب وحق لكل مواطن.'"
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'the government'",
+        "en": "Type in Portuguese: 'the government'",
+        "ar": "اكتب بالبرتغالية: 'الحكومة'"
+      },
+      "options": [],
+      "answer": "o governo",
+      "accepted": [
+        "o governo"
+      ],
+      "explanation": {
+        "pt": "'o governo' significa 'the government'.",
+        "en": "'o governo' means 'the government'.",
+        "ar": "'$o governo' بالعربية: '$الحكومة'."
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'the election'",
+        "en": "Type in Portuguese: 'the election'",
+        "ar": "اكتب بالبرتغالية: 'الانتخابات'"
+      },
+      "options": [],
+      "answer": "a eleição",
+      "accepted": [
+        "a eleição"
+      ],
+      "explanation": {
+        "pt": "'a eleição' significa 'the election'.",
+        "en": "'a eleição' means 'the election'.",
+        "ar": "'$a eleição' بالعربية: '$الانتخابات'."
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Você vai votar nas próximas eleições?",
+          "en": "Você vai votar nas próximas eleições?",
+          "ar": "Você vai votar nas próximas eleições?"
+        },
+        {
+          "pt": "Concordo. A participação da sociedade é fundamental para a democracia.",
+          "en": "Concordo. A participação da sociedade é fundamental para a democracia.",
+          "ar": "Concordo. A participação da sociedade é fundamental para a democracia."
+        },
+        {
+          "pt": "Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.",
+          "en": "Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.",
+          "ar": "Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão."
+        }
+      ],
+      "answer": "Você vai votar nas próximas eleições?",
+      "accepted": [],
+      "audio": "Você vai votar nas próximas eleições?",
+      "explanation": {
+        "pt": "Você ouviu: 'Você vai votar nas próximas eleições?'",
+        "en": "You heard: 'Você vai votar nas próximas eleições?'",
+        "ar": "سمعت: 'Você vai votar nas próximas eleições?'"
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Por isso é preciso que a gente acompanhe a política de perto.",
+          "en": "Por isso é preciso que a gente acompanhe a política de perto.",
+          "ar": "Por isso é preciso que a gente acompanhe a política de perto."
+        },
+        {
+          "pt": "Concordo. A participação da sociedade é fundamental para a democracia.",
+          "en": "Concordo. A participação da sociedade é fundamental para a democracia.",
+          "ar": "Concordo. A participação da sociedade é fundamental para a democracia."
+        },
+        {
+          "pt": "Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.",
+          "en": "Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.",
+          "ar": "Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão."
+        }
+      ],
+      "answer": "Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.",
+      "accepted": [],
+      "audio": "Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.",
+      "explanation": {
+        "pt": "Você ouviu: 'Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.'",
+        "en": "You heard: 'Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.'",
+        "ar": "سمعت: 'Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.'"
+      }
+    },
+    {
+      "type": "dictation",
+      "prompt": {
+        "pt": "Ouça e escreva o que você ouviu.",
+        "en": "Listen and type what you hear.",
+        "ar": "استمع واكتب ما سمعته."
+      },
+      "options": [],
+      "answer": "Você vai votar nas próximas eleições?",
+      "accepted": [],
+      "audio": "Você vai votar nas próximas eleições?",
+      "explanation": {
+        "pt": "A frase correta: 'Você vai votar nas próximas eleições?'",
+        "en": "The correct sentence: 'Você vai votar nas próximas eleições?'",
+        "ar": "الجملة الصحيحة: 'Você vai votar nas próximas eleições?'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "eleições?",
+          "en": "eleições?",
+          "ar": "eleições?"
+        },
+        {
+          "pt": "vai",
+          "en": "vai",
+          "ar": "vai"
+        },
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        },
+        {
+          "pt": "votar",
+          "en": "votar",
+          "ar": "votar"
+        },
+        {
+          "pt": "próximas",
+          "en": "próximas",
+          "ar": "próximas"
+        },
+        {
+          "pt": "nas",
+          "en": "nas",
+          "ar": "nas"
+        }
+      ],
+      "answer": "Você vai votar nas próximas eleições?",
+      "accepted": [
+        "Você vai votar nas próximas eleições?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Você vai votar nas próximas eleições?'",
+        "en": "The correct order: 'Are you going to vote in the next elections?'",
+        "ar": "الترتيب الصحيح: 'هل ستصوت في الانتخابات المقبلة؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o voto",
+          "en": "the vote",
+          "ar": "o voto"
+        },
+        {
+          "pt": "o governo",
+          "en": "the election",
+          "ar": "o governo"
+        },
+        {
+          "pt": "a eleição",
+          "en": "the government",
+          "ar": "a eleição"
+        },
+        {
+          "pt": "o partido",
+          "en": "the candidate",
+          "ar": "o partido"
+        },
+        {
+          "pt": "o presidente",
+          "en": "the president",
+          "ar": "o presidente"
+        },
+        {
+          "pt": "o candidato",
+          "en": "the political party",
+          "ar": "o candidato"
+        }
+      ],
+      "answer": "o voto::the vote|o governo::the election|a eleição::the government|o partido::the candidate|o presidente::the president|o candidato::the political party",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.",
+          "en": "That's why we need to follow politics closely.",
+          "ar": "هل ستصوت في الانتخابات المقبلة؟"
+        },
+        {
+          "pt": "Por isso é preciso que a gente acompanhe a política de perto.",
+          "en": "Of course! In my opinion, voting is a duty and a right of every citizen.",
+          "ar": "لذلك يجب أن نتابع السياسة عن قرب."
+        },
+        {
+          "pt": "Você vai votar nas próximas eleições?",
+          "en": "Are you going to vote in the next elections?",
+          "ar": "بالتأكيد! في رأيي، التصويت واجب وحق لكل مواطن."
+        }
+      ],
+      "answer": "Você vai votar nas próximas eleições?",
+      "accepted": [],
+      "audio": "Você vai votar nas próximas eleições?",
+      "explanation": {
+        "pt": "Você ouviu: 'Você vai votar nas próximas eleições?' — 'Are you going to vote in the next elections?'",
+        "en": "You heard: 'Você vai votar nas próximas eleições?' — 'Are you going to vote in the next elections?'",
+        "ar": "سمعت: 'Você vai votar nas próximas eleições?' — 'هل ستصوت في الانتخابات المقبلة؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Você vai votar nas próximas eleições?",
+          "en": "Are you going to vote in the next elections?",
+          "ar": "بالتأكيد! في رأيي، التصويت واجب وحق لكل مواطن."
+        },
+        {
+          "pt": "Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.",
+          "en": "That's true, but I think many candidates don't keep their promises.",
+          "ar": "هل ستصوت في الانتخابات المقبلة؟"
+        },
+        {
+          "pt": "É verdade, mas acho que muitos candidatos não cumprem suas promessas.",
+          "en": "Of course! In my opinion, voting is a duty and a right of every citizen.",
+          "ar": "هذا صحيح، لكنني أعتقد أن العديد من المرشحين لا يوفون بوعودهم."
+        }
+      ],
+      "answer": "Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.",
+      "accepted": [],
+      "audio": "Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.",
+      "explanation": {
+        "pt": "Você ouviu: 'Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.' — 'Of course! In my opinion, voting is a duty and a right of every citizen.'",
+        "en": "You heard: 'Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.' — 'Of course! In my opinion, voting is a duty and a right of every citizen.'",
+        "ar": "سمعت: 'Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.' — 'بالتأكيد! في رأيي، التصويت واجب وحق لكل مواطن.'"
+      }
+    }
+  ],
+  "speaking": {
+    "title": {
+      "pt": "Fale Agora — Ouça e Repita",
+      "en": "Speak Now — Listen and Repeat",
+      "ar": "تحدث الآن — استمع وكرر"
+    },
+    "phrases": [
+      {
+        "pt": "Você vai votar nas próximas eleições?",
+        "en": "Are you going to vote in the next elections?",
+        "ar": "هل ستصوت في الانتخابات المقبلة؟"
+      },
+      {
+        "pt": "Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.",
+        "en": "Of course! In my opinion, voting is a duty and a right of every citizen.",
+        "ar": "بالتأكيد! في رأيي، التصويت واجب وحق لكل مواطن."
+      },
+      {
+        "pt": "É verdade, mas acho que muitos candidatos não cumprem suas promessas.",
+        "en": "That's true, but I think many candidates don't keep their promises.",
+        "ar": "هذا صحيح، لكنني أعتقد أن العديد من المرشحين لا يوفون بوعودهم."
+      },
+      {
+        "pt": "Por isso é preciso que a gente acompanhe a política de perto.",
+        "en": "That's why we need to follow politics closely.",
+        "ar": "لذلك يجب أن نتابع السياسة عن قرب."
+      },
+      {
+        "pt": "Concordo. A participação da sociedade é fundamental para a democracia.",
+        "en": "I agree. Society's participation is essential to democracy.",
+        "ar": "أوافقك الرأي. مشاركة المجتمع أساسية للديمقراطية."
+      },
+      {
+        "pt": "o governo",
+        "en": "the government",
+        "ar": "الحكومة"
+      },
+      {
+        "pt": "a eleição",
+        "en": "the election",
+        "ar": "الانتخابات"
+      },
+      {
+        "pt": "o voto",
+        "en": "the vote",
+        "ar": "التصويت"
+      }
+    ]
+  },
+  "cultural_tips": {
+    "pt": "",
+    "en": "",
+    "ar": ""
+  }
+}

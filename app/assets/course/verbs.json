@@ -1,0 +1,2694 @@
+{
+  "tenses": {
+    "present": {
+      "pt": "Presente",
+      "en": "Present",
+      "ar": "المضارع"
+    },
+    "preterite": {
+      "pt": "Pretérito Perfeito",
+      "en": "Preterite (Past)",
+      "ar": "الماضي البسيط"
+    },
+    "imperfect": {
+      "pt": "Pretérito Imperfeito",
+      "en": "Imperfect",
+      "ar": "الماضي المستمر"
+    },
+    "future": {
+      "pt": "Futuro",
+      "en": "Future",
+      "ar": "المستقبل"
+    },
+    "conditional": {
+      "pt": "Condicional",
+      "en": "Conditional",
+      "ar": "الشرطي"
+    },
+    "subjunctive": {
+      "pt": "Subjuntivo Presente",
+      "en": "Subjunctive",
+      "ar": "المضارع المنصوب"
+    }
+  },
+  "persons": [
+    "eu",
+    "você",
+    "ele/ela",
+    "nós",
+    "vocês",
+    "eles/elas"
+  ],
+  "verbs": [
+    {
+      "inf": "ser",
+      "en": "to be",
+      "ar": "يكون",
+      "present": [
+        "sou",
+        "é",
+        "é",
+        "somos",
+        "são",
+        "são"
+      ],
+      "preterite": [
+        "fui",
+        "foi",
+        "foi",
+        "fomos",
+        "foram",
+        "foram"
+      ],
+      "imperfect": [
+        "era",
+        "era",
+        "era",
+        "éramos",
+        "eram",
+        "eram"
+      ],
+      "future": [
+        "serei",
+        "será",
+        "será",
+        "seremos",
+        "serão",
+        "serão"
+      ],
+      "conditional": [
+        "seria",
+        "seria",
+        "seria",
+        "seríamos",
+        "seriam",
+        "seriam"
+      ],
+      "subjunctive": [
+        "seja",
+        "seja",
+        "seja",
+        "sejamos",
+        "sejam",
+        "sejam"
+      ]
+    },
+    {
+      "inf": "estar",
+      "en": "to be (temporary)",
+      "ar": "يكون (حالة)",
+      "present": [
+        "estou",
+        "está",
+        "está",
+        "estamos",
+        "estão",
+        "estão"
+      ],
+      "preterite": [
+        "estive",
+        "esteve",
+        "esteve",
+        "estivemos",
+        "estiveram",
+        "estiveram"
+      ],
+      "imperfect": [
+        "estava",
+        "estava",
+        "estava",
+        "estávamos",
+        "estavam",
+        "estavam"
+      ],
+      "future": [
+        "estarei",
+        "estará",
+        "estará",
+        "estaremos",
+        "estarão",
+        "estarão"
+      ],
+      "conditional": [
+        "estaria",
+        "estaria",
+        "estaria",
+        "estaríamos",
+        "estariam",
+        "estariam"
+      ],
+      "subjunctive": [
+        "esteja",
+        "esteja",
+        "esteja",
+        "estejamos",
+        "estejam",
+        "estejam"
+      ]
+    },
+    {
+      "inf": "ter",
+      "en": "to have",
+      "ar": "يملك",
+      "present": [
+        "tenho",
+        "tem",
+        "tem",
+        "temos",
+        "têm",
+        "têm"
+      ],
+      "preterite": [
+        "tive",
+        "teve",
+        "teve",
+        "tivemos",
+        "tiveram",
+        "tiveram"
+      ],
+      "imperfect": [
+        "tinha",
+        "tinha",
+        "tinha",
+        "tínhamos",
+        "tinham",
+        "tinham"
+      ],
+      "future": [
+        "terei",
+        "terá",
+        "terá",
+        "teremos",
+        "terão",
+        "terão"
+      ],
+      "conditional": [
+        "teria",
+        "teria",
+        "teria",
+        "teríamos",
+        "teriam",
+        "teriam"
+      ],
+      "subjunctive": [
+        "tenha",
+        "tenha",
+        "tenha",
+        "tenhamos",
+        "tenham",
+        "tenham"
+      ]
+    },
+    {
+      "inf": "fazer",
+      "en": "to do / make",
+      "ar": "يفعل / يصنع",
+      "present": [
+        "faço",
+        "faz",
+        "faz",
+        "fazemos",
+        "fazem",
+        "fazem"
+      ],
+      "preterite": [
+        "fiz",
+        "fez",
+        "fez",
+        "fizemos",
+        "fizeram",
+        "fizeram"
+      ],
+      "imperfect": [
+        "fazia",
+        "fazia",
+        "fazia",
+        "fazíamos",
+        "faziam",
+        "faziam"
+      ],
+      "future": [
+        "farei",
+        "fará",
+        "fará",
+        "faremos",
+        "farão",
+        "farão"
+      ],
+      "conditional": [
+        "faria",
+        "faria",
+        "faria",
+        "faríamos",
+        "fariam",
+        "fariam"
+      ],
+      "subjunctive": [
+        "faça",
+        "faça",
+        "faça",
+        "façamos",
+        "façam",
+        "façam"
+      ]
+    },
+    {
+      "inf": "ir",
+      "en": "to go",
+      "ar": "يذهب",
+      "present": [
+        "vou",
+        "vai",
+        "vai",
+        "vamos",
+        "vão",
+        "vão"
+      ],
+      "preterite": [
+        "fui",
+        "foi",
+        "foi",
+        "fomos",
+        "foram",
+        "foram"
+      ],
+      "imperfect": [
+        "ia",
+        "ia",
+        "ia",
+        "íamos",
+        "iam",
+        "iam"
+      ],
+      "future": [
+        "irei",
+        "irá",
+        "irá",
+        "iremos",
+        "irão",
+        "irão"
+      ],
+      "conditional": [
+        "iria",
+        "iria",
+        "iria",
+        "iríamos",
+        "iriam",
+        "iriam"
+      ],
+      "subjunctive": [
+        "vá",
+        "vá",
+        "vá",
+        "vamos",
+        "vão",
+        "vão"
+      ]
+    },
+    {
+      "inf": "vir",
+      "en": "to come",
+      "ar": "يأتي",
+      "present": [
+        "venho",
+        "vem",
+        "vem",
+        "vimos",
+        "vêm",
+        "vêm"
+      ],
+      "preterite": [
+        "vim",
+        "veio",
+        "veio",
+        "viemos",
+        "vieram",
+        "vieram"
+      ],
+      "imperfect": [
+        "vinha",
+        "vinha",
+        "vinha",
+        "vínhamos",
+        "vinham",
+        "vinham"
+      ],
+      "future": [
+        "virei",
+        "virá",
+        "virá",
+        "viremos",
+        "virão",
+        "virão"
+      ],
+      "conditional": [
+        "viria",
+        "viria",
+        "viria",
+        "viríamos",
+        "viriam",
+        "viriam"
+      ],
+      "subjunctive": [
+        "venha",
+        "venha",
+        "venha",
+        "venhamos",
+        "venham",
+        "venham"
+      ]
+    },
+    {
+      "inf": "dizer",
+      "en": "to say",
+      "ar": "يقول",
+      "present": [
+        "digo",
+        "diz",
+        "diz",
+        "dizemos",
+        "dizem",
+        "dizem"
+      ],
+      "preterite": [
+        "disse",
+        "disse",
+        "disse",
+        "dissemos",
+        "disseram",
+        "disseram"
+      ],
+      "imperfect": [
+        "dizia",
+        "dizia",
+        "dizia",
+        "dizíamos",
+        "diziam",
+        "diziam"
+      ],
+      "future": [
+        "direi",
+        "dirá",
+        "dirá",
+        "diremos",
+        "dirão",
+        "dirão"
+      ],
+      "conditional": [
+        "diria",
+        "diria",
+        "diria",
+        "diríamos",
+        "diriam",
+        "diriam"
+      ],
+      "subjunctive": [
+        "diga",
+        "diga",
+        "diga",
+        "digamos",
+        "digam",
+        "digam"
+      ]
+    },
+    {
+      "inf": "saber",
+      "en": "to know (facts)",
+      "ar": "يعرف",
+      "present": [
+        "sei",
+        "sabe",
+        "sabe",
+        "sabemos",
+        "sabem",
+        "sabem"
+      ],
+      "preterite": [
+        "soube",
+        "soube",
+        "soube",
+        "soubemos",
+        "souberam",
+        "souberam"
+      ],
+      "imperfect": [
+        "sabia",
+        "sabia",
+        "sabia",
+        "sabíamos",
+        "sabiam",
+        "sabiam"
+      ],
+      "future": [
+        "saberei",
+        "saberá",
+        "saberá",
+        "saberemos",
+        "saberão",
+        "saberão"
+      ],
+      "conditional": [
+        "saberia",
+        "saberia",
+        "saberia",
+        "saberíamos",
+        "saberiam",
+        "saberiam"
+      ],
+      "subjunctive": [
+        "saiba",
+        "saiba",
+        "saiba",
+        "saibamos",
+        "saibam",
+        "saibam"
+      ]
+    },
+    {
+      "inf": "poder",
+      "en": "to be able to",
+      "ar": "يستطيع",
+      "present": [
+        "posso",
+        "pode",
+        "pode",
+        "podemos",
+        "podem",
+        "podem"
+      ],
+      "preterite": [
+        "pude",
+        "pôde",
+        "pôde",
+        "pudemos",
+        "puderam",
+        "puderam"
+      ],
+      "imperfect": [
+        "podia",
+        "podia",
+        "podia",
+        "podíamos",
+        "podiam",
+        "podiam"
+      ],
+      "future": [
+        "poderei",
+        "poderá",
+        "poderá",
+        "poderemos",
+        "poderão",
+        "poderão"
+      ],
+      "conditional": [
+        "poderia",
+        "poderia",
+        "poderia",
+        "poderíamos",
+        "poderiam",
+        "poderiam"
+      ],
+      "subjunctive": [
+        "possa",
+        "possa",
+        "possa",
+        "possamos",
+        "possam",
+        "possam"
+      ]
+    },
+    {
+      "inf": "querer",
+      "en": "to want",
+      "ar": "يريد",
+      "present": [
+        "quero",
+        "quer",
+        "quer",
+        "queremos",
+        "querem",
+        "querem"
+      ],
+      "preterite": [
+        "quis",
+        "quis",
+        "quis",
+        "quisemos",
+        "quiseram",
+        "quiseram"
+      ],
+      "imperfect": [
+        "queria",
+        "queria",
+        "queria",
+        "queríamos",
+        "queriam",
+        "queriam"
+      ],
+      "future": [
+        "quererei",
+        "quererá",
+        "quererá",
+        "quereremos",
+        "quererão",
+        "quererão"
+      ],
+      "conditional": [
+        "quereria",
+        "quereria",
+        "quereria",
+        "quereríamos",
+        "quereriam",
+        "quereriam"
+      ],
+      "subjunctive": [
+        "queira",
+        "queira",
+        "queira",
+        "queiramos",
+        "queiram",
+        "queiram"
+      ]
+    },
+    {
+      "inf": "haver",
+      "en": "there to be",
+      "ar": "يوجد",
+      "present": [
+        "há",
+        "há",
+        "há",
+        "há",
+        "há",
+        "há"
+      ],
+      "preterite": [
+        "houve",
+        "houve",
+        "houve",
+        "houve",
+        "houve",
+        "houve"
+      ],
+      "imperfect": [
+        "havia",
+        "havia",
+        "havia",
+        "havia",
+        "havia",
+        "havia"
+      ],
+      "future": [
+        "haverá",
+        "haverá",
+        "haverá",
+        "haverá",
+        "haverá",
+        "haverá"
+      ],
+      "conditional": [
+        "haveria",
+        "haveria",
+        "haveria",
+        "haveria",
+        "haveria",
+        "haveria"
+      ],
+      "subjunctive": [
+        "haja",
+        "haja",
+        "haja",
+        "haja",
+        "haja",
+        "haja"
+      ]
+    },
+    {
+      "inf": "ver",
+      "en": "to see",
+      "ar": "يرى",
+      "present": [
+        "vejo",
+        "vê",
+        "vê",
+        "vemos",
+        "veem",
+        "veem"
+      ],
+      "preterite": [
+        "vi",
+        "viu",
+        "viu",
+        "vimos",
+        "viram",
+        "viram"
+      ],
+      "imperfect": [
+        "via",
+        "via",
+        "via",
+        "víamos",
+        "viam",
+        "viam"
+      ],
+      "future": [
+        "verei",
+        "verá",
+        "verá",
+        "veremos",
+        "verão",
+        "verão"
+      ],
+      "conditional": [
+        "veria",
+        "veria",
+        "veria",
+        "veríamos",
+        "veriam",
+        "veriam"
+      ],
+      "subjunctive": [
+        "veja",
+        "veja",
+        "veja",
+        "vejamos",
+        "vejam",
+        "vejam"
+      ]
+    },
+    {
+      "inf": "dar",
+      "en": "to give",
+      "ar": "يعطي",
+      "present": [
+        "dou",
+        "dá",
+        "dá",
+        "damos",
+        "dão",
+        "dão"
+      ],
+      "preterite": [
+        "dei",
+        "deu",
+        "deu",
+        "demos",
+        "deram",
+        "deram"
+      ],
+      "imperfect": [
+        "dava",
+        "dava",
+        "dava",
+        "dávamos",
+        "davam",
+        "davam"
+      ],
+      "future": [
+        "darei",
+        "dará",
+        "dará",
+        "daremos",
+        "darão",
+        "darão"
+      ],
+      "conditional": [
+        "daria",
+        "daria",
+        "daria",
+        "daríamos",
+        "dariam",
+        "dariam"
+      ],
+      "subjunctive": [
+        "dê",
+        "dê",
+        "dê",
+        "demos",
+        "deem",
+        "deem"
+      ]
+    },
+    {
+      "inf": "pôr",
+      "en": "to put",
+      "ar": "يضع",
+      "present": [
+        "ponho",
+        "põe",
+        "põe",
+        "pomos",
+        "põem",
+        "põem"
+      ],
+      "preterite": [
+        "pus",
+        "pôs",
+        "pôs",
+        "pusemos",
+        "puseram",
+        "puseram"
+      ],
+      "imperfect": [
+        "punha",
+        "punha",
+        "punha",
+        "púnhamos",
+        "punham",
+        "punham"
+      ],
+      "future": [
+        "porei",
+        "porá",
+        "porá",
+        "poremos",
+        "porão",
+        "porão"
+      ],
+      "conditional": [
+        "poria",
+        "poria",
+        "poria",
+        "poríamos",
+        "poriam",
+        "poriam"
+      ],
+      "subjunctive": [
+        "ponha",
+        "ponha",
+        "ponha",
+        "ponhamos",
+        "ponham",
+        "ponham"
+      ]
+    },
+    {
+      "inf": "ficar",
+      "en": "to stay / become",
+      "ar": "يبقى / يصبح",
+      "present": [
+        "fico",
+        "fica",
+        "fica",
+        "ficamos",
+        "ficam",
+        "ficam"
+      ],
+      "preterite": [
+        "fiquei",
+        "ficou",
+        "ficou",
+        "ficamos",
+        "ficaram",
+        "ficaram"
+      ],
+      "imperfect": [
+        "ficava",
+        "ficava",
+        "ficava",
+        "ficávamos",
+        "ficavam",
+        "ficavam"
+      ],
+      "future": [
+        "ficarei",
+        "ficará",
+        "ficará",
+        "ficaremos",
+        "ficarão",
+        "ficarão"
+      ],
+      "conditional": [
+        "ficaria",
+        "ficaria",
+        "ficaria",
+        "ficaríamos",
+        "ficariam",
+        "ficariam"
+      ],
+      "subjunctive": [
+        "fique",
+        "fique",
+        "fique",
+        "fiquemos",
+        "fique",
+        "fiquem"
+      ]
+    },
+    {
+      "inf": "viver",
+      "en": "to live",
+      "ar": "يعيش",
+      "present": [
+        "vivo",
+        "vive",
+        "vive",
+        "vivemos",
+        "vivem",
+        "vivem"
+      ],
+      "preterite": [
+        "vivi",
+        "viveu",
+        "viveu",
+        "vivemos",
+        "viveram",
+        "viveram"
+      ],
+      "imperfect": [
+        "vivia",
+        "vivia",
+        "vivia",
+        "vivíamos",
+        "viviam",
+        "viviam"
+      ],
+      "future": [
+        "viverei",
+        "viverá",
+        "viverá",
+        "viveremos",
+        "viverão",
+        "viverão"
+      ],
+      "conditional": [
+        "viveria",
+        "viveria",
+        "viveria",
+        "viveríamos",
+        "viveriam",
+        "viveriam"
+      ],
+      "subjunctive": [
+        "viva",
+        "viva",
+        "viva",
+        "vivamos",
+        "vivam",
+        "vivam"
+      ]
+    },
+    {
+      "inf": "morar",
+      "en": "to live (somewhere)",
+      "ar": "يسكن",
+      "present": [
+        "moro",
+        "mora",
+        "mora",
+        "moramos",
+        "moram",
+        "moram"
+      ],
+      "preterite": [
+        "morei",
+        "morou",
+        "morou",
+        "moramos",
+        "moraram",
+        "moraram"
+      ],
+      "imperfect": [
+        "morava",
+        "morava",
+        "morava",
+        "morávamos",
+        "moravam",
+        "moravam"
+      ],
+      "future": [
+        "morarei",
+        "morará",
+        "morará",
+        "moraremos",
+        "morarão",
+        "morarão"
+      ],
+      "conditional": [
+        "moraria",
+        "moraria",
+        "moraria",
+        "moraríamos",
+        "morariam",
+        "morariam"
+      ],
+      "subjunctive": [
+        "more",
+        "more",
+        "more",
+        "moremos",
+        "morem",
+        "morem"
+      ]
+    },
+    {
+      "inf": "trabalhar",
+      "en": "to work",
+      "ar": "يعمل",
+      "present": [
+        "trabalho",
+        "trabalha",
+        "trabalha",
+        "trabalhamos",
+        "trabalham",
+        "trabalham"
+      ],
+      "preterite": [
+        "trabalhei",
+        "trabalhou",
+        "trabalhou",
+        "trabalhamos",
+        "trabalharam",
+        "trabalharam"
+      ],
+      "imperfect": [
+        "trabalhava",
+        "trabalhava",
+        "trabalhava",
+        "trabalhávamos",
+        "trabalhavam",
+        "trabalhavam"
+      ],
+      "future": [
+        "trabalharei",
+        "trabalhará",
+        "trabalhará",
+        "trabalharemos",
+        "trabalharão",
+        "trabalharão"
+      ],
+      "conditional": [
+        "trabalharia",
+        "trabalharia",
+        "trabalharia",
+        "trabalharíamos",
+        "trabalhariam",
+        "trabalhariam"
+      ],
+      "subjunctive": [
+        "trabalhe",
+        "trabalhe",
+        "trabalhe",
+        "trabalhemos",
+        "trabalhem",
+        "trabalhem"
+      ]
+    },
+    {
+      "inf": "comprar",
+      "en": "to buy",
+      "ar": "يشتري",
+      "present": [
+        "compro",
+        "compra",
+        "compra",
+        "compramos",
+        "compram",
+        "compram"
+      ],
+      "preterite": [
+        "comprei",
+        "comprou",
+        "comprou",
+        "compramos",
+        "compraram",
+        "compraram"
+      ],
+      "imperfect": [
+        "comprava",
+        "comprava",
+        "comprava",
+        "comprávamos",
+        "compravam",
+        "compravam"
+      ],
+      "future": [
+        "comprarei",
+        "comprará",
+        "comprará",
+        "compraremos",
+        "comprarão",
+        "comprarão"
+      ],
+      "conditional": [
+        "compraria",
+        "compraria",
+        "compraria",
+        "compraríamos",
+        "comprariam",
+        "comprariam"
+      ],
+      "subjunctive": [
+        "compre",
+        "compre",
+        "compre",
+        "compremos",
+        "comprem",
+        "comprem"
+      ]
+    },
+    {
+      "inf": "vender",
+      "en": "to sell",
+      "ar": "يبيع",
+      "present": [
+        "vendo",
+        "vende",
+        "vende",
+        "vendemos",
+        "vendem",
+        "vendem"
+      ],
+      "preterite": [
+        "vendi",
+        "vendeu",
+        "vendeu",
+        "vendemos",
+        "venderam",
+        "venderam"
+      ],
+      "imperfect": [
+        "vendia",
+        "vendia",
+        "vendia",
+        "vendíamos",
+        "vendiam",
+        "vendiam"
+      ],
+      "future": [
+        "venderei",
+        "venderá",
+        "venderá",
+        "venderemos",
+        "venderão",
+        "venderão"
+      ],
+      "conditional": [
+        "venderia",
+        "venderia",
+        "venderia",
+        "venderíamos",
+        "venderiam",
+        "venderiam"
+      ],
+      "subjunctive": [
+        "venda",
+        "venda",
+        "venda",
+        "vendamos",
+        "vendam",
+        "vendam"
+      ]
+    },
+    {
+      "inf": "beber",
+      "en": "to drink",
+      "ar": "يشرب",
+      "present": [
+        "bebo",
+        "bebe",
+        "bebe",
+        "bebemos",
+        "bebem",
+        "bebem"
+      ],
+      "preterite": [
+        "bebi",
+        "bebeu",
+        "bebeu",
+        "bebemos",
+        "beberam",
+        "beberam"
+      ],
+      "imperfect": [
+        "bebia",
+        "bebia",
+        "bebia",
+        "bebíamos",
+        "bebiam",
+        "bebiam"
+      ],
+      "future": [
+        "beberei",
+        "beberá",
+        "beberá",
+        "beberemos",
+        "beberão",
+        "beberão"
+      ],
+      "conditional": [
+        "beberia",
+        "beberia",
+        "beberia",
+        "beberíamos",
+        "beberiam",
+        "beberiam"
+      ],
+      "subjunctive": [
+        "beba",
+        "beba",
+        "beba",
+        "bebamos",
+        "bebam",
+        "bebam"
+      ]
+    },
+    {
+      "inf": "comer",
+      "en": "to eat",
+      "ar": "يأكل",
+      "present": [
+        "como",
+        "come",
+        "come",
+        "comemos",
+        "comem",
+        "comem"
+      ],
+      "preterite": [
+        "comi",
+        "comeu",
+        "comeu",
+        "comemos",
+        "comeram",
+        "comeram"
+      ],
+      "imperfect": [
+        "comia",
+        "comia",
+        "comia",
+        "comíamos",
+        "comiam",
+        "comiam"
+      ],
+      "future": [
+        "comerei",
+        "comerá",
+        "comerá",
+        "comeremos",
+        "comerão",
+        "comerão"
+      ],
+      "conditional": [
+        "comeria",
+        "comeria",
+        "comeria",
+        "comeríamos",
+        "comeriam",
+        "comeriam"
+      ],
+      "subjunctive": [
+        "coma",
+        "coma",
+        "coma",
+        "comamos",
+        "comam",
+        "comam"
+      ]
+    },
+    {
+      "inf": "falar",
+      "en": "to speak",
+      "ar": "يتكلم",
+      "present": [
+        "falo",
+        "fala",
+        "fala",
+        "falamos",
+        "falam",
+        "falam"
+      ],
+      "preterite": [
+        "falei",
+        "falou",
+        "falou",
+        "falamos",
+        "falaram",
+        "falaram"
+      ],
+      "imperfect": [
+        "falava",
+        "falava",
+        "falava",
+        "falávamos",
+        "falavam",
+        "falavam"
+      ],
+      "future": [
+        "falarei",
+        "falará",
+        "falará",
+        "falaremos",
+        "falarão",
+        "falarão"
+      ],
+      "conditional": [
+        "falaria",
+        "falaria",
+        "falaria",
+        "falaríamos",
+        "falariam",
+        "falariam"
+      ],
+      "subjunctive": [
+        "fale",
+        "fale",
+        "fale",
+        "falemos",
+        "falem",
+        "falem"
+      ]
+    },
+    {
+      "inf": "entender",
+      "en": "to understand",
+      "ar": "يفهم",
+      "present": [
+        "entendo",
+        "entende",
+        "entende",
+        "entendemos",
+        "entendem",
+        "entendem"
+      ],
+      "preterite": [
+        "entendi",
+        "entendeu",
+        "entendeu",
+        "entendemos",
+        "entenderam",
+        "entenderam"
+      ],
+      "imperfect": [
+        "entendia",
+        "entendia",
+        "entendia",
+        "entendíamos",
+        "entendiam",
+        "entendiam"
+      ],
+      "future": [
+        "entenderei",
+        "entenderá",
+        "entenderá",
+        "entenderemos",
+        "entenderão",
+        "entenderão"
+      ],
+      "conditional": [
+        "entenderia",
+        "entenderia",
+        "entenderia",
+        "entenderíamos",
+        "entenderiam",
+        "entenderiam"
+      ],
+      "subjunctive": [
+        "entenda",
+        "entenda",
+        "entenda",
+        "entendamos",
+        "entendam",
+        "entendam"
+      ]
+    },
+    {
+      "inf": "aprender",
+      "en": "to learn",
+      "ar": "يتعلم",
+      "present": [
+        "aprendo",
+        "aprende",
+        "aprende",
+        "aprendemos",
+        "aprendem",
+        "aprendem"
+      ],
+      "preterite": [
+        "aprendi",
+        "aprendeu",
+        "aprendeu",
+        "aprendemos",
+        "aprenderam",
+        "aprenderam"
+      ],
+      "imperfect": [
+        "aprendia",
+        "aprendia",
+        "aprendia",
+        "aprendíamos",
+        "aprendiam",
+        "aprendiam"
+      ],
+      "future": [
+        "aprenderei",
+        "aprenderá",
+        "aprenderá",
+        "aprenderemos",
+        "aprenderão",
+        "aprenderão"
+      ],
+      "conditional": [
+        "aprenderia",
+        "aprenderia",
+        "aprenderia",
+        "aprenderíamos",
+        "aprenderiam",
+        "aprenderiam"
+      ],
+      "subjunctive": [
+        "aprenda",
+        "aprenda",
+        "aprenda",
+        "aprendamos",
+        "aprendam",
+        "aprendam"
+      ]
+    },
+    {
+      "inf": "ler",
+      "en": "to read",
+      "ar": "يقرأ",
+      "present": [
+        "leio",
+        "lê",
+        "lê",
+        "lemos",
+        "leem",
+        "leem"
+      ],
+      "preterite": [
+        "li",
+        "leu",
+        "leu",
+        "lemos",
+        "leram",
+        "leram"
+      ],
+      "imperfect": [
+        "lia",
+        "lia",
+        "lia",
+        "líamos",
+        "liam",
+        "liam"
+      ],
+      "future": [
+        "lerei",
+        "lerá",
+        "lerá",
+        "leremos",
+        "lerão",
+        "lerão"
+      ],
+      "conditional": [
+        "leria",
+        "leria",
+        "leria",
+        "leríamos",
+        "leriam",
+        "leriam"
+      ],
+      "subjunctive": [
+        "leia",
+        "leia",
+        "leia",
+        "leiamos",
+        "leia",
+        "leiam"
+      ]
+    },
+    {
+      "inf": "escrever",
+      "en": "to write",
+      "ar": "يكتب",
+      "present": [
+        "escrevo",
+        "escreve",
+        "escreve",
+        "escrevemos",
+        "escrevem",
+        "escrevem"
+      ],
+      "preterite": [
+        "escrevi",
+        "escreveu",
+        "escreveu",
+        "escrevemos",
+        "escreveram",
+        "escreveram"
+      ],
+      "imperfect": [
+        "escrevia",
+        "escrevia",
+        "escrevia",
+        "escrevíamos",
+        "escreviam",
+        "escreviam"
+      ],
+      "future": [
+        "escreverei",
+        "escreverá",
+        "escreverá",
+        "escreveremos",
+        "escreverão",
+        "escreverão"
+      ],
+      "conditional": [
+        "escreveria",
+        "escreveria",
+        "escreveria",
+        "escreveríamos",
+        "escreveriam",
+        "escreveriam"
+      ],
+      "subjunctive": [
+        "escreva",
+        "escreva",
+        "escreva",
+        "escrevamos",
+        "escrevam",
+        "escrevam"
+      ]
+    },
+    {
+      "inf": "gostar",
+      "en": "to like",
+      "ar": "يحب",
+      "present": [
+        "gosto",
+        "gosta",
+        "gosta",
+        "gostamos",
+        "gostam",
+        "gostam"
+      ],
+      "preterite": [
+        "gostei",
+        "gostou",
+        "gostou",
+        "gostamos",
+        "gostaram",
+        "gostaram"
+      ],
+      "imperfect": [
+        "gostava",
+        "gostava",
+        "gostava",
+        "gostávamos",
+        "gostavam",
+        "gostavam"
+      ],
+      "future": [
+        "gostarei",
+        "gostará",
+        "gostará",
+        "gostaremos",
+        "gostarão",
+        "gostarão"
+      ],
+      "conditional": [
+        "gostaria",
+        "gostaria",
+        "gostaria",
+        "gostaríamos",
+        "gostariam",
+        "gostariam"
+      ],
+      "subjunctive": [
+        "goste",
+        "goste",
+        "goste",
+        "gostemos",
+        "gostem",
+        "gostem"
+      ]
+    },
+    {
+      "inf": "precisar",
+      "en": "to need",
+      "ar": "يحتاج",
+      "present": [
+        "preciso",
+        "precisa",
+        "precisa",
+        "precisamos",
+        "precisam",
+        "precisam"
+      ],
+      "preterite": [
+        "precisei",
+        "precisou",
+        "precisou",
+        "precisamos",
+        "precisaram",
+        "precisaram"
+      ],
+      "imperfect": [
+        "precisava",
+        "precisava",
+        "precisava",
+        "precisávamos",
+        "precisavam",
+        "precisavam"
+      ],
+      "future": [
+        "precisarei",
+        "precisará",
+        "precisará",
+        "precisaremos",
+        "precisarão",
+        "precisarão"
+      ],
+      "conditional": [
+        "precisaria",
+        "precisaria",
+        "precisaria",
+        "precisaríamos",
+        "precisariam",
+        "precisariam"
+      ],
+      "subjunctive": [
+        "precise",
+        "precise",
+        "precise",
+        "precisemos",
+        "precisem",
+        "precisem"
+      ]
+    },
+    {
+      "inf": "encontrar",
+      "en": "to find / meet",
+      "ar": "يجد",
+      "present": [
+        "encontro",
+        "encontra",
+        "encontra",
+        "encontramos",
+        "encontram",
+        "encontram"
+      ],
+      "preterite": [
+        "encontrei",
+        "encontrou",
+        "encontrou",
+        "encontramos",
+        "encontraram",
+        "encontraram"
+      ],
+      "imperfect": [
+        "encontrava",
+        "encontrava",
+        "encontrava",
+        "encontrávamos",
+        "encontravam",
+        "encontravam"
+      ],
+      "future": [
+        "encontrarei",
+        "encontrará",
+        "encontrará",
+        "encontraremos",
+        "encontrarão",
+        "encontrarão"
+      ],
+      "conditional": [
+        "encontraria",
+        "encontraria",
+        "encontraria",
+        "encontraríamos",
+        "encontrariam",
+        "encontrariam"
+      ],
+      "subjunctive": [
+        "encontre",
+        "encontre",
+        "encontre",
+        "encontremos",
+        "encontrem",
+        "encontrem"
+      ]
+    },
+    {
+      "inf": "abrir",
+      "en": "to open",
+      "ar": "يفتح",
+      "present": [
+        "abro",
+        "abre",
+        "abre",
+        "abrimos",
+        "abrem",
+        "abrem"
+      ],
+      "preterite": [
+        "abri",
+        "abriu",
+        "abriu",
+        "abrimos",
+        "abriram",
+        "abriram"
+      ],
+      "imperfect": [
+        "abria",
+        "abria",
+        "abria",
+        "abríamos",
+        "abriam",
+        "abriam"
+      ],
+      "future": [
+        "abrirei",
+        "abrirá",
+        "abrirá",
+        "abriremos",
+        "abrirão",
+        "abrirão"
+      ],
+      "conditional": [
+        "abriria",
+        "abriria",
+        "abriria",
+        "abriríamos",
+        "abririam",
+        "abririam"
+      ],
+      "subjunctive": [
+        "abra",
+        "abra",
+        "abra",
+        "abramos",
+        "abram",
+        "abram"
+      ]
+    },
+    {
+      "inf": "fechar",
+      "en": "to close",
+      "ar": "يغلق",
+      "present": [
+        "fecho",
+        "fecha",
+        "fecha",
+        "fechamos",
+        "fecham",
+        "fecham"
+      ],
+      "preterite": [
+        "fechei",
+        "fechou",
+        "fechou",
+        "fechamos",
+        "fecharam",
+        "fecharam"
+      ],
+      "imperfect": [
+        "fechava",
+        "fechava",
+        "fechava",
+        "fechávamos",
+        "fechavam",
+        "fechavam"
+      ],
+      "future": [
+        "fecharei",
+        "fechará",
+        "fechará",
+        "fecharemos",
+        "fecharão",
+        "fecharão"
+      ],
+      "conditional": [
+        "fecharia",
+        "fecharia",
+        "fecharia",
+        "fecharíamos",
+        "fechariam",
+        "fechariam"
+      ],
+      "subjunctive": [
+        "feche",
+        "feche",
+        "feche",
+        "fechemos",
+        "fechem",
+        "fechem"
+      ]
+    },
+    {
+      "inf": "pensar",
+      "en": "to think",
+      "ar": "يفكر",
+      "present": [
+        "penso",
+        "pensa",
+        "pensa",
+        "pensamos",
+        "pensam",
+        "pensam"
+      ],
+      "preterite": [
+        "pensei",
+        "pensou",
+        "pensou",
+        "pensamos",
+        "pensaram",
+        "pensaram"
+      ],
+      "imperfect": [
+        "pensava",
+        "pensava",
+        "pensava",
+        "pensávamos",
+        "pensavam",
+        "pensavam"
+      ],
+      "future": [
+        "pensarei",
+        "pensará",
+        "pensará",
+        "pensaremos",
+        "pensarão",
+        "pensarão"
+      ],
+      "conditional": [
+        "pensaria",
+        "pensaria",
+        "pensaria",
+        "pensaríamos",
+        "pensariam",
+        "pensariam"
+      ],
+      "subjunctive": [
+        "pense",
+        "pense",
+        "pense",
+        "pensemos",
+        "pensem",
+        "pensem"
+      ]
+    },
+    {
+      "inf": "achar",
+      "en": "to think / find",
+      "ar": "يظن",
+      "present": [
+        "acho",
+        "acha",
+        "acha",
+        "achamos",
+        "acham",
+        "acham"
+      ],
+      "preterite": [
+        "achei",
+        "achou",
+        "achou",
+        "achamos",
+        "acharam",
+        "acharam"
+      ],
+      "imperfect": [
+        "achava",
+        "achava",
+        "achava",
+        "achávamos",
+        "achavam",
+        "achavam"
+      ],
+      "future": [
+        "acharei",
+        "achará",
+        "achará",
+        "acharemos",
+        "acharão",
+        "acharão"
+      ],
+      "conditional": [
+        "acharia",
+        "acharia",
+        "acharia",
+        "acharíamos",
+        "achariam",
+        "achariam"
+      ],
+      "subjunctive": [
+        "ache",
+        "ache",
+        "ache",
+        "achemos",
+        "ache",
+        "achem"
+      ]
+    },
+    {
+      "inf": "chamar",
+      "en": "to call",
+      "ar": "ينادي",
+      "present": [
+        "chamo",
+        "chama",
+        "chama",
+        "chamamos",
+        "chamam",
+        "chamam"
+      ],
+      "preterite": [
+        "chamei",
+        "chamou",
+        "chamou",
+        "chamamos",
+        "chamaram",
+        "chamaram"
+      ],
+      "imperfect": [
+        "chamava",
+        "chamava",
+        "chamava",
+        "chamávamos",
+        "chamavam",
+        "chamavam"
+      ],
+      "future": [
+        "chamarei",
+        "chamará",
+        "chamará",
+        "chamaremos",
+        "chamarão",
+        "chamarão"
+      ],
+      "conditional": [
+        "chamaria",
+        "chamaria",
+        "chamaria",
+        "chamaríamos",
+        "chamariam",
+        "chamariam"
+      ],
+      "subjunctive": [
+        "chame",
+        "chame",
+        "chame",
+        "chamemos",
+        "chamem",
+        "chamem"
+      ]
+    },
+    {
+      "inf": "chegar",
+      "en": "to arrive",
+      "ar": "يصل",
+      "present": [
+        "chego",
+        "chega",
+        "chega",
+        "chegamos",
+        "chegam",
+        "chegam"
+      ],
+      "preterite": [
+        "cheguei",
+        "chegou",
+        "chegou",
+        "chegamos",
+        "chegaram",
+        "chegaram"
+      ],
+      "imperfect": [
+        "chegava",
+        "chegava",
+        "chegava",
+        "chegávamos",
+        "chegavam",
+        "chegavam"
+      ],
+      "future": [
+        "chegarei",
+        "chegará",
+        "chegará",
+        "chegaremos",
+        "chegarão",
+        "chegarão"
+      ],
+      "conditional": [
+        "chegaria",
+        "chegaria",
+        "chegaria",
+        "chegaríamos",
+        "chegariam",
+        "chegariam"
+      ],
+      "subjunctive": [
+        "chegue",
+        "chegue",
+        "chegue",
+        "cheguemos",
+        "chegue",
+        "cheguem"
+      ]
+    },
+    {
+      "inf": "sair",
+      "en": "to leave",
+      "ar": "يخرج",
+      "present": [
+        "saio",
+        "sai",
+        "sai",
+        "saímos",
+        "saem",
+        "saem"
+      ],
+      "preterite": [
+        "saí",
+        "saiu",
+        "saiu",
+        "saímos",
+        "saíram",
+        "saíram"
+      ],
+      "imperfect": [
+        "saía",
+        "saía",
+        "saía",
+        "saíamos",
+        "saíam",
+        "saíam"
+      ],
+      "future": [
+        "sairei",
+        "sairá",
+        "sairá",
+        "sairemos",
+        "sairão",
+        "sairão"
+      ],
+      "conditional": [
+        "sairia",
+        "sairia",
+        "sairia",
+        "sairíamos",
+        "sairiam",
+        "sairiam"
+      ],
+      "subjunctive": [
+        "saia",
+        "saia",
+        "saia",
+        "saiamos",
+        "saiam",
+        "saiam"
+      ]
+    },
+    {
+      "inf": "voltar",
+      "en": "to return",
+      "ar": "يعود",
+      "present": [
+        "volto",
+        "volta",
+        "volta",
+        "voltamos",
+        "voltam",
+        "voltam"
+      ],
+      "preterite": [
+        "voltei",
+        "voltou",
+        "voltou",
+        "voltamos",
+        "voltaram",
+        "voltaram"
+      ],
+      "imperfect": [
+        "voltava",
+        "voltava",
+        "voltava",
+        "voltávamos",
+        "voltavam",
+        "voltavam"
+      ],
+      "future": [
+        "voltarei",
+        "voltará",
+        "voltará",
+        "voltaremos",
+        "voltarão",
+        "voltarão"
+      ],
+      "conditional": [
+        "voltaria",
+        "voltaria",
+        "voltaria",
+        "voltaríamos",
+        "voltariam",
+        "voltariam"
+      ],
+      "subjunctive": [
+        "volte",
+        "volte",
+        "volte",
+        "voltemos",
+        "voltem",
+        "voltem"
+      ]
+    },
+    {
+      "inf": "levar",
+      "en": "to take / carry",
+      "ar": "يأخذ",
+      "present": [
+        "levo",
+        "leva",
+        "leva",
+        "levamos",
+        "levam",
+        "levam"
+      ],
+      "preterite": [
+        "levei",
+        "levou",
+        "levou",
+        "levamos",
+        "levaram",
+        "levaram"
+      ],
+      "imperfect": [
+        "levava",
+        "levava",
+        "levava",
+        "levávamos",
+        "levavam",
+        "levavam"
+      ],
+      "future": [
+        "levarei",
+        "levará",
+        "levará",
+        "levaremos",
+        "levarão",
+        "levarão"
+      ],
+      "conditional": [
+        "levaria",
+        "levaria",
+        "levaria",
+        "levaríamos",
+        "levariam",
+        "levariam"
+      ],
+      "subjunctive": [
+        "leve",
+        "leve",
+        "leve",
+        "levemos",
+        "levem",
+        "levem"
+      ]
+    },
+    {
+      "inf": "trazer",
+      "en": "to bring",
+      "ar": "يجلب",
+      "present": [
+        "trago",
+        "traz",
+        "traz",
+        "trazemos",
+        "trazem",
+        "trazem"
+      ],
+      "preterite": [
+        "trouxe",
+        "trouxe",
+        "trouxe",
+        "trouxemos",
+        "trouxeram",
+        "trouxeram"
+      ],
+      "imperfect": [
+        "trazia",
+        "trazia",
+        "trazia",
+        "trazíamos",
+        "traziam",
+        "traziam"
+      ],
+      "future": [
+        "trarei",
+        "trará",
+        "trará",
+        "traremos",
+        "trarão",
+        "trarão"
+      ],
+      "conditional": [
+        "traria",
+        "traria",
+        "traria",
+        "traríamos",
+        "trariam",
+        "trariam"
+      ],
+      "subjunctive": [
+        "traga",
+        "traga",
+        "traga",
+        "tragamos",
+        "traga",
+        "tragam"
+      ]
+    },
+    {
+      "inf": "andar",
+      "en": "to walk",
+      "ar": "يمشي",
+      "present": [
+        "ando",
+        "anda",
+        "anda",
+        "andamos",
+        "andam",
+        "andam"
+      ],
+      "preterite": [
+        "andei",
+        "andou",
+        "andou",
+        "andamos",
+        "andaram",
+        "andaram"
+      ],
+      "imperfect": [
+        "andava",
+        "andava",
+        "andava",
+        "andávamos",
+        "andavam",
+        "andavam"
+      ],
+      "future": [
+        "andarei",
+        "andará",
+        "andará",
+        "andaremos",
+        "andarão",
+        "andarão"
+      ],
+      "conditional": [
+        "andaria",
+        "andaria",
+        "andaria",
+        "andaríamos",
+        "andariam",
+        "andariam"
+      ],
+      "subjunctive": [
+        "ande",
+        "ande",
+        "ande",
+        "andemos",
+        "andem",
+        "andem"
+      ]
+    },
+    {
+      "inf": "correr",
+      "en": "to run",
+      "ar": "يجري",
+      "present": [
+        "corro",
+        "corre",
+        "corre",
+        "corremos",
+        "correm",
+        "correm"
+      ],
+      "preterite": [
+        "corri",
+        "correu",
+        "correu",
+        "corremos",
+        "correram",
+        "correram"
+      ],
+      "imperfect": [
+        "corria",
+        "corria",
+        "corria",
+        "corríamos",
+        "corriam",
+        "corriam"
+      ],
+      "future": [
+        "correrei",
+        "correrá",
+        "correrá",
+        "correremos",
+        "correrão",
+        "correrão"
+      ],
+      "conditional": [
+        "correria",
+        "correria",
+        "correria",
+        "correríamos",
+        "correriam",
+        "correriam"
+      ],
+      "subjunctive": [
+        "corra",
+        "corra",
+        "corra",
+        "corramos",
+        "corram",
+        "corram"
+      ]
+    },
+    {
+      "inf": "dormir",
+      "en": "to sleep",
+      "ar": "ينام",
+      "present": [
+        "durmo",
+        "dorme",
+        "dorme",
+        "dormimos",
+        "dormem",
+        "dormem"
+      ],
+      "preterite": [
+        "dormi",
+        "dormiu",
+        "dormiu",
+        "dormimos",
+        "dormiram",
+        "dormiram"
+      ],
+      "imperfect": [
+        "dormia",
+        "dormia",
+        "dormia",
+        "dormíamos",
+        "dormiam",
+        "dormiam"
+      ],
+      "future": [
+        "dormirei",
+        "dormirá",
+        "dormirá",
+        "dormiremos",
+        "dormirão",
+        "dormirão"
+      ],
+      "conditional": [
+        "dormiria",
+        "dormiria",
+        "dormiria",
+        "dormiríamos",
+        "dormiriam",
+        "dormiriam"
+      ],
+      "subjunctive": [
+        "durma",
+        "durma",
+        "durma",
+        "durmamos",
+        "durma",
+        "durmam"
+      ]
+    },
+    {
+      "inf": "acordar",
+      "en": "to wake up",
+      "ar": "يستيقظ",
+      "present": [
+        "acordo",
+        "acorda",
+        "acorda",
+        "acordamos",
+        "acordam",
+        "acordam"
+      ],
+      "preterite": [
+        "acordei",
+        "acordou",
+        "acordou",
+        "acordamos",
+        "acordaram",
+        "acordaram"
+      ],
+      "imperfect": [
+        "acordava",
+        "acordava",
+        "acordava",
+        "acordávamos",
+        "acordavam",
+        "acordavam"
+      ],
+      "future": [
+        "acordarei",
+        "acordará",
+        "acordará",
+        "acordaremos",
+        "acordarão",
+        "acordarão"
+      ],
+      "conditional": [
+        "acordaria",
+        "acordaria",
+        "acordaria",
+        "acordaríamos",
+        "acordariam",
+        "acordariam"
+      ],
+      "subjunctive": [
+        "acorde",
+        "acorde",
+        "acorde",
+        "acordemos",
+        "acordem",
+        "acordem"
+      ]
+    },
+    {
+      "inf": "pagar",
+      "en": "to pay",
+      "ar": "يدفع",
+      "present": [
+        "pago",
+        "paga",
+        "paga",
+        "pagamos",
+        "pagam",
+        "pagam"
+      ],
+      "preterite": [
+        "paguei",
+        "pagou",
+        "pagou",
+        "pagamos",
+        "pagaram",
+        "pagaram"
+      ],
+      "imperfect": [
+        "pagava",
+        "pagava",
+        "pagava",
+        "pagávamos",
+        "pagavam",
+        "pagavam"
+      ],
+      "future": [
+        "pagarei",
+        "pagará",
+        "pagará",
+        "pagaremos",
+        "pagarão",
+        "pagarão"
+      ],
+      "conditional": [
+        "pagaria",
+        "pagaria",
+        "pagaria",
+        "pagaríamos",
+        "pagariam",
+        "pagariam"
+      ],
+      "subjunctive": [
+        "pague",
+        "pague",
+        "pague",
+        "paguemos",
+        "pague",
+        "paguem"
+      ]
+    },
+    {
+      "inf": "esperar",
+      "en": "to wait / hope",
+      "ar": "ينتظر",
+      "present": [
+        "espero",
+        "espera",
+        "espera",
+        "esperamos",
+        "esperam",
+        "esperam"
+      ],
+      "preterite": [
+        "esperei",
+        "esperou",
+        "esperou",
+        "esperamos",
+        "esperaram",
+        "esperaram"
+      ],
+      "imperfect": [
+        "esperava",
+        "esperava",
+        "esperava",
+        "esperávamos",
+        "esperavam",
+        "esperavam"
+      ],
+      "future": [
+        "esperarei",
+        "esperará",
+        "esperará",
+        "esperaremos",
+        "esperarão",
+        "esperarão"
+      ],
+      "conditional": [
+        "esperaria",
+        "esperaria",
+        "esperaria",
+        "esperaríamos",
+        "esperariam",
+        "esperariam"
+      ],
+      "subjunctive": [
+        "espere",
+        "espere",
+        "espere",
+        "esperemos",
+        "esperem",
+        "esperem"
+      ]
+    },
+    {
+      "inf": "sentir",
+      "en": "to feel",
+      "ar": "يشعر",
+      "present": [
+        "sinto",
+        "sente",
+        "sente",
+        "sentimos",
+        "sentem",
+        "sentem"
+      ],
+      "preterite": [
+        "senti",
+        "sentiu",
+        "sentiu",
+        "sentimos",
+        "sentiram",
+        "sentiram"
+      ],
+      "imperfect": [
+        "sentia",
+        "sentia",
+        "sentia",
+        "sentíamos",
+        "sentiam",
+        "sentiam"
+      ],
+      "future": [
+        "sentirei",
+        "sentirá",
+        "sentirá",
+        "sentiremos",
+        "sentirão",
+        "sentirão"
+      ],
+      "conditional": [
+        "sentiria",
+        "sentiria",
+        "sentiria",
+        "sentiríamos",
+        "sentiriam",
+        "sentiriam"
+      ],
+      "subjunctive": [
+        "sinta",
+        "sinta",
+        "sinta",
+        "sintamos",
+        "sinta",
+        "sintam"
+      ]
+    },
+    {
+      "inf": "olhar",
+      "en": "to look",
+      "ar": "ينظر",
+      "present": [
+        "olho",
+        "olha",
+        "olha",
+        "olhamos",
+        "olham",
+        "olham"
+      ],
+      "preterite": [
+        "olhei",
+        "olhou",
+        "olhou",
+        "olhamos",
+        "olharam",
+        "olharam"
+      ],
+      "imperfect": [
+        "olhava",
+        "olhava",
+        "olhava",
+        "olhávamos",
+        "olhavam",
+        "olhavam"
+      ],
+      "future": [
+        "olharei",
+        "olhará",
+        "olhará",
+        "olharemos",
+        "olharão",
+        "olharão"
+      ],
+      "conditional": [
+        "olharia",
+        "olharia",
+        "olharia",
+        "olharíamos",
+        "olhariam",
+        "olhariam"
+      ],
+      "subjunctive": [
+        "olhe",
+        "olhe",
+        "olhe",
+        "olhemos",
+        "olhem",
+        "olhem"
+      ]
+    },
+    {
+      "inf": "ouvir",
+      "en": "to hear / listen",
+      "ar": "يسمع",
+      "present": [
+        "ouço",
+        "ouve",
+        "ouve",
+        "ouvimos",
+        "ouvem",
+        "ouvem"
+      ],
+      "preterite": [
+        "ouvi",
+        "ouviu",
+        "ouviu",
+        "ouvimos",
+        "ouviram",
+        "ouviram"
+      ],
+      "imperfect": [
+        "ouvia",
+        "ouvia",
+        "ouvia",
+        "ouvíamos",
+        "ouviam",
+        "ouviam"
+      ],
+      "future": [
+        "ouvirei",
+        "ouvirá",
+        "ouvirá",
+        "ouviremos",
+        "ouvirão",
+        "ouvirão"
+      ],
+      "conditional": [
+        "ouviria",
+        "ouviria",
+        "ouviria",
+        "ouviríamos",
+        "ouviriam",
+        "ouviriam"
+      ],
+      "subjunctive": [
+        "ouça",
+        "ouça",
+        "ouça",
+        "ouçamos",
+        "ouça",
+        "ouçam"
+      ]
+    },
+    {
+      "inf": "assistir",
+      "en": "to watch / attend",
+      "ar": "يشاهد",
+      "present": [
+        "assisto",
+        "assiste",
+        "assiste",
+        "assistimos",
+        "assistem",
+        "assistem"
+      ],
+      "preterite": [
+        "assisti",
+        "assistiu",
+        "assistiu",
+        "assistimos",
+        "assistiram",
+        "assistiram"
+      ],
+      "imperfect": [
+        "assistia",
+        "assistia",
+        "assistia",
+        "assistíamos",
+        "assistiam",
+        "assistiam"
+      ],
+      "future": [
+        "assistirei",
+        "assistirá",
+        "assistirá",
+        "assistiremos",
+        "assistirão",
+        "assistirão"
+      ],
+      "conditional": [
+        "assistiria",
+        "assistiria",
+        "assistiria",
+        "assistiríamos",
+        "assistiriam",
+        "assistiriam"
+      ],
+      "subjunctive": [
+        "assista",
+        "assista",
+        "assista",
+        "assistamos",
+        "assistam",
+        "assistam"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1931 @@
+{
+  "id": "A2-02",
+  "level": "A2",
+  "level_name": {
+    "pt": "Básico",
+    "en": "Elementary",
+    "ar": "أساسي"
+  },
+  "title": {
+    "pt": "Fazendo Compras",
+    "en": "Going Shopping",
+    "ar": "التسوق"
+  },
+  "objectives": [
+    {
+      "pt": "Perguntar preços e fazer compras em português",
+      "en": "Ask prices and go shopping in Portuguese",
+      "ar": "السؤال عن الأسعار والتسوق بالبرتغالية"
+    },
+    {
+      "pt": "Usar palavras e expressões de pagamento",
+      "en": "Use payment words and expressions",
+      "ar": "استخدام كلمات وتعبيرات الدفع"
+    },
+    {
+      "pt": "Conversar com vendedores em uma loja",
+      "en": "Talk with salespeople in a store",
+      "ar": "التحدث مع البائعين في المتجر"
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "o dinheiro",
+      "ipa": "/u dʒiˈɲej.ɾu/",
+      "en": "the money",
+      "ar": "المال",
+      "example": {
+        "pt": "Que bom! Qual é o desconto?",
+        "en": "Great! What is the discount?",
+        "ar": "رائع! ما الخصم؟"
+      }
+    },
+    {
+      "pt": "o preço",
+      "ipa": "/u ˈpɾe.su/",
+      "en": "the price",
+      "ar": "السعر",
+      "example": {
+        "pt": "Que bom! Qual é o desconto?",
+        "en": "Great! What is the discount?",
+        "ar": "رائع! ما الخصم؟"
+      }
+    },
+    {
+      "pt": "barato",
+      "ipa": "/baˈɾa.tu/",
+      "en": "cheap",
+      "ar": "رخيص",
+      "example": {
+        "pt": "Bom dia! Quer experimentar esta camisa?",
+        "en": "Good morning! Would you like to try on this shirt?",
+        "ar": "صباح الخير! هل تريد تجربة هذا القميص؟"
+      }
+    },
+    {
+      "pt": "caro",
+      "ipa": "/ˈka.ɾu/",
+      "en": "expensive",
+      "ar": "غالٍ",
+      "example": {
+        "pt": "Bom dia! Quer experimentar esta camisa?",
+        "en": "Good morning! Would you like to try on this shirt?",
+        "ar": "صباح الخير! هل تريد تجربة هذا القميص؟"
+      }
+    },
+    {
+      "pt": "a loja",
+      "ipa": "/a ˈlɔ.ʒa/",
+      "en": "the store",
+      "ar": "المتجر",
+      "example": {
+        "pt": "Bom dia! Quer experimentar esta camisa?",
+        "en": "Good morning! Would you like to try on this shirt?",
+        "ar": "صباح الخير! هل تريد تجربة هذا القميص؟"
+      }
+    },
+    {
+      "pt": "o mercado",
+      "ipa": "/u meʁˈka.du/",
+      "en": "the market",
+      "ar": "السوق",
+      "example": {
+        "pt": "Que bom! Qual é o desconto?",
+        "en": "Great! What is the discount?",
+        "ar": "رائع! ما الخصم؟"
+      }
+    },
+    {
+      "pt": "o supermercado",
+      "ipa": "/u su.peʁ.meʁˈka.du/",
+      "en": "the supermarket",
+      "ar": "السوبرماركت",
+      "example": {
+        "pt": "Que bom! Qual é o desconto?",
+        "en": "Great! What is the discount?",
+        "ar": "رائع! ما الخصم؟"
+      }
+    },
+    {
+      "pt": "a promoção",
+      "ipa": "/a pɾo.moˈsɐ̃w/",
+      "en": "the sale",
+      "ar": "التخفيض",
+      "example": {
+        "pt": "Bom dia! Quer experimentar esta camisa?",
+        "en": "Good morning! Would you like to try on this shirt?",
+        "ar": "صباح الخير! هل تريد تجربة هذا القميص؟"
+      }
+    },
+    {
+      "pt": "pagar",
+      "ipa": "/paˈɡaʁ/",
+      "en": "to pay",
+      "ar": "يدفع",
+      "example": {
+        "pt": "Posso pagar com cartão de crédito?",
+        "en": "Can I pay with a credit card?",
+        "ar": "هل يمكنني الدفع ببطاقة الائتمان؟"
+      }
+    },
+    {
+      "pt": "custar",
+      "ipa": "/kusˈtaʁ/",
+      "en": "to cost",
+      "ar": "يكلف",
+      "example": {
+        "pt": "Bom dia! Quer experimentar esta camisa?",
+        "en": "Good morning! Would you like to try on this shirt?",
+        "ar": "صباح الخير! هل تريد تجربة هذا القميص؟"
+      }
+    },
+    {
+      "pt": "o troco",
+      "ipa": "/u ˈtɾɔ.ku/",
+      "en": "the change",
+      "ar": "الباقي (الفكة)",
+      "example": {
+        "pt": "Que bom! Qual é o desconto?",
+        "en": "Great! What is the discount?",
+        "ar": "رائع! ما الخصم؟"
+      }
+    },
+    {
+      "pt": "o desconto",
+      "ipa": "/u dʒisˈkõ.tu/",
+      "en": "the discount",
+      "ar": "الخصم",
+      "example": {
+        "pt": "Que bom! Qual é o desconto?",
+        "en": "Great! What is the discount?",
+        "ar": "رائع! ما الخصم؟"
+      }
+    },
+    {
+      "pt": "à vista",
+      "ipa": "/a ˈvis.ta/",
+      "en": "in cash / one payment",
+      "ar": "نقدًا",
+      "example": {
+        "pt": "Bom dia! Quer experimentar esta camisa?",
+        "en": "Good morning! Would you like to try on this shirt?",
+        "ar": "صباح الخير! هل تريد تجربة هذا القميص؟"
+      }
+    },
+    {
+      "pt": "a prazo",
+      "ipa": "/a ˈpɾa.zu/",
+      "en": "in installments",
+      "ar": "بالتقسيط",
+      "example": {
+        "pt": "Bom dia! Quer experimentar esta camisa?",
+        "en": "Good morning! Would you like to try on this shirt?",
+        "ar": "صباح الخير! هل تريد تجربة هذا القميص؟"
+      }
+    },
+    {
+      "pt": "o cartão",
+      "ipa": "/u kaʁˈtɐ̃w/",
+      "en": "the card",
+      "ar": "البطاقة",
+      "example": {
+        "pt": "Que bom! Qual é o desconto?",
+        "en": "Great! What is the discount?",
+        "ar": "رائع! ما الخصم؟"
+      }
+    },
+    {
+      "pt": "a sacola",
+      "ipa": "/a saˈkɔ.la/",
+      "en": "the shopping bag",
+      "ar": "حقيبة التسوق",
+      "example": {
+        "pt": "Bom dia! Quer experimentar esta camisa?",
+        "en": "Good morning! Would you like to try on this shirt?",
+        "ar": "صباح الخير! هل تريد تجربة هذا القميص؟"
+      }
+    },
+    {
+      "pt": "experimentar",
+      "ipa": "/is.pe.ɾi.mẽˈtaʁ/",
+      "en": "to try on",
+      "ar": "يجرب",
+      "example": {
+        "pt": "Bom dia! Quer experimentar esta camisa?",
+        "en": "Good morning! Would you like to try on this shirt?",
+        "ar": "صباح الخير! هل تريد تجربة هذا القميص؟"
+      }
+    },
+    {
+      "pt": "o vendedor",
+      "ipa": "/u vẽ.deˈdoʁ/",
+      "en": "the salesperson",
+      "ar": "البائع",
+      "example": {
+        "pt": "Que bom! Qual é o desconto?",
+        "en": "Great! What is the discount?",
+        "ar": "رائع! ما الخصم؟"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "title": {
+        "pt": "Perguntando Preços",
+        "en": "Asking Prices",
+        "ar": "السؤال عن الأسعار"
+      },
+      "explanation": {
+        "pt": "Para perguntar o preço: 'Quanto custa?' (How much does it cost?), 'Quanto é?' (How much is it?) ou 'Qual é o preço?' Respostas: 'Custa vinte reais.', 'É muito caro.', 'É barato.'",
+        "en": "To ask the price: 'Quanto custa?' (How much does it cost?), 'Quanto é?' (How much is it?) or 'Qual é o preço?' (What is the price?) Answers: 'Custa vinte reais.' (It costs twenty reais), 'É muito caro.' (It is very expensive), 'É barato.' (It is cheap).",
+        "ar": "للسؤال عن السعر: 'Quanto custa?' (كم يكلف؟)، 'Quanto é?' (كم ثمنه؟) أو 'Qual é o preço?' (ما السعر؟) الإجابات: 'Custa vinte reais.' (يكلف عشرين ريالًا)، 'É muito caro.' (إنه غالٍ جدًا)، 'É barato.' (إنه رخيص)."
+      },
+      "examples": [
+        {
+          "pt": "Quanto custa esta camisa?",
+          "en": "How much does this shirt cost?",
+          "ar": "كم يكلف هذا القميص؟"
+        },
+        {
+          "pt": "Custa cinquenta reais.",
+          "en": "It costs fifty reais.",
+          "ar": "يكلف خمسين ريالًا."
+        },
+        {
+          "pt": "O preço é bom!",
+          "en": "The price is good!",
+          "ar": "السعر جيد!"
+        }
+      ]
+    },
+    {
+      "title": {
+        "pt": "Pagando na Loja",
+        "en": "Paying at the Store",
+        "ar": "الدفع في المتجر"
+      },
+      "explanation": {
+        "pt": "Para pagar: 'Aceita cartão?' (Do you accept card?), 'Posso pagar em dinheiro?' (Can I pay in cash?), 'À vista ou a prazo?' (Cash or in installments?) 'Você tem o troco?' (Do you have change?)",
+        "en": "To pay: 'Aceita cartão?' (Do you accept card?), 'Posso pagar em dinheiro?' (Can I pay in cash?), 'À vista ou a prazo?' (Cash or in installments?) 'Você tem o troco?' (Do you have change?)",
+        "ar": "للدفع: 'Aceita cartão?' (هل تقبل البطاقة؟)، 'Posso pagar em dinheiro?' (هل يمكنني الدفع نقدًا؟)، 'À vista ou a prazo?' (نقدًا أم بالتقسيط؟) 'Você tem o troco?' (هل لديك فكة؟)"
+      },
+      "examples": [
+        {
+          "pt": "Posso pagar com cartão de crédito?",
+          "en": "Can I pay with a credit card?",
+          "ar": "هل يمكنني الدفع ببطاقة الائتمان؟"
+        },
+        {
+          "pt": "Aceitamos dinheiro e cartão.",
+          "en": "We accept cash and card.",
+          "ar": "نقبل النقد والبطاقة."
+        },
+        {
+          "pt": "O vendedor deu o troco.",
+          "en": "The salesperson gave the change.",
+          "ar": "أعطى البائع الباقي."
+        }
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": {
+      "pt": "Na Loja de Roupas",
+      "en": "At the Clothing Store",
+      "ar": "في متجر الملابس"
+    },
+    "lines": [
+      {
+        "speaker": "Vendedor",
+        "pt": "Bom dia! Quer experimentar esta camisa?",
+        "en": "Good morning! Would you like to try on this shirt?",
+        "ar": "صباح الخير! هل تريد تجربة هذا القميص؟"
+      },
+      {
+        "speaker": "Cliente",
+        "pt": "Sim. Quanto custa?",
+        "en": "Yes. How much does it cost?",
+        "ar": "نعم. كم سعره؟"
+      },
+      {
+        "speaker": "Vendedor",
+        "pt": "Custa oitenta reais, mas está em promoção: sessenta.",
+        "en": "It costs eighty reais, but it is on sale: sixty.",
+        "ar": "سعره ثمانون ريالًا، لكنه في تخفيض: ستون."
+      },
+      {
+        "speaker": "Cliente",
+        "pt": "Que bom! Qual é o desconto?",
+        "en": "Great! What is the discount?",
+        "ar": "رائع! ما الخصم؟"
+      },
+      {
+        "speaker": "Vendedor",
+        "pt": "Vinte por cento. Aceita cartão?",
+        "en": "Twenty percent. Do you accept card?",
+        "ar": "عشرون بالمئة. هل تقبل البطاقة؟"
+      },
+      {
+        "speaker": "Cliente",
+        "pt": "Sim, aceito. Obrigado!",
+        "en": "Yes, I do. Thank you!",
+        "ar": "نعم، أقبل. شكرًا!"
+      }
+    ]
+  },
+  "reading": {
+    "title": {
+      "pt": "Compras no Supermercado",
+      "en": "Shopping at the Supermarket",
+      "ar": "التسوق في السوبرماركت"
+    },
+    "text_pt": "No sábado, Marina foi ao supermercado fazer compras. Ela comprou frutas, pão e leite. Havia uma promoção de café, então ela comprou dois pacotes. No caixa, ela pagou com cartão e recebeu o troco no aplicativo.",
+    "text_en": "On Saturday, Marina went to the supermarket to go shopping. She bought fruits, bread and milk. There was a sale on coffee, so she bought two packages. At the checkout, she paid with her card and got the change in the app.",
+    "text_ar": "يوم السبت، ذهبت مارينا إلى السوبرماركت للتسوق. اشترت فواكه وخبزًا وحليبًا. كان هناك تخفيض على القهوة، فاشترت علبتين. عند الصندوق، دفعت بالبطاقة واستلمت الباقي عبر التطبيق."
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Quanto ___ esta blusa? (custar)",
+        "en": "How much ___ this blouse? (custar)",
+        "ar": "كم ___ هذه البلوزة؟ (custar)"
+      },
+      "options": [
+        {
+          "pt": "custa",
+          "en": "custa",
+          "ar": "custa"
+        },
+        {
+          "pt": "custo",
+          "en": "custo",
+          "ar": "custo"
+        },
+        {
+          "pt": "custam",
+          "en": "custam",
+          "ar": "custam"
+        }
+      ],
+      "answer": "custa",
+      "explanation": {
+        "pt": "'Quanto custa?' = How much does it cost? Com 'esta blusa' (singular): custa.",
+        "en": "'Quanto custa?' = How much does it cost? With 'esta blusa' (singular): custa.",
+        "ar": "'Quanto custa?' = كم يكلف؟ مع 'esta blusa' (مفرد): custa."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "A blusa custa cem reais e tem vinte por cento de ___.",
+        "en": "The blouse costs one hundred reais and has a twenty percent ___.",
+        "ar": "البلوزة تكلف مئة ريال ولها خصم عشرون بالمئة."
+      },
+      "options": [
+        {
+          "pt": "desconto",
+          "en": "desconto",
+          "ar": "desconto"
+        },
+        {
+          "pt": "preço",
+          "en": "preço",
+          "ar": "preço"
+        },
+        {
+          "pt": "troco",
+          "en": "troco",
+          "ar": "troco"
+        }
+      ],
+      "answer": "desconto",
+      "explanation": {
+        "pt": "Desconto = discount. Vinte por cento é o desconto.",
+        "en": "Desconto = discount. Twenty percent is the discount.",
+        "ar": "desconto = خصم. عشرون بالمئة هي الخصم."
+      }
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza: 'to pay'",
+        "en": "Translate: 'to pay'",
+        "ar": "ترجم: 'to pay'"
+      },
+      "options": [],
+      "answer": "pagar",
+      "explanation": {
+        "pt": "'Pagar' = to pay.",
+        "en": "'Pagar' = to pay.",
+        "ar": "'pagar' تعني يدفع."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "esta",
+          "en": "esta",
+          "ar": "esta"
+        },
+        {
+          "pt": "experimentar",
+          "en": "experimentar",
+          "ar": "experimentar"
+        },
+        {
+          "pt": "dia!",
+          "en": "dia!",
+          "ar": "dia!"
+        },
+        {
+          "pt": "Bom",
+          "en": "Bom",
+          "ar": "Bom"
+        },
+        {
+          "pt": "Quer",
+          "en": "Quer",
+          "ar": "Quer"
+        },
+        {
+          "pt": "camisa?",
+          "en": "camisa?",
+          "ar": "camisa?"
+        }
+      ],
+      "answer": "Bom dia! Quer experimentar esta camisa?",
+      "accepted": [
+        "Bom dia! Quer experimentar esta camisa?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Bom dia! Quer experimentar esta camisa?'",
+        "en": "The correct order: 'Good morning! Would you like to try on this shirt?'",
+        "ar": "الترتيب الصحيح: 'صباح الخير! هل تريد تجربة هذا القميص؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o mercado",
+          "en": "cheap",
+          "ar": "o mercado"
+        },
+        {
+          "pt": "caro",
+          "en": "the store",
+          "ar": "caro"
+        },
+        {
+          "pt": "o dinheiro",
+          "en": "the money",
+          "ar": "o dinheiro"
+        },
+        {
+          "pt": "o preço",
+          "en": "the market",
+          "ar": "o preço"
+        },
+        {
+          "pt": "barato",
+          "en": "expensive",
+          "ar": "barato"
+        },
+        {
+          "pt": "a loja",
+          "en": "the price",
+          "ar": "a loja"
+        }
+      ],
+      "answer": "o mercado::cheap|caro::the store|o dinheiro::the money|o preço::the market|barato::expensive|a loja::the price",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim, aceito. Obrigado!",
+          "en": "Good morning! Would you like to try on this shirt?",
+          "ar": "عشرون بالمئة. هل تقبل البطاقة؟"
+        },
+        {
+          "pt": "Vinte por cento. Aceita cartão?",
+          "en": "Yes, I do. Thank you!",
+          "ar": "نعم، أقبل. شكرًا!"
+        },
+        {
+          "pt": "Bom dia! Quer experimentar esta camisa?",
+          "en": "Twenty percent. Do you accept card?",
+          "ar": "صباح الخير! هل تريد تجربة هذا القميص؟"
+        }
+      ],
+      "answer": "Bom dia! Quer experimentar esta camisa?",
+      "accepted": [],
+      "audio": "Bom dia! Quer experimentar esta camisa?",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia! Quer experimentar esta camisa?' — 'Good morning! Would you like to try on this shirt?'",
+        "en": "You heard: 'Bom dia! Quer experimentar esta camisa?' — 'Good morning! Would you like to try on this shirt?'",
+        "ar": "سمعت: 'Bom dia! Quer experimentar esta camisa?' — 'صباح الخير! هل تريد تجربة هذا القميص؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Vinte por cento. Aceita cartão?",
+          "en": "Twenty percent. Do you accept card?",
+          "ar": "نعم، أقبل. شكرًا!"
+        },
+        {
+          "pt": "Sim, aceito. Obrigado!",
+          "en": "Yes. How much does it cost?",
+          "ar": "عشرون بالمئة. هل تقبل البطاقة؟"
+        },
+        {
+          "pt": "Sim. Quanto custa?",
+          "en": "Yes, I do. Thank you!",
+          "ar": "نعم. كم سعره؟"
+        }
+      ],
+      "answer": "Sim. Quanto custa?",
+      "accepted": [],
+      "audio": "Sim. Quanto custa?",
+      "explanation": {
+        "pt": "Você ouviu: 'Sim. Quanto custa?' — 'Yes. How much does it cost?'",
+        "en": "You heard: 'Sim. Quanto custa?' — 'Yes. How much does it cost?'",
+        "ar": "سمعت: 'Sim. Quanto custa?' — 'نعم. كم سعره؟'"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Quanto custa ___ camisa?",
+        "en": "Quanto custa ___ camisa?",
+        "ar": "Quanto custa ___ camisa?"
+      },
+      "options": [
+        {
+          "pt": "esta",
+          "en": "esta",
+          "ar": "esta"
+        },
+        {
+          "pt": "preço",
+          "en": "preço",
+          "ar": "preço"
+        },
+        {
+          "pt": "Custa",
+          "en": "Custa",
+          "ar": "Custa"
+        }
+      ],
+      "answer": "esta",
+      "accepted": [],
+      "explanation": {
+        "pt": "A resposta é 'esta'. Frase completa: Quanto custa esta camisa?",
+        "en": "The answer is 'esta'. Full sentence: How much does this shirt cost?",
+        "ar": "الإجابة الصحيحة: 'esta'. الجملة كاملة: كم يكلف هذا القميص؟"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "esta",
+          "en": "esta",
+          "ar": "esta"
+        },
+        {
+          "pt": "dia!",
+          "en": "dia!",
+          "ar": "dia!"
+        },
+        {
+          "pt": "camisa?",
+          "en": "camisa?",
+          "ar": "camisa?"
+        },
+        {
+          "pt": "Quer",
+          "en": "Quer",
+          "ar": "Quer"
+        },
+        {
+          "pt": "experimentar",
+          "en": "experimentar",
+          "ar": "experimentar"
+        },
+        {
+          "pt": "Bom",
+          "en": "Bom",
+          "ar": "Bom"
+        }
+      ],
+      "answer": "Bom dia! Quer experimentar esta camisa?",
+      "accepted": [
+        "Bom dia! Quer experimentar esta camisa?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Bom dia! Quer experimentar esta camisa?'",
+        "en": "The correct order: 'Good morning! Would you like to try on this shirt?'",
+        "ar": "الترتيب الصحيح: 'صباح الخير! هل تريد تجربة هذا القميص؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "caro",
+          "en": "the price",
+          "ar": "caro"
+        },
+        {
+          "pt": "o mercado",
+          "en": "the store",
+          "ar": "o mercado"
+        },
+        {
+          "pt": "barato",
+          "en": "the market",
+          "ar": "barato"
+        },
+        {
+          "pt": "o preço",
+          "en": "cheap",
+          "ar": "o preço"
+        },
+        {
+          "pt": "o dinheiro",
+          "en": "expensive",
+          "ar": "o dinheiro"
+        },
+        {
+          "pt": "a loja",
+          "en": "the money",
+          "ar": "a loja"
+        }
+      ],
+      "answer": "caro::the price|o mercado::the store|barato::the market|o preço::cheap|o dinheiro::expensive|a loja::the money",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim. Quanto custa?",
+          "en": "Good morning! Would you like to try on this shirt?",
+          "ar": "صباح الخير! هل تريد تجربة هذا القميص؟"
+        },
+        {
+          "pt": "Sim, aceito. Obrigado!",
+          "en": "Yes, I do. Thank you!",
+          "ar": "نعم. كم سعره؟"
+        },
+        {
+          "pt": "Bom dia! Quer experimentar esta camisa?",
+          "en": "Yes. How much does it cost?",
+          "ar": "نعم، أقبل. شكرًا!"
+        }
+      ],
+      "answer": "Bom dia! Quer experimentar esta camisa?",
+      "accepted": [],
+      "audio": "Bom dia! Quer experimentar esta camisa?",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia! Quer experimentar esta camisa?' — 'Good morning! Would you like to try on this shirt?'",
+        "en": "You heard: 'Bom dia! Quer experimentar esta camisa?' — 'Good morning! Would you like to try on this shirt?'",
+        "ar": "سمعت: 'Bom dia! Quer experimentar esta camisa?' — 'صباح الخير! هل تريد تجربة هذا القميص؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim. Quanto custa?",
+          "en": "Yes. How much does it cost?",
+          "ar": "صباح الخير! هل تريد تجربة هذا القميص؟"
+        },
+        {
+          "pt": "Bom dia! Quer experimentar esta camisa?",
+          "en": "Good morning! Would you like to try on this shirt?",
+          "ar": "نعم. كم سعره؟"
+        },
+        {
+          "pt": "Que bom! Qual é o desconto?",
+          "en": "Great! What is the discount?",
+          "ar": "رائع! ما الخصم؟"
+        }
+      ],
+      "answer": "Sim. Quanto custa?",
+      "accepted": [],
+      "audio": "Sim. Quanto custa?",
+      "explanation": {
+        "pt": "Você ouviu: 'Sim. Quanto custa?' — 'Yes. How much does it cost?'",
+        "en": "You heard: 'Sim. Quanto custa?' — 'Yes. How much does it cost?'",
+        "ar": "سمعت: 'Sim. Quanto custa?' — 'نعم. كم سعره؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Bom",
+          "en": "Bom",
+          "ar": "Bom"
+        },
+        {
+          "pt": "camisa?",
+          "en": "camisa?",
+          "ar": "camisa?"
+        },
+        {
+          "pt": "esta",
+          "en": "esta",
+          "ar": "esta"
+        },
+        {
+          "pt": "Quer",
+          "en": "Quer",
+          "ar": "Quer"
+        },
+        {
+          "pt": "dia!",
+          "en": "dia!",
+          "ar": "dia!"
+        },
+        {
+          "pt": "experimentar",
+          "en": "experimentar",
+          "ar": "experimentar"
+        }
+      ],
+      "answer": "Bom dia! Quer experimentar esta camisa?",
+      "accepted": [
+        "Bom dia! Quer experimentar esta camisa?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Bom dia! Quer experimentar esta camisa?'",
+        "en": "The correct order: 'Good morning! Would you like to try on this shirt?'",
+        "ar": "الترتيب الصحيح: 'صباح الخير! هل تريد تجربة هذا القميص؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a loja",
+          "en": "the market",
+          "ar": "a loja"
+        },
+        {
+          "pt": "o dinheiro",
+          "en": "the money",
+          "ar": "o dinheiro"
+        },
+        {
+          "pt": "barato",
+          "en": "the price",
+          "ar": "barato"
+        },
+        {
+          "pt": "caro",
+          "en": "expensive",
+          "ar": "caro"
+        },
+        {
+          "pt": "o preço",
+          "en": "cheap",
+          "ar": "o preço"
+        },
+        {
+          "pt": "o mercado",
+          "en": "the store",
+          "ar": "o mercado"
+        }
+      ],
+      "answer": "a loja::the market|o dinheiro::the money|barato::the price|caro::expensive|o preço::cheap|o mercado::the store",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim, aceito. Obrigado!",
+          "en": "Yes. How much does it cost?",
+          "ar": "نعم، أقبل. شكرًا!"
+        },
+        {
+          "pt": "Sim. Quanto custa?",
+          "en": "Yes, I do. Thank you!",
+          "ar": "صباح الخير! هل تريد تجربة هذا القميص؟"
+        },
+        {
+          "pt": "Bom dia! Quer experimentar esta camisa?",
+          "en": "Good morning! Would you like to try on this shirt?",
+          "ar": "نعم. كم سعره؟"
+        }
+      ],
+      "answer": "Bom dia! Quer experimentar esta camisa?",
+      "accepted": [],
+      "audio": "Bom dia! Quer experimentar esta camisa?",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia! Quer experimentar esta camisa?' — 'Good morning! Would you like to try on this shirt?'",
+        "en": "You heard: 'Bom dia! Quer experimentar esta camisa?' — 'Good morning! Would you like to try on this shirt?'",
+        "ar": "سمعت: 'Bom dia! Quer experimentar esta camisa?' — 'صباح الخير! هل تريد تجربة هذا القميص؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Bom dia! Quer experimentar esta camisa?",
+          "en": "Yes, I do. Thank you!",
+          "ar": "نعم. كم سعره؟"
+        },
+        {
+          "pt": "Sim. Quanto custa?",
+          "en": "Good morning! Would you like to try on this shirt?",
+          "ar": "صباح الخير! هل تريد تجربة هذا القميص؟"
+        },
+        {
+          "pt": "Sim, aceito. Obrigado!",
+          "en": "Yes. How much does it cost?",
+          "ar": "نعم، أقبل. شكرًا!"
+        }
+      ],
+      "answer": "Sim. Quanto custa?",
+      "accepted": [],
+      "audio": "Sim. Quanto custa?",
+      "explanation": {
+        "pt": "Você ouviu: 'Sim. Quanto custa?' — 'Yes. How much does it cost?'",
+        "en": "You heard: 'Sim. Quanto custa?' — 'Yes. How much does it cost?'",
+        "ar": "سمعت: 'Sim. Quanto custa?' — 'نعم. كم سعره؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "camisa?",
+          "en": "camisa?",
+          "ar": "camisa?"
+        },
+        {
+          "pt": "esta",
+          "en": "esta",
+          "ar": "esta"
+        },
+        {
+          "pt": "dia!",
+          "en": "dia!",
+          "ar": "dia!"
+        },
+        {
+          "pt": "Quer",
+          "en": "Quer",
+          "ar": "Quer"
+        },
+        {
+          "pt": "Bom",
+          "en": "Bom",
+          "ar": "Bom"
+        },
+        {
+          "pt": "experimentar",
+          "en": "experimentar",
+          "ar": "experimentar"
+        }
+      ],
+      "answer": "Bom dia! Quer experimentar esta camisa?",
+      "accepted": [
+        "Bom dia! Quer experimentar esta camisa?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Bom dia! Quer experimentar esta camisa?'",
+        "en": "The correct order: 'Good morning! Would you like to try on this shirt?'",
+        "ar": "الترتيب الصحيح: 'صباح الخير! هل تريد تجربة هذا القميص؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "barato",
+          "en": "the store",
+          "ar": "barato"
+        },
+        {
+          "pt": "a loja",
+          "en": "the price",
+          "ar": "a loja"
+        },
+        {
+          "pt": "o preço",
+          "en": "the market",
+          "ar": "o preço"
+        },
+        {
+          "pt": "o mercado",
+          "en": "expensive",
+          "ar": "o mercado"
+        },
+        {
+          "pt": "o dinheiro",
+          "en": "the money",
+          "ar": "o dinheiro"
+        },
+        {
+          "pt": "caro",
+          "en": "cheap",
+          "ar": "caro"
+        }
+      ],
+      "answer": "barato::the store|a loja::the price|o preço::the market|o mercado::expensive|o dinheiro::the money|caro::cheap",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim, aceito. Obrigado!",
+          "en": "Yes, I do. Thank you!",
+          "ar": "نعم. كم سعره؟"
+        },
+        {
+          "pt": "Bom dia! Quer experimentar esta camisa?",
+          "en": "Good morning! Would you like to try on this shirt?",
+          "ar": "نعم، أقبل. شكرًا!"
+        },
+        {
+          "pt": "Sim. Quanto custa?",
+          "en": "Yes. How much does it cost?",
+          "ar": "صباح الخير! هل تريد تجربة هذا القميص؟"
+        }
+      ],
+      "answer": "Bom dia! Quer experimentar esta camisa?",
+      "accepted": [],
+      "audio": "Bom dia! Quer experimentar esta camisa?",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia! Quer experimentar esta camisa?' — 'Good morning! Would you like to try on this shirt?'",
+        "en": "You heard: 'Bom dia! Quer experimentar esta camisa?' — 'Good morning! Would you like to try on this shirt?'",
+        "ar": "سمعت: 'Bom dia! Quer experimentar esta camisa?' — 'صباح الخير! هل تريد تجربة هذا القميص؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim. Quanto custa?",
+          "en": "Yes. How much does it cost?",
+          "ar": "صباح الخير! هل تريد تجربة هذا القميص؟"
+        },
+        {
+          "pt": "Vinte por cento. Aceita cartão?",
+          "en": "Twenty percent. Do you accept card?",
+          "ar": "نعم. كم سعره؟"
+        },
+        {
+          "pt": "Bom dia! Quer experimentar esta camisa?",
+          "en": "Good morning! Would you like to try on this shirt?",
+          "ar": "عشرون بالمئة. هل تقبل البطاقة؟"
+        }
+      ],
+      "answer": "Sim. Quanto custa?",
+      "accepted": [],
+      "audio": "Sim. Quanto custa?",
+      "explanation": {
+        "pt": "Você ouviu: 'Sim. Quanto custa?' — 'Yes. How much does it cost?'",
+        "en": "You heard: 'Sim. Quanto custa?' — 'Yes. How much does it cost?'",
+        "ar": "سمعت: 'Sim. Quanto custa?' — 'نعم. كم سعره؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "esta",
+          "en": "esta",
+          "ar": "esta"
+        },
+        {
+          "pt": "dia!",
+          "en": "dia!",
+          "ar": "dia!"
+        },
+        {
+          "pt": "Bom",
+          "en": "Bom",
+          "ar": "Bom"
+        },
+        {
+          "pt": "experimentar",
+          "en": "experimentar",
+          "ar": "experimentar"
+        },
+        {
+          "pt": "camisa?",
+          "en": "camisa?",
+          "ar": "camisa?"
+        },
+        {
+          "pt": "Quer",
+          "en": "Quer",
+          "ar": "Quer"
+        }
+      ],
+      "answer": "Bom dia! Quer experimentar esta camisa?",
+      "accepted": [
+        "Bom dia! Quer experimentar esta camisa?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Bom dia! Quer experimentar esta camisa?'",
+        "en": "The correct order: 'Good morning! Would you like to try on this shirt?'",
+        "ar": "الترتيب الصحيح: 'صباح الخير! هل تريد تجربة هذا القميص؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o mercado",
+          "en": "expensive",
+          "ar": "o mercado"
+        },
+        {
+          "pt": "a loja",
+          "en": "the price",
+          "ar": "a loja"
+        },
+        {
+          "pt": "caro",
+          "en": "the market",
+          "ar": "caro"
+        },
+        {
+          "pt": "o preço",
+          "en": "the money",
+          "ar": "o preço"
+        },
+        {
+          "pt": "o dinheiro",
+          "en": "cheap",
+          "ar": "o dinheiro"
+        },
+        {
+          "pt": "barato",
+          "en": "the store",
+          "ar": "barato"
+        }
+      ],
+      "answer": "o mercado::expensive|a loja::the price|caro::the market|o preço::the money|o dinheiro::cheap|barato::the store",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Bom dia! Quer experimentar esta camisa?",
+          "en": "It costs eighty reais, but it is on sale: sixty.",
+          "ar": "صباح الخير! هل تريد تجربة هذا القميص؟"
+        },
+        {
+          "pt": "Custa oitenta reais, mas está em promoção: sessenta.",
+          "en": "Yes, I do. Thank you!",
+          "ar": "سعره ثمانون ريالًا، لكنه في تخفيض: ستون."
+        },
+        {
+          "pt": "Sim, aceito. Obrigado!",
+          "en": "Good morning! Would you like to try on this shirt?",
+          "ar": "نعم، أقبل. شكرًا!"
+        }
+      ],
+      "answer": "Bom dia! Quer experimentar esta camisa?",
+      "accepted": [],
+      "audio": "Bom dia! Quer experimentar esta camisa?",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia! Quer experimentar esta camisa?' — 'Good morning! Would you like to try on this shirt?'",
+        "en": "You heard: 'Bom dia! Quer experimentar esta camisa?' — 'Good morning! Would you like to try on this shirt?'",
+        "ar": "سمعت: 'Bom dia! Quer experimentar esta camisa?' — 'صباح الخير! هل تريد تجربة هذا القميص؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim. Quanto custa?",
+          "en": "Yes, I do. Thank you!",
+          "ar": "نعم، أقبل. شكرًا!"
+        },
+        {
+          "pt": "Bom dia! Quer experimentar esta camisa?",
+          "en": "Yes. How much does it cost?",
+          "ar": "نعم. كم سعره؟"
+        },
+        {
+          "pt": "Sim, aceito. Obrigado!",
+          "en": "Good morning! Would you like to try on this shirt?",
+          "ar": "صباح الخير! هل تريد تجربة هذا القميص؟"
+        }
+      ],
+      "answer": "Sim. Quanto custa?",
+      "accepted": [],
+      "audio": "Sim. Quanto custa?",
+      "explanation": {
+        "pt": "Você ouviu: 'Sim. Quanto custa?' — 'Yes. How much does it cost?'",
+        "en": "You heard: 'Sim. Quanto custa?' — 'Yes. How much does it cost?'",
+        "ar": "سمعت: 'Sim. Quanto custa?' — 'نعم. كم سعره؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "dia!",
+          "en": "dia!",
+          "ar": "dia!"
+        },
+        {
+          "pt": "camisa?",
+          "en": "camisa?",
+          "ar": "camisa?"
+        },
+        {
+          "pt": "Bom",
+          "en": "Bom",
+          "ar": "Bom"
+        },
+        {
+          "pt": "esta",
+          "en": "esta",
+          "ar": "esta"
+        },
+        {
+          "pt": "Quer",
+          "en": "Quer",
+          "ar": "Quer"
+        },
+        {
+          "pt": "experimentar",
+          "en": "experimentar",
+          "ar": "experimentar"
+        }
+      ],
+      "answer": "Bom dia! Quer experimentar esta camisa?",
+      "accepted": [
+        "Bom dia! Quer experimentar esta camisa?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Bom dia! Quer experimentar esta camisa?'",
+        "en": "The correct order: 'Good morning! Would you like to try on this shirt?'",
+        "ar": "الترتيب الصحيح: 'صباح الخير! هل تريد تجربة هذا القميص؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o mercado",
+          "en": "the money",
+          "ar": "o mercado"
+        },
+        {
+          "pt": "a loja",
+          "en": "the store",
+          "ar": "a loja"
+        },
+        {
+          "pt": "caro",
+          "en": "the price",
+          "ar": "caro"
+        },
+        {
+          "pt": "o dinheiro",
+          "en": "cheap",
+          "ar": "o dinheiro"
+        },
+        {
+          "pt": "barato",
+          "en": "the market",
+          "ar": "barato"
+        },
+        {
+          "pt": "o preço",
+          "en": "expensive",
+          "ar": "o preço"
+        }
+      ],
+      "answer": "o mercado::the money|a loja::the store|caro::the price|o dinheiro::cheap|barato::the market|o preço::expensive",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Custa oitenta reais, mas está em promoção: sessenta.",
+          "en": "Twenty percent. Do you accept card?",
+          "ar": "عشرون بالمئة. هل تقبل البطاقة؟"
+        },
+        {
+          "pt": "Vinte por cento. Aceita cartão?",
+          "en": "Good morning! Would you like to try on this shirt?",
+          "ar": "صباح الخير! هل تريد تجربة هذا القميص؟"
+        },
+        {
+          "pt": "Bom dia! Quer experimentar esta camisa?",
+          "en": "It costs eighty reais, but it is on sale: sixty.",
+          "ar": "سعره ثمانون ريالًا، لكنه في تخفيض: ستون."
+        }
+      ],
+      "answer": "Bom dia! Quer experimentar esta camisa?",
+      "accepted": [],
+      "audio": "Bom dia! Quer experimentar esta camisa?",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia! Quer experimentar esta camisa?' — 'Good morning! Would you like to try on this shirt?'",
+        "en": "You heard: 'Bom dia! Quer experimentar esta camisa?' — 'Good morning! Would you like to try on this shirt?'",
+        "ar": "سمعت: 'Bom dia! Quer experimentar esta camisa?' — 'صباح الخير! هل تريد تجربة هذا القميص؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Custa oitenta reais, mas está em promoção: sessenta.",
+          "en": "It costs eighty reais, but it is on sale: sixty.",
+          "ar": "نعم. كم سعره؟"
+        },
+        {
+          "pt": "Sim. Quanto custa?",
+          "en": "Great! What is the discount?",
+          "ar": "سعره ثمانون ريالًا، لكنه في تخفيض: ستون."
+        },
+        {
+          "pt": "Que bom! Qual é o desconto?",
+          "en": "Yes. How much does it cost?",
+          "ar": "رائع! ما الخصم؟"
+        }
+      ],
+      "answer": "Sim. Quanto custa?",
+      "accepted": [],
+      "audio": "Sim. Quanto custa?",
+      "explanation": {
+        "pt": "Você ouviu: 'Sim. Quanto custa?' — 'Yes. How much does it cost?'",
+        "en": "You heard: 'Sim. Quanto custa?' — 'Yes. How much does it cost?'",
+        "ar": "سمعت: 'Sim. Quanto custa?' — 'نعم. كم سعره؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "esta",
+          "en": "esta",
+          "ar": "esta"
+        },
+        {
+          "pt": "dia!",
+          "en": "dia!",
+          "ar": "dia!"
+        },
+        {
+          "pt": "Quer",
+          "en": "Quer",
+          "ar": "Quer"
+        },
+        {
+          "pt": "experimentar",
+          "en": "experimentar",
+          "ar": "experimentar"
+        },
+        {
+          "pt": "Bom",
+          "en": "Bom",
+          "ar": "Bom"
+        },
+        {
+          "pt": "camisa?",
+          "en": "camisa?",
+          "ar": "camisa?"
+        }
+      ],
+      "answer": "Bom dia! Quer experimentar esta camisa?",
+      "accepted": [
+        "Bom dia! Quer experimentar esta camisa?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Bom dia! Quer experimentar esta camisa?'",
+        "en": "The correct order: 'Good morning! Would you like to try on this shirt?'",
+        "ar": "الترتيب الصحيح: 'صباح الخير! هل تريد تجربة هذا القميص؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "barato",
+          "en": "the money",
+          "ar": "barato"
+        },
+        {
+          "pt": "a loja",
+          "en": "cheap",
+          "ar": "a loja"
+        },
+        {
+          "pt": "o dinheiro",
+          "en": "expensive",
+          "ar": "o dinheiro"
+        },
+        {
+          "pt": "caro",
+          "en": "the store",
+          "ar": "caro"
+        },
+        {
+          "pt": "o preço",
+          "en": "the price",
+          "ar": "o preço"
+        },
+        {
+          "pt": "o mercado",
+          "en": "the market",
+          "ar": "o mercado"
+        }
+      ],
+      "answer": "barato::the money|a loja::cheap|o dinheiro::expensive|caro::the store|o preço::the price|o mercado::the market",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Bom dia! Quer experimentar esta camisa?",
+          "en": "Twenty percent. Do you accept card?",
+          "ar": "صباح الخير! هل تريد تجربة هذا القميص؟"
+        },
+        {
+          "pt": "Vinte por cento. Aceita cartão?",
+          "en": "Yes, I do. Thank you!",
+          "ar": "نعم، أقبل. شكرًا!"
+        },
+        {
+          "pt": "Sim, aceito. Obrigado!",
+          "en": "Good morning! Would you like to try on this shirt?",
+          "ar": "عشرون بالمئة. هل تقبل البطاقة؟"
+        }
+      ],
+      "answer": "Bom dia! Quer experimentar esta camisa?",
+      "accepted": [],
+      "audio": "Bom dia! Quer experimentar esta camisa?",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia! Quer experimentar esta camisa?' — 'Good morning! Would you like to try on this shirt?'",
+        "en": "You heard: 'Bom dia! Quer experimentar esta camisa?' — 'Good morning! Would you like to try on this shirt?'",
+        "ar": "سمعت: 'Bom dia! Quer experimentar esta camisa?' — 'صباح الخير! هل تريد تجربة هذا القميص؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim. Quanto custa?",
+          "en": "Good morning! Would you like to try on this shirt?",
+          "ar": "نعم، أقبل. شكرًا!"
+        },
+        {
+          "pt": "Sim, aceito. Obrigado!",
+          "en": "Yes, I do. Thank you!",
+          "ar": "نعم. كم سعره؟"
+        },
+        {
+          "pt": "Bom dia! Quer experimentar esta camisa?",
+          "en": "Yes. How much does it cost?",
+          "ar": "صباح الخير! هل تريد تجربة هذا القميص؟"
+        }
+      ],
+      "answer": "Sim. Quanto custa?",
+      "accepted": [],
+      "audio": "Sim. Quanto custa?",
+      "explanation": {
+        "pt": "Você ouviu: 'Sim. Quanto custa?' — 'Yes. How much does it cost?'",
+        "en": "You heard: 'Sim. Quanto custa?' — 'Yes. How much does it cost?'",
+        "ar": "سمعت: 'Sim. Quanto custa?' — 'نعم. كم سعره؟'"
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'the money'",
+        "en": "Type in Portuguese: 'the money'",
+        "ar": "اكتب بالبرتغالية: 'المال'"
+      },
+      "options": [],
+      "answer": "o dinheiro",
+      "accepted": [
+        "o dinheiro"
+      ],
+      "explanation": {
+        "pt": "'o dinheiro' significa 'the money'.",
+        "en": "'o dinheiro' means 'the money'.",
+        "ar": "'$o dinheiro' بالعربية: '$المال'."
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'the price'",
+        "en": "Type in Portuguese: 'the price'",
+        "ar": "اكتب بالبرتغالية: 'السعر'"
+      },
+      "options": [],
+      "answer": "o preço",
+      "accepted": [
+        "o preço"
+      ],
+      "explanation": {
+        "pt": "'o preço' significa 'the price'.",
+        "en": "'o preço' means 'the price'.",
+        "ar": "'$o preço' بالعربية: '$السعر'."
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Sim, aceito. Obrigado!",
+          "en": "Sim, aceito. Obrigado!",
+          "ar": "Sim, aceito. Obrigado!"
+        },
+        {
+          "pt": "Custa oitenta reais, mas está em promoção: sessenta.",
+          "en": "Custa oitenta reais, mas está em promoção: sessenta.",
+          "ar": "Custa oitenta reais, mas está em promoção: sessenta."
+        },
+        {
+          "pt": "Bom dia! Quer experimentar esta camisa?",
+          "en": "Bom dia! Quer experimentar esta camisa?",
+          "ar": "Bom dia! Quer experimentar esta camisa?"
+        }
+      ],
+      "answer": "Bom dia! Quer experimentar esta camisa?",
+      "accepted": [],
+      "audio": "Bom dia! Quer experimentar esta camisa?",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia! Quer experimentar esta camisa?'",
+        "en": "You heard: 'Bom dia! Quer experimentar esta camisa?'",
+        "ar": "سمعت: 'Bom dia! Quer experimentar esta camisa?'"
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Vinte por cento. Aceita cartão?",
+          "en": "Vinte por cento. Aceita cartão?",
+          "ar": "Vinte por cento. Aceita cartão?"
+        },
+        {
+          "pt": "Sim, aceito. Obrigado!",
+          "en": "Sim, aceito. Obrigado!",
+          "ar": "Sim, aceito. Obrigado!"
+        },
+        {
+          "pt": "Sim. Quanto custa?",
+          "en": "Sim. Quanto custa?",
+          "ar": "Sim. Quanto custa?"
+        }
+      ],
+      "answer": "Sim. Quanto custa?",
+      "accepted": [],
+      "audio": "Sim. Quanto custa?",
+      "explanation": {
+        "pt": "Você ouviu: 'Sim. Quanto custa?'",
+        "en": "You heard: 'Sim. Quanto custa?'",
+        "ar": "سمعت: 'Sim. Quanto custa?'"
+      }
+    },
+    {
+      "type": "dictation",
+      "prompt": {
+        "pt": "Ouça e escreva o que você ouviu.",
+        "en": "Listen and type what you hear.",
+        "ar": "استمع واكتب ما سمعته."
+      },
+      "options": [],
+      "answer": "Bom dia! Quer experimentar esta camisa?",
+      "accepted": [],
+      "audio": "Bom dia! Quer experimentar esta camisa?",
+      "explanation": {
+        "pt": "A frase correta: 'Bom dia! Quer experimentar esta camisa?'",
+        "en": "The correct sentence: 'Bom dia! Quer experimentar esta camisa?'",
+        "ar": "الجملة الصحيحة: 'Bom dia! Quer experimentar esta camisa?'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "experimentar",
+          "en": "experimentar",
+          "ar": "experimentar"
+        },
+        {
+          "pt": "esta",
+          "en": "esta",
+          "ar": "esta"
+        },
+        {
+          "pt": "dia!",
+          "en": "dia!",
+          "ar": "dia!"
+        },
+        {
+          "pt": "camisa?",
+          "en": "camisa?",
+          "ar": "camisa?"
+        },
+        {
+          "pt": "Quer",
+          "en": "Quer",
+          "ar": "Quer"
+        },
+        {
+          "pt": "Bom",
+          "en": "Bom",
+          "ar": "Bom"
+        }
+      ],
+      "answer": "Bom dia! Quer experimentar esta camisa?",
+      "accepted": [
+        "Bom dia! Quer experimentar esta camisa?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Bom dia! Quer experimentar esta camisa?'",
+        "en": "The correct order: 'Good morning! Would you like to try on this shirt?'",
+        "ar": "الترتيب الصحيح: 'صباح الخير! هل تريد تجربة هذا القميص؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "barato",
+          "en": "the money",
+          "ar": "barato"
+        },
+        {
+          "pt": "o dinheiro",
+          "en": "the price",
+          "ar": "o dinheiro"
+        },
+        {
+          "pt": "o preço",
+          "en": "the market",
+          "ar": "o preço"
+        },
+        {
+          "pt": "o mercado",
+          "en": "the store",
+          "ar": "o mercado"
+        },
+        {
+          "pt": "a loja",
+          "en": "cheap",
+          "ar": "a loja"
+        },
+        {
+          "pt": "caro",
+          "en": "expensive",
+          "ar": "caro"
+        }
+      ],
+      "answer": "barato::the money|o dinheiro::the price|o preço::the market|o mercado::the store|a loja::cheap|caro::expensive",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Vinte por cento. Aceita cartão?",
+          "en": "Twenty percent. Do you accept card?",
+          "ar": "عشرون بالمئة. هل تقبل البطاقة؟"
+        },
+        {
+          "pt": "Bom dia! Quer experimentar esta camisa?",
+          "en": "It costs eighty reais, but it is on sale: sixty.",
+          "ar": "صباح الخير! هل تريد تجربة هذا القميص؟"
+        },
+        {
+          "pt": "Custa oitenta reais, mas está em promoção: sessenta.",
+          "en": "Good morning! Would you like to try on this shirt?",
+          "ar": "سعره ثمانون ريالًا، لكنه في تخفيض: ستون."
+        }
+      ],
+      "answer": "Bom dia! Quer experimentar esta camisa?",
+      "accepted": [],
+      "audio": "Bom dia! Quer experimentar esta camisa?",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia! Quer experimentar esta camisa?' — 'Good morning! Would you like to try on this shirt?'",
+        "en": "You heard: 'Bom dia! Quer experimentar esta camisa?' — 'Good morning! Would you like to try on this shirt?'",
+        "ar": "سمعت: 'Bom dia! Quer experimentar esta camisa?' — 'صباح الخير! هل تريد تجربة هذا القميص؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim. Quanto custa?",
+          "en": "Great! What is the discount?",
+          "ar": "نعم. كم سعره؟"
+        },
+        {
+          "pt": "Que bom! Qual é o desconto?",
+          "en": "Yes, I do. Thank you!",
+          "ar": "نعم، أقبل. شكرًا!"
+        },
+        {
+          "pt": "Sim, aceito. Obrigado!",
+          "en": "Yes. How much does it cost?",
+          "ar": "رائع! ما الخصم؟"
+        }
+      ],
+      "answer": "Sim. Quanto custa?",
+      "accepted": [],
+      "audio": "Sim. Quanto custa?",
+      "explanation": {
+        "pt": "Você ouviu: 'Sim. Quanto custa?' — 'Yes. How much does it cost?'",
+        "en": "You heard: 'Sim. Quanto custa?' — 'Yes. How much does it cost?'",
+        "ar": "سمعت: 'Sim. Quanto custa?' — 'نعم. كم سعره؟'"
+      }
+    }
+  ],
+  "speaking": {
+    "title": {
+      "pt": "Fale Agora — Ouça e Repita",
+      "en": "Speak Now — Listen and Repeat",
+      "ar": "تحدث الآن — استمع وكرر"
+    },
+    "phrases": [
+      {
+        "pt": "Bom dia! Quer experimentar esta camisa?",
+        "en": "Good morning! Would you like to try on this shirt?",
+        "ar": "صباح الخير! هل تريد تجربة هذا القميص؟"
+      },
+      {
+        "pt": "Sim. Quanto custa?",
+        "en": "Yes. How much does it cost?",
+        "ar": "نعم. كم سعره؟"
+      },
+      {
+        "pt": "Custa oitenta reais, mas está em promoção: sessenta.",
+        "en": "It costs eighty reais, but it is on sale: sixty.",
+        "ar": "سعره ثمانون ريالًا، لكنه في تخفيض: ستون."
+      },
+      {
+        "pt": "Que bom! Qual é o desconto?",
+        "en": "Great! What is the discount?",
+        "ar": "رائع! ما الخصم؟"
+      },
+      {
+        "pt": "Vinte por cento. Aceita cartão?",
+        "en": "Twenty percent. Do you accept card?",
+        "ar": "عشرون بالمئة. هل تقبل البطاقة؟"
+      },
+      {
+        "pt": "Sim, aceito. Obrigado!",
+        "en": "Yes, I do. Thank you!",
+        "ar": "نعم، أقبل. شكرًا!"
+      },
+      {
+        "pt": "o dinheiro",
+        "en": "the money",
+        "ar": "المال"
+      },
+      {
+        "pt": "o preço",
+        "en": "the price",
+        "ar": "السعر"
+      },
+      {
+        "pt": "barato",
+        "en": "cheap",
+        "ar": "رخيص"
+      }
+    ]
+  },
+  "cultural_tips": {
+    "pt": "",
+    "en": "",
+    "ar": ""
+  }
+}

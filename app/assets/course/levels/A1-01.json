@@ -1,0 +1,1887 @@
+{
+  "id": "A1-01",
+  "level": "A1",
+  "level_name": {
+    "pt": "Iniciante",
+    "en": "Beginner",
+    "ar": "مبتدئ"
+  },
+  "title": {
+    "pt": "O Alfabeto e a Pronúncia",
+    "en": "The Alphabet and Pronunciation",
+    "ar": "الأبجدية والنطق"
+  },
+  "objectives": [
+    {
+      "pt": "Reconhecer e pronunciar o alfabeto português",
+      "en": "Recognize and pronounce the Portuguese alphabet",
+      "ar": "التعرف على الأبجدية البرتغالية ونطقها"
+    },
+    {
+      "pt": "Distinguir vogais abertas e fechadas",
+      "en": "Distinguish open and closed vowels",
+      "ar": "التمييز بين الحركات المفتوحة والمغلقة"
+    },
+    {
+      "pt": "Identificar os sons nasais básicos",
+      "en": "Identify basic nasal sounds",
+      "ar": "التعرف على الأصوات الأنفية الأساسية"
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "a letra",
+      "ipa": "/a ˈlɛ.tɾa/",
+      "en": "the letter",
+      "ar": "الحرف",
+      "example": {
+        "pt": "Bom dia! Vamos aprender o alfabeto.",
+        "en": "Good morning! Let's learn the alphabet.",
+        "ar": "صباح الخير! دعونا نتعلم الأبجدية."
+      }
+    },
+    {
+      "pt": "o som",
+      "ipa": "/u sõw/",
+      "en": "the sound",
+      "ar": "الصوت",
+      "example": {
+        "pt": "Bom dia! Vamos aprender o alfabeto.",
+        "en": "Good morning! Let's learn the alphabet.",
+        "ar": "صباح الخير! دعونا نتعلم الأبجدية."
+      }
+    },
+    {
+      "pt": "a vogal",
+      "ipa": "/a voˈɡaw/",
+      "en": "the vowel",
+      "ar": "حرف العلة",
+      "example": {
+        "pt": "Bom dia! Vamos aprender o alfabeto.",
+        "en": "Good morning! Let's learn the alphabet.",
+        "ar": "صباح الخير! دعونا نتعلم الأبجدية."
+      }
+    },
+    {
+      "pt": "a consoante",
+      "ipa": "/a kõ.soˈɐ̃.tʃi/",
+      "en": "the consonant",
+      "ar": "الحرف الساكن",
+      "example": {
+        "pt": "Bom dia! Vamos aprender o alfabeto.",
+        "en": "Good morning! Let's learn the alphabet.",
+        "ar": "صباح الخير! دعونا نتعلم الأبجدية."
+      }
+    },
+    {
+      "pt": "o acento",
+      "ipa": "/u aˈsẽ.tu/",
+      "en": "the accent",
+      "ar": "علامة التشكيل",
+      "example": {
+        "pt": "Bom dia! Vamos aprender o alfabeto.",
+        "en": "Good morning! Let's learn the alphabet.",
+        "ar": "صباح الخير! دعونا نتعلم الأبجدية."
+      }
+    },
+    {
+      "pt": "a pronúncia",
+      "ipa": "/a pɾoˈnũ.si.a/",
+      "en": "the pronunciation",
+      "ar": "النطق",
+      "example": {
+        "pt": "Bom dia! Vamos aprender o alfabeto.",
+        "en": "Good morning! Let's learn the alphabet.",
+        "ar": "صباح الخير! دعونا نتعلم الأبجدية."
+      }
+    },
+    {
+      "pt": "o alfabeto",
+      "ipa": "/u aw.faˈbɛ.tu/",
+      "en": "the alphabet",
+      "ar": "الأبجدية",
+      "example": {
+        "pt": "Bom dia! Vamos aprender o alfabeto.",
+        "en": "Good morning! Let's learn the alphabet.",
+        "ar": "صباح الخير! دعونا نتعلم الأبجدية."
+      }
+    },
+    {
+      "pt": "o exemplo",
+      "ipa": "/u eˈzẽ.plu/",
+      "en": "the example",
+      "ar": "المثال",
+      "example": {
+        "pt": "Bom dia! Vamos aprender o alfabeto.",
+        "en": "Good morning! Let's learn the alphabet.",
+        "ar": "صباح الخير! دعونا نتعلم الأبجدية."
+      }
+    },
+    {
+      "pt": "a palavra",
+      "ipa": "/a paˈla.vɾa/",
+      "en": "the word",
+      "ar": "الكلمة",
+      "example": {
+        "pt": "Bom dia! Vamos aprender o alfabeto.",
+        "en": "Good morning! Let's learn the alphabet.",
+        "ar": "صباح الخير! دعونا نتعلم الأبجدية."
+      }
+    },
+    {
+      "pt": "ler",
+      "ipa": "/leɾ/",
+      "en": "to read",
+      "ar": "يقرأ",
+      "example": {
+        "pt": "Muito bem! Agora vamos ler algumas palavras.",
+        "en": "Very good! Now let's read some words.",
+        "ar": "ممتاز! الآن دعونا نقرأ بعض الكلمات."
+      }
+    },
+    {
+      "pt": "escrever",
+      "ipa": "/is.kɾeˈveɾ/",
+      "en": "to write",
+      "ar": "يكتب",
+      "example": {
+        "pt": "Bom dia! Vamos aprender o alfabeto.",
+        "en": "Good morning! Let's learn the alphabet.",
+        "ar": "صباح الخير! دعونا نتعلم الأبجدية."
+      }
+    },
+    {
+      "pt": "falar",
+      "ipa": "/faˈlaɾ/",
+      "en": "to speak",
+      "ar": "يتكلم",
+      "example": {
+        "pt": "Bom dia! Vamos aprender o alfabeto.",
+        "en": "Good morning! Let's learn the alphabet.",
+        "ar": "صباح الخير! دعونا نتعلم الأبجدية."
+      }
+    },
+    {
+      "pt": "ouvir",
+      "ipa": "/oˈviɾ/",
+      "en": "to listen",
+      "ar": "يستمع",
+      "example": {
+        "pt": "Bom dia! Vamos aprender o alfabeto.",
+        "en": "Good morning! Let's learn the alphabet.",
+        "ar": "صباح الخير! دعونا نتعلم الأبجدية."
+      }
+    },
+    {
+      "pt": "o nome",
+      "ipa": "/u ˈnõ.mi/",
+      "en": "the name",
+      "ar": "الاسم",
+      "example": {
+        "pt": "Bom dia! Vamos aprender o alfabeto.",
+        "en": "Good morning! Let's learn the alphabet.",
+        "ar": "صباح الخير! دعونا نتعلم الأبجدية."
+      }
+    },
+    {
+      "pt": "bom",
+      "ipa": "/bõw/",
+      "en": "good",
+      "ar": "جيد",
+      "example": {
+        "pt": "Bom dia! Vamos aprender o alfabeto.",
+        "en": "Good morning! Let's learn the alphabet.",
+        "ar": "صباح الخير! دعونا نتعلم الأبجدية."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "title": {
+        "pt": "As Vogais do Português",
+        "en": "Portuguese Vowels",
+        "ar": "حركات العلة في البرتغالية"
+      },
+      "explanation": {
+        "pt": "O português tem 5 letras vocálicas (A, E, I, O, U) mas mais sons: vogais abertas (é, ó), fechadas (ê, ô) e nasais (ã, õ). As vogais nasais são produzidas com o ar saindo pelo nariz.",
+        "en": "Portuguese has 5 vowel letters (A, E, I, O, U) but more sounds: open vowels (é, ó), closed vowels (ê, ô) and nasal vowels (ã, õ). Nasal vowels are produced with air escaping through the nose.",
+        "ar": "تحتوي البرتغالية على 5 حروف علّة (A, E, I, O, U) لكن أصواتًا أكثر: حركات مفتوحة (é, ó) ومغلقة (ê, ô) وأنفية (ã, õ). تنتج الحركات الأنفية مع خروج الهواء من الأنف."
+      },
+      "examples": [
+        {
+          "pt": "É aberta como em 'pé' (foot).",
+          "en": "É is open as in 'pé' (foot).",
+          "ar": "É حركة مفتوحة كما في 'pé' (قدم)."
+        },
+        {
+          "pt": "Ê fechada como em 'mês' (month).",
+          "en": "Ê is closed as in 'mês' (month).",
+          "ar": "Ê حركة مغلقة كما في 'mês' (شهر)."
+        },
+        {
+          "pt": "Ã nasal como em 'mãe' (mother).",
+          "en": "Ã is nasal as in 'mãe' (mother).",
+          "ar": "Ã حركة أنفية كما في 'mãe' (أم)."
+        }
+      ]
+    },
+    {
+      "title": {
+        "pt": "Sons Nasais",
+        "en": "Nasal Sounds",
+        "ar": "الأصوات الأنفية"
+      },
+      "explanation": {
+        "pt": "Os sons nasais são marcados por ~ (til) ou pelas letras m e n no fim da sílaba. Exemplos: 'pão' (bread), 'sim' (yes), 'bem' (well). O ar sai pelo nariz e pela boca ao mesmo tempo.",
+        "en": "Nasal sounds are marked by ~ (tilde) or by m and n at the end of a syllable. Examples: 'pão' (bread), 'sim' (yes), 'bem' (well). Air escapes through both nose and mouth at the same time.",
+        "ar": "تُميّز الأصوات الأنفية بعلامة ~ (tilde) أو بالحرفين m و n في نهاية المقطع. أمثلة: 'pão' (خبز)، 'sim' (نعم)، 'bem' (حسنًا). يخرج الهواء من الأنف والفم معًا في نفس الوقت."
+      },
+      "examples": [
+        {
+          "pt": "pão - bread",
+          "en": "pão - bread",
+          "ar": "pão - خبز"
+        },
+        {
+          "pt": "sim - yes",
+          "en": "sim - yes",
+          "ar": "sim - نعم"
+        },
+        {
+          "pt": "bem - well",
+          "en": "bem - well",
+          "ar": "bem - حسنًا"
+        }
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": {
+      "pt": "A Primeira Aula",
+      "en": "The First Class",
+      "ar": "الدرس الأول"
+    },
+    "lines": [
+      {
+        "speaker": "Professor",
+        "pt": "Bom dia! Vamos aprender o alfabeto.",
+        "en": "Good morning! Let's learn the alphabet.",
+        "ar": "صباح الخير! دعونا نتعلم الأبجدية."
+      },
+      {
+        "speaker": "Aluno",
+        "pt": "Bom dia, professor! É muito difícil?",
+        "en": "Good morning, professor! Is it very difficult?",
+        "ar": "صباح الخير يا أستاذ! هل هو صعب جدًا؟"
+      },
+      {
+        "speaker": "Professor",
+        "pt": "Não, é fácil. Escute e repita.",
+        "en": "No, it's easy. Listen and repeat.",
+        "ar": "لا، إنه سهل. استمع وكرر."
+      },
+      {
+        "speaker": "Aluno",
+        "pt": "A, B, C, D, E...",
+        "en": "A, B, C, D, E...",
+        "ar": "أ، ب، ج، د، هـ..."
+      },
+      {
+        "speaker": "Professor",
+        "pt": "Muito bem! Agora vamos ler algumas palavras.",
+        "en": "Very good! Now let's read some words.",
+        "ar": "ممتاز! الآن دعونا نقرأ بعض الكلمات."
+      }
+    ]
+  },
+  "reading": {
+    "title": {
+      "pt": "O Alfabeto",
+      "en": "The Alphabet",
+      "ar": "الأبجدية"
+    },
+    "text_pt": "O alfabeto português tem 26 letras. As vogais são A, E, I, O, U. As outras letras são consoantes. Alguns sons são nasais, como em 'pão' e 'mãe'. A pronúncia é muito importante para falar bem.",
+    "text_en": "The Portuguese alphabet has 26 letters. The vowels are A, E, I, O, U. The other letters are consonants. Some sounds are nasal, like in 'pão' (bread) and 'mãe' (mother). Pronunciation is very important to speak well.",
+    "text_ar": "تحتوي الأبجدية البرتغالية على 26 حرفًا. حركات العلة هي A, E, I, O, U. أما بقية الحروف فهي ساكنة. بعض الأصوات أنفية، مثل في 'pão' (خبز) و 'mãe' (أم). النطق مهم جدًا للتحدث جيدًا."
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra tem som nasal?",
+        "en": "Which word has a nasal sound?",
+        "ar": "أي كلمة تحتوي على صوت أنفي؟"
+      },
+      "options": [
+        {
+          "pt": "mãe",
+          "en": "mãe",
+          "ar": "mãe"
+        },
+        {
+          "pt": "pé",
+          "en": "pé",
+          "ar": "pé"
+        },
+        {
+          "pt": "vogal",
+          "en": "vogal",
+          "ar": "vogal"
+        }
+      ],
+      "answer": "mãe",
+      "explanation": {
+        "pt": "'mãe' tem o som nasal ã.",
+        "en": "'mãe' has the nasal sound ã.",
+        "ar": "تحتوي 'mãe' على الصوت الأنفي ã."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Quantas letras tem o alfabeto português?",
+        "en": "How many letters does the Portuguese alphabet have?",
+        "ar": "كم عدد حروف الأبجدية البرتغالية؟"
+      },
+      "options": [
+        {
+          "pt": "24",
+          "en": "24",
+          "ar": "24"
+        },
+        {
+          "pt": "26",
+          "en": "26",
+          "ar": "26"
+        },
+        {
+          "pt": "28",
+          "en": "28",
+          "ar": "28"
+        }
+      ],
+      "answer": "26",
+      "explanation": {
+        "pt": "O alfabeto tem 26 letras.",
+        "en": "The alphabet has 26 letters.",
+        "ar": "تحتوي الأبجدية على 26 حرفًا."
+      }
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Como se diz 'to speak' em português?",
+        "en": "How do you say 'to speak' in Portuguese?",
+        "ar": "كيف تقول 'to speak' بالبرتغالية؟"
+      },
+      "options": [],
+      "answer": "falar",
+      "explanation": {
+        "pt": "'falar' significa to speak.",
+        "en": "'falar' means to speak.",
+        "ar": "'falar' تعني يتكلم."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "aprender",
+          "en": "aprender",
+          "ar": "aprender"
+        },
+        {
+          "pt": "Bom",
+          "en": "Bom",
+          "ar": "Bom"
+        },
+        {
+          "pt": "alfabeto.",
+          "en": "alfabeto.",
+          "ar": "alfabeto."
+        },
+        {
+          "pt": "Vamos",
+          "en": "Vamos",
+          "ar": "Vamos"
+        },
+        {
+          "pt": "dia!",
+          "en": "dia!",
+          "ar": "dia!"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        }
+      ],
+      "answer": "Bom dia! Vamos aprender o alfabeto.",
+      "accepted": [
+        "Bom dia! Vamos aprender o alfabeto."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Bom dia! Vamos aprender o alfabeto.'",
+        "en": "The correct order: 'Good morning! Let's learn the alphabet.'",
+        "ar": "الترتيب الصحيح: 'صباح الخير! دعونا نتعلم الأبجدية.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a letra",
+          "en": "the accent",
+          "ar": "a letra"
+        },
+        {
+          "pt": "a consoante",
+          "en": "the pronunciation",
+          "ar": "a consoante"
+        },
+        {
+          "pt": "o acento",
+          "en": "the letter",
+          "ar": "o acento"
+        },
+        {
+          "pt": "a pronúncia",
+          "en": "the sound",
+          "ar": "a pronúncia"
+        },
+        {
+          "pt": "a vogal",
+          "en": "the consonant",
+          "ar": "a vogal"
+        },
+        {
+          "pt": "o som",
+          "en": "the vowel",
+          "ar": "o som"
+        }
+      ],
+      "answer": "a letra::the accent|a consoante::the pronunciation|o acento::the letter|a pronúncia::the sound|a vogal::the consonant|o som::the vowel",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "A, B, C, D, E...",
+          "en": "Good morning! Let's learn the alphabet.",
+          "ar": "أ، ب، ج، د، هـ..."
+        },
+        {
+          "pt": "Muito bem! Agora vamos ler algumas palavras.",
+          "en": "Very good! Now let's read some words.",
+          "ar": "ممتاز! الآن دعونا نقرأ بعض الكلمات."
+        },
+        {
+          "pt": "Bom dia! Vamos aprender o alfabeto.",
+          "en": "A, B, C, D, E...",
+          "ar": "صباح الخير! دعونا نتعلم الأبجدية."
+        }
+      ],
+      "answer": "Bom dia! Vamos aprender o alfabeto.",
+      "accepted": [],
+      "audio": "Bom dia! Vamos aprender o alfabeto.",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia! Vamos aprender o alfabeto.' — 'Good morning! Let's learn the alphabet.'",
+        "en": "You heard: 'Bom dia! Vamos aprender o alfabeto.' — 'Good morning! Let's learn the alphabet.'",
+        "ar": "سمعت: 'Bom dia! Vamos aprender o alfabeto.' — 'صباح الخير! دعونا نتعلم الأبجدية.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Não, é fácil. Escute e repita.",
+          "en": "No, it's easy. Listen and repeat.",
+          "ar": "صباح الخير يا أستاذ! هل هو صعب جدًا؟"
+        },
+        {
+          "pt": "Bom dia! Vamos aprender o alfabeto.",
+          "en": "Good morning! Let's learn the alphabet.",
+          "ar": "لا، إنه سهل. استمع وكرر."
+        },
+        {
+          "pt": "Bom dia, professor! É muito difícil?",
+          "en": "Good morning, professor! Is it very difficult?",
+          "ar": "صباح الخير! دعونا نتعلم الأبجدية."
+        }
+      ],
+      "answer": "Bom dia, professor! É muito difícil?",
+      "accepted": [],
+      "audio": "Bom dia, professor! É muito difícil?",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia, professor! É muito difícil?' — 'Good morning, professor! Is it very difficult?'",
+        "en": "You heard: 'Bom dia, professor! É muito difícil?' — 'Good morning, professor! Is it very difficult?'",
+        "ar": "سمعت: 'Bom dia, professor! É muito difícil?' — 'صباح الخير يا أستاذ! هل هو صعب جدًا؟'"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "É aberta como em ___ (foot).",
+        "en": "É aberta como em ___ (foot).",
+        "ar": "É aberta como em ___ (foot)."
+      },
+      "options": [
+        {
+          "pt": "'pé'",
+          "en": "'pé'",
+          "ar": "'pé'"
+        },
+        {
+          "pt": "fechada",
+          "en": "fechada",
+          "ar": "fechada"
+        },
+        {
+          "pt": "Ã",
+          "en": "Ã",
+          "ar": "Ã"
+        }
+      ],
+      "answer": "'pé'",
+      "accepted": [],
+      "explanation": {
+        "pt": "A resposta é ''pé''. Frase completa: É aberta como em 'pé' (foot).",
+        "en": "The answer is ''pé''. Full sentence: É is open as in 'pé' (foot).",
+        "ar": "الإجابة الصحيحة: ''pé''. الجملة كاملة: É حركة مفتوحة كما في 'pé' (قدم)."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "aprender",
+          "en": "aprender",
+          "ar": "aprender"
+        },
+        {
+          "pt": "dia!",
+          "en": "dia!",
+          "ar": "dia!"
+        },
+        {
+          "pt": "Vamos",
+          "en": "Vamos",
+          "ar": "Vamos"
+        },
+        {
+          "pt": "alfabeto.",
+          "en": "alfabeto.",
+          "ar": "alfabeto."
+        },
+        {
+          "pt": "Bom",
+          "en": "Bom",
+          "ar": "Bom"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        }
+      ],
+      "answer": "Bom dia! Vamos aprender o alfabeto.",
+      "accepted": [
+        "Bom dia! Vamos aprender o alfabeto."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Bom dia! Vamos aprender o alfabeto.'",
+        "en": "The correct order: 'Good morning! Let's learn the alphabet.'",
+        "ar": "الترتيب الصحيح: 'صباح الخير! دعونا نتعلم الأبجدية.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a consoante",
+          "en": "the sound",
+          "ar": "a consoante"
+        },
+        {
+          "pt": "a pronúncia",
+          "en": "the consonant",
+          "ar": "a pronúncia"
+        },
+        {
+          "pt": "a letra",
+          "en": "the letter",
+          "ar": "a letra"
+        },
+        {
+          "pt": "o acento",
+          "en": "the pronunciation",
+          "ar": "o acento"
+        },
+        {
+          "pt": "o som",
+          "en": "the accent",
+          "ar": "o som"
+        },
+        {
+          "pt": "a vogal",
+          "en": "the vowel",
+          "ar": "a vogal"
+        }
+      ],
+      "answer": "a consoante::the sound|a pronúncia::the consonant|a letra::the letter|o acento::the pronunciation|o som::the accent|a vogal::the vowel",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Bom dia! Vamos aprender o alfabeto.",
+          "en": "Very good! Now let's read some words.",
+          "ar": "ممتاز! الآن دعونا نقرأ بعض الكلمات."
+        },
+        {
+          "pt": "Muito bem! Agora vamos ler algumas palavras.",
+          "en": "Good morning! Let's learn the alphabet.",
+          "ar": "صباح الخير! دعونا نتعلم الأبجدية."
+        },
+        {
+          "pt": "Não, é fácil. Escute e repita.",
+          "en": "No, it's easy. Listen and repeat.",
+          "ar": "لا، إنه سهل. استمع وكرر."
+        }
+      ],
+      "answer": "Bom dia! Vamos aprender o alfabeto.",
+      "accepted": [],
+      "audio": "Bom dia! Vamos aprender o alfabeto.",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia! Vamos aprender o alfabeto.' — 'Good morning! Let's learn the alphabet.'",
+        "en": "You heard: 'Bom dia! Vamos aprender o alfabeto.' — 'Good morning! Let's learn the alphabet.'",
+        "ar": "سمعت: 'Bom dia! Vamos aprender o alfabeto.' — 'صباح الخير! دعونا نتعلم الأبجدية.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Bom dia, professor! É muito difícil?",
+          "en": "Very good! Now let's read some words.",
+          "ar": "ممتاز! الآن دعونا نقرأ بعض الكلمات."
+        },
+        {
+          "pt": "Não, é fácil. Escute e repita.",
+          "en": "No, it's easy. Listen and repeat.",
+          "ar": "صباح الخير يا أستاذ! هل هو صعب جدًا؟"
+        },
+        {
+          "pt": "Muito bem! Agora vamos ler algumas palavras.",
+          "en": "Good morning, professor! Is it very difficult?",
+          "ar": "لا، إنه سهل. استمع وكرر."
+        }
+      ],
+      "answer": "Bom dia, professor! É muito difícil?",
+      "accepted": [],
+      "audio": "Bom dia, professor! É muito difícil?",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia, professor! É muito difícil?' — 'Good morning, professor! Is it very difficult?'",
+        "en": "You heard: 'Bom dia, professor! É muito difícil?' — 'Good morning, professor! Is it very difficult?'",
+        "ar": "سمعت: 'Bom dia, professor! É muito difícil?' — 'صباح الخير يا أستاذ! هل هو صعب جدًا؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "dia!",
+          "en": "dia!",
+          "ar": "dia!"
+        },
+        {
+          "pt": "Bom",
+          "en": "Bom",
+          "ar": "Bom"
+        },
+        {
+          "pt": "alfabeto.",
+          "en": "alfabeto.",
+          "ar": "alfabeto."
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "Vamos",
+          "en": "Vamos",
+          "ar": "Vamos"
+        },
+        {
+          "pt": "aprender",
+          "en": "aprender",
+          "ar": "aprender"
+        }
+      ],
+      "answer": "Bom dia! Vamos aprender o alfabeto.",
+      "accepted": [
+        "Bom dia! Vamos aprender o alfabeto."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Bom dia! Vamos aprender o alfabeto.'",
+        "en": "The correct order: 'Good morning! Let's learn the alphabet.'",
+        "ar": "الترتيب الصحيح: 'صباح الخير! دعونا نتعلم الأبجدية.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a consoante",
+          "en": "the consonant",
+          "ar": "a consoante"
+        },
+        {
+          "pt": "o acento",
+          "en": "the letter",
+          "ar": "o acento"
+        },
+        {
+          "pt": "a vogal",
+          "en": "the vowel",
+          "ar": "a vogal"
+        },
+        {
+          "pt": "o som",
+          "en": "the accent",
+          "ar": "o som"
+        },
+        {
+          "pt": "a letra",
+          "en": "the pronunciation",
+          "ar": "a letra"
+        },
+        {
+          "pt": "a pronúncia",
+          "en": "the sound",
+          "ar": "a pronúncia"
+        }
+      ],
+      "answer": "a consoante::the consonant|o acento::the letter|a vogal::the vowel|o som::the accent|a letra::the pronunciation|a pronúncia::the sound",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Bom dia! Vamos aprender o alfabeto.",
+          "en": "No, it's easy. Listen and repeat.",
+          "ar": "ممتاز! الآن دعونا نقرأ بعض الكلمات."
+        },
+        {
+          "pt": "Não, é fácil. Escute e repita.",
+          "en": "Good morning! Let's learn the alphabet.",
+          "ar": "لا، إنه سهل. استمع وكرر."
+        },
+        {
+          "pt": "Muito bem! Agora vamos ler algumas palavras.",
+          "en": "Very good! Now let's read some words.",
+          "ar": "صباح الخير! دعونا نتعلم الأبجدية."
+        }
+      ],
+      "answer": "Bom dia! Vamos aprender o alfabeto.",
+      "accepted": [],
+      "audio": "Bom dia! Vamos aprender o alfabeto.",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia! Vamos aprender o alfabeto.' — 'Good morning! Let's learn the alphabet.'",
+        "en": "You heard: 'Bom dia! Vamos aprender o alfabeto.' — 'Good morning! Let's learn the alphabet.'",
+        "ar": "سمعت: 'Bom dia! Vamos aprender o alfabeto.' — 'صباح الخير! دعونا نتعلم الأبجدية.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Bom dia! Vamos aprender o alfabeto.",
+          "en": "A, B, C, D, E...",
+          "ar": "أ، ب، ج، د، هـ..."
+        },
+        {
+          "pt": "A, B, C, D, E...",
+          "en": "Good morning! Let's learn the alphabet.",
+          "ar": "صباح الخير يا أستاذ! هل هو صعب جدًا؟"
+        },
+        {
+          "pt": "Bom dia, professor! É muito difícil?",
+          "en": "Good morning, professor! Is it very difficult?",
+          "ar": "صباح الخير! دعونا نتعلم الأبجدية."
+        }
+      ],
+      "answer": "Bom dia, professor! É muito difícil?",
+      "accepted": [],
+      "audio": "Bom dia, professor! É muito difícil?",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia, professor! É muito difícil?' — 'Good morning, professor! Is it very difficult?'",
+        "en": "You heard: 'Bom dia, professor! É muito difícil?' — 'Good morning, professor! Is it very difficult?'",
+        "ar": "سمعت: 'Bom dia, professor! É muito difícil?' — 'صباح الخير يا أستاذ! هل هو صعب جدًا؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Bom",
+          "en": "Bom",
+          "ar": "Bom"
+        },
+        {
+          "pt": "aprender",
+          "en": "aprender",
+          "ar": "aprender"
+        },
+        {
+          "pt": "Vamos",
+          "en": "Vamos",
+          "ar": "Vamos"
+        },
+        {
+          "pt": "alfabeto.",
+          "en": "alfabeto.",
+          "ar": "alfabeto."
+        },
+        {
+          "pt": "dia!",
+          "en": "dia!",
+          "ar": "dia!"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        }
+      ],
+      "answer": "Bom dia! Vamos aprender o alfabeto.",
+      "accepted": [
+        "Bom dia! Vamos aprender o alfabeto."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Bom dia! Vamos aprender o alfabeto.'",
+        "en": "The correct order: 'Good morning! Let's learn the alphabet.'",
+        "ar": "الترتيب الصحيح: 'صباح الخير! دعونا نتعلم الأبجدية.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a consoante",
+          "en": "the vowel",
+          "ar": "a consoante"
+        },
+        {
+          "pt": "a vogal",
+          "en": "the accent",
+          "ar": "a vogal"
+        },
+        {
+          "pt": "o acento",
+          "en": "the sound",
+          "ar": "o acento"
+        },
+        {
+          "pt": "o som",
+          "en": "the consonant",
+          "ar": "o som"
+        },
+        {
+          "pt": "a pronúncia",
+          "en": "the letter",
+          "ar": "a pronúncia"
+        },
+        {
+          "pt": "a letra",
+          "en": "the pronunciation",
+          "ar": "a letra"
+        }
+      ],
+      "answer": "a consoante::the vowel|a vogal::the accent|o acento::the sound|o som::the consonant|a pronúncia::the letter|a letra::the pronunciation",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Bom dia! Vamos aprender o alfabeto.",
+          "en": "Good morning! Let's learn the alphabet.",
+          "ar": "صباح الخير! دعونا نتعلم الأبجدية."
+        },
+        {
+          "pt": "A, B, C, D, E...",
+          "en": "A, B, C, D, E...",
+          "ar": "أ، ب، ج، د، هـ..."
+        },
+        {
+          "pt": "Não, é fácil. Escute e repita.",
+          "en": "No, it's easy. Listen and repeat.",
+          "ar": "لا، إنه سهل. استمع وكرر."
+        }
+      ],
+      "answer": "Bom dia! Vamos aprender o alfabeto.",
+      "accepted": [],
+      "audio": "Bom dia! Vamos aprender o alfabeto.",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia! Vamos aprender o alfabeto.' — 'Good morning! Let's learn the alphabet.'",
+        "en": "You heard: 'Bom dia! Vamos aprender o alfabeto.' — 'Good morning! Let's learn the alphabet.'",
+        "ar": "سمعت: 'Bom dia! Vamos aprender o alfabeto.' — 'صباح الخير! دعونا نتعلم الأبجدية.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "A, B, C, D, E...",
+          "en": "A, B, C, D, E...",
+          "ar": "أ، ب، ج، د، هـ..."
+        },
+        {
+          "pt": "Bom dia, professor! É muito difícil?",
+          "en": "Good morning, professor! Is it very difficult?",
+          "ar": "صباح الخير يا أستاذ! هل هو صعب جدًا؟"
+        },
+        {
+          "pt": "Bom dia! Vamos aprender o alfabeto.",
+          "en": "Good morning! Let's learn the alphabet.",
+          "ar": "صباح الخير! دعونا نتعلم الأبجدية."
+        }
+      ],
+      "answer": "Bom dia, professor! É muito difícil?",
+      "accepted": [],
+      "audio": "Bom dia, professor! É muito difícil?",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia, professor! É muito difícil?' — 'Good morning, professor! Is it very difficult?'",
+        "en": "You heard: 'Bom dia, professor! É muito difícil?' — 'Good morning, professor! Is it very difficult?'",
+        "ar": "سمعت: 'Bom dia, professor! É muito difícil?' — 'صباح الخير يا أستاذ! هل هو صعب جدًا؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Bom",
+          "en": "Bom",
+          "ar": "Bom"
+        },
+        {
+          "pt": "aprender",
+          "en": "aprender",
+          "ar": "aprender"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "alfabeto.",
+          "en": "alfabeto.",
+          "ar": "alfabeto."
+        },
+        {
+          "pt": "dia!",
+          "en": "dia!",
+          "ar": "dia!"
+        },
+        {
+          "pt": "Vamos",
+          "en": "Vamos",
+          "ar": "Vamos"
+        }
+      ],
+      "answer": "Bom dia! Vamos aprender o alfabeto.",
+      "accepted": [
+        "Bom dia! Vamos aprender o alfabeto."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Bom dia! Vamos aprender o alfabeto.'",
+        "en": "The correct order: 'Good morning! Let's learn the alphabet.'",
+        "ar": "الترتيب الصحيح: 'صباح الخير! دعونا نتعلم الأبجدية.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a vogal",
+          "en": "the consonant",
+          "ar": "a vogal"
+        },
+        {
+          "pt": "a consoante",
+          "en": "the accent",
+          "ar": "a consoante"
+        },
+        {
+          "pt": "a letra",
+          "en": "the sound",
+          "ar": "a letra"
+        },
+        {
+          "pt": "o acento",
+          "en": "the vowel",
+          "ar": "o acento"
+        },
+        {
+          "pt": "o som",
+          "en": "the letter",
+          "ar": "o som"
+        },
+        {
+          "pt": "a pronúncia",
+          "en": "the pronunciation",
+          "ar": "a pronúncia"
+        }
+      ],
+      "answer": "a vogal::the consonant|a consoante::the accent|a letra::the sound|o acento::the vowel|o som::the letter|a pronúncia::the pronunciation",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Bom dia, professor! É muito difícil?",
+          "en": "Good morning! Let's learn the alphabet.",
+          "ar": "لا، إنه سهل. استمع وكرر."
+        },
+        {
+          "pt": "Não, é fácil. Escute e repita.",
+          "en": "No, it's easy. Listen and repeat.",
+          "ar": "صباح الخير! دعونا نتعلم الأبجدية."
+        },
+        {
+          "pt": "Bom dia! Vamos aprender o alfabeto.",
+          "en": "Good morning, professor! Is it very difficult?",
+          "ar": "صباح الخير يا أستاذ! هل هو صعب جدًا؟"
+        }
+      ],
+      "answer": "Bom dia! Vamos aprender o alfabeto.",
+      "accepted": [],
+      "audio": "Bom dia! Vamos aprender o alfabeto.",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia! Vamos aprender o alfabeto.' — 'Good morning! Let's learn the alphabet.'",
+        "en": "You heard: 'Bom dia! Vamos aprender o alfabeto.' — 'Good morning! Let's learn the alphabet.'",
+        "ar": "سمعت: 'Bom dia! Vamos aprender o alfabeto.' — 'صباح الخير! دعونا نتعلم الأبجدية.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "A, B, C, D, E...",
+          "en": "Good morning, professor! Is it very difficult?",
+          "ar": "أ، ب، ج، د، هـ..."
+        },
+        {
+          "pt": "Bom dia! Vamos aprender o alfabeto.",
+          "en": "Good morning! Let's learn the alphabet.",
+          "ar": "صباح الخير! دعونا نتعلم الأبجدية."
+        },
+        {
+          "pt": "Bom dia, professor! É muito difícil?",
+          "en": "A, B, C, D, E...",
+          "ar": "صباح الخير يا أستاذ! هل هو صعب جدًا؟"
+        }
+      ],
+      "answer": "Bom dia, professor! É muito difícil?",
+      "accepted": [],
+      "audio": "Bom dia, professor! É muito difícil?",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia, professor! É muito difícil?' — 'Good morning, professor! Is it very difficult?'",
+        "en": "You heard: 'Bom dia, professor! É muito difícil?' — 'Good morning, professor! Is it very difficult?'",
+        "ar": "سمعت: 'Bom dia, professor! É muito difícil?' — 'صباح الخير يا أستاذ! هل هو صعب جدًا؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "dia!",
+          "en": "dia!",
+          "ar": "dia!"
+        },
+        {
+          "pt": "Vamos",
+          "en": "Vamos",
+          "ar": "Vamos"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "aprender",
+          "en": "aprender",
+          "ar": "aprender"
+        },
+        {
+          "pt": "Bom",
+          "en": "Bom",
+          "ar": "Bom"
+        },
+        {
+          "pt": "alfabeto.",
+          "en": "alfabeto.",
+          "ar": "alfabeto."
+        }
+      ],
+      "answer": "Bom dia! Vamos aprender o alfabeto.",
+      "accepted": [
+        "Bom dia! Vamos aprender o alfabeto."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Bom dia! Vamos aprender o alfabeto.'",
+        "en": "The correct order: 'Good morning! Let's learn the alphabet.'",
+        "ar": "الترتيب الصحيح: 'صباح الخير! دعونا نتعلم الأبجدية.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o som",
+          "en": "the consonant",
+          "ar": "o som"
+        },
+        {
+          "pt": "a pronúncia",
+          "en": "the vowel",
+          "ar": "a pronúncia"
+        },
+        {
+          "pt": "a consoante",
+          "en": "the accent",
+          "ar": "a consoante"
+        },
+        {
+          "pt": "a vogal",
+          "en": "the letter",
+          "ar": "a vogal"
+        },
+        {
+          "pt": "a letra",
+          "en": "the sound",
+          "ar": "a letra"
+        },
+        {
+          "pt": "o acento",
+          "en": "the pronunciation",
+          "ar": "o acento"
+        }
+      ],
+      "answer": "o som::the consonant|a pronúncia::the vowel|a consoante::the accent|a vogal::the letter|a letra::the sound|o acento::the pronunciation",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Bom dia! Vamos aprender o alfabeto.",
+          "en": "No, it's easy. Listen and repeat.",
+          "ar": "ممتاز! الآن دعونا نقرأ بعض الكلمات."
+        },
+        {
+          "pt": "Não, é fácil. Escute e repita.",
+          "en": "Very good! Now let's read some words.",
+          "ar": "لا، إنه سهل. استمع وكرر."
+        },
+        {
+          "pt": "Muito bem! Agora vamos ler algumas palavras.",
+          "en": "Good morning! Let's learn the alphabet.",
+          "ar": "صباح الخير! دعونا نتعلم الأبجدية."
+        }
+      ],
+      "answer": "Bom dia! Vamos aprender o alfabeto.",
+      "accepted": [],
+      "audio": "Bom dia! Vamos aprender o alfabeto.",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia! Vamos aprender o alfabeto.' — 'Good morning! Let's learn the alphabet.'",
+        "en": "You heard: 'Bom dia! Vamos aprender o alfabeto.' — 'Good morning! Let's learn the alphabet.'",
+        "ar": "سمعت: 'Bom dia! Vamos aprender o alfabeto.' — 'صباح الخير! دعونا نتعلم الأبجدية.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Bom dia, professor! É muito difícil?",
+          "en": "Good morning! Let's learn the alphabet.",
+          "ar": "صباح الخير يا أستاذ! هل هو صعب جدًا؟"
+        },
+        {
+          "pt": "Bom dia! Vamos aprender o alfabeto.",
+          "en": "No, it's easy. Listen and repeat.",
+          "ar": "صباح الخير! دعونا نتعلم الأبجدية."
+        },
+        {
+          "pt": "Não, é fácil. Escute e repita.",
+          "en": "Good morning, professor! Is it very difficult?",
+          "ar": "لا، إنه سهل. استمع وكرر."
+        }
+      ],
+      "answer": "Bom dia, professor! É muito difícil?",
+      "accepted": [],
+      "audio": "Bom dia, professor! É muito difícil?",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia, professor! É muito difícil?' — 'Good morning, professor! Is it very difficult?'",
+        "en": "You heard: 'Bom dia, professor! É muito difícil?' — 'Good morning, professor! Is it very difficult?'",
+        "ar": "سمعت: 'Bom dia, professor! É muito difícil?' — 'صباح الخير يا أستاذ! هل هو صعب جدًا؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "aprender",
+          "en": "aprender",
+          "ar": "aprender"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "alfabeto.",
+          "en": "alfabeto.",
+          "ar": "alfabeto."
+        },
+        {
+          "pt": "Vamos",
+          "en": "Vamos",
+          "ar": "Vamos"
+        },
+        {
+          "pt": "dia!",
+          "en": "dia!",
+          "ar": "dia!"
+        },
+        {
+          "pt": "Bom",
+          "en": "Bom",
+          "ar": "Bom"
+        }
+      ],
+      "answer": "Bom dia! Vamos aprender o alfabeto.",
+      "accepted": [
+        "Bom dia! Vamos aprender o alfabeto."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Bom dia! Vamos aprender o alfabeto.'",
+        "en": "The correct order: 'Good morning! Let's learn the alphabet.'",
+        "ar": "الترتيب الصحيح: 'صباح الخير! دعونا نتعلم الأبجدية.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a consoante",
+          "en": "the accent",
+          "ar": "a consoante"
+        },
+        {
+          "pt": "o som",
+          "en": "the pronunciation",
+          "ar": "o som"
+        },
+        {
+          "pt": "a vogal",
+          "en": "the consonant",
+          "ar": "a vogal"
+        },
+        {
+          "pt": "a pronúncia",
+          "en": "the vowel",
+          "ar": "a pronúncia"
+        },
+        {
+          "pt": "o acento",
+          "en": "the letter",
+          "ar": "o acento"
+        },
+        {
+          "pt": "a letra",
+          "en": "the sound",
+          "ar": "a letra"
+        }
+      ],
+      "answer": "a consoante::the accent|o som::the pronunciation|a vogal::the consonant|a pronúncia::the vowel|o acento::the letter|a letra::the sound",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Bom dia, professor! É muito difícil?",
+          "en": "Good morning, professor! Is it very difficult?",
+          "ar": "صباح الخير! دعونا نتعلم الأبجدية."
+        },
+        {
+          "pt": "A, B, C, D, E...",
+          "en": "A, B, C, D, E...",
+          "ar": "صباح الخير يا أستاذ! هل هو صعب جدًا؟"
+        },
+        {
+          "pt": "Bom dia! Vamos aprender o alfabeto.",
+          "en": "Good morning! Let's learn the alphabet.",
+          "ar": "أ، ب، ج، د، هـ..."
+        }
+      ],
+      "answer": "Bom dia! Vamos aprender o alfabeto.",
+      "accepted": [],
+      "audio": "Bom dia! Vamos aprender o alfabeto.",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia! Vamos aprender o alfabeto.' — 'Good morning! Let's learn the alphabet.'",
+        "en": "You heard: 'Bom dia! Vamos aprender o alfabeto.' — 'Good morning! Let's learn the alphabet.'",
+        "ar": "سمعت: 'Bom dia! Vamos aprender o alfabeto.' — 'صباح الخير! دعونا نتعلم الأبجدية.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Não, é fácil. Escute e repita.",
+          "en": "A, B, C, D, E...",
+          "ar": "أ، ب، ج، د، هـ..."
+        },
+        {
+          "pt": "Bom dia, professor! É muito difícil?",
+          "en": "No, it's easy. Listen and repeat.",
+          "ar": "لا، إنه سهل. استمع وكرر."
+        },
+        {
+          "pt": "A, B, C, D, E...",
+          "en": "Good morning, professor! Is it very difficult?",
+          "ar": "صباح الخير يا أستاذ! هل هو صعب جدًا؟"
+        }
+      ],
+      "answer": "Bom dia, professor! É muito difícil?",
+      "accepted": [],
+      "audio": "Bom dia, professor! É muito difícil?",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia, professor! É muito difícil?' — 'Good morning, professor! Is it very difficult?'",
+        "en": "You heard: 'Bom dia, professor! É muito difícil?' — 'Good morning, professor! Is it very difficult?'",
+        "ar": "سمعت: 'Bom dia, professor! É muito difícil?' — 'صباح الخير يا أستاذ! هل هو صعب جدًا؟'"
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'the letter'",
+        "en": "Type in Portuguese: 'the letter'",
+        "ar": "اكتب بالبرتغالية: 'الحرف'"
+      },
+      "options": [],
+      "answer": "a letra",
+      "accepted": [
+        "a letra"
+      ],
+      "explanation": {
+        "pt": "'a letra' significa 'the letter'.",
+        "en": "'a letra' means 'the letter'.",
+        "ar": "'$a letra' بالعربية: '$الحرف'."
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'the sound'",
+        "en": "Type in Portuguese: 'the sound'",
+        "ar": "اكتب بالبرتغالية: 'الصوت'"
+      },
+      "options": [],
+      "answer": "o som",
+      "accepted": [
+        "o som"
+      ],
+      "explanation": {
+        "pt": "'o som' significa 'the sound'.",
+        "en": "'o som' means 'the sound'.",
+        "ar": "'$o som' بالعربية: '$الصوت'."
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Muito bem! Agora vamos ler algumas palavras.",
+          "en": "Muito bem! Agora vamos ler algumas palavras.",
+          "ar": "Muito bem! Agora vamos ler algumas palavras."
+        },
+        {
+          "pt": "Bom dia! Vamos aprender o alfabeto.",
+          "en": "Bom dia! Vamos aprender o alfabeto.",
+          "ar": "Bom dia! Vamos aprender o alfabeto."
+        },
+        {
+          "pt": "Não, é fácil. Escute e repita.",
+          "en": "Não, é fácil. Escute e repita.",
+          "ar": "Não, é fácil. Escute e repita."
+        }
+      ],
+      "answer": "Bom dia! Vamos aprender o alfabeto.",
+      "accepted": [],
+      "audio": "Bom dia! Vamos aprender o alfabeto.",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia! Vamos aprender o alfabeto.'",
+        "en": "You heard: 'Bom dia! Vamos aprender o alfabeto.'",
+        "ar": "سمعت: 'Bom dia! Vamos aprender o alfabeto.'"
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Não, é fácil. Escute e repita.",
+          "en": "Não, é fácil. Escute e repita.",
+          "ar": "Não, é fácil. Escute e repita."
+        },
+        {
+          "pt": "Bom dia! Vamos aprender o alfabeto.",
+          "en": "Bom dia! Vamos aprender o alfabeto.",
+          "ar": "Bom dia! Vamos aprender o alfabeto."
+        },
+        {
+          "pt": "Bom dia, professor! É muito difícil?",
+          "en": "Bom dia, professor! É muito difícil?",
+          "ar": "Bom dia, professor! É muito difícil?"
+        }
+      ],
+      "answer": "Bom dia, professor! É muito difícil?",
+      "accepted": [],
+      "audio": "Bom dia, professor! É muito difícil?",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia, professor! É muito difícil?'",
+        "en": "You heard: 'Bom dia, professor! É muito difícil?'",
+        "ar": "سمعت: 'Bom dia, professor! É muito difícil?'"
+      }
+    },
+    {
+      "type": "dictation",
+      "prompt": {
+        "pt": "Ouça e escreva o que você ouviu.",
+        "en": "Listen and type what you hear.",
+        "ar": "استمع واكتب ما سمعته."
+      },
+      "options": [],
+      "answer": "Bom dia! Vamos aprender o alfabeto.",
+      "accepted": [],
+      "audio": "Bom dia! Vamos aprender o alfabeto.",
+      "explanation": {
+        "pt": "A frase correta: 'Bom dia! Vamos aprender o alfabeto.'",
+        "en": "The correct sentence: 'Bom dia! Vamos aprender o alfabeto.'",
+        "ar": "الجملة الصحيحة: 'Bom dia! Vamos aprender o alfabeto.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "alfabeto.",
+          "en": "alfabeto.",
+          "ar": "alfabeto."
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "aprender",
+          "en": "aprender",
+          "ar": "aprender"
+        },
+        {
+          "pt": "Vamos",
+          "en": "Vamos",
+          "ar": "Vamos"
+        },
+        {
+          "pt": "dia!",
+          "en": "dia!",
+          "ar": "dia!"
+        },
+        {
+          "pt": "Bom",
+          "en": "Bom",
+          "ar": "Bom"
+        }
+      ],
+      "answer": "Bom dia! Vamos aprender o alfabeto.",
+      "accepted": [
+        "Bom dia! Vamos aprender o alfabeto."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Bom dia! Vamos aprender o alfabeto.'",
+        "en": "The correct order: 'Good morning! Let's learn the alphabet.'",
+        "ar": "الترتيب الصحيح: 'صباح الخير! دعونا نتعلم الأبجدية.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a pronúncia",
+          "en": "the letter",
+          "ar": "a pronúncia"
+        },
+        {
+          "pt": "o som",
+          "en": "the accent",
+          "ar": "o som"
+        },
+        {
+          "pt": "a consoante",
+          "en": "the vowel",
+          "ar": "a consoante"
+        },
+        {
+          "pt": "a vogal",
+          "en": "the pronunciation",
+          "ar": "a vogal"
+        },
+        {
+          "pt": "o acento",
+          "en": "the sound",
+          "ar": "o acento"
+        },
+        {
+          "pt": "a letra",
+          "en": "the consonant",
+          "ar": "a letra"
+        }
+      ],
+      "answer": "a pronúncia::the letter|o som::the accent|a consoante::the vowel|a vogal::the pronunciation|o acento::the sound|a letra::the consonant",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Muito bem! Agora vamos ler algumas palavras.",
+          "en": "Very good! Now let's read some words.",
+          "ar": "صباح الخير! دعونا نتعلم الأبجدية."
+        },
+        {
+          "pt": "Bom dia! Vamos aprender o alfabeto.",
+          "en": "No, it's easy. Listen and repeat.",
+          "ar": "لا، إنه سهل. استمع وكرر."
+        },
+        {
+          "pt": "Não, é fácil. Escute e repita.",
+          "en": "Good morning! Let's learn the alphabet.",
+          "ar": "ممتاز! الآن دعونا نقرأ بعض الكلمات."
+        }
+      ],
+      "answer": "Bom dia! Vamos aprender o alfabeto.",
+      "accepted": [],
+      "audio": "Bom dia! Vamos aprender o alfabeto.",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia! Vamos aprender o alfabeto.' — 'Good morning! Let's learn the alphabet.'",
+        "en": "You heard: 'Bom dia! Vamos aprender o alfabeto.' — 'Good morning! Let's learn the alphabet.'",
+        "ar": "سمعت: 'Bom dia! Vamos aprender o alfabeto.' — 'صباح الخير! دعونا نتعلم الأبجدية.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Bom dia, professor! É muito difícil?",
+          "en": "No, it's easy. Listen and repeat.",
+          "ar": "صباح الخير يا أستاذ! هل هو صعب جدًا؟"
+        },
+        {
+          "pt": "Não, é fácil. Escute e repita.",
+          "en": "Good morning, professor! Is it very difficult?",
+          "ar": "أ، ب، ج، د، هـ..."
+        },
+        {
+          "pt": "A, B, C, D, E...",
+          "en": "A, B, C, D, E...",
+          "ar": "لا، إنه سهل. استمع وكرر."
+        }
+      ],
+      "answer": "Bom dia, professor! É muito difícil?",
+      "accepted": [],
+      "audio": "Bom dia, professor! É muito difícil?",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia, professor! É muito difícil?' — 'Good morning, professor! Is it very difficult?'",
+        "en": "You heard: 'Bom dia, professor! É muito difícil?' — 'Good morning, professor! Is it very difficult?'",
+        "ar": "سمعت: 'Bom dia, professor! É muito difícil?' — 'صباح الخير يا أستاذ! هل هو صعب جدًا؟'"
+      }
+    }
+  ],
+  "speaking": {
+    "title": {
+      "pt": "Fale Agora — Ouça e Repita",
+      "en": "Speak Now — Listen and Repeat",
+      "ar": "تحدث الآن — استمع وكرر"
+    },
+    "phrases": [
+      {
+        "pt": "Bom dia! Vamos aprender o alfabeto.",
+        "en": "Good morning! Let's learn the alphabet.",
+        "ar": "صباح الخير! دعونا نتعلم الأبجدية."
+      },
+      {
+        "pt": "Bom dia, professor! É muito difícil?",
+        "en": "Good morning, professor! Is it very difficult?",
+        "ar": "صباح الخير يا أستاذ! هل هو صعب جدًا؟"
+      },
+      {
+        "pt": "Não, é fácil. Escute e repita.",
+        "en": "No, it's easy. Listen and repeat.",
+        "ar": "لا، إنه سهل. استمع وكرر."
+      },
+      {
+        "pt": "A, B, C, D, E...",
+        "en": "A, B, C, D, E...",
+        "ar": "أ، ب، ج، د، هـ..."
+      },
+      {
+        "pt": "Muito bem! Agora vamos ler algumas palavras.",
+        "en": "Very good! Now let's read some words.",
+        "ar": "ممتاز! الآن دعونا نقرأ بعض الكلمات."
+      },
+      {
+        "pt": "a letra",
+        "en": "the letter",
+        "ar": "الحرف"
+      },
+      {
+        "pt": "o som",
+        "en": "the sound",
+        "ar": "الصوت"
+      },
+      {
+        "pt": "a vogal",
+        "en": "the vowel",
+        "ar": "حرف العلة"
+      }
+    ]
+  },
+  "cultural_tips": {
+    "pt": "No Brasil, \"Bom dia\" é usado até o meio-dia.",
+    "en": "In Brazil, \"Bom dia\" is used until noon.",
+    "ar": "في البرازيل، يُستخدم \"بوم جيا\" حتى الظهر."
+  }
+}

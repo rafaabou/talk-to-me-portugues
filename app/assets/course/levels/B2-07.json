@@ -1,0 +1,1988 @@
+{
+  "id": "B2-07",
+  "level": "B2",
+  "level_name": {
+    "pt": "Intermediário Alto",
+    "en": "Upper-Intermediate",
+    "ar": "متوسط متقدم"
+  },
+  "title": {
+    "pt": "Conjunções e Conectivos",
+    "en": "Conjunctions and Connectors",
+    "ar": "أدوات الربط"
+  },
+  "objectives": [
+    {
+      "pt": "Usar conjunções coordenativas para ligar ideias",
+      "en": "Use coordinating conjunctions to connect ideas",
+      "ar": "استخدام أدوات الربط التنسيقية لربط الأفكار"
+    },
+    {
+      "pt": "Usar conjunções subordinativas em orações complexas",
+      "en": "Use subordinating conjunctions in complex clauses",
+      "ar": "استخدام أدوات الربط التبعية في الجمل المركبة"
+    },
+    {
+      "pt": "Estruturar textos com conectivos",
+      "en": "Structure texts with connectors",
+      "ar": "تنظيم النصوص باستخدام أدوات الربط"
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "portanto",
+      "ipa": "/poχˈtɐ̃.tu/",
+      "en": "therefore",
+      "ar": "لذلك",
+      "example": {
+        "pt": "Entendido. Portanto, devemos começar com uma introdução clara.",
+        "en": "Understood. Therefore, we should begin with a clear introduction.",
+        "ar": "مفهوم. لذلك يجب أن نبدأ بمقدمة واضحة."
+      }
+    },
+    {
+      "pt": "porém",
+      "ipa": "/poˈɾẽj/",
+      "en": "however",
+      "ar": "لكن",
+      "example": {
+        "pt": "O livro é longo; porém, vale a pena.",
+        "en": "The book is long; however, it's worth it.",
+        "ar": "الكتاب طويل؛ لكنه يستحق القراءة."
+      }
+    },
+    {
+      "pt": "contudo",
+      "ipa": "/kõˈtu.du/",
+      "en": "however",
+      "ar": "ومع ذلك",
+      "example": {
+        "pt": "Primeiramente, vocês devem definir o tema da redação.",
+        "en": "First, you must define the essay topic.",
+        "ar": "أولًا، يجب عليكم تحديد موضوع المقالة."
+      }
+    },
+    {
+      "pt": "entretanto",
+      "ipa": "/ẽ.tɾeˈtɐ̃.tu/",
+      "en": "meanwhile / however",
+      "ar": "وفي الوقت نفسه",
+      "example": {
+        "pt": "Primeiramente, vocês devem definir o tema da redação.",
+        "en": "First, you must define the essay topic.",
+        "ar": "أولًا، يجب عليكم تحديد موضوع المقالة."
+      }
+    },
+    {
+      "pt": "no entanto",
+      "ipa": "/nu ẽˈtɐ̃.tu/",
+      "en": "however",
+      "ar": "مع ذلك",
+      "example": {
+        "pt": "Ótimo. No entanto, lembrem-se de organizar as ideias com conectivos.",
+        "en": "Great. However, remember to organize your ideas with connectors.",
+        "ar": "رائع. ومع ذلك، تذكروا أن تنظموا الأفكار بأدوات الربط."
+      }
+    },
+    {
+      "pt": "além disso",
+      "ipa": "/aˈlẽj ˈdʒi.su/",
+      "en": "moreover",
+      "ar": "علاوة على ذلك",
+      "example": {
+        "pt": "Podemos falar sobre tecnologia; além disso, queremos citar exemplos do dia a dia.",
+        "en": "We can talk about technology; besides, we want to cite everyday examples.",
+        "ar": "يمكننا التحدث عن التكنولوجيا؛ وعلاوة على ذلك، نريد أن نذكر أمثلة من الحياة اليومية."
+      }
+    },
+    {
+      "pt": "ou seja",
+      "ipa": "/o ˈse.ʒa/",
+      "en": "that is",
+      "ar": "أي بمعنى آخر",
+      "example": {
+        "pt": "Primeiramente, vocês devem definir o tema da redação.",
+        "en": "First, you must define the essay topic.",
+        "ar": "أولًا، يجب عليكم تحديد موضوع المقالة."
+      }
+    },
+    {
+      "pt": "por isso",
+      "ipa": "/puɾ ˈi.su/",
+      "en": "that's why",
+      "ar": "لهذا السبب",
+      "example": {
+        "pt": "Primeiramente, vocês devem definir o tema da redação.",
+        "en": "First, you must define the essay topic.",
+        "ar": "أولًا، يجب عليكم تحديد موضوع المقالة."
+      }
+    },
+    {
+      "pt": "embora",
+      "ipa": "/ẽˈbɔ.ɾa/",
+      "en": "although",
+      "ar": "على الرغم من أن",
+      "example": {
+        "pt": "Embora esteja cansado, ele continua trabalhando.",
+        "en": "Although he is tired, he keeps working.",
+        "ar": "على الرغم من أنه متعب، فإنه يواصل العمل."
+      }
+    },
+    {
+      "pt": "apesar de",
+      "ipa": "/a.peˈzaχ dʒi/",
+      "en": "despite",
+      "ar": "رغم",
+      "example": {
+        "pt": "Primeiramente, vocês devem definir o tema da redação.",
+        "en": "First, you must define the essay topic.",
+        "ar": "أولًا، يجب عليكم تحديد موضوع المقالة."
+      }
+    },
+    {
+      "pt": "enquanto",
+      "ipa": "/ẽˈkwɐ̃.tu/",
+      "en": "while",
+      "ar": "بينما",
+      "example": {
+        "pt": "Enquanto eu cozinhava, ele organizava a casa.",
+        "en": "While I was cooking, he was tidying the house.",
+        "ar": "بينما كنت أطبخ، كان يرتب المنزل."
+      }
+    },
+    {
+      "pt": "assim que",
+      "ipa": "/aˈsĩ ki/",
+      "en": "as soon as",
+      "ar": "بمجرد أن",
+      "example": {
+        "pt": "Assim que cheguei, liguei para a minha mãe.",
+        "en": "As soon as I arrived, I called my mother.",
+        "ar": "بمجرد وصولي، اتصلت بأمي."
+      }
+    },
+    {
+      "pt": "a fim de",
+      "ipa": "/a ˈfĩ dʒi/",
+      "en": "in order to",
+      "ar": "لكي",
+      "example": {
+        "pt": "Podemos falar sobre tecnologia; além disso, queremos citar exemplos do dia a dia.",
+        "en": "We can talk about technology; besides, we want to cite everyday examples.",
+        "ar": "يمكننا التحدث عن التكنولوجيا؛ وعلاوة على ذلك، نريد أن نذكر أمثلة من الحياة اليومية."
+      }
+    },
+    {
+      "pt": "ao contrário",
+      "ipa": "/aw kõˈtɾa.ɾju/",
+      "en": "on the contrary",
+      "ar": "على العكس",
+      "example": {
+        "pt": "Primeiramente, vocês devem definir o tema da redação.",
+        "en": "First, you must define the essay topic.",
+        "ar": "أولًا، يجب عليكم تحديد موضوع المقالة."
+      }
+    },
+    {
+      "pt": "em resumo",
+      "ipa": "/ẽj ʁeˈzũ.mu/",
+      "en": "in short",
+      "ar": "باختصار",
+      "example": {
+        "pt": "Primeiramente, vocês devem definir o tema da redação.",
+        "en": "First, you must define the essay topic.",
+        "ar": "أولًا، يجب عليكم تحديد موضوع المقالة."
+      }
+    },
+    {
+      "pt": "primeiramente",
+      "ipa": "/pɾi.mej.ɾaˈmẽ.tʃi/",
+      "en": "firstly",
+      "ar": "أولًا",
+      "example": {
+        "pt": "Primeiramente, vocês devem definir o tema da redação.",
+        "en": "First, you must define the essay topic.",
+        "ar": "أولًا، يجب عليكم تحديد موضوع المقالة."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "title": {
+        "pt": "Conjunções Coordenativas",
+        "en": "Coordinating Conjunctions",
+        "ar": "أدوات الربط التنسيقية"
+      },
+      "explanation": {
+        "pt": "As coordenativas ligam orações independentes. Aditivas: e, além disso. Adversativas: mas, porém, contudo, no entanto, entretanto. Conclusivas: portanto, logo, por isso. Explicativas: porque, pois.",
+        "en": "Coordinating conjunctions link independent clauses. Additive: e, além disso. Adversative: mas, porém, contudo, no entanto, entretanto. Conclusive: portanto, logo, por isso. Explanatory: porque, pois.",
+        "ar": "تربط أدوات الربط التنسيقية جملًا مستقلة. الإضافية: e، além disso. والعكسية: mas، porém، contudo، no entanto، entretanto. والنتيجية: portanto، logo، por isso. والتفسيرية: porque، pois."
+      },
+      "examples": [
+        {
+          "pt": "Ele estudou muito; portanto, passou no exame.",
+          "en": "He studied a lot; therefore, he passed the exam.",
+          "ar": "درس كثيرًا؛ لذلك نجح في الامتحان."
+        },
+        {
+          "pt": "O preço é alto; no entanto, o produto é excelente.",
+          "en": "The price is high; however, the product is excellent.",
+          "ar": "السعر مرتفع؛ ومع ذلك، فالمنتج ممتاز."
+        },
+        {
+          "pt": "Além disso, o serviço foi rápido.",
+          "en": "Moreover, the service was fast.",
+          "ar": "علاوة على ذلك، كانت الخدمة سريعة."
+        },
+        {
+          "pt": "O livro é longo; porém, vale a pena.",
+          "en": "The book is long; however, it's worth it.",
+          "ar": "الكتاب طويل؛ لكنه يستحق القراءة."
+        }
+      ]
+    },
+    {
+      "title": {
+        "pt": "Conjunções Subordinativas",
+        "en": "Subordinating Conjunctions",
+        "ar": "أدوات الربط التبعية"
+      },
+      "explanation": {
+        "pt": "As subordinativas introduzem orações dependentes. Temporais: quando, enquanto, assim que. Concessivas: embora (+ subjuntivo), apesar de (+ infinitivo). Finais: a fim de, para que (+ subjuntivo). Causais: porque, já que.",
+        "en": "Subordinating conjunctions introduce dependent clauses. Temporal: quando, enquanto, assim que. Concessive: embora (+ subjunctive), apesar de (+ infinitive). Final: a fim de, para que (+ subjunctive). Causal: porque, já que.",
+        "ar": "تقدم أدوات الربط التبعية جملًا تابعة. الزمنية: quando، enquanto، assim que. والتنازلية: embora (+ الشرط)، apesar de (+ المصدر). والغائية: a fim de، para que (+ الشرط). والسببية: porque، já que."
+      },
+      "examples": [
+        {
+          "pt": "Embora esteja cansado, ele continua trabalhando.",
+          "en": "Although he is tired, he keeps working.",
+          "ar": "على الرغم من أنه متعب، فإنه يواصل العمل."
+        },
+        {
+          "pt": "Assim que cheguei, liguei para a minha mãe.",
+          "en": "As soon as I arrived, I called my mother.",
+          "ar": "بمجرد وصولي، اتصلت بأمي."
+        },
+        {
+          "pt": "Estude muito a fim de passar no vestibular.",
+          "en": "Study hard in order to pass the entrance exam.",
+          "ar": "ادرس جيدًا لكي تنجح في امتحان القبول."
+        },
+        {
+          "pt": "Enquanto eu cozinhava, ele organizava a casa.",
+          "en": "While I was cooking, he was tidying the house.",
+          "ar": "بينما كنت أطبخ، كان يرتب المنزل."
+        }
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": {
+      "pt": "Planejando a Redação",
+      "en": "Planning the Essay",
+      "ar": "التخطيط للمقالة"
+    },
+    "lines": [
+      {
+        "speaker": "Professora",
+        "pt": "Primeiramente, vocês devem definir o tema da redação.",
+        "en": "First, you must define the essay topic.",
+        "ar": "أولًا، يجب عليكم تحديد موضوع المقالة."
+      },
+      {
+        "speaker": "Aluno",
+        "pt": "Podemos falar sobre tecnologia; além disso, queremos citar exemplos do dia a dia.",
+        "en": "We can talk about technology; besides, we want to cite everyday examples.",
+        "ar": "يمكننا التحدث عن التكنولوجيا؛ وعلاوة على ذلك، نريد أن نذكر أمثلة من الحياة اليومية."
+      },
+      {
+        "speaker": "Professora",
+        "pt": "Ótimo. No entanto, lembrem-se de organizar as ideias com conectivos.",
+        "en": "Great. However, remember to organize your ideas with connectors.",
+        "ar": "رائع. ومع ذلك، تذكروا أن تنظموا الأفكار بأدوات الربط."
+      },
+      {
+        "speaker": "Aluno",
+        "pt": "Entendido. Portanto, devemos começar com uma introdução clara.",
+        "en": "Understood. Therefore, we should begin with a clear introduction.",
+        "ar": "مفهوم. لذلك يجب أن نبدأ بمقدمة واضحة."
+      },
+      {
+        "speaker": "Professora",
+        "pt": "Exato. A fim de convencer o leitor, apresentem argumentos fortes.",
+        "en": "Exactly. In order to convince the reader, present strong arguments.",
+        "ar": "تمامًا. لكي تقنعوا القارئ، اعرضوا حججًا قوية."
+      }
+    ]
+  },
+  "reading": {
+    "title": {
+      "pt": "Como Escrever Bem",
+      "en": "How to Write Well",
+      "ar": "كيف تكتب جيدًا"
+    },
+    "text_pt": "Escrever bem exige organização das ideias. Primeiramente, defina o tema e o objetivo do texto. Em seguida, use conectivos para ligar os parágrafos; assim, o leitor acompanha o raciocínio com facilidade. Embora pareça difícil, a prática diária faz toda a diferença.",
+    "text_en": "Writing well requires organizing your ideas. First, define the topic and purpose of the text. Then use connectors to link the paragraphs; this way, the reader follows the reasoning easily. Although it seems difficult, daily practice makes all the difference.",
+    "text_ar": "الكتابة الجيدة تتطلب تنظيم الأفكار. أولًا، حدد موضوع النص والغرض منه. ثم استخدم أدوات الربط لربط الفقرات؛ وبذلك يتابع القارئ الاستدلال بسهولة. وعلى الرغم من أنها تبدو صعبة، فإن الممارسة اليومية تحدث فرقًا كبيرًا."
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Ele estudou muito; ___, passou no exame.",
+        "en": "He studied a lot; ___, he passed the exam.",
+        "ar": "درس كثيرًا؛ ___ نجح في الامتحان."
+      },
+      "options": [
+        {
+          "pt": "portanto",
+          "en": "portanto",
+          "ar": "portanto"
+        },
+        {
+          "pt": "embora",
+          "en": "embora",
+          "ar": "embora"
+        },
+        {
+          "pt": "apesar",
+          "en": "apesar",
+          "ar": "apesar"
+        }
+      ],
+      "answer": "portanto",
+      "explanation": {
+        "pt": "Conclusão: 'portanto' liga causa e resultado.",
+        "en": "Conclusion: 'portanto' links cause and result.",
+        "ar": "النتيجة: 'portanto' تربط السبب بالنتيجة."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "___ esteja cansado, ele continua trabalhando.",
+        "en": "___ he is tired, he keeps working.",
+        "ar": "___ أنه متعب، فإنه يواصل العمل."
+      },
+      "options": [
+        {
+          "pt": "Portanto",
+          "en": "Portanto",
+          "ar": "Portanto"
+        },
+        {
+          "pt": "Embora",
+          "en": "Embora",
+          "ar": "Embora"
+        },
+        {
+          "pt": "Além disso",
+          "en": "Além disso",
+          "ar": "Além disso"
+        }
+      ],
+      "answer": "Embora",
+      "explanation": {
+        "pt": "Concessiva: 'embora' + subjuntivo (esteja).",
+        "en": "Concessive: 'embora' + subjunctive (esteja).",
+        "ar": "تنازلية: 'embora' + صيغة الشرط (esteja)."
+      }
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza: 'Although it seems difficult, daily practice makes all the difference.'",
+        "en": "Translate: 'Although it seems difficult, daily practice makes all the difference.'",
+        "ar": "ترجم: 'Although it seems difficult, daily practice makes all the difference.'"
+      },
+      "options": [],
+      "answer": "Embora pareça difícil, a prática diária faz toda a diferença.",
+      "explanation": {
+        "pt": "Concessiva 'embora' + subjuntivo 'pareça'.",
+        "en": "Concessive 'embora' + subjunctive 'pareça'.",
+        "ar": "أداة التنازل 'embora' + الشرط 'pareça'."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Primeiramente,",
+          "en": "Primeiramente,",
+          "ar": "Primeiramente,"
+        },
+        {
+          "pt": "tema",
+          "en": "tema",
+          "ar": "tema"
+        },
+        {
+          "pt": "definir",
+          "en": "definir",
+          "ar": "definir"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "redação.",
+          "en": "redação.",
+          "ar": "redação."
+        },
+        {
+          "pt": "da",
+          "en": "da",
+          "ar": "da"
+        },
+        {
+          "pt": "devem",
+          "en": "devem",
+          "ar": "devem"
+        },
+        {
+          "pt": "vocês",
+          "en": "vocês",
+          "ar": "vocês"
+        }
+      ],
+      "answer": "Primeiramente, vocês devem definir o tema da redação.",
+      "accepted": [
+        "Primeiramente, vocês devem definir o tema da redação."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Primeiramente, vocês devem definir o tema da redação.'",
+        "en": "The correct order: 'First, you must define the essay topic.'",
+        "ar": "الترتيب الصحيح: 'أولًا، يجب عليكم تحديد موضوع المقالة.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "portanto",
+          "en": "therefore",
+          "ar": "portanto"
+        },
+        {
+          "pt": "no entanto",
+          "en": "however",
+          "ar": "no entanto"
+        },
+        {
+          "pt": "porém",
+          "en": "however",
+          "ar": "porém"
+        },
+        {
+          "pt": "contudo",
+          "en": "however",
+          "ar": "contudo"
+        },
+        {
+          "pt": "além disso",
+          "en": "moreover",
+          "ar": "além disso"
+        },
+        {
+          "pt": "entretanto",
+          "en": "meanwhile / however",
+          "ar": "entretanto"
+        }
+      ],
+      "answer": "portanto::therefore|no entanto::however|porém::however|contudo::however|além disso::moreover|entretanto::meanwhile / however",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Primeiramente, vocês devem definir o tema da redação.",
+          "en": "Great. However, remember to organize your ideas with connectors.",
+          "ar": "مفهوم. لذلك يجب أن نبدأ بمقدمة واضحة."
+        },
+        {
+          "pt": "Entendido. Portanto, devemos começar com uma introdução clara.",
+          "en": "First, you must define the essay topic.",
+          "ar": "رائع. ومع ذلك، تذكروا أن تنظموا الأفكار بأدوات الربط."
+        },
+        {
+          "pt": "Ótimo. No entanto, lembrem-se de organizar as ideias com conectivos.",
+          "en": "Understood. Therefore, we should begin with a clear introduction.",
+          "ar": "أولًا، يجب عليكم تحديد موضوع المقالة."
+        }
+      ],
+      "answer": "Primeiramente, vocês devem definir o tema da redação.",
+      "accepted": [],
+      "audio": "Primeiramente, vocês devem definir o tema da redação.",
+      "explanation": {
+        "pt": "Você ouviu: 'Primeiramente, vocês devem definir o tema da redação.' — 'First, you must define the essay topic.'",
+        "en": "You heard: 'Primeiramente, vocês devem definir o tema da redação.' — 'First, you must define the essay topic.'",
+        "ar": "سمعت: 'Primeiramente, vocês devem definir o tema da redação.' — 'أولًا، يجب عليكم تحديد موضوع المقالة.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Podemos falar sobre tecnologia; além disso, queremos citar exemplos do dia a dia.",
+          "en": "Exactly. In order to convince the reader, present strong arguments.",
+          "ar": "يمكننا التحدث عن التكنولوجيا؛ وعلاوة على ذلك، نريد أن نذكر أمثلة من الحياة اليومية."
+        },
+        {
+          "pt": "Exato. A fim de convencer o leitor, apresentem argumentos fortes.",
+          "en": "Understood. Therefore, we should begin with a clear introduction.",
+          "ar": "تمامًا. لكي تقنعوا القارئ، اعرضوا حججًا قوية."
+        },
+        {
+          "pt": "Entendido. Portanto, devemos começar com uma introdução clara.",
+          "en": "We can talk about technology; besides, we want to cite everyday examples.",
+          "ar": "مفهوم. لذلك يجب أن نبدأ بمقدمة واضحة."
+        }
+      ],
+      "answer": "Podemos falar sobre tecnologia; além disso, queremos citar exemplos do dia a dia.",
+      "accepted": [],
+      "audio": "Podemos falar sobre tecnologia; além disso, queremos citar exemplos do dia a dia.",
+      "explanation": {
+        "pt": "Você ouviu: 'Podemos falar sobre tecnologia; além disso, queremos citar exemplos do dia a dia.' — 'We can talk about technology; besides, we want to cite everyday examples.'",
+        "en": "You heard: 'Podemos falar sobre tecnologia; além disso, queremos citar exemplos do dia a dia.' — 'We can talk about technology; besides, we want to cite everyday examples.'",
+        "ar": "سمعت: 'Podemos falar sobre tecnologia; além disso, queremos citar exemplos do dia a dia.' — 'يمكننا التحدث عن التكنولوجيا؛ وعلاوة على ذلك، نريد أن نذكر أمثلة من الحياة اليومية.'"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Ele estudou ___ portanto, passou no exame.",
+        "en": "Ele estudou ___ portanto, passou no exame.",
+        "ar": "Ele estudou ___ portanto, passou no exame."
+      },
+      "options": [
+        {
+          "pt": "muito;",
+          "en": "muito;",
+          "ar": "muito;"
+        },
+        {
+          "pt": "é",
+          "en": "é",
+          "ar": "é"
+        },
+        {
+          "pt": "serviço",
+          "en": "serviço",
+          "ar": "serviço"
+        }
+      ],
+      "answer": "muito;",
+      "accepted": [],
+      "explanation": {
+        "pt": "A resposta é 'muito;'. Frase completa: Ele estudou muito; portanto, passou no exame.",
+        "en": "The answer is 'muito;'. Full sentence: He studied a lot; therefore, he passed the exam.",
+        "ar": "الإجابة الصحيحة: 'muito;'. الجملة كاملة: درس كثيرًا؛ لذلك نجح في الامتحان."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "redação.",
+          "en": "redação.",
+          "ar": "redação."
+        },
+        {
+          "pt": "da",
+          "en": "da",
+          "ar": "da"
+        },
+        {
+          "pt": "definir",
+          "en": "definir",
+          "ar": "definir"
+        },
+        {
+          "pt": "devem",
+          "en": "devem",
+          "ar": "devem"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "Primeiramente,",
+          "en": "Primeiramente,",
+          "ar": "Primeiramente,"
+        },
+        {
+          "pt": "tema",
+          "en": "tema",
+          "ar": "tema"
+        },
+        {
+          "pt": "vocês",
+          "en": "vocês",
+          "ar": "vocês"
+        }
+      ],
+      "answer": "Primeiramente, vocês devem definir o tema da redação.",
+      "accepted": [
+        "Primeiramente, vocês devem definir o tema da redação."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Primeiramente, vocês devem definir o tema da redação.'",
+        "en": "The correct order: 'First, you must define the essay topic.'",
+        "ar": "الترتيب الصحيح: 'أولًا، يجب عليكم تحديد موضوع المقالة.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "entretanto",
+          "en": "moreover",
+          "ar": "entretanto"
+        },
+        {
+          "pt": "no entanto",
+          "en": "however",
+          "ar": "no entanto"
+        },
+        {
+          "pt": "porém",
+          "en": "meanwhile / however",
+          "ar": "porém"
+        },
+        {
+          "pt": "portanto",
+          "en": "however",
+          "ar": "portanto"
+        },
+        {
+          "pt": "contudo",
+          "en": "however",
+          "ar": "contudo"
+        },
+        {
+          "pt": "além disso",
+          "en": "therefore",
+          "ar": "além disso"
+        }
+      ],
+      "answer": "entretanto::moreover|no entanto::however|porém::meanwhile / however|portanto::however|contudo::however|além disso::therefore",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Ótimo. No entanto, lembrem-se de organizar as ideias com conectivos.",
+          "en": "First, you must define the essay topic.",
+          "ar": "رائع. ومع ذلك، تذكروا أن تنظموا الأفكار بأدوات الربط."
+        },
+        {
+          "pt": "Primeiramente, vocês devem definir o tema da redação.",
+          "en": "Understood. Therefore, we should begin with a clear introduction.",
+          "ar": "مفهوم. لذلك يجب أن نبدأ بمقدمة واضحة."
+        },
+        {
+          "pt": "Entendido. Portanto, devemos começar com uma introdução clara.",
+          "en": "Great. However, remember to organize your ideas with connectors.",
+          "ar": "أولًا، يجب عليكم تحديد موضوع المقالة."
+        }
+      ],
+      "answer": "Primeiramente, vocês devem definir o tema da redação.",
+      "accepted": [],
+      "audio": "Primeiramente, vocês devem definir o tema da redação.",
+      "explanation": {
+        "pt": "Você ouviu: 'Primeiramente, vocês devem definir o tema da redação.' — 'First, you must define the essay topic.'",
+        "en": "You heard: 'Primeiramente, vocês devem definir o tema da redação.' — 'First, you must define the essay topic.'",
+        "ar": "سمعت: 'Primeiramente, vocês devem definir o tema da redação.' — 'أولًا، يجب عليكم تحديد موضوع المقالة.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Entendido. Portanto, devemos começar com uma introdução clara.",
+          "en": "Understood. Therefore, we should begin with a clear introduction.",
+          "ar": "مفهوم. لذلك يجب أن نبدأ بمقدمة واضحة."
+        },
+        {
+          "pt": "Podemos falar sobre tecnologia; além disso, queremos citar exemplos do dia a dia.",
+          "en": "Great. However, remember to organize your ideas with connectors.",
+          "ar": "رائع. ومع ذلك، تذكروا أن تنظموا الأفكار بأدوات الربط."
+        },
+        {
+          "pt": "Ótimo. No entanto, lembrem-se de organizar as ideias com conectivos.",
+          "en": "We can talk about technology; besides, we want to cite everyday examples.",
+          "ar": "يمكننا التحدث عن التكنولوجيا؛ وعلاوة على ذلك، نريد أن نذكر أمثلة من الحياة اليومية."
+        }
+      ],
+      "answer": "Podemos falar sobre tecnologia; além disso, queremos citar exemplos do dia a dia.",
+      "accepted": [],
+      "audio": "Podemos falar sobre tecnologia; além disso, queremos citar exemplos do dia a dia.",
+      "explanation": {
+        "pt": "Você ouviu: 'Podemos falar sobre tecnologia; além disso, queremos citar exemplos do dia a dia.' — 'We can talk about technology; besides, we want to cite everyday examples.'",
+        "en": "You heard: 'Podemos falar sobre tecnologia; além disso, queremos citar exemplos do dia a dia.' — 'We can talk about technology; besides, we want to cite everyday examples.'",
+        "ar": "سمعت: 'Podemos falar sobre tecnologia; além disso, queremos citar exemplos do dia a dia.' — 'يمكننا التحدث عن التكنولوجيا؛ وعلاوة على ذلك، نريد أن نذكر أمثلة من الحياة اليومية.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "definir",
+          "en": "definir",
+          "ar": "definir"
+        },
+        {
+          "pt": "devem",
+          "en": "devem",
+          "ar": "devem"
+        },
+        {
+          "pt": "da",
+          "en": "da",
+          "ar": "da"
+        },
+        {
+          "pt": "Primeiramente,",
+          "en": "Primeiramente,",
+          "ar": "Primeiramente,"
+        },
+        {
+          "pt": "redação.",
+          "en": "redação.",
+          "ar": "redação."
+        },
+        {
+          "pt": "tema",
+          "en": "tema",
+          "ar": "tema"
+        },
+        {
+          "pt": "vocês",
+          "en": "vocês",
+          "ar": "vocês"
+        }
+      ],
+      "answer": "Primeiramente, vocês devem definir o tema da redação.",
+      "accepted": [
+        "Primeiramente, vocês devem definir o tema da redação."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Primeiramente, vocês devem definir o tema da redação.'",
+        "en": "The correct order: 'First, you must define the essay topic.'",
+        "ar": "الترتيب الصحيح: 'أولًا، يجب عليكم تحديد موضوع المقالة.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "contudo",
+          "en": "therefore",
+          "ar": "contudo"
+        },
+        {
+          "pt": "portanto",
+          "en": "however",
+          "ar": "portanto"
+        },
+        {
+          "pt": "entretanto",
+          "en": "however",
+          "ar": "entretanto"
+        },
+        {
+          "pt": "porém",
+          "en": "meanwhile / however",
+          "ar": "porém"
+        },
+        {
+          "pt": "no entanto",
+          "en": "moreover",
+          "ar": "no entanto"
+        },
+        {
+          "pt": "além disso",
+          "en": "however",
+          "ar": "além disso"
+        }
+      ],
+      "answer": "contudo::therefore|portanto::however|entretanto::however|porém::meanwhile / however|no entanto::moreover|além disso::however",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Primeiramente, vocês devem definir o tema da redação.",
+          "en": "Great. However, remember to organize your ideas with connectors.",
+          "ar": "رائع. ومع ذلك، تذكروا أن تنظموا الأفكار بأدوات الربط."
+        },
+        {
+          "pt": "Ótimo. No entanto, lembrem-se de organizar as ideias com conectivos.",
+          "en": "Exactly. In order to convince the reader, present strong arguments.",
+          "ar": "أولًا، يجب عليكم تحديد موضوع المقالة."
+        },
+        {
+          "pt": "Exato. A fim de convencer o leitor, apresentem argumentos fortes.",
+          "en": "First, you must define the essay topic.",
+          "ar": "تمامًا. لكي تقنعوا القارئ، اعرضوا حججًا قوية."
+        }
+      ],
+      "answer": "Primeiramente, vocês devem definir o tema da redação.",
+      "accepted": [],
+      "audio": "Primeiramente, vocês devem definir o tema da redação.",
+      "explanation": {
+        "pt": "Você ouviu: 'Primeiramente, vocês devem definir o tema da redação.' — 'First, you must define the essay topic.'",
+        "en": "You heard: 'Primeiramente, vocês devem definir o tema da redação.' — 'First, you must define the essay topic.'",
+        "ar": "سمعت: 'Primeiramente, vocês devem definir o tema da redação.' — 'أولًا، يجب عليكم تحديد موضوع المقالة.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Exato. A fim de convencer o leitor, apresentem argumentos fortes.",
+          "en": "We can talk about technology; besides, we want to cite everyday examples.",
+          "ar": "يمكننا التحدث عن التكنولوجيا؛ وعلاوة على ذلك، نريد أن نذكر أمثلة من الحياة اليومية."
+        },
+        {
+          "pt": "Ótimo. No entanto, lembrem-se de organizar as ideias com conectivos.",
+          "en": "Great. However, remember to organize your ideas with connectors.",
+          "ar": "تمامًا. لكي تقنعوا القارئ، اعرضوا حججًا قوية."
+        },
+        {
+          "pt": "Podemos falar sobre tecnologia; além disso, queremos citar exemplos do dia a dia.",
+          "en": "Exactly. In order to convince the reader, present strong arguments.",
+          "ar": "رائع. ومع ذلك، تذكروا أن تنظموا الأفكار بأدوات الربط."
+        }
+      ],
+      "answer": "Podemos falar sobre tecnologia; além disso, queremos citar exemplos do dia a dia.",
+      "accepted": [],
+      "audio": "Podemos falar sobre tecnologia; além disso, queremos citar exemplos do dia a dia.",
+      "explanation": {
+        "pt": "Você ouviu: 'Podemos falar sobre tecnologia; além disso, queremos citar exemplos do dia a dia.' — 'We can talk about technology; besides, we want to cite everyday examples.'",
+        "en": "You heard: 'Podemos falar sobre tecnologia; além disso, queremos citar exemplos do dia a dia.' — 'We can talk about technology; besides, we want to cite everyday examples.'",
+        "ar": "سمعت: 'Podemos falar sobre tecnologia; além disso, queremos citar exemplos do dia a dia.' — 'يمكننا التحدث عن التكنولوجيا؛ وعلاوة على ذلك، نريد أن نذكر أمثلة من الحياة اليومية.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "da",
+          "en": "da",
+          "ar": "da"
+        },
+        {
+          "pt": "redação.",
+          "en": "redação.",
+          "ar": "redação."
+        },
+        {
+          "pt": "Primeiramente,",
+          "en": "Primeiramente,",
+          "ar": "Primeiramente,"
+        },
+        {
+          "pt": "vocês",
+          "en": "vocês",
+          "ar": "vocês"
+        },
+        {
+          "pt": "definir",
+          "en": "definir",
+          "ar": "definir"
+        },
+        {
+          "pt": "devem",
+          "en": "devem",
+          "ar": "devem"
+        },
+        {
+          "pt": "tema",
+          "en": "tema",
+          "ar": "tema"
+        }
+      ],
+      "answer": "Primeiramente, vocês devem definir o tema da redação.",
+      "accepted": [
+        "Primeiramente, vocês devem definir o tema da redação."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Primeiramente, vocês devem definir o tema da redação.'",
+        "en": "The correct order: 'First, you must define the essay topic.'",
+        "ar": "الترتيب الصحيح: 'أولًا، يجب عليكم تحديد موضوع المقالة.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "além disso",
+          "en": "however",
+          "ar": "além disso"
+        },
+        {
+          "pt": "porém",
+          "en": "meanwhile / however",
+          "ar": "porém"
+        },
+        {
+          "pt": "contudo",
+          "en": "however",
+          "ar": "contudo"
+        },
+        {
+          "pt": "no entanto",
+          "en": "however",
+          "ar": "no entanto"
+        },
+        {
+          "pt": "entretanto",
+          "en": "therefore",
+          "ar": "entretanto"
+        },
+        {
+          "pt": "portanto",
+          "en": "moreover",
+          "ar": "portanto"
+        }
+      ],
+      "answer": "além disso::however|porém::meanwhile / however|contudo::however|no entanto::however|entretanto::therefore|portanto::moreover",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Exato. A fim de convencer o leitor, apresentem argumentos fortes.",
+          "en": "First, you must define the essay topic.",
+          "ar": "رائع. ومع ذلك، تذكروا أن تنظموا الأفكار بأدوات الربط."
+        },
+        {
+          "pt": "Primeiramente, vocês devem definir o tema da redação.",
+          "en": "Great. However, remember to organize your ideas with connectors.",
+          "ar": "تمامًا. لكي تقنعوا القارئ، اعرضوا حججًا قوية."
+        },
+        {
+          "pt": "Ótimo. No entanto, lembrem-se de organizar as ideias com conectivos.",
+          "en": "Exactly. In order to convince the reader, present strong arguments.",
+          "ar": "أولًا، يجب عليكم تحديد موضوع المقالة."
+        }
+      ],
+      "answer": "Primeiramente, vocês devem definir o tema da redação.",
+      "accepted": [],
+      "audio": "Primeiramente, vocês devem definir o tema da redação.",
+      "explanation": {
+        "pt": "Você ouviu: 'Primeiramente, vocês devem definir o tema da redação.' — 'First, you must define the essay topic.'",
+        "en": "You heard: 'Primeiramente, vocês devem definir o tema da redação.' — 'First, you must define the essay topic.'",
+        "ar": "سمعت: 'Primeiramente, vocês devem definir o tema da redação.' — 'أولًا، يجب عليكم تحديد موضوع المقالة.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Podemos falar sobre tecnologia; além disso, queremos citar exemplos do dia a dia.",
+          "en": "Understood. Therefore, we should begin with a clear introduction.",
+          "ar": "مفهوم. لذلك يجب أن نبدأ بمقدمة واضحة."
+        },
+        {
+          "pt": "Entendido. Portanto, devemos começar com uma introdução clara.",
+          "en": "We can talk about technology; besides, we want to cite everyday examples.",
+          "ar": "رائع. ومع ذلك، تذكروا أن تنظموا الأفكار بأدوات الربط."
+        },
+        {
+          "pt": "Ótimo. No entanto, lembrem-se de organizar as ideias com conectivos.",
+          "en": "Great. However, remember to organize your ideas with connectors.",
+          "ar": "يمكننا التحدث عن التكنولوجيا؛ وعلاوة على ذلك، نريد أن نذكر أمثلة من الحياة اليومية."
+        }
+      ],
+      "answer": "Podemos falar sobre tecnologia; além disso, queremos citar exemplos do dia a dia.",
+      "accepted": [],
+      "audio": "Podemos falar sobre tecnologia; além disso, queremos citar exemplos do dia a dia.",
+      "explanation": {
+        "pt": "Você ouviu: 'Podemos falar sobre tecnologia; além disso, queremos citar exemplos do dia a dia.' — 'We can talk about technology; besides, we want to cite everyday examples.'",
+        "en": "You heard: 'Podemos falar sobre tecnologia; além disso, queremos citar exemplos do dia a dia.' — 'We can talk about technology; besides, we want to cite everyday examples.'",
+        "ar": "سمعت: 'Podemos falar sobre tecnologia; além disso, queremos citar exemplos do dia a dia.' — 'يمكننا التحدث عن التكنولوجيا؛ وعلاوة على ذلك، نريد أن نذكر أمثلة من الحياة اليومية.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "da",
+          "en": "da",
+          "ar": "da"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "devem",
+          "en": "devem",
+          "ar": "devem"
+        },
+        {
+          "pt": "Primeiramente,",
+          "en": "Primeiramente,",
+          "ar": "Primeiramente,"
+        },
+        {
+          "pt": "vocês",
+          "en": "vocês",
+          "ar": "vocês"
+        },
+        {
+          "pt": "definir",
+          "en": "definir",
+          "ar": "definir"
+        },
+        {
+          "pt": "redação.",
+          "en": "redação.",
+          "ar": "redação."
+        },
+        {
+          "pt": "tema",
+          "en": "tema",
+          "ar": "tema"
+        }
+      ],
+      "answer": "Primeiramente, vocês devem definir o tema da redação.",
+      "accepted": [
+        "Primeiramente, vocês devem definir o tema da redação."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Primeiramente, vocês devem definir o tema da redação.'",
+        "en": "The correct order: 'First, you must define the essay topic.'",
+        "ar": "الترتيب الصحيح: 'أولًا، يجب عليكم تحديد موضوع المقالة.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "porém",
+          "en": "however",
+          "ar": "porém"
+        },
+        {
+          "pt": "contudo",
+          "en": "meanwhile / however",
+          "ar": "contudo"
+        },
+        {
+          "pt": "portanto",
+          "en": "however",
+          "ar": "portanto"
+        },
+        {
+          "pt": "no entanto",
+          "en": "however",
+          "ar": "no entanto"
+        },
+        {
+          "pt": "além disso",
+          "en": "moreover",
+          "ar": "além disso"
+        },
+        {
+          "pt": "entretanto",
+          "en": "therefore",
+          "ar": "entretanto"
+        }
+      ],
+      "answer": "porém::however|contudo::meanwhile / however|portanto::however|no entanto::however|além disso::moreover|entretanto::therefore",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Primeiramente, vocês devem definir o tema da redação.",
+          "en": "First, you must define the essay topic.",
+          "ar": "أولًا، يجب عليكم تحديد موضوع المقالة."
+        },
+        {
+          "pt": "Entendido. Portanto, devemos começar com uma introdução clara.",
+          "en": "Exactly. In order to convince the reader, present strong arguments.",
+          "ar": "مفهوم. لذلك يجب أن نبدأ بمقدمة واضحة."
+        },
+        {
+          "pt": "Exato. A fim de convencer o leitor, apresentem argumentos fortes.",
+          "en": "Understood. Therefore, we should begin with a clear introduction.",
+          "ar": "تمامًا. لكي تقنعوا القارئ، اعرضوا حججًا قوية."
+        }
+      ],
+      "answer": "Primeiramente, vocês devem definir o tema da redação.",
+      "accepted": [],
+      "audio": "Primeiramente, vocês devem definir o tema da redação.",
+      "explanation": {
+        "pt": "Você ouviu: 'Primeiramente, vocês devem definir o tema da redação.' — 'First, you must define the essay topic.'",
+        "en": "You heard: 'Primeiramente, vocês devem definir o tema da redação.' — 'First, you must define the essay topic.'",
+        "ar": "سمعت: 'Primeiramente, vocês devem definir o tema da redação.' — 'أولًا، يجب عليكم تحديد موضوع المقالة.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Podemos falar sobre tecnologia; além disso, queremos citar exemplos do dia a dia.",
+          "en": "Exactly. In order to convince the reader, present strong arguments.",
+          "ar": "تمامًا. لكي تقنعوا القارئ، اعرضوا حججًا قوية."
+        },
+        {
+          "pt": "Primeiramente, vocês devem definir o tema da redação.",
+          "en": "First, you must define the essay topic.",
+          "ar": "يمكننا التحدث عن التكنولوجيا؛ وعلاوة على ذلك، نريد أن نذكر أمثلة من الحياة اليومية."
+        },
+        {
+          "pt": "Exato. A fim de convencer o leitor, apresentem argumentos fortes.",
+          "en": "We can talk about technology; besides, we want to cite everyday examples.",
+          "ar": "أولًا، يجب عليكم تحديد موضوع المقالة."
+        }
+      ],
+      "answer": "Podemos falar sobre tecnologia; além disso, queremos citar exemplos do dia a dia.",
+      "accepted": [],
+      "audio": "Podemos falar sobre tecnologia; além disso, queremos citar exemplos do dia a dia.",
+      "explanation": {
+        "pt": "Você ouviu: 'Podemos falar sobre tecnologia; além disso, queremos citar exemplos do dia a dia.' — 'We can talk about technology; besides, we want to cite everyday examples.'",
+        "en": "You heard: 'Podemos falar sobre tecnologia; além disso, queremos citar exemplos do dia a dia.' — 'We can talk about technology; besides, we want to cite everyday examples.'",
+        "ar": "سمعت: 'Podemos falar sobre tecnologia; além disso, queremos citar exemplos do dia a dia.' — 'يمكننا التحدث عن التكنولوجيا؛ وعلاوة على ذلك، نريد أن نذكر أمثلة من الحياة اليومية.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "definir",
+          "en": "definir",
+          "ar": "definir"
+        },
+        {
+          "pt": "Primeiramente,",
+          "en": "Primeiramente,",
+          "ar": "Primeiramente,"
+        },
+        {
+          "pt": "vocês",
+          "en": "vocês",
+          "ar": "vocês"
+        },
+        {
+          "pt": "da",
+          "en": "da",
+          "ar": "da"
+        },
+        {
+          "pt": "tema",
+          "en": "tema",
+          "ar": "tema"
+        },
+        {
+          "pt": "redação.",
+          "en": "redação.",
+          "ar": "redação."
+        },
+        {
+          "pt": "devem",
+          "en": "devem",
+          "ar": "devem"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        }
+      ],
+      "answer": "Primeiramente, vocês devem definir o tema da redação.",
+      "accepted": [
+        "Primeiramente, vocês devem definir o tema da redação."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Primeiramente, vocês devem definir o tema da redação.'",
+        "en": "The correct order: 'First, you must define the essay topic.'",
+        "ar": "الترتيب الصحيح: 'أولًا، يجب عليكم تحديد موضوع المقالة.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "entretanto",
+          "en": "however",
+          "ar": "entretanto"
+        },
+        {
+          "pt": "no entanto",
+          "en": "however",
+          "ar": "no entanto"
+        },
+        {
+          "pt": "contudo",
+          "en": "moreover",
+          "ar": "contudo"
+        },
+        {
+          "pt": "portanto",
+          "en": "therefore",
+          "ar": "portanto"
+        },
+        {
+          "pt": "porém",
+          "en": "however",
+          "ar": "porém"
+        },
+        {
+          "pt": "além disso",
+          "en": "meanwhile / however",
+          "ar": "além disso"
+        }
+      ],
+      "answer": "entretanto::however|no entanto::however|contudo::moreover|portanto::therefore|porém::however|além disso::meanwhile / however",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Exato. A fim de convencer o leitor, apresentem argumentos fortes.",
+          "en": "First, you must define the essay topic.",
+          "ar": "أولًا، يجب عليكم تحديد موضوع المقالة."
+        },
+        {
+          "pt": "Ótimo. No entanto, lembrem-se de organizar as ideias com conectivos.",
+          "en": "Great. However, remember to organize your ideas with connectors.",
+          "ar": "تمامًا. لكي تقنعوا القارئ، اعرضوا حججًا قوية."
+        },
+        {
+          "pt": "Primeiramente, vocês devem definir o tema da redação.",
+          "en": "Exactly. In order to convince the reader, present strong arguments.",
+          "ar": "رائع. ومع ذلك، تذكروا أن تنظموا الأفكار بأدوات الربط."
+        }
+      ],
+      "answer": "Primeiramente, vocês devem definir o tema da redação.",
+      "accepted": [],
+      "audio": "Primeiramente, vocês devem definir o tema da redação.",
+      "explanation": {
+        "pt": "Você ouviu: 'Primeiramente, vocês devem definir o tema da redação.' — 'First, you must define the essay topic.'",
+        "en": "You heard: 'Primeiramente, vocês devem definir o tema da redação.' — 'First, you must define the essay topic.'",
+        "ar": "سمعت: 'Primeiramente, vocês devem definir o tema da redação.' — 'أولًا، يجب عليكم تحديد موضوع المقالة.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Ótimo. No entanto, lembrem-se de organizar as ideias com conectivos.",
+          "en": "Great. However, remember to organize your ideas with connectors.",
+          "ar": "مفهوم. لذلك يجب أن نبدأ بمقدمة واضحة."
+        },
+        {
+          "pt": "Podemos falar sobre tecnologia; além disso, queremos citar exemplos do dia a dia.",
+          "en": "Understood. Therefore, we should begin with a clear introduction.",
+          "ar": "رائع. ومع ذلك، تذكروا أن تنظموا الأفكار بأدوات الربط."
+        },
+        {
+          "pt": "Entendido. Portanto, devemos começar com uma introdução clara.",
+          "en": "We can talk about technology; besides, we want to cite everyday examples.",
+          "ar": "يمكننا التحدث عن التكنولوجيا؛ وعلاوة على ذلك، نريد أن نذكر أمثلة من الحياة اليومية."
+        }
+      ],
+      "answer": "Podemos falar sobre tecnologia; além disso, queremos citar exemplos do dia a dia.",
+      "accepted": [],
+      "audio": "Podemos falar sobre tecnologia; além disso, queremos citar exemplos do dia a dia.",
+      "explanation": {
+        "pt": "Você ouviu: 'Podemos falar sobre tecnologia; além disso, queremos citar exemplos do dia a dia.' — 'We can talk about technology; besides, we want to cite everyday examples.'",
+        "en": "You heard: 'Podemos falar sobre tecnologia; além disso, queremos citar exemplos do dia a dia.' — 'We can talk about technology; besides, we want to cite everyday examples.'",
+        "ar": "سمعت: 'Podemos falar sobre tecnologia; além disso, queremos citar exemplos do dia a dia.' — 'يمكننا التحدث عن التكنولوجيا؛ وعلاوة على ذلك، نريد أن نذكر أمثلة من الحياة اليومية.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "da",
+          "en": "da",
+          "ar": "da"
+        },
+        {
+          "pt": "redação.",
+          "en": "redação.",
+          "ar": "redação."
+        },
+        {
+          "pt": "tema",
+          "en": "tema",
+          "ar": "tema"
+        },
+        {
+          "pt": "devem",
+          "en": "devem",
+          "ar": "devem"
+        },
+        {
+          "pt": "vocês",
+          "en": "vocês",
+          "ar": "vocês"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "definir",
+          "en": "definir",
+          "ar": "definir"
+        },
+        {
+          "pt": "Primeiramente,",
+          "en": "Primeiramente,",
+          "ar": "Primeiramente,"
+        }
+      ],
+      "answer": "Primeiramente, vocês devem definir o tema da redação.",
+      "accepted": [
+        "Primeiramente, vocês devem definir o tema da redação."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Primeiramente, vocês devem definir o tema da redação.'",
+        "en": "The correct order: 'First, you must define the essay topic.'",
+        "ar": "الترتيب الصحيح: 'أولًا، يجب عليكم تحديد موضوع المقالة.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "no entanto",
+          "en": "however",
+          "ar": "no entanto"
+        },
+        {
+          "pt": "porém",
+          "en": "however",
+          "ar": "porém"
+        },
+        {
+          "pt": "além disso",
+          "en": "moreover",
+          "ar": "além disso"
+        },
+        {
+          "pt": "contudo",
+          "en": "meanwhile / however",
+          "ar": "contudo"
+        },
+        {
+          "pt": "portanto",
+          "en": "however",
+          "ar": "portanto"
+        },
+        {
+          "pt": "entretanto",
+          "en": "therefore",
+          "ar": "entretanto"
+        }
+      ],
+      "answer": "no entanto::however|porém::however|além disso::moreover|contudo::meanwhile / however|portanto::however|entretanto::therefore",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Exato. A fim de convencer o leitor, apresentem argumentos fortes.",
+          "en": "First, you must define the essay topic.",
+          "ar": "مفهوم. لذلك يجب أن نبدأ بمقدمة واضحة."
+        },
+        {
+          "pt": "Primeiramente, vocês devem definir o tema da redação.",
+          "en": "Exactly. In order to convince the reader, present strong arguments.",
+          "ar": "أولًا، يجب عليكم تحديد موضوع المقالة."
+        },
+        {
+          "pt": "Entendido. Portanto, devemos começar com uma introdução clara.",
+          "en": "Understood. Therefore, we should begin with a clear introduction.",
+          "ar": "تمامًا. لكي تقنعوا القارئ، اعرضوا حججًا قوية."
+        }
+      ],
+      "answer": "Primeiramente, vocês devem definir o tema da redação.",
+      "accepted": [],
+      "audio": "Primeiramente, vocês devem definir o tema da redação.",
+      "explanation": {
+        "pt": "Você ouviu: 'Primeiramente, vocês devem definir o tema da redação.' — 'First, you must define the essay topic.'",
+        "en": "You heard: 'Primeiramente, vocês devem definir o tema da redação.' — 'First, you must define the essay topic.'",
+        "ar": "سمعت: 'Primeiramente, vocês devem definir o tema da redação.' — 'أولًا، يجب عليكم تحديد موضوع المقالة.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Podemos falar sobre tecnologia; além disso, queremos citar exemplos do dia a dia.",
+          "en": "Great. However, remember to organize your ideas with connectors.",
+          "ar": "يمكننا التحدث عن التكنولوجيا؛ وعلاوة على ذلك، نريد أن نذكر أمثلة من الحياة اليومية."
+        },
+        {
+          "pt": "Primeiramente, vocês devem definir o tema da redação.",
+          "en": "We can talk about technology; besides, we want to cite everyday examples.",
+          "ar": "أولًا، يجب عليكم تحديد موضوع المقالة."
+        },
+        {
+          "pt": "Ótimo. No entanto, lembrem-se de organizar as ideias com conectivos.",
+          "en": "First, you must define the essay topic.",
+          "ar": "رائع. ومع ذلك، تذكروا أن تنظموا الأفكار بأدوات الربط."
+        }
+      ],
+      "answer": "Podemos falar sobre tecnologia; além disso, queremos citar exemplos do dia a dia.",
+      "accepted": [],
+      "audio": "Podemos falar sobre tecnologia; além disso, queremos citar exemplos do dia a dia.",
+      "explanation": {
+        "pt": "Você ouviu: 'Podemos falar sobre tecnologia; além disso, queremos citar exemplos do dia a dia.' — 'We can talk about technology; besides, we want to cite everyday examples.'",
+        "en": "You heard: 'Podemos falar sobre tecnologia; além disso, queremos citar exemplos do dia a dia.' — 'We can talk about technology; besides, we want to cite everyday examples.'",
+        "ar": "سمعت: 'Podemos falar sobre tecnologia; além disso, queremos citar exemplos do dia a dia.' — 'يمكننا التحدث عن التكنولوجيا؛ وعلاوة على ذلك، نريد أن نذكر أمثلة من الحياة اليومية.'"
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'therefore'",
+        "en": "Type in Portuguese: 'therefore'",
+        "ar": "اكتب بالبرتغالية: 'لذلك'"
+      },
+      "options": [],
+      "answer": "portanto",
+      "accepted": [
+        "portanto"
+      ],
+      "explanation": {
+        "pt": "'portanto' significa 'therefore'.",
+        "en": "'portanto' means 'therefore'.",
+        "ar": "'$portanto' بالعربية: '$لذلك'."
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'however'",
+        "en": "Type in Portuguese: 'however'",
+        "ar": "اكتب بالبرتغالية: 'لكن'"
+      },
+      "options": [],
+      "answer": "porém",
+      "accepted": [
+        "porém"
+      ],
+      "explanation": {
+        "pt": "'porém' significa 'however'.",
+        "en": "'porém' means 'however'.",
+        "ar": "'$porém' بالعربية: '$لكن'."
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Primeiramente, vocês devem definir o tema da redação.",
+          "en": "Primeiramente, vocês devem definir o tema da redação.",
+          "ar": "Primeiramente, vocês devem definir o tema da redação."
+        },
+        {
+          "pt": "Ótimo. No entanto, lembrem-se de organizar as ideias com conectivos.",
+          "en": "Ótimo. No entanto, lembrem-se de organizar as ideias com conectivos.",
+          "ar": "Ótimo. No entanto, lembrem-se de organizar as ideias com conectivos."
+        },
+        {
+          "pt": "Entendido. Portanto, devemos começar com uma introdução clara.",
+          "en": "Entendido. Portanto, devemos começar com uma introdução clara.",
+          "ar": "Entendido. Portanto, devemos começar com uma introdução clara."
+        }
+      ],
+      "answer": "Primeiramente, vocês devem definir o tema da redação.",
+      "accepted": [],
+      "audio": "Primeiramente, vocês devem definir o tema da redação.",
+      "explanation": {
+        "pt": "Você ouviu: 'Primeiramente, vocês devem definir o tema da redação.'",
+        "en": "You heard: 'Primeiramente, vocês devem definir o tema da redação.'",
+        "ar": "سمعت: 'Primeiramente, vocês devem definir o tema da redação.'"
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Exato. A fim de convencer o leitor, apresentem argumentos fortes.",
+          "en": "Exato. A fim de convencer o leitor, apresentem argumentos fortes.",
+          "ar": "Exato. A fim de convencer o leitor, apresentem argumentos fortes."
+        },
+        {
+          "pt": "Ótimo. No entanto, lembrem-se de organizar as ideias com conectivos.",
+          "en": "Ótimo. No entanto, lembrem-se de organizar as ideias com conectivos.",
+          "ar": "Ótimo. No entanto, lembrem-se de organizar as ideias com conectivos."
+        },
+        {
+          "pt": "Podemos falar sobre tecnologia; além disso, queremos citar exemplos do dia a dia.",
+          "en": "Podemos falar sobre tecnologia; além disso, queremos citar exemplos do dia a dia.",
+          "ar": "Podemos falar sobre tecnologia; além disso, queremos citar exemplos do dia a dia."
+        }
+      ],
+      "answer": "Podemos falar sobre tecnologia; além disso, queremos citar exemplos do dia a dia.",
+      "accepted": [],
+      "audio": "Podemos falar sobre tecnologia; além disso, queremos citar exemplos do dia a dia.",
+      "explanation": {
+        "pt": "Você ouviu: 'Podemos falar sobre tecnologia; além disso, queremos citar exemplos do dia a dia.'",
+        "en": "You heard: 'Podemos falar sobre tecnologia; além disso, queremos citar exemplos do dia a dia.'",
+        "ar": "سمعت: 'Podemos falar sobre tecnologia; além disso, queremos citar exemplos do dia a dia.'"
+      }
+    },
+    {
+      "type": "dictation",
+      "prompt": {
+        "pt": "Ouça e escreva o que você ouviu.",
+        "en": "Listen and type what you hear.",
+        "ar": "استمع واكتب ما سمعته."
+      },
+      "options": [],
+      "answer": "Primeiramente, vocês devem definir o tema da redação.",
+      "accepted": [],
+      "audio": "Primeiramente, vocês devem definir o tema da redação.",
+      "explanation": {
+        "pt": "A frase correta: 'Primeiramente, vocês devem definir o tema da redação.'",
+        "en": "The correct sentence: 'Primeiramente, vocês devem definir o tema da redação.'",
+        "ar": "الجملة الصحيحة: 'Primeiramente, vocês devem definir o tema da redação.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Primeiramente,",
+          "en": "Primeiramente,",
+          "ar": "Primeiramente,"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "da",
+          "en": "da",
+          "ar": "da"
+        },
+        {
+          "pt": "definir",
+          "en": "definir",
+          "ar": "definir"
+        },
+        {
+          "pt": "devem",
+          "en": "devem",
+          "ar": "devem"
+        },
+        {
+          "pt": "redação.",
+          "en": "redação.",
+          "ar": "redação."
+        },
+        {
+          "pt": "vocês",
+          "en": "vocês",
+          "ar": "vocês"
+        },
+        {
+          "pt": "tema",
+          "en": "tema",
+          "ar": "tema"
+        }
+      ],
+      "answer": "Primeiramente, vocês devem definir o tema da redação.",
+      "accepted": [
+        "Primeiramente, vocês devem definir o tema da redação."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Primeiramente, vocês devem definir o tema da redação.'",
+        "en": "The correct order: 'First, you must define the essay topic.'",
+        "ar": "الترتيب الصحيح: 'أولًا، يجب عليكم تحديد موضوع المقالة.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "portanto",
+          "en": "moreover",
+          "ar": "portanto"
+        },
+        {
+          "pt": "entretanto",
+          "en": "therefore",
+          "ar": "entretanto"
+        },
+        {
+          "pt": "porém",
+          "en": "meanwhile / however",
+          "ar": "porém"
+        },
+        {
+          "pt": "além disso",
+          "en": "however",
+          "ar": "além disso"
+        },
+        {
+          "pt": "no entanto",
+          "en": "however",
+          "ar": "no entanto"
+        },
+        {
+          "pt": "contudo",
+          "en": "however",
+          "ar": "contudo"
+        }
+      ],
+      "answer": "portanto::moreover|entretanto::therefore|porém::meanwhile / however|além disso::however|no entanto::however|contudo::however",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Entendido. Portanto, devemos começar com uma introdução clara.",
+          "en": "Understood. Therefore, we should begin with a clear introduction.",
+          "ar": "أولًا، يجب عليكم تحديد موضوع المقالة."
+        },
+        {
+          "pt": "Primeiramente, vocês devem definir o tema da redação.",
+          "en": "First, you must define the essay topic.",
+          "ar": "مفهوم. لذلك يجب أن نبدأ بمقدمة واضحة."
+        },
+        {
+          "pt": "Podemos falar sobre tecnologia; além disso, queremos citar exemplos do dia a dia.",
+          "en": "We can talk about technology; besides, we want to cite everyday examples.",
+          "ar": "يمكننا التحدث عن التكنولوجيا؛ وعلاوة على ذلك، نريد أن نذكر أمثلة من الحياة اليومية."
+        }
+      ],
+      "answer": "Primeiramente, vocês devem definir o tema da redação.",
+      "accepted": [],
+      "audio": "Primeiramente, vocês devem definir o tema da redação.",
+      "explanation": {
+        "pt": "Você ouviu: 'Primeiramente, vocês devem definir o tema da redação.' — 'First, you must define the essay topic.'",
+        "en": "You heard: 'Primeiramente, vocês devem definir o tema da redação.' — 'First, you must define the essay topic.'",
+        "ar": "سمعت: 'Primeiramente, vocês devem definir o tema da redação.' — 'أولًا، يجب عليكم تحديد موضوع المقالة.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Primeiramente, vocês devem definir o tema da redação.",
+          "en": "First, you must define the essay topic.",
+          "ar": "أولًا، يجب عليكم تحديد موضوع المقالة."
+        },
+        {
+          "pt": "Ótimo. No entanto, lembrem-se de organizar as ideias com conectivos.",
+          "en": "We can talk about technology; besides, we want to cite everyday examples.",
+          "ar": "يمكننا التحدث عن التكنولوجيا؛ وعلاوة على ذلك، نريد أن نذكر أمثلة من الحياة اليومية."
+        },
+        {
+          "pt": "Podemos falar sobre tecnologia; além disso, queremos citar exemplos do dia a dia.",
+          "en": "Great. However, remember to organize your ideas with connectors.",
+          "ar": "رائع. ومع ذلك، تذكروا أن تنظموا الأفكار بأدوات الربط."
+        }
+      ],
+      "answer": "Podemos falar sobre tecnologia; além disso, queremos citar exemplos do dia a dia.",
+      "accepted": [],
+      "audio": "Podemos falar sobre tecnologia; além disso, queremos citar exemplos do dia a dia.",
+      "explanation": {
+        "pt": "Você ouviu: 'Podemos falar sobre tecnologia; além disso, queremos citar exemplos do dia a dia.' — 'We can talk about technology; besides, we want to cite everyday examples.'",
+        "en": "You heard: 'Podemos falar sobre tecnologia; além disso, queremos citar exemplos do dia a dia.' — 'We can talk about technology; besides, we want to cite everyday examples.'",
+        "ar": "سمعت: 'Podemos falar sobre tecnologia; além disso, queremos citar exemplos do dia a dia.' — 'يمكننا التحدث عن التكنولوجيا؛ وعلاوة على ذلك، نريد أن نذكر أمثلة من الحياة اليومية.'"
+      }
+    }
+  ],
+  "speaking": {
+    "title": {
+      "pt": "Fale Agora — Ouça e Repita",
+      "en": "Speak Now — Listen and Repeat",
+      "ar": "تحدث الآن — استمع وكرر"
+    },
+    "phrases": [
+      {
+        "pt": "Primeiramente, vocês devem definir o tema da redação.",
+        "en": "First, you must define the essay topic.",
+        "ar": "أولًا، يجب عليكم تحديد موضوع المقالة."
+      },
+      {
+        "pt": "Podemos falar sobre tecnologia; além disso, queremos citar exemplos do dia a dia.",
+        "en": "We can talk about technology; besides, we want to cite everyday examples.",
+        "ar": "يمكننا التحدث عن التكنولوجيا؛ وعلاوة على ذلك، نريد أن نذكر أمثلة من الحياة اليومية."
+      },
+      {
+        "pt": "Ótimo. No entanto, lembrem-se de organizar as ideias com conectivos.",
+        "en": "Great. However, remember to organize your ideas with connectors.",
+        "ar": "رائع. ومع ذلك، تذكروا أن تنظموا الأفكار بأدوات الربط."
+      },
+      {
+        "pt": "Entendido. Portanto, devemos começar com uma introdução clara.",
+        "en": "Understood. Therefore, we should begin with a clear introduction.",
+        "ar": "مفهوم. لذلك يجب أن نبدأ بمقدمة واضحة."
+      },
+      {
+        "pt": "Exato. A fim de convencer o leitor, apresentem argumentos fortes.",
+        "en": "Exactly. In order to convince the reader, present strong arguments.",
+        "ar": "تمامًا. لكي تقنعوا القارئ، اعرضوا حججًا قوية."
+      },
+      {
+        "pt": "portanto",
+        "en": "therefore",
+        "ar": "لذلك"
+      },
+      {
+        "pt": "porém",
+        "en": "however",
+        "ar": "لكن"
+      },
+      {
+        "pt": "contudo",
+        "en": "however",
+        "ar": "ومع ذلك"
+      }
+    ]
+  },
+  "cultural_tips": {
+    "pt": "",
+    "en": "",
+    "ar": ""
+  }
+}

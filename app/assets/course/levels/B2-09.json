@@ -1,0 +1,2057 @@
+{
+  "id": "B2-09",
+  "level": "B2",
+  "level_name": {
+    "pt": "Intermediário Alto",
+    "en": "Upper-Intermediate",
+    "ar": "متوسط متقدم"
+  },
+  "title": {
+    "pt": "Subjuntivo III (Futuro)",
+    "en": "Subjunctive III (Future)",
+    "ar": "صيغة المستقبل الشرطي"
+  },
+  "objectives": [
+    {
+      "pt": "Formar o futuro do subjuntivo",
+      "en": "Form the future subjunctive",
+      "ar": "تكوين صيغة المستقبل من الشرط"
+    },
+    {
+      "pt": "Usá-lo em orações temporais e condicionais",
+      "en": "Use it in temporal and conditional clauses",
+      "ar": "استخدامه في الجمل الزمنية والشرطية"
+    },
+    {
+      "pt": "Empregá-lo após 'quando', 'se' e 'assim que'",
+      "en": "Use it after 'quando', 'se' and 'assim que'",
+      "ar": "استخدامه بعد 'quando' و'se' و'assim que'"
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "quando eu for",
+      "ipa": "/ˈkwɐ̃.du ew foχ/",
+      "en": "when I go",
+      "ar": "عندما أذهب",
+      "example": {
+        "pt": "Quando eu sair do trabalho hoje, quero ir à academia.",
+        "en": "When I finish work today, I want to go to the gym.",
+        "ar": "عندما أنتهي من العمل اليوم، أريد الذهاب إلى النادي الرياضي."
+      }
+    },
+    {
+      "pt": "se eu puder",
+      "ipa": "/si ew puˈdɛχ/",
+      "en": "if I can",
+      "ar": "إذا استطعت",
+      "example": {
+        "pt": "Ótimo! Se eu terminar o projeto cedo, vou junto com você.",
+        "en": "Great! If I finish the project early, I'll go with you.",
+        "ar": "رائع! إذا أنهيت المشروع مبكرًا، سأذهب معك."
+      }
+    },
+    {
+      "pt": "quando chegar",
+      "ipa": "/ˈkwɐ̃.du ʃeˈɡaχ/",
+      "en": "when I arrive",
+      "ar": "عندما أصل",
+      "example": {
+        "pt": "Quando eu sair do trabalho hoje, quero ir à academia.",
+        "en": "When I finish work today, I want to go to the gym.",
+        "ar": "عندما أنتهي من العمل اليوم، أريد الذهاب إلى النادي الرياضي."
+      }
+    },
+    {
+      "pt": "enquanto estiver",
+      "ipa": "/ẽˈkwɐ̃.tu is.tʃiˈveχ/",
+      "en": "while I am",
+      "ar": "بينما أكون",
+      "example": {
+        "pt": "Enquanto estiver no Brasil, quero viajar pelo Nordeste.",
+        "en": "While I'm in Brazil, I want to travel through the Northeast.",
+        "ar": "بينما أكون في البرازيل، أريد السفر عبر الشمال الشرقي."
+      }
+    },
+    {
+      "pt": "assim que terminar",
+      "ipa": "/aˈsĩ ki teχ.miˈnaχ/",
+      "en": "as soon as I finish",
+      "ar": "بمجرد أن أنتهي",
+      "example": {
+        "pt": "Legal. Assim que você terminar, me avisa.",
+        "en": "Cool. As soon as you finish, let me know.",
+        "ar": "حسنًا. بمجرد أن تنتهي، أخبرني."
+      }
+    },
+    {
+      "pt": "logo que",
+      "ipa": "/ˈlɔ.ɡu ki/",
+      "en": "as soon as",
+      "ar": "حالما",
+      "example": {
+        "pt": "Quando eu sair do trabalho hoje, quero ir à academia.",
+        "en": "When I finish work today, I want to go to the gym.",
+        "ar": "عندما أنتهي من العمل اليوم، أريد الذهاب إلى النادي الرياضي."
+      }
+    },
+    {
+      "pt": "o quanto antes",
+      "ipa": "/u ˈkwɐ̃.tu ˈɐ̃.tʃis/",
+      "en": "as soon as possible",
+      "ar": "في أقرب وقت",
+      "example": {
+        "pt": "Ótimo! Se eu terminar o projeto cedo, vou junto com você.",
+        "en": "Great! If I finish the project early, I'll go with you.",
+        "ar": "رائع! إذا أنهيت المشروع مبكرًا، سأذهب معك."
+      }
+    },
+    {
+      "pt": "a menos que",
+      "ipa": "/a ˈmẽ.nus ki/",
+      "en": "unless",
+      "ar": "ما لم",
+      "example": {
+        "pt": "Perfeito. A menos que chova, vamos nos divertir.",
+        "en": "Perfect. Unless it rains, we'll have fun.",
+        "ar": "رائع. ما لم يهطل المطر، سنستمتع."
+      }
+    },
+    {
+      "pt": "salvo se",
+      "ipa": "/ˈsaw.vu si/",
+      "en": "unless",
+      "ar": "إلا إذا",
+      "example": {
+        "pt": "Quando eu sair do trabalho hoje, quero ir à academia.",
+        "en": "When I finish work today, I want to go to the gym.",
+        "ar": "عندما أنتهي من العمل اليوم، أريد الذهاب إلى النادي الرياضي."
+      }
+    },
+    {
+      "pt": "no caso de",
+      "ipa": "/nu ˈka.zu dʒi/",
+      "en": "in case",
+      "ar": "في حال",
+      "example": {
+        "pt": "Enquanto estiver no Brasil, quero viajar pelo Nordeste.",
+        "en": "While I'm in Brazil, I want to travel through the Northeast.",
+        "ar": "بينما أكون في البرازيل، أريد السفر عبر الشمال الشرقي."
+      }
+    },
+    {
+      "pt": "ainda que",
+      "ipa": "/aˈĩ.da ki/",
+      "en": "even if",
+      "ar": "حتى لو",
+      "example": {
+        "pt": "Quando eu sair do trabalho hoje, quero ir à academia.",
+        "en": "When I finish work today, I want to go to the gym.",
+        "ar": "عندما أنتهي من العمل اليوم، أريد الذهاب إلى النادي الرياضي."
+      }
+    },
+    {
+      "pt": "quem quer que",
+      "ipa": "/kẽj ˈkɛχ ki/",
+      "en": "whoever",
+      "ar": "من كان",
+      "example": {
+        "pt": "Combinado. Depois, quem sabe, jantamos fora.",
+        "en": "Deal. Then, who knows, we have dinner out.",
+        "ar": "متفق. ثم بعد ذلك، من يدري، ربما نتناول العشاء خارجًا."
+      }
+    },
+    {
+      "pt": "se necessário",
+      "ipa": "/si ne.seˈsa.ɾju/",
+      "en": "if necessary",
+      "ar": "إذا لزم الأمر",
+      "example": {
+        "pt": "Ótimo! Se eu terminar o projeto cedo, vou junto com você.",
+        "en": "Great! If I finish the project early, I'll go with you.",
+        "ar": "رائع! إذا أنهيت المشروع مبكرًا، سأذهب معك."
+      }
+    },
+    {
+      "pt": "houver",
+      "ipa": "/oˈveχ/",
+      "en": "there to be",
+      "ar": "إذا كان هناك",
+      "example": {
+        "pt": "Quando eu sair do trabalho hoje, quero ir à academia.",
+        "en": "When I finish work today, I want to go to the gym.",
+        "ar": "عندما أنتهي من العمل اليوم، أريد الذهاب إلى النادي الرياضي."
+      }
+    },
+    {
+      "pt": "fizer",
+      "ipa": "/fiˈzɛχ/",
+      "en": "(if I) do",
+      "ar": "إذا فعلت",
+      "example": {
+        "pt": "Quando eu sair do trabalho hoje, quero ir à academia.",
+        "en": "When I finish work today, I want to go to the gym.",
+        "ar": "عندما أنتهي من العمل اليوم، أريد الذهاب إلى النادي الرياضي."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "title": {
+        "pt": "Formação do Futuro do Subjuntivo",
+        "en": "Forming the Future Subjunctive",
+        "ar": "تكوين المستقبل الشرطي"
+      },
+      "explanation": {
+        "pt": "Nos verbos regulares, o futuro do subjuntivo usa a raiz do infinitivo: falar → quando eu falar, tu falares, ele falar, nós falarmos, eles falarem. Verbos irregulares: ser → for, estar → estiver, ter → tiver, ir → for, fazer → fizer, poder → puder, pôr → puser, saber → souber, dar → der, ver → vir (virem).",
+        "en": "In regular verbs, the future subjunctive uses the infinitive stem: falar → quando eu falar, tu falares, ele falar, nós falarmos, eles falarem. Irregular verbs: ser → for, estar → estiver, ter → tiver, ir → for, fazer → fizer, poder → puder, pôr → puser, saber → souber, dar → der, ver → vir (virem).",
+        "ar": "في الأفعال المنتظمة، يستخدم المستقبل الشرطي جذر المصدر: falar ← quando eu falar، tu falares، ele falar، nós falarmos، eles falarem. الأفعال الشاذة: ser ← for، estar ← estiver، ter ← tiver، ir ← for، fazer ← fizer، poder ← puder، pôr ← puser، saber ← souber، dar ← der، ver ← vir (virem)."
+      },
+      "examples": [
+        {
+          "pt": "Quando eu falar com ela, te conto.",
+          "en": "When I talk to her, I'll tell you.",
+          "ar": "عندما أتحدث معها، سأخبرك."
+        },
+        {
+          "pt": "Se ele puder vir, será ótimo.",
+          "en": "If he can come, it'll be great.",
+          "ar": "إذا استطاع المجيء، سيكون رائعًا."
+        },
+        {
+          "pt": "Quando eles chegarem, jantaremos.",
+          "en": "When they arrive, we'll have dinner.",
+          "ar": "عندما يصلون، سنتعشى."
+        },
+        {
+          "pt": "Se você tiver dúvidas, me pergunte.",
+          "en": "If you have questions, ask me.",
+          "ar": "إذا كانت لديك أسئلة، فاسألني."
+        }
+      ]
+    },
+    {
+      "title": {
+        "pt": "Usos do Futuro do Subjuntivo",
+        "en": "Uses of the Future Subjunctive",
+        "ar": "استخدامات المستقبل الشرطي"
+      },
+      "explanation": {
+        "pt": "O futuro do subjuntivo aparece em orações temporais (quando, assim que, logo que, enquanto) e condicionais (se) que se referem ao futuro, e em concessivas (ainda que, quem quer que). A oração principal fica no futuro.",
+        "en": "The future subjunctive appears in temporal clauses (quando, assim que, logo que, enquanto) and conditional clauses (se) that refer to the future, and in concessive clauses (ainda que, quem quer que). The main clause is in the future.",
+        "ar": "يظهر المستقبل الشرطي في الجمل الزمنية (quando، assim que، logo que، enquanto) والشرطية (se) التي تشير إلى المستقبل، وفي الجمل التنازلية (ainda que، quem quer que). وتكون الجملة الرئيسية في صيغة المستقبل."
+      },
+      "examples": [
+        {
+          "pt": "Assim que terminar o trabalho, vou descansar.",
+          "en": "As soon as I finish work, I'll rest.",
+          "ar": "بمجرد أن أنهي العمل، سأرتاح."
+        },
+        {
+          "pt": "A menos que você estude, não vai passar.",
+          "en": "Unless you study, you won't pass.",
+          "ar": "ما لم تدرس، فلن تنجح."
+        },
+        {
+          "pt": "Enquanto estiver no Brasil, quero viajar pelo Nordeste.",
+          "en": "While I'm in Brazil, I want to travel through the Northeast.",
+          "ar": "بينما أكون في البرازيل، أريد السفر عبر الشمال الشرقي."
+        },
+        {
+          "pt": "Quem quer que ganhe a eleição, a vida continua.",
+          "en": "Whoever wins the election, life goes on.",
+          "ar": "من كان يفوز في الانتخابات، فالحياة تستمر."
+        }
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": {
+      "pt": "Planos para Depois do Trabalho",
+      "en": "Plans for After Work",
+      "ar": "خطط ما بعد العمل"
+    },
+    "lines": [
+      {
+        "speaker": "Carla",
+        "pt": "Quando eu sair do trabalho hoje, quero ir à academia.",
+        "en": "When I finish work today, I want to go to the gym.",
+        "ar": "عندما أنتهي من العمل اليوم، أريد الذهاب إلى النادي الرياضي."
+      },
+      {
+        "speaker": "Rafael",
+        "pt": "Ótimo! Se eu terminar o projeto cedo, vou junto com você.",
+        "en": "Great! If I finish the project early, I'll go with you.",
+        "ar": "رائع! إذا أنهيت المشروع مبكرًا، سأذهب معك."
+      },
+      {
+        "speaker": "Carla",
+        "pt": "Legal. Assim que você terminar, me avisa.",
+        "en": "Cool. As soon as you finish, let me know.",
+        "ar": "حسنًا. بمجرد أن تنتهي، أخبرني."
+      },
+      {
+        "speaker": "Rafael",
+        "pt": "Combinado. Depois, quem sabe, jantamos fora.",
+        "en": "Deal. Then, who knows, we have dinner out.",
+        "ar": "متفق. ثم بعد ذلك، من يدري، ربما نتناول العشاء خارجًا."
+      },
+      {
+        "speaker": "Carla",
+        "pt": "Perfeito. A menos que chova, vamos nos divertir.",
+        "en": "Perfect. Unless it rains, we'll have fun.",
+        "ar": "رائع. ما لم يهطل المطر، سنستمتع."
+      }
+    ]
+  },
+  "reading": {
+    "title": {
+      "pt": "Planos para o Futuro",
+      "en": "Plans for the Future",
+      "ar": "خطط للمستقبل"
+    },
+    "text_pt": "Quando você concluir a faculdade, muitas portas se abrirão. Se escolher bem a carreira, o trabalho se torna prazer. Assim que conseguir uma oportunidade, aproveite cada aprendizado. Lembre-se: no caso de mudar de ideia, você sempre pode recomeçar.",
+    "text_en": "When you finish college, many doors will open. If you choose your career well, work becomes a pleasure. As soon as you get an opportunity, make the most of every lesson. Remember: in case you change your mind, you can always start over.",
+    "text_ar": "عندما تنهي الجامعة، ستُفتح أمامك أبواب كثيرة. إذا اخترت مسيرتك جيدًا، يصبح العمل متعة. بمجرد أن تحصل على فرصة، اغتنم كل ما تتعلمه. وتذكر: في حال غيّرت رأيك، يمكنك دائمًا أن تبدأ من جديد."
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Quando eu ___ com ela, te conto.",
+        "en": "When I ___ to her, I'll tell you.",
+        "ar": "عندما ___ معها، سأخبرك."
+      },
+      "options": [
+        {
+          "pt": "falo",
+          "en": "falo",
+          "ar": "falo"
+        },
+        {
+          "pt": "falar",
+          "en": "falar",
+          "ar": "falar"
+        },
+        {
+          "pt": "falarei",
+          "en": "falarei",
+          "ar": "falarei"
+        }
+      ],
+      "answer": "falar",
+      "explanation": {
+        "pt": "Após 'quando' com sentido de futuro, usamos o futuro do subjuntivo: falar.",
+        "en": "After 'quando' with a future meaning, we use the future subjunctive: falar.",
+        "ar": "بعد 'quando' بمعنى المستقبل نستخدم المستقبل الشرطي: falar."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Se você ___ dúvidas, me pergunte.",
+        "en": "If you ___ questions, ask me.",
+        "ar": "إذا ___ لديك أسئلة، فاسألني."
+      },
+      "options": [
+        {
+          "pt": "tem",
+          "en": "tem",
+          "ar": "tem"
+        },
+        {
+          "pt": "ter",
+          "en": "ter",
+          "ar": "ter"
+        },
+        {
+          "pt": "tiver",
+          "en": "tiver",
+          "ar": "tiver"
+        }
+      ],
+      "answer": "tiver",
+      "explanation": {
+        "pt": "Condição futura: 'se' + futuro do subjuntivo (tiver).",
+        "en": "Future condition: 'se' + future subjunctive (tiver).",
+        "ar": "شرط مستقبلي: 'se' + المستقبل الشرطي (tiver)."
+      }
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza: 'As soon as I finish work, I'll rest.'",
+        "en": "Translate: 'As soon as I finish work, I'll rest.'",
+        "ar": "ترجم: 'As soon as I finish work, I'll rest.'"
+      },
+      "options": [],
+      "answer": "Assim que terminar o trabalho, vou descansar.",
+      "explanation": {
+        "pt": "Temporal: 'assim que' + futuro do subjuntivo 'terminar'.",
+        "en": "Temporal: 'assim que' + future subjunctive 'terminar'.",
+        "ar": "زمنية: 'assim que' + المستقبل الشرطي 'terminar'."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Quando",
+          "en": "Quando",
+          "ar": "Quando"
+        },
+        {
+          "pt": "hoje,",
+          "en": "hoje,",
+          "ar": "hoje,"
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "sair",
+          "en": "sair",
+          "ar": "sair"
+        },
+        {
+          "pt": "academia.",
+          "en": "academia.",
+          "ar": "academia."
+        },
+        {
+          "pt": "eu",
+          "en": "eu",
+          "ar": "eu"
+        },
+        {
+          "pt": "quero",
+          "en": "quero",
+          "ar": "quero"
+        },
+        {
+          "pt": "ir",
+          "en": "ir",
+          "ar": "ir"
+        },
+        {
+          "pt": "trabalho",
+          "en": "trabalho",
+          "ar": "trabalho"
+        },
+        {
+          "pt": "à",
+          "en": "à",
+          "ar": "à"
+        }
+      ],
+      "answer": "Quando eu sair do trabalho hoje, quero ir à academia.",
+      "accepted": [
+        "Quando eu sair do trabalho hoje, quero ir à academia."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Quando eu sair do trabalho hoje, quero ir à academia.'",
+        "en": "The correct order: 'When I finish work today, I want to go to the gym.'",
+        "ar": "الترتيب الصحيح: 'عندما أنتهي من العمل اليوم، أريد الذهاب إلى النادي الرياضي.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "se eu puder",
+          "en": "when I arrive",
+          "ar": "se eu puder"
+        },
+        {
+          "pt": "logo que",
+          "en": "if I can",
+          "ar": "logo que"
+        },
+        {
+          "pt": "quando eu for",
+          "en": "as soon as I finish",
+          "ar": "quando eu for"
+        },
+        {
+          "pt": "quando chegar",
+          "en": "while I am",
+          "ar": "quando chegar"
+        },
+        {
+          "pt": "assim que terminar",
+          "en": "when I go",
+          "ar": "assim que terminar"
+        },
+        {
+          "pt": "enquanto estiver",
+          "en": "as soon as",
+          "ar": "enquanto estiver"
+        }
+      ],
+      "answer": "se eu puder::when I arrive|logo que::if I can|quando eu for::as soon as I finish|quando chegar::while I am|assim que terminar::when I go|enquanto estiver::as soon as",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Perfeito. A menos que chova, vamos nos divertir.",
+          "en": "When I finish work today, I want to go to the gym.",
+          "ar": "رائع. ما لم يهطل المطر، سنستمتع."
+        },
+        {
+          "pt": "Quando eu sair do trabalho hoje, quero ir à academia.",
+          "en": "Great! If I finish the project early, I'll go with you.",
+          "ar": "عندما أنتهي من العمل اليوم، أريد الذهاب إلى النادي الرياضي."
+        },
+        {
+          "pt": "Ótimo! Se eu terminar o projeto cedo, vou junto com você.",
+          "en": "Perfect. Unless it rains, we'll have fun.",
+          "ar": "رائع! إذا أنهيت المشروع مبكرًا، سأذهب معك."
+        }
+      ],
+      "answer": "Quando eu sair do trabalho hoje, quero ir à academia.",
+      "accepted": [],
+      "audio": "Quando eu sair do trabalho hoje, quero ir à academia.",
+      "explanation": {
+        "pt": "Você ouviu: 'Quando eu sair do trabalho hoje, quero ir à academia.' — 'When I finish work today, I want to go to the gym.'",
+        "en": "You heard: 'Quando eu sair do trabalho hoje, quero ir à academia.' — 'When I finish work today, I want to go to the gym.'",
+        "ar": "سمعت: 'Quando eu sair do trabalho hoje, quero ir à academia.' — 'عندما أنتهي من العمل اليوم، أريد الذهاب إلى النادي الرياضي.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Ótimo! Se eu terminar o projeto cedo, vou junto com você.",
+          "en": "Cool. As soon as you finish, let me know.",
+          "ar": "حسنًا. بمجرد أن تنتهي، أخبرني."
+        },
+        {
+          "pt": "Legal. Assim que você terminar, me avisa.",
+          "en": "Great! If I finish the project early, I'll go with you.",
+          "ar": "عندما أنتهي من العمل اليوم، أريد الذهاب إلى النادي الرياضي."
+        },
+        {
+          "pt": "Quando eu sair do trabalho hoje, quero ir à academia.",
+          "en": "When I finish work today, I want to go to the gym.",
+          "ar": "رائع! إذا أنهيت المشروع مبكرًا، سأذهب معك."
+        }
+      ],
+      "answer": "Ótimo! Se eu terminar o projeto cedo, vou junto com você.",
+      "accepted": [],
+      "audio": "Ótimo! Se eu terminar o projeto cedo, vou junto com você.",
+      "explanation": {
+        "pt": "Você ouviu: 'Ótimo! Se eu terminar o projeto cedo, vou junto com você.' — 'Great! If I finish the project early, I'll go with you.'",
+        "en": "You heard: 'Ótimo! Se eu terminar o projeto cedo, vou junto com você.' — 'Great! If I finish the project early, I'll go with you.'",
+        "ar": "سمعت: 'Ótimo! Se eu terminar o projeto cedo, vou junto com você.' — 'رائع! إذا أنهيت المشروع مبكرًا، سأذهب معك.'"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Quando eu falar com ___ te conto.",
+        "en": "Quando eu falar com ___ te conto.",
+        "ar": "Quando eu falar com ___ te conto."
+      },
+      "options": [
+        {
+          "pt": "será",
+          "en": "será",
+          "ar": "será"
+        },
+        {
+          "pt": "ela,",
+          "en": "ela,",
+          "ar": "ela,"
+        },
+        {
+          "pt": "puder",
+          "en": "puder",
+          "ar": "puder"
+        }
+      ],
+      "answer": "ela,",
+      "accepted": [],
+      "explanation": {
+        "pt": "A resposta é 'ela,'. Frase completa: Quando eu falar com ela, te conto.",
+        "en": "The answer is 'ela,'. Full sentence: When I talk to her, I'll tell you.",
+        "ar": "الإجابة الصحيحة: 'ela,'. الجملة كاملة: عندما أتحدث معها، سأخبرك."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "trabalho",
+          "en": "trabalho",
+          "ar": "trabalho"
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "eu",
+          "en": "eu",
+          "ar": "eu"
+        },
+        {
+          "pt": "quero",
+          "en": "quero",
+          "ar": "quero"
+        },
+        {
+          "pt": "à",
+          "en": "à",
+          "ar": "à"
+        },
+        {
+          "pt": "academia.",
+          "en": "academia.",
+          "ar": "academia."
+        },
+        {
+          "pt": "ir",
+          "en": "ir",
+          "ar": "ir"
+        },
+        {
+          "pt": "hoje,",
+          "en": "hoje,",
+          "ar": "hoje,"
+        },
+        {
+          "pt": "sair",
+          "en": "sair",
+          "ar": "sair"
+        },
+        {
+          "pt": "Quando",
+          "en": "Quando",
+          "ar": "Quando"
+        }
+      ],
+      "answer": "Quando eu sair do trabalho hoje, quero ir à academia.",
+      "accepted": [
+        "Quando eu sair do trabalho hoje, quero ir à academia."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Quando eu sair do trabalho hoje, quero ir à academia.'",
+        "en": "The correct order: 'When I finish work today, I want to go to the gym.'",
+        "ar": "الترتيب الصحيح: 'عندما أنتهي من العمل اليوم، أريد الذهاب إلى النادي الرياضي.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "assim que terminar",
+          "en": "when I arrive",
+          "ar": "assim que terminar"
+        },
+        {
+          "pt": "se eu puder",
+          "en": "while I am",
+          "ar": "se eu puder"
+        },
+        {
+          "pt": "quando chegar",
+          "en": "as soon as",
+          "ar": "quando chegar"
+        },
+        {
+          "pt": "quando eu for",
+          "en": "as soon as I finish",
+          "ar": "quando eu for"
+        },
+        {
+          "pt": "logo que",
+          "en": "when I go",
+          "ar": "logo que"
+        },
+        {
+          "pt": "enquanto estiver",
+          "en": "if I can",
+          "ar": "enquanto estiver"
+        }
+      ],
+      "answer": "assim que terminar::when I arrive|se eu puder::while I am|quando chegar::as soon as|quando eu for::as soon as I finish|logo que::when I go|enquanto estiver::if I can",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Ótimo! Se eu terminar o projeto cedo, vou junto com você.",
+          "en": "When I finish work today, I want to go to the gym.",
+          "ar": "رائع! إذا أنهيت المشروع مبكرًا، سأذهب معك."
+        },
+        {
+          "pt": "Combinado. Depois, quem sabe, jantamos fora.",
+          "en": "Deal. Then, who knows, we have dinner out.",
+          "ar": "عندما أنتهي من العمل اليوم، أريد الذهاب إلى النادي الرياضي."
+        },
+        {
+          "pt": "Quando eu sair do trabalho hoje, quero ir à academia.",
+          "en": "Great! If I finish the project early, I'll go with you.",
+          "ar": "متفق. ثم بعد ذلك، من يدري، ربما نتناول العشاء خارجًا."
+        }
+      ],
+      "answer": "Quando eu sair do trabalho hoje, quero ir à academia.",
+      "accepted": [],
+      "audio": "Quando eu sair do trabalho hoje, quero ir à academia.",
+      "explanation": {
+        "pt": "Você ouviu: 'Quando eu sair do trabalho hoje, quero ir à academia.' — 'When I finish work today, I want to go to the gym.'",
+        "en": "You heard: 'Quando eu sair do trabalho hoje, quero ir à academia.' — 'When I finish work today, I want to go to the gym.'",
+        "ar": "سمعت: 'Quando eu sair do trabalho hoje, quero ir à academia.' — 'عندما أنتهي من العمل اليوم، أريد الذهاب إلى النادي الرياضي.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Ótimo! Se eu terminar o projeto cedo, vou junto com você.",
+          "en": "Great! If I finish the project early, I'll go with you.",
+          "ar": "حسنًا. بمجرد أن تنتهي، أخبرني."
+        },
+        {
+          "pt": "Legal. Assim que você terminar, me avisa.",
+          "en": "When I finish work today, I want to go to the gym.",
+          "ar": "عندما أنتهي من العمل اليوم، أريد الذهاب إلى النادي الرياضي."
+        },
+        {
+          "pt": "Quando eu sair do trabalho hoje, quero ir à academia.",
+          "en": "Cool. As soon as you finish, let me know.",
+          "ar": "رائع! إذا أنهيت المشروع مبكرًا، سأذهب معك."
+        }
+      ],
+      "answer": "Ótimo! Se eu terminar o projeto cedo, vou junto com você.",
+      "accepted": [],
+      "audio": "Ótimo! Se eu terminar o projeto cedo, vou junto com você.",
+      "explanation": {
+        "pt": "Você ouviu: 'Ótimo! Se eu terminar o projeto cedo, vou junto com você.' — 'Great! If I finish the project early, I'll go with you.'",
+        "en": "You heard: 'Ótimo! Se eu terminar o projeto cedo, vou junto com você.' — 'Great! If I finish the project early, I'll go with you.'",
+        "ar": "سمعت: 'Ótimo! Se eu terminar o projeto cedo, vou junto com você.' — 'رائع! إذا أنهيت المشروع مبكرًا، سأذهب معك.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "hoje,",
+          "en": "hoje,",
+          "ar": "hoje,"
+        },
+        {
+          "pt": "academia.",
+          "en": "academia.",
+          "ar": "academia."
+        },
+        {
+          "pt": "à",
+          "en": "à",
+          "ar": "à"
+        },
+        {
+          "pt": "eu",
+          "en": "eu",
+          "ar": "eu"
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "ir",
+          "en": "ir",
+          "ar": "ir"
+        },
+        {
+          "pt": "Quando",
+          "en": "Quando",
+          "ar": "Quando"
+        },
+        {
+          "pt": "quero",
+          "en": "quero",
+          "ar": "quero"
+        },
+        {
+          "pt": "sair",
+          "en": "sair",
+          "ar": "sair"
+        },
+        {
+          "pt": "trabalho",
+          "en": "trabalho",
+          "ar": "trabalho"
+        }
+      ],
+      "answer": "Quando eu sair do trabalho hoje, quero ir à academia.",
+      "accepted": [
+        "Quando eu sair do trabalho hoje, quero ir à academia."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Quando eu sair do trabalho hoje, quero ir à academia.'",
+        "en": "The correct order: 'When I finish work today, I want to go to the gym.'",
+        "ar": "الترتيب الصحيح: 'عندما أنتهي من العمل اليوم، أريد الذهاب إلى النادي الرياضي.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "quando chegar",
+          "en": "as soon as",
+          "ar": "quando chegar"
+        },
+        {
+          "pt": "enquanto estiver",
+          "en": "if I can",
+          "ar": "enquanto estiver"
+        },
+        {
+          "pt": "quando eu for",
+          "en": "while I am",
+          "ar": "quando eu for"
+        },
+        {
+          "pt": "logo que",
+          "en": "when I arrive",
+          "ar": "logo que"
+        },
+        {
+          "pt": "se eu puder",
+          "en": "when I go",
+          "ar": "se eu puder"
+        },
+        {
+          "pt": "assim que terminar",
+          "en": "as soon as I finish",
+          "ar": "assim que terminar"
+        }
+      ],
+      "answer": "quando chegar::as soon as|enquanto estiver::if I can|quando eu for::while I am|logo que::when I arrive|se eu puder::when I go|assim que terminar::as soon as I finish",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Ótimo! Se eu terminar o projeto cedo, vou junto com você.",
+          "en": "When I finish work today, I want to go to the gym.",
+          "ar": "رائع! إذا أنهيت المشروع مبكرًا، سأذهب معك."
+        },
+        {
+          "pt": "Legal. Assim que você terminar, me avisa.",
+          "en": "Cool. As soon as you finish, let me know.",
+          "ar": "عندما أنتهي من العمل اليوم، أريد الذهاب إلى النادي الرياضي."
+        },
+        {
+          "pt": "Quando eu sair do trabalho hoje, quero ir à academia.",
+          "en": "Great! If I finish the project early, I'll go with you.",
+          "ar": "حسنًا. بمجرد أن تنتهي، أخبرني."
+        }
+      ],
+      "answer": "Quando eu sair do trabalho hoje, quero ir à academia.",
+      "accepted": [],
+      "audio": "Quando eu sair do trabalho hoje, quero ir à academia.",
+      "explanation": {
+        "pt": "Você ouviu: 'Quando eu sair do trabalho hoje, quero ir à academia.' — 'When I finish work today, I want to go to the gym.'",
+        "en": "You heard: 'Quando eu sair do trabalho hoje, quero ir à academia.' — 'When I finish work today, I want to go to the gym.'",
+        "ar": "سمعت: 'Quando eu sair do trabalho hoje, quero ir à academia.' — 'عندما أنتهي من العمل اليوم، أريد الذهاب إلى النادي الرياضي.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Quando eu sair do trabalho hoje, quero ir à academia.",
+          "en": "Cool. As soon as you finish, let me know.",
+          "ar": "رائع! إذا أنهيت المشروع مبكرًا، سأذهب معك."
+        },
+        {
+          "pt": "Legal. Assim que você terminar, me avisa.",
+          "en": "Great! If I finish the project early, I'll go with you.",
+          "ar": "عندما أنتهي من العمل اليوم، أريد الذهاب إلى النادي الرياضي."
+        },
+        {
+          "pt": "Ótimo! Se eu terminar o projeto cedo, vou junto com você.",
+          "en": "When I finish work today, I want to go to the gym.",
+          "ar": "حسنًا. بمجرد أن تنتهي، أخبرني."
+        }
+      ],
+      "answer": "Ótimo! Se eu terminar o projeto cedo, vou junto com você.",
+      "accepted": [],
+      "audio": "Ótimo! Se eu terminar o projeto cedo, vou junto com você.",
+      "explanation": {
+        "pt": "Você ouviu: 'Ótimo! Se eu terminar o projeto cedo, vou junto com você.' — 'Great! If I finish the project early, I'll go with you.'",
+        "en": "You heard: 'Ótimo! Se eu terminar o projeto cedo, vou junto com você.' — 'Great! If I finish the project early, I'll go with you.'",
+        "ar": "سمعت: 'Ótimo! Se eu terminar o projeto cedo, vou junto com você.' — 'رائع! إذا أنهيت المشروع مبكرًا، سأذهب معك.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Quando",
+          "en": "Quando",
+          "ar": "Quando"
+        },
+        {
+          "pt": "sair",
+          "en": "sair",
+          "ar": "sair"
+        },
+        {
+          "pt": "ir",
+          "en": "ir",
+          "ar": "ir"
+        },
+        {
+          "pt": "trabalho",
+          "en": "trabalho",
+          "ar": "trabalho"
+        },
+        {
+          "pt": "hoje,",
+          "en": "hoje,",
+          "ar": "hoje,"
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "eu",
+          "en": "eu",
+          "ar": "eu"
+        },
+        {
+          "pt": "à",
+          "en": "à",
+          "ar": "à"
+        },
+        {
+          "pt": "quero",
+          "en": "quero",
+          "ar": "quero"
+        },
+        {
+          "pt": "academia.",
+          "en": "academia.",
+          "ar": "academia."
+        }
+      ],
+      "answer": "Quando eu sair do trabalho hoje, quero ir à academia.",
+      "accepted": [
+        "Quando eu sair do trabalho hoje, quero ir à academia."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Quando eu sair do trabalho hoje, quero ir à academia.'",
+        "en": "The correct order: 'When I finish work today, I want to go to the gym.'",
+        "ar": "الترتيب الصحيح: 'عندما أنتهي من العمل اليوم، أريد الذهاب إلى النادي الرياضي.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "quando eu for",
+          "en": "as soon as I finish",
+          "ar": "quando eu for"
+        },
+        {
+          "pt": "enquanto estiver",
+          "en": "when I go",
+          "ar": "enquanto estiver"
+        },
+        {
+          "pt": "assim que terminar",
+          "en": "as soon as",
+          "ar": "assim que terminar"
+        },
+        {
+          "pt": "logo que",
+          "en": "while I am",
+          "ar": "logo que"
+        },
+        {
+          "pt": "se eu puder",
+          "en": "if I can",
+          "ar": "se eu puder"
+        },
+        {
+          "pt": "quando chegar",
+          "en": "when I arrive",
+          "ar": "quando chegar"
+        }
+      ],
+      "answer": "quando eu for::as soon as I finish|enquanto estiver::when I go|assim que terminar::as soon as|logo que::while I am|se eu puder::if I can|quando chegar::when I arrive",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Perfeito. A menos que chova, vamos nos divertir.",
+          "en": "Deal. Then, who knows, we have dinner out.",
+          "ar": "رائع. ما لم يهطل المطر، سنستمتع."
+        },
+        {
+          "pt": "Quando eu sair do trabalho hoje, quero ir à academia.",
+          "en": "When I finish work today, I want to go to the gym.",
+          "ar": "متفق. ثم بعد ذلك، من يدري، ربما نتناول العشاء خارجًا."
+        },
+        {
+          "pt": "Combinado. Depois, quem sabe, jantamos fora.",
+          "en": "Perfect. Unless it rains, we'll have fun.",
+          "ar": "عندما أنتهي من العمل اليوم، أريد الذهاب إلى النادي الرياضي."
+        }
+      ],
+      "answer": "Quando eu sair do trabalho hoje, quero ir à academia.",
+      "accepted": [],
+      "audio": "Quando eu sair do trabalho hoje, quero ir à academia.",
+      "explanation": {
+        "pt": "Você ouviu: 'Quando eu sair do trabalho hoje, quero ir à academia.' — 'When I finish work today, I want to go to the gym.'",
+        "en": "You heard: 'Quando eu sair do trabalho hoje, quero ir à academia.' — 'When I finish work today, I want to go to the gym.'",
+        "ar": "سمعت: 'Quando eu sair do trabalho hoje, quero ir à academia.' — 'عندما أنتهي من العمل اليوم، أريد الذهاب إلى النادي الرياضي.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Combinado. Depois, quem sabe, jantamos fora.",
+          "en": "Great! If I finish the project early, I'll go with you.",
+          "ar": "متفق. ثم بعد ذلك، من يدري، ربما نتناول العشاء خارجًا."
+        },
+        {
+          "pt": "Ótimo! Se eu terminar o projeto cedo, vou junto com você.",
+          "en": "Deal. Then, who knows, we have dinner out.",
+          "ar": "حسنًا. بمجرد أن تنتهي، أخبرني."
+        },
+        {
+          "pt": "Legal. Assim que você terminar, me avisa.",
+          "en": "Cool. As soon as you finish, let me know.",
+          "ar": "رائع! إذا أنهيت المشروع مبكرًا، سأذهب معك."
+        }
+      ],
+      "answer": "Ótimo! Se eu terminar o projeto cedo, vou junto com você.",
+      "accepted": [],
+      "audio": "Ótimo! Se eu terminar o projeto cedo, vou junto com você.",
+      "explanation": {
+        "pt": "Você ouviu: 'Ótimo! Se eu terminar o projeto cedo, vou junto com você.' — 'Great! If I finish the project early, I'll go with you.'",
+        "en": "You heard: 'Ótimo! Se eu terminar o projeto cedo, vou junto com você.' — 'Great! If I finish the project early, I'll go with you.'",
+        "ar": "سمعت: 'Ótimo! Se eu terminar o projeto cedo, vou junto com você.' — 'رائع! إذا أنهيت المشروع مبكرًا، سأذهب معك.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Quando",
+          "en": "Quando",
+          "ar": "Quando"
+        },
+        {
+          "pt": "ir",
+          "en": "ir",
+          "ar": "ir"
+        },
+        {
+          "pt": "hoje,",
+          "en": "hoje,",
+          "ar": "hoje,"
+        },
+        {
+          "pt": "trabalho",
+          "en": "trabalho",
+          "ar": "trabalho"
+        },
+        {
+          "pt": "academia.",
+          "en": "academia.",
+          "ar": "academia."
+        },
+        {
+          "pt": "à",
+          "en": "à",
+          "ar": "à"
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "eu",
+          "en": "eu",
+          "ar": "eu"
+        },
+        {
+          "pt": "sair",
+          "en": "sair",
+          "ar": "sair"
+        },
+        {
+          "pt": "quero",
+          "en": "quero",
+          "ar": "quero"
+        }
+      ],
+      "answer": "Quando eu sair do trabalho hoje, quero ir à academia.",
+      "accepted": [
+        "Quando eu sair do trabalho hoje, quero ir à academia."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Quando eu sair do trabalho hoje, quero ir à academia.'",
+        "en": "The correct order: 'When I finish work today, I want to go to the gym.'",
+        "ar": "الترتيب الصحيح: 'عندما أنتهي من العمل اليوم، أريد الذهاب إلى النادي الرياضي.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "quando eu for",
+          "en": "when I arrive",
+          "ar": "quando eu for"
+        },
+        {
+          "pt": "quando chegar",
+          "en": "as soon as I finish",
+          "ar": "quando chegar"
+        },
+        {
+          "pt": "logo que",
+          "en": "as soon as",
+          "ar": "logo que"
+        },
+        {
+          "pt": "assim que terminar",
+          "en": "when I go",
+          "ar": "assim que terminar"
+        },
+        {
+          "pt": "se eu puder",
+          "en": "if I can",
+          "ar": "se eu puder"
+        },
+        {
+          "pt": "enquanto estiver",
+          "en": "while I am",
+          "ar": "enquanto estiver"
+        }
+      ],
+      "answer": "quando eu for::when I arrive|quando chegar::as soon as I finish|logo que::as soon as|assim que terminar::when I go|se eu puder::if I can|enquanto estiver::while I am",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Quando eu sair do trabalho hoje, quero ir à academia.",
+          "en": "When I finish work today, I want to go to the gym.",
+          "ar": "حسنًا. بمجرد أن تنتهي، أخبرني."
+        },
+        {
+          "pt": "Combinado. Depois, quem sabe, jantamos fora.",
+          "en": "Cool. As soon as you finish, let me know.",
+          "ar": "متفق. ثم بعد ذلك، من يدري، ربما نتناول العشاء خارجًا."
+        },
+        {
+          "pt": "Legal. Assim que você terminar, me avisa.",
+          "en": "Deal. Then, who knows, we have dinner out.",
+          "ar": "عندما أنتهي من العمل اليوم، أريد الذهاب إلى النادي الرياضي."
+        }
+      ],
+      "answer": "Quando eu sair do trabalho hoje, quero ir à academia.",
+      "accepted": [],
+      "audio": "Quando eu sair do trabalho hoje, quero ir à academia.",
+      "explanation": {
+        "pt": "Você ouviu: 'Quando eu sair do trabalho hoje, quero ir à academia.' — 'When I finish work today, I want to go to the gym.'",
+        "en": "You heard: 'Quando eu sair do trabalho hoje, quero ir à academia.' — 'When I finish work today, I want to go to the gym.'",
+        "ar": "سمعت: 'Quando eu sair do trabalho hoje, quero ir à academia.' — 'عندما أنتهي من العمل اليوم، أريد الذهاب إلى النادي الرياضي.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Legal. Assim que você terminar, me avisa.",
+          "en": "Cool. As soon as you finish, let me know.",
+          "ar": "حسنًا. بمجرد أن تنتهي، أخبرني."
+        },
+        {
+          "pt": "Perfeito. A menos que chova, vamos nos divertir.",
+          "en": "Perfect. Unless it rains, we'll have fun.",
+          "ar": "رائع! إذا أنهيت المشروع مبكرًا، سأذهب معك."
+        },
+        {
+          "pt": "Ótimo! Se eu terminar o projeto cedo, vou junto com você.",
+          "en": "Great! If I finish the project early, I'll go with you.",
+          "ar": "رائع. ما لم يهطل المطر، سنستمتع."
+        }
+      ],
+      "answer": "Ótimo! Se eu terminar o projeto cedo, vou junto com você.",
+      "accepted": [],
+      "audio": "Ótimo! Se eu terminar o projeto cedo, vou junto com você.",
+      "explanation": {
+        "pt": "Você ouviu: 'Ótimo! Se eu terminar o projeto cedo, vou junto com você.' — 'Great! If I finish the project early, I'll go with you.'",
+        "en": "You heard: 'Ótimo! Se eu terminar o projeto cedo, vou junto com você.' — 'Great! If I finish the project early, I'll go with you.'",
+        "ar": "سمعت: 'Ótimo! Se eu terminar o projeto cedo, vou junto com você.' — 'رائع! إذا أنهيت المشروع مبكرًا، سأذهب معك.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "academia.",
+          "en": "academia.",
+          "ar": "academia."
+        },
+        {
+          "pt": "hoje,",
+          "en": "hoje,",
+          "ar": "hoje,"
+        },
+        {
+          "pt": "ir",
+          "en": "ir",
+          "ar": "ir"
+        },
+        {
+          "pt": "eu",
+          "en": "eu",
+          "ar": "eu"
+        },
+        {
+          "pt": "sair",
+          "en": "sair",
+          "ar": "sair"
+        },
+        {
+          "pt": "à",
+          "en": "à",
+          "ar": "à"
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "Quando",
+          "en": "Quando",
+          "ar": "Quando"
+        },
+        {
+          "pt": "quero",
+          "en": "quero",
+          "ar": "quero"
+        },
+        {
+          "pt": "trabalho",
+          "en": "trabalho",
+          "ar": "trabalho"
+        }
+      ],
+      "answer": "Quando eu sair do trabalho hoje, quero ir à academia.",
+      "accepted": [
+        "Quando eu sair do trabalho hoje, quero ir à academia."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Quando eu sair do trabalho hoje, quero ir à academia.'",
+        "en": "The correct order: 'When I finish work today, I want to go to the gym.'",
+        "ar": "الترتيب الصحيح: 'عندما أنتهي من العمل اليوم، أريد الذهاب إلى النادي الرياضي.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "se eu puder",
+          "en": "when I go",
+          "ar": "se eu puder"
+        },
+        {
+          "pt": "logo que",
+          "en": "while I am",
+          "ar": "logo que"
+        },
+        {
+          "pt": "quando eu for",
+          "en": "as soon as",
+          "ar": "quando eu for"
+        },
+        {
+          "pt": "quando chegar",
+          "en": "if I can",
+          "ar": "quando chegar"
+        },
+        {
+          "pt": "assim que terminar",
+          "en": "as soon as I finish",
+          "ar": "assim que terminar"
+        },
+        {
+          "pt": "enquanto estiver",
+          "en": "when I arrive",
+          "ar": "enquanto estiver"
+        }
+      ],
+      "answer": "se eu puder::when I go|logo que::while I am|quando eu for::as soon as|quando chegar::if I can|assim que terminar::as soon as I finish|enquanto estiver::when I arrive",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Quando eu sair do trabalho hoje, quero ir à academia.",
+          "en": "Great! If I finish the project early, I'll go with you.",
+          "ar": "رائع! إذا أنهيت المشروع مبكرًا، سأذهب معك."
+        },
+        {
+          "pt": "Ótimo! Se eu terminar o projeto cedo, vou junto com você.",
+          "en": "When I finish work today, I want to go to the gym.",
+          "ar": "عندما أنتهي من العمل اليوم، أريد الذهاب إلى النادي الرياضي."
+        },
+        {
+          "pt": "Combinado. Depois, quem sabe, jantamos fora.",
+          "en": "Deal. Then, who knows, we have dinner out.",
+          "ar": "متفق. ثم بعد ذلك، من يدري، ربما نتناول العشاء خارجًا."
+        }
+      ],
+      "answer": "Quando eu sair do trabalho hoje, quero ir à academia.",
+      "accepted": [],
+      "audio": "Quando eu sair do trabalho hoje, quero ir à academia.",
+      "explanation": {
+        "pt": "Você ouviu: 'Quando eu sair do trabalho hoje, quero ir à academia.' — 'When I finish work today, I want to go to the gym.'",
+        "en": "You heard: 'Quando eu sair do trabalho hoje, quero ir à academia.' — 'When I finish work today, I want to go to the gym.'",
+        "ar": "سمعت: 'Quando eu sair do trabalho hoje, quero ir à academia.' — 'عندما أنتهي من العمل اليوم، أريد الذهاب إلى النادي الرياضي.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Perfeito. A menos que chova, vamos nos divertir.",
+          "en": "Great! If I finish the project early, I'll go with you.",
+          "ar": "رائع. ما لم يهطل المطر، سنستمتع."
+        },
+        {
+          "pt": "Ótimo! Se eu terminar o projeto cedo, vou junto com você.",
+          "en": "Perfect. Unless it rains, we'll have fun.",
+          "ar": "حسنًا. بمجرد أن تنتهي، أخبرني."
+        },
+        {
+          "pt": "Legal. Assim que você terminar, me avisa.",
+          "en": "Cool. As soon as you finish, let me know.",
+          "ar": "رائع! إذا أنهيت المشروع مبكرًا، سأذهب معك."
+        }
+      ],
+      "answer": "Ótimo! Se eu terminar o projeto cedo, vou junto com você.",
+      "accepted": [],
+      "audio": "Ótimo! Se eu terminar o projeto cedo, vou junto com você.",
+      "explanation": {
+        "pt": "Você ouviu: 'Ótimo! Se eu terminar o projeto cedo, vou junto com você.' — 'Great! If I finish the project early, I'll go with you.'",
+        "en": "You heard: 'Ótimo! Se eu terminar o projeto cedo, vou junto com você.' — 'Great! If I finish the project early, I'll go with you.'",
+        "ar": "سمعت: 'Ótimo! Se eu terminar o projeto cedo, vou junto com você.' — 'رائع! إذا أنهيت المشروع مبكرًا، سأذهب معك.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "academia.",
+          "en": "academia.",
+          "ar": "academia."
+        },
+        {
+          "pt": "à",
+          "en": "à",
+          "ar": "à"
+        },
+        {
+          "pt": "Quando",
+          "en": "Quando",
+          "ar": "Quando"
+        },
+        {
+          "pt": "sair",
+          "en": "sair",
+          "ar": "sair"
+        },
+        {
+          "pt": "eu",
+          "en": "eu",
+          "ar": "eu"
+        },
+        {
+          "pt": "trabalho",
+          "en": "trabalho",
+          "ar": "trabalho"
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "hoje,",
+          "en": "hoje,",
+          "ar": "hoje,"
+        },
+        {
+          "pt": "ir",
+          "en": "ir",
+          "ar": "ir"
+        },
+        {
+          "pt": "quero",
+          "en": "quero",
+          "ar": "quero"
+        }
+      ],
+      "answer": "Quando eu sair do trabalho hoje, quero ir à academia.",
+      "accepted": [
+        "Quando eu sair do trabalho hoje, quero ir à academia."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Quando eu sair do trabalho hoje, quero ir à academia.'",
+        "en": "The correct order: 'When I finish work today, I want to go to the gym.'",
+        "ar": "الترتيب الصحيح: 'عندما أنتهي من العمل اليوم، أريد الذهاب إلى النادي الرياضي.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "se eu puder",
+          "en": "when I go",
+          "ar": "se eu puder"
+        },
+        {
+          "pt": "enquanto estiver",
+          "en": "if I can",
+          "ar": "enquanto estiver"
+        },
+        {
+          "pt": "quando chegar",
+          "en": "as soon as",
+          "ar": "quando chegar"
+        },
+        {
+          "pt": "assim que terminar",
+          "en": "when I arrive",
+          "ar": "assim que terminar"
+        },
+        {
+          "pt": "logo que",
+          "en": "while I am",
+          "ar": "logo que"
+        },
+        {
+          "pt": "quando eu for",
+          "en": "as soon as I finish",
+          "ar": "quando eu for"
+        }
+      ],
+      "answer": "se eu puder::when I go|enquanto estiver::if I can|quando chegar::as soon as|assim que terminar::when I arrive|logo que::while I am|quando eu for::as soon as I finish",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Legal. Assim que você terminar, me avisa.",
+          "en": "Cool. As soon as you finish, let me know.",
+          "ar": "رائع. ما لم يهطل المطر، سنستمتع."
+        },
+        {
+          "pt": "Quando eu sair do trabalho hoje, quero ir à academia.",
+          "en": "When I finish work today, I want to go to the gym.",
+          "ar": "عندما أنتهي من العمل اليوم، أريد الذهاب إلى النادي الرياضي."
+        },
+        {
+          "pt": "Perfeito. A menos que chova, vamos nos divertir.",
+          "en": "Perfect. Unless it rains, we'll have fun.",
+          "ar": "حسنًا. بمجرد أن تنتهي، أخبرني."
+        }
+      ],
+      "answer": "Quando eu sair do trabalho hoje, quero ir à academia.",
+      "accepted": [],
+      "audio": "Quando eu sair do trabalho hoje, quero ir à academia.",
+      "explanation": {
+        "pt": "Você ouviu: 'Quando eu sair do trabalho hoje, quero ir à academia.' — 'When I finish work today, I want to go to the gym.'",
+        "en": "You heard: 'Quando eu sair do trabalho hoje, quero ir à academia.' — 'When I finish work today, I want to go to the gym.'",
+        "ar": "سمعت: 'Quando eu sair do trabalho hoje, quero ir à academia.' — 'عندما أنتهي من العمل اليوم، أريد الذهاب إلى النادي الرياضي.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Perfeito. A menos que chova, vamos nos divertir.",
+          "en": "When I finish work today, I want to go to the gym.",
+          "ar": "رائع. ما لم يهطل المطر، سنستمتع."
+        },
+        {
+          "pt": "Quando eu sair do trabalho hoje, quero ir à academia.",
+          "en": "Great! If I finish the project early, I'll go with you.",
+          "ar": "عندما أنتهي من العمل اليوم، أريد الذهاب إلى النادي الرياضي."
+        },
+        {
+          "pt": "Ótimo! Se eu terminar o projeto cedo, vou junto com você.",
+          "en": "Perfect. Unless it rains, we'll have fun.",
+          "ar": "رائع! إذا أنهيت المشروع مبكرًا، سأذهب معك."
+        }
+      ],
+      "answer": "Ótimo! Se eu terminar o projeto cedo, vou junto com você.",
+      "accepted": [],
+      "audio": "Ótimo! Se eu terminar o projeto cedo, vou junto com você.",
+      "explanation": {
+        "pt": "Você ouviu: 'Ótimo! Se eu terminar o projeto cedo, vou junto com você.' — 'Great! If I finish the project early, I'll go with you.'",
+        "en": "You heard: 'Ótimo! Se eu terminar o projeto cedo, vou junto com você.' — 'Great! If I finish the project early, I'll go with you.'",
+        "ar": "سمعت: 'Ótimo! Se eu terminar o projeto cedo, vou junto com você.' — 'رائع! إذا أنهيت المشروع مبكرًا، سأذهب معك.'"
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'when I go'",
+        "en": "Type in Portuguese: 'when I go'",
+        "ar": "اكتب بالبرتغالية: 'عندما أذهب'"
+      },
+      "options": [],
+      "answer": "quando eu for",
+      "accepted": [
+        "quando eu for"
+      ],
+      "explanation": {
+        "pt": "'quando eu for' significa 'when I go'.",
+        "en": "'quando eu for' means 'when I go'.",
+        "ar": "'$quando eu for' بالعربية: '$عندما أذهب'."
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'if I can'",
+        "en": "Type in Portuguese: 'if I can'",
+        "ar": "اكتب بالبرتغالية: 'إذا استطعت'"
+      },
+      "options": [],
+      "answer": "se eu puder",
+      "accepted": [
+        "se eu puder"
+      ],
+      "explanation": {
+        "pt": "'se eu puder' significa 'if I can'.",
+        "en": "'se eu puder' means 'if I can'.",
+        "ar": "'$se eu puder' بالعربية: '$إذا استطعت'."
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Ótimo! Se eu terminar o projeto cedo, vou junto com você.",
+          "en": "Ótimo! Se eu terminar o projeto cedo, vou junto com você.",
+          "ar": "Ótimo! Se eu terminar o projeto cedo, vou junto com você."
+        },
+        {
+          "pt": "Combinado. Depois, quem sabe, jantamos fora.",
+          "en": "Combinado. Depois, quem sabe, jantamos fora.",
+          "ar": "Combinado. Depois, quem sabe, jantamos fora."
+        },
+        {
+          "pt": "Quando eu sair do trabalho hoje, quero ir à academia.",
+          "en": "Quando eu sair do trabalho hoje, quero ir à academia.",
+          "ar": "Quando eu sair do trabalho hoje, quero ir à academia."
+        }
+      ],
+      "answer": "Quando eu sair do trabalho hoje, quero ir à academia.",
+      "accepted": [],
+      "audio": "Quando eu sair do trabalho hoje, quero ir à academia.",
+      "explanation": {
+        "pt": "Você ouviu: 'Quando eu sair do trabalho hoje, quero ir à academia.'",
+        "en": "You heard: 'Quando eu sair do trabalho hoje, quero ir à academia.'",
+        "ar": "سمعت: 'Quando eu sair do trabalho hoje, quero ir à academia.'"
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Ótimo! Se eu terminar o projeto cedo, vou junto com você.",
+          "en": "Ótimo! Se eu terminar o projeto cedo, vou junto com você.",
+          "ar": "Ótimo! Se eu terminar o projeto cedo, vou junto com você."
+        },
+        {
+          "pt": "Legal. Assim que você terminar, me avisa.",
+          "en": "Legal. Assim que você terminar, me avisa.",
+          "ar": "Legal. Assim que você terminar, me avisa."
+        },
+        {
+          "pt": "Perfeito. A menos que chova, vamos nos divertir.",
+          "en": "Perfeito. A menos que chova, vamos nos divertir.",
+          "ar": "Perfeito. A menos que chova, vamos nos divertir."
+        }
+      ],
+      "answer": "Ótimo! Se eu terminar o projeto cedo, vou junto com você.",
+      "accepted": [],
+      "audio": "Ótimo! Se eu terminar o projeto cedo, vou junto com você.",
+      "explanation": {
+        "pt": "Você ouviu: 'Ótimo! Se eu terminar o projeto cedo, vou junto com você.'",
+        "en": "You heard: 'Ótimo! Se eu terminar o projeto cedo, vou junto com você.'",
+        "ar": "سمعت: 'Ótimo! Se eu terminar o projeto cedo, vou junto com você.'"
+      }
+    },
+    {
+      "type": "dictation",
+      "prompt": {
+        "pt": "Ouça e escreva o que você ouviu.",
+        "en": "Listen and type what you hear.",
+        "ar": "استمع واكتب ما سمعته."
+      },
+      "options": [],
+      "answer": "Quando eu sair do trabalho hoje, quero ir à academia.",
+      "accepted": [],
+      "audio": "Quando eu sair do trabalho hoje, quero ir à academia.",
+      "explanation": {
+        "pt": "A frase correta: 'Quando eu sair do trabalho hoje, quero ir à academia.'",
+        "en": "The correct sentence: 'Quando eu sair do trabalho hoje, quero ir à academia.'",
+        "ar": "الجملة الصحيحة: 'Quando eu sair do trabalho hoje, quero ir à academia.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "sair",
+          "en": "sair",
+          "ar": "sair"
+        },
+        {
+          "pt": "academia.",
+          "en": "academia.",
+          "ar": "academia."
+        },
+        {
+          "pt": "ir",
+          "en": "ir",
+          "ar": "ir"
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "hoje,",
+          "en": "hoje,",
+          "ar": "hoje,"
+        },
+        {
+          "pt": "à",
+          "en": "à",
+          "ar": "à"
+        },
+        {
+          "pt": "quero",
+          "en": "quero",
+          "ar": "quero"
+        },
+        {
+          "pt": "eu",
+          "en": "eu",
+          "ar": "eu"
+        },
+        {
+          "pt": "Quando",
+          "en": "Quando",
+          "ar": "Quando"
+        },
+        {
+          "pt": "trabalho",
+          "en": "trabalho",
+          "ar": "trabalho"
+        }
+      ],
+      "answer": "Quando eu sair do trabalho hoje, quero ir à academia.",
+      "accepted": [
+        "Quando eu sair do trabalho hoje, quero ir à academia."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Quando eu sair do trabalho hoje, quero ir à academia.'",
+        "en": "The correct order: 'When I finish work today, I want to go to the gym.'",
+        "ar": "الترتيب الصحيح: 'عندما أنتهي من العمل اليوم، أريد الذهاب إلى النادي الرياضي.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "logo que",
+          "en": "when I arrive",
+          "ar": "logo que"
+        },
+        {
+          "pt": "quando chegar",
+          "en": "when I go",
+          "ar": "quando chegar"
+        },
+        {
+          "pt": "quando eu for",
+          "en": "as soon as I finish",
+          "ar": "quando eu for"
+        },
+        {
+          "pt": "assim que terminar",
+          "en": "if I can",
+          "ar": "assim que terminar"
+        },
+        {
+          "pt": "enquanto estiver",
+          "en": "while I am",
+          "ar": "enquanto estiver"
+        },
+        {
+          "pt": "se eu puder",
+          "en": "as soon as",
+          "ar": "se eu puder"
+        }
+      ],
+      "answer": "logo que::when I arrive|quando chegar::when I go|quando eu for::as soon as I finish|assim que terminar::if I can|enquanto estiver::while I am|se eu puder::as soon as",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Legal. Assim que você terminar, me avisa.",
+          "en": "Cool. As soon as you finish, let me know.",
+          "ar": "حسنًا. بمجرد أن تنتهي، أخبرني."
+        },
+        {
+          "pt": "Quando eu sair do trabalho hoje, quero ir à academia.",
+          "en": "When I finish work today, I want to go to the gym.",
+          "ar": "عندما أنتهي من العمل اليوم، أريد الذهاب إلى النادي الرياضي."
+        },
+        {
+          "pt": "Ótimo! Se eu terminar o projeto cedo, vou junto com você.",
+          "en": "Great! If I finish the project early, I'll go with you.",
+          "ar": "رائع! إذا أنهيت المشروع مبكرًا، سأذهب معك."
+        }
+      ],
+      "answer": "Quando eu sair do trabalho hoje, quero ir à academia.",
+      "accepted": [],
+      "audio": "Quando eu sair do trabalho hoje, quero ir à academia.",
+      "explanation": {
+        "pt": "Você ouviu: 'Quando eu sair do trabalho hoje, quero ir à academia.' — 'When I finish work today, I want to go to the gym.'",
+        "en": "You heard: 'Quando eu sair do trabalho hoje, quero ir à academia.' — 'When I finish work today, I want to go to the gym.'",
+        "ar": "سمعت: 'Quando eu sair do trabalho hoje, quero ir à academia.' — 'عندما أنتهي من العمل اليوم، أريد الذهاب إلى النادي الرياضي.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Combinado. Depois, quem sabe, jantamos fora.",
+          "en": "When I finish work today, I want to go to the gym.",
+          "ar": "عندما أنتهي من العمل اليوم، أريد الذهاب إلى النادي الرياضي."
+        },
+        {
+          "pt": "Ótimo! Se eu terminar o projeto cedo, vou junto com você.",
+          "en": "Great! If I finish the project early, I'll go with you.",
+          "ar": "متفق. ثم بعد ذلك، من يدري، ربما نتناول العشاء خارجًا."
+        },
+        {
+          "pt": "Quando eu sair do trabalho hoje, quero ir à academia.",
+          "en": "Deal. Then, who knows, we have dinner out.",
+          "ar": "رائع! إذا أنهيت المشروع مبكرًا، سأذهب معك."
+        }
+      ],
+      "answer": "Ótimo! Se eu terminar o projeto cedo, vou junto com você.",
+      "accepted": [],
+      "audio": "Ótimo! Se eu terminar o projeto cedo, vou junto com você.",
+      "explanation": {
+        "pt": "Você ouviu: 'Ótimo! Se eu terminar o projeto cedo, vou junto com você.' — 'Great! If I finish the project early, I'll go with you.'",
+        "en": "You heard: 'Ótimo! Se eu terminar o projeto cedo, vou junto com você.' — 'Great! If I finish the project early, I'll go with you.'",
+        "ar": "سمعت: 'Ótimo! Se eu terminar o projeto cedo, vou junto com você.' — 'رائع! إذا أنهيت المشروع مبكرًا، سأذهب معك.'"
+      }
+    }
+  ],
+  "speaking": {
+    "title": {
+      "pt": "Fale Agora — Ouça e Repita",
+      "en": "Speak Now — Listen and Repeat",
+      "ar": "تحدث الآن — استمع وكرر"
+    },
+    "phrases": [
+      {
+        "pt": "Quando eu sair do trabalho hoje, quero ir à academia.",
+        "en": "When I finish work today, I want to go to the gym.",
+        "ar": "عندما أنتهي من العمل اليوم، أريد الذهاب إلى النادي الرياضي."
+      },
+      {
+        "pt": "Ótimo! Se eu terminar o projeto cedo, vou junto com você.",
+        "en": "Great! If I finish the project early, I'll go with you.",
+        "ar": "رائع! إذا أنهيت المشروع مبكرًا، سأذهب معك."
+      },
+      {
+        "pt": "Legal. Assim que você terminar, me avisa.",
+        "en": "Cool. As soon as you finish, let me know.",
+        "ar": "حسنًا. بمجرد أن تنتهي، أخبرني."
+      },
+      {
+        "pt": "Combinado. Depois, quem sabe, jantamos fora.",
+        "en": "Deal. Then, who knows, we have dinner out.",
+        "ar": "متفق. ثم بعد ذلك، من يدري، ربما نتناول العشاء خارجًا."
+      },
+      {
+        "pt": "Perfeito. A menos que chova, vamos nos divertir.",
+        "en": "Perfect. Unless it rains, we'll have fun.",
+        "ar": "رائع. ما لم يهطل المطر، سنستمتع."
+      },
+      {
+        "pt": "quando eu for",
+        "en": "when I go",
+        "ar": "عندما أذهب"
+      },
+      {
+        "pt": "se eu puder",
+        "en": "if I can",
+        "ar": "إذا استطعت"
+      },
+      {
+        "pt": "quando chegar",
+        "en": "when I arrive",
+        "ar": "عندما أصل"
+      }
+    ]
+  },
+  "cultural_tips": {
+    "pt": "",
+    "en": "",
+    "ar": ""
+  }
+}

@@ -1,0 +1,2028 @@
+{
+  "id": "B2-03",
+  "level": "B2",
+  "level_name": {
+    "pt": "Intermediário Alto",
+    "en": "Upper-Intermediate",
+    "ar": "متوسط متقدم"
+  },
+  "title": {
+    "pt": "Voz Passiva",
+    "en": "Passive Voice",
+    "ar": "المبني للمجهول"
+  },
+  "objectives": [
+    {
+      "pt": "Formar a voz passiva com ser + particípio",
+      "en": "Form the passive voice with ser + past participle",
+      "ar": "تكوين صيغة المبني للمجهول بـ ser + اسم المفعول"
+    },
+    {
+      "pt": "Usar a voz passiva com o pronome se",
+      "en": "Use the passive voice with the pronoun se",
+      "ar": "استخدام صيغة المبني للمجهول مع الضمير se"
+    },
+    {
+      "pt": "Transformar frases ativas em passivas",
+      "en": "Transform active sentences into passive ones",
+      "ar": "تحويل الجمل من المبني للمعلوم إلى المبني للمجهول"
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "a voz passiva",
+      "ipa": "/a vɔs paˈsi.va/",
+      "en": "the passive voice",
+      "ar": "المبني للمجهول",
+      "example": {
+        "pt": "A nova biblioteca foi inaugurada ontem na avenida central.",
+        "en": "The new library was inaugurated yesterday on the central avenue.",
+        "ar": "تم افتتاح المكتبة الجديدة أمس في الشارع الرئيسي."
+      }
+    },
+    {
+      "pt": "o particípio",
+      "ipa": "/u paχ.tʃiˈsi.pju/",
+      "en": "the past participle",
+      "ar": "اسم المفعول",
+      "example": {
+        "pt": "O livro foi publicado em 2020.",
+        "en": "The book was published in 2020.",
+        "ar": "نُشر الكتاب في عام 2020."
+      }
+    },
+    {
+      "pt": "o agente",
+      "ipa": "/u aˈʒẽ.tʃi/",
+      "en": "the agent",
+      "ar": "الفاعل",
+      "example": {
+        "pt": "O livro foi publicado em 2020.",
+        "en": "The book was published in 2020.",
+        "ar": "نُشر الكتاب في عام 2020."
+      }
+    },
+    {
+      "pt": "ser construído",
+      "ipa": "/seχ kõs.tɾuˈi.du/",
+      "en": "to be built",
+      "ar": "يُبنى",
+      "example": {
+        "pt": "A nova biblioteca foi inaugurada ontem na avenida central.",
+        "en": "The new library was inaugurated yesterday on the central avenue.",
+        "ar": "تم افتتاح المكتبة الجديدة أمس في الشارع الرئيسي."
+      }
+    },
+    {
+      "pt": "ser publicado",
+      "ipa": "/seχ pu.bliˈka.du/",
+      "en": "to be published",
+      "ar": "يُنشر",
+      "example": {
+        "pt": "A nova biblioteca foi inaugurada ontem na avenida central.",
+        "en": "The new library was inaugurated yesterday on the central avenue.",
+        "ar": "تم افتتاح المكتبة الجديدة أمس في الشارع الرئيسي."
+      }
+    },
+    {
+      "pt": "ser eleito",
+      "ipa": "/seχ eˈlej.tu/",
+      "en": "to be elected",
+      "ar": "يُنتخب",
+      "example": {
+        "pt": "A nova biblioteca foi inaugurada ontem na avenida central.",
+        "en": "The new library was inaugurated yesterday on the central avenue.",
+        "ar": "تم افتتاح المكتبة الجديدة أمس في الشارع الرئيسي."
+      }
+    },
+    {
+      "pt": "ser aprovado",
+      "ipa": "/seχ a.pɾoˈva.du/",
+      "en": "to be approved",
+      "ar": "يُوافق عليه",
+      "example": {
+        "pt": "A nova biblioteca foi inaugurada ontem na avenida central.",
+        "en": "The new library was inaugurated yesterday on the central avenue.",
+        "ar": "تم افتتاح المكتبة الجديدة أمس في الشارع الرئيسي."
+      }
+    },
+    {
+      "pt": "ser inaugurado",
+      "ipa": "/seχ i.naw.ɡuˈɾa.du/",
+      "en": "to be inaugurated",
+      "ar": "يُفتتح",
+      "example": {
+        "pt": "A nova biblioteca foi inaugurada ontem na avenida central.",
+        "en": "The new library was inaugurated yesterday on the central avenue.",
+        "ar": "تم افتتاح المكتبة الجديدة أمس في الشارع الرئيسي."
+      }
+    },
+    {
+      "pt": "ser destruído",
+      "ipa": "/seχ des.tɾuˈi.du/",
+      "en": "to be destroyed",
+      "ar": "يُدمَّر",
+      "example": {
+        "pt": "A nova biblioteca foi inaugurada ontem na avenida central.",
+        "en": "The new library was inaugurated yesterday on the central avenue.",
+        "ar": "تم افتتاح المكتبة الجديدة أمس في الشارع الرئيسي."
+      }
+    },
+    {
+      "pt": "o prêmio",
+      "ipa": "/u ˈpɾẽ.mju/",
+      "en": "the award",
+      "ar": "الجائزة",
+      "example": {
+        "pt": "O livro foi publicado em 2020.",
+        "en": "The book was published in 2020.",
+        "ar": "نُشر الكتاب في عام 2020."
+      }
+    },
+    {
+      "pt": "o anúncio",
+      "ipa": "/u aˈnũ.sju/",
+      "en": "the announcement",
+      "ar": "الإعلان",
+      "example": {
+        "pt": "O livro foi publicado em 2020.",
+        "en": "The book was published in 2020.",
+        "ar": "نُشر الكتاب في عام 2020."
+      }
+    },
+    {
+      "pt": "o resultado",
+      "ipa": "/u ʁe.zuwˈta.du/",
+      "en": "the result",
+      "ar": "النتيجة",
+      "example": {
+        "pt": "O livro foi publicado em 2020.",
+        "en": "The book was published in 2020.",
+        "ar": "نُشر الكتاب في عام 2020."
+      }
+    },
+    {
+      "pt": "a descoberta",
+      "ipa": "/a dʒis.kɔˈbɛχ.ta/",
+      "en": "the discovery",
+      "ar": "الاكتشاف",
+      "example": {
+        "pt": "A nova biblioteca foi inaugurada ontem na avenida central.",
+        "en": "The new library was inaugurated yesterday on the central avenue.",
+        "ar": "تم افتتاح المكتبة الجديدة أمس في الشارع الرئيسي."
+      }
+    },
+    {
+      "pt": "a decisão",
+      "ipa": "/a de.siˈzɐ̃w/",
+      "en": "the decision",
+      "ar": "القرار",
+      "example": {
+        "pt": "A nova biblioteca foi inaugurada ontem na avenida central.",
+        "en": "The new library was inaugurated yesterday on the central avenue.",
+        "ar": "تم افتتاح المكتبة الجديدة أمس في الشارع الرئيسي."
+      }
+    },
+    {
+      "pt": "vende-se",
+      "ipa": "/ˈvẽ.dʒi si/",
+      "en": "it is sold",
+      "ar": "يُباع",
+      "example": {
+        "pt": "Vende-se casa no centro.",
+        "en": "A house in the center is sold.",
+        "ar": "يُباع منزل في وسط المدينة."
+      }
+    },
+    {
+      "pt": "aluga-se",
+      "ipa": "/aˈlu.ɡa si/",
+      "en": "it is rented",
+      "ar": "يُستأجر",
+      "example": {
+        "pt": "A nova biblioteca foi inaugurada ontem na avenida central.",
+        "en": "The new library was inaugurated yesterday on the central avenue.",
+        "ar": "تم افتتاح المكتبة الجديدة أمس في الشارع الرئيسي."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "title": {
+        "pt": "A Voz Passiva com Ser + Particípio",
+        "en": "The Passive Voice with Ser + Participle",
+        "ar": "المبني للمجهول مع Ser + اسم المفعول"
+      },
+      "explanation": {
+        "pt": "Na voz passiva, o sujeito recebe a ação: sujeito + ser (no tempo certo) + particípio + (por + agente). O particípio concorda em gênero e número com o sujeito. Exemplo: O prefeito inaugurou a ponte. → A ponte foi inaugurada pelo prefeito.",
+        "en": "In the passive voice, the subject receives the action: subject + ser (in the right tense) + past participle + (por + agent). The participle agrees in gender and number with the subject. Example: The mayor inaugurated the bridge. → The bridge was inaugurated by the mayor.",
+        "ar": "في المبني للمجهول يتلقى المبتدأ الفعل: المبتدأ + ser (بالزمن الصحيح) + اسم المفعول + (por + الفاعل). يطابق اسم المفعول المبتدأ في التذكير والتأنيث والعدد. مثال: O prefeito inaugurou a ponte ← A ponte foi inaugurada pelo prefeito."
+      },
+      "examples": [
+        {
+          "pt": "O livro foi publicado em 2020.",
+          "en": "The book was published in 2020.",
+          "ar": "نُشر الكتاب في عام 2020."
+        },
+        {
+          "pt": "As cartas foram escritas pela autora.",
+          "en": "The letters were written by the author.",
+          "ar": "كُتبت الرسائل بواسطة المؤلفة."
+        },
+        {
+          "pt": "A nova lei será aprovada pelo Congresso.",
+          "en": "The new law will be approved by Congress.",
+          "ar": "سيوافق الكونغرس على القانون الجديد."
+        },
+        {
+          "pt": "Os prêmios são entregues todos os anos.",
+          "en": "The awards are handed out every year.",
+          "ar": "تُسلَّم الجوائز كل عام."
+        }
+      ]
+    },
+    {
+      "title": {
+        "pt": "A Voz Passiva com Se",
+        "en": "The Passive Voice with Se",
+        "ar": "المبني للمجهول مع Se"
+      },
+      "explanation": {
+        "pt": "Com verbos transitivos, usamos o pronome se + verbo na terceira pessoa para expressar passiva sem agente. O verbo concorda com o sujeito: Vende-se casa (singular), Alugam-se apartamentos (plural).",
+        "en": "With transitive verbs, we use the pronoun se + verb in the third person to express a passive without an agent. The verb agrees with the subject: Vende-se casa (singular), Alugam-se apartamentos (plural).",
+        "ar": "مع الأفعال المتعدية نستخدم الضمير se + الفعل في صيغة الغائب للتعبير عن المبني للمجهول دون فاعل. يطابق الفعل المبتدأ: Vende-se casa (مفرد)، Alugam-se apartamentos (جمع)."
+      },
+      "examples": [
+        {
+          "pt": "Vende-se casa no centro.",
+          "en": "A house in the center is sold.",
+          "ar": "يُباع منزل في وسط المدينة."
+        },
+        {
+          "pt": "Alugam-se apartamentos perto da praia.",
+          "en": "Apartments near the beach are rented.",
+          "ar": "تُستأجر شقق قرب الشاطئ."
+        },
+        {
+          "pt": "Não se aceitam cheques.",
+          "en": "Checks are not accepted.",
+          "ar": "لا تُقبل الشيكات."
+        },
+        {
+          "pt": "Fala-se português no Brasil.",
+          "en": "Portuguese is spoken in Brazil.",
+          "ar": "تُتحدث البرتغالية في البرازيل."
+        }
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": {
+      "pt": "Uma Notícia Importante",
+      "en": "An Important News Story",
+      "ar": "خبر مهم"
+    },
+    "lines": [
+      {
+        "speaker": "Repórter",
+        "pt": "A nova biblioteca foi inaugurada ontem na avenida central.",
+        "en": "The new library was inaugurated yesterday on the central avenue.",
+        "ar": "تم افتتاح المكتبة الجديدة أمس في الشارع الرئيسي."
+      },
+      {
+        "speaker": "Ouvinte",
+        "pt": "Foi construída pelo governo estadual?",
+        "en": "Was it built by the state government?",
+        "ar": "هل بناها حكومة الولاية؟"
+      },
+      {
+        "speaker": "Repórter",
+        "pt": "Sim, foi financiada com recursos públicos.",
+        "en": "Yes, it was funded with public resources.",
+        "ar": "نعم، تم تمويلها بأموال عامة."
+      },
+      {
+        "speaker": "Ouvinte",
+        "pt": "Que ótima notícia! Serão oferecidos cursos gratuitos lá?",
+        "en": "What great news! Will free courses be offered there?",
+        "ar": "يا لها من أخبار رائعة! هل ستُقدَّم دورات مجانية هناك؟"
+      },
+      {
+        "speaker": "Repórter",
+        "pt": "Sim, serão oferecidos cursos de informática e leitura.",
+        "en": "Yes, computer and reading courses will be offered.",
+        "ar": "نعم، ستُقدَّم دورات في الحاسوب والقراءة."
+      }
+    ]
+  },
+  "reading": {
+    "title": {
+      "pt": "A Cidade Renovada",
+      "en": "The Renewed City",
+      "ar": "المدينة المجددة"
+    },
+    "text_pt": "Uma antiga fábrica foi transformada em um centro cultural. O projeto foi financiado por empresas locais e pela prefeitura. A inauguração foi celebrada com apresentações de música e dança. Espera-se que novos espaços como esse sejam criados em outros bairros.",
+    "text_en": "An old factory was transformed into a cultural center. The project was funded by local companies and the city hall. The inauguration was celebrated with music and dance performances. It is hoped that new spaces like this will be created in other neighborhoods.",
+    "text_ar": "تم تحويل مصنع قديم إلى مركز ثقافي. وقد مول المشروع شركات محلية وبلدية المدينة. واحتُفل بافتتاحه بعروض موسيقية ورقصية. ويُؤمل أن تُنشأ مساحات جديدة مثل هذه في أحياء أخرى."
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "A casa ___ construída em 1985.",
+        "en": "The house ___ built in 1985.",
+        "ar": "تم ___ المنزل في عام 1985."
+      },
+      "options": [
+        {
+          "pt": "foi",
+          "en": "foi",
+          "ar": "foi"
+        },
+        {
+          "pt": "está",
+          "en": "está",
+          "ar": "está"
+        },
+        {
+          "pt": "tem",
+          "en": "tem",
+          "ar": "tem"
+        }
+      ],
+      "answer": "foi",
+      "explanation": {
+        "pt": "A voz passiva no passado usa ser no pretérito: foi construída.",
+        "en": "The passive voice in the past uses ser in the preterite: foi construída.",
+        "ar": "يستخدم المبني للمجهول في الماضي فعل ser بالماضي: foi construída."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "___ apartamentos para alugar.",
+        "en": "Apartments ___ for rent.",
+        "ar": "شقق ___ للإيجار."
+      },
+      "options": [
+        {
+          "pt": "Aluga-se",
+          "en": "Aluga-se",
+          "ar": "Aluga-se"
+        },
+        {
+          "pt": "Alugam-se",
+          "en": "Alugam-se",
+          "ar": "Alugam-se"
+        },
+        {
+          "pt": "Alugando-se",
+          "en": "Alugando-se",
+          "ar": "Alugando-se"
+        }
+      ],
+      "answer": "Alugam-se",
+      "explanation": {
+        "pt": "O sujeito 'apartamentos' é plural, então o verbo vai para o plural: Alugam-se.",
+        "en": "The subject 'apartamentos' is plural, so the verb is plural: Alugam-se.",
+        "ar": "المبتدأ 'apartamentos' جمع، لذا يكون الفعل في الجمع: Alugam-se."
+      }
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza: 'The letters were written by the author.'",
+        "en": "Translate: 'The letters were written by the author.'",
+        "ar": "ترجم: 'The letters were written by the author.'"
+      },
+      "options": [],
+      "answer": "As cartas foram escritas pela autora.",
+      "explanation": {
+        "pt": "Passiva no pretérito: foram escritas + agente 'pela autora'.",
+        "en": "Passive in the preterite: foram escritas + agent 'pela autora'.",
+        "ar": "مبني للمجهول في الماضي: foram escritas + الفاعل 'pela autora'."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "nova",
+          "en": "nova",
+          "ar": "nova"
+        },
+        {
+          "pt": "ontem",
+          "en": "ontem",
+          "ar": "ontem"
+        },
+        {
+          "pt": "inaugurada",
+          "en": "inaugurada",
+          "ar": "inaugurada"
+        },
+        {
+          "pt": "A",
+          "en": "A",
+          "ar": "A"
+        },
+        {
+          "pt": "avenida",
+          "en": "avenida",
+          "ar": "avenida"
+        },
+        {
+          "pt": "biblioteca",
+          "en": "biblioteca",
+          "ar": "biblioteca"
+        },
+        {
+          "pt": "foi",
+          "en": "foi",
+          "ar": "foi"
+        },
+        {
+          "pt": "central.",
+          "en": "central.",
+          "ar": "central."
+        },
+        {
+          "pt": "na",
+          "en": "na",
+          "ar": "na"
+        }
+      ],
+      "answer": "A nova biblioteca foi inaugurada ontem na avenida central.",
+      "accepted": [
+        "A nova biblioteca foi inaugurada ontem na avenida central."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'A nova biblioteca foi inaugurada ontem na avenida central.'",
+        "en": "The correct order: 'The new library was inaugurated yesterday on the central avenue.'",
+        "ar": "الترتيب الصحيح: 'تم افتتاح المكتبة الجديدة أمس في الشارع الرئيسي.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o particípio",
+          "en": "to be published",
+          "ar": "o particípio"
+        },
+        {
+          "pt": "o agente",
+          "en": "the passive voice",
+          "ar": "o agente"
+        },
+        {
+          "pt": "ser publicado",
+          "en": "to be built",
+          "ar": "ser publicado"
+        },
+        {
+          "pt": "ser construído",
+          "en": "to be elected",
+          "ar": "ser construído"
+        },
+        {
+          "pt": "a voz passiva",
+          "en": "the agent",
+          "ar": "a voz passiva"
+        },
+        {
+          "pt": "ser eleito",
+          "en": "the past participle",
+          "ar": "ser eleito"
+        }
+      ],
+      "answer": "o particípio::to be published|o agente::the passive voice|ser publicado::to be built|ser construído::to be elected|a voz passiva::the agent|ser eleito::the past participle",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "A nova biblioteca foi inaugurada ontem na avenida central.",
+          "en": "Was it built by the state government?",
+          "ar": "تم افتتاح المكتبة الجديدة أمس في الشارع الرئيسي."
+        },
+        {
+          "pt": "Sim, foi financiada com recursos públicos.",
+          "en": "Yes, it was funded with public resources.",
+          "ar": "نعم، تم تمويلها بأموال عامة."
+        },
+        {
+          "pt": "Foi construída pelo governo estadual?",
+          "en": "The new library was inaugurated yesterday on the central avenue.",
+          "ar": "هل بناها حكومة الولاية؟"
+        }
+      ],
+      "answer": "A nova biblioteca foi inaugurada ontem na avenida central.",
+      "accepted": [],
+      "audio": "A nova biblioteca foi inaugurada ontem na avenida central.",
+      "explanation": {
+        "pt": "Você ouviu: 'A nova biblioteca foi inaugurada ontem na avenida central.' — 'The new library was inaugurated yesterday on the central avenue.'",
+        "en": "You heard: 'A nova biblioteca foi inaugurada ontem na avenida central.' — 'The new library was inaugurated yesterday on the central avenue.'",
+        "ar": "سمعت: 'A nova biblioteca foi inaugurada ontem na avenida central.' — 'تم افتتاح المكتبة الجديدة أمس في الشارع الرئيسي.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "A nova biblioteca foi inaugurada ontem na avenida central.",
+          "en": "The new library was inaugurated yesterday on the central avenue.",
+          "ar": "تم افتتاح المكتبة الجديدة أمس في الشارع الرئيسي."
+        },
+        {
+          "pt": "Que ótima notícia! Serão oferecidos cursos gratuitos lá?",
+          "en": "Was it built by the state government?",
+          "ar": "هل بناها حكومة الولاية؟"
+        },
+        {
+          "pt": "Foi construída pelo governo estadual?",
+          "en": "What great news! Will free courses be offered there?",
+          "ar": "يا لها من أخبار رائعة! هل ستُقدَّم دورات مجانية هناك؟"
+        }
+      ],
+      "answer": "Foi construída pelo governo estadual?",
+      "accepted": [],
+      "audio": "Foi construída pelo governo estadual?",
+      "explanation": {
+        "pt": "Você ouviu: 'Foi construída pelo governo estadual?' — 'Was it built by the state government?'",
+        "en": "You heard: 'Foi construída pelo governo estadual?' — 'Was it built by the state government?'",
+        "ar": "سمعت: 'Foi construída pelo governo estadual?' — 'هل بناها حكومة الولاية؟'"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "O ___ foi publicado em 2020.",
+        "en": "O ___ foi publicado em 2020.",
+        "ar": "O ___ foi publicado em 2020."
+      },
+      "options": [
+        {
+          "pt": "A",
+          "en": "A",
+          "ar": "A"
+        },
+        {
+          "pt": "pelo",
+          "en": "pelo",
+          "ar": "pelo"
+        },
+        {
+          "pt": "livro",
+          "en": "livro",
+          "ar": "livro"
+        }
+      ],
+      "answer": "livro",
+      "accepted": [],
+      "explanation": {
+        "pt": "A resposta é 'livro'. Frase completa: O livro foi publicado em 2020.",
+        "en": "The answer is 'livro'. Full sentence: The book was published in 2020.",
+        "ar": "الإجابة الصحيحة: 'livro'. الجملة كاملة: نُشر الكتاب في عام 2020."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "A",
+          "en": "A",
+          "ar": "A"
+        },
+        {
+          "pt": "inaugurada",
+          "en": "inaugurada",
+          "ar": "inaugurada"
+        },
+        {
+          "pt": "foi",
+          "en": "foi",
+          "ar": "foi"
+        },
+        {
+          "pt": "biblioteca",
+          "en": "biblioteca",
+          "ar": "biblioteca"
+        },
+        {
+          "pt": "ontem",
+          "en": "ontem",
+          "ar": "ontem"
+        },
+        {
+          "pt": "avenida",
+          "en": "avenida",
+          "ar": "avenida"
+        },
+        {
+          "pt": "na",
+          "en": "na",
+          "ar": "na"
+        },
+        {
+          "pt": "central.",
+          "en": "central.",
+          "ar": "central."
+        },
+        {
+          "pt": "nova",
+          "en": "nova",
+          "ar": "nova"
+        }
+      ],
+      "answer": "A nova biblioteca foi inaugurada ontem na avenida central.",
+      "accepted": [
+        "A nova biblioteca foi inaugurada ontem na avenida central."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'A nova biblioteca foi inaugurada ontem na avenida central.'",
+        "en": "The correct order: 'The new library was inaugurated yesterday on the central avenue.'",
+        "ar": "الترتيب الصحيح: 'تم افتتاح المكتبة الجديدة أمس في الشارع الرئيسي.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "ser publicado",
+          "en": "the past participle",
+          "ar": "ser publicado"
+        },
+        {
+          "pt": "o agente",
+          "en": "to be built",
+          "ar": "o agente"
+        },
+        {
+          "pt": "o particípio",
+          "en": "the passive voice",
+          "ar": "o particípio"
+        },
+        {
+          "pt": "ser construído",
+          "en": "to be published",
+          "ar": "ser construído"
+        },
+        {
+          "pt": "ser eleito",
+          "en": "the agent",
+          "ar": "ser eleito"
+        },
+        {
+          "pt": "a voz passiva",
+          "en": "to be elected",
+          "ar": "a voz passiva"
+        }
+      ],
+      "answer": "ser publicado::the past participle|o agente::to be built|o particípio::the passive voice|ser construído::to be published|ser eleito::the agent|a voz passiva::to be elected",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim, serão oferecidos cursos de informática e leitura.",
+          "en": "The new library was inaugurated yesterday on the central avenue.",
+          "ar": "تم افتتاح المكتبة الجديدة أمس في الشارع الرئيسي."
+        },
+        {
+          "pt": "Que ótima notícia! Serão oferecidos cursos gratuitos lá?",
+          "en": "What great news! Will free courses be offered there?",
+          "ar": "نعم، ستُقدَّم دورات في الحاسوب والقراءة."
+        },
+        {
+          "pt": "A nova biblioteca foi inaugurada ontem na avenida central.",
+          "en": "Yes, computer and reading courses will be offered.",
+          "ar": "يا لها من أخبار رائعة! هل ستُقدَّم دورات مجانية هناك؟"
+        }
+      ],
+      "answer": "A nova biblioteca foi inaugurada ontem na avenida central.",
+      "accepted": [],
+      "audio": "A nova biblioteca foi inaugurada ontem na avenida central.",
+      "explanation": {
+        "pt": "Você ouviu: 'A nova biblioteca foi inaugurada ontem na avenida central.' — 'The new library was inaugurated yesterday on the central avenue.'",
+        "en": "You heard: 'A nova biblioteca foi inaugurada ontem na avenida central.' — 'The new library was inaugurated yesterday on the central avenue.'",
+        "ar": "سمعت: 'A nova biblioteca foi inaugurada ontem na avenida central.' — 'تم افتتاح المكتبة الجديدة أمس في الشارع الرئيسي.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim, serão oferecidos cursos de informática e leitura.",
+          "en": "The new library was inaugurated yesterday on the central avenue.",
+          "ar": "نعم، ستُقدَّم دورات في الحاسوب والقراءة."
+        },
+        {
+          "pt": "A nova biblioteca foi inaugurada ontem na avenida central.",
+          "en": "Yes, computer and reading courses will be offered.",
+          "ar": "هل بناها حكومة الولاية؟"
+        },
+        {
+          "pt": "Foi construída pelo governo estadual?",
+          "en": "Was it built by the state government?",
+          "ar": "تم افتتاح المكتبة الجديدة أمس في الشارع الرئيسي."
+        }
+      ],
+      "answer": "Foi construída pelo governo estadual?",
+      "accepted": [],
+      "audio": "Foi construída pelo governo estadual?",
+      "explanation": {
+        "pt": "Você ouviu: 'Foi construída pelo governo estadual?' — 'Was it built by the state government?'",
+        "en": "You heard: 'Foi construída pelo governo estadual?' — 'Was it built by the state government?'",
+        "ar": "سمعت: 'Foi construída pelo governo estadual?' — 'هل بناها حكومة الولاية؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "inaugurada",
+          "en": "inaugurada",
+          "ar": "inaugurada"
+        },
+        {
+          "pt": "ontem",
+          "en": "ontem",
+          "ar": "ontem"
+        },
+        {
+          "pt": "A",
+          "en": "A",
+          "ar": "A"
+        },
+        {
+          "pt": "avenida",
+          "en": "avenida",
+          "ar": "avenida"
+        },
+        {
+          "pt": "biblioteca",
+          "en": "biblioteca",
+          "ar": "biblioteca"
+        },
+        {
+          "pt": "central.",
+          "en": "central.",
+          "ar": "central."
+        },
+        {
+          "pt": "foi",
+          "en": "foi",
+          "ar": "foi"
+        },
+        {
+          "pt": "na",
+          "en": "na",
+          "ar": "na"
+        },
+        {
+          "pt": "nova",
+          "en": "nova",
+          "ar": "nova"
+        }
+      ],
+      "answer": "A nova biblioteca foi inaugurada ontem na avenida central.",
+      "accepted": [
+        "A nova biblioteca foi inaugurada ontem na avenida central."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'A nova biblioteca foi inaugurada ontem na avenida central.'",
+        "en": "The correct order: 'The new library was inaugurated yesterday on the central avenue.'",
+        "ar": "الترتيب الصحيح: 'تم افتتاح المكتبة الجديدة أمس في الشارع الرئيسي.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "ser construído",
+          "en": "the past participle",
+          "ar": "ser construído"
+        },
+        {
+          "pt": "o agente",
+          "en": "the agent",
+          "ar": "o agente"
+        },
+        {
+          "pt": "a voz passiva",
+          "en": "to be published",
+          "ar": "a voz passiva"
+        },
+        {
+          "pt": "o particípio",
+          "en": "the passive voice",
+          "ar": "o particípio"
+        },
+        {
+          "pt": "ser publicado",
+          "en": "to be elected",
+          "ar": "ser publicado"
+        },
+        {
+          "pt": "ser eleito",
+          "en": "to be built",
+          "ar": "ser eleito"
+        }
+      ],
+      "answer": "ser construído::the past participle|o agente::the agent|a voz passiva::to be published|o particípio::the passive voice|ser publicado::to be elected|ser eleito::to be built",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "A nova biblioteca foi inaugurada ontem na avenida central.",
+          "en": "Was it built by the state government?",
+          "ar": "تم افتتاح المكتبة الجديدة أمس في الشارع الرئيسي."
+        },
+        {
+          "pt": "Foi construída pelo governo estadual?",
+          "en": "Yes, computer and reading courses will be offered.",
+          "ar": "نعم، ستُقدَّم دورات في الحاسوب والقراءة."
+        },
+        {
+          "pt": "Sim, serão oferecidos cursos de informática e leitura.",
+          "en": "The new library was inaugurated yesterday on the central avenue.",
+          "ar": "هل بناها حكومة الولاية؟"
+        }
+      ],
+      "answer": "A nova biblioteca foi inaugurada ontem na avenida central.",
+      "accepted": [],
+      "audio": "A nova biblioteca foi inaugurada ontem na avenida central.",
+      "explanation": {
+        "pt": "Você ouviu: 'A nova biblioteca foi inaugurada ontem na avenida central.' — 'The new library was inaugurated yesterday on the central avenue.'",
+        "en": "You heard: 'A nova biblioteca foi inaugurada ontem na avenida central.' — 'The new library was inaugurated yesterday on the central avenue.'",
+        "ar": "سمعت: 'A nova biblioteca foi inaugurada ontem na avenida central.' — 'تم افتتاح المكتبة الجديدة أمس في الشارع الرئيسي.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim, foi financiada com recursos públicos.",
+          "en": "Was it built by the state government?",
+          "ar": "نعم، تم تمويلها بأموال عامة."
+        },
+        {
+          "pt": "Foi construída pelo governo estadual?",
+          "en": "Yes, it was funded with public resources.",
+          "ar": "هل بناها حكومة الولاية؟"
+        },
+        {
+          "pt": "Sim, serão oferecidos cursos de informática e leitura.",
+          "en": "Yes, computer and reading courses will be offered.",
+          "ar": "نعم، ستُقدَّم دورات في الحاسوب والقراءة."
+        }
+      ],
+      "answer": "Foi construída pelo governo estadual?",
+      "accepted": [],
+      "audio": "Foi construída pelo governo estadual?",
+      "explanation": {
+        "pt": "Você ouviu: 'Foi construída pelo governo estadual?' — 'Was it built by the state government?'",
+        "en": "You heard: 'Foi construída pelo governo estadual?' — 'Was it built by the state government?'",
+        "ar": "سمعت: 'Foi construída pelo governo estadual?' — 'هل بناها حكومة الولاية؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "central.",
+          "en": "central.",
+          "ar": "central."
+        },
+        {
+          "pt": "A",
+          "en": "A",
+          "ar": "A"
+        },
+        {
+          "pt": "inaugurada",
+          "en": "inaugurada",
+          "ar": "inaugurada"
+        },
+        {
+          "pt": "ontem",
+          "en": "ontem",
+          "ar": "ontem"
+        },
+        {
+          "pt": "avenida",
+          "en": "avenida",
+          "ar": "avenida"
+        },
+        {
+          "pt": "na",
+          "en": "na",
+          "ar": "na"
+        },
+        {
+          "pt": "foi",
+          "en": "foi",
+          "ar": "foi"
+        },
+        {
+          "pt": "biblioteca",
+          "en": "biblioteca",
+          "ar": "biblioteca"
+        },
+        {
+          "pt": "nova",
+          "en": "nova",
+          "ar": "nova"
+        }
+      ],
+      "answer": "A nova biblioteca foi inaugurada ontem na avenida central.",
+      "accepted": [
+        "A nova biblioteca foi inaugurada ontem na avenida central."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'A nova biblioteca foi inaugurada ontem na avenida central.'",
+        "en": "The correct order: 'The new library was inaugurated yesterday on the central avenue.'",
+        "ar": "الترتيب الصحيح: 'تم افتتاح المكتبة الجديدة أمس في الشارع الرئيسي.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "ser construído",
+          "en": "to be published",
+          "ar": "ser construído"
+        },
+        {
+          "pt": "ser publicado",
+          "en": "to be elected",
+          "ar": "ser publicado"
+        },
+        {
+          "pt": "ser eleito",
+          "en": "the past participle",
+          "ar": "ser eleito"
+        },
+        {
+          "pt": "a voz passiva",
+          "en": "to be built",
+          "ar": "a voz passiva"
+        },
+        {
+          "pt": "o particípio",
+          "en": "the agent",
+          "ar": "o particípio"
+        },
+        {
+          "pt": "o agente",
+          "en": "the passive voice",
+          "ar": "o agente"
+        }
+      ],
+      "answer": "ser construído::to be published|ser publicado::to be elected|ser eleito::the past participle|a voz passiva::to be built|o particípio::the agent|o agente::the passive voice",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "A nova biblioteca foi inaugurada ontem na avenida central.",
+          "en": "The new library was inaugurated yesterday on the central avenue.",
+          "ar": "نعم، تم تمويلها بأموال عامة."
+        },
+        {
+          "pt": "Foi construída pelo governo estadual?",
+          "en": "Yes, it was funded with public resources.",
+          "ar": "تم افتتاح المكتبة الجديدة أمس في الشارع الرئيسي."
+        },
+        {
+          "pt": "Sim, foi financiada com recursos públicos.",
+          "en": "Was it built by the state government?",
+          "ar": "هل بناها حكومة الولاية؟"
+        }
+      ],
+      "answer": "A nova biblioteca foi inaugurada ontem na avenida central.",
+      "accepted": [],
+      "audio": "A nova biblioteca foi inaugurada ontem na avenida central.",
+      "explanation": {
+        "pt": "Você ouviu: 'A nova biblioteca foi inaugurada ontem na avenida central.' — 'The new library was inaugurated yesterday on the central avenue.'",
+        "en": "You heard: 'A nova biblioteca foi inaugurada ontem na avenida central.' — 'The new library was inaugurated yesterday on the central avenue.'",
+        "ar": "سمعت: 'A nova biblioteca foi inaugurada ontem na avenida central.' — 'تم افتتاح المكتبة الجديدة أمس في الشارع الرئيسي.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Foi construída pelo governo estadual?",
+          "en": "Yes, computer and reading courses will be offered.",
+          "ar": "يا لها من أخبار رائعة! هل ستُقدَّم دورات مجانية هناك؟"
+        },
+        {
+          "pt": "Que ótima notícia! Serão oferecidos cursos gratuitos lá?",
+          "en": "Was it built by the state government?",
+          "ar": "نعم، ستُقدَّم دورات في الحاسوب والقراءة."
+        },
+        {
+          "pt": "Sim, serão oferecidos cursos de informática e leitura.",
+          "en": "What great news! Will free courses be offered there?",
+          "ar": "هل بناها حكومة الولاية؟"
+        }
+      ],
+      "answer": "Foi construída pelo governo estadual?",
+      "accepted": [],
+      "audio": "Foi construída pelo governo estadual?",
+      "explanation": {
+        "pt": "Você ouviu: 'Foi construída pelo governo estadual?' — 'Was it built by the state government?'",
+        "en": "You heard: 'Foi construída pelo governo estadual?' — 'Was it built by the state government?'",
+        "ar": "سمعت: 'Foi construída pelo governo estadual?' — 'هل بناها حكومة الولاية؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "biblioteca",
+          "en": "biblioteca",
+          "ar": "biblioteca"
+        },
+        {
+          "pt": "na",
+          "en": "na",
+          "ar": "na"
+        },
+        {
+          "pt": "central.",
+          "en": "central.",
+          "ar": "central."
+        },
+        {
+          "pt": "A",
+          "en": "A",
+          "ar": "A"
+        },
+        {
+          "pt": "avenida",
+          "en": "avenida",
+          "ar": "avenida"
+        },
+        {
+          "pt": "inaugurada",
+          "en": "inaugurada",
+          "ar": "inaugurada"
+        },
+        {
+          "pt": "foi",
+          "en": "foi",
+          "ar": "foi"
+        },
+        {
+          "pt": "ontem",
+          "en": "ontem",
+          "ar": "ontem"
+        },
+        {
+          "pt": "nova",
+          "en": "nova",
+          "ar": "nova"
+        }
+      ],
+      "answer": "A nova biblioteca foi inaugurada ontem na avenida central.",
+      "accepted": [
+        "A nova biblioteca foi inaugurada ontem na avenida central."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'A nova biblioteca foi inaugurada ontem na avenida central.'",
+        "en": "The correct order: 'The new library was inaugurated yesterday on the central avenue.'",
+        "ar": "الترتيب الصحيح: 'تم افتتاح المكتبة الجديدة أمس في الشارع الرئيسي.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "ser construído",
+          "en": "the passive voice",
+          "ar": "ser construído"
+        },
+        {
+          "pt": "o particípio",
+          "en": "the agent",
+          "ar": "o particípio"
+        },
+        {
+          "pt": "ser eleito",
+          "en": "to be published",
+          "ar": "ser eleito"
+        },
+        {
+          "pt": "o agente",
+          "en": "the past participle",
+          "ar": "o agente"
+        },
+        {
+          "pt": "a voz passiva",
+          "en": "to be built",
+          "ar": "a voz passiva"
+        },
+        {
+          "pt": "ser publicado",
+          "en": "to be elected",
+          "ar": "ser publicado"
+        }
+      ],
+      "answer": "ser construído::the passive voice|o particípio::the agent|ser eleito::to be published|o agente::the past participle|a voz passiva::to be built|ser publicado::to be elected",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim, foi financiada com recursos públicos.",
+          "en": "Was it built by the state government?",
+          "ar": "تم افتتاح المكتبة الجديدة أمس في الشارع الرئيسي."
+        },
+        {
+          "pt": "Foi construída pelo governo estadual?",
+          "en": "The new library was inaugurated yesterday on the central avenue.",
+          "ar": "هل بناها حكومة الولاية؟"
+        },
+        {
+          "pt": "A nova biblioteca foi inaugurada ontem na avenida central.",
+          "en": "Yes, it was funded with public resources.",
+          "ar": "نعم، تم تمويلها بأموال عامة."
+        }
+      ],
+      "answer": "A nova biblioteca foi inaugurada ontem na avenida central.",
+      "accepted": [],
+      "audio": "A nova biblioteca foi inaugurada ontem na avenida central.",
+      "explanation": {
+        "pt": "Você ouviu: 'A nova biblioteca foi inaugurada ontem na avenida central.' — 'The new library was inaugurated yesterday on the central avenue.'",
+        "en": "You heard: 'A nova biblioteca foi inaugurada ontem na avenida central.' — 'The new library was inaugurated yesterday on the central avenue.'",
+        "ar": "سمعت: 'A nova biblioteca foi inaugurada ontem na avenida central.' — 'تم افتتاح المكتبة الجديدة أمس في الشارع الرئيسي.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "A nova biblioteca foi inaugurada ontem na avenida central.",
+          "en": "The new library was inaugurated yesterday on the central avenue.",
+          "ar": "تم افتتاح المكتبة الجديدة أمس في الشارع الرئيسي."
+        },
+        {
+          "pt": "Foi construída pelo governo estadual?",
+          "en": "Was it built by the state government?",
+          "ar": "نعم، ستُقدَّم دورات في الحاسوب والقراءة."
+        },
+        {
+          "pt": "Sim, serão oferecidos cursos de informática e leitura.",
+          "en": "Yes, computer and reading courses will be offered.",
+          "ar": "هل بناها حكومة الولاية؟"
+        }
+      ],
+      "answer": "Foi construída pelo governo estadual?",
+      "accepted": [],
+      "audio": "Foi construída pelo governo estadual?",
+      "explanation": {
+        "pt": "Você ouviu: 'Foi construída pelo governo estadual?' — 'Was it built by the state government?'",
+        "en": "You heard: 'Foi construída pelo governo estadual?' — 'Was it built by the state government?'",
+        "ar": "سمعت: 'Foi construída pelo governo estadual?' — 'هل بناها حكومة الولاية؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "ontem",
+          "en": "ontem",
+          "ar": "ontem"
+        },
+        {
+          "pt": "central.",
+          "en": "central.",
+          "ar": "central."
+        },
+        {
+          "pt": "foi",
+          "en": "foi",
+          "ar": "foi"
+        },
+        {
+          "pt": "inaugurada",
+          "en": "inaugurada",
+          "ar": "inaugurada"
+        },
+        {
+          "pt": "avenida",
+          "en": "avenida",
+          "ar": "avenida"
+        },
+        {
+          "pt": "biblioteca",
+          "en": "biblioteca",
+          "ar": "biblioteca"
+        },
+        {
+          "pt": "nova",
+          "en": "nova",
+          "ar": "nova"
+        },
+        {
+          "pt": "A",
+          "en": "A",
+          "ar": "A"
+        },
+        {
+          "pt": "na",
+          "en": "na",
+          "ar": "na"
+        }
+      ],
+      "answer": "A nova biblioteca foi inaugurada ontem na avenida central.",
+      "accepted": [
+        "A nova biblioteca foi inaugurada ontem na avenida central."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'A nova biblioteca foi inaugurada ontem na avenida central.'",
+        "en": "The correct order: 'The new library was inaugurated yesterday on the central avenue.'",
+        "ar": "الترتيب الصحيح: 'تم افتتاح المكتبة الجديدة أمس في الشارع الرئيسي.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a voz passiva",
+          "en": "to be published",
+          "ar": "a voz passiva"
+        },
+        {
+          "pt": "ser construído",
+          "en": "to be elected",
+          "ar": "ser construído"
+        },
+        {
+          "pt": "ser eleito",
+          "en": "the agent",
+          "ar": "ser eleito"
+        },
+        {
+          "pt": "o agente",
+          "en": "the passive voice",
+          "ar": "o agente"
+        },
+        {
+          "pt": "o particípio",
+          "en": "to be built",
+          "ar": "o particípio"
+        },
+        {
+          "pt": "ser publicado",
+          "en": "the past participle",
+          "ar": "ser publicado"
+        }
+      ],
+      "answer": "a voz passiva::to be published|ser construído::to be elected|ser eleito::the agent|o agente::the passive voice|o particípio::to be built|ser publicado::the past participle",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "A nova biblioteca foi inaugurada ontem na avenida central.",
+          "en": "Yes, it was funded with public resources.",
+          "ar": "نعم، ستُقدَّم دورات في الحاسوب والقراءة."
+        },
+        {
+          "pt": "Sim, serão oferecidos cursos de informática e leitura.",
+          "en": "The new library was inaugurated yesterday on the central avenue.",
+          "ar": "نعم، تم تمويلها بأموال عامة."
+        },
+        {
+          "pt": "Sim, foi financiada com recursos públicos.",
+          "en": "Yes, computer and reading courses will be offered.",
+          "ar": "تم افتتاح المكتبة الجديدة أمس في الشارع الرئيسي."
+        }
+      ],
+      "answer": "A nova biblioteca foi inaugurada ontem na avenida central.",
+      "accepted": [],
+      "audio": "A nova biblioteca foi inaugurada ontem na avenida central.",
+      "explanation": {
+        "pt": "Você ouviu: 'A nova biblioteca foi inaugurada ontem na avenida central.' — 'The new library was inaugurated yesterday on the central avenue.'",
+        "en": "You heard: 'A nova biblioteca foi inaugurada ontem na avenida central.' — 'The new library was inaugurated yesterday on the central avenue.'",
+        "ar": "سمعت: 'A nova biblioteca foi inaugurada ontem na avenida central.' — 'تم افتتاح المكتبة الجديدة أمس في الشارع الرئيسي.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Foi construída pelo governo estadual?",
+          "en": "Yes, computer and reading courses will be offered.",
+          "ar": "هل بناها حكومة الولاية؟"
+        },
+        {
+          "pt": "Sim, foi financiada com recursos públicos.",
+          "en": "Was it built by the state government?",
+          "ar": "نعم، تم تمويلها بأموال عامة."
+        },
+        {
+          "pt": "Sim, serão oferecidos cursos de informática e leitura.",
+          "en": "Yes, it was funded with public resources.",
+          "ar": "نعم، ستُقدَّم دورات في الحاسوب والقراءة."
+        }
+      ],
+      "answer": "Foi construída pelo governo estadual?",
+      "accepted": [],
+      "audio": "Foi construída pelo governo estadual?",
+      "explanation": {
+        "pt": "Você ouviu: 'Foi construída pelo governo estadual?' — 'Was it built by the state government?'",
+        "en": "You heard: 'Foi construída pelo governo estadual?' — 'Was it built by the state government?'",
+        "ar": "سمعت: 'Foi construída pelo governo estadual?' — 'هل بناها حكومة الولاية؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "central.",
+          "en": "central.",
+          "ar": "central."
+        },
+        {
+          "pt": "avenida",
+          "en": "avenida",
+          "ar": "avenida"
+        },
+        {
+          "pt": "inaugurada",
+          "en": "inaugurada",
+          "ar": "inaugurada"
+        },
+        {
+          "pt": "na",
+          "en": "na",
+          "ar": "na"
+        },
+        {
+          "pt": "ontem",
+          "en": "ontem",
+          "ar": "ontem"
+        },
+        {
+          "pt": "A",
+          "en": "A",
+          "ar": "A"
+        },
+        {
+          "pt": "biblioteca",
+          "en": "biblioteca",
+          "ar": "biblioteca"
+        },
+        {
+          "pt": "nova",
+          "en": "nova",
+          "ar": "nova"
+        },
+        {
+          "pt": "foi",
+          "en": "foi",
+          "ar": "foi"
+        }
+      ],
+      "answer": "A nova biblioteca foi inaugurada ontem na avenida central.",
+      "accepted": [
+        "A nova biblioteca foi inaugurada ontem na avenida central."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'A nova biblioteca foi inaugurada ontem na avenida central.'",
+        "en": "The correct order: 'The new library was inaugurated yesterday on the central avenue.'",
+        "ar": "الترتيب الصحيح: 'تم افتتاح المكتبة الجديدة أمس في الشارع الرئيسي.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "ser eleito",
+          "en": "the past participle",
+          "ar": "ser eleito"
+        },
+        {
+          "pt": "o particípio",
+          "en": "the passive voice",
+          "ar": "o particípio"
+        },
+        {
+          "pt": "ser publicado",
+          "en": "to be built",
+          "ar": "ser publicado"
+        },
+        {
+          "pt": "a voz passiva",
+          "en": "to be elected",
+          "ar": "a voz passiva"
+        },
+        {
+          "pt": "o agente",
+          "en": "the agent",
+          "ar": "o agente"
+        },
+        {
+          "pt": "ser construído",
+          "en": "to be published",
+          "ar": "ser construído"
+        }
+      ],
+      "answer": "ser eleito::the past participle|o particípio::the passive voice|ser publicado::to be built|a voz passiva::to be elected|o agente::the agent|ser construído::to be published",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "A nova biblioteca foi inaugurada ontem na avenida central.",
+          "en": "The new library was inaugurated yesterday on the central avenue.",
+          "ar": "تم افتتاح المكتبة الجديدة أمس في الشارع الرئيسي."
+        },
+        {
+          "pt": "Foi construída pelo governo estadual?",
+          "en": "What great news! Will free courses be offered there?",
+          "ar": "يا لها من أخبار رائعة! هل ستُقدَّم دورات مجانية هناك؟"
+        },
+        {
+          "pt": "Que ótima notícia! Serão oferecidos cursos gratuitos lá?",
+          "en": "Was it built by the state government?",
+          "ar": "هل بناها حكومة الولاية؟"
+        }
+      ],
+      "answer": "A nova biblioteca foi inaugurada ontem na avenida central.",
+      "accepted": [],
+      "audio": "A nova biblioteca foi inaugurada ontem na avenida central.",
+      "explanation": {
+        "pt": "Você ouviu: 'A nova biblioteca foi inaugurada ontem na avenida central.' — 'The new library was inaugurated yesterday on the central avenue.'",
+        "en": "You heard: 'A nova biblioteca foi inaugurada ontem na avenida central.' — 'The new library was inaugurated yesterday on the central avenue.'",
+        "ar": "سمعت: 'A nova biblioteca foi inaugurada ontem na avenida central.' — 'تم افتتاح المكتبة الجديدة أمس في الشارع الرئيسي.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "A nova biblioteca foi inaugurada ontem na avenida central.",
+          "en": "Yes, computer and reading courses will be offered.",
+          "ar": "نعم، ستُقدَّم دورات في الحاسوب والقراءة."
+        },
+        {
+          "pt": "Sim, serão oferecidos cursos de informática e leitura.",
+          "en": "The new library was inaugurated yesterday on the central avenue.",
+          "ar": "هل بناها حكومة الولاية؟"
+        },
+        {
+          "pt": "Foi construída pelo governo estadual?",
+          "en": "Was it built by the state government?",
+          "ar": "تم افتتاح المكتبة الجديدة أمس في الشارع الرئيسي."
+        }
+      ],
+      "answer": "Foi construída pelo governo estadual?",
+      "accepted": [],
+      "audio": "Foi construída pelo governo estadual?",
+      "explanation": {
+        "pt": "Você ouviu: 'Foi construída pelo governo estadual?' — 'Was it built by the state government?'",
+        "en": "You heard: 'Foi construída pelo governo estadual?' — 'Was it built by the state government?'",
+        "ar": "سمعت: 'Foi construída pelo governo estadual?' — 'هل بناها حكومة الولاية؟'"
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'the passive voice'",
+        "en": "Type in Portuguese: 'the passive voice'",
+        "ar": "اكتب بالبرتغالية: 'المبني للمجهول'"
+      },
+      "options": [],
+      "answer": "a voz passiva",
+      "accepted": [
+        "a voz passiva"
+      ],
+      "explanation": {
+        "pt": "'a voz passiva' significa 'the passive voice'.",
+        "en": "'a voz passiva' means 'the passive voice'.",
+        "ar": "'$a voz passiva' بالعربية: '$المبني للمجهول'."
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'the past participle'",
+        "en": "Type in Portuguese: 'the past participle'",
+        "ar": "اكتب بالبرتغالية: 'اسم المفعول'"
+      },
+      "options": [],
+      "answer": "o particípio",
+      "accepted": [
+        "o particípio"
+      ],
+      "explanation": {
+        "pt": "'o particípio' significa 'the past participle'.",
+        "en": "'o particípio' means 'the past participle'.",
+        "ar": "'$o particípio' بالعربية: '$اسم المفعول'."
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "A nova biblioteca foi inaugurada ontem na avenida central.",
+          "en": "A nova biblioteca foi inaugurada ontem na avenida central.",
+          "ar": "A nova biblioteca foi inaugurada ontem na avenida central."
+        },
+        {
+          "pt": "Que ótima notícia! Serão oferecidos cursos gratuitos lá?",
+          "en": "Que ótima notícia! Serão oferecidos cursos gratuitos lá?",
+          "ar": "Que ótima notícia! Serão oferecidos cursos gratuitos lá?"
+        },
+        {
+          "pt": "Foi construída pelo governo estadual?",
+          "en": "Foi construída pelo governo estadual?",
+          "ar": "Foi construída pelo governo estadual?"
+        }
+      ],
+      "answer": "A nova biblioteca foi inaugurada ontem na avenida central.",
+      "accepted": [],
+      "audio": "A nova biblioteca foi inaugurada ontem na avenida central.",
+      "explanation": {
+        "pt": "Você ouviu: 'A nova biblioteca foi inaugurada ontem na avenida central.'",
+        "en": "You heard: 'A nova biblioteca foi inaugurada ontem na avenida central.'",
+        "ar": "سمعت: 'A nova biblioteca foi inaugurada ontem na avenida central.'"
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Sim, foi financiada com recursos públicos.",
+          "en": "Sim, foi financiada com recursos públicos.",
+          "ar": "Sim, foi financiada com recursos públicos."
+        },
+        {
+          "pt": "Foi construída pelo governo estadual?",
+          "en": "Foi construída pelo governo estadual?",
+          "ar": "Foi construída pelo governo estadual?"
+        },
+        {
+          "pt": "Sim, serão oferecidos cursos de informática e leitura.",
+          "en": "Sim, serão oferecidos cursos de informática e leitura.",
+          "ar": "Sim, serão oferecidos cursos de informática e leitura."
+        }
+      ],
+      "answer": "Foi construída pelo governo estadual?",
+      "accepted": [],
+      "audio": "Foi construída pelo governo estadual?",
+      "explanation": {
+        "pt": "Você ouviu: 'Foi construída pelo governo estadual?'",
+        "en": "You heard: 'Foi construída pelo governo estadual?'",
+        "ar": "سمعت: 'Foi construída pelo governo estadual?'"
+      }
+    },
+    {
+      "type": "dictation",
+      "prompt": {
+        "pt": "Ouça e escreva o que você ouviu.",
+        "en": "Listen and type what you hear.",
+        "ar": "استمع واكتب ما سمعته."
+      },
+      "options": [],
+      "answer": "A nova biblioteca foi inaugurada ontem na avenida central.",
+      "accepted": [],
+      "audio": "A nova biblioteca foi inaugurada ontem na avenida central.",
+      "explanation": {
+        "pt": "A frase correta: 'A nova biblioteca foi inaugurada ontem na avenida central.'",
+        "en": "The correct sentence: 'A nova biblioteca foi inaugurada ontem na avenida central.'",
+        "ar": "الجملة الصحيحة: 'A nova biblioteca foi inaugurada ontem na avenida central.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "central.",
+          "en": "central.",
+          "ar": "central."
+        },
+        {
+          "pt": "na",
+          "en": "na",
+          "ar": "na"
+        },
+        {
+          "pt": "foi",
+          "en": "foi",
+          "ar": "foi"
+        },
+        {
+          "pt": "avenida",
+          "en": "avenida",
+          "ar": "avenida"
+        },
+        {
+          "pt": "biblioteca",
+          "en": "biblioteca",
+          "ar": "biblioteca"
+        },
+        {
+          "pt": "inaugurada",
+          "en": "inaugurada",
+          "ar": "inaugurada"
+        },
+        {
+          "pt": "nova",
+          "en": "nova",
+          "ar": "nova"
+        },
+        {
+          "pt": "ontem",
+          "en": "ontem",
+          "ar": "ontem"
+        },
+        {
+          "pt": "A",
+          "en": "A",
+          "ar": "A"
+        }
+      ],
+      "answer": "A nova biblioteca foi inaugurada ontem na avenida central.",
+      "accepted": [
+        "A nova biblioteca foi inaugurada ontem na avenida central."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'A nova biblioteca foi inaugurada ontem na avenida central.'",
+        "en": "The correct order: 'The new library was inaugurated yesterday on the central avenue.'",
+        "ar": "الترتيب الصحيح: 'تم افتتاح المكتبة الجديدة أمس في الشارع الرئيسي.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o agente",
+          "en": "to be published",
+          "ar": "o agente"
+        },
+        {
+          "pt": "ser construído",
+          "en": "the passive voice",
+          "ar": "ser construído"
+        },
+        {
+          "pt": "a voz passiva",
+          "en": "to be built",
+          "ar": "a voz passiva"
+        },
+        {
+          "pt": "ser publicado",
+          "en": "the agent",
+          "ar": "ser publicado"
+        },
+        {
+          "pt": "ser eleito",
+          "en": "the past participle",
+          "ar": "ser eleito"
+        },
+        {
+          "pt": "o particípio",
+          "en": "to be elected",
+          "ar": "o particípio"
+        }
+      ],
+      "answer": "o agente::to be published|ser construído::the passive voice|a voz passiva::to be built|ser publicado::the agent|ser eleito::the past participle|o particípio::to be elected",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Que ótima notícia! Serão oferecidos cursos gratuitos lá?",
+          "en": "Was it built by the state government?",
+          "ar": "تم افتتاح المكتبة الجديدة أمس في الشارع الرئيسي."
+        },
+        {
+          "pt": "A nova biblioteca foi inaugurada ontem na avenida central.",
+          "en": "The new library was inaugurated yesterday on the central avenue.",
+          "ar": "يا لها من أخبار رائعة! هل ستُقدَّم دورات مجانية هناك؟"
+        },
+        {
+          "pt": "Foi construída pelo governo estadual?",
+          "en": "What great news! Will free courses be offered there?",
+          "ar": "هل بناها حكومة الولاية؟"
+        }
+      ],
+      "answer": "A nova biblioteca foi inaugurada ontem na avenida central.",
+      "accepted": [],
+      "audio": "A nova biblioteca foi inaugurada ontem na avenida central.",
+      "explanation": {
+        "pt": "Você ouviu: 'A nova biblioteca foi inaugurada ontem na avenida central.' — 'The new library was inaugurated yesterday on the central avenue.'",
+        "en": "You heard: 'A nova biblioteca foi inaugurada ontem na avenida central.' — 'The new library was inaugurated yesterday on the central avenue.'",
+        "ar": "سمعت: 'A nova biblioteca foi inaugurada ontem na avenida central.' — 'تم افتتاح المكتبة الجديدة أمس في الشارع الرئيسي.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim, serão oferecidos cursos de informática e leitura.",
+          "en": "What great news! Will free courses be offered there?",
+          "ar": "نعم، ستُقدَّم دورات في الحاسوب والقراءة."
+        },
+        {
+          "pt": "Que ótima notícia! Serão oferecidos cursos gratuitos lá?",
+          "en": "Yes, computer and reading courses will be offered.",
+          "ar": "هل بناها حكومة الولاية؟"
+        },
+        {
+          "pt": "Foi construída pelo governo estadual?",
+          "en": "Was it built by the state government?",
+          "ar": "يا لها من أخبار رائعة! هل ستُقدَّم دورات مجانية هناك؟"
+        }
+      ],
+      "answer": "Foi construída pelo governo estadual?",
+      "accepted": [],
+      "audio": "Foi construída pelo governo estadual?",
+      "explanation": {
+        "pt": "Você ouviu: 'Foi construída pelo governo estadual?' — 'Was it built by the state government?'",
+        "en": "You heard: 'Foi construída pelo governo estadual?' — 'Was it built by the state government?'",
+        "ar": "سمعت: 'Foi construída pelo governo estadual?' — 'هل بناها حكومة الولاية؟'"
+      }
+    }
+  ],
+  "speaking": {
+    "title": {
+      "pt": "Fale Agora — Ouça e Repita",
+      "en": "Speak Now — Listen and Repeat",
+      "ar": "تحدث الآن — استمع وكرر"
+    },
+    "phrases": [
+      {
+        "pt": "A nova biblioteca foi inaugurada ontem na avenida central.",
+        "en": "The new library was inaugurated yesterday on the central avenue.",
+        "ar": "تم افتتاح المكتبة الجديدة أمس في الشارع الرئيسي."
+      },
+      {
+        "pt": "Foi construída pelo governo estadual?",
+        "en": "Was it built by the state government?",
+        "ar": "هل بناها حكومة الولاية؟"
+      },
+      {
+        "pt": "Sim, foi financiada com recursos públicos.",
+        "en": "Yes, it was funded with public resources.",
+        "ar": "نعم، تم تمويلها بأموال عامة."
+      },
+      {
+        "pt": "Que ótima notícia! Serão oferecidos cursos gratuitos lá?",
+        "en": "What great news! Will free courses be offered there?",
+        "ar": "يا لها من أخبار رائعة! هل ستُقدَّم دورات مجانية هناك؟"
+      },
+      {
+        "pt": "Sim, serão oferecidos cursos de informática e leitura.",
+        "en": "Yes, computer and reading courses will be offered.",
+        "ar": "نعم، ستُقدَّم دورات في الحاسوب والقراءة."
+      },
+      {
+        "pt": "a voz passiva",
+        "en": "the passive voice",
+        "ar": "المبني للمجهول"
+      },
+      {
+        "pt": "o particípio",
+        "en": "the past participle",
+        "ar": "اسم المفعول"
+      },
+      {
+        "pt": "o agente",
+        "en": "the agent",
+        "ar": "الفاعل"
+      }
+    ]
+  },
+  "cultural_tips": {
+    "pt": "",
+    "en": "",
+    "ar": ""
+  }
+}

@@ -1,0 +1,2056 @@
+{
+  "id": "C2-03",
+  "level": "C2",
+  "level_name": {
+    "pt": "Proficiência",
+    "en": "Proficiency",
+    "ar": "إتقان"
+  },
+  "title": {
+    "pt": "Estruturas Sintáticas Complexas",
+    "en": "Complex Syntactic Structures",
+    "ar": "التراكيب النحوية المعقدة"
+  },
+  "objectives": [
+    {
+      "pt": "Dominar o infinitivo pessoal e suas regras",
+      "en": "Master the personal infinitive and its rules",
+      "ar": "إتقان صيغة المصدر الشخصية وقواعدها"
+    },
+    {
+      "pt": "Reduzir orações desenvolvidas em gerúndio e particípio",
+      "en": "Reduce developed clauses into gerund and participle forms",
+      "ar": "تحويل الجمل الموصولة إلى صيغ المصدر المستمر واسم المفعول"
+    },
+    {
+      "pt": "Compreender a coesão e a elipse em períodos complexos",
+      "en": "Understand cohesion and ellipsis in complex periods",
+      "ar": "فهم التماسك اللغوي والحذف في الجمل المركبة"
+    },
+    {
+      "pt": "Produzir períodos longos com coordenação e subordinação",
+      "en": "Produce long sentences with coordination and subordination",
+      "ar": "إنتاج جمل طويلة بالعطف والتبعية"
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "a oração subordinada",
+      "ipa": "/o.ɾaˈsɐ̃w su.boʁ.dʒiˈna.da/",
+      "en": "subordinate clause",
+      "ar": "الجملة التابعة",
+      "example": {
+        "pt": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
+        "en": "Rewrite the developed clause as a reduced participle clause.",
+        "ar": "أعد كتابة الجملة المطوّرة إلى جملة مختزلة باسم المفعول."
+      }
+    },
+    {
+      "pt": "a oração principal",
+      "ipa": "/o.ɾaˈsɐ̃w pɾĩ.siˈpaw/",
+      "en": "main clause",
+      "ar": "الجملة الرئيسية",
+      "example": {
+        "pt": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
+        "en": "Rewrite the developed clause as a reduced participle clause.",
+        "ar": "أعد كتابة الجملة المطوّرة إلى جملة مختزلة باسم المفعول."
+      }
+    },
+    {
+      "pt": "a conjunção",
+      "ipa": "/kõ.ʒũˈsɐ̃w/",
+      "en": "conjunction",
+      "ar": "حرف العطف / الرابط",
+      "example": {
+        "pt": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
+        "en": "Rewrite the developed clause as a reduced participle clause.",
+        "ar": "أعد كتابة الجملة المطوّرة إلى جملة مختزلة باسم المفعول."
+      }
+    },
+    {
+      "pt": "o pronome relativo",
+      "ipa": "/pɾoˈnõ.mi ʁe.laˈtʃi.vu/",
+      "en": "relative pronoun",
+      "ar": "الضمير الموصول",
+      "example": {
+        "pt": "Depois que o relatório foi concluído, enviamos o e-mail.",
+        "en": "After the report was finished, we sent the email.",
+        "ar": "بعد أن أُنجز التقرير، أرسلنا البريد الإلكتروني."
+      }
+    },
+    {
+      "pt": "a elipse",
+      "ipa": "/eˈlip.si/",
+      "en": "ellipsis",
+      "ar": "الحذف",
+      "example": {
+        "pt": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
+        "en": "Rewrite the developed clause as a reduced participle clause.",
+        "ar": "أعد كتابة الجملة المطوّرة إلى جملة مختزلة باسم المفعول."
+      }
+    },
+    {
+      "pt": "a anáfora",
+      "ipa": "/aˈna.fo.ɾa/",
+      "en": "anaphora",
+      "ar": "الإحالة المرجعية",
+      "example": {
+        "pt": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
+        "en": "Rewrite the developed clause as a reduced participle clause.",
+        "ar": "أعد كتابة الجملة المطوّرة إلى جملة مختزلة باسم المفعول."
+      }
+    },
+    {
+      "pt": "a coesão",
+      "ipa": "/ko.eˈzɐ̃w/",
+      "en": "cohesion",
+      "ar": "التماسك",
+      "example": {
+        "pt": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
+        "en": "Rewrite the developed clause as a reduced participle clause.",
+        "ar": "أعد كتابة الجملة المطوّرة إلى جملة مختزلة باسم المفعول."
+      }
+    },
+    {
+      "pt": "o gerúndio",
+      "ipa": "/ʒeˈɾũ.dʒu/",
+      "en": "gerund",
+      "ar": "اسم الفاعل المستمر",
+      "example": {
+        "pt": "Depois que o relatório foi concluído, enviamos o e-mail.",
+        "en": "After the report was finished, we sent the email.",
+        "ar": "بعد أن أُنجز التقرير، أرسلنا البريد الإلكتروني."
+      }
+    },
+    {
+      "pt": "o infinitivo pessoal",
+      "ipa": "/ĩ.fi.niˈtʃi.vu peʁ.soˈaw/",
+      "en": "personal infinitive",
+      "ar": "المصدر المُصرَّف",
+      "example": {
+        "pt": "Depois que o relatório foi concluído, enviamos o e-mail.",
+        "en": "After the report was finished, we sent the email.",
+        "ar": "بعد أن أُنجز التقرير، أرسلنا البريد الإلكتروني."
+      }
+    },
+    {
+      "pt": "o particípio",
+      "ipa": "/paʁ.tʃiˈsi.pu/",
+      "en": "participle",
+      "ar": "اسم المفعول",
+      "example": {
+        "pt": "Depois que o relatório foi concluído, enviamos o e-mail.",
+        "en": "After the report was finished, we sent the email.",
+        "ar": "بعد أن أُنجز التقرير، أرسلنا البريد الإلكتروني."
+      }
+    },
+    {
+      "pt": "a voz passiva",
+      "ipa": "/ˈvɔ(j)s paˈsi.va/",
+      "en": "passive voice",
+      "ar": "المبني للمجهول",
+      "example": {
+        "pt": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
+        "en": "Rewrite the developed clause as a reduced participle clause.",
+        "ar": "أعد كتابة الجملة المطوّرة إلى جملة مختزلة باسم المفعول."
+      }
+    },
+    {
+      "pt": "a apassivadora",
+      "ipa": "/a.pa.si.vaˈdo.ɾa/",
+      "en": "the passive particle 'se'",
+      "ar": "أداة 'se' للمجهول",
+      "example": {
+        "pt": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
+        "en": "Rewrite the developed clause as a reduced participle clause.",
+        "ar": "أعد كتابة الجملة المطوّرة إلى جملة مختزلة باسم المفعول."
+      }
+    },
+    {
+      "pt": "o índice de indeterminação",
+      "ipa": "/ˈĩ.dʒi.si dʒi ĩ.deʁ.mĩ.naˈsɐ̃w/",
+      "en": "index of indeterminacy of the subject",
+      "ar": "أداة إبهام الفاعل",
+      "example": {
+        "pt": "Depois que o relatório foi concluído, enviamos o e-mail.",
+        "en": "After the report was finished, we sent the email.",
+        "ar": "بعد أن أُنجز التقرير، أرسلنا البريد الإلكتروني."
+      }
+    },
+    {
+      "pt": "o período composto",
+      "ipa": "/peˈɾi.o.du kõˈpɔs.tu/",
+      "en": "compound sentence",
+      "ar": "الجملة المركبة",
+      "example": {
+        "pt": "Depois que o relatório foi concluído, enviamos o e-mail.",
+        "en": "After the report was finished, we sent the email.",
+        "ar": "بعد أن أُنجز التقرير، أرسلنا البريد الإلكتروني."
+      }
+    },
+    {
+      "pt": "a coordenação",
+      "ipa": "/ko.aʁ.de.naˈsɐ̃w/",
+      "en": "coordination",
+      "ar": "العطف",
+      "example": {
+        "pt": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
+        "en": "Rewrite the developed clause as a reduced participle clause.",
+        "ar": "أعد كتابة الجملة المطوّرة إلى جملة مختزلة باسم المفعول."
+      }
+    },
+    {
+      "pt": "a subordinação",
+      "ipa": "/su.boʁ.dʒi.naˈsɐ̃w/",
+      "en": "subordination",
+      "ar": "التبعية",
+      "example": {
+        "pt": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
+        "en": "Rewrite the developed clause as a reduced participle clause.",
+        "ar": "أعد كتابة الجملة المطوّرة إلى جملة مختزلة باسم المفعول."
+      }
+    },
+    {
+      "pt": "a oração reduzida",
+      "ipa": "/o.ɾaˈsɐ̃w ʁe.duˈzi.da/",
+      "en": "reduced clause",
+      "ar": "الجملة المختزلة",
+      "example": {
+        "pt": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
+        "en": "Rewrite the developed clause as a reduced participle clause.",
+        "ar": "أعد كتابة الجملة المطوّرة إلى جملة مختزلة باسم المفعول."
+      }
+    },
+    {
+      "pt": "a oração desenvolvida",
+      "ipa": "/o.ɾaˈsɐ̃w dẽ.vo.vuˈzi.da/",
+      "en": "developed clause",
+      "ar": "الجملة المطوّرة",
+      "example": {
+        "pt": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
+        "en": "Rewrite the developed clause as a reduced participle clause.",
+        "ar": "أعد كتابة الجملة المطوّرة إلى جملة مختزلة باسم المفعول."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "title": {
+        "pt": "O Infinitivo Pessoal",
+        "en": "The Personal Infinitive",
+        "ar": "المصدر المُصرَّف"
+      },
+      "explanation": {
+        "pt": "O infinitivo pessoal (flexionado) tem sujeito próprio e varia em pessoa: 'Para eles chegarem cedo, tudo foi preparado'. Diferente do infinitivo impessoal, aceita desinências: 'chegar', 'chegares', 'chegarmos'. Não se flexiona quando equivale a um impessoal ou após verbos como 'deixar', 'mandar', 'ver' em certas construções: 'Deixe-os entrar' (e não 'entrarem').",
+        "en": "The personal (inflected) infinitive has its own subject and varies by person: 'Para eles chegarem cedo, tudo foi preparado' (For them to arrive early, everything was prepared). Unlike the impersonal infinitive, it takes endings: 'chegar', 'chegares', 'chegarmos'. It does not inflect when it functions as an impersonal or after verbs like 'deixar', 'mandar', 'ver' in certain constructions: 'Deixe-os entrar' (not 'entrarem').",
+        "ar": "للمصدر المُصرَّف فاعل خاص به ويتغير حسب الشخص: 'Para eles chegarem cedo, tudo foi preparado' (لكي يصلوا مبكرًا، أُعدّ كل شيء). على عكس المصدر غير المُصرَّف، يقبل لواحق التعريف: 'chegar، chegares، chegarmos'. ولا يُصرَّف عندما يكون بمعنى غير شخصي أو بعد أفعال مثل 'deixar' و'mandar' و'ver' في تراكيب معينة: 'Deixe-os entrar' (دعهم يدخلون) وليس 'entrarem'."
+      },
+      "examples": [
+        {
+          "pt": "É preciso falarmos com o diretor antes da reunião.",
+          "en": "We need to speak with the director before the meeting.",
+          "ar": "لا بد من أن نكلم المدير قبل الاجتماع."
+        },
+        {
+          "pt": "Ao entrares na sala, desliga o celular.",
+          "en": "When you (sg.) enter the room, turn off your phone.",
+          "ar": "عند دخولك إلى القاعة، أغلق هاتفك."
+        },
+        {
+          "pt": "A mãe deixou os filhos brincar no quintal.",
+          "en": "The mother let the children play in the yard.",
+          "ar": "تركت الأم أطفالها يلعبون في الفناء."
+        }
+      ]
+    },
+    {
+      "title": {
+        "pt": "Orações Reduzidas de Gerúndio e Particípio",
+        "en": "Reduced Clauses with Gerund and Participle",
+        "ar": "الجمل المختزلة بصفة الفاعل المستمر واسم المفعول"
+      },
+      "explanation": {
+        "pt": "Uma oração desenvolvida 'Quando chegou à porta, ela hesitou' pode reduzir-se de gerúndio: 'Chegando à porta, ela hesitou'; de particípio, 'Terminada a reunião, todos saíram' corresponde a 'Depois que a reunião foi terminada'. A redução compacta o período e é marca de escrita madura, mas exige que o sujeito seja claro para evitar ambiguidade.",
+        "en": "A developed clause 'Quando chegou à porta, ela hesitou' (When she reached the door, she hesitated) can be reduced with a gerund: 'Chegando à porta, ela hesitou'; with a participle, 'Terminada a reunião, todos saíram' (The meeting finished, everyone left) corresponds to 'Depois que a reunião foi terminada'. Reduction compacts the sentence and marks mature writing, but requires a clear subject to avoid ambiguity.",
+        "ar": "الجملة المطوّرة 'Quando chegou à porta, ela hesitou' (عندما وصلت إلى الباب، ترددت) يمكن اختزالها باسم الفاعل المستمر: 'Chegando à porta, ela hesitou'؛ وباسم المفعول: 'Terminada a reunião, todos saíram' (بعد انتهاء الاجتماع، خرج الجميع) مقابل 'Depois que a reunião foi terminada'. الاختزال يضغط الجملة ويعدّ علامة على الكتابة الناضجة، لكنه يتطلب وضوح الفاعل لتجنب الغموض."
+      },
+      "examples": [
+        {
+          "pt": "Chegando atrasado, ele perdeu o início da palestra.",
+          "en": "Arriving late, he missed the beginning of the lecture.",
+          "ar": "بوصوله متأخرًا، فاته بداية المحاضرة."
+        },
+        {
+          "pt": "Terminada a prova, os alunos entregaram as folhas.",
+          "en": "With the test finished, the students handed in their papers.",
+          "ar": "بعد انتهاء الامتحان، سلّم الطلاب أوراقهم."
+        },
+        {
+          "pt": "Sendo o orçamento limitado, cortamos os gastos extras.",
+          "en": "The budget being limited, we cut the extra expenses.",
+          "ar": "ونظرًا لكون الميزانية محدودة، قطعنا النفقات الإضافية."
+        }
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": {
+      "pt": "Revisando Sintaxe",
+      "en": "Reviewing Syntax",
+      "ar": "مراجعة النحو"
+    },
+    "lines": [
+      {
+        "speaker": "Professor",
+        "pt": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
+        "en": "Rewrite the developed clause as a reduced participle clause.",
+        "ar": "أعد كتابة الجملة المطوّرة إلى جملة مختزلة باسم المفعول."
+      },
+      {
+        "speaker": "Bianca",
+        "pt": "Depois que o relatório foi concluído, enviamos o e-mail.",
+        "en": "After the report was finished, we sent the email.",
+        "ar": "بعد أن أُنجز التقرير، أرسلنا البريد الإلكتروني."
+      },
+      {
+        "speaker": "Professor",
+        "pt": "Agora reduza com o particípio.",
+        "en": "Now reduce it with the participle.",
+        "ar": "الآن اختصرها باسم المفعول."
+      },
+      {
+        "speaker": "Bianca",
+        "pt": "Concluído o relatório, enviamos o e-mail.",
+        "en": "The report finished, we sent the email.",
+        "ar": "بعد إنجاز التقرير، أرسلنا البريد الإلكتروني."
+      },
+      {
+        "speaker": "Professor",
+        "pt": "Perfeito. E por que não usamos 'concluídos'?",
+        "en": "Perfect. And why do we not use 'concluídos'?",
+        "ar": "ممتاز. ولماذا لا نستخدم 'concluídos'؟"
+      },
+      {
+        "speaker": "Bianca",
+        "pt": "Porque 'relatório' está no singular; o particípio concorda com ele.",
+        "en": "Because 'relatório' is singular; the participle agrees with it.",
+        "ar": "لأن 'relatório' مفرد؛ فيطابقه اسم المفعول في العدد والجنس."
+      }
+    ]
+  },
+  "reading": {
+    "title": {
+      "pt": "A Sintaxe da Escrita Formal",
+      "en": "The Syntax of Formal Writing",
+      "ar": "نحو الكتابة الرسمية"
+    },
+    "text_pt": "Redigido o parecer, a comissão submeteu-o à aprovação. Ao examinarem o documento, os membros notaram duas cláusulas ambíguas. Para evitarem retrabalho, decidiram reformular os parágrafos finais antes de divulgar o texto. Concluída a revisão, ninguém duvidou da clareza do resultado final.",
+    "text_en": "Once the opinion was written, the committee submitted it for approval. Examining the document, the members noticed two ambiguous clauses. To avoid rework, they decided to rewrite the final paragraphs before publishing the text. Once the review was completed, no one doubted the clarity of the final result.",
+    "text_ar": "بعد صياغة الرأي، قدّمته اللجنة للموافقة. وعند فحصهم الوثيقة، لاحظ الأعضاء بندين غامضين. ولتجنّب إعادة العمل، قرروا إعادة صياغة الفقرات الأخيرة قبل نشر النص. وبعد اكتمال المراجعة، لم يشك أحد في وضوح النتيجة النهائية."
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Complete com o infinitivo pessoal: 'Para nós ___ cedo, precisamos acordar às cinco.'",
+        "en": "Complete with the personal infinitive: 'Para nós ___ cedo, precisamos acordar às cinco.'",
+        "ar": "أكمل بالمصدر المُصرَّف: 'Para nós ___ cedo, precisamos acordar às cinco.'"
+      },
+      "options": [
+        {
+          "pt": "chegar",
+          "en": "chegar",
+          "ar": "chegar"
+        },
+        {
+          "pt": "chegarmos",
+          "en": "chegarmos",
+          "ar": "chegarmos"
+        },
+        {
+          "pt": "chegarem",
+          "en": "chegarem",
+          "ar": "chegarem"
+        }
+      ],
+      "answer": "chegarmos",
+      "explanation": {
+        "pt": "Com sujeito 'nós', o infinitivo pessoal é 'chegarmos'.",
+        "en": "With the subject 'nós' (we), the personal infinitive is 'chegarmos'.",
+        "ar": "مع الفاعل 'nós' (نحن) يكون المصدر المُصرَّف 'chegarmos'."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual frase usa corretamente uma reduzida de particípio?",
+        "en": "Which sentence correctly uses a reduced participle clause?",
+        "ar": "أي جملة تستخدم صيغة مختزلة باسم المفعول بشكل صحيح؟"
+      },
+      "options": [
+        {
+          "pt": "Chegando em casa, ligou para mim.",
+          "en": "Chegando em casa, ligou para mim.",
+          "ar": "Chegando em casa, ligou para mim."
+        },
+        {
+          "pt": "Concluído o projeto, apresentamos os resultados.",
+          "en": "Concluído o projeto, apresentamos os resultados.",
+          "ar": "Concluído o projeto, apresentamos os resultados."
+        },
+        {
+          "pt": "Sair cedo, ele foi ao banco.",
+          "en": "Sair cedo, ele foi ao banco.",
+          "ar": "Sair cedo, ele foi ao banco."
+        }
+      ],
+      "answer": "Concluído o projeto, apresentamos os resultados.",
+      "explanation": {
+        "pt": "Só a segunda usa particípio ('Concluído') em redução correta.",
+        "en": "Only the second uses a participle ('Concluído') in a correct reduction.",
+        "ar": "الثانية فقط تستخدم اسم المفعول ('Concluído') في اختزال صحيح."
+      }
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: 'for them to arrive'",
+        "en": "Translate into Portuguese: 'for them to arrive'",
+        "ar": "ترجم إلى البرتغالية: 'for them to arrive'"
+      },
+      "options": [],
+      "answer": "para eles chegarem",
+      "explanation": {
+        "pt": "'Para eles chegarem' usa o infinitivo pessoal flexionado.",
+        "en": "'Para eles chegarem' uses the inflected personal infinitive.",
+        "ar": "'para eles chegarem' يستخدم المصدر المُصرَّف."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "reduzida",
+          "en": "reduzida",
+          "ar": "reduzida"
+        },
+        {
+          "pt": "particípio.",
+          "en": "particípio.",
+          "ar": "particípio."
+        },
+        {
+          "pt": "Reescreva",
+          "en": "Reescreva",
+          "ar": "Reescreva"
+        },
+        {
+          "pt": "oração",
+          "en": "oração",
+          "ar": "oração"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "em",
+          "en": "em",
+          "ar": "em"
+        },
+        {
+          "pt": "desenvolvida",
+          "en": "desenvolvida",
+          "ar": "desenvolvida"
+        },
+        {
+          "pt": "uma",
+          "en": "uma",
+          "ar": "uma"
+        }
+      ],
+      "answer": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
+      "accepted": [
+        "Reescreva a oração desenvolvida em uma reduzida de particípio."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Reescreva a oração desenvolvida em uma reduzida de particípio.'",
+        "en": "The correct order: 'Rewrite the developed clause as a reduced participle clause.'",
+        "ar": "الترتيب الصحيح: 'أعد كتابة الجملة المطوّرة إلى جملة مختزلة باسم المفعول.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a conjunção",
+          "en": "relative pronoun",
+          "ar": "a conjunção"
+        },
+        {
+          "pt": "a elipse",
+          "en": "ellipsis",
+          "ar": "a elipse"
+        },
+        {
+          "pt": "o pronome relativo",
+          "en": "anaphora",
+          "ar": "o pronome relativo"
+        },
+        {
+          "pt": "a oração principal",
+          "en": "subordinate clause",
+          "ar": "a oração principal"
+        },
+        {
+          "pt": "a oração subordinada",
+          "en": "main clause",
+          "ar": "a oração subordinada"
+        },
+        {
+          "pt": "a anáfora",
+          "en": "conjunction",
+          "ar": "a anáfora"
+        }
+      ],
+      "answer": "a conjunção::relative pronoun|a elipse::ellipsis|o pronome relativo::anaphora|a oração principal::subordinate clause|a oração subordinada::main clause|a anáfora::conjunction",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Perfeito. E por que não usamos 'concluídos'?",
+          "en": "Rewrite the developed clause as a reduced participle clause.",
+          "ar": "أعد كتابة الجملة المطوّرة إلى جملة مختزلة باسم المفعول."
+        },
+        {
+          "pt": "Concluído o relatório, enviamos o e-mail.",
+          "en": "Perfect. And why do we not use 'concluídos'?",
+          "ar": "ممتاز. ولماذا لا نستخدم 'concluídos'؟"
+        },
+        {
+          "pt": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
+          "en": "The report finished, we sent the email.",
+          "ar": "بعد إنجاز التقرير، أرسلنا البريد الإلكتروني."
+        }
+      ],
+      "answer": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
+      "accepted": [],
+      "audio": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
+      "explanation": {
+        "pt": "Você ouviu: 'Reescreva a oração desenvolvida em uma reduzida de particípio.' — 'Rewrite the developed clause as a reduced participle clause.'",
+        "en": "You heard: 'Reescreva a oração desenvolvida em uma reduzida de particípio.' — 'Rewrite the developed clause as a reduced participle clause.'",
+        "ar": "سمعت: 'Reescreva a oração desenvolvida em uma reduzida de particípio.' — 'أعد كتابة الجملة المطوّرة إلى جملة مختزلة باسم المفعول.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Perfeito. E por que não usamos 'concluídos'?",
+          "en": "The report finished, we sent the email.",
+          "ar": "بعد أن أُنجز التقرير، أرسلنا البريد الإلكتروني."
+        },
+        {
+          "pt": "Concluído o relatório, enviamos o e-mail.",
+          "en": "After the report was finished, we sent the email.",
+          "ar": "ممتاز. ولماذا لا نستخدم 'concluídos'؟"
+        },
+        {
+          "pt": "Depois que o relatório foi concluído, enviamos o e-mail.",
+          "en": "Perfect. And why do we not use 'concluídos'?",
+          "ar": "بعد إنجاز التقرير، أرسلنا البريد الإلكتروني."
+        }
+      ],
+      "answer": "Depois que o relatório foi concluído, enviamos o e-mail.",
+      "accepted": [],
+      "audio": "Depois que o relatório foi concluído, enviamos o e-mail.",
+      "explanation": {
+        "pt": "Você ouviu: 'Depois que o relatório foi concluído, enviamos o e-mail.' — 'After the report was finished, we sent the email.'",
+        "en": "You heard: 'Depois que o relatório foi concluído, enviamos o e-mail.' — 'After the report was finished, we sent the email.'",
+        "ar": "سمعت: 'Depois que o relatório foi concluído, enviamos o e-mail.' — 'بعد أن أُنجز التقرير، أرسلنا البريد الإلكتروني.'"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "É preciso falarmos com o diretor antes ___ reunião.",
+        "en": "É preciso falarmos com o diretor antes ___ reunião.",
+        "ar": "É preciso falarmos com o diretor antes ___ reunião."
+      },
+      "options": [
+        {
+          "pt": "deixou",
+          "en": "deixou",
+          "ar": "deixou"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "da",
+          "en": "da",
+          "ar": "da"
+        }
+      ],
+      "answer": "da",
+      "accepted": [],
+      "explanation": {
+        "pt": "A resposta é 'da'. Frase completa: É preciso falarmos com o diretor antes da reunião.",
+        "en": "The answer is 'da'. Full sentence: We need to speak with the director before the meeting.",
+        "ar": "الإجابة الصحيحة: 'da'. الجملة كاملة: لا بد من أن نكلم المدير قبل الاجتماع."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Reescreva",
+          "en": "Reescreva",
+          "ar": "Reescreva"
+        },
+        {
+          "pt": "particípio.",
+          "en": "particípio.",
+          "ar": "particípio."
+        },
+        {
+          "pt": "desenvolvida",
+          "en": "desenvolvida",
+          "ar": "desenvolvida"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "oração",
+          "en": "oração",
+          "ar": "oração"
+        },
+        {
+          "pt": "uma",
+          "en": "uma",
+          "ar": "uma"
+        },
+        {
+          "pt": "em",
+          "en": "em",
+          "ar": "em"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "reduzida",
+          "en": "reduzida",
+          "ar": "reduzida"
+        }
+      ],
+      "answer": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
+      "accepted": [
+        "Reescreva a oração desenvolvida em uma reduzida de particípio."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Reescreva a oração desenvolvida em uma reduzida de particípio.'",
+        "en": "The correct order: 'Rewrite the developed clause as a reduced participle clause.'",
+        "ar": "الترتيب الصحيح: 'أعد كتابة الجملة المطوّرة إلى جملة مختزلة باسم المفعول.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a conjunção",
+          "en": "main clause",
+          "ar": "a conjunção"
+        },
+        {
+          "pt": "a oração subordinada",
+          "en": "anaphora",
+          "ar": "a oração subordinada"
+        },
+        {
+          "pt": "a oração principal",
+          "en": "subordinate clause",
+          "ar": "a oração principal"
+        },
+        {
+          "pt": "o pronome relativo",
+          "en": "ellipsis",
+          "ar": "o pronome relativo"
+        },
+        {
+          "pt": "a elipse",
+          "en": "relative pronoun",
+          "ar": "a elipse"
+        },
+        {
+          "pt": "a anáfora",
+          "en": "conjunction",
+          "ar": "a anáfora"
+        }
+      ],
+      "answer": "a conjunção::main clause|a oração subordinada::anaphora|a oração principal::subordinate clause|o pronome relativo::ellipsis|a elipse::relative pronoun|a anáfora::conjunction",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
+          "en": "The report finished, we sent the email.",
+          "ar": "بعد إنجاز التقرير، أرسلنا البريد الإلكتروني."
+        },
+        {
+          "pt": "Concluído o relatório, enviamos o e-mail.",
+          "en": "Rewrite the developed clause as a reduced participle clause.",
+          "ar": "الآن اختصرها باسم المفعول."
+        },
+        {
+          "pt": "Agora reduza com o particípio.",
+          "en": "Now reduce it with the participle.",
+          "ar": "أعد كتابة الجملة المطوّرة إلى جملة مختزلة باسم المفعول."
+        }
+      ],
+      "answer": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
+      "accepted": [],
+      "audio": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
+      "explanation": {
+        "pt": "Você ouviu: 'Reescreva a oração desenvolvida em uma reduzida de particípio.' — 'Rewrite the developed clause as a reduced participle clause.'",
+        "en": "You heard: 'Reescreva a oração desenvolvida em uma reduzida de particípio.' — 'Rewrite the developed clause as a reduced participle clause.'",
+        "ar": "سمعت: 'Reescreva a oração desenvolvida em uma reduzida de particípio.' — 'أعد كتابة الجملة المطوّرة إلى جملة مختزلة باسم المفعول.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Depois que o relatório foi concluído, enviamos o e-mail.",
+          "en": "Now reduce it with the participle.",
+          "ar": "بعد إنجاز التقرير، أرسلنا البريد الإلكتروني."
+        },
+        {
+          "pt": "Concluído o relatório, enviamos o e-mail.",
+          "en": "The report finished, we sent the email.",
+          "ar": "بعد أن أُنجز التقرير، أرسلنا البريد الإلكتروني."
+        },
+        {
+          "pt": "Agora reduza com o particípio.",
+          "en": "After the report was finished, we sent the email.",
+          "ar": "الآن اختصرها باسم المفعول."
+        }
+      ],
+      "answer": "Depois que o relatório foi concluído, enviamos o e-mail.",
+      "accepted": [],
+      "audio": "Depois que o relatório foi concluído, enviamos o e-mail.",
+      "explanation": {
+        "pt": "Você ouviu: 'Depois que o relatório foi concluído, enviamos o e-mail.' — 'After the report was finished, we sent the email.'",
+        "en": "You heard: 'Depois que o relatório foi concluído, enviamos o e-mail.' — 'After the report was finished, we sent the email.'",
+        "ar": "سمعت: 'Depois que o relatório foi concluído, enviamos o e-mail.' — 'بعد أن أُنجز التقرير، أرسلنا البريد الإلكتروني.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "em",
+          "en": "em",
+          "ar": "em"
+        },
+        {
+          "pt": "desenvolvida",
+          "en": "desenvolvida",
+          "ar": "desenvolvida"
+        },
+        {
+          "pt": "uma",
+          "en": "uma",
+          "ar": "uma"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "Reescreva",
+          "en": "Reescreva",
+          "ar": "Reescreva"
+        },
+        {
+          "pt": "particípio.",
+          "en": "particípio.",
+          "ar": "particípio."
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "oração",
+          "en": "oração",
+          "ar": "oração"
+        },
+        {
+          "pt": "reduzida",
+          "en": "reduzida",
+          "ar": "reduzida"
+        }
+      ],
+      "answer": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
+      "accepted": [
+        "Reescreva a oração desenvolvida em uma reduzida de particípio."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Reescreva a oração desenvolvida em uma reduzida de particípio.'",
+        "en": "The correct order: 'Rewrite the developed clause as a reduced participle clause.'",
+        "ar": "الترتيب الصحيح: 'أعد كتابة الجملة المطوّرة إلى جملة مختزلة باسم المفعول.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a elipse",
+          "en": "main clause",
+          "ar": "a elipse"
+        },
+        {
+          "pt": "a oração principal",
+          "en": "relative pronoun",
+          "ar": "a oração principal"
+        },
+        {
+          "pt": "a oração subordinada",
+          "en": "conjunction",
+          "ar": "a oração subordinada"
+        },
+        {
+          "pt": "o pronome relativo",
+          "en": "subordinate clause",
+          "ar": "o pronome relativo"
+        },
+        {
+          "pt": "a anáfora",
+          "en": "anaphora",
+          "ar": "a anáfora"
+        },
+        {
+          "pt": "a conjunção",
+          "en": "ellipsis",
+          "ar": "a conjunção"
+        }
+      ],
+      "answer": "a elipse::main clause|a oração principal::relative pronoun|a oração subordinada::conjunction|o pronome relativo::subordinate clause|a anáfora::anaphora|a conjunção::ellipsis",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Agora reduza com o particípio.",
+          "en": "Now reduce it with the participle.",
+          "ar": "بعد إنجاز التقرير، أرسلنا البريد الإلكتروني."
+        },
+        {
+          "pt": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
+          "en": "The report finished, we sent the email.",
+          "ar": "الآن اختصرها باسم المفعول."
+        },
+        {
+          "pt": "Concluído o relatório, enviamos o e-mail.",
+          "en": "Rewrite the developed clause as a reduced participle clause.",
+          "ar": "أعد كتابة الجملة المطوّرة إلى جملة مختزلة باسم المفعول."
+        }
+      ],
+      "answer": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
+      "accepted": [],
+      "audio": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
+      "explanation": {
+        "pt": "Você ouviu: 'Reescreva a oração desenvolvida em uma reduzida de particípio.' — 'Rewrite the developed clause as a reduced participle clause.'",
+        "en": "You heard: 'Reescreva a oração desenvolvida em uma reduzida de particípio.' — 'Rewrite the developed clause as a reduced participle clause.'",
+        "ar": "سمعت: 'Reescreva a oração desenvolvida em uma reduzida de particípio.' — 'أعد كتابة الجملة المطوّرة إلى جملة مختزلة باسم المفعول.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Depois que o relatório foi concluído, enviamos o e-mail.",
+          "en": "Now reduce it with the participle.",
+          "ar": "بعد أن أُنجز التقرير، أرسلنا البريد الإلكتروني."
+        },
+        {
+          "pt": "Agora reduza com o particípio.",
+          "en": "Because 'relatório' is singular; the participle agrees with it.",
+          "ar": "الآن اختصرها باسم المفعول."
+        },
+        {
+          "pt": "Porque 'relatório' está no singular; o particípio concorda com ele.",
+          "en": "After the report was finished, we sent the email.",
+          "ar": "لأن 'relatório' مفرد؛ فيطابقه اسم المفعول في العدد والجنس."
+        }
+      ],
+      "answer": "Depois que o relatório foi concluído, enviamos o e-mail.",
+      "accepted": [],
+      "audio": "Depois que o relatório foi concluído, enviamos o e-mail.",
+      "explanation": {
+        "pt": "Você ouviu: 'Depois que o relatório foi concluído, enviamos o e-mail.' — 'After the report was finished, we sent the email.'",
+        "en": "You heard: 'Depois que o relatório foi concluído, enviamos o e-mail.' — 'After the report was finished, we sent the email.'",
+        "ar": "سمعت: 'Depois que o relatório foi concluído, enviamos o e-mail.' — 'بعد أن أُنجز التقرير، أرسلنا البريد الإلكتروني.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "uma",
+          "en": "uma",
+          "ar": "uma"
+        },
+        {
+          "pt": "desenvolvida",
+          "en": "desenvolvida",
+          "ar": "desenvolvida"
+        },
+        {
+          "pt": "Reescreva",
+          "en": "Reescreva",
+          "ar": "Reescreva"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "particípio.",
+          "en": "particípio.",
+          "ar": "particípio."
+        },
+        {
+          "pt": "reduzida",
+          "en": "reduzida",
+          "ar": "reduzida"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "em",
+          "en": "em",
+          "ar": "em"
+        },
+        {
+          "pt": "oração",
+          "en": "oração",
+          "ar": "oração"
+        }
+      ],
+      "answer": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
+      "accepted": [
+        "Reescreva a oração desenvolvida em uma reduzida de particípio."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Reescreva a oração desenvolvida em uma reduzida de particípio.'",
+        "en": "The correct order: 'Rewrite the developed clause as a reduced participle clause.'",
+        "ar": "الترتيب الصحيح: 'أعد كتابة الجملة المطوّرة إلى جملة مختزلة باسم المفعول.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a oração subordinada",
+          "en": "anaphora",
+          "ar": "a oração subordinada"
+        },
+        {
+          "pt": "a anáfora",
+          "en": "ellipsis",
+          "ar": "a anáfora"
+        },
+        {
+          "pt": "a elipse",
+          "en": "subordinate clause",
+          "ar": "a elipse"
+        },
+        {
+          "pt": "a conjunção",
+          "en": "conjunction",
+          "ar": "a conjunção"
+        },
+        {
+          "pt": "o pronome relativo",
+          "en": "relative pronoun",
+          "ar": "o pronome relativo"
+        },
+        {
+          "pt": "a oração principal",
+          "en": "main clause",
+          "ar": "a oração principal"
+        }
+      ],
+      "answer": "a oração subordinada::anaphora|a anáfora::ellipsis|a elipse::subordinate clause|a conjunção::conjunction|o pronome relativo::relative pronoun|a oração principal::main clause",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Agora reduza com o particípio.",
+          "en": "Now reduce it with the participle.",
+          "ar": "بعد إنجاز التقرير، أرسلنا البريد الإلكتروني."
+        },
+        {
+          "pt": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
+          "en": "Rewrite the developed clause as a reduced participle clause.",
+          "ar": "أعد كتابة الجملة المطوّرة إلى جملة مختزلة باسم المفعول."
+        },
+        {
+          "pt": "Concluído o relatório, enviamos o e-mail.",
+          "en": "The report finished, we sent the email.",
+          "ar": "الآن اختصرها باسم المفعول."
+        }
+      ],
+      "answer": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
+      "accepted": [],
+      "audio": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
+      "explanation": {
+        "pt": "Você ouviu: 'Reescreva a oração desenvolvida em uma reduzida de particípio.' — 'Rewrite the developed clause as a reduced participle clause.'",
+        "en": "You heard: 'Reescreva a oração desenvolvida em uma reduzida de particípio.' — 'Rewrite the developed clause as a reduced participle clause.'",
+        "ar": "سمعت: 'Reescreva a oração desenvolvida em uma reduzida de particípio.' — 'أعد كتابة الجملة المطوّرة إلى جملة مختزلة باسم المفعول.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Porque 'relatório' está no singular; o particípio concorda com ele.",
+          "en": "Because 'relatório' is singular; the participle agrees with it.",
+          "ar": "بعد أن أُنجز التقرير، أرسلنا البريد الإلكتروني."
+        },
+        {
+          "pt": "Depois que o relatório foi concluído, enviamos o e-mail.",
+          "en": "Rewrite the developed clause as a reduced participle clause.",
+          "ar": "أعد كتابة الجملة المطوّرة إلى جملة مختزلة باسم المفعول."
+        },
+        {
+          "pt": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
+          "en": "After the report was finished, we sent the email.",
+          "ar": "لأن 'relatório' مفرد؛ فيطابقه اسم المفعول في العدد والجنس."
+        }
+      ],
+      "answer": "Depois que o relatório foi concluído, enviamos o e-mail.",
+      "accepted": [],
+      "audio": "Depois que o relatório foi concluído, enviamos o e-mail.",
+      "explanation": {
+        "pt": "Você ouviu: 'Depois que o relatório foi concluído, enviamos o e-mail.' — 'After the report was finished, we sent the email.'",
+        "en": "You heard: 'Depois que o relatório foi concluído, enviamos o e-mail.' — 'After the report was finished, we sent the email.'",
+        "ar": "سمعت: 'Depois que o relatório foi concluído, enviamos o e-mail.' — 'بعد أن أُنجز التقرير، أرسلنا البريد الإلكتروني.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "oração",
+          "en": "oração",
+          "ar": "oração"
+        },
+        {
+          "pt": "desenvolvida",
+          "en": "desenvolvida",
+          "ar": "desenvolvida"
+        },
+        {
+          "pt": "particípio.",
+          "en": "particípio.",
+          "ar": "particípio."
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "reduzida",
+          "en": "reduzida",
+          "ar": "reduzida"
+        },
+        {
+          "pt": "em",
+          "en": "em",
+          "ar": "em"
+        },
+        {
+          "pt": "Reescreva",
+          "en": "Reescreva",
+          "ar": "Reescreva"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "uma",
+          "en": "uma",
+          "ar": "uma"
+        }
+      ],
+      "answer": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
+      "accepted": [
+        "Reescreva a oração desenvolvida em uma reduzida de particípio."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Reescreva a oração desenvolvida em uma reduzida de particípio.'",
+        "en": "The correct order: 'Rewrite the developed clause as a reduced participle clause.'",
+        "ar": "الترتيب الصحيح: 'أعد كتابة الجملة المطوّرة إلى جملة مختزلة باسم المفعول.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o pronome relativo",
+          "en": "subordinate clause",
+          "ar": "o pronome relativo"
+        },
+        {
+          "pt": "a oração subordinada",
+          "en": "ellipsis",
+          "ar": "a oração subordinada"
+        },
+        {
+          "pt": "a conjunção",
+          "en": "main clause",
+          "ar": "a conjunção"
+        },
+        {
+          "pt": "a anáfora",
+          "en": "conjunction",
+          "ar": "a anáfora"
+        },
+        {
+          "pt": "a oração principal",
+          "en": "anaphora",
+          "ar": "a oração principal"
+        },
+        {
+          "pt": "a elipse",
+          "en": "relative pronoun",
+          "ar": "a elipse"
+        }
+      ],
+      "answer": "o pronome relativo::subordinate clause|a oração subordinada::ellipsis|a conjunção::main clause|a anáfora::conjunction|a oração principal::anaphora|a elipse::relative pronoun",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Porque 'relatório' está no singular; o particípio concorda com ele.",
+          "en": "Because 'relatório' is singular; the participle agrees with it.",
+          "ar": "لأن 'relatório' مفرد؛ فيطابقه اسم المفعول في العدد والجنس."
+        },
+        {
+          "pt": "Agora reduza com o particípio.",
+          "en": "Rewrite the developed clause as a reduced participle clause.",
+          "ar": "الآن اختصرها باسم المفعول."
+        },
+        {
+          "pt": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
+          "en": "Now reduce it with the participle.",
+          "ar": "أعد كتابة الجملة المطوّرة إلى جملة مختزلة باسم المفعول."
+        }
+      ],
+      "answer": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
+      "accepted": [],
+      "audio": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
+      "explanation": {
+        "pt": "Você ouviu: 'Reescreva a oração desenvolvida em uma reduzida de particípio.' — 'Rewrite the developed clause as a reduced participle clause.'",
+        "en": "You heard: 'Reescreva a oração desenvolvida em uma reduzida de particípio.' — 'Rewrite the developed clause as a reduced participle clause.'",
+        "ar": "سمعت: 'Reescreva a oração desenvolvida em uma reduzida de particípio.' — 'أعد كتابة الجملة المطوّرة إلى جملة مختزلة باسم المفعول.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Depois que o relatório foi concluído, enviamos o e-mail.",
+          "en": "The report finished, we sent the email.",
+          "ar": "لأن 'relatório' مفرد؛ فيطابقه اسم المفعول في العدد والجنس."
+        },
+        {
+          "pt": "Concluído o relatório, enviamos o e-mail.",
+          "en": "Because 'relatório' is singular; the participle agrees with it.",
+          "ar": "بعد أن أُنجز التقرير، أرسلنا البريد الإلكتروني."
+        },
+        {
+          "pt": "Porque 'relatório' está no singular; o particípio concorda com ele.",
+          "en": "After the report was finished, we sent the email.",
+          "ar": "بعد إنجاز التقرير، أرسلنا البريد الإلكتروني."
+        }
+      ],
+      "answer": "Depois que o relatório foi concluído, enviamos o e-mail.",
+      "accepted": [],
+      "audio": "Depois que o relatório foi concluído, enviamos o e-mail.",
+      "explanation": {
+        "pt": "Você ouviu: 'Depois que o relatório foi concluído, enviamos o e-mail.' — 'After the report was finished, we sent the email.'",
+        "en": "You heard: 'Depois que o relatório foi concluído, enviamos o e-mail.' — 'After the report was finished, we sent the email.'",
+        "ar": "سمعت: 'Depois que o relatório foi concluído, enviamos o e-mail.' — 'بعد أن أُنجز التقرير، أرسلنا البريد الإلكتروني.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Reescreva",
+          "en": "Reescreva",
+          "ar": "Reescreva"
+        },
+        {
+          "pt": "desenvolvida",
+          "en": "desenvolvida",
+          "ar": "desenvolvida"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "em",
+          "en": "em",
+          "ar": "em"
+        },
+        {
+          "pt": "oração",
+          "en": "oração",
+          "ar": "oração"
+        },
+        {
+          "pt": "uma",
+          "en": "uma",
+          "ar": "uma"
+        },
+        {
+          "pt": "reduzida",
+          "en": "reduzida",
+          "ar": "reduzida"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "particípio.",
+          "en": "particípio.",
+          "ar": "particípio."
+        }
+      ],
+      "answer": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
+      "accepted": [
+        "Reescreva a oração desenvolvida em uma reduzida de particípio."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Reescreva a oração desenvolvida em uma reduzida de particípio.'",
+        "en": "The correct order: 'Rewrite the developed clause as a reduced participle clause.'",
+        "ar": "الترتيب الصحيح: 'أعد كتابة الجملة المطوّرة إلى جملة مختزلة باسم المفعول.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a anáfora",
+          "en": "anaphora",
+          "ar": "a anáfora"
+        },
+        {
+          "pt": "o pronome relativo",
+          "en": "subordinate clause",
+          "ar": "o pronome relativo"
+        },
+        {
+          "pt": "a conjunção",
+          "en": "relative pronoun",
+          "ar": "a conjunção"
+        },
+        {
+          "pt": "a elipse",
+          "en": "ellipsis",
+          "ar": "a elipse"
+        },
+        {
+          "pt": "a oração subordinada",
+          "en": "main clause",
+          "ar": "a oração subordinada"
+        },
+        {
+          "pt": "a oração principal",
+          "en": "conjunction",
+          "ar": "a oração principal"
+        }
+      ],
+      "answer": "a anáfora::anaphora|o pronome relativo::subordinate clause|a conjunção::relative pronoun|a elipse::ellipsis|a oração subordinada::main clause|a oração principal::conjunction",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Agora reduza com o particípio.",
+          "en": "Perfect. And why do we not use 'concluídos'?",
+          "ar": "ممتاز. ولماذا لا نستخدم 'concluídos'؟"
+        },
+        {
+          "pt": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
+          "en": "Now reduce it with the participle.",
+          "ar": "الآن اختصرها باسم المفعول."
+        },
+        {
+          "pt": "Perfeito. E por que não usamos 'concluídos'?",
+          "en": "Rewrite the developed clause as a reduced participle clause.",
+          "ar": "أعد كتابة الجملة المطوّرة إلى جملة مختزلة باسم المفعول."
+        }
+      ],
+      "answer": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
+      "accepted": [],
+      "audio": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
+      "explanation": {
+        "pt": "Você ouviu: 'Reescreva a oração desenvolvida em uma reduzida de particípio.' — 'Rewrite the developed clause as a reduced participle clause.'",
+        "en": "You heard: 'Reescreva a oração desenvolvida em uma reduzida de particípio.' — 'Rewrite the developed clause as a reduced participle clause.'",
+        "ar": "سمعت: 'Reescreva a oração desenvolvida em uma reduzida de particípio.' — 'أعد كتابة الجملة المطوّرة إلى جملة مختزلة باسم المفعول.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Agora reduza com o particípio.",
+          "en": "After the report was finished, we sent the email.",
+          "ar": "بعد أن أُنجز التقرير، أرسلنا البريد الإلكتروني."
+        },
+        {
+          "pt": "Perfeito. E por que não usamos 'concluídos'?",
+          "en": "Perfect. And why do we not use 'concluídos'?",
+          "ar": "الآن اختصرها باسم المفعول."
+        },
+        {
+          "pt": "Depois que o relatório foi concluído, enviamos o e-mail.",
+          "en": "Now reduce it with the participle.",
+          "ar": "ممتاز. ولماذا لا نستخدم 'concluídos'؟"
+        }
+      ],
+      "answer": "Depois que o relatório foi concluído, enviamos o e-mail.",
+      "accepted": [],
+      "audio": "Depois que o relatório foi concluído, enviamos o e-mail.",
+      "explanation": {
+        "pt": "Você ouviu: 'Depois que o relatório foi concluído, enviamos o e-mail.' — 'After the report was finished, we sent the email.'",
+        "en": "You heard: 'Depois que o relatório foi concluído, enviamos o e-mail.' — 'After the report was finished, we sent the email.'",
+        "ar": "سمعت: 'Depois que o relatório foi concluído, enviamos o e-mail.' — 'بعد أن أُنجز التقرير، أرسلنا البريد الإلكتروني.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "reduzida",
+          "en": "reduzida",
+          "ar": "reduzida"
+        },
+        {
+          "pt": "em",
+          "en": "em",
+          "ar": "em"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "uma",
+          "en": "uma",
+          "ar": "uma"
+        },
+        {
+          "pt": "desenvolvida",
+          "en": "desenvolvida",
+          "ar": "desenvolvida"
+        },
+        {
+          "pt": "particípio.",
+          "en": "particípio.",
+          "ar": "particípio."
+        },
+        {
+          "pt": "Reescreva",
+          "en": "Reescreva",
+          "ar": "Reescreva"
+        },
+        {
+          "pt": "oração",
+          "en": "oração",
+          "ar": "oração"
+        }
+      ],
+      "answer": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
+      "accepted": [
+        "Reescreva a oração desenvolvida em uma reduzida de particípio."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Reescreva a oração desenvolvida em uma reduzida de particípio.'",
+        "en": "The correct order: 'Rewrite the developed clause as a reduced participle clause.'",
+        "ar": "الترتيب الصحيح: 'أعد كتابة الجملة المطوّرة إلى جملة مختزلة باسم المفعول.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a elipse",
+          "en": "anaphora",
+          "ar": "a elipse"
+        },
+        {
+          "pt": "a anáfora",
+          "en": "conjunction",
+          "ar": "a anáfora"
+        },
+        {
+          "pt": "a oração principal",
+          "en": "main clause",
+          "ar": "a oração principal"
+        },
+        {
+          "pt": "a conjunção",
+          "en": "ellipsis",
+          "ar": "a conjunção"
+        },
+        {
+          "pt": "a oração subordinada",
+          "en": "relative pronoun",
+          "ar": "a oração subordinada"
+        },
+        {
+          "pt": "o pronome relativo",
+          "en": "subordinate clause",
+          "ar": "o pronome relativo"
+        }
+      ],
+      "answer": "a elipse::anaphora|a anáfora::conjunction|a oração principal::main clause|a conjunção::ellipsis|a oração subordinada::relative pronoun|o pronome relativo::subordinate clause",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
+          "en": "Perfect. And why do we not use 'concluídos'?",
+          "ar": "الآن اختصرها باسم المفعول."
+        },
+        {
+          "pt": "Perfeito. E por que não usamos 'concluídos'?",
+          "en": "Rewrite the developed clause as a reduced participle clause.",
+          "ar": "أعد كتابة الجملة المطوّرة إلى جملة مختزلة باسم المفعول."
+        },
+        {
+          "pt": "Agora reduza com o particípio.",
+          "en": "Now reduce it with the participle.",
+          "ar": "ممتاز. ولماذا لا نستخدم 'concluídos'؟"
+        }
+      ],
+      "answer": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
+      "accepted": [],
+      "audio": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
+      "explanation": {
+        "pt": "Você ouviu: 'Reescreva a oração desenvolvida em uma reduzida de particípio.' — 'Rewrite the developed clause as a reduced participle clause.'",
+        "en": "You heard: 'Reescreva a oração desenvolvida em uma reduzida de particípio.' — 'Rewrite the developed clause as a reduced participle clause.'",
+        "ar": "سمعت: 'Reescreva a oração desenvolvida em uma reduzida de particípio.' — 'أعد كتابة الجملة المطوّرة إلى جملة مختزلة باسم المفعول.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Concluído o relatório, enviamos o e-mail.",
+          "en": "After the report was finished, we sent the email.",
+          "ar": "بعد إنجاز التقرير، أرسلنا البريد الإلكتروني."
+        },
+        {
+          "pt": "Depois que o relatório foi concluído, enviamos o e-mail.",
+          "en": "Perfect. And why do we not use 'concluídos'?",
+          "ar": "بعد أن أُنجز التقرير، أرسلنا البريد الإلكتروني."
+        },
+        {
+          "pt": "Perfeito. E por que não usamos 'concluídos'?",
+          "en": "The report finished, we sent the email.",
+          "ar": "ممتاز. ولماذا لا نستخدم 'concluídos'؟"
+        }
+      ],
+      "answer": "Depois que o relatório foi concluído, enviamos o e-mail.",
+      "accepted": [],
+      "audio": "Depois que o relatório foi concluído, enviamos o e-mail.",
+      "explanation": {
+        "pt": "Você ouviu: 'Depois que o relatório foi concluído, enviamos o e-mail.' — 'After the report was finished, we sent the email.'",
+        "en": "You heard: 'Depois que o relatório foi concluído, enviamos o e-mail.' — 'After the report was finished, we sent the email.'",
+        "ar": "سمعت: 'Depois que o relatório foi concluído, enviamos o e-mail.' — 'بعد أن أُنجز التقرير، أرسلنا البريد الإلكتروني.'"
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'subordinate clause'",
+        "en": "Type in Portuguese: 'subordinate clause'",
+        "ar": "اكتب بالبرتغالية: 'الجملة التابعة'"
+      },
+      "options": [],
+      "answer": "a oração subordinada",
+      "accepted": [
+        "a oração subordinada"
+      ],
+      "explanation": {
+        "pt": "'a oração subordinada' significa 'subordinate clause'.",
+        "en": "'a oração subordinada' means 'subordinate clause'.",
+        "ar": "'$a oração subordinada' بالعربية: '$الجملة التابعة'."
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'main clause'",
+        "en": "Type in Portuguese: 'main clause'",
+        "ar": "اكتب بالبرتغالية: 'الجملة الرئيسية'"
+      },
+      "options": [],
+      "answer": "a oração principal",
+      "accepted": [
+        "a oração principal"
+      ],
+      "explanation": {
+        "pt": "'a oração principal' significa 'main clause'.",
+        "en": "'a oração principal' means 'main clause'.",
+        "ar": "'$a oração principal' بالعربية: '$الجملة الرئيسية'."
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
+          "en": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
+          "ar": "Reescreva a oração desenvolvida em uma reduzida de particípio."
+        },
+        {
+          "pt": "Porque 'relatório' está no singular; o particípio concorda com ele.",
+          "en": "Porque 'relatório' está no singular; o particípio concorda com ele.",
+          "ar": "Porque 'relatório' está no singular; o particípio concorda com ele."
+        },
+        {
+          "pt": "Concluído o relatório, enviamos o e-mail.",
+          "en": "Concluído o relatório, enviamos o e-mail.",
+          "ar": "Concluído o relatório, enviamos o e-mail."
+        }
+      ],
+      "answer": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
+      "accepted": [],
+      "audio": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
+      "explanation": {
+        "pt": "Você ouviu: 'Reescreva a oração desenvolvida em uma reduzida de particípio.'",
+        "en": "You heard: 'Reescreva a oração desenvolvida em uma reduzida de particípio.'",
+        "ar": "سمعت: 'Reescreva a oração desenvolvida em uma reduzida de particípio.'"
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Concluído o relatório, enviamos o e-mail.",
+          "en": "Concluído o relatório, enviamos o e-mail.",
+          "ar": "Concluído o relatório, enviamos o e-mail."
+        },
+        {
+          "pt": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
+          "en": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
+          "ar": "Reescreva a oração desenvolvida em uma reduzida de particípio."
+        },
+        {
+          "pt": "Depois que o relatório foi concluído, enviamos o e-mail.",
+          "en": "Depois que o relatório foi concluído, enviamos o e-mail.",
+          "ar": "Depois que o relatório foi concluído, enviamos o e-mail."
+        }
+      ],
+      "answer": "Depois que o relatório foi concluído, enviamos o e-mail.",
+      "accepted": [],
+      "audio": "Depois que o relatório foi concluído, enviamos o e-mail.",
+      "explanation": {
+        "pt": "Você ouviu: 'Depois que o relatório foi concluído, enviamos o e-mail.'",
+        "en": "You heard: 'Depois que o relatório foi concluído, enviamos o e-mail.'",
+        "ar": "سمعت: 'Depois que o relatório foi concluído, enviamos o e-mail.'"
+      }
+    },
+    {
+      "type": "dictation",
+      "prompt": {
+        "pt": "Ouça e escreva o que você ouviu.",
+        "en": "Listen and type what you hear.",
+        "ar": "استمع واكتب ما سمعته."
+      },
+      "options": [],
+      "answer": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
+      "accepted": [],
+      "audio": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
+      "explanation": {
+        "pt": "A frase correta: 'Reescreva a oração desenvolvida em uma reduzida de particípio.'",
+        "en": "The correct sentence: 'Reescreva a oração desenvolvida em uma reduzida de particípio.'",
+        "ar": "الجملة الصحيحة: 'Reescreva a oração desenvolvida em uma reduzida de particípio.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "uma",
+          "en": "uma",
+          "ar": "uma"
+        },
+        {
+          "pt": "em",
+          "en": "em",
+          "ar": "em"
+        },
+        {
+          "pt": "reduzida",
+          "en": "reduzida",
+          "ar": "reduzida"
+        },
+        {
+          "pt": "particípio.",
+          "en": "particípio.",
+          "ar": "particípio."
+        },
+        {
+          "pt": "Reescreva",
+          "en": "Reescreva",
+          "ar": "Reescreva"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "oração",
+          "en": "oração",
+          "ar": "oração"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "desenvolvida",
+          "en": "desenvolvida",
+          "ar": "desenvolvida"
+        }
+      ],
+      "answer": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
+      "accepted": [
+        "Reescreva a oração desenvolvida em uma reduzida de particípio."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Reescreva a oração desenvolvida em uma reduzida de particípio.'",
+        "en": "The correct order: 'Rewrite the developed clause as a reduced participle clause.'",
+        "ar": "الترتيب الصحيح: 'أعد كتابة الجملة المطوّرة إلى جملة مختزلة باسم المفعول.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a conjunção",
+          "en": "conjunction",
+          "ar": "a conjunção"
+        },
+        {
+          "pt": "a oração principal",
+          "en": "subordinate clause",
+          "ar": "a oração principal"
+        },
+        {
+          "pt": "a oração subordinada",
+          "en": "main clause",
+          "ar": "a oração subordinada"
+        },
+        {
+          "pt": "a anáfora",
+          "en": "relative pronoun",
+          "ar": "a anáfora"
+        },
+        {
+          "pt": "o pronome relativo",
+          "en": "ellipsis",
+          "ar": "o pronome relativo"
+        },
+        {
+          "pt": "a elipse",
+          "en": "anaphora",
+          "ar": "a elipse"
+        }
+      ],
+      "answer": "a conjunção::conjunction|a oração principal::subordinate clause|a oração subordinada::main clause|a anáfora::relative pronoun|o pronome relativo::ellipsis|a elipse::anaphora",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Perfeito. E por que não usamos 'concluídos'?",
+          "en": "The report finished, we sent the email.",
+          "ar": "ممتاز. ولماذا لا نستخدم 'concluídos'؟"
+        },
+        {
+          "pt": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
+          "en": "Rewrite the developed clause as a reduced participle clause.",
+          "ar": "أعد كتابة الجملة المطوّرة إلى جملة مختزلة باسم المفعول."
+        },
+        {
+          "pt": "Concluído o relatório, enviamos o e-mail.",
+          "en": "Perfect. And why do we not use 'concluídos'?",
+          "ar": "بعد إنجاز التقرير، أرسلنا البريد الإلكتروني."
+        }
+      ],
+      "answer": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
+      "accepted": [],
+      "audio": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
+      "explanation": {
+        "pt": "Você ouviu: 'Reescreva a oração desenvolvida em uma reduzida de particípio.' — 'Rewrite the developed clause as a reduced participle clause.'",
+        "en": "You heard: 'Reescreva a oração desenvolvida em uma reduzida de particípio.' — 'Rewrite the developed clause as a reduced participle clause.'",
+        "ar": "سمعت: 'Reescreva a oração desenvolvida em uma reduzida de particípio.' — 'أعد كتابة الجملة المطوّرة إلى جملة مختزلة باسم المفعول.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Perfeito. E por que não usamos 'concluídos'?",
+          "en": "Because 'relatório' is singular; the participle agrees with it.",
+          "ar": "لأن 'relatório' مفرد؛ فيطابقه اسم المفعول في العدد والجنس."
+        },
+        {
+          "pt": "Depois que o relatório foi concluído, enviamos o e-mail.",
+          "en": "Perfect. And why do we not use 'concluídos'?",
+          "ar": "بعد أن أُنجز التقرير، أرسلنا البريد الإلكتروني."
+        },
+        {
+          "pt": "Porque 'relatório' está no singular; o particípio concorda com ele.",
+          "en": "After the report was finished, we sent the email.",
+          "ar": "ممتاز. ولماذا لا نستخدم 'concluídos'؟"
+        }
+      ],
+      "answer": "Depois que o relatório foi concluído, enviamos o e-mail.",
+      "accepted": [],
+      "audio": "Depois que o relatório foi concluído, enviamos o e-mail.",
+      "explanation": {
+        "pt": "Você ouviu: 'Depois que o relatório foi concluído, enviamos o e-mail.' — 'After the report was finished, we sent the email.'",
+        "en": "You heard: 'Depois que o relatório foi concluído, enviamos o e-mail.' — 'After the report was finished, we sent the email.'",
+        "ar": "سمعت: 'Depois que o relatório foi concluído, enviamos o e-mail.' — 'بعد أن أُنجز التقرير، أرسلنا البريد الإلكتروني.'"
+      }
+    }
+  ],
+  "speaking": {
+    "title": {
+      "pt": "Fale Agora — Ouça e Repita",
+      "en": "Speak Now — Listen and Repeat",
+      "ar": "تحدث الآن — استمع وكرر"
+    },
+    "phrases": [
+      {
+        "pt": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
+        "en": "Rewrite the developed clause as a reduced participle clause.",
+        "ar": "أعد كتابة الجملة المطوّرة إلى جملة مختزلة باسم المفعول."
+      },
+      {
+        "pt": "Depois que o relatório foi concluído, enviamos o e-mail.",
+        "en": "After the report was finished, we sent the email.",
+        "ar": "بعد أن أُنجز التقرير، أرسلنا البريد الإلكتروني."
+      },
+      {
+        "pt": "Agora reduza com o particípio.",
+        "en": "Now reduce it with the participle.",
+        "ar": "الآن اختصرها باسم المفعول."
+      },
+      {
+        "pt": "Concluído o relatório, enviamos o e-mail.",
+        "en": "The report finished, we sent the email.",
+        "ar": "بعد إنجاز التقرير، أرسلنا البريد الإلكتروني."
+      },
+      {
+        "pt": "Perfeito. E por que não usamos 'concluídos'?",
+        "en": "Perfect. And why do we not use 'concluídos'?",
+        "ar": "ممتاز. ولماذا لا نستخدم 'concluídos'؟"
+      },
+      {
+        "pt": "Porque 'relatório' está no singular; o particípio concorda com ele.",
+        "en": "Because 'relatório' is singular; the participle agrees with it.",
+        "ar": "لأن 'relatório' مفرد؛ فيطابقه اسم المفعول في العدد والجنس."
+      },
+      {
+        "pt": "a oração subordinada",
+        "en": "subordinate clause",
+        "ar": "الجملة التابعة"
+      },
+      {
+        "pt": "a oração principal",
+        "en": "main clause",
+        "ar": "الجملة الرئيسية"
+      },
+      {
+        "pt": "a conjunção",
+        "en": "conjunction",
+        "ar": "حرف العطف / الرابط"
+      }
+    ]
+  },
+  "cultural_tips": {
+    "pt": "",
+    "en": "",
+    "ar": ""
+  }
+}

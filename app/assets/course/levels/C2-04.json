@@ -1,0 +1,2136 @@
+{
+  "id": "C2-04",
+  "level": "C2",
+  "level_name": {
+    "pt": "Proficiência",
+    "en": "Proficiency",
+    "ar": "إتقان"
+  },
+  "title": {
+    "pt": "Linguagem Jurídica e Acadêmica",
+    "en": "Legal and Academic Language",
+    "ar": "اللغة القانونية والأكاديمية"
+  },
+  "objectives": [
+    {
+      "pt": "Compreender a estrutura de documentos jurídicos",
+      "en": "Understand the structure of legal documents",
+      "ar": "فهم بنية الوثائق القانونية"
+    },
+    {
+      "pt": "Usar a voz passiva e o pronome apassivador com precisão",
+      "en": "Use the passive voice and the passive 'se' with precision",
+      "ar": "استخدام المبني للمجهول وأداة 'se' بدقة"
+    },
+    {
+      "pt": "Empregar o futuro do pretérito em hipóteses e cortesia formal",
+      "en": "Use the conditional in hypotheses and formal courtesy",
+      "ar": "استخدام المستقبل الشرطي في الفرضيات والمجاملة الرسمية"
+    },
+    {
+      "pt": "Redigir parágrafos acadêmicos e jurídicos coesos",
+      "en": "Write cohesive academic and legal paragraphs",
+      "ar": "كتابة فقرات أكاديمية وقانونية متماسكة"
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "o contrato",
+      "ipa": "/kõˈtɾa.tu/",
+      "en": "contract",
+      "ar": "العقد",
+      "example": {
+        "pt": "O laudo foi homologado, e a sentença será publicada na sexta.",
+        "en": "The expert report has been ratified, and the judgment will be published on Friday.",
+        "ar": "تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة."
+      }
+    },
+    {
+      "pt": "a cláusula",
+      "ipa": "/ˈklaw.zu.la/",
+      "en": "clause",
+      "ar": "البند",
+      "example": {
+        "pt": "O laudo foi homologado, e a sentença será publicada na sexta.",
+        "en": "The expert report has been ratified, and the judgment will be published on Friday.",
+        "ar": "تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة."
+      }
+    },
+    {
+      "pt": "o termo",
+      "ipa": "/ˈteʁ.mu/",
+      "en": "term / instrument",
+      "ar": "المصطلح / الوثيقة",
+      "example": {
+        "pt": "O laudo foi homologado, e a sentença será publicada na sexta.",
+        "en": "The expert report has been ratified, and the judgment will be published on Friday.",
+        "ar": "تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة."
+      }
+    },
+    {
+      "pt": "o réu",
+      "ipa": "/ˈxɛw/",
+      "en": "defendant",
+      "ar": "المدعى عليه",
+      "example": {
+        "pt": "O laudo foi homologado, e a sentença será publicada na sexta.",
+        "en": "The expert report has been ratified, and the judgment will be published on Friday.",
+        "ar": "تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة."
+      }
+    },
+    {
+      "pt": "o juiz",
+      "ipa": "/ʒuˈis/",
+      "en": "judge",
+      "ar": "القاضي",
+      "example": {
+        "pt": "O laudo foi homologado, e a sentença será publicada na sexta.",
+        "en": "The expert report has been ratified, and the judgment will be published on Friday.",
+        "ar": "تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة."
+      }
+    },
+    {
+      "pt": "a sentença",
+      "ipa": "/sẽˈtẽ.sa/",
+      "en": "sentence / judgment",
+      "ar": "الحكم",
+      "example": {
+        "pt": "O laudo foi homologado, e a sentença será publicada na sexta.",
+        "en": "The expert report has been ratified, and the judgment will be published on Friday.",
+        "ar": "تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة."
+      }
+    },
+    {
+      "pt": "o recurso",
+      "ipa": "/xeˈkuʁ.su/",
+      "en": "appeal",
+      "ar": "الاستئناف / الطعن",
+      "example": {
+        "pt": "O laudo foi homologado, e a sentença será publicada na sexta.",
+        "en": "The expert report has been ratified, and the judgment will be published on Friday.",
+        "ar": "تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة."
+      }
+    },
+    {
+      "pt": "a audiência",
+      "ipa": "/aw.dʒiˈẽ.si.a/",
+      "en": "hearing",
+      "ar": "الجلسة",
+      "example": {
+        "pt": "O laudo foi homologado, e a sentença será publicada na sexta.",
+        "en": "The expert report has been ratified, and the judgment will be published on Friday.",
+        "ar": "تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة."
+      }
+    },
+    {
+      "pt": "a defesa",
+      "ipa": "/deˈfe.za/",
+      "en": "defense",
+      "ar": "الدفاع",
+      "example": {
+        "pt": "O laudo foi homologado, e a sentença será publicada na sexta.",
+        "en": "The expert report has been ratified, and the judgment will be published on Friday.",
+        "ar": "تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة."
+      }
+    },
+    {
+      "pt": "a testemunha",
+      "ipa": "/tes.tʃeˈmũ.ɲa/",
+      "en": "witness",
+      "ar": "الشاهد",
+      "example": {
+        "pt": "O laudo foi homologado, e a sentença será publicada na sexta.",
+        "en": "The expert report has been ratified, and the judgment will be published on Friday.",
+        "ar": "تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة."
+      }
+    },
+    {
+      "pt": "o laudo",
+      "ipa": "/ˈlaw.du/",
+      "en": "expert report",
+      "ar": "تقرير الخبير",
+      "example": {
+        "pt": "O laudo foi homologado, e a sentença será publicada na sexta.",
+        "en": "The expert report has been ratified, and the judgment will be published on Friday.",
+        "ar": "تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة."
+      }
+    },
+    {
+      "pt": "a jurisprudência",
+      "ipa": "/ʒu.ɾis.pɾuˈdẽ.si.a/",
+      "en": "case law",
+      "ar": "الفقه القضائي / السوابق",
+      "example": {
+        "pt": "O laudo foi homologado, e a sentença será publicada na sexta.",
+        "en": "The expert report has been ratified, and the judgment will be published on Friday.",
+        "ar": "تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة."
+      }
+    },
+    {
+      "pt": "o dispositivo",
+      "ipa": "/dʒis.po.ziˈtʃi.vu/",
+      "en": "provision / operative part",
+      "ar": "النص الحكمي",
+      "example": {
+        "pt": "O laudo foi homologado, e a sentença será publicada na sexta.",
+        "en": "The expert report has been ratified, and the judgment will be published on Friday.",
+        "ar": "تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة."
+      }
+    },
+    {
+      "pt": "o parecer",
+      "ipa": "/pa.ɾeˈseʁ/",
+      "en": "legal opinion",
+      "ar": "رأي قانوني / تقرير",
+      "example": {
+        "pt": "O laudo foi homologado, e a sentença será publicada na sexta.",
+        "en": "The expert report has been ratified, and the judgment will be published on Friday.",
+        "ar": "تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة."
+      }
+    },
+    {
+      "pt": "a ementa",
+      "ipa": "/eˈmẽ.ta/",
+      "en": "headnote / abstract",
+      "ar": "الملخص / التذييل",
+      "example": {
+        "pt": "O laudo foi homologado, e a sentença será publicada na sexta.",
+        "en": "The expert report has been ratified, and the judgment will be published on Friday.",
+        "ar": "تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة."
+      }
+    },
+    {
+      "pt": "a homologação",
+      "ipa": "/o.mo.ɡa.saˈsɐ̃w/",
+      "en": "ratification",
+      "ar": "التصديق",
+      "example": {
+        "pt": "O laudo foi homologado, e a sentença será publicada na sexta.",
+        "en": "The expert report has been ratified, and the judgment will be published on Friday.",
+        "ar": "تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة."
+      }
+    },
+    {
+      "pt": "o aditivo",
+      "ipa": "/a.dʒiˈtʃi.vu/",
+      "en": "addendum / amendment",
+      "ar": "الملحق التعديلي",
+      "example": {
+        "pt": "O laudo foi homologado, e a sentença será publicada na sexta.",
+        "en": "The expert report has been ratified, and the judgment will be published on Friday.",
+        "ar": "تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة."
+      }
+    },
+    {
+      "pt": "a procuração",
+      "ipa": "/pɾo.ku.ɾaˈsɐ̃w/",
+      "en": "power of attorney",
+      "ar": "التوكيل",
+      "example": {
+        "pt": "O laudo foi homologado, e a sentença será publicada na sexta.",
+        "en": "The expert report has been ratified, and the judgment will be published on Friday.",
+        "ar": "تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "title": {
+        "pt": "Voz Passiva em Textos Formais",
+        "en": "Passive Voice in Formal Texts",
+        "ar": "المبني للمجهول في النصوص الرسمية"
+      },
+      "explanation": {
+        "pt": "Documentos jurídicos e acadêmicos preferem a voz passiva para impessoalizar: 'A cláusula foi alterada', 'Firmou-se o acordo'. O pronome apassivador 'se' liga-se a sujeito paciente na terceira pessoa: 'Divulgou-se o edital'. A passiva com agente é rara; quando necessária, marca responsabilidade: 'O laudo foi elaborado pelo perito'.",
+        "en": "Legal and academic documents prefer the passive voice to impersonalize: 'A cláusula foi alterada' (The clause was changed), 'Firmou-se o acordo' (The agreement was signed). The passive particle 'se' attaches to a patient subject in the third person: 'Divulgou-se o edital' (The notice was published). The agentive passive is rare; when needed, it marks responsibility: 'O laudo foi elaborado pelo perito' (The report was prepared by the expert).",
+        "ar": "تفضل الوثائق القانونية والأكاديمية المبني للمجهول لإضفاء الطابع غير الشخصي: 'A cláusula foi alterada' (عُدّل البند)، 'Firmou-se o acordo' (وقّع الاتفاق). تلتصق أداة 'se' المبني للمجهول بفاعل منصوب في الغائب: 'Divulgou-se o edital' (نُشر الإعلان). والمبني للمجهول مع الفاعل نادر؛ وعند الحاجة إليه يحدد المسؤولية: 'O laudo foi elaborado pelo perito' (أعدّ الخبيرُ التقريرَ)."
+      },
+      "examples": [
+        {
+          "pt": "Firmou-se o contrato após longa negociação.",
+          "en": "The contract was signed after long negotiation.",
+          "ar": "وقّع العقد بعد مفاوضات طويلة."
+        },
+        {
+          "pt": "A sentença foi proferida pelo juiz na quinta-feira.",
+          "en": "The sentence was handed down by the judge on Thursday.",
+          "ar": "أصدر القاضي الحكم يوم الخميس."
+        },
+        {
+          "pt": "Publicaram-se os resultados da pesquisa.",
+          "en": "The research results were published.",
+          "ar": "نُشرت نتائج البحث."
+        }
+      ]
+    },
+    {
+      "title": {
+        "pt": "Futuro do Pretérito: Hipótese e Cortesia",
+        "en": "The Conditional: Hypothesis and Courtesy",
+        "ar": "المستقبل الشرطي: الفرضية والمجاملة"
+      },
+      "explanation": {
+        "pt": "O futuro do pretérito ('poderia', 'seria', 'caberia') suaviza afirmações e formula hipóteses: 'Seria prudente rever o parecer'. Em textos jurídicos, marca efeito condicionado: 'O pedido seria deferido se cumpridos os requisitos'. Também expressa cortesia formal: 'Gostaríamos de solicitar a juntada do laudo'.",
+        "en": "The conditional ('poderia', 'seria', 'caberia') softens statements and formulates hypotheses: 'Seria prudente rever o parecer' (It would be prudent to review the opinion). In legal texts, it marks a conditioned effect: 'O pedido seria deferido se cumpridos os requisitos' (The request would be granted if the requirements were met). It also expresses formal courtesy: 'Gostaríamos de solicitar a juntada do laudo' (We would like to request the attachment of the report).",
+        "ar": "يخفف المستقبل الشرطي ('poderia، seria، caberia') العبارات ويصوغ الفرضيات: 'Seria prudente rever o parecer' (سيكون من الحكمة مراجعة الرأي). وفي النصوص القانونية يدل على أثر مشروط: 'O pedido seria deferido se cumpridos os requisitos' (كان الطلب سيُقبل لو استوفيت الشروط). كما يعبر عن المجاملة الرسمية: 'Gostaríamos de solicitar a juntada do laudo' (نود طلب إرفاق تقرير الخبير)."
+      },
+      "examples": [
+        {
+          "pt": "Gostaríamos de marcar uma audiência para a próxima semana.",
+          "en": "We would like to schedule a hearing for next week.",
+          "ar": "نود تحديد جلسة الأسبوع القادم."
+        },
+        {
+          "pt": "Caberia recurso contra a decisão proferida.",
+          "en": "An appeal could lie against the judgment handed down.",
+          "ar": "كان يمكن تقديم طعن ضد الحكم الصادر."
+        },
+        {
+          "pt": "Se o contrato fosse aditado, os prazos seriam prorrogados.",
+          "en": "If the contract were amended, the deadlines would be extended.",
+          "ar": "لو عُدّل العقد، لتمّ تمديد المواعيد."
+        }
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": {
+      "pt": "No Escritório de Advocacia",
+      "en": "At the Law Firm",
+      "ar": "في مكتب المحاماة"
+    },
+    "lines": [
+      {
+        "speaker": "Dra. Helena",
+        "pt": "O laudo foi homologado, e a sentença será publicada na sexta.",
+        "en": "The expert report has been ratified, and the judgment will be published on Friday.",
+        "ar": "تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة."
+      },
+      {
+        "speaker": "Estagiário",
+        "pt": "Compreendo. O recurso caberia ainda dentro do prazo legal?",
+        "en": "I see. Would the appeal still lie within the legal deadline?",
+        "ar": "فهمت. هل يزال بإمكاننا تقديم الطعن ضمن المهلة القانونية؟"
+      },
+      {
+        "speaker": "Dra. Helena",
+        "pt": "Sim, mas seria prudente aguardar a publicação da ementa.",
+        "en": "Yes, but it would be prudent to wait for the publication of the headnote.",
+        "ar": "نعم، لكن سيكون من الحكمة انتظار نشر الملخص."
+      },
+      {
+        "speaker": "Estagiário",
+        "pt": "Então preparo a minuta do recurso, citando a jurisprudência pertinente.",
+        "en": "Then I will prepare the draft appeal, citing the relevant case law.",
+        "ar": "إذن سأعد مسودة الطعن مستشهدًا بالفقه القضائي ذي الصلة."
+      },
+      {
+        "speaker": "Dra. Helena",
+        "pt": "Gostaríamos também de anexar o aditivo ao contrato original.",
+        "en": "We would also like to attach the addendum to the original contract.",
+        "ar": "نود أيضًا إرفاق الملحق التعديلي بالعقد الأصلي."
+      },
+      {
+        "speaker": "Estagiário",
+        "pt": "Perfeito. Homologado o aditivo, protocolo tudo até quarta-feira.",
+        "en": "Perfect. Once the addendum is ratified, I will file everything by Wednesday.",
+        "ar": "ممتاز. بعد التصديق على الملحق، سأقدّم كل شيء حتى الأربعاء."
+      }
+    ]
+  },
+  "reading": {
+    "title": {
+      "pt": "O Parecer Jurídico",
+      "en": "The Legal Opinion",
+      "ar": "الرأي القانوني"
+    },
+    "text_pt": "O parecer examina a validade da cláusula impugnada à luz da jurisprudência dominante. Proferida a sentença, verificou-se que o dispositivo não contemplava a hipótese de revisão automática. Seria recomendável, portanto, a lavratura de termo aditivo e a homologação das novas condições. Caso contrário, o recurso poderia ser parcialmente prejudicado.",
+    "text_en": "The opinion examines the validity of the challenged clause in light of the prevailing case law. Once the judgment was handed down, it was verified that the operative part did not cover the hypothesis of automatic revision. It would therefore be advisable to draw up an addendum and ratify the new conditions. Otherwise, the appeal could be partially prejudiced.",
+    "text_ar": "يدرس الرأي القانوني صحة البند المطعون فيه في ضوء الفقه القضائي السائد. وبعد صدور الحكم، تبيّن أن النص الحكمي لا يشمل فرضية المراجعة التلقائية. ومن ثمّ، سيكون من المستحسن تحرير ملحق تعديلي والتصديق على الشروط الجديدة. وإلا فقد يتضرر الطعن جزئيًا."
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual frase usa corretamente o pronome apassivador 'se'?",
+        "en": "Which sentence correctly uses the passive particle 'se'?",
+        "ar": "أي جملة تستخدم أداة 'se' للمجهول بشكل صحيح؟"
+      },
+      "options": [
+        {
+          "pt": "Firmou-se o acordo entre as partes.",
+          "en": "Firmou-se o acordo entre as partes.",
+          "ar": "Firmou-se o acordo entre as partes."
+        },
+        {
+          "pt": "Vende-se apartamentos na planta.",
+          "en": "Vende-se apartamentos na planta.",
+          "ar": "Vende-se apartamentos na planta."
+        },
+        {
+          "pt": "Precisa-se de advogados experientes.",
+          "en": "Precisa-se de advogados experientes.",
+          "ar": "Precisa-se de advogados experientes."
+        }
+      ],
+      "answer": "Firmou-se o acordo entre as partes.",
+      "explanation": {
+        "pt": "'Acordo' é sujeito paciente singular, logo 'Firmou-se'. As demais têm sujeito plural ou verbo transitivo indireto.",
+        "en": "'Acordo' is a singular patient subject, hence 'Firmou-se'. The others have a plural subject or a transitive-indirect verb.",
+        "ar": "'acordo' فاعل منصوب مفرد، لذا نقول 'Firmou-se'. أما الجملتان الأخريان ففاعلهما جمع أو الفعل متعدٍ بحرف جر."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "O futuro do pretérito em 'Seria prudente rever o parecer' expressa...",
+        "en": "The conditional in 'Seria prudente rever o parecer' expresses...",
+        "ar": "المستقبل الشرطي في 'Seria prudente rever o parecer' يعبّر عن..."
+      },
+      "options": [
+        {
+          "pt": "ordem direta",
+          "en": "a direct order",
+          "ar": "أمر مباشر"
+        },
+        {
+          "pt": "hipótese ou suavização",
+          "en": "hypothesis or softening",
+          "ar": "فرضية أو تخفيف"
+        },
+        {
+          "pt": "fato passado concluído",
+          "en": "a completed past fact",
+          "ar": "حقيقة ماضية منجزة"
+        }
+      ],
+      "answer": "hipótese ou suavização",
+      "explanation": {
+        "pt": "'Seria' atenua a recomendação e formula uma hipótese.",
+        "en": "'Seria' softens the recommendation and formulates a hypothesis.",
+        "ar": "كلمة 'seria' تخفف التوصية وتصوغ فرضية."
+      }
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: 'the appeal was partially prejudiced'",
+        "en": "Translate into Portuguese: 'the appeal was partially prejudiced'",
+        "ar": "ترجم إلى البرتغالية: 'the appeal was partially prejudiced'"
+      },
+      "options": [],
+      "answer": "o recurso foi parcialmente prejudicado",
+      "explanation": {
+        "pt": "A resposta usa voz passiva analítica, típica do registro jurídico.",
+        "en": "The answer uses the analytic passive, typical of the legal register.",
+        "ar": "الجواب يستخدم المبني للمجهول التحليلي، وهو سمة المستوى القانوني."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "será",
+          "en": "será",
+          "ar": "será"
+        },
+        {
+          "pt": "na",
+          "en": "na",
+          "ar": "na"
+        },
+        {
+          "pt": "foi",
+          "en": "foi",
+          "ar": "foi"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "e",
+          "en": "e",
+          "ar": "e"
+        },
+        {
+          "pt": "publicada",
+          "en": "publicada",
+          "ar": "publicada"
+        },
+        {
+          "pt": "homologado,",
+          "en": "homologado,",
+          "ar": "homologado,"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "sentença",
+          "en": "sentença",
+          "ar": "sentença"
+        },
+        {
+          "pt": "laudo",
+          "en": "laudo",
+          "ar": "laudo"
+        },
+        {
+          "pt": "sexta.",
+          "en": "sexta.",
+          "ar": "sexta."
+        }
+      ],
+      "answer": "O laudo foi homologado, e a sentença será publicada na sexta.",
+      "accepted": [
+        "O laudo foi homologado, e a sentença será publicada na sexta."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'O laudo foi homologado, e a sentença será publicada na sexta.'",
+        "en": "The correct order: 'The expert report has been ratified, and the judgment will be published on Friday.'",
+        "ar": "الترتيب الصحيح: 'تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o contrato",
+          "en": "defendant",
+          "ar": "o contrato"
+        },
+        {
+          "pt": "o réu",
+          "en": "sentence / judgment",
+          "ar": "o réu"
+        },
+        {
+          "pt": "o juiz",
+          "en": "term / instrument",
+          "ar": "o juiz"
+        },
+        {
+          "pt": "o termo",
+          "en": "contract",
+          "ar": "o termo"
+        },
+        {
+          "pt": "a cláusula",
+          "en": "judge",
+          "ar": "a cláusula"
+        },
+        {
+          "pt": "a sentença",
+          "en": "clause",
+          "ar": "a sentença"
+        }
+      ],
+      "answer": "o contrato::defendant|o réu::sentence / judgment|o juiz::term / instrument|o termo::contract|a cláusula::judge|a sentença::clause",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "O laudo foi homologado, e a sentença será publicada na sexta.",
+          "en": "The expert report has been ratified, and the judgment will be published on Friday.",
+          "ar": "إذن سأعد مسودة الطعن مستشهدًا بالفقه القضائي ذي الصلة."
+        },
+        {
+          "pt": "Perfeito. Homologado o aditivo, protocolo tudo até quarta-feira.",
+          "en": "Then I will prepare the draft appeal, citing the relevant case law.",
+          "ar": "تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة."
+        },
+        {
+          "pt": "Então preparo a minuta do recurso, citando a jurisprudência pertinente.",
+          "en": "Perfect. Once the addendum is ratified, I will file everything by Wednesday.",
+          "ar": "ممتاز. بعد التصديق على الملحق، سأقدّم كل شيء حتى الأربعاء."
+        }
+      ],
+      "answer": "O laudo foi homologado, e a sentença será publicada na sexta.",
+      "accepted": [],
+      "audio": "O laudo foi homologado, e a sentença será publicada na sexta.",
+      "explanation": {
+        "pt": "Você ouviu: 'O laudo foi homologado, e a sentença será publicada na sexta.' — 'The expert report has been ratified, and the judgment will be published on Friday.'",
+        "en": "You heard: 'O laudo foi homologado, e a sentença será publicada na sexta.' — 'The expert report has been ratified, and the judgment will be published on Friday.'",
+        "ar": "سمعت: 'O laudo foi homologado, e a sentença será publicada na sexta.' — 'تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim, mas seria prudente aguardar a publicação da ementa.",
+          "en": "Then I will prepare the draft appeal, citing the relevant case law.",
+          "ar": "نعم، لكن سيكون من الحكمة انتظار نشر الملخص."
+        },
+        {
+          "pt": "Compreendo. O recurso caberia ainda dentro do prazo legal?",
+          "en": "I see. Would the appeal still lie within the legal deadline?",
+          "ar": "فهمت. هل يزال بإمكاننا تقديم الطعن ضمن المهلة القانونية؟"
+        },
+        {
+          "pt": "Então preparo a minuta do recurso, citando a jurisprudência pertinente.",
+          "en": "Yes, but it would be prudent to wait for the publication of the headnote.",
+          "ar": "إذن سأعد مسودة الطعن مستشهدًا بالفقه القضائي ذي الصلة."
+        }
+      ],
+      "answer": "Compreendo. O recurso caberia ainda dentro do prazo legal?",
+      "accepted": [],
+      "audio": "Compreendo. O recurso caberia ainda dentro do prazo legal?",
+      "explanation": {
+        "pt": "Você ouviu: 'Compreendo. O recurso caberia ainda dentro do prazo legal?' — 'I see. Would the appeal still lie within the legal deadline?'",
+        "en": "You heard: 'Compreendo. O recurso caberia ainda dentro do prazo legal?' — 'I see. Would the appeal still lie within the legal deadline?'",
+        "ar": "سمعت: 'Compreendo. O recurso caberia ainda dentro do prazo legal?' — 'فهمت. هل يزال بإمكاننا تقديم الطعن ضمن المهلة القانونية؟'"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Firmou-se ___ contrato após longa negociação.",
+        "en": "Firmou-se ___ contrato após longa negociação.",
+        "ar": "Firmou-se ___ contrato após longa negociação."
+      },
+      "options": [
+        {
+          "pt": "da",
+          "en": "da",
+          "ar": "da"
+        },
+        {
+          "pt": "resultados",
+          "en": "resultados",
+          "ar": "resultados"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        }
+      ],
+      "answer": "o",
+      "accepted": [],
+      "explanation": {
+        "pt": "A resposta é 'o'. Frase completa: Firmou-se o contrato após longa negociação.",
+        "en": "The answer is 'o'. Full sentence: The contract was signed after long negotiation.",
+        "ar": "الإجابة الصحيحة: 'o'. الجملة كاملة: وقّع العقد بعد مفاوضات طويلة."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "sexta.",
+          "en": "sexta.",
+          "ar": "sexta."
+        },
+        {
+          "pt": "será",
+          "en": "será",
+          "ar": "será"
+        },
+        {
+          "pt": "e",
+          "en": "e",
+          "ar": "e"
+        },
+        {
+          "pt": "foi",
+          "en": "foi",
+          "ar": "foi"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "publicada",
+          "en": "publicada",
+          "ar": "publicada"
+        },
+        {
+          "pt": "laudo",
+          "en": "laudo",
+          "ar": "laudo"
+        },
+        {
+          "pt": "homologado,",
+          "en": "homologado,",
+          "ar": "homologado,"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "na",
+          "en": "na",
+          "ar": "na"
+        },
+        {
+          "pt": "sentença",
+          "en": "sentença",
+          "ar": "sentença"
+        }
+      ],
+      "answer": "O laudo foi homologado, e a sentença será publicada na sexta.",
+      "accepted": [
+        "O laudo foi homologado, e a sentença será publicada na sexta."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'O laudo foi homologado, e a sentença será publicada na sexta.'",
+        "en": "The correct order: 'The expert report has been ratified, and the judgment will be published on Friday.'",
+        "ar": "الترتيب الصحيح: 'تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o termo",
+          "en": "judge",
+          "ar": "o termo"
+        },
+        {
+          "pt": "a cláusula",
+          "en": "sentence / judgment",
+          "ar": "a cláusula"
+        },
+        {
+          "pt": "o juiz",
+          "en": "defendant",
+          "ar": "o juiz"
+        },
+        {
+          "pt": "a sentença",
+          "en": "term / instrument",
+          "ar": "a sentença"
+        },
+        {
+          "pt": "o réu",
+          "en": "clause",
+          "ar": "o réu"
+        },
+        {
+          "pt": "o contrato",
+          "en": "contract",
+          "ar": "o contrato"
+        }
+      ],
+      "answer": "o termo::judge|a cláusula::sentence / judgment|o juiz::defendant|a sentença::term / instrument|o réu::clause|o contrato::contract",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "O laudo foi homologado, e a sentença será publicada na sexta.",
+          "en": "Perfect. Once the addendum is ratified, I will file everything by Wednesday.",
+          "ar": "ممتاز. بعد التصديق على الملحق، سأقدّم كل شيء حتى الأربعاء."
+        },
+        {
+          "pt": "Perfeito. Homologado o aditivo, protocolo tudo até quarta-feira.",
+          "en": "The expert report has been ratified, and the judgment will be published on Friday.",
+          "ar": "فهمت. هل يزال بإمكاننا تقديم الطعن ضمن المهلة القانونية؟"
+        },
+        {
+          "pt": "Compreendo. O recurso caberia ainda dentro do prazo legal?",
+          "en": "I see. Would the appeal still lie within the legal deadline?",
+          "ar": "تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة."
+        }
+      ],
+      "answer": "O laudo foi homologado, e a sentença será publicada na sexta.",
+      "accepted": [],
+      "audio": "O laudo foi homologado, e a sentença será publicada na sexta.",
+      "explanation": {
+        "pt": "Você ouviu: 'O laudo foi homologado, e a sentença será publicada na sexta.' — 'The expert report has been ratified, and the judgment will be published on Friday.'",
+        "en": "You heard: 'O laudo foi homologado, e a sentença será publicada na sexta.' — 'The expert report has been ratified, and the judgment will be published on Friday.'",
+        "ar": "سمعت: 'O laudo foi homologado, e a sentença será publicada na sexta.' — 'تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Perfeito. Homologado o aditivo, protocolo tudo até quarta-feira.",
+          "en": "I see. Would the appeal still lie within the legal deadline?",
+          "ar": "فهمت. هل يزال بإمكاننا تقديم الطعن ضمن المهلة القانونية؟"
+        },
+        {
+          "pt": "Então preparo a minuta do recurso, citando a jurisprudência pertinente.",
+          "en": "Perfect. Once the addendum is ratified, I will file everything by Wednesday.",
+          "ar": "إذن سأعد مسودة الطعن مستشهدًا بالفقه القضائي ذي الصلة."
+        },
+        {
+          "pt": "Compreendo. O recurso caberia ainda dentro do prazo legal?",
+          "en": "Then I will prepare the draft appeal, citing the relevant case law.",
+          "ar": "ممتاز. بعد التصديق على الملحق، سأقدّم كل شيء حتى الأربعاء."
+        }
+      ],
+      "answer": "Compreendo. O recurso caberia ainda dentro do prazo legal?",
+      "accepted": [],
+      "audio": "Compreendo. O recurso caberia ainda dentro do prazo legal?",
+      "explanation": {
+        "pt": "Você ouviu: 'Compreendo. O recurso caberia ainda dentro do prazo legal?' — 'I see. Would the appeal still lie within the legal deadline?'",
+        "en": "You heard: 'Compreendo. O recurso caberia ainda dentro do prazo legal?' — 'I see. Would the appeal still lie within the legal deadline?'",
+        "ar": "سمعت: 'Compreendo. O recurso caberia ainda dentro do prazo legal?' — 'فهمت. هل يزال بإمكاننا تقديم الطعن ضمن المهلة القانونية؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "publicada",
+          "en": "publicada",
+          "ar": "publicada"
+        },
+        {
+          "pt": "na",
+          "en": "na",
+          "ar": "na"
+        },
+        {
+          "pt": "será",
+          "en": "será",
+          "ar": "será"
+        },
+        {
+          "pt": "sentença",
+          "en": "sentença",
+          "ar": "sentença"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "foi",
+          "en": "foi",
+          "ar": "foi"
+        },
+        {
+          "pt": "sexta.",
+          "en": "sexta.",
+          "ar": "sexta."
+        },
+        {
+          "pt": "homologado,",
+          "en": "homologado,",
+          "ar": "homologado,"
+        },
+        {
+          "pt": "e",
+          "en": "e",
+          "ar": "e"
+        },
+        {
+          "pt": "laudo",
+          "en": "laudo",
+          "ar": "laudo"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        }
+      ],
+      "answer": "O laudo foi homologado, e a sentença será publicada na sexta.",
+      "accepted": [
+        "O laudo foi homologado, e a sentença será publicada na sexta."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'O laudo foi homologado, e a sentença será publicada na sexta.'",
+        "en": "The correct order: 'The expert report has been ratified, and the judgment will be published on Friday.'",
+        "ar": "الترتيب الصحيح: 'تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a cláusula",
+          "en": "clause",
+          "ar": "a cláusula"
+        },
+        {
+          "pt": "o réu",
+          "en": "defendant",
+          "ar": "o réu"
+        },
+        {
+          "pt": "o contrato",
+          "en": "sentence / judgment",
+          "ar": "o contrato"
+        },
+        {
+          "pt": "o juiz",
+          "en": "term / instrument",
+          "ar": "o juiz"
+        },
+        {
+          "pt": "a sentença",
+          "en": "judge",
+          "ar": "a sentença"
+        },
+        {
+          "pt": "o termo",
+          "en": "contract",
+          "ar": "o termo"
+        }
+      ],
+      "answer": "a cláusula::clause|o réu::defendant|o contrato::sentence / judgment|o juiz::term / instrument|a sentença::judge|o termo::contract",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "O laudo foi homologado, e a sentença será publicada na sexta.",
+          "en": "Then I will prepare the draft appeal, citing the relevant case law.",
+          "ar": "إذن سأعد مسودة الطعن مستشهدًا بالفقه القضائي ذي الصلة."
+        },
+        {
+          "pt": "Perfeito. Homologado o aditivo, protocolo tudo até quarta-feira.",
+          "en": "Perfect. Once the addendum is ratified, I will file everything by Wednesday.",
+          "ar": "تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة."
+        },
+        {
+          "pt": "Então preparo a minuta do recurso, citando a jurisprudência pertinente.",
+          "en": "The expert report has been ratified, and the judgment will be published on Friday.",
+          "ar": "ممتاز. بعد التصديق على الملحق، سأقدّم كل شيء حتى الأربعاء."
+        }
+      ],
+      "answer": "O laudo foi homologado, e a sentença será publicada na sexta.",
+      "accepted": [],
+      "audio": "O laudo foi homologado, e a sentença será publicada na sexta.",
+      "explanation": {
+        "pt": "Você ouviu: 'O laudo foi homologado, e a sentença será publicada na sexta.' — 'The expert report has been ratified, and the judgment will be published on Friday.'",
+        "en": "You heard: 'O laudo foi homologado, e a sentença será publicada na sexta.' — 'The expert report has been ratified, and the judgment will be published on Friday.'",
+        "ar": "سمعت: 'O laudo foi homologado, e a sentença será publicada na sexta.' — 'تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Compreendo. O recurso caberia ainda dentro do prazo legal?",
+          "en": "Then I will prepare the draft appeal, citing the relevant case law.",
+          "ar": "ممتاز. بعد التصديق على الملحق، سأقدّم كل شيء حتى الأربعاء."
+        },
+        {
+          "pt": "Então preparo a minuta do recurso, citando a jurisprudência pertinente.",
+          "en": "I see. Would the appeal still lie within the legal deadline?",
+          "ar": "إذن سأعد مسودة الطعن مستشهدًا بالفقه القضائي ذي الصلة."
+        },
+        {
+          "pt": "Perfeito. Homologado o aditivo, protocolo tudo até quarta-feira.",
+          "en": "Perfect. Once the addendum is ratified, I will file everything by Wednesday.",
+          "ar": "فهمت. هل يزال بإمكاننا تقديم الطعن ضمن المهلة القانونية؟"
+        }
+      ],
+      "answer": "Compreendo. O recurso caberia ainda dentro do prazo legal?",
+      "accepted": [],
+      "audio": "Compreendo. O recurso caberia ainda dentro do prazo legal?",
+      "explanation": {
+        "pt": "Você ouviu: 'Compreendo. O recurso caberia ainda dentro do prazo legal?' — 'I see. Would the appeal still lie within the legal deadline?'",
+        "en": "You heard: 'Compreendo. O recurso caberia ainda dentro do prazo legal?' — 'I see. Would the appeal still lie within the legal deadline?'",
+        "ar": "سمعت: 'Compreendo. O recurso caberia ainda dentro do prazo legal?' — 'فهمت. هل يزال بإمكاننا تقديم الطعن ضمن المهلة القانونية؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "sentença",
+          "en": "sentença",
+          "ar": "sentença"
+        },
+        {
+          "pt": "homologado,",
+          "en": "homologado,",
+          "ar": "homologado,"
+        },
+        {
+          "pt": "foi",
+          "en": "foi",
+          "ar": "foi"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "será",
+          "en": "será",
+          "ar": "será"
+        },
+        {
+          "pt": "e",
+          "en": "e",
+          "ar": "e"
+        },
+        {
+          "pt": "sexta.",
+          "en": "sexta.",
+          "ar": "sexta."
+        },
+        {
+          "pt": "na",
+          "en": "na",
+          "ar": "na"
+        },
+        {
+          "pt": "publicada",
+          "en": "publicada",
+          "ar": "publicada"
+        },
+        {
+          "pt": "laudo",
+          "en": "laudo",
+          "ar": "laudo"
+        }
+      ],
+      "answer": "O laudo foi homologado, e a sentença será publicada na sexta.",
+      "accepted": [
+        "O laudo foi homologado, e a sentença será publicada na sexta."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'O laudo foi homologado, e a sentença será publicada na sexta.'",
+        "en": "The correct order: 'The expert report has been ratified, and the judgment will be published on Friday.'",
+        "ar": "الترتيب الصحيح: 'تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o contrato",
+          "en": "clause",
+          "ar": "o contrato"
+        },
+        {
+          "pt": "a sentença",
+          "en": "judge",
+          "ar": "a sentença"
+        },
+        {
+          "pt": "o réu",
+          "en": "contract",
+          "ar": "o réu"
+        },
+        {
+          "pt": "o juiz",
+          "en": "defendant",
+          "ar": "o juiz"
+        },
+        {
+          "pt": "o termo",
+          "en": "sentence / judgment",
+          "ar": "o termo"
+        },
+        {
+          "pt": "a cláusula",
+          "en": "term / instrument",
+          "ar": "a cláusula"
+        }
+      ],
+      "answer": "o contrato::clause|a sentença::judge|o réu::contract|o juiz::defendant|o termo::sentence / judgment|a cláusula::term / instrument",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim, mas seria prudente aguardar a publicação da ementa.",
+          "en": "Perfect. Once the addendum is ratified, I will file everything by Wednesday.",
+          "ar": "نعم، لكن سيكون من الحكمة انتظار نشر الملخص."
+        },
+        {
+          "pt": "O laudo foi homologado, e a sentença será publicada na sexta.",
+          "en": "The expert report has been ratified, and the judgment will be published on Friday.",
+          "ar": "تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة."
+        },
+        {
+          "pt": "Perfeito. Homologado o aditivo, protocolo tudo até quarta-feira.",
+          "en": "Yes, but it would be prudent to wait for the publication of the headnote.",
+          "ar": "ممتاز. بعد التصديق على الملحق، سأقدّم كل شيء حتى الأربعاء."
+        }
+      ],
+      "answer": "O laudo foi homologado, e a sentença será publicada na sexta.",
+      "accepted": [],
+      "audio": "O laudo foi homologado, e a sentença será publicada na sexta.",
+      "explanation": {
+        "pt": "Você ouviu: 'O laudo foi homologado, e a sentença será publicada na sexta.' — 'The expert report has been ratified, and the judgment will be published on Friday.'",
+        "en": "You heard: 'O laudo foi homologado, e a sentença será publicada na sexta.' — 'The expert report has been ratified, and the judgment will be published on Friday.'",
+        "ar": "سمعت: 'O laudo foi homologado, e a sentença será publicada na sexta.' — 'تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Então preparo a minuta do recurso, citando a jurisprudência pertinente.",
+          "en": "I see. Would the appeal still lie within the legal deadline?",
+          "ar": "إذن سأعد مسودة الطعن مستشهدًا بالفقه القضائي ذي الصلة."
+        },
+        {
+          "pt": "Sim, mas seria prudente aguardar a publicação da ementa.",
+          "en": "Yes, but it would be prudent to wait for the publication of the headnote.",
+          "ar": "فهمت. هل يزال بإمكاننا تقديم الطعن ضمن المهلة القانونية؟"
+        },
+        {
+          "pt": "Compreendo. O recurso caberia ainda dentro do prazo legal?",
+          "en": "Then I will prepare the draft appeal, citing the relevant case law.",
+          "ar": "نعم، لكن سيكون من الحكمة انتظار نشر الملخص."
+        }
+      ],
+      "answer": "Compreendo. O recurso caberia ainda dentro do prazo legal?",
+      "accepted": [],
+      "audio": "Compreendo. O recurso caberia ainda dentro do prazo legal?",
+      "explanation": {
+        "pt": "Você ouviu: 'Compreendo. O recurso caberia ainda dentro do prazo legal?' — 'I see. Would the appeal still lie within the legal deadline?'",
+        "en": "You heard: 'Compreendo. O recurso caberia ainda dentro do prazo legal?' — 'I see. Would the appeal still lie within the legal deadline?'",
+        "ar": "سمعت: 'Compreendo. O recurso caberia ainda dentro do prazo legal?' — 'فهمت. هل يزال بإمكاننا تقديم الطعن ضمن المهلة القانونية؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "sentença",
+          "en": "sentença",
+          "ar": "sentença"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "na",
+          "en": "na",
+          "ar": "na"
+        },
+        {
+          "pt": "publicada",
+          "en": "publicada",
+          "ar": "publicada"
+        },
+        {
+          "pt": "será",
+          "en": "será",
+          "ar": "será"
+        },
+        {
+          "pt": "sexta.",
+          "en": "sexta.",
+          "ar": "sexta."
+        },
+        {
+          "pt": "e",
+          "en": "e",
+          "ar": "e"
+        },
+        {
+          "pt": "homologado,",
+          "en": "homologado,",
+          "ar": "homologado,"
+        },
+        {
+          "pt": "laudo",
+          "en": "laudo",
+          "ar": "laudo"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "foi",
+          "en": "foi",
+          "ar": "foi"
+        }
+      ],
+      "answer": "O laudo foi homologado, e a sentença será publicada na sexta.",
+      "accepted": [
+        "O laudo foi homologado, e a sentença será publicada na sexta."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'O laudo foi homologado, e a sentença será publicada na sexta.'",
+        "en": "The correct order: 'The expert report has been ratified, and the judgment will be published on Friday.'",
+        "ar": "الترتيب الصحيح: 'تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o termo",
+          "en": "judge",
+          "ar": "o termo"
+        },
+        {
+          "pt": "o juiz",
+          "en": "defendant",
+          "ar": "o juiz"
+        },
+        {
+          "pt": "a sentença",
+          "en": "clause",
+          "ar": "a sentença"
+        },
+        {
+          "pt": "o contrato",
+          "en": "contract",
+          "ar": "o contrato"
+        },
+        {
+          "pt": "a cláusula",
+          "en": "term / instrument",
+          "ar": "a cláusula"
+        },
+        {
+          "pt": "o réu",
+          "en": "sentence / judgment",
+          "ar": "o réu"
+        }
+      ],
+      "answer": "o termo::judge|o juiz::defendant|a sentença::clause|o contrato::contract|a cláusula::term / instrument|o réu::sentence / judgment",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Compreendo. O recurso caberia ainda dentro do prazo legal?",
+          "en": "Then I will prepare the draft appeal, citing the relevant case law.",
+          "ar": "تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة."
+        },
+        {
+          "pt": "Então preparo a minuta do recurso, citando a jurisprudência pertinente.",
+          "en": "The expert report has been ratified, and the judgment will be published on Friday.",
+          "ar": "إذن سأعد مسودة الطعن مستشهدًا بالفقه القضائي ذي الصلة."
+        },
+        {
+          "pt": "O laudo foi homologado, e a sentença será publicada na sexta.",
+          "en": "I see. Would the appeal still lie within the legal deadline?",
+          "ar": "فهمت. هل يزال بإمكاننا تقديم الطعن ضمن المهلة القانونية؟"
+        }
+      ],
+      "answer": "O laudo foi homologado, e a sentença será publicada na sexta.",
+      "accepted": [],
+      "audio": "O laudo foi homologado, e a sentença será publicada na sexta.",
+      "explanation": {
+        "pt": "Você ouviu: 'O laudo foi homologado, e a sentença será publicada na sexta.' — 'The expert report has been ratified, and the judgment will be published on Friday.'",
+        "en": "You heard: 'O laudo foi homologado, e a sentença será publicada na sexta.' — 'The expert report has been ratified, and the judgment will be published on Friday.'",
+        "ar": "سمعت: 'O laudo foi homologado, e a sentença será publicada na sexta.' — 'تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Compreendo. O recurso caberia ainda dentro do prazo legal?",
+          "en": "We would also like to attach the addendum to the original contract.",
+          "ar": "نود أيضًا إرفاق الملحق التعديلي بالعقد الأصلي."
+        },
+        {
+          "pt": "Perfeito. Homologado o aditivo, protocolo tudo até quarta-feira.",
+          "en": "Perfect. Once the addendum is ratified, I will file everything by Wednesday.",
+          "ar": "ممتاز. بعد التصديق على الملحق، سأقدّم كل شيء حتى الأربعاء."
+        },
+        {
+          "pt": "Gostaríamos também de anexar o aditivo ao contrato original.",
+          "en": "I see. Would the appeal still lie within the legal deadline?",
+          "ar": "فهمت. هل يزال بإمكاننا تقديم الطعن ضمن المهلة القانونية؟"
+        }
+      ],
+      "answer": "Compreendo. O recurso caberia ainda dentro do prazo legal?",
+      "accepted": [],
+      "audio": "Compreendo. O recurso caberia ainda dentro do prazo legal?",
+      "explanation": {
+        "pt": "Você ouviu: 'Compreendo. O recurso caberia ainda dentro do prazo legal?' — 'I see. Would the appeal still lie within the legal deadline?'",
+        "en": "You heard: 'Compreendo. O recurso caberia ainda dentro do prazo legal?' — 'I see. Would the appeal still lie within the legal deadline?'",
+        "ar": "سمعت: 'Compreendo. O recurso caberia ainda dentro do prazo legal?' — 'فهمت. هل يزال بإمكاننا تقديم الطعن ضمن المهلة القانونية؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "será",
+          "en": "será",
+          "ar": "será"
+        },
+        {
+          "pt": "sexta.",
+          "en": "sexta.",
+          "ar": "sexta."
+        },
+        {
+          "pt": "homologado,",
+          "en": "homologado,",
+          "ar": "homologado,"
+        },
+        {
+          "pt": "sentença",
+          "en": "sentença",
+          "ar": "sentença"
+        },
+        {
+          "pt": "foi",
+          "en": "foi",
+          "ar": "foi"
+        },
+        {
+          "pt": "na",
+          "en": "na",
+          "ar": "na"
+        },
+        {
+          "pt": "publicada",
+          "en": "publicada",
+          "ar": "publicada"
+        },
+        {
+          "pt": "e",
+          "en": "e",
+          "ar": "e"
+        },
+        {
+          "pt": "laudo",
+          "en": "laudo",
+          "ar": "laudo"
+        }
+      ],
+      "answer": "O laudo foi homologado, e a sentença será publicada na sexta.",
+      "accepted": [
+        "O laudo foi homologado, e a sentença será publicada na sexta."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'O laudo foi homologado, e a sentença será publicada na sexta.'",
+        "en": "The correct order: 'The expert report has been ratified, and the judgment will be published on Friday.'",
+        "ar": "الترتيب الصحيح: 'تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o termo",
+          "en": "contract",
+          "ar": "o termo"
+        },
+        {
+          "pt": "a cláusula",
+          "en": "term / instrument",
+          "ar": "a cláusula"
+        },
+        {
+          "pt": "o juiz",
+          "en": "clause",
+          "ar": "o juiz"
+        },
+        {
+          "pt": "a sentença",
+          "en": "sentence / judgment",
+          "ar": "a sentença"
+        },
+        {
+          "pt": "o réu",
+          "en": "defendant",
+          "ar": "o réu"
+        },
+        {
+          "pt": "o contrato",
+          "en": "judge",
+          "ar": "o contrato"
+        }
+      ],
+      "answer": "o termo::contract|a cláusula::term / instrument|o juiz::clause|a sentença::sentence / judgment|o réu::defendant|o contrato::judge",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Perfeito. Homologado o aditivo, protocolo tudo até quarta-feira.",
+          "en": "The expert report has been ratified, and the judgment will be published on Friday.",
+          "ar": "ممتاز. بعد التصديق على الملحق، سأقدّم كل شيء حتى الأربعاء."
+        },
+        {
+          "pt": "Então preparo a minuta do recurso, citando a jurisprudência pertinente.",
+          "en": "Perfect. Once the addendum is ratified, I will file everything by Wednesday.",
+          "ar": "تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة."
+        },
+        {
+          "pt": "O laudo foi homologado, e a sentença será publicada na sexta.",
+          "en": "Then I will prepare the draft appeal, citing the relevant case law.",
+          "ar": "إذن سأعد مسودة الطعن مستشهدًا بالفقه القضائي ذي الصلة."
+        }
+      ],
+      "answer": "O laudo foi homologado, e a sentença será publicada na sexta.",
+      "accepted": [],
+      "audio": "O laudo foi homologado, e a sentença será publicada na sexta.",
+      "explanation": {
+        "pt": "Você ouviu: 'O laudo foi homologado, e a sentença será publicada na sexta.' — 'The expert report has been ratified, and the judgment will be published on Friday.'",
+        "en": "You heard: 'O laudo foi homologado, e a sentença será publicada na sexta.' — 'The expert report has been ratified, and the judgment will be published on Friday.'",
+        "ar": "سمعت: 'O laudo foi homologado, e a sentença será publicada na sexta.' — 'تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "O laudo foi homologado, e a sentença será publicada na sexta.",
+          "en": "I see. Would the appeal still lie within the legal deadline?",
+          "ar": "نود أيضًا إرفاق الملحق التعديلي بالعقد الأصلي."
+        },
+        {
+          "pt": "Gostaríamos também de anexar o aditivo ao contrato original.",
+          "en": "The expert report has been ratified, and the judgment will be published on Friday.",
+          "ar": "فهمت. هل يزال بإمكاننا تقديم الطعن ضمن المهلة القانونية؟"
+        },
+        {
+          "pt": "Compreendo. O recurso caberia ainda dentro do prazo legal?",
+          "en": "We would also like to attach the addendum to the original contract.",
+          "ar": "تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة."
+        }
+      ],
+      "answer": "Compreendo. O recurso caberia ainda dentro do prazo legal?",
+      "accepted": [],
+      "audio": "Compreendo. O recurso caberia ainda dentro do prazo legal?",
+      "explanation": {
+        "pt": "Você ouviu: 'Compreendo. O recurso caberia ainda dentro do prazo legal?' — 'I see. Would the appeal still lie within the legal deadline?'",
+        "en": "You heard: 'Compreendo. O recurso caberia ainda dentro do prazo legal?' — 'I see. Would the appeal still lie within the legal deadline?'",
+        "ar": "سمعت: 'Compreendo. O recurso caberia ainda dentro do prazo legal?' — 'فهمت. هل يزال بإمكاننا تقديم الطعن ضمن المهلة القانونية؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "laudo",
+          "en": "laudo",
+          "ar": "laudo"
+        },
+        {
+          "pt": "sexta.",
+          "en": "sexta.",
+          "ar": "sexta."
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "publicada",
+          "en": "publicada",
+          "ar": "publicada"
+        },
+        {
+          "pt": "foi",
+          "en": "foi",
+          "ar": "foi"
+        },
+        {
+          "pt": "na",
+          "en": "na",
+          "ar": "na"
+        },
+        {
+          "pt": "homologado,",
+          "en": "homologado,",
+          "ar": "homologado,"
+        },
+        {
+          "pt": "sentença",
+          "en": "sentença",
+          "ar": "sentença"
+        },
+        {
+          "pt": "será",
+          "en": "será",
+          "ar": "será"
+        },
+        {
+          "pt": "e",
+          "en": "e",
+          "ar": "e"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        }
+      ],
+      "answer": "O laudo foi homologado, e a sentença será publicada na sexta.",
+      "accepted": [
+        "O laudo foi homologado, e a sentença será publicada na sexta."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'O laudo foi homologado, e a sentença será publicada na sexta.'",
+        "en": "The correct order: 'The expert report has been ratified, and the judgment will be published on Friday.'",
+        "ar": "الترتيب الصحيح: 'تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o contrato",
+          "en": "judge",
+          "ar": "o contrato"
+        },
+        {
+          "pt": "o réu",
+          "en": "sentence / judgment",
+          "ar": "o réu"
+        },
+        {
+          "pt": "a cláusula",
+          "en": "term / instrument",
+          "ar": "a cláusula"
+        },
+        {
+          "pt": "a sentença",
+          "en": "defendant",
+          "ar": "a sentença"
+        },
+        {
+          "pt": "o termo",
+          "en": "contract",
+          "ar": "o termo"
+        },
+        {
+          "pt": "o juiz",
+          "en": "clause",
+          "ar": "o juiz"
+        }
+      ],
+      "answer": "o contrato::judge|o réu::sentence / judgment|a cláusula::term / instrument|a sentença::defendant|o termo::contract|o juiz::clause",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Perfeito. Homologado o aditivo, protocolo tudo até quarta-feira.",
+          "en": "Yes, but it would be prudent to wait for the publication of the headnote.",
+          "ar": "تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة."
+        },
+        {
+          "pt": "O laudo foi homologado, e a sentença será publicada na sexta.",
+          "en": "Perfect. Once the addendum is ratified, I will file everything by Wednesday.",
+          "ar": "نعم، لكن سيكون من الحكمة انتظار نشر الملخص."
+        },
+        {
+          "pt": "Sim, mas seria prudente aguardar a publicação da ementa.",
+          "en": "The expert report has been ratified, and the judgment will be published on Friday.",
+          "ar": "ممتاز. بعد التصديق على الملحق، سأقدّم كل شيء حتى الأربعاء."
+        }
+      ],
+      "answer": "O laudo foi homologado, e a sentença será publicada na sexta.",
+      "accepted": [],
+      "audio": "O laudo foi homologado, e a sentença será publicada na sexta.",
+      "explanation": {
+        "pt": "Você ouviu: 'O laudo foi homologado, e a sentença será publicada na sexta.' — 'The expert report has been ratified, and the judgment will be published on Friday.'",
+        "en": "You heard: 'O laudo foi homologado, e a sentença será publicada na sexta.' — 'The expert report has been ratified, and the judgment will be published on Friday.'",
+        "ar": "سمعت: 'O laudo foi homologado, e a sentença será publicada na sexta.' — 'تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Compreendo. O recurso caberia ainda dentro do prazo legal?",
+          "en": "I see. Would the appeal still lie within the legal deadline?",
+          "ar": "تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة."
+        },
+        {
+          "pt": "O laudo foi homologado, e a sentença será publicada na sexta.",
+          "en": "Perfect. Once the addendum is ratified, I will file everything by Wednesday.",
+          "ar": "فهمت. هل يزال بإمكاننا تقديم الطعن ضمن المهلة القانونية؟"
+        },
+        {
+          "pt": "Perfeito. Homologado o aditivo, protocolo tudo até quarta-feira.",
+          "en": "The expert report has been ratified, and the judgment will be published on Friday.",
+          "ar": "ممتاز. بعد التصديق على الملحق، سأقدّم كل شيء حتى الأربعاء."
+        }
+      ],
+      "answer": "Compreendo. O recurso caberia ainda dentro do prazo legal?",
+      "accepted": [],
+      "audio": "Compreendo. O recurso caberia ainda dentro do prazo legal?",
+      "explanation": {
+        "pt": "Você ouviu: 'Compreendo. O recurso caberia ainda dentro do prazo legal?' — 'I see. Would the appeal still lie within the legal deadline?'",
+        "en": "You heard: 'Compreendo. O recurso caberia ainda dentro do prazo legal?' — 'I see. Would the appeal still lie within the legal deadline?'",
+        "ar": "سمعت: 'Compreendo. O recurso caberia ainda dentro do prazo legal?' — 'فهمت. هل يزال بإمكاننا تقديم الطعن ضمن المهلة القانونية؟'"
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'contract'",
+        "en": "Type in Portuguese: 'contract'",
+        "ar": "اكتب بالبرتغالية: 'العقد'"
+      },
+      "options": [],
+      "answer": "o contrato",
+      "accepted": [
+        "o contrato"
+      ],
+      "explanation": {
+        "pt": "'o contrato' significa 'contract'.",
+        "en": "'o contrato' means 'contract'.",
+        "ar": "'$o contrato' بالعربية: '$العقد'."
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'clause'",
+        "en": "Type in Portuguese: 'clause'",
+        "ar": "اكتب بالبرتغالية: 'البند'"
+      },
+      "options": [],
+      "answer": "a cláusula",
+      "accepted": [
+        "a cláusula"
+      ],
+      "explanation": {
+        "pt": "'a cláusula' significa 'clause'.",
+        "en": "'a cláusula' means 'clause'.",
+        "ar": "'$a cláusula' بالعربية: '$البند'."
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "O laudo foi homologado, e a sentença será publicada na sexta.",
+          "en": "O laudo foi homologado, e a sentença será publicada na sexta.",
+          "ar": "O laudo foi homologado, e a sentença será publicada na sexta."
+        },
+        {
+          "pt": "Compreendo. O recurso caberia ainda dentro do prazo legal?",
+          "en": "Compreendo. O recurso caberia ainda dentro do prazo legal?",
+          "ar": "Compreendo. O recurso caberia ainda dentro do prazo legal?"
+        },
+        {
+          "pt": "Gostaríamos também de anexar o aditivo ao contrato original.",
+          "en": "Gostaríamos também de anexar o aditivo ao contrato original.",
+          "ar": "Gostaríamos também de anexar o aditivo ao contrato original."
+        }
+      ],
+      "answer": "O laudo foi homologado, e a sentença será publicada na sexta.",
+      "accepted": [],
+      "audio": "O laudo foi homologado, e a sentença será publicada na sexta.",
+      "explanation": {
+        "pt": "Você ouviu: 'O laudo foi homologado, e a sentença será publicada na sexta.'",
+        "en": "You heard: 'O laudo foi homologado, e a sentença será publicada na sexta.'",
+        "ar": "سمعت: 'O laudo foi homologado, e a sentença será publicada na sexta.'"
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "O laudo foi homologado, e a sentença será publicada na sexta.",
+          "en": "O laudo foi homologado, e a sentença será publicada na sexta.",
+          "ar": "O laudo foi homologado, e a sentença será publicada na sexta."
+        },
+        {
+          "pt": "Perfeito. Homologado o aditivo, protocolo tudo até quarta-feira.",
+          "en": "Perfeito. Homologado o aditivo, protocolo tudo até quarta-feira.",
+          "ar": "Perfeito. Homologado o aditivo, protocolo tudo até quarta-feira."
+        },
+        {
+          "pt": "Compreendo. O recurso caberia ainda dentro do prazo legal?",
+          "en": "Compreendo. O recurso caberia ainda dentro do prazo legal?",
+          "ar": "Compreendo. O recurso caberia ainda dentro do prazo legal?"
+        }
+      ],
+      "answer": "Compreendo. O recurso caberia ainda dentro do prazo legal?",
+      "accepted": [],
+      "audio": "Compreendo. O recurso caberia ainda dentro do prazo legal?",
+      "explanation": {
+        "pt": "Você ouviu: 'Compreendo. O recurso caberia ainda dentro do prazo legal?'",
+        "en": "You heard: 'Compreendo. O recurso caberia ainda dentro do prazo legal?'",
+        "ar": "سمعت: 'Compreendo. O recurso caberia ainda dentro do prazo legal?'"
+      }
+    },
+    {
+      "type": "dictation",
+      "prompt": {
+        "pt": "Ouça e escreva o que você ouviu.",
+        "en": "Listen and type what you hear.",
+        "ar": "استمع واكتب ما سمعته."
+      },
+      "options": [],
+      "answer": "O laudo foi homologado, e a sentença será publicada na sexta.",
+      "accepted": [],
+      "audio": "O laudo foi homologado, e a sentença será publicada na sexta.",
+      "explanation": {
+        "pt": "A frase correta: 'O laudo foi homologado, e a sentença será publicada na sexta.'",
+        "en": "The correct sentence: 'O laudo foi homologado, e a sentença será publicada na sexta.'",
+        "ar": "الجملة الصحيحة: 'O laudo foi homologado, e a sentença será publicada na sexta.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "será",
+          "en": "será",
+          "ar": "será"
+        },
+        {
+          "pt": "sexta.",
+          "en": "sexta.",
+          "ar": "sexta."
+        },
+        {
+          "pt": "homologado,",
+          "en": "homologado,",
+          "ar": "homologado,"
+        },
+        {
+          "pt": "publicada",
+          "en": "publicada",
+          "ar": "publicada"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "e",
+          "en": "e",
+          "ar": "e"
+        },
+        {
+          "pt": "na",
+          "en": "na",
+          "ar": "na"
+        },
+        {
+          "pt": "laudo",
+          "en": "laudo",
+          "ar": "laudo"
+        },
+        {
+          "pt": "sentença",
+          "en": "sentença",
+          "ar": "sentença"
+        },
+        {
+          "pt": "foi",
+          "en": "foi",
+          "ar": "foi"
+        }
+      ],
+      "answer": "O laudo foi homologado, e a sentença será publicada na sexta.",
+      "accepted": [
+        "O laudo foi homologado, e a sentença será publicada na sexta."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'O laudo foi homologado, e a sentença será publicada na sexta.'",
+        "en": "The correct order: 'The expert report has been ratified, and the judgment will be published on Friday.'",
+        "ar": "الترتيب الصحيح: 'تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o contrato",
+          "en": "judge",
+          "ar": "o contrato"
+        },
+        {
+          "pt": "a sentença",
+          "en": "clause",
+          "ar": "a sentença"
+        },
+        {
+          "pt": "a cláusula",
+          "en": "defendant",
+          "ar": "a cláusula"
+        },
+        {
+          "pt": "o juiz",
+          "en": "sentence / judgment",
+          "ar": "o juiz"
+        },
+        {
+          "pt": "o termo",
+          "en": "contract",
+          "ar": "o termo"
+        },
+        {
+          "pt": "o réu",
+          "en": "term / instrument",
+          "ar": "o réu"
+        }
+      ],
+      "answer": "o contrato::judge|a sentença::clause|a cláusula::defendant|o juiz::sentence / judgment|o termo::contract|o réu::term / instrument",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Compreendo. O recurso caberia ainda dentro do prazo legal?",
+          "en": "The expert report has been ratified, and the judgment will be published on Friday.",
+          "ar": "فهمت. هل يزال بإمكاننا تقديم الطعن ضمن المهلة القانونية؟"
+        },
+        {
+          "pt": "Então preparo a minuta do recurso, citando a jurisprudência pertinente.",
+          "en": "I see. Would the appeal still lie within the legal deadline?",
+          "ar": "إذن سأعد مسودة الطعن مستشهدًا بالفقه القضائي ذي الصلة."
+        },
+        {
+          "pt": "O laudo foi homologado, e a sentença será publicada na sexta.",
+          "en": "Then I will prepare the draft appeal, citing the relevant case law.",
+          "ar": "تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة."
+        }
+      ],
+      "answer": "O laudo foi homologado, e a sentença será publicada na sexta.",
+      "accepted": [],
+      "audio": "O laudo foi homologado, e a sentença será publicada na sexta.",
+      "explanation": {
+        "pt": "Você ouviu: 'O laudo foi homologado, e a sentença será publicada na sexta.' — 'The expert report has been ratified, and the judgment will be published on Friday.'",
+        "en": "You heard: 'O laudo foi homologado, e a sentença será publicada na sexta.' — 'The expert report has been ratified, and the judgment will be published on Friday.'",
+        "ar": "سمعت: 'O laudo foi homologado, e a sentença será publicada na sexta.' — 'تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Então preparo a minuta do recurso, citando a jurisprudência pertinente.",
+          "en": "I see. Would the appeal still lie within the legal deadline?",
+          "ar": "إذن سأعد مسودة الطعن مستشهدًا بالفقه القضائي ذي الصلة."
+        },
+        {
+          "pt": "Perfeito. Homologado o aditivo, protocolo tudo até quarta-feira.",
+          "en": "Then I will prepare the draft appeal, citing the relevant case law.",
+          "ar": "ممتاز. بعد التصديق على الملحق، سأقدّم كل شيء حتى الأربعاء."
+        },
+        {
+          "pt": "Compreendo. O recurso caberia ainda dentro do prazo legal?",
+          "en": "Perfect. Once the addendum is ratified, I will file everything by Wednesday.",
+          "ar": "فهمت. هل يزال بإمكاننا تقديم الطعن ضمن المهلة القانونية؟"
+        }
+      ],
+      "answer": "Compreendo. O recurso caberia ainda dentro do prazo legal?",
+      "accepted": [],
+      "audio": "Compreendo. O recurso caberia ainda dentro do prazo legal?",
+      "explanation": {
+        "pt": "Você ouviu: 'Compreendo. O recurso caberia ainda dentro do prazo legal?' — 'I see. Would the appeal still lie within the legal deadline?'",
+        "en": "You heard: 'Compreendo. O recurso caberia ainda dentro do prazo legal?' — 'I see. Would the appeal still lie within the legal deadline?'",
+        "ar": "سمعت: 'Compreendo. O recurso caberia ainda dentro do prazo legal?' — 'فهمت. هل يزال بإمكاننا تقديم الطعن ضمن المهلة القانونية؟'"
+      }
+    }
+  ],
+  "speaking": {
+    "title": {
+      "pt": "Fale Agora — Ouça e Repita",
+      "en": "Speak Now — Listen and Repeat",
+      "ar": "تحدث الآن — استمع وكرر"
+    },
+    "phrases": [
+      {
+        "pt": "O laudo foi homologado, e a sentença será publicada na sexta.",
+        "en": "The expert report has been ratified, and the judgment will be published on Friday.",
+        "ar": "تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة."
+      },
+      {
+        "pt": "Compreendo. O recurso caberia ainda dentro do prazo legal?",
+        "en": "I see. Would the appeal still lie within the legal deadline?",
+        "ar": "فهمت. هل يزال بإمكاننا تقديم الطعن ضمن المهلة القانونية؟"
+      },
+      {
+        "pt": "Sim, mas seria prudente aguardar a publicação da ementa.",
+        "en": "Yes, but it would be prudent to wait for the publication of the headnote.",
+        "ar": "نعم، لكن سيكون من الحكمة انتظار نشر الملخص."
+      },
+      {
+        "pt": "Então preparo a minuta do recurso, citando a jurisprudência pertinente.",
+        "en": "Then I will prepare the draft appeal, citing the relevant case law.",
+        "ar": "إذن سأعد مسودة الطعن مستشهدًا بالفقه القضائي ذي الصلة."
+      },
+      {
+        "pt": "Gostaríamos também de anexar o aditivo ao contrato original.",
+        "en": "We would also like to attach the addendum to the original contract.",
+        "ar": "نود أيضًا إرفاق الملحق التعديلي بالعقد الأصلي."
+      },
+      {
+        "pt": "Perfeito. Homologado o aditivo, protocolo tudo até quarta-feira.",
+        "en": "Perfect. Once the addendum is ratified, I will file everything by Wednesday.",
+        "ar": "ممتاز. بعد التصديق على الملحق، سأقدّم كل شيء حتى الأربعاء."
+      },
+      {
+        "pt": "o contrato",
+        "en": "contract",
+        "ar": "العقد"
+      },
+      {
+        "pt": "a cláusula",
+        "en": "clause",
+        "ar": "البند"
+      },
+      {
+        "pt": "o termo",
+        "en": "term / instrument",
+        "ar": "المصطلح / الوثيقة"
+      }
+    ]
+  },
+  "cultural_tips": {
+    "pt": "",
+    "en": "",
+    "ar": ""
+  }
+}

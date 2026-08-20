@@ -1,0 +1,2119 @@
+{
+  "id": "B2-05",
+  "level": "B2",
+  "level_name": {
+    "pt": "Intermediário Alto",
+    "en": "Upper-Intermediate",
+    "ar": "متوسط متقدم"
+  },
+  "title": {
+    "pt": "Subjuntivo II (Imperfeito)",
+    "en": "Subjunctive II (Imperfect)",
+    "ar": "صيغة الماضي الشرطي"
+  },
+  "objectives": [
+    {
+      "pt": "Formar o imperfeito do subjuntivo",
+      "en": "Form the imperfect subjunctive",
+      "ar": "تكوين صيغة الماضي الناقص من الشرط"
+    },
+    {
+      "pt": "Usá-lo em condições hipotéticas com 'se'",
+      "en": "Use it in hypothetical conditions with 'se'",
+      "ar": "استخدامه في الشروط الافتراضية مع 'se'"
+    },
+    {
+      "pt": "Empregá-lo com 'como se', 'talvez' e desejos",
+      "en": "Use it with 'como se', 'talvez' and wishes",
+      "ar": "استخدامه مع 'como se' و'talvez' والتمنيات"
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "se eu pudesse",
+      "ipa": "/si ew puˈdɛ.si/",
+      "en": "if I could",
+      "ar": "لو استطعت",
+      "example": {
+        "pt": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
+        "en": "If you could live anywhere in the world, where would you live?",
+        "ar": "لو استطعت العيش في أي مكان في العالم، أين كنت ستعيش؟"
+      }
+    },
+    {
+      "pt": "se eu tivesse",
+      "ipa": "/si ew tʃiˈvɛ.si/",
+      "en": "if I had",
+      "ar": "لو كان لدي",
+      "example": {
+        "pt": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
+        "en": "If you could live anywhere in the world, where would you live?",
+        "ar": "لو استطعت العيش في أي مكان في العالم، أين كنت ستعيش؟"
+      }
+    },
+    {
+      "pt": "se eu fosse",
+      "ipa": "/si ew ˈfɔ.si/",
+      "en": "if I were",
+      "ar": "لو كنت",
+      "example": {
+        "pt": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
+        "en": "If you could live anywhere in the world, where would you live?",
+        "ar": "لو استطعت العيش في أي مكان في العالم، أين كنت ستعيش؟"
+      }
+    },
+    {
+      "pt": "falasse",
+      "ipa": "/faˈla.si/",
+      "en": "(that I) spoke",
+      "ar": "(أن) أتكلم",
+      "example": {
+        "pt": "Eu gostaria que você falasse com ele.",
+        "en": "I would like you to speak with him.",
+        "ar": "كنت أود أن تتحدث معه."
+      }
+    },
+    {
+      "pt": "soubesse",
+      "ipa": "/sowˈbɛ.si/",
+      "en": "(that I) knew",
+      "ar": "(أن) أعرف",
+      "example": {
+        "pt": "Ele age como se soubesse tudo.",
+        "en": "He acts as if he knew everything.",
+        "ar": "يتصرف كما لو كان يعرف كل شيء."
+      }
+    },
+    {
+      "pt": "quisesse",
+      "ipa": "/kiˈzɛ.si/",
+      "en": "(that I) wanted",
+      "ar": "(أن) أريد",
+      "example": {
+        "pt": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
+        "en": "If you could live anywhere in the world, where would you live?",
+        "ar": "لو استطعت العيش في أي مكان في العالم، أين كنت ستعيش؟"
+      }
+    },
+    {
+      "pt": "pudesse",
+      "ipa": "/puˈdɛ.si/",
+      "en": "(that I) could",
+      "ar": "(أن) أستطيع",
+      "example": {
+        "pt": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
+        "en": "If you could live anywhere in the world, where would you live?",
+        "ar": "لو استطعت العيش في أي مكان في العالم، أين كنت ستعيش؟"
+      }
+    },
+    {
+      "pt": "tivesse tempo",
+      "ipa": "/tʃiˈvɛ.si ˈtẽ.pu/",
+      "en": "had time",
+      "ar": "كان لديه وقت",
+      "example": {
+        "pt": "Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.",
+        "en": "I would choose Rio de Janeiro, if I had the chance.",
+        "ar": "سأختار ريو دي جانيرو، لو سنحت لي الفرصة."
+      }
+    },
+    {
+      "pt": "preferisse",
+      "ipa": "/pɾe.feˈɾi.si/",
+      "en": "(that I) preferred",
+      "ar": "(أن) أفضل",
+      "example": {
+        "pt": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
+        "en": "If you could live anywhere in the world, where would you live?",
+        "ar": "لو استطعت العيش في أي مكان في العالم، أين كنت ستعيش؟"
+      }
+    },
+    {
+      "pt": "fizesse",
+      "ipa": "/fiˈzɛ.si/",
+      "en": "(that I) did",
+      "ar": "(أن) أفعل",
+      "example": {
+        "pt": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
+        "en": "If you could live anywhere in the world, where would you live?",
+        "ar": "لو استطعت العيش في أي مكان في العالم، أين كنت ستعيش؟"
+      }
+    },
+    {
+      "pt": "gostaria",
+      "ipa": "/ɡos.taˈɾi.a/",
+      "en": "would like",
+      "ar": "كنت أرغب",
+      "example": {
+        "pt": "Eu também gostaria de morar perto do mar.",
+        "en": "I would also like to live near the sea.",
+        "ar": "أود أيضًا أن أسكن قرب البحر."
+      }
+    },
+    {
+      "pt": "faria",
+      "ipa": "/faˈɾi.a/",
+      "en": "would do",
+      "ar": "كنت أفعل",
+      "example": {
+        "pt": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
+        "en": "If you could live anywhere in the world, where would you live?",
+        "ar": "لو استطعت العيش في أي مكان في العالم، أين كنت ستعيش؟"
+      }
+    },
+    {
+      "pt": "como se",
+      "ipa": "/ˈkõ.mu si/",
+      "en": "as if",
+      "ar": "كما لو",
+      "example": {
+        "pt": "Ele age como se soubesse tudo.",
+        "en": "He acts as if he knew everything.",
+        "ar": "يتصرف كما لو كان يعرف كل شيء."
+      }
+    },
+    {
+      "pt": "embora",
+      "ipa": "/ẽˈbɔ.ɾa/",
+      "en": "although",
+      "ar": "على الرغم من أن",
+      "example": {
+        "pt": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
+        "en": "If you could live anywhere in the world, where would you live?",
+        "ar": "لو استطعت العيش في أي مكان في العالم، أين كنت ستعيش؟"
+      }
+    },
+    {
+      "pt": "talvez fosse",
+      "ipa": "/tawˈvejs ˈfɔ.si/",
+      "en": "maybe it were",
+      "ar": "ربما كان",
+      "example": {
+        "pt": "Talvez fosse melhor ficar no Brasil mesmo.",
+        "en": "Maybe it would be better to stay in Brazil after all.",
+        "ar": "ربما كان من الأفضل البقاء في البرازيل أصلًا."
+      }
+    },
+    {
+      "pt": "se fosse você",
+      "ipa": "/si ˈfɔ.si voˈse/",
+      "en": "if I were you",
+      "ar": "لو كنت مكانك",
+      "example": {
+        "pt": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
+        "en": "If you could live anywhere in the world, where would you live?",
+        "ar": "لو استطعت العيش في أي مكان في العالم، أين كنت ستعيش؟"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "title": {
+        "pt": "Formação do Imperfeito do Subjuntivo",
+        "en": "Forming the Imperfect Subjunctive",
+        "ar": "تكوين الماضي الناقص الشرطي"
+      },
+      "explanation": {
+        "pt": "Pegue a terceira pessoa do plural do pretérito perfeito (eles falaram), tire -am e acrescente: -sse, -sses, -sse, -ssemos, -sseis, -ssem. Exemplos: falaram → falasse; comeram → comesse; partiram → partisse; tiveram → tivesse.",
+        "en": "Take the third person plural of the simple past (eles falaram), drop -am and add: -sse, -sses, -sse, -ssemos, -sseis, -ssem. Examples: falaram → falasse; comeram → comesse; partiram → partisse; tiveram → tivesse.",
+        "ar": "خذ صيغة الجمع الثالثة من الماضي التام (eles falaram)، واحذف -am وأضف: -sse، -sses، -sse، -ssemos، -sseis، -ssem. أمثلة: falaram ← falasse؛ comeram ← comesse؛ partiram ← partisse؛ tiveram ← tivesse."
+      },
+      "examples": [
+        {
+          "pt": "falaram → (que eu) falasse",
+          "en": "they spoke → that I spoke",
+          "ar": "تحدثوا ← أن أتكلم"
+        },
+        {
+          "pt": "comeram → (que eu) comesse",
+          "en": "they ate → that I ate",
+          "ar": "أكلوا ← أن آكل"
+        },
+        {
+          "pt": "partiram → (que eu) partisse",
+          "en": "they left → that I left",
+          "ar": "غادروا ← أن أغادر"
+        },
+        {
+          "pt": "tiveram → (que eu) tivesse",
+          "en": "they had → that I had",
+          "ar": "كان لديهم ← أن يكون لدي"
+        }
+      ]
+    },
+    {
+      "title": {
+        "pt": "Usos do Imperfeito do Subjuntivo",
+        "en": "Uses of the Imperfect Subjunctive",
+        "ar": "استخدامات الماضي الناقص الشرطي"
+      },
+      "explanation": {
+        "pt": "Usamos o imperfeito do subjuntivo em condições hipotéticas (se + imperfeito do subjuntivo + condicional), depois de 'como se', depois de 'talvez' em contextos passados e após verbos no passado que exigem subjuntivo.",
+        "en": "We use the imperfect subjunctive in hypothetical conditions (se + imperfect subjunctive + conditional), after 'como se', after 'talvez' in past contexts and after past-tense verbs that require the subjunctive.",
+        "ar": "نستخدم الماضي الناقص الشرطي في الشروط الافتراضية (se + الماضي الناقص الشرطي + الشرطية)، وبعد 'como se'، وبعد 'talvez' في سياقات الماضي، وبعد الأفعال الماضية التي تتطلب صيغة الشرط."
+      },
+      "examples": [
+        {
+          "pt": "Se eu tivesse mais dinheiro, viajaria pelo mundo.",
+          "en": "If I had more money, I would travel the world.",
+          "ar": "لو كان لدي مال أكثر، لسافرت حول العالم."
+        },
+        {
+          "pt": "Eu gostaria que você falasse com ele.",
+          "en": "I would like you to speak with him.",
+          "ar": "كنت أود أن تتحدث معه."
+        },
+        {
+          "pt": "Ele age como se soubesse tudo.",
+          "en": "He acts as if he knew everything.",
+          "ar": "يتصرف كما لو كان يعرف كل شيء."
+        },
+        {
+          "pt": "Talvez fosse melhor esperar.",
+          "en": "Maybe it would be better to wait.",
+          "ar": "ربما كان من الأفضل الانتظار."
+        }
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": {
+      "pt": "Se Eu Pudesse...",
+      "en": "If I Could...",
+      "ar": "لو استطعت..."
+    },
+    "lines": [
+      {
+        "speaker": "Ana",
+        "pt": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
+        "en": "If you could live anywhere in the world, where would you live?",
+        "ar": "لو استطعت العيش في أي مكان في العالم، أين كنت ستعيش؟"
+      },
+      {
+        "speaker": "Bruno",
+        "pt": "Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.",
+        "en": "I would choose Rio de Janeiro, if I had the chance.",
+        "ar": "سأختار ريو دي جانيرو، لو سنحت لي الفرصة."
+      },
+      {
+        "speaker": "Ana",
+        "pt": "Eu também gostaria de morar perto do mar.",
+        "en": "I would also like to live near the sea.",
+        "ar": "أود أيضًا أن أسكن قرب البحر."
+      },
+      {
+        "speaker": "Bruno",
+        "pt": "Se falássemos espanhol, poderíamos morar na Argentina também.",
+        "en": "If we spoke Spanish, we could also live in Argentina.",
+        "ar": "لو كنا نتحدث الإسبانية، لأمكننا العيش في الأرجنتين أيضًا."
+      },
+      {
+        "speaker": "Ana",
+        "pt": "Talvez fosse melhor ficar no Brasil mesmo.",
+        "en": "Maybe it would be better to stay in Brazil after all.",
+        "ar": "ربما كان من الأفضل البقاء في البرازيل أصلًا."
+      },
+      {
+        "speaker": "Bruno",
+        "pt": "Verdade. Não trocaria o Brasil por nada.",
+        "en": "True. I wouldn't trade Brazil for anything.",
+        "ar": "صحيح. لن أستبدل البرازيل بأي شيء."
+      }
+    ]
+  },
+  "reading": {
+    "title": {
+      "pt": "A Viagem que Nunca Aconteceu",
+      "en": "The Trip that Never Happened",
+      "ar": "الرحلة التي لم تحدث أبدًا"
+    },
+    "text_pt": "Paulo sempre sonhou com a Europa. Se tivesse economizado mais dinheiro, teria viajado no ano passado. Ele lembra como se fosse ontem o dia em que pensou em comprar as passagens. Talvez fosse melhor começar a economizar agora para o ano que vem.",
+    "text_en": "Paulo always dreamed about Europe. If he had saved more money, he would have traveled last year. He remembers the day he thought about buying the tickets as if it were yesterday. Maybe it would be better to start saving now for next year.",
+    "text_ar": "كان باولو يحلم دائمًا بأوروبا. لو كان ادخر المزيد من المال، لكان سافر في العام الماضي. يتذكر اليوم الذي فكر فيه في شراء التذاكر كما لو كان بالأمس. ربما كان من الأفضل أن يبدأ في الادخار الآن للعام القادم."
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Se eu ___ tempo, iria ao cinema.",
+        "en": "If I ___ time, I would go to the movies.",
+        "ar": "لو ___ لدي وقت، لذهبت إلى السينما."
+      },
+      "options": [
+        {
+          "pt": "ter",
+          "en": "ter",
+          "ar": "ter"
+        },
+        {
+          "pt": "tivesse",
+          "en": "tivesse",
+          "ar": "tivesse"
+        },
+        {
+          "pt": "tenho",
+          "en": "tenho",
+          "ar": "tenho"
+        }
+      ],
+      "answer": "tivesse",
+      "explanation": {
+        "pt": "Condição hipotética: se + imperfeito do subjuntivo (tivesse) + condicional (iria).",
+        "en": "Hypothetical condition: se + imperfect subjunctive (tivesse) + conditional (iria).",
+        "ar": "شرط افتراضي: se + الماضي الناقص الشرطي (tivesse) + الشرطية (iria)."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Eu gostaria que você ___ mais devagar.",
+        "en": "I would like you to ___ more slowly.",
+        "ar": "أود أن ___ ببطء أكبر."
+      },
+      "options": [
+        {
+          "pt": "fala",
+          "en": "fala",
+          "ar": "fala"
+        },
+        {
+          "pt": "falasse",
+          "en": "falasse",
+          "ar": "falasse"
+        },
+        {
+          "pt": "falaria",
+          "en": "falaria",
+          "ar": "falaria"
+        }
+      ],
+      "answer": "falasse",
+      "explanation": {
+        "pt": "Depois de 'gostaria que' usamos o imperfeito do subjuntivo: falasse.",
+        "en": "After 'gostaria que' we use the imperfect subjunctive: falasse.",
+        "ar": "بعد 'gostaria que' نستخدم الماضي الناقص الشرطي: falasse."
+      }
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza: 'If I were you, I would talk to her.'",
+        "en": "Translate: 'If I were you, I would talk to her.'",
+        "ar": "ترجم: 'If I were you, I would talk to her.'"
+      },
+      "options": [],
+      "answer": "Se eu fosse você, falaria com ela.",
+      "explanation": {
+        "pt": "Condição irreal: 'se eu fosse você' + condicional 'falaria'.",
+        "en": "Unreal condition: 'se eu fosse você' + conditional 'falaria'.",
+        "ar": "شرط غير واقعي: 'se eu fosse você' + الشرطية 'falaria'."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "pudesse",
+          "en": "pudesse",
+          "ar": "pudesse"
+        },
+        {
+          "pt": "lugar",
+          "en": "lugar",
+          "ar": "lugar"
+        },
+        {
+          "pt": "onde",
+          "en": "onde",
+          "ar": "onde"
+        },
+        {
+          "pt": "qualquer",
+          "en": "qualquer",
+          "ar": "qualquer"
+        },
+        {
+          "pt": "Se",
+          "en": "Se",
+          "ar": "Se"
+        },
+        {
+          "pt": "viver",
+          "en": "viver",
+          "ar": "viver"
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "moraria?",
+          "en": "moraria?",
+          "ar": "moraria?"
+        },
+        {
+          "pt": "mundo,",
+          "en": "mundo,",
+          "ar": "mundo,"
+        },
+        {
+          "pt": "em",
+          "en": "em",
+          "ar": "em"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        }
+      ],
+      "answer": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
+      "accepted": [
+        "Se você pudesse viver em qualquer lugar do mundo, onde moraria?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Se você pudesse viver em qualquer lugar do mundo, onde moraria?'",
+        "en": "The correct order: 'If you could live anywhere in the world, where would you live?'",
+        "ar": "الترتيب الصحيح: 'لو استطعت العيش في أي مكان في العالم، أين كنت ستعيش؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "se eu fosse",
+          "en": "if I were",
+          "ar": "se eu fosse"
+        },
+        {
+          "pt": "se eu pudesse",
+          "en": "if I could",
+          "ar": "se eu pudesse"
+        },
+        {
+          "pt": "quisesse",
+          "en": "if I had",
+          "ar": "quisesse"
+        },
+        {
+          "pt": "se eu tivesse",
+          "en": "(that I) wanted",
+          "ar": "se eu tivesse"
+        },
+        {
+          "pt": "soubesse",
+          "en": "(that I) knew",
+          "ar": "soubesse"
+        },
+        {
+          "pt": "falasse",
+          "en": "(that I) spoke",
+          "ar": "falasse"
+        }
+      ],
+      "answer": "se eu fosse::if I were|se eu pudesse::if I could|quisesse::if I had|se eu tivesse::(that I) wanted|soubesse::(that I) knew|falasse::(that I) spoke",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Talvez fosse melhor ficar no Brasil mesmo.",
+          "en": "Maybe it would be better to stay in Brazil after all.",
+          "ar": "لو استطعت العيش في أي مكان في العالم، أين كنت ستعيش؟"
+        },
+        {
+          "pt": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
+          "en": "If you could live anywhere in the world, where would you live?",
+          "ar": "صحيح. لن أستبدل البرازيل بأي شيء."
+        },
+        {
+          "pt": "Verdade. Não trocaria o Brasil por nada.",
+          "en": "True. I wouldn't trade Brazil for anything.",
+          "ar": "ربما كان من الأفضل البقاء في البرازيل أصلًا."
+        }
+      ],
+      "answer": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
+      "accepted": [],
+      "audio": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
+      "explanation": {
+        "pt": "Você ouviu: 'Se você pudesse viver em qualquer lugar do mundo, onde moraria?' — 'If you could live anywhere in the world, where would you live?'",
+        "en": "You heard: 'Se você pudesse viver em qualquer lugar do mundo, onde moraria?' — 'If you could live anywhere in the world, where would you live?'",
+        "ar": "سمعت: 'Se você pudesse viver em qualquer lugar do mundo, onde moraria?' — 'لو استطعت العيش في أي مكان في العالم، أين كنت ستعيش؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
+          "en": "If you could live anywhere in the world, where would you live?",
+          "ar": "ربما كان من الأفضل البقاء في البرازيل أصلًا."
+        },
+        {
+          "pt": "Talvez fosse melhor ficar no Brasil mesmo.",
+          "en": "I would choose Rio de Janeiro, if I had the chance.",
+          "ar": "سأختار ريو دي جانيرو، لو سنحت لي الفرصة."
+        },
+        {
+          "pt": "Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.",
+          "en": "Maybe it would be better to stay in Brazil after all.",
+          "ar": "لو استطعت العيش في أي مكان في العالم، أين كنت ستعيش؟"
+        }
+      ],
+      "answer": "Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.",
+      "accepted": [],
+      "audio": "Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.",
+      "explanation": {
+        "pt": "Você ouviu: 'Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.' — 'I would choose Rio de Janeiro, if I had the chance.'",
+        "en": "You heard: 'Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.' — 'I would choose Rio de Janeiro, if I had the chance.'",
+        "ar": "سمعت: 'Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.' — 'سأختار ريو دي جانيرو، لو سنحت لي الفرصة.'"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Se eu tivesse ___ dinheiro, viajaria pelo mundo.",
+        "en": "Se eu tivesse ___ dinheiro, viajaria pelo mundo.",
+        "ar": "Se eu tivesse ___ dinheiro, viajaria pelo mundo."
+      },
+      "options": [
+        {
+          "pt": "mais",
+          "en": "mais",
+          "ar": "mais"
+        },
+        {
+          "pt": "age",
+          "en": "age",
+          "ar": "age"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        }
+      ],
+      "answer": "mais",
+      "accepted": [],
+      "explanation": {
+        "pt": "A resposta é 'mais'. Frase completa: Se eu tivesse mais dinheiro, viajaria pelo mundo.",
+        "en": "The answer is 'mais'. Full sentence: If I had more money, I would travel the world.",
+        "ar": "الإجابة الصحيحة: 'mais'. الجملة كاملة: لو كان لدي مال أكثر، لسافرت حول العالم."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "em",
+          "en": "em",
+          "ar": "em"
+        },
+        {
+          "pt": "pudesse",
+          "en": "pudesse",
+          "ar": "pudesse"
+        },
+        {
+          "pt": "qualquer",
+          "en": "qualquer",
+          "ar": "qualquer"
+        },
+        {
+          "pt": "moraria?",
+          "en": "moraria?",
+          "ar": "moraria?"
+        },
+        {
+          "pt": "Se",
+          "en": "Se",
+          "ar": "Se"
+        },
+        {
+          "pt": "viver",
+          "en": "viver",
+          "ar": "viver"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "lugar",
+          "en": "lugar",
+          "ar": "lugar"
+        },
+        {
+          "pt": "onde",
+          "en": "onde",
+          "ar": "onde"
+        },
+        {
+          "pt": "mundo,",
+          "en": "mundo,",
+          "ar": "mundo,"
+        }
+      ],
+      "answer": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
+      "accepted": [
+        "Se você pudesse viver em qualquer lugar do mundo, onde moraria?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Se você pudesse viver em qualquer lugar do mundo, onde moraria?'",
+        "en": "The correct order: 'If you could live anywhere in the world, where would you live?'",
+        "ar": "الترتيب الصحيح: 'لو استطعت العيش في أي مكان في العالم، أين كنت ستعيش؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "se eu pudesse",
+          "en": "if I had",
+          "ar": "se eu pudesse"
+        },
+        {
+          "pt": "soubesse",
+          "en": "(that I) spoke",
+          "ar": "soubesse"
+        },
+        {
+          "pt": "se eu fosse",
+          "en": "(that I) knew",
+          "ar": "se eu fosse"
+        },
+        {
+          "pt": "falasse",
+          "en": "if I could",
+          "ar": "falasse"
+        },
+        {
+          "pt": "quisesse",
+          "en": "(that I) wanted",
+          "ar": "quisesse"
+        },
+        {
+          "pt": "se eu tivesse",
+          "en": "if I were",
+          "ar": "se eu tivesse"
+        }
+      ],
+      "answer": "se eu pudesse::if I had|soubesse::(that I) spoke|se eu fosse::(that I) knew|falasse::if I could|quisesse::(that I) wanted|se eu tivesse::if I were",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.",
+          "en": "I would choose Rio de Janeiro, if I had the chance.",
+          "ar": "سأختار ريو دي جانيرو، لو سنحت لي الفرصة."
+        },
+        {
+          "pt": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
+          "en": "I would also like to live near the sea.",
+          "ar": "أود أيضًا أن أسكن قرب البحر."
+        },
+        {
+          "pt": "Eu também gostaria de morar perto do mar.",
+          "en": "If you could live anywhere in the world, where would you live?",
+          "ar": "لو استطعت العيش في أي مكان في العالم، أين كنت ستعيش؟"
+        }
+      ],
+      "answer": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
+      "accepted": [],
+      "audio": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
+      "explanation": {
+        "pt": "Você ouviu: 'Se você pudesse viver em qualquer lugar do mundo, onde moraria?' — 'If you could live anywhere in the world, where would you live?'",
+        "en": "You heard: 'Se você pudesse viver em qualquer lugar do mundo, onde moraria?' — 'If you could live anywhere in the world, where would you live?'",
+        "ar": "سمعت: 'Se você pudesse viver em qualquer lugar do mundo, onde moraria?' — 'لو استطعت العيش في أي مكان في العالم، أين كنت ستعيش؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.",
+          "en": "Maybe it would be better to stay in Brazil after all.",
+          "ar": "ربما كان من الأفضل البقاء في البرازيل أصلًا."
+        },
+        {
+          "pt": "Talvez fosse melhor ficar no Brasil mesmo.",
+          "en": "If you could live anywhere in the world, where would you live?",
+          "ar": "سأختار ريو دي جانيرو، لو سنحت لي الفرصة."
+        },
+        {
+          "pt": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
+          "en": "I would choose Rio de Janeiro, if I had the chance.",
+          "ar": "لو استطعت العيش في أي مكان في العالم، أين كنت ستعيش؟"
+        }
+      ],
+      "answer": "Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.",
+      "accepted": [],
+      "audio": "Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.",
+      "explanation": {
+        "pt": "Você ouviu: 'Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.' — 'I would choose Rio de Janeiro, if I had the chance.'",
+        "en": "You heard: 'Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.' — 'I would choose Rio de Janeiro, if I had the chance.'",
+        "ar": "سمعت: 'Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.' — 'سأختار ريو دي جانيرو، لو سنحت لي الفرصة.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "onde",
+          "en": "onde",
+          "ar": "onde"
+        },
+        {
+          "pt": "lugar",
+          "en": "lugar",
+          "ar": "lugar"
+        },
+        {
+          "pt": "em",
+          "en": "em",
+          "ar": "em"
+        },
+        {
+          "pt": "qualquer",
+          "en": "qualquer",
+          "ar": "qualquer"
+        },
+        {
+          "pt": "moraria?",
+          "en": "moraria?",
+          "ar": "moraria?"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "Se",
+          "en": "Se",
+          "ar": "Se"
+        },
+        {
+          "pt": "viver",
+          "en": "viver",
+          "ar": "viver"
+        },
+        {
+          "pt": "pudesse",
+          "en": "pudesse",
+          "ar": "pudesse"
+        },
+        {
+          "pt": "mundo,",
+          "en": "mundo,",
+          "ar": "mundo,"
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        }
+      ],
+      "answer": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
+      "accepted": [
+        "Se você pudesse viver em qualquer lugar do mundo, onde moraria?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Se você pudesse viver em qualquer lugar do mundo, onde moraria?'",
+        "en": "The correct order: 'If you could live anywhere in the world, where would you live?'",
+        "ar": "الترتيب الصحيح: 'لو استطعت العيش في أي مكان في العالم، أين كنت ستعيش؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "se eu fosse",
+          "en": "if I could",
+          "ar": "se eu fosse"
+        },
+        {
+          "pt": "soubesse",
+          "en": "(that I) spoke",
+          "ar": "soubesse"
+        },
+        {
+          "pt": "se eu tivesse",
+          "en": "(that I) wanted",
+          "ar": "se eu tivesse"
+        },
+        {
+          "pt": "falasse",
+          "en": "if I had",
+          "ar": "falasse"
+        },
+        {
+          "pt": "se eu pudesse",
+          "en": "(that I) knew",
+          "ar": "se eu pudesse"
+        },
+        {
+          "pt": "quisesse",
+          "en": "if I were",
+          "ar": "quisesse"
+        }
+      ],
+      "answer": "se eu fosse::if I could|soubesse::(that I) spoke|se eu tivesse::(that I) wanted|falasse::if I had|se eu pudesse::(that I) knew|quisesse::if I were",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.",
+          "en": "I would choose Rio de Janeiro, if I had the chance.",
+          "ar": "سأختار ريو دي جانيرو، لو سنحت لي الفرصة."
+        },
+        {
+          "pt": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
+          "en": "Maybe it would be better to stay in Brazil after all.",
+          "ar": "ربما كان من الأفضل البقاء في البرازيل أصلًا."
+        },
+        {
+          "pt": "Talvez fosse melhor ficar no Brasil mesmo.",
+          "en": "If you could live anywhere in the world, where would you live?",
+          "ar": "لو استطعت العيش في أي مكان في العالم، أين كنت ستعيش؟"
+        }
+      ],
+      "answer": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
+      "accepted": [],
+      "audio": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
+      "explanation": {
+        "pt": "Você ouviu: 'Se você pudesse viver em qualquer lugar do mundo, onde moraria?' — 'If you could live anywhere in the world, where would you live?'",
+        "en": "You heard: 'Se você pudesse viver em qualquer lugar do mundo, onde moraria?' — 'If you could live anywhere in the world, where would you live?'",
+        "ar": "سمعت: 'Se você pudesse viver em qualquer lugar do mundo, onde moraria?' — 'لو استطعت العيش في أي مكان في العالم، أين كنت ستعيش؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Verdade. Não trocaria o Brasil por nada.",
+          "en": "True. I wouldn't trade Brazil for anything.",
+          "ar": "ربما كان من الأفضل البقاء في البرازيل أصلًا."
+        },
+        {
+          "pt": "Talvez fosse melhor ficar no Brasil mesmo.",
+          "en": "I would choose Rio de Janeiro, if I had the chance.",
+          "ar": "سأختار ريو دي جانيرو، لو سنحت لي الفرصة."
+        },
+        {
+          "pt": "Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.",
+          "en": "Maybe it would be better to stay in Brazil after all.",
+          "ar": "صحيح. لن أستبدل البرازيل بأي شيء."
+        }
+      ],
+      "answer": "Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.",
+      "accepted": [],
+      "audio": "Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.",
+      "explanation": {
+        "pt": "Você ouviu: 'Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.' — 'I would choose Rio de Janeiro, if I had the chance.'",
+        "en": "You heard: 'Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.' — 'I would choose Rio de Janeiro, if I had the chance.'",
+        "ar": "سمعت: 'Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.' — 'سأختار ريو دي جانيرو، لو سنحت لي الفرصة.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "onde",
+          "en": "onde",
+          "ar": "onde"
+        },
+        {
+          "pt": "viver",
+          "en": "viver",
+          "ar": "viver"
+        },
+        {
+          "pt": "pudesse",
+          "en": "pudesse",
+          "ar": "pudesse"
+        },
+        {
+          "pt": "em",
+          "en": "em",
+          "ar": "em"
+        },
+        {
+          "pt": "mundo,",
+          "en": "mundo,",
+          "ar": "mundo,"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "moraria?",
+          "en": "moraria?",
+          "ar": "moraria?"
+        },
+        {
+          "pt": "qualquer",
+          "en": "qualquer",
+          "ar": "qualquer"
+        },
+        {
+          "pt": "lugar",
+          "en": "lugar",
+          "ar": "lugar"
+        },
+        {
+          "pt": "Se",
+          "en": "Se",
+          "ar": "Se"
+        }
+      ],
+      "answer": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
+      "accepted": [
+        "Se você pudesse viver em qualquer lugar do mundo, onde moraria?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Se você pudesse viver em qualquer lugar do mundo, onde moraria?'",
+        "en": "The correct order: 'If you could live anywhere in the world, where would you live?'",
+        "ar": "الترتيب الصحيح: 'لو استطعت العيش في أي مكان في العالم، أين كنت ستعيش؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "soubesse",
+          "en": "if I could",
+          "ar": "soubesse"
+        },
+        {
+          "pt": "se eu fosse",
+          "en": "(that I) wanted",
+          "ar": "se eu fosse"
+        },
+        {
+          "pt": "se eu pudesse",
+          "en": "if I had",
+          "ar": "se eu pudesse"
+        },
+        {
+          "pt": "se eu tivesse",
+          "en": "if I were",
+          "ar": "se eu tivesse"
+        },
+        {
+          "pt": "falasse",
+          "en": "(that I) knew",
+          "ar": "falasse"
+        },
+        {
+          "pt": "quisesse",
+          "en": "(that I) spoke",
+          "ar": "quisesse"
+        }
+      ],
+      "answer": "soubesse::if I could|se eu fosse::(that I) wanted|se eu pudesse::if I had|se eu tivesse::if I were|falasse::(that I) knew|quisesse::(that I) spoke",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Talvez fosse melhor ficar no Brasil mesmo.",
+          "en": "Maybe it would be better to stay in Brazil after all.",
+          "ar": "ربما كان من الأفضل البقاء في البرازيل أصلًا."
+        },
+        {
+          "pt": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
+          "en": "I would also like to live near the sea.",
+          "ar": "أود أيضًا أن أسكن قرب البحر."
+        },
+        {
+          "pt": "Eu também gostaria de morar perto do mar.",
+          "en": "If you could live anywhere in the world, where would you live?",
+          "ar": "لو استطعت العيش في أي مكان في العالم، أين كنت ستعيش؟"
+        }
+      ],
+      "answer": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
+      "accepted": [],
+      "audio": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
+      "explanation": {
+        "pt": "Você ouviu: 'Se você pudesse viver em qualquer lugar do mundo, onde moraria?' — 'If you could live anywhere in the world, where would you live?'",
+        "en": "You heard: 'Se você pudesse viver em qualquer lugar do mundo, onde moraria?' — 'If you could live anywhere in the world, where would you live?'",
+        "ar": "سمعت: 'Se você pudesse viver em qualquer lugar do mundo, onde moraria?' — 'لو استطعت العيش في أي مكان في العالم، أين كنت ستعيش؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Se falássemos espanhol, poderíamos morar na Argentina também.",
+          "en": "If we spoke Spanish, we could also live in Argentina.",
+          "ar": "صحيح. لن أستبدل البرازيل بأي شيء."
+        },
+        {
+          "pt": "Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.",
+          "en": "True. I wouldn't trade Brazil for anything.",
+          "ar": "سأختار ريو دي جانيرو، لو سنحت لي الفرصة."
+        },
+        {
+          "pt": "Verdade. Não trocaria o Brasil por nada.",
+          "en": "I would choose Rio de Janeiro, if I had the chance.",
+          "ar": "لو كنا نتحدث الإسبانية، لأمكننا العيش في الأرجنتين أيضًا."
+        }
+      ],
+      "answer": "Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.",
+      "accepted": [],
+      "audio": "Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.",
+      "explanation": {
+        "pt": "Você ouviu: 'Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.' — 'I would choose Rio de Janeiro, if I had the chance.'",
+        "en": "You heard: 'Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.' — 'I would choose Rio de Janeiro, if I had the chance.'",
+        "ar": "سمعت: 'Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.' — 'سأختار ريو دي جانيرو، لو سنحت لي الفرصة.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "qualquer",
+          "en": "qualquer",
+          "ar": "qualquer"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "pudesse",
+          "en": "pudesse",
+          "ar": "pudesse"
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "moraria?",
+          "en": "moraria?",
+          "ar": "moraria?"
+        },
+        {
+          "pt": "em",
+          "en": "em",
+          "ar": "em"
+        },
+        {
+          "pt": "onde",
+          "en": "onde",
+          "ar": "onde"
+        },
+        {
+          "pt": "viver",
+          "en": "viver",
+          "ar": "viver"
+        },
+        {
+          "pt": "lugar",
+          "en": "lugar",
+          "ar": "lugar"
+        },
+        {
+          "pt": "Se",
+          "en": "Se",
+          "ar": "Se"
+        },
+        {
+          "pt": "mundo,",
+          "en": "mundo,",
+          "ar": "mundo,"
+        }
+      ],
+      "answer": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
+      "accepted": [
+        "Se você pudesse viver em qualquer lugar do mundo, onde moraria?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Se você pudesse viver em qualquer lugar do mundo, onde moraria?'",
+        "en": "The correct order: 'If you could live anywhere in the world, where would you live?'",
+        "ar": "الترتيب الصحيح: 'لو استطعت العيش في أي مكان في العالم، أين كنت ستعيش؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "quisesse",
+          "en": "(that I) knew",
+          "ar": "quisesse"
+        },
+        {
+          "pt": "se eu tivesse",
+          "en": "if I were",
+          "ar": "se eu tivesse"
+        },
+        {
+          "pt": "se eu fosse",
+          "en": "(that I) wanted",
+          "ar": "se eu fosse"
+        },
+        {
+          "pt": "se eu pudesse",
+          "en": "if I had",
+          "ar": "se eu pudesse"
+        },
+        {
+          "pt": "falasse",
+          "en": "(that I) spoke",
+          "ar": "falasse"
+        },
+        {
+          "pt": "soubesse",
+          "en": "if I could",
+          "ar": "soubesse"
+        }
+      ],
+      "answer": "quisesse::(that I) knew|se eu tivesse::if I were|se eu fosse::(that I) wanted|se eu pudesse::if I had|falasse::(that I) spoke|soubesse::if I could",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
+          "en": "If we spoke Spanish, we could also live in Argentina.",
+          "ar": "صحيح. لن أستبدل البرازيل بأي شيء."
+        },
+        {
+          "pt": "Se falássemos espanhol, poderíamos morar na Argentina também.",
+          "en": "True. I wouldn't trade Brazil for anything.",
+          "ar": "لو كنا نتحدث الإسبانية، لأمكننا العيش في الأرجنتين أيضًا."
+        },
+        {
+          "pt": "Verdade. Não trocaria o Brasil por nada.",
+          "en": "If you could live anywhere in the world, where would you live?",
+          "ar": "لو استطعت العيش في أي مكان في العالم، أين كنت ستعيش؟"
+        }
+      ],
+      "answer": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
+      "accepted": [],
+      "audio": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
+      "explanation": {
+        "pt": "Você ouviu: 'Se você pudesse viver em qualquer lugar do mundo, onde moraria?' — 'If you could live anywhere in the world, where would you live?'",
+        "en": "You heard: 'Se você pudesse viver em qualquer lugar do mundo, onde moraria?' — 'If you could live anywhere in the world, where would you live?'",
+        "ar": "سمعت: 'Se você pudesse viver em qualquer lugar do mundo, onde moraria?' — 'لو استطعت العيش في أي مكان في العالم، أين كنت ستعيش؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
+          "en": "I would also like to live near the sea.",
+          "ar": "لو استطعت العيش في أي مكان في العالم، أين كنت ستعيش؟"
+        },
+        {
+          "pt": "Eu também gostaria de morar perto do mar.",
+          "en": "I would choose Rio de Janeiro, if I had the chance.",
+          "ar": "سأختار ريو دي جانيرو، لو سنحت لي الفرصة."
+        },
+        {
+          "pt": "Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.",
+          "en": "If you could live anywhere in the world, where would you live?",
+          "ar": "أود أيضًا أن أسكن قرب البحر."
+        }
+      ],
+      "answer": "Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.",
+      "accepted": [],
+      "audio": "Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.",
+      "explanation": {
+        "pt": "Você ouviu: 'Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.' — 'I would choose Rio de Janeiro, if I had the chance.'",
+        "en": "You heard: 'Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.' — 'I would choose Rio de Janeiro, if I had the chance.'",
+        "ar": "سمعت: 'Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.' — 'سأختار ريو دي جانيرو، لو سنحت لي الفرصة.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "mundo,",
+          "en": "mundo,",
+          "ar": "mundo,"
+        },
+        {
+          "pt": "onde",
+          "en": "onde",
+          "ar": "onde"
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "qualquer",
+          "en": "qualquer",
+          "ar": "qualquer"
+        },
+        {
+          "pt": "lugar",
+          "en": "lugar",
+          "ar": "lugar"
+        },
+        {
+          "pt": "pudesse",
+          "en": "pudesse",
+          "ar": "pudesse"
+        },
+        {
+          "pt": "Se",
+          "en": "Se",
+          "ar": "Se"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "em",
+          "en": "em",
+          "ar": "em"
+        },
+        {
+          "pt": "viver",
+          "en": "viver",
+          "ar": "viver"
+        },
+        {
+          "pt": "moraria?",
+          "en": "moraria?",
+          "ar": "moraria?"
+        }
+      ],
+      "answer": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
+      "accepted": [
+        "Se você pudesse viver em qualquer lugar do mundo, onde moraria?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Se você pudesse viver em qualquer lugar do mundo, onde moraria?'",
+        "en": "The correct order: 'If you could live anywhere in the world, where would you live?'",
+        "ar": "الترتيب الصحيح: 'لو استطعت العيش في أي مكان في العالم، أين كنت ستعيش؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "quisesse",
+          "en": "if I could",
+          "ar": "quisesse"
+        },
+        {
+          "pt": "se eu pudesse",
+          "en": "(that I) spoke",
+          "ar": "se eu pudesse"
+        },
+        {
+          "pt": "falasse",
+          "en": "if I were",
+          "ar": "falasse"
+        },
+        {
+          "pt": "se eu tivesse",
+          "en": "if I had",
+          "ar": "se eu tivesse"
+        },
+        {
+          "pt": "se eu fosse",
+          "en": "(that I) wanted",
+          "ar": "se eu fosse"
+        },
+        {
+          "pt": "soubesse",
+          "en": "(that I) knew",
+          "ar": "soubesse"
+        }
+      ],
+      "answer": "quisesse::if I could|se eu pudesse::(that I) spoke|falasse::if I were|se eu tivesse::if I had|se eu fosse::(that I) wanted|soubesse::(that I) knew",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
+          "en": "If we spoke Spanish, we could also live in Argentina.",
+          "ar": "صحيح. لن أستبدل البرازيل بأي شيء."
+        },
+        {
+          "pt": "Verdade. Não trocaria o Brasil por nada.",
+          "en": "True. I wouldn't trade Brazil for anything.",
+          "ar": "لو استطعت العيش في أي مكان في العالم، أين كنت ستعيش؟"
+        },
+        {
+          "pt": "Se falássemos espanhol, poderíamos morar na Argentina também.",
+          "en": "If you could live anywhere in the world, where would you live?",
+          "ar": "لو كنا نتحدث الإسبانية، لأمكننا العيش في الأرجنتين أيضًا."
+        }
+      ],
+      "answer": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
+      "accepted": [],
+      "audio": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
+      "explanation": {
+        "pt": "Você ouviu: 'Se você pudesse viver em qualquer lugar do mundo, onde moraria?' — 'If you could live anywhere in the world, where would you live?'",
+        "en": "You heard: 'Se você pudesse viver em qualquer lugar do mundo, onde moraria?' — 'If you could live anywhere in the world, where would you live?'",
+        "ar": "سمعت: 'Se você pudesse viver em qualquer lugar do mundo, onde moraria?' — 'لو استطعت العيش في أي مكان في العالم، أين كنت ستعيش؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.",
+          "en": "If we spoke Spanish, we could also live in Argentina.",
+          "ar": "سأختار ريو دي جانيرو، لو سنحت لي الفرصة."
+        },
+        {
+          "pt": "Se falássemos espanhol, poderíamos morar na Argentina também.",
+          "en": "True. I wouldn't trade Brazil for anything.",
+          "ar": "لو كنا نتحدث الإسبانية، لأمكننا العيش في الأرجنتين أيضًا."
+        },
+        {
+          "pt": "Verdade. Não trocaria o Brasil por nada.",
+          "en": "I would choose Rio de Janeiro, if I had the chance.",
+          "ar": "صحيح. لن أستبدل البرازيل بأي شيء."
+        }
+      ],
+      "answer": "Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.",
+      "accepted": [],
+      "audio": "Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.",
+      "explanation": {
+        "pt": "Você ouviu: 'Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.' — 'I would choose Rio de Janeiro, if I had the chance.'",
+        "en": "You heard: 'Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.' — 'I would choose Rio de Janeiro, if I had the chance.'",
+        "ar": "سمعت: 'Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.' — 'سأختار ريو دي جانيرو، لو سنحت لي الفرصة.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "pudesse",
+          "en": "pudesse",
+          "ar": "pudesse"
+        },
+        {
+          "pt": "qualquer",
+          "en": "qualquer",
+          "ar": "qualquer"
+        },
+        {
+          "pt": "Se",
+          "en": "Se",
+          "ar": "Se"
+        },
+        {
+          "pt": "moraria?",
+          "en": "moraria?",
+          "ar": "moraria?"
+        },
+        {
+          "pt": "em",
+          "en": "em",
+          "ar": "em"
+        },
+        {
+          "pt": "lugar",
+          "en": "lugar",
+          "ar": "lugar"
+        },
+        {
+          "pt": "onde",
+          "en": "onde",
+          "ar": "onde"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "viver",
+          "en": "viver",
+          "ar": "viver"
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "mundo,",
+          "en": "mundo,",
+          "ar": "mundo,"
+        }
+      ],
+      "answer": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
+      "accepted": [
+        "Se você pudesse viver em qualquer lugar do mundo, onde moraria?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Se você pudesse viver em qualquer lugar do mundo, onde moraria?'",
+        "en": "The correct order: 'If you could live anywhere in the world, where would you live?'",
+        "ar": "الترتيب الصحيح: 'لو استطعت العيش في أي مكان في العالم، أين كنت ستعيش؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "se eu pudesse",
+          "en": "(that I) wanted",
+          "ar": "se eu pudesse"
+        },
+        {
+          "pt": "se eu tivesse",
+          "en": "(that I) knew",
+          "ar": "se eu tivesse"
+        },
+        {
+          "pt": "soubesse",
+          "en": "if I could",
+          "ar": "soubesse"
+        },
+        {
+          "pt": "se eu fosse",
+          "en": "if I had",
+          "ar": "se eu fosse"
+        },
+        {
+          "pt": "falasse",
+          "en": "(that I) spoke",
+          "ar": "falasse"
+        },
+        {
+          "pt": "quisesse",
+          "en": "if I were",
+          "ar": "quisesse"
+        }
+      ],
+      "answer": "se eu pudesse::(that I) wanted|se eu tivesse::(that I) knew|soubesse::if I could|se eu fosse::if I had|falasse::(that I) spoke|quisesse::if I were",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
+          "en": "If you could live anywhere in the world, where would you live?",
+          "ar": "سأختار ريو دي جانيرو، لو سنحت لي الفرصة."
+        },
+        {
+          "pt": "Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.",
+          "en": "I would choose Rio de Janeiro, if I had the chance.",
+          "ar": "ربما كان من الأفضل البقاء في البرازيل أصلًا."
+        },
+        {
+          "pt": "Talvez fosse melhor ficar no Brasil mesmo.",
+          "en": "Maybe it would be better to stay in Brazil after all.",
+          "ar": "لو استطعت العيش في أي مكان في العالم، أين كنت ستعيش؟"
+        }
+      ],
+      "answer": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
+      "accepted": [],
+      "audio": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
+      "explanation": {
+        "pt": "Você ouviu: 'Se você pudesse viver em qualquer lugar do mundo, onde moraria?' — 'If you could live anywhere in the world, where would you live?'",
+        "en": "You heard: 'Se você pudesse viver em qualquer lugar do mundo, onde moraria?' — 'If you could live anywhere in the world, where would you live?'",
+        "ar": "سمعت: 'Se você pudesse viver em qualquer lugar do mundo, onde moraria?' — 'لو استطعت العيش في أي مكان في العالم، أين كنت ستعيش؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
+          "en": "If you could live anywhere in the world, where would you live?",
+          "ar": "ربما كان من الأفضل البقاء في البرازيل أصلًا."
+        },
+        {
+          "pt": "Talvez fosse melhor ficar no Brasil mesmo.",
+          "en": "Maybe it would be better to stay in Brazil after all.",
+          "ar": "لو استطعت العيش في أي مكان في العالم، أين كنت ستعيش؟"
+        },
+        {
+          "pt": "Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.",
+          "en": "I would choose Rio de Janeiro, if I had the chance.",
+          "ar": "سأختار ريو دي جانيرو، لو سنحت لي الفرصة."
+        }
+      ],
+      "answer": "Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.",
+      "accepted": [],
+      "audio": "Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.",
+      "explanation": {
+        "pt": "Você ouviu: 'Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.' — 'I would choose Rio de Janeiro, if I had the chance.'",
+        "en": "You heard: 'Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.' — 'I would choose Rio de Janeiro, if I had the chance.'",
+        "ar": "سمعت: 'Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.' — 'سأختار ريو دي جانيرو، لو سنحت لي الفرصة.'"
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'if I could'",
+        "en": "Type in Portuguese: 'if I could'",
+        "ar": "اكتب بالبرتغالية: 'لو استطعت'"
+      },
+      "options": [],
+      "answer": "se eu pudesse",
+      "accepted": [
+        "se eu pudesse"
+      ],
+      "explanation": {
+        "pt": "'se eu pudesse' significa 'if I could'.",
+        "en": "'se eu pudesse' means 'if I could'.",
+        "ar": "'$se eu pudesse' بالعربية: '$لو استطعت'."
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'if I had'",
+        "en": "Type in Portuguese: 'if I had'",
+        "ar": "اكتب بالبرتغالية: 'لو كان لدي'"
+      },
+      "options": [],
+      "answer": "se eu tivesse",
+      "accepted": [
+        "se eu tivesse"
+      ],
+      "explanation": {
+        "pt": "'se eu tivesse' significa 'if I had'.",
+        "en": "'se eu tivesse' means 'if I had'.",
+        "ar": "'$se eu tivesse' بالعربية: '$لو كان لدي'."
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Se falássemos espanhol, poderíamos morar na Argentina também.",
+          "en": "Se falássemos espanhol, poderíamos morar na Argentina também.",
+          "ar": "Se falássemos espanhol, poderíamos morar na Argentina também."
+        },
+        {
+          "pt": "Talvez fosse melhor ficar no Brasil mesmo.",
+          "en": "Talvez fosse melhor ficar no Brasil mesmo.",
+          "ar": "Talvez fosse melhor ficar no Brasil mesmo."
+        },
+        {
+          "pt": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
+          "en": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
+          "ar": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?"
+        }
+      ],
+      "answer": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
+      "accepted": [],
+      "audio": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
+      "explanation": {
+        "pt": "Você ouviu: 'Se você pudesse viver em qualquer lugar do mundo, onde moraria?'",
+        "en": "You heard: 'Se você pudesse viver em qualquer lugar do mundo, onde moraria?'",
+        "ar": "سمعت: 'Se você pudesse viver em qualquer lugar do mundo, onde moraria?'"
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Verdade. Não trocaria o Brasil por nada.",
+          "en": "Verdade. Não trocaria o Brasil por nada.",
+          "ar": "Verdade. Não trocaria o Brasil por nada."
+        },
+        {
+          "pt": "Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.",
+          "en": "Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.",
+          "ar": "Eu escolheria o Rio de Janeiro, se tivesse a oportunidade."
+        },
+        {
+          "pt": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
+          "en": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
+          "ar": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?"
+        }
+      ],
+      "answer": "Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.",
+      "accepted": [],
+      "audio": "Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.",
+      "explanation": {
+        "pt": "Você ouviu: 'Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.'",
+        "en": "You heard: 'Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.'",
+        "ar": "سمعت: 'Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.'"
+      }
+    },
+    {
+      "type": "dictation",
+      "prompt": {
+        "pt": "Ouça e escreva o que você ouviu.",
+        "en": "Listen and type what you hear.",
+        "ar": "استمع واكتب ما سمعته."
+      },
+      "options": [],
+      "answer": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
+      "accepted": [],
+      "audio": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
+      "explanation": {
+        "pt": "A frase correta: 'Se você pudesse viver em qualquer lugar do mundo, onde moraria?'",
+        "en": "The correct sentence: 'Se você pudesse viver em qualquer lugar do mundo, onde moraria?'",
+        "ar": "الجملة الصحيحة: 'Se você pudesse viver em qualquer lugar do mundo, onde moraria?'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "viver",
+          "en": "viver",
+          "ar": "viver"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "onde",
+          "en": "onde",
+          "ar": "onde"
+        },
+        {
+          "pt": "mundo,",
+          "en": "mundo,",
+          "ar": "mundo,"
+        },
+        {
+          "pt": "em",
+          "en": "em",
+          "ar": "em"
+        },
+        {
+          "pt": "moraria?",
+          "en": "moraria?",
+          "ar": "moraria?"
+        },
+        {
+          "pt": "qualquer",
+          "en": "qualquer",
+          "ar": "qualquer"
+        },
+        {
+          "pt": "pudesse",
+          "en": "pudesse",
+          "ar": "pudesse"
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "Se",
+          "en": "Se",
+          "ar": "Se"
+        },
+        {
+          "pt": "lugar",
+          "en": "lugar",
+          "ar": "lugar"
+        }
+      ],
+      "answer": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
+      "accepted": [
+        "Se você pudesse viver em qualquer lugar do mundo, onde moraria?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Se você pudesse viver em qualquer lugar do mundo, onde moraria?'",
+        "en": "The correct order: 'If you could live anywhere in the world, where would you live?'",
+        "ar": "الترتيب الصحيح: 'لو استطعت العيش في أي مكان في العالم، أين كنت ستعيش؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "se eu pudesse",
+          "en": "if I had",
+          "ar": "se eu pudesse"
+        },
+        {
+          "pt": "falasse",
+          "en": "if I could",
+          "ar": "falasse"
+        },
+        {
+          "pt": "se eu fosse",
+          "en": "(that I) knew",
+          "ar": "se eu fosse"
+        },
+        {
+          "pt": "se eu tivesse",
+          "en": "(that I) wanted",
+          "ar": "se eu tivesse"
+        },
+        {
+          "pt": "quisesse",
+          "en": "if I were",
+          "ar": "quisesse"
+        },
+        {
+          "pt": "soubesse",
+          "en": "(that I) spoke",
+          "ar": "soubesse"
+        }
+      ],
+      "answer": "se eu pudesse::if I had|falasse::if I could|se eu fosse::(that I) knew|se eu tivesse::(that I) wanted|quisesse::if I were|soubesse::(that I) spoke",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Talvez fosse melhor ficar no Brasil mesmo.",
+          "en": "If you could live anywhere in the world, where would you live?",
+          "ar": "لو استطعت العيش في أي مكان في العالم، أين كنت ستعيش؟"
+        },
+        {
+          "pt": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
+          "en": "I would choose Rio de Janeiro, if I had the chance.",
+          "ar": "ربما كان من الأفضل البقاء في البرازيل أصلًا."
+        },
+        {
+          "pt": "Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.",
+          "en": "Maybe it would be better to stay in Brazil after all.",
+          "ar": "سأختار ريو دي جانيرو، لو سنحت لي الفرصة."
+        }
+      ],
+      "answer": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
+      "accepted": [],
+      "audio": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
+      "explanation": {
+        "pt": "Você ouviu: 'Se você pudesse viver em qualquer lugar do mundo, onde moraria?' — 'If you could live anywhere in the world, where would you live?'",
+        "en": "You heard: 'Se você pudesse viver em qualquer lugar do mundo, onde moraria?' — 'If you could live anywhere in the world, where would you live?'",
+        "ar": "سمعت: 'Se você pudesse viver em qualquer lugar do mundo, onde moraria?' — 'لو استطعت العيش في أي مكان في العالم، أين كنت ستعيش؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Se falássemos espanhol, poderíamos morar na Argentina também.",
+          "en": "I would choose Rio de Janeiro, if I had the chance.",
+          "ar": "لو كنا نتحدث الإسبانية، لأمكننا العيش في الأرجنتين أيضًا."
+        },
+        {
+          "pt": "Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.",
+          "en": "If you could live anywhere in the world, where would you live?",
+          "ar": "لو استطعت العيش في أي مكان في العالم، أين كنت ستعيش؟"
+        },
+        {
+          "pt": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
+          "en": "If we spoke Spanish, we could also live in Argentina.",
+          "ar": "سأختار ريو دي جانيرو، لو سنحت لي الفرصة."
+        }
+      ],
+      "answer": "Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.",
+      "accepted": [],
+      "audio": "Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.",
+      "explanation": {
+        "pt": "Você ouviu: 'Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.' — 'I would choose Rio de Janeiro, if I had the chance.'",
+        "en": "You heard: 'Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.' — 'I would choose Rio de Janeiro, if I had the chance.'",
+        "ar": "سمعت: 'Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.' — 'سأختار ريو دي جانيرو، لو سنحت لي الفرصة.'"
+      }
+    }
+  ],
+  "speaking": {
+    "title": {
+      "pt": "Fale Agora — Ouça e Repita",
+      "en": "Speak Now — Listen and Repeat",
+      "ar": "تحدث الآن — استمع وكرر"
+    },
+    "phrases": [
+      {
+        "pt": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
+        "en": "If you could live anywhere in the world, where would you live?",
+        "ar": "لو استطعت العيش في أي مكان في العالم، أين كنت ستعيش؟"
+      },
+      {
+        "pt": "Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.",
+        "en": "I would choose Rio de Janeiro, if I had the chance.",
+        "ar": "سأختار ريو دي جانيرو، لو سنحت لي الفرصة."
+      },
+      {
+        "pt": "Eu também gostaria de morar perto do mar.",
+        "en": "I would also like to live near the sea.",
+        "ar": "أود أيضًا أن أسكن قرب البحر."
+      },
+      {
+        "pt": "Se falássemos espanhol, poderíamos morar na Argentina também.",
+        "en": "If we spoke Spanish, we could also live in Argentina.",
+        "ar": "لو كنا نتحدث الإسبانية، لأمكننا العيش في الأرجنتين أيضًا."
+      },
+      {
+        "pt": "Talvez fosse melhor ficar no Brasil mesmo.",
+        "en": "Maybe it would be better to stay in Brazil after all.",
+        "ar": "ربما كان من الأفضل البقاء في البرازيل أصلًا."
+      },
+      {
+        "pt": "Verdade. Não trocaria o Brasil por nada.",
+        "en": "True. I wouldn't trade Brazil for anything.",
+        "ar": "صحيح. لن أستبدل البرازيل بأي شيء."
+      },
+      {
+        "pt": "se eu pudesse",
+        "en": "if I could",
+        "ar": "لو استطعت"
+      },
+      {
+        "pt": "se eu tivesse",
+        "en": "if I had",
+        "ar": "لو كان لدي"
+      },
+      {
+        "pt": "se eu fosse",
+        "en": "if I were",
+        "ar": "لو كنت"
+      }
+    ]
+  },
+  "cultural_tips": {
+    "pt": "",
+    "en": "",
+    "ar": ""
+  }
+}

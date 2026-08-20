@@ -1,0 +1,2096 @@
+{
+  "id": "C2-12",
+  "level": "C2",
+  "level_name": {
+    "pt": "Proficiência",
+    "en": "Proficiency",
+    "ar": "إتقان"
+  },
+  "title": {
+    "pt": "Certificado e Próximos Passos",
+    "en": "Certificate and Next Steps",
+    "ar": "الشهادة والخطوات التالية"
+  },
+  "objectives": [
+    {
+      "pt": "Refletir sobre a jornada de aprendizado até o nível C2",
+      "en": "Reflect on the learning journey up to level C2",
+      "ar": "التأمل في رحلة التعلم حتى المستوى C2"
+    },
+    {
+      "pt": "Estratégias para manter e ampliar a proficiência",
+      "en": "Strategies to maintain and expand proficiency",
+      "ar": "استراتيجيات الحفاظ على الكفاءة وتوسيعها"
+    },
+    {
+      "pt": "Estabelecer metas realistas de uso contínuo da língua",
+      "en": "Set realistic goals for continuous use of the language",
+      "ar": "تحديد أهداف واقعية للاستخدام المتواصل للغة"
+    },
+    {
+      "pt": "Celebrar a conquista e planejar os próximos passos",
+      "en": "Celebrate the achievement and plan the next steps",
+      "ar": "الاحتفال بالإنجاز والتخطيط للخطوات التالية"
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "o certificado",
+      "ipa": "/seʁ.tʃi.fiˈka.du/",
+      "en": "certificate",
+      "ar": "الشهادة",
+      "example": {
+        "pt": "Parabéns! Você acaba de concluir o nível C2 do curso.",
+        "en": "Congratulations! You have just completed the C2 level of the course.",
+        "ar": "مبروك! لقد أكملت للتو المستوى C2 من الدورة."
+      }
+    },
+    {
+      "pt": "a carreira",
+      "ipa": "/kaˈxej.ɾa/",
+      "en": "career",
+      "ar": "المسيرة المهنية",
+      "example": {
+        "pt": "Planejo um intercâmbio com vistas a ativar o vocabulário no dia a dia.",
+        "en": "I plan an exchange program with a view to activating the vocabulary in daily life.",
+        "ar": "أخطط لتبادل دراسي بهدف تفعيل المفردات في الحياة اليومية."
+      }
+    },
+    {
+      "pt": "o idioma",
+      "ipa": "/i.dʒiˈõ.ma/",
+      "en": "language",
+      "ar": "اللغة",
+      "example": {
+        "pt": "Parabéns! Você acaba de concluir o nível C2 do curso.",
+        "en": "Congratulations! You have just completed the C2 level of the course.",
+        "ar": "مبروك! لقد أكملت للتو المستوى C2 من الدورة."
+      }
+    },
+    {
+      "pt": "o avanço",
+      "ipa": "/aˈvɐ̃.su/",
+      "en": "advance / progress",
+      "ar": "التقدم",
+      "example": {
+        "pt": "Parabéns! Você acaba de concluir o nível C2 do curso.",
+        "en": "Congratulations! You have just completed the C2 level of the course.",
+        "ar": "مبروك! لقد أكملت للتو المستوى C2 من الدورة."
+      }
+    },
+    {
+      "pt": "o aprendizado contínuo",
+      "ipa": "/a.pɾẽ.dʒiˈza.du kõˈtʃĩ.nu.u/",
+      "en": "continuous learning",
+      "ar": "التعلم المستمر",
+      "example": {
+        "pt": "Parabéns! Você acaba de concluir o nível C2 do curso.",
+        "en": "Congratulations! You have just completed the C2 level of the course.",
+        "ar": "مبروك! لقد أكملت للتو المستوى C2 من الدورة."
+      }
+    },
+    {
+      "pt": "a imersão",
+      "ipa": "/ĩ.meʁˈsɐ̃w/",
+      "en": "immersion",
+      "ar": "الانغماس",
+      "example": {
+        "pt": "Planejo um intercâmbio com vistas a ativar o vocabulário no dia a dia.",
+        "en": "I plan an exchange program with a view to activating the vocabulary in daily life.",
+        "ar": "أخطط لتبادل دراسي بهدف تفعيل المفردات في الحياة اليومية."
+      }
+    },
+    {
+      "pt": "o intercâmbio",
+      "ipa": "/ĩ.teʁˈkɐ̃.bi.u/",
+      "en": "exchange program",
+      "ar": "التبادل الدراسي",
+      "example": {
+        "pt": "Parabéns! Você acaba de concluir o nível C2 do curso.",
+        "en": "Congratulations! You have just completed the C2 level of the course.",
+        "ar": "مبروك! لقد أكملت للتو المستوى C2 من الدورة."
+      }
+    },
+    {
+      "pt": "o networking",
+      "ipa": "/ˈnɛt.wəʁ.kĩ/",
+      "en": "networking",
+      "ar": "التواصل المهني",
+      "example": {
+        "pt": "Parabéns! Você acaba de concluir o nível C2 do curso.",
+        "en": "Congratulations! You have just completed the C2 level of the course.",
+        "ar": "مبروك! لقد أكملت للتو المستوى C2 من الدورة."
+      }
+    },
+    {
+      "pt": "o curso avançado",
+      "ipa": "/ˈkuʁ.su a.vɐ̃ˈsa.du/",
+      "en": "advanced course",
+      "ar": "الدورة المتقدمة",
+      "example": {
+        "pt": "Parabéns! Você acaba de concluir o nível C2 do curso.",
+        "en": "Congratulations! You have just completed the C2 level of the course.",
+        "ar": "مبروك! لقد أكملت للتو المستوى C2 من الدورة."
+      }
+    },
+    {
+      "pt": "a leitura fluente",
+      "ipa": "/lejˈtu.ɾa fluˈẽ.tʃi/",
+      "en": "fluent reading",
+      "ar": "القراءة الطليقة",
+      "example": {
+        "pt": "Planejo um intercâmbio com vistas a ativar o vocabulário no dia a dia.",
+        "en": "I plan an exchange program with a view to activating the vocabulary in daily life.",
+        "ar": "أخطط لتبادل دراسي بهدف تفعيل المفردات في الحياة اليومية."
+      }
+    },
+    {
+      "pt": "o falante nativo",
+      "ipa": "/faˈlɐ̃.tʃi naˈtʃi.vu/",
+      "en": "native speaker",
+      "ar": "المتحدث الأصلي",
+      "example": {
+        "pt": "Parabéns! Você acaba de concluir o nível C2 do curso.",
+        "en": "Congratulations! You have just completed the C2 level of the course.",
+        "ar": "مبروك! لقد أكملت للتو المستوى C2 من الدورة."
+      }
+    },
+    {
+      "pt": "a manutenção",
+      "ipa": "/ma.nu.tẽˈsɐ̃w/",
+      "en": "maintenance",
+      "ar": "الصيانة / الاستمرار",
+      "example": {
+        "pt": "Planejo um intercâmbio com vistas a ativar o vocabulário no dia a dia.",
+        "en": "I plan an exchange program with a view to activating the vocabulary in daily life.",
+        "ar": "أخطط لتبادل دراسي بهدف تفعيل المفردات في الحياة اليومية."
+      }
+    },
+    {
+      "pt": "o vocabulário passivo",
+      "ipa": "/vo.ka.buˈla.ɾi.u paˈsi.vu/",
+      "en": "passive vocabulary",
+      "ar": "المفردات السلبية",
+      "example": {
+        "pt": "Parabéns! Você acaba de concluir o nível C2 do curso.",
+        "en": "Congratulations! You have just completed the C2 level of the course.",
+        "ar": "مبروك! لقد أكملت للتو المستوى C2 من الدورة."
+      }
+    },
+    {
+      "pt": "o vocabulário ativo",
+      "ipa": "/vo.ka.buˈla.ɾi.u aˈtʃi.vu/",
+      "en": "active vocabulary",
+      "ar": "المفردات الفاعلة",
+      "example": {
+        "pt": "Parabéns! Você acaba de concluir o nível C2 do curso.",
+        "en": "Congratulations! You have just completed the C2 level of the course.",
+        "ar": "مبروك! لقد أكملت للتو المستوى C2 من الدورة."
+      }
+    },
+    {
+      "pt": "o sotaque",
+      "ipa": "/soˈta.ki/",
+      "en": "accent",
+      "ar": "اللهجة / النبر",
+      "example": {
+        "pt": "Parabéns! Você acaba de concluir o nível C2 do curso.",
+        "en": "Congratulations! You have just completed the C2 level of the course.",
+        "ar": "مبروك! لقد أكملت للتو المستوى C2 من الدورة."
+      }
+    },
+    {
+      "pt": "a fluência",
+      "ipa": "/fluˈẽ.si.a/",
+      "en": "fluency",
+      "ar": "الطلاقة",
+      "example": {
+        "pt": "Planejo um intercâmbio com vistas a ativar o vocabulário no dia a dia.",
+        "en": "I plan an exchange program with a view to activating the vocabulary in daily life.",
+        "ar": "أخطط لتبادل دراسي بهدف تفعيل المفردات في الحياة اليومية."
+      }
+    },
+    {
+      "pt": "o objetivo",
+      "ipa": "/o.biˈʒe.tʃi.vu/",
+      "en": "goal",
+      "ar": "الهدف",
+      "example": {
+        "pt": "Parabéns! Você acaba de concluir o nível C2 do curso.",
+        "en": "Congratulations! You have just completed the C2 level of the course.",
+        "ar": "مبروك! لقد أكملت للتو المستوى C2 من الدورة."
+      }
+    },
+    {
+      "pt": "a avaliação",
+      "ipa": "/a.va.li.aˈsɐ̃w/",
+      "en": "assessment",
+      "ar": "التقييم",
+      "example": {
+        "pt": "Planejo um intercâmbio com vistas a ativar o vocabulário no dia a dia.",
+        "en": "I plan an exchange program with a view to activating the vocabulary in daily life.",
+        "ar": "أخطط لتبادل دراسي بهدف تفعيل المفردات في الحياة اليومية."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "title": {
+        "pt": "Estratégias de Manutenção Linguística",
+        "en": "Language Maintenance Strategies",
+        "ar": "استراتيجيات صيانة اللغة"
+      },
+      "explanation": {
+        "pt": "A proficiência não é um ponto de chegada, mas um processo. Para manter o C2, o aprendiz deve ativar o vocabulário passivo por meio da leitura extensiva e transformá-lo em ativo pela escrita e pela fala. A imersão autodirigida — podcasts, séries sem legendas, clubes de leitura — deve ser planejada como rotina. Sem uso, a precisão, ainda que adquirida, tende a atrofiar.",
+        "en": "Proficiency is not a destination but a process. To maintain C2, the learner must activate passive vocabulary through extensive reading and turn it into active vocabulary through writing and speaking. Self-directed immersion — podcasts, series without subtitles, reading clubs — must be planned as a routine. Without use, precision, even once acquired, tends to atrophy.",
+        "ar": "الكفاءة ليست وجهة بل عملية. للحفاظ على مستوى C2، يجب على المتعلم تفعيل المفردات السلبية عبر القراءة الموسعة وتحويلها إلى مفردات فاعلة عبر الكتابة والكلام. ويجب أن تُخطّط الانغماس الذاتي — البودكاست، والمسلسلات دون ترجمة، ونوادي القراءة — كروتين. فبدون الاستخدام، تميل الدقة، حتى بعد اكتسابها، إلى الضمور."
+      },
+      "examples": [
+        {
+          "pt": "Ler um romance por mês mantém o vocabulário ativo em circulação.",
+          "en": "Reading one novel a month keeps the active vocabulary in circulation.",
+          "ar": "قراءة رواية كل شهر تحافظ على تداول المفردات الفاعلة."
+        },
+        {
+          "pt": "Escrever um diário ou um blog em português consolida a precisão.",
+          "en": "Writing a diary or a blog in Portuguese consolidates precision.",
+          "ar": "كتابة يوميات أو مدونة بالبرتغالية ترسخ الدقة."
+        },
+        {
+          "pt": "Assistir a séries sem legenda treina a compreensão auditiva de falares variados.",
+          "en": "Watching series without subtitles trains listening comprehension of varied accents.",
+          "ar": "مشاهدة المسلسلات دون ترجمة تدرب الفهم السمعي على لهجات متنوعة."
+        }
+      ]
+    },
+    {
+      "title": {
+        "pt": "Metas Futuras e Estruturas de Intenção",
+        "en": "Future Goals and Structures of Intention",
+        "ar": "الأهداف المستقبلية وتراكيب النية"
+      },
+      "explanation": {
+        "pt": "Para anunciar metas, o português usa o futuro do presente ('cursarei'), a estrutura 'pretendo + infinitivo', e locuções finais como 'a fim de' e 'com vistas a': 'Vou planejar um intercâmbio a fim de aprimorar a fluência'. O futuro composto ('terei consolidado') projeta a meta como concluída: 'Até dezembro, terei consolidado o vocabulário acadêmico'.",
+        "en": "To announce goals, Portuguese uses the simple future ('cursarei'), the structure 'pretendo + infinitive', and final phrases such as 'a fim de' and 'com vistas a': 'Vou planejar um intercâmbio a fim de aprimorar a fluência' (I will plan an exchange in order to improve my fluency). The compound future ('terei consolidado') projects the goal as completed: 'Até dezembro, terei consolidado o vocabulário acadêmico' (By December, I will have consolidated the academic vocabulary).",
+        "ar": "لإعلان الأهداف، تستخدم البرتغالية المستقبل البسيط ('cursarei')، وتركيب 'pretendo + مصدر'، والعبارات الغائية مثل 'a fim de' (من أجل) و'com vistas a' (بهدف): 'Vou planejar um intercâmbio a fim de aprimorar a fluência' (سأخطط لتبادل دراسي من أجل تحسين الطلاقة). أما المستقبل المركب ('terei consolidado') فيصور الهدف منجزًا: 'Até dezembro, terei consolidado o vocabulário acadêmico' (بحلول ديسمبر، سأكون قد راسخ المفردات الأكاديمية)."
+      },
+      "examples": [
+        {
+          "pt": "Pretendo fazer um intercâmbio em São Paulo no próximo ano.",
+          "en": "I intend to do an exchange program in São Paulo next year.",
+          "ar": "أعتزم إجراء تبادل دراسي في ساو باولو العام القادم."
+        },
+        {
+          "pt": "Vou criar um clube de leitura a fim de manter a prática oral.",
+          "en": "I will create a reading club in order to keep the oral practice.",
+          "ar": "سأنشئ نادي قراءة من أجل الحفاظ على الممارسة الشفهية."
+        },
+        {
+          "pt": "Até o fim do ano, terei consolidado o vocabulário jurídico.",
+          "en": "By the end of the year, I will have consolidated the legal vocabulary.",
+          "ar": "بحلول نهاية العام، سأكون قد راسخ المفردات القانونية."
+        }
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": {
+      "pt": "Parabéns, Formando!",
+      "en": "Congratulations, Graduate!",
+      "ar": "مبروك أيها الخريج!"
+    },
+    "lines": [
+      {
+        "speaker": "Prof. Ramos",
+        "pt": "Parabéns! Você acaba de concluir o nível C2 do curso.",
+        "en": "Congratulations! You have just completed the C2 level of the course.",
+        "ar": "مبروك! لقد أكملت للتو المستوى C2 من الدورة."
+      },
+      {
+        "speaker": "Aluno",
+        "pt": "Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.",
+        "en": "Thank you very much. It was a long journey, but immensely rewarding.",
+        "ar": "شكرًا جزيلًا. كانت رحلة طويلة، لكنها مجزية للغاية."
+      },
+      {
+        "speaker": "Prof. Ramos",
+        "pt": "Agora o certificado será emitido, e o que você faz com o idioma é com você.",
+        "en": "Now the certificate will be issued, and what you do with the language is up to you.",
+        "ar": "الآن ستصدر الشهادة، وما تفعله باللغة يعود إليك."
+      },
+      {
+        "speaker": "Aluno",
+        "pt": "Planejo um intercâmbio com vistas a ativar o vocabulário no dia a dia.",
+        "en": "I plan an exchange program with a view to activating the vocabulary in daily life.",
+        "ar": "أخطط لتبادل دراسي بهدف تفعيل المفردات في الحياة اليومية."
+      },
+      {
+        "speaker": "Prof. Ramos",
+        "pt": "Excelente. Lembre-se: a manutenção é tão importante quanto o avanço.",
+        "en": "Excellent. Remember: maintenance is as important as progress.",
+        "ar": "ممتاز. تذكر: الصيانة لا تقل أهمية عن التقدم."
+      },
+      {
+        "speaker": "Aluno",
+        "pt": "Certamente. Até o fim do ano, terei consolidado uma rotina de imersão.",
+        "en": "Certainly. By the end of the year, I will have consolidated an immersion routine.",
+        "ar": "بالتأكيد. بحلول نهاية العام، سأكون قد راسخ روتين انغماس."
+      }
+    ]
+  },
+  "reading": {
+    "title": {
+      "pt": "O Futuro é uma Ponte",
+      "en": "The Future Is a Bridge",
+      "ar": "المستقبل جسر"
+    },
+    "text_pt": "Concluir o nível C2 não é um fim, mas uma ponte para novos horizontes. Com o certificado em mãos, o falante pode atuar em contextos acadêmicos, profissionais e culturais de alto nível. A imersão contínua, os intercâmbios e o networking em português transformarão o domínio em vivência. Que cada nova leitura, cada conversa e cada desafio renove a alegria de falar esta língua.",
+    "text_en": "Completing level C2 is not an end, but a bridge to new horizons. With the certificate in hand, the speaker can work in high-level academic, professional and cultural contexts. Continuous immersion, exchange programs and networking in Portuguese will turn mastery into lived experience. May every new reading, every conversation and every challenge renew the joy of speaking this language.",
+    "text_ar": "إن إكمال المستوى C2 ليس نهاية، بل جسر نحو آفاق جديدة. فبالشهادة بين يديه، يمكن للمتحدث العمل في سياقات أكاديمية ومهنية وثقافية رفيعة. الانغماس المتواصل والتبادلات والتواصل المهني بالبرتغالية ستحوّل الإتقان إلى تجربة معيشة. وليُجدد كل قراءة جديدة وكل حديث وكل تحدٍ فرحة التحدث بهذه اللغة."
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual locução final expressa 'a fim de'?",
+        "en": "Which final phrase expresses 'a fim de'?",
+        "ar": "ما العبارة الغائية التي تعادل 'a fim de'؟"
+      },
+      "options": [
+        {
+          "pt": "com vistas a",
+          "en": "com vistas a",
+          "ar": "com vistas a"
+        },
+        {
+          "pt": "apesar de",
+          "en": "apesar de",
+          "ar": "apesar de"
+        },
+        {
+          "pt": "embora",
+          "en": "embora",
+          "ar": "embora"
+        }
+      ],
+      "answer": "com vistas a",
+      "explanation": {
+        "pt": "'Com vistas a' também introduz finalidade, como 'a fim de'.",
+        "en": "'Com vistas a' also introduces purpose, like 'a fim de'.",
+        "ar": "عبارة 'com vistas a' تقدم أيضًا الغاية مثل 'a fim de'."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Em 'Até dezembro, terei consolidado o vocabulário', o tempo verbal é...",
+        "en": "In 'Até dezembro, terei consolidado o vocabulário', the verb tense is...",
+        "ar": "في جملة 'Até dezembro, terei consolidado o vocabulário'، يكون زمن الفعل..."
+      },
+      "options": [
+        {
+          "pt": "futuro do presente composto",
+          "en": "compound simple future",
+          "ar": "المستقبل البسيط المركب"
+        },
+        {
+          "pt": "pretérito imperfeito",
+          "en": "imperfect past",
+          "ar": "الماضي الناقص"
+        },
+        {
+          "pt": "presente do subjuntivo",
+          "en": "present subjunctive",
+          "ar": "المضارع المنصوب"
+        }
+      ],
+      "answer": "futuro do presente composto",
+      "explanation": {
+        "pt": "'Terei consolidado' é futuro do presente composto, projetando a meta como concluída.",
+        "en": "'Terei consolidado' is the compound simple future, projecting the goal as completed.",
+        "ar": "'terei consolidado' مستقبل بسيط مركب، يصور الهدف منجزًا."
+      }
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: 'continuous learning'",
+        "en": "Translate into Portuguese: 'continuous learning'",
+        "ar": "ترجم إلى البرتغالية: 'continuous learning'"
+      },
+      "options": [],
+      "answer": "aprendizado contínuo",
+      "explanation": {
+        "pt": "'Aprendizado contínuo' é a expressão consagrada.",
+        "en": "'Aprendizado contínuo' is the established expression.",
+        "ar": "التعبير المتعارف عليه هو 'aprendizado contínuo'."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        },
+        {
+          "pt": "curso.",
+          "en": "curso.",
+          "ar": "curso."
+        },
+        {
+          "pt": "concluir",
+          "en": "concluir",
+          "ar": "concluir"
+        },
+        {
+          "pt": "Parabéns!",
+          "en": "Parabéns!",
+          "ar": "Parabéns!"
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "acaba",
+          "en": "acaba",
+          "ar": "acaba"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "nível",
+          "en": "nível",
+          "ar": "nível"
+        },
+        {
+          "pt": "C2",
+          "en": "C2",
+          "ar": "C2"
+        }
+      ],
+      "answer": "Parabéns! Você acaba de concluir o nível C2 do curso.",
+      "accepted": [
+        "Parabéns! Você acaba de concluir o nível C2 do curso."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Parabéns! Você acaba de concluir o nível C2 do curso.'",
+        "en": "The correct order: 'Congratulations! You have just completed the C2 level of the course.'",
+        "ar": "الترتيب الصحيح: 'مبروك! لقد أكملت للتو المستوى C2 من الدورة.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o idioma",
+          "en": "immersion",
+          "ar": "o idioma"
+        },
+        {
+          "pt": "o certificado",
+          "en": "language",
+          "ar": "o certificado"
+        },
+        {
+          "pt": "a imersão",
+          "en": "career",
+          "ar": "a imersão"
+        },
+        {
+          "pt": "o avanço",
+          "en": "continuous learning",
+          "ar": "o avanço"
+        },
+        {
+          "pt": "a carreira",
+          "en": "advance / progress",
+          "ar": "a carreira"
+        },
+        {
+          "pt": "o aprendizado contínuo",
+          "en": "certificate",
+          "ar": "o aprendizado contínuo"
+        }
+      ],
+      "answer": "o idioma::immersion|o certificado::language|a imersão::career|o avanço::continuous learning|a carreira::advance / progress|o aprendizado contínuo::certificate",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Parabéns! Você acaba de concluir o nível C2 do curso.",
+          "en": "Certainly. By the end of the year, I will have consolidated an immersion routine.",
+          "ar": "بالتأكيد. بحلول نهاية العام، سأكون قد راسخ روتين انغماس."
+        },
+        {
+          "pt": "Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.",
+          "en": "Congratulations! You have just completed the C2 level of the course.",
+          "ar": "شكرًا جزيلًا. كانت رحلة طويلة، لكنها مجزية للغاية."
+        },
+        {
+          "pt": "Certamente. Até o fim do ano, terei consolidado uma rotina de imersão.",
+          "en": "Thank you very much. It was a long journey, but immensely rewarding.",
+          "ar": "مبروك! لقد أكملت للتو المستوى C2 من الدورة."
+        }
+      ],
+      "answer": "Parabéns! Você acaba de concluir o nível C2 do curso.",
+      "accepted": [],
+      "audio": "Parabéns! Você acaba de concluir o nível C2 do curso.",
+      "explanation": {
+        "pt": "Você ouviu: 'Parabéns! Você acaba de concluir o nível C2 do curso.' — 'Congratulations! You have just completed the C2 level of the course.'",
+        "en": "You heard: 'Parabéns! Você acaba de concluir o nível C2 do curso.' — 'Congratulations! You have just completed the C2 level of the course.'",
+        "ar": "سمعت: 'Parabéns! Você acaba de concluir o nível C2 do curso.' — 'مبروك! لقد أكملت للتو المستوى C2 من الدورة.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.",
+          "en": "Excellent. Remember: maintenance is as important as progress.",
+          "ar": "ممتاز. تذكر: الصيانة لا تقل أهمية عن التقدم."
+        },
+        {
+          "pt": "Excelente. Lembre-se: a manutenção é tão importante quanto o avanço.",
+          "en": "Thank you very much. It was a long journey, but immensely rewarding.",
+          "ar": "شكرًا جزيلًا. كانت رحلة طويلة، لكنها مجزية للغاية."
+        },
+        {
+          "pt": "Certamente. Até o fim do ano, terei consolidado uma rotina de imersão.",
+          "en": "Certainly. By the end of the year, I will have consolidated an immersion routine.",
+          "ar": "بالتأكيد. بحلول نهاية العام، سأكون قد راسخ روتين انغماس."
+        }
+      ],
+      "answer": "Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.",
+      "accepted": [],
+      "audio": "Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.",
+      "explanation": {
+        "pt": "Você ouviu: 'Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.' — 'Thank you very much. It was a long journey, but immensely rewarding.'",
+        "en": "You heard: 'Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.' — 'Thank you very much. It was a long journey, but immensely rewarding.'",
+        "ar": "سمعت: 'Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.' — 'شكرًا جزيلًا. كانت رحلة طويلة، لكنها مجزية للغاية.'"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Ler um romance por mês mantém o vocabulário ativo ___ circulação.",
+        "en": "Ler um romance por mês mantém o vocabulário ativo ___ circulação.",
+        "ar": "Ler um romance por mês mantém o vocabulário ativo ___ circulação."
+      },
+      "options": [
+        {
+          "pt": "em",
+          "en": "em",
+          "ar": "em"
+        },
+        {
+          "pt": "consolida",
+          "en": "consolida",
+          "ar": "consolida"
+        },
+        {
+          "pt": "Assistir",
+          "en": "Assistir",
+          "ar": "Assistir"
+        }
+      ],
+      "answer": "em",
+      "accepted": [],
+      "explanation": {
+        "pt": "A resposta é 'em'. Frase completa: Ler um romance por mês mantém o vocabulário ativo em circulação.",
+        "en": "The answer is 'em'. Full sentence: Reading one novel a month keeps the active vocabulary in circulation.",
+        "ar": "الإجابة الصحيحة: 'em'. الجملة كاملة: قراءة رواية كل شهر تحافظ على تداول المفردات الفاعلة."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "curso.",
+          "en": "curso.",
+          "ar": "curso."
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        },
+        {
+          "pt": "C2",
+          "en": "C2",
+          "ar": "C2"
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "nível",
+          "en": "nível",
+          "ar": "nível"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "concluir",
+          "en": "concluir",
+          "ar": "concluir"
+        },
+        {
+          "pt": "Parabéns!",
+          "en": "Parabéns!",
+          "ar": "Parabéns!"
+        },
+        {
+          "pt": "acaba",
+          "en": "acaba",
+          "ar": "acaba"
+        }
+      ],
+      "answer": "Parabéns! Você acaba de concluir o nível C2 do curso.",
+      "accepted": [
+        "Parabéns! Você acaba de concluir o nível C2 do curso."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Parabéns! Você acaba de concluir o nível C2 do curso.'",
+        "en": "The correct order: 'Congratulations! You have just completed the C2 level of the course.'",
+        "ar": "الترتيب الصحيح: 'مبروك! لقد أكملت للتو المستوى C2 من الدورة.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o aprendizado contínuo",
+          "en": "immersion",
+          "ar": "o aprendizado contínuo"
+        },
+        {
+          "pt": "o certificado",
+          "en": "certificate",
+          "ar": "o certificado"
+        },
+        {
+          "pt": "o avanço",
+          "en": "continuous learning",
+          "ar": "o avanço"
+        },
+        {
+          "pt": "a imersão",
+          "en": "advance / progress",
+          "ar": "a imersão"
+        },
+        {
+          "pt": "a carreira",
+          "en": "career",
+          "ar": "a carreira"
+        },
+        {
+          "pt": "o idioma",
+          "en": "language",
+          "ar": "o idioma"
+        }
+      ],
+      "answer": "o aprendizado contínuo::immersion|o certificado::certificate|o avanço::continuous learning|a imersão::advance / progress|a carreira::career|o idioma::language",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Planejo um intercâmbio com vistas a ativar o vocabulário no dia a dia.",
+          "en": "I plan an exchange program with a view to activating the vocabulary in daily life.",
+          "ar": "مبروك! لقد أكملت للتو المستوى C2 من الدورة."
+        },
+        {
+          "pt": "Excelente. Lembre-se: a manutenção é tão importante quanto o avanço.",
+          "en": "Congratulations! You have just completed the C2 level of the course.",
+          "ar": "أخطط لتبادل دراسي بهدف تفعيل المفردات في الحياة اليومية."
+        },
+        {
+          "pt": "Parabéns! Você acaba de concluir o nível C2 do curso.",
+          "en": "Excellent. Remember: maintenance is as important as progress.",
+          "ar": "ممتاز. تذكر: الصيانة لا تقل أهمية عن التقدم."
+        }
+      ],
+      "answer": "Parabéns! Você acaba de concluir o nível C2 do curso.",
+      "accepted": [],
+      "audio": "Parabéns! Você acaba de concluir o nível C2 do curso.",
+      "explanation": {
+        "pt": "Você ouviu: 'Parabéns! Você acaba de concluir o nível C2 do curso.' — 'Congratulations! You have just completed the C2 level of the course.'",
+        "en": "You heard: 'Parabéns! Você acaba de concluir o nível C2 do curso.' — 'Congratulations! You have just completed the C2 level of the course.'",
+        "ar": "سمعت: 'Parabéns! Você acaba de concluir o nível C2 do curso.' — 'مبروك! لقد أكملت للتو المستوى C2 من الدورة.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Parabéns! Você acaba de concluir o nível C2 do curso.",
+          "en": "Excellent. Remember: maintenance is as important as progress.",
+          "ar": "ممتاز. تذكر: الصيانة لا تقل أهمية عن التقدم."
+        },
+        {
+          "pt": "Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.",
+          "en": "Congratulations! You have just completed the C2 level of the course.",
+          "ar": "شكرًا جزيلًا. كانت رحلة طويلة، لكنها مجزية للغاية."
+        },
+        {
+          "pt": "Excelente. Lembre-se: a manutenção é tão importante quanto o avanço.",
+          "en": "Thank you very much. It was a long journey, but immensely rewarding.",
+          "ar": "مبروك! لقد أكملت للتو المستوى C2 من الدورة."
+        }
+      ],
+      "answer": "Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.",
+      "accepted": [],
+      "audio": "Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.",
+      "explanation": {
+        "pt": "Você ouviu: 'Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.' — 'Thank you very much. It was a long journey, but immensely rewarding.'",
+        "en": "You heard: 'Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.' — 'Thank you very much. It was a long journey, but immensely rewarding.'",
+        "ar": "سمعت: 'Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.' — 'شكرًا جزيلًا. كانت رحلة طويلة، لكنها مجزية للغاية.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "curso.",
+          "en": "curso.",
+          "ar": "curso."
+        },
+        {
+          "pt": "C2",
+          "en": "C2",
+          "ar": "C2"
+        },
+        {
+          "pt": "acaba",
+          "en": "acaba",
+          "ar": "acaba"
+        },
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "concluir",
+          "en": "concluir",
+          "ar": "concluir"
+        },
+        {
+          "pt": "Parabéns!",
+          "en": "Parabéns!",
+          "ar": "Parabéns!"
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "nível",
+          "en": "nível",
+          "ar": "nível"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        }
+      ],
+      "answer": "Parabéns! Você acaba de concluir o nível C2 do curso.",
+      "accepted": [
+        "Parabéns! Você acaba de concluir o nível C2 do curso."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Parabéns! Você acaba de concluir o nível C2 do curso.'",
+        "en": "The correct order: 'Congratulations! You have just completed the C2 level of the course.'",
+        "ar": "الترتيب الصحيح: 'مبروك! لقد أكملت للتو المستوى C2 من الدورة.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o certificado",
+          "en": "advance / progress",
+          "ar": "o certificado"
+        },
+        {
+          "pt": "a carreira",
+          "en": "language",
+          "ar": "a carreira"
+        },
+        {
+          "pt": "o aprendizado contínuo",
+          "en": "certificate",
+          "ar": "o aprendizado contínuo"
+        },
+        {
+          "pt": "o idioma",
+          "en": "career",
+          "ar": "o idioma"
+        },
+        {
+          "pt": "o avanço",
+          "en": "continuous learning",
+          "ar": "o avanço"
+        },
+        {
+          "pt": "a imersão",
+          "en": "immersion",
+          "ar": "a imersão"
+        }
+      ],
+      "answer": "o certificado::advance / progress|a carreira::language|o aprendizado contínuo::certificate|o idioma::career|o avanço::continuous learning|a imersão::immersion",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Agora o certificado será emitido, e o que você faz com o idioma é com você.",
+          "en": "Congratulations! You have just completed the C2 level of the course.",
+          "ar": "الآن ستصدر الشهادة، وما تفعله باللغة يعود إليك."
+        },
+        {
+          "pt": "Planejo um intercâmbio com vistas a ativar o vocabulário no dia a dia.",
+          "en": "I plan an exchange program with a view to activating the vocabulary in daily life.",
+          "ar": "أخطط لتبادل دراسي بهدف تفعيل المفردات في الحياة اليومية."
+        },
+        {
+          "pt": "Parabéns! Você acaba de concluir o nível C2 do curso.",
+          "en": "Now the certificate will be issued, and what you do with the language is up to you.",
+          "ar": "مبروك! لقد أكملت للتو المستوى C2 من الدورة."
+        }
+      ],
+      "answer": "Parabéns! Você acaba de concluir o nível C2 do curso.",
+      "accepted": [],
+      "audio": "Parabéns! Você acaba de concluir o nível C2 do curso.",
+      "explanation": {
+        "pt": "Você ouviu: 'Parabéns! Você acaba de concluir o nível C2 do curso.' — 'Congratulations! You have just completed the C2 level of the course.'",
+        "en": "You heard: 'Parabéns! Você acaba de concluir o nível C2 do curso.' — 'Congratulations! You have just completed the C2 level of the course.'",
+        "ar": "سمعت: 'Parabéns! Você acaba de concluir o nível C2 do curso.' — 'مبروك! لقد أكملت للتو المستوى C2 من الدورة.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Agora o certificado será emitido, e o que você faz com o idioma é com você.",
+          "en": "Now the certificate will be issued, and what you do with the language is up to you.",
+          "ar": "شكرًا جزيلًا. كانت رحلة طويلة، لكنها مجزية للغاية."
+        },
+        {
+          "pt": "Certamente. Até o fim do ano, terei consolidado uma rotina de imersão.",
+          "en": "Thank you very much. It was a long journey, but immensely rewarding.",
+          "ar": "الآن ستصدر الشهادة، وما تفعله باللغة يعود إليك."
+        },
+        {
+          "pt": "Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.",
+          "en": "Certainly. By the end of the year, I will have consolidated an immersion routine.",
+          "ar": "بالتأكيد. بحلول نهاية العام، سأكون قد راسخ روتين انغماس."
+        }
+      ],
+      "answer": "Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.",
+      "accepted": [],
+      "audio": "Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.",
+      "explanation": {
+        "pt": "Você ouviu: 'Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.' — 'Thank you very much. It was a long journey, but immensely rewarding.'",
+        "en": "You heard: 'Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.' — 'Thank you very much. It was a long journey, but immensely rewarding.'",
+        "ar": "سمعت: 'Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.' — 'شكرًا جزيلًا. كانت رحلة طويلة، لكنها مجزية للغاية.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Parabéns!",
+          "en": "Parabéns!",
+          "ar": "Parabéns!"
+        },
+        {
+          "pt": "C2",
+          "en": "C2",
+          "ar": "C2"
+        },
+        {
+          "pt": "acaba",
+          "en": "acaba",
+          "ar": "acaba"
+        },
+        {
+          "pt": "curso.",
+          "en": "curso.",
+          "ar": "curso."
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "concluir",
+          "en": "concluir",
+          "ar": "concluir"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "nível",
+          "en": "nível",
+          "ar": "nível"
+        }
+      ],
+      "answer": "Parabéns! Você acaba de concluir o nível C2 do curso.",
+      "accepted": [
+        "Parabéns! Você acaba de concluir o nível C2 do curso."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Parabéns! Você acaba de concluir o nível C2 do curso.'",
+        "en": "The correct order: 'Congratulations! You have just completed the C2 level of the course.'",
+        "ar": "الترتيب الصحيح: 'مبروك! لقد أكملت للتو المستوى C2 من الدورة.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o aprendizado contínuo",
+          "en": "certificate",
+          "ar": "o aprendizado contínuo"
+        },
+        {
+          "pt": "a carreira",
+          "en": "career",
+          "ar": "a carreira"
+        },
+        {
+          "pt": "o avanço",
+          "en": "continuous learning",
+          "ar": "o avanço"
+        },
+        {
+          "pt": "a imersão",
+          "en": "language",
+          "ar": "a imersão"
+        },
+        {
+          "pt": "o idioma",
+          "en": "immersion",
+          "ar": "o idioma"
+        },
+        {
+          "pt": "o certificado",
+          "en": "advance / progress",
+          "ar": "o certificado"
+        }
+      ],
+      "answer": "o aprendizado contínuo::certificate|a carreira::career|o avanço::continuous learning|a imersão::language|o idioma::immersion|o certificado::advance / progress",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Planejo um intercâmbio com vistas a ativar o vocabulário no dia a dia.",
+          "en": "Now the certificate will be issued, and what you do with the language is up to you.",
+          "ar": "الآن ستصدر الشهادة، وما تفعله باللغة يعود إليك."
+        },
+        {
+          "pt": "Agora o certificado será emitido, e o que você faz com o idioma é com você.",
+          "en": "I plan an exchange program with a view to activating the vocabulary in daily life.",
+          "ar": "أخطط لتبادل دراسي بهدف تفعيل المفردات في الحياة اليومية."
+        },
+        {
+          "pt": "Parabéns! Você acaba de concluir o nível C2 do curso.",
+          "en": "Congratulations! You have just completed the C2 level of the course.",
+          "ar": "مبروك! لقد أكملت للتو المستوى C2 من الدورة."
+        }
+      ],
+      "answer": "Parabéns! Você acaba de concluir o nível C2 do curso.",
+      "accepted": [],
+      "audio": "Parabéns! Você acaba de concluir o nível C2 do curso.",
+      "explanation": {
+        "pt": "Você ouviu: 'Parabéns! Você acaba de concluir o nível C2 do curso.' — 'Congratulations! You have just completed the C2 level of the course.'",
+        "en": "You heard: 'Parabéns! Você acaba de concluir o nível C2 do curso.' — 'Congratulations! You have just completed the C2 level of the course.'",
+        "ar": "سمعت: 'Parabéns! Você acaba de concluir o nível C2 do curso.' — 'مبروك! لقد أكملت للتو المستوى C2 من الدورة.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.",
+          "en": "Certainly. By the end of the year, I will have consolidated an immersion routine.",
+          "ar": "ممتاز. تذكر: الصيانة لا تقل أهمية عن التقدم."
+        },
+        {
+          "pt": "Excelente. Lembre-se: a manutenção é tão importante quanto o avanço.",
+          "en": "Thank you very much. It was a long journey, but immensely rewarding.",
+          "ar": "بالتأكيد. بحلول نهاية العام، سأكون قد راسخ روتين انغماس."
+        },
+        {
+          "pt": "Certamente. Até o fim do ano, terei consolidado uma rotina de imersão.",
+          "en": "Excellent. Remember: maintenance is as important as progress.",
+          "ar": "شكرًا جزيلًا. كانت رحلة طويلة، لكنها مجزية للغاية."
+        }
+      ],
+      "answer": "Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.",
+      "accepted": [],
+      "audio": "Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.",
+      "explanation": {
+        "pt": "Você ouviu: 'Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.' — 'Thank you very much. It was a long journey, but immensely rewarding.'",
+        "en": "You heard: 'Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.' — 'Thank you very much. It was a long journey, but immensely rewarding.'",
+        "ar": "سمعت: 'Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.' — 'شكرًا جزيلًا. كانت رحلة طويلة، لكنها مجزية للغاية.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "acaba",
+          "en": "acaba",
+          "ar": "acaba"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "curso.",
+          "en": "curso.",
+          "ar": "curso."
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "Parabéns!",
+          "en": "Parabéns!",
+          "ar": "Parabéns!"
+        },
+        {
+          "pt": "nível",
+          "en": "nível",
+          "ar": "nível"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "C2",
+          "en": "C2",
+          "ar": "C2"
+        },
+        {
+          "pt": "concluir",
+          "en": "concluir",
+          "ar": "concluir"
+        },
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        }
+      ],
+      "answer": "Parabéns! Você acaba de concluir o nível C2 do curso.",
+      "accepted": [
+        "Parabéns! Você acaba de concluir o nível C2 do curso."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Parabéns! Você acaba de concluir o nível C2 do curso.'",
+        "en": "The correct order: 'Congratulations! You have just completed the C2 level of the course.'",
+        "ar": "الترتيب الصحيح: 'مبروك! لقد أكملت للتو المستوى C2 من الدورة.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o certificado",
+          "en": "continuous learning",
+          "ar": "o certificado"
+        },
+        {
+          "pt": "a imersão",
+          "en": "language",
+          "ar": "a imersão"
+        },
+        {
+          "pt": "a carreira",
+          "en": "certificate",
+          "ar": "a carreira"
+        },
+        {
+          "pt": "o idioma",
+          "en": "career",
+          "ar": "o idioma"
+        },
+        {
+          "pt": "o avanço",
+          "en": "advance / progress",
+          "ar": "o avanço"
+        },
+        {
+          "pt": "o aprendizado contínuo",
+          "en": "immersion",
+          "ar": "o aprendizado contínuo"
+        }
+      ],
+      "answer": "o certificado::continuous learning|a imersão::language|a carreira::certificate|o idioma::career|o avanço::advance / progress|o aprendizado contínuo::immersion",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Agora o certificado será emitido, e o que você faz com o idioma é com você.",
+          "en": "Congratulations! You have just completed the C2 level of the course.",
+          "ar": "الآن ستصدر الشهادة، وما تفعله باللغة يعود إليك."
+        },
+        {
+          "pt": "Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.",
+          "en": "Thank you very much. It was a long journey, but immensely rewarding.",
+          "ar": "مبروك! لقد أكملت للتو المستوى C2 من الدورة."
+        },
+        {
+          "pt": "Parabéns! Você acaba de concluir o nível C2 do curso.",
+          "en": "Now the certificate will be issued, and what you do with the language is up to you.",
+          "ar": "شكرًا جزيلًا. كانت رحلة طويلة، لكنها مجزية للغاية."
+        }
+      ],
+      "answer": "Parabéns! Você acaba de concluir o nível C2 do curso.",
+      "accepted": [],
+      "audio": "Parabéns! Você acaba de concluir o nível C2 do curso.",
+      "explanation": {
+        "pt": "Você ouviu: 'Parabéns! Você acaba de concluir o nível C2 do curso.' — 'Congratulations! You have just completed the C2 level of the course.'",
+        "en": "You heard: 'Parabéns! Você acaba de concluir o nível C2 do curso.' — 'Congratulations! You have just completed the C2 level of the course.'",
+        "ar": "سمعت: 'Parabéns! Você acaba de concluir o nível C2 do curso.' — 'مبروك! لقد أكملت للتو المستوى C2 من الدورة.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Parabéns! Você acaba de concluir o nível C2 do curso.",
+          "en": "Now the certificate will be issued, and what you do with the language is up to you.",
+          "ar": "الآن ستصدر الشهادة، وما تفعله باللغة يعود إليك."
+        },
+        {
+          "pt": "Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.",
+          "en": "Thank you very much. It was a long journey, but immensely rewarding.",
+          "ar": "مبروك! لقد أكملت للتو المستوى C2 من الدورة."
+        },
+        {
+          "pt": "Agora o certificado será emitido, e o que você faz com o idioma é com você.",
+          "en": "Congratulations! You have just completed the C2 level of the course.",
+          "ar": "شكرًا جزيلًا. كانت رحلة طويلة، لكنها مجزية للغاية."
+        }
+      ],
+      "answer": "Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.",
+      "accepted": [],
+      "audio": "Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.",
+      "explanation": {
+        "pt": "Você ouviu: 'Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.' — 'Thank you very much. It was a long journey, but immensely rewarding.'",
+        "en": "You heard: 'Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.' — 'Thank you very much. It was a long journey, but immensely rewarding.'",
+        "ar": "سمعت: 'Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.' — 'شكرًا جزيلًا. كانت رحلة طويلة، لكنها مجزية للغاية.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "curso.",
+          "en": "curso.",
+          "ar": "curso."
+        },
+        {
+          "pt": "acaba",
+          "en": "acaba",
+          "ar": "acaba"
+        },
+        {
+          "pt": "C2",
+          "en": "C2",
+          "ar": "C2"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "nível",
+          "en": "nível",
+          "ar": "nível"
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "Parabéns!",
+          "en": "Parabéns!",
+          "ar": "Parabéns!"
+        },
+        {
+          "pt": "concluir",
+          "en": "concluir",
+          "ar": "concluir"
+        },
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        }
+      ],
+      "answer": "Parabéns! Você acaba de concluir o nível C2 do curso.",
+      "accepted": [
+        "Parabéns! Você acaba de concluir o nível C2 do curso."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Parabéns! Você acaba de concluir o nível C2 do curso.'",
+        "en": "The correct order: 'Congratulations! You have just completed the C2 level of the course.'",
+        "ar": "الترتيب الصحيح: 'مبروك! لقد أكملت للتو المستوى C2 من الدورة.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o certificado",
+          "en": "language",
+          "ar": "o certificado"
+        },
+        {
+          "pt": "o idioma",
+          "en": "continuous learning",
+          "ar": "o idioma"
+        },
+        {
+          "pt": "a carreira",
+          "en": "career",
+          "ar": "a carreira"
+        },
+        {
+          "pt": "o avanço",
+          "en": "advance / progress",
+          "ar": "o avanço"
+        },
+        {
+          "pt": "a imersão",
+          "en": "certificate",
+          "ar": "a imersão"
+        },
+        {
+          "pt": "o aprendizado contínuo",
+          "en": "immersion",
+          "ar": "o aprendizado contínuo"
+        }
+      ],
+      "answer": "o certificado::language|o idioma::continuous learning|a carreira::career|o avanço::advance / progress|a imersão::certificate|o aprendizado contínuo::immersion",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.",
+          "en": "Excellent. Remember: maintenance is as important as progress.",
+          "ar": "شكرًا جزيلًا. كانت رحلة طويلة، لكنها مجزية للغاية."
+        },
+        {
+          "pt": "Parabéns! Você acaba de concluir o nível C2 do curso.",
+          "en": "Congratulations! You have just completed the C2 level of the course.",
+          "ar": "ممتاز. تذكر: الصيانة لا تقل أهمية عن التقدم."
+        },
+        {
+          "pt": "Excelente. Lembre-se: a manutenção é tão importante quanto o avanço.",
+          "en": "Thank you very much. It was a long journey, but immensely rewarding.",
+          "ar": "مبروك! لقد أكملت للتو المستوى C2 من الدورة."
+        }
+      ],
+      "answer": "Parabéns! Você acaba de concluir o nível C2 do curso.",
+      "accepted": [],
+      "audio": "Parabéns! Você acaba de concluir o nível C2 do curso.",
+      "explanation": {
+        "pt": "Você ouviu: 'Parabéns! Você acaba de concluir o nível C2 do curso.' — 'Congratulations! You have just completed the C2 level of the course.'",
+        "en": "You heard: 'Parabéns! Você acaba de concluir o nível C2 do curso.' — 'Congratulations! You have just completed the C2 level of the course.'",
+        "ar": "سمعت: 'Parabéns! Você acaba de concluir o nível C2 do curso.' — 'مبروك! لقد أكملت للتو المستوى C2 من الدورة.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.",
+          "en": "Congratulations! You have just completed the C2 level of the course.",
+          "ar": "شكرًا جزيلًا. كانت رحلة طويلة، لكنها مجزية للغاية."
+        },
+        {
+          "pt": "Planejo um intercâmbio com vistas a ativar o vocabulário no dia a dia.",
+          "en": "Thank you very much. It was a long journey, but immensely rewarding.",
+          "ar": "مبروك! لقد أكملت للتو المستوى C2 من الدورة."
+        },
+        {
+          "pt": "Parabéns! Você acaba de concluir o nível C2 do curso.",
+          "en": "I plan an exchange program with a view to activating the vocabulary in daily life.",
+          "ar": "أخطط لتبادل دراسي بهدف تفعيل المفردات في الحياة اليومية."
+        }
+      ],
+      "answer": "Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.",
+      "accepted": [],
+      "audio": "Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.",
+      "explanation": {
+        "pt": "Você ouviu: 'Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.' — 'Thank you very much. It was a long journey, but immensely rewarding.'",
+        "en": "You heard: 'Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.' — 'Thank you very much. It was a long journey, but immensely rewarding.'",
+        "ar": "سمعت: 'Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.' — 'شكرًا جزيلًا. كانت رحلة طويلة، لكنها مجزية للغاية.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "Parabéns!",
+          "en": "Parabéns!",
+          "ar": "Parabéns!"
+        },
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        },
+        {
+          "pt": "nível",
+          "en": "nível",
+          "ar": "nível"
+        },
+        {
+          "pt": "concluir",
+          "en": "concluir",
+          "ar": "concluir"
+        },
+        {
+          "pt": "C2",
+          "en": "C2",
+          "ar": "C2"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "curso.",
+          "en": "curso.",
+          "ar": "curso."
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "acaba",
+          "en": "acaba",
+          "ar": "acaba"
+        }
+      ],
+      "answer": "Parabéns! Você acaba de concluir o nível C2 do curso.",
+      "accepted": [
+        "Parabéns! Você acaba de concluir o nível C2 do curso."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Parabéns! Você acaba de concluir o nível C2 do curso.'",
+        "en": "The correct order: 'Congratulations! You have just completed the C2 level of the course.'",
+        "ar": "الترتيب الصحيح: 'مبروك! لقد أكملت للتو المستوى C2 من الدورة.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o avanço",
+          "en": "advance / progress",
+          "ar": "o avanço"
+        },
+        {
+          "pt": "a carreira",
+          "en": "career",
+          "ar": "a carreira"
+        },
+        {
+          "pt": "o certificado",
+          "en": "certificate",
+          "ar": "o certificado"
+        },
+        {
+          "pt": "a imersão",
+          "en": "immersion",
+          "ar": "a imersão"
+        },
+        {
+          "pt": "o idioma",
+          "en": "continuous learning",
+          "ar": "o idioma"
+        },
+        {
+          "pt": "o aprendizado contínuo",
+          "en": "language",
+          "ar": "o aprendizado contínuo"
+        }
+      ],
+      "answer": "o avanço::advance / progress|a carreira::career|o certificado::certificate|a imersão::immersion|o idioma::continuous learning|o aprendizado contínuo::language",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Excelente. Lembre-se: a manutenção é tão importante quanto o avanço.",
+          "en": "Excellent. Remember: maintenance is as important as progress.",
+          "ar": "ممتاز. تذكر: الصيانة لا تقل أهمية عن التقدم."
+        },
+        {
+          "pt": "Agora o certificado será emitido, e o que você faz com o idioma é com você.",
+          "en": "Now the certificate will be issued, and what you do with the language is up to you.",
+          "ar": "مبروك! لقد أكملت للتو المستوى C2 من الدورة."
+        },
+        {
+          "pt": "Parabéns! Você acaba de concluir o nível C2 do curso.",
+          "en": "Congratulations! You have just completed the C2 level of the course.",
+          "ar": "الآن ستصدر الشهادة، وما تفعله باللغة يعود إليك."
+        }
+      ],
+      "answer": "Parabéns! Você acaba de concluir o nível C2 do curso.",
+      "accepted": [],
+      "audio": "Parabéns! Você acaba de concluir o nível C2 do curso.",
+      "explanation": {
+        "pt": "Você ouviu: 'Parabéns! Você acaba de concluir o nível C2 do curso.' — 'Congratulations! You have just completed the C2 level of the course.'",
+        "en": "You heard: 'Parabéns! Você acaba de concluir o nível C2 do curso.' — 'Congratulations! You have just completed the C2 level of the course.'",
+        "ar": "سمعت: 'Parabéns! Você acaba de concluir o nível C2 do curso.' — 'مبروك! لقد أكملت للتو المستوى C2 من الدورة.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.",
+          "en": "Excellent. Remember: maintenance is as important as progress.",
+          "ar": "شكرًا جزيلًا. كانت رحلة طويلة، لكنها مجزية للغاية."
+        },
+        {
+          "pt": "Excelente. Lembre-se: a manutenção é tão importante quanto o avanço.",
+          "en": "I plan an exchange program with a view to activating the vocabulary in daily life.",
+          "ar": "أخطط لتبادل دراسي بهدف تفعيل المفردات في الحياة اليومية."
+        },
+        {
+          "pt": "Planejo um intercâmbio com vistas a ativar o vocabulário no dia a dia.",
+          "en": "Thank you very much. It was a long journey, but immensely rewarding.",
+          "ar": "ممتاز. تذكر: الصيانة لا تقل أهمية عن التقدم."
+        }
+      ],
+      "answer": "Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.",
+      "accepted": [],
+      "audio": "Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.",
+      "explanation": {
+        "pt": "Você ouviu: 'Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.' — 'Thank you very much. It was a long journey, but immensely rewarding.'",
+        "en": "You heard: 'Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.' — 'Thank you very much. It was a long journey, but immensely rewarding.'",
+        "ar": "سمعت: 'Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.' — 'شكرًا جزيلًا. كانت رحلة طويلة، لكنها مجزية للغاية.'"
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'certificate'",
+        "en": "Type in Portuguese: 'certificate'",
+        "ar": "اكتب بالبرتغالية: 'الشهادة'"
+      },
+      "options": [],
+      "answer": "o certificado",
+      "accepted": [
+        "o certificado"
+      ],
+      "explanation": {
+        "pt": "'o certificado' significa 'certificate'.",
+        "en": "'o certificado' means 'certificate'.",
+        "ar": "'$o certificado' بالعربية: '$الشهادة'."
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'career'",
+        "en": "Type in Portuguese: 'career'",
+        "ar": "اكتب بالبرتغالية: 'المسيرة المهنية'"
+      },
+      "options": [],
+      "answer": "a carreira",
+      "accepted": [
+        "a carreira"
+      ],
+      "explanation": {
+        "pt": "'a carreira' significa 'career'.",
+        "en": "'a carreira' means 'career'.",
+        "ar": "'$a carreira' بالعربية: '$المسيرة المهنية'."
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Agora o certificado será emitido, e o que você faz com o idioma é com você.",
+          "en": "Agora o certificado será emitido, e o que você faz com o idioma é com você.",
+          "ar": "Agora o certificado será emitido, e o que você faz com o idioma é com você."
+        },
+        {
+          "pt": "Excelente. Lembre-se: a manutenção é tão importante quanto o avanço.",
+          "en": "Excelente. Lembre-se: a manutenção é tão importante quanto o avanço.",
+          "ar": "Excelente. Lembre-se: a manutenção é tão importante quanto o avanço."
+        },
+        {
+          "pt": "Parabéns! Você acaba de concluir o nível C2 do curso.",
+          "en": "Parabéns! Você acaba de concluir o nível C2 do curso.",
+          "ar": "Parabéns! Você acaba de concluir o nível C2 do curso."
+        }
+      ],
+      "answer": "Parabéns! Você acaba de concluir o nível C2 do curso.",
+      "accepted": [],
+      "audio": "Parabéns! Você acaba de concluir o nível C2 do curso.",
+      "explanation": {
+        "pt": "Você ouviu: 'Parabéns! Você acaba de concluir o nível C2 do curso.'",
+        "en": "You heard: 'Parabéns! Você acaba de concluir o nível C2 do curso.'",
+        "ar": "سمعت: 'Parabéns! Você acaba de concluir o nível C2 do curso.'"
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.",
+          "en": "Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.",
+          "ar": "Muito obrigado. Foi uma jornada longa, mas imensamente gratificante."
+        },
+        {
+          "pt": "Planejo um intercâmbio com vistas a ativar o vocabulário no dia a dia.",
+          "en": "Planejo um intercâmbio com vistas a ativar o vocabulário no dia a dia.",
+          "ar": "Planejo um intercâmbio com vistas a ativar o vocabulário no dia a dia."
+        },
+        {
+          "pt": "Certamente. Até o fim do ano, terei consolidado uma rotina de imersão.",
+          "en": "Certamente. Até o fim do ano, terei consolidado uma rotina de imersão.",
+          "ar": "Certamente. Até o fim do ano, terei consolidado uma rotina de imersão."
+        }
+      ],
+      "answer": "Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.",
+      "accepted": [],
+      "audio": "Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.",
+      "explanation": {
+        "pt": "Você ouviu: 'Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.'",
+        "en": "You heard: 'Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.'",
+        "ar": "سمعت: 'Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.'"
+      }
+    },
+    {
+      "type": "dictation",
+      "prompt": {
+        "pt": "Ouça e escreva o que você ouviu.",
+        "en": "Listen and type what you hear.",
+        "ar": "استمع واكتب ما سمعته."
+      },
+      "options": [],
+      "answer": "Parabéns! Você acaba de concluir o nível C2 do curso.",
+      "accepted": [],
+      "audio": "Parabéns! Você acaba de concluir o nível C2 do curso.",
+      "explanation": {
+        "pt": "A frase correta: 'Parabéns! Você acaba de concluir o nível C2 do curso.'",
+        "en": "The correct sentence: 'Parabéns! Você acaba de concluir o nível C2 do curso.'",
+        "ar": "الجملة الصحيحة: 'Parabéns! Você acaba de concluir o nível C2 do curso.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "acaba",
+          "en": "acaba",
+          "ar": "acaba"
+        },
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "Parabéns!",
+          "en": "Parabéns!",
+          "ar": "Parabéns!"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "C2",
+          "en": "C2",
+          "ar": "C2"
+        },
+        {
+          "pt": "curso.",
+          "en": "curso.",
+          "ar": "curso."
+        },
+        {
+          "pt": "nível",
+          "en": "nível",
+          "ar": "nível"
+        },
+        {
+          "pt": "concluir",
+          "en": "concluir",
+          "ar": "concluir"
+        }
+      ],
+      "answer": "Parabéns! Você acaba de concluir o nível C2 do curso.",
+      "accepted": [
+        "Parabéns! Você acaba de concluir o nível C2 do curso."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Parabéns! Você acaba de concluir o nível C2 do curso.'",
+        "en": "The correct order: 'Congratulations! You have just completed the C2 level of the course.'",
+        "ar": "الترتيب الصحيح: 'مبروك! لقد أكملت للتو المستوى C2 من الدورة.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o aprendizado contínuo",
+          "en": "language",
+          "ar": "o aprendizado contínuo"
+        },
+        {
+          "pt": "o idioma",
+          "en": "advance / progress",
+          "ar": "o idioma"
+        },
+        {
+          "pt": "o certificado",
+          "en": "certificate",
+          "ar": "o certificado"
+        },
+        {
+          "pt": "o avanço",
+          "en": "immersion",
+          "ar": "o avanço"
+        },
+        {
+          "pt": "a carreira",
+          "en": "career",
+          "ar": "a carreira"
+        },
+        {
+          "pt": "a imersão",
+          "en": "continuous learning",
+          "ar": "a imersão"
+        }
+      ],
+      "answer": "o aprendizado contínuo::language|o idioma::advance / progress|o certificado::certificate|o avanço::immersion|a carreira::career|a imersão::continuous learning",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Certamente. Até o fim do ano, terei consolidado uma rotina de imersão.",
+          "en": "Congratulations! You have just completed the C2 level of the course.",
+          "ar": "بالتأكيد. بحلول نهاية العام، سأكون قد راسخ روتين انغماس."
+        },
+        {
+          "pt": "Planejo um intercâmbio com vistas a ativar o vocabulário no dia a dia.",
+          "en": "I plan an exchange program with a view to activating the vocabulary in daily life.",
+          "ar": "أخطط لتبادل دراسي بهدف تفعيل المفردات في الحياة اليومية."
+        },
+        {
+          "pt": "Parabéns! Você acaba de concluir o nível C2 do curso.",
+          "en": "Certainly. By the end of the year, I will have consolidated an immersion routine.",
+          "ar": "مبروك! لقد أكملت للتو المستوى C2 من الدورة."
+        }
+      ],
+      "answer": "Parabéns! Você acaba de concluir o nível C2 do curso.",
+      "accepted": [],
+      "audio": "Parabéns! Você acaba de concluir o nível C2 do curso.",
+      "explanation": {
+        "pt": "Você ouviu: 'Parabéns! Você acaba de concluir o nível C2 do curso.' — 'Congratulations! You have just completed the C2 level of the course.'",
+        "en": "You heard: 'Parabéns! Você acaba de concluir o nível C2 do curso.' — 'Congratulations! You have just completed the C2 level of the course.'",
+        "ar": "سمعت: 'Parabéns! Você acaba de concluir o nível C2 do curso.' — 'مبروك! لقد أكملت للتو المستوى C2 من الدورة.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.",
+          "en": "Thank you very much. It was a long journey, but immensely rewarding.",
+          "ar": "ممتاز. تذكر: الصيانة لا تقل أهمية عن التقدم."
+        },
+        {
+          "pt": "Certamente. Até o fim do ano, terei consolidado uma rotina de imersão.",
+          "en": "Certainly. By the end of the year, I will have consolidated an immersion routine.",
+          "ar": "بالتأكيد. بحلول نهاية العام، سأكون قد راسخ روتين انغماس."
+        },
+        {
+          "pt": "Excelente. Lembre-se: a manutenção é tão importante quanto o avanço.",
+          "en": "Excellent. Remember: maintenance is as important as progress.",
+          "ar": "شكرًا جزيلًا. كانت رحلة طويلة، لكنها مجزية للغاية."
+        }
+      ],
+      "answer": "Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.",
+      "accepted": [],
+      "audio": "Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.",
+      "explanation": {
+        "pt": "Você ouviu: 'Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.' — 'Thank you very much. It was a long journey, but immensely rewarding.'",
+        "en": "You heard: 'Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.' — 'Thank you very much. It was a long journey, but immensely rewarding.'",
+        "ar": "سمعت: 'Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.' — 'شكرًا جزيلًا. كانت رحلة طويلة، لكنها مجزية للغاية.'"
+      }
+    }
+  ],
+  "speaking": {
+    "title": {
+      "pt": "Fale Agora — Ouça e Repita",
+      "en": "Speak Now — Listen and Repeat",
+      "ar": "تحدث الآن — استمع وكرر"
+    },
+    "phrases": [
+      {
+        "pt": "Parabéns! Você acaba de concluir o nível C2 do curso.",
+        "en": "Congratulations! You have just completed the C2 level of the course.",
+        "ar": "مبروك! لقد أكملت للتو المستوى C2 من الدورة."
+      },
+      {
+        "pt": "Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.",
+        "en": "Thank you very much. It was a long journey, but immensely rewarding.",
+        "ar": "شكرًا جزيلًا. كانت رحلة طويلة، لكنها مجزية للغاية."
+      },
+      {
+        "pt": "Agora o certificado será emitido, e o que você faz com o idioma é com você.",
+        "en": "Now the certificate will be issued, and what you do with the language is up to you.",
+        "ar": "الآن ستصدر الشهادة، وما تفعله باللغة يعود إليك."
+      },
+      {
+        "pt": "Planejo um intercâmbio com vistas a ativar o vocabulário no dia a dia.",
+        "en": "I plan an exchange program with a view to activating the vocabulary in daily life.",
+        "ar": "أخطط لتبادل دراسي بهدف تفعيل المفردات في الحياة اليومية."
+      },
+      {
+        "pt": "Excelente. Lembre-se: a manutenção é tão importante quanto o avanço.",
+        "en": "Excellent. Remember: maintenance is as important as progress.",
+        "ar": "ممتاز. تذكر: الصيانة لا تقل أهمية عن التقدم."
+      },
+      {
+        "pt": "Certamente. Até o fim do ano, terei consolidado uma rotina de imersão.",
+        "en": "Certainly. By the end of the year, I will have consolidated an immersion routine.",
+        "ar": "بالتأكيد. بحلول نهاية العام، سأكون قد راسخ روتين انغماس."
+      },
+      {
+        "pt": "o certificado",
+        "en": "certificate",
+        "ar": "الشهادة"
+      },
+      {
+        "pt": "a carreira",
+        "en": "career",
+        "ar": "المسيرة المهنية"
+      },
+      {
+        "pt": "o idioma",
+        "en": "language",
+        "ar": "اللغة"
+      }
+    ]
+  },
+  "cultural_tips": {
+    "pt": "",
+    "en": "",
+    "ar": ""
+  }
+}

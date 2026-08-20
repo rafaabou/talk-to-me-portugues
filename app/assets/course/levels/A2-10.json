@@ -1,0 +1,1891 @@
+{
+  "id": "A2-10",
+  "level": "A2",
+  "level_name": {
+    "pt": "Básico",
+    "en": "Elementary",
+    "ar": "أساسي"
+  },
+  "title": {
+    "pt": "Telefone e Comunicação",
+    "en": "Phone and Communication",
+    "ar": "الهاتف والاتصال"
+  },
+  "objectives": [
+    {
+      "pt": "Atender e fazer ligações telefônicas",
+      "en": "Answer and make phone calls",
+      "ar": "الرد على المكالمات وإجراؤها"
+    },
+    {
+      "pt": "Usar expressões de cortesia ao telefone",
+      "en": "Use polite phone expressions",
+      "ar": "استخدام عبارات المجاملة في الهاتف"
+    },
+    {
+      "pt": "Falar sobre mensagens e aplicativos",
+      "en": "Talk about messages and apps",
+      "ar": "التحدث عن الرسائل والتطبيقات"
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "o telefone",
+      "ipa": "/u te.leˈfõ.ni/",
+      "en": "the telephone",
+      "ar": "الهاتف",
+      "example": {
+        "pt": "Pode falar com o gerente, por favor?",
+        "en": "Can I speak with the manager, please?",
+        "ar": "هل يمكنني التحدث مع المدير، من فضلك؟"
+      }
+    },
+    {
+      "pt": "o celular",
+      "ipa": "/u se.luˈlaʁ/",
+      "en": "the cell phone",
+      "ar": "الهاتف المحمول",
+      "example": {
+        "pt": "Pode falar com o gerente, por favor?",
+        "en": "Can I speak with the manager, please?",
+        "ar": "هل يمكنني التحدث مع المدير، من فضلك؟"
+      }
+    },
+    {
+      "pt": "ligar",
+      "ipa": "/liˈɡaʁ/",
+      "en": "to call",
+      "ar": "يتصل",
+      "example": {
+        "pt": "Vou te ligar depois do almoço.",
+        "en": "I will call you after lunch.",
+        "ar": "سأتصل بك بعد الغداء."
+      }
+    },
+    {
+      "pt": "a ligação",
+      "ipa": "/a li.ɡaˈsɐ̃w/",
+      "en": "the call",
+      "ar": "المكالمة",
+      "example": {
+        "pt": "Você fala com a secretária.",
+        "en": "You are speaking with the secretary.",
+        "ar": "تتحدث مع السكرتيرة."
+      }
+    },
+    {
+      "pt": "atender",
+      "ipa": "/a.tẽˈdeʁ/",
+      "en": "to answer",
+      "ar": "يرد",
+      "example": {
+        "pt": "Alô, empresa Silva. Bom dia!",
+        "en": "Hello, Silva company. Good morning!",
+        "ar": "ألو، شركة سيلفا. صباح الخير!"
+      }
+    },
+    {
+      "pt": "discar",
+      "ipa": "/dʒisˈkaʁ/",
+      "en": "to dial",
+      "ar": "يطلب الرقم",
+      "example": {
+        "pt": "Alô, empresa Silva. Bom dia!",
+        "en": "Hello, Silva company. Good morning!",
+        "ar": "ألو، شركة سيلفا. صباح الخير!"
+      }
+    },
+    {
+      "pt": "o número",
+      "ipa": "/u ˈnũ.me.ɾu/",
+      "en": "the number",
+      "ar": "الرقم",
+      "example": {
+        "pt": "Pode falar com o gerente, por favor?",
+        "en": "Can I speak with the manager, please?",
+        "ar": "هل يمكنني التحدث مع المدير، من فضلك؟"
+      }
+    },
+    {
+      "pt": "a mensagem",
+      "ipa": "/a mẽˈsa.ʒẽj/",
+      "en": "the message",
+      "ar": "الرسالة",
+      "example": {
+        "pt": "Você fala com a secretária.",
+        "en": "You are speaking with the secretary.",
+        "ar": "تتحدث مع السكرتيرة."
+      }
+    },
+    {
+      "pt": "a caixa postal",
+      "ipa": "/a ˈkaj.ʃa posˈtaw/",
+      "en": "the voicemail",
+      "ar": "البريد الصوتي",
+      "example": {
+        "pt": "Você fala com a secretária.",
+        "en": "You are speaking with the secretary.",
+        "ar": "تتحدث مع السكرتيرة."
+      }
+    },
+    {
+      "pt": "a operadora",
+      "ipa": "/a o.pe.ɾaˈdo.ɾa/",
+      "en": "the carrier",
+      "ar": "شركة الاتصالات",
+      "example": {
+        "pt": "Você fala com a secretária.",
+        "en": "You are speaking with the secretary.",
+        "ar": "تتحدث مع السكرتيرة."
+      }
+    },
+    {
+      "pt": "o sinal",
+      "ipa": "/u siˈnaw/",
+      "en": "the signal",
+      "ar": "الإشارة",
+      "example": {
+        "pt": "Pode falar com o gerente, por favor?",
+        "en": "Can I speak with the manager, please?",
+        "ar": "هل يمكنني التحدث مع المدير، من فضلك؟"
+      }
+    },
+    {
+      "pt": "a chamada",
+      "ipa": "/a ʃaˈma.da/",
+      "en": "the call",
+      "ar": "المكالمة",
+      "example": {
+        "pt": "Você fala com a secretária.",
+        "en": "You are speaking with the secretary.",
+        "ar": "تتحدث مع السكرتيرة."
+      }
+    },
+    {
+      "pt": "o recado",
+      "ipa": "/u ʁeˈka.du/",
+      "en": "the message",
+      "ar": "الرسالة",
+      "example": {
+        "pt": "Pode falar com o gerente, por favor?",
+        "en": "Can I speak with the manager, please?",
+        "ar": "هل يمكنني التحدث مع المدير، من فضلك؟"
+      }
+    },
+    {
+      "pt": "desligar",
+      "ipa": "/dʒiz.liˈɡaʁ/",
+      "en": "to hang up",
+      "ar": "ينهي المكالمة",
+      "example": {
+        "pt": "Alô, empresa Silva. Bom dia!",
+        "en": "Hello, Silva company. Good morning!",
+        "ar": "ألو، شركة سيلفا. صباح الخير!"
+      }
+    },
+    {
+      "pt": "mandar",
+      "ipa": "/mɐ̃ˈdaʁ/",
+      "en": "to send",
+      "ar": "يرسل",
+      "example": {
+        "pt": "Alô, empresa Silva. Bom dia!",
+        "en": "Hello, Silva company. Good morning!",
+        "ar": "ألو، شركة سيلفا. صباح الخير!"
+      }
+    },
+    {
+      "pt": "a internet",
+      "ipa": "/a ĩ.teʁˈnɛ.tʃi/",
+      "en": "the internet",
+      "ar": "الإنترنت",
+      "example": {
+        "pt": "Você fala com a secretária.",
+        "en": "You are speaking with the secretary.",
+        "ar": "تتحدث مع السكرتيرة."
+      }
+    },
+    {
+      "pt": "o aplicativo",
+      "ipa": "/u a.pli.kaˈtʃi.vu/",
+      "en": "the app",
+      "ar": "التطبيق",
+      "example": {
+        "pt": "Pode falar com o gerente, por favor?",
+        "en": "Can I speak with the manager, please?",
+        "ar": "هل يمكنني التحدث مع المدير، من فضلك؟"
+      }
+    },
+    {
+      "pt": "a videochamada",
+      "ipa": "/a vi.dʒi.o.ʃaˈma.da/",
+      "en": "the video call",
+      "ar": "مكالمة الفيديو",
+      "example": {
+        "pt": "Você fala com a secretária.",
+        "en": "You are speaking with the secretary.",
+        "ar": "تتحدث مع السكرتيرة."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "title": {
+        "pt": "Atendendo ao Telefone",
+        "en": "Answering the Phone",
+        "ar": "الرد على الهاتف"
+      },
+      "explanation": {
+        "pt": "Ao atender: 'Alô?' (Hello?), 'Quem fala?' (Who is speaking?), 'É da parte de quem?' (Who is calling?). Para pedir alguém: 'Pode falar com o Pedro?' Respostas: 'Um momento, por favor', 'Ele não está. Posso anotar um recado?'",
+        "en": "When answering: 'Alô?' (Hello?), 'Quem fala?' (Who is speaking?), 'É da parte de quem?' (Who is calling?). To ask for someone: 'Pode falar com o Pedro?' (Can I speak with Pedro?) Answers: 'Um momento, por favor' (One moment, please), 'Ele não está. Posso anotar um recado?' (He is not here. Can I take a message?)",
+        "ar": "عند الرد: 'Alô?' (ألو؟)، 'Quem fala?' (من المتحدث؟)، 'É da parte de quem?' (من المتصل؟). لطلب شخص ما: 'Pode falar com o Pedro?' (هل يمكنني التحدث مع بيدرو؟) الإجابات: 'Um momento, por favor' (لحظة من فضلك)، 'Ele não está. Posso anotar um recado?' (إنه ليس هنا. هل يمكنني تسجيل رسالة؟)"
+      },
+      "examples": [
+        {
+          "pt": "Alô, com quem eu falo?",
+          "en": "Hello, who am I speaking with?",
+          "ar": "ألو، مع من أتحدث؟"
+        },
+        {
+          "pt": "Um momento, por favor.",
+          "en": "One moment, please.",
+          "ar": "لحظة واحدة، من فضلك."
+        },
+        {
+          "pt": "Ele não está. Pode deixar um recado?",
+          "en": "He is not here. Can you leave a message?",
+          "ar": "إنه ليس هنا. هل يمكنك ترك رسالة؟"
+        }
+      ]
+    },
+    {
+      "title": {
+        "pt": "Ligando e Usando o Celular",
+        "en": "Calling and Using the Cell Phone",
+        "ar": "الاتصال واستخدام الهاتف المحمول"
+      },
+      "explanation": {
+        "pt": "Verbo 'ligar': 'ligar para + pessoa' (to call someone): 'Vou ligar para a minha mãe.' 'Me liga!' (Call me!) 'Desligar' (to hang up), 'discar' (to dial), 'mandar mensagem' (to send a message). 'O celular está sem sinal.'",
+        "en": "Verb 'ligar': 'ligar para + person' (to call someone): 'Vou ligar para a minha mãe.' (I will call my mother.) 'Me liga!' (Call me!) 'Desligar' (to hang up), 'discar' (to dial), 'mandar mensagem' (to send a message). 'O celular está sem sinal.' (The cell phone has no signal.)",
+        "ar": "الفعل 'ligar': 'ligar para + شخص' (الاتصال بشخص ما): 'Vou ligar para a minha mãe.' (سأتصل بأمي). 'Me liga!' (اتصل بي!) 'desligar' (إنهاء المكالمة)، 'discar' (طلب الرقم)، 'mandar mensagem' (إرسال رسالة). 'O celular está sem sinal.' (لا توجد إشارة في الهاتف المحمول.)"
+      },
+      "examples": [
+        {
+          "pt": "Vou te ligar depois do almoço.",
+          "en": "I will call you after lunch.",
+          "ar": "سأتصل بك بعد الغداء."
+        },
+        {
+          "pt": "Me manda uma mensagem quando chegar.",
+          "en": "Send me a message when you arrive.",
+          "ar": "أرسل لي رسالة عندما تصل."
+        },
+        {
+          "pt": "O celular dele está desligado.",
+          "en": "His cell phone is off.",
+          "ar": "هاتفه المحمول مغلق."
+        }
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": {
+      "pt": "Uma Ligação",
+      "en": "A Phone Call",
+      "ar": "مكالمة هاتفية"
+    },
+    "lines": [
+      {
+        "speaker": "Recepcionista",
+        "pt": "Alô, empresa Silva. Bom dia!",
+        "en": "Hello, Silva company. Good morning!",
+        "ar": "ألو، شركة سيلفا. صباح الخير!"
+      },
+      {
+        "speaker": "Cliente",
+        "pt": "Bom dia! Com quem eu falo?",
+        "en": "Good morning! Who am I speaking with?",
+        "ar": "صباح الخير! مع من أتحدث؟"
+      },
+      {
+        "speaker": "Recepcionista",
+        "pt": "Você fala com a secretária.",
+        "en": "You are speaking with the secretary.",
+        "ar": "تتحدث مع السكرتيرة."
+      },
+      {
+        "speaker": "Cliente",
+        "pt": "Pode falar com o gerente, por favor?",
+        "en": "Can I speak with the manager, please?",
+        "ar": "هل يمكنني التحدث مع المدير، من فضلك؟"
+      },
+      {
+        "speaker": "Recepcionista",
+        "pt": "Um momento. Ele está em uma reunião.",
+        "en": "One moment. He is in a meeting.",
+        "ar": "لحظة واحدة. إنه في اجتماع."
+      },
+      {
+        "speaker": "Cliente",
+        "pt": "Então posso deixar um recado?",
+        "en": "Then can I leave a message?",
+        "ar": "إذن هل يمكنني ترك رسالة؟"
+      }
+    ]
+  },
+  "reading": {
+    "title": {
+      "pt": "A Comunicação Hoje",
+      "en": "Communication Today",
+      "ar": "التواصل اليوم"
+    },
+    "text_pt": "Hoje em dia, a comunicação é rápida. Com o celular, mandamos mensagens e fazemos videochamadas a qualquer hora. Se a pessoa não atende, deixamos um recado na caixa postal. Para o trabalho, o e-mail ainda é muito importante, mas a ligação telefônica continua sendo a forma mais pessoal.",
+    "text_en": "Nowadays, communication is fast. With the cell phone, we send messages and make video calls at any time. If the person does not answer, we leave a message on voicemail. For work, email is still very important, but the phone call remains the most personal way.",
+    "text_ar": "في الوقت الحاضر، التواصل سريع. بالهاتف المحمول، نرسل الرسائل ونجري مكالمات الفيديو في أي وقت. إذا لم يردّ الشخص، نترك رسالة في البريد الصوتي. بالنسبة للعمل، ما زال البريد الإلكتروني مهمًا جدًا، لكن المكالمة الهاتفية تظل أكثر الطرق شخصية."
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Alô, com ___ eu falo?",
+        "en": "Hello, with ___ am I speaking?",
+        "ar": "ألو، مع ___ أتحدث؟"
+      },
+      "options": [
+        {
+          "pt": "quem",
+          "en": "quem",
+          "ar": "quem"
+        },
+        {
+          "pt": "o que",
+          "en": "o que",
+          "ar": "o que"
+        },
+        {
+          "pt": "qual",
+          "en": "qual",
+          "ar": "qual"
+        }
+      ],
+      "answer": "quem",
+      "explanation": {
+        "pt": "'Com quem eu falo?' = Who am I speaking with?",
+        "en": "'Com quem eu falo?' = Who am I speaking with?",
+        "ar": "'Com quem eu falo?' = مع من أتحدث؟"
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Vou ___ para a minha mãe.",
+        "en": "I am going to ___ my mother.",
+        "ar": "سأ ___ إلى أمي."
+      },
+      "options": [
+        {
+          "pt": "ligar",
+          "en": "ligar",
+          "ar": "ligar"
+        },
+        {
+          "pt": "ligando",
+          "en": "ligando",
+          "ar": "ligando"
+        },
+        {
+          "pt": "ligo",
+          "en": "ligo",
+          "ar": "ligo"
+        }
+      ],
+      "answer": "ligar",
+      "explanation": {
+        "pt": "Futuro: vou + ligar (infinitivo). 'Ligar para' + pessoa.",
+        "en": "Future: vou + ligar (infinitive). 'Ligar para' + person.",
+        "ar": "المستقبل: vou + ligar (صيغة المصدر). 'ligar para' + شخص."
+      }
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza: 'the message'",
+        "en": "Translate: 'the message'",
+        "ar": "ترجم: 'the message'"
+      },
+      "options": [],
+      "answer": "a mensagem",
+      "explanation": {
+        "pt": "'A mensagem' = the message.",
+        "en": "'A mensagem' = the message.",
+        "ar": "'a mensagem' = الرسالة."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "empresa",
+          "en": "empresa",
+          "ar": "empresa"
+        },
+        {
+          "pt": "Alô,",
+          "en": "Alô,",
+          "ar": "Alô,"
+        },
+        {
+          "pt": "Bom",
+          "en": "Bom",
+          "ar": "Bom"
+        },
+        {
+          "pt": "dia!",
+          "en": "dia!",
+          "ar": "dia!"
+        },
+        {
+          "pt": "Silva.",
+          "en": "Silva.",
+          "ar": "Silva."
+        }
+      ],
+      "answer": "Alô, empresa Silva. Bom dia!",
+      "accepted": [
+        "Alô, empresa Silva. Bom dia!"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Alô, empresa Silva. Bom dia!'",
+        "en": "The correct order: 'Hello, Silva company. Good morning!'",
+        "ar": "الترتيب الصحيح: 'ألو، شركة سيلفا. صباح الخير!'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o telefone",
+          "en": "the call",
+          "ar": "o telefone"
+        },
+        {
+          "pt": "discar",
+          "en": "the telephone",
+          "ar": "discar"
+        },
+        {
+          "pt": "o celular",
+          "en": "to dial",
+          "ar": "o celular"
+        },
+        {
+          "pt": "atender",
+          "en": "to call",
+          "ar": "atender"
+        },
+        {
+          "pt": "ligar",
+          "en": "the cell phone",
+          "ar": "ligar"
+        },
+        {
+          "pt": "a ligação",
+          "en": "to answer",
+          "ar": "a ligação"
+        }
+      ],
+      "answer": "o telefone::the call|discar::the telephone|o celular::to dial|atender::to call|ligar::the cell phone|a ligação::to answer",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Alô, empresa Silva. Bom dia!",
+          "en": "Then can I leave a message?",
+          "ar": "لحظة واحدة. إنه في اجتماع."
+        },
+        {
+          "pt": "Um momento. Ele está em uma reunião.",
+          "en": "Hello, Silva company. Good morning!",
+          "ar": "ألو، شركة سيلفا. صباح الخير!"
+        },
+        {
+          "pt": "Então posso deixar um recado?",
+          "en": "One moment. He is in a meeting.",
+          "ar": "إذن هل يمكنني ترك رسالة؟"
+        }
+      ],
+      "answer": "Alô, empresa Silva. Bom dia!",
+      "accepted": [],
+      "audio": "Alô, empresa Silva. Bom dia!",
+      "explanation": {
+        "pt": "Você ouviu: 'Alô, empresa Silva. Bom dia!' — 'Hello, Silva company. Good morning!'",
+        "en": "You heard: 'Alô, empresa Silva. Bom dia!' — 'Hello, Silva company. Good morning!'",
+        "ar": "سمعت: 'Alô, empresa Silva. Bom dia!' — 'ألو، شركة سيلفا. صباح الخير!'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Você fala com a secretária.",
+          "en": "Good morning! Who am I speaking with?",
+          "ar": "صباح الخير! مع من أتحدث؟"
+        },
+        {
+          "pt": "Bom dia! Com quem eu falo?",
+          "en": "Then can I leave a message?",
+          "ar": "إذن هل يمكنني ترك رسالة؟"
+        },
+        {
+          "pt": "Então posso deixar um recado?",
+          "en": "You are speaking with the secretary.",
+          "ar": "تتحدث مع السكرتيرة."
+        }
+      ],
+      "answer": "Bom dia! Com quem eu falo?",
+      "accepted": [],
+      "audio": "Bom dia! Com quem eu falo?",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia! Com quem eu falo?' — 'Good morning! Who am I speaking with?'",
+        "en": "You heard: 'Bom dia! Com quem eu falo?' — 'Good morning! Who am I speaking with?'",
+        "ar": "سمعت: 'Bom dia! Com quem eu falo?' — 'صباح الخير! مع من أتحدث؟'"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Alô, com ___ eu falo?",
+        "en": "Alô, com ___ eu falo?",
+        "ar": "Alô, com ___ eu falo?"
+      },
+      "options": [
+        {
+          "pt": "por",
+          "en": "por",
+          "ar": "por"
+        },
+        {
+          "pt": "quem",
+          "en": "quem",
+          "ar": "quem"
+        },
+        {
+          "pt": "um",
+          "en": "um",
+          "ar": "um"
+        }
+      ],
+      "answer": "quem",
+      "accepted": [],
+      "explanation": {
+        "pt": "A resposta é 'quem'. Frase completa: Alô, com quem eu falo?",
+        "en": "The answer is 'quem'. Full sentence: Hello, who am I speaking with?",
+        "ar": "الإجابة الصحيحة: 'quem'. الجملة كاملة: ألو، مع من أتحدث؟"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Alô,",
+          "en": "Alô,",
+          "ar": "Alô,"
+        },
+        {
+          "pt": "Bom",
+          "en": "Bom",
+          "ar": "Bom"
+        },
+        {
+          "pt": "dia!",
+          "en": "dia!",
+          "ar": "dia!"
+        },
+        {
+          "pt": "empresa",
+          "en": "empresa",
+          "ar": "empresa"
+        },
+        {
+          "pt": "Silva.",
+          "en": "Silva.",
+          "ar": "Silva."
+        }
+      ],
+      "answer": "Alô, empresa Silva. Bom dia!",
+      "accepted": [
+        "Alô, empresa Silva. Bom dia!"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Alô, empresa Silva. Bom dia!'",
+        "en": "The correct order: 'Hello, Silva company. Good morning!'",
+        "ar": "الترتيب الصحيح: 'ألو، شركة سيلفا. صباح الخير!'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "discar",
+          "en": "the call",
+          "ar": "discar"
+        },
+        {
+          "pt": "ligar",
+          "en": "to call",
+          "ar": "ligar"
+        },
+        {
+          "pt": "o celular",
+          "en": "to answer",
+          "ar": "o celular"
+        },
+        {
+          "pt": "o telefone",
+          "en": "to dial",
+          "ar": "o telefone"
+        },
+        {
+          "pt": "atender",
+          "en": "the cell phone",
+          "ar": "atender"
+        },
+        {
+          "pt": "a ligação",
+          "en": "the telephone",
+          "ar": "a ligação"
+        }
+      ],
+      "answer": "discar::the call|ligar::to call|o celular::to answer|o telefone::to dial|atender::the cell phone|a ligação::the telephone",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Alô, empresa Silva. Bom dia!",
+          "en": "Can I speak with the manager, please?",
+          "ar": "ألو، شركة سيلفا. صباح الخير!"
+        },
+        {
+          "pt": "Pode falar com o gerente, por favor?",
+          "en": "Then can I leave a message?",
+          "ar": "إذن هل يمكنني ترك رسالة؟"
+        },
+        {
+          "pt": "Então posso deixar um recado?",
+          "en": "Hello, Silva company. Good morning!",
+          "ar": "هل يمكنني التحدث مع المدير، من فضلك؟"
+        }
+      ],
+      "answer": "Alô, empresa Silva. Bom dia!",
+      "accepted": [],
+      "audio": "Alô, empresa Silva. Bom dia!",
+      "explanation": {
+        "pt": "Você ouviu: 'Alô, empresa Silva. Bom dia!' — 'Hello, Silva company. Good morning!'",
+        "en": "You heard: 'Alô, empresa Silva. Bom dia!' — 'Hello, Silva company. Good morning!'",
+        "ar": "سمعت: 'Alô, empresa Silva. Bom dia!' — 'ألو، شركة سيلفا. صباح الخير!'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Pode falar com o gerente, por favor?",
+          "en": "You are speaking with the secretary.",
+          "ar": "تتحدث مع السكرتيرة."
+        },
+        {
+          "pt": "Bom dia! Com quem eu falo?",
+          "en": "Good morning! Who am I speaking with?",
+          "ar": "هل يمكنني التحدث مع المدير، من فضلك؟"
+        },
+        {
+          "pt": "Você fala com a secretária.",
+          "en": "Can I speak with the manager, please?",
+          "ar": "صباح الخير! مع من أتحدث؟"
+        }
+      ],
+      "answer": "Bom dia! Com quem eu falo?",
+      "accepted": [],
+      "audio": "Bom dia! Com quem eu falo?",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia! Com quem eu falo?' — 'Good morning! Who am I speaking with?'",
+        "en": "You heard: 'Bom dia! Com quem eu falo?' — 'Good morning! Who am I speaking with?'",
+        "ar": "سمعت: 'Bom dia! Com quem eu falo?' — 'صباح الخير! مع من أتحدث؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "dia!",
+          "en": "dia!",
+          "ar": "dia!"
+        },
+        {
+          "pt": "Alô,",
+          "en": "Alô,",
+          "ar": "Alô,"
+        },
+        {
+          "pt": "Bom",
+          "en": "Bom",
+          "ar": "Bom"
+        },
+        {
+          "pt": "empresa",
+          "en": "empresa",
+          "ar": "empresa"
+        },
+        {
+          "pt": "Silva.",
+          "en": "Silva.",
+          "ar": "Silva."
+        }
+      ],
+      "answer": "Alô, empresa Silva. Bom dia!",
+      "accepted": [
+        "Alô, empresa Silva. Bom dia!"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Alô, empresa Silva. Bom dia!'",
+        "en": "The correct order: 'Hello, Silva company. Good morning!'",
+        "ar": "الترتيب الصحيح: 'ألو، شركة سيلفا. صباح الخير!'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "ligar",
+          "en": "to call",
+          "ar": "ligar"
+        },
+        {
+          "pt": "o telefone",
+          "en": "to answer",
+          "ar": "o telefone"
+        },
+        {
+          "pt": "discar",
+          "en": "the call",
+          "ar": "discar"
+        },
+        {
+          "pt": "a ligação",
+          "en": "the telephone",
+          "ar": "a ligação"
+        },
+        {
+          "pt": "o celular",
+          "en": "to dial",
+          "ar": "o celular"
+        },
+        {
+          "pt": "atender",
+          "en": "the cell phone",
+          "ar": "atender"
+        }
+      ],
+      "answer": "ligar::to call|o telefone::to answer|discar::the call|a ligação::the telephone|o celular::to dial|atender::the cell phone",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Bom dia! Com quem eu falo?",
+          "en": "Then can I leave a message?",
+          "ar": "صباح الخير! مع من أتحدث؟"
+        },
+        {
+          "pt": "Então posso deixar um recado?",
+          "en": "Good morning! Who am I speaking with?",
+          "ar": "ألو، شركة سيلفا. صباح الخير!"
+        },
+        {
+          "pt": "Alô, empresa Silva. Bom dia!",
+          "en": "Hello, Silva company. Good morning!",
+          "ar": "إذن هل يمكنني ترك رسالة؟"
+        }
+      ],
+      "answer": "Alô, empresa Silva. Bom dia!",
+      "accepted": [],
+      "audio": "Alô, empresa Silva. Bom dia!",
+      "explanation": {
+        "pt": "Você ouviu: 'Alô, empresa Silva. Bom dia!' — 'Hello, Silva company. Good morning!'",
+        "en": "You heard: 'Alô, empresa Silva. Bom dia!' — 'Hello, Silva company. Good morning!'",
+        "ar": "سمعت: 'Alô, empresa Silva. Bom dia!' — 'ألو، شركة سيلفا. صباح الخير!'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Você fala com a secretária.",
+          "en": "Then can I leave a message?",
+          "ar": "إذن هل يمكنني ترك رسالة؟"
+        },
+        {
+          "pt": "Bom dia! Com quem eu falo?",
+          "en": "You are speaking with the secretary.",
+          "ar": "تتحدث مع السكرتيرة."
+        },
+        {
+          "pt": "Então posso deixar um recado?",
+          "en": "Good morning! Who am I speaking with?",
+          "ar": "صباح الخير! مع من أتحدث؟"
+        }
+      ],
+      "answer": "Bom dia! Com quem eu falo?",
+      "accepted": [],
+      "audio": "Bom dia! Com quem eu falo?",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia! Com quem eu falo?' — 'Good morning! Who am I speaking with?'",
+        "en": "You heard: 'Bom dia! Com quem eu falo?' — 'Good morning! Who am I speaking with?'",
+        "ar": "سمعت: 'Bom dia! Com quem eu falo?' — 'صباح الخير! مع من أتحدث؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Silva.",
+          "en": "Silva.",
+          "ar": "Silva."
+        },
+        {
+          "pt": "empresa",
+          "en": "empresa",
+          "ar": "empresa"
+        },
+        {
+          "pt": "Alô,",
+          "en": "Alô,",
+          "ar": "Alô,"
+        },
+        {
+          "pt": "Bom",
+          "en": "Bom",
+          "ar": "Bom"
+        },
+        {
+          "pt": "dia!",
+          "en": "dia!",
+          "ar": "dia!"
+        }
+      ],
+      "answer": "Alô, empresa Silva. Bom dia!",
+      "accepted": [
+        "Alô, empresa Silva. Bom dia!"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Alô, empresa Silva. Bom dia!'",
+        "en": "The correct order: 'Hello, Silva company. Good morning!'",
+        "ar": "الترتيب الصحيح: 'ألو، شركة سيلفا. صباح الخير!'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o celular",
+          "en": "the cell phone",
+          "ar": "o celular"
+        },
+        {
+          "pt": "o telefone",
+          "en": "the call",
+          "ar": "o telefone"
+        },
+        {
+          "pt": "atender",
+          "en": "to dial",
+          "ar": "atender"
+        },
+        {
+          "pt": "a ligação",
+          "en": "to answer",
+          "ar": "a ligação"
+        },
+        {
+          "pt": "ligar",
+          "en": "the telephone",
+          "ar": "ligar"
+        },
+        {
+          "pt": "discar",
+          "en": "to call",
+          "ar": "discar"
+        }
+      ],
+      "answer": "o celular::the cell phone|o telefone::the call|atender::to dial|a ligação::to answer|ligar::the telephone|discar::to call",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Alô, empresa Silva. Bom dia!",
+          "en": "Hello, Silva company. Good morning!",
+          "ar": "لحظة واحدة. إنه في اجتماع."
+        },
+        {
+          "pt": "Um momento. Ele está em uma reunião.",
+          "en": "Good morning! Who am I speaking with?",
+          "ar": "ألو، شركة سيلفا. صباح الخير!"
+        },
+        {
+          "pt": "Bom dia! Com quem eu falo?",
+          "en": "One moment. He is in a meeting.",
+          "ar": "صباح الخير! مع من أتحدث؟"
+        }
+      ],
+      "answer": "Alô, empresa Silva. Bom dia!",
+      "accepted": [],
+      "audio": "Alô, empresa Silva. Bom dia!",
+      "explanation": {
+        "pt": "Você ouviu: 'Alô, empresa Silva. Bom dia!' — 'Hello, Silva company. Good morning!'",
+        "en": "You heard: 'Alô, empresa Silva. Bom dia!' — 'Hello, Silva company. Good morning!'",
+        "ar": "سمعت: 'Alô, empresa Silva. Bom dia!' — 'ألو، شركة سيلفا. صباح الخير!'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Pode falar com o gerente, por favor?",
+          "en": "Good morning! Who am I speaking with?",
+          "ar": "صباح الخير! مع من أتحدث؟"
+        },
+        {
+          "pt": "Bom dia! Com quem eu falo?",
+          "en": "Can I speak with the manager, please?",
+          "ar": "هل يمكنني التحدث مع المدير، من فضلك؟"
+        },
+        {
+          "pt": "Você fala com a secretária.",
+          "en": "You are speaking with the secretary.",
+          "ar": "تتحدث مع السكرتيرة."
+        }
+      ],
+      "answer": "Bom dia! Com quem eu falo?",
+      "accepted": [],
+      "audio": "Bom dia! Com quem eu falo?",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia! Com quem eu falo?' — 'Good morning! Who am I speaking with?'",
+        "en": "You heard: 'Bom dia! Com quem eu falo?' — 'Good morning! Who am I speaking with?'",
+        "ar": "سمعت: 'Bom dia! Com quem eu falo?' — 'صباح الخير! مع من أتحدث؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Silva.",
+          "en": "Silva.",
+          "ar": "Silva."
+        },
+        {
+          "pt": "Alô,",
+          "en": "Alô,",
+          "ar": "Alô,"
+        },
+        {
+          "pt": "dia!",
+          "en": "dia!",
+          "ar": "dia!"
+        },
+        {
+          "pt": "empresa",
+          "en": "empresa",
+          "ar": "empresa"
+        },
+        {
+          "pt": "Bom",
+          "en": "Bom",
+          "ar": "Bom"
+        }
+      ],
+      "answer": "Alô, empresa Silva. Bom dia!",
+      "accepted": [
+        "Alô, empresa Silva. Bom dia!"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Alô, empresa Silva. Bom dia!'",
+        "en": "The correct order: 'Hello, Silva company. Good morning!'",
+        "ar": "الترتيب الصحيح: 'ألو، شركة سيلفا. صباح الخير!'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "ligar",
+          "en": "the call",
+          "ar": "ligar"
+        },
+        {
+          "pt": "discar",
+          "en": "the cell phone",
+          "ar": "discar"
+        },
+        {
+          "pt": "atender",
+          "en": "the telephone",
+          "ar": "atender"
+        },
+        {
+          "pt": "o celular",
+          "en": "to call",
+          "ar": "o celular"
+        },
+        {
+          "pt": "a ligação",
+          "en": "to dial",
+          "ar": "a ligação"
+        },
+        {
+          "pt": "o telefone",
+          "en": "to answer",
+          "ar": "o telefone"
+        }
+      ],
+      "answer": "ligar::the call|discar::the cell phone|atender::the telephone|o celular::to call|a ligação::to dial|o telefone::to answer",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Bom dia! Com quem eu falo?",
+          "en": "Good morning! Who am I speaking with?",
+          "ar": "صباح الخير! مع من أتحدث؟"
+        },
+        {
+          "pt": "Pode falar com o gerente, por favor?",
+          "en": "Hello, Silva company. Good morning!",
+          "ar": "ألو، شركة سيلفا. صباح الخير!"
+        },
+        {
+          "pt": "Alô, empresa Silva. Bom dia!",
+          "en": "Can I speak with the manager, please?",
+          "ar": "هل يمكنني التحدث مع المدير، من فضلك؟"
+        }
+      ],
+      "answer": "Alô, empresa Silva. Bom dia!",
+      "accepted": [],
+      "audio": "Alô, empresa Silva. Bom dia!",
+      "explanation": {
+        "pt": "Você ouviu: 'Alô, empresa Silva. Bom dia!' — 'Hello, Silva company. Good morning!'",
+        "en": "You heard: 'Alô, empresa Silva. Bom dia!' — 'Hello, Silva company. Good morning!'",
+        "ar": "سمعت: 'Alô, empresa Silva. Bom dia!' — 'ألو، شركة سيلفا. صباح الخير!'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Pode falar com o gerente, por favor?",
+          "en": "Good morning! Who am I speaking with?",
+          "ar": "هل يمكنني التحدث مع المدير، من فضلك؟"
+        },
+        {
+          "pt": "Você fala com a secretária.",
+          "en": "You are speaking with the secretary.",
+          "ar": "صباح الخير! مع من أتحدث؟"
+        },
+        {
+          "pt": "Bom dia! Com quem eu falo?",
+          "en": "Can I speak with the manager, please?",
+          "ar": "تتحدث مع السكرتيرة."
+        }
+      ],
+      "answer": "Bom dia! Com quem eu falo?",
+      "accepted": [],
+      "audio": "Bom dia! Com quem eu falo?",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia! Com quem eu falo?' — 'Good morning! Who am I speaking with?'",
+        "en": "You heard: 'Bom dia! Com quem eu falo?' — 'Good morning! Who am I speaking with?'",
+        "ar": "سمعت: 'Bom dia! Com quem eu falo?' — 'صباح الخير! مع من أتحدث؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Silva.",
+          "en": "Silva.",
+          "ar": "Silva."
+        },
+        {
+          "pt": "Alô,",
+          "en": "Alô,",
+          "ar": "Alô,"
+        },
+        {
+          "pt": "Bom",
+          "en": "Bom",
+          "ar": "Bom"
+        },
+        {
+          "pt": "empresa",
+          "en": "empresa",
+          "ar": "empresa"
+        },
+        {
+          "pt": "dia!",
+          "en": "dia!",
+          "ar": "dia!"
+        }
+      ],
+      "answer": "Alô, empresa Silva. Bom dia!",
+      "accepted": [
+        "Alô, empresa Silva. Bom dia!"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Alô, empresa Silva. Bom dia!'",
+        "en": "The correct order: 'Hello, Silva company. Good morning!'",
+        "ar": "الترتيب الصحيح: 'ألو، شركة سيلفا. صباح الخير!'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a ligação",
+          "en": "the telephone",
+          "ar": "a ligação"
+        },
+        {
+          "pt": "o telefone",
+          "en": "the cell phone",
+          "ar": "o telefone"
+        },
+        {
+          "pt": "atender",
+          "en": "to answer",
+          "ar": "atender"
+        },
+        {
+          "pt": "o celular",
+          "en": "to dial",
+          "ar": "o celular"
+        },
+        {
+          "pt": "discar",
+          "en": "the call",
+          "ar": "discar"
+        },
+        {
+          "pt": "ligar",
+          "en": "to call",
+          "ar": "ligar"
+        }
+      ],
+      "answer": "a ligação::the telephone|o telefone::the cell phone|atender::to answer|o celular::to dial|discar::the call|ligar::to call",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Alô, empresa Silva. Bom dia!",
+          "en": "One moment. He is in a meeting.",
+          "ar": "لحظة واحدة. إنه في اجتماع."
+        },
+        {
+          "pt": "Pode falar com o gerente, por favor?",
+          "en": "Can I speak with the manager, please?",
+          "ar": "ألو، شركة سيلفا. صباح الخير!"
+        },
+        {
+          "pt": "Um momento. Ele está em uma reunião.",
+          "en": "Hello, Silva company. Good morning!",
+          "ar": "هل يمكنني التحدث مع المدير، من فضلك؟"
+        }
+      ],
+      "answer": "Alô, empresa Silva. Bom dia!",
+      "accepted": [],
+      "audio": "Alô, empresa Silva. Bom dia!",
+      "explanation": {
+        "pt": "Você ouviu: 'Alô, empresa Silva. Bom dia!' — 'Hello, Silva company. Good morning!'",
+        "en": "You heard: 'Alô, empresa Silva. Bom dia!' — 'Hello, Silva company. Good morning!'",
+        "ar": "سمعت: 'Alô, empresa Silva. Bom dia!' — 'ألو، شركة سيلفا. صباح الخير!'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Bom dia! Com quem eu falo?",
+          "en": "Good morning! Who am I speaking with?",
+          "ar": "لحظة واحدة. إنه في اجتماع."
+        },
+        {
+          "pt": "Um momento. Ele está em uma reunião.",
+          "en": "One moment. He is in a meeting.",
+          "ar": "هل يمكنني التحدث مع المدير، من فضلك؟"
+        },
+        {
+          "pt": "Pode falar com o gerente, por favor?",
+          "en": "Can I speak with the manager, please?",
+          "ar": "صباح الخير! مع من أتحدث؟"
+        }
+      ],
+      "answer": "Bom dia! Com quem eu falo?",
+      "accepted": [],
+      "audio": "Bom dia! Com quem eu falo?",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia! Com quem eu falo?' — 'Good morning! Who am I speaking with?'",
+        "en": "You heard: 'Bom dia! Com quem eu falo?' — 'Good morning! Who am I speaking with?'",
+        "ar": "سمعت: 'Bom dia! Com quem eu falo?' — 'صباح الخير! مع من أتحدث؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Bom",
+          "en": "Bom",
+          "ar": "Bom"
+        },
+        {
+          "pt": "Alô,",
+          "en": "Alô,",
+          "ar": "Alô,"
+        },
+        {
+          "pt": "empresa",
+          "en": "empresa",
+          "ar": "empresa"
+        },
+        {
+          "pt": "Silva.",
+          "en": "Silva.",
+          "ar": "Silva."
+        },
+        {
+          "pt": "dia!",
+          "en": "dia!",
+          "ar": "dia!"
+        }
+      ],
+      "answer": "Alô, empresa Silva. Bom dia!",
+      "accepted": [
+        "Alô, empresa Silva. Bom dia!"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Alô, empresa Silva. Bom dia!'",
+        "en": "The correct order: 'Hello, Silva company. Good morning!'",
+        "ar": "الترتيب الصحيح: 'ألو، شركة سيلفا. صباح الخير!'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a ligação",
+          "en": "the cell phone",
+          "ar": "a ligação"
+        },
+        {
+          "pt": "o celular",
+          "en": "the telephone",
+          "ar": "o celular"
+        },
+        {
+          "pt": "ligar",
+          "en": "to call",
+          "ar": "ligar"
+        },
+        {
+          "pt": "discar",
+          "en": "to answer",
+          "ar": "discar"
+        },
+        {
+          "pt": "atender",
+          "en": "to dial",
+          "ar": "atender"
+        },
+        {
+          "pt": "o telefone",
+          "en": "the call",
+          "ar": "o telefone"
+        }
+      ],
+      "answer": "a ligação::the cell phone|o celular::the telephone|ligar::to call|discar::to answer|atender::to dial|o telefone::the call",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Um momento. Ele está em uma reunião.",
+          "en": "Good morning! Who am I speaking with?",
+          "ar": "ألو، شركة سيلفا. صباح الخير!"
+        },
+        {
+          "pt": "Bom dia! Com quem eu falo?",
+          "en": "Hello, Silva company. Good morning!",
+          "ar": "صباح الخير! مع من أتحدث؟"
+        },
+        {
+          "pt": "Alô, empresa Silva. Bom dia!",
+          "en": "One moment. He is in a meeting.",
+          "ar": "لحظة واحدة. إنه في اجتماع."
+        }
+      ],
+      "answer": "Alô, empresa Silva. Bom dia!",
+      "accepted": [],
+      "audio": "Alô, empresa Silva. Bom dia!",
+      "explanation": {
+        "pt": "Você ouviu: 'Alô, empresa Silva. Bom dia!' — 'Hello, Silva company. Good morning!'",
+        "en": "You heard: 'Alô, empresa Silva. Bom dia!' — 'Hello, Silva company. Good morning!'",
+        "ar": "سمعت: 'Alô, empresa Silva. Bom dia!' — 'ألو، شركة سيلفا. صباح الخير!'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Alô, empresa Silva. Bom dia!",
+          "en": "Good morning! Who am I speaking with?",
+          "ar": "هل يمكنني التحدث مع المدير، من فضلك؟"
+        },
+        {
+          "pt": "Bom dia! Com quem eu falo?",
+          "en": "Can I speak with the manager, please?",
+          "ar": "صباح الخير! مع من أتحدث؟"
+        },
+        {
+          "pt": "Pode falar com o gerente, por favor?",
+          "en": "Hello, Silva company. Good morning!",
+          "ar": "ألو، شركة سيلفا. صباح الخير!"
+        }
+      ],
+      "answer": "Bom dia! Com quem eu falo?",
+      "accepted": [],
+      "audio": "Bom dia! Com quem eu falo?",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia! Com quem eu falo?' — 'Good morning! Who am I speaking with?'",
+        "en": "You heard: 'Bom dia! Com quem eu falo?' — 'Good morning! Who am I speaking with?'",
+        "ar": "سمعت: 'Bom dia! Com quem eu falo?' — 'صباح الخير! مع من أتحدث؟'"
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'the telephone'",
+        "en": "Type in Portuguese: 'the telephone'",
+        "ar": "اكتب بالبرتغالية: 'الهاتف'"
+      },
+      "options": [],
+      "answer": "o telefone",
+      "accepted": [
+        "o telefone"
+      ],
+      "explanation": {
+        "pt": "'o telefone' significa 'the telephone'.",
+        "en": "'o telefone' means 'the telephone'.",
+        "ar": "'$o telefone' بالعربية: '$الهاتف'."
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'the cell phone'",
+        "en": "Type in Portuguese: 'the cell phone'",
+        "ar": "اكتب بالبرتغالية: 'الهاتف المحمول'"
+      },
+      "options": [],
+      "answer": "o celular",
+      "accepted": [
+        "o celular"
+      ],
+      "explanation": {
+        "pt": "'o celular' significa 'the cell phone'.",
+        "en": "'o celular' means 'the cell phone'.",
+        "ar": "'$o celular' بالعربية: '$الهاتف المحمول'."
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Pode falar com o gerente, por favor?",
+          "en": "Pode falar com o gerente, por favor?",
+          "ar": "Pode falar com o gerente, por favor?"
+        },
+        {
+          "pt": "Alô, empresa Silva. Bom dia!",
+          "en": "Alô, empresa Silva. Bom dia!",
+          "ar": "Alô, empresa Silva. Bom dia!"
+        },
+        {
+          "pt": "Um momento. Ele está em uma reunião.",
+          "en": "Um momento. Ele está em uma reunião.",
+          "ar": "Um momento. Ele está em uma reunião."
+        }
+      ],
+      "answer": "Alô, empresa Silva. Bom dia!",
+      "accepted": [],
+      "audio": "Alô, empresa Silva. Bom dia!",
+      "explanation": {
+        "pt": "Você ouviu: 'Alô, empresa Silva. Bom dia!'",
+        "en": "You heard: 'Alô, empresa Silva. Bom dia!'",
+        "ar": "سمعت: 'Alô, empresa Silva. Bom dia!'"
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Você fala com a secretária.",
+          "en": "Você fala com a secretária.",
+          "ar": "Você fala com a secretária."
+        },
+        {
+          "pt": "Bom dia! Com quem eu falo?",
+          "en": "Bom dia! Com quem eu falo?",
+          "ar": "Bom dia! Com quem eu falo?"
+        },
+        {
+          "pt": "Alô, empresa Silva. Bom dia!",
+          "en": "Alô, empresa Silva. Bom dia!",
+          "ar": "Alô, empresa Silva. Bom dia!"
+        }
+      ],
+      "answer": "Bom dia! Com quem eu falo?",
+      "accepted": [],
+      "audio": "Bom dia! Com quem eu falo?",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia! Com quem eu falo?'",
+        "en": "You heard: 'Bom dia! Com quem eu falo?'",
+        "ar": "سمعت: 'Bom dia! Com quem eu falo?'"
+      }
+    },
+    {
+      "type": "dictation",
+      "prompt": {
+        "pt": "Ouça e escreva o que você ouviu.",
+        "en": "Listen and type what you hear.",
+        "ar": "استمع واكتب ما سمعته."
+      },
+      "options": [],
+      "answer": "Alô, empresa Silva. Bom dia!",
+      "accepted": [],
+      "audio": "Alô, empresa Silva. Bom dia!",
+      "explanation": {
+        "pt": "A frase correta: 'Alô, empresa Silva. Bom dia!'",
+        "en": "The correct sentence: 'Alô, empresa Silva. Bom dia!'",
+        "ar": "الجملة الصحيحة: 'Alô, empresa Silva. Bom dia!'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "dia!",
+          "en": "dia!",
+          "ar": "dia!"
+        },
+        {
+          "pt": "Bom",
+          "en": "Bom",
+          "ar": "Bom"
+        },
+        {
+          "pt": "Silva.",
+          "en": "Silva.",
+          "ar": "Silva."
+        },
+        {
+          "pt": "Alô,",
+          "en": "Alô,",
+          "ar": "Alô,"
+        },
+        {
+          "pt": "empresa",
+          "en": "empresa",
+          "ar": "empresa"
+        }
+      ],
+      "answer": "Alô, empresa Silva. Bom dia!",
+      "accepted": [
+        "Alô, empresa Silva. Bom dia!"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Alô, empresa Silva. Bom dia!'",
+        "en": "The correct order: 'Hello, Silva company. Good morning!'",
+        "ar": "الترتيب الصحيح: 'ألو، شركة سيلفا. صباح الخير!'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "discar",
+          "en": "the cell phone",
+          "ar": "discar"
+        },
+        {
+          "pt": "atender",
+          "en": "to dial",
+          "ar": "atender"
+        },
+        {
+          "pt": "ligar",
+          "en": "the call",
+          "ar": "ligar"
+        },
+        {
+          "pt": "o telefone",
+          "en": "the telephone",
+          "ar": "o telefone"
+        },
+        {
+          "pt": "o celular",
+          "en": "to call",
+          "ar": "o celular"
+        },
+        {
+          "pt": "a ligação",
+          "en": "to answer",
+          "ar": "a ligação"
+        }
+      ],
+      "answer": "discar::the cell phone|atender::to dial|ligar::the call|o telefone::the telephone|o celular::to call|a ligação::to answer",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Você fala com a secretária.",
+          "en": "Can I speak with the manager, please?",
+          "ar": "هل يمكنني التحدث مع المدير، من فضلك؟"
+        },
+        {
+          "pt": "Alô, empresa Silva. Bom dia!",
+          "en": "Hello, Silva company. Good morning!",
+          "ar": "تتحدث مع السكرتيرة."
+        },
+        {
+          "pt": "Pode falar com o gerente, por favor?",
+          "en": "You are speaking with the secretary.",
+          "ar": "ألو، شركة سيلفا. صباح الخير!"
+        }
+      ],
+      "answer": "Alô, empresa Silva. Bom dia!",
+      "accepted": [],
+      "audio": "Alô, empresa Silva. Bom dia!",
+      "explanation": {
+        "pt": "Você ouviu: 'Alô, empresa Silva. Bom dia!' — 'Hello, Silva company. Good morning!'",
+        "en": "You heard: 'Alô, empresa Silva. Bom dia!' — 'Hello, Silva company. Good morning!'",
+        "ar": "سمعت: 'Alô, empresa Silva. Bom dia!' — 'ألو، شركة سيلفا. صباح الخير!'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Alô, empresa Silva. Bom dia!",
+          "en": "Can I speak with the manager, please?",
+          "ar": "صباح الخير! مع من أتحدث؟"
+        },
+        {
+          "pt": "Pode falar com o gerente, por favor?",
+          "en": "Hello, Silva company. Good morning!",
+          "ar": "هل يمكنني التحدث مع المدير، من فضلك؟"
+        },
+        {
+          "pt": "Bom dia! Com quem eu falo?",
+          "en": "Good morning! Who am I speaking with?",
+          "ar": "ألو، شركة سيلفا. صباح الخير!"
+        }
+      ],
+      "answer": "Bom dia! Com quem eu falo?",
+      "accepted": [],
+      "audio": "Bom dia! Com quem eu falo?",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia! Com quem eu falo?' — 'Good morning! Who am I speaking with?'",
+        "en": "You heard: 'Bom dia! Com quem eu falo?' — 'Good morning! Who am I speaking with?'",
+        "ar": "سمعت: 'Bom dia! Com quem eu falo?' — 'صباح الخير! مع من أتحدث؟'"
+      }
+    }
+  ],
+  "speaking": {
+    "title": {
+      "pt": "Fale Agora — Ouça e Repita",
+      "en": "Speak Now — Listen and Repeat",
+      "ar": "تحدث الآن — استمع وكرر"
+    },
+    "phrases": [
+      {
+        "pt": "Alô, empresa Silva. Bom dia!",
+        "en": "Hello, Silva company. Good morning!",
+        "ar": "ألو، شركة سيلفا. صباح الخير!"
+      },
+      {
+        "pt": "Bom dia! Com quem eu falo?",
+        "en": "Good morning! Who am I speaking with?",
+        "ar": "صباح الخير! مع من أتحدث؟"
+      },
+      {
+        "pt": "Você fala com a secretária.",
+        "en": "You are speaking with the secretary.",
+        "ar": "تتحدث مع السكرتيرة."
+      },
+      {
+        "pt": "Pode falar com o gerente, por favor?",
+        "en": "Can I speak with the manager, please?",
+        "ar": "هل يمكنني التحدث مع المدير، من فضلك؟"
+      },
+      {
+        "pt": "Um momento. Ele está em uma reunião.",
+        "en": "One moment. He is in a meeting.",
+        "ar": "لحظة واحدة. إنه في اجتماع."
+      },
+      {
+        "pt": "Então posso deixar um recado?",
+        "en": "Then can I leave a message?",
+        "ar": "إذن هل يمكنني ترك رسالة؟"
+      },
+      {
+        "pt": "o telefone",
+        "en": "the telephone",
+        "ar": "الهاتف"
+      },
+      {
+        "pt": "o celular",
+        "en": "the cell phone",
+        "ar": "الهاتف المحمول"
+      },
+      {
+        "pt": "ligar",
+        "en": "to call",
+        "ar": "يتصل"
+      }
+    ]
+  },
+  "cultural_tips": {
+    "pt": "",
+    "en": "",
+    "ar": ""
+  }
+}

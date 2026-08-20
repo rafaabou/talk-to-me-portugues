@@ -1,0 +1,1943 @@
+{
+  "id": "B1-05",
+  "level": "B1",
+  "level_name": {
+    "pt": "Intermediário",
+    "en": "Intermediate",
+    "ar": "متوسط"
+  },
+  "title": {
+    "pt": "Gerúndio e Construções Progressivas",
+    "en": "Gerund and Progressive Constructions",
+    "ar": "المصدر المستمر"
+  },
+  "objectives": [
+    {
+      "pt": "Formar o gerúndio dos verbos regulares e usá-lo com 'estar'.",
+      "en": "Form the gerund of regular verbs and use it with 'estar'.",
+      "ar": "تكوين صيغة اسم الفاعل المستمر للأفعال النظامية واستخدامها مع 'estar'."
+    },
+    {
+      "pt": "Descrever ações em andamento no presente e no passado.",
+      "en": "Describe ongoing actions in the present and the past.",
+      "ar": "وصف أفعال قيد الحدوث في الحاضر والماضي."
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "o gerúndio",
+      "ipa": "/u ʒeˈɾũ.dʒju/",
+      "en": "the gerund",
+      "ar": "صيغة المتابعة (gerúndio)",
+      "example": {
+        "pt": "Alô? O que você está fazendo agora?",
+        "en": "Hello? What are you doing right now?",
+        "ar": "ألو؟ ماذا تفعل الآن؟"
+      }
+    },
+    {
+      "pt": "progressivo",
+      "ipa": "/pɾo.ɡɾeˈsi.vu/",
+      "en": "progressive",
+      "ar": "مستمر",
+      "example": {
+        "pt": "Alô? O que você está fazendo agora?",
+        "en": "Hello? What are you doing right now?",
+        "ar": "ألو؟ ماذا تفعل الآن؟"
+      }
+    },
+    {
+      "pt": "acontecendo",
+      "ipa": "/a.kõ.teˈsẽ.du/",
+      "en": "happening",
+      "ar": "جارٍ الحدوث",
+      "example": {
+        "pt": "Alô? O que você está fazendo agora?",
+        "en": "Hello? What are you doing right now?",
+        "ar": "ألو؟ ماذا تفعل الآن؟"
+      }
+    },
+    {
+      "pt": "estudando",
+      "ipa": "/es.tuˈdɐ̃.du/",
+      "en": "studying",
+      "ar": "يدرس",
+      "example": {
+        "pt": "E o Pedro? Está estudando?",
+        "en": "And Pedro? Is he studying?",
+        "ar": "وبيدرو؟ هل يدرس؟"
+      }
+    },
+    {
+      "pt": "assistindo",
+      "ipa": "/a.siʃˈtʃĩ.du/",
+      "en": "watching",
+      "ar": "يشاهد",
+      "example": {
+        "pt": "Não, ele está assistindo futebol na TV.",
+        "en": "No, he is watching soccer on TV.",
+        "ar": "لا، إنه يشاهد كرة القدم على التلفزيون."
+      }
+    },
+    {
+      "pt": "trabalhando",
+      "ipa": "/tɾa.baˈʎɐ̃.du/",
+      "en": "working",
+      "ar": "يعمل",
+      "example": {
+        "pt": "Eles estão trabalhando neste momento.",
+        "en": "They are working right now.",
+        "ar": "إنهم يعملون في هذه اللحظة."
+      }
+    },
+    {
+      "pt": "falando",
+      "ipa": "/faˈlɐ̃.du/",
+      "en": "speaking",
+      "ar": "يتحدث",
+      "example": {
+        "pt": "Alô? O que você está fazendo agora?",
+        "en": "Hello? What are you doing right now?",
+        "ar": "ألو؟ ماذا تفعل الآن؟"
+      }
+    },
+    {
+      "pt": "andando",
+      "ipa": "/ɐ̃ˈdɐ̃.du/",
+      "en": "walking",
+      "ar": "يمشي",
+      "example": {
+        "pt": "Então vou andando até a sua casa.",
+        "en": "Then I will walk over to your house.",
+        "ar": "إذن سأمشي إلى منزلك."
+      }
+    },
+    {
+      "pt": "esperando",
+      "ipa": "/is.peˈɾɐ̃.du/",
+      "en": "waiting",
+      "ar": "ينتظر",
+      "example": {
+        "pt": "Perfeito! Estamos esperando você.",
+        "en": "Perfect! We are waiting for you.",
+        "ar": "ممتاز! نحن في انتظارك."
+      }
+    },
+    {
+      "pt": "correndo",
+      "ipa": "/koˈhẽ.du/",
+      "en": "running",
+      "ar": "يجري",
+      "example": {
+        "pt": "Alô? O que você está fazendo agora?",
+        "en": "Hello? What are you doing right now?",
+        "ar": "ألو؟ ماذا تفعل الآن؟"
+      }
+    },
+    {
+      "pt": "comendo",
+      "ipa": "/koˈmẽ.du/",
+      "en": "eating",
+      "ar": "يأكل",
+      "example": {
+        "pt": "Alô? O que você está fazendo agora?",
+        "en": "Hello? What are you doing right now?",
+        "ar": "ألو؟ ماذا تفعل الآن؟"
+      }
+    },
+    {
+      "pt": "escrevendo",
+      "ipa": "/es.kɾeˈvẽ.du/",
+      "en": "writing",
+      "ar": "يكتب",
+      "example": {
+        "pt": "Estou escrevendo um e-mail para minha chefe.",
+        "en": "I am writing an email to my boss.",
+        "ar": "أنا أكتب رسالة إلكترونية إلى مديرتي."
+      }
+    },
+    {
+      "pt": "ouvindo",
+      "ipa": "/owˈvĩ.du/",
+      "en": "listening",
+      "ar": "يستمع",
+      "example": {
+        "pt": "Alô? O que você está fazendo agora?",
+        "en": "Hello? What are you doing right now?",
+        "ar": "ألو؟ ماذا تفعل الآن؟"
+      }
+    },
+    {
+      "pt": "a mudança",
+      "ipa": "/a muˈdɐ̃.sɐ/",
+      "en": "the change",
+      "ar": "التغيير",
+      "example": {
+        "pt": "Então vou andando até a sua casa.",
+        "en": "Then I will walk over to your house.",
+        "ar": "إذن سأمشي إلى منزلك."
+      }
+    },
+    {
+      "pt": "o processo",
+      "ipa": "/u pɾoˈse.su/",
+      "en": "the process",
+      "ar": "العملية",
+      "example": {
+        "pt": "Alô? O que você está fazendo agora?",
+        "en": "Hello? What are you doing right now?",
+        "ar": "ألو؟ ماذا تفعل الآن؟"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "title": {
+        "pt": "Estar + gerúndio",
+        "en": "Estar + gerund",
+        "ar": "estar + gerúndio"
+      },
+      "explanation": {
+        "pt": "A construção 'estar + gerúndio' indica uma ação em andamento. Verbos em -ar formam o gerúndio com -ando, em -er com -endo e em -ir com -indo.",
+        "en": "The construction 'estar + gerund' indicates an action in progress. Verbs in -ar form the gerund with -ando, in -er with -endo and in -ir with -indo.",
+        "ar": "يشير التركيب 'estar + gerúndio' إلى فعل قيد التنفيذ. الأفعال المنتهية بـ-ar تشكّل اسم الفاعل بـ-ando، وبـ-er بـ-endo، وبـ-ir بـ-indo."
+      },
+      "examples": [
+        {
+          "pt": "Estou estudando português agora.",
+          "en": "I am studying Portuguese right now.",
+          "ar": "أنا أدرس البرتغالية الآن."
+        },
+        {
+          "pt": "Ela está assistindo a um filme.",
+          "en": "She is watching a movie.",
+          "ar": "إنها تشاهد فيلماً."
+        },
+        {
+          "pt": "Eles estão trabalhando neste momento.",
+          "en": "They are working right now.",
+          "ar": "إنهم يعملون في هذه اللحظة."
+        }
+      ]
+    },
+    {
+      "title": {
+        "pt": "Gerúndio em outras construções",
+        "en": "The gerund in other constructions",
+        "ar": "استخدامات أخرى لاسم الفاعل"
+      },
+      "explanation": {
+        "pt": "O gerúndio também aparece com verbos como 'continuar', 'ficar' e 'ir', indicando duração, mudança ou movimento.",
+        "en": "The gerund also appears with verbs like 'continuar', 'ficar' and 'ir', indicating duration, change or movement.",
+        "ar": "يظهر اسم الفاعل أيضاً مع أفعال مثل 'continuar' و'ficar' و'ir' للدلالة على الاستمرار أو التغيير أو الحركة."
+      },
+      "examples": [
+        {
+          "pt": "Ele continua estudando todas as noites.",
+          "en": "He keeps studying every night.",
+          "ar": "يواصل الدراسة كل ليلة."
+        },
+        {
+          "pt": "Vou caminhando até o trabalho.",
+          "en": "I walk to work (on foot).",
+          "ar": "أمشي إلى العمل سيراً على الأقدام."
+        },
+        {
+          "pt": "Chegando em casa, me ligue.",
+          "en": "When you get home, call me.",
+          "ar": "عند وصولك إلى المنزل، اتصل بي."
+        }
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": {
+      "pt": "O que você está fazendo?",
+      "en": "What are you doing?",
+      "ar": "ماذا تفعل الآن؟"
+    },
+    "lines": [
+      {
+        "speaker": "Rafael",
+        "pt": "Alô? O que você está fazendo agora?",
+        "en": "Hello? What are you doing right now?",
+        "ar": "ألو؟ ماذا تفعل الآن؟"
+      },
+      {
+        "speaker": "Duda",
+        "pt": "Estou escrevendo um e-mail para minha chefe.",
+        "en": "I am writing an email to my boss.",
+        "ar": "أنا أكتب رسالة إلكترونية إلى مديرتي."
+      },
+      {
+        "speaker": "Rafael",
+        "pt": "E o Pedro? Está estudando?",
+        "en": "And Pedro? Is he studying?",
+        "ar": "وبيدرو؟ هل يدرس؟"
+      },
+      {
+        "speaker": "Duda",
+        "pt": "Não, ele está assistindo futebol na TV.",
+        "en": "No, he is watching soccer on TV.",
+        "ar": "لا، إنه يشاهد كرة القدم على التلفزيون."
+      },
+      {
+        "speaker": "Rafael",
+        "pt": "Então vou andando até a sua casa.",
+        "en": "Then I will walk over to your house.",
+        "ar": "إذن سأمشي إلى منزلك."
+      },
+      {
+        "speaker": "Duda",
+        "pt": "Perfeito! Estamos esperando você.",
+        "en": "Perfect! We are waiting for you.",
+        "ar": "ممتاز! نحن في انتظارك."
+      }
+    ]
+  },
+  "reading": {
+    "title": {
+      "pt": "Uma tarde movimentada",
+      "en": "A busy afternoon",
+      "ar": "بعد ظهر حافل"
+    },
+    "text_pt": "Agora, o bairro está muito movimentado. As crianças estão correndo no parque. Minha vizinha está ouvindo música na sacada. Enquanto isso, estou escrevendo uma carta para um amigo.",
+    "text_en": "Right now the neighborhood is very lively. The children are running in the park. My neighbor is listening to music on the balcony. Meanwhile, I am writing a letter to a friend.",
+    "text_ar": "الحي الآن مفعم بالحركة. الأطفال يجرون في الحديقة. جارتي تستمع إلى الموسيقى على الشرفة. وفي هذه الأثناء، أكتب رسالة إلى صديق."
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Complete: \"Ela ___ estudando português.\"",
+        "en": "Complete: \"She ___ studying Portuguese.\"",
+        "ar": "أكمل: \"هي ___ تدرس البرتغالية.\""
+      },
+      "options": [
+        {
+          "pt": "está",
+          "en": "is",
+          "ar": "في طور"
+        },
+        {
+          "pt": "é",
+          "en": "is (identity)",
+          "ar": "تكون"
+        },
+        {
+          "pt": "foi",
+          "en": "was (past)",
+          "ar": "كانت"
+        },
+        {
+          "pt": "tem",
+          "en": "has",
+          "ar": "تملك"
+        }
+      ],
+      "answer": "está",
+      "explanation": {
+        "pt": "Ações em andamento usam 'estar + gerúndio': 'ela está estudando'.",
+        "en": "Ongoing actions use 'estar + gerund': 'she is studying'.",
+        "ar": "الأفعال الجارية تستخدم 'estar + gerúndio': 'هي تدرس الآن'."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Complete com o gerúndio correto: \"Estou ___ um livro.\"",
+        "en": "Complete with the correct gerund: \"I am ___ a book.\"",
+        "ar": "أكمل بصيغة اسم الفاعل الصحيحة: \"أنا ___ كتاباً.\""
+      },
+      "options": [
+        {
+          "pt": "lendo",
+          "en": "reading",
+          "ar": "أقرأ"
+        },
+        {
+          "pt": "ler",
+          "en": "to read",
+          "ar": "أن أقرأ"
+        },
+        {
+          "pt": "li",
+          "en": "I read (past)",
+          "ar": "قرأت"
+        },
+        {
+          "pt": "lido",
+          "en": "read (participle)",
+          "ar": "مقروء"
+        }
+      ],
+      "answer": "lendo",
+      "explanation": {
+        "pt": "O gerúndio de 'ler' é 'lendo': 'estou lendo um livro'.",
+        "en": "The gerund of 'ler' is 'lendo': 'I am reading a book'.",
+        "ar": "اسم الفاعل من 'ler' هو 'lendo': 'أنا أقرأ كتاباً'."
+      }
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o inglês: \"Eles estão esperando o ônibus.\"",
+        "en": "Translate to English: \"Eles estão esperando o ônibus.\"",
+        "ar": "ترجم إلى الإنجليزية: \"Eles estão esperando o ônibus.\""
+      },
+      "options": [],
+      "answer": "They are waiting for the bus.",
+      "explanation": {
+        "pt": "'Estão esperando' é a forma progressiva de 'esperar' na terceira pessoa do plural.",
+        "en": "'Estão esperando' is the progressive form of 'esperar' in the third person plural.",
+        "ar": "'estão esperando' هي صيغة المضارع المستمر من 'esperar' بضمير الغائبين."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "agora?",
+          "en": "agora?",
+          "ar": "agora?"
+        },
+        {
+          "pt": "Alô?",
+          "en": "Alô?",
+          "ar": "Alô?"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "fazendo",
+          "en": "fazendo",
+          "ar": "fazendo"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "está",
+          "en": "está",
+          "ar": "está"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        }
+      ],
+      "answer": "Alô? O que você está fazendo agora?",
+      "accepted": [
+        "Alô? O que você está fazendo agora?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Alô? O que você está fazendo agora?'",
+        "en": "The correct order: 'Hello? What are you doing right now?'",
+        "ar": "الترتيب الصحيح: 'ألو؟ ماذا تفعل الآن؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o gerúndio",
+          "en": "the gerund",
+          "ar": "o gerúndio"
+        },
+        {
+          "pt": "assistindo",
+          "en": "studying",
+          "ar": "assistindo"
+        },
+        {
+          "pt": "acontecendo",
+          "en": "happening",
+          "ar": "acontecendo"
+        },
+        {
+          "pt": "progressivo",
+          "en": "working",
+          "ar": "progressivo"
+        },
+        {
+          "pt": "estudando",
+          "en": "watching",
+          "ar": "estudando"
+        },
+        {
+          "pt": "trabalhando",
+          "en": "progressive",
+          "ar": "trabalhando"
+        }
+      ],
+      "answer": "o gerúndio::the gerund|assistindo::studying|acontecendo::happening|progressivo::working|estudando::watching|trabalhando::progressive",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Perfeito! Estamos esperando você.",
+          "en": "Perfect! We are waiting for you.",
+          "ar": "ألو؟ ماذا تفعل الآن؟"
+        },
+        {
+          "pt": "Alô? O que você está fazendo agora?",
+          "en": "Hello? What are you doing right now?",
+          "ar": "وبيدرو؟ هل يدرس؟"
+        },
+        {
+          "pt": "E o Pedro? Está estudando?",
+          "en": "And Pedro? Is he studying?",
+          "ar": "ممتاز! نحن في انتظارك."
+        }
+      ],
+      "answer": "Alô? O que você está fazendo agora?",
+      "accepted": [],
+      "audio": "Alô? O que você está fazendo agora?",
+      "explanation": {
+        "pt": "Você ouviu: 'Alô? O que você está fazendo agora?' — 'Hello? What are you doing right now?'",
+        "en": "You heard: 'Alô? O que você está fazendo agora?' — 'Hello? What are you doing right now?'",
+        "ar": "سمعت: 'Alô? O que você está fazendo agora?' — 'ألو؟ ماذا تفعل الآن؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Alô? O que você está fazendo agora?",
+          "en": "Then I will walk over to your house.",
+          "ar": "أنا أكتب رسالة إلكترونية إلى مديرتي."
+        },
+        {
+          "pt": "Estou escrevendo um e-mail para minha chefe.",
+          "en": "Hello? What are you doing right now?",
+          "ar": "إذن سأمشي إلى منزلك."
+        },
+        {
+          "pt": "Então vou andando até a sua casa.",
+          "en": "I am writing an email to my boss.",
+          "ar": "ألو؟ ماذا تفعل الآن؟"
+        }
+      ],
+      "answer": "Estou escrevendo um e-mail para minha chefe.",
+      "accepted": [],
+      "audio": "Estou escrevendo um e-mail para minha chefe.",
+      "explanation": {
+        "pt": "Você ouviu: 'Estou escrevendo um e-mail para minha chefe.' — 'I am writing an email to my boss.'",
+        "en": "You heard: 'Estou escrevendo um e-mail para minha chefe.' — 'I am writing an email to my boss.'",
+        "ar": "سمعت: 'Estou escrevendo um e-mail para minha chefe.' — 'أنا أكتب رسالة إلكترونية إلى مديرتي.'"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Estou estudando ___ agora.",
+        "en": "Estou estudando ___ agora.",
+        "ar": "Estou estudando ___ agora."
+      },
+      "options": [
+        {
+          "pt": "estão",
+          "en": "estão",
+          "ar": "estão"
+        },
+        {
+          "pt": "trabalhando",
+          "en": "trabalhando",
+          "ar": "trabalhando"
+        },
+        {
+          "pt": "português",
+          "en": "português",
+          "ar": "português"
+        }
+      ],
+      "answer": "português",
+      "accepted": [],
+      "explanation": {
+        "pt": "A resposta é 'português'. Frase completa: Estou estudando português agora.",
+        "en": "The answer is 'português'. Full sentence: I am studying Portuguese right now.",
+        "ar": "الإجابة الصحيحة: 'português'. الجملة كاملة: أنا أدرس البرتغالية الآن."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "agora?",
+          "en": "agora?",
+          "ar": "agora?"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "está",
+          "en": "está",
+          "ar": "está"
+        },
+        {
+          "pt": "fazendo",
+          "en": "fazendo",
+          "ar": "fazendo"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "Alô?",
+          "en": "Alô?",
+          "ar": "Alô?"
+        }
+      ],
+      "answer": "Alô? O que você está fazendo agora?",
+      "accepted": [
+        "Alô? O que você está fazendo agora?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Alô? O que você está fazendo agora?'",
+        "en": "The correct order: 'Hello? What are you doing right now?'",
+        "ar": "الترتيب الصحيح: 'ألو؟ ماذا تفعل الآن؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "progressivo",
+          "en": "the gerund",
+          "ar": "progressivo"
+        },
+        {
+          "pt": "trabalhando",
+          "en": "happening",
+          "ar": "trabalhando"
+        },
+        {
+          "pt": "assistindo",
+          "en": "working",
+          "ar": "assistindo"
+        },
+        {
+          "pt": "estudando",
+          "en": "studying",
+          "ar": "estudando"
+        },
+        {
+          "pt": "acontecendo",
+          "en": "watching",
+          "ar": "acontecendo"
+        },
+        {
+          "pt": "o gerúndio",
+          "en": "progressive",
+          "ar": "o gerúndio"
+        }
+      ],
+      "answer": "progressivo::the gerund|trabalhando::happening|assistindo::working|estudando::studying|acontecendo::watching|o gerúndio::progressive",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Não, ele está assistindo futebol na TV.",
+          "en": "Hello? What are you doing right now?",
+          "ar": "ألو؟ ماذا تفعل الآن؟"
+        },
+        {
+          "pt": "Alô? O que você está fazendo agora?",
+          "en": "No, he is watching soccer on TV.",
+          "ar": "لا، إنه يشاهد كرة القدم على التلفزيون."
+        },
+        {
+          "pt": "Estou escrevendo um e-mail para minha chefe.",
+          "en": "I am writing an email to my boss.",
+          "ar": "أنا أكتب رسالة إلكترونية إلى مديرتي."
+        }
+      ],
+      "answer": "Alô? O que você está fazendo agora?",
+      "accepted": [],
+      "audio": "Alô? O que você está fazendo agora?",
+      "explanation": {
+        "pt": "Você ouviu: 'Alô? O que você está fazendo agora?' — 'Hello? What are you doing right now?'",
+        "en": "You heard: 'Alô? O que você está fazendo agora?' — 'Hello? What are you doing right now?'",
+        "ar": "سمعت: 'Alô? O que você está fazendo agora?' — 'ألو؟ ماذا تفعل الآن؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Então vou andando até a sua casa.",
+          "en": "Then I will walk over to your house.",
+          "ar": "إذن سأمشي إلى منزلك."
+        },
+        {
+          "pt": "Estou escrevendo um e-mail para minha chefe.",
+          "en": "And Pedro? Is he studying?",
+          "ar": "وبيدرو؟ هل يدرس؟"
+        },
+        {
+          "pt": "E o Pedro? Está estudando?",
+          "en": "I am writing an email to my boss.",
+          "ar": "أنا أكتب رسالة إلكترونية إلى مديرتي."
+        }
+      ],
+      "answer": "Estou escrevendo um e-mail para minha chefe.",
+      "accepted": [],
+      "audio": "Estou escrevendo um e-mail para minha chefe.",
+      "explanation": {
+        "pt": "Você ouviu: 'Estou escrevendo um e-mail para minha chefe.' — 'I am writing an email to my boss.'",
+        "en": "You heard: 'Estou escrevendo um e-mail para minha chefe.' — 'I am writing an email to my boss.'",
+        "ar": "سمعت: 'Estou escrevendo um e-mail para minha chefe.' — 'أنا أكتب رسالة إلكترونية إلى مديرتي.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "fazendo",
+          "en": "fazendo",
+          "ar": "fazendo"
+        },
+        {
+          "pt": "Alô?",
+          "en": "Alô?",
+          "ar": "Alô?"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "agora?",
+          "en": "agora?",
+          "ar": "agora?"
+        },
+        {
+          "pt": "está",
+          "en": "está",
+          "ar": "está"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        }
+      ],
+      "answer": "Alô? O que você está fazendo agora?",
+      "accepted": [
+        "Alô? O que você está fazendo agora?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Alô? O que você está fazendo agora?'",
+        "en": "The correct order: 'Hello? What are you doing right now?'",
+        "ar": "الترتيب الصحيح: 'ألو؟ ماذا تفعل الآن؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o gerúndio",
+          "en": "watching",
+          "ar": "o gerúndio"
+        },
+        {
+          "pt": "trabalhando",
+          "en": "progressive",
+          "ar": "trabalhando"
+        },
+        {
+          "pt": "assistindo",
+          "en": "studying",
+          "ar": "assistindo"
+        },
+        {
+          "pt": "progressivo",
+          "en": "the gerund",
+          "ar": "progressivo"
+        },
+        {
+          "pt": "acontecendo",
+          "en": "working",
+          "ar": "acontecendo"
+        },
+        {
+          "pt": "estudando",
+          "en": "happening",
+          "ar": "estudando"
+        }
+      ],
+      "answer": "o gerúndio::watching|trabalhando::progressive|assistindo::studying|progressivo::the gerund|acontecendo::working|estudando::happening",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "E o Pedro? Está estudando?",
+          "en": "And Pedro? Is he studying?",
+          "ar": "ألو؟ ماذا تفعل الآن؟"
+        },
+        {
+          "pt": "Estou escrevendo um e-mail para minha chefe.",
+          "en": "Hello? What are you doing right now?",
+          "ar": "وبيدرو؟ هل يدرس؟"
+        },
+        {
+          "pt": "Alô? O que você está fazendo agora?",
+          "en": "I am writing an email to my boss.",
+          "ar": "أنا أكتب رسالة إلكترونية إلى مديرتي."
+        }
+      ],
+      "answer": "Alô? O que você está fazendo agora?",
+      "accepted": [],
+      "audio": "Alô? O que você está fazendo agora?",
+      "explanation": {
+        "pt": "Você ouviu: 'Alô? O que você está fazendo agora?' — 'Hello? What are you doing right now?'",
+        "en": "You heard: 'Alô? O que você está fazendo agora?' — 'Hello? What are you doing right now?'",
+        "ar": "سمعت: 'Alô? O que você está fazendo agora?' — 'ألو؟ ماذا تفعل الآن؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "E o Pedro? Está estudando?",
+          "en": "And Pedro? Is he studying?",
+          "ar": "أنا أكتب رسالة إلكترونية إلى مديرتي."
+        },
+        {
+          "pt": "Não, ele está assistindo futebol na TV.",
+          "en": "I am writing an email to my boss.",
+          "ar": "وبيدرو؟ هل يدرس؟"
+        },
+        {
+          "pt": "Estou escrevendo um e-mail para minha chefe.",
+          "en": "No, he is watching soccer on TV.",
+          "ar": "لا، إنه يشاهد كرة القدم على التلفزيون."
+        }
+      ],
+      "answer": "Estou escrevendo um e-mail para minha chefe.",
+      "accepted": [],
+      "audio": "Estou escrevendo um e-mail para minha chefe.",
+      "explanation": {
+        "pt": "Você ouviu: 'Estou escrevendo um e-mail para minha chefe.' — 'I am writing an email to my boss.'",
+        "en": "You heard: 'Estou escrevendo um e-mail para minha chefe.' — 'I am writing an email to my boss.'",
+        "ar": "سمعت: 'Estou escrevendo um e-mail para minha chefe.' — 'أنا أكتب رسالة إلكترونية إلى مديرتي.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "está",
+          "en": "está",
+          "ar": "está"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "Alô?",
+          "en": "Alô?",
+          "ar": "Alô?"
+        },
+        {
+          "pt": "agora?",
+          "en": "agora?",
+          "ar": "agora?"
+        },
+        {
+          "pt": "fazendo",
+          "en": "fazendo",
+          "ar": "fazendo"
+        }
+      ],
+      "answer": "Alô? O que você está fazendo agora?",
+      "accepted": [
+        "Alô? O que você está fazendo agora?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Alô? O que você está fazendo agora?'",
+        "en": "The correct order: 'Hello? What are you doing right now?'",
+        "ar": "الترتيب الصحيح: 'ألو؟ ماذا تفعل الآن؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "assistindo",
+          "en": "studying",
+          "ar": "assistindo"
+        },
+        {
+          "pt": "o gerúndio",
+          "en": "happening",
+          "ar": "o gerúndio"
+        },
+        {
+          "pt": "progressivo",
+          "en": "progressive",
+          "ar": "progressivo"
+        },
+        {
+          "pt": "acontecendo",
+          "en": "working",
+          "ar": "acontecendo"
+        },
+        {
+          "pt": "estudando",
+          "en": "watching",
+          "ar": "estudando"
+        },
+        {
+          "pt": "trabalhando",
+          "en": "the gerund",
+          "ar": "trabalhando"
+        }
+      ],
+      "answer": "assistindo::studying|o gerúndio::happening|progressivo::progressive|acontecendo::working|estudando::watching|trabalhando::the gerund",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "E o Pedro? Está estudando?",
+          "en": "And Pedro? Is he studying?",
+          "ar": "لا، إنه يشاهد كرة القدم على التلفزيون."
+        },
+        {
+          "pt": "Não, ele está assistindo futebol na TV.",
+          "en": "No, he is watching soccer on TV.",
+          "ar": "ألو؟ ماذا تفعل الآن؟"
+        },
+        {
+          "pt": "Alô? O que você está fazendo agora?",
+          "en": "Hello? What are you doing right now?",
+          "ar": "وبيدرو؟ هل يدرس؟"
+        }
+      ],
+      "answer": "Alô? O que você está fazendo agora?",
+      "accepted": [],
+      "audio": "Alô? O que você está fazendo agora?",
+      "explanation": {
+        "pt": "Você ouviu: 'Alô? O que você está fazendo agora?' — 'Hello? What are you doing right now?'",
+        "en": "You heard: 'Alô? O que você está fazendo agora?' — 'Hello? What are you doing right now?'",
+        "ar": "سمعت: 'Alô? O que você está fazendo agora?' — 'ألو؟ ماذا تفعل الآن؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "E o Pedro? Está estudando?",
+          "en": "Hello? What are you doing right now?",
+          "ar": "ألو؟ ماذا تفعل الآن؟"
+        },
+        {
+          "pt": "Alô? O que você está fazendo agora?",
+          "en": "And Pedro? Is he studying?",
+          "ar": "وبيدرو؟ هل يدرس؟"
+        },
+        {
+          "pt": "Estou escrevendo um e-mail para minha chefe.",
+          "en": "I am writing an email to my boss.",
+          "ar": "أنا أكتب رسالة إلكترونية إلى مديرتي."
+        }
+      ],
+      "answer": "Estou escrevendo um e-mail para minha chefe.",
+      "accepted": [],
+      "audio": "Estou escrevendo um e-mail para minha chefe.",
+      "explanation": {
+        "pt": "Você ouviu: 'Estou escrevendo um e-mail para minha chefe.' — 'I am writing an email to my boss.'",
+        "en": "You heard: 'Estou escrevendo um e-mail para minha chefe.' — 'I am writing an email to my boss.'",
+        "ar": "سمعت: 'Estou escrevendo um e-mail para minha chefe.' — 'أنا أكتب رسالة إلكترونية إلى مديرتي.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "Alô?",
+          "en": "Alô?",
+          "ar": "Alô?"
+        },
+        {
+          "pt": "fazendo",
+          "en": "fazendo",
+          "ar": "fazendo"
+        },
+        {
+          "pt": "agora?",
+          "en": "agora?",
+          "ar": "agora?"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "está",
+          "en": "está",
+          "ar": "está"
+        }
+      ],
+      "answer": "Alô? O que você está fazendo agora?",
+      "accepted": [
+        "Alô? O que você está fazendo agora?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Alô? O que você está fazendo agora?'",
+        "en": "The correct order: 'Hello? What are you doing right now?'",
+        "ar": "الترتيب الصحيح: 'ألو؟ ماذا تفعل الآن؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "assistindo",
+          "en": "working",
+          "ar": "assistindo"
+        },
+        {
+          "pt": "acontecendo",
+          "en": "progressive",
+          "ar": "acontecendo"
+        },
+        {
+          "pt": "progressivo",
+          "en": "studying",
+          "ar": "progressivo"
+        },
+        {
+          "pt": "estudando",
+          "en": "watching",
+          "ar": "estudando"
+        },
+        {
+          "pt": "o gerúndio",
+          "en": "happening",
+          "ar": "o gerúndio"
+        },
+        {
+          "pt": "trabalhando",
+          "en": "the gerund",
+          "ar": "trabalhando"
+        }
+      ],
+      "answer": "assistindo::working|acontecendo::progressive|progressivo::studying|estudando::watching|o gerúndio::happening|trabalhando::the gerund",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Não, ele está assistindo futebol na TV.",
+          "en": "No, he is watching soccer on TV.",
+          "ar": "لا، إنه يشاهد كرة القدم على التلفزيون."
+        },
+        {
+          "pt": "Perfeito! Estamos esperando você.",
+          "en": "Perfect! We are waiting for you.",
+          "ar": "ممتاز! نحن في انتظارك."
+        },
+        {
+          "pt": "Alô? O que você está fazendo agora?",
+          "en": "Hello? What are you doing right now?",
+          "ar": "ألو؟ ماذا تفعل الآن؟"
+        }
+      ],
+      "answer": "Alô? O que você está fazendo agora?",
+      "accepted": [],
+      "audio": "Alô? O que você está fazendo agora?",
+      "explanation": {
+        "pt": "Você ouviu: 'Alô? O que você está fazendo agora?' — 'Hello? What are you doing right now?'",
+        "en": "You heard: 'Alô? O que você está fazendo agora?' — 'Hello? What are you doing right now?'",
+        "ar": "سمعت: 'Alô? O que você está fazendo agora?' — 'ألو؟ ماذا تفعل الآن؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Estou escrevendo um e-mail para minha chefe.",
+          "en": "I am writing an email to my boss.",
+          "ar": "ممتاز! نحن في انتظارك."
+        },
+        {
+          "pt": "Perfeito! Estamos esperando você.",
+          "en": "No, he is watching soccer on TV.",
+          "ar": "لا، إنه يشاهد كرة القدم على التلفزيون."
+        },
+        {
+          "pt": "Não, ele está assistindo futebol na TV.",
+          "en": "Perfect! We are waiting for you.",
+          "ar": "أنا أكتب رسالة إلكترونية إلى مديرتي."
+        }
+      ],
+      "answer": "Estou escrevendo um e-mail para minha chefe.",
+      "accepted": [],
+      "audio": "Estou escrevendo um e-mail para minha chefe.",
+      "explanation": {
+        "pt": "Você ouviu: 'Estou escrevendo um e-mail para minha chefe.' — 'I am writing an email to my boss.'",
+        "en": "You heard: 'Estou escrevendo um e-mail para minha chefe.' — 'I am writing an email to my boss.'",
+        "ar": "سمعت: 'Estou escrevendo um e-mail para minha chefe.' — 'أنا أكتب رسالة إلكترونية إلى مديرتي.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Alô?",
+          "en": "Alô?",
+          "ar": "Alô?"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "está",
+          "en": "está",
+          "ar": "está"
+        },
+        {
+          "pt": "fazendo",
+          "en": "fazendo",
+          "ar": "fazendo"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "agora?",
+          "en": "agora?",
+          "ar": "agora?"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        }
+      ],
+      "answer": "Alô? O que você está fazendo agora?",
+      "accepted": [
+        "Alô? O que você está fazendo agora?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Alô? O que você está fazendo agora?'",
+        "en": "The correct order: 'Hello? What are you doing right now?'",
+        "ar": "الترتيب الصحيح: 'ألو؟ ماذا تفعل الآن؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "trabalhando",
+          "en": "the gerund",
+          "ar": "trabalhando"
+        },
+        {
+          "pt": "o gerúndio",
+          "en": "working",
+          "ar": "o gerúndio"
+        },
+        {
+          "pt": "assistindo",
+          "en": "happening",
+          "ar": "assistindo"
+        },
+        {
+          "pt": "estudando",
+          "en": "progressive",
+          "ar": "estudando"
+        },
+        {
+          "pt": "acontecendo",
+          "en": "studying",
+          "ar": "acontecendo"
+        },
+        {
+          "pt": "progressivo",
+          "en": "watching",
+          "ar": "progressivo"
+        }
+      ],
+      "answer": "trabalhando::the gerund|o gerúndio::working|assistindo::happening|estudando::progressive|acontecendo::studying|progressivo::watching",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Alô? O que você está fazendo agora?",
+          "en": "Hello? What are you doing right now?",
+          "ar": "ألو؟ ماذا تفعل الآن؟"
+        },
+        {
+          "pt": "E o Pedro? Está estudando?",
+          "en": "No, he is watching soccer on TV.",
+          "ar": "وبيدرو؟ هل يدرس؟"
+        },
+        {
+          "pt": "Não, ele está assistindo futebol na TV.",
+          "en": "And Pedro? Is he studying?",
+          "ar": "لا، إنه يشاهد كرة القدم على التلفزيون."
+        }
+      ],
+      "answer": "Alô? O que você está fazendo agora?",
+      "accepted": [],
+      "audio": "Alô? O que você está fazendo agora?",
+      "explanation": {
+        "pt": "Você ouviu: 'Alô? O que você está fazendo agora?' — 'Hello? What are you doing right now?'",
+        "en": "You heard: 'Alô? O que você está fazendo agora?' — 'Hello? What are you doing right now?'",
+        "ar": "سمعت: 'Alô? O que você está fazendo agora?' — 'ألو؟ ماذا تفعل الآن؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Estou escrevendo um e-mail para minha chefe.",
+          "en": "No, he is watching soccer on TV.",
+          "ar": "ألو؟ ماذا تفعل الآن؟"
+        },
+        {
+          "pt": "Alô? O que você está fazendo agora?",
+          "en": "Hello? What are you doing right now?",
+          "ar": "أنا أكتب رسالة إلكترونية إلى مديرتي."
+        },
+        {
+          "pt": "Não, ele está assistindo futebol na TV.",
+          "en": "I am writing an email to my boss.",
+          "ar": "لا، إنه يشاهد كرة القدم على التلفزيون."
+        }
+      ],
+      "answer": "Estou escrevendo um e-mail para minha chefe.",
+      "accepted": [],
+      "audio": "Estou escrevendo um e-mail para minha chefe.",
+      "explanation": {
+        "pt": "Você ouviu: 'Estou escrevendo um e-mail para minha chefe.' — 'I am writing an email to my boss.'",
+        "en": "You heard: 'Estou escrevendo um e-mail para minha chefe.' — 'I am writing an email to my boss.'",
+        "ar": "سمعت: 'Estou escrevendo um e-mail para minha chefe.' — 'أنا أكتب رسالة إلكترونية إلى مديرتي.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Alô?",
+          "en": "Alô?",
+          "ar": "Alô?"
+        },
+        {
+          "pt": "fazendo",
+          "en": "fazendo",
+          "ar": "fazendo"
+        },
+        {
+          "pt": "agora?",
+          "en": "agora?",
+          "ar": "agora?"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "está",
+          "en": "está",
+          "ar": "está"
+        }
+      ],
+      "answer": "Alô? O que você está fazendo agora?",
+      "accepted": [
+        "Alô? O que você está fazendo agora?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Alô? O que você está fazendo agora?'",
+        "en": "The correct order: 'Hello? What are you doing right now?'",
+        "ar": "الترتيب الصحيح: 'ألو؟ ماذا تفعل الآن؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "estudando",
+          "en": "studying",
+          "ar": "estudando"
+        },
+        {
+          "pt": "progressivo",
+          "en": "the gerund",
+          "ar": "progressivo"
+        },
+        {
+          "pt": "trabalhando",
+          "en": "progressive",
+          "ar": "trabalhando"
+        },
+        {
+          "pt": "assistindo",
+          "en": "working",
+          "ar": "assistindo"
+        },
+        {
+          "pt": "acontecendo",
+          "en": "watching",
+          "ar": "acontecendo"
+        },
+        {
+          "pt": "o gerúndio",
+          "en": "happening",
+          "ar": "o gerúndio"
+        }
+      ],
+      "answer": "estudando::studying|progressivo::the gerund|trabalhando::progressive|assistindo::working|acontecendo::watching|o gerúndio::happening",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Perfeito! Estamos esperando você.",
+          "en": "Then I will walk over to your house.",
+          "ar": "ممتاز! نحن في انتظارك."
+        },
+        {
+          "pt": "Então vou andando até a sua casa.",
+          "en": "Perfect! We are waiting for you.",
+          "ar": "ألو؟ ماذا تفعل الآن؟"
+        },
+        {
+          "pt": "Alô? O que você está fazendo agora?",
+          "en": "Hello? What are you doing right now?",
+          "ar": "إذن سأمشي إلى منزلك."
+        }
+      ],
+      "answer": "Alô? O que você está fazendo agora?",
+      "accepted": [],
+      "audio": "Alô? O que você está fazendo agora?",
+      "explanation": {
+        "pt": "Você ouviu: 'Alô? O que você está fazendo agora?' — 'Hello? What are you doing right now?'",
+        "en": "You heard: 'Alô? O que você está fazendo agora?' — 'Hello? What are you doing right now?'",
+        "ar": "سمعت: 'Alô? O que você está fazendo agora?' — 'ألو؟ ماذا تفعل الآن؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Alô? O que você está fazendo agora?",
+          "en": "I am writing an email to my boss.",
+          "ar": "ألو؟ ماذا تفعل الآن؟"
+        },
+        {
+          "pt": "Estou escrevendo um e-mail para minha chefe.",
+          "en": "No, he is watching soccer on TV.",
+          "ar": "لا، إنه يشاهد كرة القدم على التلفزيون."
+        },
+        {
+          "pt": "Não, ele está assistindo futebol na TV.",
+          "en": "Hello? What are you doing right now?",
+          "ar": "أنا أكتب رسالة إلكترونية إلى مديرتي."
+        }
+      ],
+      "answer": "Estou escrevendo um e-mail para minha chefe.",
+      "accepted": [],
+      "audio": "Estou escrevendo um e-mail para minha chefe.",
+      "explanation": {
+        "pt": "Você ouviu: 'Estou escrevendo um e-mail para minha chefe.' — 'I am writing an email to my boss.'",
+        "en": "You heard: 'Estou escrevendo um e-mail para minha chefe.' — 'I am writing an email to my boss.'",
+        "ar": "سمعت: 'Estou escrevendo um e-mail para minha chefe.' — 'أنا أكتب رسالة إلكترونية إلى مديرتي.'"
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'the gerund'",
+        "en": "Type in Portuguese: 'the gerund'",
+        "ar": "اكتب بالبرتغالية: 'صيغة المتابعة (gerúndio)'"
+      },
+      "options": [],
+      "answer": "o gerúndio",
+      "accepted": [
+        "o gerúndio"
+      ],
+      "explanation": {
+        "pt": "'o gerúndio' significa 'the gerund'.",
+        "en": "'o gerúndio' means 'the gerund'.",
+        "ar": "'$o gerúndio' بالعربية: '$صيغة المتابعة (gerúndio)'."
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'progressive'",
+        "en": "Type in Portuguese: 'progressive'",
+        "ar": "اكتب بالبرتغالية: 'مستمر'"
+      },
+      "options": [],
+      "answer": "progressivo",
+      "accepted": [
+        "progressivo"
+      ],
+      "explanation": {
+        "pt": "'progressivo' significa 'progressive'.",
+        "en": "'progressivo' means 'progressive'.",
+        "ar": "'$progressivo' بالعربية: '$مستمر'."
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Não, ele está assistindo futebol na TV.",
+          "en": "Não, ele está assistindo futebol na TV.",
+          "ar": "Não, ele está assistindo futebol na TV."
+        },
+        {
+          "pt": "Então vou andando até a sua casa.",
+          "en": "Então vou andando até a sua casa.",
+          "ar": "Então vou andando até a sua casa."
+        },
+        {
+          "pt": "Alô? O que você está fazendo agora?",
+          "en": "Alô? O que você está fazendo agora?",
+          "ar": "Alô? O que você está fazendo agora?"
+        }
+      ],
+      "answer": "Alô? O que você está fazendo agora?",
+      "accepted": [],
+      "audio": "Alô? O que você está fazendo agora?",
+      "explanation": {
+        "pt": "Você ouviu: 'Alô? O que você está fazendo agora?'",
+        "en": "You heard: 'Alô? O que você está fazendo agora?'",
+        "ar": "سمعت: 'Alô? O que você está fazendo agora?'"
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Não, ele está assistindo futebol na TV.",
+          "en": "Não, ele está assistindo futebol na TV.",
+          "ar": "Não, ele está assistindo futebol na TV."
+        },
+        {
+          "pt": "Estou escrevendo um e-mail para minha chefe.",
+          "en": "Estou escrevendo um e-mail para minha chefe.",
+          "ar": "Estou escrevendo um e-mail para minha chefe."
+        },
+        {
+          "pt": "Perfeito! Estamos esperando você.",
+          "en": "Perfeito! Estamos esperando você.",
+          "ar": "Perfeito! Estamos esperando você."
+        }
+      ],
+      "answer": "Estou escrevendo um e-mail para minha chefe.",
+      "accepted": [],
+      "audio": "Estou escrevendo um e-mail para minha chefe.",
+      "explanation": {
+        "pt": "Você ouviu: 'Estou escrevendo um e-mail para minha chefe.'",
+        "en": "You heard: 'Estou escrevendo um e-mail para minha chefe.'",
+        "ar": "سمعت: 'Estou escrevendo um e-mail para minha chefe.'"
+      }
+    },
+    {
+      "type": "dictation",
+      "prompt": {
+        "pt": "Ouça e escreva o que você ouviu.",
+        "en": "Listen and type what you hear.",
+        "ar": "استمع واكتب ما سمعته."
+      },
+      "options": [],
+      "answer": "Alô? O que você está fazendo agora?",
+      "accepted": [],
+      "audio": "Alô? O que você está fazendo agora?",
+      "explanation": {
+        "pt": "A frase correta: 'Alô? O que você está fazendo agora?'",
+        "en": "The correct sentence: 'Alô? O que você está fazendo agora?'",
+        "ar": "الجملة الصحيحة: 'Alô? O que você está fazendo agora?'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "está",
+          "en": "está",
+          "ar": "está"
+        },
+        {
+          "pt": "Alô?",
+          "en": "Alô?",
+          "ar": "Alô?"
+        },
+        {
+          "pt": "fazendo",
+          "en": "fazendo",
+          "ar": "fazendo"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "agora?",
+          "en": "agora?",
+          "ar": "agora?"
+        }
+      ],
+      "answer": "Alô? O que você está fazendo agora?",
+      "accepted": [
+        "Alô? O que você está fazendo agora?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Alô? O que você está fazendo agora?'",
+        "en": "The correct order: 'Hello? What are you doing right now?'",
+        "ar": "الترتيب الصحيح: 'ألو؟ ماذا تفعل الآن؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "acontecendo",
+          "en": "working",
+          "ar": "acontecendo"
+        },
+        {
+          "pt": "estudando",
+          "en": "watching",
+          "ar": "estudando"
+        },
+        {
+          "pt": "o gerúndio",
+          "en": "happening",
+          "ar": "o gerúndio"
+        },
+        {
+          "pt": "progressivo",
+          "en": "studying",
+          "ar": "progressivo"
+        },
+        {
+          "pt": "trabalhando",
+          "en": "the gerund",
+          "ar": "trabalhando"
+        },
+        {
+          "pt": "assistindo",
+          "en": "progressive",
+          "ar": "assistindo"
+        }
+      ],
+      "answer": "acontecendo::working|estudando::watching|o gerúndio::happening|progressivo::studying|trabalhando::the gerund|assistindo::progressive",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Então vou andando até a sua casa.",
+          "en": "No, he is watching soccer on TV.",
+          "ar": "لا، إنه يشاهد كرة القدم على التلفزيون."
+        },
+        {
+          "pt": "Alô? O que você está fazendo agora?",
+          "en": "Then I will walk over to your house.",
+          "ar": "إذن سأمشي إلى منزلك."
+        },
+        {
+          "pt": "Não, ele está assistindo futebol na TV.",
+          "en": "Hello? What are you doing right now?",
+          "ar": "ألو؟ ماذا تفعل الآن؟"
+        }
+      ],
+      "answer": "Alô? O que você está fazendo agora?",
+      "accepted": [],
+      "audio": "Alô? O que você está fazendo agora?",
+      "explanation": {
+        "pt": "Você ouviu: 'Alô? O que você está fazendo agora?' — 'Hello? What are you doing right now?'",
+        "en": "You heard: 'Alô? O que você está fazendo agora?' — 'Hello? What are you doing right now?'",
+        "ar": "سمعت: 'Alô? O que você está fazendo agora?' — 'ألو؟ ماذا تفعل الآن؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Estou escrevendo um e-mail para minha chefe.",
+          "en": "I am writing an email to my boss.",
+          "ar": "إذن سأمشي إلى منزلك."
+        },
+        {
+          "pt": "Então vou andando até a sua casa.",
+          "en": "Then I will walk over to your house.",
+          "ar": "أنا أكتب رسالة إلكترونية إلى مديرتي."
+        },
+        {
+          "pt": "Perfeito! Estamos esperando você.",
+          "en": "Perfect! We are waiting for you.",
+          "ar": "ممتاز! نحن في انتظارك."
+        }
+      ],
+      "answer": "Estou escrevendo um e-mail para minha chefe.",
+      "accepted": [],
+      "audio": "Estou escrevendo um e-mail para minha chefe.",
+      "explanation": {
+        "pt": "Você ouviu: 'Estou escrevendo um e-mail para minha chefe.' — 'I am writing an email to my boss.'",
+        "en": "You heard: 'Estou escrevendo um e-mail para minha chefe.' — 'I am writing an email to my boss.'",
+        "ar": "سمعت: 'Estou escrevendo um e-mail para minha chefe.' — 'أنا أكتب رسالة إلكترونية إلى مديرتي.'"
+      }
+    }
+  ],
+  "speaking": {
+    "title": {
+      "pt": "Fale Agora — Ouça e Repita",
+      "en": "Speak Now — Listen and Repeat",
+      "ar": "تحدث الآن — استمع وكرر"
+    },
+    "phrases": [
+      {
+        "pt": "Alô? O que você está fazendo agora?",
+        "en": "Hello? What are you doing right now?",
+        "ar": "ألو؟ ماذا تفعل الآن؟"
+      },
+      {
+        "pt": "Estou escrevendo um e-mail para minha chefe.",
+        "en": "I am writing an email to my boss.",
+        "ar": "أنا أكتب رسالة إلكترونية إلى مديرتي."
+      },
+      {
+        "pt": "E o Pedro? Está estudando?",
+        "en": "And Pedro? Is he studying?",
+        "ar": "وبيدرو؟ هل يدرس؟"
+      },
+      {
+        "pt": "Não, ele está assistindo futebol na TV.",
+        "en": "No, he is watching soccer on TV.",
+        "ar": "لا، إنه يشاهد كرة القدم على التلفزيون."
+      },
+      {
+        "pt": "Então vou andando até a sua casa.",
+        "en": "Then I will walk over to your house.",
+        "ar": "إذن سأمشي إلى منزلك."
+      },
+      {
+        "pt": "Perfeito! Estamos esperando você.",
+        "en": "Perfect! We are waiting for you.",
+        "ar": "ممتاز! نحن في انتظارك."
+      },
+      {
+        "pt": "o gerúndio",
+        "en": "the gerund",
+        "ar": "صيغة المتابعة (gerúndio)"
+      },
+      {
+        "pt": "progressivo",
+        "en": "progressive",
+        "ar": "مستمر"
+      },
+      {
+        "pt": "acontecendo",
+        "en": "happening",
+        "ar": "جارٍ الحدوث"
+      }
+    ]
+  },
+  "cultural_tips": {
+    "pt": "",
+    "en": "",
+    "ar": ""
+  }
+}

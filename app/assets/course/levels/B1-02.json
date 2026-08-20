@@ -1,0 +1,1863 @@
+{
+  "id": "B1-02",
+  "level": "B1",
+  "level_name": {
+    "pt": "Intermediário",
+    "en": "Intermediate",
+    "ar": "متوسط"
+  },
+  "title": {
+    "pt": "Trabalho e Entrevistas",
+    "en": "Work and Interviews",
+    "ar": "العمل والمقابلات"
+  },
+  "objectives": [
+    {
+      "pt": "Usar vocabulário de trabalho e entrevistas de emprego.",
+      "en": "Use vocabulary related to work and job interviews.",
+      "ar": "استخدام مفردات العمل ومقابلات التوظيف."
+    },
+    {
+      "pt": "Empregar a voz passiva e expressões de obrigação ao falar da vida profissional.",
+      "en": "Use the passive voice and expressions of obligation when talking about professional life.",
+      "ar": "استخدام صيغة المبني للمجهول وتعبيرات الالتزام عند الحديث عن الحياة المهنية."
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "a entrevista",
+      "ipa": "/a ẽ.tɾeˈvis.ta/",
+      "en": "the interview",
+      "ar": "المقابلة",
+      "example": {
+        "pt": "A vaga foi preenchida pela empresa.",
+        "en": "The position was filled by the company.",
+        "ar": "شغّلت الشركة الوظيفة الشاغرة."
+      }
+    },
+    {
+      "pt": "o currículo",
+      "ipa": "/u kuˈhi.ku.lu/",
+      "en": "the résumé",
+      "ar": "السيرة الذاتية",
+      "example": {
+        "pt": "O currículo foi enviado ontem.",
+        "en": "The résumé was sent yesterday.",
+        "ar": "أُرسلت السيرة الذاتية أمس."
+      }
+    },
+    {
+      "pt": "a vaga",
+      "ipa": "/a ˈva.ɡɐ/",
+      "en": "the job opening",
+      "ar": "الوظيفة الشاغرة",
+      "example": {
+        "pt": "A vaga foi preenchida pela empresa.",
+        "en": "The position was filled by the company.",
+        "ar": "شغّلت الشركة الوظيفة الشاغرة."
+      }
+    },
+    {
+      "pt": "o candidato",
+      "ipa": "/u kɐ̃.dʒiˈda.tu/",
+      "en": "the candidate",
+      "ar": "المرشح",
+      "example": {
+        "pt": "O currículo foi enviado ontem.",
+        "en": "The résumé was sent yesterday.",
+        "ar": "أُرسلت السيرة الذاتية أمس."
+      }
+    },
+    {
+      "pt": "a empresa",
+      "ipa": "/a ẽˈpɾe.zɐ/",
+      "en": "the company",
+      "ar": "الشركة",
+      "example": {
+        "pt": "A vaga foi preenchida pela empresa.",
+        "en": "The position was filled by the company.",
+        "ar": "شغّلت الشركة الوظيفة الشاغرة."
+      }
+    },
+    {
+      "pt": "o salário",
+      "ipa": "/u saˈla.ɾju/",
+      "en": "the salary",
+      "ar": "الراتب",
+      "example": {
+        "pt": "O currículo foi enviado ontem.",
+        "en": "The résumé was sent yesterday.",
+        "ar": "أُرسلت السيرة الذاتية أمس."
+      }
+    },
+    {
+      "pt": "a experiência",
+      "ipa": "/a is.pe.ɾiˈẽ.si.ɐ/",
+      "en": "the experience",
+      "ar": "الخبرة",
+      "example": {
+        "pt": "A vaga foi preenchida pela empresa.",
+        "en": "The position was filled by the company.",
+        "ar": "شغّلت الشركة الوظيفة الشاغرة."
+      }
+    },
+    {
+      "pt": "a habilidade",
+      "ipa": "/a a.bi.liˈda.dʒi/",
+      "en": "the skill",
+      "ar": "المهارة",
+      "example": {
+        "pt": "A vaga foi preenchida pela empresa.",
+        "en": "The position was filled by the company.",
+        "ar": "شغّلت الشركة الوظيفة الشاغرة."
+      }
+    },
+    {
+      "pt": "o contrato",
+      "ipa": "/u kõˈtɾa.tu/",
+      "en": "the contract",
+      "ar": "العقد",
+      "example": {
+        "pt": "O currículo foi enviado ontem.",
+        "en": "The résumé was sent yesterday.",
+        "ar": "أُرسلت السيرة الذاتية أمس."
+      }
+    },
+    {
+      "pt": "o cargo",
+      "ipa": "/u ˈkaʁ.ɡu/",
+      "en": "the position",
+      "ar": "المنصب",
+      "example": {
+        "pt": "O currículo foi enviado ontem.",
+        "en": "The résumé was sent yesterday.",
+        "ar": "أُرسلت السيرة الذاتية أمس."
+      }
+    },
+    {
+      "pt": "o funcionário",
+      "ipa": "/u fũ.si.oˈna.ɾju/",
+      "en": "the employee",
+      "ar": "الموظف",
+      "example": {
+        "pt": "O currículo foi enviado ontem.",
+        "en": "The résumé was sent yesterday.",
+        "ar": "أُرسلت السيرة الذاتية أمس."
+      }
+    },
+    {
+      "pt": "a demissão",
+      "ipa": "/a dʒi.mi.saˈɐ̃w/",
+      "en": "the dismissal",
+      "ar": "الفصل من العمل",
+      "example": {
+        "pt": "A vaga foi preenchida pela empresa.",
+        "en": "The position was filled by the company.",
+        "ar": "شغّلت الشركة الوظيفة الشاغرة."
+      }
+    },
+    {
+      "pt": "a promoção",
+      "ipa": "/a pɾo.moˈsɐ̃w/",
+      "en": "the promotion",
+      "ar": "الترقية",
+      "example": {
+        "pt": "A vaga foi preenchida pela empresa.",
+        "en": "The position was filled by the company.",
+        "ar": "شغّلت الشركة الوظيفة الشاغرة."
+      }
+    },
+    {
+      "pt": "o benefício",
+      "ipa": "/u be.ne.fiˈsi.u/",
+      "en": "the benefit",
+      "ar": "الميزة",
+      "example": {
+        "pt": "O currículo foi enviado ontem.",
+        "en": "The résumé was sent yesterday.",
+        "ar": "أُرسلت السيرة الذاتية أمس."
+      }
+    },
+    {
+      "pt": "a equipe",
+      "ipa": "/a eˈki.pi/",
+      "en": "the team",
+      "ar": "الفريق",
+      "example": {
+        "pt": "A vaga foi preenchida pela empresa.",
+        "en": "The position was filled by the company.",
+        "ar": "شغّلت الشركة الوظيفة الشاغرة."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "title": {
+        "pt": "A voz passiva",
+        "en": "The passive voice",
+        "ar": "المبني للمجهول"
+      },
+      "explanation": {
+        "pt": "Na voz passiva, o objeto da ação vira o sujeito. Forma-se com 'ser' (no tempo correto) mais o particípio do verbo principal. É muito usada em contexto profissional.",
+        "en": "In the passive voice, the object of the action becomes the subject. It is formed with 'ser' (in the right tense) plus the past participle of the main verb. It is very common in professional contexts.",
+        "ar": "في المبني للمجهول يصبح مفعول الفعل فاعلاً. يتكوّن من الفعل 'ser' في الزمن المناسب بالإضافة إلى اسم المفعول للفعل الرئيسي. وهو شائع جداً في السياقات المهنية."
+      },
+      "examples": [
+        {
+          "pt": "O currículo foi enviado ontem.",
+          "en": "The résumé was sent yesterday.",
+          "ar": "أُرسلت السيرة الذاتية أمس."
+        },
+        {
+          "pt": "A vaga foi preenchida pela empresa.",
+          "en": "The position was filled by the company.",
+          "ar": "شغّلت الشركة الوظيفة الشاغرة."
+        },
+        {
+          "pt": "Os funcionários serão contratados em março.",
+          "en": "The employees will be hired in March.",
+          "ar": "سيُوظَّف الموظفون في مارس."
+        }
+      ]
+    },
+    {
+      "title": {
+        "pt": "Obrigações no trabalho: ter de, precisar de, dever",
+        "en": "Obligations at work: ter de, precisar de, dever",
+        "ar": "الالتزامات في العمل: يجب، يحتاج، ينبغي"
+      },
+      "explanation": {
+        "pt": "Para expressar obrigação, usamos 'ter de/que + infinitivo' (mais forte), 'precisar de + infinitivo' (necessidade) e 'dever + infinitivo' (recomendação).",
+        "en": "To express obligation we use 'ter de/que + infinitive' (stronger), 'precisar de + infinitive' (need) and 'dever + infinitive' (recommendation).",
+        "ar": "للتعبير عن الالتزام نستخدم 'ter de/que + المصدر' (أقوى)، و'precisar de + المصدر' (حاجة)، و'dever + المصدر' (توصية)."
+      },
+      "examples": [
+        {
+          "pt": "Tenho que chegar cedo todos os dias.",
+          "en": "I have to arrive early every day.",
+          "ar": "يجب أن أصل مبكراً كل يوم."
+        },
+        {
+          "pt": "Preciso melhorar meu currículo.",
+          "en": "I need to improve my résumé.",
+          "ar": "أحتاج إلى تحسين سيرتي الذاتية."
+        },
+        {
+          "pt": "Você deve fazer uma boa impressão na entrevista.",
+          "en": "You should make a good impression in the interview.",
+          "ar": "ينبغي أن تترك انطباعاً جيداً في المقابلة."
+        }
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": {
+      "pt": "Entrevista de emprego",
+      "en": "A job interview",
+      "ar": "مقابلة توظيف"
+    },
+    "lines": [
+      {
+        "speaker": "Recrutador",
+        "pt": "Conte-me sobre sua experiência profissional.",
+        "en": "Tell me about your professional experience.",
+        "ar": "حدثني عن خبرتك المهنية."
+      },
+      {
+        "speaker": "Carla",
+        "pt": "Trabalhei em uma empresa de tecnologia por três anos.",
+        "en": "I worked at a technology company for three years.",
+        "ar": "عملت في شركة تقنية لمدة ثلاث سنوات."
+      },
+      {
+        "speaker": "Recrutador",
+        "pt": "Que habilidades você desenvolveu?",
+        "en": "What skills did you develop?",
+        "ar": "ما المهارات التي طوّرتها؟"
+      },
+      {
+        "speaker": "Carla",
+        "pt": "Tenho boas habilidades de comunicação e trabalho em equipe.",
+        "en": "I have good communication and teamwork skills.",
+        "ar": "أمتلك مهارات جيدة في التواصل والعمل ضمن فريق."
+      },
+      {
+        "speaker": "Recrutador",
+        "pt": "Você aceitaria um salário inicial menor?",
+        "en": "Would you accept a lower starting salary?",
+        "ar": "هل تقبلين راتباً ابتدائياً أقل؟"
+      },
+      {
+        "speaker": "Carla",
+        "pt": "Sim, mas gostaria de uma promoção em seis meses.",
+        "en": "Yes, but I would like a promotion in six months.",
+        "ar": "نعم، لكنني أودّ الحصول على ترقية بعد ستة أشهر."
+      }
+    ]
+  },
+  "reading": {
+    "title": {
+      "pt": "Vaga de emprego",
+      "en": "A job opening",
+      "ar": "إعلان وظيفة"
+    },
+    "text_pt": "A empresa anunciou uma nova vaga para a equipe de vendas. Os candidatos devem enviar o currículo até sexta-feira. Experiência anterior é obrigatória. O contrato será assinado após a entrevista.",
+    "text_en": "The company announced a new position for the sales team. Candidates must send their résumé by Friday. Previous experience is required. The contract will be signed after the interview.",
+    "text_ar": "أعلنت الشركة عن وظيفة جديدة لفريق المبيعات. يجب على المرشحين إرسال سيرهم الذاتية حتى يوم الجمعة. الخبرة السابقة إلزامية. سيُوقَّع العقد بعد المقابلة."
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Complete na voz passiva: \"A vaga ___ preenchida.\"",
+        "en": "Complete in the passive voice: \"The position ___ filled.\"",
+        "ar": "أكمل في المبني للمجهول: \"الوظيفة الشاغرة ___.\""
+      },
+      "options": [
+        {
+          "pt": "foi",
+          "en": "was",
+          "ar": "تمّ"
+        },
+        {
+          "pt": "é",
+          "en": "is",
+          "ar": "تكون"
+        },
+        {
+          "pt": "está",
+          "en": "is (progressive)",
+          "ar": "في طور"
+        },
+        {
+          "pt": "será",
+          "en": "will be",
+          "ar": "ستُشغَّل"
+        }
+      ],
+      "answer": "foi",
+      "explanation": {
+        "pt": "A frase fala de uma ação concluída no passado, então usamos 'ser' no pretérito perfeito: 'foi'.",
+        "en": "The sentence refers to a completed action in the past, so we use 'ser' in the simple past: 'foi'.",
+        "ar": "تشير الجملة إلى فعل اكتمل في الماضي، لذا نستخدم 'ser' في الماضي التام: 'foi' أي تمّ."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Escolha a preposição correta: \"Você precisa ___ experiência.\"",
+        "en": "Choose the correct preposition: \"You need ___ experience.\"",
+        "ar": "اختر حرف الجر الصحيح: \"أنت تحتاج ___ خبرة.\""
+      },
+      "options": [
+        {
+          "pt": "de",
+          "en": "of",
+          "ar": "إلى"
+        },
+        {
+          "pt": "em",
+          "en": "in",
+          "ar": "في"
+        },
+        {
+          "pt": "com",
+          "en": "with",
+          "ar": "مع"
+        },
+        {
+          "pt": "para",
+          "en": "for",
+          "ar": "لـ"
+        }
+      ],
+      "answer": "de",
+      "explanation": {
+        "pt": "O verbo 'precisar' pede a preposição 'de': 'precisar de alguma coisa'.",
+        "en": "The verb 'precisar' takes the preposition 'de': 'to need something'.",
+        "ar": "الفعل 'precisar' يتطلب حرف الجر 'de': أي يحتاج إلى شيء."
+      }
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"I need to improve my résumé.\"",
+        "en": "Translate to Portuguese: \"I need to improve my résumé.\"",
+        "ar": "ترجم إلى البرتغالية: \"I need to improve my résumé.\""
+      },
+      "options": [],
+      "answer": "Preciso melhorar meu currículo.",
+      "explanation": {
+        "pt": "'Currículo' é a palavra usada no Brasil para résumé.",
+        "en": "'Currículo' is the word used in Brazil for résumé.",
+        "ar": "'currículo' هي الكلمة المستخدمة في البرازيل بمعنى السيرة الذاتية."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "experiência",
+          "en": "experiência",
+          "ar": "experiência"
+        },
+        {
+          "pt": "Conte-me",
+          "en": "Conte-me",
+          "ar": "Conte-me"
+        },
+        {
+          "pt": "sobre",
+          "en": "sobre",
+          "ar": "sobre"
+        },
+        {
+          "pt": "sua",
+          "en": "sua",
+          "ar": "sua"
+        },
+        {
+          "pt": "profissional.",
+          "en": "profissional.",
+          "ar": "profissional."
+        }
+      ],
+      "answer": "Conte-me sobre sua experiência profissional.",
+      "accepted": [
+        "Conte-me sobre sua experiência profissional."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Conte-me sobre sua experiência profissional.'",
+        "en": "The correct order: 'Tell me about your professional experience.'",
+        "ar": "الترتيب الصحيح: 'حدثني عن خبرتك المهنية.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a empresa",
+          "en": "the company",
+          "ar": "a empresa"
+        },
+        {
+          "pt": "o candidato",
+          "en": "the job opening",
+          "ar": "o candidato"
+        },
+        {
+          "pt": "o salário",
+          "en": "the candidate",
+          "ar": "o salário"
+        },
+        {
+          "pt": "a entrevista",
+          "en": "the interview",
+          "ar": "a entrevista"
+        },
+        {
+          "pt": "a vaga",
+          "en": "the résumé",
+          "ar": "a vaga"
+        },
+        {
+          "pt": "o currículo",
+          "en": "the salary",
+          "ar": "o currículo"
+        }
+      ],
+      "answer": "a empresa::the company|o candidato::the job opening|o salário::the candidate|a entrevista::the interview|a vaga::the résumé|o currículo::the salary",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim, mas gostaria de uma promoção em seis meses.",
+          "en": "Tell me about your professional experience.",
+          "ar": "نعم، لكنني أودّ الحصول على ترقية بعد ستة أشهر."
+        },
+        {
+          "pt": "Tenho boas habilidades de comunicação e trabalho em equipe.",
+          "en": "I have good communication and teamwork skills.",
+          "ar": "أمتلك مهارات جيدة في التواصل والعمل ضمن فريق."
+        },
+        {
+          "pt": "Conte-me sobre sua experiência profissional.",
+          "en": "Yes, but I would like a promotion in six months.",
+          "ar": "حدثني عن خبرتك المهنية."
+        }
+      ],
+      "answer": "Conte-me sobre sua experiência profissional.",
+      "accepted": [],
+      "audio": "Conte-me sobre sua experiência profissional.",
+      "explanation": {
+        "pt": "Você ouviu: 'Conte-me sobre sua experiência profissional.' — 'Tell me about your professional experience.'",
+        "en": "You heard: 'Conte-me sobre sua experiência profissional.' — 'Tell me about your professional experience.'",
+        "ar": "سمعت: 'Conte-me sobre sua experiência profissional.' — 'حدثني عن خبرتك المهنية.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Trabalhei em uma empresa de tecnologia por três anos.",
+          "en": "I worked at a technology company for three years.",
+          "ar": "ما المهارات التي طوّرتها؟"
+        },
+        {
+          "pt": "Que habilidades você desenvolveu?",
+          "en": "Yes, but I would like a promotion in six months.",
+          "ar": "نعم، لكنني أودّ الحصول على ترقية بعد ستة أشهر."
+        },
+        {
+          "pt": "Sim, mas gostaria de uma promoção em seis meses.",
+          "en": "What skills did you develop?",
+          "ar": "عملت في شركة تقنية لمدة ثلاث سنوات."
+        }
+      ],
+      "answer": "Trabalhei em uma empresa de tecnologia por três anos.",
+      "accepted": [],
+      "audio": "Trabalhei em uma empresa de tecnologia por três anos.",
+      "explanation": {
+        "pt": "Você ouviu: 'Trabalhei em uma empresa de tecnologia por três anos.' — 'I worked at a technology company for three years.'",
+        "en": "You heard: 'Trabalhei em uma empresa de tecnologia por três anos.' — 'I worked at a technology company for three years.'",
+        "ar": "سمعت: 'Trabalhei em uma empresa de tecnologia por três anos.' — 'عملت في شركة تقنية لمدة ثلاث سنوات.'"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "O currículo ___ enviado ontem.",
+        "en": "O currículo ___ enviado ontem.",
+        "ar": "O currículo ___ enviado ontem."
+      },
+      "options": [
+        {
+          "pt": "foi",
+          "en": "foi",
+          "ar": "foi"
+        },
+        {
+          "pt": "preenchida",
+          "en": "preenchida",
+          "ar": "preenchida"
+        },
+        {
+          "pt": "em",
+          "en": "em",
+          "ar": "em"
+        }
+      ],
+      "answer": "foi",
+      "accepted": [],
+      "explanation": {
+        "pt": "A resposta é 'foi'. Frase completa: O currículo foi enviado ontem.",
+        "en": "The answer is 'foi'. Full sentence: The résumé was sent yesterday.",
+        "ar": "الإجابة الصحيحة: 'foi'. الجملة كاملة: أُرسلت السيرة الذاتية أمس."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Conte-me",
+          "en": "Conte-me",
+          "ar": "Conte-me"
+        },
+        {
+          "pt": "sua",
+          "en": "sua",
+          "ar": "sua"
+        },
+        {
+          "pt": "sobre",
+          "en": "sobre",
+          "ar": "sobre"
+        },
+        {
+          "pt": "experiência",
+          "en": "experiência",
+          "ar": "experiência"
+        },
+        {
+          "pt": "profissional.",
+          "en": "profissional.",
+          "ar": "profissional."
+        }
+      ],
+      "answer": "Conte-me sobre sua experiência profissional.",
+      "accepted": [
+        "Conte-me sobre sua experiência profissional."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Conte-me sobre sua experiência profissional.'",
+        "en": "The correct order: 'Tell me about your professional experience.'",
+        "ar": "الترتيب الصحيح: 'حدثني عن خبرتك المهنية.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a vaga",
+          "en": "the job opening",
+          "ar": "a vaga"
+        },
+        {
+          "pt": "o candidato",
+          "en": "the résumé",
+          "ar": "o candidato"
+        },
+        {
+          "pt": "a empresa",
+          "en": "the salary",
+          "ar": "a empresa"
+        },
+        {
+          "pt": "o salário",
+          "en": "the interview",
+          "ar": "o salário"
+        },
+        {
+          "pt": "o currículo",
+          "en": "the company",
+          "ar": "o currículo"
+        },
+        {
+          "pt": "a entrevista",
+          "en": "the candidate",
+          "ar": "a entrevista"
+        }
+      ],
+      "answer": "a vaga::the job opening|o candidato::the résumé|a empresa::the salary|o salário::the interview|o currículo::the company|a entrevista::the candidate",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Você aceitaria um salário inicial menor?",
+          "en": "Would you accept a lower starting salary?",
+          "ar": "حدثني عن خبرتك المهنية."
+        },
+        {
+          "pt": "Conte-me sobre sua experiência profissional.",
+          "en": "Tell me about your professional experience.",
+          "ar": "هل تقبلين راتباً ابتدائياً أقل؟"
+        },
+        {
+          "pt": "Trabalhei em uma empresa de tecnologia por três anos.",
+          "en": "I worked at a technology company for three years.",
+          "ar": "عملت في شركة تقنية لمدة ثلاث سنوات."
+        }
+      ],
+      "answer": "Conte-me sobre sua experiência profissional.",
+      "accepted": [],
+      "audio": "Conte-me sobre sua experiência profissional.",
+      "explanation": {
+        "pt": "Você ouviu: 'Conte-me sobre sua experiência profissional.' — 'Tell me about your professional experience.'",
+        "en": "You heard: 'Conte-me sobre sua experiência profissional.' — 'Tell me about your professional experience.'",
+        "ar": "سمعت: 'Conte-me sobre sua experiência profissional.' — 'حدثني عن خبرتك المهنية.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Trabalhei em uma empresa de tecnologia por três anos.",
+          "en": "I worked at a technology company for three years.",
+          "ar": "عملت في شركة تقنية لمدة ثلاث سنوات."
+        },
+        {
+          "pt": "Tenho boas habilidades de comunicação e trabalho em equipe.",
+          "en": "What skills did you develop?",
+          "ar": "أمتلك مهارات جيدة في التواصل والعمل ضمن فريق."
+        },
+        {
+          "pt": "Que habilidades você desenvolveu?",
+          "en": "I have good communication and teamwork skills.",
+          "ar": "ما المهارات التي طوّرتها؟"
+        }
+      ],
+      "answer": "Trabalhei em uma empresa de tecnologia por três anos.",
+      "accepted": [],
+      "audio": "Trabalhei em uma empresa de tecnologia por três anos.",
+      "explanation": {
+        "pt": "Você ouviu: 'Trabalhei em uma empresa de tecnologia por três anos.' — 'I worked at a technology company for three years.'",
+        "en": "You heard: 'Trabalhei em uma empresa de tecnologia por três anos.' — 'I worked at a technology company for three years.'",
+        "ar": "سمعت: 'Trabalhei em uma empresa de tecnologia por três anos.' — 'عملت في شركة تقنية لمدة ثلاث سنوات.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "experiência",
+          "en": "experiência",
+          "ar": "experiência"
+        },
+        {
+          "pt": "sua",
+          "en": "sua",
+          "ar": "sua"
+        },
+        {
+          "pt": "profissional.",
+          "en": "profissional.",
+          "ar": "profissional."
+        },
+        {
+          "pt": "sobre",
+          "en": "sobre",
+          "ar": "sobre"
+        },
+        {
+          "pt": "Conte-me",
+          "en": "Conte-me",
+          "ar": "Conte-me"
+        }
+      ],
+      "answer": "Conte-me sobre sua experiência profissional.",
+      "accepted": [
+        "Conte-me sobre sua experiência profissional."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Conte-me sobre sua experiência profissional.'",
+        "en": "The correct order: 'Tell me about your professional experience.'",
+        "ar": "الترتيب الصحيح: 'حدثني عن خبرتك المهنية.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a empresa",
+          "en": "the salary",
+          "ar": "a empresa"
+        },
+        {
+          "pt": "o candidato",
+          "en": "the job opening",
+          "ar": "o candidato"
+        },
+        {
+          "pt": "o currículo",
+          "en": "the company",
+          "ar": "o currículo"
+        },
+        {
+          "pt": "a vaga",
+          "en": "the résumé",
+          "ar": "a vaga"
+        },
+        {
+          "pt": "o salário",
+          "en": "the candidate",
+          "ar": "o salário"
+        },
+        {
+          "pt": "a entrevista",
+          "en": "the interview",
+          "ar": "a entrevista"
+        }
+      ],
+      "answer": "a empresa::the salary|o candidato::the job opening|o currículo::the company|a vaga::the résumé|o salário::the candidate|a entrevista::the interview",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim, mas gostaria de uma promoção em seis meses.",
+          "en": "Yes, but I would like a promotion in six months.",
+          "ar": "نعم، لكنني أودّ الحصول على ترقية بعد ستة أشهر."
+        },
+        {
+          "pt": "Que habilidades você desenvolveu?",
+          "en": "Tell me about your professional experience.",
+          "ar": "حدثني عن خبرتك المهنية."
+        },
+        {
+          "pt": "Conte-me sobre sua experiência profissional.",
+          "en": "What skills did you develop?",
+          "ar": "ما المهارات التي طوّرتها؟"
+        }
+      ],
+      "answer": "Conte-me sobre sua experiência profissional.",
+      "accepted": [],
+      "audio": "Conte-me sobre sua experiência profissional.",
+      "explanation": {
+        "pt": "Você ouviu: 'Conte-me sobre sua experiência profissional.' — 'Tell me about your professional experience.'",
+        "en": "You heard: 'Conte-me sobre sua experiência profissional.' — 'Tell me about your professional experience.'",
+        "ar": "سمعت: 'Conte-me sobre sua experiência profissional.' — 'حدثني عن خبرتك المهنية.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Conte-me sobre sua experiência profissional.",
+          "en": "Tell me about your professional experience.",
+          "ar": "حدثني عن خبرتك المهنية."
+        },
+        {
+          "pt": "Você aceitaria um salário inicial menor?",
+          "en": "Would you accept a lower starting salary?",
+          "ar": "عملت في شركة تقنية لمدة ثلاث سنوات."
+        },
+        {
+          "pt": "Trabalhei em uma empresa de tecnologia por três anos.",
+          "en": "I worked at a technology company for three years.",
+          "ar": "هل تقبلين راتباً ابتدائياً أقل؟"
+        }
+      ],
+      "answer": "Trabalhei em uma empresa de tecnologia por três anos.",
+      "accepted": [],
+      "audio": "Trabalhei em uma empresa de tecnologia por três anos.",
+      "explanation": {
+        "pt": "Você ouviu: 'Trabalhei em uma empresa de tecnologia por três anos.' — 'I worked at a technology company for three years.'",
+        "en": "You heard: 'Trabalhei em uma empresa de tecnologia por três anos.' — 'I worked at a technology company for three years.'",
+        "ar": "سمعت: 'Trabalhei em uma empresa de tecnologia por três anos.' — 'عملت في شركة تقنية لمدة ثلاث سنوات.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "sua",
+          "en": "sua",
+          "ar": "sua"
+        },
+        {
+          "pt": "profissional.",
+          "en": "profissional.",
+          "ar": "profissional."
+        },
+        {
+          "pt": "experiência",
+          "en": "experiência",
+          "ar": "experiência"
+        },
+        {
+          "pt": "sobre",
+          "en": "sobre",
+          "ar": "sobre"
+        },
+        {
+          "pt": "Conte-me",
+          "en": "Conte-me",
+          "ar": "Conte-me"
+        }
+      ],
+      "answer": "Conte-me sobre sua experiência profissional.",
+      "accepted": [
+        "Conte-me sobre sua experiência profissional."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Conte-me sobre sua experiência profissional.'",
+        "en": "The correct order: 'Tell me about your professional experience.'",
+        "ar": "الترتيب الصحيح: 'حدثني عن خبرتك المهنية.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a vaga",
+          "en": "the candidate",
+          "ar": "a vaga"
+        },
+        {
+          "pt": "a empresa",
+          "en": "the job opening",
+          "ar": "a empresa"
+        },
+        {
+          "pt": "o salário",
+          "en": "the salary",
+          "ar": "o salário"
+        },
+        {
+          "pt": "o currículo",
+          "en": "the interview",
+          "ar": "o currículo"
+        },
+        {
+          "pt": "a entrevista",
+          "en": "the company",
+          "ar": "a entrevista"
+        },
+        {
+          "pt": "o candidato",
+          "en": "the résumé",
+          "ar": "o candidato"
+        }
+      ],
+      "answer": "a vaga::the candidate|a empresa::the job opening|o salário::the salary|o currículo::the interview|a entrevista::the company|o candidato::the résumé",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim, mas gostaria de uma promoção em seis meses.",
+          "en": "What skills did you develop?",
+          "ar": "حدثني عن خبرتك المهنية."
+        },
+        {
+          "pt": "Que habilidades você desenvolveu?",
+          "en": "Tell me about your professional experience.",
+          "ar": "نعم، لكنني أودّ الحصول على ترقية بعد ستة أشهر."
+        },
+        {
+          "pt": "Conte-me sobre sua experiência profissional.",
+          "en": "Yes, but I would like a promotion in six months.",
+          "ar": "ما المهارات التي طوّرتها؟"
+        }
+      ],
+      "answer": "Conte-me sobre sua experiência profissional.",
+      "accepted": [],
+      "audio": "Conte-me sobre sua experiência profissional.",
+      "explanation": {
+        "pt": "Você ouviu: 'Conte-me sobre sua experiência profissional.' — 'Tell me about your professional experience.'",
+        "en": "You heard: 'Conte-me sobre sua experiência profissional.' — 'Tell me about your professional experience.'",
+        "ar": "سمعت: 'Conte-me sobre sua experiência profissional.' — 'حدثني عن خبرتك المهنية.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Conte-me sobre sua experiência profissional.",
+          "en": "I worked at a technology company for three years.",
+          "ar": "ما المهارات التي طوّرتها؟"
+        },
+        {
+          "pt": "Que habilidades você desenvolveu?",
+          "en": "What skills did you develop?",
+          "ar": "عملت في شركة تقنية لمدة ثلاث سنوات."
+        },
+        {
+          "pt": "Trabalhei em uma empresa de tecnologia por três anos.",
+          "en": "Tell me about your professional experience.",
+          "ar": "حدثني عن خبرتك المهنية."
+        }
+      ],
+      "answer": "Trabalhei em uma empresa de tecnologia por três anos.",
+      "accepted": [],
+      "audio": "Trabalhei em uma empresa de tecnologia por três anos.",
+      "explanation": {
+        "pt": "Você ouviu: 'Trabalhei em uma empresa de tecnologia por três anos.' — 'I worked at a technology company for three years.'",
+        "en": "You heard: 'Trabalhei em uma empresa de tecnologia por três anos.' — 'I worked at a technology company for three years.'",
+        "ar": "سمعت: 'Trabalhei em uma empresa de tecnologia por três anos.' — 'عملت في شركة تقنية لمدة ثلاث سنوات.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "sobre",
+          "en": "sobre",
+          "ar": "sobre"
+        },
+        {
+          "pt": "experiência",
+          "en": "experiência",
+          "ar": "experiência"
+        },
+        {
+          "pt": "profissional.",
+          "en": "profissional.",
+          "ar": "profissional."
+        },
+        {
+          "pt": "sua",
+          "en": "sua",
+          "ar": "sua"
+        },
+        {
+          "pt": "Conte-me",
+          "en": "Conte-me",
+          "ar": "Conte-me"
+        }
+      ],
+      "answer": "Conte-me sobre sua experiência profissional.",
+      "accepted": [
+        "Conte-me sobre sua experiência profissional."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Conte-me sobre sua experiência profissional.'",
+        "en": "The correct order: 'Tell me about your professional experience.'",
+        "ar": "الترتيب الصحيح: 'حدثني عن خبرتك المهنية.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a empresa",
+          "en": "the interview",
+          "ar": "a empresa"
+        },
+        {
+          "pt": "o currículo",
+          "en": "the candidate",
+          "ar": "o currículo"
+        },
+        {
+          "pt": "a entrevista",
+          "en": "the salary",
+          "ar": "a entrevista"
+        },
+        {
+          "pt": "o salário",
+          "en": "the company",
+          "ar": "o salário"
+        },
+        {
+          "pt": "o candidato",
+          "en": "the résumé",
+          "ar": "o candidato"
+        },
+        {
+          "pt": "a vaga",
+          "en": "the job opening",
+          "ar": "a vaga"
+        }
+      ],
+      "answer": "a empresa::the interview|o currículo::the candidate|a entrevista::the salary|o salário::the company|o candidato::the résumé|a vaga::the job opening",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Você aceitaria um salário inicial menor?",
+          "en": "Would you accept a lower starting salary?",
+          "ar": "نعم، لكنني أودّ الحصول على ترقية بعد ستة أشهر."
+        },
+        {
+          "pt": "Conte-me sobre sua experiência profissional.",
+          "en": "Tell me about your professional experience.",
+          "ar": "هل تقبلين راتباً ابتدائياً أقل؟"
+        },
+        {
+          "pt": "Sim, mas gostaria de uma promoção em seis meses.",
+          "en": "Yes, but I would like a promotion in six months.",
+          "ar": "حدثني عن خبرتك المهنية."
+        }
+      ],
+      "answer": "Conte-me sobre sua experiência profissional.",
+      "accepted": [],
+      "audio": "Conte-me sobre sua experiência profissional.",
+      "explanation": {
+        "pt": "Você ouviu: 'Conte-me sobre sua experiência profissional.' — 'Tell me about your professional experience.'",
+        "en": "You heard: 'Conte-me sobre sua experiência profissional.' — 'Tell me about your professional experience.'",
+        "ar": "سمعت: 'Conte-me sobre sua experiência profissional.' — 'حدثني عن خبرتك المهنية.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Conte-me sobre sua experiência profissional.",
+          "en": "Would you accept a lower starting salary?",
+          "ar": "عملت في شركة تقنية لمدة ثلاث سنوات."
+        },
+        {
+          "pt": "Você aceitaria um salário inicial menor?",
+          "en": "I worked at a technology company for three years.",
+          "ar": "حدثني عن خبرتك المهنية."
+        },
+        {
+          "pt": "Trabalhei em uma empresa de tecnologia por três anos.",
+          "en": "Tell me about your professional experience.",
+          "ar": "هل تقبلين راتباً ابتدائياً أقل؟"
+        }
+      ],
+      "answer": "Trabalhei em uma empresa de tecnologia por três anos.",
+      "accepted": [],
+      "audio": "Trabalhei em uma empresa de tecnologia por três anos.",
+      "explanation": {
+        "pt": "Você ouviu: 'Trabalhei em uma empresa de tecnologia por três anos.' — 'I worked at a technology company for three years.'",
+        "en": "You heard: 'Trabalhei em uma empresa de tecnologia por três anos.' — 'I worked at a technology company for three years.'",
+        "ar": "سمعت: 'Trabalhei em uma empresa de tecnologia por três anos.' — 'عملت في شركة تقنية لمدة ثلاث سنوات.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "sobre",
+          "en": "sobre",
+          "ar": "sobre"
+        },
+        {
+          "pt": "experiência",
+          "en": "experiência",
+          "ar": "experiência"
+        },
+        {
+          "pt": "sua",
+          "en": "sua",
+          "ar": "sua"
+        },
+        {
+          "pt": "profissional.",
+          "en": "profissional.",
+          "ar": "profissional."
+        },
+        {
+          "pt": "Conte-me",
+          "en": "Conte-me",
+          "ar": "Conte-me"
+        }
+      ],
+      "answer": "Conte-me sobre sua experiência profissional.",
+      "accepted": [
+        "Conte-me sobre sua experiência profissional."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Conte-me sobre sua experiência profissional.'",
+        "en": "The correct order: 'Tell me about your professional experience.'",
+        "ar": "الترتيب الصحيح: 'حدثني عن خبرتك المهنية.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o currículo",
+          "en": "the company",
+          "ar": "o currículo"
+        },
+        {
+          "pt": "a vaga",
+          "en": "the interview",
+          "ar": "a vaga"
+        },
+        {
+          "pt": "a empresa",
+          "en": "the job opening",
+          "ar": "a empresa"
+        },
+        {
+          "pt": "o candidato",
+          "en": "the salary",
+          "ar": "o candidato"
+        },
+        {
+          "pt": "a entrevista",
+          "en": "the résumé",
+          "ar": "a entrevista"
+        },
+        {
+          "pt": "o salário",
+          "en": "the candidate",
+          "ar": "o salário"
+        }
+      ],
+      "answer": "o currículo::the company|a vaga::the interview|a empresa::the job opening|o candidato::the salary|a entrevista::the résumé|o salário::the candidate",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim, mas gostaria de uma promoção em seis meses.",
+          "en": "Yes, but I would like a promotion in six months.",
+          "ar": "أمتلك مهارات جيدة في التواصل والعمل ضمن فريق."
+        },
+        {
+          "pt": "Conte-me sobre sua experiência profissional.",
+          "en": "I have good communication and teamwork skills.",
+          "ar": "نعم، لكنني أودّ الحصول على ترقية بعد ستة أشهر."
+        },
+        {
+          "pt": "Tenho boas habilidades de comunicação e trabalho em equipe.",
+          "en": "Tell me about your professional experience.",
+          "ar": "حدثني عن خبرتك المهنية."
+        }
+      ],
+      "answer": "Conte-me sobre sua experiência profissional.",
+      "accepted": [],
+      "audio": "Conte-me sobre sua experiência profissional.",
+      "explanation": {
+        "pt": "Você ouviu: 'Conte-me sobre sua experiência profissional.' — 'Tell me about your professional experience.'",
+        "en": "You heard: 'Conte-me sobre sua experiência profissional.' — 'Tell me about your professional experience.'",
+        "ar": "سمعت: 'Conte-me sobre sua experiência profissional.' — 'حدثني عن خبرتك المهنية.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Que habilidades você desenvolveu?",
+          "en": "I worked at a technology company for three years.",
+          "ar": "ما المهارات التي طوّرتها؟"
+        },
+        {
+          "pt": "Trabalhei em uma empresa de tecnologia por três anos.",
+          "en": "I have good communication and teamwork skills.",
+          "ar": "عملت في شركة تقنية لمدة ثلاث سنوات."
+        },
+        {
+          "pt": "Tenho boas habilidades de comunicação e trabalho em equipe.",
+          "en": "What skills did you develop?",
+          "ar": "أمتلك مهارات جيدة في التواصل والعمل ضمن فريق."
+        }
+      ],
+      "answer": "Trabalhei em uma empresa de tecnologia por três anos.",
+      "accepted": [],
+      "audio": "Trabalhei em uma empresa de tecnologia por três anos.",
+      "explanation": {
+        "pt": "Você ouviu: 'Trabalhei em uma empresa de tecnologia por três anos.' — 'I worked at a technology company for three years.'",
+        "en": "You heard: 'Trabalhei em uma empresa de tecnologia por três anos.' — 'I worked at a technology company for three years.'",
+        "ar": "سمعت: 'Trabalhei em uma empresa de tecnologia por três anos.' — 'عملت في شركة تقنية لمدة ثلاث سنوات.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Conte-me",
+          "en": "Conte-me",
+          "ar": "Conte-me"
+        },
+        {
+          "pt": "sobre",
+          "en": "sobre",
+          "ar": "sobre"
+        },
+        {
+          "pt": "sua",
+          "en": "sua",
+          "ar": "sua"
+        },
+        {
+          "pt": "profissional.",
+          "en": "profissional.",
+          "ar": "profissional."
+        },
+        {
+          "pt": "experiência",
+          "en": "experiência",
+          "ar": "experiência"
+        }
+      ],
+      "answer": "Conte-me sobre sua experiência profissional.",
+      "accepted": [
+        "Conte-me sobre sua experiência profissional."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Conte-me sobre sua experiência profissional.'",
+        "en": "The correct order: 'Tell me about your professional experience.'",
+        "ar": "الترتيب الصحيح: 'حدثني عن خبرتك المهنية.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o candidato",
+          "en": "the candidate",
+          "ar": "o candidato"
+        },
+        {
+          "pt": "o currículo",
+          "en": "the interview",
+          "ar": "o currículo"
+        },
+        {
+          "pt": "a entrevista",
+          "en": "the company",
+          "ar": "a entrevista"
+        },
+        {
+          "pt": "a empresa",
+          "en": "the résumé",
+          "ar": "a empresa"
+        },
+        {
+          "pt": "o salário",
+          "en": "the salary",
+          "ar": "o salário"
+        },
+        {
+          "pt": "a vaga",
+          "en": "the job opening",
+          "ar": "a vaga"
+        }
+      ],
+      "answer": "o candidato::the candidate|o currículo::the interview|a entrevista::the company|a empresa::the résumé|o salário::the salary|a vaga::the job opening",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Que habilidades você desenvolveu?",
+          "en": "Tell me about your professional experience.",
+          "ar": "ما المهارات التي طوّرتها؟"
+        },
+        {
+          "pt": "Conte-me sobre sua experiência profissional.",
+          "en": "What skills did you develop?",
+          "ar": "حدثني عن خبرتك المهنية."
+        },
+        {
+          "pt": "Sim, mas gostaria de uma promoção em seis meses.",
+          "en": "Yes, but I would like a promotion in six months.",
+          "ar": "نعم، لكنني أودّ الحصول على ترقية بعد ستة أشهر."
+        }
+      ],
+      "answer": "Conte-me sobre sua experiência profissional.",
+      "accepted": [],
+      "audio": "Conte-me sobre sua experiência profissional.",
+      "explanation": {
+        "pt": "Você ouviu: 'Conte-me sobre sua experiência profissional.' — 'Tell me about your professional experience.'",
+        "en": "You heard: 'Conte-me sobre sua experiência profissional.' — 'Tell me about your professional experience.'",
+        "ar": "سمعت: 'Conte-me sobre sua experiência profissional.' — 'حدثني عن خبرتك المهنية.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Você aceitaria um salário inicial menor?",
+          "en": "Would you accept a lower starting salary?",
+          "ar": "عملت في شركة تقنية لمدة ثلاث سنوات."
+        },
+        {
+          "pt": "Sim, mas gostaria de uma promoção em seis meses.",
+          "en": "I worked at a technology company for three years.",
+          "ar": "هل تقبلين راتباً ابتدائياً أقل؟"
+        },
+        {
+          "pt": "Trabalhei em uma empresa de tecnologia por três anos.",
+          "en": "Yes, but I would like a promotion in six months.",
+          "ar": "نعم، لكنني أودّ الحصول على ترقية بعد ستة أشهر."
+        }
+      ],
+      "answer": "Trabalhei em uma empresa de tecnologia por três anos.",
+      "accepted": [],
+      "audio": "Trabalhei em uma empresa de tecnologia por três anos.",
+      "explanation": {
+        "pt": "Você ouviu: 'Trabalhei em uma empresa de tecnologia por três anos.' — 'I worked at a technology company for three years.'",
+        "en": "You heard: 'Trabalhei em uma empresa de tecnologia por três anos.' — 'I worked at a technology company for three years.'",
+        "ar": "سمعت: 'Trabalhei em uma empresa de tecnologia por três anos.' — 'عملت في شركة تقنية لمدة ثلاث سنوات.'"
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'the interview'",
+        "en": "Type in Portuguese: 'the interview'",
+        "ar": "اكتب بالبرتغالية: 'المقابلة'"
+      },
+      "options": [],
+      "answer": "a entrevista",
+      "accepted": [
+        "a entrevista"
+      ],
+      "explanation": {
+        "pt": "'a entrevista' significa 'the interview'.",
+        "en": "'a entrevista' means 'the interview'.",
+        "ar": "'$a entrevista' بالعربية: '$المقابلة'."
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'the résumé'",
+        "en": "Type in Portuguese: 'the résumé'",
+        "ar": "اكتب بالبرتغالية: 'السيرة الذاتية'"
+      },
+      "options": [],
+      "answer": "o currículo",
+      "accepted": [
+        "o currículo"
+      ],
+      "explanation": {
+        "pt": "'o currículo' significa 'the résumé'.",
+        "en": "'o currículo' means 'the résumé'.",
+        "ar": "'$o currículo' بالعربية: '$السيرة الذاتية'."
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Conte-me sobre sua experiência profissional.",
+          "en": "Conte-me sobre sua experiência profissional.",
+          "ar": "Conte-me sobre sua experiência profissional."
+        },
+        {
+          "pt": "Sim, mas gostaria de uma promoção em seis meses.",
+          "en": "Sim, mas gostaria de uma promoção em seis meses.",
+          "ar": "Sim, mas gostaria de uma promoção em seis meses."
+        },
+        {
+          "pt": "Que habilidades você desenvolveu?",
+          "en": "Que habilidades você desenvolveu?",
+          "ar": "Que habilidades você desenvolveu?"
+        }
+      ],
+      "answer": "Conte-me sobre sua experiência profissional.",
+      "accepted": [],
+      "audio": "Conte-me sobre sua experiência profissional.",
+      "explanation": {
+        "pt": "Você ouviu: 'Conte-me sobre sua experiência profissional.'",
+        "en": "You heard: 'Conte-me sobre sua experiência profissional.'",
+        "ar": "سمعت: 'Conte-me sobre sua experiência profissional.'"
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Conte-me sobre sua experiência profissional.",
+          "en": "Conte-me sobre sua experiência profissional.",
+          "ar": "Conte-me sobre sua experiência profissional."
+        },
+        {
+          "pt": "Você aceitaria um salário inicial menor?",
+          "en": "Você aceitaria um salário inicial menor?",
+          "ar": "Você aceitaria um salário inicial menor?"
+        },
+        {
+          "pt": "Trabalhei em uma empresa de tecnologia por três anos.",
+          "en": "Trabalhei em uma empresa de tecnologia por três anos.",
+          "ar": "Trabalhei em uma empresa de tecnologia por três anos."
+        }
+      ],
+      "answer": "Trabalhei em uma empresa de tecnologia por três anos.",
+      "accepted": [],
+      "audio": "Trabalhei em uma empresa de tecnologia por três anos.",
+      "explanation": {
+        "pt": "Você ouviu: 'Trabalhei em uma empresa de tecnologia por três anos.'",
+        "en": "You heard: 'Trabalhei em uma empresa de tecnologia por três anos.'",
+        "ar": "سمعت: 'Trabalhei em uma empresa de tecnologia por três anos.'"
+      }
+    },
+    {
+      "type": "dictation",
+      "prompt": {
+        "pt": "Ouça e escreva o que você ouviu.",
+        "en": "Listen and type what you hear.",
+        "ar": "استمع واكتب ما سمعته."
+      },
+      "options": [],
+      "answer": "Conte-me sobre sua experiência profissional.",
+      "accepted": [],
+      "audio": "Conte-me sobre sua experiência profissional.",
+      "explanation": {
+        "pt": "A frase correta: 'Conte-me sobre sua experiência profissional.'",
+        "en": "The correct sentence: 'Conte-me sobre sua experiência profissional.'",
+        "ar": "الجملة الصحيحة: 'Conte-me sobre sua experiência profissional.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Conte-me",
+          "en": "Conte-me",
+          "ar": "Conte-me"
+        },
+        {
+          "pt": "experiência",
+          "en": "experiência",
+          "ar": "experiência"
+        },
+        {
+          "pt": "sua",
+          "en": "sua",
+          "ar": "sua"
+        },
+        {
+          "pt": "profissional.",
+          "en": "profissional.",
+          "ar": "profissional."
+        },
+        {
+          "pt": "sobre",
+          "en": "sobre",
+          "ar": "sobre"
+        }
+      ],
+      "answer": "Conte-me sobre sua experiência profissional.",
+      "accepted": [
+        "Conte-me sobre sua experiência profissional."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Conte-me sobre sua experiência profissional.'",
+        "en": "The correct order: 'Tell me about your professional experience.'",
+        "ar": "الترتيب الصحيح: 'حدثني عن خبرتك المهنية.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o currículo",
+          "en": "the salary",
+          "ar": "o currículo"
+        },
+        {
+          "pt": "a entrevista",
+          "en": "the company",
+          "ar": "a entrevista"
+        },
+        {
+          "pt": "o salário",
+          "en": "the candidate",
+          "ar": "o salário"
+        },
+        {
+          "pt": "a empresa",
+          "en": "the interview",
+          "ar": "a empresa"
+        },
+        {
+          "pt": "a vaga",
+          "en": "the job opening",
+          "ar": "a vaga"
+        },
+        {
+          "pt": "o candidato",
+          "en": "the résumé",
+          "ar": "o candidato"
+        }
+      ],
+      "answer": "o currículo::the salary|a entrevista::the company|o salário::the candidate|a empresa::the interview|a vaga::the job opening|o candidato::the résumé",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Conte-me sobre sua experiência profissional.",
+          "en": "Tell me about your professional experience.",
+          "ar": "حدثني عن خبرتك المهنية."
+        },
+        {
+          "pt": "Trabalhei em uma empresa de tecnologia por três anos.",
+          "en": "I worked at a technology company for three years.",
+          "ar": "عملت في شركة تقنية لمدة ثلاث سنوات."
+        },
+        {
+          "pt": "Você aceitaria um salário inicial menor?",
+          "en": "Would you accept a lower starting salary?",
+          "ar": "هل تقبلين راتباً ابتدائياً أقل؟"
+        }
+      ],
+      "answer": "Conte-me sobre sua experiência profissional.",
+      "accepted": [],
+      "audio": "Conte-me sobre sua experiência profissional.",
+      "explanation": {
+        "pt": "Você ouviu: 'Conte-me sobre sua experiência profissional.' — 'Tell me about your professional experience.'",
+        "en": "You heard: 'Conte-me sobre sua experiência profissional.' — 'Tell me about your professional experience.'",
+        "ar": "سمعت: 'Conte-me sobre sua experiência profissional.' — 'حدثني عن خبرتك المهنية.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Trabalhei em uma empresa de tecnologia por três anos.",
+          "en": "What skills did you develop?",
+          "ar": "ما المهارات التي طوّرتها؟"
+        },
+        {
+          "pt": "Que habilidades você desenvolveu?",
+          "en": "Tell me about your professional experience.",
+          "ar": "حدثني عن خبرتك المهنية."
+        },
+        {
+          "pt": "Conte-me sobre sua experiência profissional.",
+          "en": "I worked at a technology company for three years.",
+          "ar": "عملت في شركة تقنية لمدة ثلاث سنوات."
+        }
+      ],
+      "answer": "Trabalhei em uma empresa de tecnologia por três anos.",
+      "accepted": [],
+      "audio": "Trabalhei em uma empresa de tecnologia por três anos.",
+      "explanation": {
+        "pt": "Você ouviu: 'Trabalhei em uma empresa de tecnologia por três anos.' — 'I worked at a technology company for three years.'",
+        "en": "You heard: 'Trabalhei em uma empresa de tecnologia por três anos.' — 'I worked at a technology company for three years.'",
+        "ar": "سمعت: 'Trabalhei em uma empresa de tecnologia por três anos.' — 'عملت في شركة تقنية لمدة ثلاث سنوات.'"
+      }
+    }
+  ],
+  "speaking": {
+    "title": {
+      "pt": "Fale Agora — Ouça e Repita",
+      "en": "Speak Now — Listen and Repeat",
+      "ar": "تحدث الآن — استمع وكرر"
+    },
+    "phrases": [
+      {
+        "pt": "Conte-me sobre sua experiência profissional.",
+        "en": "Tell me about your professional experience.",
+        "ar": "حدثني عن خبرتك المهنية."
+      },
+      {
+        "pt": "Trabalhei em uma empresa de tecnologia por três anos.",
+        "en": "I worked at a technology company for three years.",
+        "ar": "عملت في شركة تقنية لمدة ثلاث سنوات."
+      },
+      {
+        "pt": "Que habilidades você desenvolveu?",
+        "en": "What skills did you develop?",
+        "ar": "ما المهارات التي طوّرتها؟"
+      },
+      {
+        "pt": "Tenho boas habilidades de comunicação e trabalho em equipe.",
+        "en": "I have good communication and teamwork skills.",
+        "ar": "أمتلك مهارات جيدة في التواصل والعمل ضمن فريق."
+      },
+      {
+        "pt": "Você aceitaria um salário inicial menor?",
+        "en": "Would you accept a lower starting salary?",
+        "ar": "هل تقبلين راتباً ابتدائياً أقل؟"
+      },
+      {
+        "pt": "Sim, mas gostaria de uma promoção em seis meses.",
+        "en": "Yes, but I would like a promotion in six months.",
+        "ar": "نعم، لكنني أودّ الحصول على ترقية بعد ستة أشهر."
+      },
+      {
+        "pt": "a entrevista",
+        "en": "the interview",
+        "ar": "المقابلة"
+      },
+      {
+        "pt": "o currículo",
+        "en": "the résumé",
+        "ar": "السيرة الذاتية"
+      },
+      {
+        "pt": "a vaga",
+        "en": "the job opening",
+        "ar": "الوظيفة الشاغرة"
+      }
+    ]
+  },
+  "cultural_tips": {
+    "pt": "",
+    "en": "",
+    "ar": ""
+  }
+}

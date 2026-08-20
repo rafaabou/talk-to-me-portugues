@@ -1,0 +1,1943 @@
+{
+  "id": "B1-12",
+  "level": "B1",
+  "level_name": {
+    "pt": "Intermediário",
+    "en": "Intermediate",
+    "ar": "متوسط"
+  },
+  "title": {
+    "pt": "Revisão B1",
+    "en": "B1 Review",
+    "ar": "مراجعة المستوى B1"
+  },
+  "objectives": [
+    {
+      "pt": "Revisar os principais tempos verbais do nível B1.",
+      "en": "Review the main verb tenses of the B1 level.",
+      "ar": "مراجعة أهم الأزمنة في المستوى B1."
+    },
+    {
+      "pt": "Integrar pronomes relativos, gerúndio e vocabulário das unidades anteriores.",
+      "en": "Integrate relative pronouns, the gerund and vocabulary from previous units.",
+      "ar": "دمج الضمائر الموصولة واسم الفاعل ومفردات الوحدات السابقة."
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "a revisão",
+      "ipa": "/a he.viˈzɐ̃w/",
+      "en": "the review",
+      "ar": "المراجعة",
+      "example": {
+        "pt": "A pessoa que conheci está viajando agora.",
+        "en": "The person I met is travelling right now.",
+        "ar": "الشخص الذي قابلته مسافر الآن."
+      }
+    },
+    {
+      "pt": "a gramática",
+      "ipa": "/a ɡɾaˈma.tʃi.kɐ/",
+      "en": "the grammar",
+      "ar": "القواعد",
+      "example": {
+        "pt": "A pessoa que conheci está viajando agora.",
+        "en": "The person I met is travelling right now.",
+        "ar": "الشخص الذي قابلته مسافر الآن."
+      }
+    },
+    {
+      "pt": "o conteúdo",
+      "ipa": "/u kõ.teˈũ.du/",
+      "en": "the content",
+      "ar": "المحتوى",
+      "example": {
+        "pt": "Terminamos o nível B1! Que progresso, hein?",
+        "en": "We finished level B1! What progress, right?",
+        "ar": "أنهينا المستوى B1! يا له من تقدم، أليس كذلك؟"
+      }
+    },
+    {
+      "pt": "dominar",
+      "ipa": "/do.miˈnaʁ/",
+      "en": "to master",
+      "ar": "يتقن",
+      "example": {
+        "pt": "Acho que com mais prática você vai dominar.",
+        "en": "I think with more practice you will master it.",
+        "ar": "أعتقد أنك ستتقنه مع المزيد من التمرين."
+      }
+    },
+    {
+      "pt": "praticar",
+      "ipa": "/pɾa.tʃiˈkaʁ/",
+      "en": "to practice",
+      "ar": "يمارس",
+      "example": {
+        "pt": "Terminamos o nível B1! Que progresso, hein?",
+        "en": "We finished level B1! What progress, right?",
+        "ar": "أنهينا المستوى B1! يا له من تقدم، أليس كذلك؟"
+      }
+    },
+    {
+      "pt": "revisar",
+      "ipa": "/he.viˈzaʁ/",
+      "en": "to review",
+      "ar": "يراجع",
+      "example": {
+        "pt": "Vamos revisar o capítulo de pronomes relativos?",
+        "en": "Shall we review the chapter on relative pronouns?",
+        "ar": "هل نراجع فصل ضمائر الوصل؟"
+      }
+    },
+    {
+      "pt": "concluir",
+      "ipa": "/kõ.kluˈiʁ/",
+      "en": "to finish",
+      "ar": "يُنهي",
+      "example": {
+        "pt": "Se eu concluir as atividades, estarei pronto para o próximo nível.",
+        "en": "If I finish the activities, I will be ready for the next level.",
+        "ar": "إذا أنهيت الأنشطة، سأكون جاهزاً للمستوى التالي."
+      }
+    },
+    {
+      "pt": "a dúvida",
+      "ipa": "/a ˈdu.vi.dɐ/",
+      "en": "the doubt",
+      "ar": "الشك / السؤال",
+      "example": {
+        "pt": "A pessoa que conheci está viajando agora.",
+        "en": "The person I met is travelling right now.",
+        "ar": "الشخص الذي قابلته مسافر الآن."
+      }
+    },
+    {
+      "pt": "o capítulo",
+      "ipa": "/u kaˈpi.tu.lu/",
+      "en": "the chapter",
+      "ar": "الفصل",
+      "example": {
+        "pt": "Terminamos o nível B1! Que progresso, hein?",
+        "en": "We finished level B1! What progress, right?",
+        "ar": "أنهينا المستوى B1! يا له من تقدم، أليس كذلك؟"
+      }
+    },
+    {
+      "pt": "a meta",
+      "ipa": "/a ˈmɛ.tɐ/",
+      "en": "the goal",
+      "ar": "الهدف",
+      "example": {
+        "pt": "A pessoa que conheci está viajando agora.",
+        "en": "The person I met is travelling right now.",
+        "ar": "الشخص الذي قابلته مسافر الآن."
+      }
+    },
+    {
+      "pt": "o progresso",
+      "ipa": "/u pɾoˈɡɾe.su/",
+      "en": "the progress",
+      "ar": "التقدم",
+      "example": {
+        "pt": "Terminamos o nível B1! Que progresso, hein?",
+        "en": "We finished level B1! What progress, right?",
+        "ar": "أنهينا المستوى B1! يا له من تقدم، أليس كذلك؟"
+      }
+    },
+    {
+      "pt": "a fluência",
+      "ipa": "/a fluˈẽ.si.ɐ/",
+      "en": "the fluency",
+      "ar": "الطلاقة",
+      "example": {
+        "pt": "A pessoa que conheci está viajando agora.",
+        "en": "The person I met is travelling right now.",
+        "ar": "الشخص الذي قابلته مسافر الآن."
+      }
+    },
+    {
+      "pt": "a dificuldade",
+      "ipa": "/a dʒi.fi.kuwˈda.dʒi/",
+      "en": "the difficulty",
+      "ar": "الصعوبة",
+      "example": {
+        "pt": "A pessoa que conheci está viajando agora.",
+        "en": "The person I met is travelling right now.",
+        "ar": "الشخص الذي قابلته مسافر الآن."
+      }
+    },
+    {
+      "pt": "o resumo",
+      "ipa": "/u heˈzu.mu/",
+      "en": "the summary",
+      "ar": "الملخص",
+      "example": {
+        "pt": "Terminamos o nível B1! Que progresso, hein?",
+        "en": "We finished level B1! What progress, right?",
+        "ar": "أنهينا المستوى B1! يا له من تقدم، أليس كذلك؟"
+      }
+    },
+    {
+      "pt": "preparar",
+      "ipa": "/pɾe.paˈɾaʁ/",
+      "en": "to prepare",
+      "ar": "يحضّر",
+      "example": {
+        "pt": "Terminamos o nível B1! Que progresso, hein?",
+        "en": "We finished level B1! What progress, right?",
+        "ar": "أنهينا المستوى B1! يا له من تقدم، أليس كذلك؟"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "title": {
+        "pt": "Resumo dos tempos verbais",
+        "en": "Verb tense summary",
+        "ar": "ملخص الأزمنة"
+      },
+      "explanation": {
+        "pt": "Nesta unidade revisamos o presente, o pretérito perfeito, o pretérito mais-que-perfeito e o futuro do pretérito. A escolha do tempo depende de quando a ação acontece e do contexto.",
+        "en": "In this unit we review the present, the simple past, the pluperfect and the conditional. The choice of tense depends on when the action happens and on the context.",
+        "ar": "في هذه الوحدة نراجع المضارع والماضي البسيط والماضي التام والماضي المستقبلي. اختيار الزمن يعتمد على زمن حدوث الفعل والسياق."
+      },
+      "examples": [
+        {
+          "pt": "Eu estudo português todos os dias.",
+          "en": "I study Portuguese every day.",
+          "ar": "أدرس البرتغالية كل يوم."
+        },
+        {
+          "pt": "Ontem eu estudei por duas horas.",
+          "en": "Yesterday I studied for two hours.",
+          "ar": "بالأمس درست لمدة ساعتين."
+        },
+        {
+          "pt": "Se eu tivesse mais tempo, estudaria ainda mais.",
+          "en": "If I had more time, I would study even more.",
+          "ar": "لو كان لدي وقت أكثر، لدرست أكثر."
+        }
+      ]
+    },
+    {
+      "title": {
+        "pt": "Revisão de relativos e gerúndio",
+        "en": "Review of relatives and the gerund",
+        "ar": "مراجعة ضمائر الوصل واسم الفاعل"
+      },
+      "explanation": {
+        "pt": "Os pronomes relativos unem ideias, e o gerúndio descreve ações em andamento. Podemos combiná-los em frases mais ricas.",
+        "en": "Relative pronouns join ideas, and the gerund describes ongoing actions. We can combine them in richer sentences.",
+        "ar": "تربط ضمائر الوصل الأفكار، ويصف اسم الفاعل الأفعال الجارية. يمكننا دمجهما في جمل أثرى."
+      },
+      "examples": [
+        {
+          "pt": "A pessoa que conheci está viajando agora.",
+          "en": "The person I met is travelling right now.",
+          "ar": "الشخص الذي قابلته مسافر الآن."
+        },
+        {
+          "pt": "O livro que lemos está sendo discutido na aula.",
+          "en": "The book we read is being discussed in class.",
+          "ar": "الكتاب الذي قرأناه يُناقش الآن في الصف."
+        },
+        {
+          "pt": "A amiga cuja casa visitei está estudando medicina.",
+          "en": "The friend whose house I visited is studying medicine.",
+          "ar": "صديقتي التي زرت منزلها تدرس الطب."
+        }
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": {
+      "pt": "Planejando a revisão",
+      "en": "Planning the review",
+      "ar": "التخطيط للمراجعة"
+    },
+    "lines": [
+      {
+        "speaker": "Bia",
+        "pt": "Terminamos o nível B1! Que progresso, hein?",
+        "en": "We finished level B1! What progress, right?",
+        "ar": "أنهينا المستوى B1! يا له من تقدم، أليس كذلك؟"
+      },
+      {
+        "speaker": "Igor",
+        "pt": "Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.",
+        "en": "Yes, but I still have doubts about the conditional.",
+        "ar": "نعم، لكن ما زال لديّ شكوك حول الماضي المستقبلي."
+      },
+      {
+        "speaker": "Bia",
+        "pt": "Acho que com mais prática você vai dominar.",
+        "en": "I think with more practice you will master it.",
+        "ar": "أعتقد أنك ستتقنه مع المزيد من التمرين."
+      },
+      {
+        "speaker": "Igor",
+        "pt": "Vamos revisar o capítulo de pronomes relativos?",
+        "en": "Shall we review the chapter on relative pronouns?",
+        "ar": "هل نراجع فصل ضمائر الوصل؟"
+      },
+      {
+        "speaker": "Bia",
+        "pt": "Boa ideia! Estou preparando um resumo hoje.",
+        "en": "Good idea! I am preparing a summary today.",
+        "ar": "فكرة جيدة! أنا أحضّر ملخصاً اليوم."
+      },
+      {
+        "speaker": "Igor",
+        "pt": "Se eu concluir as atividades, estarei pronto para o próximo nível.",
+        "en": "If I finish the activities, I will be ready for the next level.",
+        "ar": "إذا أنهيت الأنشطة، سأكون جاهزاً للمستوى التالي."
+      }
+    ]
+  },
+  "reading": {
+    "title": {
+      "pt": "Caminho para a fluência",
+      "en": "The path to fluency",
+      "ar": "الطريق إلى الطلاقة"
+    },
+    "text_pt": "Chegar à fluência exige prática constante. As pessoas que estudam todos os dias fazem mais progresso. Se você tivesse começado antes, já estaria falando com mais confiança. Contudo, nunca é tarde para revisar e melhorar.",
+    "text_en": "Reaching fluency requires constant practice. The people who study every day make more progress. If you had started earlier, you would already be speaking with more confidence. However, it is never too late to review and improve.",
+    "text_ar": "الوصول إلى الطلاقة يتطلب ممارسة مستمرة. الأشخاص الذين يدرسون كل يوم يحققون تقدماً أكبر. لو كنت بدأت مبكراً، لكنت تتحدث بالفعل بثقة أكبر. ومع ذلك، لا يفت الأوان أبداً للمراجعة والتحسن."
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Complete: \"Se eu tivesse tempo, ___ português todos os dias.\"",
+        "en": "Complete: \"If I had time, I ___ Portuguese every day.\"",
+        "ar": "أكمل: \"لو كان لدي وقت، ___ البرتغالية كل يوم.\""
+      },
+      "options": [
+        {
+          "pt": "estudaria",
+          "en": "would study",
+          "ar": "لدرست"
+        },
+        {
+          "pt": "estudo",
+          "en": "study",
+          "ar": "أدرس"
+        },
+        {
+          "pt": "estudei",
+          "en": "studied",
+          "ar": "درست"
+        },
+        {
+          "pt": "estudava",
+          "en": "used to study",
+          "ar": "كنت أدرس"
+        }
+      ],
+      "answer": "estudaria",
+      "explanation": {
+        "pt": "Em condições hipotéticas, a oração principal usa o futuro do pretérito: 'estudaria'.",
+        "en": "In hypothetical conditions, the main clause uses the conditional: 'estudaria'.",
+        "ar": "في الشروط الافتراضية، تستخدم الجملة الرئيسية الماضي المستقبلي: 'سأدرس'."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Complete: \"A amiga ___ me ajudou é brasileira.\"",
+        "en": "Complete: \"The friend ___ helped me is Brazilian.\"",
+        "ar": "أكمل: \"الصديقة ___ ساعدتني برازيلية.\""
+      },
+      "options": [
+        {
+          "pt": "que",
+          "en": "who",
+          "ar": "التي"
+        },
+        {
+          "pt": "quem",
+          "en": "who (prep.)",
+          "ar": "من"
+        },
+        {
+          "pt": "onde",
+          "en": "where",
+          "ar": "حيث"
+        },
+        {
+          "pt": "cujo",
+          "en": "whose",
+          "ar": "التي لها"
+        }
+      ],
+      "answer": "que",
+      "explanation": {
+        "pt": "'Que' é o pronome relativo para sujeito ou objeto sem preposição: 'a amiga que me ajudou'.",
+        "en": "'Que' is the relative pronoun for subject or object without a preposition: 'the friend who helped me'.",
+        "ar": "'que' هو الضمير الموصول للفاعل أو المفعول بدون حرف جر: 'الصديقة التي ساعدتني'."
+      }
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o inglês: \"Ele está praticando português todos os dias.\"",
+        "en": "Translate to English: \"Ele está praticando português todos os dias.\"",
+        "ar": "ترجم إلى الإنجليزية: \"Ele está praticando português todos os dias.\""
+      },
+      "options": [],
+      "answer": "He is practicing Portuguese every day.",
+      "explanation": {
+        "pt": "'Está praticando' usa estar + gerúndio para uma ação em andamento.",
+        "en": "'Está praticando' uses estar + gerund for an ongoing action.",
+        "ar": "يستخدم 'está praticando' فعل estar مع اسم الفاعل لفعل جارٍ."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "Terminamos",
+          "en": "Terminamos",
+          "ar": "Terminamos"
+        },
+        {
+          "pt": "Que",
+          "en": "Que",
+          "ar": "Que"
+        },
+        {
+          "pt": "hein?",
+          "en": "hein?",
+          "ar": "hein?"
+        },
+        {
+          "pt": "B1!",
+          "en": "B1!",
+          "ar": "B1!"
+        },
+        {
+          "pt": "progresso,",
+          "en": "progresso,",
+          "ar": "progresso,"
+        },
+        {
+          "pt": "nível",
+          "en": "nível",
+          "ar": "nível"
+        }
+      ],
+      "answer": "Terminamos o nível B1! Que progresso, hein?",
+      "accepted": [
+        "Terminamos o nível B1! Que progresso, hein?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Terminamos o nível B1! Que progresso, hein?'",
+        "en": "The correct order: 'We finished level B1! What progress, right?'",
+        "ar": "الترتيب الصحيح: 'أنهينا المستوى B1! يا له من تقدم، أليس كذلك؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "dominar",
+          "en": "the review",
+          "ar": "dominar"
+        },
+        {
+          "pt": "a revisão",
+          "en": "to review",
+          "ar": "a revisão"
+        },
+        {
+          "pt": "revisar",
+          "en": "the content",
+          "ar": "revisar"
+        },
+        {
+          "pt": "o conteúdo",
+          "en": "to practice",
+          "ar": "o conteúdo"
+        },
+        {
+          "pt": "praticar",
+          "en": "to master",
+          "ar": "praticar"
+        },
+        {
+          "pt": "a gramática",
+          "en": "the grammar",
+          "ar": "a gramática"
+        }
+      ],
+      "answer": "dominar::the review|a revisão::to review|revisar::the content|o conteúdo::to practice|praticar::to master|a gramática::the grammar",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.",
+          "en": "Yes, but I still have doubts about the conditional.",
+          "ar": "هل نراجع فصل ضمائر الوصل؟"
+        },
+        {
+          "pt": "Vamos revisar o capítulo de pronomes relativos?",
+          "en": "We finished level B1! What progress, right?",
+          "ar": "نعم، لكن ما زال لديّ شكوك حول الماضي المستقبلي."
+        },
+        {
+          "pt": "Terminamos o nível B1! Que progresso, hein?",
+          "en": "Shall we review the chapter on relative pronouns?",
+          "ar": "أنهينا المستوى B1! يا له من تقدم، أليس كذلك؟"
+        }
+      ],
+      "answer": "Terminamos o nível B1! Que progresso, hein?",
+      "accepted": [],
+      "audio": "Terminamos o nível B1! Que progresso, hein?",
+      "explanation": {
+        "pt": "Você ouviu: 'Terminamos o nível B1! Que progresso, hein?' — 'We finished level B1! What progress, right?'",
+        "en": "You heard: 'Terminamos o nível B1! Que progresso, hein?' — 'We finished level B1! What progress, right?'",
+        "ar": "سمعت: 'Terminamos o nível B1! Que progresso, hein?' — 'أنهينا المستوى B1! يا له من تقدم، أليس كذلك؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.",
+          "en": "If I finish the activities, I will be ready for the next level.",
+          "ar": "إذا أنهيت الأنشطة، سأكون جاهزاً للمستوى التالي."
+        },
+        {
+          "pt": "Boa ideia! Estou preparando um resumo hoje.",
+          "en": "Yes, but I still have doubts about the conditional.",
+          "ar": "نعم، لكن ما زال لديّ شكوك حول الماضي المستقبلي."
+        },
+        {
+          "pt": "Se eu concluir as atividades, estarei pronto para o próximo nível.",
+          "en": "Good idea! I am preparing a summary today.",
+          "ar": "فكرة جيدة! أنا أحضّر ملخصاً اليوم."
+        }
+      ],
+      "answer": "Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.",
+      "accepted": [],
+      "audio": "Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.",
+      "explanation": {
+        "pt": "Você ouviu: 'Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.' — 'Yes, but I still have doubts about the conditional.'",
+        "en": "You heard: 'Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.' — 'Yes, but I still have doubts about the conditional.'",
+        "ar": "سمعت: 'Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.' — 'نعم، لكن ما زال لديّ شكوك حول الماضي المستقبلي.'"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Eu ___ português todos os dias.",
+        "en": "Eu ___ português todos os dias.",
+        "ar": "Eu ___ português todos os dias."
+      },
+      "options": [
+        {
+          "pt": "Se",
+          "en": "Se",
+          "ar": "Se"
+        },
+        {
+          "pt": "estudaria",
+          "en": "estudaria",
+          "ar": "estudaria"
+        },
+        {
+          "pt": "estudo",
+          "en": "estudo",
+          "ar": "estudo"
+        }
+      ],
+      "answer": "estudo",
+      "accepted": [],
+      "explanation": {
+        "pt": "A resposta é 'estudo'. Frase completa: Eu estudo português todos os dias.",
+        "en": "The answer is 'estudo'. Full sentence: I study Portuguese every day.",
+        "ar": "الإجابة الصحيحة: 'estudo'. الجملة كاملة: أدرس البرتغالية كل يوم."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "progresso,",
+          "en": "progresso,",
+          "ar": "progresso,"
+        },
+        {
+          "pt": "hein?",
+          "en": "hein?",
+          "ar": "hein?"
+        },
+        {
+          "pt": "B1!",
+          "en": "B1!",
+          "ar": "B1!"
+        },
+        {
+          "pt": "nível",
+          "en": "nível",
+          "ar": "nível"
+        },
+        {
+          "pt": "Que",
+          "en": "Que",
+          "ar": "Que"
+        },
+        {
+          "pt": "Terminamos",
+          "en": "Terminamos",
+          "ar": "Terminamos"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        }
+      ],
+      "answer": "Terminamos o nível B1! Que progresso, hein?",
+      "accepted": [
+        "Terminamos o nível B1! Que progresso, hein?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Terminamos o nível B1! Que progresso, hein?'",
+        "en": "The correct order: 'We finished level B1! What progress, right?'",
+        "ar": "الترتيب الصحيح: 'أنهينا المستوى B1! يا له من تقدم، أليس كذلك؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "praticar",
+          "en": "to review",
+          "ar": "praticar"
+        },
+        {
+          "pt": "a revisão",
+          "en": "the grammar",
+          "ar": "a revisão"
+        },
+        {
+          "pt": "revisar",
+          "en": "to master",
+          "ar": "revisar"
+        },
+        {
+          "pt": "dominar",
+          "en": "the content",
+          "ar": "dominar"
+        },
+        {
+          "pt": "o conteúdo",
+          "en": "to practice",
+          "ar": "o conteúdo"
+        },
+        {
+          "pt": "a gramática",
+          "en": "the review",
+          "ar": "a gramática"
+        }
+      ],
+      "answer": "praticar::to review|a revisão::the grammar|revisar::to master|dominar::the content|o conteúdo::to practice|a gramática::the review",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Terminamos o nível B1! Que progresso, hein?",
+          "en": "Shall we review the chapter on relative pronouns?",
+          "ar": "أنهينا المستوى B1! يا له من تقدم، أليس كذلك؟"
+        },
+        {
+          "pt": "Vamos revisar o capítulo de pronomes relativos?",
+          "en": "We finished level B1! What progress, right?",
+          "ar": "هل نراجع فصل ضمائر الوصل؟"
+        },
+        {
+          "pt": "Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.",
+          "en": "Yes, but I still have doubts about the conditional.",
+          "ar": "نعم، لكن ما زال لديّ شكوك حول الماضي المستقبلي."
+        }
+      ],
+      "answer": "Terminamos o nível B1! Que progresso, hein?",
+      "accepted": [],
+      "audio": "Terminamos o nível B1! Que progresso, hein?",
+      "explanation": {
+        "pt": "Você ouviu: 'Terminamos o nível B1! Que progresso, hein?' — 'We finished level B1! What progress, right?'",
+        "en": "You heard: 'Terminamos o nível B1! Que progresso, hein?' — 'We finished level B1! What progress, right?'",
+        "ar": "سمعت: 'Terminamos o nível B1! Que progresso, hein?' — 'أنهينا المستوى B1! يا له من تقدم، أليس كذلك؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Terminamos o nível B1! Que progresso, hein?",
+          "en": "I think with more practice you will master it.",
+          "ar": "أعتقد أنك ستتقنه مع المزيد من التمرين."
+        },
+        {
+          "pt": "Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.",
+          "en": "We finished level B1! What progress, right?",
+          "ar": "نعم، لكن ما زال لديّ شكوك حول الماضي المستقبلي."
+        },
+        {
+          "pt": "Acho que com mais prática você vai dominar.",
+          "en": "Yes, but I still have doubts about the conditional.",
+          "ar": "أنهينا المستوى B1! يا له من تقدم، أليس كذلك؟"
+        }
+      ],
+      "answer": "Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.",
+      "accepted": [],
+      "audio": "Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.",
+      "explanation": {
+        "pt": "Você ouviu: 'Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.' — 'Yes, but I still have doubts about the conditional.'",
+        "en": "You heard: 'Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.' — 'Yes, but I still have doubts about the conditional.'",
+        "ar": "سمعت: 'Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.' — 'نعم، لكن ما زال لديّ شكوك حول الماضي المستقبلي.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "nível",
+          "en": "nível",
+          "ar": "nível"
+        },
+        {
+          "pt": "Terminamos",
+          "en": "Terminamos",
+          "ar": "Terminamos"
+        },
+        {
+          "pt": "progresso,",
+          "en": "progresso,",
+          "ar": "progresso,"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "Que",
+          "en": "Que",
+          "ar": "Que"
+        },
+        {
+          "pt": "hein?",
+          "en": "hein?",
+          "ar": "hein?"
+        },
+        {
+          "pt": "B1!",
+          "en": "B1!",
+          "ar": "B1!"
+        }
+      ],
+      "answer": "Terminamos o nível B1! Que progresso, hein?",
+      "accepted": [
+        "Terminamos o nível B1! Que progresso, hein?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Terminamos o nível B1! Que progresso, hein?'",
+        "en": "The correct order: 'We finished level B1! What progress, right?'",
+        "ar": "الترتيب الصحيح: 'أنهينا المستوى B1! يا له من تقدم، أليس كذلك؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "revisar",
+          "en": "to review",
+          "ar": "revisar"
+        },
+        {
+          "pt": "dominar",
+          "en": "the review",
+          "ar": "dominar"
+        },
+        {
+          "pt": "a gramática",
+          "en": "the content",
+          "ar": "a gramática"
+        },
+        {
+          "pt": "o conteúdo",
+          "en": "to master",
+          "ar": "o conteúdo"
+        },
+        {
+          "pt": "praticar",
+          "en": "to practice",
+          "ar": "praticar"
+        },
+        {
+          "pt": "a revisão",
+          "en": "the grammar",
+          "ar": "a revisão"
+        }
+      ],
+      "answer": "revisar::to review|dominar::the review|a gramática::the content|o conteúdo::to master|praticar::to practice|a revisão::the grammar",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Terminamos o nível B1! Que progresso, hein?",
+          "en": "Good idea! I am preparing a summary today.",
+          "ar": "أنهينا المستوى B1! يا له من تقدم، أليس كذلك؟"
+        },
+        {
+          "pt": "Acho que com mais prática você vai dominar.",
+          "en": "I think with more practice you will master it.",
+          "ar": "فكرة جيدة! أنا أحضّر ملخصاً اليوم."
+        },
+        {
+          "pt": "Boa ideia! Estou preparando um resumo hoje.",
+          "en": "We finished level B1! What progress, right?",
+          "ar": "أعتقد أنك ستتقنه مع المزيد من التمرين."
+        }
+      ],
+      "answer": "Terminamos o nível B1! Que progresso, hein?",
+      "accepted": [],
+      "audio": "Terminamos o nível B1! Que progresso, hein?",
+      "explanation": {
+        "pt": "Você ouviu: 'Terminamos o nível B1! Que progresso, hein?' — 'We finished level B1! What progress, right?'",
+        "en": "You heard: 'Terminamos o nível B1! Que progresso, hein?' — 'We finished level B1! What progress, right?'",
+        "ar": "سمعت: 'Terminamos o nível B1! Que progresso, hein?' — 'أنهينا المستوى B1! يا له من تقدم، أليس كذلك؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Boa ideia! Estou preparando um resumo hoje.",
+          "en": "I think with more practice you will master it.",
+          "ar": "أعتقد أنك ستتقنه مع المزيد من التمرين."
+        },
+        {
+          "pt": "Acho que com mais prática você vai dominar.",
+          "en": "Yes, but I still have doubts about the conditional.",
+          "ar": "نعم، لكن ما زال لديّ شكوك حول الماضي المستقبلي."
+        },
+        {
+          "pt": "Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.",
+          "en": "Good idea! I am preparing a summary today.",
+          "ar": "فكرة جيدة! أنا أحضّر ملخصاً اليوم."
+        }
+      ],
+      "answer": "Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.",
+      "accepted": [],
+      "audio": "Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.",
+      "explanation": {
+        "pt": "Você ouviu: 'Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.' — 'Yes, but I still have doubts about the conditional.'",
+        "en": "You heard: 'Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.' — 'Yes, but I still have doubts about the conditional.'",
+        "ar": "سمعت: 'Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.' — 'نعم، لكن ما زال لديّ شكوك حول الماضي المستقبلي.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "hein?",
+          "en": "hein?",
+          "ar": "hein?"
+        },
+        {
+          "pt": "B1!",
+          "en": "B1!",
+          "ar": "B1!"
+        },
+        {
+          "pt": "progresso,",
+          "en": "progresso,",
+          "ar": "progresso,"
+        },
+        {
+          "pt": "nível",
+          "en": "nível",
+          "ar": "nível"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "Terminamos",
+          "en": "Terminamos",
+          "ar": "Terminamos"
+        },
+        {
+          "pt": "Que",
+          "en": "Que",
+          "ar": "Que"
+        }
+      ],
+      "answer": "Terminamos o nível B1! Que progresso, hein?",
+      "accepted": [
+        "Terminamos o nível B1! Que progresso, hein?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Terminamos o nível B1! Que progresso, hein?'",
+        "en": "The correct order: 'We finished level B1! What progress, right?'",
+        "ar": "الترتيب الصحيح: 'أنهينا المستوى B1! يا له من تقدم، أليس كذلك؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a gramática",
+          "en": "the review",
+          "ar": "a gramática"
+        },
+        {
+          "pt": "praticar",
+          "en": "to practice",
+          "ar": "praticar"
+        },
+        {
+          "pt": "o conteúdo",
+          "en": "the content",
+          "ar": "o conteúdo"
+        },
+        {
+          "pt": "revisar",
+          "en": "to review",
+          "ar": "revisar"
+        },
+        {
+          "pt": "a revisão",
+          "en": "the grammar",
+          "ar": "a revisão"
+        },
+        {
+          "pt": "dominar",
+          "en": "to master",
+          "ar": "dominar"
+        }
+      ],
+      "answer": "a gramática::the review|praticar::to practice|o conteúdo::the content|revisar::to review|a revisão::the grammar|dominar::to master",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.",
+          "en": "We finished level B1! What progress, right?",
+          "ar": "نعم، لكن ما زال لديّ شكوك حول الماضي المستقبلي."
+        },
+        {
+          "pt": "Terminamos o nível B1! Que progresso, hein?",
+          "en": "If I finish the activities, I will be ready for the next level.",
+          "ar": "إذا أنهيت الأنشطة، سأكون جاهزاً للمستوى التالي."
+        },
+        {
+          "pt": "Se eu concluir as atividades, estarei pronto para o próximo nível.",
+          "en": "Yes, but I still have doubts about the conditional.",
+          "ar": "أنهينا المستوى B1! يا له من تقدم، أليس كذلك؟"
+        }
+      ],
+      "answer": "Terminamos o nível B1! Que progresso, hein?",
+      "accepted": [],
+      "audio": "Terminamos o nível B1! Que progresso, hein?",
+      "explanation": {
+        "pt": "Você ouviu: 'Terminamos o nível B1! Que progresso, hein?' — 'We finished level B1! What progress, right?'",
+        "en": "You heard: 'Terminamos o nível B1! Que progresso, hein?' — 'We finished level B1! What progress, right?'",
+        "ar": "سمعت: 'Terminamos o nível B1! Que progresso, hein?' — 'أنهينا المستوى B1! يا له من تقدم، أليس كذلك؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.",
+          "en": "We finished level B1! What progress, right?",
+          "ar": "أنهينا المستوى B1! يا له من تقدم، أليس كذلك؟"
+        },
+        {
+          "pt": "Terminamos o nível B1! Que progresso, hein?",
+          "en": "If I finish the activities, I will be ready for the next level.",
+          "ar": "نعم، لكن ما زال لديّ شكوك حول الماضي المستقبلي."
+        },
+        {
+          "pt": "Se eu concluir as atividades, estarei pronto para o próximo nível.",
+          "en": "Yes, but I still have doubts about the conditional.",
+          "ar": "إذا أنهيت الأنشطة، سأكون جاهزاً للمستوى التالي."
+        }
+      ],
+      "answer": "Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.",
+      "accepted": [],
+      "audio": "Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.",
+      "explanation": {
+        "pt": "Você ouviu: 'Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.' — 'Yes, but I still have doubts about the conditional.'",
+        "en": "You heard: 'Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.' — 'Yes, but I still have doubts about the conditional.'",
+        "ar": "سمعت: 'Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.' — 'نعم، لكن ما زال لديّ شكوك حول الماضي المستقبلي.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Que",
+          "en": "Que",
+          "ar": "Que"
+        },
+        {
+          "pt": "B1!",
+          "en": "B1!",
+          "ar": "B1!"
+        },
+        {
+          "pt": "Terminamos",
+          "en": "Terminamos",
+          "ar": "Terminamos"
+        },
+        {
+          "pt": "hein?",
+          "en": "hein?",
+          "ar": "hein?"
+        },
+        {
+          "pt": "nível",
+          "en": "nível",
+          "ar": "nível"
+        },
+        {
+          "pt": "progresso,",
+          "en": "progresso,",
+          "ar": "progresso,"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        }
+      ],
+      "answer": "Terminamos o nível B1! Que progresso, hein?",
+      "accepted": [
+        "Terminamos o nível B1! Que progresso, hein?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Terminamos o nível B1! Que progresso, hein?'",
+        "en": "The correct order: 'We finished level B1! What progress, right?'",
+        "ar": "الترتيب الصحيح: 'أنهينا المستوى B1! يا له من تقدم، أليس كذلك؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a gramática",
+          "en": "the content",
+          "ar": "a gramática"
+        },
+        {
+          "pt": "dominar",
+          "en": "the grammar",
+          "ar": "dominar"
+        },
+        {
+          "pt": "o conteúdo",
+          "en": "the review",
+          "ar": "o conteúdo"
+        },
+        {
+          "pt": "praticar",
+          "en": "to practice",
+          "ar": "praticar"
+        },
+        {
+          "pt": "a revisão",
+          "en": "to review",
+          "ar": "a revisão"
+        },
+        {
+          "pt": "revisar",
+          "en": "to master",
+          "ar": "revisar"
+        }
+      ],
+      "answer": "a gramática::the content|dominar::the grammar|o conteúdo::the review|praticar::to practice|a revisão::to review|revisar::to master",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Acho que com mais prática você vai dominar.",
+          "en": "I think with more practice you will master it.",
+          "ar": "أنهينا المستوى B1! يا له من تقدم، أليس كذلك؟"
+        },
+        {
+          "pt": "Terminamos o nível B1! Que progresso, hein?",
+          "en": "We finished level B1! What progress, right?",
+          "ar": "هل نراجع فصل ضمائر الوصل؟"
+        },
+        {
+          "pt": "Vamos revisar o capítulo de pronomes relativos?",
+          "en": "Shall we review the chapter on relative pronouns?",
+          "ar": "أعتقد أنك ستتقنه مع المزيد من التمرين."
+        }
+      ],
+      "answer": "Terminamos o nível B1! Que progresso, hein?",
+      "accepted": [],
+      "audio": "Terminamos o nível B1! Que progresso, hein?",
+      "explanation": {
+        "pt": "Você ouviu: 'Terminamos o nível B1! Que progresso, hein?' — 'We finished level B1! What progress, right?'",
+        "en": "You heard: 'Terminamos o nível B1! Que progresso, hein?' — 'We finished level B1! What progress, right?'",
+        "ar": "سمعت: 'Terminamos o nível B1! Que progresso, hein?' — 'أنهينا المستوى B1! يا له من تقدم، أليس كذلك؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Terminamos o nível B1! Que progresso, hein?",
+          "en": "Yes, but I still have doubts about the conditional.",
+          "ar": "فكرة جيدة! أنا أحضّر ملخصاً اليوم."
+        },
+        {
+          "pt": "Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.",
+          "en": "Good idea! I am preparing a summary today.",
+          "ar": "نعم، لكن ما زال لديّ شكوك حول الماضي المستقبلي."
+        },
+        {
+          "pt": "Boa ideia! Estou preparando um resumo hoje.",
+          "en": "We finished level B1! What progress, right?",
+          "ar": "أنهينا المستوى B1! يا له من تقدم، أليس كذلك؟"
+        }
+      ],
+      "answer": "Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.",
+      "accepted": [],
+      "audio": "Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.",
+      "explanation": {
+        "pt": "Você ouviu: 'Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.' — 'Yes, but I still have doubts about the conditional.'",
+        "en": "You heard: 'Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.' — 'Yes, but I still have doubts about the conditional.'",
+        "ar": "سمعت: 'Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.' — 'نعم، لكن ما زال لديّ شكوك حول الماضي المستقبلي.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "B1!",
+          "en": "B1!",
+          "ar": "B1!"
+        },
+        {
+          "pt": "progresso,",
+          "en": "progresso,",
+          "ar": "progresso,"
+        },
+        {
+          "pt": "hein?",
+          "en": "hein?",
+          "ar": "hein?"
+        },
+        {
+          "pt": "Terminamos",
+          "en": "Terminamos",
+          "ar": "Terminamos"
+        },
+        {
+          "pt": "nível",
+          "en": "nível",
+          "ar": "nível"
+        },
+        {
+          "pt": "Que",
+          "en": "Que",
+          "ar": "Que"
+        }
+      ],
+      "answer": "Terminamos o nível B1! Que progresso, hein?",
+      "accepted": [
+        "Terminamos o nível B1! Que progresso, hein?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Terminamos o nível B1! Que progresso, hein?'",
+        "en": "The correct order: 'We finished level B1! What progress, right?'",
+        "ar": "الترتيب الصحيح: 'أنهينا المستوى B1! يا له من تقدم، أليس كذلك؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a revisão",
+          "en": "the content",
+          "ar": "a revisão"
+        },
+        {
+          "pt": "revisar",
+          "en": "to master",
+          "ar": "revisar"
+        },
+        {
+          "pt": "praticar",
+          "en": "to practice",
+          "ar": "praticar"
+        },
+        {
+          "pt": "a gramática",
+          "en": "the grammar",
+          "ar": "a gramática"
+        },
+        {
+          "pt": "dominar",
+          "en": "to review",
+          "ar": "dominar"
+        },
+        {
+          "pt": "o conteúdo",
+          "en": "the review",
+          "ar": "o conteúdo"
+        }
+      ],
+      "answer": "a revisão::the content|revisar::to master|praticar::to practice|a gramática::the grammar|dominar::to review|o conteúdo::the review",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Terminamos o nível B1! Que progresso, hein?",
+          "en": "Good idea! I am preparing a summary today.",
+          "ar": "أنهينا المستوى B1! يا له من تقدم، أليس كذلك؟"
+        },
+        {
+          "pt": "Boa ideia! Estou preparando um resumo hoje.",
+          "en": "We finished level B1! What progress, right?",
+          "ar": "فكرة جيدة! أنا أحضّر ملخصاً اليوم."
+        },
+        {
+          "pt": "Se eu concluir as atividades, estarei pronto para o próximo nível.",
+          "en": "If I finish the activities, I will be ready for the next level.",
+          "ar": "إذا أنهيت الأنشطة، سأكون جاهزاً للمستوى التالي."
+        }
+      ],
+      "answer": "Terminamos o nível B1! Que progresso, hein?",
+      "accepted": [],
+      "audio": "Terminamos o nível B1! Que progresso, hein?",
+      "explanation": {
+        "pt": "Você ouviu: 'Terminamos o nível B1! Que progresso, hein?' — 'We finished level B1! What progress, right?'",
+        "en": "You heard: 'Terminamos o nível B1! Que progresso, hein?' — 'We finished level B1! What progress, right?'",
+        "ar": "سمعت: 'Terminamos o nível B1! Que progresso, hein?' — 'أنهينا المستوى B1! يا له من تقدم، أليس كذلك؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.",
+          "en": "Shall we review the chapter on relative pronouns?",
+          "ar": "هل نراجع فصل ضمائر الوصل؟"
+        },
+        {
+          "pt": "Acho que com mais prática você vai dominar.",
+          "en": "I think with more practice you will master it.",
+          "ar": "أعتقد أنك ستتقنه مع المزيد من التمرين."
+        },
+        {
+          "pt": "Vamos revisar o capítulo de pronomes relativos?",
+          "en": "Yes, but I still have doubts about the conditional.",
+          "ar": "نعم، لكن ما زال لديّ شكوك حول الماضي المستقبلي."
+        }
+      ],
+      "answer": "Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.",
+      "accepted": [],
+      "audio": "Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.",
+      "explanation": {
+        "pt": "Você ouviu: 'Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.' — 'Yes, but I still have doubts about the conditional.'",
+        "en": "You heard: 'Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.' — 'Yes, but I still have doubts about the conditional.'",
+        "ar": "سمعت: 'Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.' — 'نعم، لكن ما زال لديّ شكوك حول الماضي المستقبلي.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "hein?",
+          "en": "hein?",
+          "ar": "hein?"
+        },
+        {
+          "pt": "Terminamos",
+          "en": "Terminamos",
+          "ar": "Terminamos"
+        },
+        {
+          "pt": "progresso,",
+          "en": "progresso,",
+          "ar": "progresso,"
+        },
+        {
+          "pt": "nível",
+          "en": "nível",
+          "ar": "nível"
+        },
+        {
+          "pt": "Que",
+          "en": "Que",
+          "ar": "Que"
+        },
+        {
+          "pt": "B1!",
+          "en": "B1!",
+          "ar": "B1!"
+        }
+      ],
+      "answer": "Terminamos o nível B1! Que progresso, hein?",
+      "accepted": [
+        "Terminamos o nível B1! Que progresso, hein?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Terminamos o nível B1! Que progresso, hein?'",
+        "en": "The correct order: 'We finished level B1! What progress, right?'",
+        "ar": "الترتيب الصحيح: 'أنهينا المستوى B1! يا له من تقدم، أليس كذلك؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "revisar",
+          "en": "to practice",
+          "ar": "revisar"
+        },
+        {
+          "pt": "a revisão",
+          "en": "the grammar",
+          "ar": "a revisão"
+        },
+        {
+          "pt": "o conteúdo",
+          "en": "the content",
+          "ar": "o conteúdo"
+        },
+        {
+          "pt": "praticar",
+          "en": "to master",
+          "ar": "praticar"
+        },
+        {
+          "pt": "a gramática",
+          "en": "to review",
+          "ar": "a gramática"
+        },
+        {
+          "pt": "dominar",
+          "en": "the review",
+          "ar": "dominar"
+        }
+      ],
+      "answer": "revisar::to practice|a revisão::the grammar|o conteúdo::the content|praticar::to master|a gramática::to review|dominar::the review",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Terminamos o nível B1! Que progresso, hein?",
+          "en": "Yes, but I still have doubts about the conditional.",
+          "ar": "أنهينا المستوى B1! يا له من تقدم، أليس كذلك؟"
+        },
+        {
+          "pt": "Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.",
+          "en": "We finished level B1! What progress, right?",
+          "ar": "نعم، لكن ما زال لديّ شكوك حول الماضي المستقبلي."
+        },
+        {
+          "pt": "Boa ideia! Estou preparando um resumo hoje.",
+          "en": "Good idea! I am preparing a summary today.",
+          "ar": "فكرة جيدة! أنا أحضّر ملخصاً اليوم."
+        }
+      ],
+      "answer": "Terminamos o nível B1! Que progresso, hein?",
+      "accepted": [],
+      "audio": "Terminamos o nível B1! Que progresso, hein?",
+      "explanation": {
+        "pt": "Você ouviu: 'Terminamos o nível B1! Que progresso, hein?' — 'We finished level B1! What progress, right?'",
+        "en": "You heard: 'Terminamos o nível B1! Que progresso, hein?' — 'We finished level B1! What progress, right?'",
+        "ar": "سمعت: 'Terminamos o nível B1! Que progresso, hein?' — 'أنهينا المستوى B1! يا له من تقدم، أليس كذلك؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Acho que com mais prática você vai dominar.",
+          "en": "We finished level B1! What progress, right?",
+          "ar": "نعم، لكن ما زال لديّ شكوك حول الماضي المستقبلي."
+        },
+        {
+          "pt": "Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.",
+          "en": "Yes, but I still have doubts about the conditional.",
+          "ar": "أعتقد أنك ستتقنه مع المزيد من التمرين."
+        },
+        {
+          "pt": "Terminamos o nível B1! Que progresso, hein?",
+          "en": "I think with more practice you will master it.",
+          "ar": "أنهينا المستوى B1! يا له من تقدم، أليس كذلك؟"
+        }
+      ],
+      "answer": "Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.",
+      "accepted": [],
+      "audio": "Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.",
+      "explanation": {
+        "pt": "Você ouviu: 'Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.' — 'Yes, but I still have doubts about the conditional.'",
+        "en": "You heard: 'Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.' — 'Yes, but I still have doubts about the conditional.'",
+        "ar": "سمعت: 'Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.' — 'نعم، لكن ما زال لديّ شكوك حول الماضي المستقبلي.'"
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'the review'",
+        "en": "Type in Portuguese: 'the review'",
+        "ar": "اكتب بالبرتغالية: 'المراجعة'"
+      },
+      "options": [],
+      "answer": "a revisão",
+      "accepted": [
+        "a revisão"
+      ],
+      "explanation": {
+        "pt": "'a revisão' significa 'the review'.",
+        "en": "'a revisão' means 'the review'.",
+        "ar": "'$a revisão' بالعربية: '$المراجعة'."
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'the grammar'",
+        "en": "Type in Portuguese: 'the grammar'",
+        "ar": "اكتب بالبرتغالية: 'القواعد'"
+      },
+      "options": [],
+      "answer": "a gramática",
+      "accepted": [
+        "a gramática"
+      ],
+      "explanation": {
+        "pt": "'a gramática' significa 'the grammar'.",
+        "en": "'a gramática' means 'the grammar'.",
+        "ar": "'$a gramática' بالعربية: '$القواعد'."
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Terminamos o nível B1! Que progresso, hein?",
+          "en": "Terminamos o nível B1! Que progresso, hein?",
+          "ar": "Terminamos o nível B1! Que progresso, hein?"
+        },
+        {
+          "pt": "Se eu concluir as atividades, estarei pronto para o próximo nível.",
+          "en": "Se eu concluir as atividades, estarei pronto para o próximo nível.",
+          "ar": "Se eu concluir as atividades, estarei pronto para o próximo nível."
+        },
+        {
+          "pt": "Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.",
+          "en": "Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.",
+          "ar": "Sim, mas ainda tenho dúvidas sobre o futuro do pretérito."
+        }
+      ],
+      "answer": "Terminamos o nível B1! Que progresso, hein?",
+      "accepted": [],
+      "audio": "Terminamos o nível B1! Que progresso, hein?",
+      "explanation": {
+        "pt": "Você ouviu: 'Terminamos o nível B1! Que progresso, hein?'",
+        "en": "You heard: 'Terminamos o nível B1! Que progresso, hein?'",
+        "ar": "سمعت: 'Terminamos o nível B1! Que progresso, hein?'"
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Acho que com mais prática você vai dominar.",
+          "en": "Acho que com mais prática você vai dominar.",
+          "ar": "Acho que com mais prática você vai dominar."
+        },
+        {
+          "pt": "Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.",
+          "en": "Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.",
+          "ar": "Sim, mas ainda tenho dúvidas sobre o futuro do pretérito."
+        },
+        {
+          "pt": "Se eu concluir as atividades, estarei pronto para o próximo nível.",
+          "en": "Se eu concluir as atividades, estarei pronto para o próximo nível.",
+          "ar": "Se eu concluir as atividades, estarei pronto para o próximo nível."
+        }
+      ],
+      "answer": "Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.",
+      "accepted": [],
+      "audio": "Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.",
+      "explanation": {
+        "pt": "Você ouviu: 'Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.'",
+        "en": "You heard: 'Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.'",
+        "ar": "سمعت: 'Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.'"
+      }
+    },
+    {
+      "type": "dictation",
+      "prompt": {
+        "pt": "Ouça e escreva o que você ouviu.",
+        "en": "Listen and type what you hear.",
+        "ar": "استمع واكتب ما سمعته."
+      },
+      "options": [],
+      "answer": "Terminamos o nível B1! Que progresso, hein?",
+      "accepted": [],
+      "audio": "Terminamos o nível B1! Que progresso, hein?",
+      "explanation": {
+        "pt": "A frase correta: 'Terminamos o nível B1! Que progresso, hein?'",
+        "en": "The correct sentence: 'Terminamos o nível B1! Que progresso, hein?'",
+        "ar": "الجملة الصحيحة: 'Terminamos o nível B1! Que progresso, hein?'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "B1!",
+          "en": "B1!",
+          "ar": "B1!"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "Que",
+          "en": "Que",
+          "ar": "Que"
+        },
+        {
+          "pt": "nível",
+          "en": "nível",
+          "ar": "nível"
+        },
+        {
+          "pt": "Terminamos",
+          "en": "Terminamos",
+          "ar": "Terminamos"
+        },
+        {
+          "pt": "hein?",
+          "en": "hein?",
+          "ar": "hein?"
+        },
+        {
+          "pt": "progresso,",
+          "en": "progresso,",
+          "ar": "progresso,"
+        }
+      ],
+      "answer": "Terminamos o nível B1! Que progresso, hein?",
+      "accepted": [
+        "Terminamos o nível B1! Que progresso, hein?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Terminamos o nível B1! Que progresso, hein?'",
+        "en": "The correct order: 'We finished level B1! What progress, right?'",
+        "ar": "الترتيب الصحيح: 'أنهينا المستوى B1! يا له من تقدم، أليس كذلك؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a revisão",
+          "en": "to practice",
+          "ar": "a revisão"
+        },
+        {
+          "pt": "a gramática",
+          "en": "the content",
+          "ar": "a gramática"
+        },
+        {
+          "pt": "dominar",
+          "en": "the review",
+          "ar": "dominar"
+        },
+        {
+          "pt": "o conteúdo",
+          "en": "to review",
+          "ar": "o conteúdo"
+        },
+        {
+          "pt": "revisar",
+          "en": "to master",
+          "ar": "revisar"
+        },
+        {
+          "pt": "praticar",
+          "en": "the grammar",
+          "ar": "praticar"
+        }
+      ],
+      "answer": "a revisão::to practice|a gramática::the content|dominar::the review|o conteúdo::to review|revisar::to master|praticar::the grammar",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Boa ideia! Estou preparando um resumo hoje.",
+          "en": "Good idea! I am preparing a summary today.",
+          "ar": "هل نراجع فصل ضمائر الوصل؟"
+        },
+        {
+          "pt": "Vamos revisar o capítulo de pronomes relativos?",
+          "en": "We finished level B1! What progress, right?",
+          "ar": "أنهينا المستوى B1! يا له من تقدم، أليس كذلك؟"
+        },
+        {
+          "pt": "Terminamos o nível B1! Que progresso, hein?",
+          "en": "Shall we review the chapter on relative pronouns?",
+          "ar": "فكرة جيدة! أنا أحضّر ملخصاً اليوم."
+        }
+      ],
+      "answer": "Terminamos o nível B1! Que progresso, hein?",
+      "accepted": [],
+      "audio": "Terminamos o nível B1! Que progresso, hein?",
+      "explanation": {
+        "pt": "Você ouviu: 'Terminamos o nível B1! Que progresso, hein?' — 'We finished level B1! What progress, right?'",
+        "en": "You heard: 'Terminamos o nível B1! Que progresso, hein?' — 'We finished level B1! What progress, right?'",
+        "ar": "سمعت: 'Terminamos o nível B1! Que progresso, hein?' — 'أنهينا المستوى B1! يا له من تقدم، أليس كذلك؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Vamos revisar o capítulo de pronomes relativos?",
+          "en": "Good idea! I am preparing a summary today.",
+          "ar": "نعم، لكن ما زال لديّ شكوك حول الماضي المستقبلي."
+        },
+        {
+          "pt": "Boa ideia! Estou preparando um resumo hoje.",
+          "en": "Yes, but I still have doubts about the conditional.",
+          "ar": "فكرة جيدة! أنا أحضّر ملخصاً اليوم."
+        },
+        {
+          "pt": "Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.",
+          "en": "Shall we review the chapter on relative pronouns?",
+          "ar": "هل نراجع فصل ضمائر الوصل؟"
+        }
+      ],
+      "answer": "Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.",
+      "accepted": [],
+      "audio": "Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.",
+      "explanation": {
+        "pt": "Você ouviu: 'Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.' — 'Yes, but I still have doubts about the conditional.'",
+        "en": "You heard: 'Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.' — 'Yes, but I still have doubts about the conditional.'",
+        "ar": "سمعت: 'Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.' — 'نعم، لكن ما زال لديّ شكوك حول الماضي المستقبلي.'"
+      }
+    }
+  ],
+  "speaking": {
+    "title": {
+      "pt": "Fale Agora — Ouça e Repita",
+      "en": "Speak Now — Listen and Repeat",
+      "ar": "تحدث الآن — استمع وكرر"
+    },
+    "phrases": [
+      {
+        "pt": "Terminamos o nível B1! Que progresso, hein?",
+        "en": "We finished level B1! What progress, right?",
+        "ar": "أنهينا المستوى B1! يا له من تقدم، أليس كذلك؟"
+      },
+      {
+        "pt": "Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.",
+        "en": "Yes, but I still have doubts about the conditional.",
+        "ar": "نعم، لكن ما زال لديّ شكوك حول الماضي المستقبلي."
+      },
+      {
+        "pt": "Acho que com mais prática você vai dominar.",
+        "en": "I think with more practice you will master it.",
+        "ar": "أعتقد أنك ستتقنه مع المزيد من التمرين."
+      },
+      {
+        "pt": "Vamos revisar o capítulo de pronomes relativos?",
+        "en": "Shall we review the chapter on relative pronouns?",
+        "ar": "هل نراجع فصل ضمائر الوصل؟"
+      },
+      {
+        "pt": "Boa ideia! Estou preparando um resumo hoje.",
+        "en": "Good idea! I am preparing a summary today.",
+        "ar": "فكرة جيدة! أنا أحضّر ملخصاً اليوم."
+      },
+      {
+        "pt": "Se eu concluir as atividades, estarei pronto para o próximo nível.",
+        "en": "If I finish the activities, I will be ready for the next level.",
+        "ar": "إذا أنهيت الأنشطة، سأكون جاهزاً للمستوى التالي."
+      },
+      {
+        "pt": "a revisão",
+        "en": "the review",
+        "ar": "المراجعة"
+      },
+      {
+        "pt": "a gramática",
+        "en": "the grammar",
+        "ar": "القواعد"
+      },
+      {
+        "pt": "o conteúdo",
+        "en": "the content",
+        "ar": "المحتوى"
+      }
+    ]
+  },
+  "cultural_tips": {
+    "pt": "",
+    "en": "",
+    "ar": ""
+  }
+}

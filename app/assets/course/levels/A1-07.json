@@ -1,0 +1,1960 @@
+{
+  "id": "A1-07",
+  "level": "A1",
+  "level_name": {
+    "pt": "Iniciante",
+    "en": "Beginner",
+    "ar": "مبتدئ"
+  },
+  "title": {
+    "pt": "Família e Pessoas",
+    "en": "Family and People",
+    "ar": "العائلة والأشخاص"
+  },
+  "objectives": [
+    {
+      "pt": "Nomear os membros da família",
+      "en": "Name family members",
+      "ar": "تسمية أفراد العائلة"
+    },
+    {
+      "pt": "Usar possessivos (meu, sua, etc.)",
+      "en": "Use possessives (meu, sua, etc.)",
+      "ar": "استخدام ضمائر الملكية (meu، sua، إلخ)"
+    },
+    {
+      "pt": "Descrever pessoas",
+      "en": "Describe people",
+      "ar": "وصف الأشخاص"
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "a família",
+      "ipa": "/a faˈmi.li.a/",
+      "en": "the family",
+      "ar": "العائلة",
+      "example": {
+        "pt": "Lucas, me conta sobre a sua família.",
+        "en": "Lucas, tell me about your family.",
+        "ar": "لوكاس، حدثني عن عائلتك."
+      }
+    },
+    {
+      "pt": "o pai",
+      "ipa": "/u paj/",
+      "en": "the father",
+      "ar": "الأب",
+      "example": {
+        "pt": "O tio Paulo tem cabelo curto.",
+        "en": "Uncle Paulo has short hair.",
+        "ar": "العم باولو لديه شعر قصير."
+      }
+    },
+    {
+      "pt": "a mãe",
+      "ipa": "/a mãj/",
+      "en": "the mother",
+      "ar": "الأم",
+      "example": {
+        "pt": "Lucas, me conta sobre a sua família.",
+        "en": "Lucas, tell me about your family.",
+        "ar": "لوكاس، حدثني عن عائلتك."
+      }
+    },
+    {
+      "pt": "o irmão",
+      "ipa": "/u iʁˈmɐ̃w/",
+      "en": "the brother",
+      "ar": "الأخ",
+      "example": {
+        "pt": "O tio Paulo tem cabelo curto.",
+        "en": "Uncle Paulo has short hair.",
+        "ar": "العم باولو لديه شعر قصير."
+      }
+    },
+    {
+      "pt": "a irmã",
+      "ipa": "/a iʁˈmɐ̃/",
+      "en": "the sister",
+      "ar": "الأخت",
+      "example": {
+        "pt": "Lucas, me conta sobre a sua família.",
+        "en": "Lucas, tell me about your family.",
+        "ar": "لوكاس، حدثني عن عائلتك."
+      }
+    },
+    {
+      "pt": "o filho",
+      "ipa": "/u ˈfi.ʎu/",
+      "en": "the son",
+      "ar": "الابن",
+      "example": {
+        "pt": "O tio Paulo tem cabelo curto.",
+        "en": "Uncle Paulo has short hair.",
+        "ar": "العم باولو لديه شعر قصير."
+      }
+    },
+    {
+      "pt": "a filha",
+      "ipa": "/a ˈfi.ʎa/",
+      "en": "the daughter",
+      "ar": "الابنة",
+      "example": {
+        "pt": "Lucas, me conta sobre a sua família.",
+        "en": "Lucas, tell me about your family.",
+        "ar": "لوكاس، حدثني عن عائلتك."
+      }
+    },
+    {
+      "pt": "o avô",
+      "ipa": "/u aˈvo/",
+      "en": "the grandfather",
+      "ar": "الجد",
+      "example": {
+        "pt": "O tio Paulo tem cabelo curto.",
+        "en": "Uncle Paulo has short hair.",
+        "ar": "العم باولو لديه شعر قصير."
+      }
+    },
+    {
+      "pt": "a avó",
+      "ipa": "/a aˈvɔ/",
+      "en": "the grandmother",
+      "ar": "الجدة",
+      "example": {
+        "pt": "Lucas, me conta sobre a sua família.",
+        "en": "Lucas, tell me about your family.",
+        "ar": "لوكاس، حدثني عن عائلتك."
+      }
+    },
+    {
+      "pt": "o marido",
+      "ipa": "/u maˈɾi.du/",
+      "en": "the husband",
+      "ar": "الزوج",
+      "example": {
+        "pt": "O tio Paulo tem cabelo curto.",
+        "en": "Uncle Paulo has short hair.",
+        "ar": "العم باولو لديه شعر قصير."
+      }
+    },
+    {
+      "pt": "a esposa",
+      "ipa": "/a isˈpɔ.za/",
+      "en": "the wife",
+      "ar": "الزوجة",
+      "example": {
+        "pt": "Lucas, me conta sobre a sua família.",
+        "en": "Lucas, tell me about your family.",
+        "ar": "لوكاس، حدثني عن عائلتك."
+      }
+    },
+    {
+      "pt": "meu",
+      "ipa": "/mew/",
+      "en": "my (m)",
+      "ar": "ملكي (مذكر)",
+      "example": {
+        "pt": "Meu pai é engenheiro e minha mãe é professora.",
+        "en": "My father is an engineer and my mother is a teacher.",
+        "ar": "أبي مهندس وأمي معلمة."
+      }
+    },
+    {
+      "pt": "minha",
+      "ipa": "/ˈmĩ.ɲa/",
+      "en": "my (f)",
+      "ar": "ملكي (مؤنث)",
+      "example": {
+        "pt": "Meu pai é engenheiro e minha mãe é professora.",
+        "en": "My father is an engineer and my mother is a teacher.",
+        "ar": "أبي مهندس وأمي معلمة."
+      }
+    },
+    {
+      "pt": "seu/sua",
+      "ipa": "/sew/ /ˈsu.a/",
+      "en": "your/his/her",
+      "ar": "ملكك / ملكه",
+      "example": {
+        "pt": "Lucas, me conta sobre a sua família.",
+        "en": "Lucas, tell me about your family.",
+        "ar": "لوكاس، حدثني عن عائلتك."
+      }
+    },
+    {
+      "pt": "o primo",
+      "ipa": "/u ˈpɾi.mu/",
+      "en": "the cousin (m)",
+      "ar": "ابن العم / الخال",
+      "example": {
+        "pt": "O tio Paulo tem cabelo curto.",
+        "en": "Uncle Paulo has short hair.",
+        "ar": "العم باولو لديه شعر قصير."
+      }
+    },
+    {
+      "pt": "a tia",
+      "ipa": "/a ˈtʃi.a/",
+      "en": "the aunt",
+      "ar": "العمة / الخالة",
+      "example": {
+        "pt": "Lucas, me conta sobre a sua família.",
+        "en": "Lucas, tell me about your family.",
+        "ar": "لوكاس، حدثني عن عائلتك."
+      }
+    },
+    {
+      "pt": "o tio",
+      "ipa": "/u ˈtʃi.u/",
+      "en": "the uncle",
+      "ar": "العم / الخال",
+      "example": {
+        "pt": "O tio Paulo tem cabelo curto.",
+        "en": "Uncle Paulo has short hair.",
+        "ar": "العم باولو لديه شعر قصير."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "title": {
+        "pt": "Possessivos",
+        "en": "Possessives",
+        "ar": "ضمائر الملكية"
+      },
+      "explanation": {
+        "pt": "Possessivos: meu/minha (my), seu/sua (your/his/her), nosso/nossa (our), seu/sua deles (their). Eles concordam em gênero com o substantivo: meu pai, minha mãe, nosso carro, nossa casa.",
+        "en": "Possessives: meu/minha (my), seu/sua (your/his/her), nosso/nossa (our), seu/sua (their). They agree in gender with the noun: meu pai (my father), minha mãe (my mother), nosso carro (our car), nossa casa (our house).",
+        "ar": "ضمائر الملكية: meu/minha (ملكي)، seu/sua (ملكك / ملكه)، nosso/nossa (ملكنا)، seu/sua (ملكهم). تتطابق في الجنس مع الاسم: meu pai (أبي)، minha mãe (أمي)، nosso carro (سيارتنا)، nossa casa (منزلنا)."
+      },
+      "examples": [
+        {
+          "pt": "Minha mãe é médica.",
+          "en": "My mother is a doctor.",
+          "ar": "أمي طبيبة."
+        },
+        {
+          "pt": "Seu irmão estuda aqui.",
+          "en": "Your/his brother studies here.",
+          "ar": "أخوك يدرس هنا."
+        },
+        {
+          "pt": "Nossa família é grande.",
+          "en": "Our family is big.",
+          "ar": "عائلتنا كبيرة."
+        }
+      ]
+    },
+    {
+      "title": {
+        "pt": "Descrevendo Pessoas",
+        "en": "Describing People",
+        "ar": "وصف الأشخاص"
+      },
+      "explanation": {
+        "pt": "Para descrever pessoas usamos ser + adjetivo: Ele é alto, ela é simpática. Para idade: Ele tem 40 anos. Para características físicas: cabelo (hair), olhos (eyes), alto/baixo (tall/short).",
+        "en": "To describe people we use ser + adjective: Ele é alto (He is tall), ela é simpática (She is friendly). For age: Ele tem 40 anos (He is 40). For physical features: cabelo (hair), olhos (eyes), alto/baixo (tall/short).",
+        "ar": "لوصف الأشخاص نستخدم ser + صفة: Ele é alto (هو طويل)، ela é simpática (هي ودودة). للعمر: Ele tem 40 anos (عمره 40). للصفات الجسدية: cabelo (شعر)، olhos (عيون)، alto/baixo (طويل/قصير)."
+      },
+      "examples": [
+        {
+          "pt": "Meu avô tem oitenta anos.",
+          "en": "My grandfather is eighty years old.",
+          "ar": "جدي عمره ثمانون عامًا."
+        },
+        {
+          "pt": "Minha irmã é baixa e simpática.",
+          "en": "My sister is short and friendly.",
+          "ar": "أختي قصيرة وودودة."
+        },
+        {
+          "pt": "O tio Paulo tem cabelo curto.",
+          "en": "Uncle Paulo has short hair.",
+          "ar": "العم باولو لديه شعر قصير."
+        }
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": {
+      "pt": "A Família de Lucas",
+      "en": "Lucas's Family",
+      "ar": "عائلة لوكاس"
+    },
+    "lines": [
+      {
+        "speaker": "Ana",
+        "pt": "Lucas, me conta sobre a sua família.",
+        "en": "Lucas, tell me about your family.",
+        "ar": "لوكاس، حدثني عن عائلتك."
+      },
+      {
+        "speaker": "Lucas",
+        "pt": "Meu pai é engenheiro e minha mãe é professora.",
+        "en": "My father is an engineer and my mother is a teacher.",
+        "ar": "أبي مهندس وأمي معلمة."
+      },
+      {
+        "speaker": "Ana",
+        "pt": "Você tem irmãos?",
+        "en": "Do you have siblings?",
+        "ar": "هل لديك إخوة؟"
+      },
+      {
+        "speaker": "Lucas",
+        "pt": "Sim, tenho uma irmã mais nova. Ela tem quinze anos.",
+        "en": "Yes, I have a younger sister. She is fifteen.",
+        "ar": "نعم، لدي أخت أصغر. عمرها خمسة عشر عامًا."
+      },
+      {
+        "speaker": "Ana",
+        "pt": "E os seus avós?",
+        "en": "And your grandparents?",
+        "ar": "وأجدادك؟"
+      },
+      {
+        "speaker": "Lucas",
+        "pt": "Meus avós moram com a gente. São muito queridos.",
+        "en": "My grandparents live with us. They are very dear.",
+        "ar": "يعيش أجدادي معنا. إنهم عزيزون جدًا."
+      }
+    ]
+  },
+  "reading": {
+    "title": {
+      "pt": "Família Brasileira",
+      "en": "Brazilian Family",
+      "ar": "عائلة برازيلية"
+    },
+    "text_pt": "A família de João é grande. O pai dele é médico e a mãe é dentista. João tem dois irmãos e uma irmã. Os avós moram em outra cidade. Nos domingos, a família toda se reúne para almoçar. Eles são muito unidos.",
+    "text_en": "João's family is big. His father is a doctor and his mother is a dentist. João has two brothers and one sister. The grandparents live in another city. On Sundays, the whole family gathers for lunch. They are very close.",
+    "text_ar": "عائلة جواو كبيرة. والده طبيب ووالدته طبيبة أسنان. لدى جواو شقيقان وأخت واحدة. يعيش الجدّان في مدينة أخرى. في أيام الأحد، تجتمع العائلة كلها لتناول الغداء. إنهم متحابون جدًا."
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Como se diz 'mother' em português?",
+        "en": "How do you say 'mother' in Portuguese?",
+        "ar": "كيف تقول 'mother' بالبرتغالية؟"
+      },
+      "options": [
+        {
+          "pt": "pai",
+          "en": "pai",
+          "ar": "pai"
+        },
+        {
+          "pt": "mãe",
+          "en": "mãe",
+          "ar": "mãe"
+        },
+        {
+          "pt": "avó",
+          "en": "avó",
+          "ar": "avó"
+        }
+      ],
+      "answer": "mãe",
+      "explanation": {
+        "pt": "'Mãe' significa mother.",
+        "en": "'Mãe' means mother.",
+        "ar": "'mãe' تعني الأم."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "___ pai é médico. (my)",
+        "en": "___ father is a doctor. (my)",
+        "ar": "___ أبي طبيب. (ملكي)"
+      },
+      "options": [
+        {
+          "pt": "Minha",
+          "en": "Minha",
+          "ar": "Minha"
+        },
+        {
+          "pt": "Meu",
+          "en": "Meu",
+          "ar": "Meu"
+        },
+        {
+          "pt": "Nossa",
+          "en": "Nossa",
+          "ar": "Nossa"
+        }
+      ],
+      "answer": "Meu",
+      "explanation": {
+        "pt": "'pai' é masculino: meu pai.",
+        "en": "'pai' is masculine: meu pai.",
+        "ar": "'pai' مذكر: meu pai."
+      }
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza: 'my grandmother'",
+        "en": "Translate: 'my grandmother'",
+        "ar": "ترجم: 'my grandmother'"
+      },
+      "options": [],
+      "answer": "minha avó",
+      "explanation": {
+        "pt": "'Minha avó' - avó é feminino.",
+        "en": "'Minha avó' - avó is feminine.",
+        "ar": "'Minha avó' - avó مؤنثة."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "me",
+          "en": "me",
+          "ar": "me"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "Lucas,",
+          "en": "Lucas,",
+          "ar": "Lucas,"
+        },
+        {
+          "pt": "sobre",
+          "en": "sobre",
+          "ar": "sobre"
+        },
+        {
+          "pt": "sua",
+          "en": "sua",
+          "ar": "sua"
+        },
+        {
+          "pt": "conta",
+          "en": "conta",
+          "ar": "conta"
+        },
+        {
+          "pt": "família.",
+          "en": "família.",
+          "ar": "família."
+        }
+      ],
+      "answer": "Lucas, me conta sobre a sua família.",
+      "accepted": [
+        "Lucas, me conta sobre a sua família."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Lucas, me conta sobre a sua família.'",
+        "en": "The correct order: 'Lucas, tell me about your family.'",
+        "ar": "الترتيب الصحيح: 'لوكاس، حدثني عن عائلتك.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a família",
+          "en": "the mother",
+          "ar": "a família"
+        },
+        {
+          "pt": "a irmã",
+          "en": "the son",
+          "ar": "a irmã"
+        },
+        {
+          "pt": "o irmão",
+          "en": "the brother",
+          "ar": "o irmão"
+        },
+        {
+          "pt": "o filho",
+          "en": "the sister",
+          "ar": "o filho"
+        },
+        {
+          "pt": "a mãe",
+          "en": "the family",
+          "ar": "a mãe"
+        },
+        {
+          "pt": "o pai",
+          "en": "the father",
+          "ar": "o pai"
+        }
+      ],
+      "answer": "a família::the mother|a irmã::the son|o irmão::the brother|o filho::the sister|a mãe::the family|o pai::the father",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Meus avós moram com a gente. São muito queridos.",
+          "en": "Do you have siblings?",
+          "ar": "هل لديك إخوة؟"
+        },
+        {
+          "pt": "Lucas, me conta sobre a sua família.",
+          "en": "My grandparents live with us. They are very dear.",
+          "ar": "يعيش أجدادي معنا. إنهم عزيزون جدًا."
+        },
+        {
+          "pt": "Você tem irmãos?",
+          "en": "Lucas, tell me about your family.",
+          "ar": "لوكاس، حدثني عن عائلتك."
+        }
+      ],
+      "answer": "Lucas, me conta sobre a sua família.",
+      "accepted": [],
+      "audio": "Lucas, me conta sobre a sua família.",
+      "explanation": {
+        "pt": "Você ouviu: 'Lucas, me conta sobre a sua família.' — 'Lucas, tell me about your family.'",
+        "en": "You heard: 'Lucas, me conta sobre a sua família.' — 'Lucas, tell me about your family.'",
+        "ar": "سمعت: 'Lucas, me conta sobre a sua família.' — 'لوكاس، حدثني عن عائلتك.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Meus avós moram com a gente. São muito queridos.",
+          "en": "My father is an engineer and my mother is a teacher.",
+          "ar": "أبي مهندس وأمي معلمة."
+        },
+        {
+          "pt": "Meu pai é engenheiro e minha mãe é professora.",
+          "en": "And your grandparents?",
+          "ar": "وأجدادك؟"
+        },
+        {
+          "pt": "E os seus avós?",
+          "en": "My grandparents live with us. They are very dear.",
+          "ar": "يعيش أجدادي معنا. إنهم عزيزون جدًا."
+        }
+      ],
+      "answer": "Meu pai é engenheiro e minha mãe é professora.",
+      "accepted": [],
+      "audio": "Meu pai é engenheiro e minha mãe é professora.",
+      "explanation": {
+        "pt": "Você ouviu: 'Meu pai é engenheiro e minha mãe é professora.' — 'My father is an engineer and my mother is a teacher.'",
+        "en": "You heard: 'Meu pai é engenheiro e minha mãe é professora.' — 'My father is an engineer and my mother is a teacher.'",
+        "ar": "سمعت: 'Meu pai é engenheiro e minha mãe é professora.' — 'أبي مهندس وأمي معلمة.'"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Minha ___ é médica.",
+        "en": "Minha ___ é médica.",
+        "ar": "Minha ___ é médica."
+      },
+      "options": [
+        {
+          "pt": "irmão",
+          "en": "irmão",
+          "ar": "irmão"
+        },
+        {
+          "pt": "mãe",
+          "en": "mãe",
+          "ar": "mãe"
+        },
+        {
+          "pt": "família",
+          "en": "família",
+          "ar": "família"
+        }
+      ],
+      "answer": "mãe",
+      "accepted": [],
+      "explanation": {
+        "pt": "A resposta é 'mãe'. Frase completa: Minha mãe é médica.",
+        "en": "The answer is 'mãe'. Full sentence: My mother is a doctor.",
+        "ar": "الإجابة الصحيحة: 'mãe'. الجملة كاملة: أمي طبيبة."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "sua",
+          "en": "sua",
+          "ar": "sua"
+        },
+        {
+          "pt": "sobre",
+          "en": "sobre",
+          "ar": "sobre"
+        },
+        {
+          "pt": "conta",
+          "en": "conta",
+          "ar": "conta"
+        },
+        {
+          "pt": "Lucas,",
+          "en": "Lucas,",
+          "ar": "Lucas,"
+        },
+        {
+          "pt": "me",
+          "en": "me",
+          "ar": "me"
+        },
+        {
+          "pt": "família.",
+          "en": "família.",
+          "ar": "família."
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        }
+      ],
+      "answer": "Lucas, me conta sobre a sua família.",
+      "accepted": [
+        "Lucas, me conta sobre a sua família."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Lucas, me conta sobre a sua família.'",
+        "en": "The correct order: 'Lucas, tell me about your family.'",
+        "ar": "الترتيب الصحيح: 'لوكاس، حدثني عن عائلتك.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a família",
+          "en": "the mother",
+          "ar": "a família"
+        },
+        {
+          "pt": "a irmã",
+          "en": "the brother",
+          "ar": "a irmã"
+        },
+        {
+          "pt": "o irmão",
+          "en": "the family",
+          "ar": "o irmão"
+        },
+        {
+          "pt": "a mãe",
+          "en": "the father",
+          "ar": "a mãe"
+        },
+        {
+          "pt": "o filho",
+          "en": "the sister",
+          "ar": "o filho"
+        },
+        {
+          "pt": "o pai",
+          "en": "the son",
+          "ar": "o pai"
+        }
+      ],
+      "answer": "a família::the mother|a irmã::the brother|o irmão::the family|a mãe::the father|o filho::the sister|o pai::the son",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Lucas, me conta sobre a sua família.",
+          "en": "My grandparents live with us. They are very dear.",
+          "ar": "نعم، لدي أخت أصغر. عمرها خمسة عشر عامًا."
+        },
+        {
+          "pt": "Sim, tenho uma irmã mais nova. Ela tem quinze anos.",
+          "en": "Yes, I have a younger sister. She is fifteen.",
+          "ar": "لوكاس، حدثني عن عائلتك."
+        },
+        {
+          "pt": "Meus avós moram com a gente. São muito queridos.",
+          "en": "Lucas, tell me about your family.",
+          "ar": "يعيش أجدادي معنا. إنهم عزيزون جدًا."
+        }
+      ],
+      "answer": "Lucas, me conta sobre a sua família.",
+      "accepted": [],
+      "audio": "Lucas, me conta sobre a sua família.",
+      "explanation": {
+        "pt": "Você ouviu: 'Lucas, me conta sobre a sua família.' — 'Lucas, tell me about your family.'",
+        "en": "You heard: 'Lucas, me conta sobre a sua família.' — 'Lucas, tell me about your family.'",
+        "ar": "سمعت: 'Lucas, me conta sobre a sua família.' — 'لوكاس، حدثني عن عائلتك.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Você tem irmãos?",
+          "en": "Do you have siblings?",
+          "ar": "أبي مهندس وأمي معلمة."
+        },
+        {
+          "pt": "Meu pai é engenheiro e minha mãe é professora.",
+          "en": "My father is an engineer and my mother is a teacher.",
+          "ar": "هل لديك إخوة؟"
+        },
+        {
+          "pt": "Lucas, me conta sobre a sua família.",
+          "en": "Lucas, tell me about your family.",
+          "ar": "لوكاس، حدثني عن عائلتك."
+        }
+      ],
+      "answer": "Meu pai é engenheiro e minha mãe é professora.",
+      "accepted": [],
+      "audio": "Meu pai é engenheiro e minha mãe é professora.",
+      "explanation": {
+        "pt": "Você ouviu: 'Meu pai é engenheiro e minha mãe é professora.' — 'My father is an engineer and my mother is a teacher.'",
+        "en": "You heard: 'Meu pai é engenheiro e minha mãe é professora.' — 'My father is an engineer and my mother is a teacher.'",
+        "ar": "سمعت: 'Meu pai é engenheiro e minha mãe é professora.' — 'أبي مهندس وأمي معلمة.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "sua",
+          "en": "sua",
+          "ar": "sua"
+        },
+        {
+          "pt": "sobre",
+          "en": "sobre",
+          "ar": "sobre"
+        },
+        {
+          "pt": "família.",
+          "en": "família.",
+          "ar": "família."
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "Lucas,",
+          "en": "Lucas,",
+          "ar": "Lucas,"
+        },
+        {
+          "pt": "conta",
+          "en": "conta",
+          "ar": "conta"
+        },
+        {
+          "pt": "me",
+          "en": "me",
+          "ar": "me"
+        }
+      ],
+      "answer": "Lucas, me conta sobre a sua família.",
+      "accepted": [
+        "Lucas, me conta sobre a sua família."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Lucas, me conta sobre a sua família.'",
+        "en": "The correct order: 'Lucas, tell me about your family.'",
+        "ar": "الترتيب الصحيح: 'لوكاس، حدثني عن عائلتك.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a família",
+          "en": "the brother",
+          "ar": "a família"
+        },
+        {
+          "pt": "o pai",
+          "en": "the son",
+          "ar": "o pai"
+        },
+        {
+          "pt": "a irmã",
+          "en": "the mother",
+          "ar": "a irmã"
+        },
+        {
+          "pt": "o irmão",
+          "en": "the family",
+          "ar": "o irmão"
+        },
+        {
+          "pt": "a mãe",
+          "en": "the sister",
+          "ar": "a mãe"
+        },
+        {
+          "pt": "o filho",
+          "en": "the father",
+          "ar": "o filho"
+        }
+      ],
+      "answer": "a família::the brother|o pai::the son|a irmã::the mother|o irmão::the family|a mãe::the sister|o filho::the father",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Você tem irmãos?",
+          "en": "Lucas, tell me about your family.",
+          "ar": "هل لديك إخوة؟"
+        },
+        {
+          "pt": "Lucas, me conta sobre a sua família.",
+          "en": "Yes, I have a younger sister. She is fifteen.",
+          "ar": "نعم، لدي أخت أصغر. عمرها خمسة عشر عامًا."
+        },
+        {
+          "pt": "Sim, tenho uma irmã mais nova. Ela tem quinze anos.",
+          "en": "Do you have siblings?",
+          "ar": "لوكاس، حدثني عن عائلتك."
+        }
+      ],
+      "answer": "Lucas, me conta sobre a sua família.",
+      "accepted": [],
+      "audio": "Lucas, me conta sobre a sua família.",
+      "explanation": {
+        "pt": "Você ouviu: 'Lucas, me conta sobre a sua família.' — 'Lucas, tell me about your family.'",
+        "en": "You heard: 'Lucas, me conta sobre a sua família.' — 'Lucas, tell me about your family.'",
+        "ar": "سمعت: 'Lucas, me conta sobre a sua família.' — 'لوكاس، حدثني عن عائلتك.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Meu pai é engenheiro e minha mãe é professora.",
+          "en": "My grandparents live with us. They are very dear.",
+          "ar": "أبي مهندس وأمي معلمة."
+        },
+        {
+          "pt": "Meus avós moram com a gente. São muito queridos.",
+          "en": "My father is an engineer and my mother is a teacher.",
+          "ar": "يعيش أجدادي معنا. إنهم عزيزون جدًا."
+        },
+        {
+          "pt": "Sim, tenho uma irmã mais nova. Ela tem quinze anos.",
+          "en": "Yes, I have a younger sister. She is fifteen.",
+          "ar": "نعم، لدي أخت أصغر. عمرها خمسة عشر عامًا."
+        }
+      ],
+      "answer": "Meu pai é engenheiro e minha mãe é professora.",
+      "accepted": [],
+      "audio": "Meu pai é engenheiro e minha mãe é professora.",
+      "explanation": {
+        "pt": "Você ouviu: 'Meu pai é engenheiro e minha mãe é professora.' — 'My father is an engineer and my mother is a teacher.'",
+        "en": "You heard: 'Meu pai é engenheiro e minha mãe é professora.' — 'My father is an engineer and my mother is a teacher.'",
+        "ar": "سمعت: 'Meu pai é engenheiro e minha mãe é professora.' — 'أبي مهندس وأمي معلمة.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "sobre",
+          "en": "sobre",
+          "ar": "sobre"
+        },
+        {
+          "pt": "me",
+          "en": "me",
+          "ar": "me"
+        },
+        {
+          "pt": "família.",
+          "en": "família.",
+          "ar": "família."
+        },
+        {
+          "pt": "Lucas,",
+          "en": "Lucas,",
+          "ar": "Lucas,"
+        },
+        {
+          "pt": "conta",
+          "en": "conta",
+          "ar": "conta"
+        },
+        {
+          "pt": "sua",
+          "en": "sua",
+          "ar": "sua"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        }
+      ],
+      "answer": "Lucas, me conta sobre a sua família.",
+      "accepted": [
+        "Lucas, me conta sobre a sua família."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Lucas, me conta sobre a sua família.'",
+        "en": "The correct order: 'Lucas, tell me about your family.'",
+        "ar": "الترتيب الصحيح: 'لوكاس، حدثني عن عائلتك.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o irmão",
+          "en": "the mother",
+          "ar": "o irmão"
+        },
+        {
+          "pt": "a mãe",
+          "en": "the father",
+          "ar": "a mãe"
+        },
+        {
+          "pt": "a irmã",
+          "en": "the brother",
+          "ar": "a irmã"
+        },
+        {
+          "pt": "a família",
+          "en": "the family",
+          "ar": "a família"
+        },
+        {
+          "pt": "o pai",
+          "en": "the sister",
+          "ar": "o pai"
+        },
+        {
+          "pt": "o filho",
+          "en": "the son",
+          "ar": "o filho"
+        }
+      ],
+      "answer": "o irmão::the mother|a mãe::the father|a irmã::the brother|a família::the family|o pai::the sister|o filho::the son",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim, tenho uma irmã mais nova. Ela tem quinze anos.",
+          "en": "My father is an engineer and my mother is a teacher.",
+          "ar": "أبي مهندس وأمي معلمة."
+        },
+        {
+          "pt": "Lucas, me conta sobre a sua família.",
+          "en": "Lucas, tell me about your family.",
+          "ar": "لوكاس، حدثني عن عائلتك."
+        },
+        {
+          "pt": "Meu pai é engenheiro e minha mãe é professora.",
+          "en": "Yes, I have a younger sister. She is fifteen.",
+          "ar": "نعم، لدي أخت أصغر. عمرها خمسة عشر عامًا."
+        }
+      ],
+      "answer": "Lucas, me conta sobre a sua família.",
+      "accepted": [],
+      "audio": "Lucas, me conta sobre a sua família.",
+      "explanation": {
+        "pt": "Você ouviu: 'Lucas, me conta sobre a sua família.' — 'Lucas, tell me about your family.'",
+        "en": "You heard: 'Lucas, me conta sobre a sua família.' — 'Lucas, tell me about your family.'",
+        "ar": "سمعت: 'Lucas, me conta sobre a sua família.' — 'لوكاس، حدثني عن عائلتك.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim, tenho uma irmã mais nova. Ela tem quinze anos.",
+          "en": "My father is an engineer and my mother is a teacher.",
+          "ar": "هل لديك إخوة؟"
+        },
+        {
+          "pt": "Meu pai é engenheiro e minha mãe é professora.",
+          "en": "Do you have siblings?",
+          "ar": "أبي مهندس وأمي معلمة."
+        },
+        {
+          "pt": "Você tem irmãos?",
+          "en": "Yes, I have a younger sister. She is fifteen.",
+          "ar": "نعم، لدي أخت أصغر. عمرها خمسة عشر عامًا."
+        }
+      ],
+      "answer": "Meu pai é engenheiro e minha mãe é professora.",
+      "accepted": [],
+      "audio": "Meu pai é engenheiro e minha mãe é professora.",
+      "explanation": {
+        "pt": "Você ouviu: 'Meu pai é engenheiro e minha mãe é professora.' — 'My father is an engineer and my mother is a teacher.'",
+        "en": "You heard: 'Meu pai é engenheiro e minha mãe é professora.' — 'My father is an engineer and my mother is a teacher.'",
+        "ar": "سمعت: 'Meu pai é engenheiro e minha mãe é professora.' — 'أبي مهندس وأمي معلمة.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Lucas,",
+          "en": "Lucas,",
+          "ar": "Lucas,"
+        },
+        {
+          "pt": "sobre",
+          "en": "sobre",
+          "ar": "sobre"
+        },
+        {
+          "pt": "sua",
+          "en": "sua",
+          "ar": "sua"
+        },
+        {
+          "pt": "me",
+          "en": "me",
+          "ar": "me"
+        },
+        {
+          "pt": "conta",
+          "en": "conta",
+          "ar": "conta"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "família.",
+          "en": "família.",
+          "ar": "família."
+        }
+      ],
+      "answer": "Lucas, me conta sobre a sua família.",
+      "accepted": [
+        "Lucas, me conta sobre a sua família."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Lucas, me conta sobre a sua família.'",
+        "en": "The correct order: 'Lucas, tell me about your family.'",
+        "ar": "الترتيب الصحيح: 'لوكاس، حدثني عن عائلتك.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o filho",
+          "en": "the son",
+          "ar": "o filho"
+        },
+        {
+          "pt": "o pai",
+          "en": "the father",
+          "ar": "o pai"
+        },
+        {
+          "pt": "a família",
+          "en": "the family",
+          "ar": "a família"
+        },
+        {
+          "pt": "o irmão",
+          "en": "the mother",
+          "ar": "o irmão"
+        },
+        {
+          "pt": "a irmã",
+          "en": "the brother",
+          "ar": "a irmã"
+        },
+        {
+          "pt": "a mãe",
+          "en": "the sister",
+          "ar": "a mãe"
+        }
+      ],
+      "answer": "o filho::the son|o pai::the father|a família::the family|o irmão::the mother|a irmã::the brother|a mãe::the sister",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim, tenho uma irmã mais nova. Ela tem quinze anos.",
+          "en": "Lucas, tell me about your family.",
+          "ar": "لوكاس، حدثني عن عائلتك."
+        },
+        {
+          "pt": "Lucas, me conta sobre a sua família.",
+          "en": "Yes, I have a younger sister. She is fifteen.",
+          "ar": "هل لديك إخوة؟"
+        },
+        {
+          "pt": "Você tem irmãos?",
+          "en": "Do you have siblings?",
+          "ar": "نعم، لدي أخت أصغر. عمرها خمسة عشر عامًا."
+        }
+      ],
+      "answer": "Lucas, me conta sobre a sua família.",
+      "accepted": [],
+      "audio": "Lucas, me conta sobre a sua família.",
+      "explanation": {
+        "pt": "Você ouviu: 'Lucas, me conta sobre a sua família.' — 'Lucas, tell me about your family.'",
+        "en": "You heard: 'Lucas, me conta sobre a sua família.' — 'Lucas, tell me about your family.'",
+        "ar": "سمعت: 'Lucas, me conta sobre a sua família.' — 'لوكاس، حدثني عن عائلتك.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Você tem irmãos?",
+          "en": "My grandparents live with us. They are very dear.",
+          "ar": "أبي مهندس وأمي معلمة."
+        },
+        {
+          "pt": "Meu pai é engenheiro e minha mãe é professora.",
+          "en": "Do you have siblings?",
+          "ar": "هل لديك إخوة؟"
+        },
+        {
+          "pt": "Meus avós moram com a gente. São muito queridos.",
+          "en": "My father is an engineer and my mother is a teacher.",
+          "ar": "يعيش أجدادي معنا. إنهم عزيزون جدًا."
+        }
+      ],
+      "answer": "Meu pai é engenheiro e minha mãe é professora.",
+      "accepted": [],
+      "audio": "Meu pai é engenheiro e minha mãe é professora.",
+      "explanation": {
+        "pt": "Você ouviu: 'Meu pai é engenheiro e minha mãe é professora.' — 'My father is an engineer and my mother is a teacher.'",
+        "en": "You heard: 'Meu pai é engenheiro e minha mãe é professora.' — 'My father is an engineer and my mother is a teacher.'",
+        "ar": "سمعت: 'Meu pai é engenheiro e minha mãe é professora.' — 'أبي مهندس وأمي معلمة.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "família.",
+          "en": "família.",
+          "ar": "família."
+        },
+        {
+          "pt": "Lucas,",
+          "en": "Lucas,",
+          "ar": "Lucas,"
+        },
+        {
+          "pt": "sobre",
+          "en": "sobre",
+          "ar": "sobre"
+        },
+        {
+          "pt": "sua",
+          "en": "sua",
+          "ar": "sua"
+        },
+        {
+          "pt": "me",
+          "en": "me",
+          "ar": "me"
+        },
+        {
+          "pt": "conta",
+          "en": "conta",
+          "ar": "conta"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        }
+      ],
+      "answer": "Lucas, me conta sobre a sua família.",
+      "accepted": [
+        "Lucas, me conta sobre a sua família."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Lucas, me conta sobre a sua família.'",
+        "en": "The correct order: 'Lucas, tell me about your family.'",
+        "ar": "الترتيب الصحيح: 'لوكاس، حدثني عن عائلتك.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o irmão",
+          "en": "the son",
+          "ar": "o irmão"
+        },
+        {
+          "pt": "o pai",
+          "en": "the sister",
+          "ar": "o pai"
+        },
+        {
+          "pt": "a irmã",
+          "en": "the family",
+          "ar": "a irmã"
+        },
+        {
+          "pt": "o filho",
+          "en": "the father",
+          "ar": "o filho"
+        },
+        {
+          "pt": "a família",
+          "en": "the mother",
+          "ar": "a família"
+        },
+        {
+          "pt": "a mãe",
+          "en": "the brother",
+          "ar": "a mãe"
+        }
+      ],
+      "answer": "o irmão::the son|o pai::the sister|a irmã::the family|o filho::the father|a família::the mother|a mãe::the brother",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Meus avós moram com a gente. São muito queridos.",
+          "en": "My grandparents live with us. They are very dear.",
+          "ar": "لوكاس، حدثني عن عائلتك."
+        },
+        {
+          "pt": "Você tem irmãos?",
+          "en": "Do you have siblings?",
+          "ar": "هل لديك إخوة؟"
+        },
+        {
+          "pt": "Lucas, me conta sobre a sua família.",
+          "en": "Lucas, tell me about your family.",
+          "ar": "يعيش أجدادي معنا. إنهم عزيزون جدًا."
+        }
+      ],
+      "answer": "Lucas, me conta sobre a sua família.",
+      "accepted": [],
+      "audio": "Lucas, me conta sobre a sua família.",
+      "explanation": {
+        "pt": "Você ouviu: 'Lucas, me conta sobre a sua família.' — 'Lucas, tell me about your family.'",
+        "en": "You heard: 'Lucas, me conta sobre a sua família.' — 'Lucas, tell me about your family.'",
+        "ar": "سمعت: 'Lucas, me conta sobre a sua família.' — 'لوكاس، حدثني عن عائلتك.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "E os seus avós?",
+          "en": "Yes, I have a younger sister. She is fifteen.",
+          "ar": "وأجدادك؟"
+        },
+        {
+          "pt": "Meu pai é engenheiro e minha mãe é professora.",
+          "en": "And your grandparents?",
+          "ar": "نعم، لدي أخت أصغر. عمرها خمسة عشر عامًا."
+        },
+        {
+          "pt": "Sim, tenho uma irmã mais nova. Ela tem quinze anos.",
+          "en": "My father is an engineer and my mother is a teacher.",
+          "ar": "أبي مهندس وأمي معلمة."
+        }
+      ],
+      "answer": "Meu pai é engenheiro e minha mãe é professora.",
+      "accepted": [],
+      "audio": "Meu pai é engenheiro e minha mãe é professora.",
+      "explanation": {
+        "pt": "Você ouviu: 'Meu pai é engenheiro e minha mãe é professora.' — 'My father is an engineer and my mother is a teacher.'",
+        "en": "You heard: 'Meu pai é engenheiro e minha mãe é professora.' — 'My father is an engineer and my mother is a teacher.'",
+        "ar": "سمعت: 'Meu pai é engenheiro e minha mãe é professora.' — 'أبي مهندس وأمي معلمة.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "família.",
+          "en": "família.",
+          "ar": "família."
+        },
+        {
+          "pt": "sua",
+          "en": "sua",
+          "ar": "sua"
+        },
+        {
+          "pt": "Lucas,",
+          "en": "Lucas,",
+          "ar": "Lucas,"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "me",
+          "en": "me",
+          "ar": "me"
+        },
+        {
+          "pt": "sobre",
+          "en": "sobre",
+          "ar": "sobre"
+        },
+        {
+          "pt": "conta",
+          "en": "conta",
+          "ar": "conta"
+        }
+      ],
+      "answer": "Lucas, me conta sobre a sua família.",
+      "accepted": [
+        "Lucas, me conta sobre a sua família."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Lucas, me conta sobre a sua família.'",
+        "en": "The correct order: 'Lucas, tell me about your family.'",
+        "ar": "الترتيب الصحيح: 'لوكاس، حدثني عن عائلتك.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a irmã",
+          "en": "the family",
+          "ar": "a irmã"
+        },
+        {
+          "pt": "a mãe",
+          "en": "the sister",
+          "ar": "a mãe"
+        },
+        {
+          "pt": "o irmão",
+          "en": "the father",
+          "ar": "o irmão"
+        },
+        {
+          "pt": "o filho",
+          "en": "the son",
+          "ar": "o filho"
+        },
+        {
+          "pt": "a família",
+          "en": "the brother",
+          "ar": "a família"
+        },
+        {
+          "pt": "o pai",
+          "en": "the mother",
+          "ar": "o pai"
+        }
+      ],
+      "answer": "a irmã::the family|a mãe::the sister|o irmão::the father|o filho::the son|a família::the brother|o pai::the mother",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim, tenho uma irmã mais nova. Ela tem quinze anos.",
+          "en": "My father is an engineer and my mother is a teacher.",
+          "ar": "لوكاس، حدثني عن عائلتك."
+        },
+        {
+          "pt": "Lucas, me conta sobre a sua família.",
+          "en": "Yes, I have a younger sister. She is fifteen.",
+          "ar": "نعم، لدي أخت أصغر. عمرها خمسة عشر عامًا."
+        },
+        {
+          "pt": "Meu pai é engenheiro e minha mãe é professora.",
+          "en": "Lucas, tell me about your family.",
+          "ar": "أبي مهندس وأمي معلمة."
+        }
+      ],
+      "answer": "Lucas, me conta sobre a sua família.",
+      "accepted": [],
+      "audio": "Lucas, me conta sobre a sua família.",
+      "explanation": {
+        "pt": "Você ouviu: 'Lucas, me conta sobre a sua família.' — 'Lucas, tell me about your family.'",
+        "en": "You heard: 'Lucas, me conta sobre a sua família.' — 'Lucas, tell me about your family.'",
+        "ar": "سمعت: 'Lucas, me conta sobre a sua família.' — 'لوكاس، حدثني عن عائلتك.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Você tem irmãos?",
+          "en": "And your grandparents?",
+          "ar": "وأجدادك؟"
+        },
+        {
+          "pt": "Meu pai é engenheiro e minha mãe é professora.",
+          "en": "My father is an engineer and my mother is a teacher.",
+          "ar": "أبي مهندس وأمي معلمة."
+        },
+        {
+          "pt": "E os seus avós?",
+          "en": "Do you have siblings?",
+          "ar": "هل لديك إخوة؟"
+        }
+      ],
+      "answer": "Meu pai é engenheiro e minha mãe é professora.",
+      "accepted": [],
+      "audio": "Meu pai é engenheiro e minha mãe é professora.",
+      "explanation": {
+        "pt": "Você ouviu: 'Meu pai é engenheiro e minha mãe é professora.' — 'My father is an engineer and my mother is a teacher.'",
+        "en": "You heard: 'Meu pai é engenheiro e minha mãe é professora.' — 'My father is an engineer and my mother is a teacher.'",
+        "ar": "سمعت: 'Meu pai é engenheiro e minha mãe é professora.' — 'أبي مهندس وأمي معلمة.'"
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'the family'",
+        "en": "Type in Portuguese: 'the family'",
+        "ar": "اكتب بالبرتغالية: 'العائلة'"
+      },
+      "options": [],
+      "answer": "a família",
+      "accepted": [
+        "a família"
+      ],
+      "explanation": {
+        "pt": "'a família' significa 'the family'.",
+        "en": "'a família' means 'the family'.",
+        "ar": "'$a família' بالعربية: '$العائلة'."
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'the father'",
+        "en": "Type in Portuguese: 'the father'",
+        "ar": "اكتب بالبرتغالية: 'الأب'"
+      },
+      "options": [],
+      "answer": "o pai",
+      "accepted": [
+        "o pai"
+      ],
+      "explanation": {
+        "pt": "'o pai' significa 'the father'.",
+        "en": "'o pai' means 'the father'.",
+        "ar": "'$o pai' بالعربية: '$الأب'."
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Lucas, me conta sobre a sua família.",
+          "en": "Lucas, me conta sobre a sua família.",
+          "ar": "Lucas, me conta sobre a sua família."
+        },
+        {
+          "pt": "Meus avós moram com a gente. São muito queridos.",
+          "en": "Meus avós moram com a gente. São muito queridos.",
+          "ar": "Meus avós moram com a gente. São muito queridos."
+        },
+        {
+          "pt": "E os seus avós?",
+          "en": "E os seus avós?",
+          "ar": "E os seus avós?"
+        }
+      ],
+      "answer": "Lucas, me conta sobre a sua família.",
+      "accepted": [],
+      "audio": "Lucas, me conta sobre a sua família.",
+      "explanation": {
+        "pt": "Você ouviu: 'Lucas, me conta sobre a sua família.'",
+        "en": "You heard: 'Lucas, me conta sobre a sua família.'",
+        "ar": "سمعت: 'Lucas, me conta sobre a sua família.'"
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Meu pai é engenheiro e minha mãe é professora.",
+          "en": "Meu pai é engenheiro e minha mãe é professora.",
+          "ar": "Meu pai é engenheiro e minha mãe é professora."
+        },
+        {
+          "pt": "Você tem irmãos?",
+          "en": "Você tem irmãos?",
+          "ar": "Você tem irmãos?"
+        },
+        {
+          "pt": "Sim, tenho uma irmã mais nova. Ela tem quinze anos.",
+          "en": "Sim, tenho uma irmã mais nova. Ela tem quinze anos.",
+          "ar": "Sim, tenho uma irmã mais nova. Ela tem quinze anos."
+        }
+      ],
+      "answer": "Meu pai é engenheiro e minha mãe é professora.",
+      "accepted": [],
+      "audio": "Meu pai é engenheiro e minha mãe é professora.",
+      "explanation": {
+        "pt": "Você ouviu: 'Meu pai é engenheiro e minha mãe é professora.'",
+        "en": "You heard: 'Meu pai é engenheiro e minha mãe é professora.'",
+        "ar": "سمعت: 'Meu pai é engenheiro e minha mãe é professora.'"
+      }
+    },
+    {
+      "type": "dictation",
+      "prompt": {
+        "pt": "Ouça e escreva o que você ouviu.",
+        "en": "Listen and type what you hear.",
+        "ar": "استمع واكتب ما سمعته."
+      },
+      "options": [],
+      "answer": "Lucas, me conta sobre a sua família.",
+      "accepted": [],
+      "audio": "Lucas, me conta sobre a sua família.",
+      "explanation": {
+        "pt": "A frase correta: 'Lucas, me conta sobre a sua família.'",
+        "en": "The correct sentence: 'Lucas, me conta sobre a sua família.'",
+        "ar": "الجملة الصحيحة: 'Lucas, me conta sobre a sua família.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "família.",
+          "en": "família.",
+          "ar": "família."
+        },
+        {
+          "pt": "sobre",
+          "en": "sobre",
+          "ar": "sobre"
+        },
+        {
+          "pt": "Lucas,",
+          "en": "Lucas,",
+          "ar": "Lucas,"
+        },
+        {
+          "pt": "me",
+          "en": "me",
+          "ar": "me"
+        },
+        {
+          "pt": "sua",
+          "en": "sua",
+          "ar": "sua"
+        },
+        {
+          "pt": "conta",
+          "en": "conta",
+          "ar": "conta"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        }
+      ],
+      "answer": "Lucas, me conta sobre a sua família.",
+      "accepted": [
+        "Lucas, me conta sobre a sua família."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Lucas, me conta sobre a sua família.'",
+        "en": "The correct order: 'Lucas, tell me about your family.'",
+        "ar": "الترتيب الصحيح: 'لوكاس، حدثني عن عائلتك.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o irmão",
+          "en": "the son",
+          "ar": "o irmão"
+        },
+        {
+          "pt": "a mãe",
+          "en": "the brother",
+          "ar": "a mãe"
+        },
+        {
+          "pt": "o filho",
+          "en": "the sister",
+          "ar": "o filho"
+        },
+        {
+          "pt": "a irmã",
+          "en": "the family",
+          "ar": "a irmã"
+        },
+        {
+          "pt": "a família",
+          "en": "the father",
+          "ar": "a família"
+        },
+        {
+          "pt": "o pai",
+          "en": "the mother",
+          "ar": "o pai"
+        }
+      ],
+      "answer": "o irmão::the son|a mãe::the brother|o filho::the sister|a irmã::the family|a família::the father|o pai::the mother",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Meu pai é engenheiro e minha mãe é professora.",
+          "en": "My father is an engineer and my mother is a teacher.",
+          "ar": "يعيش أجدادي معنا. إنهم عزيزون جدًا."
+        },
+        {
+          "pt": "Lucas, me conta sobre a sua família.",
+          "en": "My grandparents live with us. They are very dear.",
+          "ar": "أبي مهندس وأمي معلمة."
+        },
+        {
+          "pt": "Meus avós moram com a gente. São muito queridos.",
+          "en": "Lucas, tell me about your family.",
+          "ar": "لوكاس، حدثني عن عائلتك."
+        }
+      ],
+      "answer": "Lucas, me conta sobre a sua família.",
+      "accepted": [],
+      "audio": "Lucas, me conta sobre a sua família.",
+      "explanation": {
+        "pt": "Você ouviu: 'Lucas, me conta sobre a sua família.' — 'Lucas, tell me about your family.'",
+        "en": "You heard: 'Lucas, me conta sobre a sua família.' — 'Lucas, tell me about your family.'",
+        "ar": "سمعت: 'Lucas, me conta sobre a sua família.' — 'لوكاس، حدثني عن عائلتك.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim, tenho uma irmã mais nova. Ela tem quinze anos.",
+          "en": "Yes, I have a younger sister. She is fifteen.",
+          "ar": "نعم، لدي أخت أصغر. عمرها خمسة عشر عامًا."
+        },
+        {
+          "pt": "Meu pai é engenheiro e minha mãe é professora.",
+          "en": "And your grandparents?",
+          "ar": "وأجدادك؟"
+        },
+        {
+          "pt": "E os seus avós?",
+          "en": "My father is an engineer and my mother is a teacher.",
+          "ar": "أبي مهندس وأمي معلمة."
+        }
+      ],
+      "answer": "Meu pai é engenheiro e minha mãe é professora.",
+      "accepted": [],
+      "audio": "Meu pai é engenheiro e minha mãe é professora.",
+      "explanation": {
+        "pt": "Você ouviu: 'Meu pai é engenheiro e minha mãe é professora.' — 'My father is an engineer and my mother is a teacher.'",
+        "en": "You heard: 'Meu pai é engenheiro e minha mãe é professora.' — 'My father is an engineer and my mother is a teacher.'",
+        "ar": "سمعت: 'Meu pai é engenheiro e minha mãe é professora.' — 'أبي مهندس وأمي معلمة.'"
+      }
+    }
+  ],
+  "speaking": {
+    "title": {
+      "pt": "Fale Agora — Ouça e Repita",
+      "en": "Speak Now — Listen and Repeat",
+      "ar": "تحدث الآن — استمع وكرر"
+    },
+    "phrases": [
+      {
+        "pt": "Lucas, me conta sobre a sua família.",
+        "en": "Lucas, tell me about your family.",
+        "ar": "لوكاس، حدثني عن عائلتك."
+      },
+      {
+        "pt": "Meu pai é engenheiro e minha mãe é professora.",
+        "en": "My father is an engineer and my mother is a teacher.",
+        "ar": "أبي مهندس وأمي معلمة."
+      },
+      {
+        "pt": "Você tem irmãos?",
+        "en": "Do you have siblings?",
+        "ar": "هل لديك إخوة؟"
+      },
+      {
+        "pt": "Sim, tenho uma irmã mais nova. Ela tem quinze anos.",
+        "en": "Yes, I have a younger sister. She is fifteen.",
+        "ar": "نعم، لدي أخت أصغر. عمرها خمسة عشر عامًا."
+      },
+      {
+        "pt": "E os seus avós?",
+        "en": "And your grandparents?",
+        "ar": "وأجدادك؟"
+      },
+      {
+        "pt": "Meus avós moram com a gente. São muito queridos.",
+        "en": "My grandparents live with us. They are very dear.",
+        "ar": "يعيش أجدادي معنا. إنهم عزيزون جدًا."
+      },
+      {
+        "pt": "a família",
+        "en": "the family",
+        "ar": "العائلة"
+      },
+      {
+        "pt": "o pai",
+        "en": "the father",
+        "ar": "الأب"
+      },
+      {
+        "pt": "a mãe",
+        "en": "the mother",
+        "ar": "الأم"
+      }
+    ]
+  },
+  "cultural_tips": {
+    "pt": "",
+    "en": "",
+    "ar": ""
+  }
+}

@@ -1,0 +1,1971 @@
+{
+  "id": "A2-08",
+  "level": "A2",
+  "level_name": {
+    "pt": "Básico",
+    "en": "Elementary",
+    "ar": "أساسي"
+  },
+  "title": {
+    "pt": "Saúde e Corpo Humano",
+    "en": "Health and the Human Body",
+    "ar": "الصحة وجسم الإنسان"
+  },
+  "objectives": [
+    {
+      "pt": "Nomear partes do corpo e sintomas",
+      "en": "Name body parts and symptoms",
+      "ar": "تسمية أجزاء الجسم والأعراض"
+    },
+    {
+      "pt": "Descrever como você está se sentindo",
+      "en": "Describe how you are feeling",
+      "ar": "وصف شعورك"
+    },
+    {
+      "pt": "Falar com o médico e comprar remédios",
+      "en": "Talk to the doctor and buy medicine",
+      "ar": "التحدث مع الطبيب وشراء الأدوية"
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "a saúde",
+      "ipa": "/a saˈu.dʒi/",
+      "en": "the health",
+      "ar": "الصحة",
+      "example": {
+        "pt": "Bom dia! O que você está sentindo?",
+        "en": "Good morning! What are you feeling?",
+        "ar": "صباح الخير! بماذا تشعر؟"
+      }
+    },
+    {
+      "pt": "a cabeça",
+      "ipa": "/a kaˈbe.sa/",
+      "en": "the head",
+      "ar": "الرأس",
+      "example": {
+        "pt": "Bom dia! O que você está sentindo?",
+        "en": "Good morning! What are you feeling?",
+        "ar": "صباح الخير! بماذا تشعر؟"
+      }
+    },
+    {
+      "pt": "a garganta",
+      "ipa": "/a ɡaʁˈɡɐ̃.ta/",
+      "en": "the throat",
+      "ar": "الحلق",
+      "example": {
+        "pt": "Bom dia! O que você está sentindo?",
+        "en": "Good morning! What are you feeling?",
+        "ar": "صباح الخير! بماذا تشعر؟"
+      }
+    },
+    {
+      "pt": "a barriga",
+      "ipa": "/a baˈʁi.ɡa/",
+      "en": "the stomach / belly",
+      "ar": "البطن",
+      "example": {
+        "pt": "Bom dia! O que você está sentindo?",
+        "en": "Good morning! What are you feeling?",
+        "ar": "صباح الخير! بماذا تشعر؟"
+      }
+    },
+    {
+      "pt": "a dor",
+      "ipa": "/a doʁ/",
+      "en": "the pain",
+      "ar": "الألم",
+      "example": {
+        "pt": "Bom dia! O que você está sentindo?",
+        "en": "Good morning! What are you feeling?",
+        "ar": "صباح الخير! بماذا تشعر؟"
+      }
+    },
+    {
+      "pt": "o remédio",
+      "ipa": "/u ʁeˈmɛ.dʒi.u/",
+      "en": "the medicine",
+      "ar": "الدواء",
+      "example": {
+        "pt": "Bom dia! O que você está sentindo?",
+        "en": "Good morning! What are you feeling?",
+        "ar": "صباح الخير! بماذا تشعر؟"
+      }
+    },
+    {
+      "pt": "o médico",
+      "ipa": "/u ˈmɛ.dʒi.ku/",
+      "en": "the doctor",
+      "ar": "الطبيب",
+      "example": {
+        "pt": "Bom dia! O que você está sentindo?",
+        "en": "Good morning! What are you feeling?",
+        "ar": "صباح الخير! بماذا تشعر؟"
+      }
+    },
+    {
+      "pt": "a consulta",
+      "ipa": "/a kõˈsuw.ta/",
+      "en": "the appointment",
+      "ar": "الموعد الطبي",
+      "example": {
+        "pt": "Bom dia! O que você está sentindo?",
+        "en": "Good morning! What are you feeling?",
+        "ar": "صباح الخير! بماذا تشعر؟"
+      }
+    },
+    {
+      "pt": "doente",
+      "ipa": "/doˈẽ.tʃi/",
+      "en": "sick",
+      "ar": "مريض",
+      "example": {
+        "pt": "Bom dia! O que você está sentindo?",
+        "en": "Good morning! What are you feeling?",
+        "ar": "صباح الخير! بماذا تشعر؟"
+      }
+    },
+    {
+      "pt": "a febre",
+      "ipa": "/a ˈfɛ.bɾi/",
+      "en": "the fever",
+      "ar": "الحمى",
+      "example": {
+        "pt": "Bom dia! O que você está sentindo?",
+        "en": "Good morning! What are you feeling?",
+        "ar": "صباح الخير! بماذا تشعر؟"
+      }
+    },
+    {
+      "pt": "tossir",
+      "ipa": "/toˈsiʁ/",
+      "en": "to cough",
+      "ar": "يسعل",
+      "example": {
+        "pt": "Bom dia! O que você está sentindo?",
+        "en": "Good morning! What are you feeling?",
+        "ar": "صباح الخير! بماذا تشعر؟"
+      }
+    },
+    {
+      "pt": "a farmácia",
+      "ipa": "/a faʁˈma.si.a/",
+      "en": "the pharmacy",
+      "ar": "الصيدلية",
+      "example": {
+        "pt": "Bom dia! O que você está sentindo?",
+        "en": "Good morning! What are you feeling?",
+        "ar": "صباح الخير! بماذا تشعر؟"
+      }
+    },
+    {
+      "pt": "a receita",
+      "ipa": "/a ʁeˈsej.ta/",
+      "en": "the prescription",
+      "ar": "الوصفة الطبية",
+      "example": {
+        "pt": "Bom dia! O que você está sentindo?",
+        "en": "Good morning! What are you feeling?",
+        "ar": "صباح الخير! بماذا تشعر؟"
+      }
+    },
+    {
+      "pt": "descansar",
+      "ipa": "/dʒis.kɐ̃ˈsaʁ/",
+      "en": "to rest",
+      "ar": "يستريح",
+      "example": {
+        "pt": "Você tem que tomar este remédio e descansar.",
+        "en": "You have to take this medicine and rest.",
+        "ar": "يجب أن تتناول هذا الدواء وتستريح."
+      }
+    },
+    {
+      "pt": "melhor",
+      "ipa": "/meˈʎɔʁ/",
+      "en": "better",
+      "ar": "أفضل",
+      "example": {
+        "pt": "Eu me sinto melhor hoje.",
+        "en": "I feel better today.",
+        "ar": "أشعر بتحسن اليوم."
+      }
+    },
+    {
+      "pt": "o braço",
+      "ipa": "/u ˈbɾa.su/",
+      "en": "the arm",
+      "ar": "الذراع",
+      "example": {
+        "pt": "Bom dia! O que você está sentindo?",
+        "en": "Good morning! What are you feeling?",
+        "ar": "صباح الخير! بماذا تشعر؟"
+      }
+    },
+    {
+      "pt": "a perna",
+      "ipa": "/a ˈpeʁ.na/",
+      "en": "the leg",
+      "ar": "الساق",
+      "example": {
+        "pt": "Bom dia! O que você está sentindo?",
+        "en": "Good morning! What are you feeling?",
+        "ar": "صباح الخير! بماذا تشعر؟"
+      }
+    },
+    {
+      "pt": "sentir-se",
+      "ipa": "/sẽˈtʃiʁ si/",
+      "en": "to feel",
+      "ar": "يشعر",
+      "example": {
+        "pt": "Bom dia! O que você está sentindo?",
+        "en": "Good morning! What are you feeling?",
+        "ar": "صباح الخير! بماذا تشعر؟"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "title": {
+        "pt": "Expressões de Saúde com Estar e Sentir",
+        "en": "Health Expressions with Estar and Sentir",
+        "ar": "تعبيرات الصحة مع estar و sentir"
+      },
+      "explanation": {
+        "pt": "Para falar de saúde: 'Estou doente' (I am sick), 'Estou com dor de cabeça' (I have a headache), 'Estou com febre' (I have a fever), 'Me sinto cansado' (I feel tired), 'Estou com gripe' (I have the flu). A dor é localizada: dor de cabeça, dor de barriga, dor de garganta.",
+        "en": "To talk about health: 'Estou doente' (I am sick), 'Estou com dor de cabeça' (I have a headache), 'Estou com febre' (I have a fever), 'Me sinto cansado' (I feel tired), 'Estou com gripe' (I have the flu). The pain is located: dor de cabeça (headache), dor de barriga (stomachache), dor de garganta (sore throat).",
+        "ar": "للتحدث عن الصحة: 'Estou doente' (أنا مريض)، 'Estou com dor de cabeça' (أعاني من صداع)، 'Estou com febre' (لدي حمى)، 'Me sinto cansado' (أشعر بالتعب)، 'Estou com gripe' (لدي إنفلونزا). الألم محدد بالموقع: dor de cabeça (صداع)، dor de barriga (ألم في البطن)، dor de garganta (التهاب في الحلق)."
+      },
+      "examples": [
+        {
+          "pt": "Estou com dor de garganta.",
+          "en": "I have a sore throat.",
+          "ar": "أعاني من التهاب في الحلق."
+        },
+        {
+          "pt": "Ela está com febre desde ontem.",
+          "en": "She has had a fever since yesterday.",
+          "ar": "إنها تعاني من الحمى منذ الأمس."
+        },
+        {
+          "pt": "Eu me sinto melhor hoje.",
+          "en": "I feel better today.",
+          "ar": "أشعر بتحسن اليوم."
+        }
+      ]
+    },
+    {
+      "title": {
+        "pt": "Ter que / Dever (Obrigação e Conselho)",
+        "en": "Ter que / Dever (Obligation and Advice)",
+        "ar": "ter que / dever (الواجب والنصيحة)"
+      },
+      "explanation": {
+        "pt": "Para obrigação: 'ter que/ter de + infinitivo': 'Tenho que descansar' (I have to rest). Para conselho: 'dever + infinitivo': 'Você deve beber muita água' (You should drink a lot of water), 'Deve ir ao médico' (You should go to the doctor).",
+        "en": "For obligation: 'ter que/ter de + infinitive': 'Tenho que descansar' (I have to rest). For advice: 'dever + infinitive': 'Você deve beber muita água' (You should drink a lot of water), 'Deve ir ao médico' (You should go to the doctor).",
+        "ar": "للتعبير عن الواجب: 'ter que/ter de + صيغة المصدر': 'Tenho que descansar' (يجب أن أستريح). للنصيحة: 'dever + صيغة المصدر': 'Você deve beber muita água' (يجب أن تشرب الكثير من الماء)، 'Deve ir ao médico' (يجب أن تذهب إلى الطبيب)."
+      },
+      "examples": [
+        {
+          "pt": "Você tem que tomar o remédio.",
+          "en": "You have to take the medicine.",
+          "ar": "يجب أن تتناول الدواء."
+        },
+        {
+          "pt": "Ela deve descansar dois dias.",
+          "en": "She should rest for two days.",
+          "ar": "يجب أن تستريح لمدة يومين."
+        },
+        {
+          "pt": "Preciso marcar uma consulta.",
+          "en": "I need to book an appointment.",
+          "ar": "أحتاج إلى تحديد موعد طبي."
+        }
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": {
+      "pt": "No Consultório",
+      "en": "At the Doctor's Office",
+      "ar": "في عيادة الطبيب"
+    },
+    "lines": [
+      {
+        "speaker": "Médico",
+        "pt": "Bom dia! O que você está sentindo?",
+        "en": "Good morning! What are you feeling?",
+        "ar": "صباح الخير! بماذا تشعر؟"
+      },
+      {
+        "speaker": "Paciente",
+        "pt": "Estou com dor de garganta e febre.",
+        "en": "I have a sore throat and a fever.",
+        "ar": "أعاني من التهاب في الحلق وحمى."
+      },
+      {
+        "speaker": "Médico",
+        "pt": "Desde quando?",
+        "en": "Since when?",
+        "ar": "منذ متى؟"
+      },
+      {
+        "speaker": "Paciente",
+        "pt": "Desde ontem à noite.",
+        "en": "Since last night.",
+        "ar": "منذ الليلة الماضية."
+      },
+      {
+        "speaker": "Médico",
+        "pt": "Você tem que tomar este remédio e descansar.",
+        "en": "You have to take this medicine and rest.",
+        "ar": "يجب أن تتناول هذا الدواء وتستريح."
+      },
+      {
+        "speaker": "Paciente",
+        "pt": "Obrigado, doutor. Eu sigo as instruções.",
+        "en": "Thank you, doctor. I will follow the instructions.",
+        "ar": "شكرًا يا دكتور. سأتبع التعليمات."
+      }
+    ]
+  },
+  "reading": {
+    "title": {
+      "pt": "O Resfriado de Carlos",
+      "en": "Carlos's Cold",
+      "ar": "زكام كارلوس"
+    },
+    "text_pt": "Carlos acordou com dor de cabeça e dor de garganta. Ele está com febre, então foi ao médico. O médico receitou um remédio e disse que ele deve beber muita água e descansar. Carlos vai ficar em casa dois dias e espera melhorar logo.",
+    "text_en": "Carlos woke up with a headache and a sore throat. He has a fever, so he went to the doctor. The doctor prescribed a medicine and said he should drink a lot of water and rest. Carlos is going to stay home for two days and hopes to get better soon.",
+    "text_ar": "استيقظ كارلوس وهو يعاني من صداع والتهاب في الحلق. إنه يعاني من حمى، لذا ذهب إلى الطبيب. وصف له الطبيب دواءً وقال إنه يجب أن يشرب الكثير من الماء ويستريح. سيبقى كارلوس في المنزل لمدة يومين ويأمل أن يتحسن سريعًا."
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Estou ___ dor de cabeça.",
+        "en": "I am ___ a headache.",
+        "ar": "أعاني ___ صداع."
+      },
+      "options": [
+        {
+          "pt": "com",
+          "en": "com",
+          "ar": "com"
+        },
+        {
+          "pt": "em",
+          "en": "em",
+          "ar": "em"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        }
+      ],
+      "answer": "com",
+      "explanation": {
+        "pt": "'Estou com dor de cabeça' = I have a headache.",
+        "en": "'Estou com dor de cabeça' = I have a headache.",
+        "ar": "'Estou com dor de cabeça' = أعاني من صداع."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Você ___ beber muita água.",
+        "en": "You ___ drink a lot of water.",
+        "ar": "أنت ___ تشرب الكثير من الماء."
+      },
+      "options": [
+        {
+          "pt": "deve",
+          "en": "deve",
+          "ar": "deve"
+        },
+        {
+          "pt": "dói",
+          "en": "dói",
+          "ar": "dói"
+        },
+        {
+          "pt": "está",
+          "en": "está",
+          "ar": "está"
+        }
+      ],
+      "answer": "deve",
+      "explanation": {
+        "pt": "Conselho: 'dever + infinitivo' = should.",
+        "en": "Advice: 'dever + infinitive' = should.",
+        "ar": "النصيحة: 'dever + صيغة المصدر' = يجب."
+      }
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza: 'the doctor'",
+        "en": "Translate: 'the doctor'",
+        "ar": "ترجم: 'the doctor'"
+      },
+      "options": [],
+      "answer": "o médico",
+      "explanation": {
+        "pt": "'O médico' = the doctor.",
+        "en": "'O médico' = the doctor.",
+        "ar": "'o médico' = الطبيب."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "está",
+          "en": "está",
+          "ar": "está"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "dia!",
+          "en": "dia!",
+          "ar": "dia!"
+        },
+        {
+          "pt": "Bom",
+          "en": "Bom",
+          "ar": "Bom"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "sentindo?",
+          "en": "sentindo?",
+          "ar": "sentindo?"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        }
+      ],
+      "answer": "Bom dia! O que você está sentindo?",
+      "accepted": [
+        "Bom dia! O que você está sentindo?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Bom dia! O que você está sentindo?'",
+        "en": "The correct order: 'Good morning! What are you feeling?'",
+        "ar": "الترتيب الصحيح: 'صباح الخير! بماذا تشعر؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a garganta",
+          "en": "the stomach / belly",
+          "ar": "a garganta"
+        },
+        {
+          "pt": "o remédio",
+          "en": "the head",
+          "ar": "o remédio"
+        },
+        {
+          "pt": "a saúde",
+          "en": "the medicine",
+          "ar": "a saúde"
+        },
+        {
+          "pt": "a barriga",
+          "en": "the throat",
+          "ar": "a barriga"
+        },
+        {
+          "pt": "a dor",
+          "en": "the health",
+          "ar": "a dor"
+        },
+        {
+          "pt": "a cabeça",
+          "en": "the pain",
+          "ar": "a cabeça"
+        }
+      ],
+      "answer": "a garganta::the stomach / belly|o remédio::the head|a saúde::the medicine|a barriga::the throat|a dor::the health|a cabeça::the pain",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Estou com dor de garganta e febre.",
+          "en": "I have a sore throat and a fever.",
+          "ar": "أعاني من التهاب في الحلق وحمى."
+        },
+        {
+          "pt": "Bom dia! O que você está sentindo?",
+          "en": "Since last night.",
+          "ar": "منذ الليلة الماضية."
+        },
+        {
+          "pt": "Desde ontem à noite.",
+          "en": "Good morning! What are you feeling?",
+          "ar": "صباح الخير! بماذا تشعر؟"
+        }
+      ],
+      "answer": "Bom dia! O que você está sentindo?",
+      "accepted": [],
+      "audio": "Bom dia! O que você está sentindo?",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia! O que você está sentindo?' — 'Good morning! What are you feeling?'",
+        "en": "You heard: 'Bom dia! O que você está sentindo?' — 'Good morning! What are you feeling?'",
+        "ar": "سمعت: 'Bom dia! O que você está sentindo?' — 'صباح الخير! بماذا تشعر؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Obrigado, doutor. Eu sigo as instruções.",
+          "en": "I have a sore throat and a fever.",
+          "ar": "أعاني من التهاب في الحلق وحمى."
+        },
+        {
+          "pt": "Estou com dor de garganta e febre.",
+          "en": "Good morning! What are you feeling?",
+          "ar": "صباح الخير! بماذا تشعر؟"
+        },
+        {
+          "pt": "Bom dia! O que você está sentindo?",
+          "en": "Thank you, doctor. I will follow the instructions.",
+          "ar": "شكرًا يا دكتور. سأتبع التعليمات."
+        }
+      ],
+      "answer": "Estou com dor de garganta e febre.",
+      "accepted": [],
+      "audio": "Estou com dor de garganta e febre.",
+      "explanation": {
+        "pt": "Você ouviu: 'Estou com dor de garganta e febre.' — 'I have a sore throat and a fever.'",
+        "en": "You heard: 'Estou com dor de garganta e febre.' — 'I have a sore throat and a fever.'",
+        "ar": "سمعت: 'Estou com dor de garganta e febre.' — 'أعاني من التهاب في الحلق وحمى.'"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Estou com ___ de garganta.",
+        "en": "Estou com ___ de garganta.",
+        "ar": "Estou com ___ de garganta."
+      },
+      "options": [
+        {
+          "pt": "está",
+          "en": "está",
+          "ar": "está"
+        },
+        {
+          "pt": "dor",
+          "en": "dor",
+          "ar": "dor"
+        },
+        {
+          "pt": "Eu",
+          "en": "Eu",
+          "ar": "Eu"
+        }
+      ],
+      "answer": "dor",
+      "accepted": [],
+      "explanation": {
+        "pt": "A resposta é 'dor'. Frase completa: Estou com dor de garganta.",
+        "en": "The answer is 'dor'. Full sentence: I have a sore throat.",
+        "ar": "الإجابة الصحيحة: 'dor'. الجملة كاملة: أعاني من التهاب في الحلق."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "dia!",
+          "en": "dia!",
+          "ar": "dia!"
+        },
+        {
+          "pt": "Bom",
+          "en": "Bom",
+          "ar": "Bom"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "sentindo?",
+          "en": "sentindo?",
+          "ar": "sentindo?"
+        },
+        {
+          "pt": "está",
+          "en": "está",
+          "ar": "está"
+        }
+      ],
+      "answer": "Bom dia! O que você está sentindo?",
+      "accepted": [
+        "Bom dia! O que você está sentindo?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Bom dia! O que você está sentindo?'",
+        "en": "The correct order: 'Good morning! What are you feeling?'",
+        "ar": "الترتيب الصحيح: 'صباح الخير! بماذا تشعر؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a garganta",
+          "en": "the pain",
+          "ar": "a garganta"
+        },
+        {
+          "pt": "a saúde",
+          "en": "the medicine",
+          "ar": "a saúde"
+        },
+        {
+          "pt": "a cabeça",
+          "en": "the stomach / belly",
+          "ar": "a cabeça"
+        },
+        {
+          "pt": "a barriga",
+          "en": "the throat",
+          "ar": "a barriga"
+        },
+        {
+          "pt": "o remédio",
+          "en": "the head",
+          "ar": "o remédio"
+        },
+        {
+          "pt": "a dor",
+          "en": "the health",
+          "ar": "a dor"
+        }
+      ],
+      "answer": "a garganta::the pain|a saúde::the medicine|a cabeça::the stomach / belly|a barriga::the throat|o remédio::the head|a dor::the health",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Desde quando?",
+          "en": "Since when?",
+          "ar": "أعاني من التهاب في الحلق وحمى."
+        },
+        {
+          "pt": "Bom dia! O que você está sentindo?",
+          "en": "Good morning! What are you feeling?",
+          "ar": "منذ متى؟"
+        },
+        {
+          "pt": "Estou com dor de garganta e febre.",
+          "en": "I have a sore throat and a fever.",
+          "ar": "صباح الخير! بماذا تشعر؟"
+        }
+      ],
+      "answer": "Bom dia! O que você está sentindo?",
+      "accepted": [],
+      "audio": "Bom dia! O que você está sentindo?",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia! O que você está sentindo?' — 'Good morning! What are you feeling?'",
+        "en": "You heard: 'Bom dia! O que você está sentindo?' — 'Good morning! What are you feeling?'",
+        "ar": "سمعت: 'Bom dia! O que você está sentindo?' — 'صباح الخير! بماذا تشعر؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Bom dia! O que você está sentindo?",
+          "en": "Good morning! What are you feeling?",
+          "ar": "منذ متى؟"
+        },
+        {
+          "pt": "Desde quando?",
+          "en": "I have a sore throat and a fever.",
+          "ar": "صباح الخير! بماذا تشعر؟"
+        },
+        {
+          "pt": "Estou com dor de garganta e febre.",
+          "en": "Since when?",
+          "ar": "أعاني من التهاب في الحلق وحمى."
+        }
+      ],
+      "answer": "Estou com dor de garganta e febre.",
+      "accepted": [],
+      "audio": "Estou com dor de garganta e febre.",
+      "explanation": {
+        "pt": "Você ouviu: 'Estou com dor de garganta e febre.' — 'I have a sore throat and a fever.'",
+        "en": "You heard: 'Estou com dor de garganta e febre.' — 'I have a sore throat and a fever.'",
+        "ar": "سمعت: 'Estou com dor de garganta e febre.' — 'أعاني من التهاب في الحلق وحمى.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "sentindo?",
+          "en": "sentindo?",
+          "ar": "sentindo?"
+        },
+        {
+          "pt": "Bom",
+          "en": "Bom",
+          "ar": "Bom"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "dia!",
+          "en": "dia!",
+          "ar": "dia!"
+        },
+        {
+          "pt": "está",
+          "en": "está",
+          "ar": "está"
+        }
+      ],
+      "answer": "Bom dia! O que você está sentindo?",
+      "accepted": [
+        "Bom dia! O que você está sentindo?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Bom dia! O que você está sentindo?'",
+        "en": "The correct order: 'Good morning! What are you feeling?'",
+        "ar": "الترتيب الصحيح: 'صباح الخير! بماذا تشعر؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o remédio",
+          "en": "the stomach / belly",
+          "ar": "o remédio"
+        },
+        {
+          "pt": "a saúde",
+          "en": "the medicine",
+          "ar": "a saúde"
+        },
+        {
+          "pt": "a cabeça",
+          "en": "the pain",
+          "ar": "a cabeça"
+        },
+        {
+          "pt": "a garganta",
+          "en": "the head",
+          "ar": "a garganta"
+        },
+        {
+          "pt": "a barriga",
+          "en": "the throat",
+          "ar": "a barriga"
+        },
+        {
+          "pt": "a dor",
+          "en": "the health",
+          "ar": "a dor"
+        }
+      ],
+      "answer": "o remédio::the stomach / belly|a saúde::the medicine|a cabeça::the pain|a garganta::the head|a barriga::the throat|a dor::the health",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Bom dia! O que você está sentindo?",
+          "en": "Good morning! What are you feeling?",
+          "ar": "شكرًا يا دكتور. سأتبع التعليمات."
+        },
+        {
+          "pt": "Você tem que tomar este remédio e descansar.",
+          "en": "You have to take this medicine and rest.",
+          "ar": "يجب أن تتناول هذا الدواء وتستريح."
+        },
+        {
+          "pt": "Obrigado, doutor. Eu sigo as instruções.",
+          "en": "Thank you, doctor. I will follow the instructions.",
+          "ar": "صباح الخير! بماذا تشعر؟"
+        }
+      ],
+      "answer": "Bom dia! O que você está sentindo?",
+      "accepted": [],
+      "audio": "Bom dia! O que você está sentindo?",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia! O que você está sentindo?' — 'Good morning! What are you feeling?'",
+        "en": "You heard: 'Bom dia! O que você está sentindo?' — 'Good morning! What are you feeling?'",
+        "ar": "سمعت: 'Bom dia! O que você está sentindo?' — 'صباح الخير! بماذا تشعر؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Estou com dor de garganta e febre.",
+          "en": "Since when?",
+          "ar": "منذ متى؟"
+        },
+        {
+          "pt": "Desde quando?",
+          "en": "Since last night.",
+          "ar": "أعاني من التهاب في الحلق وحمى."
+        },
+        {
+          "pt": "Desde ontem à noite.",
+          "en": "I have a sore throat and a fever.",
+          "ar": "منذ الليلة الماضية."
+        }
+      ],
+      "answer": "Estou com dor de garganta e febre.",
+      "accepted": [],
+      "audio": "Estou com dor de garganta e febre.",
+      "explanation": {
+        "pt": "Você ouviu: 'Estou com dor de garganta e febre.' — 'I have a sore throat and a fever.'",
+        "en": "You heard: 'Estou com dor de garganta e febre.' — 'I have a sore throat and a fever.'",
+        "ar": "سمعت: 'Estou com dor de garganta e febre.' — 'أعاني من التهاب في الحلق وحمى.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Bom",
+          "en": "Bom",
+          "ar": "Bom"
+        },
+        {
+          "pt": "sentindo?",
+          "en": "sentindo?",
+          "ar": "sentindo?"
+        },
+        {
+          "pt": "dia!",
+          "en": "dia!",
+          "ar": "dia!"
+        },
+        {
+          "pt": "está",
+          "en": "está",
+          "ar": "está"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        }
+      ],
+      "answer": "Bom dia! O que você está sentindo?",
+      "accepted": [
+        "Bom dia! O que você está sentindo?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Bom dia! O que você está sentindo?'",
+        "en": "The correct order: 'Good morning! What are you feeling?'",
+        "ar": "الترتيب الصحيح: 'صباح الخير! بماذا تشعر؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a barriga",
+          "en": "the pain",
+          "ar": "a barriga"
+        },
+        {
+          "pt": "a garganta",
+          "en": "the health",
+          "ar": "a garganta"
+        },
+        {
+          "pt": "a cabeça",
+          "en": "the head",
+          "ar": "a cabeça"
+        },
+        {
+          "pt": "o remédio",
+          "en": "the stomach / belly",
+          "ar": "o remédio"
+        },
+        {
+          "pt": "a saúde",
+          "en": "the medicine",
+          "ar": "a saúde"
+        },
+        {
+          "pt": "a dor",
+          "en": "the throat",
+          "ar": "a dor"
+        }
+      ],
+      "answer": "a barriga::the pain|a garganta::the health|a cabeça::the head|o remédio::the stomach / belly|a saúde::the medicine|a dor::the throat",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Desde ontem à noite.",
+          "en": "Good morning! What are you feeling?",
+          "ar": "يجب أن تتناول هذا الدواء وتستريح."
+        },
+        {
+          "pt": "Bom dia! O que você está sentindo?",
+          "en": "You have to take this medicine and rest.",
+          "ar": "منذ الليلة الماضية."
+        },
+        {
+          "pt": "Você tem que tomar este remédio e descansar.",
+          "en": "Since last night.",
+          "ar": "صباح الخير! بماذا تشعر؟"
+        }
+      ],
+      "answer": "Bom dia! O que você está sentindo?",
+      "accepted": [],
+      "audio": "Bom dia! O que você está sentindo?",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia! O que você está sentindo?' — 'Good morning! What are you feeling?'",
+        "en": "You heard: 'Bom dia! O que você está sentindo?' — 'Good morning! What are you feeling?'",
+        "ar": "سمعت: 'Bom dia! O que você está sentindo?' — 'صباح الخير! بماذا تشعر؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Bom dia! O que você está sentindo?",
+          "en": "Since when?",
+          "ar": "أعاني من التهاب في الحلق وحمى."
+        },
+        {
+          "pt": "Estou com dor de garganta e febre.",
+          "en": "I have a sore throat and a fever.",
+          "ar": "صباح الخير! بماذا تشعر؟"
+        },
+        {
+          "pt": "Desde quando?",
+          "en": "Good morning! What are you feeling?",
+          "ar": "منذ متى؟"
+        }
+      ],
+      "answer": "Estou com dor de garganta e febre.",
+      "accepted": [],
+      "audio": "Estou com dor de garganta e febre.",
+      "explanation": {
+        "pt": "Você ouviu: 'Estou com dor de garganta e febre.' — 'I have a sore throat and a fever.'",
+        "en": "You heard: 'Estou com dor de garganta e febre.' — 'I have a sore throat and a fever.'",
+        "ar": "سمعت: 'Estou com dor de garganta e febre.' — 'أعاني من التهاب في الحلق وحمى.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "está",
+          "en": "está",
+          "ar": "está"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "sentindo?",
+          "en": "sentindo?",
+          "ar": "sentindo?"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "Bom",
+          "en": "Bom",
+          "ar": "Bom"
+        },
+        {
+          "pt": "dia!",
+          "en": "dia!",
+          "ar": "dia!"
+        }
+      ],
+      "answer": "Bom dia! O que você está sentindo?",
+      "accepted": [
+        "Bom dia! O que você está sentindo?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Bom dia! O que você está sentindo?'",
+        "en": "The correct order: 'Good morning! What are you feeling?'",
+        "ar": "الترتيب الصحيح: 'صباح الخير! بماذا تشعر؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a saúde",
+          "en": "the health",
+          "ar": "a saúde"
+        },
+        {
+          "pt": "a garganta",
+          "en": "the stomach / belly",
+          "ar": "a garganta"
+        },
+        {
+          "pt": "a barriga",
+          "en": "the medicine",
+          "ar": "a barriga"
+        },
+        {
+          "pt": "a cabeça",
+          "en": "the head",
+          "ar": "a cabeça"
+        },
+        {
+          "pt": "o remédio",
+          "en": "the pain",
+          "ar": "o remédio"
+        },
+        {
+          "pt": "a dor",
+          "en": "the throat",
+          "ar": "a dor"
+        }
+      ],
+      "answer": "a saúde::the health|a garganta::the stomach / belly|a barriga::the medicine|a cabeça::the head|o remédio::the pain|a dor::the throat",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Desde quando?",
+          "en": "Good morning! What are you feeling?",
+          "ar": "منذ متى؟"
+        },
+        {
+          "pt": "Bom dia! O que você está sentindo?",
+          "en": "Since when?",
+          "ar": "أعاني من التهاب في الحلق وحمى."
+        },
+        {
+          "pt": "Estou com dor de garganta e febre.",
+          "en": "I have a sore throat and a fever.",
+          "ar": "صباح الخير! بماذا تشعر؟"
+        }
+      ],
+      "answer": "Bom dia! O que você está sentindo?",
+      "accepted": [],
+      "audio": "Bom dia! O que você está sentindo?",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia! O que você está sentindo?' — 'Good morning! What are you feeling?'",
+        "en": "You heard: 'Bom dia! O que você está sentindo?' — 'Good morning! What are you feeling?'",
+        "ar": "سمعت: 'Bom dia! O que você está sentindo?' — 'صباح الخير! بماذا تشعر؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Obrigado, doutor. Eu sigo as instruções.",
+          "en": "I have a sore throat and a fever.",
+          "ar": "شكرًا يا دكتور. سأتبع التعليمات."
+        },
+        {
+          "pt": "Você tem que tomar este remédio e descansar.",
+          "en": "You have to take this medicine and rest.",
+          "ar": "يجب أن تتناول هذا الدواء وتستريح."
+        },
+        {
+          "pt": "Estou com dor de garganta e febre.",
+          "en": "Thank you, doctor. I will follow the instructions.",
+          "ar": "أعاني من التهاب في الحلق وحمى."
+        }
+      ],
+      "answer": "Estou com dor de garganta e febre.",
+      "accepted": [],
+      "audio": "Estou com dor de garganta e febre.",
+      "explanation": {
+        "pt": "Você ouviu: 'Estou com dor de garganta e febre.' — 'I have a sore throat and a fever.'",
+        "en": "You heard: 'Estou com dor de garganta e febre.' — 'I have a sore throat and a fever.'",
+        "ar": "سمعت: 'Estou com dor de garganta e febre.' — 'أعاني من التهاب في الحلق وحمى.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Bom",
+          "en": "Bom",
+          "ar": "Bom"
+        },
+        {
+          "pt": "está",
+          "en": "está",
+          "ar": "está"
+        },
+        {
+          "pt": "sentindo?",
+          "en": "sentindo?",
+          "ar": "sentindo?"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "dia!",
+          "en": "dia!",
+          "ar": "dia!"
+        }
+      ],
+      "answer": "Bom dia! O que você está sentindo?",
+      "accepted": [
+        "Bom dia! O que você está sentindo?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Bom dia! O que você está sentindo?'",
+        "en": "The correct order: 'Good morning! What are you feeling?'",
+        "ar": "الترتيب الصحيح: 'صباح الخير! بماذا تشعر؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a garganta",
+          "en": "the head",
+          "ar": "a garganta"
+        },
+        {
+          "pt": "a cabeça",
+          "en": "the pain",
+          "ar": "a cabeça"
+        },
+        {
+          "pt": "a dor",
+          "en": "the health",
+          "ar": "a dor"
+        },
+        {
+          "pt": "a barriga",
+          "en": "the medicine",
+          "ar": "a barriga"
+        },
+        {
+          "pt": "a saúde",
+          "en": "the stomach / belly",
+          "ar": "a saúde"
+        },
+        {
+          "pt": "o remédio",
+          "en": "the throat",
+          "ar": "o remédio"
+        }
+      ],
+      "answer": "a garganta::the head|a cabeça::the pain|a dor::the health|a barriga::the medicine|a saúde::the stomach / belly|o remédio::the throat",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Obrigado, doutor. Eu sigo as instruções.",
+          "en": "Thank you, doctor. I will follow the instructions.",
+          "ar": "صباح الخير! بماذا تشعر؟"
+        },
+        {
+          "pt": "Bom dia! O que você está sentindo?",
+          "en": "Good morning! What are you feeling?",
+          "ar": "شكرًا يا دكتور. سأتبع التعليمات."
+        },
+        {
+          "pt": "Desde ontem à noite.",
+          "en": "Since last night.",
+          "ar": "منذ الليلة الماضية."
+        }
+      ],
+      "answer": "Bom dia! O que você está sentindo?",
+      "accepted": [],
+      "audio": "Bom dia! O que você está sentindo?",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia! O que você está sentindo?' — 'Good morning! What are you feeling?'",
+        "en": "You heard: 'Bom dia! O que você está sentindo?' — 'Good morning! What are you feeling?'",
+        "ar": "سمعت: 'Bom dia! O que você está sentindo?' — 'صباح الخير! بماذا تشعر؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Desde ontem à noite.",
+          "en": "Since last night.",
+          "ar": "منذ الليلة الماضية."
+        },
+        {
+          "pt": "Estou com dor de garganta e febre.",
+          "en": "I have a sore throat and a fever.",
+          "ar": "أعاني من التهاب في الحلق وحمى."
+        },
+        {
+          "pt": "Obrigado, doutor. Eu sigo as instruções.",
+          "en": "Thank you, doctor. I will follow the instructions.",
+          "ar": "شكرًا يا دكتور. سأتبع التعليمات."
+        }
+      ],
+      "answer": "Estou com dor de garganta e febre.",
+      "accepted": [],
+      "audio": "Estou com dor de garganta e febre.",
+      "explanation": {
+        "pt": "Você ouviu: 'Estou com dor de garganta e febre.' — 'I have a sore throat and a fever.'",
+        "en": "You heard: 'Estou com dor de garganta e febre.' — 'I have a sore throat and a fever.'",
+        "ar": "سمعت: 'Estou com dor de garganta e febre.' — 'أعاني من التهاب في الحلق وحمى.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "dia!",
+          "en": "dia!",
+          "ar": "dia!"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "sentindo?",
+          "en": "sentindo?",
+          "ar": "sentindo?"
+        },
+        {
+          "pt": "Bom",
+          "en": "Bom",
+          "ar": "Bom"
+        },
+        {
+          "pt": "está",
+          "en": "está",
+          "ar": "está"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        }
+      ],
+      "answer": "Bom dia! O que você está sentindo?",
+      "accepted": [
+        "Bom dia! O que você está sentindo?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Bom dia! O que você está sentindo?'",
+        "en": "The correct order: 'Good morning! What are you feeling?'",
+        "ar": "الترتيب الصحيح: 'صباح الخير! بماذا تشعر؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a barriga",
+          "en": "the head",
+          "ar": "a barriga"
+        },
+        {
+          "pt": "o remédio",
+          "en": "the throat",
+          "ar": "o remédio"
+        },
+        {
+          "pt": "a garganta",
+          "en": "the health",
+          "ar": "a garganta"
+        },
+        {
+          "pt": "a saúde",
+          "en": "the medicine",
+          "ar": "a saúde"
+        },
+        {
+          "pt": "a cabeça",
+          "en": "the pain",
+          "ar": "a cabeça"
+        },
+        {
+          "pt": "a dor",
+          "en": "the stomach / belly",
+          "ar": "a dor"
+        }
+      ],
+      "answer": "a barriga::the head|o remédio::the throat|a garganta::the health|a saúde::the medicine|a cabeça::the pain|a dor::the stomach / belly",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Estou com dor de garganta e febre.",
+          "en": "Since when?",
+          "ar": "صباح الخير! بماذا تشعر؟"
+        },
+        {
+          "pt": "Desde quando?",
+          "en": "Good morning! What are you feeling?",
+          "ar": "أعاني من التهاب في الحلق وحمى."
+        },
+        {
+          "pt": "Bom dia! O que você está sentindo?",
+          "en": "I have a sore throat and a fever.",
+          "ar": "منذ متى؟"
+        }
+      ],
+      "answer": "Bom dia! O que você está sentindo?",
+      "accepted": [],
+      "audio": "Bom dia! O que você está sentindo?",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia! O que você está sentindo?' — 'Good morning! What are you feeling?'",
+        "en": "You heard: 'Bom dia! O que você está sentindo?' — 'Good morning! What are you feeling?'",
+        "ar": "سمعت: 'Bom dia! O que você está sentindo?' — 'صباح الخير! بماذا تشعر؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Estou com dor de garganta e febre.",
+          "en": "Since when?",
+          "ar": "شكرًا يا دكتور. سأتبع التعليمات."
+        },
+        {
+          "pt": "Obrigado, doutor. Eu sigo as instruções.",
+          "en": "I have a sore throat and a fever.",
+          "ar": "أعاني من التهاب في الحلق وحمى."
+        },
+        {
+          "pt": "Desde quando?",
+          "en": "Thank you, doctor. I will follow the instructions.",
+          "ar": "منذ متى؟"
+        }
+      ],
+      "answer": "Estou com dor de garganta e febre.",
+      "accepted": [],
+      "audio": "Estou com dor de garganta e febre.",
+      "explanation": {
+        "pt": "Você ouviu: 'Estou com dor de garganta e febre.' — 'I have a sore throat and a fever.'",
+        "en": "You heard: 'Estou com dor de garganta e febre.' — 'I have a sore throat and a fever.'",
+        "ar": "سمعت: 'Estou com dor de garganta e febre.' — 'أعاني من التهاب في الحلق وحمى.'"
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'the health'",
+        "en": "Type in Portuguese: 'the health'",
+        "ar": "اكتب بالبرتغالية: 'الصحة'"
+      },
+      "options": [],
+      "answer": "a saúde",
+      "accepted": [
+        "a saúde"
+      ],
+      "explanation": {
+        "pt": "'a saúde' significa 'the health'.",
+        "en": "'a saúde' means 'the health'.",
+        "ar": "'$a saúde' بالعربية: '$الصحة'."
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'the head'",
+        "en": "Type in Portuguese: 'the head'",
+        "ar": "اكتب بالبرتغالية: 'الرأس'"
+      },
+      "options": [],
+      "answer": "a cabeça",
+      "accepted": [
+        "a cabeça"
+      ],
+      "explanation": {
+        "pt": "'a cabeça' significa 'the head'.",
+        "en": "'a cabeça' means 'the head'.",
+        "ar": "'$a cabeça' بالعربية: '$الرأس'."
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Desde quando?",
+          "en": "Desde quando?",
+          "ar": "Desde quando?"
+        },
+        {
+          "pt": "Bom dia! O que você está sentindo?",
+          "en": "Bom dia! O que você está sentindo?",
+          "ar": "Bom dia! O que você está sentindo?"
+        },
+        {
+          "pt": "Desde ontem à noite.",
+          "en": "Desde ontem à noite.",
+          "ar": "Desde ontem à noite."
+        }
+      ],
+      "answer": "Bom dia! O que você está sentindo?",
+      "accepted": [],
+      "audio": "Bom dia! O que você está sentindo?",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia! O que você está sentindo?'",
+        "en": "You heard: 'Bom dia! O que você está sentindo?'",
+        "ar": "سمعت: 'Bom dia! O que você está sentindo?'"
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Estou com dor de garganta e febre.",
+          "en": "Estou com dor de garganta e febre.",
+          "ar": "Estou com dor de garganta e febre."
+        },
+        {
+          "pt": "Você tem que tomar este remédio e descansar.",
+          "en": "Você tem que tomar este remédio e descansar.",
+          "ar": "Você tem que tomar este remédio e descansar."
+        },
+        {
+          "pt": "Desde quando?",
+          "en": "Desde quando?",
+          "ar": "Desde quando?"
+        }
+      ],
+      "answer": "Estou com dor de garganta e febre.",
+      "accepted": [],
+      "audio": "Estou com dor de garganta e febre.",
+      "explanation": {
+        "pt": "Você ouviu: 'Estou com dor de garganta e febre.'",
+        "en": "You heard: 'Estou com dor de garganta e febre.'",
+        "ar": "سمعت: 'Estou com dor de garganta e febre.'"
+      }
+    },
+    {
+      "type": "dictation",
+      "prompt": {
+        "pt": "Ouça e escreva o que você ouviu.",
+        "en": "Listen and type what you hear.",
+        "ar": "استمع واكتب ما سمعته."
+      },
+      "options": [],
+      "answer": "Bom dia! O que você está sentindo?",
+      "accepted": [],
+      "audio": "Bom dia! O que você está sentindo?",
+      "explanation": {
+        "pt": "A frase correta: 'Bom dia! O que você está sentindo?'",
+        "en": "The correct sentence: 'Bom dia! O que você está sentindo?'",
+        "ar": "الجملة الصحيحة: 'Bom dia! O que você está sentindo?'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "está",
+          "en": "está",
+          "ar": "está"
+        },
+        {
+          "pt": "dia!",
+          "en": "dia!",
+          "ar": "dia!"
+        },
+        {
+          "pt": "sentindo?",
+          "en": "sentindo?",
+          "ar": "sentindo?"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "Bom",
+          "en": "Bom",
+          "ar": "Bom"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        }
+      ],
+      "answer": "Bom dia! O que você está sentindo?",
+      "accepted": [
+        "Bom dia! O que você está sentindo?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Bom dia! O que você está sentindo?'",
+        "en": "The correct order: 'Good morning! What are you feeling?'",
+        "ar": "الترتيب الصحيح: 'صباح الخير! بماذا تشعر؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a barriga",
+          "en": "the pain",
+          "ar": "a barriga"
+        },
+        {
+          "pt": "a dor",
+          "en": "the medicine",
+          "ar": "a dor"
+        },
+        {
+          "pt": "a cabeça",
+          "en": "the health",
+          "ar": "a cabeça"
+        },
+        {
+          "pt": "a saúde",
+          "en": "the head",
+          "ar": "a saúde"
+        },
+        {
+          "pt": "o remédio",
+          "en": "the stomach / belly",
+          "ar": "o remédio"
+        },
+        {
+          "pt": "a garganta",
+          "en": "the throat",
+          "ar": "a garganta"
+        }
+      ],
+      "answer": "a barriga::the pain|a dor::the medicine|a cabeça::the health|a saúde::the head|o remédio::the stomach / belly|a garganta::the throat",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Bom dia! O que você está sentindo?",
+          "en": "Since when?",
+          "ar": "شكرًا يا دكتور. سأتبع التعليمات."
+        },
+        {
+          "pt": "Obrigado, doutor. Eu sigo as instruções.",
+          "en": "Good morning! What are you feeling?",
+          "ar": "صباح الخير! بماذا تشعر؟"
+        },
+        {
+          "pt": "Desde quando?",
+          "en": "Thank you, doctor. I will follow the instructions.",
+          "ar": "منذ متى؟"
+        }
+      ],
+      "answer": "Bom dia! O que você está sentindo?",
+      "accepted": [],
+      "audio": "Bom dia! O que você está sentindo?",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia! O que você está sentindo?' — 'Good morning! What are you feeling?'",
+        "en": "You heard: 'Bom dia! O que você está sentindo?' — 'Good morning! What are you feeling?'",
+        "ar": "سمعت: 'Bom dia! O que você está sentindo?' — 'صباح الخير! بماذا تشعر؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Desde ontem à noite.",
+          "en": "I have a sore throat and a fever.",
+          "ar": "شكرًا يا دكتور. سأتبع التعليمات."
+        },
+        {
+          "pt": "Estou com dor de garganta e febre.",
+          "en": "Thank you, doctor. I will follow the instructions.",
+          "ar": "منذ الليلة الماضية."
+        },
+        {
+          "pt": "Obrigado, doutor. Eu sigo as instruções.",
+          "en": "Since last night.",
+          "ar": "أعاني من التهاب في الحلق وحمى."
+        }
+      ],
+      "answer": "Estou com dor de garganta e febre.",
+      "accepted": [],
+      "audio": "Estou com dor de garganta e febre.",
+      "explanation": {
+        "pt": "Você ouviu: 'Estou com dor de garganta e febre.' — 'I have a sore throat and a fever.'",
+        "en": "You heard: 'Estou com dor de garganta e febre.' — 'I have a sore throat and a fever.'",
+        "ar": "سمعت: 'Estou com dor de garganta e febre.' — 'أعاني من التهاب في الحلق وحمى.'"
+      }
+    }
+  ],
+  "speaking": {
+    "title": {
+      "pt": "Fale Agora — Ouça e Repita",
+      "en": "Speak Now — Listen and Repeat",
+      "ar": "تحدث الآن — استمع وكرر"
+    },
+    "phrases": [
+      {
+        "pt": "Bom dia! O que você está sentindo?",
+        "en": "Good morning! What are you feeling?",
+        "ar": "صباح الخير! بماذا تشعر؟"
+      },
+      {
+        "pt": "Estou com dor de garganta e febre.",
+        "en": "I have a sore throat and a fever.",
+        "ar": "أعاني من التهاب في الحلق وحمى."
+      },
+      {
+        "pt": "Desde quando?",
+        "en": "Since when?",
+        "ar": "منذ متى؟"
+      },
+      {
+        "pt": "Desde ontem à noite.",
+        "en": "Since last night.",
+        "ar": "منذ الليلة الماضية."
+      },
+      {
+        "pt": "Você tem que tomar este remédio e descansar.",
+        "en": "You have to take this medicine and rest.",
+        "ar": "يجب أن تتناول هذا الدواء وتستريح."
+      },
+      {
+        "pt": "Obrigado, doutor. Eu sigo as instruções.",
+        "en": "Thank you, doctor. I will follow the instructions.",
+        "ar": "شكرًا يا دكتور. سأتبع التعليمات."
+      },
+      {
+        "pt": "a saúde",
+        "en": "the health",
+        "ar": "الصحة"
+      },
+      {
+        "pt": "a cabeça",
+        "en": "the head",
+        "ar": "الرأس"
+      },
+      {
+        "pt": "a garganta",
+        "en": "the throat",
+        "ar": "الحلق"
+      }
+    ]
+  },
+  "cultural_tips": {
+    "pt": "",
+    "en": "",
+    "ar": ""
+  }
+}

@@ -1,0 +1,1840 @@
+{
+  "id": "A1-08",
+  "level": "A1",
+  "level_name": {
+    "pt": "Iniciante",
+    "en": "Beginner",
+    "ar": "مبتدئ"
+  },
+  "title": {
+    "pt": "Cores, Roupas e Adjetivos",
+    "en": "Colors, Clothes and Adjectives",
+    "ar": "الألوان والملابس والصفات"
+  },
+  "objectives": [
+    {
+      "pt": "Nomear cores e roupas em português",
+      "en": "Name colors and clothes in Portuguese",
+      "ar": "تسمية الألوان والملابس بالبرتغالية"
+    },
+    {
+      "pt": "Usar adjetivos e concordância de gênero",
+      "en": "Use adjectives and gender agreement",
+      "ar": "استخدام الصفات ومطابقة الجنس"
+    },
+    {
+      "pt": "Descrever o que alguém está vestindo",
+      "en": "Describe what someone is wearing",
+      "ar": "وصف ما يرتديه الشخص"
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "vermelho",
+      "ipa": "/veʁˈme.ʎu/",
+      "en": "red",
+      "ar": "أحمر",
+      "example": {
+        "pt": "Boa tarde! Posso ajudar?",
+        "en": "Good afternoon! Can I help you?",
+        "ar": "مساء الخير! هل يمكنني مساعدتك؟"
+      }
+    },
+    {
+      "pt": "azul",
+      "ipa": "/aˈzuw/",
+      "en": "blue",
+      "ar": "أزرق",
+      "example": {
+        "pt": "Ela está com um vestido azul.",
+        "en": "She is wearing a blue dress.",
+        "ar": "هي ترتدي فستانًا أزرق."
+      }
+    },
+    {
+      "pt": "amarelo",
+      "ipa": "/a.maˈɾɛ.lu/",
+      "en": "yellow",
+      "ar": "أصفر",
+      "example": {
+        "pt": "Boa tarde! Posso ajudar?",
+        "en": "Good afternoon! Can I help you?",
+        "ar": "مساء الخير! هل يمكنني مساعدتك؟"
+      }
+    },
+    {
+      "pt": "verde",
+      "ipa": "/ˈveʁ.dʒi/",
+      "en": "green",
+      "ar": "أخضر",
+      "example": {
+        "pt": "Boa tarde! Posso ajudar?",
+        "en": "Good afternoon! Can I help you?",
+        "ar": "مساء الخير! هل يمكنني مساعدتك؟"
+      }
+    },
+    {
+      "pt": "preto",
+      "ipa": "/ˈpɾɛ.tu/",
+      "en": "black",
+      "ar": "أسود",
+      "example": {
+        "pt": "Boa tarde! Posso ajudar?",
+        "en": "Good afternoon! Can I help you?",
+        "ar": "مساء الخير! هل يمكنني مساعدتك؟"
+      }
+    },
+    {
+      "pt": "branco",
+      "ipa": "/ˈbɾɐ̃.ku/",
+      "en": "white",
+      "ar": "أبيض",
+      "example": {
+        "pt": "Boa tarde! Posso ajudar?",
+        "en": "Good afternoon! Can I help you?",
+        "ar": "مساء الخير! هل يمكنني مساعدتك؟"
+      }
+    },
+    {
+      "pt": "rosa",
+      "ipa": "/ˈʁɔ.za/",
+      "en": "pink",
+      "ar": "وردي",
+      "example": {
+        "pt": "Eu estou com uma blusa rosa.",
+        "en": "I'm wearing a pink blouse.",
+        "ar": "أنا أرتدي بلوزة وردية."
+      }
+    },
+    {
+      "pt": "a camisa",
+      "ipa": "/a kaˈmi.za/",
+      "en": "the shirt",
+      "ar": "القميص",
+      "example": {
+        "pt": "E a calça preta? Está em promoção?",
+        "en": "And the black pants? Are they on sale?",
+        "ar": "والبنطال الأسود؟ هل هو في تخفيضات؟"
+      }
+    },
+    {
+      "pt": "a camiseta",
+      "ipa": "/a ka.miˈzɛ.ta/",
+      "en": "the t-shirt",
+      "ar": "التيشيرت",
+      "example": {
+        "pt": "E a calça preta? Está em promoção?",
+        "en": "And the black pants? Are they on sale?",
+        "ar": "والبنطال الأسود؟ هل هو في تخفيضات؟"
+      }
+    },
+    {
+      "pt": "a calça",
+      "ipa": "/a ˈkaw.sa/",
+      "en": "the pants",
+      "ar": "البنطال",
+      "example": {
+        "pt": "E a calça preta? Está em promoção?",
+        "en": "And the black pants? Are they on sale?",
+        "ar": "والبنطال الأسود؟ هل هو في تخفيضات؟"
+      }
+    },
+    {
+      "pt": "o vestido",
+      "ipa": "/u vesˈtʃi.du/",
+      "en": "the dress",
+      "ar": "الفستان",
+      "example": {
+        "pt": "O vestido é bonito.",
+        "en": "The dress is pretty.",
+        "ar": "الفستان جميل."
+      }
+    },
+    {
+      "pt": "o sapato",
+      "ipa": "/u saˈpa.tu/",
+      "en": "the shoe",
+      "ar": "الحذاء",
+      "example": {
+        "pt": "O vestido é bonito.",
+        "en": "The dress is pretty.",
+        "ar": "الفستان جميل."
+      }
+    },
+    {
+      "pt": "a blusa",
+      "ipa": "/a ˈblu.za/",
+      "en": "the blouse",
+      "ar": "البلوزة",
+      "example": {
+        "pt": "E a calça preta? Está em promoção?",
+        "en": "And the black pants? Are they on sale?",
+        "ar": "والبنطال الأسود؟ هل هو في تخفيضات؟"
+      }
+    },
+    {
+      "pt": "o chapéu",
+      "ipa": "/u ʃaˈpɛw/",
+      "en": "the hat",
+      "ar": "القبعة",
+      "example": {
+        "pt": "O vestido é bonito.",
+        "en": "The dress is pretty.",
+        "ar": "الفستان جميل."
+      }
+    },
+    {
+      "pt": "bonito",
+      "ipa": "/boˈni.tu/",
+      "en": "pretty/beautiful (m)",
+      "ar": "جميل",
+      "example": {
+        "pt": "O vestido é bonito.",
+        "en": "The dress is pretty.",
+        "ar": "الفستان جميل."
+      }
+    },
+    {
+      "pt": "feio",
+      "ipa": "/ˈfej.u/",
+      "en": "ugly (m)",
+      "ar": "قبيح",
+      "example": {
+        "pt": "Boa tarde! Posso ajudar?",
+        "en": "Good afternoon! Can I help you?",
+        "ar": "مساء الخير! هل يمكنني مساعدتك؟"
+      }
+    },
+    {
+      "pt": "novo",
+      "ipa": "/ˈnɔ.vu/",
+      "en": "new (m)",
+      "ar": "جديد",
+      "example": {
+        "pt": "Boa tarde! Posso ajudar?",
+        "en": "Good afternoon! Can I help you?",
+        "ar": "مساء الخير! هل يمكنني مساعدتك؟"
+      }
+    },
+    {
+      "pt": "velho",
+      "ipa": "/ˈvɛ.ʎu/",
+      "en": "old (m)",
+      "ar": "قديم",
+      "example": {
+        "pt": "Boa tarde! Posso ajudar?",
+        "en": "Good afternoon! Can I help you?",
+        "ar": "مساء الخير! هل يمكنني مساعدتك؟"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "title": {
+        "pt": "Concordância de Gênero",
+        "en": "Gender Agreement",
+        "ar": "مطابقة الجنس"
+      },
+      "explanation": {
+        "pt": "Adjetivos concordam com o substantivo em gênero e número: camisa vermelha, sapato vermelho, camisas vermelhas. Adjetivos terminados em -e ou consoante não mudam: azul, verde, feliz.",
+        "en": "Adjectives agree with the noun in gender and number: camisa vermelha (red shirt, f), sapato vermelho (red shoe, m), camisas vermelhas (red shirts, pl). Adjectives ending in -e or a consonant do not change: azul (blue), verde (green), feliz (happy).",
+        "ar": "تتطابق الصفات مع الاسم في الجنس والعدد: camisa vermelha (قميص أحمر مؤنث)، sapato vermelho (حذاء أحمر مذكر)، camisas vermelhas (قمصان حمراء جمع). الصفات المنتهية بـ -e أو بحرف ساكن لا تتغير: azul (أزرق)، verde (أخضر)، feliz (سعيد)."
+      },
+      "examples": [
+        {
+          "pt": "O vestido é bonito.",
+          "en": "The dress is pretty.",
+          "ar": "الفستان جميل."
+        },
+        {
+          "pt": "A camiseta é branca.",
+          "en": "The t-shirt is white.",
+          "ar": "التيشيرت أبيض."
+        },
+        {
+          "pt": "Os sapatos são novos.",
+          "en": "The shoes are new.",
+          "ar": "الأحذية جديدة."
+        }
+      ]
+    },
+    {
+      "title": {
+        "pt": "Verbo Vestir",
+        "en": "The Verb Vestir",
+        "ar": "الفعل Vestir (يرتدي)"
+      },
+      "explanation": {
+        "pt": "Para dizer o que alguém veste, usamos 'vestir' (to wear) ou 'estar com' (to be with/wearing): Eu visto uma camisa (I wear a shirt), Eu estou com uma camisa azul (I'm wearing a blue shirt). 'Estar com' é mais comum na fala.",
+        "en": "To say what someone wears, we use 'vestir' (to wear) or 'estar com' (to be with/wearing): Eu visto uma camisa (I wear a shirt), Eu estou com uma camisa azul (I'm wearing a blue shirt). 'Estar com' is more common in speech.",
+        "ar": "للتعبير عما يرتديه الشخص، نستخدم 'vestir' (يرتدي) أو 'estar com' (يكون مع/يرتدي): Eu visto uma camisa (أرتدي قميصًا)، Eu estou com uma camisa azul (أرتدي قميصًا أزرق). 'estar com' أكثر شيوعًا في الكلام."
+      },
+      "examples": [
+        {
+          "pt": "Eu estou com uma blusa rosa.",
+          "en": "I'm wearing a pink blouse.",
+          "ar": "أنا أرتدي بلوزة وردية."
+        },
+        {
+          "pt": "Ele veste uma calça preta.",
+          "en": "He wears black pants.",
+          "ar": "يرتدي بنطالًا أسود."
+        },
+        {
+          "pt": "Ela está com um vestido azul.",
+          "en": "She is wearing a blue dress.",
+          "ar": "هي ترتدي فستانًا أزرق."
+        }
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": {
+      "pt": "Comprando Roupas",
+      "en": "Shopping for Clothes",
+      "ar": "شراء الملابس"
+    },
+    "lines": [
+      {
+        "speaker": "Vendedora",
+        "pt": "Boa tarde! Posso ajudar?",
+        "en": "Good afternoon! Can I help you?",
+        "ar": "مساء الخير! هل يمكنني مساعدتك؟"
+      },
+      {
+        "speaker": "Cliente",
+        "pt": "Quero uma camisa branca, por favor.",
+        "en": "I want a white shirt, please.",
+        "ar": "أريد قميصًا أبيض، من فضلك."
+      },
+      {
+        "speaker": "Vendedora",
+        "pt": "Temos esta camisa. É muito bonita.",
+        "en": "We have this shirt. It's very pretty.",
+        "ar": "لدينا هذا القميص. إنه جميل جدًا."
+      },
+      {
+        "speaker": "Cliente",
+        "pt": "E a calça preta? Está em promoção?",
+        "en": "And the black pants? Are they on sale?",
+        "ar": "والبنطال الأسود؟ هل هو في تخفيضات؟"
+      },
+      {
+        "speaker": "Vendedora",
+        "pt": "Sim, custa noventa reais.",
+        "en": "Yes, it costs ninety reais.",
+        "ar": "نعم، سعره تسعون ريالًا."
+      }
+    ]
+  },
+  "reading": {
+    "title": {
+      "pt": "O Estilo de Ana",
+      "en": "Ana's Style",
+      "ar": "أناقة آنا"
+    },
+    "text_pt": "Ana gosta de roupas coloridas. Hoje ela está com uma camiseta amarela e uma calça azul. Os sapatos dela são brancos e novos. O chapéu vermelho combina com tudo. Ela acha que o estilo é uma forma de se expressar.",
+    "text_en": "Ana likes colorful clothes. Today she is wearing a yellow t-shirt and blue pants. Her shoes are white and new. The red hat matches everything. She thinks style is a way of expressing yourself.",
+    "text_ar": "تحب آنا الملابس الملونة. اليوم ترتدي تيشيرتًا أصفر وبنطالًا أزرق. حذاؤها أبيض وجديد. القبعة الحمراء تليق مع كل شيء. تعتقد أن الأناقة وسيلة للتعبير عن النفس."
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual adjetivo é correto para 'camisa'?",
+        "en": "Which adjective is correct for 'camisa'?",
+        "ar": "ما الصفة الصحيحة لكلمة 'camisa'؟"
+      },
+      "options": [
+        {
+          "pt": "vermelho",
+          "en": "vermelho",
+          "ar": "vermelho"
+        },
+        {
+          "pt": "vermelha",
+          "en": "vermelha",
+          "ar": "vermelha"
+        },
+        {
+          "pt": "vermelhos",
+          "en": "vermelhos",
+          "ar": "vermelhos"
+        }
+      ],
+      "answer": "vermelha",
+      "explanation": {
+        "pt": "'Camisa' é feminino: camisa vermelha.",
+        "en": "'Camisa' is feminine: camisa vermelha.",
+        "ar": "'Camisa' مؤنثة: camisa vermelha."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Como se diz 'blue' em português?",
+        "en": "How do you say 'blue' in Portuguese?",
+        "ar": "كيف تقول 'blue' بالبرتغالية؟"
+      },
+      "options": [
+        {
+          "pt": "verde",
+          "en": "verde",
+          "ar": "verde"
+        },
+        {
+          "pt": "azul",
+          "en": "azul",
+          "ar": "azul"
+        },
+        {
+          "pt": "preto",
+          "en": "preto",
+          "ar": "preto"
+        }
+      ],
+      "answer": "azul",
+      "explanation": {
+        "pt": "'Azul' significa blue.",
+        "en": "'Azul' means blue.",
+        "ar": "'azul' تعني أزرق."
+      }
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza: 'the hat'",
+        "en": "Translate: 'the hat'",
+        "ar": "ترجم: 'the hat'"
+      },
+      "options": [],
+      "answer": "o chapéu",
+      "explanation": {
+        "pt": "'O chapéu' significa the hat.",
+        "en": "'O chapéu' means the hat.",
+        "ar": "'o chapéu' تعني القبعة."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "ajudar?",
+          "en": "ajudar?",
+          "ar": "ajudar?"
+        },
+        {
+          "pt": "Boa",
+          "en": "Boa",
+          "ar": "Boa"
+        },
+        {
+          "pt": "tarde!",
+          "en": "tarde!",
+          "ar": "tarde!"
+        },
+        {
+          "pt": "Posso",
+          "en": "Posso",
+          "ar": "Posso"
+        }
+      ],
+      "answer": "Boa tarde! Posso ajudar?",
+      "accepted": [
+        "Boa tarde! Posso ajudar?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Boa tarde! Posso ajudar?'",
+        "en": "The correct order: 'Good afternoon! Can I help you?'",
+        "ar": "الترتيب الصحيح: 'مساء الخير! هل يمكنني مساعدتك؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "branco",
+          "en": "yellow",
+          "ar": "branco"
+        },
+        {
+          "pt": "verde",
+          "en": "red",
+          "ar": "verde"
+        },
+        {
+          "pt": "vermelho",
+          "en": "green",
+          "ar": "vermelho"
+        },
+        {
+          "pt": "amarelo",
+          "en": "blue",
+          "ar": "amarelo"
+        },
+        {
+          "pt": "preto",
+          "en": "white",
+          "ar": "preto"
+        },
+        {
+          "pt": "azul",
+          "en": "black",
+          "ar": "azul"
+        }
+      ],
+      "answer": "branco::yellow|verde::red|vermelho::green|amarelo::blue|preto::white|azul::black",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Boa tarde! Posso ajudar?",
+          "en": "We have this shirt. It's very pretty.",
+          "ar": "لدينا هذا القميص. إنه جميل جدًا."
+        },
+        {
+          "pt": "Temos esta camisa. É muito bonita.",
+          "en": "Good afternoon! Can I help you?",
+          "ar": "مساء الخير! هل يمكنني مساعدتك؟"
+        },
+        {
+          "pt": "Quero uma camisa branca, por favor.",
+          "en": "I want a white shirt, please.",
+          "ar": "أريد قميصًا أبيض، من فضلك."
+        }
+      ],
+      "answer": "Boa tarde! Posso ajudar?",
+      "accepted": [],
+      "audio": "Boa tarde! Posso ajudar?",
+      "explanation": {
+        "pt": "Você ouviu: 'Boa tarde! Posso ajudar?' — 'Good afternoon! Can I help you?'",
+        "en": "You heard: 'Boa tarde! Posso ajudar?' — 'Good afternoon! Can I help you?'",
+        "ar": "سمعت: 'Boa tarde! Posso ajudar?' — 'مساء الخير! هل يمكنني مساعدتك؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Quero uma camisa branca, por favor.",
+          "en": "I want a white shirt, please.",
+          "ar": "لدينا هذا القميص. إنه جميل جدًا."
+        },
+        {
+          "pt": "Temos esta camisa. É muito bonita.",
+          "en": "We have this shirt. It's very pretty.",
+          "ar": "أريد قميصًا أبيض، من فضلك."
+        },
+        {
+          "pt": "Boa tarde! Posso ajudar?",
+          "en": "Good afternoon! Can I help you?",
+          "ar": "مساء الخير! هل يمكنني مساعدتك؟"
+        }
+      ],
+      "answer": "Quero uma camisa branca, por favor.",
+      "accepted": [],
+      "audio": "Quero uma camisa branca, por favor.",
+      "explanation": {
+        "pt": "Você ouviu: 'Quero uma camisa branca, por favor.' — 'I want a white shirt, please.'",
+        "en": "You heard: 'Quero uma camisa branca, por favor.' — 'I want a white shirt, please.'",
+        "ar": "سمعت: 'Quero uma camisa branca, por favor.' — 'أريد قميصًا أبيض، من فضلك.'"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "O vestido ___ bonito.",
+        "en": "O vestido ___ bonito.",
+        "ar": "O vestido ___ bonito."
+      },
+      "options": [
+        {
+          "pt": "camiseta",
+          "en": "camiseta",
+          "ar": "camiseta"
+        },
+        {
+          "pt": "sapatos",
+          "en": "sapatos",
+          "ar": "sapatos"
+        },
+        {
+          "pt": "é",
+          "en": "é",
+          "ar": "é"
+        }
+      ],
+      "answer": "é",
+      "accepted": [],
+      "explanation": {
+        "pt": "A resposta é 'é'. Frase completa: O vestido é bonito.",
+        "en": "The answer is 'é'. Full sentence: The dress is pretty.",
+        "ar": "الإجابة الصحيحة: 'é'. الجملة كاملة: الفستان جميل."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Boa",
+          "en": "Boa",
+          "ar": "Boa"
+        },
+        {
+          "pt": "ajudar?",
+          "en": "ajudar?",
+          "ar": "ajudar?"
+        },
+        {
+          "pt": "Posso",
+          "en": "Posso",
+          "ar": "Posso"
+        },
+        {
+          "pt": "tarde!",
+          "en": "tarde!",
+          "ar": "tarde!"
+        }
+      ],
+      "answer": "Boa tarde! Posso ajudar?",
+      "accepted": [
+        "Boa tarde! Posso ajudar?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Boa tarde! Posso ajudar?'",
+        "en": "The correct order: 'Good afternoon! Can I help you?'",
+        "ar": "الترتيب الصحيح: 'مساء الخير! هل يمكنني مساعدتك؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "preto",
+          "en": "black",
+          "ar": "preto"
+        },
+        {
+          "pt": "verde",
+          "en": "red",
+          "ar": "verde"
+        },
+        {
+          "pt": "azul",
+          "en": "green",
+          "ar": "azul"
+        },
+        {
+          "pt": "branco",
+          "en": "blue",
+          "ar": "branco"
+        },
+        {
+          "pt": "vermelho",
+          "en": "white",
+          "ar": "vermelho"
+        },
+        {
+          "pt": "amarelo",
+          "en": "yellow",
+          "ar": "amarelo"
+        }
+      ],
+      "answer": "preto::black|verde::red|azul::green|branco::blue|vermelho::white|amarelo::yellow",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Boa tarde! Posso ajudar?",
+          "en": "We have this shirt. It's very pretty.",
+          "ar": "لدينا هذا القميص. إنه جميل جدًا."
+        },
+        {
+          "pt": "Temos esta camisa. É muito bonita.",
+          "en": "Good afternoon! Can I help you?",
+          "ar": "مساء الخير! هل يمكنني مساعدتك؟"
+        },
+        {
+          "pt": "Sim, custa noventa reais.",
+          "en": "Yes, it costs ninety reais.",
+          "ar": "نعم، سعره تسعون ريالًا."
+        }
+      ],
+      "answer": "Boa tarde! Posso ajudar?",
+      "accepted": [],
+      "audio": "Boa tarde! Posso ajudar?",
+      "explanation": {
+        "pt": "Você ouviu: 'Boa tarde! Posso ajudar?' — 'Good afternoon! Can I help you?'",
+        "en": "You heard: 'Boa tarde! Posso ajudar?' — 'Good afternoon! Can I help you?'",
+        "ar": "سمعت: 'Boa tarde! Posso ajudar?' — 'مساء الخير! هل يمكنني مساعدتك؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Boa tarde! Posso ajudar?",
+          "en": "Good afternoon! Can I help you?",
+          "ar": "والبنطال الأسود؟ هل هو في تخفيضات؟"
+        },
+        {
+          "pt": "Quero uma camisa branca, por favor.",
+          "en": "I want a white shirt, please.",
+          "ar": "أريد قميصًا أبيض، من فضلك."
+        },
+        {
+          "pt": "E a calça preta? Está em promoção?",
+          "en": "And the black pants? Are they on sale?",
+          "ar": "مساء الخير! هل يمكنني مساعدتك؟"
+        }
+      ],
+      "answer": "Quero uma camisa branca, por favor.",
+      "accepted": [],
+      "audio": "Quero uma camisa branca, por favor.",
+      "explanation": {
+        "pt": "Você ouviu: 'Quero uma camisa branca, por favor.' — 'I want a white shirt, please.'",
+        "en": "You heard: 'Quero uma camisa branca, por favor.' — 'I want a white shirt, please.'",
+        "ar": "سمعت: 'Quero uma camisa branca, por favor.' — 'أريد قميصًا أبيض، من فضلك.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "ajudar?",
+          "en": "ajudar?",
+          "ar": "ajudar?"
+        },
+        {
+          "pt": "Boa",
+          "en": "Boa",
+          "ar": "Boa"
+        },
+        {
+          "pt": "Posso",
+          "en": "Posso",
+          "ar": "Posso"
+        },
+        {
+          "pt": "tarde!",
+          "en": "tarde!",
+          "ar": "tarde!"
+        }
+      ],
+      "answer": "Boa tarde! Posso ajudar?",
+      "accepted": [
+        "Boa tarde! Posso ajudar?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Boa tarde! Posso ajudar?'",
+        "en": "The correct order: 'Good afternoon! Can I help you?'",
+        "ar": "الترتيب الصحيح: 'مساء الخير! هل يمكنني مساعدتك؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "branco",
+          "en": "black",
+          "ar": "branco"
+        },
+        {
+          "pt": "amarelo",
+          "en": "white",
+          "ar": "amarelo"
+        },
+        {
+          "pt": "vermelho",
+          "en": "green",
+          "ar": "vermelho"
+        },
+        {
+          "pt": "azul",
+          "en": "yellow",
+          "ar": "azul"
+        },
+        {
+          "pt": "preto",
+          "en": "blue",
+          "ar": "preto"
+        },
+        {
+          "pt": "verde",
+          "en": "red",
+          "ar": "verde"
+        }
+      ],
+      "answer": "branco::black|amarelo::white|vermelho::green|azul::yellow|preto::blue|verde::red",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "E a calça preta? Está em promoção?",
+          "en": "Good afternoon! Can I help you?",
+          "ar": "والبنطال الأسود؟ هل هو في تخفيضات؟"
+        },
+        {
+          "pt": "Quero uma camisa branca, por favor.",
+          "en": "And the black pants? Are they on sale?",
+          "ar": "مساء الخير! هل يمكنني مساعدتك؟"
+        },
+        {
+          "pt": "Boa tarde! Posso ajudar?",
+          "en": "I want a white shirt, please.",
+          "ar": "أريد قميصًا أبيض، من فضلك."
+        }
+      ],
+      "answer": "Boa tarde! Posso ajudar?",
+      "accepted": [],
+      "audio": "Boa tarde! Posso ajudar?",
+      "explanation": {
+        "pt": "Você ouviu: 'Boa tarde! Posso ajudar?' — 'Good afternoon! Can I help you?'",
+        "en": "You heard: 'Boa tarde! Posso ajudar?' — 'Good afternoon! Can I help you?'",
+        "ar": "سمعت: 'Boa tarde! Posso ajudar?' — 'مساء الخير! هل يمكنني مساعدتك؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Quero uma camisa branca, por favor.",
+          "en": "We have this shirt. It's very pretty.",
+          "ar": "أريد قميصًا أبيض، من فضلك."
+        },
+        {
+          "pt": "Temos esta camisa. É muito bonita.",
+          "en": "And the black pants? Are they on sale?",
+          "ar": "والبنطال الأسود؟ هل هو في تخفيضات؟"
+        },
+        {
+          "pt": "E a calça preta? Está em promoção?",
+          "en": "I want a white shirt, please.",
+          "ar": "لدينا هذا القميص. إنه جميل جدًا."
+        }
+      ],
+      "answer": "Quero uma camisa branca, por favor.",
+      "accepted": [],
+      "audio": "Quero uma camisa branca, por favor.",
+      "explanation": {
+        "pt": "Você ouviu: 'Quero uma camisa branca, por favor.' — 'I want a white shirt, please.'",
+        "en": "You heard: 'Quero uma camisa branca, por favor.' — 'I want a white shirt, please.'",
+        "ar": "سمعت: 'Quero uma camisa branca, por favor.' — 'أريد قميصًا أبيض، من فضلك.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "ajudar?",
+          "en": "ajudar?",
+          "ar": "ajudar?"
+        },
+        {
+          "pt": "tarde!",
+          "en": "tarde!",
+          "ar": "tarde!"
+        },
+        {
+          "pt": "Posso",
+          "en": "Posso",
+          "ar": "Posso"
+        },
+        {
+          "pt": "Boa",
+          "en": "Boa",
+          "ar": "Boa"
+        }
+      ],
+      "answer": "Boa tarde! Posso ajudar?",
+      "accepted": [
+        "Boa tarde! Posso ajudar?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Boa tarde! Posso ajudar?'",
+        "en": "The correct order: 'Good afternoon! Can I help you?'",
+        "ar": "الترتيب الصحيح: 'مساء الخير! هل يمكنني مساعدتك؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "amarelo",
+          "en": "blue",
+          "ar": "amarelo"
+        },
+        {
+          "pt": "azul",
+          "en": "yellow",
+          "ar": "azul"
+        },
+        {
+          "pt": "verde",
+          "en": "black",
+          "ar": "verde"
+        },
+        {
+          "pt": "vermelho",
+          "en": "white",
+          "ar": "vermelho"
+        },
+        {
+          "pt": "preto",
+          "en": "red",
+          "ar": "preto"
+        },
+        {
+          "pt": "branco",
+          "en": "green",
+          "ar": "branco"
+        }
+      ],
+      "answer": "amarelo::blue|azul::yellow|verde::black|vermelho::white|preto::red|branco::green",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Boa tarde! Posso ajudar?",
+          "en": "Good afternoon! Can I help you?",
+          "ar": "نعم، سعره تسعون ريالًا."
+        },
+        {
+          "pt": "Sim, custa noventa reais.",
+          "en": "Yes, it costs ninety reais.",
+          "ar": "مساء الخير! هل يمكنني مساعدتك؟"
+        },
+        {
+          "pt": "Temos esta camisa. É muito bonita.",
+          "en": "We have this shirt. It's very pretty.",
+          "ar": "لدينا هذا القميص. إنه جميل جدًا."
+        }
+      ],
+      "answer": "Boa tarde! Posso ajudar?",
+      "accepted": [],
+      "audio": "Boa tarde! Posso ajudar?",
+      "explanation": {
+        "pt": "Você ouviu: 'Boa tarde! Posso ajudar?' — 'Good afternoon! Can I help you?'",
+        "en": "You heard: 'Boa tarde! Posso ajudar?' — 'Good afternoon! Can I help you?'",
+        "ar": "سمعت: 'Boa tarde! Posso ajudar?' — 'مساء الخير! هل يمكنني مساعدتك؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Quero uma camisa branca, por favor.",
+          "en": "We have this shirt. It's very pretty.",
+          "ar": "أريد قميصًا أبيض، من فضلك."
+        },
+        {
+          "pt": "E a calça preta? Está em promoção?",
+          "en": "And the black pants? Are they on sale?",
+          "ar": "والبنطال الأسود؟ هل هو في تخفيضات؟"
+        },
+        {
+          "pt": "Temos esta camisa. É muito bonita.",
+          "en": "I want a white shirt, please.",
+          "ar": "لدينا هذا القميص. إنه جميل جدًا."
+        }
+      ],
+      "answer": "Quero uma camisa branca, por favor.",
+      "accepted": [],
+      "audio": "Quero uma camisa branca, por favor.",
+      "explanation": {
+        "pt": "Você ouviu: 'Quero uma camisa branca, por favor.' — 'I want a white shirt, please.'",
+        "en": "You heard: 'Quero uma camisa branca, por favor.' — 'I want a white shirt, please.'",
+        "ar": "سمعت: 'Quero uma camisa branca, por favor.' — 'أريد قميصًا أبيض، من فضلك.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Posso",
+          "en": "Posso",
+          "ar": "Posso"
+        },
+        {
+          "pt": "tarde!",
+          "en": "tarde!",
+          "ar": "tarde!"
+        },
+        {
+          "pt": "ajudar?",
+          "en": "ajudar?",
+          "ar": "ajudar?"
+        },
+        {
+          "pt": "Boa",
+          "en": "Boa",
+          "ar": "Boa"
+        }
+      ],
+      "answer": "Boa tarde! Posso ajudar?",
+      "accepted": [
+        "Boa tarde! Posso ajudar?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Boa tarde! Posso ajudar?'",
+        "en": "The correct order: 'Good afternoon! Can I help you?'",
+        "ar": "الترتيب الصحيح: 'مساء الخير! هل يمكنني مساعدتك؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "azul",
+          "en": "red",
+          "ar": "azul"
+        },
+        {
+          "pt": "branco",
+          "en": "black",
+          "ar": "branco"
+        },
+        {
+          "pt": "verde",
+          "en": "blue",
+          "ar": "verde"
+        },
+        {
+          "pt": "amarelo",
+          "en": "green",
+          "ar": "amarelo"
+        },
+        {
+          "pt": "preto",
+          "en": "yellow",
+          "ar": "preto"
+        },
+        {
+          "pt": "vermelho",
+          "en": "white",
+          "ar": "vermelho"
+        }
+      ],
+      "answer": "azul::red|branco::black|verde::blue|amarelo::green|preto::yellow|vermelho::white",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Temos esta camisa. É muito bonita.",
+          "en": "And the black pants? Are they on sale?",
+          "ar": "لدينا هذا القميص. إنه جميل جدًا."
+        },
+        {
+          "pt": "Boa tarde! Posso ajudar?",
+          "en": "We have this shirt. It's very pretty.",
+          "ar": "مساء الخير! هل يمكنني مساعدتك؟"
+        },
+        {
+          "pt": "E a calça preta? Está em promoção?",
+          "en": "Good afternoon! Can I help you?",
+          "ar": "والبنطال الأسود؟ هل هو في تخفيضات؟"
+        }
+      ],
+      "answer": "Boa tarde! Posso ajudar?",
+      "accepted": [],
+      "audio": "Boa tarde! Posso ajudar?",
+      "explanation": {
+        "pt": "Você ouviu: 'Boa tarde! Posso ajudar?' — 'Good afternoon! Can I help you?'",
+        "en": "You heard: 'Boa tarde! Posso ajudar?' — 'Good afternoon! Can I help you?'",
+        "ar": "سمعت: 'Boa tarde! Posso ajudar?' — 'مساء الخير! هل يمكنني مساعدتك؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Quero uma camisa branca, por favor.",
+          "en": "We have this shirt. It's very pretty.",
+          "ar": "لدينا هذا القميص. إنه جميل جدًا."
+        },
+        {
+          "pt": "Sim, custa noventa reais.",
+          "en": "I want a white shirt, please.",
+          "ar": "نعم، سعره تسعون ريالًا."
+        },
+        {
+          "pt": "Temos esta camisa. É muito bonita.",
+          "en": "Yes, it costs ninety reais.",
+          "ar": "أريد قميصًا أبيض، من فضلك."
+        }
+      ],
+      "answer": "Quero uma camisa branca, por favor.",
+      "accepted": [],
+      "audio": "Quero uma camisa branca, por favor.",
+      "explanation": {
+        "pt": "Você ouviu: 'Quero uma camisa branca, por favor.' — 'I want a white shirt, please.'",
+        "en": "You heard: 'Quero uma camisa branca, por favor.' — 'I want a white shirt, please.'",
+        "ar": "سمعت: 'Quero uma camisa branca, por favor.' — 'أريد قميصًا أبيض، من فضلك.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Posso",
+          "en": "Posso",
+          "ar": "Posso"
+        },
+        {
+          "pt": "Boa",
+          "en": "Boa",
+          "ar": "Boa"
+        },
+        {
+          "pt": "ajudar?",
+          "en": "ajudar?",
+          "ar": "ajudar?"
+        },
+        {
+          "pt": "tarde!",
+          "en": "tarde!",
+          "ar": "tarde!"
+        }
+      ],
+      "answer": "Boa tarde! Posso ajudar?",
+      "accepted": [
+        "Boa tarde! Posso ajudar?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Boa tarde! Posso ajudar?'",
+        "en": "The correct order: 'Good afternoon! Can I help you?'",
+        "ar": "الترتيب الصحيح: 'مساء الخير! هل يمكنني مساعدتك؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "preto",
+          "en": "yellow",
+          "ar": "preto"
+        },
+        {
+          "pt": "azul",
+          "en": "black",
+          "ar": "azul"
+        },
+        {
+          "pt": "amarelo",
+          "en": "white",
+          "ar": "amarelo"
+        },
+        {
+          "pt": "vermelho",
+          "en": "green",
+          "ar": "vermelho"
+        },
+        {
+          "pt": "verde",
+          "en": "red",
+          "ar": "verde"
+        },
+        {
+          "pt": "branco",
+          "en": "blue",
+          "ar": "branco"
+        }
+      ],
+      "answer": "preto::yellow|azul::black|amarelo::white|vermelho::green|verde::red|branco::blue",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Quero uma camisa branca, por favor.",
+          "en": "We have this shirt. It's very pretty.",
+          "ar": "مساء الخير! هل يمكنني مساعدتك؟"
+        },
+        {
+          "pt": "Boa tarde! Posso ajudar?",
+          "en": "Good afternoon! Can I help you?",
+          "ar": "لدينا هذا القميص. إنه جميل جدًا."
+        },
+        {
+          "pt": "Temos esta camisa. É muito bonita.",
+          "en": "I want a white shirt, please.",
+          "ar": "أريد قميصًا أبيض، من فضلك."
+        }
+      ],
+      "answer": "Boa tarde! Posso ajudar?",
+      "accepted": [],
+      "audio": "Boa tarde! Posso ajudar?",
+      "explanation": {
+        "pt": "Você ouviu: 'Boa tarde! Posso ajudar?' — 'Good afternoon! Can I help you?'",
+        "en": "You heard: 'Boa tarde! Posso ajudar?' — 'Good afternoon! Can I help you?'",
+        "ar": "سمعت: 'Boa tarde! Posso ajudar?' — 'مساء الخير! هل يمكنني مساعدتك؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "E a calça preta? Está em promoção?",
+          "en": "I want a white shirt, please.",
+          "ar": "والبنطال الأسود؟ هل هو في تخفيضات؟"
+        },
+        {
+          "pt": "Quero uma camisa branca, por favor.",
+          "en": "Yes, it costs ninety reais.",
+          "ar": "أريد قميصًا أبيض، من فضلك."
+        },
+        {
+          "pt": "Sim, custa noventa reais.",
+          "en": "And the black pants? Are they on sale?",
+          "ar": "نعم، سعره تسعون ريالًا."
+        }
+      ],
+      "answer": "Quero uma camisa branca, por favor.",
+      "accepted": [],
+      "audio": "Quero uma camisa branca, por favor.",
+      "explanation": {
+        "pt": "Você ouviu: 'Quero uma camisa branca, por favor.' — 'I want a white shirt, please.'",
+        "en": "You heard: 'Quero uma camisa branca, por favor.' — 'I want a white shirt, please.'",
+        "ar": "سمعت: 'Quero uma camisa branca, por favor.' — 'أريد قميصًا أبيض، من فضلك.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Boa",
+          "en": "Boa",
+          "ar": "Boa"
+        },
+        {
+          "pt": "Posso",
+          "en": "Posso",
+          "ar": "Posso"
+        },
+        {
+          "pt": "tarde!",
+          "en": "tarde!",
+          "ar": "tarde!"
+        },
+        {
+          "pt": "ajudar?",
+          "en": "ajudar?",
+          "ar": "ajudar?"
+        }
+      ],
+      "answer": "Boa tarde! Posso ajudar?",
+      "accepted": [
+        "Boa tarde! Posso ajudar?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Boa tarde! Posso ajudar?'",
+        "en": "The correct order: 'Good afternoon! Can I help you?'",
+        "ar": "الترتيب الصحيح: 'مساء الخير! هل يمكنني مساعدتك؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "verde",
+          "en": "white",
+          "ar": "verde"
+        },
+        {
+          "pt": "branco",
+          "en": "yellow",
+          "ar": "branco"
+        },
+        {
+          "pt": "amarelo",
+          "en": "red",
+          "ar": "amarelo"
+        },
+        {
+          "pt": "preto",
+          "en": "green",
+          "ar": "preto"
+        },
+        {
+          "pt": "azul",
+          "en": "black",
+          "ar": "azul"
+        },
+        {
+          "pt": "vermelho",
+          "en": "blue",
+          "ar": "vermelho"
+        }
+      ],
+      "answer": "verde::white|branco::yellow|amarelo::red|preto::green|azul::black|vermelho::blue",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Quero uma camisa branca, por favor.",
+          "en": "And the black pants? Are they on sale?",
+          "ar": "أريد قميصًا أبيض، من فضلك."
+        },
+        {
+          "pt": "E a calça preta? Está em promoção?",
+          "en": "I want a white shirt, please.",
+          "ar": "والبنطال الأسود؟ هل هو في تخفيضات؟"
+        },
+        {
+          "pt": "Boa tarde! Posso ajudar?",
+          "en": "Good afternoon! Can I help you?",
+          "ar": "مساء الخير! هل يمكنني مساعدتك؟"
+        }
+      ],
+      "answer": "Boa tarde! Posso ajudar?",
+      "accepted": [],
+      "audio": "Boa tarde! Posso ajudar?",
+      "explanation": {
+        "pt": "Você ouviu: 'Boa tarde! Posso ajudar?' — 'Good afternoon! Can I help you?'",
+        "en": "You heard: 'Boa tarde! Posso ajudar?' — 'Good afternoon! Can I help you?'",
+        "ar": "سمعت: 'Boa tarde! Posso ajudar?' — 'مساء الخير! هل يمكنني مساعدتك؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "E a calça preta? Está em promoção?",
+          "en": "And the black pants? Are they on sale?",
+          "ar": "والبنطال الأسود؟ هل هو في تخفيضات؟"
+        },
+        {
+          "pt": "Quero uma camisa branca, por favor.",
+          "en": "I want a white shirt, please.",
+          "ar": "أريد قميصًا أبيض، من فضلك."
+        },
+        {
+          "pt": "Sim, custa noventa reais.",
+          "en": "Yes, it costs ninety reais.",
+          "ar": "نعم، سعره تسعون ريالًا."
+        }
+      ],
+      "answer": "Quero uma camisa branca, por favor.",
+      "accepted": [],
+      "audio": "Quero uma camisa branca, por favor.",
+      "explanation": {
+        "pt": "Você ouviu: 'Quero uma camisa branca, por favor.' — 'I want a white shirt, please.'",
+        "en": "You heard: 'Quero uma camisa branca, por favor.' — 'I want a white shirt, please.'",
+        "ar": "سمعت: 'Quero uma camisa branca, por favor.' — 'أريد قميصًا أبيض، من فضلك.'"
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'red'",
+        "en": "Type in Portuguese: 'red'",
+        "ar": "اكتب بالبرتغالية: 'أحمر'"
+      },
+      "options": [],
+      "answer": "vermelho",
+      "accepted": [
+        "vermelho"
+      ],
+      "explanation": {
+        "pt": "'vermelho' significa 'red'.",
+        "en": "'vermelho' means 'red'.",
+        "ar": "'$vermelho' بالعربية: '$أحمر'."
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'blue'",
+        "en": "Type in Portuguese: 'blue'",
+        "ar": "اكتب بالبرتغالية: 'أزرق'"
+      },
+      "options": [],
+      "answer": "azul",
+      "accepted": [
+        "azul"
+      ],
+      "explanation": {
+        "pt": "'azul' significa 'blue'.",
+        "en": "'azul' means 'blue'.",
+        "ar": "'$azul' بالعربية: '$أزرق'."
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Boa tarde! Posso ajudar?",
+          "en": "Boa tarde! Posso ajudar?",
+          "ar": "Boa tarde! Posso ajudar?"
+        },
+        {
+          "pt": "Sim, custa noventa reais.",
+          "en": "Sim, custa noventa reais.",
+          "ar": "Sim, custa noventa reais."
+        },
+        {
+          "pt": "Temos esta camisa. É muito bonita.",
+          "en": "Temos esta camisa. É muito bonita.",
+          "ar": "Temos esta camisa. É muito bonita."
+        }
+      ],
+      "answer": "Boa tarde! Posso ajudar?",
+      "accepted": [],
+      "audio": "Boa tarde! Posso ajudar?",
+      "explanation": {
+        "pt": "Você ouviu: 'Boa tarde! Posso ajudar?'",
+        "en": "You heard: 'Boa tarde! Posso ajudar?'",
+        "ar": "سمعت: 'Boa tarde! Posso ajudar?'"
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Sim, custa noventa reais.",
+          "en": "Sim, custa noventa reais.",
+          "ar": "Sim, custa noventa reais."
+        },
+        {
+          "pt": "Temos esta camisa. É muito bonita.",
+          "en": "Temos esta camisa. É muito bonita.",
+          "ar": "Temos esta camisa. É muito bonita."
+        },
+        {
+          "pt": "Quero uma camisa branca, por favor.",
+          "en": "Quero uma camisa branca, por favor.",
+          "ar": "Quero uma camisa branca, por favor."
+        }
+      ],
+      "answer": "Quero uma camisa branca, por favor.",
+      "accepted": [],
+      "audio": "Quero uma camisa branca, por favor.",
+      "explanation": {
+        "pt": "Você ouviu: 'Quero uma camisa branca, por favor.'",
+        "en": "You heard: 'Quero uma camisa branca, por favor.'",
+        "ar": "سمعت: 'Quero uma camisa branca, por favor.'"
+      }
+    },
+    {
+      "type": "dictation",
+      "prompt": {
+        "pt": "Ouça e escreva o que você ouviu.",
+        "en": "Listen and type what you hear.",
+        "ar": "استمع واكتب ما سمعته."
+      },
+      "options": [],
+      "answer": "Boa tarde! Posso ajudar?",
+      "accepted": [],
+      "audio": "Boa tarde! Posso ajudar?",
+      "explanation": {
+        "pt": "A frase correta: 'Boa tarde! Posso ajudar?'",
+        "en": "The correct sentence: 'Boa tarde! Posso ajudar?'",
+        "ar": "الجملة الصحيحة: 'Boa tarde! Posso ajudar?'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "ajudar?",
+          "en": "ajudar?",
+          "ar": "ajudar?"
+        },
+        {
+          "pt": "Posso",
+          "en": "Posso",
+          "ar": "Posso"
+        },
+        {
+          "pt": "Boa",
+          "en": "Boa",
+          "ar": "Boa"
+        },
+        {
+          "pt": "tarde!",
+          "en": "tarde!",
+          "ar": "tarde!"
+        }
+      ],
+      "answer": "Boa tarde! Posso ajudar?",
+      "accepted": [
+        "Boa tarde! Posso ajudar?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Boa tarde! Posso ajudar?'",
+        "en": "The correct order: 'Good afternoon! Can I help you?'",
+        "ar": "الترتيب الصحيح: 'مساء الخير! هل يمكنني مساعدتك؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "verde",
+          "en": "yellow",
+          "ar": "verde"
+        },
+        {
+          "pt": "azul",
+          "en": "black",
+          "ar": "azul"
+        },
+        {
+          "pt": "branco",
+          "en": "blue",
+          "ar": "branco"
+        },
+        {
+          "pt": "vermelho",
+          "en": "green",
+          "ar": "vermelho"
+        },
+        {
+          "pt": "amarelo",
+          "en": "white",
+          "ar": "amarelo"
+        },
+        {
+          "pt": "preto",
+          "en": "red",
+          "ar": "preto"
+        }
+      ],
+      "answer": "verde::yellow|azul::black|branco::blue|vermelho::green|amarelo::white|preto::red",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Quero uma camisa branca, por favor.",
+          "en": "Good afternoon! Can I help you?",
+          "ar": "أريد قميصًا أبيض، من فضلك."
+        },
+        {
+          "pt": "Temos esta camisa. É muito bonita.",
+          "en": "I want a white shirt, please.",
+          "ar": "مساء الخير! هل يمكنني مساعدتك؟"
+        },
+        {
+          "pt": "Boa tarde! Posso ajudar?",
+          "en": "We have this shirt. It's very pretty.",
+          "ar": "لدينا هذا القميص. إنه جميل جدًا."
+        }
+      ],
+      "answer": "Boa tarde! Posso ajudar?",
+      "accepted": [],
+      "audio": "Boa tarde! Posso ajudar?",
+      "explanation": {
+        "pt": "Você ouviu: 'Boa tarde! Posso ajudar?' — 'Good afternoon! Can I help you?'",
+        "en": "You heard: 'Boa tarde! Posso ajudar?' — 'Good afternoon! Can I help you?'",
+        "ar": "سمعت: 'Boa tarde! Posso ajudar?' — 'مساء الخير! هل يمكنني مساعدتك؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim, custa noventa reais.",
+          "en": "And the black pants? Are they on sale?",
+          "ar": "أريد قميصًا أبيض، من فضلك."
+        },
+        {
+          "pt": "Quero uma camisa branca, por favor.",
+          "en": "I want a white shirt, please.",
+          "ar": "نعم، سعره تسعون ريالًا."
+        },
+        {
+          "pt": "E a calça preta? Está em promoção?",
+          "en": "Yes, it costs ninety reais.",
+          "ar": "والبنطال الأسود؟ هل هو في تخفيضات؟"
+        }
+      ],
+      "answer": "Quero uma camisa branca, por favor.",
+      "accepted": [],
+      "audio": "Quero uma camisa branca, por favor.",
+      "explanation": {
+        "pt": "Você ouviu: 'Quero uma camisa branca, por favor.' — 'I want a white shirt, please.'",
+        "en": "You heard: 'Quero uma camisa branca, por favor.' — 'I want a white shirt, please.'",
+        "ar": "سمعت: 'Quero uma camisa branca, por favor.' — 'أريد قميصًا أبيض، من فضلك.'"
+      }
+    }
+  ],
+  "speaking": {
+    "title": {
+      "pt": "Fale Agora — Ouça e Repita",
+      "en": "Speak Now — Listen and Repeat",
+      "ar": "تحدث الآن — استمع وكرر"
+    },
+    "phrases": [
+      {
+        "pt": "Boa tarde! Posso ajudar?",
+        "en": "Good afternoon! Can I help you?",
+        "ar": "مساء الخير! هل يمكنني مساعدتك؟"
+      },
+      {
+        "pt": "Quero uma camisa branca, por favor.",
+        "en": "I want a white shirt, please.",
+        "ar": "أريد قميصًا أبيض، من فضلك."
+      },
+      {
+        "pt": "Temos esta camisa. É muito bonita.",
+        "en": "We have this shirt. It's very pretty.",
+        "ar": "لدينا هذا القميص. إنه جميل جدًا."
+      },
+      {
+        "pt": "E a calça preta? Está em promoção?",
+        "en": "And the black pants? Are they on sale?",
+        "ar": "والبنطال الأسود؟ هل هو في تخفيضات؟"
+      },
+      {
+        "pt": "Sim, custa noventa reais.",
+        "en": "Yes, it costs ninety reais.",
+        "ar": "نعم، سعره تسعون ريالًا."
+      },
+      {
+        "pt": "vermelho",
+        "en": "red",
+        "ar": "أحمر"
+      },
+      {
+        "pt": "azul",
+        "en": "blue",
+        "ar": "أزرق"
+      },
+      {
+        "pt": "amarelo",
+        "en": "yellow",
+        "ar": "أصفر"
+      }
+    ]
+  },
+  "cultural_tips": {
+    "pt": "",
+    "en": "",
+    "ar": ""
+  }
+}

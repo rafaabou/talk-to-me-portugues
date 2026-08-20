@@ -1,0 +1,1891 @@
+{
+  "id": "A2-12",
+  "level": "A2",
+  "level_name": {
+    "pt": "Básico",
+    "en": "Elementary",
+    "ar": "أساسي"
+  },
+  "title": {
+    "pt": "Revisão A2",
+    "en": "A2 Review",
+    "ar": "مراجعة المستوى A2"
+  },
+  "objectives": [
+    {
+      "pt": "Revisar o vocabulário das lições A2-01 a A2-11",
+      "en": "Review vocabulary from lessons A2-01 to A2-11",
+      "ar": "مراجعة مفردات الدروس من A2-01 إلى A2-11"
+    },
+    {
+      "pt": "Revisar os tempos verbais (passado e futuro)",
+      "en": "Review verb tenses (past and future)",
+      "ar": "مراجعة الأزمنة (الماضي والمستقبل)"
+    },
+    {
+      "pt": "Praticar conversação com pronomes e imperativo",
+      "en": "Practice conversation with pronouns and the imperative",
+      "ar": "ممارسة المحادثة مع الضمائر وصيغة الأمر"
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "ontem",
+      "ipa": "/ˈõ.tẽj/",
+      "en": "yesterday",
+      "ar": "أمس",
+      "example": {
+        "pt": "O que você fez ontem?",
+        "en": "What did you do yesterday?",
+        "ar": "ماذا فعلت بالأمس؟"
+      }
+    },
+    {
+      "pt": "o dinheiro",
+      "ipa": "/u dʒiˈɲej.ɾu/",
+      "en": "the money",
+      "ar": "المال",
+      "example": {
+        "pt": "O que você fez ontem?",
+        "en": "What did you do yesterday?",
+        "ar": "ماذا فعلت بالأمس؟"
+      }
+    },
+    {
+      "pt": "a loja",
+      "ipa": "/a ˈlɔ.ʒa/",
+      "en": "the store",
+      "ar": "المتجر",
+      "example": {
+        "pt": "Vou visitar a praia e comprar um presente para minha mãe.",
+        "en": "I am going to visit the beach and buy a gift for my mother.",
+        "ar": "سأزور الشاطئ وأشتري هدية لأمي."
+      }
+    },
+    {
+      "pt": "o preço",
+      "ipa": "/u ˈpɾe.su/",
+      "en": "the price",
+      "ar": "السعر",
+      "example": {
+        "pt": "O que você fez ontem?",
+        "en": "What did you do yesterday?",
+        "ar": "ماذا فعلت بالأمس؟"
+      }
+    },
+    {
+      "pt": "a viagem",
+      "ipa": "/a viˈa.ʒẽj/",
+      "en": "the trip",
+      "ar": "الرحلة",
+      "example": {
+        "pt": "Vou visitar a praia e comprar um presente para minha mãe.",
+        "en": "I am going to visit the beach and buy a gift for my mother.",
+        "ar": "سأزور الشاطئ وأشتري هدية لأمي."
+      }
+    },
+    {
+      "pt": "a praia",
+      "ipa": "/a ˈpɾaj.a/",
+      "en": "the beach",
+      "ar": "الشاطئ",
+      "example": {
+        "pt": "Vou visitar a praia e comprar um presente para minha mãe.",
+        "en": "I am going to visit the beach and buy a gift for my mother.",
+        "ar": "سأزور الشاطئ وأشتري هدية لأمي."
+      }
+    },
+    {
+      "pt": "mais",
+      "ipa": "/majs/",
+      "en": "more",
+      "ar": "أكثر",
+      "example": {
+        "pt": "Fale mais devagar, por favor.",
+        "en": "Speak more slowly, please.",
+        "ar": "تكلّم ببطء أكثر، من فضلك."
+      }
+    },
+    {
+      "pt": "o verão",
+      "ipa": "/u veˈɾɐ̃w/",
+      "en": "the summer",
+      "ar": "الصيف",
+      "example": {
+        "pt": "O que você fez ontem?",
+        "en": "What did you do yesterday?",
+        "ar": "ماذا فعلت بالأمس؟"
+      }
+    },
+    {
+      "pt": "amanhã",
+      "ipa": "/a.mɐˈɲɐ̃/",
+      "en": "tomorrow",
+      "ar": "غدًا",
+      "example": {
+        "pt": "Que lembrança bonita! E o que você vai fazer amanhã?",
+        "en": "What a nice memory! And what are you going to do tomorrow?",
+        "ar": "يا لها من ذكرى جميلة! وماذا ستفعلين غدًا؟"
+      }
+    },
+    {
+      "pt": "o médico",
+      "ipa": "/u ˈmɛ.dʒi.ku/",
+      "en": "the doctor",
+      "ar": "الطبيب",
+      "example": {
+        "pt": "O que você fez ontem?",
+        "en": "What did you do yesterday?",
+        "ar": "ماذا فعلت بالأمس؟"
+      }
+    },
+    {
+      "pt": "o celular",
+      "ipa": "/u se.luˈlaʁ/",
+      "en": "the cell phone",
+      "ar": "الهاتف المحمول",
+      "example": {
+        "pt": "O que você fez ontem?",
+        "en": "What did you do yesterday?",
+        "ar": "ماذا فعلت بالأمس؟"
+      }
+    },
+    {
+      "pt": "ligar",
+      "ipa": "/liˈɡaʁ/",
+      "en": "to call",
+      "ar": "يتصل",
+      "example": {
+        "pt": "Ótimo! Não esqueça de me ligar quando voltar.",
+        "en": "Great! Do not forget to call me when you come back.",
+        "ar": "رائع! لا تنسي الاتصال بي عندما تعودين."
+      }
+    },
+    {
+      "pt": "quando",
+      "ipa": "/ˈkwɐ̃.du/",
+      "en": "when",
+      "ar": "عندما",
+      "example": {
+        "pt": "Quando eu era criança, eu adorava ir ao mercado com meu pai.",
+        "en": "When I was a child, I loved going to the market with my father.",
+        "ar": "عندما كنت طفلة، كنت أحب الذهاب إلى السوق مع أبي."
+      }
+    },
+    {
+      "pt": "a infância",
+      "ipa": "/a ĩˈfɐ̃.si.a/",
+      "en": "the childhood",
+      "ar": "الطفولة",
+      "example": {
+        "pt": "Vou visitar a praia e comprar um presente para minha mãe.",
+        "en": "I am going to visit the beach and buy a gift for my mother.",
+        "ar": "سأزور الشاطئ وأشتري هدية لأمي."
+      }
+    },
+    {
+      "pt": "o passado",
+      "ipa": "/u paˈsa.du/",
+      "en": "the past",
+      "ar": "الماضي",
+      "example": {
+        "pt": "O que você fez ontem?",
+        "en": "What did you do yesterday?",
+        "ar": "ماذا فعلت بالأمس؟"
+      }
+    },
+    {
+      "pt": "o futuro",
+      "ipa": "/u fuˈtu.ɾu/",
+      "en": "the future",
+      "ar": "المستقبل",
+      "example": {
+        "pt": "O que você fez ontem?",
+        "en": "What did you do yesterday?",
+        "ar": "ماذا فعلت بالأمس؟"
+      }
+    },
+    {
+      "pt": "a saudade",
+      "ipa": "/a sawˈda.dʒi/",
+      "en": "longing / nostalgia",
+      "ar": "الحنين",
+      "example": {
+        "pt": "Vou visitar a praia e comprar um presente para minha mãe.",
+        "en": "I am going to visit the beach and buy a gift for my mother.",
+        "ar": "سأزور الشاطئ وأشتري هدية لأمي."
+      }
+    },
+    {
+      "pt": "por isso",
+      "ipa": "/puɾ ˈi.su/",
+      "en": "therefore / that is why",
+      "ar": "لذلك",
+      "example": {
+        "pt": "Fale mais devagar, por favor.",
+        "en": "Speak more slowly, please.",
+        "ar": "تكلّم ببطء أكثر، من فضلك."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "title": {
+        "pt": "Revisão dos Tempos Verbais",
+        "en": "Review of Verb Tenses",
+        "ar": "مراجعة الأزمنة"
+      },
+      "explanation": {
+        "pt": "Revisamos dois tempos do passado: o pretérito perfeito para ações completas ('Ontem eu trabalhei muito') e o pretérito imperfeito para hábitos e cenários ('Quando era criança, eu brincava na rua'). O futuro usa 'ir + infinitivo' ('Vou viajar').",
+        "en": "We reviewed two past tenses: the simple past for completed actions ('Ontem eu trabalhei muito' - Yesterday I worked a lot) and the past imperfect for habits and scenes ('Quando era criança, eu brincava na rua' - When I was a child, I played in the street). The future uses 'ir + infinitive' ('Vou viajar' - I am going to travel).",
+        "ar": "راجعنا زمنين للماضي: الماضي التام للأفعال المنجزة ('Ontem eu trabalhei muito' - بالأمس عملت كثيرًا) والماضي الناقص للعادات والمشاهد ('Quando era criança, eu brincava na rua' - عندما كنت طفلًا كنت ألعب في الشارع). المستقبل يستخدم 'ir + صيغة المصدر' ('Vou viajar' - سأسافر)."
+      },
+      "examples": [
+        {
+          "pt": "Ontem eu trabalhei muito, mas hoje vou descansar.",
+          "en": "Yesterday I worked a lot, but today I am going to rest.",
+          "ar": "بالأمس عملت كثيرًا، لكنني سأستريح اليوم."
+        },
+        {
+          "pt": "Quando eu era pequeno, morava com minha avó.",
+          "en": "When I was little, I lived with my grandmother.",
+          "ar": "عندما كنت صغيرًا، كنت أسكن مع جدتي."
+        },
+        {
+          "pt": "Amanhã vamos visitar o museu.",
+          "en": "Tomorrow we are going to visit the museum.",
+          "ar": "غدًا سنزور المتحف."
+        }
+      ]
+    },
+    {
+      "title": {
+        "pt": "Revisão dos Pronomes e do Imperativo",
+        "en": "Review of Pronouns and the Imperative",
+        "ar": "مراجعة الضمائر وصيغة الأمر"
+      },
+      "explanation": {
+        "pt": "Os pronomes oblíquos (me, te, lhe, nos) substituem objetos: 'Eu te vejo', 'Ela me ajudou', 'Nós lhe damos o presente'. O imperativo dá ordens e conselhos: 'Fale devagar', 'Não fume aqui'.",
+        "en": "The object pronouns (me, te, lhe, nos) replace objects: 'Eu te vejo' (I see you), 'Ela me ajudou' (She helped me), 'Nós lhe damos o presente' (We give him/her the gift). The imperative gives orders and advice: 'Fale devagar' (Speak slowly), 'Não fume aqui' (Do not smoke here).",
+        "ar": "ضمائر المفعول (me، te، lhe، nos) تحل محل المفعول به: 'Eu te vejo' (أراك)، 'Ela me ajudou' (ساعدتني)، 'Nós lhe damos o presente' (نعطيه الهدية). صيغة الأمر تصدر الأوامر والنصائح: 'Fale devagar' (تكلّم ببطء)، 'Não fume aqui' (لا تدخن هنا)."
+      },
+      "examples": [
+        {
+          "pt": "Eu te ligo depois.",
+          "en": "I will call you later.",
+          "ar": "سأتصل بك لاحقًا."
+        },
+        {
+          "pt": "Pode me ajudar com a mala?",
+          "en": "Can you help me with the suitcase?",
+          "ar": "هل يمكنك مساعدتي بالحقيبة؟"
+        },
+        {
+          "pt": "Fale mais devagar, por favor.",
+          "en": "Speak more slowly, please.",
+          "ar": "تكلّم ببطء أكثر، من فضلك."
+        }
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": {
+      "pt": "Conversa de Revisão",
+      "en": "Review Conversation",
+      "ar": "محادثة مراجعة"
+    },
+    "lines": [
+      {
+        "speaker": "Leila",
+        "pt": "O que você fez ontem?",
+        "en": "What did you do yesterday?",
+        "ar": "ماذا فعلت بالأمس؟"
+      },
+      {
+        "speaker": "Omar",
+        "pt": "Eu trabalhei de manhã e à tarde fui ao mercado.",
+        "en": "I worked in the morning and went to the market in the afternoon.",
+        "ar": "عملت صباحًا وذهبت إلى السوق في الظهيرة."
+      },
+      {
+        "speaker": "Leila",
+        "pt": "Quando eu era criança, eu adorava ir ao mercado com meu pai.",
+        "en": "When I was a child, I loved going to the market with my father.",
+        "ar": "عندما كنت طفلة، كنت أحب الذهاب إلى السوق مع أبي."
+      },
+      {
+        "speaker": "Omar",
+        "pt": "Que lembrança bonita! E o que você vai fazer amanhã?",
+        "en": "What a nice memory! And what are you going to do tomorrow?",
+        "ar": "يا لها من ذكرى جميلة! وماذا ستفعلين غدًا؟"
+      },
+      {
+        "speaker": "Leila",
+        "pt": "Vou visitar a praia e comprar um presente para minha mãe.",
+        "en": "I am going to visit the beach and buy a gift for my mother.",
+        "ar": "سأزور الشاطئ وأشتري هدية لأمي."
+      },
+      {
+        "speaker": "Omar",
+        "pt": "Ótimo! Não esqueça de me ligar quando voltar.",
+        "en": "Great! Do not forget to call me when you come back.",
+        "ar": "رائع! لا تنسي الاتصال بي عندما تعودين."
+      }
+    ]
+  },
+  "reading": {
+    "title": {
+      "pt": "O Fim do Nível A2",
+      "en": "The End of Level A2",
+      "ar": "نهاية المستوى A2"
+    },
+    "text_pt": "O nível A2 termina com muita coisa aprendida. Agora você fala do passado, do futuro e do presente; faz compras, viaja e marca consultas. Você compara coisas, dá conselhos e conta histórias. Parabéns, você está pronto para o próximo nível: B1!",
+    "text_en": "Level A2 ends with a lot learned. Now you talk about the past, the future and the present; you shop, travel and book appointments. You compare things, give advice and tell stories. Congratulations, you are ready for the next level: B1!",
+    "text_ar": "ينتهي المستوى A2 وقد تعلّمت الكثير. الآن تتحدث عن الماضي والمستقبل والحاضر؛ تتسوق وتسافر وتحدد المواعيد. تقارن الأشياء وتقدم النصائح وتحكي القصص. مبروك، أنت جاهز للمستوى التالي: B1!"
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Ontem eu ___ muito. (trabalhar)",
+        "en": "Yesterday I ___ a lot. (trabalhar)",
+        "ar": "بالأمس أنا ___ كثيرًا. (trabalhar)"
+      },
+      "options": [
+        {
+          "pt": "trabalhei",
+          "en": "trabalhei",
+          "ar": "trabalhei"
+        },
+        {
+          "pt": "trabalhava",
+          "en": "trabalhava",
+          "ar": "trabalhava"
+        },
+        {
+          "pt": "trabalharei",
+          "en": "trabalharei",
+          "ar": "trabalharei"
+        }
+      ],
+      "answer": "trabalhei",
+      "explanation": {
+        "pt": "Ação completa no passado = pretérito perfeito: trabalhei.",
+        "en": "Completed action in the past = simple past: trabalhei.",
+        "ar": "الفعل المنجز في الماضي = الماضي التام: trabalhei."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Amanhã nós ___ visitar o museu.",
+        "en": "Tomorrow we ___ visit the museum.",
+        "ar": "غدًا نحن ___ نزور المتحف."
+      },
+      "options": [
+        {
+          "pt": "vamos",
+          "en": "vamos",
+          "ar": "vamos"
+        },
+        {
+          "pt": "vão",
+          "en": "vão",
+          "ar": "vão"
+        },
+        {
+          "pt": "vai",
+          "en": "vai",
+          "ar": "vai"
+        }
+      ],
+      "answer": "vamos",
+      "explanation": {
+        "pt": "Futuro imediato com 'nós': vamos visitar.",
+        "en": "Immediate future with 'nós': vamos visitar.",
+        "ar": "المستقبل القريب مع 'nós': vamos visitar."
+      }
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza: 'yesterday'",
+        "en": "Translate: 'yesterday'",
+        "ar": "ترجم: 'yesterday'"
+      },
+      "options": [],
+      "answer": "ontem",
+      "explanation": {
+        "pt": "'Ontem' = yesterday.",
+        "en": "'Ontem' = yesterday.",
+        "ar": "'ontem' = أمس."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "ontem?",
+          "en": "ontem?",
+          "ar": "ontem?"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "fez",
+          "en": "fez",
+          "ar": "fez"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        }
+      ],
+      "answer": "O que você fez ontem?",
+      "accepted": [
+        "O que você fez ontem?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'O que você fez ontem?'",
+        "en": "The correct order: 'What did you do yesterday?'",
+        "ar": "الترتيب الصحيح: 'ماذا فعلت بالأمس؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o dinheiro",
+          "en": "yesterday",
+          "ar": "o dinheiro"
+        },
+        {
+          "pt": "a loja",
+          "en": "the money",
+          "ar": "a loja"
+        },
+        {
+          "pt": "a viagem",
+          "en": "the trip",
+          "ar": "a viagem"
+        },
+        {
+          "pt": "ontem",
+          "en": "the price",
+          "ar": "ontem"
+        },
+        {
+          "pt": "a praia",
+          "en": "the beach",
+          "ar": "a praia"
+        },
+        {
+          "pt": "o preço",
+          "en": "the store",
+          "ar": "o preço"
+        }
+      ],
+      "answer": "o dinheiro::yesterday|a loja::the money|a viagem::the trip|ontem::the price|a praia::the beach|o preço::the store",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Eu trabalhei de manhã e à tarde fui ao mercado.",
+          "en": "When I was a child, I loved going to the market with my father.",
+          "ar": "ماذا فعلت بالأمس؟"
+        },
+        {
+          "pt": "O que você fez ontem?",
+          "en": "I worked in the morning and went to the market in the afternoon.",
+          "ar": "عملت صباحًا وذهبت إلى السوق في الظهيرة."
+        },
+        {
+          "pt": "Quando eu era criança, eu adorava ir ao mercado com meu pai.",
+          "en": "What did you do yesterday?",
+          "ar": "عندما كنت طفلة، كنت أحب الذهاب إلى السوق مع أبي."
+        }
+      ],
+      "answer": "O que você fez ontem?",
+      "accepted": [],
+      "audio": "O que você fez ontem?",
+      "explanation": {
+        "pt": "Você ouviu: 'O que você fez ontem?' — 'What did you do yesterday?'",
+        "en": "You heard: 'O que você fez ontem?' — 'What did you do yesterday?'",
+        "ar": "سمعت: 'O que você fez ontem?' — 'ماذا فعلت بالأمس؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Eu trabalhei de manhã e à tarde fui ao mercado.",
+          "en": "I worked in the morning and went to the market in the afternoon.",
+          "ar": "عملت صباحًا وذهبت إلى السوق في الظهيرة."
+        },
+        {
+          "pt": "Ótimo! Não esqueça de me ligar quando voltar.",
+          "en": "What a nice memory! And what are you going to do tomorrow?",
+          "ar": "رائع! لا تنسي الاتصال بي عندما تعودين."
+        },
+        {
+          "pt": "Que lembrança bonita! E o que você vai fazer amanhã?",
+          "en": "Great! Do not forget to call me when you come back.",
+          "ar": "يا لها من ذكرى جميلة! وماذا ستفعلين غدًا؟"
+        }
+      ],
+      "answer": "Eu trabalhei de manhã e à tarde fui ao mercado.",
+      "accepted": [],
+      "audio": "Eu trabalhei de manhã e à tarde fui ao mercado.",
+      "explanation": {
+        "pt": "Você ouviu: 'Eu trabalhei de manhã e à tarde fui ao mercado.' — 'I worked in the morning and went to the market in the afternoon.'",
+        "en": "You heard: 'Eu trabalhei de manhã e à tarde fui ao mercado.' — 'I worked in the morning and went to the market in the afternoon.'",
+        "ar": "سمعت: 'Eu trabalhei de manhã e à tarde fui ao mercado.' — 'عملت صباحًا وذهبت إلى السوق في الظهيرة.'"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Ontem ___ trabalhei muito, mas hoje vou descansar.",
+        "en": "Ontem ___ trabalhei muito, mas hoje vou descansar.",
+        "ar": "Ontem ___ trabalhei muito, mas hoje vou descansar."
+      },
+      "options": [
+        {
+          "pt": "eu",
+          "en": "eu",
+          "ar": "eu"
+        },
+        {
+          "pt": "Amanhã",
+          "en": "Amanhã",
+          "ar": "Amanhã"
+        },
+        {
+          "pt": "Quando",
+          "en": "Quando",
+          "ar": "Quando"
+        }
+      ],
+      "answer": "eu",
+      "accepted": [],
+      "explanation": {
+        "pt": "A resposta é 'eu'. Frase completa: Ontem eu trabalhei muito, mas hoje vou descansar.",
+        "en": "The answer is 'eu'. Full sentence: Yesterday I worked a lot, but today I am going to rest.",
+        "ar": "الإجابة الصحيحة: 'eu'. الجملة كاملة: بالأمس عملت كثيرًا، لكنني سأستريح اليوم."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "fez",
+          "en": "fez",
+          "ar": "fez"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "ontem?",
+          "en": "ontem?",
+          "ar": "ontem?"
+        }
+      ],
+      "answer": "O que você fez ontem?",
+      "accepted": [
+        "O que você fez ontem?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'O que você fez ontem?'",
+        "en": "The correct order: 'What did you do yesterday?'",
+        "ar": "الترتيب الصحيح: 'ماذا فعلت بالأمس؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a loja",
+          "en": "yesterday",
+          "ar": "a loja"
+        },
+        {
+          "pt": "a viagem",
+          "en": "the store",
+          "ar": "a viagem"
+        },
+        {
+          "pt": "o dinheiro",
+          "en": "the price",
+          "ar": "o dinheiro"
+        },
+        {
+          "pt": "ontem",
+          "en": "the beach",
+          "ar": "ontem"
+        },
+        {
+          "pt": "o preço",
+          "en": "the trip",
+          "ar": "o preço"
+        },
+        {
+          "pt": "a praia",
+          "en": "the money",
+          "ar": "a praia"
+        }
+      ],
+      "answer": "a loja::yesterday|a viagem::the store|o dinheiro::the price|ontem::the beach|o preço::the trip|a praia::the money",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Quando eu era criança, eu adorava ir ao mercado com meu pai.",
+          "en": "What did you do yesterday?",
+          "ar": "سأزور الشاطئ وأشتري هدية لأمي."
+        },
+        {
+          "pt": "Vou visitar a praia e comprar um presente para minha mãe.",
+          "en": "I am going to visit the beach and buy a gift for my mother.",
+          "ar": "عندما كنت طفلة، كنت أحب الذهاب إلى السوق مع أبي."
+        },
+        {
+          "pt": "O que você fez ontem?",
+          "en": "When I was a child, I loved going to the market with my father.",
+          "ar": "ماذا فعلت بالأمس؟"
+        }
+      ],
+      "answer": "O que você fez ontem?",
+      "accepted": [],
+      "audio": "O que você fez ontem?",
+      "explanation": {
+        "pt": "Você ouviu: 'O que você fez ontem?' — 'What did you do yesterday?'",
+        "en": "You heard: 'O que você fez ontem?' — 'What did you do yesterday?'",
+        "ar": "سمعت: 'O que você fez ontem?' — 'ماذا فعلت بالأمس؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Quando eu era criança, eu adorava ir ao mercado com meu pai.",
+          "en": "What did you do yesterday?",
+          "ar": "عندما كنت طفلة، كنت أحب الذهاب إلى السوق مع أبي."
+        },
+        {
+          "pt": "O que você fez ontem?",
+          "en": "When I was a child, I loved going to the market with my father.",
+          "ar": "ماذا فعلت بالأمس؟"
+        },
+        {
+          "pt": "Eu trabalhei de manhã e à tarde fui ao mercado.",
+          "en": "I worked in the morning and went to the market in the afternoon.",
+          "ar": "عملت صباحًا وذهبت إلى السوق في الظهيرة."
+        }
+      ],
+      "answer": "Eu trabalhei de manhã e à tarde fui ao mercado.",
+      "accepted": [],
+      "audio": "Eu trabalhei de manhã e à tarde fui ao mercado.",
+      "explanation": {
+        "pt": "Você ouviu: 'Eu trabalhei de manhã e à tarde fui ao mercado.' — 'I worked in the morning and went to the market in the afternoon.'",
+        "en": "You heard: 'Eu trabalhei de manhã e à tarde fui ao mercado.' — 'I worked in the morning and went to the market in the afternoon.'",
+        "ar": "سمعت: 'Eu trabalhei de manhã e à tarde fui ao mercado.' — 'عملت صباحًا وذهبت إلى السوق في الظهيرة.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "ontem?",
+          "en": "ontem?",
+          "ar": "ontem?"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "fez",
+          "en": "fez",
+          "ar": "fez"
+        }
+      ],
+      "answer": "O que você fez ontem?",
+      "accepted": [
+        "O que você fez ontem?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'O que você fez ontem?'",
+        "en": "The correct order: 'What did you do yesterday?'",
+        "ar": "الترتيب الصحيح: 'ماذا فعلت بالأمس؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "ontem",
+          "en": "the beach",
+          "ar": "ontem"
+        },
+        {
+          "pt": "a viagem",
+          "en": "the trip",
+          "ar": "a viagem"
+        },
+        {
+          "pt": "a praia",
+          "en": "the price",
+          "ar": "a praia"
+        },
+        {
+          "pt": "o preço",
+          "en": "the money",
+          "ar": "o preço"
+        },
+        {
+          "pt": "o dinheiro",
+          "en": "yesterday",
+          "ar": "o dinheiro"
+        },
+        {
+          "pt": "a loja",
+          "en": "the store",
+          "ar": "a loja"
+        }
+      ],
+      "answer": "ontem::the beach|a viagem::the trip|a praia::the price|o preço::the money|o dinheiro::yesterday|a loja::the store",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "O que você fez ontem?",
+          "en": "I worked in the morning and went to the market in the afternoon.",
+          "ar": "سأزور الشاطئ وأشتري هدية لأمي."
+        },
+        {
+          "pt": "Eu trabalhei de manhã e à tarde fui ao mercado.",
+          "en": "I am going to visit the beach and buy a gift for my mother.",
+          "ar": "ماذا فعلت بالأمس؟"
+        },
+        {
+          "pt": "Vou visitar a praia e comprar um presente para minha mãe.",
+          "en": "What did you do yesterday?",
+          "ar": "عملت صباحًا وذهبت إلى السوق في الظهيرة."
+        }
+      ],
+      "answer": "O que você fez ontem?",
+      "accepted": [],
+      "audio": "O que você fez ontem?",
+      "explanation": {
+        "pt": "Você ouviu: 'O que você fez ontem?' — 'What did you do yesterday?'",
+        "en": "You heard: 'O que você fez ontem?' — 'What did you do yesterday?'",
+        "ar": "سمعت: 'O que você fez ontem?' — 'ماذا فعلت بالأمس؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Eu trabalhei de manhã e à tarde fui ao mercado.",
+          "en": "I worked in the morning and went to the market in the afternoon.",
+          "ar": "عملت صباحًا وذهبت إلى السوق في الظهيرة."
+        },
+        {
+          "pt": "Vou visitar a praia e comprar um presente para minha mãe.",
+          "en": "What did you do yesterday?",
+          "ar": "سأزور الشاطئ وأشتري هدية لأمي."
+        },
+        {
+          "pt": "O que você fez ontem?",
+          "en": "I am going to visit the beach and buy a gift for my mother.",
+          "ar": "ماذا فعلت بالأمس؟"
+        }
+      ],
+      "answer": "Eu trabalhei de manhã e à tarde fui ao mercado.",
+      "accepted": [],
+      "audio": "Eu trabalhei de manhã e à tarde fui ao mercado.",
+      "explanation": {
+        "pt": "Você ouviu: 'Eu trabalhei de manhã e à tarde fui ao mercado.' — 'I worked in the morning and went to the market in the afternoon.'",
+        "en": "You heard: 'Eu trabalhei de manhã e à tarde fui ao mercado.' — 'I worked in the morning and went to the market in the afternoon.'",
+        "ar": "سمعت: 'Eu trabalhei de manhã e à tarde fui ao mercado.' — 'عملت صباحًا وذهبت إلى السوق في الظهيرة.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "ontem?",
+          "en": "ontem?",
+          "ar": "ontem?"
+        },
+        {
+          "pt": "fez",
+          "en": "fez",
+          "ar": "fez"
+        }
+      ],
+      "answer": "O que você fez ontem?",
+      "accepted": [
+        "O que você fez ontem?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'O que você fez ontem?'",
+        "en": "The correct order: 'What did you do yesterday?'",
+        "ar": "الترتيب الصحيح: 'ماذا فعلت بالأمس؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a praia",
+          "en": "the beach",
+          "ar": "a praia"
+        },
+        {
+          "pt": "o preço",
+          "en": "the store",
+          "ar": "o preço"
+        },
+        {
+          "pt": "o dinheiro",
+          "en": "the price",
+          "ar": "o dinheiro"
+        },
+        {
+          "pt": "a viagem",
+          "en": "the trip",
+          "ar": "a viagem"
+        },
+        {
+          "pt": "a loja",
+          "en": "the money",
+          "ar": "a loja"
+        },
+        {
+          "pt": "ontem",
+          "en": "yesterday",
+          "ar": "ontem"
+        }
+      ],
+      "answer": "a praia::the beach|o preço::the store|o dinheiro::the price|a viagem::the trip|a loja::the money|ontem::yesterday",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Eu trabalhei de manhã e à tarde fui ao mercado.",
+          "en": "I worked in the morning and went to the market in the afternoon.",
+          "ar": "ماذا فعلت بالأمس؟"
+        },
+        {
+          "pt": "O que você fez ontem?",
+          "en": "Great! Do not forget to call me when you come back.",
+          "ar": "عملت صباحًا وذهبت إلى السوق في الظهيرة."
+        },
+        {
+          "pt": "Ótimo! Não esqueça de me ligar quando voltar.",
+          "en": "What did you do yesterday?",
+          "ar": "رائع! لا تنسي الاتصال بي عندما تعودين."
+        }
+      ],
+      "answer": "O que você fez ontem?",
+      "accepted": [],
+      "audio": "O que você fez ontem?",
+      "explanation": {
+        "pt": "Você ouviu: 'O que você fez ontem?' — 'What did you do yesterday?'",
+        "en": "You heard: 'O que você fez ontem?' — 'What did you do yesterday?'",
+        "ar": "سمعت: 'O que você fez ontem?' — 'ماذا فعلت بالأمس؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Quando eu era criança, eu adorava ir ao mercado com meu pai.",
+          "en": "When I was a child, I loved going to the market with my father.",
+          "ar": "عندما كنت طفلة، كنت أحب الذهاب إلى السوق مع أبي."
+        },
+        {
+          "pt": "Que lembrança bonita! E o que você vai fazer amanhã?",
+          "en": "What a nice memory! And what are you going to do tomorrow?",
+          "ar": "يا لها من ذكرى جميلة! وماذا ستفعلين غدًا؟"
+        },
+        {
+          "pt": "Eu trabalhei de manhã e à tarde fui ao mercado.",
+          "en": "I worked in the morning and went to the market in the afternoon.",
+          "ar": "عملت صباحًا وذهبت إلى السوق في الظهيرة."
+        }
+      ],
+      "answer": "Eu trabalhei de manhã e à tarde fui ao mercado.",
+      "accepted": [],
+      "audio": "Eu trabalhei de manhã e à tarde fui ao mercado.",
+      "explanation": {
+        "pt": "Você ouviu: 'Eu trabalhei de manhã e à tarde fui ao mercado.' — 'I worked in the morning and went to the market in the afternoon.'",
+        "en": "You heard: 'Eu trabalhei de manhã e à tarde fui ao mercado.' — 'I worked in the morning and went to the market in the afternoon.'",
+        "ar": "سمعت: 'Eu trabalhei de manhã e à tarde fui ao mercado.' — 'عملت صباحًا وذهبت إلى السوق في الظهيرة.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "ontem?",
+          "en": "ontem?",
+          "ar": "ontem?"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "fez",
+          "en": "fez",
+          "ar": "fez"
+        }
+      ],
+      "answer": "O que você fez ontem?",
+      "accepted": [
+        "O que você fez ontem?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'O que você fez ontem?'",
+        "en": "The correct order: 'What did you do yesterday?'",
+        "ar": "الترتيب الصحيح: 'ماذا فعلت بالأمس؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o preço",
+          "en": "the beach",
+          "ar": "o preço"
+        },
+        {
+          "pt": "a viagem",
+          "en": "the trip",
+          "ar": "a viagem"
+        },
+        {
+          "pt": "a loja",
+          "en": "the store",
+          "ar": "a loja"
+        },
+        {
+          "pt": "a praia",
+          "en": "the price",
+          "ar": "a praia"
+        },
+        {
+          "pt": "o dinheiro",
+          "en": "yesterday",
+          "ar": "o dinheiro"
+        },
+        {
+          "pt": "ontem",
+          "en": "the money",
+          "ar": "ontem"
+        }
+      ],
+      "answer": "o preço::the beach|a viagem::the trip|a loja::the store|a praia::the price|o dinheiro::yesterday|ontem::the money",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Quando eu era criança, eu adorava ir ao mercado com meu pai.",
+          "en": "What a nice memory! And what are you going to do tomorrow?",
+          "ar": "عندما كنت طفلة، كنت أحب الذهاب إلى السوق مع أبي."
+        },
+        {
+          "pt": "Que lembrança bonita! E o que você vai fazer amanhã?",
+          "en": "When I was a child, I loved going to the market with my father.",
+          "ar": "يا لها من ذكرى جميلة! وماذا ستفعلين غدًا؟"
+        },
+        {
+          "pt": "O que você fez ontem?",
+          "en": "What did you do yesterday?",
+          "ar": "ماذا فعلت بالأمس؟"
+        }
+      ],
+      "answer": "O que você fez ontem?",
+      "accepted": [],
+      "audio": "O que você fez ontem?",
+      "explanation": {
+        "pt": "Você ouviu: 'O que você fez ontem?' — 'What did you do yesterday?'",
+        "en": "You heard: 'O que você fez ontem?' — 'What did you do yesterday?'",
+        "ar": "سمعت: 'O que você fez ontem?' — 'ماذا فعلت بالأمس؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Que lembrança bonita! E o que você vai fazer amanhã?",
+          "en": "I am going to visit the beach and buy a gift for my mother.",
+          "ar": "عملت صباحًا وذهبت إلى السوق في الظهيرة."
+        },
+        {
+          "pt": "Eu trabalhei de manhã e à tarde fui ao mercado.",
+          "en": "What a nice memory! And what are you going to do tomorrow?",
+          "ar": "يا لها من ذكرى جميلة! وماذا ستفعلين غدًا؟"
+        },
+        {
+          "pt": "Vou visitar a praia e comprar um presente para minha mãe.",
+          "en": "I worked in the morning and went to the market in the afternoon.",
+          "ar": "سأزور الشاطئ وأشتري هدية لأمي."
+        }
+      ],
+      "answer": "Eu trabalhei de manhã e à tarde fui ao mercado.",
+      "accepted": [],
+      "audio": "Eu trabalhei de manhã e à tarde fui ao mercado.",
+      "explanation": {
+        "pt": "Você ouviu: 'Eu trabalhei de manhã e à tarde fui ao mercado.' — 'I worked in the morning and went to the market in the afternoon.'",
+        "en": "You heard: 'Eu trabalhei de manhã e à tarde fui ao mercado.' — 'I worked in the morning and went to the market in the afternoon.'",
+        "ar": "سمعت: 'Eu trabalhei de manhã e à tarde fui ao mercado.' — 'عملت صباحًا وذهبت إلى السوق في الظهيرة.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "fez",
+          "en": "fez",
+          "ar": "fez"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "ontem?",
+          "en": "ontem?",
+          "ar": "ontem?"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        }
+      ],
+      "answer": "O que você fez ontem?",
+      "accepted": [
+        "O que você fez ontem?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'O que você fez ontem?'",
+        "en": "The correct order: 'What did you do yesterday?'",
+        "ar": "الترتيب الصحيح: 'ماذا فعلت بالأمس؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a viagem",
+          "en": "the money",
+          "ar": "a viagem"
+        },
+        {
+          "pt": "a praia",
+          "en": "the beach",
+          "ar": "a praia"
+        },
+        {
+          "pt": "ontem",
+          "en": "the store",
+          "ar": "ontem"
+        },
+        {
+          "pt": "o preço",
+          "en": "the price",
+          "ar": "o preço"
+        },
+        {
+          "pt": "o dinheiro",
+          "en": "the trip",
+          "ar": "o dinheiro"
+        },
+        {
+          "pt": "a loja",
+          "en": "yesterday",
+          "ar": "a loja"
+        }
+      ],
+      "answer": "a viagem::the money|a praia::the beach|ontem::the store|o preço::the price|o dinheiro::the trip|a loja::yesterday",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Eu trabalhei de manhã e à tarde fui ao mercado.",
+          "en": "Great! Do not forget to call me when you come back.",
+          "ar": "رائع! لا تنسي الاتصال بي عندما تعودين."
+        },
+        {
+          "pt": "O que você fez ontem?",
+          "en": "What did you do yesterday?",
+          "ar": "ماذا فعلت بالأمس؟"
+        },
+        {
+          "pt": "Ótimo! Não esqueça de me ligar quando voltar.",
+          "en": "I worked in the morning and went to the market in the afternoon.",
+          "ar": "عملت صباحًا وذهبت إلى السوق في الظهيرة."
+        }
+      ],
+      "answer": "O que você fez ontem?",
+      "accepted": [],
+      "audio": "O que você fez ontem?",
+      "explanation": {
+        "pt": "Você ouviu: 'O que você fez ontem?' — 'What did you do yesterday?'",
+        "en": "You heard: 'O que você fez ontem?' — 'What did you do yesterday?'",
+        "ar": "سمعت: 'O que você fez ontem?' — 'ماذا فعلت بالأمس؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "O que você fez ontem?",
+          "en": "What did you do yesterday?",
+          "ar": "ماذا فعلت بالأمس؟"
+        },
+        {
+          "pt": "Quando eu era criança, eu adorava ir ao mercado com meu pai.",
+          "en": "When I was a child, I loved going to the market with my father.",
+          "ar": "عملت صباحًا وذهبت إلى السوق في الظهيرة."
+        },
+        {
+          "pt": "Eu trabalhei de manhã e à tarde fui ao mercado.",
+          "en": "I worked in the morning and went to the market in the afternoon.",
+          "ar": "عندما كنت طفلة، كنت أحب الذهاب إلى السوق مع أبي."
+        }
+      ],
+      "answer": "Eu trabalhei de manhã e à tarde fui ao mercado.",
+      "accepted": [],
+      "audio": "Eu trabalhei de manhã e à tarde fui ao mercado.",
+      "explanation": {
+        "pt": "Você ouviu: 'Eu trabalhei de manhã e à tarde fui ao mercado.' — 'I worked in the morning and went to the market in the afternoon.'",
+        "en": "You heard: 'Eu trabalhei de manhã e à tarde fui ao mercado.' — 'I worked in the morning and went to the market in the afternoon.'",
+        "ar": "سمعت: 'Eu trabalhei de manhã e à tarde fui ao mercado.' — 'عملت صباحًا وذهبت إلى السوق في الظهيرة.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "fez",
+          "en": "fez",
+          "ar": "fez"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "ontem?",
+          "en": "ontem?",
+          "ar": "ontem?"
+        }
+      ],
+      "answer": "O que você fez ontem?",
+      "accepted": [
+        "O que você fez ontem?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'O que você fez ontem?'",
+        "en": "The correct order: 'What did you do yesterday?'",
+        "ar": "الترتيب الصحيح: 'ماذا فعلت بالأمس؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "ontem",
+          "en": "the money",
+          "ar": "ontem"
+        },
+        {
+          "pt": "a praia",
+          "en": "the beach",
+          "ar": "a praia"
+        },
+        {
+          "pt": "a viagem",
+          "en": "yesterday",
+          "ar": "a viagem"
+        },
+        {
+          "pt": "a loja",
+          "en": "the trip",
+          "ar": "a loja"
+        },
+        {
+          "pt": "o preço",
+          "en": "the store",
+          "ar": "o preço"
+        },
+        {
+          "pt": "o dinheiro",
+          "en": "the price",
+          "ar": "o dinheiro"
+        }
+      ],
+      "answer": "ontem::the money|a praia::the beach|a viagem::yesterday|a loja::the trip|o preço::the store|o dinheiro::the price",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Vou visitar a praia e comprar um presente para minha mãe.",
+          "en": "What a nice memory! And what are you going to do tomorrow?",
+          "ar": "سأزور الشاطئ وأشتري هدية لأمي."
+        },
+        {
+          "pt": "Que lembrança bonita! E o que você vai fazer amanhã?",
+          "en": "What did you do yesterday?",
+          "ar": "ماذا فعلت بالأمس؟"
+        },
+        {
+          "pt": "O que você fez ontem?",
+          "en": "I am going to visit the beach and buy a gift for my mother.",
+          "ar": "يا لها من ذكرى جميلة! وماذا ستفعلين غدًا؟"
+        }
+      ],
+      "answer": "O que você fez ontem?",
+      "accepted": [],
+      "audio": "O que você fez ontem?",
+      "explanation": {
+        "pt": "Você ouviu: 'O que você fez ontem?' — 'What did you do yesterday?'",
+        "en": "You heard: 'O que você fez ontem?' — 'What did you do yesterday?'",
+        "ar": "سمعت: 'O que você fez ontem?' — 'ماذا فعلت بالأمس؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Eu trabalhei de manhã e à tarde fui ao mercado.",
+          "en": "I worked in the morning and went to the market in the afternoon.",
+          "ar": "عملت صباحًا وذهبت إلى السوق في الظهيرة."
+        },
+        {
+          "pt": "Vou visitar a praia e comprar um presente para minha mãe.",
+          "en": "Great! Do not forget to call me when you come back.",
+          "ar": "سأزور الشاطئ وأشتري هدية لأمي."
+        },
+        {
+          "pt": "Ótimo! Não esqueça de me ligar quando voltar.",
+          "en": "I am going to visit the beach and buy a gift for my mother.",
+          "ar": "رائع! لا تنسي الاتصال بي عندما تعودين."
+        }
+      ],
+      "answer": "Eu trabalhei de manhã e à tarde fui ao mercado.",
+      "accepted": [],
+      "audio": "Eu trabalhei de manhã e à tarde fui ao mercado.",
+      "explanation": {
+        "pt": "Você ouviu: 'Eu trabalhei de manhã e à tarde fui ao mercado.' — 'I worked in the morning and went to the market in the afternoon.'",
+        "en": "You heard: 'Eu trabalhei de manhã e à tarde fui ao mercado.' — 'I worked in the morning and went to the market in the afternoon.'",
+        "ar": "سمعت: 'Eu trabalhei de manhã e à tarde fui ao mercado.' — 'عملت صباحًا وذهبت إلى السوق في الظهيرة.'"
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'yesterday'",
+        "en": "Type in Portuguese: 'yesterday'",
+        "ar": "اكتب بالبرتغالية: 'أمس'"
+      },
+      "options": [],
+      "answer": "ontem",
+      "accepted": [
+        "ontem"
+      ],
+      "explanation": {
+        "pt": "'ontem' significa 'yesterday'.",
+        "en": "'ontem' means 'yesterday'.",
+        "ar": "'$ontem' بالعربية: '$أمس'."
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'the money'",
+        "en": "Type in Portuguese: 'the money'",
+        "ar": "اكتب بالبرتغالية: 'المال'"
+      },
+      "options": [],
+      "answer": "o dinheiro",
+      "accepted": [
+        "o dinheiro"
+      ],
+      "explanation": {
+        "pt": "'o dinheiro' significa 'the money'.",
+        "en": "'o dinheiro' means 'the money'.",
+        "ar": "'$o dinheiro' بالعربية: '$المال'."
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Vou visitar a praia e comprar um presente para minha mãe.",
+          "en": "Vou visitar a praia e comprar um presente para minha mãe.",
+          "ar": "Vou visitar a praia e comprar um presente para minha mãe."
+        },
+        {
+          "pt": "Quando eu era criança, eu adorava ir ao mercado com meu pai.",
+          "en": "Quando eu era criança, eu adorava ir ao mercado com meu pai.",
+          "ar": "Quando eu era criança, eu adorava ir ao mercado com meu pai."
+        },
+        {
+          "pt": "O que você fez ontem?",
+          "en": "O que você fez ontem?",
+          "ar": "O que você fez ontem?"
+        }
+      ],
+      "answer": "O que você fez ontem?",
+      "accepted": [],
+      "audio": "O que você fez ontem?",
+      "explanation": {
+        "pt": "Você ouviu: 'O que você fez ontem?'",
+        "en": "You heard: 'O que você fez ontem?'",
+        "ar": "سمعت: 'O que você fez ontem?'"
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "O que você fez ontem?",
+          "en": "O que você fez ontem?",
+          "ar": "O que você fez ontem?"
+        },
+        {
+          "pt": "Que lembrança bonita! E o que você vai fazer amanhã?",
+          "en": "Que lembrança bonita! E o que você vai fazer amanhã?",
+          "ar": "Que lembrança bonita! E o que você vai fazer amanhã?"
+        },
+        {
+          "pt": "Eu trabalhei de manhã e à tarde fui ao mercado.",
+          "en": "Eu trabalhei de manhã e à tarde fui ao mercado.",
+          "ar": "Eu trabalhei de manhã e à tarde fui ao mercado."
+        }
+      ],
+      "answer": "Eu trabalhei de manhã e à tarde fui ao mercado.",
+      "accepted": [],
+      "audio": "Eu trabalhei de manhã e à tarde fui ao mercado.",
+      "explanation": {
+        "pt": "Você ouviu: 'Eu trabalhei de manhã e à tarde fui ao mercado.'",
+        "en": "You heard: 'Eu trabalhei de manhã e à tarde fui ao mercado.'",
+        "ar": "سمعت: 'Eu trabalhei de manhã e à tarde fui ao mercado.'"
+      }
+    },
+    {
+      "type": "dictation",
+      "prompt": {
+        "pt": "Ouça e escreva o que você ouviu.",
+        "en": "Listen and type what you hear.",
+        "ar": "استمع واكتب ما سمعته."
+      },
+      "options": [],
+      "answer": "O que você fez ontem?",
+      "accepted": [],
+      "audio": "O que você fez ontem?",
+      "explanation": {
+        "pt": "A frase correta: 'O que você fez ontem?'",
+        "en": "The correct sentence: 'O que você fez ontem?'",
+        "ar": "الجملة الصحيحة: 'O que você fez ontem?'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "fez",
+          "en": "fez",
+          "ar": "fez"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "ontem?",
+          "en": "ontem?",
+          "ar": "ontem?"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        }
+      ],
+      "answer": "O que você fez ontem?",
+      "accepted": [
+        "O que você fez ontem?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'O que você fez ontem?'",
+        "en": "The correct order: 'What did you do yesterday?'",
+        "ar": "الترتيب الصحيح: 'ماذا فعلت بالأمس؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o dinheiro",
+          "en": "the store",
+          "ar": "o dinheiro"
+        },
+        {
+          "pt": "ontem",
+          "en": "the money",
+          "ar": "ontem"
+        },
+        {
+          "pt": "a viagem",
+          "en": "yesterday",
+          "ar": "a viagem"
+        },
+        {
+          "pt": "a loja",
+          "en": "the price",
+          "ar": "a loja"
+        },
+        {
+          "pt": "o preço",
+          "en": "the beach",
+          "ar": "o preço"
+        },
+        {
+          "pt": "a praia",
+          "en": "the trip",
+          "ar": "a praia"
+        }
+      ],
+      "answer": "o dinheiro::the store|ontem::the money|a viagem::yesterday|a loja::the price|o preço::the beach|a praia::the trip",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Vou visitar a praia e comprar um presente para minha mãe.",
+          "en": "I am going to visit the beach and buy a gift for my mother.",
+          "ar": "ماذا فعلت بالأمس؟"
+        },
+        {
+          "pt": "O que você fez ontem?",
+          "en": "What a nice memory! And what are you going to do tomorrow?",
+          "ar": "سأزور الشاطئ وأشتري هدية لأمي."
+        },
+        {
+          "pt": "Que lembrança bonita! E o que você vai fazer amanhã?",
+          "en": "What did you do yesterday?",
+          "ar": "يا لها من ذكرى جميلة! وماذا ستفعلين غدًا؟"
+        }
+      ],
+      "answer": "O que você fez ontem?",
+      "accepted": [],
+      "audio": "O que você fez ontem?",
+      "explanation": {
+        "pt": "Você ouviu: 'O que você fez ontem?' — 'What did you do yesterday?'",
+        "en": "You heard: 'O que você fez ontem?' — 'What did you do yesterday?'",
+        "ar": "سمعت: 'O que você fez ontem?' — 'ماذا فعلت بالأمس؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Eu trabalhei de manhã e à tarde fui ao mercado.",
+          "en": "What a nice memory! And what are you going to do tomorrow?",
+          "ar": "عملت صباحًا وذهبت إلى السوق في الظهيرة."
+        },
+        {
+          "pt": "Que lembrança bonita! E o que você vai fazer amanhã?",
+          "en": "What did you do yesterday?",
+          "ar": "ماذا فعلت بالأمس؟"
+        },
+        {
+          "pt": "O que você fez ontem?",
+          "en": "I worked in the morning and went to the market in the afternoon.",
+          "ar": "يا لها من ذكرى جميلة! وماذا ستفعلين غدًا؟"
+        }
+      ],
+      "answer": "Eu trabalhei de manhã e à tarde fui ao mercado.",
+      "accepted": [],
+      "audio": "Eu trabalhei de manhã e à tarde fui ao mercado.",
+      "explanation": {
+        "pt": "Você ouviu: 'Eu trabalhei de manhã e à tarde fui ao mercado.' — 'I worked in the morning and went to the market in the afternoon.'",
+        "en": "You heard: 'Eu trabalhei de manhã e à tarde fui ao mercado.' — 'I worked in the morning and went to the market in the afternoon.'",
+        "ar": "سمعت: 'Eu trabalhei de manhã e à tarde fui ao mercado.' — 'عملت صباحًا وذهبت إلى السوق في الظهيرة.'"
+      }
+    }
+  ],
+  "speaking": {
+    "title": {
+      "pt": "Fale Agora — Ouça e Repita",
+      "en": "Speak Now — Listen and Repeat",
+      "ar": "تحدث الآن — استمع وكرر"
+    },
+    "phrases": [
+      {
+        "pt": "O que você fez ontem?",
+        "en": "What did you do yesterday?",
+        "ar": "ماذا فعلت بالأمس؟"
+      },
+      {
+        "pt": "Eu trabalhei de manhã e à tarde fui ao mercado.",
+        "en": "I worked in the morning and went to the market in the afternoon.",
+        "ar": "عملت صباحًا وذهبت إلى السوق في الظهيرة."
+      },
+      {
+        "pt": "Quando eu era criança, eu adorava ir ao mercado com meu pai.",
+        "en": "When I was a child, I loved going to the market with my father.",
+        "ar": "عندما كنت طفلة، كنت أحب الذهاب إلى السوق مع أبي."
+      },
+      {
+        "pt": "Que lembrança bonita! E o que você vai fazer amanhã?",
+        "en": "What a nice memory! And what are you going to do tomorrow?",
+        "ar": "يا لها من ذكرى جميلة! وماذا ستفعلين غدًا؟"
+      },
+      {
+        "pt": "Vou visitar a praia e comprar um presente para minha mãe.",
+        "en": "I am going to visit the beach and buy a gift for my mother.",
+        "ar": "سأزور الشاطئ وأشتري هدية لأمي."
+      },
+      {
+        "pt": "Ótimo! Não esqueça de me ligar quando voltar.",
+        "en": "Great! Do not forget to call me when you come back.",
+        "ar": "رائع! لا تنسي الاتصال بي عندما تعودين."
+      },
+      {
+        "pt": "ontem",
+        "en": "yesterday",
+        "ar": "أمس"
+      },
+      {
+        "pt": "o dinheiro",
+        "en": "the money",
+        "ar": "المال"
+      },
+      {
+        "pt": "a loja",
+        "en": "the store",
+        "ar": "المتجر"
+      }
+    ]
+  },
+  "cultural_tips": {
+    "pt": "",
+    "en": "",
+    "ar": ""
+  }
+}

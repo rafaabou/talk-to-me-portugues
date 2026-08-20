@@ -1,0 +1,2216 @@
+{
+  "id": "C2-05",
+  "level": "C2",
+  "level_name": {
+    "pt": "Proficiência",
+    "en": "Proficiency",
+    "ar": "إتقان"
+  },
+  "title": {
+    "pt": "Variações Regionais",
+    "en": "Regional Variations",
+    "ar": "الاختلافات الإقليمية"
+  },
+  "objectives": [
+    {
+      "pt": "Reconhecer as principais variações regionais do português do Brasil",
+      "en": "Recognize the main regional variations of Brazilian Portuguese",
+      "ar": "التعرف على الاختلافات الإقليمية الرئيسية في البرتغالية البرازيلية"
+    },
+    {
+      "pt": "Analisar o uso de 'tu', 'você' e 'a gente' nas regiões",
+      "en": "Analyze the use of 'tu', 'você' and 'a gente' across regions",
+      "ar": "تحليل استخدام 'tu' و'você' و'a gente' في المناطق"
+    },
+    {
+      "pt": "Compreender variações de gerúndio, prosódia e léxico",
+      "en": "Understand variations in the gerund, prosody and lexicon",
+      "ar": "فهم الاختلافات في المصدر المستمر والنبر والمفردات"
+    },
+    {
+      "pt": "Relacionar variação linguística a fatores sociais e geográficos",
+      "en": "Relate linguistic variation to social and geographic factors",
+      "ar": "ربط التنوع اللغوي بعوامل اجتماعية وجغرافية"
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "o regionalismo",
+      "ipa": "/xe.ʒi.o.naˈliz.mu/",
+      "en": "regionalism",
+      "ar": "الإقليمية / اللفظ الإقليمي",
+      "example": {
+        "pt": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
+        "en": "Sure. But just so you know, the restaurant next door is packed.",
+        "ar": "يمكن ذلك. لكن لتكن على علم، المطعم المجاور ممتلئ."
+      }
+    },
+    {
+      "pt": "o dialeto",
+      "ipa": "/dʒi.aˈlɛ.tu/",
+      "en": "dialect",
+      "ar": "اللهجة",
+      "example": {
+        "pt": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
+        "en": "Sure. But just so you know, the restaurant next door is packed.",
+        "ar": "يمكن ذلك. لكن لتكن على علم، المطعم المجاور ممتلئ."
+      }
+    },
+    {
+      "pt": "a gíria",
+      "ipa": "/ˈʒi.ɾi.a/",
+      "en": "slang",
+      "ar": "اللغة الدارجة",
+      "example": {
+        "pt": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
+        "en": "Do you (tu) want to have lunch with us, or are you heading straight to the lecture?",
+        "ar": "هل تريد الغداء معنا، أم ستتوجه مباشرة إلى المحاضرة؟"
+      }
+    },
+    {
+      "pt": "o sotaque",
+      "ipa": "/soˈta.ki/",
+      "en": "accent",
+      "ar": "اللهجة / النبر",
+      "example": {
+        "pt": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
+        "en": "Sure. But just so you know, the restaurant next door is packed.",
+        "ar": "يمكن ذلك. لكن لتكن على علم، المطعم المجاور ممتلئ."
+      }
+    },
+    {
+      "pt": "o falar nordestino",
+      "ipa": "/faˈlaʁ noʁ.desˈtʃĩ.nu/",
+      "en": "Northeastern speech",
+      "ar": "كلام الشمال الشرقي",
+      "example": {
+        "pt": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
+        "en": "Sure. But just so you know, the restaurant next door is packed.",
+        "ar": "يمكن ذلك. لكن لتكن على علم، المطعم المجاور ممتلئ."
+      }
+    },
+    {
+      "pt": "o caipira",
+      "ipa": "/kajˈpi.ɾa/",
+      "en": "the 'caipira' dialect (rural interior)",
+      "ar": "اللهجة الريفية الداخلية",
+      "example": {
+        "pt": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
+        "en": "Sure. But just so you know, the restaurant next door is packed.",
+        "ar": "يمكن ذلك. لكن لتكن على علم، المطعم المجاور ممتلئ."
+      }
+    },
+    {
+      "pt": "o gaúcho",
+      "ipa": "/ɡaˈu.ʃu/",
+      "en": "the 'gaúcho' (Southern) speech",
+      "ar": "لهجة الجنوب",
+      "example": {
+        "pt": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
+        "en": "Sure. But just so you know, the restaurant next door is packed.",
+        "ar": "يمكن ذلك. لكن لتكن على علم، المطعم المجاور ممتلئ."
+      }
+    },
+    {
+      "pt": "o carioca",
+      "ipa": "/ka.ɾiˈɔ.ka/",
+      "en": "the 'carioca' (Rio) speech",
+      "ar": "لهجة ريو دي جانيرو",
+      "example": {
+        "pt": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
+        "en": "Sure. But just so you know, the restaurant next door is packed.",
+        "ar": "يمكن ذلك. لكن لتكن على علم، المطعم المجاور ممتلئ."
+      }
+    },
+    {
+      "pt": "o mineiro",
+      "ipa": "/mĩˈnej.ɾu/",
+      "en": "the 'mineiro' (Minas Gerais) speech",
+      "ar": "لهجة ميناس جرايس",
+      "example": {
+        "pt": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
+        "en": "Sure. But just so you know, the restaurant next door is packed.",
+        "ar": "يمكن ذلك. لكن لتكن على علم، المطعم المجاور ممتلئ."
+      }
+    },
+    {
+      "pt": "o baiano",
+      "ipa": "/baˈjɐ̃.nu/",
+      "en": "the 'baiano' (Bahia) speech",
+      "ar": "لهجة باهيا",
+      "example": {
+        "pt": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
+        "en": "Sure. But just so you know, the restaurant next door is packed.",
+        "ar": "يمكن ذلك. لكن لتكن على علم، المطعم المجاور ممتلئ."
+      }
+    },
+    {
+      "pt": "a prosódia",
+      "ipa": "/pɾoˈzɔ.dʒi.a/",
+      "en": "prosody",
+      "ar": "العروض / الإيقاع الصوتي",
+      "example": {
+        "pt": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
+        "en": "Do you (tu) want to have lunch with us, or are you heading straight to the lecture?",
+        "ar": "هل تريد الغداء معنا، أم ستتوجه مباشرة إلى المحاضرة؟"
+      }
+    },
+    {
+      "pt": "o neologismo",
+      "ipa": "/ne.o.loˈʒiz.mu/",
+      "en": "neologism",
+      "ar": "اللفظ المستحدث",
+      "example": {
+        "pt": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
+        "en": "Sure. But just so you know, the restaurant next door is packed.",
+        "ar": "يمكن ذلك. لكن لتكن على علم، المطعم المجاور ممتلئ."
+      }
+    },
+    {
+      "pt": "o estrangeirismo",
+      "ipa": "/es.tɾɐ̃.ʒejˈɾiz.mu/",
+      "en": "foreignism / loanword",
+      "ar": "اللفظ الدخيل",
+      "example": {
+        "pt": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
+        "en": "Sure. But just so you know, the restaurant next door is packed.",
+        "ar": "يمكن ذلك. لكن لتكن على علم، المطعم المجاور ممتلئ."
+      }
+    },
+    {
+      "pt": "a palatalização",
+      "ipa": "/pa.la.ta.li.zaˈsɐ̃w/",
+      "en": "palatalization",
+      "ar": "التحنيك",
+      "example": {
+        "pt": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
+        "en": "Do you (tu) want to have lunch with us, or are you heading straight to the lecture?",
+        "ar": "هل تريد الغداء معنا، أم ستتوجه مباشرة إلى المحاضرة؟"
+      }
+    },
+    {
+      "pt": "o rotacismo",
+      "ipa": "/xo.taˈsiz.mu/",
+      "en": "rhotacism",
+      "ar": "إبدال الراء / النطق بالراء",
+      "example": {
+        "pt": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
+        "en": "Sure. But just so you know, the restaurant next door is packed.",
+        "ar": "يمكن ذلك. لكن لتكن على علم، المطعم المجاور ممتلئ."
+      }
+    },
+    {
+      "pt": "a variação diatópica",
+      "ipa": "/va.ɾi.aˈsɐ̃w dʒi.aˈtɔ.pi.ka/",
+      "en": "diatopic (geographic) variation",
+      "ar": "التنوع الجغرافي",
+      "example": {
+        "pt": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
+        "en": "Do you (tu) want to have lunch with us, or are you heading straight to the lecture?",
+        "ar": "هل تريد الغداء معنا، أم ستتوجه مباشرة إلى المحاضرة؟"
+      }
+    },
+    {
+      "pt": "a variação diafásica",
+      "ipa": "/va.ɾi.aˈsɐ̃w dʒi.aˈfa.zi.ka/",
+      "en": "diaphasic (register) variation",
+      "ar": "التنوع الأسلوبي",
+      "example": {
+        "pt": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
+        "en": "Do you (tu) want to have lunch with us, or are you heading straight to the lecture?",
+        "ar": "هل تريد الغداء معنا، أم ستتوجه مباشرة إلى المحاضرة؟"
+      }
+    },
+    {
+      "pt": "a norma culta",
+      "ipa": "/ˈnɔʁ.ma ˈkuw.ta/",
+      "en": "the educated standard",
+      "ar": "القاعدة الفصيحة المتعلمة",
+      "example": {
+        "pt": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
+        "en": "Do you (tu) want to have lunch with us, or are you heading straight to the lecture?",
+        "ar": "هل تريد الغداء معنا، أم ستتوجه مباشرة إلى المحاضرة؟"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "title": {
+        "pt": "'Tu' e 'Você' no Brasil",
+        "en": "'Tu' and 'você' in Brazil",
+        "ar": "استخدام 'tu' و'você' في البرازيل"
+      },
+      "explanation": {
+        "pt": "No português brasileiro, 'você' predomina na maioria das regiões, com verbo na terceira pessoa. Em regiões como o Sul (Rio Grande do Sul, Santa Catarina) e o Norte/Nordeste, o 'tu' é corrente; no Sul costuma flexionar-se ('tu queres'), enquanto no Nordeste é frequente o 'tu' com verbo na terceira pessoa ('tu quer'), fenômeno que os gramáticos discutem sem reprová-lo como erro absoluto.",
+        "en": "In Brazilian Portuguese, 'você' predominates in most regions, with the verb in the third person. In regions such as the South (Rio Grande do Sul, Santa Catarina) and the North/Northeast, 'tu' is common; in the South it usually inflects ('tu queres'), while in the Northeast it is frequent to find 'tu' with a third-person verb ('tu quer'), a phenomenon grammarians discuss without condemning as an absolute error.",
+        "ar": "في البرتغالية البرازيلية، يهيمن 'você' في معظم المناطق مع فعل بصيغة الغائب. وفي مناطق مثل الجنوب (ريو غراندي دو سول، سانتا كاتارينا) والشمال والشمال الشرقي، يشيع 'tu'؛ ففي الجنوب يُصرَّف الفعل معه عادة ('tu queres')، بينما في الشمال الشرقي يتكرر 'tu' مع فعل بصيغة الغائب ('tu quer')، وهي ظاهرة يناقشها النحاة دون اعتبارها خطأ مطلقًا."
+      },
+      "examples": [
+        {
+          "pt": "Sul: 'Tu queres um chimarrão?'",
+          "en": "South: 'Tu queres um chimarrão?' (Do you want some mate?)",
+          "ar": "الجنوب: 'tu queres um chimarrão?' (هل تريد بعض المتة؟)"
+        },
+        {
+          "pt": "Nordeste: 'Tu quer mesmo ir nessa festa?'",
+          "en": "Northeast: 'Tu quer mesmo ir nessa festa?' (Do you really want to go to this party?)",
+          "ar": "الشمال الشرقي: 'tu quer mesmo ir nessa festa?' (هل تريد فعلًا الذهاب إلى هذه الحفلة؟)"
+        },
+        {
+          "pt": "Sudeste: 'Você pode me ajudar com essa caixa?'",
+          "en": "Southeast: 'Você pode me ajudar com essa caixa?' (Can you help me with this box?)",
+          "ar": "الجنوب الشرقي: 'você pode me ajudar com essa caixa?' (هل يمكنك مساعدتي بهذا الصندوق؟)"
+        }
+      ]
+    },
+    {
+      "title": {
+        "pt": "Gerúndio e Prosódia Regionais",
+        "en": "Regional Gerund and Prosody",
+        "ar": "صيغة المصدر المستمر والنبر الإقليميان"
+      },
+      "explanation": {
+        "pt": "O gerúndio com valor progressivo ('estou fazendo') é padrão no Brasil; o infinitivo preposicionado ('estou a fazer') é marca do português europeu. No Nordeste, há tendência à redução do gerúndio ('tô fazeno'). A prosódia varia sensivelmente: o falar carioca palataliza o /s/ em posição final ('ma[iʃ]'), e o caipira marca-se pelo /r/ retroflexo ou 'r caipira' em coda silábica.",
+        "en": "The gerund with progressive value ('estou fazendo') is standard in Brazil; the prepositional infinitive ('estou a fazer') is a mark of European Portuguese. In the Northeast there is a tendency to reduce the gerund ('tô fazeno'). Prosody varies noticeably: Rio speech palatalizes final /s/ ('ma[iʃ]'), and the 'caipira' dialect is marked by the retroflex /r/ (the 'caipira r') in syllable coda.",
+        "ar": "يعدّ اسم الفاعل المستمر بالقيمة التقدمية ('estou fazendo') معيارًا في البرازيل؛ أما المصدر المجرور ('estou a fazer') فيعدّ سمة من سمات البرتغالية الأوروبية. وفي الشمال الشرقي، ثميل نحو اختزال الصيغة ('tô fazeno'). ويختلف الإيقاع الصوتي بوضوح: لهجة ريو تُحنّك حرف /s/ في نهاية المقطع ('ma[iʃ]')، بينما تُعرف اللهجة الريفية الداخلية بحرف /r/ مرتدّ ('راء القيبرا') في آخر المقطع."
+      },
+      "examples": [
+        {
+          "pt": "Estou fazendo o relatório agora. (gerúndio progressivo)",
+          "en": "I am doing the report now. (progressive gerund)",
+          "ar": "أنجز التقرير الآن. (صيغة مستمرة)"
+        },
+        {
+          "pt": "Ele está a estudar desde cedo. (europeísmo)",
+          "en": "He has been studying since early. (Europeanism)",
+          "ar": "إنه يدرس منذ الصباح الباكر. (أسلوب أوروبي)"
+        },
+        {
+          "pt": "Tô fazeno o serviço, já chego. (redução nordestina)",
+          "en": "I am doing the job, I'll be right there. (Northeastern reduction)",
+          "ar": "أنجز العمل، سأصل حالًا. (اختزال شمال شرقي)"
+        }
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": {
+      "pt": "Um Encontro no Congresso",
+      "en": "A Meeting at the Congress",
+      "ar": "لقاء في المؤتمر"
+    },
+    "lines": [
+      {
+        "speaker": "Jonas",
+        "pt": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
+        "en": "Do you (tu) want to have lunch with us, or are you heading straight to the lecture?",
+        "ar": "هل تريد الغداء معنا، أم ستتوجه مباشرة إلى المحاضرة؟"
+      },
+      {
+        "speaker": "Marina",
+        "pt": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
+        "en": "Sure. But just so you know, the restaurant next door is packed.",
+        "ar": "يمكن ذلك. لكن لتكن على علم، المطعم المجاور ممتلئ."
+      },
+      {
+        "speaker": "Jonas",
+        "pt": "Aqui no Sul a gente diz 'o chimarrão é bom', no Nordeste tu ouve 'a água é quente' com outro ritmo.",
+        "en": "Here in the South we say 'o chimarrão é bom'; in the Northeast you hear 'a água é quente' with a different rhythm.",
+        "ar": "هنا في الجنوب نقول 'o chimarrão é bom'، وفي الشمال الشرقي تسمع 'a água é quente' بإيقاع مختلف."
+      },
+      {
+        "speaker": "Marina",
+        "pt": "E o carioca ainda fala 'ma[iʃ]' no fim das palavras, puxando o 's'.",
+        "en": "And the carioca still says 'ma[iʃ]' at the end of words, drawing out the 's'.",
+        "ar": "والكاريكا ما زال يقول 'ma[iʃ]' في نهاية الكلمات مع إطالة حرف 's'."
+      },
+      {
+        "speaker": "Jonas",
+        "pt": "Exato. Prosódia, léxico e pronomes variam, mas a norma culta aproxima todos na escrita formal.",
+        "en": "Exactly. Prosody, lexicon and pronouns vary, but the educated standard brings everyone together in formal writing.",
+        "ar": "بالضبط. يختلف الإيقاع والمعجم والضمائر، لكن القاعدة الفصيحة تجمع الجميع في الكتابة الرسمية."
+      },
+      {
+        "speaker": "Marina",
+        "pt": "Então vamos almoçar, que eu te conto as gírias do Norte que ninguém conhece.",
+        "en": "Then let's have lunch, and I'll tell you Northern slang that nobody knows.",
+        "ar": "إذن لنتناول الغداء، وسأحكي لك عن دارج الشمال التي لا يعرفها أحد."
+      }
+    ]
+  },
+  "reading": {
+    "title": {
+      "pt": "Língua que Varia",
+      "en": "A Language That Varies",
+      "ar": "لغة تتنوع"
+    },
+    "text_pt": "O português do Brasil é um mosaico de variações diatópicas. O 'tu' do Sul, o gerúndio reduzido do Nordeste e o 'r' caipira do interior ilustram como a geografia molda a fala. Essas variantes convivem com a norma culta ensinada na escola. Reconhecer essa riqueza, sem hierarquizar falares, é requisito de um usuário de nível C2.",
+    "text_en": "Brazilian Portuguese is a mosaic of diatopic variations. The 'tu' of the South, the reduced gerund of the Northeast and the 'caipira r' of the interior illustrate how geography shapes speech. These variants coexist with the educated standard taught at school. Recognizing this richness, without ranking varieties hierarchically, is a requirement of a C2-level user.",
+    "text_ar": "البرتغالية البرازيلية فسيفساء من التنوعات الجغرافية. إن 'tu' في الجنوب، واختزال المصدر المستمر في الشمال الشرقي، وراء القيبرا في الداخل توضح كيف تشكّل الجغرافيا الكلام. تتعايش هذه المتغيرات مع القاعدة الفصيحة المدرسة في المدرسة. إن الاعتراف بهذا الغنى دون تفضيل لهجة على أخرى متطلب لمتحدث في مستوى C2."
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Em qual região é comum o 'tu' com verbo na terceira pessoa ('tu quer')?",
+        "en": "In which region is 'tu' with a third-person verb ('tu quer') common?",
+        "ar": "في أي منطقة يشيع 'tu' مع فعل بصيغة الغائب ('tu quer')؟"
+      },
+      "options": [
+        {
+          "pt": "No Nordeste",
+          "en": "In the Northeast",
+          "ar": "في الشمال الشرقي"
+        },
+        {
+          "pt": "Em Portugal",
+          "en": "In Portugal",
+          "ar": "في البرتغال"
+        },
+        {
+          "pt": "Na região Sul",
+          "en": "In the South region",
+          "ar": "في منطقة الجنوب"
+        }
+      ],
+      "answer": "No Nordeste",
+      "explanation": {
+        "pt": "No Nordeste, o 'tu' frequentemente acompanha verbo na terceira pessoa.",
+        "en": "In the Northeast, 'tu' frequently takes a third-person verb.",
+        "ar": "في الشمال الشرقي، يرافق 'tu' عادةً فعل بصيغة الغائب."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual forma é marca do português europeu?",
+        "en": "Which form is a mark of European Portuguese?",
+        "ar": "أي صيغة تعتبر سمة من سمات البرتغالية الأوروبية؟"
+      },
+      "options": [
+        {
+          "pt": "estou fazendo",
+          "en": "estou fazendo",
+          "ar": "estou fazendo"
+        },
+        {
+          "pt": "estou a fazer",
+          "en": "estou a fazer",
+          "ar": "estou a fazer"
+        },
+        {
+          "pt": "tô fazeno",
+          "en": "tô fazeno",
+          "ar": "tô fazeno"
+        }
+      ],
+      "answer": "estou a fazer",
+      "explanation": {
+        "pt": "'Estou a fazer' (infinitivo preposicionado) caracteriza o europeu.",
+        "en": "'Estou a fazer' (prepositional infinitive) characterizes European Portuguese.",
+        "ar": "'estou a fazer' (المصدر المجرور) تميز البرتغالية الأوروبية."
+      }
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: 'the educated standard'",
+        "en": "Translate into Portuguese: 'the educated standard'",
+        "ar": "ترجم إلى البرتغالية: 'the educated standard'"
+      },
+      "options": [],
+      "answer": "a norma culta",
+      "explanation": {
+        "pt": "'A norma culta' é o padrão prestigiado da língua.",
+        "en": "'A norma culta' is the prestigious standard of the language.",
+        "ar": "'a norma culta' هي الصيغة المرموقة للغة."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "quer",
+          "en": "quer",
+          "ar": "quer"
+        },
+        {
+          "pt": "para",
+          "en": "para",
+          "ar": "para"
+        },
+        {
+          "pt": "almoçar",
+          "en": "almoçar",
+          "ar": "almoçar"
+        },
+        {
+          "pt": "direto",
+          "en": "direto",
+          "ar": "direto"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "seguir",
+          "en": "seguir",
+          "ar": "seguir"
+        },
+        {
+          "pt": "palestra?",
+          "en": "palestra?",
+          "ar": "palestra?"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "gente,",
+          "en": "gente,",
+          "ar": "gente,"
+        },
+        {
+          "pt": "vai",
+          "en": "vai",
+          "ar": "vai"
+        },
+        {
+          "pt": "ou",
+          "en": "ou",
+          "ar": "ou"
+        },
+        {
+          "pt": "Tu",
+          "en": "Tu",
+          "ar": "Tu"
+        },
+        {
+          "pt": "com",
+          "en": "com",
+          "ar": "com"
+        }
+      ],
+      "answer": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
+      "accepted": [
+        "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Tu quer almoçar com a gente, ou vai seguir direto para a palestra?'",
+        "en": "The correct order: 'Do you (tu) want to have lunch with us, or are you heading straight to the lecture?'",
+        "ar": "الترتيب الصحيح: 'هل تريد الغداء معنا، أم ستتوجه مباشرة إلى المحاضرة؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a gíria",
+          "en": "Northeastern speech",
+          "ar": "a gíria"
+        },
+        {
+          "pt": "o sotaque",
+          "en": "regionalism",
+          "ar": "o sotaque"
+        },
+        {
+          "pt": "o dialeto",
+          "en": "dialect",
+          "ar": "o dialeto"
+        },
+        {
+          "pt": "o caipira",
+          "en": "the 'caipira' dialect (rural interior)",
+          "ar": "o caipira"
+        },
+        {
+          "pt": "o falar nordestino",
+          "en": "slang",
+          "ar": "o falar nordestino"
+        },
+        {
+          "pt": "o regionalismo",
+          "en": "accent",
+          "ar": "o regionalismo"
+        }
+      ],
+      "answer": "a gíria::Northeastern speech|o sotaque::regionalism|o dialeto::dialect|o caipira::the 'caipira' dialect (rural interior)|o falar nordestino::slang|o regionalismo::accent",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "E o carioca ainda fala 'ma[iʃ]' no fim das palavras, puxando o 's'.",
+          "en": "Here in the South we say 'o chimarrão é bom'; in the Northeast you hear 'a água é quente' with a different rhythm.",
+          "ar": "والكاريكا ما زال يقول 'ma[iʃ]' في نهاية الكلمات مع إطالة حرف 's'."
+        },
+        {
+          "pt": "Aqui no Sul a gente diz 'o chimarrão é bom', no Nordeste tu ouve 'a água é quente' com outro ritmo.",
+          "en": "Do you (tu) want to have lunch with us, or are you heading straight to the lecture?",
+          "ar": "هل تريد الغداء معنا، أم ستتوجه مباشرة إلى المحاضرة؟"
+        },
+        {
+          "pt": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
+          "en": "And the carioca still says 'ma[iʃ]' at the end of words, drawing out the 's'.",
+          "ar": "هنا في الجنوب نقول 'o chimarrão é bom'، وفي الشمال الشرقي تسمع 'a água é quente' بإيقاع مختلف."
+        }
+      ],
+      "answer": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
+      "accepted": [],
+      "audio": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
+      "explanation": {
+        "pt": "Você ouviu: 'Tu quer almoçar com a gente, ou vai seguir direto para a palestra?' — 'Do you (tu) want to have lunch with us, or are you heading straight to the lecture?'",
+        "en": "You heard: 'Tu quer almoçar com a gente, ou vai seguir direto para a palestra?' — 'Do you (tu) want to have lunch with us, or are you heading straight to the lecture?'",
+        "ar": "سمعت: 'Tu quer almoçar com a gente, ou vai seguir direto para a palestra?' — 'هل تريد الغداء معنا، أم ستتوجه مباشرة إلى المحاضرة؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Então vamos almoçar, que eu te conto as gírias do Norte que ninguém conhece.",
+          "en": "Here in the South we say 'o chimarrão é bom'; in the Northeast you hear 'a água é quente' with a different rhythm.",
+          "ar": "يمكن ذلك. لكن لتكن على علم، المطعم المجاور ممتلئ."
+        },
+        {
+          "pt": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
+          "en": "Sure. But just so you know, the restaurant next door is packed.",
+          "ar": "إذن لنتناول الغداء، وسأحكي لك عن دارج الشمال التي لا يعرفها أحد."
+        },
+        {
+          "pt": "Aqui no Sul a gente diz 'o chimarrão é bom', no Nordeste tu ouve 'a água é quente' com outro ritmo.",
+          "en": "Then let's have lunch, and I'll tell you Northern slang that nobody knows.",
+          "ar": "هنا في الجنوب نقول 'o chimarrão é bom'، وفي الشمال الشرقي تسمع 'a água é quente' بإيقاع مختلف."
+        }
+      ],
+      "answer": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
+      "accepted": [],
+      "audio": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
+      "explanation": {
+        "pt": "Você ouviu: 'Pode ser. Mas, para você saber, o restaurante do lado está lotado.' — 'Sure. But just so you know, the restaurant next door is packed.'",
+        "en": "You heard: 'Pode ser. Mas, para você saber, o restaurante do lado está lotado.' — 'Sure. But just so you know, the restaurant next door is packed.'",
+        "ar": "سمعت: 'Pode ser. Mas, para você saber, o restaurante do lado está lotado.' — 'يمكن ذلك. لكن لتكن على علم، المطعم المجاور ممتلئ.'"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Estou fazendo o ___ agora. (gerúndio progressivo)",
+        "en": "Estou fazendo o ___ agora. (gerúndio progressivo)",
+        "ar": "Estou fazendo o ___ agora. (gerúndio progressivo)"
+      },
+      "options": [
+        {
+          "pt": "relatório",
+          "en": "relatório",
+          "ar": "relatório"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "já",
+          "en": "já",
+          "ar": "já"
+        }
+      ],
+      "answer": "relatório",
+      "accepted": [],
+      "explanation": {
+        "pt": "A resposta é 'relatório'. Frase completa: Estou fazendo o relatório agora. (gerúndio progressivo)",
+        "en": "The answer is 'relatório'. Full sentence: I am doing the report now. (progressive gerund)",
+        "ar": "الإجابة الصحيحة: 'relatório'. الجملة كاملة: أنجز التقرير الآن. (صيغة مستمرة)"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "almoçar",
+          "en": "almoçar",
+          "ar": "almoçar"
+        },
+        {
+          "pt": "vai",
+          "en": "vai",
+          "ar": "vai"
+        },
+        {
+          "pt": "Tu",
+          "en": "Tu",
+          "ar": "Tu"
+        },
+        {
+          "pt": "gente,",
+          "en": "gente,",
+          "ar": "gente,"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "direto",
+          "en": "direto",
+          "ar": "direto"
+        },
+        {
+          "pt": "com",
+          "en": "com",
+          "ar": "com"
+        },
+        {
+          "pt": "quer",
+          "en": "quer",
+          "ar": "quer"
+        },
+        {
+          "pt": "ou",
+          "en": "ou",
+          "ar": "ou"
+        },
+        {
+          "pt": "palestra?",
+          "en": "palestra?",
+          "ar": "palestra?"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "para",
+          "en": "para",
+          "ar": "para"
+        },
+        {
+          "pt": "seguir",
+          "en": "seguir",
+          "ar": "seguir"
+        }
+      ],
+      "answer": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
+      "accepted": [
+        "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Tu quer almoçar com a gente, ou vai seguir direto para a palestra?'",
+        "en": "The correct order: 'Do you (tu) want to have lunch with us, or are you heading straight to the lecture?'",
+        "ar": "الترتيب الصحيح: 'هل تريد الغداء معنا، أم ستتوجه مباشرة إلى المحاضرة؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o falar nordestino",
+          "en": "accent",
+          "ar": "o falar nordestino"
+        },
+        {
+          "pt": "o regionalismo",
+          "en": "Northeastern speech",
+          "ar": "o regionalismo"
+        },
+        {
+          "pt": "o caipira",
+          "en": "the 'caipira' dialect (rural interior)",
+          "ar": "o caipira"
+        },
+        {
+          "pt": "o dialeto",
+          "en": "slang",
+          "ar": "o dialeto"
+        },
+        {
+          "pt": "a gíria",
+          "en": "regionalism",
+          "ar": "a gíria"
+        },
+        {
+          "pt": "o sotaque",
+          "en": "dialect",
+          "ar": "o sotaque"
+        }
+      ],
+      "answer": "o falar nordestino::accent|o regionalismo::Northeastern speech|o caipira::the 'caipira' dialect (rural interior)|o dialeto::slang|a gíria::regionalism|o sotaque::dialect",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
+          "en": "Sure. But just so you know, the restaurant next door is packed.",
+          "ar": "هل تريد الغداء معنا، أم ستتوجه مباشرة إلى المحاضرة؟"
+        },
+        {
+          "pt": "E o carioca ainda fala 'ma[iʃ]' no fim das palavras, puxando o 's'.",
+          "en": "And the carioca still says 'ma[iʃ]' at the end of words, drawing out the 's'.",
+          "ar": "والكاريكا ما زال يقول 'ma[iʃ]' في نهاية الكلمات مع إطالة حرف 's'."
+        },
+        {
+          "pt": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
+          "en": "Do you (tu) want to have lunch with us, or are you heading straight to the lecture?",
+          "ar": "يمكن ذلك. لكن لتكن على علم، المطعم المجاور ممتلئ."
+        }
+      ],
+      "answer": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
+      "accepted": [],
+      "audio": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
+      "explanation": {
+        "pt": "Você ouviu: 'Tu quer almoçar com a gente, ou vai seguir direto para a palestra?' — 'Do you (tu) want to have lunch with us, or are you heading straight to the lecture?'",
+        "en": "You heard: 'Tu quer almoçar com a gente, ou vai seguir direto para a palestra?' — 'Do you (tu) want to have lunch with us, or are you heading straight to the lecture?'",
+        "ar": "سمعت: 'Tu quer almoçar com a gente, ou vai seguir direto para a palestra?' — 'هل تريد الغداء معنا، أم ستتوجه مباشرة إلى المحاضرة؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
+          "en": "Exactly. Prosody, lexicon and pronouns vary, but the educated standard brings everyone together in formal writing.",
+          "ar": "والكاريكا ما زال يقول 'ma[iʃ]' في نهاية الكلمات مع إطالة حرف 's'."
+        },
+        {
+          "pt": "E o carioca ainda fala 'ma[iʃ]' no fim das palavras, puxando o 's'.",
+          "en": "Sure. But just so you know, the restaurant next door is packed.",
+          "ar": "يمكن ذلك. لكن لتكن على علم، المطعم المجاور ممتلئ."
+        },
+        {
+          "pt": "Exato. Prosódia, léxico e pronomes variam, mas a norma culta aproxima todos na escrita formal.",
+          "en": "And the carioca still says 'ma[iʃ]' at the end of words, drawing out the 's'.",
+          "ar": "بالضبط. يختلف الإيقاع والمعجم والضمائر، لكن القاعدة الفصيحة تجمع الجميع في الكتابة الرسمية."
+        }
+      ],
+      "answer": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
+      "accepted": [],
+      "audio": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
+      "explanation": {
+        "pt": "Você ouviu: 'Pode ser. Mas, para você saber, o restaurante do lado está lotado.' — 'Sure. But just so you know, the restaurant next door is packed.'",
+        "en": "You heard: 'Pode ser. Mas, para você saber, o restaurante do lado está lotado.' — 'Sure. But just so you know, the restaurant next door is packed.'",
+        "ar": "سمعت: 'Pode ser. Mas, para você saber, o restaurante do lado está lotado.' — 'يمكن ذلك. لكن لتكن على علم، المطعم المجاور ممتلئ.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "quer",
+          "en": "quer",
+          "ar": "quer"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "seguir",
+          "en": "seguir",
+          "ar": "seguir"
+        },
+        {
+          "pt": "gente,",
+          "en": "gente,",
+          "ar": "gente,"
+        },
+        {
+          "pt": "para",
+          "en": "para",
+          "ar": "para"
+        },
+        {
+          "pt": "vai",
+          "en": "vai",
+          "ar": "vai"
+        },
+        {
+          "pt": "direto",
+          "en": "direto",
+          "ar": "direto"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "palestra?",
+          "en": "palestra?",
+          "ar": "palestra?"
+        },
+        {
+          "pt": "almoçar",
+          "en": "almoçar",
+          "ar": "almoçar"
+        },
+        {
+          "pt": "ou",
+          "en": "ou",
+          "ar": "ou"
+        },
+        {
+          "pt": "Tu",
+          "en": "Tu",
+          "ar": "Tu"
+        },
+        {
+          "pt": "com",
+          "en": "com",
+          "ar": "com"
+        }
+      ],
+      "answer": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
+      "accepted": [
+        "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Tu quer almoçar com a gente, ou vai seguir direto para a palestra?'",
+        "en": "The correct order: 'Do you (tu) want to have lunch with us, or are you heading straight to the lecture?'",
+        "ar": "الترتيب الصحيح: 'هل تريد الغداء معنا، أم ستتوجه مباشرة إلى المحاضرة؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o dialeto",
+          "en": "dialect",
+          "ar": "o dialeto"
+        },
+        {
+          "pt": "o caipira",
+          "en": "accent",
+          "ar": "o caipira"
+        },
+        {
+          "pt": "o regionalismo",
+          "en": "slang",
+          "ar": "o regionalismo"
+        },
+        {
+          "pt": "o sotaque",
+          "en": "Northeastern speech",
+          "ar": "o sotaque"
+        },
+        {
+          "pt": "o falar nordestino",
+          "en": "regionalism",
+          "ar": "o falar nordestino"
+        },
+        {
+          "pt": "a gíria",
+          "en": "the 'caipira' dialect (rural interior)",
+          "ar": "a gíria"
+        }
+      ],
+      "answer": "o dialeto::dialect|o caipira::accent|o regionalismo::slang|o sotaque::Northeastern speech|o falar nordestino::regionalism|a gíria::the 'caipira' dialect (rural interior)",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Então vamos almoçar, que eu te conto as gírias do Norte que ninguém conhece.",
+          "en": "Do you (tu) want to have lunch with us, or are you heading straight to the lecture?",
+          "ar": "إذن لنتناول الغداء، وسأحكي لك عن دارج الشمال التي لا يعرفها أحد."
+        },
+        {
+          "pt": "Aqui no Sul a gente diz 'o chimarrão é bom', no Nordeste tu ouve 'a água é quente' com outro ritmo.",
+          "en": "Here in the South we say 'o chimarrão é bom'; in the Northeast you hear 'a água é quente' with a different rhythm.",
+          "ar": "هنا في الجنوب نقول 'o chimarrão é bom'، وفي الشمال الشرقي تسمع 'a água é quente' بإيقاع مختلف."
+        },
+        {
+          "pt": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
+          "en": "Then let's have lunch, and I'll tell you Northern slang that nobody knows.",
+          "ar": "هل تريد الغداء معنا، أم ستتوجه مباشرة إلى المحاضرة؟"
+        }
+      ],
+      "answer": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
+      "accepted": [],
+      "audio": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
+      "explanation": {
+        "pt": "Você ouviu: 'Tu quer almoçar com a gente, ou vai seguir direto para a palestra?' — 'Do you (tu) want to have lunch with us, or are you heading straight to the lecture?'",
+        "en": "You heard: 'Tu quer almoçar com a gente, ou vai seguir direto para a palestra?' — 'Do you (tu) want to have lunch with us, or are you heading straight to the lecture?'",
+        "ar": "سمعت: 'Tu quer almoçar com a gente, ou vai seguir direto para a palestra?' — 'هل تريد الغداء معنا، أم ستتوجه مباشرة إلى المحاضرة؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
+          "en": "Here in the South we say 'o chimarrão é bom'; in the Northeast you hear 'a água é quente' with a different rhythm.",
+          "ar": "هل تريد الغداء معنا، أم ستتوجه مباشرة إلى المحاضرة؟"
+        },
+        {
+          "pt": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
+          "en": "Sure. But just so you know, the restaurant next door is packed.",
+          "ar": "هنا في الجنوب نقول 'o chimarrão é bom'، وفي الشمال الشرقي تسمع 'a água é quente' بإيقاع مختلف."
+        },
+        {
+          "pt": "Aqui no Sul a gente diz 'o chimarrão é bom', no Nordeste tu ouve 'a água é quente' com outro ritmo.",
+          "en": "Do you (tu) want to have lunch with us, or are you heading straight to the lecture?",
+          "ar": "يمكن ذلك. لكن لتكن على علم، المطعم المجاور ممتلئ."
+        }
+      ],
+      "answer": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
+      "accepted": [],
+      "audio": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
+      "explanation": {
+        "pt": "Você ouviu: 'Pode ser. Mas, para você saber, o restaurante do lado está lotado.' — 'Sure. But just so you know, the restaurant next door is packed.'",
+        "en": "You heard: 'Pode ser. Mas, para você saber, o restaurante do lado está lotado.' — 'Sure. But just so you know, the restaurant next door is packed.'",
+        "ar": "سمعت: 'Pode ser. Mas, para você saber, o restaurante do lado está lotado.' — 'يمكن ذلك. لكن لتكن على علم، المطعم المجاور ممتلئ.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Tu",
+          "en": "Tu",
+          "ar": "Tu"
+        },
+        {
+          "pt": "ou",
+          "en": "ou",
+          "ar": "ou"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "direto",
+          "en": "direto",
+          "ar": "direto"
+        },
+        {
+          "pt": "para",
+          "en": "para",
+          "ar": "para"
+        },
+        {
+          "pt": "gente,",
+          "en": "gente,",
+          "ar": "gente,"
+        },
+        {
+          "pt": "almoçar",
+          "en": "almoçar",
+          "ar": "almoçar"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "com",
+          "en": "com",
+          "ar": "com"
+        },
+        {
+          "pt": "quer",
+          "en": "quer",
+          "ar": "quer"
+        },
+        {
+          "pt": "palestra?",
+          "en": "palestra?",
+          "ar": "palestra?"
+        },
+        {
+          "pt": "seguir",
+          "en": "seguir",
+          "ar": "seguir"
+        },
+        {
+          "pt": "vai",
+          "en": "vai",
+          "ar": "vai"
+        }
+      ],
+      "answer": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
+      "accepted": [
+        "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Tu quer almoçar com a gente, ou vai seguir direto para a palestra?'",
+        "en": "The correct order: 'Do you (tu) want to have lunch with us, or are you heading straight to the lecture?'",
+        "ar": "الترتيب الصحيح: 'هل تريد الغداء معنا، أم ستتوجه مباشرة إلى المحاضرة؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a gíria",
+          "en": "regionalism",
+          "ar": "a gíria"
+        },
+        {
+          "pt": "o dialeto",
+          "en": "Northeastern speech",
+          "ar": "o dialeto"
+        },
+        {
+          "pt": "o regionalismo",
+          "en": "dialect",
+          "ar": "o regionalismo"
+        },
+        {
+          "pt": "o sotaque",
+          "en": "accent",
+          "ar": "o sotaque"
+        },
+        {
+          "pt": "o caipira",
+          "en": "slang",
+          "ar": "o caipira"
+        },
+        {
+          "pt": "o falar nordestino",
+          "en": "the 'caipira' dialect (rural interior)",
+          "ar": "o falar nordestino"
+        }
+      ],
+      "answer": "a gíria::regionalism|o dialeto::Northeastern speech|o regionalismo::dialect|o sotaque::accent|o caipira::slang|o falar nordestino::the 'caipira' dialect (rural interior)",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Então vamos almoçar, que eu te conto as gírias do Norte que ninguém conhece.",
+          "en": "Sure. But just so you know, the restaurant next door is packed.",
+          "ar": "هل تريد الغداء معنا، أم ستتوجه مباشرة إلى المحاضرة؟"
+        },
+        {
+          "pt": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
+          "en": "Do you (tu) want to have lunch with us, or are you heading straight to the lecture?",
+          "ar": "إذن لنتناول الغداء، وسأحكي لك عن دارج الشمال التي لا يعرفها أحد."
+        },
+        {
+          "pt": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
+          "en": "Then let's have lunch, and I'll tell you Northern slang that nobody knows.",
+          "ar": "يمكن ذلك. لكن لتكن على علم، المطعم المجاور ممتلئ."
+        }
+      ],
+      "answer": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
+      "accepted": [],
+      "audio": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
+      "explanation": {
+        "pt": "Você ouviu: 'Tu quer almoçar com a gente, ou vai seguir direto para a palestra?' — 'Do you (tu) want to have lunch with us, or are you heading straight to the lecture?'",
+        "en": "You heard: 'Tu quer almoçar com a gente, ou vai seguir direto para a palestra?' — 'Do you (tu) want to have lunch with us, or are you heading straight to the lecture?'",
+        "ar": "سمعت: 'Tu quer almoçar com a gente, ou vai seguir direto para a palestra?' — 'هل تريد الغداء معنا، أم ستتوجه مباشرة إلى المحاضرة؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
+          "en": "Do you (tu) want to have lunch with us, or are you heading straight to the lecture?",
+          "ar": "هل تريد الغداء معنا، أم ستتوجه مباشرة إلى المحاضرة؟"
+        },
+        {
+          "pt": "E o carioca ainda fala 'ma[iʃ]' no fim das palavras, puxando o 's'.",
+          "en": "Sure. But just so you know, the restaurant next door is packed.",
+          "ar": "والكاريكا ما زال يقول 'ma[iʃ]' في نهاية الكلمات مع إطالة حرف 's'."
+        },
+        {
+          "pt": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
+          "en": "And the carioca still says 'ma[iʃ]' at the end of words, drawing out the 's'.",
+          "ar": "يمكن ذلك. لكن لتكن على علم، المطعم المجاور ممتلئ."
+        }
+      ],
+      "answer": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
+      "accepted": [],
+      "audio": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
+      "explanation": {
+        "pt": "Você ouviu: 'Pode ser. Mas, para você saber, o restaurante do lado está lotado.' — 'Sure. But just so you know, the restaurant next door is packed.'",
+        "en": "You heard: 'Pode ser. Mas, para você saber, o restaurante do lado está lotado.' — 'Sure. But just so you know, the restaurant next door is packed.'",
+        "ar": "سمعت: 'Pode ser. Mas, para você saber, o restaurante do lado está lotado.' — 'يمكن ذلك. لكن لتكن على علم، المطعم المجاور ممتلئ.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "quer",
+          "en": "quer",
+          "ar": "quer"
+        },
+        {
+          "pt": "palestra?",
+          "en": "palestra?",
+          "ar": "palestra?"
+        },
+        {
+          "pt": "Tu",
+          "en": "Tu",
+          "ar": "Tu"
+        },
+        {
+          "pt": "gente,",
+          "en": "gente,",
+          "ar": "gente,"
+        },
+        {
+          "pt": "seguir",
+          "en": "seguir",
+          "ar": "seguir"
+        },
+        {
+          "pt": "vai",
+          "en": "vai",
+          "ar": "vai"
+        },
+        {
+          "pt": "para",
+          "en": "para",
+          "ar": "para"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "almoçar",
+          "en": "almoçar",
+          "ar": "almoçar"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "com",
+          "en": "com",
+          "ar": "com"
+        },
+        {
+          "pt": "ou",
+          "en": "ou",
+          "ar": "ou"
+        },
+        {
+          "pt": "direto",
+          "en": "direto",
+          "ar": "direto"
+        }
+      ],
+      "answer": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
+      "accepted": [
+        "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Tu quer almoçar com a gente, ou vai seguir direto para a palestra?'",
+        "en": "The correct order: 'Do you (tu) want to have lunch with us, or are you heading straight to the lecture?'",
+        "ar": "الترتيب الصحيح: 'هل تريد الغداء معنا، أم ستتوجه مباشرة إلى المحاضرة؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o caipira",
+          "en": "the 'caipira' dialect (rural interior)",
+          "ar": "o caipira"
+        },
+        {
+          "pt": "o regionalismo",
+          "en": "slang",
+          "ar": "o regionalismo"
+        },
+        {
+          "pt": "o dialeto",
+          "en": "dialect",
+          "ar": "o dialeto"
+        },
+        {
+          "pt": "o falar nordestino",
+          "en": "regionalism",
+          "ar": "o falar nordestino"
+        },
+        {
+          "pt": "a gíria",
+          "en": "Northeastern speech",
+          "ar": "a gíria"
+        },
+        {
+          "pt": "o sotaque",
+          "en": "accent",
+          "ar": "o sotaque"
+        }
+      ],
+      "answer": "o caipira::the 'caipira' dialect (rural interior)|o regionalismo::slang|o dialeto::dialect|o falar nordestino::regionalism|a gíria::Northeastern speech|o sotaque::accent",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
+          "en": "Sure. But just so you know, the restaurant next door is packed.",
+          "ar": "يمكن ذلك. لكن لتكن على علم، المطعم المجاور ممتلئ."
+        },
+        {
+          "pt": "E o carioca ainda fala 'ma[iʃ]' no fim das palavras, puxando o 's'.",
+          "en": "Do you (tu) want to have lunch with us, or are you heading straight to the lecture?",
+          "ar": "والكاريكا ما زال يقول 'ma[iʃ]' في نهاية الكلمات مع إطالة حرف 's'."
+        },
+        {
+          "pt": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
+          "en": "And the carioca still says 'ma[iʃ]' at the end of words, drawing out the 's'.",
+          "ar": "هل تريد الغداء معنا، أم ستتوجه مباشرة إلى المحاضرة؟"
+        }
+      ],
+      "answer": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
+      "accepted": [],
+      "audio": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
+      "explanation": {
+        "pt": "Você ouviu: 'Tu quer almoçar com a gente, ou vai seguir direto para a palestra?' — 'Do you (tu) want to have lunch with us, or are you heading straight to the lecture?'",
+        "en": "You heard: 'Tu quer almoçar com a gente, ou vai seguir direto para a palestra?' — 'Do you (tu) want to have lunch with us, or are you heading straight to the lecture?'",
+        "ar": "سمعت: 'Tu quer almoçar com a gente, ou vai seguir direto para a palestra?' — 'هل تريد الغداء معنا، أم ستتوجه مباشرة إلى المحاضرة؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Então vamos almoçar, que eu te conto as gírias do Norte que ninguém conhece.",
+          "en": "Sure. But just so you know, the restaurant next door is packed.",
+          "ar": "إذن لنتناول الغداء، وسأحكي لك عن دارج الشمال التي لا يعرفها أحد."
+        },
+        {
+          "pt": "E o carioca ainda fala 'ma[iʃ]' no fim das palavras, puxando o 's'.",
+          "en": "Then let's have lunch, and I'll tell you Northern slang that nobody knows.",
+          "ar": "والكاريكا ما زال يقول 'ma[iʃ]' في نهاية الكلمات مع إطالة حرف 's'."
+        },
+        {
+          "pt": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
+          "en": "And the carioca still says 'ma[iʃ]' at the end of words, drawing out the 's'.",
+          "ar": "يمكن ذلك. لكن لتكن على علم، المطعم المجاور ممتلئ."
+        }
+      ],
+      "answer": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
+      "accepted": [],
+      "audio": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
+      "explanation": {
+        "pt": "Você ouviu: 'Pode ser. Mas, para você saber, o restaurante do lado está lotado.' — 'Sure. But just so you know, the restaurant next door is packed.'",
+        "en": "You heard: 'Pode ser. Mas, para você saber, o restaurante do lado está lotado.' — 'Sure. But just so you know, the restaurant next door is packed.'",
+        "ar": "سمعت: 'Pode ser. Mas, para você saber, o restaurante do lado está lotado.' — 'يمكن ذلك. لكن لتكن على علم، المطعم المجاور ممتلئ.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "vai",
+          "en": "vai",
+          "ar": "vai"
+        },
+        {
+          "pt": "palestra?",
+          "en": "palestra?",
+          "ar": "palestra?"
+        },
+        {
+          "pt": "quer",
+          "en": "quer",
+          "ar": "quer"
+        },
+        {
+          "pt": "gente,",
+          "en": "gente,",
+          "ar": "gente,"
+        },
+        {
+          "pt": "com",
+          "en": "com",
+          "ar": "com"
+        },
+        {
+          "pt": "almoçar",
+          "en": "almoçar",
+          "ar": "almoçar"
+        },
+        {
+          "pt": "seguir",
+          "en": "seguir",
+          "ar": "seguir"
+        },
+        {
+          "pt": "direto",
+          "en": "direto",
+          "ar": "direto"
+        },
+        {
+          "pt": "para",
+          "en": "para",
+          "ar": "para"
+        },
+        {
+          "pt": "Tu",
+          "en": "Tu",
+          "ar": "Tu"
+        },
+        {
+          "pt": "ou",
+          "en": "ou",
+          "ar": "ou"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        }
+      ],
+      "answer": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
+      "accepted": [
+        "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Tu quer almoçar com a gente, ou vai seguir direto para a palestra?'",
+        "en": "The correct order: 'Do you (tu) want to have lunch with us, or are you heading straight to the lecture?'",
+        "ar": "الترتيب الصحيح: 'هل تريد الغداء معنا، أم ستتوجه مباشرة إلى المحاضرة؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o caipira",
+          "en": "regionalism",
+          "ar": "o caipira"
+        },
+        {
+          "pt": "o regionalismo",
+          "en": "slang",
+          "ar": "o regionalismo"
+        },
+        {
+          "pt": "o dialeto",
+          "en": "Northeastern speech",
+          "ar": "o dialeto"
+        },
+        {
+          "pt": "o falar nordestino",
+          "en": "dialect",
+          "ar": "o falar nordestino"
+        },
+        {
+          "pt": "o sotaque",
+          "en": "the 'caipira' dialect (rural interior)",
+          "ar": "o sotaque"
+        },
+        {
+          "pt": "a gíria",
+          "en": "accent",
+          "ar": "a gíria"
+        }
+      ],
+      "answer": "o caipira::regionalism|o regionalismo::slang|o dialeto::Northeastern speech|o falar nordestino::dialect|o sotaque::the 'caipira' dialect (rural interior)|a gíria::accent",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "E o carioca ainda fala 'ma[iʃ]' no fim das palavras, puxando o 's'.",
+          "en": "And the carioca still says 'ma[iʃ]' at the end of words, drawing out the 's'.",
+          "ar": "والكاريكا ما زال يقول 'ma[iʃ]' في نهاية الكلمات مع إطالة حرف 's'."
+        },
+        {
+          "pt": "Aqui no Sul a gente diz 'o chimarrão é bom', no Nordeste tu ouve 'a água é quente' com outro ritmo.",
+          "en": "Do you (tu) want to have lunch with us, or are you heading straight to the lecture?",
+          "ar": "هل تريد الغداء معنا، أم ستتوجه مباشرة إلى المحاضرة؟"
+        },
+        {
+          "pt": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
+          "en": "Here in the South we say 'o chimarrão é bom'; in the Northeast you hear 'a água é quente' with a different rhythm.",
+          "ar": "هنا في الجنوب نقول 'o chimarrão é bom'، وفي الشمال الشرقي تسمع 'a água é quente' بإيقاع مختلف."
+        }
+      ],
+      "answer": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
+      "accepted": [],
+      "audio": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
+      "explanation": {
+        "pt": "Você ouviu: 'Tu quer almoçar com a gente, ou vai seguir direto para a palestra?' — 'Do you (tu) want to have lunch with us, or are you heading straight to the lecture?'",
+        "en": "You heard: 'Tu quer almoçar com a gente, ou vai seguir direto para a palestra?' — 'Do you (tu) want to have lunch with us, or are you heading straight to the lecture?'",
+        "ar": "سمعت: 'Tu quer almoçar com a gente, ou vai seguir direto para a palestra?' — 'هل تريد الغداء معنا، أم ستتوجه مباشرة إلى المحاضرة؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "E o carioca ainda fala 'ma[iʃ]' no fim das palavras, puxando o 's'.",
+          "en": "Sure. But just so you know, the restaurant next door is packed.",
+          "ar": "يمكن ذلك. لكن لتكن على علم، المطعم المجاور ممتلئ."
+        },
+        {
+          "pt": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
+          "en": "Here in the South we say 'o chimarrão é bom'; in the Northeast you hear 'a água é quente' with a different rhythm.",
+          "ar": "والكاريكا ما زال يقول 'ma[iʃ]' في نهاية الكلمات مع إطالة حرف 's'."
+        },
+        {
+          "pt": "Aqui no Sul a gente diz 'o chimarrão é bom', no Nordeste tu ouve 'a água é quente' com outro ritmo.",
+          "en": "And the carioca still says 'ma[iʃ]' at the end of words, drawing out the 's'.",
+          "ar": "هنا في الجنوب نقول 'o chimarrão é bom'، وفي الشمال الشرقي تسمع 'a água é quente' بإيقاع مختلف."
+        }
+      ],
+      "answer": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
+      "accepted": [],
+      "audio": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
+      "explanation": {
+        "pt": "Você ouviu: 'Pode ser. Mas, para você saber, o restaurante do lado está lotado.' — 'Sure. But just so you know, the restaurant next door is packed.'",
+        "en": "You heard: 'Pode ser. Mas, para você saber, o restaurante do lado está lotado.' — 'Sure. But just so you know, the restaurant next door is packed.'",
+        "ar": "سمعت: 'Pode ser. Mas, para você saber, o restaurante do lado está lotado.' — 'يمكن ذلك. لكن لتكن على علم، المطعم المجاور ممتلئ.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "direto",
+          "en": "direto",
+          "ar": "direto"
+        },
+        {
+          "pt": "almoçar",
+          "en": "almoçar",
+          "ar": "almoçar"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "ou",
+          "en": "ou",
+          "ar": "ou"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "gente,",
+          "en": "gente,",
+          "ar": "gente,"
+        },
+        {
+          "pt": "vai",
+          "en": "vai",
+          "ar": "vai"
+        },
+        {
+          "pt": "com",
+          "en": "com",
+          "ar": "com"
+        },
+        {
+          "pt": "palestra?",
+          "en": "palestra?",
+          "ar": "palestra?"
+        },
+        {
+          "pt": "seguir",
+          "en": "seguir",
+          "ar": "seguir"
+        },
+        {
+          "pt": "Tu",
+          "en": "Tu",
+          "ar": "Tu"
+        },
+        {
+          "pt": "para",
+          "en": "para",
+          "ar": "para"
+        },
+        {
+          "pt": "quer",
+          "en": "quer",
+          "ar": "quer"
+        }
+      ],
+      "answer": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
+      "accepted": [
+        "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Tu quer almoçar com a gente, ou vai seguir direto para a palestra?'",
+        "en": "The correct order: 'Do you (tu) want to have lunch with us, or are you heading straight to the lecture?'",
+        "ar": "الترتيب الصحيح: 'هل تريد الغداء معنا، أم ستتوجه مباشرة إلى المحاضرة؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o falar nordestino",
+          "en": "accent",
+          "ar": "o falar nordestino"
+        },
+        {
+          "pt": "o caipira",
+          "en": "dialect",
+          "ar": "o caipira"
+        },
+        {
+          "pt": "o sotaque",
+          "en": "regionalism",
+          "ar": "o sotaque"
+        },
+        {
+          "pt": "a gíria",
+          "en": "Northeastern speech",
+          "ar": "a gíria"
+        },
+        {
+          "pt": "o dialeto",
+          "en": "slang",
+          "ar": "o dialeto"
+        },
+        {
+          "pt": "o regionalismo",
+          "en": "the 'caipira' dialect (rural interior)",
+          "ar": "o regionalismo"
+        }
+      ],
+      "answer": "o falar nordestino::accent|o caipira::dialect|o sotaque::regionalism|a gíria::Northeastern speech|o dialeto::slang|o regionalismo::the 'caipira' dialect (rural interior)",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Então vamos almoçar, que eu te conto as gírias do Norte que ninguém conhece.",
+          "en": "Exactly. Prosody, lexicon and pronouns vary, but the educated standard brings everyone together in formal writing.",
+          "ar": "إذن لنتناول الغداء، وسأحكي لك عن دارج الشمال التي لا يعرفها أحد."
+        },
+        {
+          "pt": "Exato. Prosódia, léxico e pronomes variam, mas a norma culta aproxima todos na escrita formal.",
+          "en": "Do you (tu) want to have lunch with us, or are you heading straight to the lecture?",
+          "ar": "هل تريد الغداء معنا، أم ستتوجه مباشرة إلى المحاضرة؟"
+        },
+        {
+          "pt": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
+          "en": "Then let's have lunch, and I'll tell you Northern slang that nobody knows.",
+          "ar": "بالضبط. يختلف الإيقاع والمعجم والضمائر، لكن القاعدة الفصيحة تجمع الجميع في الكتابة الرسمية."
+        }
+      ],
+      "answer": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
+      "accepted": [],
+      "audio": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
+      "explanation": {
+        "pt": "Você ouviu: 'Tu quer almoçar com a gente, ou vai seguir direto para a palestra?' — 'Do you (tu) want to have lunch with us, or are you heading straight to the lecture?'",
+        "en": "You heard: 'Tu quer almoçar com a gente, ou vai seguir direto para a palestra?' — 'Do you (tu) want to have lunch with us, or are you heading straight to the lecture?'",
+        "ar": "سمعت: 'Tu quer almoçar com a gente, ou vai seguir direto para a palestra?' — 'هل تريد الغداء معنا، أم ستتوجه مباشرة إلى المحاضرة؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
+          "en": "Sure. But just so you know, the restaurant next door is packed.",
+          "ar": "هل تريد الغداء معنا، أم ستتوجه مباشرة إلى المحاضرة؟"
+        },
+        {
+          "pt": "E o carioca ainda fala 'ma[iʃ]' no fim das palavras, puxando o 's'.",
+          "en": "And the carioca still says 'ma[iʃ]' at the end of words, drawing out the 's'.",
+          "ar": "والكاريكا ما زال يقول 'ma[iʃ]' في نهاية الكلمات مع إطالة حرف 's'."
+        },
+        {
+          "pt": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
+          "en": "Do you (tu) want to have lunch with us, or are you heading straight to the lecture?",
+          "ar": "يمكن ذلك. لكن لتكن على علم، المطعم المجاور ممتلئ."
+        }
+      ],
+      "answer": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
+      "accepted": [],
+      "audio": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
+      "explanation": {
+        "pt": "Você ouviu: 'Pode ser. Mas, para você saber, o restaurante do lado está lotado.' — 'Sure. But just so you know, the restaurant next door is packed.'",
+        "en": "You heard: 'Pode ser. Mas, para você saber, o restaurante do lado está lotado.' — 'Sure. But just so you know, the restaurant next door is packed.'",
+        "ar": "سمعت: 'Pode ser. Mas, para você saber, o restaurante do lado está lotado.' — 'يمكن ذلك. لكن لتكن على علم، المطعم المجاور ممتلئ.'"
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'regionalism'",
+        "en": "Type in Portuguese: 'regionalism'",
+        "ar": "اكتب بالبرتغالية: 'الإقليمية / اللفظ الإقليمي'"
+      },
+      "options": [],
+      "answer": "o regionalismo",
+      "accepted": [
+        "o regionalismo"
+      ],
+      "explanation": {
+        "pt": "'o regionalismo' significa 'regionalism'.",
+        "en": "'o regionalismo' means 'regionalism'.",
+        "ar": "'$o regionalismo' بالعربية: '$الإقليمية / اللفظ الإقليمي'."
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'dialect'",
+        "en": "Type in Portuguese: 'dialect'",
+        "ar": "اكتب بالبرتغالية: 'اللهجة'"
+      },
+      "options": [],
+      "answer": "o dialeto",
+      "accepted": [
+        "o dialeto"
+      ],
+      "explanation": {
+        "pt": "'o dialeto' significa 'dialect'.",
+        "en": "'o dialeto' means 'dialect'.",
+        "ar": "'$o dialeto' بالعربية: '$اللهجة'."
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
+          "en": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
+          "ar": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?"
+        },
+        {
+          "pt": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
+          "en": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
+          "ar": "Pode ser. Mas, para você saber, o restaurante do lado está lotado."
+        },
+        {
+          "pt": "E o carioca ainda fala 'ma[iʃ]' no fim das palavras, puxando o 's'.",
+          "en": "E o carioca ainda fala 'ma[iʃ]' no fim das palavras, puxando o 's'.",
+          "ar": "E o carioca ainda fala 'ma[iʃ]' no fim das palavras, puxando o 's'."
+        }
+      ],
+      "answer": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
+      "accepted": [],
+      "audio": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
+      "explanation": {
+        "pt": "Você ouviu: 'Tu quer almoçar com a gente, ou vai seguir direto para a palestra?'",
+        "en": "You heard: 'Tu quer almoçar com a gente, ou vai seguir direto para a palestra?'",
+        "ar": "سمعت: 'Tu quer almoçar com a gente, ou vai seguir direto para a palestra?'"
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
+          "en": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
+          "ar": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?"
+        },
+        {
+          "pt": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
+          "en": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
+          "ar": "Pode ser. Mas, para você saber, o restaurante do lado está lotado."
+        },
+        {
+          "pt": "Aqui no Sul a gente diz 'o chimarrão é bom', no Nordeste tu ouve 'a água é quente' com outro ritmo.",
+          "en": "Aqui no Sul a gente diz 'o chimarrão é bom', no Nordeste tu ouve 'a água é quente' com outro ritmo.",
+          "ar": "Aqui no Sul a gente diz 'o chimarrão é bom', no Nordeste tu ouve 'a água é quente' com outro ritmo."
+        }
+      ],
+      "answer": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
+      "accepted": [],
+      "audio": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
+      "explanation": {
+        "pt": "Você ouviu: 'Pode ser. Mas, para você saber, o restaurante do lado está lotado.'",
+        "en": "You heard: 'Pode ser. Mas, para você saber, o restaurante do lado está lotado.'",
+        "ar": "سمعت: 'Pode ser. Mas, para você saber, o restaurante do lado está lotado.'"
+      }
+    },
+    {
+      "type": "dictation",
+      "prompt": {
+        "pt": "Ouça e escreva o que você ouviu.",
+        "en": "Listen and type what you hear.",
+        "ar": "استمع واكتب ما سمعته."
+      },
+      "options": [],
+      "answer": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
+      "accepted": [],
+      "audio": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
+      "explanation": {
+        "pt": "A frase correta: 'Tu quer almoçar com a gente, ou vai seguir direto para a palestra?'",
+        "en": "The correct sentence: 'Tu quer almoçar com a gente, ou vai seguir direto para a palestra?'",
+        "ar": "الجملة الصحيحة: 'Tu quer almoçar com a gente, ou vai seguir direto para a palestra?'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "com",
+          "en": "com",
+          "ar": "com"
+        },
+        {
+          "pt": "ou",
+          "en": "ou",
+          "ar": "ou"
+        },
+        {
+          "pt": "quer",
+          "en": "quer",
+          "ar": "quer"
+        },
+        {
+          "pt": "palestra?",
+          "en": "palestra?",
+          "ar": "palestra?"
+        },
+        {
+          "pt": "Tu",
+          "en": "Tu",
+          "ar": "Tu"
+        },
+        {
+          "pt": "direto",
+          "en": "direto",
+          "ar": "direto"
+        },
+        {
+          "pt": "almoçar",
+          "en": "almoçar",
+          "ar": "almoçar"
+        },
+        {
+          "pt": "gente,",
+          "en": "gente,",
+          "ar": "gente,"
+        },
+        {
+          "pt": "seguir",
+          "en": "seguir",
+          "ar": "seguir"
+        },
+        {
+          "pt": "para",
+          "en": "para",
+          "ar": "para"
+        },
+        {
+          "pt": "vai",
+          "en": "vai",
+          "ar": "vai"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        }
+      ],
+      "answer": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
+      "accepted": [
+        "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Tu quer almoçar com a gente, ou vai seguir direto para a palestra?'",
+        "en": "The correct order: 'Do you (tu) want to have lunch with us, or are you heading straight to the lecture?'",
+        "ar": "الترتيب الصحيح: 'هل تريد الغداء معنا، أم ستتوجه مباشرة إلى المحاضرة؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a gíria",
+          "en": "Northeastern speech",
+          "ar": "a gíria"
+        },
+        {
+          "pt": "o dialeto",
+          "en": "dialect",
+          "ar": "o dialeto"
+        },
+        {
+          "pt": "o caipira",
+          "en": "regionalism",
+          "ar": "o caipira"
+        },
+        {
+          "pt": "o falar nordestino",
+          "en": "accent",
+          "ar": "o falar nordestino"
+        },
+        {
+          "pt": "o regionalismo",
+          "en": "slang",
+          "ar": "o regionalismo"
+        },
+        {
+          "pt": "o sotaque",
+          "en": "the 'caipira' dialect (rural interior)",
+          "ar": "o sotaque"
+        }
+      ],
+      "answer": "a gíria::Northeastern speech|o dialeto::dialect|o caipira::regionalism|o falar nordestino::accent|o regionalismo::slang|o sotaque::the 'caipira' dialect (rural interior)",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Aqui no Sul a gente diz 'o chimarrão é bom', no Nordeste tu ouve 'a água é quente' com outro ritmo.",
+          "en": "Do you (tu) want to have lunch with us, or are you heading straight to the lecture?",
+          "ar": "هنا في الجنوب نقول 'o chimarrão é bom'، وفي الشمال الشرقي تسمع 'a água é quente' بإيقاع مختلف."
+        },
+        {
+          "pt": "Exato. Prosódia, léxico e pronomes variam, mas a norma culta aproxima todos na escrita formal.",
+          "en": "Exactly. Prosody, lexicon and pronouns vary, but the educated standard brings everyone together in formal writing.",
+          "ar": "بالضبط. يختلف الإيقاع والمعجم والضمائر، لكن القاعدة الفصيحة تجمع الجميع في الكتابة الرسمية."
+        },
+        {
+          "pt": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
+          "en": "Here in the South we say 'o chimarrão é bom'; in the Northeast you hear 'a água é quente' with a different rhythm.",
+          "ar": "هل تريد الغداء معنا، أم ستتوجه مباشرة إلى المحاضرة؟"
+        }
+      ],
+      "answer": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
+      "accepted": [],
+      "audio": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
+      "explanation": {
+        "pt": "Você ouviu: 'Tu quer almoçar com a gente, ou vai seguir direto para a palestra?' — 'Do you (tu) want to have lunch with us, or are you heading straight to the lecture?'",
+        "en": "You heard: 'Tu quer almoçar com a gente, ou vai seguir direto para a palestra?' — 'Do you (tu) want to have lunch with us, or are you heading straight to the lecture?'",
+        "ar": "سمعت: 'Tu quer almoçar com a gente, ou vai seguir direto para a palestra?' — 'هل تريد الغداء معنا، أم ستتوجه مباشرة إلى المحاضرة؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
+          "en": "Then let's have lunch, and I'll tell you Northern slang that nobody knows.",
+          "ar": "هنا في الجنوب نقول 'o chimarrão é bom'، وفي الشمال الشرقي تسمع 'a água é quente' بإيقاع مختلف."
+        },
+        {
+          "pt": "Aqui no Sul a gente diz 'o chimarrão é bom', no Nordeste tu ouve 'a água é quente' com outro ritmo.",
+          "en": "Here in the South we say 'o chimarrão é bom'; in the Northeast you hear 'a água é quente' with a different rhythm.",
+          "ar": "إذن لنتناول الغداء، وسأحكي لك عن دارج الشمال التي لا يعرفها أحد."
+        },
+        {
+          "pt": "Então vamos almoçar, que eu te conto as gírias do Norte que ninguém conhece.",
+          "en": "Sure. But just so you know, the restaurant next door is packed.",
+          "ar": "يمكن ذلك. لكن لتكن على علم، المطعم المجاور ممتلئ."
+        }
+      ],
+      "answer": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
+      "accepted": [],
+      "audio": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
+      "explanation": {
+        "pt": "Você ouviu: 'Pode ser. Mas, para você saber, o restaurante do lado está lotado.' — 'Sure. But just so you know, the restaurant next door is packed.'",
+        "en": "You heard: 'Pode ser. Mas, para você saber, o restaurante do lado está lotado.' — 'Sure. But just so you know, the restaurant next door is packed.'",
+        "ar": "سمعت: 'Pode ser. Mas, para você saber, o restaurante do lado está lotado.' — 'يمكن ذلك. لكن لتكن على علم، المطعم المجاور ممتلئ.'"
+      }
+    }
+  ],
+  "speaking": {
+    "title": {
+      "pt": "Fale Agora — Ouça e Repita",
+      "en": "Speak Now — Listen and Repeat",
+      "ar": "تحدث الآن — استمع وكرر"
+    },
+    "phrases": [
+      {
+        "pt": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
+        "en": "Do you (tu) want to have lunch with us, or are you heading straight to the lecture?",
+        "ar": "هل تريد الغداء معنا، أم ستتوجه مباشرة إلى المحاضرة؟"
+      },
+      {
+        "pt": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
+        "en": "Sure. But just so you know, the restaurant next door is packed.",
+        "ar": "يمكن ذلك. لكن لتكن على علم، المطعم المجاور ممتلئ."
+      },
+      {
+        "pt": "Aqui no Sul a gente diz 'o chimarrão é bom', no Nordeste tu ouve 'a água é quente' com outro ritmo.",
+        "en": "Here in the South we say 'o chimarrão é bom'; in the Northeast you hear 'a água é quente' with a different rhythm.",
+        "ar": "هنا في الجنوب نقول 'o chimarrão é bom'، وفي الشمال الشرقي تسمع 'a água é quente' بإيقاع مختلف."
+      },
+      {
+        "pt": "E o carioca ainda fala 'ma[iʃ]' no fim das palavras, puxando o 's'.",
+        "en": "And the carioca still says 'ma[iʃ]' at the end of words, drawing out the 's'.",
+        "ar": "والكاريكا ما زال يقول 'ma[iʃ]' في نهاية الكلمات مع إطالة حرف 's'."
+      },
+      {
+        "pt": "Exato. Prosódia, léxico e pronomes variam, mas a norma culta aproxima todos na escrita formal.",
+        "en": "Exactly. Prosody, lexicon and pronouns vary, but the educated standard brings everyone together in formal writing.",
+        "ar": "بالضبط. يختلف الإيقاع والمعجم والضمائر، لكن القاعدة الفصيحة تجمع الجميع في الكتابة الرسمية."
+      },
+      {
+        "pt": "Então vamos almoçar, que eu te conto as gírias do Norte que ninguém conhece.",
+        "en": "Then let's have lunch, and I'll tell you Northern slang that nobody knows.",
+        "ar": "إذن لنتناول الغداء، وسأحكي لك عن دارج الشمال التي لا يعرفها أحد."
+      },
+      {
+        "pt": "o regionalismo",
+        "en": "regionalism",
+        "ar": "الإقليمية / اللفظ الإقليمي"
+      },
+      {
+        "pt": "o dialeto",
+        "en": "dialect",
+        "ar": "اللهجة"
+      },
+      {
+        "pt": "a gíria",
+        "en": "slang",
+        "ar": "اللغة الدارجة"
+      }
+    ]
+  },
+  "cultural_tips": {
+    "pt": "",
+    "en": "",
+    "ar": ""
+  }
+}

@@ -1,0 +1,1874 @@
+{
+  "id": "B1-06",
+  "level": "B1",
+  "level_name": {
+    "pt": "Intermediário",
+    "en": "Intermediate",
+    "ar": "متوسط"
+  },
+  "title": {
+    "pt": "Futebol e Esportes",
+    "en": "Soccer and Sports",
+    "ar": "كرة القدم والرياضة"
+  },
+  "objectives": [
+    {
+      "pt": "Ampliar o vocabulário de futebol e esportes.",
+      "en": "Expand soccer and sports vocabulary.",
+      "ar": "توسيع مفردات كرة القدم والرياضة."
+    },
+    {
+      "pt": "Usar comparativos, superlativos e o verbo 'ficar' em contextos esportivos.",
+      "en": "Use comparatives, superlatives and the verb 'ficar' in sports contexts.",
+      "ar": "استخدام صيغ المقارنة والتفضيل والفعل 'ficar' في السياقات الرياضية."
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "o futebol",
+      "ipa": "/u fu.tʃiˈbɔw/",
+      "en": "the soccer",
+      "ar": "كرة القدم",
+      "example": {
+        "pt": "Este time é mais forte que o rival.",
+        "en": "This team is stronger than the rival.",
+        "ar": "هذا الفريق أقوى من الخصم."
+      }
+    },
+    {
+      "pt": "o time",
+      "ipa": "/u ˈtʃĩ.mi/",
+      "en": "the team",
+      "ar": "الفريق",
+      "example": {
+        "pt": "Este time é mais forte que o rival.",
+        "en": "This team is stronger than the rival.",
+        "ar": "هذا الفريق أقوى من الخصم."
+      }
+    },
+    {
+      "pt": "o jogador",
+      "ipa": "/u ʒo.ɡaˈdoʁ/",
+      "en": "the player",
+      "ar": "اللاعب",
+      "example": {
+        "pt": "Este time é mais forte que o rival.",
+        "en": "This team is stronger than the rival.",
+        "ar": "هذا الفريق أقوى من الخصم."
+      }
+    },
+    {
+      "pt": "a partida",
+      "ipa": "/a paʁˈtʃi.dɐ/",
+      "en": "the match",
+      "ar": "المباراة",
+      "example": {
+        "pt": "Vou sim. A torcida está animada!",
+        "en": "Yes, I am. The fans are excited!",
+        "ar": "نعم سأذهب. الجمهور متحمّس!"
+      }
+    },
+    {
+      "pt": "o gol",
+      "ipa": "/u ˈɡɔw/",
+      "en": "the goal",
+      "ar": "الهدف",
+      "example": {
+        "pt": "Este time é mais forte que o rival.",
+        "en": "This team is stronger than the rival.",
+        "ar": "هذا الفريق أقوى من الخصم."
+      }
+    },
+    {
+      "pt": "a torcida",
+      "ipa": "/a toʁˈsi.dɐ/",
+      "en": "the fans",
+      "ar": "جمهور المشجعين",
+      "example": {
+        "pt": "Vou sim. A torcida está animada!",
+        "en": "Yes, I am. The fans are excited!",
+        "ar": "نعم سأذهب. الجمهور متحمّس!"
+      }
+    },
+    {
+      "pt": "o estádio",
+      "ipa": "/u esˈta.dʒju/",
+      "en": "the stadium",
+      "ar": "الملعب",
+      "example": {
+        "pt": "Este time é mais forte que o rival.",
+        "en": "This team is stronger than the rival.",
+        "ar": "هذا الفريق أقوى من الخصم."
+      }
+    },
+    {
+      "pt": "o campeonato",
+      "ipa": "/u kɐ̃.pe.oˈna.tu/",
+      "en": "the championship",
+      "ar": "البطولة",
+      "example": {
+        "pt": "Este time é mais forte que o rival.",
+        "en": "This team is stronger than the rival.",
+        "ar": "هذا الفريق أقوى من الخصم."
+      }
+    },
+    {
+      "pt": "o treinador",
+      "ipa": "/u tɾej.naˈdoʁ/",
+      "en": "the coach",
+      "ar": "المدرب",
+      "example": {
+        "pt": "Este time é mais forte que o rival.",
+        "en": "This team is stronger than the rival.",
+        "ar": "هذا الفريق أقوى من الخصم."
+      }
+    },
+    {
+      "pt": "o árbitro",
+      "ipa": "/u ˈaʁ.bi.tɾu/",
+      "en": "the referee",
+      "ar": "الحكم",
+      "example": {
+        "pt": "Este time é mais forte que o rival.",
+        "en": "This team is stronger than the rival.",
+        "ar": "هذا الفريق أقوى من الخصم."
+      }
+    },
+    {
+      "pt": "o cartão",
+      "ipa": "/u kaʁˈtɐ̃w/",
+      "en": "the card",
+      "ar": "البطاقة",
+      "example": {
+        "pt": "Este time é mais forte que o rival.",
+        "en": "This team is stronger than the rival.",
+        "ar": "هذا الفريق أقوى من الخصم."
+      }
+    },
+    {
+      "pt": "o pênalti",
+      "ipa": "/u ˈpẽ.naw.tʃi/",
+      "en": "the penalty",
+      "ar": "ركلة الجزاء",
+      "example": {
+        "pt": "Este time é mais forte que o rival.",
+        "en": "This team is stronger than the rival.",
+        "ar": "هذا الفريق أقوى من الخصم."
+      }
+    },
+    {
+      "pt": "o campeão",
+      "ipa": "/u kɐ̃.peˈɐ̃w/",
+      "en": "the champion",
+      "ar": "البطل",
+      "example": {
+        "pt": "Este time é mais forte que o rival.",
+        "en": "This team is stronger than the rival.",
+        "ar": "هذا الفريق أقوى من الخصم."
+      }
+    },
+    {
+      "pt": "a derrota",
+      "ipa": "/a deˈhɔ.tɐ/",
+      "en": "the defeat",
+      "ar": "الهزيمة",
+      "example": {
+        "pt": "Vou sim. A torcida está animada!",
+        "en": "Yes, I am. The fans are excited!",
+        "ar": "نعم سأذهب. الجمهور متحمّس!"
+      }
+    },
+    {
+      "pt": "a vitória",
+      "ipa": "/a viˈtɔ.ɾjɐ/",
+      "en": "the victory",
+      "ar": "الانتصار",
+      "example": {
+        "pt": "Vou sim. A torcida está animada!",
+        "en": "Yes, I am. The fans are excited!",
+        "ar": "نعم سأذهب. الجمهور متحمّس!"
+      }
+    },
+    {
+      "pt": "o exercício",
+      "ipa": "/u e.zeʁˈsi.sju/",
+      "en": "the exercise",
+      "ar": "التمرين",
+      "example": {
+        "pt": "Este time é mais forte que o rival.",
+        "en": "This team is stronger than the rival.",
+        "ar": "هذا الفريق أقوى من الخصم."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "title": {
+        "pt": "Comparativos e superlativos",
+        "en": "Comparatives and superlatives",
+        "ar": "المقارنة والتفضيل"
+      },
+      "explanation": {
+        "pt": "Usamos 'mais ... que/do que' e 'menos ... que/do que' para comparar. O superlativo usa 'o/a mais' ou formas especiais como 'melhor' e 'pior'.",
+        "en": "We use 'mais ... que/do que' and 'menos ... que/do que' to compare. The superlative uses 'o/a mais' or special forms like 'melhor' and 'pior'.",
+        "ar": "نستخدم 'mais ... que/do que' و'menos ... que/do que' للمقارنة. أما صيغة التفضيل فتستخدم 'o/a mais' أو صيغاً خاصة مثل 'melhor' (أفضل) و'pior' (أسوأ)."
+      },
+      "examples": [
+        {
+          "pt": "Este time é mais forte que o nosso.",
+          "en": "This team is stronger than ours.",
+          "ar": "هذا الفريق أقوى من فريقنا."
+        },
+        {
+          "pt": "O atacante é o melhor jogador do campeonato.",
+          "en": "The striker is the best player of the championship.",
+          "ar": "المهاجم أفضل لاعب في البطولة."
+        },
+        {
+          "pt": "Aquela equipe é menos organizada do que a nossa.",
+          "en": "That team is less organized than ours.",
+          "ar": "ذلك الفريق أقل تنظيماً من فريقنا."
+        }
+      ]
+    },
+    {
+      "title": {
+        "pt": "O verbo 'ficar' em contextos esportivos",
+        "en": "The verb 'ficar' in sports contexts",
+        "ar": "الفعل 'ficar' في السياقات الرياضية"
+      },
+      "explanation": {
+        "pt": "'Ficar' expressa estado, resultado ou posição. No esporte, é comum em expressões como 'ficar em primeiro lugar', 'ficar nervoso' e 'ficar de fora'.",
+        "en": "'Ficar' expresses state, result or position. In sports it is common in expressions like 'to finish first', 'to get nervous' and 'to be left out'.",
+        "ar": "يعبّر 'ficar' عن الحالة أو النتيجة أو الموضع. في الرياضة، يُستخدم كثيراً في تعبيرات مثل 'يحتّل المركز الأول' و'يصبح متوتراً' و'يُستبعد'."
+      },
+      "examples": [
+        {
+          "pt": "O time ficou em segundo lugar na tabela.",
+          "en": "The team finished second in the standings.",
+          "ar": "احتّل الفريق المركز الثاني في الترتيب."
+        },
+        {
+          "pt": "Os jogadores ficaram nervosos antes da partida.",
+          "en": "The players got nervous before the match.",
+          "ar": "أصبح اللاعبون متوترين قبل المباراة."
+        },
+        {
+          "pt": "Ele ficou de fora por causa de uma lesão.",
+          "en": "He was left out because of an injury.",
+          "ar": "استُبعد بسبب إصابة."
+        }
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": {
+      "pt": "Dia de jogo",
+      "en": "Match day",
+      "ar": "يوم المباراة"
+    },
+    "lines": [
+      {
+        "speaker": "Tiago",
+        "pt": "Você vai ao estádio hoje?",
+        "en": "Are you going to the stadium today?",
+        "ar": "هل ستذهب إلى الملعب اليوم؟"
+      },
+      {
+        "speaker": "Nina",
+        "pt": "Vou sim. A torcida está animada!",
+        "en": "Yes, I am. The fans are excited!",
+        "ar": "نعم سأذهب. الجمهور متحمّس!"
+      },
+      {
+        "speaker": "Tiago",
+        "pt": "Este time é mais forte que o rival.",
+        "en": "This team is stronger than the rival.",
+        "ar": "هذا الفريق أقوى من الخصم."
+      },
+      {
+        "speaker": "Nina",
+        "pt": "Mas o treinador está preocupado com a defesa.",
+        "en": "But the coach is worried about the defense.",
+        "ar": "لكن المدرب قلق بشأن الدفاع."
+      },
+      {
+        "speaker": "Tiago",
+        "pt": "Se o artilheiro marcar, ficaremos em primeiro lugar.",
+        "en": "If the top scorer scores, we will finish first.",
+        "ar": "إذا سجّل الهداف، فسنحتّل المركز الأول."
+      },
+      {
+        "speaker": "Nina",
+        "pt": "A vitória hoje seria incrível!",
+        "en": "A victory today would be amazing!",
+        "ar": "سيكون الفوز اليوم رائعاً!"
+      }
+    ]
+  },
+  "reading": {
+    "title": {
+      "pt": "A final do campeonato",
+      "en": "The championship final",
+      "ar": "نهائي البطولة"
+    },
+    "text_pt": "A final do campeonato foi disputada no sábado. O time visitante venceu por dois a um. O jogador que marcou o gol foi o mais jovem do campeonato. A torcida comemorou a vitória com muita alegria.",
+    "text_en": "The championship final was played on Saturday. The visiting team won two to one. The player who scored the goal was the youngest of the championship. The fans celebrated the victory with great joy.",
+    "text_ar": "أُقيم نهائي البطولة يوم السبت. فاز الفريق الضيف بهدفين لهدف. اللاعب الذي سجّل الهدف كان الأصغر في البطولة. واحتفل الجمهور بالفوز بفرح كبير."
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Complete com o superlativo: \"Este jogador é o ___ do time.\"",
+        "en": "Complete with the superlative: \"This player is the ___ on the team.\"",
+        "ar": "أكمل بصيغة التفضيل: \"هذا اللاعب هو ___ في الفريق.\""
+      },
+      "options": [
+        {
+          "pt": "melhor",
+          "en": "best",
+          "ar": "الأفضل"
+        },
+        {
+          "pt": "mais bom",
+          "en": "more good",
+          "ar": "أكثر جودة"
+        },
+        {
+          "pt": "bem",
+          "en": "well",
+          "ar": "حسناً"
+        },
+        {
+          "pt": "muito bom",
+          "en": "very good",
+          "ar": "جيد جداً"
+        }
+      ],
+      "answer": "melhor",
+      "explanation": {
+        "pt": "'Bom' tem a forma comparativa/superlativa irregular 'melhor', nunca 'mais bom'.",
+        "en": "'Bom' has the irregular comparative/superlative form 'melhor', never 'mais bom'.",
+        "ar": "لكلمة 'bom' (جيد) صيغة مقارنة/تفضيل شاذة هي 'melhor'، ولا تُقال 'mais bom'."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Complete: \"O time ___ nervoso antes da partida.\"",
+        "en": "Complete: \"The team ___ nervous before the match.\"",
+        "ar": "أكمل: \"الفريق ___ متوتراً قبل المباراة.\""
+      },
+      "options": [
+        {
+          "pt": "ficou",
+          "en": "got",
+          "ar": "أصبح"
+        },
+        {
+          "pt": "fez",
+          "en": "did/made",
+          "ar": "فعل"
+        },
+        {
+          "pt": "teve",
+          "en": "had",
+          "ar": "كان عنده"
+        },
+        {
+          "pt": "disse",
+          "en": "said",
+          "ar": "قال"
+        }
+      ],
+      "answer": "ficou",
+      "explanation": {
+        "pt": "'Ficar + adjetivo' indica mudança de estado: 'ficou nervoso' = tornou-se nervoso.",
+        "en": "'Ficar + adjective' indicates a change of state: 'got nervous'.",
+        "ar": "'ficar + صفة' تدل على تغيّر الحالة: 'أصبح متوتراً'."
+      }
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"The fans celebrated the victory in the stadium.\"",
+        "en": "Translate to Portuguese: \"The fans celebrated the victory in the stadium.\"",
+        "ar": "ترجم إلى البرتغالية: \"The fans celebrated the victory in the stadium.\""
+      },
+      "options": [],
+      "answer": "A torcida comemorou a vitória no estádio.",
+      "explanation": {
+        "pt": "'Torcida' é o conjunto de torcedores, e 'comemorar' significa celebrar.",
+        "en": "'Torcida' is the group of fans, and 'comemorar' means to celebrate.",
+        "ar": "'torcida' تعني جمهور المشجعين، و'comemorar' تعني يحتفل."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "vai",
+          "en": "vai",
+          "ar": "vai"
+        },
+        {
+          "pt": "hoje?",
+          "en": "hoje?",
+          "ar": "hoje?"
+        },
+        {
+          "pt": "estádio",
+          "en": "estádio",
+          "ar": "estádio"
+        },
+        {
+          "pt": "ao",
+          "en": "ao",
+          "ar": "ao"
+        },
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        }
+      ],
+      "answer": "Você vai ao estádio hoje?",
+      "accepted": [
+        "Você vai ao estádio hoje?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Você vai ao estádio hoje?'",
+        "en": "The correct order: 'Are you going to the stadium today?'",
+        "ar": "الترتيب الصحيح: 'هل ستذهب إلى الملعب اليوم؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a torcida",
+          "en": "the soccer",
+          "ar": "a torcida"
+        },
+        {
+          "pt": "o time",
+          "en": "the player",
+          "ar": "o time"
+        },
+        {
+          "pt": "a partida",
+          "en": "the fans",
+          "ar": "a partida"
+        },
+        {
+          "pt": "o futebol",
+          "en": "the goal",
+          "ar": "o futebol"
+        },
+        {
+          "pt": "o jogador",
+          "en": "the match",
+          "ar": "o jogador"
+        },
+        {
+          "pt": "o gol",
+          "en": "the team",
+          "ar": "o gol"
+        }
+      ],
+      "answer": "a torcida::the soccer|o time::the player|a partida::the fans|o futebol::the goal|o jogador::the match|o gol::the team",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Vou sim. A torcida está animada!",
+          "en": "If the top scorer scores, we will finish first.",
+          "ar": "إذا سجّل الهداف، فسنحتّل المركز الأول."
+        },
+        {
+          "pt": "Você vai ao estádio hoje?",
+          "en": "Are you going to the stadium today?",
+          "ar": "هل ستذهب إلى الملعب اليوم؟"
+        },
+        {
+          "pt": "Se o artilheiro marcar, ficaremos em primeiro lugar.",
+          "en": "Yes, I am. The fans are excited!",
+          "ar": "نعم سأذهب. الجمهور متحمّس!"
+        }
+      ],
+      "answer": "Você vai ao estádio hoje?",
+      "accepted": [],
+      "audio": "Você vai ao estádio hoje?",
+      "explanation": {
+        "pt": "Você ouviu: 'Você vai ao estádio hoje?' — 'Are you going to the stadium today?'",
+        "en": "You heard: 'Você vai ao estádio hoje?' — 'Are you going to the stadium today?'",
+        "ar": "سمعت: 'Você vai ao estádio hoje?' — 'هل ستذهب إلى الملعب اليوم؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Vou sim. A torcida está animada!",
+          "en": "A victory today would be amazing!",
+          "ar": "هل ستذهب إلى الملعب اليوم؟"
+        },
+        {
+          "pt": "Você vai ao estádio hoje?",
+          "en": "Are you going to the stadium today?",
+          "ar": "نعم سأذهب. الجمهور متحمّس!"
+        },
+        {
+          "pt": "A vitória hoje seria incrível!",
+          "en": "Yes, I am. The fans are excited!",
+          "ar": "سيكون الفوز اليوم رائعاً!"
+        }
+      ],
+      "answer": "Vou sim. A torcida está animada!",
+      "accepted": [],
+      "audio": "Vou sim. A torcida está animada!",
+      "explanation": {
+        "pt": "Você ouviu: 'Vou sim. A torcida está animada!' — 'Yes, I am. The fans are excited!'",
+        "en": "You heard: 'Vou sim. A torcida está animada!' — 'Yes, I am. The fans are excited!'",
+        "ar": "سمعت: 'Vou sim. A torcida está animada!' — 'نعم سأذهب. الجمهور متحمّس!'"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Este time é mais forte que ___ nosso.",
+        "en": "Este time é mais forte que ___ nosso.",
+        "ar": "Este time é mais forte que ___ nosso."
+      },
+      "options": [
+        {
+          "pt": "Aquela",
+          "en": "Aquela",
+          "ar": "Aquela"
+        },
+        {
+          "pt": "é",
+          "en": "é",
+          "ar": "é"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        }
+      ],
+      "answer": "o",
+      "accepted": [],
+      "explanation": {
+        "pt": "A resposta é 'o'. Frase completa: Este time é mais forte que o nosso.",
+        "en": "The answer is 'o'. Full sentence: This team is stronger than ours.",
+        "ar": "الإجابة الصحيحة: 'o'. الجملة كاملة: هذا الفريق أقوى من فريقنا."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "vai",
+          "en": "vai",
+          "ar": "vai"
+        },
+        {
+          "pt": "hoje?",
+          "en": "hoje?",
+          "ar": "hoje?"
+        },
+        {
+          "pt": "ao",
+          "en": "ao",
+          "ar": "ao"
+        },
+        {
+          "pt": "estádio",
+          "en": "estádio",
+          "ar": "estádio"
+        },
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        }
+      ],
+      "answer": "Você vai ao estádio hoje?",
+      "accepted": [
+        "Você vai ao estádio hoje?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Você vai ao estádio hoje?'",
+        "en": "The correct order: 'Are you going to the stadium today?'",
+        "ar": "الترتيب الصحيح: 'هل ستذهب إلى الملعب اليوم؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a partida",
+          "en": "the player",
+          "ar": "a partida"
+        },
+        {
+          "pt": "o jogador",
+          "en": "the soccer",
+          "ar": "o jogador"
+        },
+        {
+          "pt": "o gol",
+          "en": "the match",
+          "ar": "o gol"
+        },
+        {
+          "pt": "o futebol",
+          "en": "the fans",
+          "ar": "o futebol"
+        },
+        {
+          "pt": "a torcida",
+          "en": "the goal",
+          "ar": "a torcida"
+        },
+        {
+          "pt": "o time",
+          "en": "the team",
+          "ar": "o time"
+        }
+      ],
+      "answer": "a partida::the player|o jogador::the soccer|o gol::the match|o futebol::the fans|a torcida::the goal|o time::the team",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Vou sim. A torcida está animada!",
+          "en": "Yes, I am. The fans are excited!",
+          "ar": "نعم سأذهب. الجمهور متحمّس!"
+        },
+        {
+          "pt": "Mas o treinador está preocupado com a defesa.",
+          "en": "Are you going to the stadium today?",
+          "ar": "هل ستذهب إلى الملعب اليوم؟"
+        },
+        {
+          "pt": "Você vai ao estádio hoje?",
+          "en": "But the coach is worried about the defense.",
+          "ar": "لكن المدرب قلق بشأن الدفاع."
+        }
+      ],
+      "answer": "Você vai ao estádio hoje?",
+      "accepted": [],
+      "audio": "Você vai ao estádio hoje?",
+      "explanation": {
+        "pt": "Você ouviu: 'Você vai ao estádio hoje?' — 'Are you going to the stadium today?'",
+        "en": "You heard: 'Você vai ao estádio hoje?' — 'Are you going to the stadium today?'",
+        "ar": "سمعت: 'Você vai ao estádio hoje?' — 'هل ستذهب إلى الملعب اليوم؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Vou sim. A torcida está animada!",
+          "en": "But the coach is worried about the defense.",
+          "ar": "لكن المدرب قلق بشأن الدفاع."
+        },
+        {
+          "pt": "Mas o treinador está preocupado com a defesa.",
+          "en": "Yes, I am. The fans are excited!",
+          "ar": "هذا الفريق أقوى من الخصم."
+        },
+        {
+          "pt": "Este time é mais forte que o rival.",
+          "en": "This team is stronger than the rival.",
+          "ar": "نعم سأذهب. الجمهور متحمّس!"
+        }
+      ],
+      "answer": "Vou sim. A torcida está animada!",
+      "accepted": [],
+      "audio": "Vou sim. A torcida está animada!",
+      "explanation": {
+        "pt": "Você ouviu: 'Vou sim. A torcida está animada!' — 'Yes, I am. The fans are excited!'",
+        "en": "You heard: 'Vou sim. A torcida está animada!' — 'Yes, I am. The fans are excited!'",
+        "ar": "سمعت: 'Vou sim. A torcida está animada!' — 'نعم سأذهب. الجمهور متحمّس!'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "hoje?",
+          "en": "hoje?",
+          "ar": "hoje?"
+        },
+        {
+          "pt": "estádio",
+          "en": "estádio",
+          "ar": "estádio"
+        },
+        {
+          "pt": "ao",
+          "en": "ao",
+          "ar": "ao"
+        },
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        },
+        {
+          "pt": "vai",
+          "en": "vai",
+          "ar": "vai"
+        }
+      ],
+      "answer": "Você vai ao estádio hoje?",
+      "accepted": [
+        "Você vai ao estádio hoje?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Você vai ao estádio hoje?'",
+        "en": "The correct order: 'Are you going to the stadium today?'",
+        "ar": "الترتيب الصحيح: 'هل ستذهب إلى الملعب اليوم؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o futebol",
+          "en": "the team",
+          "ar": "o futebol"
+        },
+        {
+          "pt": "o gol",
+          "en": "the player",
+          "ar": "o gol"
+        },
+        {
+          "pt": "a partida",
+          "en": "the soccer",
+          "ar": "a partida"
+        },
+        {
+          "pt": "a torcida",
+          "en": "the goal",
+          "ar": "a torcida"
+        },
+        {
+          "pt": "o jogador",
+          "en": "the fans",
+          "ar": "o jogador"
+        },
+        {
+          "pt": "o time",
+          "en": "the match",
+          "ar": "o time"
+        }
+      ],
+      "answer": "o futebol::the team|o gol::the player|a partida::the soccer|a torcida::the goal|o jogador::the fans|o time::the match",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Você vai ao estádio hoje?",
+          "en": "If the top scorer scores, we will finish first.",
+          "ar": "سيكون الفوز اليوم رائعاً!"
+        },
+        {
+          "pt": "Se o artilheiro marcar, ficaremos em primeiro lugar.",
+          "en": "Are you going to the stadium today?",
+          "ar": "إذا سجّل الهداف، فسنحتّل المركز الأول."
+        },
+        {
+          "pt": "A vitória hoje seria incrível!",
+          "en": "A victory today would be amazing!",
+          "ar": "هل ستذهب إلى الملعب اليوم؟"
+        }
+      ],
+      "answer": "Você vai ao estádio hoje?",
+      "accepted": [],
+      "audio": "Você vai ao estádio hoje?",
+      "explanation": {
+        "pt": "Você ouviu: 'Você vai ao estádio hoje?' — 'Are you going to the stadium today?'",
+        "en": "You heard: 'Você vai ao estádio hoje?' — 'Are you going to the stadium today?'",
+        "ar": "سمعت: 'Você vai ao estádio hoje?' — 'هل ستذهب إلى الملعب اليوم؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Vou sim. A torcida está animada!",
+          "en": "Are you going to the stadium today?",
+          "ar": "هل ستذهب إلى الملعب اليوم؟"
+        },
+        {
+          "pt": "Você vai ao estádio hoje?",
+          "en": "But the coach is worried about the defense.",
+          "ar": "لكن المدرب قلق بشأن الدفاع."
+        },
+        {
+          "pt": "Mas o treinador está preocupado com a defesa.",
+          "en": "Yes, I am. The fans are excited!",
+          "ar": "نعم سأذهب. الجمهور متحمّس!"
+        }
+      ],
+      "answer": "Vou sim. A torcida está animada!",
+      "accepted": [],
+      "audio": "Vou sim. A torcida está animada!",
+      "explanation": {
+        "pt": "Você ouviu: 'Vou sim. A torcida está animada!' — 'Yes, I am. The fans are excited!'",
+        "en": "You heard: 'Vou sim. A torcida está animada!' — 'Yes, I am. The fans are excited!'",
+        "ar": "سمعت: 'Vou sim. A torcida está animada!' — 'نعم سأذهب. الجمهور متحمّس!'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "hoje?",
+          "en": "hoje?",
+          "ar": "hoje?"
+        },
+        {
+          "pt": "vai",
+          "en": "vai",
+          "ar": "vai"
+        },
+        {
+          "pt": "estádio",
+          "en": "estádio",
+          "ar": "estádio"
+        },
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        },
+        {
+          "pt": "ao",
+          "en": "ao",
+          "ar": "ao"
+        }
+      ],
+      "answer": "Você vai ao estádio hoje?",
+      "accepted": [
+        "Você vai ao estádio hoje?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Você vai ao estádio hoje?'",
+        "en": "The correct order: 'Are you going to the stadium today?'",
+        "ar": "الترتيب الصحيح: 'هل ستذهب إلى الملعب اليوم؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o gol",
+          "en": "the match",
+          "ar": "o gol"
+        },
+        {
+          "pt": "o jogador",
+          "en": "the team",
+          "ar": "o jogador"
+        },
+        {
+          "pt": "o time",
+          "en": "the goal",
+          "ar": "o time"
+        },
+        {
+          "pt": "o futebol",
+          "en": "the soccer",
+          "ar": "o futebol"
+        },
+        {
+          "pt": "a partida",
+          "en": "the player",
+          "ar": "a partida"
+        },
+        {
+          "pt": "a torcida",
+          "en": "the fans",
+          "ar": "a torcida"
+        }
+      ],
+      "answer": "o gol::the match|o jogador::the team|o time::the goal|o futebol::the soccer|a partida::the player|a torcida::the fans",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Mas o treinador está preocupado com a defesa.",
+          "en": "But the coach is worried about the defense.",
+          "ar": "لكن المدرب قلق بشأن الدفاع."
+        },
+        {
+          "pt": "A vitória hoje seria incrível!",
+          "en": "Are you going to the stadium today?",
+          "ar": "سيكون الفوز اليوم رائعاً!"
+        },
+        {
+          "pt": "Você vai ao estádio hoje?",
+          "en": "A victory today would be amazing!",
+          "ar": "هل ستذهب إلى الملعب اليوم؟"
+        }
+      ],
+      "answer": "Você vai ao estádio hoje?",
+      "accepted": [],
+      "audio": "Você vai ao estádio hoje?",
+      "explanation": {
+        "pt": "Você ouviu: 'Você vai ao estádio hoje?' — 'Are you going to the stadium today?'",
+        "en": "You heard: 'Você vai ao estádio hoje?' — 'Are you going to the stadium today?'",
+        "ar": "سمعت: 'Você vai ao estádio hoje?' — 'هل ستذهب إلى الملعب اليوم؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Vou sim. A torcida está animada!",
+          "en": "This team is stronger than the rival.",
+          "ar": "هذا الفريق أقوى من الخصم."
+        },
+        {
+          "pt": "Este time é mais forte que o rival.",
+          "en": "A victory today would be amazing!",
+          "ar": "سيكون الفوز اليوم رائعاً!"
+        },
+        {
+          "pt": "A vitória hoje seria incrível!",
+          "en": "Yes, I am. The fans are excited!",
+          "ar": "نعم سأذهب. الجمهور متحمّس!"
+        }
+      ],
+      "answer": "Vou sim. A torcida está animada!",
+      "accepted": [],
+      "audio": "Vou sim. A torcida está animada!",
+      "explanation": {
+        "pt": "Você ouviu: 'Vou sim. A torcida está animada!' — 'Yes, I am. The fans are excited!'",
+        "en": "You heard: 'Vou sim. A torcida está animada!' — 'Yes, I am. The fans are excited!'",
+        "ar": "سمعت: 'Vou sim. A torcida está animada!' — 'نعم سأذهب. الجمهور متحمّس!'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "hoje?",
+          "en": "hoje?",
+          "ar": "hoje?"
+        },
+        {
+          "pt": "estádio",
+          "en": "estádio",
+          "ar": "estádio"
+        },
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        },
+        {
+          "pt": "vai",
+          "en": "vai",
+          "ar": "vai"
+        },
+        {
+          "pt": "ao",
+          "en": "ao",
+          "ar": "ao"
+        }
+      ],
+      "answer": "Você vai ao estádio hoje?",
+      "accepted": [
+        "Você vai ao estádio hoje?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Você vai ao estádio hoje?'",
+        "en": "The correct order: 'Are you going to the stadium today?'",
+        "ar": "الترتيب الصحيح: 'هل ستذهب إلى الملعب اليوم؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o futebol",
+          "en": "the match",
+          "ar": "o futebol"
+        },
+        {
+          "pt": "a partida",
+          "en": "the fans",
+          "ar": "a partida"
+        },
+        {
+          "pt": "o time",
+          "en": "the soccer",
+          "ar": "o time"
+        },
+        {
+          "pt": "o gol",
+          "en": "the player",
+          "ar": "o gol"
+        },
+        {
+          "pt": "o jogador",
+          "en": "the goal",
+          "ar": "o jogador"
+        },
+        {
+          "pt": "a torcida",
+          "en": "the team",
+          "ar": "a torcida"
+        }
+      ],
+      "answer": "o futebol::the match|a partida::the fans|o time::the soccer|o gol::the player|o jogador::the goal|a torcida::the team",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Você vai ao estádio hoje?",
+          "en": "Are you going to the stadium today?",
+          "ar": "نعم سأذهب. الجمهور متحمّس!"
+        },
+        {
+          "pt": "A vitória hoje seria incrível!",
+          "en": "Yes, I am. The fans are excited!",
+          "ar": "سيكون الفوز اليوم رائعاً!"
+        },
+        {
+          "pt": "Vou sim. A torcida está animada!",
+          "en": "A victory today would be amazing!",
+          "ar": "هل ستذهب إلى الملعب اليوم؟"
+        }
+      ],
+      "answer": "Você vai ao estádio hoje?",
+      "accepted": [],
+      "audio": "Você vai ao estádio hoje?",
+      "explanation": {
+        "pt": "Você ouviu: 'Você vai ao estádio hoje?' — 'Are you going to the stadium today?'",
+        "en": "You heard: 'Você vai ao estádio hoje?' — 'Are you going to the stadium today?'",
+        "ar": "سمعت: 'Você vai ao estádio hoje?' — 'هل ستذهب إلى الملعب اليوم؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Este time é mais forte que o rival.",
+          "en": "This team is stronger than the rival.",
+          "ar": "هذا الفريق أقوى من الخصم."
+        },
+        {
+          "pt": "Você vai ao estádio hoje?",
+          "en": "Yes, I am. The fans are excited!",
+          "ar": "نعم سأذهب. الجمهور متحمّس!"
+        },
+        {
+          "pt": "Vou sim. A torcida está animada!",
+          "en": "Are you going to the stadium today?",
+          "ar": "هل ستذهب إلى الملعب اليوم؟"
+        }
+      ],
+      "answer": "Vou sim. A torcida está animada!",
+      "accepted": [],
+      "audio": "Vou sim. A torcida está animada!",
+      "explanation": {
+        "pt": "Você ouviu: 'Vou sim. A torcida está animada!' — 'Yes, I am. The fans are excited!'",
+        "en": "You heard: 'Vou sim. A torcida está animada!' — 'Yes, I am. The fans are excited!'",
+        "ar": "سمعت: 'Vou sim. A torcida está animada!' — 'نعم سأذهب. الجمهور متحمّس!'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "vai",
+          "en": "vai",
+          "ar": "vai"
+        },
+        {
+          "pt": "hoje?",
+          "en": "hoje?",
+          "ar": "hoje?"
+        },
+        {
+          "pt": "ao",
+          "en": "ao",
+          "ar": "ao"
+        },
+        {
+          "pt": "estádio",
+          "en": "estádio",
+          "ar": "estádio"
+        },
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        }
+      ],
+      "answer": "Você vai ao estádio hoje?",
+      "accepted": [
+        "Você vai ao estádio hoje?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Você vai ao estádio hoje?'",
+        "en": "The correct order: 'Are you going to the stadium today?'",
+        "ar": "الترتيب الصحيح: 'هل ستذهب إلى الملعب اليوم؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o time",
+          "en": "the fans",
+          "ar": "o time"
+        },
+        {
+          "pt": "o jogador",
+          "en": "the player",
+          "ar": "o jogador"
+        },
+        {
+          "pt": "a torcida",
+          "en": "the goal",
+          "ar": "a torcida"
+        },
+        {
+          "pt": "o futebol",
+          "en": "the match",
+          "ar": "o futebol"
+        },
+        {
+          "pt": "a partida",
+          "en": "the soccer",
+          "ar": "a partida"
+        },
+        {
+          "pt": "o gol",
+          "en": "the team",
+          "ar": "o gol"
+        }
+      ],
+      "answer": "o time::the fans|o jogador::the player|a torcida::the goal|o futebol::the match|a partida::the soccer|o gol::the team",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Vou sim. A torcida está animada!",
+          "en": "Yes, I am. The fans are excited!",
+          "ar": "هل ستذهب إلى الملعب اليوم؟"
+        },
+        {
+          "pt": "Este time é mais forte que o rival.",
+          "en": "Are you going to the stadium today?",
+          "ar": "هذا الفريق أقوى من الخصم."
+        },
+        {
+          "pt": "Você vai ao estádio hoje?",
+          "en": "This team is stronger than the rival.",
+          "ar": "نعم سأذهب. الجمهور متحمّس!"
+        }
+      ],
+      "answer": "Você vai ao estádio hoje?",
+      "accepted": [],
+      "audio": "Você vai ao estádio hoje?",
+      "explanation": {
+        "pt": "Você ouviu: 'Você vai ao estádio hoje?' — 'Are you going to the stadium today?'",
+        "en": "You heard: 'Você vai ao estádio hoje?' — 'Are you going to the stadium today?'",
+        "ar": "سمعت: 'Você vai ao estádio hoje?' — 'هل ستذهب إلى الملعب اليوم؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Vou sim. A torcida está animada!",
+          "en": "Yes, I am. The fans are excited!",
+          "ar": "هل ستذهب إلى الملعب اليوم؟"
+        },
+        {
+          "pt": "Você vai ao estádio hoje?",
+          "en": "Are you going to the stadium today?",
+          "ar": "سيكون الفوز اليوم رائعاً!"
+        },
+        {
+          "pt": "A vitória hoje seria incrível!",
+          "en": "A victory today would be amazing!",
+          "ar": "نعم سأذهب. الجمهور متحمّس!"
+        }
+      ],
+      "answer": "Vou sim. A torcida está animada!",
+      "accepted": [],
+      "audio": "Vou sim. A torcida está animada!",
+      "explanation": {
+        "pt": "Você ouviu: 'Vou sim. A torcida está animada!' — 'Yes, I am. The fans are excited!'",
+        "en": "You heard: 'Vou sim. A torcida está animada!' — 'Yes, I am. The fans are excited!'",
+        "ar": "سمعت: 'Vou sim. A torcida está animada!' — 'نعم سأذهب. الجمهور متحمّس!'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "hoje?",
+          "en": "hoje?",
+          "ar": "hoje?"
+        },
+        {
+          "pt": "ao",
+          "en": "ao",
+          "ar": "ao"
+        },
+        {
+          "pt": "estádio",
+          "en": "estádio",
+          "ar": "estádio"
+        },
+        {
+          "pt": "vai",
+          "en": "vai",
+          "ar": "vai"
+        },
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        }
+      ],
+      "answer": "Você vai ao estádio hoje?",
+      "accepted": [
+        "Você vai ao estádio hoje?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Você vai ao estádio hoje?'",
+        "en": "The correct order: 'Are you going to the stadium today?'",
+        "ar": "الترتيب الصحيح: 'هل ستذهب إلى الملعب اليوم؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a torcida",
+          "en": "the soccer",
+          "ar": "a torcida"
+        },
+        {
+          "pt": "a partida",
+          "en": "the match",
+          "ar": "a partida"
+        },
+        {
+          "pt": "o time",
+          "en": "the player",
+          "ar": "o time"
+        },
+        {
+          "pt": "o jogador",
+          "en": "the goal",
+          "ar": "o jogador"
+        },
+        {
+          "pt": "o gol",
+          "en": "the team",
+          "ar": "o gol"
+        },
+        {
+          "pt": "o futebol",
+          "en": "the fans",
+          "ar": "o futebol"
+        }
+      ],
+      "answer": "a torcida::the soccer|a partida::the match|o time::the player|o jogador::the goal|o gol::the team|o futebol::the fans",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Vou sim. A torcida está animada!",
+          "en": "Yes, I am. The fans are excited!",
+          "ar": "هل ستذهب إلى الملعب اليوم؟"
+        },
+        {
+          "pt": "Este time é mais forte que o rival.",
+          "en": "This team is stronger than the rival.",
+          "ar": "نعم سأذهب. الجمهور متحمّس!"
+        },
+        {
+          "pt": "Você vai ao estádio hoje?",
+          "en": "Are you going to the stadium today?",
+          "ar": "هذا الفريق أقوى من الخصم."
+        }
+      ],
+      "answer": "Você vai ao estádio hoje?",
+      "accepted": [],
+      "audio": "Você vai ao estádio hoje?",
+      "explanation": {
+        "pt": "Você ouviu: 'Você vai ao estádio hoje?' — 'Are you going to the stadium today?'",
+        "en": "You heard: 'Você vai ao estádio hoje?' — 'Are you going to the stadium today?'",
+        "ar": "سمعت: 'Você vai ao estádio hoje?' — 'هل ستذهب إلى الملعب اليوم؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Este time é mais forte que o rival.",
+          "en": "This team is stronger than the rival.",
+          "ar": "هذا الفريق أقوى من الخصم."
+        },
+        {
+          "pt": "Mas o treinador está preocupado com a defesa.",
+          "en": "Yes, I am. The fans are excited!",
+          "ar": "لكن المدرب قلق بشأن الدفاع."
+        },
+        {
+          "pt": "Vou sim. A torcida está animada!",
+          "en": "But the coach is worried about the defense.",
+          "ar": "نعم سأذهب. الجمهور متحمّس!"
+        }
+      ],
+      "answer": "Vou sim. A torcida está animada!",
+      "accepted": [],
+      "audio": "Vou sim. A torcida está animada!",
+      "explanation": {
+        "pt": "Você ouviu: 'Vou sim. A torcida está animada!' — 'Yes, I am. The fans are excited!'",
+        "en": "You heard: 'Vou sim. A torcida está animada!' — 'Yes, I am. The fans are excited!'",
+        "ar": "سمعت: 'Vou sim. A torcida está animada!' — 'نعم سأذهب. الجمهور متحمّس!'"
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'the soccer'",
+        "en": "Type in Portuguese: 'the soccer'",
+        "ar": "اكتب بالبرتغالية: 'كرة القدم'"
+      },
+      "options": [],
+      "answer": "o futebol",
+      "accepted": [
+        "o futebol"
+      ],
+      "explanation": {
+        "pt": "'o futebol' significa 'the soccer'.",
+        "en": "'o futebol' means 'the soccer'.",
+        "ar": "'$o futebol' بالعربية: '$كرة القدم'."
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'the team'",
+        "en": "Type in Portuguese: 'the team'",
+        "ar": "اكتب بالبرتغالية: 'الفريق'"
+      },
+      "options": [],
+      "answer": "o time",
+      "accepted": [
+        "o time"
+      ],
+      "explanation": {
+        "pt": "'o time' significa 'the team'.",
+        "en": "'o time' means 'the team'.",
+        "ar": "'$o time' بالعربية: '$الفريق'."
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "A vitória hoje seria incrível!",
+          "en": "A vitória hoje seria incrível!",
+          "ar": "A vitória hoje seria incrível!"
+        },
+        {
+          "pt": "Mas o treinador está preocupado com a defesa.",
+          "en": "Mas o treinador está preocupado com a defesa.",
+          "ar": "Mas o treinador está preocupado com a defesa."
+        },
+        {
+          "pt": "Você vai ao estádio hoje?",
+          "en": "Você vai ao estádio hoje?",
+          "ar": "Você vai ao estádio hoje?"
+        }
+      ],
+      "answer": "Você vai ao estádio hoje?",
+      "accepted": [],
+      "audio": "Você vai ao estádio hoje?",
+      "explanation": {
+        "pt": "Você ouviu: 'Você vai ao estádio hoje?'",
+        "en": "You heard: 'Você vai ao estádio hoje?'",
+        "ar": "سمعت: 'Você vai ao estádio hoje?'"
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "A vitória hoje seria incrível!",
+          "en": "A vitória hoje seria incrível!",
+          "ar": "A vitória hoje seria incrível!"
+        },
+        {
+          "pt": "Vou sim. A torcida está animada!",
+          "en": "Vou sim. A torcida está animada!",
+          "ar": "Vou sim. A torcida está animada!"
+        },
+        {
+          "pt": "Mas o treinador está preocupado com a defesa.",
+          "en": "Mas o treinador está preocupado com a defesa.",
+          "ar": "Mas o treinador está preocupado com a defesa."
+        }
+      ],
+      "answer": "Vou sim. A torcida está animada!",
+      "accepted": [],
+      "audio": "Vou sim. A torcida está animada!",
+      "explanation": {
+        "pt": "Você ouviu: 'Vou sim. A torcida está animada!'",
+        "en": "You heard: 'Vou sim. A torcida está animada!'",
+        "ar": "سمعت: 'Vou sim. A torcida está animada!'"
+      }
+    },
+    {
+      "type": "dictation",
+      "prompt": {
+        "pt": "Ouça e escreva o que você ouviu.",
+        "en": "Listen and type what you hear.",
+        "ar": "استمع واكتب ما سمعته."
+      },
+      "options": [],
+      "answer": "Você vai ao estádio hoje?",
+      "accepted": [],
+      "audio": "Você vai ao estádio hoje?",
+      "explanation": {
+        "pt": "A frase correta: 'Você vai ao estádio hoje?'",
+        "en": "The correct sentence: 'Você vai ao estádio hoje?'",
+        "ar": "الجملة الصحيحة: 'Você vai ao estádio hoje?'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        },
+        {
+          "pt": "hoje?",
+          "en": "hoje?",
+          "ar": "hoje?"
+        },
+        {
+          "pt": "ao",
+          "en": "ao",
+          "ar": "ao"
+        },
+        {
+          "pt": "vai",
+          "en": "vai",
+          "ar": "vai"
+        },
+        {
+          "pt": "estádio",
+          "en": "estádio",
+          "ar": "estádio"
+        }
+      ],
+      "answer": "Você vai ao estádio hoje?",
+      "accepted": [
+        "Você vai ao estádio hoje?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Você vai ao estádio hoje?'",
+        "en": "The correct order: 'Are you going to the stadium today?'",
+        "ar": "الترتيب الصحيح: 'هل ستذهب إلى الملعب اليوم؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o jogador",
+          "en": "the fans",
+          "ar": "o jogador"
+        },
+        {
+          "pt": "a torcida",
+          "en": "the match",
+          "ar": "a torcida"
+        },
+        {
+          "pt": "o futebol",
+          "en": "the player",
+          "ar": "o futebol"
+        },
+        {
+          "pt": "a partida",
+          "en": "the team",
+          "ar": "a partida"
+        },
+        {
+          "pt": "o time",
+          "en": "the goal",
+          "ar": "o time"
+        },
+        {
+          "pt": "o gol",
+          "en": "the soccer",
+          "ar": "o gol"
+        }
+      ],
+      "answer": "o jogador::the fans|a torcida::the match|o futebol::the player|a partida::the team|o time::the goal|o gol::the soccer",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Vou sim. A torcida está animada!",
+          "en": "Yes, I am. The fans are excited!",
+          "ar": "نعم سأذهب. الجمهور متحمّس!"
+        },
+        {
+          "pt": "Você vai ao estádio hoje?",
+          "en": "Are you going to the stadium today?",
+          "ar": "إذا سجّل الهداف، فسنحتّل المركز الأول."
+        },
+        {
+          "pt": "Se o artilheiro marcar, ficaremos em primeiro lugar.",
+          "en": "If the top scorer scores, we will finish first.",
+          "ar": "هل ستذهب إلى الملعب اليوم؟"
+        }
+      ],
+      "answer": "Você vai ao estádio hoje?",
+      "accepted": [],
+      "audio": "Você vai ao estádio hoje?",
+      "explanation": {
+        "pt": "Você ouviu: 'Você vai ao estádio hoje?' — 'Are you going to the stadium today?'",
+        "en": "You heard: 'Você vai ao estádio hoje?' — 'Are you going to the stadium today?'",
+        "ar": "سمعت: 'Você vai ao estádio hoje?' — 'هل ستذهب إلى الملعب اليوم؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Mas o treinador está preocupado com a defesa.",
+          "en": "A victory today would be amazing!",
+          "ar": "لكن المدرب قلق بشأن الدفاع."
+        },
+        {
+          "pt": "A vitória hoje seria incrível!",
+          "en": "But the coach is worried about the defense.",
+          "ar": "سيكون الفوز اليوم رائعاً!"
+        },
+        {
+          "pt": "Vou sim. A torcida está animada!",
+          "en": "Yes, I am. The fans are excited!",
+          "ar": "نعم سأذهب. الجمهور متحمّس!"
+        }
+      ],
+      "answer": "Vou sim. A torcida está animada!",
+      "accepted": [],
+      "audio": "Vou sim. A torcida está animada!",
+      "explanation": {
+        "pt": "Você ouviu: 'Vou sim. A torcida está animada!' — 'Yes, I am. The fans are excited!'",
+        "en": "You heard: 'Vou sim. A torcida está animada!' — 'Yes, I am. The fans are excited!'",
+        "ar": "سمعت: 'Vou sim. A torcida está animada!' — 'نعم سأذهب. الجمهور متحمّس!'"
+      }
+    }
+  ],
+  "speaking": {
+    "title": {
+      "pt": "Fale Agora — Ouça e Repita",
+      "en": "Speak Now — Listen and Repeat",
+      "ar": "تحدث الآن — استمع وكرر"
+    },
+    "phrases": [
+      {
+        "pt": "Você vai ao estádio hoje?",
+        "en": "Are you going to the stadium today?",
+        "ar": "هل ستذهب إلى الملعب اليوم؟"
+      },
+      {
+        "pt": "Vou sim. A torcida está animada!",
+        "en": "Yes, I am. The fans are excited!",
+        "ar": "نعم سأذهب. الجمهور متحمّس!"
+      },
+      {
+        "pt": "Este time é mais forte que o rival.",
+        "en": "This team is stronger than the rival.",
+        "ar": "هذا الفريق أقوى من الخصم."
+      },
+      {
+        "pt": "Mas o treinador está preocupado com a defesa.",
+        "en": "But the coach is worried about the defense.",
+        "ar": "لكن المدرب قلق بشأن الدفاع."
+      },
+      {
+        "pt": "Se o artilheiro marcar, ficaremos em primeiro lugar.",
+        "en": "If the top scorer scores, we will finish first.",
+        "ar": "إذا سجّل الهداف، فسنحتّل المركز الأول."
+      },
+      {
+        "pt": "A vitória hoje seria incrível!",
+        "en": "A victory today would be amazing!",
+        "ar": "سيكون الفوز اليوم رائعاً!"
+      },
+      {
+        "pt": "o futebol",
+        "en": "the soccer",
+        "ar": "كرة القدم"
+      },
+      {
+        "pt": "o time",
+        "en": "the team",
+        "ar": "الفريق"
+      },
+      {
+        "pt": "o jogador",
+        "en": "the player",
+        "ar": "اللاعب"
+      }
+    ]
+  },
+  "cultural_tips": {
+    "pt": "",
+    "en": "",
+    "ar": ""
+  }
+}

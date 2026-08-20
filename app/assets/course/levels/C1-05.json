@@ -1,0 +1,2068 @@
+{
+  "id": "C1-05",
+  "level": "C1",
+  "level_name": {
+    "pt": "Avançado",
+    "en": "Advanced",
+    "ar": "متقدم"
+  },
+  "title": {
+    "pt": "Regência Verbal e Preposições",
+    "en": "Verbal Regimen and Prepositions",
+    "ar": "تعدية الأفعال وحروف الجر"
+  },
+  "objectives": [
+    {
+      "pt": "Dominar a regência dos verbos mais comuns",
+      "en": "Master the regimen of the most common verbs",
+      "ar": "إتقان تعدية الأفعال الأكثر شيوعًا"
+    },
+    {
+      "pt": "Escolher a preposição correta após cada verbo",
+      "en": "Choose the correct preposition after each verb",
+      "ar": "اختيار حرف الجر الصحيح بعد كل فعل"
+    },
+    {
+      "pt": "Usar pronomes relativos regidos por preposição",
+      "en": "Use relative pronouns governed by prepositions",
+      "ar": "استخدام الضمائر الموصولة المتعدية بحرف جر"
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "a regência verbal",
+      "ipa": "/a ʁeˈʒẽ.si.a veʁˈbaw/",
+      "en": "verbal regimen",
+      "ar": "تعدية الفعل",
+      "example": {
+        "pt": "Já respondi a todos os e-mails e agradeci a participação de cada um.",
+        "en": "I already replied to all the emails and thanked everyone for their participation.",
+        "ar": "لقد رددت بالفعل على جميع الرسائل وشكرت الجميع على مشاركتهم."
+      }
+    },
+    {
+      "pt": "a preposição",
+      "ipa": "/a pɾe.po.ziˈsɐ̃w/",
+      "en": "the preposition",
+      "ar": "حرف الجر",
+      "example": {
+        "pt": "Já respondi a todos os e-mails e agradeci a participação de cada um.",
+        "en": "I already replied to all the emails and thanked everyone for their participation.",
+        "ar": "لقد رددت بالفعل على جميع الرسائل وشكرت الجميع على مشاركتهم."
+      }
+    },
+    {
+      "pt": "depender de",
+      "ipa": "/de.pẽˈdeɾ dʒi/",
+      "en": "to depend on",
+      "ar": "يعتمد على",
+      "example": {
+        "pt": "O gerente insistiu em revisar o relatório antes do envio.",
+        "en": "The manager insisted on reviewing the report before sending it.",
+        "ar": "أصرّ المدير على مراجعة التقرير قبل إرساله."
+      }
+    },
+    {
+      "pt": "precisar de",
+      "ipa": "/pɾe.siˈzaɾ dʒi/",
+      "en": "to need",
+      "ar": "يحتاج إلى",
+      "example": {
+        "pt": "O gerente insistiu em revisar o relatório antes do envio.",
+        "en": "The manager insisted on reviewing the report before sending it.",
+        "ar": "أصرّ المدير على مراجعة التقرير قبل إرساله."
+      }
+    },
+    {
+      "pt": "gostar de",
+      "ipa": "/ɡosˈtaɾ dʒi/",
+      "en": "to like",
+      "ar": "يحب",
+      "example": {
+        "pt": "O gerente insistiu em revisar o relatório antes do envio.",
+        "en": "The manager insisted on reviewing the report before sending it.",
+        "ar": "أصرّ المدير على مراجعة التقرير قبل إرساله."
+      }
+    },
+    {
+      "pt": "lembrar-se de",
+      "ipa": "/lẽˈbɾaɾ si dʒi/",
+      "en": "to remember",
+      "ar": "يتذكر",
+      "example": {
+        "pt": "O gerente insistiu em revisar o relatório antes do envio.",
+        "en": "The manager insisted on reviewing the report before sending it.",
+        "ar": "أصرّ المدير على مراجعة التقرير قبل إرساله."
+      }
+    },
+    {
+      "pt": "esquecer-se de",
+      "ipa": "/is.keˈseɾ si dʒi/",
+      "en": "to forget",
+      "ar": "ينسى",
+      "example": {
+        "pt": "O gerente insistiu em revisar o relatório antes do envio.",
+        "en": "The manager insisted on reviewing the report before sending it.",
+        "ar": "أصرّ المدير على مراجعة التقرير قبل إرساله."
+      }
+    },
+    {
+      "pt": "insistir em",
+      "ipa": "/ĩ.sisˈtʃiɾ ĩ/",
+      "en": "to insist on",
+      "ar": "يصرّ على",
+      "example": {
+        "pt": "O gerente insistiu em revisar o relatório antes do envio.",
+        "en": "The manager insisted on reviewing the report before sending it.",
+        "ar": "أصرّ المدير على مراجعة التقرير قبل إرساله."
+      }
+    },
+    {
+      "pt": "concordar com",
+      "ipa": "/kõ.koʁˈdaɾ kõw/",
+      "en": "to agree with",
+      "ar": "يتفق مع",
+      "example": {
+        "pt": "O gerente insistiu em revisar o relatório antes do envio.",
+        "en": "The manager insisted on reviewing the report before sending it.",
+        "ar": "أصرّ المدير على مراجعة التقرير قبل إرساله."
+      }
+    },
+    {
+      "pt": "obedecer a",
+      "ipa": "/o.be.deˈseɾ a/",
+      "en": "to obey",
+      "ar": "يطيع",
+      "example": {
+        "pt": "O gerente insistiu em revisar o relatório antes do envio.",
+        "en": "The manager insisted on reviewing the report before sending it.",
+        "ar": "أصرّ المدير على مراجعة التقرير قبل إرساله."
+      }
+    },
+    {
+      "pt": "responder a",
+      "ipa": "/hes.põˈdeɾ a/",
+      "en": "to respond to",
+      "ar": "يردّ على",
+      "example": {
+        "pt": "O gerente insistiu em revisar o relatório antes do envio.",
+        "en": "The manager insisted on reviewing the report before sending it.",
+        "ar": "أصرّ المدير على مراجعة التقرير قبل إرساله."
+      }
+    },
+    {
+      "pt": "assistir a",
+      "ipa": "/a.sisˈtʃiɾ a/",
+      "en": "to watch",
+      "ar": "يشاهد",
+      "example": {
+        "pt": "O gerente insistiu em revisar o relatório antes do envio.",
+        "en": "The manager insisted on reviewing the report before sending it.",
+        "ar": "أصرّ المدير على مراجعة التقرير قبل إرساله."
+      }
+    },
+    {
+      "pt": "agradecer por",
+      "ipa": "/a.ɡɾa.deˈseɾ poɾ/",
+      "en": "to thank for",
+      "ar": "يشكر على",
+      "example": {
+        "pt": "O gerente insistiu em revisar o relatório antes do envio.",
+        "en": "The manager insisted on reviewing the report before sending it.",
+        "ar": "أصرّ المدير على مراجعة التقرير قبل إرساله."
+      }
+    },
+    {
+      "pt": "pagar por",
+      "ipa": "/paˈɡaɾ poɾ/",
+      "en": "to pay for",
+      "ar": "يدفع مقابل",
+      "example": {
+        "pt": "Ele insistiu em pagar a conta.",
+        "en": "He insisted on paying the bill.",
+        "ar": "أصرّ على دفع الحساب."
+      }
+    },
+    {
+      "pt": "morar em",
+      "ipa": "/moˈɾaɾ ĩ/",
+      "en": "to live in",
+      "ar": "يسكن في",
+      "example": {
+        "pt": "O gerente insistiu em revisar o relatório antes do envio.",
+        "en": "The manager insisted on reviewing the report before sending it.",
+        "ar": "أصرّ المدير على مراجعة التقرير قبل إرساله."
+      }
+    },
+    {
+      "pt": "referir-se a",
+      "ipa": "/ʁe.feˈɾiɾ si a/",
+      "en": "to refer to",
+      "ar": "يشير إلى",
+      "example": {
+        "pt": "O gerente insistiu em revisar o relatório antes do envio.",
+        "en": "The manager insisted on reviewing the report before sending it.",
+        "ar": "أصرّ المدير على مراجعة التقرير قبل إرساله."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "title": {
+        "pt": "Verbos que Pedem Preposição",
+        "en": "Verbs that Require a Preposition",
+        "ar": "الأفعال التي تتطلب حرف جر"
+      },
+      "explanation": {
+        "pt": "Cada verbo tem sua regência: 'gostar de', 'precisar de', 'depender de', 'insistir em', 'concordar com', 'responder a', 'assistir a', 'agradecer por'. Na linguagem formal, 'assistir' (ver) pede 'a': 'assisti ao filme'. Já 'assistir' no sentido de dar assistência usa 'a' também: 'assistir ao paciente'. Confundir essas preposições é um erro típico de falantes avançados.",
+        "en": "Each verb has its own regimen: 'gostar de' (to like), 'precisar de' (to need), 'depender de' (to depend on), 'insistir em' (to insist on), 'concordar com' (to agree with), 'responder a' (to answer), 'assistir a' (to watch), 'agradecer por' (to thank for). In formal language, 'assistir' (to watch) takes 'a': 'assisti ao filme' (I watched the film). 'Assistir' meaning to care for also takes 'a': 'assistir ao paciente'. Confusing these prepositions is a typical mistake even among advanced speakers.",
+        "ar": "لكل فعل تعديته الخاصة: 'gostar de' (يحب)، 'precisar de' (يحتاج)، 'depender de' (يعتمد)، 'insistir em' (يصر على)، 'concordar com' (يتفق مع)، 'responder a' (يرد على)، 'assistir a' (يشاهد)، 'agradecer por' (يشكر على). في اللغة الرسمية، يتطلب 'assistir' بمعنى يشاهد حرف 'a': 'assisti ao filme'. أما 'assistir' بمعنى يعتني فيتطلب أيضًا 'a': 'assistir ao paciente'. الخلط بين هذه الحروف خطأ نموذجي حتى عند المتقدمين."
+      },
+      "examples": [
+        {
+          "pt": "Ela gosta de música clássica.",
+          "en": "She likes classical music.",
+          "ar": "تحب الموسيقى الكلاسيكية."
+        },
+        {
+          "pt": "O sucesso depende do esforço de todos.",
+          "en": "Success depends on everyone's effort.",
+          "ar": "يعتمد النجاح على جهد الجميع."
+        },
+        {
+          "pt": "Nós precisamos de mais tempo.",
+          "en": "We need more time.",
+          "ar": "نحتاج إلى مزيد من الوقت."
+        },
+        {
+          "pt": "Ele insistiu em pagar a conta.",
+          "en": "He insisted on paying the bill.",
+          "ar": "أصرّ على دفع الحساب."
+        }
+      ]
+    },
+    {
+      "title": {
+        "pt": "Pronomes Relativos Regidos por Preposição",
+        "en": "Relative Pronouns Governed by a Preposition",
+        "ar": "الضمائر الموصولة المتعدية بحرف جر"
+      },
+      "explanation": {
+        "pt": "Quando o pronome relativo exerce função de complemento regido por preposição, a preposição permanece antes do relativo: 'de que', 'em que', 'a que', 'com o qual', 'a quem', 'para quem'. Na fala culta brasileira, 'de que' costuma aparecer como 'que' em contextos informais, mas a forma padrão mantém a preposição.",
+        "en": "When the relative pronoun functions as a complement governed by a preposition, the preposition stays before the relative: 'de que', 'em que', 'a que', 'com o qual', 'a quem', 'para quem'. In educated Brazilian speech, 'de que' often appears simply as 'que' in informal contexts, but the standard form keeps the preposition.",
+        "ar": "عندما يقوم الضمير الموصول بوظيفة متمم متعدٍ بحرف جر، يبقى حرف الجر قبل الموصول: 'de que' و'em que' و'a que' و'com o qual' و'a quem' و'para quem'. في الكلام البرازيلي الفصيح، غالبًا ما يظهر 'de que' كـ'que' في السياقات غير الرسمية، لكن الشكل المعياري يحتفظ بحرف الجر."
+      },
+      "examples": [
+        {
+          "pt": "Este é o livro de que falei.",
+          "en": "This is the book I talked about.",
+          "ar": "هذا هو الكتاب الذي تحدثت عنه."
+        },
+        {
+          "pt": "A pessoa a quem me refiro chegou.",
+          "en": "The person I am referring to has arrived.",
+          "ar": "الشخص الذي أشير إليه قد وصل."
+        },
+        {
+          "pt": "O projeto com o qual concordamos foi aprovado.",
+          "en": "The project we agreed with was approved.",
+          "ar": "تمت الموافقة على المشروع الذي اتفقنا عليه."
+        },
+        {
+          "pt": "Não conheço a cidade em que você mora.",
+          "en": "I do not know the city you live in.",
+          "ar": "لا أعرف المدينة التي تسكن فيها."
+        }
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": {
+      "pt": "Revisando um Relatório",
+      "en": "Reviewing a Report",
+      "ar": "مراجعة تقرير"
+    },
+    "lines": [
+      {
+        "speaker": "Sofia",
+        "pt": "O gerente insistiu em revisar o relatório antes do envio.",
+        "en": "The manager insisted on reviewing the report before sending it.",
+        "ar": "أصرّ المدير على مراجعة التقرير قبل إرساله."
+      },
+      {
+        "speaker": "Diego",
+        "pt": "Concordo com ele, mas precisamos do parecer do jurídico.",
+        "en": "I agree with him, but we need the legal department's opinion.",
+        "ar": "أتفق معه، لكننا بحاجة إلى رأي الإدارة القانونية."
+      },
+      {
+        "speaker": "Sofia",
+        "pt": "Já respondi a todos os e-mails e agradeci a participação de cada um.",
+        "en": "I already replied to all the emails and thanked everyone for their participation.",
+        "ar": "لقد رددت بالفعل على جميع الرسائل وشكرت الجميع على مشاركتهم."
+      },
+      {
+        "speaker": "Diego",
+        "pt": "Lembre-se de anexar o documento a que me referi ontem.",
+        "en": "Remember to attach the document I referred to yesterday.",
+        "ar": "تذكر أن ترفق الوثيقة التي أشرت إليها أمس."
+      },
+      {
+        "speaker": "Sofia",
+        "pt": "Certo. O resultado final dependerá da aprovação de todos.",
+        "en": "Right. The final result will depend on everyone's approval.",
+        "ar": "حسنًا. ستعتمد النتيجة النهائية على موافقة الجميع."
+      }
+    ]
+  },
+  "reading": {
+    "title": {
+      "pt": "A Língua dos Detalhes",
+      "en": "The Language of Details",
+      "ar": "لغة التفاصيل"
+    },
+    "text_pt": "No português culto, cada preposição importa. Quem gosta de ler percebe as diferenças entre 'lembrar-se de' e 'esquecer-se de', e sabe que 'assistir ao filme' pede a preposição 'a'. Esses detalhes revelam o cuidado do falante com a língua. Por isso, revisar a regência é essencial para escrever com precisão.",
+    "text_en": "In cultured Portuguese, every preposition matters. Those who like to read notice the differences between 'lembrar-se de' and 'esquecer-se de', and know that 'assistir ao filme' requires the preposition 'a'. These details reveal the speaker's care with the language. That is why reviewing verbal regimen is essential for writing with precision.",
+    "text_ar": "في البرتغالية الفصيحة، كل حرف جر مهم. من يحب القراءة يلاحظ الفروق بين 'lembrar-se de' و'esquecer-se de'، ويعلم أن 'assistir ao filme' يتطلب حرف الجر 'a'. هذه التفاصيل تكشف عن عناية المتحدث بلغته. لذلك فإن مراجعة تعدية الأفعال ضرورية للكتابة الدقيقة."
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Complete: 'Nós precisamos ______ mais informações.'",
+        "en": "Complete: 'Nós precisamos ______ mais informações.'",
+        "ar": "أكمل: 'Nós precisamos ______ mais informações.'"
+      },
+      "options": [
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "em",
+          "en": "em",
+          "ar": "em"
+        },
+        {
+          "pt": "para",
+          "en": "para",
+          "ar": "para"
+        }
+      ],
+      "answer": "de",
+      "explanation": {
+        "pt": "'Precisar de' exige a preposição 'de'.",
+        "en": "'Precisar de' requires the preposition 'de'.",
+        "ar": "'precisar de' تتطلب حرف الجر 'de'."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Complete: 'O filme ______ assisti foi emocionante.'",
+        "en": "Complete: 'O filme ______ assisti foi emocionante.'",
+        "ar": "أكمل: 'O filme ______ assisti foi emocionante.'"
+      },
+      "options": [
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "a que",
+          "en": "a que",
+          "ar": "a que"
+        },
+        {
+          "pt": "de que",
+          "en": "de que",
+          "ar": "de que"
+        }
+      ],
+      "answer": "a que",
+      "explanation": {
+        "pt": "'Assistir a' + relativo: 'o filme a que assisti'.",
+        "en": "'Assistir a' + relative: 'o filme a que assisti'.",
+        "ar": "'assistir a' + موصول: 'o filme a que assisti'."
+      }
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza: 'I agree with the proposal you insisted on.'",
+        "en": "Translate: 'I agree with the proposal you insisted on.'",
+        "ar": "ترجم: 'I agree with the proposal you insisted on.'"
+      },
+      "options": [],
+      "answer": "Concordo com a proposta em que você insistiu.",
+      "explanation": {
+        "pt": "'Concordar com' e 'insistir em' mantêm suas preposições antes do relativo.",
+        "en": "'Concordar com' and 'insistir em' keep their prepositions before the relative.",
+        "ar": "يحتفظ 'concordar com' و'insistir em' بحروف الجر الخاصة بهما قبل الموصول."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "relatório",
+          "en": "relatório",
+          "ar": "relatório"
+        },
+        {
+          "pt": "em",
+          "en": "em",
+          "ar": "em"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "envio.",
+          "en": "envio.",
+          "ar": "envio."
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "antes",
+          "en": "antes",
+          "ar": "antes"
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "gerente",
+          "en": "gerente",
+          "ar": "gerente"
+        },
+        {
+          "pt": "revisar",
+          "en": "revisar",
+          "ar": "revisar"
+        },
+        {
+          "pt": "insistiu",
+          "en": "insistiu",
+          "ar": "insistiu"
+        }
+      ],
+      "answer": "O gerente insistiu em revisar o relatório antes do envio.",
+      "accepted": [
+        "O gerente insistiu em revisar o relatório antes do envio."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'O gerente insistiu em revisar o relatório antes do envio.'",
+        "en": "The correct order: 'The manager insisted on reviewing the report before sending it.'",
+        "ar": "الترتيب الصحيح: 'أصرّ المدير على مراجعة التقرير قبل إرساله.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "precisar de",
+          "en": "verbal regimen",
+          "ar": "precisar de"
+        },
+        {
+          "pt": "gostar de",
+          "en": "to remember",
+          "ar": "gostar de"
+        },
+        {
+          "pt": "depender de",
+          "en": "the preposition",
+          "ar": "depender de"
+        },
+        {
+          "pt": "lembrar-se de",
+          "en": "to need",
+          "ar": "lembrar-se de"
+        },
+        {
+          "pt": "a preposição",
+          "en": "to depend on",
+          "ar": "a preposição"
+        },
+        {
+          "pt": "a regência verbal",
+          "en": "to like",
+          "ar": "a regência verbal"
+        }
+      ],
+      "answer": "precisar de::verbal regimen|gostar de::to remember|depender de::the preposition|lembrar-se de::to need|a preposição::to depend on|a regência verbal::to like",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Certo. O resultado final dependerá da aprovação de todos.",
+          "en": "The manager insisted on reviewing the report before sending it.",
+          "ar": "أصرّ المدير على مراجعة التقرير قبل إرساله."
+        },
+        {
+          "pt": "O gerente insistiu em revisar o relatório antes do envio.",
+          "en": "Remember to attach the document I referred to yesterday.",
+          "ar": "حسنًا. ستعتمد النتيجة النهائية على موافقة الجميع."
+        },
+        {
+          "pt": "Lembre-se de anexar o documento a que me referi ontem.",
+          "en": "Right. The final result will depend on everyone's approval.",
+          "ar": "تذكر أن ترفق الوثيقة التي أشرت إليها أمس."
+        }
+      ],
+      "answer": "O gerente insistiu em revisar o relatório antes do envio.",
+      "accepted": [],
+      "audio": "O gerente insistiu em revisar o relatório antes do envio.",
+      "explanation": {
+        "pt": "Você ouviu: 'O gerente insistiu em revisar o relatório antes do envio.' — 'The manager insisted on reviewing the report before sending it.'",
+        "en": "You heard: 'O gerente insistiu em revisar o relatório antes do envio.' — 'The manager insisted on reviewing the report before sending it.'",
+        "ar": "سمعت: 'O gerente insistiu em revisar o relatório antes do envio.' — 'أصرّ المدير على مراجعة التقرير قبل إرساله.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Já respondi a todos os e-mails e agradeci a participação de cada um.",
+          "en": "I agree with him, but we need the legal department's opinion.",
+          "ar": "تذكر أن ترفق الوثيقة التي أشرت إليها أمس."
+        },
+        {
+          "pt": "Concordo com ele, mas precisamos do parecer do jurídico.",
+          "en": "I already replied to all the emails and thanked everyone for their participation.",
+          "ar": "لقد رددت بالفعل على جميع الرسائل وشكرت الجميع على مشاركتهم."
+        },
+        {
+          "pt": "Lembre-se de anexar o documento a que me referi ontem.",
+          "en": "Remember to attach the document I referred to yesterday.",
+          "ar": "أتفق معه، لكننا بحاجة إلى رأي الإدارة القانونية."
+        }
+      ],
+      "answer": "Concordo com ele, mas precisamos do parecer do jurídico.",
+      "accepted": [],
+      "audio": "Concordo com ele, mas precisamos do parecer do jurídico.",
+      "explanation": {
+        "pt": "Você ouviu: 'Concordo com ele, mas precisamos do parecer do jurídico.' — 'I agree with him, but we need the legal department's opinion.'",
+        "en": "You heard: 'Concordo com ele, mas precisamos do parecer do jurídico.' — 'I agree with him, but we need the legal department's opinion.'",
+        "ar": "سمعت: 'Concordo com ele, mas precisamos do parecer do jurídico.' — 'أتفق معه، لكننا بحاجة إلى رأي الإدارة القانونية.'"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Ela gosta ___ música clássica.",
+        "en": "Ela gosta ___ música clássica.",
+        "ar": "Ela gosta ___ música clássica."
+      },
+      "options": [
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "em",
+          "en": "em",
+          "ar": "em"
+        }
+      ],
+      "answer": "de",
+      "accepted": [],
+      "explanation": {
+        "pt": "A resposta é 'de'. Frase completa: Ela gosta de música clássica.",
+        "en": "The answer is 'de'. Full sentence: She likes classical music.",
+        "ar": "الإجابة الصحيحة: 'de'. الجملة كاملة: تحب الموسيقى الكلاسيكية."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "antes",
+          "en": "antes",
+          "ar": "antes"
+        },
+        {
+          "pt": "em",
+          "en": "em",
+          "ar": "em"
+        },
+        {
+          "pt": "revisar",
+          "en": "revisar",
+          "ar": "revisar"
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "gerente",
+          "en": "gerente",
+          "ar": "gerente"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "envio.",
+          "en": "envio.",
+          "ar": "envio."
+        },
+        {
+          "pt": "relatório",
+          "en": "relatório",
+          "ar": "relatório"
+        },
+        {
+          "pt": "insistiu",
+          "en": "insistiu",
+          "ar": "insistiu"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        }
+      ],
+      "answer": "O gerente insistiu em revisar o relatório antes do envio.",
+      "accepted": [
+        "O gerente insistiu em revisar o relatório antes do envio."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'O gerente insistiu em revisar o relatório antes do envio.'",
+        "en": "The correct order: 'The manager insisted on reviewing the report before sending it.'",
+        "ar": "الترتيب الصحيح: 'أصرّ المدير على مراجعة التقرير قبل إرساله.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "depender de",
+          "en": "the preposition",
+          "ar": "depender de"
+        },
+        {
+          "pt": "lembrar-se de",
+          "en": "to remember",
+          "ar": "lembrar-se de"
+        },
+        {
+          "pt": "a preposição",
+          "en": "to depend on",
+          "ar": "a preposição"
+        },
+        {
+          "pt": "a regência verbal",
+          "en": "to like",
+          "ar": "a regência verbal"
+        },
+        {
+          "pt": "gostar de",
+          "en": "verbal regimen",
+          "ar": "gostar de"
+        },
+        {
+          "pt": "precisar de",
+          "en": "to need",
+          "ar": "precisar de"
+        }
+      ],
+      "answer": "depender de::the preposition|lembrar-se de::to remember|a preposição::to depend on|a regência verbal::to like|gostar de::verbal regimen|precisar de::to need",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Lembre-se de anexar o documento a que me referi ontem.",
+          "en": "The manager insisted on reviewing the report before sending it.",
+          "ar": "تذكر أن ترفق الوثيقة التي أشرت إليها أمس."
+        },
+        {
+          "pt": "O gerente insistiu em revisar o relatório antes do envio.",
+          "en": "Remember to attach the document I referred to yesterday.",
+          "ar": "لقد رددت بالفعل على جميع الرسائل وشكرت الجميع على مشاركتهم."
+        },
+        {
+          "pt": "Já respondi a todos os e-mails e agradeci a participação de cada um.",
+          "en": "I already replied to all the emails and thanked everyone for their participation.",
+          "ar": "أصرّ المدير على مراجعة التقرير قبل إرساله."
+        }
+      ],
+      "answer": "O gerente insistiu em revisar o relatório antes do envio.",
+      "accepted": [],
+      "audio": "O gerente insistiu em revisar o relatório antes do envio.",
+      "explanation": {
+        "pt": "Você ouviu: 'O gerente insistiu em revisar o relatório antes do envio.' — 'The manager insisted on reviewing the report before sending it.'",
+        "en": "You heard: 'O gerente insistiu em revisar o relatório antes do envio.' — 'The manager insisted on reviewing the report before sending it.'",
+        "ar": "سمعت: 'O gerente insistiu em revisar o relatório antes do envio.' — 'أصرّ المدير على مراجعة التقرير قبل إرساله.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "O gerente insistiu em revisar o relatório antes do envio.",
+          "en": "I agree with him, but we need the legal department's opinion.",
+          "ar": "أتفق معه، لكننا بحاجة إلى رأي الإدارة القانونية."
+        },
+        {
+          "pt": "Concordo com ele, mas precisamos do parecer do jurídico.",
+          "en": "I already replied to all the emails and thanked everyone for their participation.",
+          "ar": "أصرّ المدير على مراجعة التقرير قبل إرساله."
+        },
+        {
+          "pt": "Já respondi a todos os e-mails e agradeci a participação de cada um.",
+          "en": "The manager insisted on reviewing the report before sending it.",
+          "ar": "لقد رددت بالفعل على جميع الرسائل وشكرت الجميع على مشاركتهم."
+        }
+      ],
+      "answer": "Concordo com ele, mas precisamos do parecer do jurídico.",
+      "accepted": [],
+      "audio": "Concordo com ele, mas precisamos do parecer do jurídico.",
+      "explanation": {
+        "pt": "Você ouviu: 'Concordo com ele, mas precisamos do parecer do jurídico.' — 'I agree with him, but we need the legal department's opinion.'",
+        "en": "You heard: 'Concordo com ele, mas precisamos do parecer do jurídico.' — 'I agree with him, but we need the legal department's opinion.'",
+        "ar": "سمعت: 'Concordo com ele, mas precisamos do parecer do jurídico.' — 'أتفق معه، لكننا بحاجة إلى رأي الإدارة القانونية.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "relatório",
+          "en": "relatório",
+          "ar": "relatório"
+        },
+        {
+          "pt": "envio.",
+          "en": "envio.",
+          "ar": "envio."
+        },
+        {
+          "pt": "em",
+          "en": "em",
+          "ar": "em"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "insistiu",
+          "en": "insistiu",
+          "ar": "insistiu"
+        },
+        {
+          "pt": "gerente",
+          "en": "gerente",
+          "ar": "gerente"
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "revisar",
+          "en": "revisar",
+          "ar": "revisar"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "antes",
+          "en": "antes",
+          "ar": "antes"
+        }
+      ],
+      "answer": "O gerente insistiu em revisar o relatório antes do envio.",
+      "accepted": [
+        "O gerente insistiu em revisar o relatório antes do envio."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'O gerente insistiu em revisar o relatório antes do envio.'",
+        "en": "The correct order: 'The manager insisted on reviewing the report before sending it.'",
+        "ar": "الترتيب الصحيح: 'أصرّ المدير على مراجعة التقرير قبل إرساله.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "precisar de",
+          "en": "to remember",
+          "ar": "precisar de"
+        },
+        {
+          "pt": "gostar de",
+          "en": "verbal regimen",
+          "ar": "gostar de"
+        },
+        {
+          "pt": "depender de",
+          "en": "to need",
+          "ar": "depender de"
+        },
+        {
+          "pt": "a preposição",
+          "en": "the preposition",
+          "ar": "a preposição"
+        },
+        {
+          "pt": "lembrar-se de",
+          "en": "to depend on",
+          "ar": "lembrar-se de"
+        },
+        {
+          "pt": "a regência verbal",
+          "en": "to like",
+          "ar": "a regência verbal"
+        }
+      ],
+      "answer": "precisar de::to remember|gostar de::verbal regimen|depender de::to need|a preposição::the preposition|lembrar-se de::to depend on|a regência verbal::to like",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "O gerente insistiu em revisar o relatório antes do envio.",
+          "en": "The manager insisted on reviewing the report before sending it.",
+          "ar": "أصرّ المدير على مراجعة التقرير قبل إرساله."
+        },
+        {
+          "pt": "Concordo com ele, mas precisamos do parecer do jurídico.",
+          "en": "Right. The final result will depend on everyone's approval.",
+          "ar": "أتفق معه، لكننا بحاجة إلى رأي الإدارة القانونية."
+        },
+        {
+          "pt": "Certo. O resultado final dependerá da aprovação de todos.",
+          "en": "I agree with him, but we need the legal department's opinion.",
+          "ar": "حسنًا. ستعتمد النتيجة النهائية على موافقة الجميع."
+        }
+      ],
+      "answer": "O gerente insistiu em revisar o relatório antes do envio.",
+      "accepted": [],
+      "audio": "O gerente insistiu em revisar o relatório antes do envio.",
+      "explanation": {
+        "pt": "Você ouviu: 'O gerente insistiu em revisar o relatório antes do envio.' — 'The manager insisted on reviewing the report before sending it.'",
+        "en": "You heard: 'O gerente insistiu em revisar o relatório antes do envio.' — 'The manager insisted on reviewing the report before sending it.'",
+        "ar": "سمعت: 'O gerente insistiu em revisar o relatório antes do envio.' — 'أصرّ المدير على مراجعة التقرير قبل إرساله.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Lembre-se de anexar o documento a que me referi ontem.",
+          "en": "I agree with him, but we need the legal department's opinion.",
+          "ar": "أتفق معه، لكننا بحاجة إلى رأي الإدارة القانونية."
+        },
+        {
+          "pt": "O gerente insistiu em revisar o relatório antes do envio.",
+          "en": "The manager insisted on reviewing the report before sending it.",
+          "ar": "أصرّ المدير على مراجعة التقرير قبل إرساله."
+        },
+        {
+          "pt": "Concordo com ele, mas precisamos do parecer do jurídico.",
+          "en": "Remember to attach the document I referred to yesterday.",
+          "ar": "تذكر أن ترفق الوثيقة التي أشرت إليها أمس."
+        }
+      ],
+      "answer": "Concordo com ele, mas precisamos do parecer do jurídico.",
+      "accepted": [],
+      "audio": "Concordo com ele, mas precisamos do parecer do jurídico.",
+      "explanation": {
+        "pt": "Você ouviu: 'Concordo com ele, mas precisamos do parecer do jurídico.' — 'I agree with him, but we need the legal department's opinion.'",
+        "en": "You heard: 'Concordo com ele, mas precisamos do parecer do jurídico.' — 'I agree with him, but we need the legal department's opinion.'",
+        "ar": "سمعت: 'Concordo com ele, mas precisamos do parecer do jurídico.' — 'أتفق معه، لكننا بحاجة إلى رأي الإدارة القانونية.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "revisar",
+          "en": "revisar",
+          "ar": "revisar"
+        },
+        {
+          "pt": "insistiu",
+          "en": "insistiu",
+          "ar": "insistiu"
+        },
+        {
+          "pt": "em",
+          "en": "em",
+          "ar": "em"
+        },
+        {
+          "pt": "relatório",
+          "en": "relatório",
+          "ar": "relatório"
+        },
+        {
+          "pt": "envio.",
+          "en": "envio.",
+          "ar": "envio."
+        },
+        {
+          "pt": "gerente",
+          "en": "gerente",
+          "ar": "gerente"
+        },
+        {
+          "pt": "antes",
+          "en": "antes",
+          "ar": "antes"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        }
+      ],
+      "answer": "O gerente insistiu em revisar o relatório antes do envio.",
+      "accepted": [
+        "O gerente insistiu em revisar o relatório antes do envio."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'O gerente insistiu em revisar o relatório antes do envio.'",
+        "en": "The correct order: 'The manager insisted on reviewing the report before sending it.'",
+        "ar": "الترتيب الصحيح: 'أصرّ المدير على مراجعة التقرير قبل إرساله.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a regência verbal",
+          "en": "to like",
+          "ar": "a regência verbal"
+        },
+        {
+          "pt": "precisar de",
+          "en": "to remember",
+          "ar": "precisar de"
+        },
+        {
+          "pt": "a preposição",
+          "en": "verbal regimen",
+          "ar": "a preposição"
+        },
+        {
+          "pt": "gostar de",
+          "en": "the preposition",
+          "ar": "gostar de"
+        },
+        {
+          "pt": "depender de",
+          "en": "to need",
+          "ar": "depender de"
+        },
+        {
+          "pt": "lembrar-se de",
+          "en": "to depend on",
+          "ar": "lembrar-se de"
+        }
+      ],
+      "answer": "a regência verbal::to like|precisar de::to remember|a preposição::verbal regimen|gostar de::the preposition|depender de::to need|lembrar-se de::to depend on",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "O gerente insistiu em revisar o relatório antes do envio.",
+          "en": "I already replied to all the emails and thanked everyone for their participation.",
+          "ar": "لقد رددت بالفعل على جميع الرسائل وشكرت الجميع على مشاركتهم."
+        },
+        {
+          "pt": "Lembre-se de anexar o documento a que me referi ontem.",
+          "en": "The manager insisted on reviewing the report before sending it.",
+          "ar": "تذكر أن ترفق الوثيقة التي أشرت إليها أمس."
+        },
+        {
+          "pt": "Já respondi a todos os e-mails e agradeci a participação de cada um.",
+          "en": "Remember to attach the document I referred to yesterday.",
+          "ar": "أصرّ المدير على مراجعة التقرير قبل إرساله."
+        }
+      ],
+      "answer": "O gerente insistiu em revisar o relatório antes do envio.",
+      "accepted": [],
+      "audio": "O gerente insistiu em revisar o relatório antes do envio.",
+      "explanation": {
+        "pt": "Você ouviu: 'O gerente insistiu em revisar o relatório antes do envio.' — 'The manager insisted on reviewing the report before sending it.'",
+        "en": "You heard: 'O gerente insistiu em revisar o relatório antes do envio.' — 'The manager insisted on reviewing the report before sending it.'",
+        "ar": "سمعت: 'O gerente insistiu em revisar o relatório antes do envio.' — 'أصرّ المدير على مراجعة التقرير قبل إرساله.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Já respondi a todos os e-mails e agradeci a participação de cada um.",
+          "en": "I already replied to all the emails and thanked everyone for their participation.",
+          "ar": "أتفق معه، لكننا بحاجة إلى رأي الإدارة القانونية."
+        },
+        {
+          "pt": "Concordo com ele, mas precisamos do parecer do jurídico.",
+          "en": "Right. The final result will depend on everyone's approval.",
+          "ar": "حسنًا. ستعتمد النتيجة النهائية على موافقة الجميع."
+        },
+        {
+          "pt": "Certo. O resultado final dependerá da aprovação de todos.",
+          "en": "I agree with him, but we need the legal department's opinion.",
+          "ar": "لقد رددت بالفعل على جميع الرسائل وشكرت الجميع على مشاركتهم."
+        }
+      ],
+      "answer": "Concordo com ele, mas precisamos do parecer do jurídico.",
+      "accepted": [],
+      "audio": "Concordo com ele, mas precisamos do parecer do jurídico.",
+      "explanation": {
+        "pt": "Você ouviu: 'Concordo com ele, mas precisamos do parecer do jurídico.' — 'I agree with him, but we need the legal department's opinion.'",
+        "en": "You heard: 'Concordo com ele, mas precisamos do parecer do jurídico.' — 'I agree with him, but we need the legal department's opinion.'",
+        "ar": "سمعت: 'Concordo com ele, mas precisamos do parecer do jurídico.' — 'أتفق معه، لكننا بحاجة إلى رأي الإدارة القانونية.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "insistiu",
+          "en": "insistiu",
+          "ar": "insistiu"
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "revisar",
+          "en": "revisar",
+          "ar": "revisar"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "relatório",
+          "en": "relatório",
+          "ar": "relatório"
+        },
+        {
+          "pt": "envio.",
+          "en": "envio.",
+          "ar": "envio."
+        },
+        {
+          "pt": "gerente",
+          "en": "gerente",
+          "ar": "gerente"
+        },
+        {
+          "pt": "em",
+          "en": "em",
+          "ar": "em"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "antes",
+          "en": "antes",
+          "ar": "antes"
+        }
+      ],
+      "answer": "O gerente insistiu em revisar o relatório antes do envio.",
+      "accepted": [
+        "O gerente insistiu em revisar o relatório antes do envio."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'O gerente insistiu em revisar o relatório antes do envio.'",
+        "en": "The correct order: 'The manager insisted on reviewing the report before sending it.'",
+        "ar": "الترتيب الصحيح: 'أصرّ المدير على مراجعة التقرير قبل إرساله.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "depender de",
+          "en": "the preposition",
+          "ar": "depender de"
+        },
+        {
+          "pt": "gostar de",
+          "en": "to remember",
+          "ar": "gostar de"
+        },
+        {
+          "pt": "precisar de",
+          "en": "to need",
+          "ar": "precisar de"
+        },
+        {
+          "pt": "a preposição",
+          "en": "to depend on",
+          "ar": "a preposição"
+        },
+        {
+          "pt": "lembrar-se de",
+          "en": "to like",
+          "ar": "lembrar-se de"
+        },
+        {
+          "pt": "a regência verbal",
+          "en": "verbal regimen",
+          "ar": "a regência verbal"
+        }
+      ],
+      "answer": "depender de::the preposition|gostar de::to remember|precisar de::to need|a preposição::to depend on|lembrar-se de::to like|a regência verbal::verbal regimen",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "O gerente insistiu em revisar o relatório antes do envio.",
+          "en": "I agree with him, but we need the legal department's opinion.",
+          "ar": "أصرّ المدير على مراجعة التقرير قبل إرساله."
+        },
+        {
+          "pt": "Lembre-se de anexar o documento a que me referi ontem.",
+          "en": "The manager insisted on reviewing the report before sending it.",
+          "ar": "تذكر أن ترفق الوثيقة التي أشرت إليها أمس."
+        },
+        {
+          "pt": "Concordo com ele, mas precisamos do parecer do jurídico.",
+          "en": "Remember to attach the document I referred to yesterday.",
+          "ar": "أتفق معه، لكننا بحاجة إلى رأي الإدارة القانونية."
+        }
+      ],
+      "answer": "O gerente insistiu em revisar o relatório antes do envio.",
+      "accepted": [],
+      "audio": "O gerente insistiu em revisar o relatório antes do envio.",
+      "explanation": {
+        "pt": "Você ouviu: 'O gerente insistiu em revisar o relatório antes do envio.' — 'The manager insisted on reviewing the report before sending it.'",
+        "en": "You heard: 'O gerente insistiu em revisar o relatório antes do envio.' — 'The manager insisted on reviewing the report before sending it.'",
+        "ar": "سمعت: 'O gerente insistiu em revisar o relatório antes do envio.' — 'أصرّ المدير على مراجعة التقرير قبل إرساله.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "O gerente insistiu em revisar o relatório antes do envio.",
+          "en": "I agree with him, but we need the legal department's opinion.",
+          "ar": "أتفق معه، لكننا بحاجة إلى رأي الإدارة القانونية."
+        },
+        {
+          "pt": "Certo. O resultado final dependerá da aprovação de todos.",
+          "en": "The manager insisted on reviewing the report before sending it.",
+          "ar": "حسنًا. ستعتمد النتيجة النهائية على موافقة الجميع."
+        },
+        {
+          "pt": "Concordo com ele, mas precisamos do parecer do jurídico.",
+          "en": "Right. The final result will depend on everyone's approval.",
+          "ar": "أصرّ المدير على مراجعة التقرير قبل إرساله."
+        }
+      ],
+      "answer": "Concordo com ele, mas precisamos do parecer do jurídico.",
+      "accepted": [],
+      "audio": "Concordo com ele, mas precisamos do parecer do jurídico.",
+      "explanation": {
+        "pt": "Você ouviu: 'Concordo com ele, mas precisamos do parecer do jurídico.' — 'I agree with him, but we need the legal department's opinion.'",
+        "en": "You heard: 'Concordo com ele, mas precisamos do parecer do jurídico.' — 'I agree with him, but we need the legal department's opinion.'",
+        "ar": "سمعت: 'Concordo com ele, mas precisamos do parecer do jurídico.' — 'أتفق معه، لكننا بحاجة إلى رأي الإدارة القانونية.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "insistiu",
+          "en": "insistiu",
+          "ar": "insistiu"
+        },
+        {
+          "pt": "revisar",
+          "en": "revisar",
+          "ar": "revisar"
+        },
+        {
+          "pt": "envio.",
+          "en": "envio.",
+          "ar": "envio."
+        },
+        {
+          "pt": "relatório",
+          "en": "relatório",
+          "ar": "relatório"
+        },
+        {
+          "pt": "antes",
+          "en": "antes",
+          "ar": "antes"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "em",
+          "en": "em",
+          "ar": "em"
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "gerente",
+          "en": "gerente",
+          "ar": "gerente"
+        }
+      ],
+      "answer": "O gerente insistiu em revisar o relatório antes do envio.",
+      "accepted": [
+        "O gerente insistiu em revisar o relatório antes do envio."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'O gerente insistiu em revisar o relatório antes do envio.'",
+        "en": "The correct order: 'The manager insisted on reviewing the report before sending it.'",
+        "ar": "الترتيب الصحيح: 'أصرّ المدير على مراجعة التقرير قبل إرساله.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "gostar de",
+          "en": "to remember",
+          "ar": "gostar de"
+        },
+        {
+          "pt": "a preposição",
+          "en": "to depend on",
+          "ar": "a preposição"
+        },
+        {
+          "pt": "a regência verbal",
+          "en": "to like",
+          "ar": "a regência verbal"
+        },
+        {
+          "pt": "depender de",
+          "en": "to need",
+          "ar": "depender de"
+        },
+        {
+          "pt": "lembrar-se de",
+          "en": "verbal regimen",
+          "ar": "lembrar-se de"
+        },
+        {
+          "pt": "precisar de",
+          "en": "the preposition",
+          "ar": "precisar de"
+        }
+      ],
+      "answer": "gostar de::to remember|a preposição::to depend on|a regência verbal::to like|depender de::to need|lembrar-se de::verbal regimen|precisar de::the preposition",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Concordo com ele, mas precisamos do parecer do jurídico.",
+          "en": "Remember to attach the document I referred to yesterday.",
+          "ar": "تذكر أن ترفق الوثيقة التي أشرت إليها أمس."
+        },
+        {
+          "pt": "Lembre-se de anexar o documento a que me referi ontem.",
+          "en": "The manager insisted on reviewing the report before sending it.",
+          "ar": "أتفق معه، لكننا بحاجة إلى رأي الإدارة القانونية."
+        },
+        {
+          "pt": "O gerente insistiu em revisar o relatório antes do envio.",
+          "en": "I agree with him, but we need the legal department's opinion.",
+          "ar": "أصرّ المدير على مراجعة التقرير قبل إرساله."
+        }
+      ],
+      "answer": "O gerente insistiu em revisar o relatório antes do envio.",
+      "accepted": [],
+      "audio": "O gerente insistiu em revisar o relatório antes do envio.",
+      "explanation": {
+        "pt": "Você ouviu: 'O gerente insistiu em revisar o relatório antes do envio.' — 'The manager insisted on reviewing the report before sending it.'",
+        "en": "You heard: 'O gerente insistiu em revisar o relatório antes do envio.' — 'The manager insisted on reviewing the report before sending it.'",
+        "ar": "سمعت: 'O gerente insistiu em revisar o relatório antes do envio.' — 'أصرّ المدير على مراجعة التقرير قبل إرساله.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Certo. O resultado final dependerá da aprovação de todos.",
+          "en": "I agree with him, but we need the legal department's opinion.",
+          "ar": "حسنًا. ستعتمد النتيجة النهائية على موافقة الجميع."
+        },
+        {
+          "pt": "Concordo com ele, mas precisamos do parecer do jurídico.",
+          "en": "The manager insisted on reviewing the report before sending it.",
+          "ar": "أصرّ المدير على مراجعة التقرير قبل إرساله."
+        },
+        {
+          "pt": "O gerente insistiu em revisar o relatório antes do envio.",
+          "en": "Right. The final result will depend on everyone's approval.",
+          "ar": "أتفق معه، لكننا بحاجة إلى رأي الإدارة القانونية."
+        }
+      ],
+      "answer": "Concordo com ele, mas precisamos do parecer do jurídico.",
+      "accepted": [],
+      "audio": "Concordo com ele, mas precisamos do parecer do jurídico.",
+      "explanation": {
+        "pt": "Você ouviu: 'Concordo com ele, mas precisamos do parecer do jurídico.' — 'I agree with him, but we need the legal department's opinion.'",
+        "en": "You heard: 'Concordo com ele, mas precisamos do parecer do jurídico.' — 'I agree with him, but we need the legal department's opinion.'",
+        "ar": "سمعت: 'Concordo com ele, mas precisamos do parecer do jurídico.' — 'أتفق معه، لكننا بحاجة إلى رأي الإدارة القانونية.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "gerente",
+          "en": "gerente",
+          "ar": "gerente"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "em",
+          "en": "em",
+          "ar": "em"
+        },
+        {
+          "pt": "relatório",
+          "en": "relatório",
+          "ar": "relatório"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "revisar",
+          "en": "revisar",
+          "ar": "revisar"
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "envio.",
+          "en": "envio.",
+          "ar": "envio."
+        },
+        {
+          "pt": "insistiu",
+          "en": "insistiu",
+          "ar": "insistiu"
+        },
+        {
+          "pt": "antes",
+          "en": "antes",
+          "ar": "antes"
+        }
+      ],
+      "answer": "O gerente insistiu em revisar o relatório antes do envio.",
+      "accepted": [
+        "O gerente insistiu em revisar o relatório antes do envio."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'O gerente insistiu em revisar o relatório antes do envio.'",
+        "en": "The correct order: 'The manager insisted on reviewing the report before sending it.'",
+        "ar": "الترتيب الصحيح: 'أصرّ المدير على مراجعة التقرير قبل إرساله.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "gostar de",
+          "en": "to like",
+          "ar": "gostar de"
+        },
+        {
+          "pt": "precisar de",
+          "en": "to remember",
+          "ar": "precisar de"
+        },
+        {
+          "pt": "lembrar-se de",
+          "en": "verbal regimen",
+          "ar": "lembrar-se de"
+        },
+        {
+          "pt": "depender de",
+          "en": "the preposition",
+          "ar": "depender de"
+        },
+        {
+          "pt": "a regência verbal",
+          "en": "to depend on",
+          "ar": "a regência verbal"
+        },
+        {
+          "pt": "a preposição",
+          "en": "to need",
+          "ar": "a preposição"
+        }
+      ],
+      "answer": "gostar de::to like|precisar de::to remember|lembrar-se de::verbal regimen|depender de::the preposition|a regência verbal::to depend on|a preposição::to need",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "O gerente insistiu em revisar o relatório antes do envio.",
+          "en": "I already replied to all the emails and thanked everyone for their participation.",
+          "ar": "لقد رددت بالفعل على جميع الرسائل وشكرت الجميع على مشاركتهم."
+        },
+        {
+          "pt": "Concordo com ele, mas precisamos do parecer do jurídico.",
+          "en": "The manager insisted on reviewing the report before sending it.",
+          "ar": "أتفق معه، لكننا بحاجة إلى رأي الإدارة القانونية."
+        },
+        {
+          "pt": "Já respondi a todos os e-mails e agradeci a participação de cada um.",
+          "en": "I agree with him, but we need the legal department's opinion.",
+          "ar": "أصرّ المدير على مراجعة التقرير قبل إرساله."
+        }
+      ],
+      "answer": "O gerente insistiu em revisar o relatório antes do envio.",
+      "accepted": [],
+      "audio": "O gerente insistiu em revisar o relatório antes do envio.",
+      "explanation": {
+        "pt": "Você ouviu: 'O gerente insistiu em revisar o relatório antes do envio.' — 'The manager insisted on reviewing the report before sending it.'",
+        "en": "You heard: 'O gerente insistiu em revisar o relatório antes do envio.' — 'The manager insisted on reviewing the report before sending it.'",
+        "ar": "سمعت: 'O gerente insistiu em revisar o relatório antes do envio.' — 'أصرّ المدير على مراجعة التقرير قبل إرساله.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Concordo com ele, mas precisamos do parecer do jurídico.",
+          "en": "The manager insisted on reviewing the report before sending it.",
+          "ar": "أصرّ المدير على مراجعة التقرير قبل إرساله."
+        },
+        {
+          "pt": "O gerente insistiu em revisar o relatório antes do envio.",
+          "en": "I already replied to all the emails and thanked everyone for their participation.",
+          "ar": "لقد رددت بالفعل على جميع الرسائل وشكرت الجميع على مشاركتهم."
+        },
+        {
+          "pt": "Já respondi a todos os e-mails e agradeci a participação de cada um.",
+          "en": "I agree with him, but we need the legal department's opinion.",
+          "ar": "أتفق معه، لكننا بحاجة إلى رأي الإدارة القانونية."
+        }
+      ],
+      "answer": "Concordo com ele, mas precisamos do parecer do jurídico.",
+      "accepted": [],
+      "audio": "Concordo com ele, mas precisamos do parecer do jurídico.",
+      "explanation": {
+        "pt": "Você ouviu: 'Concordo com ele, mas precisamos do parecer do jurídico.' — 'I agree with him, but we need the legal department's opinion.'",
+        "en": "You heard: 'Concordo com ele, mas precisamos do parecer do jurídico.' — 'I agree with him, but we need the legal department's opinion.'",
+        "ar": "سمعت: 'Concordo com ele, mas precisamos do parecer do jurídico.' — 'أتفق معه، لكننا بحاجة إلى رأي الإدارة القانونية.'"
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'verbal regimen'",
+        "en": "Type in Portuguese: 'verbal regimen'",
+        "ar": "اكتب بالبرتغالية: 'تعدية الفعل'"
+      },
+      "options": [],
+      "answer": "a regência verbal",
+      "accepted": [
+        "a regência verbal"
+      ],
+      "explanation": {
+        "pt": "'a regência verbal' significa 'verbal regimen'.",
+        "en": "'a regência verbal' means 'verbal regimen'.",
+        "ar": "'$a regência verbal' بالعربية: '$تعدية الفعل'."
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'the preposition'",
+        "en": "Type in Portuguese: 'the preposition'",
+        "ar": "اكتب بالبرتغالية: 'حرف الجر'"
+      },
+      "options": [],
+      "answer": "a preposição",
+      "accepted": [
+        "a preposição"
+      ],
+      "explanation": {
+        "pt": "'a preposição' significa 'the preposition'.",
+        "en": "'a preposição' means 'the preposition'.",
+        "ar": "'$a preposição' بالعربية: '$حرف الجر'."
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Concordo com ele, mas precisamos do parecer do jurídico.",
+          "en": "Concordo com ele, mas precisamos do parecer do jurídico.",
+          "ar": "Concordo com ele, mas precisamos do parecer do jurídico."
+        },
+        {
+          "pt": "O gerente insistiu em revisar o relatório antes do envio.",
+          "en": "O gerente insistiu em revisar o relatório antes do envio.",
+          "ar": "O gerente insistiu em revisar o relatório antes do envio."
+        },
+        {
+          "pt": "Certo. O resultado final dependerá da aprovação de todos.",
+          "en": "Certo. O resultado final dependerá da aprovação de todos.",
+          "ar": "Certo. O resultado final dependerá da aprovação de todos."
+        }
+      ],
+      "answer": "O gerente insistiu em revisar o relatório antes do envio.",
+      "accepted": [],
+      "audio": "O gerente insistiu em revisar o relatório antes do envio.",
+      "explanation": {
+        "pt": "Você ouviu: 'O gerente insistiu em revisar o relatório antes do envio.'",
+        "en": "You heard: 'O gerente insistiu em revisar o relatório antes do envio.'",
+        "ar": "سمعت: 'O gerente insistiu em revisar o relatório antes do envio.'"
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Concordo com ele, mas precisamos do parecer do jurídico.",
+          "en": "Concordo com ele, mas precisamos do parecer do jurídico.",
+          "ar": "Concordo com ele, mas precisamos do parecer do jurídico."
+        },
+        {
+          "pt": "Certo. O resultado final dependerá da aprovação de todos.",
+          "en": "Certo. O resultado final dependerá da aprovação de todos.",
+          "ar": "Certo. O resultado final dependerá da aprovação de todos."
+        },
+        {
+          "pt": "O gerente insistiu em revisar o relatório antes do envio.",
+          "en": "O gerente insistiu em revisar o relatório antes do envio.",
+          "ar": "O gerente insistiu em revisar o relatório antes do envio."
+        }
+      ],
+      "answer": "Concordo com ele, mas precisamos do parecer do jurídico.",
+      "accepted": [],
+      "audio": "Concordo com ele, mas precisamos do parecer do jurídico.",
+      "explanation": {
+        "pt": "Você ouviu: 'Concordo com ele, mas precisamos do parecer do jurídico.'",
+        "en": "You heard: 'Concordo com ele, mas precisamos do parecer do jurídico.'",
+        "ar": "سمعت: 'Concordo com ele, mas precisamos do parecer do jurídico.'"
+      }
+    },
+    {
+      "type": "dictation",
+      "prompt": {
+        "pt": "Ouça e escreva o que você ouviu.",
+        "en": "Listen and type what you hear.",
+        "ar": "استمع واكتب ما سمعته."
+      },
+      "options": [],
+      "answer": "O gerente insistiu em revisar o relatório antes do envio.",
+      "accepted": [],
+      "audio": "O gerente insistiu em revisar o relatório antes do envio.",
+      "explanation": {
+        "pt": "A frase correta: 'O gerente insistiu em revisar o relatório antes do envio.'",
+        "en": "The correct sentence: 'O gerente insistiu em revisar o relatório antes do envio.'",
+        "ar": "الجملة الصحيحة: 'O gerente insistiu em revisar o relatório antes do envio.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "em",
+          "en": "em",
+          "ar": "em"
+        },
+        {
+          "pt": "insistiu",
+          "en": "insistiu",
+          "ar": "insistiu"
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "gerente",
+          "en": "gerente",
+          "ar": "gerente"
+        },
+        {
+          "pt": "relatório",
+          "en": "relatório",
+          "ar": "relatório"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "envio.",
+          "en": "envio.",
+          "ar": "envio."
+        },
+        {
+          "pt": "revisar",
+          "en": "revisar",
+          "ar": "revisar"
+        },
+        {
+          "pt": "antes",
+          "en": "antes",
+          "ar": "antes"
+        }
+      ],
+      "answer": "O gerente insistiu em revisar o relatório antes do envio.",
+      "accepted": [
+        "O gerente insistiu em revisar o relatório antes do envio."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'O gerente insistiu em revisar o relatório antes do envio.'",
+        "en": "The correct order: 'The manager insisted on reviewing the report before sending it.'",
+        "ar": "الترتيب الصحيح: 'أصرّ المدير على مراجعة التقرير قبل إرساله.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "lembrar-se de",
+          "en": "to remember",
+          "ar": "lembrar-se de"
+        },
+        {
+          "pt": "gostar de",
+          "en": "to like",
+          "ar": "gostar de"
+        },
+        {
+          "pt": "precisar de",
+          "en": "to need",
+          "ar": "precisar de"
+        },
+        {
+          "pt": "a regência verbal",
+          "en": "the preposition",
+          "ar": "a regência verbal"
+        },
+        {
+          "pt": "depender de",
+          "en": "verbal regimen",
+          "ar": "depender de"
+        },
+        {
+          "pt": "a preposição",
+          "en": "to depend on",
+          "ar": "a preposição"
+        }
+      ],
+      "answer": "lembrar-se de::to remember|gostar de::to like|precisar de::to need|a regência verbal::the preposition|depender de::verbal regimen|a preposição::to depend on",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Lembre-se de anexar o documento a que me referi ontem.",
+          "en": "Remember to attach the document I referred to yesterday.",
+          "ar": "تذكر أن ترفق الوثيقة التي أشرت إليها أمس."
+        },
+        {
+          "pt": "Já respondi a todos os e-mails e agradeci a participação de cada um.",
+          "en": "I already replied to all the emails and thanked everyone for their participation.",
+          "ar": "لقد رددت بالفعل على جميع الرسائل وشكرت الجميع على مشاركتهم."
+        },
+        {
+          "pt": "O gerente insistiu em revisar o relatório antes do envio.",
+          "en": "The manager insisted on reviewing the report before sending it.",
+          "ar": "أصرّ المدير على مراجعة التقرير قبل إرساله."
+        }
+      ],
+      "answer": "O gerente insistiu em revisar o relatório antes do envio.",
+      "accepted": [],
+      "audio": "O gerente insistiu em revisar o relatório antes do envio.",
+      "explanation": {
+        "pt": "Você ouviu: 'O gerente insistiu em revisar o relatório antes do envio.' — 'The manager insisted on reviewing the report before sending it.'",
+        "en": "You heard: 'O gerente insistiu em revisar o relatório antes do envio.' — 'The manager insisted on reviewing the report before sending it.'",
+        "ar": "سمعت: 'O gerente insistiu em revisar o relatório antes do envio.' — 'أصرّ المدير على مراجعة التقرير قبل إرساله.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Concordo com ele, mas precisamos do parecer do jurídico.",
+          "en": "I agree with him, but we need the legal department's opinion.",
+          "ar": "حسنًا. ستعتمد النتيجة النهائية على موافقة الجميع."
+        },
+        {
+          "pt": "Certo. O resultado final dependerá da aprovação de todos.",
+          "en": "Right. The final result will depend on everyone's approval.",
+          "ar": "أتفق معه، لكننا بحاجة إلى رأي الإدارة القانونية."
+        },
+        {
+          "pt": "Já respondi a todos os e-mails e agradeci a participação de cada um.",
+          "en": "I already replied to all the emails and thanked everyone for their participation.",
+          "ar": "لقد رددت بالفعل على جميع الرسائل وشكرت الجميع على مشاركتهم."
+        }
+      ],
+      "answer": "Concordo com ele, mas precisamos do parecer do jurídico.",
+      "accepted": [],
+      "audio": "Concordo com ele, mas precisamos do parecer do jurídico.",
+      "explanation": {
+        "pt": "Você ouviu: 'Concordo com ele, mas precisamos do parecer do jurídico.' — 'I agree with him, but we need the legal department's opinion.'",
+        "en": "You heard: 'Concordo com ele, mas precisamos do parecer do jurídico.' — 'I agree with him, but we need the legal department's opinion.'",
+        "ar": "سمعت: 'Concordo com ele, mas precisamos do parecer do jurídico.' — 'أتفق معه، لكننا بحاجة إلى رأي الإدارة القانونية.'"
+      }
+    }
+  ],
+  "speaking": {
+    "title": {
+      "pt": "Fale Agora — Ouça e Repita",
+      "en": "Speak Now — Listen and Repeat",
+      "ar": "تحدث الآن — استمع وكرر"
+    },
+    "phrases": [
+      {
+        "pt": "O gerente insistiu em revisar o relatório antes do envio.",
+        "en": "The manager insisted on reviewing the report before sending it.",
+        "ar": "أصرّ المدير على مراجعة التقرير قبل إرساله."
+      },
+      {
+        "pt": "Concordo com ele, mas precisamos do parecer do jurídico.",
+        "en": "I agree with him, but we need the legal department's opinion.",
+        "ar": "أتفق معه، لكننا بحاجة إلى رأي الإدارة القانونية."
+      },
+      {
+        "pt": "Já respondi a todos os e-mails e agradeci a participação de cada um.",
+        "en": "I already replied to all the emails and thanked everyone for their participation.",
+        "ar": "لقد رددت بالفعل على جميع الرسائل وشكرت الجميع على مشاركتهم."
+      },
+      {
+        "pt": "Lembre-se de anexar o documento a que me referi ontem.",
+        "en": "Remember to attach the document I referred to yesterday.",
+        "ar": "تذكر أن ترفق الوثيقة التي أشرت إليها أمس."
+      },
+      {
+        "pt": "Certo. O resultado final dependerá da aprovação de todos.",
+        "en": "Right. The final result will depend on everyone's approval.",
+        "ar": "حسنًا. ستعتمد النتيجة النهائية على موافقة الجميع."
+      },
+      {
+        "pt": "a regência verbal",
+        "en": "verbal regimen",
+        "ar": "تعدية الفعل"
+      },
+      {
+        "pt": "a preposição",
+        "en": "the preposition",
+        "ar": "حرف الجر"
+      },
+      {
+        "pt": "depender de",
+        "en": "to depend on",
+        "ar": "يعتمد على"
+      }
+    ]
+  },
+  "cultural_tips": {
+    "pt": "",
+    "en": "",
+    "ar": ""
+  }
+}

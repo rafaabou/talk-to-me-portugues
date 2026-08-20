@@ -1,0 +1,1874 @@
+{
+  "id": "B1-11",
+  "level": "B1",
+  "level_name": {
+    "pt": "Intermediário",
+    "en": "Intermediate",
+    "ar": "متوسط"
+  },
+  "title": {
+    "pt": "Banco, Dinheiro e Pagamentos",
+    "en": "Banking, Money and Payments",
+    "ar": "البنوك والمال والدفع"
+  },
+  "objectives": [
+    {
+      "pt": "Usar vocabulário bancário e de pagamentos.",
+      "en": "Use banking and payment vocabulary.",
+      "ar": "استخدام مفردات البنوك والمدفوعات."
+    },
+    {
+      "pt": "Falar de quantias, preços e transações com clareza.",
+      "en": "Talk about amounts, prices and transactions clearly.",
+      "ar": "التحدث عن المبالغ والأسعار والمعاملات بوضوح."
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "o banco",
+      "ipa": "/u ˈbɐ̃.ku/",
+      "en": "the bank",
+      "ar": "البنك",
+      "example": {
+        "pt": "Perfeito. Qual é o valor e a conta de destino?",
+        "en": "Perfect. What is the amount and the destination account?",
+        "ar": "ممتاز. ما المبلغ وحساب المستلم؟"
+      }
+    },
+    {
+      "pt": "a conta",
+      "ipa": "/a ˈkõ.tɐ/",
+      "en": "the account",
+      "ar": "الحساب",
+      "example": {
+        "pt": "Perfeito. Qual é o valor e a conta de destino?",
+        "en": "Perfect. What is the amount and the destination account?",
+        "ar": "ممتاز. ما المبلغ وحساب المستلم؟"
+      }
+    },
+    {
+      "pt": "o cartão de crédito",
+      "ipa": "/u kaʁˈtɐ̃w dʒi ˈkɾe.dʒi.tu/",
+      "en": "the credit card",
+      "ar": "بطاقة الائتمان",
+      "example": {
+        "pt": "Perfeito. Qual é o valor e a conta de destino?",
+        "en": "Perfect. What is the amount and the destination account?",
+        "ar": "ممتاز. ما المبلغ وحساب المستلم؟"
+      }
+    },
+    {
+      "pt": "o cartão de débito",
+      "ipa": "/u kaʁˈtɐ̃w dʒi ˈdɛ.bi.tu/",
+      "en": "the debit card",
+      "ar": "بطاقة الخصم",
+      "example": {
+        "pt": "Perfeito. Qual é o valor e a conta de destino?",
+        "en": "Perfect. What is the amount and the destination account?",
+        "ar": "ممتاز. ما المبلغ وحساب المستلم؟"
+      }
+    },
+    {
+      "pt": "o pix",
+      "ipa": "/u ˈpiks/",
+      "en": "the Pix (instant payment)",
+      "ar": "بيكس (دفع فوري)",
+      "example": {
+        "pt": "Perfeito. Qual é o valor e a conta de destino?",
+        "en": "Perfect. What is the amount and the destination account?",
+        "ar": "ممتاز. ما المبلغ وحساب المستلم؟"
+      }
+    },
+    {
+      "pt": "a transferência",
+      "ipa": "/a tɾɐ̃s.feˈɾẽ.si.ɐ/",
+      "en": "the transfer",
+      "ar": "التحويل",
+      "example": {
+        "pt": "Perfeito. Qual é o valor e a conta de destino?",
+        "en": "Perfect. What is the amount and the destination account?",
+        "ar": "ممتاز. ما المبلغ وحساب المستلم؟"
+      }
+    },
+    {
+      "pt": "o saque",
+      "ipa": "/u ˈsa.ki/",
+      "en": "the withdrawal",
+      "ar": "السحب",
+      "example": {
+        "pt": "Perfeito. Qual é o valor e a conta de destino?",
+        "en": "Perfect. What is the amount and the destination account?",
+        "ar": "ممتاز. ما المبلغ وحساب المستلم؟"
+      }
+    },
+    {
+      "pt": "o depósito",
+      "ipa": "/u deˈpɔ.zi.tu/",
+      "en": "the deposit",
+      "ar": "الإيداع",
+      "example": {
+        "pt": "Perfeito. Qual é o valor e a conta de destino?",
+        "en": "Perfect. What is the amount and the destination account?",
+        "ar": "ممتاز. ما المبلغ وحساب المستلم؟"
+      }
+    },
+    {
+      "pt": "o extrato",
+      "ipa": "/u esˈtɾa.tu/",
+      "en": "the bank statement",
+      "ar": "كشف الحساب",
+      "example": {
+        "pt": "Perfeito. Qual é o valor e a conta de destino?",
+        "en": "Perfect. What is the amount and the destination account?",
+        "ar": "ممتاز. ما المبلغ وحساب المستلم؟"
+      }
+    },
+    {
+      "pt": "o empréstimo",
+      "ipa": "/u ẽ.pɾesˈtʃi.mu/",
+      "en": "the loan",
+      "ar": "القرض",
+      "example": {
+        "pt": "Perfeito. Qual é o valor e a conta de destino?",
+        "en": "Perfect. What is the amount and the destination account?",
+        "ar": "ممتاز. ما المبلغ وحساب المستلم؟"
+      }
+    },
+    {
+      "pt": "os juros",
+      "ipa": "/us ˈʒu.ɾus/",
+      "en": "the interest",
+      "ar": "الفائدة",
+      "example": {
+        "pt": "Bom dia! Como posso ajudar?",
+        "en": "Good morning! How can I help you?",
+        "ar": "صباح الخير! كيف يمكنني مساعدتك؟"
+      }
+    },
+    {
+      "pt": "o pagamento",
+      "ipa": "/u pa.ɡaˈmẽ.tu/",
+      "en": "the payment",
+      "ar": "الدفع",
+      "example": {
+        "pt": "Perfeito. Qual é o valor e a conta de destino?",
+        "en": "Perfect. What is the amount and the destination account?",
+        "ar": "ممتاز. ما المبلغ وحساب المستلم؟"
+      }
+    },
+    {
+      "pt": "o saldo",
+      "ipa": "/u ˈsaw.du/",
+      "en": "the balance",
+      "ar": "الرصيد",
+      "example": {
+        "pt": "Perfeito. Qual é o valor e a conta de destino?",
+        "en": "Perfect. What is the amount and the destination account?",
+        "ar": "ممتاز. ما المبلغ وحساب المستلم؟"
+      }
+    },
+    {
+      "pt": "a moeda",
+      "ipa": "/a moˈe.dɐ/",
+      "en": "the currency",
+      "ar": "العملة",
+      "example": {
+        "pt": "Perfeito. Qual é o valor e a conta de destino?",
+        "en": "Perfect. What is the amount and the destination account?",
+        "ar": "ممتاز. ما المبلغ وحساب المستلم؟"
+      }
+    },
+    {
+      "pt": "a fatura",
+      "ipa": "/a faˈtu.ɾɐ/",
+      "en": "the bill / invoice",
+      "ar": "الفاتورة",
+      "example": {
+        "pt": "Perfeito. Qual é o valor e a conta de destino?",
+        "en": "Perfect. What is the amount and the destination account?",
+        "ar": "ممتاز. ما المبلغ وحساب المستلم؟"
+      }
+    },
+    {
+      "pt": "economizar",
+      "ipa": "/e.ko.miˈzaʁ/",
+      "en": "to save money",
+      "ar": "يوفّر / يدّخر",
+      "example": {
+        "pt": "Bom dia! Como posso ajudar?",
+        "en": "Good morning! How can I help you?",
+        "ar": "صباح الخير! كيف يمكنني مساعدتك؟"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "title": {
+        "pt": "No banco: pedidos e necessidades",
+        "en": "At the bank: requests and needs",
+        "ar": "في البنك: الطلبات والاحتياجات"
+      },
+      "explanation": {
+        "pt": "No banco usamos estruturas educadas: 'gostaria de', 'quero' e 'preciso' + infinitivo, além de verbos como 'abrir', 'fazer', 'consultar' e 'transferir'.",
+        "en": "At the bank we use polite structures: 'gostaria de', 'quero' and 'preciso' + infinitive, plus verbs like 'abrir', 'fazer', 'consultar' and 'transferir'.",
+        "ar": "في البنك نستخدم تراكيب مهذبة: 'gostaria de' و'quero' و'preciso' + المصدر، بالإضافة إلى أفعال مثل 'يفتح' و'يعمل' و'يستعلم' و'يحوّل'."
+      },
+      "examples": [
+        {
+          "pt": "Gostaria de abrir uma conta corrente.",
+          "en": "I would like to open a checking account.",
+          "ar": "أودّ فتح حساب جارٍ."
+        },
+        {
+          "pt": "Quero fazer um saque de duzentos reais.",
+          "en": "I want to make a withdrawal of two hundred reais.",
+          "ar": "أريد سحب مئتي ريال."
+        },
+        {
+          "pt": "Preciso consultar meu saldo.",
+          "en": "I need to check my balance.",
+          "ar": "أحتاج إلى الاستعلام عن رصيدي."
+        }
+      ]
+    },
+    {
+      "title": {
+        "pt": "Quantias, preços e custos",
+        "en": "Amounts, prices and costs",
+        "ar": "المبالغ والأسعار والتكاليف"
+      },
+      "explanation": {
+        "pt": "Para falar de custos usamos 'custar', 'pagar por' e 'gastar com'. Perguntas comuns: 'quanto custa?', 'quanto é?', 'quanto devo?'.",
+        "en": "To talk about costs we use 'custar', 'pagar por' and 'gastar com'. Common questions: 'quanto custa?', 'quanto é?', 'quanto devo?'.",
+        "ar": "للحديث عن التكاليف نستخدم 'custar' (يكلف) و'pagar por' (يدفع) و'gastar com' (ينفق على). ومن الأسئلة الشائعة: 'كم التكلفة؟' و'كم المبلغ؟' و'كم يجب أن أدفع؟'."
+      },
+      "examples": [
+        {
+          "pt": "Quanto custa essa camisa?",
+          "en": "How much does this shirt cost?",
+          "ar": "كم تكلفة هذا القميص؟"
+        },
+        {
+          "pt": "Paguei cinquenta reais pela camisa.",
+          "en": "I paid fifty reais for the shirt.",
+          "ar": "دفعت خمسين ريالاً مقابل القميص."
+        },
+        {
+          "pt": "Gastei muito com as compras do mês.",
+          "en": "I spent a lot on this month's shopping.",
+          "ar": "أنفقت كثيراً على مشتريات الشهر."
+        }
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": {
+      "pt": "No banco",
+      "en": "At the bank",
+      "ar": "في البنك"
+    },
+    "lines": [
+      {
+        "speaker": "Caixa",
+        "pt": "Bom dia! Como posso ajudar?",
+        "en": "Good morning! How can I help you?",
+        "ar": "صباح الخير! كيف يمكنني مساعدتك؟"
+      },
+      {
+        "speaker": "Vitor",
+        "pt": "Quero fazer uma transferência pelo aplicativo.",
+        "en": "I want to make a transfer using the app.",
+        "ar": "أريد إجراء تحويل عبر التطبيق."
+      },
+      {
+        "speaker": "Caixa",
+        "pt": "Perfeito. Qual é o valor e a conta de destino?",
+        "en": "Perfect. What is the amount and the destination account?",
+        "ar": "ممتاز. ما المبلغ وحساب المستلم؟"
+      },
+      {
+        "speaker": "Vitor",
+        "pt": "Quinhentos reais. E gostaria de saber o saldo da minha conta.",
+        "en": "Five hundred reais. And I would like to know the balance of my account.",
+        "ar": "خمسمئة ريال. وأودّ معرفة رصيد حسابي."
+      },
+      {
+        "speaker": "Caixa",
+        "pt": "Seu saldo é de mil e trezentos reais.",
+        "en": "Your balance is one thousand three hundred reais.",
+        "ar": "رصيدك ألف وثلاثمئة ريال."
+      },
+      {
+        "speaker": "Vitor",
+        "pt": "Obrigado! A transferência será concluída hoje?",
+        "en": "Thank you! Will the transfer be completed today?",
+        "ar": "شكراً! هل سيُكتمل التحويل اليوم؟"
+      }
+    ]
+  },
+  "reading": {
+    "title": {
+      "pt": "O Pix no Brasil",
+      "en": "Pix in Brazil",
+      "ar": "بيكس في البرازيل"
+    },
+    "text_pt": "O Pix é um sistema de pagamentos instantâneos criado pelo banco central brasileiro. Com ele, as transferências acontecem em segundos, a qualquer hora. Muitas pessoas já usam o Pix no lugar do dinheiro. Ele funciona por meio de uma chave associada à conta.",
+    "text_en": "Pix is an instant payment system created by the Brazilian central bank. With it, transfers happen in seconds, at any time. Many people already use Pix instead of cash. It works through a key associated with the account.",
+    "text_ar": "بيكس هو نظام مدفوعات فورية أنشأه البنك المركزي البرازيلي. به، تتم التحويلات في ثوانٍ وفي أي وقت. كثيرون يستخدمون بيكس بالفعل بدلاً من النقد. وهو يعمل عبر مفتاح مرتبط بالحساب."
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Complete: \"Quero fazer um ___ de R$ 100.\"",
+        "en": "Complete: \"I want to make a ___ of R$ 100.\"",
+        "ar": "أكمل: \"أريد ___ بمبلغ 100 ريال.\""
+      },
+      "options": [
+        {
+          "pt": "saque",
+          "en": "withdrawal",
+          "ar": "سحب"
+        },
+        {
+          "pt": "saldo",
+          "en": "balance",
+          "ar": "رصيد"
+        },
+        {
+          "pt": "moeda",
+          "en": "currency",
+          "ar": "عملة"
+        },
+        {
+          "pt": "fatura",
+          "en": "bill",
+          "ar": "فاتورة"
+        }
+      ],
+      "answer": "saque",
+      "explanation": {
+        "pt": "'Fazer um saque' significa retirar dinheiro da conta.",
+        "en": "'Fazer um saque' means to withdraw money from the account.",
+        "ar": "'fazer um saque' تعني سحب نقود من الحساب."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Complete: \"Quanto ___ essa camisa?\"",
+        "en": "Complete: \"How much ___ this shirt?\"",
+        "ar": "أكمل: \"كم ___ هذا القميص؟\""
+      },
+      "options": [
+        {
+          "pt": "custa",
+          "en": "does it cost",
+          "ar": "تكلفة"
+        },
+        {
+          "pt": "custo",
+          "en": "I cost",
+          "ar": "تكلفتي"
+        },
+        {
+          "pt": "custam",
+          "en": "they cost",
+          "ar": "تكلفة (جمع)"
+        },
+        {
+          "pt": "custar",
+          "en": "to cost",
+          "ar": "أن يكلف"
+        }
+      ],
+      "answer": "custa",
+      "explanation": {
+        "pt": "Com sujeito singular ('a camisa'), usamos 'custa' na terceira pessoa do singular.",
+        "en": "With a singular subject ('the shirt'), we use 'custa' in the third person singular.",
+        "ar": "مع الفاعل المفرد ('القميص')، نستخدم 'custa' بضمير الغائب المفرد."
+      }
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"I need to pay the credit card bill.\"",
+        "en": "Translate to Portuguese: \"I need to pay the credit card bill.\"",
+        "ar": "ترجم إلى البرتغالية: \"I need to pay the credit card bill.\""
+      },
+      "options": [],
+      "answer": "Preciso pagar a fatura do cartão de crédito.",
+      "explanation": {
+        "pt": "'Fatura' é a conta mensal do cartão de crédito.",
+        "en": "'Fatura' is the monthly credit card bill.",
+        "ar": "'fatura' هي الفاتورة الشهرية لبطاقة الائتمان."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Bom",
+          "en": "Bom",
+          "ar": "Bom"
+        },
+        {
+          "pt": "ajudar?",
+          "en": "ajudar?",
+          "ar": "ajudar?"
+        },
+        {
+          "pt": "Como",
+          "en": "Como",
+          "ar": "Como"
+        },
+        {
+          "pt": "posso",
+          "en": "posso",
+          "ar": "posso"
+        },
+        {
+          "pt": "dia!",
+          "en": "dia!",
+          "ar": "dia!"
+        }
+      ],
+      "answer": "Bom dia! Como posso ajudar?",
+      "accepted": [
+        "Bom dia! Como posso ajudar?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Bom dia! Como posso ajudar?'",
+        "en": "The correct order: 'Good morning! How can I help you?'",
+        "ar": "الترتيب الصحيح: 'صباح الخير! كيف يمكنني مساعدتك؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o banco",
+          "en": "the Pix (instant payment)",
+          "ar": "o banco"
+        },
+        {
+          "pt": "o cartão de débito",
+          "en": "the bank",
+          "ar": "o cartão de débito"
+        },
+        {
+          "pt": "o pix",
+          "en": "the debit card",
+          "ar": "o pix"
+        },
+        {
+          "pt": "a transferência",
+          "en": "the transfer",
+          "ar": "a transferência"
+        },
+        {
+          "pt": "o cartão de crédito",
+          "en": "the account",
+          "ar": "o cartão de crédito"
+        },
+        {
+          "pt": "a conta",
+          "en": "the credit card",
+          "ar": "a conta"
+        }
+      ],
+      "answer": "o banco::the Pix (instant payment)|o cartão de débito::the bank|o pix::the debit card|a transferência::the transfer|o cartão de crédito::the account|a conta::the credit card",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Obrigado! A transferência será concluída hoje?",
+          "en": "Good morning! How can I help you?",
+          "ar": "صباح الخير! كيف يمكنني مساعدتك؟"
+        },
+        {
+          "pt": "Perfeito. Qual é o valor e a conta de destino?",
+          "en": "Perfect. What is the amount and the destination account?",
+          "ar": "شكراً! هل سيُكتمل التحويل اليوم؟"
+        },
+        {
+          "pt": "Bom dia! Como posso ajudar?",
+          "en": "Thank you! Will the transfer be completed today?",
+          "ar": "ممتاز. ما المبلغ وحساب المستلم؟"
+        }
+      ],
+      "answer": "Bom dia! Como posso ajudar?",
+      "accepted": [],
+      "audio": "Bom dia! Como posso ajudar?",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia! Como posso ajudar?' — 'Good morning! How can I help you?'",
+        "en": "You heard: 'Bom dia! Como posso ajudar?' — 'Good morning! How can I help you?'",
+        "ar": "سمعت: 'Bom dia! Como posso ajudar?' — 'صباح الخير! كيف يمكنني مساعدتك؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Quero fazer uma transferência pelo aplicativo.",
+          "en": "Thank you! Will the transfer be completed today?",
+          "ar": "أريد إجراء تحويل عبر التطبيق."
+        },
+        {
+          "pt": "Bom dia! Como posso ajudar?",
+          "en": "I want to make a transfer using the app.",
+          "ar": "صباح الخير! كيف يمكنني مساعدتك؟"
+        },
+        {
+          "pt": "Obrigado! A transferência será concluída hoje?",
+          "en": "Good morning! How can I help you?",
+          "ar": "شكراً! هل سيُكتمل التحويل اليوم؟"
+        }
+      ],
+      "answer": "Quero fazer uma transferência pelo aplicativo.",
+      "accepted": [],
+      "audio": "Quero fazer uma transferência pelo aplicativo.",
+      "explanation": {
+        "pt": "Você ouviu: 'Quero fazer uma transferência pelo aplicativo.' — 'I want to make a transfer using the app.'",
+        "en": "You heard: 'Quero fazer uma transferência pelo aplicativo.' — 'I want to make a transfer using the app.'",
+        "ar": "سمعت: 'Quero fazer uma transferência pelo aplicativo.' — 'أريد إجراء تحويل عبر التطبيق.'"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Gostaria de abrir uma ___ corrente.",
+        "en": "Gostaria de abrir uma ___ corrente.",
+        "ar": "Gostaria de abrir uma ___ corrente."
+      },
+      "options": [
+        {
+          "pt": "conta",
+          "en": "conta",
+          "ar": "conta"
+        },
+        {
+          "pt": "um",
+          "en": "um",
+          "ar": "um"
+        },
+        {
+          "pt": "Quero",
+          "en": "Quero",
+          "ar": "Quero"
+        }
+      ],
+      "answer": "conta",
+      "accepted": [],
+      "explanation": {
+        "pt": "A resposta é 'conta'. Frase completa: Gostaria de abrir uma conta corrente.",
+        "en": "The answer is 'conta'. Full sentence: I would like to open a checking account.",
+        "ar": "الإجابة الصحيحة: 'conta'. الجملة كاملة: أودّ فتح حساب جارٍ."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Bom",
+          "en": "Bom",
+          "ar": "Bom"
+        },
+        {
+          "pt": "Como",
+          "en": "Como",
+          "ar": "Como"
+        },
+        {
+          "pt": "dia!",
+          "en": "dia!",
+          "ar": "dia!"
+        },
+        {
+          "pt": "posso",
+          "en": "posso",
+          "ar": "posso"
+        },
+        {
+          "pt": "ajudar?",
+          "en": "ajudar?",
+          "ar": "ajudar?"
+        }
+      ],
+      "answer": "Bom dia! Como posso ajudar?",
+      "accepted": [
+        "Bom dia! Como posso ajudar?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Bom dia! Como posso ajudar?'",
+        "en": "The correct order: 'Good morning! How can I help you?'",
+        "ar": "الترتيب الصحيح: 'صباح الخير! كيف يمكنني مساعدتك؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o pix",
+          "en": "the Pix (instant payment)",
+          "ar": "o pix"
+        },
+        {
+          "pt": "o banco",
+          "en": "the transfer",
+          "ar": "o banco"
+        },
+        {
+          "pt": "o cartão de débito",
+          "en": "the credit card",
+          "ar": "o cartão de débito"
+        },
+        {
+          "pt": "a transferência",
+          "en": "the bank",
+          "ar": "a transferência"
+        },
+        {
+          "pt": "o cartão de crédito",
+          "en": "the account",
+          "ar": "o cartão de crédito"
+        },
+        {
+          "pt": "a conta",
+          "en": "the debit card",
+          "ar": "a conta"
+        }
+      ],
+      "answer": "o pix::the Pix (instant payment)|o banco::the transfer|o cartão de débito::the credit card|a transferência::the bank|o cartão de crédito::the account|a conta::the debit card",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Bom dia! Como posso ajudar?",
+          "en": "Thank you! Will the transfer be completed today?",
+          "ar": "ممتاز. ما المبلغ وحساب المستلم؟"
+        },
+        {
+          "pt": "Perfeito. Qual é o valor e a conta de destino?",
+          "en": "Good morning! How can I help you?",
+          "ar": "شكراً! هل سيُكتمل التحويل اليوم؟"
+        },
+        {
+          "pt": "Obrigado! A transferência será concluída hoje?",
+          "en": "Perfect. What is the amount and the destination account?",
+          "ar": "صباح الخير! كيف يمكنني مساعدتك؟"
+        }
+      ],
+      "answer": "Bom dia! Como posso ajudar?",
+      "accepted": [],
+      "audio": "Bom dia! Como posso ajudar?",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia! Como posso ajudar?' — 'Good morning! How can I help you?'",
+        "en": "You heard: 'Bom dia! Como posso ajudar?' — 'Good morning! How can I help you?'",
+        "ar": "سمعت: 'Bom dia! Como posso ajudar?' — 'صباح الخير! كيف يمكنني مساعدتك؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Perfeito. Qual é o valor e a conta de destino?",
+          "en": "Your balance is one thousand three hundred reais.",
+          "ar": "ممتاز. ما المبلغ وحساب المستلم؟"
+        },
+        {
+          "pt": "Quero fazer uma transferência pelo aplicativo.",
+          "en": "I want to make a transfer using the app.",
+          "ar": "رصيدك ألف وثلاثمئة ريال."
+        },
+        {
+          "pt": "Seu saldo é de mil e trezentos reais.",
+          "en": "Perfect. What is the amount and the destination account?",
+          "ar": "أريد إجراء تحويل عبر التطبيق."
+        }
+      ],
+      "answer": "Quero fazer uma transferência pelo aplicativo.",
+      "accepted": [],
+      "audio": "Quero fazer uma transferência pelo aplicativo.",
+      "explanation": {
+        "pt": "Você ouviu: 'Quero fazer uma transferência pelo aplicativo.' — 'I want to make a transfer using the app.'",
+        "en": "You heard: 'Quero fazer uma transferência pelo aplicativo.' — 'I want to make a transfer using the app.'",
+        "ar": "سمعت: 'Quero fazer uma transferência pelo aplicativo.' — 'أريد إجراء تحويل عبر التطبيق.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Bom",
+          "en": "Bom",
+          "ar": "Bom"
+        },
+        {
+          "pt": "posso",
+          "en": "posso",
+          "ar": "posso"
+        },
+        {
+          "pt": "Como",
+          "en": "Como",
+          "ar": "Como"
+        },
+        {
+          "pt": "ajudar?",
+          "en": "ajudar?",
+          "ar": "ajudar?"
+        },
+        {
+          "pt": "dia!",
+          "en": "dia!",
+          "ar": "dia!"
+        }
+      ],
+      "answer": "Bom dia! Como posso ajudar?",
+      "accepted": [
+        "Bom dia! Como posso ajudar?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Bom dia! Como posso ajudar?'",
+        "en": "The correct order: 'Good morning! How can I help you?'",
+        "ar": "الترتيب الصحيح: 'صباح الخير! كيف يمكنني مساعدتك؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o pix",
+          "en": "the account",
+          "ar": "o pix"
+        },
+        {
+          "pt": "o banco",
+          "en": "the debit card",
+          "ar": "o banco"
+        },
+        {
+          "pt": "o cartão de débito",
+          "en": "the Pix (instant payment)",
+          "ar": "o cartão de débito"
+        },
+        {
+          "pt": "o cartão de crédito",
+          "en": "the transfer",
+          "ar": "o cartão de crédito"
+        },
+        {
+          "pt": "a conta",
+          "en": "the bank",
+          "ar": "a conta"
+        },
+        {
+          "pt": "a transferência",
+          "en": "the credit card",
+          "ar": "a transferência"
+        }
+      ],
+      "answer": "o pix::the account|o banco::the debit card|o cartão de débito::the Pix (instant payment)|o cartão de crédito::the transfer|a conta::the bank|a transferência::the credit card",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Quero fazer uma transferência pelo aplicativo.",
+          "en": "Good morning! How can I help you?",
+          "ar": "أريد إجراء تحويل عبر التطبيق."
+        },
+        {
+          "pt": "Quinhentos reais. E gostaria de saber o saldo da minha conta.",
+          "en": "Five hundred reais. And I would like to know the balance of my account.",
+          "ar": "خمسمئة ريال. وأودّ معرفة رصيد حسابي."
+        },
+        {
+          "pt": "Bom dia! Como posso ajudar?",
+          "en": "I want to make a transfer using the app.",
+          "ar": "صباح الخير! كيف يمكنني مساعدتك؟"
+        }
+      ],
+      "answer": "Bom dia! Como posso ajudar?",
+      "accepted": [],
+      "audio": "Bom dia! Como posso ajudar?",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia! Como posso ajudar?' — 'Good morning! How can I help you?'",
+        "en": "You heard: 'Bom dia! Como posso ajudar?' — 'Good morning! How can I help you?'",
+        "ar": "سمعت: 'Bom dia! Como posso ajudar?' — 'صباح الخير! كيف يمكنني مساعدتك؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Quero fazer uma transferência pelo aplicativo.",
+          "en": "Your balance is one thousand three hundred reais.",
+          "ar": "ممتاز. ما المبلغ وحساب المستلم؟"
+        },
+        {
+          "pt": "Seu saldo é de mil e trezentos reais.",
+          "en": "I want to make a transfer using the app.",
+          "ar": "رصيدك ألف وثلاثمئة ريال."
+        },
+        {
+          "pt": "Perfeito. Qual é o valor e a conta de destino?",
+          "en": "Perfect. What is the amount and the destination account?",
+          "ar": "أريد إجراء تحويل عبر التطبيق."
+        }
+      ],
+      "answer": "Quero fazer uma transferência pelo aplicativo.",
+      "accepted": [],
+      "audio": "Quero fazer uma transferência pelo aplicativo.",
+      "explanation": {
+        "pt": "Você ouviu: 'Quero fazer uma transferência pelo aplicativo.' — 'I want to make a transfer using the app.'",
+        "en": "You heard: 'Quero fazer uma transferência pelo aplicativo.' — 'I want to make a transfer using the app.'",
+        "ar": "سمعت: 'Quero fazer uma transferência pelo aplicativo.' — 'أريد إجراء تحويل عبر التطبيق.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "posso",
+          "en": "posso",
+          "ar": "posso"
+        },
+        {
+          "pt": "Como",
+          "en": "Como",
+          "ar": "Como"
+        },
+        {
+          "pt": "dia!",
+          "en": "dia!",
+          "ar": "dia!"
+        },
+        {
+          "pt": "ajudar?",
+          "en": "ajudar?",
+          "ar": "ajudar?"
+        },
+        {
+          "pt": "Bom",
+          "en": "Bom",
+          "ar": "Bom"
+        }
+      ],
+      "answer": "Bom dia! Como posso ajudar?",
+      "accepted": [
+        "Bom dia! Como posso ajudar?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Bom dia! Como posso ajudar?'",
+        "en": "The correct order: 'Good morning! How can I help you?'",
+        "ar": "الترتيب الصحيح: 'صباح الخير! كيف يمكنني مساعدتك؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o banco",
+          "en": "the Pix (instant payment)",
+          "ar": "o banco"
+        },
+        {
+          "pt": "o cartão de débito",
+          "en": "the credit card",
+          "ar": "o cartão de débito"
+        },
+        {
+          "pt": "a conta",
+          "en": "the transfer",
+          "ar": "a conta"
+        },
+        {
+          "pt": "a transferência",
+          "en": "the bank",
+          "ar": "a transferência"
+        },
+        {
+          "pt": "o cartão de crédito",
+          "en": "the debit card",
+          "ar": "o cartão de crédito"
+        },
+        {
+          "pt": "o pix",
+          "en": "the account",
+          "ar": "o pix"
+        }
+      ],
+      "answer": "o banco::the Pix (instant payment)|o cartão de débito::the credit card|a conta::the transfer|a transferência::the bank|o cartão de crédito::the debit card|o pix::the account",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Bom dia! Como posso ajudar?",
+          "en": "Good morning! How can I help you?",
+          "ar": "خمسمئة ريال. وأودّ معرفة رصيد حسابي."
+        },
+        {
+          "pt": "Quinhentos reais. E gostaria de saber o saldo da minha conta.",
+          "en": "Five hundred reais. And I would like to know the balance of my account.",
+          "ar": "صباح الخير! كيف يمكنني مساعدتك؟"
+        },
+        {
+          "pt": "Obrigado! A transferência será concluída hoje?",
+          "en": "Thank you! Will the transfer be completed today?",
+          "ar": "شكراً! هل سيُكتمل التحويل اليوم؟"
+        }
+      ],
+      "answer": "Bom dia! Como posso ajudar?",
+      "accepted": [],
+      "audio": "Bom dia! Como posso ajudar?",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia! Como posso ajudar?' — 'Good morning! How can I help you?'",
+        "en": "You heard: 'Bom dia! Como posso ajudar?' — 'Good morning! How can I help you?'",
+        "ar": "سمعت: 'Bom dia! Como posso ajudar?' — 'صباح الخير! كيف يمكنني مساعدتك؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Quero fazer uma transferência pelo aplicativo.",
+          "en": "Perfect. What is the amount and the destination account?",
+          "ar": "أريد إجراء تحويل عبر التطبيق."
+        },
+        {
+          "pt": "Quinhentos reais. E gostaria de saber o saldo da minha conta.",
+          "en": "I want to make a transfer using the app.",
+          "ar": "خمسمئة ريال. وأودّ معرفة رصيد حسابي."
+        },
+        {
+          "pt": "Perfeito. Qual é o valor e a conta de destino?",
+          "en": "Five hundred reais. And I would like to know the balance of my account.",
+          "ar": "ممتاز. ما المبلغ وحساب المستلم؟"
+        }
+      ],
+      "answer": "Quero fazer uma transferência pelo aplicativo.",
+      "accepted": [],
+      "audio": "Quero fazer uma transferência pelo aplicativo.",
+      "explanation": {
+        "pt": "Você ouviu: 'Quero fazer uma transferência pelo aplicativo.' — 'I want to make a transfer using the app.'",
+        "en": "You heard: 'Quero fazer uma transferência pelo aplicativo.' — 'I want to make a transfer using the app.'",
+        "ar": "سمعت: 'Quero fazer uma transferência pelo aplicativo.' — 'أريد إجراء تحويل عبر التطبيق.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Como",
+          "en": "Como",
+          "ar": "Como"
+        },
+        {
+          "pt": "dia!",
+          "en": "dia!",
+          "ar": "dia!"
+        },
+        {
+          "pt": "Bom",
+          "en": "Bom",
+          "ar": "Bom"
+        },
+        {
+          "pt": "posso",
+          "en": "posso",
+          "ar": "posso"
+        },
+        {
+          "pt": "ajudar?",
+          "en": "ajudar?",
+          "ar": "ajudar?"
+        }
+      ],
+      "answer": "Bom dia! Como posso ajudar?",
+      "accepted": [
+        "Bom dia! Como posso ajudar?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Bom dia! Como posso ajudar?'",
+        "en": "The correct order: 'Good morning! How can I help you?'",
+        "ar": "الترتيب الصحيح: 'صباح الخير! كيف يمكنني مساعدتك؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o banco",
+          "en": "the debit card",
+          "ar": "o banco"
+        },
+        {
+          "pt": "o cartão de débito",
+          "en": "the credit card",
+          "ar": "o cartão de débito"
+        },
+        {
+          "pt": "a conta",
+          "en": "the Pix (instant payment)",
+          "ar": "a conta"
+        },
+        {
+          "pt": "o pix",
+          "en": "the bank",
+          "ar": "o pix"
+        },
+        {
+          "pt": "o cartão de crédito",
+          "en": "the account",
+          "ar": "o cartão de crédito"
+        },
+        {
+          "pt": "a transferência",
+          "en": "the transfer",
+          "ar": "a transferência"
+        }
+      ],
+      "answer": "o banco::the debit card|o cartão de débito::the credit card|a conta::the Pix (instant payment)|o pix::the bank|o cartão de crédito::the account|a transferência::the transfer",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Obrigado! A transferência será concluída hoje?",
+          "en": "I want to make a transfer using the app.",
+          "ar": "شكراً! هل سيُكتمل التحويل اليوم؟"
+        },
+        {
+          "pt": "Quero fazer uma transferência pelo aplicativo.",
+          "en": "Good morning! How can I help you?",
+          "ar": "أريد إجراء تحويل عبر التطبيق."
+        },
+        {
+          "pt": "Bom dia! Como posso ajudar?",
+          "en": "Thank you! Will the transfer be completed today?",
+          "ar": "صباح الخير! كيف يمكنني مساعدتك؟"
+        }
+      ],
+      "answer": "Bom dia! Como posso ajudar?",
+      "accepted": [],
+      "audio": "Bom dia! Como posso ajudar?",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia! Como posso ajudar?' — 'Good morning! How can I help you?'",
+        "en": "You heard: 'Bom dia! Como posso ajudar?' — 'Good morning! How can I help you?'",
+        "ar": "سمعت: 'Bom dia! Como posso ajudar?' — 'صباح الخير! كيف يمكنني مساعدتك؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Seu saldo é de mil e trezentos reais.",
+          "en": "I want to make a transfer using the app.",
+          "ar": "صباح الخير! كيف يمكنني مساعدتك؟"
+        },
+        {
+          "pt": "Quero fazer uma transferência pelo aplicativo.",
+          "en": "Your balance is one thousand three hundred reais.",
+          "ar": "أريد إجراء تحويل عبر التطبيق."
+        },
+        {
+          "pt": "Bom dia! Como posso ajudar?",
+          "en": "Good morning! How can I help you?",
+          "ar": "رصيدك ألف وثلاثمئة ريال."
+        }
+      ],
+      "answer": "Quero fazer uma transferência pelo aplicativo.",
+      "accepted": [],
+      "audio": "Quero fazer uma transferência pelo aplicativo.",
+      "explanation": {
+        "pt": "Você ouviu: 'Quero fazer uma transferência pelo aplicativo.' — 'I want to make a transfer using the app.'",
+        "en": "You heard: 'Quero fazer uma transferência pelo aplicativo.' — 'I want to make a transfer using the app.'",
+        "ar": "سمعت: 'Quero fazer uma transferência pelo aplicativo.' — 'أريد إجراء تحويل عبر التطبيق.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "ajudar?",
+          "en": "ajudar?",
+          "ar": "ajudar?"
+        },
+        {
+          "pt": "posso",
+          "en": "posso",
+          "ar": "posso"
+        },
+        {
+          "pt": "Como",
+          "en": "Como",
+          "ar": "Como"
+        },
+        {
+          "pt": "Bom",
+          "en": "Bom",
+          "ar": "Bom"
+        },
+        {
+          "pt": "dia!",
+          "en": "dia!",
+          "ar": "dia!"
+        }
+      ],
+      "answer": "Bom dia! Como posso ajudar?",
+      "accepted": [
+        "Bom dia! Como posso ajudar?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Bom dia! Como posso ajudar?'",
+        "en": "The correct order: 'Good morning! How can I help you?'",
+        "ar": "الترتيب الصحيح: 'صباح الخير! كيف يمكنني مساعدتك؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a conta",
+          "en": "the credit card",
+          "ar": "a conta"
+        },
+        {
+          "pt": "o cartão de débito",
+          "en": "the account",
+          "ar": "o cartão de débito"
+        },
+        {
+          "pt": "a transferência",
+          "en": "the bank",
+          "ar": "a transferência"
+        },
+        {
+          "pt": "o cartão de crédito",
+          "en": "the debit card",
+          "ar": "o cartão de crédito"
+        },
+        {
+          "pt": "o pix",
+          "en": "the Pix (instant payment)",
+          "ar": "o pix"
+        },
+        {
+          "pt": "o banco",
+          "en": "the transfer",
+          "ar": "o banco"
+        }
+      ],
+      "answer": "a conta::the credit card|o cartão de débito::the account|a transferência::the bank|o cartão de crédito::the debit card|o pix::the Pix (instant payment)|o banco::the transfer",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Bom dia! Como posso ajudar?",
+          "en": "Thank you! Will the transfer be completed today?",
+          "ar": "صباح الخير! كيف يمكنني مساعدتك؟"
+        },
+        {
+          "pt": "Seu saldo é de mil e trezentos reais.",
+          "en": "Your balance is one thousand three hundred reais.",
+          "ar": "شكراً! هل سيُكتمل التحويل اليوم؟"
+        },
+        {
+          "pt": "Obrigado! A transferência será concluída hoje?",
+          "en": "Good morning! How can I help you?",
+          "ar": "رصيدك ألف وثلاثمئة ريال."
+        }
+      ],
+      "answer": "Bom dia! Como posso ajudar?",
+      "accepted": [],
+      "audio": "Bom dia! Como posso ajudar?",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia! Como posso ajudar?' — 'Good morning! How can I help you?'",
+        "en": "You heard: 'Bom dia! Como posso ajudar?' — 'Good morning! How can I help you?'",
+        "ar": "سمعت: 'Bom dia! Como posso ajudar?' — 'صباح الخير! كيف يمكنني مساعدتك؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Perfeito. Qual é o valor e a conta de destino?",
+          "en": "Thank you! Will the transfer be completed today?",
+          "ar": "شكراً! هل سيُكتمل التحويل اليوم؟"
+        },
+        {
+          "pt": "Obrigado! A transferência será concluída hoje?",
+          "en": "I want to make a transfer using the app.",
+          "ar": "أريد إجراء تحويل عبر التطبيق."
+        },
+        {
+          "pt": "Quero fazer uma transferência pelo aplicativo.",
+          "en": "Perfect. What is the amount and the destination account?",
+          "ar": "ممتاز. ما المبلغ وحساب المستلم؟"
+        }
+      ],
+      "answer": "Quero fazer uma transferência pelo aplicativo.",
+      "accepted": [],
+      "audio": "Quero fazer uma transferência pelo aplicativo.",
+      "explanation": {
+        "pt": "Você ouviu: 'Quero fazer uma transferência pelo aplicativo.' — 'I want to make a transfer using the app.'",
+        "en": "You heard: 'Quero fazer uma transferência pelo aplicativo.' — 'I want to make a transfer using the app.'",
+        "ar": "سمعت: 'Quero fazer uma transferência pelo aplicativo.' — 'أريد إجراء تحويل عبر التطبيق.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "dia!",
+          "en": "dia!",
+          "ar": "dia!"
+        },
+        {
+          "pt": "Como",
+          "en": "Como",
+          "ar": "Como"
+        },
+        {
+          "pt": "Bom",
+          "en": "Bom",
+          "ar": "Bom"
+        },
+        {
+          "pt": "posso",
+          "en": "posso",
+          "ar": "posso"
+        },
+        {
+          "pt": "ajudar?",
+          "en": "ajudar?",
+          "ar": "ajudar?"
+        }
+      ],
+      "answer": "Bom dia! Como posso ajudar?",
+      "accepted": [
+        "Bom dia! Como posso ajudar?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Bom dia! Como posso ajudar?'",
+        "en": "The correct order: 'Good morning! How can I help you?'",
+        "ar": "الترتيب الصحيح: 'صباح الخير! كيف يمكنني مساعدتك؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a conta",
+          "en": "the credit card",
+          "ar": "a conta"
+        },
+        {
+          "pt": "o banco",
+          "en": "the bank",
+          "ar": "o banco"
+        },
+        {
+          "pt": "a transferência",
+          "en": "the transfer",
+          "ar": "a transferência"
+        },
+        {
+          "pt": "o cartão de crédito",
+          "en": "the Pix (instant payment)",
+          "ar": "o cartão de crédito"
+        },
+        {
+          "pt": "o pix",
+          "en": "the debit card",
+          "ar": "o pix"
+        },
+        {
+          "pt": "o cartão de débito",
+          "en": "the account",
+          "ar": "o cartão de débito"
+        }
+      ],
+      "answer": "a conta::the credit card|o banco::the bank|a transferência::the transfer|o cartão de crédito::the Pix (instant payment)|o pix::the debit card|o cartão de débito::the account",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Quero fazer uma transferência pelo aplicativo.",
+          "en": "Good morning! How can I help you?",
+          "ar": "أريد إجراء تحويل عبر التطبيق."
+        },
+        {
+          "pt": "Bom dia! Como posso ajudar?",
+          "en": "Your balance is one thousand three hundred reais.",
+          "ar": "صباح الخير! كيف يمكنني مساعدتك؟"
+        },
+        {
+          "pt": "Seu saldo é de mil e trezentos reais.",
+          "en": "I want to make a transfer using the app.",
+          "ar": "رصيدك ألف وثلاثمئة ريال."
+        }
+      ],
+      "answer": "Bom dia! Como posso ajudar?",
+      "accepted": [],
+      "audio": "Bom dia! Como posso ajudar?",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia! Como posso ajudar?' — 'Good morning! How can I help you?'",
+        "en": "You heard: 'Bom dia! Como posso ajudar?' — 'Good morning! How can I help you?'",
+        "ar": "سمعت: 'Bom dia! Como posso ajudar?' — 'صباح الخير! كيف يمكنني مساعدتك؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Quero fazer uma transferência pelo aplicativo.",
+          "en": "Five hundred reais. And I would like to know the balance of my account.",
+          "ar": "خمسمئة ريال. وأودّ معرفة رصيد حسابي."
+        },
+        {
+          "pt": "Quinhentos reais. E gostaria de saber o saldo da minha conta.",
+          "en": "I want to make a transfer using the app.",
+          "ar": "أريد إجراء تحويل عبر التطبيق."
+        },
+        {
+          "pt": "Perfeito. Qual é o valor e a conta de destino?",
+          "en": "Perfect. What is the amount and the destination account?",
+          "ar": "ممتاز. ما المبلغ وحساب المستلم؟"
+        }
+      ],
+      "answer": "Quero fazer uma transferência pelo aplicativo.",
+      "accepted": [],
+      "audio": "Quero fazer uma transferência pelo aplicativo.",
+      "explanation": {
+        "pt": "Você ouviu: 'Quero fazer uma transferência pelo aplicativo.' — 'I want to make a transfer using the app.'",
+        "en": "You heard: 'Quero fazer uma transferência pelo aplicativo.' — 'I want to make a transfer using the app.'",
+        "ar": "سمعت: 'Quero fazer uma transferência pelo aplicativo.' — 'أريد إجراء تحويل عبر التطبيق.'"
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'the bank'",
+        "en": "Type in Portuguese: 'the bank'",
+        "ar": "اكتب بالبرتغالية: 'البنك'"
+      },
+      "options": [],
+      "answer": "o banco",
+      "accepted": [
+        "o banco"
+      ],
+      "explanation": {
+        "pt": "'o banco' significa 'the bank'.",
+        "en": "'o banco' means 'the bank'.",
+        "ar": "'$o banco' بالعربية: '$البنك'."
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'the account'",
+        "en": "Type in Portuguese: 'the account'",
+        "ar": "اكتب بالبرتغالية: 'الحساب'"
+      },
+      "options": [],
+      "answer": "a conta",
+      "accepted": [
+        "a conta"
+      ],
+      "explanation": {
+        "pt": "'a conta' significa 'the account'.",
+        "en": "'a conta' means 'the account'.",
+        "ar": "'$a conta' بالعربية: '$الحساب'."
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Seu saldo é de mil e trezentos reais.",
+          "en": "Seu saldo é de mil e trezentos reais.",
+          "ar": "Seu saldo é de mil e trezentos reais."
+        },
+        {
+          "pt": "Bom dia! Como posso ajudar?",
+          "en": "Bom dia! Como posso ajudar?",
+          "ar": "Bom dia! Como posso ajudar?"
+        },
+        {
+          "pt": "Quero fazer uma transferência pelo aplicativo.",
+          "en": "Quero fazer uma transferência pelo aplicativo.",
+          "ar": "Quero fazer uma transferência pelo aplicativo."
+        }
+      ],
+      "answer": "Bom dia! Como posso ajudar?",
+      "accepted": [],
+      "audio": "Bom dia! Como posso ajudar?",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia! Como posso ajudar?'",
+        "en": "You heard: 'Bom dia! Como posso ajudar?'",
+        "ar": "سمعت: 'Bom dia! Como posso ajudar?'"
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Perfeito. Qual é o valor e a conta de destino?",
+          "en": "Perfeito. Qual é o valor e a conta de destino?",
+          "ar": "Perfeito. Qual é o valor e a conta de destino?"
+        },
+        {
+          "pt": "Obrigado! A transferência será concluída hoje?",
+          "en": "Obrigado! A transferência será concluída hoje?",
+          "ar": "Obrigado! A transferência será concluída hoje?"
+        },
+        {
+          "pt": "Quero fazer uma transferência pelo aplicativo.",
+          "en": "Quero fazer uma transferência pelo aplicativo.",
+          "ar": "Quero fazer uma transferência pelo aplicativo."
+        }
+      ],
+      "answer": "Quero fazer uma transferência pelo aplicativo.",
+      "accepted": [],
+      "audio": "Quero fazer uma transferência pelo aplicativo.",
+      "explanation": {
+        "pt": "Você ouviu: 'Quero fazer uma transferência pelo aplicativo.'",
+        "en": "You heard: 'Quero fazer uma transferência pelo aplicativo.'",
+        "ar": "سمعت: 'Quero fazer uma transferência pelo aplicativo.'"
+      }
+    },
+    {
+      "type": "dictation",
+      "prompt": {
+        "pt": "Ouça e escreva o que você ouviu.",
+        "en": "Listen and type what you hear.",
+        "ar": "استمع واكتب ما سمعته."
+      },
+      "options": [],
+      "answer": "Bom dia! Como posso ajudar?",
+      "accepted": [],
+      "audio": "Bom dia! Como posso ajudar?",
+      "explanation": {
+        "pt": "A frase correta: 'Bom dia! Como posso ajudar?'",
+        "en": "The correct sentence: 'Bom dia! Como posso ajudar?'",
+        "ar": "الجملة الصحيحة: 'Bom dia! Como posso ajudar?'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Como",
+          "en": "Como",
+          "ar": "Como"
+        },
+        {
+          "pt": "Bom",
+          "en": "Bom",
+          "ar": "Bom"
+        },
+        {
+          "pt": "posso",
+          "en": "posso",
+          "ar": "posso"
+        },
+        {
+          "pt": "dia!",
+          "en": "dia!",
+          "ar": "dia!"
+        },
+        {
+          "pt": "ajudar?",
+          "en": "ajudar?",
+          "ar": "ajudar?"
+        }
+      ],
+      "answer": "Bom dia! Como posso ajudar?",
+      "accepted": [
+        "Bom dia! Como posso ajudar?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Bom dia! Como posso ajudar?'",
+        "en": "The correct order: 'Good morning! How can I help you?'",
+        "ar": "الترتيب الصحيح: 'صباح الخير! كيف يمكنني مساعدتك؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o banco",
+          "en": "the bank",
+          "ar": "o banco"
+        },
+        {
+          "pt": "o cartão de débito",
+          "en": "the account",
+          "ar": "o cartão de débito"
+        },
+        {
+          "pt": "o cartão de crédito",
+          "en": "the Pix (instant payment)",
+          "ar": "o cartão de crédito"
+        },
+        {
+          "pt": "o pix",
+          "en": "the credit card",
+          "ar": "o pix"
+        },
+        {
+          "pt": "a transferência",
+          "en": "the transfer",
+          "ar": "a transferência"
+        },
+        {
+          "pt": "a conta",
+          "en": "the debit card",
+          "ar": "a conta"
+        }
+      ],
+      "answer": "o banco::the bank|o cartão de débito::the account|o cartão de crédito::the Pix (instant payment)|o pix::the credit card|a transferência::the transfer|a conta::the debit card",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Bom dia! Como posso ajudar?",
+          "en": "Good morning! How can I help you?",
+          "ar": "خمسمئة ريال. وأودّ معرفة رصيد حسابي."
+        },
+        {
+          "pt": "Obrigado! A transferência será concluída hoje?",
+          "en": "Five hundred reais. And I would like to know the balance of my account.",
+          "ar": "صباح الخير! كيف يمكنني مساعدتك؟"
+        },
+        {
+          "pt": "Quinhentos reais. E gostaria de saber o saldo da minha conta.",
+          "en": "Thank you! Will the transfer be completed today?",
+          "ar": "شكراً! هل سيُكتمل التحويل اليوم؟"
+        }
+      ],
+      "answer": "Bom dia! Como posso ajudar?",
+      "accepted": [],
+      "audio": "Bom dia! Como posso ajudar?",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia! Como posso ajudar?' — 'Good morning! How can I help you?'",
+        "en": "You heard: 'Bom dia! Como posso ajudar?' — 'Good morning! How can I help you?'",
+        "ar": "سمعت: 'Bom dia! Como posso ajudar?' — 'صباح الخير! كيف يمكنني مساعدتك؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Quero fazer uma transferência pelo aplicativo.",
+          "en": "Five hundred reais. And I would like to know the balance of my account.",
+          "ar": "شكراً! هل سيُكتمل التحويل اليوم؟"
+        },
+        {
+          "pt": "Obrigado! A transferência será concluída hoje?",
+          "en": "Thank you! Will the transfer be completed today?",
+          "ar": "خمسمئة ريال. وأودّ معرفة رصيد حسابي."
+        },
+        {
+          "pt": "Quinhentos reais. E gostaria de saber o saldo da minha conta.",
+          "en": "I want to make a transfer using the app.",
+          "ar": "أريد إجراء تحويل عبر التطبيق."
+        }
+      ],
+      "answer": "Quero fazer uma transferência pelo aplicativo.",
+      "accepted": [],
+      "audio": "Quero fazer uma transferência pelo aplicativo.",
+      "explanation": {
+        "pt": "Você ouviu: 'Quero fazer uma transferência pelo aplicativo.' — 'I want to make a transfer using the app.'",
+        "en": "You heard: 'Quero fazer uma transferência pelo aplicativo.' — 'I want to make a transfer using the app.'",
+        "ar": "سمعت: 'Quero fazer uma transferência pelo aplicativo.' — 'أريد إجراء تحويل عبر التطبيق.'"
+      }
+    }
+  ],
+  "speaking": {
+    "title": {
+      "pt": "Fale Agora — Ouça e Repita",
+      "en": "Speak Now — Listen and Repeat",
+      "ar": "تحدث الآن — استمع وكرر"
+    },
+    "phrases": [
+      {
+        "pt": "Bom dia! Como posso ajudar?",
+        "en": "Good morning! How can I help you?",
+        "ar": "صباح الخير! كيف يمكنني مساعدتك؟"
+      },
+      {
+        "pt": "Quero fazer uma transferência pelo aplicativo.",
+        "en": "I want to make a transfer using the app.",
+        "ar": "أريد إجراء تحويل عبر التطبيق."
+      },
+      {
+        "pt": "Perfeito. Qual é o valor e a conta de destino?",
+        "en": "Perfect. What is the amount and the destination account?",
+        "ar": "ممتاز. ما المبلغ وحساب المستلم؟"
+      },
+      {
+        "pt": "Quinhentos reais. E gostaria de saber o saldo da minha conta.",
+        "en": "Five hundred reais. And I would like to know the balance of my account.",
+        "ar": "خمسمئة ريال. وأودّ معرفة رصيد حسابي."
+      },
+      {
+        "pt": "Seu saldo é de mil e trezentos reais.",
+        "en": "Your balance is one thousand three hundred reais.",
+        "ar": "رصيدك ألف وثلاثمئة ريال."
+      },
+      {
+        "pt": "Obrigado! A transferência será concluída hoje?",
+        "en": "Thank you! Will the transfer be completed today?",
+        "ar": "شكراً! هل سيُكتمل التحويل اليوم؟"
+      },
+      {
+        "pt": "o banco",
+        "en": "the bank",
+        "ar": "البنك"
+      },
+      {
+        "pt": "a conta",
+        "en": "the account",
+        "ar": "الحساب"
+      },
+      {
+        "pt": "o cartão de crédito",
+        "en": "the credit card",
+        "ar": "بطاقة الائتمان"
+      }
+    ]
+  },
+  "cultural_tips": {
+    "pt": "",
+    "en": "",
+    "ar": ""
+  }
+}
