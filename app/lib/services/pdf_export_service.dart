@@ -6,6 +6,7 @@ import '../models/course_models.dart';
 import '../services/app_state.dart';
 import '../services/course_repository.dart';
 import 'package:share_plus/share_plus.dart';
+import '../services/ui_text.dart';
 
 class PdfExportService {
   static final PdfExportService instance = PdfExportService._();
@@ -66,10 +67,12 @@ class PdfExportService {
   }
 
   Future<void> sharePdf(String filePath) async {
-    await Share.shareXFiles(
-      [XFile(filePath)],
-      text:
-          'Talk To Me Português Brasileiro By Mohamed Rafaa Tounekti - Lesson Handout',
+    await SharePlus.instance.share(
+      ShareParams(
+        files: [XFile(filePath)],
+        text:
+            'Talk To Me Português Brasileiro By Mohamed Rafaa Tounekti - Lesson Handout',
+      ),
     );
   }
 
@@ -201,7 +204,7 @@ class PdfExportService {
                           ),
                         ),
                         pw.Text(
-                          lang == 'ar' ? v.example!.ar : v.example!.en,
+                          uiText(lang, ar: v.example!.ar, other: v.example!.en),
                           style: pw.TextStyle(
                             fontSize: 12,
                             color: PdfColors.grey600,
@@ -264,7 +267,7 @@ class PdfExportService {
                                 ),
                               ),
                               pw.Text(
-                                lang == 'ar' ? ex.ar : ex.en,
+                                uiText(lang, ar: ex.ar, other: ex.en),
                                 style: pw.TextStyle(
                                   fontSize: 12,
                                   color: PdfColors.grey600,
@@ -461,64 +464,32 @@ class _Translations {
   final String lang;
   _Translations(this.lang);
 
-  String get lessonHandout =>
-      lang == 'ar'
-          ? 'ملخص الدرس'
-          : lang == 'pt'
-          ? 'Resumo da Lição'
-          : 'Lesson Handout';
+  String get lessonHandout => uiText(
+    lang,
+    ar: 'ملخص الدرس',
+    pt: 'Resumo da Lição',
+    other: 'Lesson Handout',
+  );
   String get objectives =>
-      lang == 'ar'
-          ? 'الأهداف'
-          : lang == 'pt'
-          ? 'Objetivos'
-          : 'Objectives';
+      uiText(lang, ar: 'الأهداف', pt: 'Objetivos', other: 'Objectives');
   String get vocabulary =>
-      lang == 'ar'
-          ? 'المفردات'
-          : lang == 'pt'
-          ? 'Vocabulário'
-          : 'Vocabulary';
+      uiText(lang, ar: 'المفردات', pt: 'Vocabulário', other: 'Vocabulary');
   String get grammar =>
-      lang == 'ar'
-          ? 'القواعد'
-          : lang == 'pt'
-          ? 'Gramática'
-          : 'Grammar';
+      uiText(lang, ar: 'القواعد', pt: 'Gramática', other: 'Grammar');
   String get dialogue =>
-      lang == 'ar'
-          ? 'الحوار'
-          : lang == 'pt'
-          ? 'Diálogo'
-          : 'Dialogue';
+      uiText(lang, ar: 'الحوار', pt: 'Diálogo', other: 'Dialogue');
   String get reading =>
-      lang == 'ar'
-          ? 'القراءة'
-          : lang == 'pt'
-          ? 'Leitura'
-          : 'Reading';
+      uiText(lang, ar: 'القراءة', pt: 'Leitura', other: 'Reading');
   String get exercises =>
-      lang == 'ar'
-          ? 'التمارين'
-          : lang == 'pt'
-          ? 'Exercícios'
-          : 'Exercises';
+      uiText(lang, ar: 'التمارين', pt: 'Exercícios', other: 'Exercises');
   String get yourAnswer =>
-      lang == 'ar'
-          ? 'إجابتك'
-          : lang == 'pt'
-          ? 'Sua resposta'
-          : 'Your answer';
+      uiText(lang, ar: 'إجابتك', pt: 'Sua resposta', other: 'Your answer');
   String get answer =>
-      lang == 'ar'
-          ? 'الإجابة'
-          : lang == 'pt'
-          ? 'Resposta'
-          : 'Answer';
-  String get speakAndRepeat =>
-      lang == 'ar'
-          ? 'تحدث وكرر'
-          : lang == 'pt'
-          ? 'Fale e repita'
-          : 'Speak and repeat';
+      uiText(lang, ar: 'الإجابة', pt: 'Resposta', other: 'Answer');
+  String get speakAndRepeat => uiText(
+    lang,
+    ar: 'تحدث وكرر',
+    pt: 'Fale e repita',
+    other: 'Speak and repeat',
+  );
 }
