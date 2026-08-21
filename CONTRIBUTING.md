@@ -1,6 +1,6 @@
 # Contributing to Talk To Me
 
-Thank you for your interest in contributing to Talk To Me! This document provides guidelines for contributing to the Talk To Me Spanish and Talk To Me Português Brasileiro apps.
+Thank you for your interest in contributing to Talk To Me Português Brasileiro! This document provides guidelines for contributing to the Talk To Me Português Brasileiro app.
 
 ## Code of Conduct
 
@@ -191,8 +191,7 @@ refactor(models): extract course models to separate file
 ### Supported Languages
 
 - English (en) - Base
-- Spanish (es) - Primary for Español app
-- Portuguese (pt) - Primary for Português app
+- Portuguese (pt) - Primary for Português Brasileiro app
 - Arabic (ar) - RTL support
 
 ### Adding New Language
@@ -206,11 +205,11 @@ refactor(models): extract course models to separate file
 ### Translation Format
 
 ```dart
+// TriText(pt, en, ar) - positional constructor
 TriText(
-  es: 'Hola mundo',
-  en: 'Hello world',
-  ar: 'مرحبا بالعالم',
-  pt: 'Olá mundo',
+  'Olá mundo',
+  'Hello world',
+  'مرحبا بالعالم',
 )
 ```
 
