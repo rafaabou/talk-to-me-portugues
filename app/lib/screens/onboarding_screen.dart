@@ -5,6 +5,7 @@ import '../services/app_state.dart';
 import '../services/progress_service.dart';
 import '../widgets/app_selection_area.dart';
 import '../widgets/credit_footer.dart';
+import '../services/ui_text.dart';
 
 class OnboardingScreen extends StatelessWidget {
   const OnboardingScreen({super.key});
@@ -194,78 +195,72 @@ class _Translations {
   static _Translations of(BuildContext context) =>
       _Translations(context.watch<AppState>().lang);
 
-  String get welcomeTitle =>
-      lang == 'ar'
-          ? 'مرحباً بك في البرتغالية البرازيلية'
-          : lang == 'pt'
-          ? 'Bem-vindo ao Português Brasileiro'
-          : 'Welcome to Brazilian Portuguese';
+  String get welcomeTitle => uiText(
+    lang,
+    ar: 'مرحباً بك في البرتغالية البرازيلية',
+    pt: 'Bem-vindo ao Português Brasileiro',
+    other: 'Welcome to Brazilian Portuguese',
+  );
 
-  String get welcomeBody =>
-      lang == 'ar'
-          ? 'تعلم البرتغالية البرازيلية خطوة بخطوة مع دروس تفاعلية وبطاقات تعليمية'
-          : lang == 'pt'
-          ? 'Aprenda português brasileiro passo a passo com lições interativas e flashcards'
-          : 'Learn Brazilian Portuguese step by step with interactive lessons and flashcards';
+  String get welcomeBody => uiText(
+    lang,
+    ar: 'تعلم البرتغالية البرازيلية خطوة بخطوة مع دروس تفاعلية وبطاقات تعليمية',
+    pt:
+        'Aprenda português brasileiro passo a passo com lições interativas e flashcards',
+    other:
+        'Learn Brazilian Portuguese step by step with interactive lessons and flashcards',
+  );
 
-  String get lessonsTitle =>
-      lang == 'ar'
-          ? 'دروس منظمة'
-          : lang == 'pt'
-          ? 'Lições Estruturadas'
-          : 'Structured Lessons';
+  String get lessonsTitle => uiText(
+    lang,
+    ar: 'دروس منظمة',
+    pt: 'Lições Estruturadas',
+    other: 'Structured Lessons',
+  );
 
-  String get lessonsBody =>
-      lang == 'ar'
-          ? '72 درساً من المبتدئ إلى المتقدم مع مفردات وقواعد ومحادثات وتمارين'
-          : lang == 'pt'
-          ? '72 lições do iniciante ao avançado com vocabulário, gramática, diálogos e exercícios'
-          : '72 lessons from beginner to advanced with vocabulary, grammar, dialogues, and exercises';
+  String get lessonsBody => uiText(
+    lang,
+    ar: '72 درساً من المبتدئ إلى المتقدم مع مفردات وقواعد ومحادثات وتمارين',
+    pt:
+        '72 lições do iniciante ao avançado com vocabulário, gramática, diálogos e exercícios',
+    other:
+        '72 lessons from beginner to advanced with vocabulary, grammar, dialogues, and exercises',
+  );
 
-  String get flashcardsTitle =>
-      lang == 'ar'
-          ? 'بطاقات تعليمية ذكية'
-          : lang == 'pt'
-          ? 'Flashcards Inteligentes'
-          : 'Smart Flashcards';
+  String get flashcardsTitle => uiText(
+    lang,
+    ar: 'بطاقات تعليمية ذكية',
+    pt: 'Flashcards Inteligentes',
+    other: 'Smart Flashcards',
+  );
 
-  String get flashcardsBody =>
-      lang == 'ar'
-          ? 'تكرار متباعد (FSRS) يتكيف مع تقدمك — حدد التكرار 1× / 3× / 7× / 10×'
-          : lang == 'pt'
-          ? 'Repetição espaçada (FSRS) que se adapta ao seu progresso — defina repetição 1× / 3× / 7× / 10×'
-          : 'Spaced repetition (FSRS) that adapts to your progress — set repeat 1× / 3× / 7× / 10×';
+  String get flashcardsBody => uiText(
+    lang,
+    ar: 'تكرار متباعد (FSRS) يتكيف مع تقدمك — حدد التكرار 1× / 3× / 7× / 10×',
+    pt:
+        'Repetição espaçada (FSRS) que se adapta ao seu progresso — defina repetição 1× / 3× / 7× / 10×',
+    other:
+        'Spaced repetition (FSRS) that adapts to your progress — set repeat 1× / 3× / 7× / 10×',
+  );
 
-  String get streakTitle =>
-      lang == 'ar'
-          ? 'حافظ على تسلسل الأيام'
-          : lang == 'pt'
-          ? 'Mantenha a Sequência'
-          : 'Keep Your Streak';
+  String get streakTitle => uiText(
+    lang,
+    ar: 'حافظ على تسلسل الأيام',
+    pt: 'Mantenha a Sequência',
+    other: 'Keep Your Streak',
+  );
 
-  String get streakBody =>
-      lang == 'ar'
-          ? 'ادرس يومياً لترى تقويم الحرارة والتقدم — يعمل دون اتصال بالإنترنت تماماً'
-          : lang == 'pt'
-          ? 'Estude diariamente para ver o calendário de calor e progresso — funciona totalmente offline'
-          : 'Study daily to see the heatmap calendar and progress — works completely offline';
+  String get streakBody => uiText(
+    lang,
+    ar:
+        'ادرس يومياً لترى تقويم الحرارة والتقدم — يعمل دون اتصال بالإنترنت تماماً',
+    pt:
+        'Estude diariamente para ver o calendário de calor e progresso — funciona totalmente offline',
+    other:
+        'Study daily to see the heatmap calendar and progress — works completely offline',
+  );
 
-  String get next =>
-      lang == 'ar'
-          ? 'التالي'
-          : lang == 'pt'
-          ? 'Próximo'
-          : 'Next';
-  String get back =>
-      lang == 'ar'
-          ? 'السابق'
-          : lang == 'pt'
-          ? 'Voltar'
-          : 'Back';
-  String get start =>
-      lang == 'ar'
-          ? 'ابدأ'
-          : lang == 'pt'
-          ? 'Começar'
-          : 'Start';
+  String get next => uiText(lang, ar: 'التالي', pt: 'Próximo', other: 'Next');
+  String get back => uiText(lang, ar: 'السابق', pt: 'Voltar', other: 'Back');
+  String get start => uiText(lang, ar: 'ابدأ', pt: 'Começar', other: 'Start');
 }

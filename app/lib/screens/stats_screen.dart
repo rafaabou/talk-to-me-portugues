@@ -7,6 +7,7 @@ import '../services/progress_service.dart';
 import '../widgets/app_selection_area.dart';
 import '../widgets/credit_footer.dart';
 import 'dart:async';
+import '../services/ui_text.dart';
 
 class StatsScreen extends StatefulWidget {
   const StatsScreen({super.key});
@@ -74,11 +75,12 @@ class _StatsScreenState extends State<StatsScreen> {
       child: Scaffold(
         appBar: AppBar(
           title: Text(
-            lang == 'ar'
-                ? 'الإحصائيات'
-                : lang == 'pt'
-                ? 'Estatísticas'
-                : 'Statistics',
+            uiText(
+              lang,
+              ar: 'الإحصائيات',
+              pt: 'Estatísticas',
+              other: 'Statistics',
+            ),
           ),
         ),
         body:
@@ -89,42 +91,42 @@ class _StatsScreenState extends State<StatsScreen> {
                   children: [
                     _StatCard(
                       icon: Icons.school,
-                      label:
-                          lang == 'ar'
-                              ? 'الدروس المكتملة'
-                              : lang == 'pt'
-                              ? 'Lições concluídas'
-                              : 'Lessons completed',
+                      label: uiText(
+                        lang,
+                        ar: 'الدروس المكتملة',
+                        pt: 'Lições concluídas',
+                        other: 'Lessons completed',
+                      ),
                       value: '$_lessons/$_totalLessons',
                     ),
                     _StatCard(
                       icon: Icons.assignment_turned_in,
-                      label:
-                          lang == 'ar'
-                              ? 'التمارين المكتملة'
-                              : lang == 'pt'
-                              ? 'Exercícios concluídos'
-                              : 'Exercises completed',
+                      label: uiText(
+                        lang,
+                        ar: 'التمارين المكتملة',
+                        pt: 'Exercícios concluídos',
+                        other: 'Exercises completed',
+                      ),
                       value: '$_exercises/$_totalExercises',
                     ),
                     _StatCard(
                       icon: Icons.star,
-                      label:
-                          lang == 'ar'
-                              ? 'الكلمات المفضلة'
-                              : lang == 'pt'
-                              ? 'Palavras favoritas'
-                              : 'Favorite words',
+                      label: uiText(
+                        lang,
+                        ar: 'الكلمات المفضلة',
+                        pt: 'Palavras favoritas',
+                        other: 'Favorite words',
+                      ),
                       value: '$_favorites',
                     ),
                     _StatCard(
                       icon: Icons.local_fire_department,
-                      label:
-                          lang == 'ar'
-                              ? 'أيام متتالية'
-                              : lang == 'pt'
-                              ? 'Dias consecutivos'
-                              : 'Day streak',
+                      label: uiText(
+                        lang,
+                        ar: 'أيام متتالية',
+                        pt: 'Dias consecutivos',
+                        other: 'Day streak',
+                      ),
                       value: '$_streak',
                     ),
                     const SizedBox(height: 12),
@@ -133,11 +135,12 @@ class _StatsScreenState extends State<StatsScreen> {
                     _ActivityChart(studyDays: _studyDays, lang: lang),
                     const SizedBox(height: 12),
                     Text(
-                      lang == 'ar'
-                          ? 'أفضل نتائج الاختبارات'
-                          : lang == 'pt'
-                          ? 'Melhores resultados dos testes'
-                          : 'Best quiz scores',
+                      uiText(
+                        lang,
+                        ar: 'أفضل نتائج الاختبارات',
+                        pt: 'Melhores resultados dos testes',
+                        other: 'Best quiz scores',
+                      ),
                       style: Theme.of(context).textTheme.titleMedium?.copyWith(
                         fontWeight: FontWeight.bold,
                       ),
@@ -178,11 +181,12 @@ class _StreakCalendar extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             Text(
-              lang == 'ar'
-                  ? 'تقويم النشاط'
-                  : lang == 'pt'
-                  ? 'Calendário de Atividade'
-                  : 'Activity Calendar',
+              uiText(
+                lang,
+                ar: 'تقويم النشاط',
+                pt: 'Calendário de Atividade',
+                other: 'Activity Calendar',
+              ),
               style: Theme.of(
                 context,
               ).textTheme.titleMedium?.copyWith(fontWeight: FontWeight.bold),
@@ -310,11 +314,12 @@ class _ActivityChart extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             Text(
-              lang == 'ar'
-                  ? 'نشاط 14 يوماً'
-                  : lang == 'pt'
-                  ? 'Atividade dos últimos 14 dias'
-                  : '14-day Activity',
+              uiText(
+                lang,
+                ar: 'نشاط 14 يوماً',
+                pt: 'Atividade dos últimos 14 dias',
+                other: '14-day Activity',
+              ),
               style: Theme.of(
                 context,
               ).textTheme.titleMedium?.copyWith(fontWeight: FontWeight.bold),
