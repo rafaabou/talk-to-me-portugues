@@ -20,6 +20,7 @@ import '../widgets/credit_footer.dart';
 import 'verb_screen.dart';
 import 'stats_screen.dart';
 import 'lesson_screen.dart';
+import '../services/ui_text.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
@@ -33,6 +34,7 @@ class _HomeScreenState extends State<HomeScreen> {
   Set<String> _completed = {};
   int _streak = 0;
   bool _loading = true;
+  String? _error;
   String? _lastOpened;
 
   @override
@@ -42,23 +44,32 @@ class _HomeScreenState extends State<HomeScreen> {
   }
 
   Future<void> _load() async {
-    final levels = await CourseRepository.instance.loadLevels();
-    final completed = await ProgressService.instance.getCompleted();
-    final streak = await ProgressService.instance.getStreak();
-    final lastOpened = await ProgressService.instance.getLastOpened();
-    final dueCount = await ProgressService.instance.getDueWordCount();
-    if (!mounted) return;
-    setState(() {
-      _levels = levels;
-      _completed = completed;
-      _streak = streak;
-      _lastOpened = lastOpened;
-      _dueCount = dueCount;
-      _loading = false;
-    });
+    try {
+      final levels = await CourseRepository.instance.loadLevels();
+      final completed = await ProgressService.instance.getCompleted();
+      final streak = await ProgressService.instance.getStreak();
+      final lastOpened = await ProgressService.instance.getLastOpened();
+      final dueCount = await ProgressService.instance.getDueWordCount();
+      if (!mounted) return;
+      setState(() {
+        _levels = levels;
+        _completed = completed;
+        _streak = streak;
+        _lastOpened = lastOpened;
+        _dueCount = dueCount;
+        _loading = false;
+      });
+    } catch (_) {
+      if (!mounted || _levels != null) return;
+      setState(() {
+        _loading = false;
+        _error = 'load_failed';
+      });
+      return;
+    }
     // Update home widget
     final totalCompleted =
-        completed
+        _completed
             .where(
               (id) =>
                   id.startsWith('A') ||
@@ -66,16 +77,18 @@ class _HomeScreenState extends State<HomeScreen> {
                   id.startsWith('C'),
             )
             .length;
-    await HomeWidgetService.updateWidget(
-      dueCount: dueCount,
-      streak: streak,
-      lessonsCompleted: totalCompleted,
-    );
-    // Schedule notifications
-    await NotificationService.instance.init();
-    await NotificationService.instance.updateReviewNotification(dueCount);
-    await NotificationService.instance.scheduleDailyReviewReminder();
-    await NotificationService.instance.scheduleStreakNudge();
+    try {
+      await HomeWidgetService.updateWidget(
+        dueCount: _dueCount,
+        streak: _streak,
+        lessonsCompleted: totalCompleted,
+      );
+      // Schedule notifications
+      await NotificationService.instance.init();
+      await NotificationService.instance.updateReviewNotification(_dueCount);
+      await NotificationService.instance.scheduleDailyReviewReminder();
+      await NotificationService.instance.scheduleStreakNudge();
+    } catch (_) {}
   }
 
   int _dueCount = 0;
@@ -94,10 +107,18 @@ class _HomeScreenState extends State<HomeScreen> {
     final summary = await ProgressService.instance.exportSummary();
     await Clipboard.setData(ClipboardData(text: summary));
     if (!mounted) return;
+    final lang = context.read<AppState>().lang;
     ScaffoldMessenger.of(context).showSnackBar(
-      const SnackBar(
-        content: Text('Progress copied to clipboard'),
-        duration: Duration(seconds: 2),
+      SnackBar(
+        content: Text(
+          uiText(
+            lang,
+            ar: 'تم نسخ التقدم إلى الحافظة',
+            pt: 'Progresso copiado para a área de transferência',
+            other: 'Progress copied to clipboard',
+          ),
+        ),
+        duration: const Duration(seconds: 2),
       ),
     );
   }
@@ -110,6 +131,54 @@ class _HomeScreenState extends State<HomeScreen> {
     if (_loading) {
       return AppSelectionArea(
         child: const Scaffold(body: Center(child: CircularProgressIndicator())),
+      );
+    }
+
+    if (_error != null) {
+      return AppSelectionArea(
+        child: Scaffold(
+          body: Center(
+            child: Column(
+              mainAxisAlignment: MainAxisAlignment.center,
+              children: [
+                Icon(
+                  Icons.error_outline,
+                  size: 64,
+                  color: Theme.of(context).colorScheme.error,
+                ),
+                const SizedBox(height: 16),
+                Text(
+                  uiText(
+                    lang,
+                    ar: 'تعذر تحميل المحتوى',
+                    pt: 'Falha ao carregar o conteúdo',
+                    other: 'Failed to load content',
+                  ),
+                  style: Theme.of(context).textTheme.titleMedium,
+                ),
+                const SizedBox(height: 24),
+                FilledButton.icon(
+                  onPressed: () {
+                    setState(() {
+                      _loading = true;
+                      _error = null;
+                    });
+                    _load();
+                  },
+                  icon: const Icon(Icons.refresh),
+                  label: Text(
+                    uiText(
+                      lang,
+                      ar: 'إعادة المحاولة',
+                      pt: 'Tentar novamente',
+                      other: 'Retry',
+                    ),
+                  ),
+                ),
+              ],
+            ),
+          ),
+        ),
       );
     }
 
@@ -162,12 +231,12 @@ class _HomeScreenState extends State<HomeScreen> {
                 Expanded(
                   child: _QuickAction(
                     icon: Icons.style,
-                    label:
-                        lang == 'ar'
-                            ? 'بطاقات تعليمية'
-                            : lang == 'pt'
-                            ? 'Cartões de estudo'
-                            : 'Flashcards',
+                    label: uiText(
+                      lang,
+                      ar: 'بطاقات تعليمية',
+                      pt: 'Cartões de estudo',
+                      other: 'Flashcards',
+                    ),
                     onTap:
                         () => Navigator.push(
                           context,
@@ -181,12 +250,12 @@ class _HomeScreenState extends State<HomeScreen> {
                 Expanded(
                   child: _QuickAction(
                     icon: Icons.search,
-                    label:
-                        lang == 'ar'
-                            ? 'بحث'
-                            : lang == 'pt'
-                            ? 'Buscar'
-                            : 'Search',
+                    label: uiText(
+                      lang,
+                      ar: 'بحث',
+                      pt: 'Buscar',
+                      other: 'Search',
+                    ),
                     onTap:
                         () => Navigator.push(
                           context,
@@ -204,12 +273,12 @@ class _HomeScreenState extends State<HomeScreen> {
                 Expanded(
                   child: _QuickAction(
                     icon: Icons.menu_book,
-                    label:
-                        lang == 'ar'
-                            ? 'القواعد'
-                            : lang == 'pt'
-                            ? 'Gramática'
-                            : 'Grammar',
+                    label: uiText(
+                      lang,
+                      ar: 'القواعد',
+                      pt: 'Gramática',
+                      other: 'Grammar',
+                    ),
                     onTap:
                         () => Navigator.push(
                           context,
@@ -223,12 +292,12 @@ class _HomeScreenState extends State<HomeScreen> {
                 Expanded(
                   child: _QuickAction(
                     icon: Icons.star,
-                    label:
-                        lang == 'ar'
-                            ? 'مفضل'
-                            : lang == 'pt'
-                            ? 'Favoritas'
-                            : 'Favorites',
+                    label: uiText(
+                      lang,
+                      ar: 'مفضل',
+                      pt: 'Favoritas',
+                      other: 'Favorites',
+                    ),
                     onTap:
                         () => Navigator.push(
                           context,
@@ -246,12 +315,12 @@ class _HomeScreenState extends State<HomeScreen> {
                 Expanded(
                   child: _QuickAction(
                     icon: Icons.account_tree_outlined,
-                    label:
-                        lang == 'ar'
-                            ? 'الأفعال'
-                            : lang == 'pt'
-                            ? 'Verbos'
-                            : 'Verbs',
+                    label: uiText(
+                      lang,
+                      ar: 'الأفعال',
+                      pt: 'Verbos',
+                      other: 'Verbs',
+                    ),
                     onTap:
                         () => Navigator.push(
                           context,
@@ -263,12 +332,12 @@ class _HomeScreenState extends State<HomeScreen> {
                 Expanded(
                   child: _QuickAction(
                     icon: Icons.bar_chart,
-                    label:
-                        lang == 'ar'
-                            ? 'الإحصائيات'
-                            : lang == 'pt'
-                            ? 'Estatísticas'
-                            : 'Stats',
+                    label: uiText(
+                      lang,
+                      ar: 'الإحصائيات',
+                      pt: 'Estatísticas',
+                      other: 'Stats',
+                    ),
                     onTap:
                         () => Navigator.push(
                           context,
@@ -282,11 +351,7 @@ class _HomeScreenState extends State<HomeScreen> {
             ),
             const SizedBox(height: 12),
             _SectionHeader(
-              lang == 'ar'
-                  ? 'الاختبارات'
-                  : lang == 'pt'
-                  ? 'Testes'
-                  : 'Quizzes',
+              uiText(lang, ar: 'الاختبارات', pt: 'Testes', other: 'Quizzes'),
             ),
             ...levels.map(
               (level) => _QuizCard(
@@ -303,11 +368,7 @@ class _HomeScreenState extends State<HomeScreen> {
             ),
             const SizedBox(height: 12),
             _SectionHeader(
-              lang == 'ar'
-                  ? 'الدروس'
-                  : lang == 'pt'
-                  ? 'Lições'
-                  : 'Lessons',
+              uiText(lang, ar: 'الدروس', pt: 'Lições', other: 'Lessons'),
             ),
             ...levels.map(
               (level) => _LevelCard(
@@ -345,18 +406,18 @@ class _HomeScreenState extends State<HomeScreen> {
 
   Widget _buildProgressCard(int done, int total, String lang, int streak) {
     final pct = total == 0 ? 0.0 : done / total;
-    final label =
-        lang == 'ar'
-            ? 'اكتملت $done من $total'
-            : lang == 'pt'
-            ? '$done de $total lições concluídas'
-            : '$done of $total lessons completed';
-    final streakLabel =
-        lang == 'ar'
-            ? 'أيام متتالية: $streak'
-            : lang == 'pt'
-            ? 'Sequência: $streak dias'
-            : 'Streak: $streak days';
+    final label = uiText(
+      lang,
+      ar: 'اكتملت $done من $total',
+      pt: '$done de $total lições concluídas',
+      other: '$done of $total lessons completed',
+    );
+    final streakLabel = uiText(
+      lang,
+      ar: 'أيام متتالية: $streak',
+      pt: 'Sequência: $streak dias',
+      other: 'Streak: $streak days',
+    );
     return Card(
       elevation: 2,
       child: Padding(
@@ -411,16 +472,24 @@ class _ContinueCard extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    final lang = context.watch<AppState>().lang;
     return Card(
       clipBehavior: Clip.antiAlias,
       color: Theme.of(context).colorScheme.primaryContainer,
       child: ListTile(
         leading: const Icon(Icons.play_arrow),
         title: Text(
-          'Continue: $lessonId',
+          '${uiText(lang, ar: 'متابعة:', pt: 'Continuar:', other: 'Continue:')} $lessonId',
           style: const TextStyle(fontWeight: FontWeight.w600),
         ),
-        subtitle: const Text('Resume your last lesson'),
+        subtitle: Text(
+          uiText(
+            lang,
+            ar: 'استئناف آخر درس',
+            pt: 'Retomar sua última lição',
+            other: 'Resume your last lesson',
+          ),
+        ),
         trailing: const Icon(Icons.chevron_right),
         onTap: onTap,
       ),
@@ -468,11 +537,12 @@ class _QuizCard extends StatelessWidget {
           style: const TextStyle(fontWeight: FontWeight.w600),
         ),
         subtitle: Text(
-          lang == 'ar'
-              ? '10 أسئلة'
-              : lang == 'pt'
-              ? '10 perguntas'
-              : '10 questions',
+          uiText(
+            lang,
+            ar: '10 أسئلة',
+            pt: '10 perguntas',
+            other: '10 questions',
+          ),
           style: Theme.of(context).textTheme.bodySmall,
         ),
         trailing: const Icon(Icons.chevron_right),
@@ -630,7 +700,14 @@ class _SettingsMenu extends StatelessWidget {
             if (context.mounted) {
               ScaffoldMessenger.of(context).showSnackBar(
                 SnackBar(
-                  content: Text('Progress saved to: $path'),
+                  content: Text(
+                    uiText(
+                      state.lang,
+                      ar: 'تم حفظ التقدم في: $path',
+                      pt: 'Progresso salvo em: $path',
+                      other: 'Progress saved to: $path',
+                    ),
+                  ),
                   duration: const Duration(seconds: 3),
                 ),
               );
@@ -640,9 +717,16 @@ class _SettingsMenu extends StatelessWidget {
             if (path == null) {
               if (context.mounted) {
                 ScaffoldMessenger.of(context).showSnackBar(
-                  const SnackBar(
-                    content: Text('No progress file found'),
-                    duration: Duration(seconds: 2),
+                  SnackBar(
+                    content: Text(
+                      uiText(
+                        state.lang,
+                        ar: 'لم يتم العثور على ملف تقدم',
+                        pt: 'Nenhum arquivo de progresso encontrado',
+                        other: 'No progress file found',
+                      ),
+                    ),
+                    duration: const Duration(seconds: 2),
                   ),
                 );
               }
@@ -651,7 +735,21 @@ class _SettingsMenu extends StatelessWidget {
               if (context.mounted) {
                 ScaffoldMessenger.of(context).showSnackBar(
                   SnackBar(
-                    content: Text(ok ? 'Progress imported' : 'Import failed'),
+                    content: Text(
+                      ok
+                          ? uiText(
+                            state.lang,
+                            ar: 'تم استيراد التقدم',
+                            pt: 'Progresso importado',
+                            other: 'Progress imported',
+                          )
+                          : uiText(
+                            state.lang,
+                            ar: 'فشل الاستيراد',
+                            pt: 'Falha na importação',
+                            other: 'Import failed',
+                          ),
+                    ),
                     duration: const Duration(seconds: 2),
                   ),
                 );
@@ -665,56 +763,172 @@ class _SettingsMenu extends StatelessWidget {
           (_) => [
             PopupMenuItem(
               value: 'speed_0.5',
-              child: Text(state.speed == 0.5 ? 'Speed 0.5× ✓' : 'Speed 0.5×'),
+              child: Text(
+                _withCheck(
+                  uiText(
+                    state.lang,
+                    ar: 'السرعة 0.5×',
+                    pt: 'Velocidade 0.5×',
+                    other: 'Speed 0.5×',
+                  ),
+                  state.speed == 0.5,
+                ),
+              ),
             ),
             PopupMenuItem(
               value: 'speed_0.75',
               child: Text(
-                state.speed == 0.75 ? 'Speed 0.75× ✓' : 'Speed 0.75×',
+                _withCheck(
+                  uiText(
+                    state.lang,
+                    ar: 'السرعة 0.75×',
+                    pt: 'Velocidade 0.75×',
+                    other: 'Speed 0.75×',
+                  ),
+                  state.speed == 0.75,
+                ),
               ),
             ),
             PopupMenuItem(
               value: 'speed_1.0',
-              child: Text(state.speed == 1.0 ? 'Speed 1.0× ✓' : 'Speed 1.0×'),
+              child: Text(
+                _withCheck(
+                  uiText(
+                    state.lang,
+                    ar: 'السرعة 1.0×',
+                    pt: 'Velocidade 1.0×',
+                    other: 'Speed 1.0×',
+                  ),
+                  state.speed == 1.0,
+                ),
+              ),
             ),
             const PopupMenuDivider(),
             PopupMenuItem(
               value: 'repeat_1',
-              child: Text(state.repeat == 1 ? 'Repeat once ✓' : 'Repeat once'),
+              child: Text(
+                _withCheck(
+                  uiText(
+                    state.lang,
+                    ar: 'تكرار مرة واحدة',
+                    pt: 'Repetir uma vez',
+                    other: 'Repeat once',
+                  ),
+                  state.repeat == 1,
+                ),
+              ),
             ),
             PopupMenuItem(
               value: 'repeat_3',
-              child: Text(state.repeat == 3 ? 'Repeat 3× ✓' : 'Repeat 3×'),
+              child: Text(
+                _withCheck(
+                  uiText(
+                    state.lang,
+                    ar: 'تكرار 3×',
+                    pt: 'Repetir 3×',
+                    other: 'Repeat 3×',
+                  ),
+                  state.repeat == 3,
+                ),
+              ),
             ),
             PopupMenuItem(
               value: 'repeat_7',
-              child: Text(state.repeat == 7 ? 'Repeat 7× ✓' : 'Repeat 7×'),
+              child: Text(
+                _withCheck(
+                  uiText(
+                    state.lang,
+                    ar: 'تكرار 7×',
+                    pt: 'Repetir 7×',
+                    other: 'Repeat 7×',
+                  ),
+                  state.repeat == 7,
+                ),
+              ),
             ),
             PopupMenuItem(
               value: 'repeat_10',
-              child: Text(state.repeat == 10 ? 'Repeat 10× ✓' : 'Repeat 10×'),
+              child: Text(
+                _withCheck(
+                  uiText(
+                    state.lang,
+                    ar: 'تكرار 10×',
+                    pt: 'Repetir 10×',
+                    other: 'Repeat 10×',
+                  ),
+                  state.repeat == 10,
+                ),
+              ),
             ),
             const PopupMenuDivider(),
             PopupMenuItem(
               enabled: false,
-              child: Text('Text size: ${(state.zoom * 100).round()}%'),
+              child: Text(
+                '${uiText(state.lang, ar: 'حجم النص:', pt: 'Tamanho do texto:', other: 'Text size:')} ${(state.zoom * 100).round()}%',
+              ),
             ),
-            PopupMenuItem(value: 'zoom_minus', child: const Text('Zoom −')),
-            PopupMenuItem(value: 'zoom_plus', child: const Text('Zoom +')),
+            PopupMenuItem(
+              value: 'zoom_minus',
+              child: Text(
+                uiText(
+                  state.lang,
+                  ar: 'تصغير',
+                  pt: 'Diminuir zoom',
+                  other: 'Zoom −',
+                ),
+              ),
+            ),
+            PopupMenuItem(
+              value: 'zoom_plus',
+              child: Text(
+                uiText(
+                  state.lang,
+                  ar: 'تكبير',
+                  pt: 'Aumentar zoom',
+                  other: 'Zoom +',
+                ),
+              ),
+            ),
             const PopupMenuDivider(),
-            const PopupMenuItem(
+            PopupMenuItem(
               value: 'export_file',
-              child: Text('Export progress file'),
+              child: Text(
+                uiText(
+                  state.lang,
+                  ar: 'تصدير ملف التقدم',
+                  pt: 'Exportar arquivo de progresso',
+                  other: 'Export progress file',
+                ),
+              ),
             ),
-            const PopupMenuItem(
+            PopupMenuItem(
               value: 'import_file',
-              child: Text('Import progress file'),
+              child: Text(
+                uiText(
+                  state.lang,
+                  ar: 'استيراد ملف التقدم',
+                  pt: 'Importar arquivo de progresso',
+                  other: 'Import progress file',
+                ),
+              ),
             ),
             const PopupMenuDivider(),
-            const PopupMenuItem(value: 'reset', child: Text('Reset progress')),
+            PopupMenuItem(
+              value: 'reset',
+              child: Text(
+                uiText(
+                  state.lang,
+                  ar: 'إعادة تعيين التقدم',
+                  pt: 'Redefinir progresso',
+                  other: 'Reset progress',
+                ),
+              ),
+            ),
           ],
     );
   }
+
+  String _withCheck(String label, bool checked) => checked ? '$label ✓' : label;
 
   Future<String?> _findImportFile() async {
     try {
@@ -796,20 +1010,22 @@ class _DueCard extends StatelessWidget {
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
                     Text(
-                      lang == 'ar'
-                          ? 'كلمات للمراجعة: $dueCount'
-                          : lang == 'pt'
-                          ? 'Palavras para revisar: $dueCount'
-                          : 'Words due for review: $dueCount',
+                      uiText(
+                        lang,
+                        ar: 'كلمات للمراجعة: $dueCount',
+                        pt: 'Palavras para revisar: $dueCount',
+                        other: 'Words due for review: $dueCount',
+                      ),
                       style: const TextStyle(fontWeight: FontWeight.w600),
                     ),
                     const SizedBox(height: 2),
                     Text(
-                      lang == 'ar'
-                          ? 'اضغط لبدء المراجعة'
-                          : lang == 'pt'
-                          ? 'Toque para revisar'
-                          : 'Tap to review',
+                      uiText(
+                        lang,
+                        ar: 'اضغط لبدء المراجعة',
+                        pt: 'Toque para revisar',
+                        other: 'Tap to review',
+                      ),
                       style: Theme.of(context).textTheme.bodySmall,
                     ),
                   ],
