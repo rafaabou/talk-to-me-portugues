@@ -1,0 +1,1980 @@
+{
+  "id": "A1-12",
+  "level": "A1",
+  "level_name": {
+    "pt": "Iniciante",
+    "en": "Beginner",
+    "ar": "مبتدئ"
+  },
+  "title": {
+    "pt": "Revisão A1",
+    "en": "A1 Review",
+    "ar": "مراجعة المستوى A1"
+  },
+  "objectives": [
+    {
+      "pt": "Revisar o vocabulário das lições A1-01 a A1-11",
+      "en": "Review vocabulary from lessons A1-01 to A1-11",
+      "ar": "مراجعة مفردات الدروس من A1-01 إلى A1-11"
+    },
+    {
+      "pt": "Revisar ser, estar e verbos no presente",
+      "en": "Review ser, estar and present-tense verbs",
+      "ar": "مراجعة ser و estar والأفعال في المضارع"
+    },
+    {
+      "pt": "Praticar conversação básica completa",
+      "en": "Practice complete basic conversation",
+      "ar": "ممارسة محادثة أساسية كاملة"
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "olá / oi",
+      "ipa": "/oˈla/ /oj/",
+      "en": "hello / hi",
+      "ar": "مرحبًا / أهلاً",
+      "example": {
+        "pt": "Olá! Meu nome é Karim. Sou do Egito.",
+        "en": "Hello! My name is Karim. I'm from Egypt.",
+        "ar": "مرحبًا! اسمي كريم. أنا من مصر."
+      }
+    },
+    {
+      "pt": "obrigado / obrigada",
+      "ipa": "/o.bɾiˈɡa.du/",
+      "en": "thank you (m/f)",
+      "ar": "شكرًا (مذكر/مؤنث)",
+      "example": {
+        "pt": "Sim, obrigado. Eu gostaria de um café com leite.",
+        "en": "Yes, thank you. I would like a coffee with milk.",
+        "ar": "نعم، شكرًا. أود قهوة بالحليب."
+      }
+    },
+    {
+      "pt": "meu nome é",
+      "ipa": "/mew ˈnõ.mi ɛ/",
+      "en": "my name is",
+      "ar": "اسمي",
+      "example": {
+        "pt": "Olá! Meu nome é Karim. Sou do Egito.",
+        "en": "Hello! My name is Karim. I'm from Egypt.",
+        "ar": "مرحبًا! اسمي كريم. أنا من مصر."
+      }
+    },
+    {
+      "pt": "eu sou",
+      "ipa": "/ew sow/",
+      "en": "I am",
+      "ar": "أنا",
+      "example": {
+        "pt": "Muito prazer, Karim! Eu sou a Marina.",
+        "en": "Nice to meet you, Karim! I'm Marina.",
+        "ar": "سررت بلقائك يا كريم! أنا مارينا."
+      }
+    },
+    {
+      "pt": "eu tenho",
+      "ipa": "/ew ˈtẽ.ɲu/",
+      "en": "I have / I am (age)",
+      "ar": "أملك / عمري",
+      "example": {
+        "pt": "Muito prazer, Karim! Eu sou a Marina.",
+        "en": "Nice to meet you, Karim! I'm Marina.",
+        "ar": "سررت بلقائك يا كريم! أنا مارينا."
+      }
+    },
+    {
+      "pt": "a família",
+      "ipa": "/a faˈmi.li.a/",
+      "en": "the family",
+      "ar": "العائلة",
+      "example": {
+        "pt": "Muito prazer, Karim! Eu sou a Marina.",
+        "en": "Nice to meet you, Karim! I'm Marina.",
+        "ar": "سررت بلقائك يا كريم! أنا مارينا."
+      }
+    },
+    {
+      "pt": "a casa",
+      "ipa": "/a ˈka.za/",
+      "en": "the house",
+      "ar": "المنزل",
+      "example": {
+        "pt": "Muito prazer, Karim! Eu sou a Marina.",
+        "en": "Nice to meet you, Karim! I'm Marina.",
+        "ar": "سررت بلقائك يا كريم! أنا مارينا."
+      }
+    },
+    {
+      "pt": "comer",
+      "ipa": "/koˈmeɾ/",
+      "en": "to eat",
+      "ar": "يأكل",
+      "example": {
+        "pt": "Olá! Meu nome é Karim. Sou do Egito.",
+        "en": "Hello! My name is Karim. I'm from Egypt.",
+        "ar": "مرحبًا! اسمي كريم. أنا من مصر."
+      }
+    },
+    {
+      "pt": "beber",
+      "ipa": "/beˈbeɾ/",
+      "en": "to drink",
+      "ar": "يشرب",
+      "example": {
+        "pt": "Olá! Meu nome é Karim. Sou do Egito.",
+        "en": "Hello! My name is Karim. I'm from Egypt.",
+        "ar": "مرحبًا! اسمي كريم. أنا من مصر."
+      }
+    },
+    {
+      "pt": "falar",
+      "ipa": "/faˈlaɾ/",
+      "en": "to speak",
+      "ar": "يتكلم",
+      "example": {
+        "pt": "Olá! Meu nome é Karim. Sou do Egito.",
+        "en": "Hello! My name is Karim. I'm from Egypt.",
+        "ar": "مرحبًا! اسمي كريم. أنا من مصر."
+      }
+    },
+    {
+      "pt": "estudar",
+      "ipa": "/is.tuˈdaʁ/",
+      "en": "to study",
+      "ar": "يدرس",
+      "example": {
+        "pt": "Olá! Meu nome é Karim. Sou do Egito.",
+        "en": "Hello! My name is Karim. I'm from Egypt.",
+        "ar": "مرحبًا! اسمي كريم. أنا من مصر."
+      }
+    },
+    {
+      "pt": "o preço",
+      "ipa": "/u ˈpɾe.su/",
+      "en": "the price",
+      "ar": "السعر",
+      "example": {
+        "pt": "O livro está na mesa, ao lado da caneta.",
+        "en": "The book is on the table, next to the pen.",
+        "ar": "الكتاب على الطاولة، بجانب القلم."
+      }
+    },
+    {
+      "pt": "que horas são?",
+      "ipa": "/ki ˈɔ.ɾas sɐ̃w/",
+      "en": "what time is it?",
+      "ar": "كم الساعة؟",
+      "example": {
+        "pt": "Que horas são?",
+        "en": "What time is it?",
+        "ar": "كم الساعة؟"
+      }
+    },
+    {
+      "pt": "por favor",
+      "ipa": "/puʁ faˈvoʁ/",
+      "en": "please",
+      "ar": "من فضلك",
+      "example": {
+        "pt": "Olá! Meu nome é Karim. Sou do Egito.",
+        "en": "Hello! My name is Karim. I'm from Egypt.",
+        "ar": "مرحبًا! اسمي كريم. أنا من مصر."
+      }
+    },
+    {
+      "pt": "desculpa",
+      "ipa": "/dʒisˈkuw.pa/",
+      "en": "sorry",
+      "ar": "آسف",
+      "example": {
+        "pt": "Olá! Meu nome é Karim. Sou do Egito.",
+        "en": "Hello! My name is Karim. I'm from Egypt.",
+        "ar": "مرحبًا! اسمي كريم. أنا من مصر."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "title": {
+        "pt": "Revisão de Gramática",
+        "en": "Grammar Review",
+        "ar": "مراجعة القواعد"
+      },
+      "explanation": {
+        "pt": "No nível A1 aprendemos: ser e estar (Eu sou brasileiro, Eu estou cansado), verbos regulares no presente (falo, como, abro), artigos (o, a, os, as), possessivos (meu, minha), preposições (no, na, em), números e horas, e o vocabulário essencial para se apresentar e sobreviver em situações básicas.",
+        "en": "In level A1 we learned: ser and estar (Eu sou brasileiro - I am Brazilian, Eu estou cansado - I am tired), regular present-tense verbs (falo, como, abro), articles (o, a, os, as), possessives (meu, minha), prepositions (no, na, em), numbers and time, and essential vocabulary to introduce yourself and survive basic situations.",
+        "ar": "في المستوى A1 تعلمنا: ser و estar (Eu sou brasileiro - أنا برازيلي، Eu estou cansado - أنا متعب)، الأفعال المنتظمة في المضارع (falo، como، abro)، أدوات التعريف (o، a، os، as)، ضمائر الملكية (meu، minha)، حروف الجر (no، na، em)، الأرقام والوقت، والمفردات الأساسية لتقديم نفسك والتعامل مع المواقف الأساسية."
+      },
+      "examples": [
+        {
+          "pt": "Eu sou brasileiro e estou feliz.",
+          "en": "I am Brazilian and I am happy.",
+          "ar": "أنا برازيلي وأنا سعيد."
+        },
+        {
+          "pt": "Minha família come às oito horas.",
+          "en": "My family eats at eight o'clock.",
+          "ar": "تأكل عائلتي في الساعة الثامنة."
+        },
+        {
+          "pt": "O livro está na mesa, ao lado da caneta.",
+          "en": "The book is on the table, next to the pen.",
+          "ar": "الكتاب على الطاولة، بجانب القلم."
+        }
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": {
+      "pt": "Conversa Completa",
+      "en": "Complete Conversation",
+      "ar": "محادثة كاملة"
+    },
+    "lines": [
+      {
+        "speaker": "Visitante",
+        "pt": "Olá! Meu nome é Karim. Sou do Egito.",
+        "en": "Hello! My name is Karim. I'm from Egypt.",
+        "ar": "مرحبًا! اسمي كريم. أنا من مصر."
+      },
+      {
+        "speaker": "Marina",
+        "pt": "Muito prazer, Karim! Eu sou a Marina.",
+        "en": "Nice to meet you, Karim! I'm Marina.",
+        "ar": "سررت بلقائك يا كريم! أنا مارينا."
+      },
+      {
+        "speaker": "Visitante",
+        "pt": "Que horas são?",
+        "en": "What time is it?",
+        "ar": "كم الساعة؟"
+      },
+      {
+        "speaker": "Marina",
+        "pt": "São dez horas. Quer um café?",
+        "en": "It's ten o'clock. Would you like a coffee?",
+        "ar": "إنها العاشرة. هل تريد قهوة؟"
+      },
+      {
+        "speaker": "Visitante",
+        "pt": "Sim, obrigado. Eu gostaria de um café com leite.",
+        "en": "Yes, thank you. I would like a coffee with milk.",
+        "ar": "نعم، شكرًا. أود قهوة بالحليب."
+      },
+      {
+        "speaker": "Marina",
+        "pt": "Aqui está. Bom apetite!",
+        "en": "Here you go. Enjoy!",
+        "ar": "تفضل. بالهناء والشفاء!"
+      }
+    ]
+  },
+  "reading": {
+    "title": {
+      "pt": "Conhecendo Karim",
+      "en": "Getting to Know Karim",
+      "ar": "التعرف على كريم"
+    },
+    "text_pt": "Karim é do Egito e agora mora no Brasil. Ele fala árabe, inglês e aprende português. Todos os dias ele estuda na escola de línguas. Sua família mora no Cairo. Ele é alto, simpático e muito inteligente. Hoje ele está feliz porque é seu aniversário.",
+    "text_en": "Karim is from Egypt and now lives in Brazil. He speaks Arabic, English and is learning Portuguese. Every day he studies at the language school. His family lives in Cairo. He is tall, friendly and very intelligent. Today he is happy because it's his birthday.",
+    "text_ar": "كريم من مصر ويعيش الآن في البرازيل. يتحدث العربية والإنجليزية ويتعلم البرتغالية. كل يوم يدرس في مدرسة اللغات. تعيش عائلته في القاهرة. إنه طويل وودود وذكي جدًا. اليوم هو سعيد لأنه عيد ميلاده."
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Complete: Eu ___ brasileiro.",
+        "en": "Complete: I ___ Brazilian.",
+        "ar": "أكمل: أنا ___ برازيلي."
+      },
+      "options": [
+        {
+          "pt": "sou",
+          "en": "sou",
+          "ar": "sou"
+        },
+        {
+          "pt": "estou",
+          "en": "estou",
+          "ar": "estou"
+        },
+        {
+          "pt": "tenho",
+          "en": "tenho",
+          "ar": "tenho"
+        }
+      ],
+      "answer": "sou",
+      "explanation": {
+        "pt": "Nacionalidade = ser: eu sou.",
+        "en": "Nationality = ser: eu sou.",
+        "ar": "الجنسية = ser: eu sou."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Como você diz 'thank you' (feminino)?",
+        "en": "How do you say 'thank you' (feminine)?",
+        "ar": "كيف تقول 'شكرًا' (مؤنث)؟"
+      },
+      "options": [
+        {
+          "pt": "obrigado",
+          "en": "obrigado",
+          "ar": "obrigado"
+        },
+        {
+          "pt": "obrigada",
+          "en": "obrigada",
+          "ar": "obrigada"
+        },
+        {
+          "pt": "de nada",
+          "en": "de nada",
+          "ar": "de nada"
+        }
+      ],
+      "answer": "obrigada",
+      "explanation": {
+        "pt": "Feminino: 'obrigada'.",
+        "en": "Feminine: 'obrigada'.",
+        "ar": "مؤنث: 'obrigada'."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual número é 'vinte e cinco'?",
+        "en": "Which number is 'vinte e cinco'?",
+        "ar": "ما الرقم 'vinte e cinco'؟"
+      },
+      "options": [
+        {
+          "pt": "15",
+          "en": "15",
+          "ar": "15"
+        },
+        {
+          "pt": "25",
+          "en": "25",
+          "ar": "25"
+        },
+        {
+          "pt": "35",
+          "en": "35",
+          "ar": "35"
+        }
+      ],
+      "answer": "25",
+      "explanation": {
+        "pt": "'Vinte e cinco' = 25.",
+        "en": "'Vinte e cinco' = 25.",
+        "ar": "'vinte e cinco' = 25."
+      }
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza: 'the family'",
+        "en": "Translate: 'the family'",
+        "ar": "ترجم: 'the family'"
+      },
+      "options": [],
+      "answer": "a família",
+      "explanation": {
+        "pt": "'A família' significa the family.",
+        "en": "'A família' means the family.",
+        "ar": "'a família' تعني العائلة."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Sou",
+          "en": "Sou",
+          "ar": "Sou"
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "é",
+          "en": "é",
+          "ar": "é"
+        },
+        {
+          "pt": "Karim.",
+          "en": "Karim.",
+          "ar": "Karim."
+        },
+        {
+          "pt": "Egito.",
+          "en": "Egito.",
+          "ar": "Egito."
+        },
+        {
+          "pt": "nome",
+          "en": "nome",
+          "ar": "nome"
+        },
+        {
+          "pt": "Olá!",
+          "en": "Olá!",
+          "ar": "Olá!"
+        },
+        {
+          "pt": "Meu",
+          "en": "Meu",
+          "ar": "Meu"
+        }
+      ],
+      "answer": "Olá! Meu nome é Karim. Sou do Egito.",
+      "accepted": [
+        "Olá! Meu nome é Karim. Sou do Egito."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Olá! Meu nome é Karim. Sou do Egito.'",
+        "en": "The correct order: 'Hello! My name is Karim. I'm from Egypt.'",
+        "ar": "الترتيب الصحيح: 'مرحبًا! اسمي كريم. أنا من مصر.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a família",
+          "en": "I have / I am (age)",
+          "ar": "a família"
+        },
+        {
+          "pt": "eu sou",
+          "en": "thank you (m/f)",
+          "ar": "eu sou"
+        },
+        {
+          "pt": "olá / oi",
+          "en": "hello / hi",
+          "ar": "olá / oi"
+        },
+        {
+          "pt": "eu tenho",
+          "en": "the family",
+          "ar": "eu tenho"
+        },
+        {
+          "pt": "obrigado / obrigada",
+          "en": "I am",
+          "ar": "obrigado / obrigada"
+        },
+        {
+          "pt": "meu nome é",
+          "en": "my name is",
+          "ar": "meu nome é"
+        }
+      ],
+      "answer": "a família::I have / I am (age)|eu sou::thank you (m/f)|olá / oi::hello / hi|eu tenho::the family|obrigado / obrigada::I am|meu nome é::my name is",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Olá! Meu nome é Karim. Sou do Egito.",
+          "en": "Yes, thank you. I would like a coffee with milk.",
+          "ar": "سررت بلقائك يا كريم! أنا مارينا."
+        },
+        {
+          "pt": "Muito prazer, Karim! Eu sou a Marina.",
+          "en": "Hello! My name is Karim. I'm from Egypt.",
+          "ar": "مرحبًا! اسمي كريم. أنا من مصر."
+        },
+        {
+          "pt": "Sim, obrigado. Eu gostaria de um café com leite.",
+          "en": "Nice to meet you, Karim! I'm Marina.",
+          "ar": "نعم، شكرًا. أود قهوة بالحليب."
+        }
+      ],
+      "answer": "Olá! Meu nome é Karim. Sou do Egito.",
+      "accepted": [],
+      "audio": "Olá! Meu nome é Karim. Sou do Egito.",
+      "explanation": {
+        "pt": "Você ouviu: 'Olá! Meu nome é Karim. Sou do Egito.' — 'Hello! My name is Karim. I'm from Egypt.'",
+        "en": "You heard: 'Olá! Meu nome é Karim. Sou do Egito.' — 'Hello! My name is Karim. I'm from Egypt.'",
+        "ar": "سمعت: 'Olá! Meu nome é Karim. Sou do Egito.' — 'مرحبًا! اسمي كريم. أنا من مصر.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Aqui está. Bom apetite!",
+          "en": "Yes, thank you. I would like a coffee with milk.",
+          "ar": "سررت بلقائك يا كريم! أنا مارينا."
+        },
+        {
+          "pt": "Sim, obrigado. Eu gostaria de um café com leite.",
+          "en": "Here you go. Enjoy!",
+          "ar": "تفضل. بالهناء والشفاء!"
+        },
+        {
+          "pt": "Muito prazer, Karim! Eu sou a Marina.",
+          "en": "Nice to meet you, Karim! I'm Marina.",
+          "ar": "نعم، شكرًا. أود قهوة بالحليب."
+        }
+      ],
+      "answer": "Muito prazer, Karim! Eu sou a Marina.",
+      "accepted": [],
+      "audio": "Muito prazer, Karim! Eu sou a Marina.",
+      "explanation": {
+        "pt": "Você ouviu: 'Muito prazer, Karim! Eu sou a Marina.' — 'Nice to meet you, Karim! I'm Marina.'",
+        "en": "You heard: 'Muito prazer, Karim! Eu sou a Marina.' — 'Nice to meet you, Karim! I'm Marina.'",
+        "ar": "سمعت: 'Muito prazer, Karim! Eu sou a Marina.' — 'سررت بلقائك يا كريم! أنا مارينا.'"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Eu sou ___ e estou feliz.",
+        "en": "Eu sou ___ e estou feliz.",
+        "ar": "Eu sou ___ e estou feliz."
+      },
+      "options": [
+        {
+          "pt": "livro",
+          "en": "livro",
+          "ar": "livro"
+        },
+        {
+          "pt": "brasileiro",
+          "en": "brasileiro",
+          "ar": "brasileiro"
+        },
+        {
+          "pt": "família",
+          "en": "família",
+          "ar": "família"
+        }
+      ],
+      "answer": "brasileiro",
+      "accepted": [],
+      "explanation": {
+        "pt": "A resposta é 'brasileiro'. Frase completa: Eu sou brasileiro e estou feliz.",
+        "en": "The answer is 'brasileiro'. Full sentence: I am Brazilian and I am happy.",
+        "ar": "الإجابة الصحيحة: 'brasileiro'. الجملة كاملة: أنا برازيلي وأنا سعيد."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "nome",
+          "en": "nome",
+          "ar": "nome"
+        },
+        {
+          "pt": "Meu",
+          "en": "Meu",
+          "ar": "Meu"
+        },
+        {
+          "pt": "Olá!",
+          "en": "Olá!",
+          "ar": "Olá!"
+        },
+        {
+          "pt": "é",
+          "en": "é",
+          "ar": "é"
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "Sou",
+          "en": "Sou",
+          "ar": "Sou"
+        },
+        {
+          "pt": "Karim.",
+          "en": "Karim.",
+          "ar": "Karim."
+        },
+        {
+          "pt": "Egito.",
+          "en": "Egito.",
+          "ar": "Egito."
+        }
+      ],
+      "answer": "Olá! Meu nome é Karim. Sou do Egito.",
+      "accepted": [
+        "Olá! Meu nome é Karim. Sou do Egito."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Olá! Meu nome é Karim. Sou do Egito.'",
+        "en": "The correct order: 'Hello! My name is Karim. I'm from Egypt.'",
+        "ar": "الترتيب الصحيح: 'مرحبًا! اسمي كريم. أنا من مصر.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "meu nome é",
+          "en": "hello / hi",
+          "ar": "meu nome é"
+        },
+        {
+          "pt": "obrigado / obrigada",
+          "en": "thank you (m/f)",
+          "ar": "obrigado / obrigada"
+        },
+        {
+          "pt": "olá / oi",
+          "en": "the family",
+          "ar": "olá / oi"
+        },
+        {
+          "pt": "a família",
+          "en": "I am",
+          "ar": "a família"
+        },
+        {
+          "pt": "eu tenho",
+          "en": "I have / I am (age)",
+          "ar": "eu tenho"
+        },
+        {
+          "pt": "eu sou",
+          "en": "my name is",
+          "ar": "eu sou"
+        }
+      ],
+      "answer": "meu nome é::hello / hi|obrigado / obrigada::thank you (m/f)|olá / oi::the family|a família::I am|eu tenho::I have / I am (age)|eu sou::my name is",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Olá! Meu nome é Karim. Sou do Egito.",
+          "en": "Nice to meet you, Karim! I'm Marina.",
+          "ar": "سررت بلقائك يا كريم! أنا مارينا."
+        },
+        {
+          "pt": "Muito prazer, Karim! Eu sou a Marina.",
+          "en": "Hello! My name is Karim. I'm from Egypt.",
+          "ar": "مرحبًا! اسمي كريم. أنا من مصر."
+        },
+        {
+          "pt": "Sim, obrigado. Eu gostaria de um café com leite.",
+          "en": "Yes, thank you. I would like a coffee with milk.",
+          "ar": "نعم، شكرًا. أود قهوة بالحليب."
+        }
+      ],
+      "answer": "Olá! Meu nome é Karim. Sou do Egito.",
+      "accepted": [],
+      "audio": "Olá! Meu nome é Karim. Sou do Egito.",
+      "explanation": {
+        "pt": "Você ouviu: 'Olá! Meu nome é Karim. Sou do Egito.' — 'Hello! My name is Karim. I'm from Egypt.'",
+        "en": "You heard: 'Olá! Meu nome é Karim. Sou do Egito.' — 'Hello! My name is Karim. I'm from Egypt.'",
+        "ar": "سمعت: 'Olá! Meu nome é Karim. Sou do Egito.' — 'مرحبًا! اسمي كريم. أنا من مصر.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Que horas são?",
+          "en": "Hello! My name is Karim. I'm from Egypt.",
+          "ar": "سررت بلقائك يا كريم! أنا مارينا."
+        },
+        {
+          "pt": "Olá! Meu nome é Karim. Sou do Egito.",
+          "en": "What time is it?",
+          "ar": "مرحبًا! اسمي كريم. أنا من مصر."
+        },
+        {
+          "pt": "Muito prazer, Karim! Eu sou a Marina.",
+          "en": "Nice to meet you, Karim! I'm Marina.",
+          "ar": "كم الساعة؟"
+        }
+      ],
+      "answer": "Muito prazer, Karim! Eu sou a Marina.",
+      "accepted": [],
+      "audio": "Muito prazer, Karim! Eu sou a Marina.",
+      "explanation": {
+        "pt": "Você ouviu: 'Muito prazer, Karim! Eu sou a Marina.' — 'Nice to meet you, Karim! I'm Marina.'",
+        "en": "You heard: 'Muito prazer, Karim! Eu sou a Marina.' — 'Nice to meet you, Karim! I'm Marina.'",
+        "ar": "سمعت: 'Muito prazer, Karim! Eu sou a Marina.' — 'سررت بلقائك يا كريم! أنا مارينا.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Olá!",
+          "en": "Olá!",
+          "ar": "Olá!"
+        },
+        {
+          "pt": "Meu",
+          "en": "Meu",
+          "ar": "Meu"
+        },
+        {
+          "pt": "nome",
+          "en": "nome",
+          "ar": "nome"
+        },
+        {
+          "pt": "é",
+          "en": "é",
+          "ar": "é"
+        },
+        {
+          "pt": "Karim.",
+          "en": "Karim.",
+          "ar": "Karim."
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "Sou",
+          "en": "Sou",
+          "ar": "Sou"
+        },
+        {
+          "pt": "Egito.",
+          "en": "Egito.",
+          "ar": "Egito."
+        }
+      ],
+      "answer": "Olá! Meu nome é Karim. Sou do Egito.",
+      "accepted": [
+        "Olá! Meu nome é Karim. Sou do Egito."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Olá! Meu nome é Karim. Sou do Egito.'",
+        "en": "The correct order: 'Hello! My name is Karim. I'm from Egypt.'",
+        "ar": "الترتيب الصحيح: 'مرحبًا! اسمي كريم. أنا من مصر.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "eu sou",
+          "en": "hello / hi",
+          "ar": "eu sou"
+        },
+        {
+          "pt": "obrigado / obrigada",
+          "en": "the family",
+          "ar": "obrigado / obrigada"
+        },
+        {
+          "pt": "eu tenho",
+          "en": "thank you (m/f)",
+          "ar": "eu tenho"
+        },
+        {
+          "pt": "meu nome é",
+          "en": "my name is",
+          "ar": "meu nome é"
+        },
+        {
+          "pt": "olá / oi",
+          "en": "I am",
+          "ar": "olá / oi"
+        },
+        {
+          "pt": "a família",
+          "en": "I have / I am (age)",
+          "ar": "a família"
+        }
+      ],
+      "answer": "eu sou::hello / hi|obrigado / obrigada::the family|eu tenho::thank you (m/f)|meu nome é::my name is|olá / oi::I am|a família::I have / I am (age)",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Olá! Meu nome é Karim. Sou do Egito.",
+          "en": "Nice to meet you, Karim! I'm Marina.",
+          "ar": "سررت بلقائك يا كريم! أنا مارينا."
+        },
+        {
+          "pt": "Muito prazer, Karim! Eu sou a Marina.",
+          "en": "What time is it?",
+          "ar": "مرحبًا! اسمي كريم. أنا من مصر."
+        },
+        {
+          "pt": "Que horas são?",
+          "en": "Hello! My name is Karim. I'm from Egypt.",
+          "ar": "كم الساعة؟"
+        }
+      ],
+      "answer": "Olá! Meu nome é Karim. Sou do Egito.",
+      "accepted": [],
+      "audio": "Olá! Meu nome é Karim. Sou do Egito.",
+      "explanation": {
+        "pt": "Você ouviu: 'Olá! Meu nome é Karim. Sou do Egito.' — 'Hello! My name is Karim. I'm from Egypt.'",
+        "en": "You heard: 'Olá! Meu nome é Karim. Sou do Egito.' — 'Hello! My name is Karim. I'm from Egypt.'",
+        "ar": "سمعت: 'Olá! Meu nome é Karim. Sou do Egito.' — 'مرحبًا! اسمي كريم. أنا من مصر.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Aqui está. Bom apetite!",
+          "en": "Here you go. Enjoy!",
+          "ar": "سررت بلقائك يا كريم! أنا مارينا."
+        },
+        {
+          "pt": "Muito prazer, Karim! Eu sou a Marina.",
+          "en": "It's ten o'clock. Would you like a coffee?",
+          "ar": "تفضل. بالهناء والشفاء!"
+        },
+        {
+          "pt": "São dez horas. Quer um café?",
+          "en": "Nice to meet you, Karim! I'm Marina.",
+          "ar": "إنها العاشرة. هل تريد قهوة؟"
+        }
+      ],
+      "answer": "Muito prazer, Karim! Eu sou a Marina.",
+      "accepted": [],
+      "audio": "Muito prazer, Karim! Eu sou a Marina.",
+      "explanation": {
+        "pt": "Você ouviu: 'Muito prazer, Karim! Eu sou a Marina.' — 'Nice to meet you, Karim! I'm Marina.'",
+        "en": "You heard: 'Muito prazer, Karim! Eu sou a Marina.' — 'Nice to meet you, Karim! I'm Marina.'",
+        "ar": "سمعت: 'Muito prazer, Karim! Eu sou a Marina.' — 'سررت بلقائك يا كريم! أنا مارينا.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Meu",
+          "en": "Meu",
+          "ar": "Meu"
+        },
+        {
+          "pt": "nome",
+          "en": "nome",
+          "ar": "nome"
+        },
+        {
+          "pt": "Olá!",
+          "en": "Olá!",
+          "ar": "Olá!"
+        },
+        {
+          "pt": "Karim.",
+          "en": "Karim.",
+          "ar": "Karim."
+        },
+        {
+          "pt": "é",
+          "en": "é",
+          "ar": "é"
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "Egito.",
+          "en": "Egito.",
+          "ar": "Egito."
+        },
+        {
+          "pt": "Sou",
+          "en": "Sou",
+          "ar": "Sou"
+        }
+      ],
+      "answer": "Olá! Meu nome é Karim. Sou do Egito.",
+      "accepted": [
+        "Olá! Meu nome é Karim. Sou do Egito."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Olá! Meu nome é Karim. Sou do Egito.'",
+        "en": "The correct order: 'Hello! My name is Karim. I'm from Egypt.'",
+        "ar": "الترتيب الصحيح: 'مرحبًا! اسمي كريم. أنا من مصر.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a família",
+          "en": "my name is",
+          "ar": "a família"
+        },
+        {
+          "pt": "obrigado / obrigada",
+          "en": "thank you (m/f)",
+          "ar": "obrigado / obrigada"
+        },
+        {
+          "pt": "meu nome é",
+          "en": "the family",
+          "ar": "meu nome é"
+        },
+        {
+          "pt": "olá / oi",
+          "en": "I am",
+          "ar": "olá / oi"
+        },
+        {
+          "pt": "eu tenho",
+          "en": "hello / hi",
+          "ar": "eu tenho"
+        },
+        {
+          "pt": "eu sou",
+          "en": "I have / I am (age)",
+          "ar": "eu sou"
+        }
+      ],
+      "answer": "a família::my name is|obrigado / obrigada::thank you (m/f)|meu nome é::the family|olá / oi::I am|eu tenho::hello / hi|eu sou::I have / I am (age)",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Olá! Meu nome é Karim. Sou do Egito.",
+          "en": "It's ten o'clock. Would you like a coffee?",
+          "ar": "إنها العاشرة. هل تريد قهوة؟"
+        },
+        {
+          "pt": "São dez horas. Quer um café?",
+          "en": "Hello! My name is Karim. I'm from Egypt.",
+          "ar": "سررت بلقائك يا كريم! أنا مارينا."
+        },
+        {
+          "pt": "Muito prazer, Karim! Eu sou a Marina.",
+          "en": "Nice to meet you, Karim! I'm Marina.",
+          "ar": "مرحبًا! اسمي كريم. أنا من مصر."
+        }
+      ],
+      "answer": "Olá! Meu nome é Karim. Sou do Egito.",
+      "accepted": [],
+      "audio": "Olá! Meu nome é Karim. Sou do Egito.",
+      "explanation": {
+        "pt": "Você ouviu: 'Olá! Meu nome é Karim. Sou do Egito.' — 'Hello! My name is Karim. I'm from Egypt.'",
+        "en": "You heard: 'Olá! Meu nome é Karim. Sou do Egito.' — 'Hello! My name is Karim. I'm from Egypt.'",
+        "ar": "سمعت: 'Olá! Meu nome é Karim. Sou do Egito.' — 'مرحبًا! اسمي كريم. أنا من مصر.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "São dez horas. Quer um café?",
+          "en": "Hello! My name is Karim. I'm from Egypt.",
+          "ar": "سررت بلقائك يا كريم! أنا مارينا."
+        },
+        {
+          "pt": "Muito prazer, Karim! Eu sou a Marina.",
+          "en": "It's ten o'clock. Would you like a coffee?",
+          "ar": "مرحبًا! اسمي كريم. أنا من مصر."
+        },
+        {
+          "pt": "Olá! Meu nome é Karim. Sou do Egito.",
+          "en": "Nice to meet you, Karim! I'm Marina.",
+          "ar": "إنها العاشرة. هل تريد قهوة؟"
+        }
+      ],
+      "answer": "Muito prazer, Karim! Eu sou a Marina.",
+      "accepted": [],
+      "audio": "Muito prazer, Karim! Eu sou a Marina.",
+      "explanation": {
+        "pt": "Você ouviu: 'Muito prazer, Karim! Eu sou a Marina.' — 'Nice to meet you, Karim! I'm Marina.'",
+        "en": "You heard: 'Muito prazer, Karim! Eu sou a Marina.' — 'Nice to meet you, Karim! I'm Marina.'",
+        "ar": "سمعت: 'Muito prazer, Karim! Eu sou a Marina.' — 'سررت بلقائك يا كريم! أنا مارينا.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Meu",
+          "en": "Meu",
+          "ar": "Meu"
+        },
+        {
+          "pt": "nome",
+          "en": "nome",
+          "ar": "nome"
+        },
+        {
+          "pt": "Karim.",
+          "en": "Karim.",
+          "ar": "Karim."
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "é",
+          "en": "é",
+          "ar": "é"
+        },
+        {
+          "pt": "Olá!",
+          "en": "Olá!",
+          "ar": "Olá!"
+        },
+        {
+          "pt": "Sou",
+          "en": "Sou",
+          "ar": "Sou"
+        },
+        {
+          "pt": "Egito.",
+          "en": "Egito.",
+          "ar": "Egito."
+        }
+      ],
+      "answer": "Olá! Meu nome é Karim. Sou do Egito.",
+      "accepted": [
+        "Olá! Meu nome é Karim. Sou do Egito."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Olá! Meu nome é Karim. Sou do Egito.'",
+        "en": "The correct order: 'Hello! My name is Karim. I'm from Egypt.'",
+        "ar": "الترتيب الصحيح: 'مرحبًا! اسمي كريم. أنا من مصر.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "olá / oi",
+          "en": "I am",
+          "ar": "olá / oi"
+        },
+        {
+          "pt": "obrigado / obrigada",
+          "en": "my name is",
+          "ar": "obrigado / obrigada"
+        },
+        {
+          "pt": "eu tenho",
+          "en": "thank you (m/f)",
+          "ar": "eu tenho"
+        },
+        {
+          "pt": "a família",
+          "en": "I have / I am (age)",
+          "ar": "a família"
+        },
+        {
+          "pt": "meu nome é",
+          "en": "the family",
+          "ar": "meu nome é"
+        },
+        {
+          "pt": "eu sou",
+          "en": "hello / hi",
+          "ar": "eu sou"
+        }
+      ],
+      "answer": "olá / oi::I am|obrigado / obrigada::my name is|eu tenho::thank you (m/f)|a família::I have / I am (age)|meu nome é::the family|eu sou::hello / hi",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Aqui está. Bom apetite!",
+          "en": "It's ten o'clock. Would you like a coffee?",
+          "ar": "تفضل. بالهناء والشفاء!"
+        },
+        {
+          "pt": "São dez horas. Quer um café?",
+          "en": "Hello! My name is Karim. I'm from Egypt.",
+          "ar": "إنها العاشرة. هل تريد قهوة؟"
+        },
+        {
+          "pt": "Olá! Meu nome é Karim. Sou do Egito.",
+          "en": "Here you go. Enjoy!",
+          "ar": "مرحبًا! اسمي كريم. أنا من مصر."
+        }
+      ],
+      "answer": "Olá! Meu nome é Karim. Sou do Egito.",
+      "accepted": [],
+      "audio": "Olá! Meu nome é Karim. Sou do Egito.",
+      "explanation": {
+        "pt": "Você ouviu: 'Olá! Meu nome é Karim. Sou do Egito.' — 'Hello! My name is Karim. I'm from Egypt.'",
+        "en": "You heard: 'Olá! Meu nome é Karim. Sou do Egito.' — 'Hello! My name is Karim. I'm from Egypt.'",
+        "ar": "سمعت: 'Olá! Meu nome é Karim. Sou do Egito.' — 'مرحبًا! اسمي كريم. أنا من مصر.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Muito prazer, Karim! Eu sou a Marina.",
+          "en": "Nice to meet you, Karim! I'm Marina.",
+          "ar": "نعم، شكرًا. أود قهوة بالحليب."
+        },
+        {
+          "pt": "Sim, obrigado. Eu gostaria de um café com leite.",
+          "en": "Yes, thank you. I would like a coffee with milk.",
+          "ar": "سررت بلقائك يا كريم! أنا مارينا."
+        },
+        {
+          "pt": "São dez horas. Quer um café?",
+          "en": "It's ten o'clock. Would you like a coffee?",
+          "ar": "إنها العاشرة. هل تريد قهوة؟"
+        }
+      ],
+      "answer": "Muito prazer, Karim! Eu sou a Marina.",
+      "accepted": [],
+      "audio": "Muito prazer, Karim! Eu sou a Marina.",
+      "explanation": {
+        "pt": "Você ouviu: 'Muito prazer, Karim! Eu sou a Marina.' — 'Nice to meet you, Karim! I'm Marina.'",
+        "en": "You heard: 'Muito prazer, Karim! Eu sou a Marina.' — 'Nice to meet you, Karim! I'm Marina.'",
+        "ar": "سمعت: 'Muito prazer, Karim! Eu sou a Marina.' — 'سررت بلقائك يا كريم! أنا مارينا.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "é",
+          "en": "é",
+          "ar": "é"
+        },
+        {
+          "pt": "nome",
+          "en": "nome",
+          "ar": "nome"
+        },
+        {
+          "pt": "Olá!",
+          "en": "Olá!",
+          "ar": "Olá!"
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "Egito.",
+          "en": "Egito.",
+          "ar": "Egito."
+        },
+        {
+          "pt": "Karim.",
+          "en": "Karim.",
+          "ar": "Karim."
+        },
+        {
+          "pt": "Meu",
+          "en": "Meu",
+          "ar": "Meu"
+        },
+        {
+          "pt": "Sou",
+          "en": "Sou",
+          "ar": "Sou"
+        }
+      ],
+      "answer": "Olá! Meu nome é Karim. Sou do Egito.",
+      "accepted": [
+        "Olá! Meu nome é Karim. Sou do Egito."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Olá! Meu nome é Karim. Sou do Egito.'",
+        "en": "The correct order: 'Hello! My name is Karim. I'm from Egypt.'",
+        "ar": "الترتيب الصحيح: 'مرحبًا! اسمي كريم. أنا من مصر.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "obrigado / obrigada",
+          "en": "thank you (m/f)",
+          "ar": "obrigado / obrigada"
+        },
+        {
+          "pt": "eu tenho",
+          "en": "I have / I am (age)",
+          "ar": "eu tenho"
+        },
+        {
+          "pt": "eu sou",
+          "en": "hello / hi",
+          "ar": "eu sou"
+        },
+        {
+          "pt": "olá / oi",
+          "en": "the family",
+          "ar": "olá / oi"
+        },
+        {
+          "pt": "a família",
+          "en": "my name is",
+          "ar": "a família"
+        },
+        {
+          "pt": "meu nome é",
+          "en": "I am",
+          "ar": "meu nome é"
+        }
+      ],
+      "answer": "obrigado / obrigada::thank you (m/f)|eu tenho::I have / I am (age)|eu sou::hello / hi|olá / oi::the family|a família::my name is|meu nome é::I am",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Que horas são?",
+          "en": "Hello! My name is Karim. I'm from Egypt.",
+          "ar": "مرحبًا! اسمي كريم. أنا من مصر."
+        },
+        {
+          "pt": "Muito prazer, Karim! Eu sou a Marina.",
+          "en": "What time is it?",
+          "ar": "سررت بلقائك يا كريم! أنا مارينا."
+        },
+        {
+          "pt": "Olá! Meu nome é Karim. Sou do Egito.",
+          "en": "Nice to meet you, Karim! I'm Marina.",
+          "ar": "كم الساعة؟"
+        }
+      ],
+      "answer": "Olá! Meu nome é Karim. Sou do Egito.",
+      "accepted": [],
+      "audio": "Olá! Meu nome é Karim. Sou do Egito.",
+      "explanation": {
+        "pt": "Você ouviu: 'Olá! Meu nome é Karim. Sou do Egito.' — 'Hello! My name is Karim. I'm from Egypt.'",
+        "en": "You heard: 'Olá! Meu nome é Karim. Sou do Egito.' — 'Hello! My name is Karim. I'm from Egypt.'",
+        "ar": "سمعت: 'Olá! Meu nome é Karim. Sou do Egito.' — 'مرحبًا! اسمي كريم. أنا من مصر.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Muito prazer, Karim! Eu sou a Marina.",
+          "en": "It's ten o'clock. Would you like a coffee?",
+          "ar": "مرحبًا! اسمي كريم. أنا من مصر."
+        },
+        {
+          "pt": "São dez horas. Quer um café?",
+          "en": "Hello! My name is Karim. I'm from Egypt.",
+          "ar": "سررت بلقائك يا كريم! أنا مارينا."
+        },
+        {
+          "pt": "Olá! Meu nome é Karim. Sou do Egito.",
+          "en": "Nice to meet you, Karim! I'm Marina.",
+          "ar": "إنها العاشرة. هل تريد قهوة؟"
+        }
+      ],
+      "answer": "Muito prazer, Karim! Eu sou a Marina.",
+      "accepted": [],
+      "audio": "Muito prazer, Karim! Eu sou a Marina.",
+      "explanation": {
+        "pt": "Você ouviu: 'Muito prazer, Karim! Eu sou a Marina.' — 'Nice to meet you, Karim! I'm Marina.'",
+        "en": "You heard: 'Muito prazer, Karim! Eu sou a Marina.' — 'Nice to meet you, Karim! I'm Marina.'",
+        "ar": "سمعت: 'Muito prazer, Karim! Eu sou a Marina.' — 'سررت بلقائك يا كريم! أنا مارينا.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Meu",
+          "en": "Meu",
+          "ar": "Meu"
+        },
+        {
+          "pt": "Karim.",
+          "en": "Karim.",
+          "ar": "Karim."
+        },
+        {
+          "pt": "nome",
+          "en": "nome",
+          "ar": "nome"
+        },
+        {
+          "pt": "é",
+          "en": "é",
+          "ar": "é"
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "Egito.",
+          "en": "Egito.",
+          "ar": "Egito."
+        },
+        {
+          "pt": "Sou",
+          "en": "Sou",
+          "ar": "Sou"
+        },
+        {
+          "pt": "Olá!",
+          "en": "Olá!",
+          "ar": "Olá!"
+        }
+      ],
+      "answer": "Olá! Meu nome é Karim. Sou do Egito.",
+      "accepted": [
+        "Olá! Meu nome é Karim. Sou do Egito."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Olá! Meu nome é Karim. Sou do Egito.'",
+        "en": "The correct order: 'Hello! My name is Karim. I'm from Egypt.'",
+        "ar": "الترتيب الصحيح: 'مرحبًا! اسمي كريم. أنا من مصر.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "meu nome é",
+          "en": "I am",
+          "ar": "meu nome é"
+        },
+        {
+          "pt": "eu tenho",
+          "en": "thank you (m/f)",
+          "ar": "eu tenho"
+        },
+        {
+          "pt": "eu sou",
+          "en": "I have / I am (age)",
+          "ar": "eu sou"
+        },
+        {
+          "pt": "obrigado / obrigada",
+          "en": "hello / hi",
+          "ar": "obrigado / obrigada"
+        },
+        {
+          "pt": "olá / oi",
+          "en": "my name is",
+          "ar": "olá / oi"
+        },
+        {
+          "pt": "a família",
+          "en": "the family",
+          "ar": "a família"
+        }
+      ],
+      "answer": "meu nome é::I am|eu tenho::thank you (m/f)|eu sou::I have / I am (age)|obrigado / obrigada::hello / hi|olá / oi::my name is|a família::the family",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Aqui está. Bom apetite!",
+          "en": "It's ten o'clock. Would you like a coffee?",
+          "ar": "مرحبًا! اسمي كريم. أنا من مصر."
+        },
+        {
+          "pt": "São dez horas. Quer um café?",
+          "en": "Hello! My name is Karim. I'm from Egypt.",
+          "ar": "إنها العاشرة. هل تريد قهوة؟"
+        },
+        {
+          "pt": "Olá! Meu nome é Karim. Sou do Egito.",
+          "en": "Here you go. Enjoy!",
+          "ar": "تفضل. بالهناء والشفاء!"
+        }
+      ],
+      "answer": "Olá! Meu nome é Karim. Sou do Egito.",
+      "accepted": [],
+      "audio": "Olá! Meu nome é Karim. Sou do Egito.",
+      "explanation": {
+        "pt": "Você ouviu: 'Olá! Meu nome é Karim. Sou do Egito.' — 'Hello! My name is Karim. I'm from Egypt.'",
+        "en": "You heard: 'Olá! Meu nome é Karim. Sou do Egito.' — 'Hello! My name is Karim. I'm from Egypt.'",
+        "ar": "سمعت: 'Olá! Meu nome é Karim. Sou do Egito.' — 'مرحبًا! اسمي كريم. أنا من مصر.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim, obrigado. Eu gostaria de um café com leite.",
+          "en": "Yes, thank you. I would like a coffee with milk.",
+          "ar": "سررت بلقائك يا كريم! أنا مارينا."
+        },
+        {
+          "pt": "Muito prazer, Karim! Eu sou a Marina.",
+          "en": "Nice to meet you, Karim! I'm Marina.",
+          "ar": "نعم، شكرًا. أود قهوة بالحليب."
+        },
+        {
+          "pt": "Olá! Meu nome é Karim. Sou do Egito.",
+          "en": "Hello! My name is Karim. I'm from Egypt.",
+          "ar": "مرحبًا! اسمي كريم. أنا من مصر."
+        }
+      ],
+      "answer": "Muito prazer, Karim! Eu sou a Marina.",
+      "accepted": [],
+      "audio": "Muito prazer, Karim! Eu sou a Marina.",
+      "explanation": {
+        "pt": "Você ouviu: 'Muito prazer, Karim! Eu sou a Marina.' — 'Nice to meet you, Karim! I'm Marina.'",
+        "en": "You heard: 'Muito prazer, Karim! Eu sou a Marina.' — 'Nice to meet you, Karim! I'm Marina.'",
+        "ar": "سمعت: 'Muito prazer, Karim! Eu sou a Marina.' — 'سررت بلقائك يا كريم! أنا مارينا.'"
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'hello / hi'",
+        "en": "Type in Portuguese: 'hello / hi'",
+        "ar": "اكتب بالبرتغالية: 'مرحبًا / أهلاً'"
+      },
+      "options": [],
+      "answer": "olá / oi",
+      "accepted": [
+        "olá / oi"
+      ],
+      "explanation": {
+        "pt": "'olá / oi' significa 'hello / hi'.",
+        "en": "'olá / oi' means 'hello / hi'.",
+        "ar": "'$olá / oi' بالعربية: '$مرحبًا / أهلاً'."
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'thank you (m/f)'",
+        "en": "Type in Portuguese: 'thank you (m/f)'",
+        "ar": "اكتب بالبرتغالية: 'شكرًا (مذكر/مؤنث)'"
+      },
+      "options": [],
+      "answer": "obrigado / obrigada",
+      "accepted": [
+        "obrigado / obrigada"
+      ],
+      "explanation": {
+        "pt": "'obrigado / obrigada' significa 'thank you (m/f)'.",
+        "en": "'obrigado / obrigada' means 'thank you (m/f)'.",
+        "ar": "'$obrigado / obrigada' بالعربية: '$شكرًا (مذكر/مؤنث)'."
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Muito prazer, Karim! Eu sou a Marina.",
+          "en": "Muito prazer, Karim! Eu sou a Marina.",
+          "ar": "Muito prazer, Karim! Eu sou a Marina."
+        },
+        {
+          "pt": "Olá! Meu nome é Karim. Sou do Egito.",
+          "en": "Olá! Meu nome é Karim. Sou do Egito.",
+          "ar": "Olá! Meu nome é Karim. Sou do Egito."
+        },
+        {
+          "pt": "Que horas são?",
+          "en": "Que horas são?",
+          "ar": "Que horas são?"
+        }
+      ],
+      "answer": "Olá! Meu nome é Karim. Sou do Egito.",
+      "accepted": [],
+      "audio": "Olá! Meu nome é Karim. Sou do Egito.",
+      "explanation": {
+        "pt": "Você ouviu: 'Olá! Meu nome é Karim. Sou do Egito.'",
+        "en": "You heard: 'Olá! Meu nome é Karim. Sou do Egito.'",
+        "ar": "سمعت: 'Olá! Meu nome é Karim. Sou do Egito.'"
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Que horas são?",
+          "en": "Que horas são?",
+          "ar": "Que horas são?"
+        },
+        {
+          "pt": "Aqui está. Bom apetite!",
+          "en": "Aqui está. Bom apetite!",
+          "ar": "Aqui está. Bom apetite!"
+        },
+        {
+          "pt": "Muito prazer, Karim! Eu sou a Marina.",
+          "en": "Muito prazer, Karim! Eu sou a Marina.",
+          "ar": "Muito prazer, Karim! Eu sou a Marina."
+        }
+      ],
+      "answer": "Muito prazer, Karim! Eu sou a Marina.",
+      "accepted": [],
+      "audio": "Muito prazer, Karim! Eu sou a Marina.",
+      "explanation": {
+        "pt": "Você ouviu: 'Muito prazer, Karim! Eu sou a Marina.'",
+        "en": "You heard: 'Muito prazer, Karim! Eu sou a Marina.'",
+        "ar": "سمعت: 'Muito prazer, Karim! Eu sou a Marina.'"
+      }
+    },
+    {
+      "type": "dictation",
+      "prompt": {
+        "pt": "Ouça e escreva o que você ouviu.",
+        "en": "Listen and type what you hear.",
+        "ar": "استمع واكتب ما سمعته."
+      },
+      "options": [],
+      "answer": "Olá! Meu nome é Karim. Sou do Egito.",
+      "accepted": [],
+      "audio": "Olá! Meu nome é Karim. Sou do Egito.",
+      "explanation": {
+        "pt": "A frase correta: 'Olá! Meu nome é Karim. Sou do Egito.'",
+        "en": "The correct sentence: 'Olá! Meu nome é Karim. Sou do Egito.'",
+        "ar": "الجملة الصحيحة: 'Olá! Meu nome é Karim. Sou do Egito.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Meu",
+          "en": "Meu",
+          "ar": "Meu"
+        },
+        {
+          "pt": "é",
+          "en": "é",
+          "ar": "é"
+        },
+        {
+          "pt": "nome",
+          "en": "nome",
+          "ar": "nome"
+        },
+        {
+          "pt": "Karim.",
+          "en": "Karim.",
+          "ar": "Karim."
+        },
+        {
+          "pt": "Sou",
+          "en": "Sou",
+          "ar": "Sou"
+        },
+        {
+          "pt": "Egito.",
+          "en": "Egito.",
+          "ar": "Egito."
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "Olá!",
+          "en": "Olá!",
+          "ar": "Olá!"
+        }
+      ],
+      "answer": "Olá! Meu nome é Karim. Sou do Egito.",
+      "accepted": [
+        "Olá! Meu nome é Karim. Sou do Egito."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Olá! Meu nome é Karim. Sou do Egito.'",
+        "en": "The correct order: 'Hello! My name is Karim. I'm from Egypt.'",
+        "ar": "الترتيب الصحيح: 'مرحبًا! اسمي كريم. أنا من مصر.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "eu tenho",
+          "en": "hello / hi",
+          "ar": "eu tenho"
+        },
+        {
+          "pt": "meu nome é",
+          "en": "I have / I am (age)",
+          "ar": "meu nome é"
+        },
+        {
+          "pt": "obrigado / obrigada",
+          "en": "the family",
+          "ar": "obrigado / obrigada"
+        },
+        {
+          "pt": "eu sou",
+          "en": "I am",
+          "ar": "eu sou"
+        },
+        {
+          "pt": "olá / oi",
+          "en": "thank you (m/f)",
+          "ar": "olá / oi"
+        },
+        {
+          "pt": "a família",
+          "en": "my name is",
+          "ar": "a família"
+        }
+      ],
+      "answer": "eu tenho::hello / hi|meu nome é::I have / I am (age)|obrigado / obrigada::the family|eu sou::I am|olá / oi::thank you (m/f)|a família::my name is",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Olá! Meu nome é Karim. Sou do Egito.",
+          "en": "Hello! My name is Karim. I'm from Egypt.",
+          "ar": "تفضل. بالهناء والشفاء!"
+        },
+        {
+          "pt": "São dez horas. Quer um café?",
+          "en": "Here you go. Enjoy!",
+          "ar": "إنها العاشرة. هل تريد قهوة؟"
+        },
+        {
+          "pt": "Aqui está. Bom apetite!",
+          "en": "It's ten o'clock. Would you like a coffee?",
+          "ar": "مرحبًا! اسمي كريم. أنا من مصر."
+        }
+      ],
+      "answer": "Olá! Meu nome é Karim. Sou do Egito.",
+      "accepted": [],
+      "audio": "Olá! Meu nome é Karim. Sou do Egito.",
+      "explanation": {
+        "pt": "Você ouviu: 'Olá! Meu nome é Karim. Sou do Egito.' — 'Hello! My name is Karim. I'm from Egypt.'",
+        "en": "You heard: 'Olá! Meu nome é Karim. Sou do Egito.' — 'Hello! My name is Karim. I'm from Egypt.'",
+        "ar": "سمعت: 'Olá! Meu nome é Karim. Sou do Egito.' — 'مرحبًا! اسمي كريم. أنا من مصر.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Aqui está. Bom apetite!",
+          "en": "Here you go. Enjoy!",
+          "ar": "مرحبًا! اسمي كريم. أنا من مصر."
+        },
+        {
+          "pt": "Olá! Meu nome é Karim. Sou do Egito.",
+          "en": "Nice to meet you, Karim! I'm Marina.",
+          "ar": "تفضل. بالهناء والشفاء!"
+        },
+        {
+          "pt": "Muito prazer, Karim! Eu sou a Marina.",
+          "en": "Hello! My name is Karim. I'm from Egypt.",
+          "ar": "سررت بلقائك يا كريم! أنا مارينا."
+        }
+      ],
+      "answer": "Muito prazer, Karim! Eu sou a Marina.",
+      "accepted": [],
+      "audio": "Muito prazer, Karim! Eu sou a Marina.",
+      "explanation": {
+        "pt": "Você ouviu: 'Muito prazer, Karim! Eu sou a Marina.' — 'Nice to meet you, Karim! I'm Marina.'",
+        "en": "You heard: 'Muito prazer, Karim! Eu sou a Marina.' — 'Nice to meet you, Karim! I'm Marina.'",
+        "ar": "سمعت: 'Muito prazer, Karim! Eu sou a Marina.' — 'سررت بلقائك يا كريم! أنا مارينا.'"
+      }
+    }
+  ],
+  "speaking": {
+    "title": {
+      "pt": "Fale Agora — Ouça e Repita",
+      "en": "Speak Now — Listen and Repeat",
+      "ar": "تحدث الآن — استمع وكرر"
+    },
+    "phrases": [
+      {
+        "pt": "Olá! Meu nome é Karim. Sou do Egito.",
+        "en": "Hello! My name is Karim. I'm from Egypt.",
+        "ar": "مرحبًا! اسمي كريم. أنا من مصر."
+      },
+      {
+        "pt": "Muito prazer, Karim! Eu sou a Marina.",
+        "en": "Nice to meet you, Karim! I'm Marina.",
+        "ar": "سررت بلقائك يا كريم! أنا مارينا."
+      },
+      {
+        "pt": "Que horas são?",
+        "en": "What time is it?",
+        "ar": "كم الساعة؟"
+      },
+      {
+        "pt": "São dez horas. Quer um café?",
+        "en": "It's ten o'clock. Would you like a coffee?",
+        "ar": "إنها العاشرة. هل تريد قهوة؟"
+      },
+      {
+        "pt": "Sim, obrigado. Eu gostaria de um café com leite.",
+        "en": "Yes, thank you. I would like a coffee with milk.",
+        "ar": "نعم، شكرًا. أود قهوة بالحليب."
+      },
+      {
+        "pt": "Aqui está. Bom apetite!",
+        "en": "Here you go. Enjoy!",
+        "ar": "تفضل. بالهناء والشفاء!"
+      },
+      {
+        "pt": "olá / oi",
+        "en": "hello / hi",
+        "ar": "مرحبًا / أهلاً"
+      },
+      {
+        "pt": "obrigado / obrigada",
+        "en": "thank you (m/f)",
+        "ar": "شكرًا (مذكر/مؤنث)"
+      },
+      {
+        "pt": "meu nome é",
+        "en": "my name is",
+        "ar": "اسمي"
+      }
+    ]
+  },
+  "cultural_tips": {
+    "pt": "",
+    "en": "",
+    "ar": ""
+  }
+}

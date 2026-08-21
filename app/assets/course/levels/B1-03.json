@@ -1,0 +1,1921 @@
+{
+  "id": "B1-03",
+  "level": "B1",
+  "level_name": {
+    "pt": "Intermediário",
+    "en": "Intermediate",
+    "ar": "متوسط"
+  },
+  "title": {
+    "pt": "Pronomes Relativos",
+    "en": "Relative Pronouns",
+    "ar": "الضمائر الموصولة"
+  },
+  "objectives": [
+    {
+      "pt": "Identificar e usar os pronomes relativos que, quem, onde e cujo.",
+      "en": "Identify and use the relative pronouns que, quem, onde and cujo.",
+      "ar": "التعرّف على الضمائر الموصولة que وquem وonde وcujo واستخدامها."
+    },
+    {
+      "pt": "Unir orações para descrever pessoas, coisas e lugares.",
+      "en": "Join clauses to describe people, things and places.",
+      "ar": "ربط الجمل لوصف الأشخاص والأشياء والأماكن."
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "o pronome",
+      "ipa": "/u pɾoˈnõ.mi/",
+      "en": "the pronoun",
+      "ar": "الضمير",
+      "example": {
+        "pt": "E o café onde nos encontramos ontem?",
+        "en": "And the café where we met yesterday?",
+        "ar": "والمقهى الذي التقينا فيه أمس؟"
+      }
+    },
+    {
+      "pt": "relativo",
+      "ipa": "/he.laˈtʃi.vu/",
+      "en": "relative",
+      "ar": "موصول",
+      "example": {
+        "pt": "Conhece a moça que trabalha na padaria?",
+        "en": "Do you know the girl who works at the bakery?",
+        "ar": "هل تعرف الفتاة التي تعمل في المخبز؟"
+      }
+    },
+    {
+      "pt": "que",
+      "ipa": "/ki/",
+      "en": "that / who / which",
+      "ar": "الذي / التي",
+      "example": {
+        "pt": "Conhece a moça que trabalha na padaria?",
+        "en": "Do you know the girl who works at the bakery?",
+        "ar": "هل تعرف الفتاة التي تعمل في المخبز؟"
+      }
+    },
+    {
+      "pt": "quem",
+      "ipa": "/ˈkẽj/",
+      "en": "who (with preposition)",
+      "ar": "من",
+      "example": {
+        "pt": "Sim, a amiga com quem estudo na universidade.",
+        "en": "Yes, she is the friend I study with at university.",
+        "ar": "نعم، إنها صديقتي التي أدرس معها في الجامعة."
+      }
+    },
+    {
+      "pt": "onde",
+      "ipa": "/ˈõ.dʒi/",
+      "en": "where",
+      "ar": "حيث / أين",
+      "example": {
+        "pt": "E o café onde nos encontramos ontem?",
+        "en": "And the café where we met yesterday?",
+        "ar": "والمقهى الذي التقينا فيه أمس؟"
+      }
+    },
+    {
+      "pt": "cujo",
+      "ipa": "/ˈku.ʒu/",
+      "en": "whose",
+      "ar": "الذي له",
+      "example": {
+        "pt": "O lugar cujo preço é justo é perfeito para nós.",
+        "en": "The place whose prices are fair is perfect for us.",
+        "ar": "المكان الذي أسعاره معقولة مثالي لنا."
+      }
+    },
+    {
+      "pt": "a pessoa",
+      "ipa": "/a peˈso.wɐ/",
+      "en": "the person",
+      "ar": "الشخص",
+      "example": {
+        "pt": "Conhece a moça que trabalha na padaria?",
+        "en": "Do you know the girl who works at the bakery?",
+        "ar": "هل تعرف الفتاة التي تعمل في المخبز؟"
+      }
+    },
+    {
+      "pt": "o lugar",
+      "ipa": "/u luˈɡaʁ/",
+      "en": "the place",
+      "ar": "المكان",
+      "example": {
+        "pt": "E o café onde nos encontramos ontem?",
+        "en": "And the café where we met yesterday?",
+        "ar": "والمقهى الذي التقينا فيه أمس؟"
+      }
+    },
+    {
+      "pt": "a coisa",
+      "ipa": "/a ˈkoj.zɐ/",
+      "en": "the thing",
+      "ar": "الشيء",
+      "example": {
+        "pt": "Conhece a moça que trabalha na padaria?",
+        "en": "Do you know the girl who works at the bakery?",
+        "ar": "هل تعرف الفتاة التي تعمل في المخبز؟"
+      }
+    },
+    {
+      "pt": "a explicação",
+      "ipa": "/a es.pli.kaˈsɐ̃w/",
+      "en": "the explanation",
+      "ar": "الشرح",
+      "example": {
+        "pt": "Conhece a moça que trabalha na padaria?",
+        "en": "Do you know the girl who works at the bakery?",
+        "ar": "هل تعرف الفتاة التي تعمل في المخبز؟"
+      }
+    },
+    {
+      "pt": "a frase",
+      "ipa": "/a ˈfɾa.zi/",
+      "en": "the sentence",
+      "ar": "الجملة",
+      "example": {
+        "pt": "Conhece a moça que trabalha na padaria?",
+        "en": "Do you know the girl who works at the bakery?",
+        "ar": "هل تعرف الفتاة التي تعمل في المخبز؟"
+      }
+    },
+    {
+      "pt": "substituir",
+      "ipa": "/sub.tʃi.tuˈiʁ/",
+      "en": "to replace",
+      "ar": "يستبدل",
+      "example": {
+        "pt": "Conhece a moça que trabalha na padaria?",
+        "en": "Do you know the girl who works at the bakery?",
+        "ar": "هل تعرف الفتاة التي تعمل في المخبز؟"
+      }
+    },
+    {
+      "pt": "o antecedente",
+      "ipa": "/u ɐ̃.te.siˈdẽ.tʃi/",
+      "en": "the antecedent",
+      "ar": "المرجع السابق",
+      "example": {
+        "pt": "E o café onde nos encontramos ontem?",
+        "en": "And the café where we met yesterday?",
+        "ar": "والمقهى الذي التقينا فيه أمس؟"
+      }
+    },
+    {
+      "pt": "a pergunta",
+      "ipa": "/a peʁˈɡũ.tɐ/",
+      "en": "the question",
+      "ar": "السؤال",
+      "example": {
+        "pt": "Conhece a moça que trabalha na padaria?",
+        "en": "Do you know the girl who works at the bakery?",
+        "ar": "هل تعرف الفتاة التي تعمل في المخبز؟"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "title": {
+        "pt": "O pronome relativo 'que'",
+        "en": "The relative pronoun 'que'",
+        "ar": "الضمير الموصول 'que'"
+      },
+      "explanation": {
+        "pt": "'Que' é o pronome relativo mais usado. Serve para pessoas, coisas e lugares, e pode exercer a função de sujeito ou objeto na oração relativa.",
+        "en": "'Que' is the most common relative pronoun. It is used for people, things and places, and can act as subject or object in the relative clause.",
+        "ar": "'que' هو أكثر ضمائر الوصل استخداماً. يُستخدم للأشخاص والأشياء والأماكن، ويمكن أن يكون فاعلاً أو مفعولاً في جملة الوصل."
+      },
+      "examples": [
+        {
+          "pt": "A pessoa que conheci é brasileira.",
+          "en": "The person I met is Brazilian.",
+          "ar": "الشخص الذي قابلته برازيلي."
+        },
+        {
+          "pt": "O livro que lemos é ótimo.",
+          "en": "The book we read is great.",
+          "ar": "الكتاب الذي قرأناه رائع."
+        },
+        {
+          "pt": "A cidade que visitamos é linda.",
+          "en": "The city we visited is beautiful.",
+          "ar": "المدينة التي زرناها جميلة."
+        }
+      ]
+    },
+    {
+      "title": {
+        "pt": "Quem, onde e cujo",
+        "en": "Quem, onde and cujo",
+        "ar": "Quem وonde وcujo"
+      },
+      "explanation": {
+        "pt": "'Quem' é usado para pessoas, normalmente depois de preposição (com quem, para quem). 'Onde' refere-se a lugar. 'Cujo' indica posse e concorda com o possuído.",
+        "en": "'Quem' is used for people, usually after a preposition (com quem, para quem). 'Onde' refers to a place. 'Cujo' indicates possession and agrees with the possessed noun.",
+        "ar": "'quem' يُستخدم للأشخاص، عادة بعد حرف الجر. 'onde' يُشير إلى المكان. 'cujo' يُفيد الملكية ويطابق الاسم المملوك."
+      },
+      "examples": [
+        {
+          "pt": "O amigo com quem viajei é divertido.",
+          "en": "The friend I travelled with is fun.",
+          "ar": "الصديق الذي سافرت معه مرح."
+        },
+        {
+          "pt": "A casa onde moro é pequena.",
+          "en": "The house where I live is small.",
+          "ar": "المنزل الذي أسكن فيه صغير."
+        },
+        {
+          "pt": "O homem cujo carro é vermelho é meu vizinho.",
+          "en": "The man whose car is red is my neighbour.",
+          "ar": "الرجل الذي سيارته حمراء هو جاري."
+        }
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": {
+      "pt": "Descrevendo pessoas e lugares",
+      "en": "Describing people and places",
+      "ar": "وصف الأشخاص والأماكن"
+    },
+    "lines": [
+      {
+        "speaker": "Lucas",
+        "pt": "Conhece a moça que trabalha na padaria?",
+        "en": "Do you know the girl who works at the bakery?",
+        "ar": "هل تعرف الفتاة التي تعمل في المخبز؟"
+      },
+      {
+        "speaker": "Marina",
+        "pt": "Sim, a amiga com quem estudo na universidade.",
+        "en": "Yes, she is the friend I study with at university.",
+        "ar": "نعم، إنها صديقتي التي أدرس معها في الجامعة."
+      },
+      {
+        "speaker": "Lucas",
+        "pt": "E o café onde nos encontramos ontem?",
+        "en": "And the café where we met yesterday?",
+        "ar": "والمقهى الذي التقينا فيه أمس؟"
+      },
+      {
+        "speaker": "Marina",
+        "pt": "Gostei muito! O bolo que comemos era delicioso.",
+        "en": "I loved it! The cake we ate was delicious.",
+        "ar": "أعجبني كثيراً! الكعكة التي أكلناها كانت لذيذة."
+      },
+      {
+        "speaker": "Lucas",
+        "pt": "O lugar cujo preço é justo é perfeito para nós.",
+        "en": "The place whose prices are fair is perfect for us.",
+        "ar": "المكان الذي أسعاره معقولة مثالي لنا."
+      }
+    ]
+  },
+  "reading": {
+    "title": {
+      "pt": "Minha cidade",
+      "en": "My city",
+      "ar": "مدينتي"
+    },
+    "text_pt": "A cidade onde nasci é pequena e tranquila. A rua que mais gosto fica perto do rio. As pessoas que moram aqui são acolhedoras. É um lugar cuja história me encanta.",
+    "text_en": "The city where I was born is small and quiet. The street I like the most is near the river. The people who live here are welcoming. It is a place whose history fascinates me.",
+    "text_ar": "المدينة التي وُلدت فيها صغيرة وهادئة. الشارع الذي أحبه أكثر يقع قرب النهر. الأشخاص الذين يعيشون هنا ودودون. إنه مكان يسحرني تاريخه."
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Complete: \"A mulher ___ mora aqui é médica.\"",
+        "en": "Complete: \"The woman ___ lives here is a doctor.\"",
+        "ar": "أكمل: \"المرأة ___ تسكن هنا طبيبة.\""
+      },
+      "options": [
+        {
+          "pt": "que",
+          "en": "who",
+          "ar": "التي"
+        },
+        {
+          "pt": "onde",
+          "en": "where",
+          "ar": "حيث"
+        },
+        {
+          "pt": "cujo",
+          "en": "whose",
+          "ar": "التي لها"
+        },
+        {
+          "pt": "quando",
+          "en": "when",
+          "ar": "عندما"
+        }
+      ],
+      "answer": "que",
+      "explanation": {
+        "pt": "Usamos 'que' para pessoas quando exerce a função de sujeito: 'a mulher que mora'.",
+        "en": "We use 'que' for people when it is the subject: 'the woman who lives'.",
+        "ar": "نستخدم 'que' للأشخاص عندما يكون فاعلاً: 'المرأة التي تسكن'."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Complete: \"A cidade ___ nasci é pequena.\"",
+        "en": "Complete: \"The city ___ I was born is small.\"",
+        "ar": "أكمل: \"المدينة ___ وُلدت فيها صغيرة.\""
+      },
+      "options": [
+        {
+          "pt": "onde",
+          "en": "where",
+          "ar": "التي في"
+        },
+        {
+          "pt": "que",
+          "en": "that",
+          "ar": "التي"
+        },
+        {
+          "pt": "quem",
+          "en": "who",
+          "ar": "من"
+        },
+        {
+          "pt": "cuja",
+          "en": "whose (fem.)",
+          "ar": "التي لها"
+        }
+      ],
+      "answer": "onde",
+      "explanation": {
+        "pt": "'Onde' indica lugar: 'a cidade onde nasci' = a cidade na qual nasci.",
+        "en": "'Onde' indicates a place: 'the city where I was born'.",
+        "ar": "'onde' تدل على المكان: 'المدينة التي وُلدت فيها'."
+      }
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o inglês: \"O livro que lemos é ótimo.\"",
+        "en": "Translate to English: \"O livro que lemos é ótimo.\"",
+        "ar": "ترجم إلى الإنجليزية: \"O livro que lemos é ótimo.\""
+      },
+      "options": [],
+      "answer": "The book we read is great.",
+      "explanation": {
+        "pt": "'Que' aqui retoma 'o livro' como objeto do verbo 'ler'.",
+        "en": "'Que' here refers back to 'the book' as the object of the verb 'read'.",
+        "ar": "يعود 'que' هنا على 'الكتاب' كمفعول به لفعل 'قرأ'."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "trabalha",
+          "en": "trabalha",
+          "ar": "trabalha"
+        },
+        {
+          "pt": "Conhece",
+          "en": "Conhece",
+          "ar": "Conhece"
+        },
+        {
+          "pt": "na",
+          "en": "na",
+          "ar": "na"
+        },
+        {
+          "pt": "moça",
+          "en": "moça",
+          "ar": "moça"
+        },
+        {
+          "pt": "padaria?",
+          "en": "padaria?",
+          "ar": "padaria?"
+        }
+      ],
+      "answer": "Conhece a moça que trabalha na padaria?",
+      "accepted": [
+        "Conhece a moça que trabalha na padaria?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Conhece a moça que trabalha na padaria?'",
+        "en": "The correct order: 'Do you know the girl who works at the bakery?'",
+        "ar": "الترتيب الصحيح: 'هل تعرف الفتاة التي تعمل في المخبز؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "quem",
+          "en": "whose",
+          "ar": "quem"
+        },
+        {
+          "pt": "que",
+          "en": "who (with preposition)",
+          "ar": "que"
+        },
+        {
+          "pt": "relativo",
+          "en": "the pronoun",
+          "ar": "relativo"
+        },
+        {
+          "pt": "onde",
+          "en": "that / who / which",
+          "ar": "onde"
+        },
+        {
+          "pt": "cujo",
+          "en": "where",
+          "ar": "cujo"
+        },
+        {
+          "pt": "o pronome",
+          "en": "relative",
+          "ar": "o pronome"
+        }
+      ],
+      "answer": "quem::whose|que::who (with preposition)|relativo::the pronoun|onde::that / who / which|cujo::where|o pronome::relative",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim, a amiga com quem estudo na universidade.",
+          "en": "Do you know the girl who works at the bakery?",
+          "ar": "والمقهى الذي التقينا فيه أمس؟"
+        },
+        {
+          "pt": "E o café onde nos encontramos ontem?",
+          "en": "And the café where we met yesterday?",
+          "ar": "هل تعرف الفتاة التي تعمل في المخبز؟"
+        },
+        {
+          "pt": "Conhece a moça que trabalha na padaria?",
+          "en": "Yes, she is the friend I study with at university.",
+          "ar": "نعم، إنها صديقتي التي أدرس معها في الجامعة."
+        }
+      ],
+      "answer": "Conhece a moça que trabalha na padaria?",
+      "accepted": [],
+      "audio": "Conhece a moça que trabalha na padaria?",
+      "explanation": {
+        "pt": "Você ouviu: 'Conhece a moça que trabalha na padaria?' — 'Do you know the girl who works at the bakery?'",
+        "en": "You heard: 'Conhece a moça que trabalha na padaria?' — 'Do you know the girl who works at the bakery?'",
+        "ar": "سمعت: 'Conhece a moça que trabalha na padaria?' — 'هل تعرف الفتاة التي تعمل في المخبز؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "E o café onde nos encontramos ontem?",
+          "en": "I loved it! The cake we ate was delicious.",
+          "ar": "أعجبني كثيراً! الكعكة التي أكلناها كانت لذيذة."
+        },
+        {
+          "pt": "Sim, a amiga com quem estudo na universidade.",
+          "en": "Yes, she is the friend I study with at university.",
+          "ar": "نعم، إنها صديقتي التي أدرس معها في الجامعة."
+        },
+        {
+          "pt": "Gostei muito! O bolo que comemos era delicioso.",
+          "en": "And the café where we met yesterday?",
+          "ar": "والمقهى الذي التقينا فيه أمس؟"
+        }
+      ],
+      "answer": "Sim, a amiga com quem estudo na universidade.",
+      "accepted": [],
+      "audio": "Sim, a amiga com quem estudo na universidade.",
+      "explanation": {
+        "pt": "Você ouviu: 'Sim, a amiga com quem estudo na universidade.' — 'Yes, she is the friend I study with at university.'",
+        "en": "You heard: 'Sim, a amiga com quem estudo na universidade.' — 'Yes, she is the friend I study with at university.'",
+        "ar": "سمعت: 'Sim, a amiga com quem estudo na universidade.' — 'نعم، إنها صديقتي التي أدرس معها في الجامعة.'"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "A ___ que conheci é brasileira.",
+        "en": "A ___ que conheci é brasileira.",
+        "ar": "A ___ que conheci é brasileira."
+      },
+      "options": [
+        {
+          "pt": "visitamos",
+          "en": "visitamos",
+          "ar": "visitamos"
+        },
+        {
+          "pt": "pessoa",
+          "en": "pessoa",
+          "ar": "pessoa"
+        },
+        {
+          "pt": "é",
+          "en": "é",
+          "ar": "é"
+        }
+      ],
+      "answer": "pessoa",
+      "accepted": [],
+      "explanation": {
+        "pt": "A resposta é 'pessoa'. Frase completa: A pessoa que conheci é brasileira.",
+        "en": "The answer is 'pessoa'. Full sentence: The person I met is Brazilian.",
+        "ar": "الإجابة الصحيحة: 'pessoa'. الجملة كاملة: الشخص الذي قابلته برازيلي."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "na",
+          "en": "na",
+          "ar": "na"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "Conhece",
+          "en": "Conhece",
+          "ar": "Conhece"
+        },
+        {
+          "pt": "padaria?",
+          "en": "padaria?",
+          "ar": "padaria?"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "trabalha",
+          "en": "trabalha",
+          "ar": "trabalha"
+        },
+        {
+          "pt": "moça",
+          "en": "moça",
+          "ar": "moça"
+        }
+      ],
+      "answer": "Conhece a moça que trabalha na padaria?",
+      "accepted": [
+        "Conhece a moça que trabalha na padaria?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Conhece a moça que trabalha na padaria?'",
+        "en": "The correct order: 'Do you know the girl who works at the bakery?'",
+        "ar": "الترتيب الصحيح: 'هل تعرف الفتاة التي تعمل في المخبز؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "quem",
+          "en": "the pronoun",
+          "ar": "quem"
+        },
+        {
+          "pt": "relativo",
+          "en": "that / who / which",
+          "ar": "relativo"
+        },
+        {
+          "pt": "que",
+          "en": "where",
+          "ar": "que"
+        },
+        {
+          "pt": "o pronome",
+          "en": "relative",
+          "ar": "o pronome"
+        },
+        {
+          "pt": "cujo",
+          "en": "who (with preposition)",
+          "ar": "cujo"
+        },
+        {
+          "pt": "onde",
+          "en": "whose",
+          "ar": "onde"
+        }
+      ],
+      "answer": "quem::the pronoun|relativo::that / who / which|que::where|o pronome::relative|cujo::who (with preposition)|onde::whose",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Gostei muito! O bolo que comemos era delicioso.",
+          "en": "I loved it! The cake we ate was delicious.",
+          "ar": "نعم، إنها صديقتي التي أدرس معها في الجامعة."
+        },
+        {
+          "pt": "Sim, a amiga com quem estudo na universidade.",
+          "en": "Do you know the girl who works at the bakery?",
+          "ar": "هل تعرف الفتاة التي تعمل في المخبز؟"
+        },
+        {
+          "pt": "Conhece a moça que trabalha na padaria?",
+          "en": "Yes, she is the friend I study with at university.",
+          "ar": "أعجبني كثيراً! الكعكة التي أكلناها كانت لذيذة."
+        }
+      ],
+      "answer": "Conhece a moça que trabalha na padaria?",
+      "accepted": [],
+      "audio": "Conhece a moça que trabalha na padaria?",
+      "explanation": {
+        "pt": "Você ouviu: 'Conhece a moça que trabalha na padaria?' — 'Do you know the girl who works at the bakery?'",
+        "en": "You heard: 'Conhece a moça que trabalha na padaria?' — 'Do you know the girl who works at the bakery?'",
+        "ar": "سمعت: 'Conhece a moça que trabalha na padaria?' — 'هل تعرف الفتاة التي تعمل في المخبز؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Conhece a moça que trabalha na padaria?",
+          "en": "Yes, she is the friend I study with at university.",
+          "ar": "هل تعرف الفتاة التي تعمل في المخبز؟"
+        },
+        {
+          "pt": "Sim, a amiga com quem estudo na universidade.",
+          "en": "The place whose prices are fair is perfect for us.",
+          "ar": "نعم، إنها صديقتي التي أدرس معها في الجامعة."
+        },
+        {
+          "pt": "O lugar cujo preço é justo é perfeito para nós.",
+          "en": "Do you know the girl who works at the bakery?",
+          "ar": "المكان الذي أسعاره معقولة مثالي لنا."
+        }
+      ],
+      "answer": "Sim, a amiga com quem estudo na universidade.",
+      "accepted": [],
+      "audio": "Sim, a amiga com quem estudo na universidade.",
+      "explanation": {
+        "pt": "Você ouviu: 'Sim, a amiga com quem estudo na universidade.' — 'Yes, she is the friend I study with at university.'",
+        "en": "You heard: 'Sim, a amiga com quem estudo na universidade.' — 'Yes, she is the friend I study with at university.'",
+        "ar": "سمعت: 'Sim, a amiga com quem estudo na universidade.' — 'نعم، إنها صديقتي التي أدرس معها في الجامعة.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "trabalha",
+          "en": "trabalha",
+          "ar": "trabalha"
+        },
+        {
+          "pt": "padaria?",
+          "en": "padaria?",
+          "ar": "padaria?"
+        },
+        {
+          "pt": "moça",
+          "en": "moça",
+          "ar": "moça"
+        },
+        {
+          "pt": "na",
+          "en": "na",
+          "ar": "na"
+        },
+        {
+          "pt": "Conhece",
+          "en": "Conhece",
+          "ar": "Conhece"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        }
+      ],
+      "answer": "Conhece a moça que trabalha na padaria?",
+      "accepted": [
+        "Conhece a moça que trabalha na padaria?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Conhece a moça que trabalha na padaria?'",
+        "en": "The correct order: 'Do you know the girl who works at the bakery?'",
+        "ar": "الترتيب الصحيح: 'هل تعرف الفتاة التي تعمل في المخبز؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "que",
+          "en": "relative",
+          "ar": "que"
+        },
+        {
+          "pt": "quem",
+          "en": "that / who / which",
+          "ar": "quem"
+        },
+        {
+          "pt": "onde",
+          "en": "the pronoun",
+          "ar": "onde"
+        },
+        {
+          "pt": "relativo",
+          "en": "whose",
+          "ar": "relativo"
+        },
+        {
+          "pt": "cujo",
+          "en": "who (with preposition)",
+          "ar": "cujo"
+        },
+        {
+          "pt": "o pronome",
+          "en": "where",
+          "ar": "o pronome"
+        }
+      ],
+      "answer": "que::relative|quem::that / who / which|onde::the pronoun|relativo::whose|cujo::who (with preposition)|o pronome::where",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Conhece a moça que trabalha na padaria?",
+          "en": "I loved it! The cake we ate was delicious.",
+          "ar": "هل تعرف الفتاة التي تعمل في المخبز؟"
+        },
+        {
+          "pt": "Gostei muito! O bolo que comemos era delicioso.",
+          "en": "Do you know the girl who works at the bakery?",
+          "ar": "والمقهى الذي التقينا فيه أمس؟"
+        },
+        {
+          "pt": "E o café onde nos encontramos ontem?",
+          "en": "And the café where we met yesterday?",
+          "ar": "أعجبني كثيراً! الكعكة التي أكلناها كانت لذيذة."
+        }
+      ],
+      "answer": "Conhece a moça que trabalha na padaria?",
+      "accepted": [],
+      "audio": "Conhece a moça que trabalha na padaria?",
+      "explanation": {
+        "pt": "Você ouviu: 'Conhece a moça que trabalha na padaria?' — 'Do you know the girl who works at the bakery?'",
+        "en": "You heard: 'Conhece a moça que trabalha na padaria?' — 'Do you know the girl who works at the bakery?'",
+        "ar": "سمعت: 'Conhece a moça que trabalha na padaria?' — 'هل تعرف الفتاة التي تعمل في المخبز؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim, a amiga com quem estudo na universidade.",
+          "en": "I loved it! The cake we ate was delicious.",
+          "ar": "المكان الذي أسعاره معقولة مثالي لنا."
+        },
+        {
+          "pt": "O lugar cujo preço é justo é perfeito para nós.",
+          "en": "Yes, she is the friend I study with at university.",
+          "ar": "أعجبني كثيراً! الكعكة التي أكلناها كانت لذيذة."
+        },
+        {
+          "pt": "Gostei muito! O bolo que comemos era delicioso.",
+          "en": "The place whose prices are fair is perfect for us.",
+          "ar": "نعم، إنها صديقتي التي أدرس معها في الجامعة."
+        }
+      ],
+      "answer": "Sim, a amiga com quem estudo na universidade.",
+      "accepted": [],
+      "audio": "Sim, a amiga com quem estudo na universidade.",
+      "explanation": {
+        "pt": "Você ouviu: 'Sim, a amiga com quem estudo na universidade.' — 'Yes, she is the friend I study with at university.'",
+        "en": "You heard: 'Sim, a amiga com quem estudo na universidade.' — 'Yes, she is the friend I study with at university.'",
+        "ar": "سمعت: 'Sim, a amiga com quem estudo na universidade.' — 'نعم، إنها صديقتي التي أدرس معها في الجامعة.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Conhece",
+          "en": "Conhece",
+          "ar": "Conhece"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "moça",
+          "en": "moça",
+          "ar": "moça"
+        },
+        {
+          "pt": "padaria?",
+          "en": "padaria?",
+          "ar": "padaria?"
+        },
+        {
+          "pt": "na",
+          "en": "na",
+          "ar": "na"
+        },
+        {
+          "pt": "trabalha",
+          "en": "trabalha",
+          "ar": "trabalha"
+        }
+      ],
+      "answer": "Conhece a moça que trabalha na padaria?",
+      "accepted": [
+        "Conhece a moça que trabalha na padaria?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Conhece a moça que trabalha na padaria?'",
+        "en": "The correct order: 'Do you know the girl who works at the bakery?'",
+        "ar": "الترتيب الصحيح: 'هل تعرف الفتاة التي تعمل في المخبز؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "cujo",
+          "en": "relative",
+          "ar": "cujo"
+        },
+        {
+          "pt": "que",
+          "en": "whose",
+          "ar": "que"
+        },
+        {
+          "pt": "o pronome",
+          "en": "who (with preposition)",
+          "ar": "o pronome"
+        },
+        {
+          "pt": "relativo",
+          "en": "where",
+          "ar": "relativo"
+        },
+        {
+          "pt": "quem",
+          "en": "the pronoun",
+          "ar": "quem"
+        },
+        {
+          "pt": "onde",
+          "en": "that / who / which",
+          "ar": "onde"
+        }
+      ],
+      "answer": "cujo::relative|que::whose|o pronome::who (with preposition)|relativo::where|quem::the pronoun|onde::that / who / which",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "E o café onde nos encontramos ontem?",
+          "en": "And the café where we met yesterday?",
+          "ar": "والمقهى الذي التقينا فيه أمس؟"
+        },
+        {
+          "pt": "Sim, a amiga com quem estudo na universidade.",
+          "en": "Yes, she is the friend I study with at university.",
+          "ar": "هل تعرف الفتاة التي تعمل في المخبز؟"
+        },
+        {
+          "pt": "Conhece a moça que trabalha na padaria?",
+          "en": "Do you know the girl who works at the bakery?",
+          "ar": "نعم، إنها صديقتي التي أدرس معها في الجامعة."
+        }
+      ],
+      "answer": "Conhece a moça que trabalha na padaria?",
+      "accepted": [],
+      "audio": "Conhece a moça que trabalha na padaria?",
+      "explanation": {
+        "pt": "Você ouviu: 'Conhece a moça que trabalha na padaria?' — 'Do you know the girl who works at the bakery?'",
+        "en": "You heard: 'Conhece a moça que trabalha na padaria?' — 'Do you know the girl who works at the bakery?'",
+        "ar": "سمعت: 'Conhece a moça que trabalha na padaria?' — 'هل تعرف الفتاة التي تعمل في المخبز؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Conhece a moça que trabalha na padaria?",
+          "en": "Do you know the girl who works at the bakery?",
+          "ar": "نعم، إنها صديقتي التي أدرس معها في الجامعة."
+        },
+        {
+          "pt": "Sim, a amiga com quem estudo na universidade.",
+          "en": "Yes, she is the friend I study with at university.",
+          "ar": "والمقهى الذي التقينا فيه أمس؟"
+        },
+        {
+          "pt": "E o café onde nos encontramos ontem?",
+          "en": "And the café where we met yesterday?",
+          "ar": "هل تعرف الفتاة التي تعمل في المخبز؟"
+        }
+      ],
+      "answer": "Sim, a amiga com quem estudo na universidade.",
+      "accepted": [],
+      "audio": "Sim, a amiga com quem estudo na universidade.",
+      "explanation": {
+        "pt": "Você ouviu: 'Sim, a amiga com quem estudo na universidade.' — 'Yes, she is the friend I study with at university.'",
+        "en": "You heard: 'Sim, a amiga com quem estudo na universidade.' — 'Yes, she is the friend I study with at university.'",
+        "ar": "سمعت: 'Sim, a amiga com quem estudo na universidade.' — 'نعم، إنها صديقتي التي أدرس معها في الجامعة.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "moça",
+          "en": "moça",
+          "ar": "moça"
+        },
+        {
+          "pt": "na",
+          "en": "na",
+          "ar": "na"
+        },
+        {
+          "pt": "trabalha",
+          "en": "trabalha",
+          "ar": "trabalha"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "padaria?",
+          "en": "padaria?",
+          "ar": "padaria?"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "Conhece",
+          "en": "Conhece",
+          "ar": "Conhece"
+        }
+      ],
+      "answer": "Conhece a moça que trabalha na padaria?",
+      "accepted": [
+        "Conhece a moça que trabalha na padaria?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Conhece a moça que trabalha na padaria?'",
+        "en": "The correct order: 'Do you know the girl who works at the bakery?'",
+        "ar": "الترتيب الصحيح: 'هل تعرف الفتاة التي تعمل في المخبز؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "quem",
+          "en": "relative",
+          "ar": "quem"
+        },
+        {
+          "pt": "o pronome",
+          "en": "that / who / which",
+          "ar": "o pronome"
+        },
+        {
+          "pt": "que",
+          "en": "the pronoun",
+          "ar": "que"
+        },
+        {
+          "pt": "cujo",
+          "en": "where",
+          "ar": "cujo"
+        },
+        {
+          "pt": "onde",
+          "en": "who (with preposition)",
+          "ar": "onde"
+        },
+        {
+          "pt": "relativo",
+          "en": "whose",
+          "ar": "relativo"
+        }
+      ],
+      "answer": "quem::relative|o pronome::that / who / which|que::the pronoun|cujo::where|onde::who (with preposition)|relativo::whose",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Conhece a moça que trabalha na padaria?",
+          "en": "And the café where we met yesterday?",
+          "ar": "والمقهى الذي التقينا فيه أمس؟"
+        },
+        {
+          "pt": "E o café onde nos encontramos ontem?",
+          "en": "Do you know the girl who works at the bakery?",
+          "ar": "المكان الذي أسعاره معقولة مثالي لنا."
+        },
+        {
+          "pt": "O lugar cujo preço é justo é perfeito para nós.",
+          "en": "The place whose prices are fair is perfect for us.",
+          "ar": "هل تعرف الفتاة التي تعمل في المخبز؟"
+        }
+      ],
+      "answer": "Conhece a moça que trabalha na padaria?",
+      "accepted": [],
+      "audio": "Conhece a moça que trabalha na padaria?",
+      "explanation": {
+        "pt": "Você ouviu: 'Conhece a moça que trabalha na padaria?' — 'Do you know the girl who works at the bakery?'",
+        "en": "You heard: 'Conhece a moça que trabalha na padaria?' — 'Do you know the girl who works at the bakery?'",
+        "ar": "سمعت: 'Conhece a moça que trabalha na padaria?' — 'هل تعرف الفتاة التي تعمل في المخبز؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "O lugar cujo preço é justo é perfeito para nós.",
+          "en": "The place whose prices are fair is perfect for us.",
+          "ar": "أعجبني كثيراً! الكعكة التي أكلناها كانت لذيذة."
+        },
+        {
+          "pt": "Gostei muito! O bolo que comemos era delicioso.",
+          "en": "I loved it! The cake we ate was delicious.",
+          "ar": "نعم، إنها صديقتي التي أدرس معها في الجامعة."
+        },
+        {
+          "pt": "Sim, a amiga com quem estudo na universidade.",
+          "en": "Yes, she is the friend I study with at university.",
+          "ar": "المكان الذي أسعاره معقولة مثالي لنا."
+        }
+      ],
+      "answer": "Sim, a amiga com quem estudo na universidade.",
+      "accepted": [],
+      "audio": "Sim, a amiga com quem estudo na universidade.",
+      "explanation": {
+        "pt": "Você ouviu: 'Sim, a amiga com quem estudo na universidade.' — 'Yes, she is the friend I study with at university.'",
+        "en": "You heard: 'Sim, a amiga com quem estudo na universidade.' — 'Yes, she is the friend I study with at university.'",
+        "ar": "سمعت: 'Sim, a amiga com quem estudo na universidade.' — 'نعم، إنها صديقتي التي أدرس معها في الجامعة.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "moça",
+          "en": "moça",
+          "ar": "moça"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "na",
+          "en": "na",
+          "ar": "na"
+        },
+        {
+          "pt": "padaria?",
+          "en": "padaria?",
+          "ar": "padaria?"
+        },
+        {
+          "pt": "trabalha",
+          "en": "trabalha",
+          "ar": "trabalha"
+        },
+        {
+          "pt": "Conhece",
+          "en": "Conhece",
+          "ar": "Conhece"
+        }
+      ],
+      "answer": "Conhece a moça que trabalha na padaria?",
+      "accepted": [
+        "Conhece a moça que trabalha na padaria?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Conhece a moça que trabalha na padaria?'",
+        "en": "The correct order: 'Do you know the girl who works at the bakery?'",
+        "ar": "الترتيب الصحيح: 'هل تعرف الفتاة التي تعمل في المخبز؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "quem",
+          "en": "the pronoun",
+          "ar": "quem"
+        },
+        {
+          "pt": "onde",
+          "en": "where",
+          "ar": "onde"
+        },
+        {
+          "pt": "o pronome",
+          "en": "relative",
+          "ar": "o pronome"
+        },
+        {
+          "pt": "que",
+          "en": "whose",
+          "ar": "que"
+        },
+        {
+          "pt": "relativo",
+          "en": "who (with preposition)",
+          "ar": "relativo"
+        },
+        {
+          "pt": "cujo",
+          "en": "that / who / which",
+          "ar": "cujo"
+        }
+      ],
+      "answer": "quem::the pronoun|onde::where|o pronome::relative|que::whose|relativo::who (with preposition)|cujo::that / who / which",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Gostei muito! O bolo que comemos era delicioso.",
+          "en": "And the café where we met yesterday?",
+          "ar": "هل تعرف الفتاة التي تعمل في المخبز؟"
+        },
+        {
+          "pt": "E o café onde nos encontramos ontem?",
+          "en": "Do you know the girl who works at the bakery?",
+          "ar": "أعجبني كثيراً! الكعكة التي أكلناها كانت لذيذة."
+        },
+        {
+          "pt": "Conhece a moça que trabalha na padaria?",
+          "en": "I loved it! The cake we ate was delicious.",
+          "ar": "والمقهى الذي التقينا فيه أمس؟"
+        }
+      ],
+      "answer": "Conhece a moça que trabalha na padaria?",
+      "accepted": [],
+      "audio": "Conhece a moça que trabalha na padaria?",
+      "explanation": {
+        "pt": "Você ouviu: 'Conhece a moça que trabalha na padaria?' — 'Do you know the girl who works at the bakery?'",
+        "en": "You heard: 'Conhece a moça que trabalha na padaria?' — 'Do you know the girl who works at the bakery?'",
+        "ar": "سمعت: 'Conhece a moça que trabalha na padaria?' — 'هل تعرف الفتاة التي تعمل في المخبز؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "E o café onde nos encontramos ontem?",
+          "en": "Yes, she is the friend I study with at university.",
+          "ar": "نعم، إنها صديقتي التي أدرس معها في الجامعة."
+        },
+        {
+          "pt": "Gostei muito! O bolo que comemos era delicioso.",
+          "en": "I loved it! The cake we ate was delicious.",
+          "ar": "والمقهى الذي التقينا فيه أمس؟"
+        },
+        {
+          "pt": "Sim, a amiga com quem estudo na universidade.",
+          "en": "And the café where we met yesterday?",
+          "ar": "أعجبني كثيراً! الكعكة التي أكلناها كانت لذيذة."
+        }
+      ],
+      "answer": "Sim, a amiga com quem estudo na universidade.",
+      "accepted": [],
+      "audio": "Sim, a amiga com quem estudo na universidade.",
+      "explanation": {
+        "pt": "Você ouviu: 'Sim, a amiga com quem estudo na universidade.' — 'Yes, she is the friend I study with at university.'",
+        "en": "You heard: 'Sim, a amiga com quem estudo na universidade.' — 'Yes, she is the friend I study with at university.'",
+        "ar": "سمعت: 'Sim, a amiga com quem estudo na universidade.' — 'نعم، إنها صديقتي التي أدرس معها في الجامعة.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "moça",
+          "en": "moça",
+          "ar": "moça"
+        },
+        {
+          "pt": "padaria?",
+          "en": "padaria?",
+          "ar": "padaria?"
+        },
+        {
+          "pt": "na",
+          "en": "na",
+          "ar": "na"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "trabalha",
+          "en": "trabalha",
+          "ar": "trabalha"
+        },
+        {
+          "pt": "Conhece",
+          "en": "Conhece",
+          "ar": "Conhece"
+        }
+      ],
+      "answer": "Conhece a moça que trabalha na padaria?",
+      "accepted": [
+        "Conhece a moça que trabalha na padaria?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Conhece a moça que trabalha na padaria?'",
+        "en": "The correct order: 'Do you know the girl who works at the bakery?'",
+        "ar": "الترتيب الصحيح: 'هل تعرف الفتاة التي تعمل في المخبز؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "cujo",
+          "en": "the pronoun",
+          "ar": "cujo"
+        },
+        {
+          "pt": "relativo",
+          "en": "that / who / which",
+          "ar": "relativo"
+        },
+        {
+          "pt": "que",
+          "en": "relative",
+          "ar": "que"
+        },
+        {
+          "pt": "o pronome",
+          "en": "who (with preposition)",
+          "ar": "o pronome"
+        },
+        {
+          "pt": "onde",
+          "en": "where",
+          "ar": "onde"
+        },
+        {
+          "pt": "quem",
+          "en": "whose",
+          "ar": "quem"
+        }
+      ],
+      "answer": "cujo::the pronoun|relativo::that / who / which|que::relative|o pronome::who (with preposition)|onde::where|quem::whose",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "E o café onde nos encontramos ontem?",
+          "en": "Yes, she is the friend I study with at university.",
+          "ar": "والمقهى الذي التقينا فيه أمس؟"
+        },
+        {
+          "pt": "Sim, a amiga com quem estudo na universidade.",
+          "en": "Do you know the girl who works at the bakery?",
+          "ar": "نعم، إنها صديقتي التي أدرس معها في الجامعة."
+        },
+        {
+          "pt": "Conhece a moça que trabalha na padaria?",
+          "en": "And the café where we met yesterday?",
+          "ar": "هل تعرف الفتاة التي تعمل في المخبز؟"
+        }
+      ],
+      "answer": "Conhece a moça que trabalha na padaria?",
+      "accepted": [],
+      "audio": "Conhece a moça que trabalha na padaria?",
+      "explanation": {
+        "pt": "Você ouviu: 'Conhece a moça que trabalha na padaria?' — 'Do you know the girl who works at the bakery?'",
+        "en": "You heard: 'Conhece a moça que trabalha na padaria?' — 'Do you know the girl who works at the bakery?'",
+        "ar": "سمعت: 'Conhece a moça que trabalha na padaria?' — 'هل تعرف الفتاة التي تعمل في المخبز؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Gostei muito! O bolo que comemos era delicioso.",
+          "en": "Yes, she is the friend I study with at university.",
+          "ar": "المكان الذي أسعاره معقولة مثالي لنا."
+        },
+        {
+          "pt": "O lugar cujo preço é justo é perfeito para nós.",
+          "en": "I loved it! The cake we ate was delicious.",
+          "ar": "أعجبني كثيراً! الكعكة التي أكلناها كانت لذيذة."
+        },
+        {
+          "pt": "Sim, a amiga com quem estudo na universidade.",
+          "en": "The place whose prices are fair is perfect for us.",
+          "ar": "نعم، إنها صديقتي التي أدرس معها في الجامعة."
+        }
+      ],
+      "answer": "Sim, a amiga com quem estudo na universidade.",
+      "accepted": [],
+      "audio": "Sim, a amiga com quem estudo na universidade.",
+      "explanation": {
+        "pt": "Você ouviu: 'Sim, a amiga com quem estudo na universidade.' — 'Yes, she is the friend I study with at university.'",
+        "en": "You heard: 'Sim, a amiga com quem estudo na universidade.' — 'Yes, she is the friend I study with at university.'",
+        "ar": "سمعت: 'Sim, a amiga com quem estudo na universidade.' — 'نعم، إنها صديقتي التي أدرس معها في الجامعة.'"
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'the pronoun'",
+        "en": "Type in Portuguese: 'the pronoun'",
+        "ar": "اكتب بالبرتغالية: 'الضمير'"
+      },
+      "options": [],
+      "answer": "o pronome",
+      "accepted": [
+        "o pronome"
+      ],
+      "explanation": {
+        "pt": "'o pronome' significa 'the pronoun'.",
+        "en": "'o pronome' means 'the pronoun'.",
+        "ar": "'$o pronome' بالعربية: '$الضمير'."
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'relative'",
+        "en": "Type in Portuguese: 'relative'",
+        "ar": "اكتب بالبرتغالية: 'موصول'"
+      },
+      "options": [],
+      "answer": "relativo",
+      "accepted": [
+        "relativo"
+      ],
+      "explanation": {
+        "pt": "'relativo' significa 'relative'.",
+        "en": "'relativo' means 'relative'.",
+        "ar": "'$relativo' بالعربية: '$موصول'."
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Conhece a moça que trabalha na padaria?",
+          "en": "Conhece a moça que trabalha na padaria?",
+          "ar": "Conhece a moça que trabalha na padaria?"
+        },
+        {
+          "pt": "E o café onde nos encontramos ontem?",
+          "en": "E o café onde nos encontramos ontem?",
+          "ar": "E o café onde nos encontramos ontem?"
+        },
+        {
+          "pt": "O lugar cujo preço é justo é perfeito para nós.",
+          "en": "O lugar cujo preço é justo é perfeito para nós.",
+          "ar": "O lugar cujo preço é justo é perfeito para nós."
+        }
+      ],
+      "answer": "Conhece a moça que trabalha na padaria?",
+      "accepted": [],
+      "audio": "Conhece a moça que trabalha na padaria?",
+      "explanation": {
+        "pt": "Você ouviu: 'Conhece a moça que trabalha na padaria?'",
+        "en": "You heard: 'Conhece a moça que trabalha na padaria?'",
+        "ar": "سمعت: 'Conhece a moça que trabalha na padaria?'"
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Sim, a amiga com quem estudo na universidade.",
+          "en": "Sim, a amiga com quem estudo na universidade.",
+          "ar": "Sim, a amiga com quem estudo na universidade."
+        },
+        {
+          "pt": "E o café onde nos encontramos ontem?",
+          "en": "E o café onde nos encontramos ontem?",
+          "ar": "E o café onde nos encontramos ontem?"
+        },
+        {
+          "pt": "Conhece a moça que trabalha na padaria?",
+          "en": "Conhece a moça que trabalha na padaria?",
+          "ar": "Conhece a moça que trabalha na padaria?"
+        }
+      ],
+      "answer": "Sim, a amiga com quem estudo na universidade.",
+      "accepted": [],
+      "audio": "Sim, a amiga com quem estudo na universidade.",
+      "explanation": {
+        "pt": "Você ouviu: 'Sim, a amiga com quem estudo na universidade.'",
+        "en": "You heard: 'Sim, a amiga com quem estudo na universidade.'",
+        "ar": "سمعت: 'Sim, a amiga com quem estudo na universidade.'"
+      }
+    },
+    {
+      "type": "dictation",
+      "prompt": {
+        "pt": "Ouça e escreva o que você ouviu.",
+        "en": "Listen and type what you hear.",
+        "ar": "استمع واكتب ما سمعته."
+      },
+      "options": [],
+      "answer": "Conhece a moça que trabalha na padaria?",
+      "accepted": [],
+      "audio": "Conhece a moça que trabalha na padaria?",
+      "explanation": {
+        "pt": "A frase correta: 'Conhece a moça que trabalha na padaria?'",
+        "en": "The correct sentence: 'Conhece a moça que trabalha na padaria?'",
+        "ar": "الجملة الصحيحة: 'Conhece a moça que trabalha na padaria?'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "moça",
+          "en": "moça",
+          "ar": "moça"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "na",
+          "en": "na",
+          "ar": "na"
+        },
+        {
+          "pt": "padaria?",
+          "en": "padaria?",
+          "ar": "padaria?"
+        },
+        {
+          "pt": "Conhece",
+          "en": "Conhece",
+          "ar": "Conhece"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "trabalha",
+          "en": "trabalha",
+          "ar": "trabalha"
+        }
+      ],
+      "answer": "Conhece a moça que trabalha na padaria?",
+      "accepted": [
+        "Conhece a moça que trabalha na padaria?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Conhece a moça que trabalha na padaria?'",
+        "en": "The correct order: 'Do you know the girl who works at the bakery?'",
+        "ar": "الترتيب الصحيح: 'هل تعرف الفتاة التي تعمل في المخبز؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "que",
+          "en": "whose",
+          "ar": "que"
+        },
+        {
+          "pt": "quem",
+          "en": "where",
+          "ar": "quem"
+        },
+        {
+          "pt": "onde",
+          "en": "who (with preposition)",
+          "ar": "onde"
+        },
+        {
+          "pt": "relativo",
+          "en": "the pronoun",
+          "ar": "relativo"
+        },
+        {
+          "pt": "o pronome",
+          "en": "that / who / which",
+          "ar": "o pronome"
+        },
+        {
+          "pt": "cujo",
+          "en": "relative",
+          "ar": "cujo"
+        }
+      ],
+      "answer": "que::whose|quem::where|onde::who (with preposition)|relativo::the pronoun|o pronome::that / who / which|cujo::relative",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "O lugar cujo preço é justo é perfeito para nós.",
+          "en": "Yes, she is the friend I study with at university.",
+          "ar": "المكان الذي أسعاره معقولة مثالي لنا."
+        },
+        {
+          "pt": "Conhece a moça que trabalha na padaria?",
+          "en": "The place whose prices are fair is perfect for us.",
+          "ar": "هل تعرف الفتاة التي تعمل في المخبز؟"
+        },
+        {
+          "pt": "Sim, a amiga com quem estudo na universidade.",
+          "en": "Do you know the girl who works at the bakery?",
+          "ar": "نعم، إنها صديقتي التي أدرس معها في الجامعة."
+        }
+      ],
+      "answer": "Conhece a moça que trabalha na padaria?",
+      "accepted": [],
+      "audio": "Conhece a moça que trabalha na padaria?",
+      "explanation": {
+        "pt": "Você ouviu: 'Conhece a moça que trabalha na padaria?' — 'Do you know the girl who works at the bakery?'",
+        "en": "You heard: 'Conhece a moça que trabalha na padaria?' — 'Do you know the girl who works at the bakery?'",
+        "ar": "سمعت: 'Conhece a moça que trabalha na padaria?' — 'هل تعرف الفتاة التي تعمل في المخبز؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "E o café onde nos encontramos ontem?",
+          "en": "Yes, she is the friend I study with at university.",
+          "ar": "هل تعرف الفتاة التي تعمل في المخبز؟"
+        },
+        {
+          "pt": "Conhece a moça que trabalha na padaria?",
+          "en": "And the café where we met yesterday?",
+          "ar": "والمقهى الذي التقينا فيه أمس؟"
+        },
+        {
+          "pt": "Sim, a amiga com quem estudo na universidade.",
+          "en": "Do you know the girl who works at the bakery?",
+          "ar": "نعم، إنها صديقتي التي أدرس معها في الجامعة."
+        }
+      ],
+      "answer": "Sim, a amiga com quem estudo na universidade.",
+      "accepted": [],
+      "audio": "Sim, a amiga com quem estudo na universidade.",
+      "explanation": {
+        "pt": "Você ouviu: 'Sim, a amiga com quem estudo na universidade.' — 'Yes, she is the friend I study with at university.'",
+        "en": "You heard: 'Sim, a amiga com quem estudo na universidade.' — 'Yes, she is the friend I study with at university.'",
+        "ar": "سمعت: 'Sim, a amiga com quem estudo na universidade.' — 'نعم، إنها صديقتي التي أدرس معها في الجامعة.'"
+      }
+    }
+  ],
+  "speaking": {
+    "title": {
+      "pt": "Fale Agora — Ouça e Repita",
+      "en": "Speak Now — Listen and Repeat",
+      "ar": "تحدث الآن — استمع وكرر"
+    },
+    "phrases": [
+      {
+        "pt": "Conhece a moça que trabalha na padaria?",
+        "en": "Do you know the girl who works at the bakery?",
+        "ar": "هل تعرف الفتاة التي تعمل في المخبز؟"
+      },
+      {
+        "pt": "Sim, a amiga com quem estudo na universidade.",
+        "en": "Yes, she is the friend I study with at university.",
+        "ar": "نعم، إنها صديقتي التي أدرس معها في الجامعة."
+      },
+      {
+        "pt": "E o café onde nos encontramos ontem?",
+        "en": "And the café where we met yesterday?",
+        "ar": "والمقهى الذي التقينا فيه أمس؟"
+      },
+      {
+        "pt": "Gostei muito! O bolo que comemos era delicioso.",
+        "en": "I loved it! The cake we ate was delicious.",
+        "ar": "أعجبني كثيراً! الكعكة التي أكلناها كانت لذيذة."
+      },
+      {
+        "pt": "O lugar cujo preço é justo é perfeito para nós.",
+        "en": "The place whose prices are fair is perfect for us.",
+        "ar": "المكان الذي أسعاره معقولة مثالي لنا."
+      },
+      {
+        "pt": "o pronome",
+        "en": "the pronoun",
+        "ar": "الضمير"
+      },
+      {
+        "pt": "relativo",
+        "en": "relative",
+        "ar": "موصول"
+      },
+      {
+        "pt": "que",
+        "en": "that / who / which",
+        "ar": "الذي / التي"
+      }
+    ]
+  },
+  "cultural_tips": {
+    "pt": "",
+    "en": "",
+    "ar": ""
+  }
+}

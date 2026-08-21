@@ -1,0 +1,1931 @@
+{
+  "id": "A1-10",
+  "level": "A1",
+  "level_name": {
+    "pt": "Iniciante",
+    "en": "Beginner",
+    "ar": "مبتدئ"
+  },
+  "title": {
+    "pt": "A Casa e os Cômodos",
+    "en": "The House and Rooms",
+    "ar": "المنزل والغرف"
+  },
+  "objectives": [
+    {
+      "pt": "Nomear os cômodos da casa",
+      "en": "Name the rooms of the house",
+      "ar": "تسمية غرف المنزل"
+    },
+    {
+      "pt": "Usar preposições de lugar (em, no, na)",
+      "en": "Use prepositions of place (em, no, na)",
+      "ar": "استخدام حروف الجر المكانية (em، no، na)"
+    },
+    {
+      "pt": "Descrever onde estão os objetos",
+      "en": "Describe where objects are",
+      "ar": "وصف أماكن الأشياء"
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "a casa",
+      "ipa": "/a ˈka.za/",
+      "en": "the house",
+      "ar": "المنزل",
+      "example": {
+        "pt": "Como é a sua nova casa?",
+        "en": "What's your new house like?",
+        "ar": "كيف هو منزلك الجديد؟"
+      }
+    },
+    {
+      "pt": "a sala",
+      "ipa": "/a ˈsa.la/",
+      "en": "the living room",
+      "ar": "غرفة المعيشة",
+      "example": {
+        "pt": "Como é a sua nova casa?",
+        "en": "What's your new house like?",
+        "ar": "كيف هو منزلك الجديد؟"
+      }
+    },
+    {
+      "pt": "a cozinha",
+      "ipa": "/a koˈzĩ.ɲa/",
+      "en": "the kitchen",
+      "ar": "المطبخ",
+      "example": {
+        "pt": "Como é a sua nova casa?",
+        "en": "What's your new house like?",
+        "ar": "كيف هو منزلك الجديد؟"
+      }
+    },
+    {
+      "pt": "o quarto",
+      "ipa": "/u ˈkwaʁ.tu/",
+      "en": "the bedroom",
+      "ar": "غرفة النوم",
+      "example": {
+        "pt": "E o que tem na sala?",
+        "en": "And what's in the living room?",
+        "ar": "وماذا يوجد في غرفة المعيشة؟"
+      }
+    },
+    {
+      "pt": "o banheiro",
+      "ipa": "/u bɐ̃ˈɲej.ɾu/",
+      "en": "the bathroom",
+      "ar": "الحمام",
+      "example": {
+        "pt": "E o que tem na sala?",
+        "en": "And what's in the living room?",
+        "ar": "وماذا يوجد في غرفة المعيشة؟"
+      }
+    },
+    {
+      "pt": "a porta",
+      "ipa": "/a ˈpɔʁ.ta/",
+      "en": "the door",
+      "ar": "الباب",
+      "example": {
+        "pt": "Como é a sua nova casa?",
+        "en": "What's your new house like?",
+        "ar": "كيف هو منزلك الجديد؟"
+      }
+    },
+    {
+      "pt": "a janela",
+      "ipa": "/a ʒaˈnɛ.la/",
+      "en": "the window",
+      "ar": "النافذة",
+      "example": {
+        "pt": "Como é a sua nova casa?",
+        "en": "What's your new house like?",
+        "ar": "كيف هو منزلك الجديد؟"
+      }
+    },
+    {
+      "pt": "a parede",
+      "ipa": "/a paˈɾe.dʒi/",
+      "en": "the wall",
+      "ar": "الجدار",
+      "example": {
+        "pt": "Como é a sua nova casa?",
+        "en": "What's your new house like?",
+        "ar": "كيف هو منزلك الجديد؟"
+      }
+    },
+    {
+      "pt": "a cama",
+      "ipa": "/a ˈkɐ̃.ma/",
+      "en": "the bed",
+      "ar": "السرير",
+      "example": {
+        "pt": "Como é a sua nova casa?",
+        "en": "What's your new house like?",
+        "ar": "كيف هو منزلك الجديد؟"
+      }
+    },
+    {
+      "pt": "a mesa",
+      "ipa": "/a ˈme.za/",
+      "en": "the table",
+      "ar": "الطاولة",
+      "example": {
+        "pt": "Como é a sua nova casa?",
+        "en": "What's your new house like?",
+        "ar": "كيف هو منزلك الجديد؟"
+      }
+    },
+    {
+      "pt": "a cadeira",
+      "ipa": "/a kaˈdej.ɾa/",
+      "en": "the chair",
+      "ar": "الكرسي",
+      "example": {
+        "pt": "Como é a sua nova casa?",
+        "en": "What's your new house like?",
+        "ar": "كيف هو منزلك الجديد؟"
+      }
+    },
+    {
+      "pt": "o sofá",
+      "ipa": "/u soˈfa/",
+      "en": "the sofa",
+      "ar": "الأريكة",
+      "example": {
+        "pt": "E o que tem na sala?",
+        "en": "And what's in the living room?",
+        "ar": "وماذا يوجد في غرفة المعيشة؟"
+      }
+    },
+    {
+      "pt": "o armário",
+      "ipa": "/u aʁˈma.ɾi.u/",
+      "en": "the wardrobe",
+      "ar": "خزانة الملابس",
+      "example": {
+        "pt": "E o que tem na sala?",
+        "en": "And what's in the living room?",
+        "ar": "وماذا يوجد في غرفة المعيشة؟"
+      }
+    },
+    {
+      "pt": "a geladeira",
+      "ipa": "/a ʒe.laˈdej.ɾa/",
+      "en": "the refrigerator",
+      "ar": "الثلاجة",
+      "example": {
+        "pt": "Como é a sua nova casa?",
+        "en": "What's your new house like?",
+        "ar": "كيف هو منزلك الجديد؟"
+      }
+    },
+    {
+      "pt": "o fogão",
+      "ipa": "/u foˈɡɐ̃w/",
+      "en": "the stove",
+      "ar": "الموقد",
+      "example": {
+        "pt": "E o que tem na sala?",
+        "en": "And what's in the living room?",
+        "ar": "وماذا يوجد في غرفة المعيشة؟"
+      }
+    },
+    {
+      "pt": "em",
+      "ipa": "/ẽj/",
+      "en": "in/at/on",
+      "ar": "في",
+      "example": {
+        "pt": "Eu estou em casa hoje.",
+        "en": "I'm at home today.",
+        "ar": "أنا في المنزل اليوم."
+      }
+    },
+    {
+      "pt": "no/na",
+      "ipa": "/nu/ /na/",
+      "en": "in the (m/f)",
+      "ar": "في (مذكر/مؤنث)",
+      "example": {
+        "pt": "Como é a sua nova casa?",
+        "en": "What's your new house like?",
+        "ar": "كيف هو منزلك الجديد؟"
+      }
+    },
+    {
+      "pt": "em cima de",
+      "ipa": "/ẽj ˈsĩ.ma dʒi/",
+      "en": "on top of",
+      "ar": "فوق",
+      "example": {
+        "pt": "Eu estou em casa hoje.",
+        "en": "I'm at home today.",
+        "ar": "أنا في المنزل اليوم."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "title": {
+        "pt": "Preposições de Lugar",
+        "en": "Prepositions of Place",
+        "ar": "حروف الجر المكانية"
+      },
+      "explanation": {
+        "pt": "A preposição 'em' combina com artigos: em + o = no, em + a = na. Exemplos: O livro está na mesa (on the table), Eu estou no quarto (in the bedroom), A chave está em cima do sofá (on top of the sofa).",
+        "en": "The preposition 'em' combines with articles: em + o = no, em + a = na. Examples: O livro está na mesa (The book is on the table), Eu estou no quarto (I'm in the bedroom), A chave está em cima do sofá (The key is on top of the sofa).",
+        "ar": "حرف الجر 'em' يتحد مع أدوات التعريف: em + o = no، em + a = na. أمثلة: O livro está na mesa (الكتاب على الطاولة)، Eu estou no quarto (أنا في غرفة النوم)، A chave está em cima do sofá (المفتاح فوق الأريكة)."
+      },
+      "examples": [
+        {
+          "pt": "O gato está na sala.",
+          "en": "The cat is in the living room.",
+          "ar": "القط في غرفة المعيشة."
+        },
+        {
+          "pt": "A comida está na geladeira.",
+          "en": "The food is in the refrigerator.",
+          "ar": "الطعام في الثلاجة."
+        },
+        {
+          "pt": "Eu estou em casa hoje.",
+          "en": "I'm at home today.",
+          "ar": "أنا في المنزل اليوم."
+        }
+      ]
+    },
+    {
+      "title": {
+        "pt": "Descrevendo a Casa",
+        "en": "Describing the House",
+        "ar": "وصف المنزل"
+      },
+      "explanation": {
+        "pt": "Para descrever a casa, use 'há' (there is/there are) ou 'tem': Tem três quartos na casa (There are three bedrooms in the house). 'Perto de' (near), 'longe de' (far from), 'ao lado de' (next to).",
+        "en": "To describe the house, use 'há' (there is/there are) or 'tem': Tem três quartos na casa (There are three bedrooms in the house). 'Perto de' (near), 'longe de' (far from), 'ao lado de' (next to).",
+        "ar": "لوصف المنزل، استخدم 'há' (يوجد) أو 'tem': Tem três quartos na casa (يوجد ثلاث غرف نوم في المنزل). 'Perto de' (قريب من)، 'longe de' (بعيد عن)، 'ao lado de' (بجانب)."
+      },
+      "examples": [
+        {
+          "pt": "A casa tem dois banheiros.",
+          "en": "The house has two bathrooms.",
+          "ar": "المنزل فيه حمامان."
+        },
+        {
+          "pt": "O mercado fica perto da casa.",
+          "en": "The market is near the house.",
+          "ar": "السوق قريب من المنزل."
+        },
+        {
+          "pt": "A escola fica ao lado do parque.",
+          "en": "The school is next to the park.",
+          "ar": "المدرسة بجانب الحديقة."
+        }
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": {
+      "pt": "A Nova Casa",
+      "en": "The New House",
+      "ar": "المنزل الجديد"
+    },
+    "lines": [
+      {
+        "speaker": "Amiga",
+        "pt": "Como é a sua nova casa?",
+        "en": "What's your new house like?",
+        "ar": "كيف هو منزلك الجديد؟"
+      },
+      {
+        "speaker": "Rafael",
+        "pt": "É grande! Tem uma sala, três quartos e uma cozinha enorme.",
+        "en": "It's big! It has a living room, three bedrooms and a huge kitchen.",
+        "ar": "إنه كبير! فيه غرفة معيشة وثلاث غرف نوم ومطبخ ضخم."
+      },
+      {
+        "speaker": "Amiga",
+        "pt": "E o que tem na sala?",
+        "en": "And what's in the living room?",
+        "ar": "وماذا يوجد في غرفة المعيشة؟"
+      },
+      {
+        "speaker": "Rafael",
+        "pt": "Tem um sofá novo e uma mesa de centro.",
+        "en": "There's a new sofa and a coffee table.",
+        "ar": "توجد أريكة جديدة وطاولة قهوة."
+      },
+      {
+        "speaker": "Amiga",
+        "pt": "Onde fica o banheiro?",
+        "en": "Where is the bathroom?",
+        "ar": "أين الحمام؟"
+      },
+      {
+        "speaker": "Rafael",
+        "pt": "Fica ao lado do quarto principal.",
+        "en": "It's next to the main bedroom.",
+        "ar": "إنه بجانب غرفة النوم الرئيسية."
+      }
+    ]
+  },
+  "reading": {
+    "title": {
+      "pt": "Minha Casa",
+      "en": "My House",
+      "ar": "منزلي"
+    },
+    "text_pt": "Minha casa fica perto do centro. Na entrada, tem uma porta grande e duas janelas. A sala é clara e tem um sofá amarelo. Na cozinha, o fogão e a geladeira são novos. O quarto é pequeno, mas a cama é confortável. Eu amo minha casa.",
+    "text_en": "My house is near downtown. At the entrance, there's a big door and two windows. The living room is bright and has a yellow sofa. In the kitchen, the stove and refrigerator are new. The bedroom is small, but the bed is comfortable. I love my house.",
+    "text_ar": "منزلي قريب من المركز. عند المدخل باب كبير ونافذتان. غرفة المعيشة مشرقة وفيها أريكة صفراء. في المطبخ، الموقد والثلاجة جديدان. غرفة النوم صغيرة لكن السرير مريح. أحب منزلي."
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Onde está o livro? (em + a mesa)",
+        "en": "Where is the book? (em + a mesa)",
+        "ar": "أين الكتاب؟ (em + a mesa)"
+      },
+      "options": [
+        {
+          "pt": "no mesa",
+          "en": "no mesa",
+          "ar": "no mesa"
+        },
+        {
+          "pt": "na mesa",
+          "en": "na mesa",
+          "ar": "na mesa"
+        },
+        {
+          "pt": "em mesa",
+          "en": "em mesa",
+          "ar": "em mesa"
+        }
+      ],
+      "answer": "na mesa",
+      "explanation": {
+        "pt": "em + a = na: na mesa.",
+        "en": "em + a = na: na mesa.",
+        "ar": "em + a = na: na mesa."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "O que é 'a cozinha'?",
+        "en": "What is 'a cozinha'?",
+        "ar": "ما هي 'a cozinha'؟"
+      },
+      "options": [
+        {
+          "pt": "the bedroom",
+          "en": "the bedroom",
+          "ar": "the bedroom"
+        },
+        {
+          "pt": "the kitchen",
+          "en": "the kitchen",
+          "ar": "the kitchen"
+        },
+        {
+          "pt": "the bathroom",
+          "en": "the bathroom",
+          "ar": "the bathroom"
+        }
+      ],
+      "answer": "the kitchen",
+      "explanation": {
+        "pt": "'A cozinha' é the kitchen.",
+        "en": "'A cozinha' is the kitchen.",
+        "ar": "'a cozinha' هي المطبخ."
+      }
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza: 'the bathroom'",
+        "en": "Translate: 'the bathroom'",
+        "ar": "ترجم: 'the bathroom'"
+      },
+      "options": [],
+      "answer": "o banheiro",
+      "explanation": {
+        "pt": "'O banheiro' é o bathroom.",
+        "en": "'O banheiro' is the bathroom.",
+        "ar": "'o banheiro' هو الحمام."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "é",
+          "en": "é",
+          "ar": "é"
+        },
+        {
+          "pt": "nova",
+          "en": "nova",
+          "ar": "nova"
+        },
+        {
+          "pt": "casa?",
+          "en": "casa?",
+          "ar": "casa?"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "Como",
+          "en": "Como",
+          "ar": "Como"
+        },
+        {
+          "pt": "sua",
+          "en": "sua",
+          "ar": "sua"
+        }
+      ],
+      "answer": "Como é a sua nova casa?",
+      "accepted": [
+        "Como é a sua nova casa?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Como é a sua nova casa?'",
+        "en": "The correct order: 'What's your new house like?'",
+        "ar": "الترتيب الصحيح: 'كيف هو منزلك الجديد؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a casa",
+          "en": "the kitchen",
+          "ar": "a casa"
+        },
+        {
+          "pt": "o quarto",
+          "en": "the bedroom",
+          "ar": "o quarto"
+        },
+        {
+          "pt": "a sala",
+          "en": "the door",
+          "ar": "a sala"
+        },
+        {
+          "pt": "a porta",
+          "en": "the house",
+          "ar": "a porta"
+        },
+        {
+          "pt": "a cozinha",
+          "en": "the bathroom",
+          "ar": "a cozinha"
+        },
+        {
+          "pt": "o banheiro",
+          "en": "the living room",
+          "ar": "o banheiro"
+        }
+      ],
+      "answer": "a casa::the kitchen|o quarto::the bedroom|a sala::the door|a porta::the house|a cozinha::the bathroom|o banheiro::the living room",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Tem um sofá novo e uma mesa de centro.",
+          "en": "There's a new sofa and a coffee table.",
+          "ar": "توجد أريكة جديدة وطاولة قهوة."
+        },
+        {
+          "pt": "Como é a sua nova casa?",
+          "en": "What's your new house like?",
+          "ar": "كيف هو منزلك الجديد؟"
+        },
+        {
+          "pt": "É grande! Tem uma sala, três quartos e uma cozinha enorme.",
+          "en": "It's big! It has a living room, three bedrooms and a huge kitchen.",
+          "ar": "إنه كبير! فيه غرفة معيشة وثلاث غرف نوم ومطبخ ضخم."
+        }
+      ],
+      "answer": "Como é a sua nova casa?",
+      "accepted": [],
+      "audio": "Como é a sua nova casa?",
+      "explanation": {
+        "pt": "Você ouviu: 'Como é a sua nova casa?' — 'What's your new house like?'",
+        "en": "You heard: 'Como é a sua nova casa?' — 'What's your new house like?'",
+        "ar": "سمعت: 'Como é a sua nova casa?' — 'كيف هو منزلك الجديد؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "É grande! Tem uma sala, três quartos e uma cozinha enorme.",
+          "en": "It's big! It has a living room, three bedrooms and a huge kitchen.",
+          "ar": "وماذا يوجد في غرفة المعيشة؟"
+        },
+        {
+          "pt": "Tem um sofá novo e uma mesa de centro.",
+          "en": "And what's in the living room?",
+          "ar": "إنه كبير! فيه غرفة معيشة وثلاث غرف نوم ومطبخ ضخم."
+        },
+        {
+          "pt": "E o que tem na sala?",
+          "en": "There's a new sofa and a coffee table.",
+          "ar": "توجد أريكة جديدة وطاولة قهوة."
+        }
+      ],
+      "answer": "É grande! Tem uma sala, três quartos e uma cozinha enorme.",
+      "accepted": [],
+      "audio": "É grande! Tem uma sala, três quartos e uma cozinha enorme.",
+      "explanation": {
+        "pt": "Você ouviu: 'É grande! Tem uma sala, três quartos e uma cozinha enorme.' — 'It's big! It has a living room, three bedrooms and a huge kitchen.'",
+        "en": "You heard: 'É grande! Tem uma sala, três quartos e uma cozinha enorme.' — 'It's big! It has a living room, three bedrooms and a huge kitchen.'",
+        "ar": "سمعت: 'É grande! Tem uma sala, três quartos e uma cozinha enorme.' — 'إنه كبير! فيه غرفة معيشة وثلاث غرف نوم ومطبخ ضخم.'"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "O gato está ___ sala.",
+        "en": "O gato está ___ sala.",
+        "ar": "O gato está ___ sala."
+      },
+      "options": [
+        {
+          "pt": "Eu",
+          "en": "Eu",
+          "ar": "Eu"
+        },
+        {
+          "pt": "está",
+          "en": "está",
+          "ar": "está"
+        },
+        {
+          "pt": "na",
+          "en": "na",
+          "ar": "na"
+        }
+      ],
+      "answer": "na",
+      "accepted": [],
+      "explanation": {
+        "pt": "A resposta é 'na'. Frase completa: O gato está na sala.",
+        "en": "The answer is 'na'. Full sentence: The cat is in the living room.",
+        "ar": "الإجابة الصحيحة: 'na'. الجملة كاملة: القط في غرفة المعيشة."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Como",
+          "en": "Como",
+          "ar": "Como"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "casa?",
+          "en": "casa?",
+          "ar": "casa?"
+        },
+        {
+          "pt": "é",
+          "en": "é",
+          "ar": "é"
+        },
+        {
+          "pt": "sua",
+          "en": "sua",
+          "ar": "sua"
+        },
+        {
+          "pt": "nova",
+          "en": "nova",
+          "ar": "nova"
+        }
+      ],
+      "answer": "Como é a sua nova casa?",
+      "accepted": [
+        "Como é a sua nova casa?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Como é a sua nova casa?'",
+        "en": "The correct order: 'What's your new house like?'",
+        "ar": "الترتيب الصحيح: 'كيف هو منزلك الجديد؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a cozinha",
+          "en": "the house",
+          "ar": "a cozinha"
+        },
+        {
+          "pt": "a casa",
+          "en": "the bedroom",
+          "ar": "a casa"
+        },
+        {
+          "pt": "a porta",
+          "en": "the kitchen",
+          "ar": "a porta"
+        },
+        {
+          "pt": "o quarto",
+          "en": "the bathroom",
+          "ar": "o quarto"
+        },
+        {
+          "pt": "o banheiro",
+          "en": "the living room",
+          "ar": "o banheiro"
+        },
+        {
+          "pt": "a sala",
+          "en": "the door",
+          "ar": "a sala"
+        }
+      ],
+      "answer": "a cozinha::the house|a casa::the bedroom|a porta::the kitchen|o quarto::the bathroom|o banheiro::the living room|a sala::the door",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Tem um sofá novo e uma mesa de centro.",
+          "en": "There's a new sofa and a coffee table.",
+          "ar": "إنه بجانب غرفة النوم الرئيسية."
+        },
+        {
+          "pt": "Como é a sua nova casa?",
+          "en": "What's your new house like?",
+          "ar": "توجد أريكة جديدة وطاولة قهوة."
+        },
+        {
+          "pt": "Fica ao lado do quarto principal.",
+          "en": "It's next to the main bedroom.",
+          "ar": "كيف هو منزلك الجديد؟"
+        }
+      ],
+      "answer": "Como é a sua nova casa?",
+      "accepted": [],
+      "audio": "Como é a sua nova casa?",
+      "explanation": {
+        "pt": "Você ouviu: 'Como é a sua nova casa?' — 'What's your new house like?'",
+        "en": "You heard: 'Como é a sua nova casa?' — 'What's your new house like?'",
+        "ar": "سمعت: 'Como é a sua nova casa?' — 'كيف هو منزلك الجديد؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "É grande! Tem uma sala, três quartos e uma cozinha enorme.",
+          "en": "It's big! It has a living room, three bedrooms and a huge kitchen.",
+          "ar": "إنه كبير! فيه غرفة معيشة وثلاث غرف نوم ومطبخ ضخم."
+        },
+        {
+          "pt": "Como é a sua nova casa?",
+          "en": "What's your new house like?",
+          "ar": "توجد أريكة جديدة وطاولة قهوة."
+        },
+        {
+          "pt": "Tem um sofá novo e uma mesa de centro.",
+          "en": "There's a new sofa and a coffee table.",
+          "ar": "كيف هو منزلك الجديد؟"
+        }
+      ],
+      "answer": "É grande! Tem uma sala, três quartos e uma cozinha enorme.",
+      "accepted": [],
+      "audio": "É grande! Tem uma sala, três quartos e uma cozinha enorme.",
+      "explanation": {
+        "pt": "Você ouviu: 'É grande! Tem uma sala, três quartos e uma cozinha enorme.' — 'It's big! It has a living room, three bedrooms and a huge kitchen.'",
+        "en": "You heard: 'É grande! Tem uma sala, três quartos e uma cozinha enorme.' — 'It's big! It has a living room, three bedrooms and a huge kitchen.'",
+        "ar": "سمعت: 'É grande! Tem uma sala, três quartos e uma cozinha enorme.' — 'إنه كبير! فيه غرفة معيشة وثلاث غرف نوم ومطبخ ضخم.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "é",
+          "en": "é",
+          "ar": "é"
+        },
+        {
+          "pt": "sua",
+          "en": "sua",
+          "ar": "sua"
+        },
+        {
+          "pt": "nova",
+          "en": "nova",
+          "ar": "nova"
+        },
+        {
+          "pt": "Como",
+          "en": "Como",
+          "ar": "Como"
+        },
+        {
+          "pt": "casa?",
+          "en": "casa?",
+          "ar": "casa?"
+        }
+      ],
+      "answer": "Como é a sua nova casa?",
+      "accepted": [
+        "Como é a sua nova casa?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Como é a sua nova casa?'",
+        "en": "The correct order: 'What's your new house like?'",
+        "ar": "الترتيب الصحيح: 'كيف هو منزلك الجديد؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o banheiro",
+          "en": "the bedroom",
+          "ar": "o banheiro"
+        },
+        {
+          "pt": "a porta",
+          "en": "the bathroom",
+          "ar": "a porta"
+        },
+        {
+          "pt": "a casa",
+          "en": "the house",
+          "ar": "a casa"
+        },
+        {
+          "pt": "o quarto",
+          "en": "the living room",
+          "ar": "o quarto"
+        },
+        {
+          "pt": "a cozinha",
+          "en": "the door",
+          "ar": "a cozinha"
+        },
+        {
+          "pt": "a sala",
+          "en": "the kitchen",
+          "ar": "a sala"
+        }
+      ],
+      "answer": "o banheiro::the bedroom|a porta::the bathroom|a casa::the house|o quarto::the living room|a cozinha::the door|a sala::the kitchen",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Como é a sua nova casa?",
+          "en": "It's next to the main bedroom.",
+          "ar": "أين الحمام؟"
+        },
+        {
+          "pt": "Fica ao lado do quarto principal.",
+          "en": "What's your new house like?",
+          "ar": "كيف هو منزلك الجديد؟"
+        },
+        {
+          "pt": "Onde fica o banheiro?",
+          "en": "Where is the bathroom?",
+          "ar": "إنه بجانب غرفة النوم الرئيسية."
+        }
+      ],
+      "answer": "Como é a sua nova casa?",
+      "accepted": [],
+      "audio": "Como é a sua nova casa?",
+      "explanation": {
+        "pt": "Você ouviu: 'Como é a sua nova casa?' — 'What's your new house like?'",
+        "en": "You heard: 'Como é a sua nova casa?' — 'What's your new house like?'",
+        "ar": "سمعت: 'Como é a sua nova casa?' — 'كيف هو منزلك الجديد؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "É grande! Tem uma sala, três quartos e uma cozinha enorme.",
+          "en": "It's big! It has a living room, three bedrooms and a huge kitchen.",
+          "ar": "إنه بجانب غرفة النوم الرئيسية."
+        },
+        {
+          "pt": "Fica ao lado do quarto principal.",
+          "en": "It's next to the main bedroom.",
+          "ar": "إنه كبير! فيه غرفة معيشة وثلاث غرف نوم ومطبخ ضخم."
+        },
+        {
+          "pt": "Onde fica o banheiro?",
+          "en": "Where is the bathroom?",
+          "ar": "أين الحمام؟"
+        }
+      ],
+      "answer": "É grande! Tem uma sala, três quartos e uma cozinha enorme.",
+      "accepted": [],
+      "audio": "É grande! Tem uma sala, três quartos e uma cozinha enorme.",
+      "explanation": {
+        "pt": "Você ouviu: 'É grande! Tem uma sala, três quartos e uma cozinha enorme.' — 'It's big! It has a living room, three bedrooms and a huge kitchen.'",
+        "en": "You heard: 'É grande! Tem uma sala, três quartos e uma cozinha enorme.' — 'It's big! It has a living room, three bedrooms and a huge kitchen.'",
+        "ar": "سمعت: 'É grande! Tem uma sala, três quartos e uma cozinha enorme.' — 'إنه كبير! فيه غرفة معيشة وثلاث غرف نوم ومطبخ ضخم.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "é",
+          "en": "é",
+          "ar": "é"
+        },
+        {
+          "pt": "Como",
+          "en": "Como",
+          "ar": "Como"
+        },
+        {
+          "pt": "sua",
+          "en": "sua",
+          "ar": "sua"
+        },
+        {
+          "pt": "nova",
+          "en": "nova",
+          "ar": "nova"
+        },
+        {
+          "pt": "casa?",
+          "en": "casa?",
+          "ar": "casa?"
+        }
+      ],
+      "answer": "Como é a sua nova casa?",
+      "accepted": [
+        "Como é a sua nova casa?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Como é a sua nova casa?'",
+        "en": "The correct order: 'What's your new house like?'",
+        "ar": "الترتيب الصحيح: 'كيف هو منزلك الجديد؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a porta",
+          "en": "the house",
+          "ar": "a porta"
+        },
+        {
+          "pt": "o banheiro",
+          "en": "the door",
+          "ar": "o banheiro"
+        },
+        {
+          "pt": "a cozinha",
+          "en": "the bedroom",
+          "ar": "a cozinha"
+        },
+        {
+          "pt": "a casa",
+          "en": "the living room",
+          "ar": "a casa"
+        },
+        {
+          "pt": "a sala",
+          "en": "the bathroom",
+          "ar": "a sala"
+        },
+        {
+          "pt": "o quarto",
+          "en": "the kitchen",
+          "ar": "o quarto"
+        }
+      ],
+      "answer": "a porta::the house|o banheiro::the door|a cozinha::the bedroom|a casa::the living room|a sala::the bathroom|o quarto::the kitchen",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "E o que tem na sala?",
+          "en": "And what's in the living room?",
+          "ar": "وماذا يوجد في غرفة المعيشة؟"
+        },
+        {
+          "pt": "Como é a sua nova casa?",
+          "en": "What's your new house like?",
+          "ar": "كيف هو منزلك الجديد؟"
+        },
+        {
+          "pt": "Fica ao lado do quarto principal.",
+          "en": "It's next to the main bedroom.",
+          "ar": "إنه بجانب غرفة النوم الرئيسية."
+        }
+      ],
+      "answer": "Como é a sua nova casa?",
+      "accepted": [],
+      "audio": "Como é a sua nova casa?",
+      "explanation": {
+        "pt": "Você ouviu: 'Como é a sua nova casa?' — 'What's your new house like?'",
+        "en": "You heard: 'Como é a sua nova casa?' — 'What's your new house like?'",
+        "ar": "سمعت: 'Como é a sua nova casa?' — 'كيف هو منزلك الجديد؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "É grande! Tem uma sala, três quartos e uma cozinha enorme.",
+          "en": "And what's in the living room?",
+          "ar": "وماذا يوجد في غرفة المعيشة؟"
+        },
+        {
+          "pt": "E o que tem na sala?",
+          "en": "It's big! It has a living room, three bedrooms and a huge kitchen.",
+          "ar": "إنه كبير! فيه غرفة معيشة وثلاث غرف نوم ومطبخ ضخم."
+        },
+        {
+          "pt": "Onde fica o banheiro?",
+          "en": "Where is the bathroom?",
+          "ar": "أين الحمام؟"
+        }
+      ],
+      "answer": "É grande! Tem uma sala, três quartos e uma cozinha enorme.",
+      "accepted": [],
+      "audio": "É grande! Tem uma sala, três quartos e uma cozinha enorme.",
+      "explanation": {
+        "pt": "Você ouviu: 'É grande! Tem uma sala, três quartos e uma cozinha enorme.' — 'It's big! It has a living room, three bedrooms and a huge kitchen.'",
+        "en": "You heard: 'É grande! Tem uma sala, três quartos e uma cozinha enorme.' — 'It's big! It has a living room, three bedrooms and a huge kitchen.'",
+        "ar": "سمعت: 'É grande! Tem uma sala, três quartos e uma cozinha enorme.' — 'إنه كبير! فيه غرفة معيشة وثلاث غرف نوم ومطبخ ضخم.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "é",
+          "en": "é",
+          "ar": "é"
+        },
+        {
+          "pt": "Como",
+          "en": "Como",
+          "ar": "Como"
+        },
+        {
+          "pt": "nova",
+          "en": "nova",
+          "ar": "nova"
+        },
+        {
+          "pt": "casa?",
+          "en": "casa?",
+          "ar": "casa?"
+        },
+        {
+          "pt": "sua",
+          "en": "sua",
+          "ar": "sua"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        }
+      ],
+      "answer": "Como é a sua nova casa?",
+      "accepted": [
+        "Como é a sua nova casa?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Como é a sua nova casa?'",
+        "en": "The correct order: 'What's your new house like?'",
+        "ar": "الترتيب الصحيح: 'كيف هو منزلك الجديد؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o banheiro",
+          "en": "the door",
+          "ar": "o banheiro"
+        },
+        {
+          "pt": "o quarto",
+          "en": "the bedroom",
+          "ar": "o quarto"
+        },
+        {
+          "pt": "a cozinha",
+          "en": "the house",
+          "ar": "a cozinha"
+        },
+        {
+          "pt": "a casa",
+          "en": "the living room",
+          "ar": "a casa"
+        },
+        {
+          "pt": "a porta",
+          "en": "the bathroom",
+          "ar": "a porta"
+        },
+        {
+          "pt": "a sala",
+          "en": "the kitchen",
+          "ar": "a sala"
+        }
+      ],
+      "answer": "o banheiro::the door|o quarto::the bedroom|a cozinha::the house|a casa::the living room|a porta::the bathroom|a sala::the kitchen",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "É grande! Tem uma sala, três quartos e uma cozinha enorme.",
+          "en": "Where is the bathroom?",
+          "ar": "إنه كبير! فيه غرفة معيشة وثلاث غرف نوم ومطبخ ضخم."
+        },
+        {
+          "pt": "Onde fica o banheiro?",
+          "en": "What's your new house like?",
+          "ar": "كيف هو منزلك الجديد؟"
+        },
+        {
+          "pt": "Como é a sua nova casa?",
+          "en": "It's big! It has a living room, three bedrooms and a huge kitchen.",
+          "ar": "أين الحمام؟"
+        }
+      ],
+      "answer": "Como é a sua nova casa?",
+      "accepted": [],
+      "audio": "Como é a sua nova casa?",
+      "explanation": {
+        "pt": "Você ouviu: 'Como é a sua nova casa?' — 'What's your new house like?'",
+        "en": "You heard: 'Como é a sua nova casa?' — 'What's your new house like?'",
+        "ar": "سمعت: 'Como é a sua nova casa?' — 'كيف هو منزلك الجديد؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Fica ao lado do quarto principal.",
+          "en": "There's a new sofa and a coffee table.",
+          "ar": "إنه كبير! فيه غرفة معيشة وثلاث غرف نوم ومطبخ ضخم."
+        },
+        {
+          "pt": "É grande! Tem uma sala, três quartos e uma cozinha enorme.",
+          "en": "It's next to the main bedroom.",
+          "ar": "إنه بجانب غرفة النوم الرئيسية."
+        },
+        {
+          "pt": "Tem um sofá novo e uma mesa de centro.",
+          "en": "It's big! It has a living room, three bedrooms and a huge kitchen.",
+          "ar": "توجد أريكة جديدة وطاولة قهوة."
+        }
+      ],
+      "answer": "É grande! Tem uma sala, três quartos e uma cozinha enorme.",
+      "accepted": [],
+      "audio": "É grande! Tem uma sala, três quartos e uma cozinha enorme.",
+      "explanation": {
+        "pt": "Você ouviu: 'É grande! Tem uma sala, três quartos e uma cozinha enorme.' — 'It's big! It has a living room, three bedrooms and a huge kitchen.'",
+        "en": "You heard: 'É grande! Tem uma sala, três quartos e uma cozinha enorme.' — 'It's big! It has a living room, three bedrooms and a huge kitchen.'",
+        "ar": "سمعت: 'É grande! Tem uma sala, três quartos e uma cozinha enorme.' — 'إنه كبير! فيه غرفة معيشة وثلاث غرف نوم ومطبخ ضخم.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "nova",
+          "en": "nova",
+          "ar": "nova"
+        },
+        {
+          "pt": "sua",
+          "en": "sua",
+          "ar": "sua"
+        },
+        {
+          "pt": "casa?",
+          "en": "casa?",
+          "ar": "casa?"
+        },
+        {
+          "pt": "é",
+          "en": "é",
+          "ar": "é"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "Como",
+          "en": "Como",
+          "ar": "Como"
+        }
+      ],
+      "answer": "Como é a sua nova casa?",
+      "accepted": [
+        "Como é a sua nova casa?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Como é a sua nova casa?'",
+        "en": "The correct order: 'What's your new house like?'",
+        "ar": "الترتيب الصحيح: 'كيف هو منزلك الجديد؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o banheiro",
+          "en": "the bathroom",
+          "ar": "o banheiro"
+        },
+        {
+          "pt": "a porta",
+          "en": "the kitchen",
+          "ar": "a porta"
+        },
+        {
+          "pt": "a cozinha",
+          "en": "the house",
+          "ar": "a cozinha"
+        },
+        {
+          "pt": "a sala",
+          "en": "the living room",
+          "ar": "a sala"
+        },
+        {
+          "pt": "o quarto",
+          "en": "the door",
+          "ar": "o quarto"
+        },
+        {
+          "pt": "a casa",
+          "en": "the bedroom",
+          "ar": "a casa"
+        }
+      ],
+      "answer": "o banheiro::the bathroom|a porta::the kitchen|a cozinha::the house|a sala::the living room|o quarto::the door|a casa::the bedroom",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Como é a sua nova casa?",
+          "en": "What's your new house like?",
+          "ar": "أين الحمام؟"
+        },
+        {
+          "pt": "É grande! Tem uma sala, três quartos e uma cozinha enorme.",
+          "en": "It's big! It has a living room, three bedrooms and a huge kitchen.",
+          "ar": "إنه كبير! فيه غرفة معيشة وثلاث غرف نوم ومطبخ ضخم."
+        },
+        {
+          "pt": "Onde fica o banheiro?",
+          "en": "Where is the bathroom?",
+          "ar": "كيف هو منزلك الجديد؟"
+        }
+      ],
+      "answer": "Como é a sua nova casa?",
+      "accepted": [],
+      "audio": "Como é a sua nova casa?",
+      "explanation": {
+        "pt": "Você ouviu: 'Como é a sua nova casa?' — 'What's your new house like?'",
+        "en": "You heard: 'Como é a sua nova casa?' — 'What's your new house like?'",
+        "ar": "سمعت: 'Como é a sua nova casa?' — 'كيف هو منزلك الجديد؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Tem um sofá novo e uma mesa de centro.",
+          "en": "There's a new sofa and a coffee table.",
+          "ar": "وماذا يوجد في غرفة المعيشة؟"
+        },
+        {
+          "pt": "É grande! Tem uma sala, três quartos e uma cozinha enorme.",
+          "en": "It's big! It has a living room, three bedrooms and a huge kitchen.",
+          "ar": "توجد أريكة جديدة وطاولة قهوة."
+        },
+        {
+          "pt": "E o que tem na sala?",
+          "en": "And what's in the living room?",
+          "ar": "إنه كبير! فيه غرفة معيشة وثلاث غرف نوم ومطبخ ضخم."
+        }
+      ],
+      "answer": "É grande! Tem uma sala, três quartos e uma cozinha enorme.",
+      "accepted": [],
+      "audio": "É grande! Tem uma sala, três quartos e uma cozinha enorme.",
+      "explanation": {
+        "pt": "Você ouviu: 'É grande! Tem uma sala, três quartos e uma cozinha enorme.' — 'It's big! It has a living room, three bedrooms and a huge kitchen.'",
+        "en": "You heard: 'É grande! Tem uma sala, três quartos e uma cozinha enorme.' — 'It's big! It has a living room, three bedrooms and a huge kitchen.'",
+        "ar": "سمعت: 'É grande! Tem uma sala, três quartos e uma cozinha enorme.' — 'إنه كبير! فيه غرفة معيشة وثلاث غرف نوم ومطبخ ضخم.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "casa?",
+          "en": "casa?",
+          "ar": "casa?"
+        },
+        {
+          "pt": "Como",
+          "en": "Como",
+          "ar": "Como"
+        },
+        {
+          "pt": "nova",
+          "en": "nova",
+          "ar": "nova"
+        },
+        {
+          "pt": "é",
+          "en": "é",
+          "ar": "é"
+        },
+        {
+          "pt": "sua",
+          "en": "sua",
+          "ar": "sua"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        }
+      ],
+      "answer": "Como é a sua nova casa?",
+      "accepted": [
+        "Como é a sua nova casa?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Como é a sua nova casa?'",
+        "en": "The correct order: 'What's your new house like?'",
+        "ar": "الترتيب الصحيح: 'كيف هو منزلك الجديد؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a cozinha",
+          "en": "the door",
+          "ar": "a cozinha"
+        },
+        {
+          "pt": "a porta",
+          "en": "the bedroom",
+          "ar": "a porta"
+        },
+        {
+          "pt": "o banheiro",
+          "en": "the bathroom",
+          "ar": "o banheiro"
+        },
+        {
+          "pt": "o quarto",
+          "en": "the kitchen",
+          "ar": "o quarto"
+        },
+        {
+          "pt": "a casa",
+          "en": "the living room",
+          "ar": "a casa"
+        },
+        {
+          "pt": "a sala",
+          "en": "the house",
+          "ar": "a sala"
+        }
+      ],
+      "answer": "a cozinha::the door|a porta::the bedroom|o banheiro::the bathroom|o quarto::the kitchen|a casa::the living room|a sala::the house",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Onde fica o banheiro?",
+          "en": "And what's in the living room?",
+          "ar": "أين الحمام؟"
+        },
+        {
+          "pt": "E o que tem na sala?",
+          "en": "What's your new house like?",
+          "ar": "كيف هو منزلك الجديد؟"
+        },
+        {
+          "pt": "Como é a sua nova casa?",
+          "en": "Where is the bathroom?",
+          "ar": "وماذا يوجد في غرفة المعيشة؟"
+        }
+      ],
+      "answer": "Como é a sua nova casa?",
+      "accepted": [],
+      "audio": "Como é a sua nova casa?",
+      "explanation": {
+        "pt": "Você ouviu: 'Como é a sua nova casa?' — 'What's your new house like?'",
+        "en": "You heard: 'Como é a sua nova casa?' — 'What's your new house like?'",
+        "ar": "سمعت: 'Como é a sua nova casa?' — 'كيف هو منزلك الجديد؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "É grande! Tem uma sala, três quartos e uma cozinha enorme.",
+          "en": "It's big! It has a living room, three bedrooms and a huge kitchen.",
+          "ar": "توجد أريكة جديدة وطاولة قهوة."
+        },
+        {
+          "pt": "Tem um sofá novo e uma mesa de centro.",
+          "en": "Where is the bathroom?",
+          "ar": "إنه كبير! فيه غرفة معيشة وثلاث غرف نوم ومطبخ ضخم."
+        },
+        {
+          "pt": "Onde fica o banheiro?",
+          "en": "There's a new sofa and a coffee table.",
+          "ar": "أين الحمام؟"
+        }
+      ],
+      "answer": "É grande! Tem uma sala, três quartos e uma cozinha enorme.",
+      "accepted": [],
+      "audio": "É grande! Tem uma sala, três quartos e uma cozinha enorme.",
+      "explanation": {
+        "pt": "Você ouviu: 'É grande! Tem uma sala, três quartos e uma cozinha enorme.' — 'It's big! It has a living room, three bedrooms and a huge kitchen.'",
+        "en": "You heard: 'É grande! Tem uma sala, três quartos e uma cozinha enorme.' — 'It's big! It has a living room, three bedrooms and a huge kitchen.'",
+        "ar": "سمعت: 'É grande! Tem uma sala, três quartos e uma cozinha enorme.' — 'إنه كبير! فيه غرفة معيشة وثلاث غرف نوم ومطبخ ضخم.'"
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'the house'",
+        "en": "Type in Portuguese: 'the house'",
+        "ar": "اكتب بالبرتغالية: 'المنزل'"
+      },
+      "options": [],
+      "answer": "a casa",
+      "accepted": [
+        "a casa"
+      ],
+      "explanation": {
+        "pt": "'a casa' significa 'the house'.",
+        "en": "'a casa' means 'the house'.",
+        "ar": "'$a casa' بالعربية: '$المنزل'."
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'the living room'",
+        "en": "Type in Portuguese: 'the living room'",
+        "ar": "اكتب بالبرتغالية: 'غرفة المعيشة'"
+      },
+      "options": [],
+      "answer": "a sala",
+      "accepted": [
+        "a sala"
+      ],
+      "explanation": {
+        "pt": "'a sala' significa 'the living room'.",
+        "en": "'a sala' means 'the living room'.",
+        "ar": "'$a sala' بالعربية: '$غرفة المعيشة'."
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Onde fica o banheiro?",
+          "en": "Onde fica o banheiro?",
+          "ar": "Onde fica o banheiro?"
+        },
+        {
+          "pt": "Fica ao lado do quarto principal.",
+          "en": "Fica ao lado do quarto principal.",
+          "ar": "Fica ao lado do quarto principal."
+        },
+        {
+          "pt": "Como é a sua nova casa?",
+          "en": "Como é a sua nova casa?",
+          "ar": "Como é a sua nova casa?"
+        }
+      ],
+      "answer": "Como é a sua nova casa?",
+      "accepted": [],
+      "audio": "Como é a sua nova casa?",
+      "explanation": {
+        "pt": "Você ouviu: 'Como é a sua nova casa?'",
+        "en": "You heard: 'Como é a sua nova casa?'",
+        "ar": "سمعت: 'Como é a sua nova casa?'"
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Fica ao lado do quarto principal.",
+          "en": "Fica ao lado do quarto principal.",
+          "ar": "Fica ao lado do quarto principal."
+        },
+        {
+          "pt": "É grande! Tem uma sala, três quartos e uma cozinha enorme.",
+          "en": "É grande! Tem uma sala, três quartos e uma cozinha enorme.",
+          "ar": "É grande! Tem uma sala, três quartos e uma cozinha enorme."
+        },
+        {
+          "pt": "Como é a sua nova casa?",
+          "en": "Como é a sua nova casa?",
+          "ar": "Como é a sua nova casa?"
+        }
+      ],
+      "answer": "É grande! Tem uma sala, três quartos e uma cozinha enorme.",
+      "accepted": [],
+      "audio": "É grande! Tem uma sala, três quartos e uma cozinha enorme.",
+      "explanation": {
+        "pt": "Você ouviu: 'É grande! Tem uma sala, três quartos e uma cozinha enorme.'",
+        "en": "You heard: 'É grande! Tem uma sala, três quartos e uma cozinha enorme.'",
+        "ar": "سمعت: 'É grande! Tem uma sala, três quartos e uma cozinha enorme.'"
+      }
+    },
+    {
+      "type": "dictation",
+      "prompt": {
+        "pt": "Ouça e escreva o que você ouviu.",
+        "en": "Listen and type what you hear.",
+        "ar": "استمع واكتب ما سمعته."
+      },
+      "options": [],
+      "answer": "Como é a sua nova casa?",
+      "accepted": [],
+      "audio": "Como é a sua nova casa?",
+      "explanation": {
+        "pt": "A frase correta: 'Como é a sua nova casa?'",
+        "en": "The correct sentence: 'Como é a sua nova casa?'",
+        "ar": "الجملة الصحيحة: 'Como é a sua nova casa?'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "é",
+          "en": "é",
+          "ar": "é"
+        },
+        {
+          "pt": "Como",
+          "en": "Como",
+          "ar": "Como"
+        },
+        {
+          "pt": "casa?",
+          "en": "casa?",
+          "ar": "casa?"
+        },
+        {
+          "pt": "sua",
+          "en": "sua",
+          "ar": "sua"
+        },
+        {
+          "pt": "nova",
+          "en": "nova",
+          "ar": "nova"
+        }
+      ],
+      "answer": "Como é a sua nova casa?",
+      "accepted": [
+        "Como é a sua nova casa?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Como é a sua nova casa?'",
+        "en": "The correct order: 'What's your new house like?'",
+        "ar": "الترتيب الصحيح: 'كيف هو منزلك الجديد؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a casa",
+          "en": "the door",
+          "ar": "a casa"
+        },
+        {
+          "pt": "a cozinha",
+          "en": "the house",
+          "ar": "a cozinha"
+        },
+        {
+          "pt": "a sala",
+          "en": "the bedroom",
+          "ar": "a sala"
+        },
+        {
+          "pt": "o quarto",
+          "en": "the living room",
+          "ar": "o quarto"
+        },
+        {
+          "pt": "a porta",
+          "en": "the bathroom",
+          "ar": "a porta"
+        },
+        {
+          "pt": "o banheiro",
+          "en": "the kitchen",
+          "ar": "o banheiro"
+        }
+      ],
+      "answer": "a casa::the door|a cozinha::the house|a sala::the bedroom|o quarto::the living room|a porta::the bathroom|o banheiro::the kitchen",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Fica ao lado do quarto principal.",
+          "en": "What's your new house like?",
+          "ar": "توجد أريكة جديدة وطاولة قهوة."
+        },
+        {
+          "pt": "Como é a sua nova casa?",
+          "en": "There's a new sofa and a coffee table.",
+          "ar": "كيف هو منزلك الجديد؟"
+        },
+        {
+          "pt": "Tem um sofá novo e uma mesa de centro.",
+          "en": "It's next to the main bedroom.",
+          "ar": "إنه بجانب غرفة النوم الرئيسية."
+        }
+      ],
+      "answer": "Como é a sua nova casa?",
+      "accepted": [],
+      "audio": "Como é a sua nova casa?",
+      "explanation": {
+        "pt": "Você ouviu: 'Como é a sua nova casa?' — 'What's your new house like?'",
+        "en": "You heard: 'Como é a sua nova casa?' — 'What's your new house like?'",
+        "ar": "سمعت: 'Como é a sua nova casa?' — 'كيف هو منزلك الجديد؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Onde fica o banheiro?",
+          "en": "Where is the bathroom?",
+          "ar": "أين الحمام؟"
+        },
+        {
+          "pt": "Fica ao lado do quarto principal.",
+          "en": "It's big! It has a living room, three bedrooms and a huge kitchen.",
+          "ar": "إنه بجانب غرفة النوم الرئيسية."
+        },
+        {
+          "pt": "É grande! Tem uma sala, três quartos e uma cozinha enorme.",
+          "en": "It's next to the main bedroom.",
+          "ar": "إنه كبير! فيه غرفة معيشة وثلاث غرف نوم ومطبخ ضخم."
+        }
+      ],
+      "answer": "É grande! Tem uma sala, três quartos e uma cozinha enorme.",
+      "accepted": [],
+      "audio": "É grande! Tem uma sala, três quartos e uma cozinha enorme.",
+      "explanation": {
+        "pt": "Você ouviu: 'É grande! Tem uma sala, três quartos e uma cozinha enorme.' — 'It's big! It has a living room, three bedrooms and a huge kitchen.'",
+        "en": "You heard: 'É grande! Tem uma sala, três quartos e uma cozinha enorme.' — 'It's big! It has a living room, three bedrooms and a huge kitchen.'",
+        "ar": "سمعت: 'É grande! Tem uma sala, três quartos e uma cozinha enorme.' — 'إنه كبير! فيه غرفة معيشة وثلاث غرف نوم ومطبخ ضخم.'"
+      }
+    }
+  ],
+  "speaking": {
+    "title": {
+      "pt": "Fale Agora — Ouça e Repita",
+      "en": "Speak Now — Listen and Repeat",
+      "ar": "تحدث الآن — استمع وكرر"
+    },
+    "phrases": [
+      {
+        "pt": "Como é a sua nova casa?",
+        "en": "What's your new house like?",
+        "ar": "كيف هو منزلك الجديد؟"
+      },
+      {
+        "pt": "É grande! Tem uma sala, três quartos e uma cozinha enorme.",
+        "en": "It's big! It has a living room, three bedrooms and a huge kitchen.",
+        "ar": "إنه كبير! فيه غرفة معيشة وثلاث غرف نوم ومطبخ ضخم."
+      },
+      {
+        "pt": "E o que tem na sala?",
+        "en": "And what's in the living room?",
+        "ar": "وماذا يوجد في غرفة المعيشة؟"
+      },
+      {
+        "pt": "Tem um sofá novo e uma mesa de centro.",
+        "en": "There's a new sofa and a coffee table.",
+        "ar": "توجد أريكة جديدة وطاولة قهوة."
+      },
+      {
+        "pt": "Onde fica o banheiro?",
+        "en": "Where is the bathroom?",
+        "ar": "أين الحمام؟"
+      },
+      {
+        "pt": "Fica ao lado do quarto principal.",
+        "en": "It's next to the main bedroom.",
+        "ar": "إنه بجانب غرفة النوم الرئيسية."
+      },
+      {
+        "pt": "a casa",
+        "en": "the house",
+        "ar": "المنزل"
+      },
+      {
+        "pt": "a sala",
+        "en": "the living room",
+        "ar": "غرفة المعيشة"
+      },
+      {
+        "pt": "a cozinha",
+        "en": "the kitchen",
+        "ar": "المطبخ"
+      }
+    ]
+  },
+  "cultural_tips": {
+    "pt": "",
+    "en": "",
+    "ar": ""
+  }
+}

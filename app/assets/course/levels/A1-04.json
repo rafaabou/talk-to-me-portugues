@@ -1,0 +1,1909 @@
+{
+  "id": "A1-04",
+  "level": "A1",
+  "level_name": {
+    "pt": "Iniciante",
+    "en": "Beginner",
+    "ar": "مبتدئ"
+  },
+  "title": {
+    "pt": "Artigos e Substantivos",
+    "en": "Articles and Nouns",
+    "ar": "أدوات التعريف والأسماء"
+  },
+  "objectives": [
+    {
+      "pt": "Distinguir artigos definidos e indefinidos",
+      "en": "Distinguish definite and indefinite articles",
+      "ar": "التمييز بين أدوات التعريف والتنكير"
+    },
+    {
+      "pt": "Identificar o gênero dos substantivos",
+      "en": "Identify the gender of nouns",
+      "ar": "تحديد جنس الأسماء"
+    },
+    {
+      "pt": "Formar o plural dos substantivos",
+      "en": "Form the plural of nouns",
+      "ar": "تكوين جمع الأسماء"
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "o livro",
+      "ipa": "/u ˈli.vɾu/",
+      "en": "the book",
+      "ar": "الكتاب",
+      "example": {
+        "pt": "O livro está na mesa.",
+        "en": "The book is on the table.",
+        "ar": "الكتاب على الطاولة."
+      }
+    },
+    {
+      "pt": "a mesa",
+      "ipa": "/a ˈme.za/",
+      "en": "the table",
+      "ar": "الطاولة",
+      "example": {
+        "pt": "Professora, onde está a minha caneta?",
+        "en": "Teacher, where is my pen?",
+        "ar": "أستاذة، أين قلمي؟"
+      }
+    },
+    {
+      "pt": "a caneta",
+      "ipa": "/a kaˈnɛ.ta/",
+      "en": "the pen",
+      "ar": "القلم",
+      "example": {
+        "pt": "Professora, onde está a minha caneta?",
+        "en": "Teacher, where is my pen?",
+        "ar": "أستاذة، أين قلمي؟"
+      }
+    },
+    {
+      "pt": "o caderno",
+      "ipa": "/u kaˈdɛʁ.nu/",
+      "en": "the notebook",
+      "ar": "الدفتر",
+      "example": {
+        "pt": "O livro está na mesa.",
+        "en": "The book is on the table.",
+        "ar": "الكتاب على الطاولة."
+      }
+    },
+    {
+      "pt": "a escola",
+      "ipa": "/a isˈkɔ.la/",
+      "en": "the school",
+      "ar": "المدرسة",
+      "example": {
+        "pt": "Professora, onde está a minha caneta?",
+        "en": "Teacher, where is my pen?",
+        "ar": "أستاذة، أين قلمي؟"
+      }
+    },
+    {
+      "pt": "o professor",
+      "ipa": "/u pɾo.feˈsoʁ/",
+      "en": "the teacher (m)",
+      "ar": "المعلم",
+      "example": {
+        "pt": "O livro está na mesa.",
+        "en": "The book is on the table.",
+        "ar": "الكتاب على الطاولة."
+      }
+    },
+    {
+      "pt": "a professora",
+      "ipa": "/a pɾo.feˈso.ɾa/",
+      "en": "the teacher (f)",
+      "ar": "المعلمة",
+      "example": {
+        "pt": "Professora, onde está a minha caneta?",
+        "en": "Teacher, where is my pen?",
+        "ar": "أستاذة، أين قلمي؟"
+      }
+    },
+    {
+      "pt": "o aluno",
+      "ipa": "/u aˈlũ.nu/",
+      "en": "the student (m)",
+      "ar": "الطالب",
+      "example": {
+        "pt": "O livro está na mesa.",
+        "en": "The book is on the table.",
+        "ar": "الكتاب على الطاولة."
+      }
+    },
+    {
+      "pt": "a aluna",
+      "ipa": "/a aˈlũ.na/",
+      "en": "the student (f)",
+      "ar": "الطالبة",
+      "example": {
+        "pt": "Professora, onde está a minha caneta?",
+        "en": "Teacher, where is my pen?",
+        "ar": "أستاذة، أين قلمي؟"
+      }
+    },
+    {
+      "pt": "a casa",
+      "ipa": "/a ˈka.za/",
+      "en": "the house",
+      "ar": "المنزل",
+      "example": {
+        "pt": "Professora, onde está a minha caneta?",
+        "en": "Teacher, where is my pen?",
+        "ar": "أستاذة، أين قلمي؟"
+      }
+    },
+    {
+      "pt": "o carro",
+      "ipa": "/u ˈka.ʁu/",
+      "en": "the car",
+      "ar": "السيارة",
+      "example": {
+        "pt": "O livro está na mesa.",
+        "en": "The book is on the table.",
+        "ar": "الكتاب على الطاولة."
+      }
+    },
+    {
+      "pt": "a cidade",
+      "ipa": "/a siˈda.dʒi/",
+      "en": "the city",
+      "ar": "المدينة",
+      "example": {
+        "pt": "Professora, onde está a minha caneta?",
+        "en": "Teacher, where is my pen?",
+        "ar": "أستاذة، أين قلمي؟"
+      }
+    },
+    {
+      "pt": "o cachorro",
+      "ipa": "/u kaˈʃo.ʁu/",
+      "en": "the dog",
+      "ar": "الكلب",
+      "example": {
+        "pt": "O livro está na mesa.",
+        "en": "The book is on the table.",
+        "ar": "الكتاب على الطاولة."
+      }
+    },
+    {
+      "pt": "um",
+      "ipa": "/ũw/",
+      "en": "a (m)",
+      "ar": "أداة تنكير مذكر",
+      "example": {
+        "pt": "Abram os livros na página dez.",
+        "en": "Open your books to page ten.",
+        "ar": "افتحوا الكتب في الصفحة عشرة."
+      }
+    },
+    {
+      "pt": "uma",
+      "ipa": "/ˈũ.ma/",
+      "en": "a (f)",
+      "ar": "أداة تنكير مؤنث",
+      "example": {
+        "pt": "Abram os livros na página dez.",
+        "en": "Open your books to page ten.",
+        "ar": "افتحوا الكتب في الصفحة عشرة."
+      }
+    },
+    {
+      "pt": "os",
+      "ipa": "/us/",
+      "en": "the (m, pl)",
+      "ar": "ال (جمع مذكر)",
+      "example": {
+        "pt": "Abram os livros na página dez.",
+        "en": "Open your books to page ten.",
+        "ar": "افتحوا الكتب في الصفحة عشرة."
+      }
+    },
+    {
+      "pt": "as",
+      "ipa": "/as/",
+      "en": "the (f, pl)",
+      "ar": "ال (جمع مؤنث)",
+      "example": {
+        "pt": "Abram os livros na página dez.",
+        "en": "Open your books to page ten.",
+        "ar": "افتحوا الكتب في الصفحة عشرة."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "title": {
+        "pt": "Artigos Definidos",
+        "en": "Definite Articles",
+        "ar": "أدوات التعريف"
+      },
+      "explanation": {
+        "pt": "Os artigos definidos são: o (masculino singular), a (feminino singular), os (masculino plural), as (feminino plural). Exemplos: o livro, a casa, os livros, as casas. A maioria dos substantivos terminados em -o é masculina e -a é feminina.",
+        "en": "The definite articles are: o (masc. sing.), a (fem. sing.), os (masc. pl.), as (fem. pl.). Examples: o livro (the book), a casa (the house), os livros (the books), as casas (the houses). Most nouns ending in -o are masculine and -a are feminine.",
+        "ar": "أدوات التعريف هي: o (مذكر مفرد)، a (مؤنث مفرد)، os (مذكر جمع)، as (مؤنث جمع). أمثلة: o livro (الكتاب)، a casa (المنزل)، os livros (الكتب)، as casas (المنازل). معظم الأسماء المنتهية بـ -o مذكر والمنتهية بـ -a مؤنث."
+      },
+      "examples": [
+        {
+          "pt": "O livro está na mesa.",
+          "en": "The book is on the table.",
+          "ar": "الكتاب على الطاولة."
+        },
+        {
+          "pt": "A professora é muito boa.",
+          "en": "The teacher is very good.",
+          "ar": "المعلمة جيدة جدًا."
+        },
+        {
+          "pt": "Os alunos estudam português.",
+          "en": "The students study Portuguese.",
+          "ar": "يدرس الطلاب البرتغالية."
+        }
+      ]
+    },
+    {
+      "title": {
+        "pt": "Formação do Plural",
+        "en": "Forming the Plural",
+        "ar": "تكوين الجمع"
+      },
+      "explanation": {
+        "pt": "Substantivos terminados em vogal formam o plural com -s: livro → livros, casa → casas. Terminados em -r ou -s: professor → professores. Terminados em -ão: cão → cães (some: cidadão → cidadãos, pão → pães).",
+        "en": "Nouns ending in a vowel form the plural with -s: livro → livros (books), casa → casas (houses). Ending in -r or -s: professor → professores (teachers). Ending in -ão: cão → cães (dogs) (some: cidadão → cidadãos, pão → pães).",
+        "ar": "الأسماء المنتهية بحرف علة تجمع بإضافة -s: livro → livros (كتب)، casa → casas (منازل). المنتهية بـ -r أو -s: professor → professores (معلمون). المنتهية بـ -ão: cão → cães (كلاب) (وبعضها: cidadão → cidadãos، pão → pães)."
+      },
+      "examples": [
+        {
+          "pt": "Um livro → dois livros",
+          "en": "One book → two books",
+          "ar": "كتاب واحد → كتابان"
+        },
+        {
+          "pt": "Uma casa → muitas casas",
+          "en": "One house → many houses",
+          "ar": "منزل واحد → منازل كثيرة"
+        },
+        {
+          "pt": "O pão → os pães",
+          "en": "The bread → the breads",
+          "ar": "الخبز → الأرغفة"
+        }
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": {
+      "pt": "Na Sala de Aula",
+      "en": "In the Classroom",
+      "ar": "في الفصل الدراسي"
+    },
+    "lines": [
+      {
+        "speaker": "Professora",
+        "pt": "Abram os livros na página dez.",
+        "en": "Open your books to page ten.",
+        "ar": "افتحوا الكتب في الصفحة عشرة."
+      },
+      {
+        "speaker": "Aluna",
+        "pt": "Professora, onde está a minha caneta?",
+        "en": "Teacher, where is my pen?",
+        "ar": "أستاذة، أين قلمي؟"
+      },
+      {
+        "speaker": "Professora",
+        "pt": "Está sobre a mesa, ao lado do caderno.",
+        "en": "It's on the table, next to the notebook.",
+        "ar": "إنه على الطاولة، بجانب الدفتر."
+      },
+      {
+        "speaker": "Aluno",
+        "pt": "Os exercícios são para hoje?",
+        "en": "Are the exercises due today?",
+        "ar": "هل الواجبات لهذا اليوم؟"
+      },
+      {
+        "speaker": "Professora",
+        "pt": "Sim, os exercícios da página doze.",
+        "en": "Yes, the exercises on page twelve.",
+        "ar": "نعم، تمارين الصفحة اثني عشر."
+      }
+    ]
+  },
+  "reading": {
+    "title": {
+      "pt": "Uma Escola no Brasil",
+      "en": "A School in Brazil",
+      "ar": "مدرسة في البرازيل"
+    },
+    "text_pt": "A escola é grande. Os alunos estudam na sala dez. A professora escreve no quadro com uma caneta. Os livros estão nas mesas. O cachorro do porteiro espera na porta da casa.",
+    "text_en": "The school is big. The students study in room ten. The teacher writes on the board with a pen. The books are on the desks. The doorman's dog waits at the house door.",
+    "text_ar": "المدرسة كبيرة. يدرس الطلاب في الغرفة عشرة. تكتب المعلمة على السبورة بقلم. الكتب على الطاولات. كلب الحارس ينتظر عند باب المنزل."
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual é o artigo correto para 'casa'?",
+        "en": "What is the correct article for 'casa'?",
+        "ar": "ما أداة التعريف الصحيحة لكلمة 'casa'؟"
+      },
+      "options": [
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "os",
+          "en": "os",
+          "ar": "os"
+        }
+      ],
+      "answer": "a",
+      "explanation": {
+        "pt": "'casa' é feminino: 'a casa'.",
+        "en": "'casa' is feminine: 'a casa'.",
+        "ar": "'casa' مؤنثة: 'a casa'."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual é o plural de 'livro'?",
+        "en": "What is the plural of 'livro'?",
+        "ar": "ما جمع كلمة 'livro'؟"
+      },
+      "options": [
+        {
+          "pt": "livroes",
+          "en": "livroes",
+          "ar": "livroes"
+        },
+        {
+          "pt": "livros",
+          "en": "livros",
+          "ar": "livros"
+        },
+        {
+          "pt": "livres",
+          "en": "livres",
+          "ar": "livres"
+        }
+      ],
+      "answer": "livros",
+      "explanation": {
+        "pt": "O plural é 'livros'.",
+        "en": "The plural is 'livros'.",
+        "ar": "الجمع هو 'livros'."
+      }
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza: 'the teacher (f)'",
+        "en": "Translate: 'the teacher (f)'",
+        "ar": "ترجم: 'the teacher (f)'"
+      },
+      "options": [],
+      "answer": "a professora",
+      "explanation": {
+        "pt": "'A professora' é feminino.",
+        "en": "'A professora' is feminine.",
+        "ar": "'A professora' مؤنثة."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "os",
+          "en": "os",
+          "ar": "os"
+        },
+        {
+          "pt": "na",
+          "en": "na",
+          "ar": "na"
+        },
+        {
+          "pt": "Abram",
+          "en": "Abram",
+          "ar": "Abram"
+        },
+        {
+          "pt": "livros",
+          "en": "livros",
+          "ar": "livros"
+        },
+        {
+          "pt": "dez.",
+          "en": "dez.",
+          "ar": "dez."
+        },
+        {
+          "pt": "página",
+          "en": "página",
+          "ar": "página"
+        }
+      ],
+      "answer": "Abram os livros na página dez.",
+      "accepted": [
+        "Abram os livros na página dez."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Abram os livros na página dez.'",
+        "en": "The correct order: 'Open your books to page ten.'",
+        "ar": "الترتيب الصحيح: 'افتحوا الكتب في الصفحة عشرة.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a caneta",
+          "en": "the notebook",
+          "ar": "a caneta"
+        },
+        {
+          "pt": "o professor",
+          "en": "the book",
+          "ar": "o professor"
+        },
+        {
+          "pt": "a mesa",
+          "en": "the pen",
+          "ar": "a mesa"
+        },
+        {
+          "pt": "o caderno",
+          "en": "the teacher (m)",
+          "ar": "o caderno"
+        },
+        {
+          "pt": "a escola",
+          "en": "the school",
+          "ar": "a escola"
+        },
+        {
+          "pt": "o livro",
+          "en": "the table",
+          "ar": "o livro"
+        }
+      ],
+      "answer": "a caneta::the notebook|o professor::the book|a mesa::the pen|o caderno::the teacher (m)|a escola::the school|o livro::the table",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Os exercícios são para hoje?",
+          "en": "Open your books to page ten.",
+          "ar": "افتحوا الكتب في الصفحة عشرة."
+        },
+        {
+          "pt": "Abram os livros na página dez.",
+          "en": "Teacher, where is my pen?",
+          "ar": "هل الواجبات لهذا اليوم؟"
+        },
+        {
+          "pt": "Professora, onde está a minha caneta?",
+          "en": "Are the exercises due today?",
+          "ar": "أستاذة، أين قلمي؟"
+        }
+      ],
+      "answer": "Abram os livros na página dez.",
+      "accepted": [],
+      "audio": "Abram os livros na página dez.",
+      "explanation": {
+        "pt": "Você ouviu: 'Abram os livros na página dez.' — 'Open your books to page ten.'",
+        "en": "You heard: 'Abram os livros na página dez.' — 'Open your books to page ten.'",
+        "ar": "سمعت: 'Abram os livros na página dez.' — 'افتحوا الكتب في الصفحة عشرة.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Abram os livros na página dez.",
+          "en": "Open your books to page ten.",
+          "ar": "هل الواجبات لهذا اليوم؟"
+        },
+        {
+          "pt": "Professora, onde está a minha caneta?",
+          "en": "Teacher, where is my pen?",
+          "ar": "افتحوا الكتب في الصفحة عشرة."
+        },
+        {
+          "pt": "Os exercícios são para hoje?",
+          "en": "Are the exercises due today?",
+          "ar": "أستاذة، أين قلمي؟"
+        }
+      ],
+      "answer": "Professora, onde está a minha caneta?",
+      "accepted": [],
+      "audio": "Professora, onde está a minha caneta?",
+      "explanation": {
+        "pt": "Você ouviu: 'Professora, onde está a minha caneta?' — 'Teacher, where is my pen?'",
+        "en": "You heard: 'Professora, onde está a minha caneta?' — 'Teacher, where is my pen?'",
+        "ar": "سمعت: 'Professora, onde está a minha caneta?' — 'أستاذة، أين قلمي؟'"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "O livro está ___ mesa.",
+        "en": "O livro está ___ mesa.",
+        "ar": "O livro está ___ mesa."
+      },
+      "options": [
+        {
+          "pt": "A",
+          "en": "A",
+          "ar": "A"
+        },
+        {
+          "pt": "alunos",
+          "en": "alunos",
+          "ar": "alunos"
+        },
+        {
+          "pt": "na",
+          "en": "na",
+          "ar": "na"
+        }
+      ],
+      "answer": "na",
+      "accepted": [],
+      "explanation": {
+        "pt": "A resposta é 'na'. Frase completa: O livro está na mesa.",
+        "en": "The answer is 'na'. Full sentence: The book is on the table.",
+        "ar": "الإجابة الصحيحة: 'na'. الجملة كاملة: الكتاب على الطاولة."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Abram",
+          "en": "Abram",
+          "ar": "Abram"
+        },
+        {
+          "pt": "livros",
+          "en": "livros",
+          "ar": "livros"
+        },
+        {
+          "pt": "os",
+          "en": "os",
+          "ar": "os"
+        },
+        {
+          "pt": "dez.",
+          "en": "dez.",
+          "ar": "dez."
+        },
+        {
+          "pt": "página",
+          "en": "página",
+          "ar": "página"
+        },
+        {
+          "pt": "na",
+          "en": "na",
+          "ar": "na"
+        }
+      ],
+      "answer": "Abram os livros na página dez.",
+      "accepted": [
+        "Abram os livros na página dez."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Abram os livros na página dez.'",
+        "en": "The correct order: 'Open your books to page ten.'",
+        "ar": "الترتيب الصحيح: 'افتحوا الكتب في الصفحة عشرة.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o professor",
+          "en": "the table",
+          "ar": "o professor"
+        },
+        {
+          "pt": "a caneta",
+          "en": "the book",
+          "ar": "a caneta"
+        },
+        {
+          "pt": "a escola",
+          "en": "the pen",
+          "ar": "a escola"
+        },
+        {
+          "pt": "o caderno",
+          "en": "the teacher (m)",
+          "ar": "o caderno"
+        },
+        {
+          "pt": "a mesa",
+          "en": "the school",
+          "ar": "a mesa"
+        },
+        {
+          "pt": "o livro",
+          "en": "the notebook",
+          "ar": "o livro"
+        }
+      ],
+      "answer": "o professor::the table|a caneta::the book|a escola::the pen|o caderno::the teacher (m)|a mesa::the school|o livro::the notebook",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Os exercícios são para hoje?",
+          "en": "Are the exercises due today?",
+          "ar": "افتحوا الكتب في الصفحة عشرة."
+        },
+        {
+          "pt": "Abram os livros na página dez.",
+          "en": "Open your books to page ten.",
+          "ar": "نعم، تمارين الصفحة اثني عشر."
+        },
+        {
+          "pt": "Sim, os exercícios da página doze.",
+          "en": "Yes, the exercises on page twelve.",
+          "ar": "هل الواجبات لهذا اليوم؟"
+        }
+      ],
+      "answer": "Abram os livros na página dez.",
+      "accepted": [],
+      "audio": "Abram os livros na página dez.",
+      "explanation": {
+        "pt": "Você ouviu: 'Abram os livros na página dez.' — 'Open your books to page ten.'",
+        "en": "You heard: 'Abram os livros na página dez.' — 'Open your books to page ten.'",
+        "ar": "سمعت: 'Abram os livros na página dez.' — 'افتحوا الكتب في الصفحة عشرة.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Professora, onde está a minha caneta?",
+          "en": "It's on the table, next to the notebook.",
+          "ar": "إنه على الطاولة، بجانب الدفتر."
+        },
+        {
+          "pt": "Abram os livros na página dez.",
+          "en": "Teacher, where is my pen?",
+          "ar": "أستاذة، أين قلمي؟"
+        },
+        {
+          "pt": "Está sobre a mesa, ao lado do caderno.",
+          "en": "Open your books to page ten.",
+          "ar": "افتحوا الكتب في الصفحة عشرة."
+        }
+      ],
+      "answer": "Professora, onde está a minha caneta?",
+      "accepted": [],
+      "audio": "Professora, onde está a minha caneta?",
+      "explanation": {
+        "pt": "Você ouviu: 'Professora, onde está a minha caneta?' — 'Teacher, where is my pen?'",
+        "en": "You heard: 'Professora, onde está a minha caneta?' — 'Teacher, where is my pen?'",
+        "ar": "سمعت: 'Professora, onde está a minha caneta?' — 'أستاذة، أين قلمي؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "na",
+          "en": "na",
+          "ar": "na"
+        },
+        {
+          "pt": "página",
+          "en": "página",
+          "ar": "página"
+        },
+        {
+          "pt": "dez.",
+          "en": "dez.",
+          "ar": "dez."
+        },
+        {
+          "pt": "livros",
+          "en": "livros",
+          "ar": "livros"
+        },
+        {
+          "pt": "Abram",
+          "en": "Abram",
+          "ar": "Abram"
+        },
+        {
+          "pt": "os",
+          "en": "os",
+          "ar": "os"
+        }
+      ],
+      "answer": "Abram os livros na página dez.",
+      "accepted": [
+        "Abram os livros na página dez."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Abram os livros na página dez.'",
+        "en": "The correct order: 'Open your books to page ten.'",
+        "ar": "الترتيب الصحيح: 'افتحوا الكتب في الصفحة عشرة.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o livro",
+          "en": "the notebook",
+          "ar": "o livro"
+        },
+        {
+          "pt": "o caderno",
+          "en": "the teacher (m)",
+          "ar": "o caderno"
+        },
+        {
+          "pt": "a escola",
+          "en": "the book",
+          "ar": "a escola"
+        },
+        {
+          "pt": "o professor",
+          "en": "the school",
+          "ar": "o professor"
+        },
+        {
+          "pt": "a mesa",
+          "en": "the pen",
+          "ar": "a mesa"
+        },
+        {
+          "pt": "a caneta",
+          "en": "the table",
+          "ar": "a caneta"
+        }
+      ],
+      "answer": "o livro::the notebook|o caderno::the teacher (m)|a escola::the book|o professor::the school|a mesa::the pen|a caneta::the table",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Abram os livros na página dez.",
+          "en": "Yes, the exercises on page twelve.",
+          "ar": "افتحوا الكتب في الصفحة عشرة."
+        },
+        {
+          "pt": "Sim, os exercícios da página doze.",
+          "en": "Are the exercises due today?",
+          "ar": "هل الواجبات لهذا اليوم؟"
+        },
+        {
+          "pt": "Os exercícios são para hoje?",
+          "en": "Open your books to page ten.",
+          "ar": "نعم، تمارين الصفحة اثني عشر."
+        }
+      ],
+      "answer": "Abram os livros na página dez.",
+      "accepted": [],
+      "audio": "Abram os livros na página dez.",
+      "explanation": {
+        "pt": "Você ouviu: 'Abram os livros na página dez.' — 'Open your books to page ten.'",
+        "en": "You heard: 'Abram os livros na página dez.' — 'Open your books to page ten.'",
+        "ar": "سمعت: 'Abram os livros na página dez.' — 'افتحوا الكتب في الصفحة عشرة.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Os exercícios são para hoje?",
+          "en": "It's on the table, next to the notebook.",
+          "ar": "هل الواجبات لهذا اليوم؟"
+        },
+        {
+          "pt": "Está sobre a mesa, ao lado do caderno.",
+          "en": "Are the exercises due today?",
+          "ar": "أستاذة، أين قلمي؟"
+        },
+        {
+          "pt": "Professora, onde está a minha caneta?",
+          "en": "Teacher, where is my pen?",
+          "ar": "إنه على الطاولة، بجانب الدفتر."
+        }
+      ],
+      "answer": "Professora, onde está a minha caneta?",
+      "accepted": [],
+      "audio": "Professora, onde está a minha caneta?",
+      "explanation": {
+        "pt": "Você ouviu: 'Professora, onde está a minha caneta?' — 'Teacher, where is my pen?'",
+        "en": "You heard: 'Professora, onde está a minha caneta?' — 'Teacher, where is my pen?'",
+        "ar": "سمعت: 'Professora, onde está a minha caneta?' — 'أستاذة، أين قلمي؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Abram",
+          "en": "Abram",
+          "ar": "Abram"
+        },
+        {
+          "pt": "os",
+          "en": "os",
+          "ar": "os"
+        },
+        {
+          "pt": "página",
+          "en": "página",
+          "ar": "página"
+        },
+        {
+          "pt": "na",
+          "en": "na",
+          "ar": "na"
+        },
+        {
+          "pt": "dez.",
+          "en": "dez.",
+          "ar": "dez."
+        },
+        {
+          "pt": "livros",
+          "en": "livros",
+          "ar": "livros"
+        }
+      ],
+      "answer": "Abram os livros na página dez.",
+      "accepted": [
+        "Abram os livros na página dez."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Abram os livros na página dez.'",
+        "en": "The correct order: 'Open your books to page ten.'",
+        "ar": "الترتيب الصحيح: 'افتحوا الكتب في الصفحة عشرة.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o professor",
+          "en": "the school",
+          "ar": "o professor"
+        },
+        {
+          "pt": "a escola",
+          "en": "the notebook",
+          "ar": "a escola"
+        },
+        {
+          "pt": "o caderno",
+          "en": "the teacher (m)",
+          "ar": "o caderno"
+        },
+        {
+          "pt": "a caneta",
+          "en": "the pen",
+          "ar": "a caneta"
+        },
+        {
+          "pt": "a mesa",
+          "en": "the table",
+          "ar": "a mesa"
+        },
+        {
+          "pt": "o livro",
+          "en": "the book",
+          "ar": "o livro"
+        }
+      ],
+      "answer": "o professor::the school|a escola::the notebook|o caderno::the teacher (m)|a caneta::the pen|a mesa::the table|o livro::the book",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Abram os livros na página dez.",
+          "en": "It's on the table, next to the notebook.",
+          "ar": "إنه على الطاولة، بجانب الدفتر."
+        },
+        {
+          "pt": "Os exercícios são para hoje?",
+          "en": "Are the exercises due today?",
+          "ar": "افتحوا الكتب في الصفحة عشرة."
+        },
+        {
+          "pt": "Está sobre a mesa, ao lado do caderno.",
+          "en": "Open your books to page ten.",
+          "ar": "هل الواجبات لهذا اليوم؟"
+        }
+      ],
+      "answer": "Abram os livros na página dez.",
+      "accepted": [],
+      "audio": "Abram os livros na página dez.",
+      "explanation": {
+        "pt": "Você ouviu: 'Abram os livros na página dez.' — 'Open your books to page ten.'",
+        "en": "You heard: 'Abram os livros na página dez.' — 'Open your books to page ten.'",
+        "ar": "سمعت: 'Abram os livros na página dez.' — 'افتحوا الكتب في الصفحة عشرة.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Professora, onde está a minha caneta?",
+          "en": "Teacher, where is my pen?",
+          "ar": "افتحوا الكتب في الصفحة عشرة."
+        },
+        {
+          "pt": "Abram os livros na página dez.",
+          "en": "Open your books to page ten.",
+          "ar": "إنه على الطاولة، بجانب الدفتر."
+        },
+        {
+          "pt": "Está sobre a mesa, ao lado do caderno.",
+          "en": "It's on the table, next to the notebook.",
+          "ar": "أستاذة، أين قلمي؟"
+        }
+      ],
+      "answer": "Professora, onde está a minha caneta?",
+      "accepted": [],
+      "audio": "Professora, onde está a minha caneta?",
+      "explanation": {
+        "pt": "Você ouviu: 'Professora, onde está a minha caneta?' — 'Teacher, where is my pen?'",
+        "en": "You heard: 'Professora, onde está a minha caneta?' — 'Teacher, where is my pen?'",
+        "ar": "سمعت: 'Professora, onde está a minha caneta?' — 'أستاذة، أين قلمي؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Abram",
+          "en": "Abram",
+          "ar": "Abram"
+        },
+        {
+          "pt": "página",
+          "en": "página",
+          "ar": "página"
+        },
+        {
+          "pt": "na",
+          "en": "na",
+          "ar": "na"
+        },
+        {
+          "pt": "livros",
+          "en": "livros",
+          "ar": "livros"
+        },
+        {
+          "pt": "os",
+          "en": "os",
+          "ar": "os"
+        },
+        {
+          "pt": "dez.",
+          "en": "dez.",
+          "ar": "dez."
+        }
+      ],
+      "answer": "Abram os livros na página dez.",
+      "accepted": [
+        "Abram os livros na página dez."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Abram os livros na página dez.'",
+        "en": "The correct order: 'Open your books to page ten.'",
+        "ar": "الترتيب الصحيح: 'افتحوا الكتب في الصفحة عشرة.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o livro",
+          "en": "the school",
+          "ar": "o livro"
+        },
+        {
+          "pt": "a caneta",
+          "en": "the book",
+          "ar": "a caneta"
+        },
+        {
+          "pt": "o professor",
+          "en": "the pen",
+          "ar": "o professor"
+        },
+        {
+          "pt": "a mesa",
+          "en": "the table",
+          "ar": "a mesa"
+        },
+        {
+          "pt": "o caderno",
+          "en": "the notebook",
+          "ar": "o caderno"
+        },
+        {
+          "pt": "a escola",
+          "en": "the teacher (m)",
+          "ar": "a escola"
+        }
+      ],
+      "answer": "o livro::the school|a caneta::the book|o professor::the pen|a mesa::the table|o caderno::the notebook|a escola::the teacher (m)",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Está sobre a mesa, ao lado do caderno.",
+          "en": "It's on the table, next to the notebook.",
+          "ar": "نعم، تمارين الصفحة اثني عشر."
+        },
+        {
+          "pt": "Abram os livros na página dez.",
+          "en": "Open your books to page ten.",
+          "ar": "افتحوا الكتب في الصفحة عشرة."
+        },
+        {
+          "pt": "Sim, os exercícios da página doze.",
+          "en": "Yes, the exercises on page twelve.",
+          "ar": "إنه على الطاولة، بجانب الدفتر."
+        }
+      ],
+      "answer": "Abram os livros na página dez.",
+      "accepted": [],
+      "audio": "Abram os livros na página dez.",
+      "explanation": {
+        "pt": "Você ouviu: 'Abram os livros na página dez.' — 'Open your books to page ten.'",
+        "en": "You heard: 'Abram os livros na página dez.' — 'Open your books to page ten.'",
+        "ar": "سمعت: 'Abram os livros na página dez.' — 'افتحوا الكتب في الصفحة عشرة.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim, os exercícios da página doze.",
+          "en": "It's on the table, next to the notebook.",
+          "ar": "إنه على الطاولة، بجانب الدفتر."
+        },
+        {
+          "pt": "Está sobre a mesa, ao lado do caderno.",
+          "en": "Yes, the exercises on page twelve.",
+          "ar": "أستاذة، أين قلمي؟"
+        },
+        {
+          "pt": "Professora, onde está a minha caneta?",
+          "en": "Teacher, where is my pen?",
+          "ar": "نعم، تمارين الصفحة اثني عشر."
+        }
+      ],
+      "answer": "Professora, onde está a minha caneta?",
+      "accepted": [],
+      "audio": "Professora, onde está a minha caneta?",
+      "explanation": {
+        "pt": "Você ouviu: 'Professora, onde está a minha caneta?' — 'Teacher, where is my pen?'",
+        "en": "You heard: 'Professora, onde está a minha caneta?' — 'Teacher, where is my pen?'",
+        "ar": "سمعت: 'Professora, onde está a minha caneta?' — 'أستاذة، أين قلمي؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "os",
+          "en": "os",
+          "ar": "os"
+        },
+        {
+          "pt": "dez.",
+          "en": "dez.",
+          "ar": "dez."
+        },
+        {
+          "pt": "página",
+          "en": "página",
+          "ar": "página"
+        },
+        {
+          "pt": "Abram",
+          "en": "Abram",
+          "ar": "Abram"
+        },
+        {
+          "pt": "na",
+          "en": "na",
+          "ar": "na"
+        },
+        {
+          "pt": "livros",
+          "en": "livros",
+          "ar": "livros"
+        }
+      ],
+      "answer": "Abram os livros na página dez.",
+      "accepted": [
+        "Abram os livros na página dez."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Abram os livros na página dez.'",
+        "en": "The correct order: 'Open your books to page ten.'",
+        "ar": "الترتيب الصحيح: 'افتحوا الكتب في الصفحة عشرة.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o caderno",
+          "en": "the table",
+          "ar": "o caderno"
+        },
+        {
+          "pt": "a caneta",
+          "en": "the school",
+          "ar": "a caneta"
+        },
+        {
+          "pt": "a escola",
+          "en": "the teacher (m)",
+          "ar": "a escola"
+        },
+        {
+          "pt": "a mesa",
+          "en": "the pen",
+          "ar": "a mesa"
+        },
+        {
+          "pt": "o livro",
+          "en": "the notebook",
+          "ar": "o livro"
+        },
+        {
+          "pt": "o professor",
+          "en": "the book",
+          "ar": "o professor"
+        }
+      ],
+      "answer": "o caderno::the table|a caneta::the school|a escola::the teacher (m)|a mesa::the pen|o livro::the notebook|o professor::the book",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Abram os livros na página dez.",
+          "en": "Open your books to page ten.",
+          "ar": "إنه على الطاولة، بجانب الدفتر."
+        },
+        {
+          "pt": "Está sobre a mesa, ao lado do caderno.",
+          "en": "Teacher, where is my pen?",
+          "ar": "افتحوا الكتب في الصفحة عشرة."
+        },
+        {
+          "pt": "Professora, onde está a minha caneta?",
+          "en": "It's on the table, next to the notebook.",
+          "ar": "أستاذة، أين قلمي؟"
+        }
+      ],
+      "answer": "Abram os livros na página dez.",
+      "accepted": [],
+      "audio": "Abram os livros na página dez.",
+      "explanation": {
+        "pt": "Você ouviu: 'Abram os livros na página dez.' — 'Open your books to page ten.'",
+        "en": "You heard: 'Abram os livros na página dez.' — 'Open your books to page ten.'",
+        "ar": "سمعت: 'Abram os livros na página dez.' — 'افتحوا الكتب في الصفحة عشرة.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Os exercícios são para hoje?",
+          "en": "Yes, the exercises on page twelve.",
+          "ar": "نعم، تمارين الصفحة اثني عشر."
+        },
+        {
+          "pt": "Professora, onde está a minha caneta?",
+          "en": "Are the exercises due today?",
+          "ar": "هل الواجبات لهذا اليوم؟"
+        },
+        {
+          "pt": "Sim, os exercícios da página doze.",
+          "en": "Teacher, where is my pen?",
+          "ar": "أستاذة، أين قلمي؟"
+        }
+      ],
+      "answer": "Professora, onde está a minha caneta?",
+      "accepted": [],
+      "audio": "Professora, onde está a minha caneta?",
+      "explanation": {
+        "pt": "Você ouviu: 'Professora, onde está a minha caneta?' — 'Teacher, where is my pen?'",
+        "en": "You heard: 'Professora, onde está a minha caneta?' — 'Teacher, where is my pen?'",
+        "ar": "سمعت: 'Professora, onde está a minha caneta?' — 'أستاذة، أين قلمي؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "na",
+          "en": "na",
+          "ar": "na"
+        },
+        {
+          "pt": "livros",
+          "en": "livros",
+          "ar": "livros"
+        },
+        {
+          "pt": "os",
+          "en": "os",
+          "ar": "os"
+        },
+        {
+          "pt": "Abram",
+          "en": "Abram",
+          "ar": "Abram"
+        },
+        {
+          "pt": "dez.",
+          "en": "dez.",
+          "ar": "dez."
+        },
+        {
+          "pt": "página",
+          "en": "página",
+          "ar": "página"
+        }
+      ],
+      "answer": "Abram os livros na página dez.",
+      "accepted": [
+        "Abram os livros na página dez."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Abram os livros na página dez.'",
+        "en": "The correct order: 'Open your books to page ten.'",
+        "ar": "الترتيب الصحيح: 'افتحوا الكتب في الصفحة عشرة.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o caderno",
+          "en": "the notebook",
+          "ar": "o caderno"
+        },
+        {
+          "pt": "a caneta",
+          "en": "the book",
+          "ar": "a caneta"
+        },
+        {
+          "pt": "a escola",
+          "en": "the table",
+          "ar": "a escola"
+        },
+        {
+          "pt": "a mesa",
+          "en": "the pen",
+          "ar": "a mesa"
+        },
+        {
+          "pt": "o professor",
+          "en": "the school",
+          "ar": "o professor"
+        },
+        {
+          "pt": "o livro",
+          "en": "the teacher (m)",
+          "ar": "o livro"
+        }
+      ],
+      "answer": "o caderno::the notebook|a caneta::the book|a escola::the table|a mesa::the pen|o professor::the school|o livro::the teacher (m)",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Está sobre a mesa, ao lado do caderno.",
+          "en": "Are the exercises due today?",
+          "ar": "هل الواجبات لهذا اليوم؟"
+        },
+        {
+          "pt": "Abram os livros na página dez.",
+          "en": "It's on the table, next to the notebook.",
+          "ar": "افتحوا الكتب في الصفحة عشرة."
+        },
+        {
+          "pt": "Os exercícios são para hoje?",
+          "en": "Open your books to page ten.",
+          "ar": "إنه على الطاولة، بجانب الدفتر."
+        }
+      ],
+      "answer": "Abram os livros na página dez.",
+      "accepted": [],
+      "audio": "Abram os livros na página dez.",
+      "explanation": {
+        "pt": "Você ouviu: 'Abram os livros na página dez.' — 'Open your books to page ten.'",
+        "en": "You heard: 'Abram os livros na página dez.' — 'Open your books to page ten.'",
+        "ar": "سمعت: 'Abram os livros na página dez.' — 'افتحوا الكتب في الصفحة عشرة.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Professora, onde está a minha caneta?",
+          "en": "Teacher, where is my pen?",
+          "ar": "هل الواجبات لهذا اليوم؟"
+        },
+        {
+          "pt": "Abram os livros na página dez.",
+          "en": "Open your books to page ten.",
+          "ar": "افتحوا الكتب في الصفحة عشرة."
+        },
+        {
+          "pt": "Os exercícios são para hoje?",
+          "en": "Are the exercises due today?",
+          "ar": "أستاذة، أين قلمي؟"
+        }
+      ],
+      "answer": "Professora, onde está a minha caneta?",
+      "accepted": [],
+      "audio": "Professora, onde está a minha caneta?",
+      "explanation": {
+        "pt": "Você ouviu: 'Professora, onde está a minha caneta?' — 'Teacher, where is my pen?'",
+        "en": "You heard: 'Professora, onde está a minha caneta?' — 'Teacher, where is my pen?'",
+        "ar": "سمعت: 'Professora, onde está a minha caneta?' — 'أستاذة، أين قلمي؟'"
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'the book'",
+        "en": "Type in Portuguese: 'the book'",
+        "ar": "اكتب بالبرتغالية: 'الكتاب'"
+      },
+      "options": [],
+      "answer": "o livro",
+      "accepted": [
+        "o livro"
+      ],
+      "explanation": {
+        "pt": "'o livro' significa 'the book'.",
+        "en": "'o livro' means 'the book'.",
+        "ar": "'$o livro' بالعربية: '$الكتاب'."
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'the table'",
+        "en": "Type in Portuguese: 'the table'",
+        "ar": "اكتب بالبرتغالية: 'الطاولة'"
+      },
+      "options": [],
+      "answer": "a mesa",
+      "accepted": [
+        "a mesa"
+      ],
+      "explanation": {
+        "pt": "'a mesa' significa 'the table'.",
+        "en": "'a mesa' means 'the table'.",
+        "ar": "'$a mesa' بالعربية: '$الطاولة'."
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Sim, os exercícios da página doze.",
+          "en": "Sim, os exercícios da página doze.",
+          "ar": "Sim, os exercícios da página doze."
+        },
+        {
+          "pt": "Professora, onde está a minha caneta?",
+          "en": "Professora, onde está a minha caneta?",
+          "ar": "Professora, onde está a minha caneta?"
+        },
+        {
+          "pt": "Abram os livros na página dez.",
+          "en": "Abram os livros na página dez.",
+          "ar": "Abram os livros na página dez."
+        }
+      ],
+      "answer": "Abram os livros na página dez.",
+      "accepted": [],
+      "audio": "Abram os livros na página dez.",
+      "explanation": {
+        "pt": "Você ouviu: 'Abram os livros na página dez.'",
+        "en": "You heard: 'Abram os livros na página dez.'",
+        "ar": "سمعت: 'Abram os livros na página dez.'"
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Sim, os exercícios da página doze.",
+          "en": "Sim, os exercícios da página doze.",
+          "ar": "Sim, os exercícios da página doze."
+        },
+        {
+          "pt": "Professora, onde está a minha caneta?",
+          "en": "Professora, onde está a minha caneta?",
+          "ar": "Professora, onde está a minha caneta?"
+        },
+        {
+          "pt": "Abram os livros na página dez.",
+          "en": "Abram os livros na página dez.",
+          "ar": "Abram os livros na página dez."
+        }
+      ],
+      "answer": "Professora, onde está a minha caneta?",
+      "accepted": [],
+      "audio": "Professora, onde está a minha caneta?",
+      "explanation": {
+        "pt": "Você ouviu: 'Professora, onde está a minha caneta?'",
+        "en": "You heard: 'Professora, onde está a minha caneta?'",
+        "ar": "سمعت: 'Professora, onde está a minha caneta?'"
+      }
+    },
+    {
+      "type": "dictation",
+      "prompt": {
+        "pt": "Ouça e escreva o que você ouviu.",
+        "en": "Listen and type what you hear.",
+        "ar": "استمع واكتب ما سمعته."
+      },
+      "options": [],
+      "answer": "Abram os livros na página dez.",
+      "accepted": [],
+      "audio": "Abram os livros na página dez.",
+      "explanation": {
+        "pt": "A frase correta: 'Abram os livros na página dez.'",
+        "en": "The correct sentence: 'Abram os livros na página dez.'",
+        "ar": "الجملة الصحيحة: 'Abram os livros na página dez.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Abram",
+          "en": "Abram",
+          "ar": "Abram"
+        },
+        {
+          "pt": "na",
+          "en": "na",
+          "ar": "na"
+        },
+        {
+          "pt": "página",
+          "en": "página",
+          "ar": "página"
+        },
+        {
+          "pt": "livros",
+          "en": "livros",
+          "ar": "livros"
+        },
+        {
+          "pt": "dez.",
+          "en": "dez.",
+          "ar": "dez."
+        },
+        {
+          "pt": "os",
+          "en": "os",
+          "ar": "os"
+        }
+      ],
+      "answer": "Abram os livros na página dez.",
+      "accepted": [
+        "Abram os livros na página dez."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Abram os livros na página dez.'",
+        "en": "The correct order: 'Open your books to page ten.'",
+        "ar": "الترتيب الصحيح: 'افتحوا الكتب في الصفحة عشرة.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o caderno",
+          "en": "the book",
+          "ar": "o caderno"
+        },
+        {
+          "pt": "o professor",
+          "en": "the pen",
+          "ar": "o professor"
+        },
+        {
+          "pt": "a mesa",
+          "en": "the teacher (m)",
+          "ar": "a mesa"
+        },
+        {
+          "pt": "o livro",
+          "en": "the school",
+          "ar": "o livro"
+        },
+        {
+          "pt": "a caneta",
+          "en": "the notebook",
+          "ar": "a caneta"
+        },
+        {
+          "pt": "a escola",
+          "en": "the table",
+          "ar": "a escola"
+        }
+      ],
+      "answer": "o caderno::the book|o professor::the pen|a mesa::the teacher (m)|o livro::the school|a caneta::the notebook|a escola::the table",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Está sobre a mesa, ao lado do caderno.",
+          "en": "It's on the table, next to the notebook.",
+          "ar": "افتحوا الكتب في الصفحة عشرة."
+        },
+        {
+          "pt": "Os exercícios são para hoje?",
+          "en": "Open your books to page ten.",
+          "ar": "هل الواجبات لهذا اليوم؟"
+        },
+        {
+          "pt": "Abram os livros na página dez.",
+          "en": "Are the exercises due today?",
+          "ar": "إنه على الطاولة، بجانب الدفتر."
+        }
+      ],
+      "answer": "Abram os livros na página dez.",
+      "accepted": [],
+      "audio": "Abram os livros na página dez.",
+      "explanation": {
+        "pt": "Você ouviu: 'Abram os livros na página dez.' — 'Open your books to page ten.'",
+        "en": "You heard: 'Abram os livros na página dez.' — 'Open your books to page ten.'",
+        "ar": "سمعت: 'Abram os livros na página dez.' — 'افتحوا الكتب في الصفحة عشرة.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim, os exercícios da página doze.",
+          "en": "Open your books to page ten.",
+          "ar": "أستاذة، أين قلمي؟"
+        },
+        {
+          "pt": "Professora, onde está a minha caneta?",
+          "en": "Teacher, where is my pen?",
+          "ar": "افتحوا الكتب في الصفحة عشرة."
+        },
+        {
+          "pt": "Abram os livros na página dez.",
+          "en": "Yes, the exercises on page twelve.",
+          "ar": "نعم، تمارين الصفحة اثني عشر."
+        }
+      ],
+      "answer": "Professora, onde está a minha caneta?",
+      "accepted": [],
+      "audio": "Professora, onde está a minha caneta?",
+      "explanation": {
+        "pt": "Você ouviu: 'Professora, onde está a minha caneta?' — 'Teacher, where is my pen?'",
+        "en": "You heard: 'Professora, onde está a minha caneta?' — 'Teacher, where is my pen?'",
+        "ar": "سمعت: 'Professora, onde está a minha caneta?' — 'أستاذة، أين قلمي؟'"
+      }
+    }
+  ],
+  "speaking": {
+    "title": {
+      "pt": "Fale Agora — Ouça e Repita",
+      "en": "Speak Now — Listen and Repeat",
+      "ar": "تحدث الآن — استمع وكرر"
+    },
+    "phrases": [
+      {
+        "pt": "Abram os livros na página dez.",
+        "en": "Open your books to page ten.",
+        "ar": "افتحوا الكتب في الصفحة عشرة."
+      },
+      {
+        "pt": "Professora, onde está a minha caneta?",
+        "en": "Teacher, where is my pen?",
+        "ar": "أستاذة، أين قلمي؟"
+      },
+      {
+        "pt": "Está sobre a mesa, ao lado do caderno.",
+        "en": "It's on the table, next to the notebook.",
+        "ar": "إنه على الطاولة، بجانب الدفتر."
+      },
+      {
+        "pt": "Os exercícios são para hoje?",
+        "en": "Are the exercises due today?",
+        "ar": "هل الواجبات لهذا اليوم؟"
+      },
+      {
+        "pt": "Sim, os exercícios da página doze.",
+        "en": "Yes, the exercises on page twelve.",
+        "ar": "نعم، تمارين الصفحة اثني عشر."
+      },
+      {
+        "pt": "o livro",
+        "en": "the book",
+        "ar": "الكتاب"
+      },
+      {
+        "pt": "a mesa",
+        "en": "the table",
+        "ar": "الطاولة"
+      },
+      {
+        "pt": "a caneta",
+        "en": "the pen",
+        "ar": "القلم"
+      }
+    ]
+  },
+  "cultural_tips": {
+    "pt": "",
+    "en": "",
+    "ar": ""
+  }
+}

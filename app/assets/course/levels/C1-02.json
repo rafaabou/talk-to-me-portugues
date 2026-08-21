@@ -1,0 +1,1879 @@
+{
+  "id": "C1-02",
+  "level": "C1",
+  "level_name": {
+    "pt": "Avançado",
+    "en": "Advanced",
+    "ar": "متقدم"
+  },
+  "title": {
+    "pt": "Coloquialismos e Gírias",
+    "en": "Colloquialisms and Slang",
+    "ar": "العامية والمصطلحات الدارجة"
+  },
+  "objectives": [
+    {
+      "pt": "Reconhecer gírias e expressões coloquiais brasileiras",
+      "en": "Recognize Brazilian slang and colloquial expressions",
+      "ar": "التعرف على العامية والمصطلحات الدارجة البرازيلية"
+    },
+    {
+      "pt": "Usar reduções da fala espontânea (tô, tá, pra)",
+      "en": "Use reductions of spontaneous speech (tô, tá, pra)",
+      "ar": "استخدام الاختصارات في الكلام العفوي (tô، tá، pra)"
+    },
+    {
+      "pt": "Compreender o contexto social e o tom das gírias",
+      "en": "Understand the social context and tone of slang",
+      "ar": "فهم السياق الاجتماعي ونبرة العامية"
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "de boa",
+      "ipa": "/dʒi ˈbo.a/",
+      "en": "cool, fine, no worries",
+      "ar": "تمام، على ما يُرام",
+      "example": {
+        "pt": "Tô de boa, só um pouco quebrado esse mês.",
+        "en": "I'm fine, just a bit broke this month.",
+        "ar": "أنا بخير، لكن مفلس قليلًا هذا الشهر."
+      }
+    },
+    {
+      "pt": "beleza?",
+      "ipa": "/beˈle.za/",
+      "en": "all good?",
+      "ar": "تمام؟",
+      "example": {
+        "pt": "E aí, parça, tudo beleza?",
+        "en": "Hey, buddy, everything good?",
+        "ar": "أهلًا يا رفيق، كل شيء تمام؟"
+      }
+    },
+    {
+      "pt": "cara",
+      "ipa": "/ˈka.ɾa/",
+      "en": "dude",
+      "ar": "يا رجل",
+      "example": {
+        "pt": "Pode deixar, cara. Tá tudo certo.",
+        "en": "Leave it to me, dude. Everything's fine.",
+        "ar": "اترك الأمر لي يا رجل. كل شيء على ما يُرام."
+      }
+    },
+    {
+      "pt": "mano",
+      "ipa": "/ˈmɐ̃.nu/",
+      "en": "bro",
+      "ar": "يا أخي",
+      "example": {
+        "pt": "E aí, parça, tudo beleza?",
+        "en": "Hey, buddy, everything good?",
+        "ar": "أهلًا يا رفيق، كل شيء تمام؟"
+      }
+    },
+    {
+      "pt": "grana",
+      "ipa": "/ˈɡɾɐ̃.na/",
+      "en": "money",
+      "ar": "فلوس",
+      "example": {
+        "pt": "E aí, parça, tudo beleza?",
+        "en": "Hey, buddy, everything good?",
+        "ar": "أهلًا يا رفيق، كل شيء تمام؟"
+      }
+    },
+    {
+      "pt": "sacou?",
+      "ipa": "/saˈkow/",
+      "en": "got it?",
+      "ar": "فهمت؟",
+      "example": {
+        "pt": "E aí, parça, tudo beleza?",
+        "en": "Hey, buddy, everything good?",
+        "ar": "أهلًا يا رفيق، كل شيء تمام؟"
+      }
+    },
+    {
+      "pt": "tá ligado?",
+      "ipa": "/ta liˈɡa.du/",
+      "en": "you know?",
+      "ar": "تعرف؟",
+      "example": {
+        "pt": "Mó legal esse visual, tá ligado?",
+        "en": "That view is really cool, you know?",
+        "ar": "هذا المنظر رائع جدًا، تعرف؟"
+      }
+    },
+    {
+      "pt": "zoar",
+      "ipa": "/zoˈaɾ/",
+      "en": "to joke around, tease",
+      "ar": "يهزأ، يستهزئ",
+      "example": {
+        "pt": "Falou! Mas não deixa ninguém zoar com a gente, hein?",
+        "en": "Alright! But don't let anyone mess with us, ok?",
+        "ar": "تمام! لكن لا تدع أحدًا يسخر منا، اتفقنا؟"
+      }
+    },
+    {
+      "pt": "treta",
+      "ipa": "/ˈtɾɛ.ta/",
+      "en": "drama, feud",
+      "ar": "مشكلة، خلاف",
+      "example": {
+        "pt": "Rolou uma treta na festa.",
+        "en": "There was drama at the party.",
+        "ar": "وقع شجار في الحفلة."
+      }
+    },
+    {
+      "pt": "bolado",
+      "ipa": "/boˈla.du/",
+      "en": "upset, concerned",
+      "ar": "منزعج، قلق",
+      "example": {
+        "pt": "Ficou todo mundo bolado com a notícia.",
+        "en": "Everyone got upset with the news.",
+        "ar": "أصيب الجميع بالانزعاج بسبب الخبر."
+      }
+    },
+    {
+      "pt": "mó",
+      "ipa": "/mɔ/",
+      "en": "very (slang)",
+      "ar": "جدًا (عامية)",
+      "example": {
+        "pt": "Mó legal esse visual, tá ligado?",
+        "en": "That view is really cool, you know?",
+        "ar": "هذا المنظر رائع جدًا، تعرف؟"
+      }
+    },
+    {
+      "pt": "parça",
+      "ipa": "/ˈpaʁ.sa/",
+      "en": "pal, buddy",
+      "ar": "رفيق",
+      "example": {
+        "pt": "E aí, parça, tudo beleza?",
+        "en": "Hey, buddy, everything good?",
+        "ar": "أهلًا يا رفيق، كل شيء تمام؟"
+      }
+    },
+    {
+      "pt": "tô",
+      "ipa": "/to/",
+      "en": "I am (reduced)",
+      "ar": "أنا (مختصر)",
+      "example": {
+        "pt": "Tô de boa, só um pouco quebrado esse mês.",
+        "en": "I'm fine, just a bit broke this month.",
+        "ar": "أنا بخير، لكن مفلس قليلًا هذا الشهر."
+      }
+    },
+    {
+      "pt": "falou",
+      "ipa": "/faˈlow/",
+      "en": "bye, alright",
+      "ar": "مع السلامة، تمام",
+      "example": {
+        "pt": "Falou! Mas não deixa ninguém zoar com a gente, hein?",
+        "en": "Alright! But don't let anyone mess with us, ok?",
+        "ar": "تمام! لكن لا تدع أحدًا يسخر منا، اتفقنا؟"
+      }
+    },
+    {
+      "pt": "quebrado",
+      "ipa": "/keˈbɾa.du/",
+      "en": "broke, without money",
+      "ar": "مفلس",
+      "example": {
+        "pt": "Tô de boa, só um pouco quebrado esse mês.",
+        "en": "I'm fine, just a bit broke this month.",
+        "ar": "أنا بخير، لكن مفلس قليلًا هذا الشهر."
+      }
+    },
+    {
+      "pt": "dar um rolê",
+      "ipa": "/daɾ ũ ˈʁo.le/",
+      "en": "to hang out",
+      "ar": "يخرج للتنزه",
+      "example": {
+        "pt": "Vou dar um rolê com os manos.",
+        "en": "I'm going to hang out with the guys.",
+        "ar": "سأخرج للتنزه مع الرفاق."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "title": {
+        "pt": "Reduções da Fala Espontânea",
+        "en": "Reductions in Spontaneous Speech",
+        "ar": "الاختصارات في الكلام العفوي"
+      },
+      "explanation": {
+        "pt": "Na fala coloquial, o brasileiro reduz palavras: 'estou' vira 'tô', 'está' vira 'tá', 'para' vira 'pra', 'você' vira 'cê', 'não é' vira 'né'. Essas reduções são normais na conversa, mas devem ser evitadas na escrita formal. Ex.: 'Tô chegando', 'Cê tá sabendo?', 'Vou pra casa'.",
+        "en": "In colloquial speech, Brazilians reduce words: 'estou' becomes 'tô', 'está' becomes 'tá', 'para' becomes 'pra', 'você' becomes 'cê', 'não é' becomes 'né'. These reductions are normal in conversation but should be avoided in formal writing. E.g., 'Tô chegando' (I'm arriving), 'Cê tá sabendo?' (Do you know?), 'Vou pra casa' (I'm going home).",
+        "ar": "في الكلام العامي، يختصر البرازيليون الكلمات: 'estou' تصبح 'tô'، و'está' تصبح 'tá'، و'para' تصبح 'pra'، و'você' تصبح 'cê'، و'não é' تصبح 'né'. هذه الاختصارات طبيعية في المحادثة لكن يجب تجنبها في الكتابة الرسمية. مثال: 'Tô chegando' (أنا قادم)، 'Cê tá sabendo?' (هل تعرف؟)، 'Vou pra casa' (سأذهب إلى المنزل)."
+      },
+      "examples": [
+        {
+          "pt": "Tô chegando em casa agora.",
+          "en": "I'm getting home now.",
+          "ar": "أنا قادم إلى المنزل الآن."
+        },
+        {
+          "pt": "Cê tá ligado no que aconteceu?",
+          "en": "Are you aware of what happened?",
+          "ar": "هل تعرف ما الذي حدث؟"
+        },
+        {
+          "pt": "Vou pra praia no domingo.",
+          "en": "I'm going to the beach on Sunday.",
+          "ar": "سأذهب إلى الشاطئ يوم الأحد."
+        },
+        {
+          "pt": "Ela tava falando contigo.",
+          "en": "She was talking to you.",
+          "ar": "كانت تتحدث معك."
+        }
+      ]
+    },
+    {
+      "title": {
+        "pt": "Verbos com Sentido Coloquial",
+        "en": "Verbs with Colloquial Meanings",
+        "ar": "أفعال بمعانٍ عامية"
+      },
+      "explanation": {
+        "pt": "Alguns verbos ganham sentidos coloquiais muito usados: 'dar' (acontecer, resultar), 'rolar' (acontecer, ocorrer), 'ficar' (tornar-se, permanecer), 'pegar' (pegar carona). Ex.: 'Deu tudo certo' (tudo aconteceu bem), 'Rolou uma treta' (houve uma briga), 'Ficou todo mundo bolado' (todos ficaram preocupados).",
+        "en": "Some verbs gain very common colloquial meanings: 'dar' (to happen, to work out), 'rolar' (to occur), 'ficar' (to become), 'pegar' (to catch a ride). E.g., 'Deu tudo certo' (everything worked out), 'Rolou uma treta' (there was a fight), 'Ficou todo mundo bolado' (everyone got worried).",
+        "ar": "تكتسب بعض الأفعال معانٍ عامية شائعة جدًا: 'dar' (يحدث، ينجح)، 'rolar' (يقع)، 'ficar' (يصبح)، 'pegar' (يستقل سيارة). مثال: 'Deu tudo certo' (نجح كل شيء)، 'Rolou uma treta' (وقع شجار)، 'Ficou todo mundo bolado' (أصبح الجميع قلقين)."
+      },
+      "examples": [
+        {
+          "pt": "Deu tudo certo no final.",
+          "en": "Everything worked out in the end.",
+          "ar": "نجح كل شيء في النهاية."
+        },
+        {
+          "pt": "Rolou uma treta na festa.",
+          "en": "There was drama at the party.",
+          "ar": "وقع شجار في الحفلة."
+        },
+        {
+          "pt": "Ficou todo mundo bolado com a notícia.",
+          "en": "Everyone got upset with the news.",
+          "ar": "أصيب الجميع بالانزعاج بسبب الخبر."
+        },
+        {
+          "pt": "Vou dar um rolê com os manos.",
+          "en": "I'm going to hang out with the guys.",
+          "ar": "سأخرج للتنزه مع الرفاق."
+        }
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": {
+      "pt": "Encontro na Praia",
+      "en": "Meeting at the Beach",
+      "ar": "لقاء على الشاطئ"
+    },
+    "lines": [
+      {
+        "speaker": "Rafa",
+        "pt": "E aí, parça, tudo beleza?",
+        "en": "Hey, buddy, everything good?",
+        "ar": "أهلًا يا رفيق، كل شيء تمام؟"
+      },
+      {
+        "speaker": "Léo",
+        "pt": "Tô de boa, só um pouco quebrado esse mês.",
+        "en": "I'm fine, just a bit broke this month.",
+        "ar": "أنا بخير، لكن مفلس قليلًا هذا الشهر."
+      },
+      {
+        "speaker": "Rafa",
+        "pt": "Sem problema, o rolê é barato. Saca só o lugar!",
+        "en": "No problem, the hangout is cheap. Check out the place!",
+        "ar": "لا مشكلة، الخروج رخيص. انظر إلى المكان!"
+      },
+      {
+        "speaker": "Léo",
+        "pt": "Mó legal esse visual, tá ligado?",
+        "en": "That view is really cool, you know?",
+        "ar": "هذا المنظر رائع جدًا، تعرف؟"
+      },
+      {
+        "speaker": "Rafa",
+        "pt": "Falou! Mas não deixa ninguém zoar com a gente, hein?",
+        "en": "Alright! But don't let anyone mess with us, ok?",
+        "ar": "تمام! لكن لا تدع أحدًا يسخر منا، اتفقنا؟"
+      },
+      {
+        "speaker": "Léo",
+        "pt": "Pode deixar, cara. Tá tudo certo.",
+        "en": "Leave it to me, dude. Everything's fine.",
+        "ar": "اترك الأمر لي يا رجل. كل شيء على ما يُرام."
+      }
+    ]
+  },
+  "reading": {
+    "title": {
+      "pt": "Uma Conversa Descontraída",
+      "en": "A Casual Conversation",
+      "ar": "محادثة غير رسمية"
+    },
+    "text_pt": "No fim de semana, os amigos se encontraram na praia. Rolou muita conversa, música e risada, e ninguém ficou bolado com nada. De repente, apareceu um cara oferecendo água de coco. Todo mundo curtiu, e o cara ficou de boa, só pedindo que contassem para os manos.",
+    "text_en": "On the weekend, the friends met at the beach. There was lots of talking, music and laughter, and nobody got upset about anything. Suddenly, a guy showed up selling coconut water. Everyone enjoyed it, and the guy was cool, just asking them to tell their friends.",
+    "text_ar": "في نهاية الأسبوع، التقى الأصدقاء على الشاطئ. دارت أحاديث كثيرة وموسيقى وضحك، ولم ينزعج أحد من أي شيء. وفجأة ظهر رجل يعرض ماء جوز الهند. استمتع الجميع به، وكان الرجل لطيفًا، واكتفى بطلبهم أن يخبروا أصدقاءهم."
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "O que significa 'tô quebrado'?",
+        "en": "What does 'tô quebrado' mean?",
+        "ar": "ماذا تعني عبارة 'tô quebrado'؟"
+      },
+      "options": [
+        {
+          "pt": "Estou doente.",
+          "en": "I am sick.",
+          "ar": "أنا مريض."
+        },
+        {
+          "pt": "Estou sem dinheiro.",
+          "en": "I am without money.",
+          "ar": "أنا بدون مال."
+        },
+        {
+          "pt": "Estou muito feliz.",
+          "en": "I am very happy.",
+          "ar": "أنا سعيد جدًا."
+        }
+      ],
+      "answer": "Estou sem dinheiro.",
+      "explanation": {
+        "pt": "'Quebrado' na gíria significa sem dinheiro.",
+        "en": "'Quebrado' in slang means without money.",
+        "ar": "'quebrado' في العامية تعني بدون مال."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual redução está correta na fala informal?",
+        "en": "Which reduction is correct in informal speech?",
+        "ar": "أي اختصار صحيح في الكلام غير الرسمي؟"
+      },
+      "options": [
+        {
+          "pt": "Tô indo pra escola.",
+          "en": "Tô indo pra escola.",
+          "ar": "Tô indo pra escola."
+        },
+        {
+          "pt": "Estou indo para a escola.",
+          "en": "Estou indo para a escola.",
+          "ar": "Estou indo para a escola."
+        },
+        {
+          "pt": "Eu vou a escola.",
+          "en": "Eu vou a escola.",
+          "ar": "Eu vou a escola."
+        }
+      ],
+      "answer": "Tô indo pra escola.",
+      "explanation": {
+        "pt": "Todas são possíveis, mas 'tô indo pra escola' é a versão informal reduzida e coloquial.",
+        "en": "All are possible, but 'tô indo pra escola' is the reduced, colloquial informal version.",
+        "ar": "كلها ممكنة، لكن 'tô indo pra escola' هي النسخة العامية المختصرة."
+      }
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português coloquial: 'No worries, bro, everything's fine.'",
+        "en": "Translate into colloquial Portuguese: 'No worries, bro, everything's fine.'",
+        "ar": "ترجم إلى العامية البرتغالية: 'No worries, bro, everything's fine.'"
+      },
+      "options": [],
+      "answer": "De boa, mano, tá tudo certo.",
+      "explanation": {
+        "pt": "'De boa' e 'tá tudo certo' são expressões coloquiais para tranquilizar.",
+        "en": "'De boa' and 'tá tudo certo' are colloquial ways to reassure.",
+        "ar": "'de boa' و'tá tudo certo' عبارتان عاميتان للطمأنة."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "tudo",
+          "en": "tudo",
+          "ar": "tudo"
+        },
+        {
+          "pt": "parça,",
+          "en": "parça,",
+          "ar": "parça,"
+        },
+        {
+          "pt": "aí,",
+          "en": "aí,",
+          "ar": "aí,"
+        },
+        {
+          "pt": "E",
+          "en": "E",
+          "ar": "E"
+        },
+        {
+          "pt": "beleza?",
+          "en": "beleza?",
+          "ar": "beleza?"
+        }
+      ],
+      "answer": "E aí, parça, tudo beleza?",
+      "accepted": [
+        "E aí, parça, tudo beleza?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'E aí, parça, tudo beleza?'",
+        "en": "The correct order: 'Hey, buddy, everything good?'",
+        "ar": "الترتيب الصحيح: 'أهلًا يا رفيق، كل شيء تمام؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "cara",
+          "en": "got it?",
+          "ar": "cara"
+        },
+        {
+          "pt": "beleza?",
+          "en": "money",
+          "ar": "beleza?"
+        },
+        {
+          "pt": "de boa",
+          "en": "cool, fine, no worries",
+          "ar": "de boa"
+        },
+        {
+          "pt": "sacou?",
+          "en": "all good?",
+          "ar": "sacou?"
+        },
+        {
+          "pt": "grana",
+          "en": "bro",
+          "ar": "grana"
+        },
+        {
+          "pt": "mano",
+          "en": "dude",
+          "ar": "mano"
+        }
+      ],
+      "answer": "cara::got it?|beleza?::money|de boa::cool, fine, no worries|sacou?::all good?|grana::bro|mano::dude",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Mó legal esse visual, tá ligado?",
+          "en": "I'm fine, just a bit broke this month.",
+          "ar": "أهلًا يا رفيق، كل شيء تمام؟"
+        },
+        {
+          "pt": "Tô de boa, só um pouco quebrado esse mês.",
+          "en": "Hey, buddy, everything good?",
+          "ar": "أنا بخير، لكن مفلس قليلًا هذا الشهر."
+        },
+        {
+          "pt": "E aí, parça, tudo beleza?",
+          "en": "That view is really cool, you know?",
+          "ar": "هذا المنظر رائع جدًا، تعرف؟"
+        }
+      ],
+      "answer": "E aí, parça, tudo beleza?",
+      "accepted": [],
+      "audio": "E aí, parça, tudo beleza?",
+      "explanation": {
+        "pt": "Você ouviu: 'E aí, parça, tudo beleza?' — 'Hey, buddy, everything good?'",
+        "en": "You heard: 'E aí, parça, tudo beleza?' — 'Hey, buddy, everything good?'",
+        "ar": "سمعت: 'E aí, parça, tudo beleza?' — 'أهلًا يا رفيق، كل شيء تمام؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Pode deixar, cara. Tá tudo certo.",
+          "en": "I'm fine, just a bit broke this month.",
+          "ar": "تمام! لكن لا تدع أحدًا يسخر منا، اتفقنا؟"
+        },
+        {
+          "pt": "Falou! Mas não deixa ninguém zoar com a gente, hein?",
+          "en": "Alright! But don't let anyone mess with us, ok?",
+          "ar": "أنا بخير، لكن مفلس قليلًا هذا الشهر."
+        },
+        {
+          "pt": "Tô de boa, só um pouco quebrado esse mês.",
+          "en": "Leave it to me, dude. Everything's fine.",
+          "ar": "اترك الأمر لي يا رجل. كل شيء على ما يُرام."
+        }
+      ],
+      "answer": "Tô de boa, só um pouco quebrado esse mês.",
+      "accepted": [],
+      "audio": "Tô de boa, só um pouco quebrado esse mês.",
+      "explanation": {
+        "pt": "Você ouviu: 'Tô de boa, só um pouco quebrado esse mês.' — 'I'm fine, just a bit broke this month.'",
+        "en": "You heard: 'Tô de boa, só um pouco quebrado esse mês.' — 'I'm fine, just a bit broke this month.'",
+        "ar": "سمعت: 'Tô de boa, só um pouco quebrado esse mês.' — 'أنا بخير، لكن مفلس قليلًا هذا الشهر.'"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Tô ___ em casa agora.",
+        "en": "Tô ___ em casa agora.",
+        "ar": "Tô ___ em casa agora."
+      },
+      "options": [
+        {
+          "pt": "chegando",
+          "en": "chegando",
+          "ar": "chegando"
+        },
+        {
+          "pt": "pra",
+          "en": "pra",
+          "ar": "pra"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        }
+      ],
+      "answer": "chegando",
+      "accepted": [],
+      "explanation": {
+        "pt": "A resposta é 'chegando'. Frase completa: Tô chegando em casa agora.",
+        "en": "The answer is 'chegando'. Full sentence: I'm getting home now.",
+        "ar": "الإجابة الصحيحة: 'chegando'. الجملة كاملة: أنا قادم إلى المنزل الآن."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "beleza?",
+          "en": "beleza?",
+          "ar": "beleza?"
+        },
+        {
+          "pt": "tudo",
+          "en": "tudo",
+          "ar": "tudo"
+        },
+        {
+          "pt": "E",
+          "en": "E",
+          "ar": "E"
+        },
+        {
+          "pt": "aí,",
+          "en": "aí,",
+          "ar": "aí,"
+        },
+        {
+          "pt": "parça,",
+          "en": "parça,",
+          "ar": "parça,"
+        }
+      ],
+      "answer": "E aí, parça, tudo beleza?",
+      "accepted": [
+        "E aí, parça, tudo beleza?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'E aí, parça, tudo beleza?'",
+        "en": "The correct order: 'Hey, buddy, everything good?'",
+        "ar": "الترتيب الصحيح: 'أهلًا يا رفيق، كل شيء تمام؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "beleza?",
+          "en": "money",
+          "ar": "beleza?"
+        },
+        {
+          "pt": "grana",
+          "en": "all good?",
+          "ar": "grana"
+        },
+        {
+          "pt": "de boa",
+          "en": "bro",
+          "ar": "de boa"
+        },
+        {
+          "pt": "sacou?",
+          "en": "got it?",
+          "ar": "sacou?"
+        },
+        {
+          "pt": "cara",
+          "en": "dude",
+          "ar": "cara"
+        },
+        {
+          "pt": "mano",
+          "en": "cool, fine, no worries",
+          "ar": "mano"
+        }
+      ],
+      "answer": "beleza?::money|grana::all good?|de boa::bro|sacou?::got it?|cara::dude|mano::cool, fine, no worries",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Falou! Mas não deixa ninguém zoar com a gente, hein?",
+          "en": "Alright! But don't let anyone mess with us, ok?",
+          "ar": "أنا بخير، لكن مفلس قليلًا هذا الشهر."
+        },
+        {
+          "pt": "Tô de boa, só um pouco quebrado esse mês.",
+          "en": "I'm fine, just a bit broke this month.",
+          "ar": "أهلًا يا رفيق، كل شيء تمام؟"
+        },
+        {
+          "pt": "E aí, parça, tudo beleza?",
+          "en": "Hey, buddy, everything good?",
+          "ar": "تمام! لكن لا تدع أحدًا يسخر منا، اتفقنا؟"
+        }
+      ],
+      "answer": "E aí, parça, tudo beleza?",
+      "accepted": [],
+      "audio": "E aí, parça, tudo beleza?",
+      "explanation": {
+        "pt": "Você ouviu: 'E aí, parça, tudo beleza?' — 'Hey, buddy, everything good?'",
+        "en": "You heard: 'E aí, parça, tudo beleza?' — 'Hey, buddy, everything good?'",
+        "ar": "سمعت: 'E aí, parça, tudo beleza?' — 'أهلًا يا رفيق، كل شيء تمام؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "E aí, parça, tudo beleza?",
+          "en": "Hey, buddy, everything good?",
+          "ar": "تمام! لكن لا تدع أحدًا يسخر منا، اتفقنا؟"
+        },
+        {
+          "pt": "Falou! Mas não deixa ninguém zoar com a gente, hein?",
+          "en": "Alright! But don't let anyone mess with us, ok?",
+          "ar": "أنا بخير، لكن مفلس قليلًا هذا الشهر."
+        },
+        {
+          "pt": "Tô de boa, só um pouco quebrado esse mês.",
+          "en": "I'm fine, just a bit broke this month.",
+          "ar": "أهلًا يا رفيق، كل شيء تمام؟"
+        }
+      ],
+      "answer": "Tô de boa, só um pouco quebrado esse mês.",
+      "accepted": [],
+      "audio": "Tô de boa, só um pouco quebrado esse mês.",
+      "explanation": {
+        "pt": "Você ouviu: 'Tô de boa, só um pouco quebrado esse mês.' — 'I'm fine, just a bit broke this month.'",
+        "en": "You heard: 'Tô de boa, só um pouco quebrado esse mês.' — 'I'm fine, just a bit broke this month.'",
+        "ar": "سمعت: 'Tô de boa, só um pouco quebrado esse mês.' — 'أنا بخير، لكن مفلس قليلًا هذا الشهر.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "tudo",
+          "en": "tudo",
+          "ar": "tudo"
+        },
+        {
+          "pt": "aí,",
+          "en": "aí,",
+          "ar": "aí,"
+        },
+        {
+          "pt": "parça,",
+          "en": "parça,",
+          "ar": "parça,"
+        },
+        {
+          "pt": "beleza?",
+          "en": "beleza?",
+          "ar": "beleza?"
+        },
+        {
+          "pt": "E",
+          "en": "E",
+          "ar": "E"
+        }
+      ],
+      "answer": "E aí, parça, tudo beleza?",
+      "accepted": [
+        "E aí, parça, tudo beleza?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'E aí, parça, tudo beleza?'",
+        "en": "The correct order: 'Hey, buddy, everything good?'",
+        "ar": "الترتيب الصحيح: 'أهلًا يا رفيق، كل شيء تمام؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "sacou?",
+          "en": "money",
+          "ar": "sacou?"
+        },
+        {
+          "pt": "de boa",
+          "en": "all good?",
+          "ar": "de boa"
+        },
+        {
+          "pt": "beleza?",
+          "en": "bro",
+          "ar": "beleza?"
+        },
+        {
+          "pt": "mano",
+          "en": "dude",
+          "ar": "mano"
+        },
+        {
+          "pt": "cara",
+          "en": "cool, fine, no worries",
+          "ar": "cara"
+        },
+        {
+          "pt": "grana",
+          "en": "got it?",
+          "ar": "grana"
+        }
+      ],
+      "answer": "sacou?::money|de boa::all good?|beleza?::bro|mano::dude|cara::cool, fine, no worries|grana::got it?",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "E aí, parça, tudo beleza?",
+          "en": "Leave it to me, dude. Everything's fine.",
+          "ar": "اترك الأمر لي يا رجل. كل شيء على ما يُرام."
+        },
+        {
+          "pt": "Pode deixar, cara. Tá tudo certo.",
+          "en": "Hey, buddy, everything good?",
+          "ar": "أهلًا يا رفيق، كل شيء تمام؟"
+        },
+        {
+          "pt": "Tô de boa, só um pouco quebrado esse mês.",
+          "en": "I'm fine, just a bit broke this month.",
+          "ar": "أنا بخير، لكن مفلس قليلًا هذا الشهر."
+        }
+      ],
+      "answer": "E aí, parça, tudo beleza?",
+      "accepted": [],
+      "audio": "E aí, parça, tudo beleza?",
+      "explanation": {
+        "pt": "Você ouviu: 'E aí, parça, tudo beleza?' — 'Hey, buddy, everything good?'",
+        "en": "You heard: 'E aí, parça, tudo beleza?' — 'Hey, buddy, everything good?'",
+        "ar": "سمعت: 'E aí, parça, tudo beleza?' — 'أهلًا يا رفيق، كل شيء تمام؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Mó legal esse visual, tá ligado?",
+          "en": "I'm fine, just a bit broke this month.",
+          "ar": "هذا المنظر رائع جدًا، تعرف؟"
+        },
+        {
+          "pt": "Tô de boa, só um pouco quebrado esse mês.",
+          "en": "That view is really cool, you know?",
+          "ar": "أنا بخير، لكن مفلس قليلًا هذا الشهر."
+        },
+        {
+          "pt": "Falou! Mas não deixa ninguém zoar com a gente, hein?",
+          "en": "Alright! But don't let anyone mess with us, ok?",
+          "ar": "تمام! لكن لا تدع أحدًا يسخر منا، اتفقنا؟"
+        }
+      ],
+      "answer": "Tô de boa, só um pouco quebrado esse mês.",
+      "accepted": [],
+      "audio": "Tô de boa, só um pouco quebrado esse mês.",
+      "explanation": {
+        "pt": "Você ouviu: 'Tô de boa, só um pouco quebrado esse mês.' — 'I'm fine, just a bit broke this month.'",
+        "en": "You heard: 'Tô de boa, só um pouco quebrado esse mês.' — 'I'm fine, just a bit broke this month.'",
+        "ar": "سمعت: 'Tô de boa, só um pouco quebrado esse mês.' — 'أنا بخير، لكن مفلس قليلًا هذا الشهر.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "tudo",
+          "en": "tudo",
+          "ar": "tudo"
+        },
+        {
+          "pt": "parça,",
+          "en": "parça,",
+          "ar": "parça,"
+        },
+        {
+          "pt": "beleza?",
+          "en": "beleza?",
+          "ar": "beleza?"
+        },
+        {
+          "pt": "E",
+          "en": "E",
+          "ar": "E"
+        },
+        {
+          "pt": "aí,",
+          "en": "aí,",
+          "ar": "aí,"
+        }
+      ],
+      "answer": "E aí, parça, tudo beleza?",
+      "accepted": [
+        "E aí, parça, tudo beleza?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'E aí, parça, tudo beleza?'",
+        "en": "The correct order: 'Hey, buddy, everything good?'",
+        "ar": "الترتيب الصحيح: 'أهلًا يا رفيق، كل شيء تمام؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "de boa",
+          "en": "got it?",
+          "ar": "de boa"
+        },
+        {
+          "pt": "beleza?",
+          "en": "money",
+          "ar": "beleza?"
+        },
+        {
+          "pt": "grana",
+          "en": "dude",
+          "ar": "grana"
+        },
+        {
+          "pt": "mano",
+          "en": "cool, fine, no worries",
+          "ar": "mano"
+        },
+        {
+          "pt": "sacou?",
+          "en": "all good?",
+          "ar": "sacou?"
+        },
+        {
+          "pt": "cara",
+          "en": "bro",
+          "ar": "cara"
+        }
+      ],
+      "answer": "de boa::got it?|beleza?::money|grana::dude|mano::cool, fine, no worries|sacou?::all good?|cara::bro",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Falou! Mas não deixa ninguém zoar com a gente, hein?",
+          "en": "That view is really cool, you know?",
+          "ar": "تمام! لكن لا تدع أحدًا يسخر منا، اتفقنا؟"
+        },
+        {
+          "pt": "E aí, parça, tudo beleza?",
+          "en": "Hey, buddy, everything good?",
+          "ar": "أهلًا يا رفيق، كل شيء تمام؟"
+        },
+        {
+          "pt": "Mó legal esse visual, tá ligado?",
+          "en": "Alright! But don't let anyone mess with us, ok?",
+          "ar": "هذا المنظر رائع جدًا، تعرف؟"
+        }
+      ],
+      "answer": "E aí, parça, tudo beleza?",
+      "accepted": [],
+      "audio": "E aí, parça, tudo beleza?",
+      "explanation": {
+        "pt": "Você ouviu: 'E aí, parça, tudo beleza?' — 'Hey, buddy, everything good?'",
+        "en": "You heard: 'E aí, parça, tudo beleza?' — 'Hey, buddy, everything good?'",
+        "ar": "سمعت: 'E aí, parça, tudo beleza?' — 'أهلًا يا رفيق، كل شيء تمام؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Tô de boa, só um pouco quebrado esse mês.",
+          "en": "I'm fine, just a bit broke this month.",
+          "ar": "أنا بخير، لكن مفلس قليلًا هذا الشهر."
+        },
+        {
+          "pt": "Pode deixar, cara. Tá tudo certo.",
+          "en": "Hey, buddy, everything good?",
+          "ar": "اترك الأمر لي يا رجل. كل شيء على ما يُرام."
+        },
+        {
+          "pt": "E aí, parça, tudo beleza?",
+          "en": "Leave it to me, dude. Everything's fine.",
+          "ar": "أهلًا يا رفيق، كل شيء تمام؟"
+        }
+      ],
+      "answer": "Tô de boa, só um pouco quebrado esse mês.",
+      "accepted": [],
+      "audio": "Tô de boa, só um pouco quebrado esse mês.",
+      "explanation": {
+        "pt": "Você ouviu: 'Tô de boa, só um pouco quebrado esse mês.' — 'I'm fine, just a bit broke this month.'",
+        "en": "You heard: 'Tô de boa, só um pouco quebrado esse mês.' — 'I'm fine, just a bit broke this month.'",
+        "ar": "سمعت: 'Tô de boa, só um pouco quebrado esse mês.' — 'أنا بخير، لكن مفلس قليلًا هذا الشهر.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "aí,",
+          "en": "aí,",
+          "ar": "aí,"
+        },
+        {
+          "pt": "parça,",
+          "en": "parça,",
+          "ar": "parça,"
+        },
+        {
+          "pt": "beleza?",
+          "en": "beleza?",
+          "ar": "beleza?"
+        },
+        {
+          "pt": "E",
+          "en": "E",
+          "ar": "E"
+        },
+        {
+          "pt": "tudo",
+          "en": "tudo",
+          "ar": "tudo"
+        }
+      ],
+      "answer": "E aí, parça, tudo beleza?",
+      "accepted": [
+        "E aí, parça, tudo beleza?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'E aí, parça, tudo beleza?'",
+        "en": "The correct order: 'Hey, buddy, everything good?'",
+        "ar": "الترتيب الصحيح: 'أهلًا يا رفيق، كل شيء تمام؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "mano",
+          "en": "bro",
+          "ar": "mano"
+        },
+        {
+          "pt": "cara",
+          "en": "dude",
+          "ar": "cara"
+        },
+        {
+          "pt": "grana",
+          "en": "got it?",
+          "ar": "grana"
+        },
+        {
+          "pt": "sacou?",
+          "en": "money",
+          "ar": "sacou?"
+        },
+        {
+          "pt": "beleza?",
+          "en": "cool, fine, no worries",
+          "ar": "beleza?"
+        },
+        {
+          "pt": "de boa",
+          "en": "all good?",
+          "ar": "de boa"
+        }
+      ],
+      "answer": "mano::bro|cara::dude|grana::got it?|sacou?::money|beleza?::cool, fine, no worries|de boa::all good?",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Pode deixar, cara. Tá tudo certo.",
+          "en": "Leave it to me, dude. Everything's fine.",
+          "ar": "لا مشكلة، الخروج رخيص. انظر إلى المكان!"
+        },
+        {
+          "pt": "E aí, parça, tudo beleza?",
+          "en": "Hey, buddy, everything good?",
+          "ar": "أهلًا يا رفيق، كل شيء تمام؟"
+        },
+        {
+          "pt": "Sem problema, o rolê é barato. Saca só o lugar!",
+          "en": "No problem, the hangout is cheap. Check out the place!",
+          "ar": "اترك الأمر لي يا رجل. كل شيء على ما يُرام."
+        }
+      ],
+      "answer": "E aí, parça, tudo beleza?",
+      "accepted": [],
+      "audio": "E aí, parça, tudo beleza?",
+      "explanation": {
+        "pt": "Você ouviu: 'E aí, parça, tudo beleza?' — 'Hey, buddy, everything good?'",
+        "en": "You heard: 'E aí, parça, tudo beleza?' — 'Hey, buddy, everything good?'",
+        "ar": "سمعت: 'E aí, parça, tudo beleza?' — 'أهلًا يا رفيق، كل شيء تمام؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Tô de boa, só um pouco quebrado esse mês.",
+          "en": "Alright! But don't let anyone mess with us, ok?",
+          "ar": "تمام! لكن لا تدع أحدًا يسخر منا، اتفقنا؟"
+        },
+        {
+          "pt": "E aí, parça, tudo beleza?",
+          "en": "Hey, buddy, everything good?",
+          "ar": "أنا بخير، لكن مفلس قليلًا هذا الشهر."
+        },
+        {
+          "pt": "Falou! Mas não deixa ninguém zoar com a gente, hein?",
+          "en": "I'm fine, just a bit broke this month.",
+          "ar": "أهلًا يا رفيق، كل شيء تمام؟"
+        }
+      ],
+      "answer": "Tô de boa, só um pouco quebrado esse mês.",
+      "accepted": [],
+      "audio": "Tô de boa, só um pouco quebrado esse mês.",
+      "explanation": {
+        "pt": "Você ouviu: 'Tô de boa, só um pouco quebrado esse mês.' — 'I'm fine, just a bit broke this month.'",
+        "en": "You heard: 'Tô de boa, só um pouco quebrado esse mês.' — 'I'm fine, just a bit broke this month.'",
+        "ar": "سمعت: 'Tô de boa, só um pouco quebrado esse mês.' — 'أنا بخير، لكن مفلس قليلًا هذا الشهر.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "aí,",
+          "en": "aí,",
+          "ar": "aí,"
+        },
+        {
+          "pt": "E",
+          "en": "E",
+          "ar": "E"
+        },
+        {
+          "pt": "tudo",
+          "en": "tudo",
+          "ar": "tudo"
+        },
+        {
+          "pt": "beleza?",
+          "en": "beleza?",
+          "ar": "beleza?"
+        },
+        {
+          "pt": "parça,",
+          "en": "parça,",
+          "ar": "parça,"
+        }
+      ],
+      "answer": "E aí, parça, tudo beleza?",
+      "accepted": [
+        "E aí, parça, tudo beleza?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'E aí, parça, tudo beleza?'",
+        "en": "The correct order: 'Hey, buddy, everything good?'",
+        "ar": "الترتيب الصحيح: 'أهلًا يا رفيق، كل شيء تمام؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "mano",
+          "en": "all good?",
+          "ar": "mano"
+        },
+        {
+          "pt": "cara",
+          "en": "money",
+          "ar": "cara"
+        },
+        {
+          "pt": "grana",
+          "en": "dude",
+          "ar": "grana"
+        },
+        {
+          "pt": "sacou?",
+          "en": "cool, fine, no worries",
+          "ar": "sacou?"
+        },
+        {
+          "pt": "beleza?",
+          "en": "bro",
+          "ar": "beleza?"
+        },
+        {
+          "pt": "de boa",
+          "en": "got it?",
+          "ar": "de boa"
+        }
+      ],
+      "answer": "mano::all good?|cara::money|grana::dude|sacou?::cool, fine, no worries|beleza?::bro|de boa::got it?",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Falou! Mas não deixa ninguém zoar com a gente, hein?",
+          "en": "Alright! But don't let anyone mess with us, ok?",
+          "ar": "لا مشكلة، الخروج رخيص. انظر إلى المكان!"
+        },
+        {
+          "pt": "E aí, parça, tudo beleza?",
+          "en": "Hey, buddy, everything good?",
+          "ar": "تمام! لكن لا تدع أحدًا يسخر منا، اتفقنا؟"
+        },
+        {
+          "pt": "Sem problema, o rolê é barato. Saca só o lugar!",
+          "en": "No problem, the hangout is cheap. Check out the place!",
+          "ar": "أهلًا يا رفيق، كل شيء تمام؟"
+        }
+      ],
+      "answer": "E aí, parça, tudo beleza?",
+      "accepted": [],
+      "audio": "E aí, parça, tudo beleza?",
+      "explanation": {
+        "pt": "Você ouviu: 'E aí, parça, tudo beleza?' — 'Hey, buddy, everything good?'",
+        "en": "You heard: 'E aí, parça, tudo beleza?' — 'Hey, buddy, everything good?'",
+        "ar": "سمعت: 'E aí, parça, tudo beleza?' — 'أهلًا يا رفيق، كل شيء تمام؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Mó legal esse visual, tá ligado?",
+          "en": "No problem, the hangout is cheap. Check out the place!",
+          "ar": "هذا المنظر رائع جدًا، تعرف؟"
+        },
+        {
+          "pt": "Sem problema, o rolê é barato. Saca só o lugar!",
+          "en": "I'm fine, just a bit broke this month.",
+          "ar": "أنا بخير، لكن مفلس قليلًا هذا الشهر."
+        },
+        {
+          "pt": "Tô de boa, só um pouco quebrado esse mês.",
+          "en": "That view is really cool, you know?",
+          "ar": "لا مشكلة، الخروج رخيص. انظر إلى المكان!"
+        }
+      ],
+      "answer": "Tô de boa, só um pouco quebrado esse mês.",
+      "accepted": [],
+      "audio": "Tô de boa, só um pouco quebrado esse mês.",
+      "explanation": {
+        "pt": "Você ouviu: 'Tô de boa, só um pouco quebrado esse mês.' — 'I'm fine, just a bit broke this month.'",
+        "en": "You heard: 'Tô de boa, só um pouco quebrado esse mês.' — 'I'm fine, just a bit broke this month.'",
+        "ar": "سمعت: 'Tô de boa, só um pouco quebrado esse mês.' — 'أنا بخير، لكن مفلس قليلًا هذا الشهر.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "E",
+          "en": "E",
+          "ar": "E"
+        },
+        {
+          "pt": "parça,",
+          "en": "parça,",
+          "ar": "parça,"
+        },
+        {
+          "pt": "beleza?",
+          "en": "beleza?",
+          "ar": "beleza?"
+        },
+        {
+          "pt": "tudo",
+          "en": "tudo",
+          "ar": "tudo"
+        },
+        {
+          "pt": "aí,",
+          "en": "aí,",
+          "ar": "aí,"
+        }
+      ],
+      "answer": "E aí, parça, tudo beleza?",
+      "accepted": [
+        "E aí, parça, tudo beleza?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'E aí, parça, tudo beleza?'",
+        "en": "The correct order: 'Hey, buddy, everything good?'",
+        "ar": "الترتيب الصحيح: 'أهلًا يا رفيق، كل شيء تمام؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "mano",
+          "en": "all good?",
+          "ar": "mano"
+        },
+        {
+          "pt": "de boa",
+          "en": "dude",
+          "ar": "de boa"
+        },
+        {
+          "pt": "sacou?",
+          "en": "got it?",
+          "ar": "sacou?"
+        },
+        {
+          "pt": "beleza?",
+          "en": "bro",
+          "ar": "beleza?"
+        },
+        {
+          "pt": "grana",
+          "en": "money",
+          "ar": "grana"
+        },
+        {
+          "pt": "cara",
+          "en": "cool, fine, no worries",
+          "ar": "cara"
+        }
+      ],
+      "answer": "mano::all good?|de boa::dude|sacou?::got it?|beleza?::bro|grana::money|cara::cool, fine, no worries",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Falou! Mas não deixa ninguém zoar com a gente, hein?",
+          "en": "Alright! But don't let anyone mess with us, ok?",
+          "ar": "أهلًا يا رفيق، كل شيء تمام؟"
+        },
+        {
+          "pt": "Mó legal esse visual, tá ligado?",
+          "en": "Hey, buddy, everything good?",
+          "ar": "هذا المنظر رائع جدًا، تعرف؟"
+        },
+        {
+          "pt": "E aí, parça, tudo beleza?",
+          "en": "That view is really cool, you know?",
+          "ar": "تمام! لكن لا تدع أحدًا يسخر منا، اتفقنا؟"
+        }
+      ],
+      "answer": "E aí, parça, tudo beleza?",
+      "accepted": [],
+      "audio": "E aí, parça, tudo beleza?",
+      "explanation": {
+        "pt": "Você ouviu: 'E aí, parça, tudo beleza?' — 'Hey, buddy, everything good?'",
+        "en": "You heard: 'E aí, parça, tudo beleza?' — 'Hey, buddy, everything good?'",
+        "ar": "سمعت: 'E aí, parça, tudo beleza?' — 'أهلًا يا رفيق، كل شيء تمام؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Pode deixar, cara. Tá tudo certo.",
+          "en": "Leave it to me, dude. Everything's fine.",
+          "ar": "اترك الأمر لي يا رجل. كل شيء على ما يُرام."
+        },
+        {
+          "pt": "Tô de boa, só um pouco quebrado esse mês.",
+          "en": "No problem, the hangout is cheap. Check out the place!",
+          "ar": "لا مشكلة، الخروج رخيص. انظر إلى المكان!"
+        },
+        {
+          "pt": "Sem problema, o rolê é barato. Saca só o lugar!",
+          "en": "I'm fine, just a bit broke this month.",
+          "ar": "أنا بخير، لكن مفلس قليلًا هذا الشهر."
+        }
+      ],
+      "answer": "Tô de boa, só um pouco quebrado esse mês.",
+      "accepted": [],
+      "audio": "Tô de boa, só um pouco quebrado esse mês.",
+      "explanation": {
+        "pt": "Você ouviu: 'Tô de boa, só um pouco quebrado esse mês.' — 'I'm fine, just a bit broke this month.'",
+        "en": "You heard: 'Tô de boa, só um pouco quebrado esse mês.' — 'I'm fine, just a bit broke this month.'",
+        "ar": "سمعت: 'Tô de boa, só um pouco quebrado esse mês.' — 'أنا بخير، لكن مفلس قليلًا هذا الشهر.'"
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'cool, fine, no worries'",
+        "en": "Type in Portuguese: 'cool, fine, no worries'",
+        "ar": "اكتب بالبرتغالية: 'تمام، على ما يُرام'"
+      },
+      "options": [],
+      "answer": "de boa",
+      "accepted": [
+        "de boa"
+      ],
+      "explanation": {
+        "pt": "'de boa' significa 'cool, fine, no worries'.",
+        "en": "'de boa' means 'cool, fine, no worries'.",
+        "ar": "'$de boa' بالعربية: '$تمام، على ما يُرام'."
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'all good?'",
+        "en": "Type in Portuguese: 'all good?'",
+        "ar": "اكتب بالبرتغالية: 'تمام؟'"
+      },
+      "options": [],
+      "answer": "beleza?",
+      "accepted": [
+        "beleza?"
+      ],
+      "explanation": {
+        "pt": "'beleza?' significa 'all good?'.",
+        "en": "'beleza?' means 'all good?'.",
+        "ar": "'$beleza?' بالعربية: '$تمام؟'."
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Falou! Mas não deixa ninguém zoar com a gente, hein?",
+          "en": "Falou! Mas não deixa ninguém zoar com a gente, hein?",
+          "ar": "Falou! Mas não deixa ninguém zoar com a gente, hein?"
+        },
+        {
+          "pt": "Mó legal esse visual, tá ligado?",
+          "en": "Mó legal esse visual, tá ligado?",
+          "ar": "Mó legal esse visual, tá ligado?"
+        },
+        {
+          "pt": "E aí, parça, tudo beleza?",
+          "en": "E aí, parça, tudo beleza?",
+          "ar": "E aí, parça, tudo beleza?"
+        }
+      ],
+      "answer": "E aí, parça, tudo beleza?",
+      "accepted": [],
+      "audio": "E aí, parça, tudo beleza?",
+      "explanation": {
+        "pt": "Você ouviu: 'E aí, parça, tudo beleza?'",
+        "en": "You heard: 'E aí, parça, tudo beleza?'",
+        "ar": "سمعت: 'E aí, parça, tudo beleza?'"
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Sem problema, o rolê é barato. Saca só o lugar!",
+          "en": "Sem problema, o rolê é barato. Saca só o lugar!",
+          "ar": "Sem problema, o rolê é barato. Saca só o lugar!"
+        },
+        {
+          "pt": "Tô de boa, só um pouco quebrado esse mês.",
+          "en": "Tô de boa, só um pouco quebrado esse mês.",
+          "ar": "Tô de boa, só um pouco quebrado esse mês."
+        },
+        {
+          "pt": "Pode deixar, cara. Tá tudo certo.",
+          "en": "Pode deixar, cara. Tá tudo certo.",
+          "ar": "Pode deixar, cara. Tá tudo certo."
+        }
+      ],
+      "answer": "Tô de boa, só um pouco quebrado esse mês.",
+      "accepted": [],
+      "audio": "Tô de boa, só um pouco quebrado esse mês.",
+      "explanation": {
+        "pt": "Você ouviu: 'Tô de boa, só um pouco quebrado esse mês.'",
+        "en": "You heard: 'Tô de boa, só um pouco quebrado esse mês.'",
+        "ar": "سمعت: 'Tô de boa, só um pouco quebrado esse mês.'"
+      }
+    },
+    {
+      "type": "dictation",
+      "prompt": {
+        "pt": "Ouça e escreva o que você ouviu.",
+        "en": "Listen and type what you hear.",
+        "ar": "استمع واكتب ما سمعته."
+      },
+      "options": [],
+      "answer": "E aí, parça, tudo beleza?",
+      "accepted": [],
+      "audio": "E aí, parça, tudo beleza?",
+      "explanation": {
+        "pt": "A frase correta: 'E aí, parça, tudo beleza?'",
+        "en": "The correct sentence: 'E aí, parça, tudo beleza?'",
+        "ar": "الجملة الصحيحة: 'E aí, parça, tudo beleza?'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "parça,",
+          "en": "parça,",
+          "ar": "parça,"
+        },
+        {
+          "pt": "aí,",
+          "en": "aí,",
+          "ar": "aí,"
+        },
+        {
+          "pt": "beleza?",
+          "en": "beleza?",
+          "ar": "beleza?"
+        },
+        {
+          "pt": "tudo",
+          "en": "tudo",
+          "ar": "tudo"
+        },
+        {
+          "pt": "E",
+          "en": "E",
+          "ar": "E"
+        }
+      ],
+      "answer": "E aí, parça, tudo beleza?",
+      "accepted": [
+        "E aí, parça, tudo beleza?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'E aí, parça, tudo beleza?'",
+        "en": "The correct order: 'Hey, buddy, everything good?'",
+        "ar": "الترتيب الصحيح: 'أهلًا يا رفيق، كل شيء تمام؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "grana",
+          "en": "money",
+          "ar": "grana"
+        },
+        {
+          "pt": "cara",
+          "en": "dude",
+          "ar": "cara"
+        },
+        {
+          "pt": "beleza?",
+          "en": "got it?",
+          "ar": "beleza?"
+        },
+        {
+          "pt": "sacou?",
+          "en": "bro",
+          "ar": "sacou?"
+        },
+        {
+          "pt": "mano",
+          "en": "cool, fine, no worries",
+          "ar": "mano"
+        },
+        {
+          "pt": "de boa",
+          "en": "all good?",
+          "ar": "de boa"
+        }
+      ],
+      "answer": "grana::money|cara::dude|beleza?::got it?|sacou?::bro|mano::cool, fine, no worries|de boa::all good?",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "E aí, parça, tudo beleza?",
+          "en": "No problem, the hangout is cheap. Check out the place!",
+          "ar": "أنا بخير، لكن مفلس قليلًا هذا الشهر."
+        },
+        {
+          "pt": "Tô de boa, só um pouco quebrado esse mês.",
+          "en": "Hey, buddy, everything good?",
+          "ar": "لا مشكلة، الخروج رخيص. انظر إلى المكان!"
+        },
+        {
+          "pt": "Sem problema, o rolê é barato. Saca só o lugar!",
+          "en": "I'm fine, just a bit broke this month.",
+          "ar": "أهلًا يا رفيق، كل شيء تمام؟"
+        }
+      ],
+      "answer": "E aí, parça, tudo beleza?",
+      "accepted": [],
+      "audio": "E aí, parça, tudo beleza?",
+      "explanation": {
+        "pt": "Você ouviu: 'E aí, parça, tudo beleza?' — 'Hey, buddy, everything good?'",
+        "en": "You heard: 'E aí, parça, tudo beleza?' — 'Hey, buddy, everything good?'",
+        "ar": "سمعت: 'E aí, parça, tudo beleza?' — 'أهلًا يا رفيق، كل شيء تمام؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Tô de boa, só um pouco quebrado esse mês.",
+          "en": "That view is really cool, you know?",
+          "ar": "أهلًا يا رفيق، كل شيء تمام؟"
+        },
+        {
+          "pt": "E aí, parça, tudo beleza?",
+          "en": "I'm fine, just a bit broke this month.",
+          "ar": "هذا المنظر رائع جدًا، تعرف؟"
+        },
+        {
+          "pt": "Mó legal esse visual, tá ligado?",
+          "en": "Hey, buddy, everything good?",
+          "ar": "أنا بخير، لكن مفلس قليلًا هذا الشهر."
+        }
+      ],
+      "answer": "Tô de boa, só um pouco quebrado esse mês.",
+      "accepted": [],
+      "audio": "Tô de boa, só um pouco quebrado esse mês.",
+      "explanation": {
+        "pt": "Você ouviu: 'Tô de boa, só um pouco quebrado esse mês.' — 'I'm fine, just a bit broke this month.'",
+        "en": "You heard: 'Tô de boa, só um pouco quebrado esse mês.' — 'I'm fine, just a bit broke this month.'",
+        "ar": "سمعت: 'Tô de boa, só um pouco quebrado esse mês.' — 'أنا بخير، لكن مفلس قليلًا هذا الشهر.'"
+      }
+    }
+  ],
+  "speaking": {
+    "title": {
+      "pt": "Fale Agora — Ouça e Repita",
+      "en": "Speak Now — Listen and Repeat",
+      "ar": "تحدث الآن — استمع وكرر"
+    },
+    "phrases": [
+      {
+        "pt": "E aí, parça, tudo beleza?",
+        "en": "Hey, buddy, everything good?",
+        "ar": "أهلًا يا رفيق، كل شيء تمام؟"
+      },
+      {
+        "pt": "Tô de boa, só um pouco quebrado esse mês.",
+        "en": "I'm fine, just a bit broke this month.",
+        "ar": "أنا بخير، لكن مفلس قليلًا هذا الشهر."
+      },
+      {
+        "pt": "Sem problema, o rolê é barato. Saca só o lugar!",
+        "en": "No problem, the hangout is cheap. Check out the place!",
+        "ar": "لا مشكلة، الخروج رخيص. انظر إلى المكان!"
+      },
+      {
+        "pt": "Mó legal esse visual, tá ligado?",
+        "en": "That view is really cool, you know?",
+        "ar": "هذا المنظر رائع جدًا، تعرف؟"
+      },
+      {
+        "pt": "Falou! Mas não deixa ninguém zoar com a gente, hein?",
+        "en": "Alright! But don't let anyone mess with us, ok?",
+        "ar": "تمام! لكن لا تدع أحدًا يسخر منا، اتفقنا؟"
+      },
+      {
+        "pt": "Pode deixar, cara. Tá tudo certo.",
+        "en": "Leave it to me, dude. Everything's fine.",
+        "ar": "اترك الأمر لي يا رجل. كل شيء على ما يُرام."
+      },
+      {
+        "pt": "de boa",
+        "en": "cool, fine, no worries",
+        "ar": "تمام، على ما يُرام"
+      },
+      {
+        "pt": "beleza?",
+        "en": "all good?",
+        "ar": "تمام؟"
+      },
+      {
+        "pt": "cara",
+        "en": "dude",
+        "ar": "يا رجل"
+      }
+    ]
+  },
+  "cultural_tips": {
+    "pt": "",
+    "en": "",
+    "ar": ""
+  }
+}

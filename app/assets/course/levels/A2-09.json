@@ -1,0 +1,1971 @@
+{
+  "id": "A2-09",
+  "level": "A2",
+  "level_name": {
+    "pt": "Básico",
+    "en": "Elementary",
+    "ar": "أساسي"
+  },
+  "title": {
+    "pt": "Imperativo (Pedidos e Ordens)",
+    "en": "Imperative (Requests and Orders)",
+    "ar": "صيغة الأمر (الطلبات والأوامر)"
+  },
+  "objectives": [
+    {
+      "pt": "Dar ordens, pedidos e conselhos com o imperativo",
+      "en": "Give orders, requests and advice with the imperative",
+      "ar": "إصدار الأوامر والطلبات والنصائح بصيغة الأمر"
+    },
+    {
+      "pt": "Formar o imperativo afirmativo e negativo",
+      "en": "Form the affirmative and negative imperative",
+      "ar": "تكوين صيغة الأمر المثبتة والمنفية"
+    },
+    {
+      "pt": "Usar instruções no dia a dia",
+      "en": "Use instructions in daily life",
+      "ar": "استخدام التعليمات في الحياة اليومية"
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "fale",
+      "ipa": "/ˈfa.li/",
+      "en": "speak (you)",
+      "ar": "تكلّم",
+      "example": {
+        "pt": "Fale mais devagar, por favor.",
+        "en": "Speak more slowly, please.",
+        "ar": "تكلّم ببطء أكثر، من فضلك."
+      }
+    },
+    {
+      "pt": "espere",
+      "ipa": "/isˈpɛ.ɾi/",
+      "en": "wait (you)",
+      "ar": "انتظر",
+      "example": {
+        "pt": "Não feche a porta do forno. Espere quinze minutos.",
+        "en": "Do not close the oven door. Wait fifteen minutes.",
+        "ar": "لا تغلق باب الفرن. انتظر خمس عشرة دقيقة."
+      }
+    },
+    {
+      "pt": "escute",
+      "ipa": "/isˈku.tʃi/",
+      "en": "listen (you)",
+      "ar": "استمع",
+      "example": {
+        "pt": "Filho, me ajuda a preparar o jantar.",
+        "en": "Son, help me prepare dinner.",
+        "ar": "يا بني، ساعدني في تحضير العشاء."
+      }
+    },
+    {
+      "pt": "abra",
+      "ipa": "/ˈa.bɾa/",
+      "en": "open (you)",
+      "ar": "افتح",
+      "example": {
+        "pt": "Abra a janela, está quente aqui.",
+        "en": "Open the window, it is hot here.",
+        "ar": "افتح النافذة، الجو حار هنا."
+      }
+    },
+    {
+      "pt": "feche",
+      "ipa": "/ˈfɛ.ʃi/",
+      "en": "close (you)",
+      "ar": "أغلق",
+      "example": {
+        "pt": "Não feche a porta do forno. Espere quinze minutos.",
+        "en": "Do not close the oven door. Wait fifteen minutes.",
+        "ar": "لا تغلق باب الفرن. انتظر خمس عشرة دقيقة."
+      }
+    },
+    {
+      "pt": "olhe",
+      "ipa": "/ˈɔ.ʎi/",
+      "en": "look (you)",
+      "ar": "انظر",
+      "example": {
+        "pt": "Filho, me ajuda a preparar o jantar.",
+        "en": "Son, help me prepare dinner.",
+        "ar": "يا بني، ساعدني في تحضير العشاء."
+      }
+    },
+    {
+      "pt": "venha",
+      "ipa": "/ˈvẽ.ɲa/",
+      "en": "come (you)",
+      "ar": "تعال",
+      "example": {
+        "pt": "Venha cá agora!",
+        "en": "Come here now!",
+        "ar": "تعال إلى هنا الآن!"
+      }
+    },
+    {
+      "pt": "vá",
+      "ipa": "/va/",
+      "en": "go (you)",
+      "ar": "اذهب",
+      "example": {
+        "pt": "Filho, me ajuda a preparar o jantar.",
+        "en": "Son, help me prepare dinner.",
+        "ar": "يا بني، ساعدني في تحضير العشاء."
+      }
+    },
+    {
+      "pt": "faça",
+      "ipa": "/ˈfa.sa/",
+      "en": "do / make (you)",
+      "ar": "افعل",
+      "example": {
+        "pt": "Filho, me ajuda a preparar o jantar.",
+        "en": "Son, help me prepare dinner.",
+        "ar": "يا بني، ساعدني في تحضير العشاء."
+      }
+    },
+    {
+      "pt": "diga",
+      "ipa": "/ˈdʒi.ɡa/",
+      "en": "say (you)",
+      "ar": "قل",
+      "example": {
+        "pt": "Filho, me ajuda a preparar o jantar.",
+        "en": "Son, help me prepare dinner.",
+        "ar": "يا بني، ساعدني في تحضير العشاء."
+      }
+    },
+    {
+      "pt": "dê",
+      "ipa": "/de/",
+      "en": "give (you)",
+      "ar": "أعطِ",
+      "example": {
+        "pt": "Filho, me ajuda a preparar o jantar.",
+        "en": "Son, help me prepare dinner.",
+        "ar": "يا بني، ساعدني في تحضير العشاء."
+      }
+    },
+    {
+      "pt": "fique",
+      "ipa": "/ˈfi.ki/",
+      "en": "stay (you)",
+      "ar": "ابقَ",
+      "example": {
+        "pt": "Filho, me ajuda a preparar o jantar.",
+        "en": "Son, help me prepare dinner.",
+        "ar": "يا بني، ساعدني في تحضير العشاء."
+      }
+    },
+    {
+      "pt": "sente-se",
+      "ipa": "/ˈsẽ.tʃi si/",
+      "en": "sit down",
+      "ar": "اجلس",
+      "example": {
+        "pt": "Filho, me ajuda a preparar o jantar.",
+        "en": "Son, help me prepare dinner.",
+        "ar": "يا بني، ساعدني في تحضير العشاء."
+      }
+    },
+    {
+      "pt": "depressa",
+      "ipa": "/deˈpɾe.sa/",
+      "en": "quickly",
+      "ar": "بسرعة",
+      "example": {
+        "pt": "Filho, me ajuda a preparar o jantar.",
+        "en": "Son, help me prepare dinner.",
+        "ar": "يا بني، ساعدني في تحضير العشاء."
+      }
+    },
+    {
+      "pt": "devagar",
+      "ipa": "/de.vaˈɡaʁ/",
+      "en": "slowly",
+      "ar": "ببطء",
+      "example": {
+        "pt": "Fale mais devagar, por favor.",
+        "en": "Speak more slowly, please.",
+        "ar": "تكلّم ببطء أكثر، من فضلك."
+      }
+    },
+    {
+      "pt": "cuidado",
+      "ipa": "/kujˈda.du/",
+      "en": "careful",
+      "ar": "احذر",
+      "example": {
+        "pt": "Filho, me ajuda a preparar o jantar.",
+        "en": "Son, help me prepare dinner.",
+        "ar": "يا بني، ساعدني في تحضير العشاء."
+      }
+    },
+    {
+      "pt": "o silêncio",
+      "ipa": "/u siˈlẽ.si.u/",
+      "en": "the silence",
+      "ar": "الصمت",
+      "example": {
+        "pt": "Filho, me ajuda a preparar o jantar.",
+        "en": "Son, help me prepare dinner.",
+        "ar": "يا بني، ساعدني في تحضير العشاء."
+      }
+    },
+    {
+      "pt": "não",
+      "ipa": "/nɐ̃w/",
+      "en": "no / don't",
+      "ar": "لا",
+      "example": {
+        "pt": "Não feche a porta do forno. Espere quinze minutos.",
+        "en": "Do not close the oven door. Wait fifteen minutes.",
+        "ar": "لا تغلق باب الفرن. انتظر خمس عشرة دقيقة."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "title": {
+        "pt": "Imperativo Afirmativo (você)",
+        "en": "Affirmative Imperative (você)",
+        "ar": "صيغة الأمر المثبتة (مع você)"
+      },
+      "explanation": {
+        "pt": "O imperativo para 'você' é igual ao presente do subjuntivo: fale (speak), coma (eat), abra (open), escreva (write). Usamos para dar ordens, pedidos e conselhos: 'Fale mais devagar, por favor.' Verbos irregulares: ser (seja), estar (esteja), ir (vá), vir (venha), dar (dê).",
+        "en": "The imperative for 'você' is the same as the present subjunctive: fale (speak), coma (eat), abra (open), escreva (write). We use it to give orders, requests and advice: 'Fale mais devagar, por favor.' (Speak more slowly, please.) Irregular verbs: ser (seja), estar (esteja), ir (vá), vir (venha), dar (dê).",
+        "ar": "صيغة الأمر مع 'você' هي نفس المضارع المنصوب: fale (تكلّم)، coma (كُل)، abra (افتح)، escreva (اكتب). نستخدمها لإصدار الأوامر والطلبات والنصائح: 'Fale mais devagar, por favor.' (تكلّم ببطء أكثر، من فضلك.) الأفعال الشاذة: ser (seja)، estar (esteja)، ir (vá)، vir (venha)، dar (dê)."
+      },
+      "examples": [
+        {
+          "pt": "Fale mais devagar, por favor.",
+          "en": "Speak more slowly, please.",
+          "ar": "تكلّم ببطء أكثر، من فضلك."
+        },
+        {
+          "pt": "Abra a janela, está quente aqui.",
+          "en": "Open the window, it is hot here.",
+          "ar": "افتح النافذة، الجو حار هنا."
+        },
+        {
+          "pt": "Venha cá agora!",
+          "en": "Come here now!",
+          "ar": "تعال إلى هنا الآن!"
+        }
+      ]
+    },
+    {
+      "title": {
+        "pt": "Imperativo Negativo e Conselhos",
+        "en": "Negative Imperative and Advice",
+        "ar": "صيغة الأمر المنفية والنصائح"
+      },
+      "explanation": {
+        "pt": "O imperativo negativo usa 'não + verbo no subjuntivo': 'Não fume aqui' (Don't smoke here), 'Não saia sozinho' (Don't go out alone). Também usamos o imperativo para dar conselhos: 'Coma bem', 'Descanse', 'Beba água'.",
+        "en": "The negative imperative uses 'não + verb in the subjunctive': 'Não fume aqui' (Don't smoke here), 'Não saia sozinho' (Don't go out alone). We also use the imperative to give advice: 'Coma bem' (Eat well), 'Descanse' (Rest), 'Beba água' (Drink water).",
+        "ar": "صيغة الأمر المنفية تستخدم 'não + الفعل في المضارع المنصوب': 'Não fume aqui' (لا تدخن هنا)، 'Não saia sozinho' (لا تخرج وحدك). نستخدم صيغة الأمر أيضًا لإعطاء النصائح: 'Coma bem' (كُل جيدًا)، 'Descanse' (استرح)، 'Beba água' (اشرب الماء)."
+      },
+      "examples": [
+        {
+          "pt": "Não fale alto no hospital.",
+          "en": "Do not speak loudly at the hospital.",
+          "ar": "لا تتحدث بصوت عالٍ في المستشفى."
+        },
+        {
+          "pt": "Não feche a porta agora.",
+          "en": "Do not close the door now.",
+          "ar": "لا تغلق الباب الآن."
+        },
+        {
+          "pt": "Descanse um pouco, você está cansado.",
+          "en": "Rest a little, you are tired.",
+          "ar": "استرح قليلًا، أنت متعب."
+        }
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": {
+      "pt": "Instruções na Cozinha",
+      "en": "Instructions in the Kitchen",
+      "ar": "تعليمات في المطبخ"
+    },
+    "lines": [
+      {
+        "speaker": "Mãe",
+        "pt": "Filho, me ajuda a preparar o jantar.",
+        "en": "Son, help me prepare dinner.",
+        "ar": "يا بني، ساعدني في تحضير العشاء."
+      },
+      {
+        "speaker": "Filho",
+        "pt": "Claro! O que eu faço?",
+        "en": "Of course! What do I do?",
+        "ar": "بالتأكيد! ماذا أفعل؟"
+      },
+      {
+        "speaker": "Mãe",
+        "pt": "Lave os tomates e corte a cebola, por favor.",
+        "en": "Wash the tomatoes and cut the onion, please.",
+        "ar": "اغسل الطماطم وقطّع البصل، من فضلك."
+      },
+      {
+        "speaker": "Filho",
+        "pt": "Pronto! E agora?",
+        "en": "Done! And now?",
+        "ar": "انتهيت! والآن؟"
+      },
+      {
+        "speaker": "Mãe",
+        "pt": "Não feche a porta do forno. Espere quinze minutos.",
+        "en": "Do not close the oven door. Wait fifteen minutes.",
+        "ar": "لا تغلق باب الفرن. انتظر خمس عشرة دقيقة."
+      },
+      {
+        "speaker": "Filho",
+        "pt": "Entendido. Vou pôr a mesa.",
+        "en": "Got it. I will set the table.",
+        "ar": "فهمت. سأجهز المائدة."
+      }
+    ]
+  },
+  "reading": {
+    "title": {
+      "pt": "A Receita do Bolo",
+      "en": "The Cake Recipe",
+      "ar": "وصفة الكعكة"
+    },
+    "text_pt": "A receita do bolo é simples. Primeiro, bata os ovos com o açúcar e misture a farinha com o leite. Coloque a massa na forma e deixe no forno por trinta minutos. Não abra o forno antes do tempo, e o bolo vai ficar perfeito.",
+    "text_en": "The cake recipe is simple. First, beat the eggs with the sugar and mix the flour with the milk. Put the batter in the pan and leave it in the oven for thirty minutes. Do not open the oven before the time, and the cake will be perfect.",
+    "text_ar": "وصفة الكعكة بسيطة. أولًا، اخفق البيض مع السكر واخلط الدقيق مع الحليب. ضع الخليط في القالب واتركه في الفرن لمدة ثلاثين دقيقة. لا تفتح الفرن قبل الوقت، وستكون الكعكة مثالية."
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Fale mais ___, por favor.",
+        "en": "Speak more ___, please.",
+        "ar": "تكلّم أكثر ___، من فضلك."
+      },
+      "options": [
+        {
+          "pt": "devagar",
+          "en": "devagar",
+          "ar": "devagar"
+        },
+        {
+          "pt": "depressa",
+          "en": "depressa",
+          "ar": "depressa"
+        },
+        {
+          "pt": "sempre",
+          "en": "sempre",
+          "ar": "sempre"
+        }
+      ],
+      "answer": "devagar",
+      "explanation": {
+        "pt": "'Devagar' = slowly. É comum com o imperativo.",
+        "en": "'Devagar' = slowly. It is common with the imperative.",
+        "ar": "'devagar' = ببطء. وهو شائع مع صيغة الأمر."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Não ___ aqui. (fumar)",
+        "en": "Do not ___ here. (fumar)",
+        "ar": "لا ___ هنا. (fumar)"
+      },
+      "options": [
+        {
+          "pt": "fume",
+          "en": "fume",
+          "ar": "fume"
+        },
+        {
+          "pt": "fumar",
+          "en": "fumar",
+          "ar": "fumar"
+        },
+        {
+          "pt": "fuma",
+          "en": "fuma",
+          "ar": "fuma"
+        }
+      ],
+      "answer": "fume",
+      "explanation": {
+        "pt": "Imperativo negativo: não + fume.",
+        "en": "Negative imperative: não + fume.",
+        "ar": "صيغة الأمر المنفية: não + fume."
+      }
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza: 'wait'",
+        "en": "Translate: 'wait'",
+        "ar": "ترجم: 'wait'"
+      },
+      "options": [],
+      "answer": "espere",
+      "explanation": {
+        "pt": "'Espere' = wait (you).",
+        "en": "'Espere' = wait (you).",
+        "ar": "'espere' = انتظر."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Filho,",
+          "en": "Filho,",
+          "ar": "Filho,"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "jantar.",
+          "en": "jantar.",
+          "ar": "jantar."
+        },
+        {
+          "pt": "preparar",
+          "en": "preparar",
+          "ar": "preparar"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "me",
+          "en": "me",
+          "ar": "me"
+        },
+        {
+          "pt": "ajuda",
+          "en": "ajuda",
+          "ar": "ajuda"
+        }
+      ],
+      "answer": "Filho, me ajuda a preparar o jantar.",
+      "accepted": [
+        "Filho, me ajuda a preparar o jantar."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Filho, me ajuda a preparar o jantar.'",
+        "en": "The correct order: 'Son, help me prepare dinner.'",
+        "ar": "الترتيب الصحيح: 'يا بني، ساعدني في تحضير العشاء.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "abra",
+          "en": "close (you)",
+          "ar": "abra"
+        },
+        {
+          "pt": "escute",
+          "en": "look (you)",
+          "ar": "escute"
+        },
+        {
+          "pt": "feche",
+          "en": "open (you)",
+          "ar": "feche"
+        },
+        {
+          "pt": "olhe",
+          "en": "listen (you)",
+          "ar": "olhe"
+        },
+        {
+          "pt": "espere",
+          "en": "wait (you)",
+          "ar": "espere"
+        },
+        {
+          "pt": "fale",
+          "en": "speak (you)",
+          "ar": "fale"
+        }
+      ],
+      "answer": "abra::close (you)|escute::look (you)|feche::open (you)|olhe::listen (you)|espere::wait (you)|fale::speak (you)",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Claro! O que eu faço?",
+          "en": "Got it. I will set the table.",
+          "ar": "فهمت. سأجهز المائدة."
+        },
+        {
+          "pt": "Filho, me ajuda a preparar o jantar.",
+          "en": "Son, help me prepare dinner.",
+          "ar": "يا بني، ساعدني في تحضير العشاء."
+        },
+        {
+          "pt": "Entendido. Vou pôr a mesa.",
+          "en": "Of course! What do I do?",
+          "ar": "بالتأكيد! ماذا أفعل؟"
+        }
+      ],
+      "answer": "Filho, me ajuda a preparar o jantar.",
+      "accepted": [],
+      "audio": "Filho, me ajuda a preparar o jantar.",
+      "explanation": {
+        "pt": "Você ouviu: 'Filho, me ajuda a preparar o jantar.' — 'Son, help me prepare dinner.'",
+        "en": "You heard: 'Filho, me ajuda a preparar o jantar.' — 'Son, help me prepare dinner.'",
+        "ar": "سمعت: 'Filho, me ajuda a preparar o jantar.' — 'يا بني، ساعدني في تحضير العشاء.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Filho, me ajuda a preparar o jantar.",
+          "en": "Wash the tomatoes and cut the onion, please.",
+          "ar": "بالتأكيد! ماذا أفعل؟"
+        },
+        {
+          "pt": "Claro! O que eu faço?",
+          "en": "Of course! What do I do?",
+          "ar": "يا بني، ساعدني في تحضير العشاء."
+        },
+        {
+          "pt": "Lave os tomates e corte a cebola, por favor.",
+          "en": "Son, help me prepare dinner.",
+          "ar": "اغسل الطماطم وقطّع البصل، من فضلك."
+        }
+      ],
+      "answer": "Claro! O que eu faço?",
+      "accepted": [],
+      "audio": "Claro! O que eu faço?",
+      "explanation": {
+        "pt": "Você ouviu: 'Claro! O que eu faço?' — 'Of course! What do I do?'",
+        "en": "You heard: 'Claro! O que eu faço?' — 'Of course! What do I do?'",
+        "ar": "سمعت: 'Claro! O que eu faço?' — 'بالتأكيد! ماذا أفعل؟'"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Fale mais devagar, ___ favor.",
+        "en": "Fale mais devagar, ___ favor.",
+        "ar": "Fale mais devagar, ___ favor."
+      },
+      "options": [
+        {
+          "pt": "por",
+          "en": "por",
+          "ar": "por"
+        },
+        {
+          "pt": "Abra",
+          "en": "Abra",
+          "ar": "Abra"
+        },
+        {
+          "pt": "está",
+          "en": "está",
+          "ar": "está"
+        }
+      ],
+      "answer": "por",
+      "accepted": [],
+      "explanation": {
+        "pt": "A resposta é 'por'. Frase completa: Fale mais devagar, por favor.",
+        "en": "The answer is 'por'. Full sentence: Speak more slowly, please.",
+        "ar": "الإجابة الصحيحة: 'por'. الجملة كاملة: تكلّم ببطء أكثر، من فضلك."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "ajuda",
+          "en": "ajuda",
+          "ar": "ajuda"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "preparar",
+          "en": "preparar",
+          "ar": "preparar"
+        },
+        {
+          "pt": "Filho,",
+          "en": "Filho,",
+          "ar": "Filho,"
+        },
+        {
+          "pt": "jantar.",
+          "en": "jantar.",
+          "ar": "jantar."
+        },
+        {
+          "pt": "me",
+          "en": "me",
+          "ar": "me"
+        }
+      ],
+      "answer": "Filho, me ajuda a preparar o jantar.",
+      "accepted": [
+        "Filho, me ajuda a preparar o jantar."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Filho, me ajuda a preparar o jantar.'",
+        "en": "The correct order: 'Son, help me prepare dinner.'",
+        "ar": "الترتيب الصحيح: 'يا بني، ساعدني في تحضير العشاء.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "abra",
+          "en": "listen (you)",
+          "ar": "abra"
+        },
+        {
+          "pt": "feche",
+          "en": "speak (you)",
+          "ar": "feche"
+        },
+        {
+          "pt": "olhe",
+          "en": "open (you)",
+          "ar": "olhe"
+        },
+        {
+          "pt": "espere",
+          "en": "look (you)",
+          "ar": "espere"
+        },
+        {
+          "pt": "fale",
+          "en": "wait (you)",
+          "ar": "fale"
+        },
+        {
+          "pt": "escute",
+          "en": "close (you)",
+          "ar": "escute"
+        }
+      ],
+      "answer": "abra::listen (you)|feche::speak (you)|olhe::open (you)|espere::look (you)|fale::wait (you)|escute::close (you)",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Filho, me ajuda a preparar o jantar.",
+          "en": "Do not close the oven door. Wait fifteen minutes.",
+          "ar": "انتهيت! والآن؟"
+        },
+        {
+          "pt": "Não feche a porta do forno. Espere quinze minutos.",
+          "en": "Done! And now?",
+          "ar": "لا تغلق باب الفرن. انتظر خمس عشرة دقيقة."
+        },
+        {
+          "pt": "Pronto! E agora?",
+          "en": "Son, help me prepare dinner.",
+          "ar": "يا بني، ساعدني في تحضير العشاء."
+        }
+      ],
+      "answer": "Filho, me ajuda a preparar o jantar.",
+      "accepted": [],
+      "audio": "Filho, me ajuda a preparar o jantar.",
+      "explanation": {
+        "pt": "Você ouviu: 'Filho, me ajuda a preparar o jantar.' — 'Son, help me prepare dinner.'",
+        "en": "You heard: 'Filho, me ajuda a preparar o jantar.' — 'Son, help me prepare dinner.'",
+        "ar": "سمعت: 'Filho, me ajuda a preparar o jantar.' — 'يا بني، ساعدني في تحضير العشاء.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Claro! O que eu faço?",
+          "en": "Of course! What do I do?",
+          "ar": "فهمت. سأجهز المائدة."
+        },
+        {
+          "pt": "Não feche a porta do forno. Espere quinze minutos.",
+          "en": "Do not close the oven door. Wait fifteen minutes.",
+          "ar": "بالتأكيد! ماذا أفعل؟"
+        },
+        {
+          "pt": "Entendido. Vou pôr a mesa.",
+          "en": "Got it. I will set the table.",
+          "ar": "لا تغلق باب الفرن. انتظر خمس عشرة دقيقة."
+        }
+      ],
+      "answer": "Claro! O que eu faço?",
+      "accepted": [],
+      "audio": "Claro! O que eu faço?",
+      "explanation": {
+        "pt": "Você ouviu: 'Claro! O que eu faço?' — 'Of course! What do I do?'",
+        "en": "You heard: 'Claro! O que eu faço?' — 'Of course! What do I do?'",
+        "ar": "سمعت: 'Claro! O que eu faço?' — 'بالتأكيد! ماذا أفعل؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "jantar.",
+          "en": "jantar.",
+          "ar": "jantar."
+        },
+        {
+          "pt": "me",
+          "en": "me",
+          "ar": "me"
+        },
+        {
+          "pt": "ajuda",
+          "en": "ajuda",
+          "ar": "ajuda"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "preparar",
+          "en": "preparar",
+          "ar": "preparar"
+        },
+        {
+          "pt": "Filho,",
+          "en": "Filho,",
+          "ar": "Filho,"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        }
+      ],
+      "answer": "Filho, me ajuda a preparar o jantar.",
+      "accepted": [
+        "Filho, me ajuda a preparar o jantar."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Filho, me ajuda a preparar o jantar.'",
+        "en": "The correct order: 'Son, help me prepare dinner.'",
+        "ar": "الترتيب الصحيح: 'يا بني، ساعدني في تحضير العشاء.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "abra",
+          "en": "open (you)",
+          "ar": "abra"
+        },
+        {
+          "pt": "feche",
+          "en": "look (you)",
+          "ar": "feche"
+        },
+        {
+          "pt": "olhe",
+          "en": "wait (you)",
+          "ar": "olhe"
+        },
+        {
+          "pt": "fale",
+          "en": "close (you)",
+          "ar": "fale"
+        },
+        {
+          "pt": "espere",
+          "en": "speak (you)",
+          "ar": "espere"
+        },
+        {
+          "pt": "escute",
+          "en": "listen (you)",
+          "ar": "escute"
+        }
+      ],
+      "answer": "abra::open (you)|feche::look (you)|olhe::wait (you)|fale::close (you)|espere::speak (you)|escute::listen (you)",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Não feche a porta do forno. Espere quinze minutos.",
+          "en": "Son, help me prepare dinner.",
+          "ar": "انتهيت! والآن؟"
+        },
+        {
+          "pt": "Pronto! E agora?",
+          "en": "Do not close the oven door. Wait fifteen minutes.",
+          "ar": "لا تغلق باب الفرن. انتظر خمس عشرة دقيقة."
+        },
+        {
+          "pt": "Filho, me ajuda a preparar o jantar.",
+          "en": "Done! And now?",
+          "ar": "يا بني، ساعدني في تحضير العشاء."
+        }
+      ],
+      "answer": "Filho, me ajuda a preparar o jantar.",
+      "accepted": [],
+      "audio": "Filho, me ajuda a preparar o jantar.",
+      "explanation": {
+        "pt": "Você ouviu: 'Filho, me ajuda a preparar o jantar.' — 'Son, help me prepare dinner.'",
+        "en": "You heard: 'Filho, me ajuda a preparar o jantar.' — 'Son, help me prepare dinner.'",
+        "ar": "سمعت: 'Filho, me ajuda a preparar o jantar.' — 'يا بني، ساعدني في تحضير العشاء.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Claro! O que eu faço?",
+          "en": "Got it. I will set the table.",
+          "ar": "اغسل الطماطم وقطّع البصل، من فضلك."
+        },
+        {
+          "pt": "Entendido. Vou pôr a mesa.",
+          "en": "Wash the tomatoes and cut the onion, please.",
+          "ar": "فهمت. سأجهز المائدة."
+        },
+        {
+          "pt": "Lave os tomates e corte a cebola, por favor.",
+          "en": "Of course! What do I do?",
+          "ar": "بالتأكيد! ماذا أفعل؟"
+        }
+      ],
+      "answer": "Claro! O que eu faço?",
+      "accepted": [],
+      "audio": "Claro! O que eu faço?",
+      "explanation": {
+        "pt": "Você ouviu: 'Claro! O que eu faço?' — 'Of course! What do I do?'",
+        "en": "You heard: 'Claro! O que eu faço?' — 'Of course! What do I do?'",
+        "ar": "سمعت: 'Claro! O que eu faço?' — 'بالتأكيد! ماذا أفعل؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Filho,",
+          "en": "Filho,",
+          "ar": "Filho,"
+        },
+        {
+          "pt": "preparar",
+          "en": "preparar",
+          "ar": "preparar"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "me",
+          "en": "me",
+          "ar": "me"
+        },
+        {
+          "pt": "jantar.",
+          "en": "jantar.",
+          "ar": "jantar."
+        },
+        {
+          "pt": "ajuda",
+          "en": "ajuda",
+          "ar": "ajuda"
+        }
+      ],
+      "answer": "Filho, me ajuda a preparar o jantar.",
+      "accepted": [
+        "Filho, me ajuda a preparar o jantar."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Filho, me ajuda a preparar o jantar.'",
+        "en": "The correct order: 'Son, help me prepare dinner.'",
+        "ar": "الترتيب الصحيح: 'يا بني، ساعدني في تحضير العشاء.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "fale",
+          "en": "wait (you)",
+          "ar": "fale"
+        },
+        {
+          "pt": "escute",
+          "en": "close (you)",
+          "ar": "escute"
+        },
+        {
+          "pt": "feche",
+          "en": "open (you)",
+          "ar": "feche"
+        },
+        {
+          "pt": "abra",
+          "en": "look (you)",
+          "ar": "abra"
+        },
+        {
+          "pt": "espere",
+          "en": "speak (you)",
+          "ar": "espere"
+        },
+        {
+          "pt": "olhe",
+          "en": "listen (you)",
+          "ar": "olhe"
+        }
+      ],
+      "answer": "fale::wait (you)|escute::close (you)|feche::open (you)|abra::look (you)|espere::speak (you)|olhe::listen (you)",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Pronto! E agora?",
+          "en": "Son, help me prepare dinner.",
+          "ar": "انتهيت! والآن؟"
+        },
+        {
+          "pt": "Filho, me ajuda a preparar o jantar.",
+          "en": "Done! And now?",
+          "ar": "يا بني، ساعدني في تحضير العشاء."
+        },
+        {
+          "pt": "Claro! O que eu faço?",
+          "en": "Of course! What do I do?",
+          "ar": "بالتأكيد! ماذا أفعل؟"
+        }
+      ],
+      "answer": "Filho, me ajuda a preparar o jantar.",
+      "accepted": [],
+      "audio": "Filho, me ajuda a preparar o jantar.",
+      "explanation": {
+        "pt": "Você ouviu: 'Filho, me ajuda a preparar o jantar.' — 'Son, help me prepare dinner.'",
+        "en": "You heard: 'Filho, me ajuda a preparar o jantar.' — 'Son, help me prepare dinner.'",
+        "ar": "سمعت: 'Filho, me ajuda a preparar o jantar.' — 'يا بني، ساعدني في تحضير العشاء.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Não feche a porta do forno. Espere quinze minutos.",
+          "en": "Of course! What do I do?",
+          "ar": "لا تغلق باب الفرن. انتظر خمس عشرة دقيقة."
+        },
+        {
+          "pt": "Filho, me ajuda a preparar o jantar.",
+          "en": "Do not close the oven door. Wait fifteen minutes.",
+          "ar": "بالتأكيد! ماذا أفعل؟"
+        },
+        {
+          "pt": "Claro! O que eu faço?",
+          "en": "Son, help me prepare dinner.",
+          "ar": "يا بني، ساعدني في تحضير العشاء."
+        }
+      ],
+      "answer": "Claro! O que eu faço?",
+      "accepted": [],
+      "audio": "Claro! O que eu faço?",
+      "explanation": {
+        "pt": "Você ouviu: 'Claro! O que eu faço?' — 'Of course! What do I do?'",
+        "en": "You heard: 'Claro! O que eu faço?' — 'Of course! What do I do?'",
+        "ar": "سمعت: 'Claro! O que eu faço?' — 'بالتأكيد! ماذا أفعل؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "preparar",
+          "en": "preparar",
+          "ar": "preparar"
+        },
+        {
+          "pt": "jantar.",
+          "en": "jantar.",
+          "ar": "jantar."
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "me",
+          "en": "me",
+          "ar": "me"
+        },
+        {
+          "pt": "ajuda",
+          "en": "ajuda",
+          "ar": "ajuda"
+        },
+        {
+          "pt": "Filho,",
+          "en": "Filho,",
+          "ar": "Filho,"
+        }
+      ],
+      "answer": "Filho, me ajuda a preparar o jantar.",
+      "accepted": [
+        "Filho, me ajuda a preparar o jantar."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Filho, me ajuda a preparar o jantar.'",
+        "en": "The correct order: 'Son, help me prepare dinner.'",
+        "ar": "الترتيب الصحيح: 'يا بني، ساعدني في تحضير العشاء.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "escute",
+          "en": "look (you)",
+          "ar": "escute"
+        },
+        {
+          "pt": "feche",
+          "en": "open (you)",
+          "ar": "feche"
+        },
+        {
+          "pt": "espere",
+          "en": "close (you)",
+          "ar": "espere"
+        },
+        {
+          "pt": "olhe",
+          "en": "listen (you)",
+          "ar": "olhe"
+        },
+        {
+          "pt": "fale",
+          "en": "speak (you)",
+          "ar": "fale"
+        },
+        {
+          "pt": "abra",
+          "en": "wait (you)",
+          "ar": "abra"
+        }
+      ],
+      "answer": "escute::look (you)|feche::open (you)|espere::close (you)|olhe::listen (you)|fale::speak (you)|abra::wait (you)",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Não feche a porta do forno. Espere quinze minutos.",
+          "en": "Of course! What do I do?",
+          "ar": "يا بني، ساعدني في تحضير العشاء."
+        },
+        {
+          "pt": "Claro! O que eu faço?",
+          "en": "Son, help me prepare dinner.",
+          "ar": "لا تغلق باب الفرن. انتظر خمس عشرة دقيقة."
+        },
+        {
+          "pt": "Filho, me ajuda a preparar o jantar.",
+          "en": "Do not close the oven door. Wait fifteen minutes.",
+          "ar": "بالتأكيد! ماذا أفعل؟"
+        }
+      ],
+      "answer": "Filho, me ajuda a preparar o jantar.",
+      "accepted": [],
+      "audio": "Filho, me ajuda a preparar o jantar.",
+      "explanation": {
+        "pt": "Você ouviu: 'Filho, me ajuda a preparar o jantar.' — 'Son, help me prepare dinner.'",
+        "en": "You heard: 'Filho, me ajuda a preparar o jantar.' — 'Son, help me prepare dinner.'",
+        "ar": "سمعت: 'Filho, me ajuda a preparar o jantar.' — 'يا بني، ساعدني في تحضير العشاء.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Não feche a porta do forno. Espere quinze minutos.",
+          "en": "Son, help me prepare dinner.",
+          "ar": "يا بني، ساعدني في تحضير العشاء."
+        },
+        {
+          "pt": "Claro! O que eu faço?",
+          "en": "Do not close the oven door. Wait fifteen minutes.",
+          "ar": "بالتأكيد! ماذا أفعل؟"
+        },
+        {
+          "pt": "Filho, me ajuda a preparar o jantar.",
+          "en": "Of course! What do I do?",
+          "ar": "لا تغلق باب الفرن. انتظر خمس عشرة دقيقة."
+        }
+      ],
+      "answer": "Claro! O que eu faço?",
+      "accepted": [],
+      "audio": "Claro! O que eu faço?",
+      "explanation": {
+        "pt": "Você ouviu: 'Claro! O que eu faço?' — 'Of course! What do I do?'",
+        "en": "You heard: 'Claro! O que eu faço?' — 'Of course! What do I do?'",
+        "ar": "سمعت: 'Claro! O que eu faço?' — 'بالتأكيد! ماذا أفعل؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "ajuda",
+          "en": "ajuda",
+          "ar": "ajuda"
+        },
+        {
+          "pt": "jantar.",
+          "en": "jantar.",
+          "ar": "jantar."
+        },
+        {
+          "pt": "Filho,",
+          "en": "Filho,",
+          "ar": "Filho,"
+        },
+        {
+          "pt": "me",
+          "en": "me",
+          "ar": "me"
+        },
+        {
+          "pt": "preparar",
+          "en": "preparar",
+          "ar": "preparar"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        }
+      ],
+      "answer": "Filho, me ajuda a preparar o jantar.",
+      "accepted": [
+        "Filho, me ajuda a preparar o jantar."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Filho, me ajuda a preparar o jantar.'",
+        "en": "The correct order: 'Son, help me prepare dinner.'",
+        "ar": "الترتيب الصحيح: 'يا بني، ساعدني في تحضير العشاء.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "fale",
+          "en": "close (you)",
+          "ar": "fale"
+        },
+        {
+          "pt": "feche",
+          "en": "listen (you)",
+          "ar": "feche"
+        },
+        {
+          "pt": "abra",
+          "en": "wait (you)",
+          "ar": "abra"
+        },
+        {
+          "pt": "espere",
+          "en": "open (you)",
+          "ar": "espere"
+        },
+        {
+          "pt": "escute",
+          "en": "speak (you)",
+          "ar": "escute"
+        },
+        {
+          "pt": "olhe",
+          "en": "look (you)",
+          "ar": "olhe"
+        }
+      ],
+      "answer": "fale::close (you)|feche::listen (you)|abra::wait (you)|espere::open (you)|escute::speak (you)|olhe::look (you)",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Entendido. Vou pôr a mesa.",
+          "en": "Son, help me prepare dinner.",
+          "ar": "لا تغلق باب الفرن. انتظر خمس عشرة دقيقة."
+        },
+        {
+          "pt": "Não feche a porta do forno. Espere quinze minutos.",
+          "en": "Do not close the oven door. Wait fifteen minutes.",
+          "ar": "يا بني، ساعدني في تحضير العشاء."
+        },
+        {
+          "pt": "Filho, me ajuda a preparar o jantar.",
+          "en": "Got it. I will set the table.",
+          "ar": "فهمت. سأجهز المائدة."
+        }
+      ],
+      "answer": "Filho, me ajuda a preparar o jantar.",
+      "accepted": [],
+      "audio": "Filho, me ajuda a preparar o jantar.",
+      "explanation": {
+        "pt": "Você ouviu: 'Filho, me ajuda a preparar o jantar.' — 'Son, help me prepare dinner.'",
+        "en": "You heard: 'Filho, me ajuda a preparar o jantar.' — 'Son, help me prepare dinner.'",
+        "ar": "سمعت: 'Filho, me ajuda a preparar o jantar.' — 'يا بني، ساعدني في تحضير العشاء.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Pronto! E agora?",
+          "en": "Done! And now?",
+          "ar": "انتهيت! والآن؟"
+        },
+        {
+          "pt": "Claro! O que eu faço?",
+          "en": "Of course! What do I do?",
+          "ar": "فهمت. سأجهز المائدة."
+        },
+        {
+          "pt": "Entendido. Vou pôr a mesa.",
+          "en": "Got it. I will set the table.",
+          "ar": "بالتأكيد! ماذا أفعل؟"
+        }
+      ],
+      "answer": "Claro! O que eu faço?",
+      "accepted": [],
+      "audio": "Claro! O que eu faço?",
+      "explanation": {
+        "pt": "Você ouviu: 'Claro! O que eu faço?' — 'Of course! What do I do?'",
+        "en": "You heard: 'Claro! O que eu faço?' — 'Of course! What do I do?'",
+        "ar": "سمعت: 'Claro! O que eu faço?' — 'بالتأكيد! ماذا أفعل؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Filho,",
+          "en": "Filho,",
+          "ar": "Filho,"
+        },
+        {
+          "pt": "jantar.",
+          "en": "jantar.",
+          "ar": "jantar."
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "me",
+          "en": "me",
+          "ar": "me"
+        },
+        {
+          "pt": "ajuda",
+          "en": "ajuda",
+          "ar": "ajuda"
+        },
+        {
+          "pt": "preparar",
+          "en": "preparar",
+          "ar": "preparar"
+        }
+      ],
+      "answer": "Filho, me ajuda a preparar o jantar.",
+      "accepted": [
+        "Filho, me ajuda a preparar o jantar."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Filho, me ajuda a preparar o jantar.'",
+        "en": "The correct order: 'Son, help me prepare dinner.'",
+        "ar": "الترتيب الصحيح: 'يا بني، ساعدني في تحضير العشاء.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "espere",
+          "en": "listen (you)",
+          "ar": "espere"
+        },
+        {
+          "pt": "fale",
+          "en": "wait (you)",
+          "ar": "fale"
+        },
+        {
+          "pt": "feche",
+          "en": "speak (you)",
+          "ar": "feche"
+        },
+        {
+          "pt": "olhe",
+          "en": "look (you)",
+          "ar": "olhe"
+        },
+        {
+          "pt": "escute",
+          "en": "close (you)",
+          "ar": "escute"
+        },
+        {
+          "pt": "abra",
+          "en": "open (you)",
+          "ar": "abra"
+        }
+      ],
+      "answer": "espere::listen (you)|fale::wait (you)|feche::speak (you)|olhe::look (you)|escute::close (you)|abra::open (you)",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Entendido. Vou pôr a mesa.",
+          "en": "Got it. I will set the table.",
+          "ar": "فهمت. سأجهز المائدة."
+        },
+        {
+          "pt": "Claro! O que eu faço?",
+          "en": "Of course! What do I do?",
+          "ar": "بالتأكيد! ماذا أفعل؟"
+        },
+        {
+          "pt": "Filho, me ajuda a preparar o jantar.",
+          "en": "Son, help me prepare dinner.",
+          "ar": "يا بني، ساعدني في تحضير العشاء."
+        }
+      ],
+      "answer": "Filho, me ajuda a preparar o jantar.",
+      "accepted": [],
+      "audio": "Filho, me ajuda a preparar o jantar.",
+      "explanation": {
+        "pt": "Você ouviu: 'Filho, me ajuda a preparar o jantar.' — 'Son, help me prepare dinner.'",
+        "en": "You heard: 'Filho, me ajuda a preparar o jantar.' — 'Son, help me prepare dinner.'",
+        "ar": "سمعت: 'Filho, me ajuda a preparar o jantar.' — 'يا بني، ساعدني في تحضير العشاء.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Claro! O que eu faço?",
+          "en": "Do not close the oven door. Wait fifteen minutes.",
+          "ar": "لا تغلق باب الفرن. انتظر خمس عشرة دقيقة."
+        },
+        {
+          "pt": "Lave os tomates e corte a cebola, por favor.",
+          "en": "Wash the tomatoes and cut the onion, please.",
+          "ar": "بالتأكيد! ماذا أفعل؟"
+        },
+        {
+          "pt": "Não feche a porta do forno. Espere quinze minutos.",
+          "en": "Of course! What do I do?",
+          "ar": "اغسل الطماطم وقطّع البصل، من فضلك."
+        }
+      ],
+      "answer": "Claro! O que eu faço?",
+      "accepted": [],
+      "audio": "Claro! O que eu faço?",
+      "explanation": {
+        "pt": "Você ouviu: 'Claro! O que eu faço?' — 'Of course! What do I do?'",
+        "en": "You heard: 'Claro! O que eu faço?' — 'Of course! What do I do?'",
+        "ar": "سمعت: 'Claro! O que eu faço?' — 'بالتأكيد! ماذا أفعل؟'"
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'speak (you)'",
+        "en": "Type in Portuguese: 'speak (you)'",
+        "ar": "اكتب بالبرتغالية: 'تكلّم'"
+      },
+      "options": [],
+      "answer": "fale",
+      "accepted": [
+        "fale"
+      ],
+      "explanation": {
+        "pt": "'fale' significa 'speak (you)'.",
+        "en": "'fale' means 'speak (you)'.",
+        "ar": "'$fale' بالعربية: '$تكلّم'."
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'wait (you)'",
+        "en": "Type in Portuguese: 'wait (you)'",
+        "ar": "اكتب بالبرتغالية: 'انتظر'"
+      },
+      "options": [],
+      "answer": "espere",
+      "accepted": [
+        "espere"
+      ],
+      "explanation": {
+        "pt": "'espere' significa 'wait (you)'.",
+        "en": "'espere' means 'wait (you)'.",
+        "ar": "'$espere' بالعربية: '$انتظر'."
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Lave os tomates e corte a cebola, por favor.",
+          "en": "Lave os tomates e corte a cebola, por favor.",
+          "ar": "Lave os tomates e corte a cebola, por favor."
+        },
+        {
+          "pt": "Filho, me ajuda a preparar o jantar.",
+          "en": "Filho, me ajuda a preparar o jantar.",
+          "ar": "Filho, me ajuda a preparar o jantar."
+        },
+        {
+          "pt": "Claro! O que eu faço?",
+          "en": "Claro! O que eu faço?",
+          "ar": "Claro! O que eu faço?"
+        }
+      ],
+      "answer": "Filho, me ajuda a preparar o jantar.",
+      "accepted": [],
+      "audio": "Filho, me ajuda a preparar o jantar.",
+      "explanation": {
+        "pt": "Você ouviu: 'Filho, me ajuda a preparar o jantar.'",
+        "en": "You heard: 'Filho, me ajuda a preparar o jantar.'",
+        "ar": "سمعت: 'Filho, me ajuda a preparar o jantar.'"
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Claro! O que eu faço?",
+          "en": "Claro! O que eu faço?",
+          "ar": "Claro! O que eu faço?"
+        },
+        {
+          "pt": "Filho, me ajuda a preparar o jantar.",
+          "en": "Filho, me ajuda a preparar o jantar.",
+          "ar": "Filho, me ajuda a preparar o jantar."
+        },
+        {
+          "pt": "Não feche a porta do forno. Espere quinze minutos.",
+          "en": "Não feche a porta do forno. Espere quinze minutos.",
+          "ar": "Não feche a porta do forno. Espere quinze minutos."
+        }
+      ],
+      "answer": "Claro! O que eu faço?",
+      "accepted": [],
+      "audio": "Claro! O que eu faço?",
+      "explanation": {
+        "pt": "Você ouviu: 'Claro! O que eu faço?'",
+        "en": "You heard: 'Claro! O que eu faço?'",
+        "ar": "سمعت: 'Claro! O que eu faço?'"
+      }
+    },
+    {
+      "type": "dictation",
+      "prompt": {
+        "pt": "Ouça e escreva o que você ouviu.",
+        "en": "Listen and type what you hear.",
+        "ar": "استمع واكتب ما سمعته."
+      },
+      "options": [],
+      "answer": "Filho, me ajuda a preparar o jantar.",
+      "accepted": [],
+      "audio": "Filho, me ajuda a preparar o jantar.",
+      "explanation": {
+        "pt": "A frase correta: 'Filho, me ajuda a preparar o jantar.'",
+        "en": "The correct sentence: 'Filho, me ajuda a preparar o jantar.'",
+        "ar": "الجملة الصحيحة: 'Filho, me ajuda a preparar o jantar.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Filho,",
+          "en": "Filho,",
+          "ar": "Filho,"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "preparar",
+          "en": "preparar",
+          "ar": "preparar"
+        },
+        {
+          "pt": "ajuda",
+          "en": "ajuda",
+          "ar": "ajuda"
+        },
+        {
+          "pt": "me",
+          "en": "me",
+          "ar": "me"
+        },
+        {
+          "pt": "jantar.",
+          "en": "jantar.",
+          "ar": "jantar."
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        }
+      ],
+      "answer": "Filho, me ajuda a preparar o jantar.",
+      "accepted": [
+        "Filho, me ajuda a preparar o jantar."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Filho, me ajuda a preparar o jantar.'",
+        "en": "The correct order: 'Son, help me prepare dinner.'",
+        "ar": "الترتيب الصحيح: 'يا بني، ساعدني في تحضير العشاء.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "fale",
+          "en": "close (you)",
+          "ar": "fale"
+        },
+        {
+          "pt": "abra",
+          "en": "speak (you)",
+          "ar": "abra"
+        },
+        {
+          "pt": "escute",
+          "en": "look (you)",
+          "ar": "escute"
+        },
+        {
+          "pt": "espere",
+          "en": "wait (you)",
+          "ar": "espere"
+        },
+        {
+          "pt": "feche",
+          "en": "listen (you)",
+          "ar": "feche"
+        },
+        {
+          "pt": "olhe",
+          "en": "open (you)",
+          "ar": "olhe"
+        }
+      ],
+      "answer": "fale::close (you)|abra::speak (you)|escute::look (you)|espere::wait (you)|feche::listen (you)|olhe::open (you)",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Filho, me ajuda a preparar o jantar.",
+          "en": "Son, help me prepare dinner.",
+          "ar": "لا تغلق باب الفرن. انتظر خمس عشرة دقيقة."
+        },
+        {
+          "pt": "Claro! O que eu faço?",
+          "en": "Do not close the oven door. Wait fifteen minutes.",
+          "ar": "بالتأكيد! ماذا أفعل؟"
+        },
+        {
+          "pt": "Não feche a porta do forno. Espere quinze minutos.",
+          "en": "Of course! What do I do?",
+          "ar": "يا بني، ساعدني في تحضير العشاء."
+        }
+      ],
+      "answer": "Filho, me ajuda a preparar o jantar.",
+      "accepted": [],
+      "audio": "Filho, me ajuda a preparar o jantar.",
+      "explanation": {
+        "pt": "Você ouviu: 'Filho, me ajuda a preparar o jantar.' — 'Son, help me prepare dinner.'",
+        "en": "You heard: 'Filho, me ajuda a preparar o jantar.' — 'Son, help me prepare dinner.'",
+        "ar": "سمعت: 'Filho, me ajuda a preparar o jantar.' — 'يا بني، ساعدني في تحضير العشاء.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Claro! O que eu faço?",
+          "en": "Of course! What do I do?",
+          "ar": "اغسل الطماطم وقطّع البصل، من فضلك."
+        },
+        {
+          "pt": "Lave os tomates e corte a cebola, por favor.",
+          "en": "Do not close the oven door. Wait fifteen minutes.",
+          "ar": "لا تغلق باب الفرن. انتظر خمس عشرة دقيقة."
+        },
+        {
+          "pt": "Não feche a porta do forno. Espere quinze minutos.",
+          "en": "Wash the tomatoes and cut the onion, please.",
+          "ar": "بالتأكيد! ماذا أفعل؟"
+        }
+      ],
+      "answer": "Claro! O que eu faço?",
+      "accepted": [],
+      "audio": "Claro! O que eu faço?",
+      "explanation": {
+        "pt": "Você ouviu: 'Claro! O que eu faço?' — 'Of course! What do I do?'",
+        "en": "You heard: 'Claro! O que eu faço?' — 'Of course! What do I do?'",
+        "ar": "سمعت: 'Claro! O que eu faço?' — 'بالتأكيد! ماذا أفعل؟'"
+      }
+    }
+  ],
+  "speaking": {
+    "title": {
+      "pt": "Fale Agora — Ouça e Repita",
+      "en": "Speak Now — Listen and Repeat",
+      "ar": "تحدث الآن — استمع وكرر"
+    },
+    "phrases": [
+      {
+        "pt": "Filho, me ajuda a preparar o jantar.",
+        "en": "Son, help me prepare dinner.",
+        "ar": "يا بني، ساعدني في تحضير العشاء."
+      },
+      {
+        "pt": "Claro! O que eu faço?",
+        "en": "Of course! What do I do?",
+        "ar": "بالتأكيد! ماذا أفعل؟"
+      },
+      {
+        "pt": "Lave os tomates e corte a cebola, por favor.",
+        "en": "Wash the tomatoes and cut the onion, please.",
+        "ar": "اغسل الطماطم وقطّع البصل، من فضلك."
+      },
+      {
+        "pt": "Pronto! E agora?",
+        "en": "Done! And now?",
+        "ar": "انتهيت! والآن؟"
+      },
+      {
+        "pt": "Não feche a porta do forno. Espere quinze minutos.",
+        "en": "Do not close the oven door. Wait fifteen minutes.",
+        "ar": "لا تغلق باب الفرن. انتظر خمس عشرة دقيقة."
+      },
+      {
+        "pt": "Entendido. Vou pôr a mesa.",
+        "en": "Got it. I will set the table.",
+        "ar": "فهمت. سأجهز المائدة."
+      },
+      {
+        "pt": "fale",
+        "en": "speak (you)",
+        "ar": "تكلّم"
+      },
+      {
+        "pt": "espere",
+        "en": "wait (you)",
+        "ar": "انتظر"
+      },
+      {
+        "pt": "escute",
+        "en": "listen (you)",
+        "ar": "استمع"
+      }
+    ]
+  },
+  "cultural_tips": {
+    "pt": "",
+    "en": "",
+    "ar": ""
+  }
+}

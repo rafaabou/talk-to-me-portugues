@@ -1,0 +1,2050 @@
+{
+  "id": "B2-06",
+  "level": "B2",
+  "level_name": {
+    "pt": "Intermediário Alto",
+    "en": "Upper-Intermediate",
+    "ar": "متوسط متقدم"
+  },
+  "title": {
+    "pt": "Literatura e Artes",
+    "en": "Literature and Arts",
+    "ar": "الأدب والفنون"
+  },
+  "objectives": [
+    {
+      "pt": "Descrever obras literárias e artísticas",
+      "en": "Describe literary and artistic works",
+      "ar": "وصف الأعمال الأدبية والفنية"
+    },
+    {
+      "pt": "Narrar histórias usando os pretéritos",
+      "en": "Narrate stories using the past tenses",
+      "ar": "سرد القصص باستخدام أزمنة الماضي"
+    },
+    {
+      "pt": "Expressar opiniões sobre arte",
+      "en": "Express opinions about art",
+      "ar": "التعبير عن الآراء حول الفن"
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "o romance",
+      "ipa": "/u ʁoˈmɐ̃.si/",
+      "en": "the novel",
+      "ar": "الرواية",
+      "example": {
+        "pt": "O personagem Bentinho é fascinante, não acha?",
+        "en": "The character Bentinho is fascinating, don't you think?",
+        "ar": "شخصية بينتينيو رائعة، أليس كذلك؟"
+      }
+    },
+    {
+      "pt": "o conto",
+      "ipa": "/u ˈkõ.tu/",
+      "en": "the short story",
+      "ar": "القصة القصيرة",
+      "example": {
+        "pt": "O personagem Bentinho é fascinante, não acha?",
+        "en": "The character Bentinho is fascinating, don't you think?",
+        "ar": "شخصية بينتينيو رائعة، أليس كذلك؟"
+      }
+    },
+    {
+      "pt": "o poema",
+      "ipa": "/u poˈe.mɐ/",
+      "en": "the poem",
+      "ar": "القصيدة",
+      "example": {
+        "pt": "O personagem Bentinho é fascinante, não acha?",
+        "en": "The character Bentinho is fascinating, don't you think?",
+        "ar": "شخصية بينتينيو رائعة، أليس كذلك؟"
+      }
+    },
+    {
+      "pt": "o poeta",
+      "ipa": "/u poˈɛ.tɐ/",
+      "en": "the poet",
+      "ar": "الشاعر",
+      "example": {
+        "pt": "O personagem Bentinho é fascinante, não acha?",
+        "en": "The character Bentinho is fascinating, don't you think?",
+        "ar": "شخصية بينتينيو رائعة، أليس كذلك؟"
+      }
+    },
+    {
+      "pt": "o escritor",
+      "ipa": "/u is.kɾiˈtoχ/",
+      "en": "the writer",
+      "ar": "الكاتب",
+      "example": {
+        "pt": "O personagem Bentinho é fascinante, não acha?",
+        "en": "The character Bentinho is fascinating, don't you think?",
+        "ar": "شخصية بينتينيو رائعة، أليس كذلك؟"
+      }
+    },
+    {
+      "pt": "a obra",
+      "ipa": "/a ˈɔ.bɾa/",
+      "en": "the work",
+      "ar": "العمل",
+      "example": {
+        "pt": "No final, o personagem descobriu a verdade.",
+        "en": "In the end, the character discovered the truth.",
+        "ar": "في النهاية، اكتشفت الشخصية الحقيقة."
+      }
+    },
+    {
+      "pt": "o capítulo",
+      "ipa": "/u ka.piˈtʃu.lu/",
+      "en": "the chapter",
+      "ar": "الفصل",
+      "example": {
+        "pt": "O personagem Bentinho é fascinante, não acha?",
+        "en": "The character Bentinho is fascinating, don't you think?",
+        "ar": "شخصية بينتينيو رائعة، أليس كذلك؟"
+      }
+    },
+    {
+      "pt": "o personagem",
+      "ipa": "/u peʁ.soˈna.ʒẽj/",
+      "en": "the character",
+      "ar": "الشخصية",
+      "example": {
+        "pt": "O personagem Bentinho é fascinante, não acha?",
+        "en": "The character Bentinho is fascinating, don't you think?",
+        "ar": "شخصية بينتينيو رائعة، أليس كذلك؟"
+      }
+    },
+    {
+      "pt": "o enredo",
+      "ipa": "/u ẽˈʁe.du/",
+      "en": "the plot",
+      "ar": "الحبكة",
+      "example": {
+        "pt": "O personagem Bentinho é fascinante, não acha?",
+        "en": "The character Bentinho is fascinating, don't you think?",
+        "ar": "شخصية بينتينيو رائعة، أليس كذلك؟"
+      }
+    },
+    {
+      "pt": "a pintura",
+      "ipa": "/a pĩˈtu.ɾa/",
+      "en": "the painting",
+      "ar": "اللوحة",
+      "example": {
+        "pt": "No final, o personagem descobriu a verdade.",
+        "en": "In the end, the character discovered the truth.",
+        "ar": "في النهاية، اكتشفت الشخصية الحقيقة."
+      }
+    },
+    {
+      "pt": "o quadro",
+      "ipa": "/u ˈkwa.dɾu/",
+      "en": "the painting (canvas)",
+      "ar": "اللوحة",
+      "example": {
+        "pt": "O personagem Bentinho é fascinante, não acha?",
+        "en": "The character Bentinho is fascinating, don't you think?",
+        "ar": "شخصية بينتينيو رائعة، أليس كذلك؟"
+      }
+    },
+    {
+      "pt": "o museu",
+      "ipa": "/u muˈzew/",
+      "en": "the museum",
+      "ar": "المتحف",
+      "example": {
+        "pt": "O personagem Bentinho é fascinante, não acha?",
+        "en": "The character Bentinho is fascinating, don't you think?",
+        "ar": "شخصية بينتينيو رائعة، أليس كذلك؟"
+      }
+    },
+    {
+      "pt": "a exposição",
+      "ipa": "/a es.po.ziˈsɐ̃w/",
+      "en": "the exhibition",
+      "ar": "المعرض",
+      "example": {
+        "pt": "No final, o personagem descobriu a verdade.",
+        "en": "In the end, the character discovered the truth.",
+        "ar": "في النهاية، اكتشفت الشخصية الحقيقة."
+      }
+    },
+    {
+      "pt": "o teatro",
+      "ipa": "/u tʃi.aˈtɾu/",
+      "en": "the theater",
+      "ar": "المسرح",
+      "example": {
+        "pt": "O personagem Bentinho é fascinante, não acha?",
+        "en": "The character Bentinho is fascinating, don't you think?",
+        "ar": "شخصية بينتينيو رائعة، أليس كذلك؟"
+      }
+    },
+    {
+      "pt": "a peça",
+      "ipa": "/a ˈpɛ.sa/",
+      "en": "the play",
+      "ar": "المسرحية",
+      "example": {
+        "pt": "No final, o personagem descobriu a verdade.",
+        "en": "In the end, the character discovered the truth.",
+        "ar": "في النهاية، اكتشفت الشخصية الحقيقة."
+      }
+    },
+    {
+      "pt": "o leitor",
+      "ipa": "/u lejˈtoχ/",
+      "en": "the reader",
+      "ar": "القارئ",
+      "example": {
+        "pt": "O personagem Bentinho é fascinante, não acha?",
+        "en": "The character Bentinho is fascinating, don't you think?",
+        "ar": "شخصية بينتينيو رائعة، أليس كذلك؟"
+      }
+    },
+    {
+      "pt": "a inspiração",
+      "ipa": "/a ĩs.pi.ɾaˈsɐ̃w/",
+      "en": "the inspiration",
+      "ar": "الإلهام",
+      "example": {
+        "pt": "No final, o personagem descobriu a verdade.",
+        "en": "In the end, the character discovered the truth.",
+        "ar": "في النهاية، اكتشفت الشخصية الحقيقة."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "title": {
+        "pt": "Os Pretéritos na Narrativa",
+        "en": "Past Tenses in Narrative",
+        "ar": "أزمنة الماضي في السرد"
+      },
+      "explanation": {
+        "pt": "No português, o pretérito perfeito (chegou, olhou) faz avançar a história, enquanto o imperfeito (lia, chovia) descreve cenários e ações habituais. Exemplo: Enquanto chovia, ela lia; depois, ele chegou.",
+        "en": "In Portuguese, the simple past (chegou, olhou) advances the story, while the imperfect (lia, chovia) describes scenes and habitual actions. Example: While it rained, she read; then, he arrived.",
+        "ar": "في البرتغالية، الماضي التام (chegou، olhou) يدفع القصة قدمًا، بينما الناقص (lia، chovia) يصف المشاهد والأفعال المعتادة. مثال: بينما كان المطر يهطل كانت تقرأ؛ ثم وصل."
+      },
+      "examples": [
+        {
+          "pt": "Enquanto chovia, ela lia um romance.",
+          "en": "While it was raining, she read a novel.",
+          "ar": "بينما كان المطر يهطل، كانت تقرأ رواية."
+        },
+        {
+          "pt": "Ele chegou ao museu e olhou os quadros.",
+          "en": "He arrived at the museum and looked at the paintings.",
+          "ar": "وصل إلى المتحف وألقى نظرة على اللوحات."
+        },
+        {
+          "pt": "O escritor escrevia todos os dias às seis da manhã.",
+          "en": "The writer used to write every day at six in the morning.",
+          "ar": "كان الكاتب يكتب كل يوم في السادسة صباحًا."
+        },
+        {
+          "pt": "No final, o personagem descobriu a verdade.",
+          "en": "In the end, the character discovered the truth.",
+          "ar": "في النهاية، اكتشفت الشخصية الحقيقة."
+        }
+      ]
+    },
+    {
+      "title": {
+        "pt": "Opiniões sobre Arte",
+        "en": "Opinions about Art",
+        "ar": "الآراء حول الفن"
+      },
+      "explanation": {
+        "pt": "Para opiniões positivas usamos 'eu acho que' + indicativo. Para opiniões negativas ou dúvidas usamos 'não acho que' ou 'duvido que' + subjuntivo. 'Na minha opinião' inicia uma opinião pessoal.",
+        "en": "For positive opinions we use 'eu acho que' + indicative. For negative opinions or doubts we use 'não acho que' or 'duvido que' + subjunctive. 'Na minha opinião' introduces a personal opinion.",
+        "ar": "للآراء الإيجابية نستخدم 'eu acho que' + المضارع الإخباري. وللآراء السلبية أو الشك نستخدم 'não acho que' أو 'duvido que' + صيغة الشرط. وتفتتح 'Na minha opinião' رأيًا شخصيًا."
+      },
+      "examples": [
+        {
+          "pt": "Eu acho que a pintura é muito expressiva.",
+          "en": "I think the painting is very expressive.",
+          "ar": "أعتقد أن اللوحة معبرة جدًا."
+        },
+        {
+          "pt": "Não acho que esse filme seja melhor que o livro.",
+          "en": "I don't think this film is better than the book.",
+          "ar": "لا أعتقد أن هذا الفيلم أفضل من الكتاب."
+        },
+        {
+          "pt": "Na minha opinião, a peça foi encenada de forma brilhante.",
+          "en": "In my opinion, the play was brilliantly staged.",
+          "ar": "في رأيي، أُخرجت المسرحية ببراعة."
+        },
+        {
+          "pt": "Duvido que haja um museu melhor na cidade.",
+          "en": "I doubt there's a better museum in the city.",
+          "ar": "أشك في وجود متحف أفضل في المدينة."
+        }
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": {
+      "pt": "No Museu",
+      "en": "At the Museum",
+      "ar": "في المتحف"
+    },
+    "lines": [
+      {
+        "speaker": "Laura",
+        "pt": "Você já leu 'Dom Casmurro', do Machado de Assis?",
+        "en": "Have you read 'Dom Casmurro' by Machado de Assis?",
+        "ar": "هل قرأت رواية «دوم كاسمورو» لماشادو دي أسيس؟"
+      },
+      {
+        "speaker": "Pedro",
+        "pt": "Li sim. Acho que é uma das maiores obras da literatura brasileira.",
+        "en": "I did. I think it's one of the greatest works of Brazilian literature.",
+        "ar": "نعم قرأتها. أعتقد أنها من أعظم الأعمال في الأدب البرازيلي."
+      },
+      {
+        "speaker": "Laura",
+        "pt": "O personagem Bentinho é fascinante, não acha?",
+        "en": "The character Bentinho is fascinating, don't you think?",
+        "ar": "شخصية بينتينيو رائعة، أليس كذلك؟"
+      },
+      {
+        "speaker": "Pedro",
+        "pt": "Com certeza. O enredo te prende do começo ao fim.",
+        "en": "Absolutely. The plot grabs you from start to finish.",
+        "ar": "بالتأكيد. تجذبك الحبكة من البداية إلى النهاية."
+      },
+      {
+        "speaker": "Laura",
+        "pt": "Que tal visitarmos o museu de literatura depois?",
+        "en": "How about we visit the literature museum afterwards?",
+        "ar": "ماذا لو زرنا متحف الأدب بعد ذلك؟"
+      },
+      {
+        "speaker": "Pedro",
+        "pt": "Ótima ideia! Eu adoro ver as exposições novas.",
+        "en": "Great idea! I love seeing new exhibitions.",
+        "ar": "فكرة رائعة! أحب مشاهدة المعارض الجديدة."
+      }
+    ]
+  },
+  "reading": {
+    "title": {
+      "pt": "O Mestre da Literatura Brasileira",
+      "en": "The Master of Brazilian Literature",
+      "ar": "أستاذ الأدب البرازيلي"
+    },
+    "text_pt": "Machado de Assis é considerado um dos maiores escritores do Brasil. Ele escreveu romances, contos e poesias que encantam os leitores até hoje. Suas obras retratam a sociedade brasileira do século XIX com humor e ironia. Quem lê 'Dom Casmurro' nunca esquece a dúvida de Bentinho.",
+    "text_en": "Machado de Assis is considered one of Brazil's greatest writers. He wrote novels, short stories and poems that still delight readers today. His works portray 19th-century Brazilian society with humor and irony. Whoever reads 'Dom Casmurro' never forgets Bentinho's doubt.",
+    "text_ar": "يُعتبر ماشادو دي أسيس من أعظم كتاب البرازيل. كتب روايات وقصصًا قصيرة وقصائد ما زالت تسعد القراء حتى اليوم. تصوّر أعماله المجتمع البرازيلي في القرن التاسع عشر بروح الدعابة والسخرية. ومن يقرأ «دوم كاسمورو» لا ينسى أبدًا شك بينتينيو."
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Ele ___ ao museu e olhou os quadros.",
+        "en": "He ___ at the museum and looked at the paintings.",
+        "ar": "___ إلى المتحف وألقى نظرة على اللوحات."
+      },
+      "options": [
+        {
+          "pt": "chegou",
+          "en": "chegou",
+          "ar": "chegou"
+        },
+        {
+          "pt": "chegava",
+          "en": "chegava",
+          "ar": "chegava"
+        },
+        {
+          "pt": "chegará",
+          "en": "chegará",
+          "ar": "chegará"
+        }
+      ],
+      "answer": "chegou",
+      "explanation": {
+        "pt": "O pretérito perfeito faz a ação avançar na narrativa: chegou.",
+        "en": "The simple past advances the action in the narrative: chegou.",
+        "ar": "الماضي التام يدفع الفعل قدمًا في السرد: chegou."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Não acho que esse filme ___ melhor que o livro.",
+        "en": "I don't think this film ___ better than the book.",
+        "ar": "لا أعتقد أن هذا الفيلم ___ أفضل من الكتاب."
+      },
+      "options": [
+        {
+          "pt": "é",
+          "en": "é",
+          "ar": "é"
+        },
+        {
+          "pt": "seja",
+          "en": "seja",
+          "ar": "seja"
+        },
+        {
+          "pt": "ser",
+          "en": "ser",
+          "ar": "ser"
+        }
+      ],
+      "answer": "seja",
+      "explanation": {
+        "pt": "Após 'não acho que' usamos o subjuntivo: seja.",
+        "en": "After 'não acho que' we use the subjunctive: seja.",
+        "ar": "بعد 'não acho que' نستخدم صيغة الشرط: seja."
+      }
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza: 'In my opinion, the play was brilliantly staged.'",
+        "en": "Translate: 'In my opinion, the play was brilliantly staged.'",
+        "ar": "ترجم: 'In my opinion, the play was brilliantly staged.'"
+      },
+      "options": [],
+      "answer": "Na minha opinião, a peça foi encenada de forma brilhante.",
+      "explanation": {
+        "pt": "Opinião pessoal: 'na minha opinião' + passiva 'foi encenada'.",
+        "en": "Personal opinion: 'na minha opinião' + passive 'foi encenada'.",
+        "ar": "رأي شخصي: 'na minha opinião' + مبني للمجهول 'foi encenada'."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "leu",
+          "en": "leu",
+          "ar": "leu"
+        },
+        {
+          "pt": "já",
+          "en": "já",
+          "ar": "já"
+        },
+        {
+          "pt": "'Dom",
+          "en": "'Dom",
+          "ar": "'Dom"
+        },
+        {
+          "pt": "Casmurro',",
+          "en": "Casmurro',",
+          "ar": "Casmurro',"
+        },
+        {
+          "pt": "Assis?",
+          "en": "Assis?",
+          "ar": "Assis?"
+        },
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "Machado",
+          "en": "Machado",
+          "ar": "Machado"
+        }
+      ],
+      "answer": "Você já leu 'Dom Casmurro', do Machado de Assis?",
+      "accepted": [
+        "Você já leu 'Dom Casmurro', do Machado de Assis?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Você já leu 'Dom Casmurro', do Machado de Assis?'",
+        "en": "The correct order: 'Have you read 'Dom Casmurro' by Machado de Assis?'",
+        "ar": "الترتيب الصحيح: 'هل قرأت رواية «دوم كاسمورو» لماشادو دي أسيس؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o poeta",
+          "en": "the writer",
+          "ar": "o poeta"
+        },
+        {
+          "pt": "o poema",
+          "en": "the poet",
+          "ar": "o poema"
+        },
+        {
+          "pt": "o conto",
+          "en": "the novel",
+          "ar": "o conto"
+        },
+        {
+          "pt": "o escritor",
+          "en": "the short story",
+          "ar": "o escritor"
+        },
+        {
+          "pt": "a obra",
+          "en": "the poem",
+          "ar": "a obra"
+        },
+        {
+          "pt": "o romance",
+          "en": "the work",
+          "ar": "o romance"
+        }
+      ],
+      "answer": "o poeta::the writer|o poema::the poet|o conto::the novel|o escritor::the short story|a obra::the poem|o romance::the work",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Você já leu 'Dom Casmurro', do Machado de Assis?",
+          "en": "Great idea! I love seeing new exhibitions.",
+          "ar": "نعم قرأتها. أعتقد أنها من أعظم الأعمال في الأدب البرازيلي."
+        },
+        {
+          "pt": "Ótima ideia! Eu adoro ver as exposições novas.",
+          "en": "I did. I think it's one of the greatest works of Brazilian literature.",
+          "ar": "فكرة رائعة! أحب مشاهدة المعارض الجديدة."
+        },
+        {
+          "pt": "Li sim. Acho que é uma das maiores obras da literatura brasileira.",
+          "en": "Have you read 'Dom Casmurro' by Machado de Assis?",
+          "ar": "هل قرأت رواية «دوم كاسمورو» لماشادو دي أسيس؟"
+        }
+      ],
+      "answer": "Você já leu 'Dom Casmurro', do Machado de Assis?",
+      "accepted": [],
+      "audio": "Você já leu 'Dom Casmurro', do Machado de Assis?",
+      "explanation": {
+        "pt": "Você ouviu: 'Você já leu 'Dom Casmurro', do Machado de Assis?' — 'Have you read 'Dom Casmurro' by Machado de Assis?'",
+        "en": "You heard: 'Você já leu 'Dom Casmurro', do Machado de Assis?' — 'Have you read 'Dom Casmurro' by Machado de Assis?'",
+        "ar": "سمعت: 'Você já leu 'Dom Casmurro', do Machado de Assis?' — 'هل قرأت رواية «دوم كاسمورو» لماشادو دي أسيس؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "O personagem Bentinho é fascinante, não acha?",
+          "en": "The character Bentinho is fascinating, don't you think?",
+          "ar": "شخصية بينتينيو رائعة، أليس كذلك؟"
+        },
+        {
+          "pt": "Li sim. Acho que é uma das maiores obras da literatura brasileira.",
+          "en": "I did. I think it's one of the greatest works of Brazilian literature.",
+          "ar": "نعم قرأتها. أعتقد أنها من أعظم الأعمال في الأدب البرازيلي."
+        },
+        {
+          "pt": "Com certeza. O enredo te prende do começo ao fim.",
+          "en": "Absolutely. The plot grabs you from start to finish.",
+          "ar": "بالتأكيد. تجذبك الحبكة من البداية إلى النهاية."
+        }
+      ],
+      "answer": "Li sim. Acho que é uma das maiores obras da literatura brasileira.",
+      "accepted": [],
+      "audio": "Li sim. Acho que é uma das maiores obras da literatura brasileira.",
+      "explanation": {
+        "pt": "Você ouviu: 'Li sim. Acho que é uma das maiores obras da literatura brasileira.' — 'I did. I think it's one of the greatest works of Brazilian literature.'",
+        "en": "You heard: 'Li sim. Acho que é uma das maiores obras da literatura brasileira.' — 'I did. I think it's one of the greatest works of Brazilian literature.'",
+        "ar": "سمعت: 'Li sim. Acho que é uma das maiores obras da literatura brasileira.' — 'نعم قرأتها. أعتقد أنها من أعظم الأعمال في الأدب البرازيلي.'"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Enquanto chovia, ela lia ___ romance.",
+        "en": "Enquanto chovia, ela lia ___ romance.",
+        "ar": "Enquanto chovia, ela lia ___ romance."
+      },
+      "options": [
+        {
+          "pt": "um",
+          "en": "um",
+          "ar": "um"
+        },
+        {
+          "pt": "seis",
+          "en": "seis",
+          "ar": "seis"
+        },
+        {
+          "pt": "os",
+          "en": "os",
+          "ar": "os"
+        }
+      ],
+      "answer": "um",
+      "accepted": [],
+      "explanation": {
+        "pt": "A resposta é 'um'. Frase completa: Enquanto chovia, ela lia um romance.",
+        "en": "The answer is 'um'. Full sentence: While it was raining, she read a novel.",
+        "ar": "الإجابة الصحيحة: 'um'. الجملة كاملة: بينما كان المطر يهطل، كانت تقرأ رواية."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Machado",
+          "en": "Machado",
+          "ar": "Machado"
+        },
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        },
+        {
+          "pt": "'Dom",
+          "en": "'Dom",
+          "ar": "'Dom"
+        },
+        {
+          "pt": "leu",
+          "en": "leu",
+          "ar": "leu"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "Assis?",
+          "en": "Assis?",
+          "ar": "Assis?"
+        },
+        {
+          "pt": "já",
+          "en": "já",
+          "ar": "já"
+        },
+        {
+          "pt": "Casmurro',",
+          "en": "Casmurro',",
+          "ar": "Casmurro',"
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        }
+      ],
+      "answer": "Você já leu 'Dom Casmurro', do Machado de Assis?",
+      "accepted": [
+        "Você já leu 'Dom Casmurro', do Machado de Assis?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Você já leu 'Dom Casmurro', do Machado de Assis?'",
+        "en": "The correct order: 'Have you read 'Dom Casmurro' by Machado de Assis?'",
+        "ar": "الترتيب الصحيح: 'هل قرأت رواية «دوم كاسمورو» لماشادو دي أسيس؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o conto",
+          "en": "the writer",
+          "ar": "o conto"
+        },
+        {
+          "pt": "o poema",
+          "en": "the poem",
+          "ar": "o poema"
+        },
+        {
+          "pt": "o romance",
+          "en": "the poet",
+          "ar": "o romance"
+        },
+        {
+          "pt": "o escritor",
+          "en": "the work",
+          "ar": "o escritor"
+        },
+        {
+          "pt": "a obra",
+          "en": "the short story",
+          "ar": "a obra"
+        },
+        {
+          "pt": "o poeta",
+          "en": "the novel",
+          "ar": "o poeta"
+        }
+      ],
+      "answer": "o conto::the writer|o poema::the poem|o romance::the poet|o escritor::the work|a obra::the short story|o poeta::the novel",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Com certeza. O enredo te prende do começo ao fim.",
+          "en": "Absolutely. The plot grabs you from start to finish.",
+          "ar": "بالتأكيد. تجذبك الحبكة من البداية إلى النهاية."
+        },
+        {
+          "pt": "Você já leu 'Dom Casmurro', do Machado de Assis?",
+          "en": "Great idea! I love seeing new exhibitions.",
+          "ar": "هل قرأت رواية «دوم كاسمورو» لماشادو دي أسيس؟"
+        },
+        {
+          "pt": "Ótima ideia! Eu adoro ver as exposições novas.",
+          "en": "Have you read 'Dom Casmurro' by Machado de Assis?",
+          "ar": "فكرة رائعة! أحب مشاهدة المعارض الجديدة."
+        }
+      ],
+      "answer": "Você já leu 'Dom Casmurro', do Machado de Assis?",
+      "accepted": [],
+      "audio": "Você já leu 'Dom Casmurro', do Machado de Assis?",
+      "explanation": {
+        "pt": "Você ouviu: 'Você já leu 'Dom Casmurro', do Machado de Assis?' — 'Have you read 'Dom Casmurro' by Machado de Assis?'",
+        "en": "You heard: 'Você já leu 'Dom Casmurro', do Machado de Assis?' — 'Have you read 'Dom Casmurro' by Machado de Assis?'",
+        "ar": "سمعت: 'Você já leu 'Dom Casmurro', do Machado de Assis?' — 'هل قرأت رواية «دوم كاسمورو» لماشادو دي أسيس؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Você já leu 'Dom Casmurro', do Machado de Assis?",
+          "en": "I did. I think it's one of the greatest works of Brazilian literature.",
+          "ar": "بالتأكيد. تجذبك الحبكة من البداية إلى النهاية."
+        },
+        {
+          "pt": "Com certeza. O enredo te prende do começo ao fim.",
+          "en": "Have you read 'Dom Casmurro' by Machado de Assis?",
+          "ar": "نعم قرأتها. أعتقد أنها من أعظم الأعمال في الأدب البرازيلي."
+        },
+        {
+          "pt": "Li sim. Acho que é uma das maiores obras da literatura brasileira.",
+          "en": "Absolutely. The plot grabs you from start to finish.",
+          "ar": "هل قرأت رواية «دوم كاسمورو» لماشادو دي أسيس؟"
+        }
+      ],
+      "answer": "Li sim. Acho que é uma das maiores obras da literatura brasileira.",
+      "accepted": [],
+      "audio": "Li sim. Acho que é uma das maiores obras da literatura brasileira.",
+      "explanation": {
+        "pt": "Você ouviu: 'Li sim. Acho que é uma das maiores obras da literatura brasileira.' — 'I did. I think it's one of the greatest works of Brazilian literature.'",
+        "en": "You heard: 'Li sim. Acho que é uma das maiores obras da literatura brasileira.' — 'I did. I think it's one of the greatest works of Brazilian literature.'",
+        "ar": "سمعت: 'Li sim. Acho que é uma das maiores obras da literatura brasileira.' — 'نعم قرأتها. أعتقد أنها من أعظم الأعمال في الأدب البرازيلي.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Machado",
+          "en": "Machado",
+          "ar": "Machado"
+        },
+        {
+          "pt": "'Dom",
+          "en": "'Dom",
+          "ar": "'Dom"
+        },
+        {
+          "pt": "Assis?",
+          "en": "Assis?",
+          "ar": "Assis?"
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "já",
+          "en": "já",
+          "ar": "já"
+        },
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        },
+        {
+          "pt": "Casmurro',",
+          "en": "Casmurro',",
+          "ar": "Casmurro',"
+        },
+        {
+          "pt": "leu",
+          "en": "leu",
+          "ar": "leu"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        }
+      ],
+      "answer": "Você já leu 'Dom Casmurro', do Machado de Assis?",
+      "accepted": [
+        "Você já leu 'Dom Casmurro', do Machado de Assis?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Você já leu 'Dom Casmurro', do Machado de Assis?'",
+        "en": "The correct order: 'Have you read 'Dom Casmurro' by Machado de Assis?'",
+        "ar": "الترتيب الصحيح: 'هل قرأت رواية «دوم كاسمورو» لماشادو دي أسيس؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o poema",
+          "en": "the poet",
+          "ar": "o poema"
+        },
+        {
+          "pt": "o romance",
+          "en": "the novel",
+          "ar": "o romance"
+        },
+        {
+          "pt": "o conto",
+          "en": "the short story",
+          "ar": "o conto"
+        },
+        {
+          "pt": "a obra",
+          "en": "the writer",
+          "ar": "a obra"
+        },
+        {
+          "pt": "o escritor",
+          "en": "the poem",
+          "ar": "o escritor"
+        },
+        {
+          "pt": "o poeta",
+          "en": "the work",
+          "ar": "o poeta"
+        }
+      ],
+      "answer": "o poema::the poet|o romance::the novel|o conto::the short story|a obra::the writer|o escritor::the poem|o poeta::the work",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "O personagem Bentinho é fascinante, não acha?",
+          "en": "The character Bentinho is fascinating, don't you think?",
+          "ar": "فكرة رائعة! أحب مشاهدة المعارض الجديدة."
+        },
+        {
+          "pt": "Ótima ideia! Eu adoro ver as exposições novas.",
+          "en": "Have you read 'Dom Casmurro' by Machado de Assis?",
+          "ar": "هل قرأت رواية «دوم كاسمورو» لماشادو دي أسيس؟"
+        },
+        {
+          "pt": "Você já leu 'Dom Casmurro', do Machado de Assis?",
+          "en": "Great idea! I love seeing new exhibitions.",
+          "ar": "شخصية بينتينيو رائعة، أليس كذلك؟"
+        }
+      ],
+      "answer": "Você já leu 'Dom Casmurro', do Machado de Assis?",
+      "accepted": [],
+      "audio": "Você já leu 'Dom Casmurro', do Machado de Assis?",
+      "explanation": {
+        "pt": "Você ouviu: 'Você já leu 'Dom Casmurro', do Machado de Assis?' — 'Have you read 'Dom Casmurro' by Machado de Assis?'",
+        "en": "You heard: 'Você já leu 'Dom Casmurro', do Machado de Assis?' — 'Have you read 'Dom Casmurro' by Machado de Assis?'",
+        "ar": "سمعت: 'Você já leu 'Dom Casmurro', do Machado de Assis?' — 'هل قرأت رواية «دوم كاسمورو» لماشادو دي أسيس؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Com certeza. O enredo te prende do começo ao fim.",
+          "en": "Have you read 'Dom Casmurro' by Machado de Assis?",
+          "ar": "نعم قرأتها. أعتقد أنها من أعظم الأعمال في الأدب البرازيلي."
+        },
+        {
+          "pt": "Você já leu 'Dom Casmurro', do Machado de Assis?",
+          "en": "I did. I think it's one of the greatest works of Brazilian literature.",
+          "ar": "بالتأكيد. تجذبك الحبكة من البداية إلى النهاية."
+        },
+        {
+          "pt": "Li sim. Acho que é uma das maiores obras da literatura brasileira.",
+          "en": "Absolutely. The plot grabs you from start to finish.",
+          "ar": "هل قرأت رواية «دوم كاسمورو» لماشادو دي أسيس؟"
+        }
+      ],
+      "answer": "Li sim. Acho que é uma das maiores obras da literatura brasileira.",
+      "accepted": [],
+      "audio": "Li sim. Acho que é uma das maiores obras da literatura brasileira.",
+      "explanation": {
+        "pt": "Você ouviu: 'Li sim. Acho que é uma das maiores obras da literatura brasileira.' — 'I did. I think it's one of the greatest works of Brazilian literature.'",
+        "en": "You heard: 'Li sim. Acho que é uma das maiores obras da literatura brasileira.' — 'I did. I think it's one of the greatest works of Brazilian literature.'",
+        "ar": "سمعت: 'Li sim. Acho que é uma das maiores obras da literatura brasileira.' — 'نعم قرأتها. أعتقد أنها من أعظم الأعمال في الأدب البرازيلي.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        },
+        {
+          "pt": "Casmurro',",
+          "en": "Casmurro',",
+          "ar": "Casmurro',"
+        },
+        {
+          "pt": "já",
+          "en": "já",
+          "ar": "já"
+        },
+        {
+          "pt": "leu",
+          "en": "leu",
+          "ar": "leu"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "Machado",
+          "en": "Machado",
+          "ar": "Machado"
+        },
+        {
+          "pt": "Assis?",
+          "en": "Assis?",
+          "ar": "Assis?"
+        },
+        {
+          "pt": "'Dom",
+          "en": "'Dom",
+          "ar": "'Dom"
+        }
+      ],
+      "answer": "Você já leu 'Dom Casmurro', do Machado de Assis?",
+      "accepted": [
+        "Você já leu 'Dom Casmurro', do Machado de Assis?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Você já leu 'Dom Casmurro', do Machado de Assis?'",
+        "en": "The correct order: 'Have you read 'Dom Casmurro' by Machado de Assis?'",
+        "ar": "الترتيب الصحيح: 'هل قرأت رواية «دوم كاسمورو» لماشادو دي أسيس؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o romance",
+          "en": "the writer",
+          "ar": "o romance"
+        },
+        {
+          "pt": "o escritor",
+          "en": "the short story",
+          "ar": "o escritor"
+        },
+        {
+          "pt": "o poema",
+          "en": "the work",
+          "ar": "o poema"
+        },
+        {
+          "pt": "o poeta",
+          "en": "the poem",
+          "ar": "o poeta"
+        },
+        {
+          "pt": "a obra",
+          "en": "the poet",
+          "ar": "a obra"
+        },
+        {
+          "pt": "o conto",
+          "en": "the novel",
+          "ar": "o conto"
+        }
+      ],
+      "answer": "o romance::the writer|o escritor::the short story|o poema::the work|o poeta::the poem|a obra::the poet|o conto::the novel",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Com certeza. O enredo te prende do começo ao fim.",
+          "en": "Have you read 'Dom Casmurro' by Machado de Assis?",
+          "ar": "بالتأكيد. تجذبك الحبكة من البداية إلى النهاية."
+        },
+        {
+          "pt": "Você já leu 'Dom Casmurro', do Machado de Assis?",
+          "en": "Great idea! I love seeing new exhibitions.",
+          "ar": "هل قرأت رواية «دوم كاسمورو» لماشادو دي أسيس؟"
+        },
+        {
+          "pt": "Ótima ideia! Eu adoro ver as exposições novas.",
+          "en": "Absolutely. The plot grabs you from start to finish.",
+          "ar": "فكرة رائعة! أحب مشاهدة المعارض الجديدة."
+        }
+      ],
+      "answer": "Você já leu 'Dom Casmurro', do Machado de Assis?",
+      "accepted": [],
+      "audio": "Você já leu 'Dom Casmurro', do Machado de Assis?",
+      "explanation": {
+        "pt": "Você ouviu: 'Você já leu 'Dom Casmurro', do Machado de Assis?' — 'Have you read 'Dom Casmurro' by Machado de Assis?'",
+        "en": "You heard: 'Você já leu 'Dom Casmurro', do Machado de Assis?' — 'Have you read 'Dom Casmurro' by Machado de Assis?'",
+        "ar": "سمعت: 'Você já leu 'Dom Casmurro', do Machado de Assis?' — 'هل قرأت رواية «دوم كاسمورو» لماشادو دي أسيس؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "O personagem Bentinho é fascinante, não acha?",
+          "en": "Have you read 'Dom Casmurro' by Machado de Assis?",
+          "ar": "هل قرأت رواية «دوم كاسمورو» لماشادو دي أسيس؟"
+        },
+        {
+          "pt": "Você já leu 'Dom Casmurro', do Machado de Assis?",
+          "en": "I did. I think it's one of the greatest works of Brazilian literature.",
+          "ar": "شخصية بينتينيو رائعة، أليس كذلك؟"
+        },
+        {
+          "pt": "Li sim. Acho que é uma das maiores obras da literatura brasileira.",
+          "en": "The character Bentinho is fascinating, don't you think?",
+          "ar": "نعم قرأتها. أعتقد أنها من أعظم الأعمال في الأدب البرازيلي."
+        }
+      ],
+      "answer": "Li sim. Acho que é uma das maiores obras da literatura brasileira.",
+      "accepted": [],
+      "audio": "Li sim. Acho que é uma das maiores obras da literatura brasileira.",
+      "explanation": {
+        "pt": "Você ouviu: 'Li sim. Acho que é uma das maiores obras da literatura brasileira.' — 'I did. I think it's one of the greatest works of Brazilian literature.'",
+        "en": "You heard: 'Li sim. Acho que é uma das maiores obras da literatura brasileira.' — 'I did. I think it's one of the greatest works of Brazilian literature.'",
+        "ar": "سمعت: 'Li sim. Acho que é uma das maiores obras da literatura brasileira.' — 'نعم قرأتها. أعتقد أنها من أعظم الأعمال في الأدب البرازيلي.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "'Dom",
+          "en": "'Dom",
+          "ar": "'Dom"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "já",
+          "en": "já",
+          "ar": "já"
+        },
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        },
+        {
+          "pt": "Casmurro',",
+          "en": "Casmurro',",
+          "ar": "Casmurro',"
+        },
+        {
+          "pt": "Machado",
+          "en": "Machado",
+          "ar": "Machado"
+        },
+        {
+          "pt": "leu",
+          "en": "leu",
+          "ar": "leu"
+        },
+        {
+          "pt": "Assis?",
+          "en": "Assis?",
+          "ar": "Assis?"
+        }
+      ],
+      "answer": "Você já leu 'Dom Casmurro', do Machado de Assis?",
+      "accepted": [
+        "Você já leu 'Dom Casmurro', do Machado de Assis?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Você já leu 'Dom Casmurro', do Machado de Assis?'",
+        "en": "The correct order: 'Have you read 'Dom Casmurro' by Machado de Assis?'",
+        "ar": "الترتيب الصحيح: 'هل قرأت رواية «دوم كاسمورو» لماشادو دي أسيس؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a obra",
+          "en": "the novel",
+          "ar": "a obra"
+        },
+        {
+          "pt": "o romance",
+          "en": "the work",
+          "ar": "o romance"
+        },
+        {
+          "pt": "o escritor",
+          "en": "the poet",
+          "ar": "o escritor"
+        },
+        {
+          "pt": "o conto",
+          "en": "the writer",
+          "ar": "o conto"
+        },
+        {
+          "pt": "o poema",
+          "en": "the short story",
+          "ar": "o poema"
+        },
+        {
+          "pt": "o poeta",
+          "en": "the poem",
+          "ar": "o poeta"
+        }
+      ],
+      "answer": "a obra::the novel|o romance::the work|o escritor::the poet|o conto::the writer|o poema::the short story|o poeta::the poem",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "O personagem Bentinho é fascinante, não acha?",
+          "en": "How about we visit the literature museum afterwards?",
+          "ar": "شخصية بينتينيو رائعة، أليس كذلك؟"
+        },
+        {
+          "pt": "Você já leu 'Dom Casmurro', do Machado de Assis?",
+          "en": "Have you read 'Dom Casmurro' by Machado de Assis?",
+          "ar": "ماذا لو زرنا متحف الأدب بعد ذلك؟"
+        },
+        {
+          "pt": "Que tal visitarmos o museu de literatura depois?",
+          "en": "The character Bentinho is fascinating, don't you think?",
+          "ar": "هل قرأت رواية «دوم كاسمورو» لماشادو دي أسيس؟"
+        }
+      ],
+      "answer": "Você já leu 'Dom Casmurro', do Machado de Assis?",
+      "accepted": [],
+      "audio": "Você já leu 'Dom Casmurro', do Machado de Assis?",
+      "explanation": {
+        "pt": "Você ouviu: 'Você já leu 'Dom Casmurro', do Machado de Assis?' — 'Have you read 'Dom Casmurro' by Machado de Assis?'",
+        "en": "You heard: 'Você já leu 'Dom Casmurro', do Machado de Assis?' — 'Have you read 'Dom Casmurro' by Machado de Assis?'",
+        "ar": "سمعت: 'Você já leu 'Dom Casmurro', do Machado de Assis?' — 'هل قرأت رواية «دوم كاسمورو» لماشادو دي أسيس؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Com certeza. O enredo te prende do começo ao fim.",
+          "en": "Have you read 'Dom Casmurro' by Machado de Assis?",
+          "ar": "نعم قرأتها. أعتقد أنها من أعظم الأعمال في الأدب البرازيلي."
+        },
+        {
+          "pt": "Li sim. Acho que é uma das maiores obras da literatura brasileira.",
+          "en": "I did. I think it's one of the greatest works of Brazilian literature.",
+          "ar": "هل قرأت رواية «دوم كاسمورو» لماشادو دي أسيس؟"
+        },
+        {
+          "pt": "Você já leu 'Dom Casmurro', do Machado de Assis?",
+          "en": "Absolutely. The plot grabs you from start to finish.",
+          "ar": "بالتأكيد. تجذبك الحبكة من البداية إلى النهاية."
+        }
+      ],
+      "answer": "Li sim. Acho que é uma das maiores obras da literatura brasileira.",
+      "accepted": [],
+      "audio": "Li sim. Acho que é uma das maiores obras da literatura brasileira.",
+      "explanation": {
+        "pt": "Você ouviu: 'Li sim. Acho que é uma das maiores obras da literatura brasileira.' — 'I did. I think it's one of the greatest works of Brazilian literature.'",
+        "en": "You heard: 'Li sim. Acho que é uma das maiores obras da literatura brasileira.' — 'I did. I think it's one of the greatest works of Brazilian literature.'",
+        "ar": "سمعت: 'Li sim. Acho que é uma das maiores obras da literatura brasileira.' — 'نعم قرأتها. أعتقد أنها من أعظم الأعمال في الأدب البرازيلي.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Machado",
+          "en": "Machado",
+          "ar": "Machado"
+        },
+        {
+          "pt": "Casmurro',",
+          "en": "Casmurro',",
+          "ar": "Casmurro',"
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "leu",
+          "en": "leu",
+          "ar": "leu"
+        },
+        {
+          "pt": "'Dom",
+          "en": "'Dom",
+          "ar": "'Dom"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        },
+        {
+          "pt": "já",
+          "en": "já",
+          "ar": "já"
+        },
+        {
+          "pt": "Assis?",
+          "en": "Assis?",
+          "ar": "Assis?"
+        }
+      ],
+      "answer": "Você já leu 'Dom Casmurro', do Machado de Assis?",
+      "accepted": [
+        "Você já leu 'Dom Casmurro', do Machado de Assis?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Você já leu 'Dom Casmurro', do Machado de Assis?'",
+        "en": "The correct order: 'Have you read 'Dom Casmurro' by Machado de Assis?'",
+        "ar": "الترتيب الصحيح: 'هل قرأت رواية «دوم كاسمورو» لماشادو دي أسيس؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a obra",
+          "en": "the work",
+          "ar": "a obra"
+        },
+        {
+          "pt": "o poema",
+          "en": "the poem",
+          "ar": "o poema"
+        },
+        {
+          "pt": "o conto",
+          "en": "the short story",
+          "ar": "o conto"
+        },
+        {
+          "pt": "o escritor",
+          "en": "the writer",
+          "ar": "o escritor"
+        },
+        {
+          "pt": "o poeta",
+          "en": "the poet",
+          "ar": "o poeta"
+        },
+        {
+          "pt": "o romance",
+          "en": "the novel",
+          "ar": "o romance"
+        }
+      ],
+      "answer": "a obra::the work|o poema::the poem|o conto::the short story|o escritor::the writer|o poeta::the poet|o romance::the novel",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Com certeza. O enredo te prende do começo ao fim.",
+          "en": "Absolutely. The plot grabs you from start to finish.",
+          "ar": "هل قرأت رواية «دوم كاسمورو» لماشادو دي أسيس؟"
+        },
+        {
+          "pt": "Li sim. Acho que é uma das maiores obras da literatura brasileira.",
+          "en": "Have you read 'Dom Casmurro' by Machado de Assis?",
+          "ar": "نعم قرأتها. أعتقد أنها من أعظم الأعمال في الأدب البرازيلي."
+        },
+        {
+          "pt": "Você já leu 'Dom Casmurro', do Machado de Assis?",
+          "en": "I did. I think it's one of the greatest works of Brazilian literature.",
+          "ar": "بالتأكيد. تجذبك الحبكة من البداية إلى النهاية."
+        }
+      ],
+      "answer": "Você já leu 'Dom Casmurro', do Machado de Assis?",
+      "accepted": [],
+      "audio": "Você já leu 'Dom Casmurro', do Machado de Assis?",
+      "explanation": {
+        "pt": "Você ouviu: 'Você já leu 'Dom Casmurro', do Machado de Assis?' — 'Have you read 'Dom Casmurro' by Machado de Assis?'",
+        "en": "You heard: 'Você já leu 'Dom Casmurro', do Machado de Assis?' — 'Have you read 'Dom Casmurro' by Machado de Assis?'",
+        "ar": "سمعت: 'Você já leu 'Dom Casmurro', do Machado de Assis?' — 'هل قرأت رواية «دوم كاسمورو» لماشادو دي أسيس؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Li sim. Acho que é uma das maiores obras da literatura brasileira.",
+          "en": "Absolutely. The plot grabs you from start to finish.",
+          "ar": "نعم قرأتها. أعتقد أنها من أعظم الأعمال في الأدب البرازيلي."
+        },
+        {
+          "pt": "Que tal visitarmos o museu de literatura depois?",
+          "en": "I did. I think it's one of the greatest works of Brazilian literature.",
+          "ar": "ماذا لو زرنا متحف الأدب بعد ذلك؟"
+        },
+        {
+          "pt": "Com certeza. O enredo te prende do começo ao fim.",
+          "en": "How about we visit the literature museum afterwards?",
+          "ar": "بالتأكيد. تجذبك الحبكة من البداية إلى النهاية."
+        }
+      ],
+      "answer": "Li sim. Acho que é uma das maiores obras da literatura brasileira.",
+      "accepted": [],
+      "audio": "Li sim. Acho que é uma das maiores obras da literatura brasileira.",
+      "explanation": {
+        "pt": "Você ouviu: 'Li sim. Acho que é uma das maiores obras da literatura brasileira.' — 'I did. I think it's one of the greatest works of Brazilian literature.'",
+        "en": "You heard: 'Li sim. Acho que é uma das maiores obras da literatura brasileira.' — 'I did. I think it's one of the greatest works of Brazilian literature.'",
+        "ar": "سمعت: 'Li sim. Acho que é uma das maiores obras da literatura brasileira.' — 'نعم قرأتها. أعتقد أنها من أعظم الأعمال في الأدب البرازيلي.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Machado",
+          "en": "Machado",
+          "ar": "Machado"
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "Casmurro',",
+          "en": "Casmurro',",
+          "ar": "Casmurro',"
+        },
+        {
+          "pt": "Assis?",
+          "en": "Assis?",
+          "ar": "Assis?"
+        },
+        {
+          "pt": "leu",
+          "en": "leu",
+          "ar": "leu"
+        },
+        {
+          "pt": "'Dom",
+          "en": "'Dom",
+          "ar": "'Dom"
+        },
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        },
+        {
+          "pt": "já",
+          "en": "já",
+          "ar": "já"
+        }
+      ],
+      "answer": "Você já leu 'Dom Casmurro', do Machado de Assis?",
+      "accepted": [
+        "Você já leu 'Dom Casmurro', do Machado de Assis?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Você já leu 'Dom Casmurro', do Machado de Assis?'",
+        "en": "The correct order: 'Have you read 'Dom Casmurro' by Machado de Assis?'",
+        "ar": "الترتيب الصحيح: 'هل قرأت رواية «دوم كاسمورو» لماشادو دي أسيس؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o poeta",
+          "en": "the short story",
+          "ar": "o poeta"
+        },
+        {
+          "pt": "o poema",
+          "en": "the work",
+          "ar": "o poema"
+        },
+        {
+          "pt": "o conto",
+          "en": "the novel",
+          "ar": "o conto"
+        },
+        {
+          "pt": "o romance",
+          "en": "the poem",
+          "ar": "o romance"
+        },
+        {
+          "pt": "a obra",
+          "en": "the poet",
+          "ar": "a obra"
+        },
+        {
+          "pt": "o escritor",
+          "en": "the writer",
+          "ar": "o escritor"
+        }
+      ],
+      "answer": "o poeta::the short story|o poema::the work|o conto::the novel|o romance::the poem|a obra::the poet|o escritor::the writer",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Ótima ideia! Eu adoro ver as exposições novas.",
+          "en": "I did. I think it's one of the greatest works of Brazilian literature.",
+          "ar": "فكرة رائعة! أحب مشاهدة المعارض الجديدة."
+        },
+        {
+          "pt": "Você já leu 'Dom Casmurro', do Machado de Assis?",
+          "en": "Have you read 'Dom Casmurro' by Machado de Assis?",
+          "ar": "نعم قرأتها. أعتقد أنها من أعظم الأعمال في الأدب البرازيلي."
+        },
+        {
+          "pt": "Li sim. Acho que é uma das maiores obras da literatura brasileira.",
+          "en": "Great idea! I love seeing new exhibitions.",
+          "ar": "هل قرأت رواية «دوم كاسمورو» لماشادو دي أسيس؟"
+        }
+      ],
+      "answer": "Você já leu 'Dom Casmurro', do Machado de Assis?",
+      "accepted": [],
+      "audio": "Você já leu 'Dom Casmurro', do Machado de Assis?",
+      "explanation": {
+        "pt": "Você ouviu: 'Você já leu 'Dom Casmurro', do Machado de Assis?' — 'Have you read 'Dom Casmurro' by Machado de Assis?'",
+        "en": "You heard: 'Você já leu 'Dom Casmurro', do Machado de Assis?' — 'Have you read 'Dom Casmurro' by Machado de Assis?'",
+        "ar": "سمعت: 'Você já leu 'Dom Casmurro', do Machado de Assis?' — 'هل قرأت رواية «دوم كاسمورو» لماشادو دي أسيس؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Você já leu 'Dom Casmurro', do Machado de Assis?",
+          "en": "I did. I think it's one of the greatest works of Brazilian literature.",
+          "ar": "هل قرأت رواية «دوم كاسمورو» لماشادو دي أسيس؟"
+        },
+        {
+          "pt": "Com certeza. O enredo te prende do começo ao fim.",
+          "en": "Absolutely. The plot grabs you from start to finish.",
+          "ar": "بالتأكيد. تجذبك الحبكة من البداية إلى النهاية."
+        },
+        {
+          "pt": "Li sim. Acho que é uma das maiores obras da literatura brasileira.",
+          "en": "Have you read 'Dom Casmurro' by Machado de Assis?",
+          "ar": "نعم قرأتها. أعتقد أنها من أعظم الأعمال في الأدب البرازيلي."
+        }
+      ],
+      "answer": "Li sim. Acho que é uma das maiores obras da literatura brasileira.",
+      "accepted": [],
+      "audio": "Li sim. Acho que é uma das maiores obras da literatura brasileira.",
+      "explanation": {
+        "pt": "Você ouviu: 'Li sim. Acho que é uma das maiores obras da literatura brasileira.' — 'I did. I think it's one of the greatest works of Brazilian literature.'",
+        "en": "You heard: 'Li sim. Acho que é uma das maiores obras da literatura brasileira.' — 'I did. I think it's one of the greatest works of Brazilian literature.'",
+        "ar": "سمعت: 'Li sim. Acho que é uma das maiores obras da literatura brasileira.' — 'نعم قرأتها. أعتقد أنها من أعظم الأعمال في الأدب البرازيلي.'"
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'the novel'",
+        "en": "Type in Portuguese: 'the novel'",
+        "ar": "اكتب بالبرتغالية: 'الرواية'"
+      },
+      "options": [],
+      "answer": "o romance",
+      "accepted": [
+        "o romance"
+      ],
+      "explanation": {
+        "pt": "'o romance' significa 'the novel'.",
+        "en": "'o romance' means 'the novel'.",
+        "ar": "'$o romance' بالعربية: '$الرواية'."
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'the short story'",
+        "en": "Type in Portuguese: 'the short story'",
+        "ar": "اكتب بالبرتغالية: 'القصة القصيرة'"
+      },
+      "options": [],
+      "answer": "o conto",
+      "accepted": [
+        "o conto"
+      ],
+      "explanation": {
+        "pt": "'o conto' significa 'the short story'.",
+        "en": "'o conto' means 'the short story'.",
+        "ar": "'$o conto' بالعربية: '$القصة القصيرة'."
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Li sim. Acho que é uma das maiores obras da literatura brasileira.",
+          "en": "Li sim. Acho que é uma das maiores obras da literatura brasileira.",
+          "ar": "Li sim. Acho que é uma das maiores obras da literatura brasileira."
+        },
+        {
+          "pt": "Ótima ideia! Eu adoro ver as exposições novas.",
+          "en": "Ótima ideia! Eu adoro ver as exposições novas.",
+          "ar": "Ótima ideia! Eu adoro ver as exposições novas."
+        },
+        {
+          "pt": "Você já leu 'Dom Casmurro', do Machado de Assis?",
+          "en": "Você já leu 'Dom Casmurro', do Machado de Assis?",
+          "ar": "Você já leu 'Dom Casmurro', do Machado de Assis?"
+        }
+      ],
+      "answer": "Você já leu 'Dom Casmurro', do Machado de Assis?",
+      "accepted": [],
+      "audio": "Você já leu 'Dom Casmurro', do Machado de Assis?",
+      "explanation": {
+        "pt": "Você ouviu: 'Você já leu 'Dom Casmurro', do Machado de Assis?'",
+        "en": "You heard: 'Você já leu 'Dom Casmurro', do Machado de Assis?'",
+        "ar": "سمعت: 'Você já leu 'Dom Casmurro', do Machado de Assis?'"
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Com certeza. O enredo te prende do começo ao fim.",
+          "en": "Com certeza. O enredo te prende do começo ao fim.",
+          "ar": "Com certeza. O enredo te prende do começo ao fim."
+        },
+        {
+          "pt": "Li sim. Acho que é uma das maiores obras da literatura brasileira.",
+          "en": "Li sim. Acho que é uma das maiores obras da literatura brasileira.",
+          "ar": "Li sim. Acho que é uma das maiores obras da literatura brasileira."
+        },
+        {
+          "pt": "O personagem Bentinho é fascinante, não acha?",
+          "en": "O personagem Bentinho é fascinante, não acha?",
+          "ar": "O personagem Bentinho é fascinante, não acha?"
+        }
+      ],
+      "answer": "Li sim. Acho que é uma das maiores obras da literatura brasileira.",
+      "accepted": [],
+      "audio": "Li sim. Acho que é uma das maiores obras da literatura brasileira.",
+      "explanation": {
+        "pt": "Você ouviu: 'Li sim. Acho que é uma das maiores obras da literatura brasileira.'",
+        "en": "You heard: 'Li sim. Acho que é uma das maiores obras da literatura brasileira.'",
+        "ar": "سمعت: 'Li sim. Acho que é uma das maiores obras da literatura brasileira.'"
+      }
+    },
+    {
+      "type": "dictation",
+      "prompt": {
+        "pt": "Ouça e escreva o que você ouviu.",
+        "en": "Listen and type what you hear.",
+        "ar": "استمع واكتب ما سمعته."
+      },
+      "options": [],
+      "answer": "Você já leu 'Dom Casmurro', do Machado de Assis?",
+      "accepted": [],
+      "audio": "Você já leu 'Dom Casmurro', do Machado de Assis?",
+      "explanation": {
+        "pt": "A frase correta: 'Você já leu 'Dom Casmurro', do Machado de Assis?'",
+        "en": "The correct sentence: 'Você já leu 'Dom Casmurro', do Machado de Assis?'",
+        "ar": "الجملة الصحيحة: 'Você já leu 'Dom Casmurro', do Machado de Assis?'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Machado",
+          "en": "Machado",
+          "ar": "Machado"
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "já",
+          "en": "já",
+          "ar": "já"
+        },
+        {
+          "pt": "'Dom",
+          "en": "'Dom",
+          "ar": "'Dom"
+        },
+        {
+          "pt": "Assis?",
+          "en": "Assis?",
+          "ar": "Assis?"
+        },
+        {
+          "pt": "leu",
+          "en": "leu",
+          "ar": "leu"
+        },
+        {
+          "pt": "Casmurro',",
+          "en": "Casmurro',",
+          "ar": "Casmurro',"
+        },
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        }
+      ],
+      "answer": "Você já leu 'Dom Casmurro', do Machado de Assis?",
+      "accepted": [
+        "Você já leu 'Dom Casmurro', do Machado de Assis?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Você já leu 'Dom Casmurro', do Machado de Assis?'",
+        "en": "The correct order: 'Have you read 'Dom Casmurro' by Machado de Assis?'",
+        "ar": "الترتيب الصحيح: 'هل قرأت رواية «دوم كاسمورو» لماشادو دي أسيس؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o poeta",
+          "en": "the short story",
+          "ar": "o poeta"
+        },
+        {
+          "pt": "a obra",
+          "en": "the poet",
+          "ar": "a obra"
+        },
+        {
+          "pt": "o escritor",
+          "en": "the writer",
+          "ar": "o escritor"
+        },
+        {
+          "pt": "o romance",
+          "en": "the work",
+          "ar": "o romance"
+        },
+        {
+          "pt": "o poema",
+          "en": "the novel",
+          "ar": "o poema"
+        },
+        {
+          "pt": "o conto",
+          "en": "the poem",
+          "ar": "o conto"
+        }
+      ],
+      "answer": "o poeta::the short story|a obra::the poet|o escritor::the writer|o romance::the work|o poema::the novel|o conto::the poem",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Li sim. Acho que é uma das maiores obras da literatura brasileira.",
+          "en": "I did. I think it's one of the greatest works of Brazilian literature.",
+          "ar": "نعم قرأتها. أعتقد أنها من أعظم الأعمال في الأدب البرازيلي."
+        },
+        {
+          "pt": "Você já leu 'Dom Casmurro', do Machado de Assis?",
+          "en": "Great idea! I love seeing new exhibitions.",
+          "ar": "فكرة رائعة! أحب مشاهدة المعارض الجديدة."
+        },
+        {
+          "pt": "Ótima ideia! Eu adoro ver as exposições novas.",
+          "en": "Have you read 'Dom Casmurro' by Machado de Assis?",
+          "ar": "هل قرأت رواية «دوم كاسمورو» لماشادو دي أسيس؟"
+        }
+      ],
+      "answer": "Você já leu 'Dom Casmurro', do Machado de Assis?",
+      "accepted": [],
+      "audio": "Você já leu 'Dom Casmurro', do Machado de Assis?",
+      "explanation": {
+        "pt": "Você ouviu: 'Você já leu 'Dom Casmurro', do Machado de Assis?' — 'Have you read 'Dom Casmurro' by Machado de Assis?'",
+        "en": "You heard: 'Você já leu 'Dom Casmurro', do Machado de Assis?' — 'Have you read 'Dom Casmurro' by Machado de Assis?'",
+        "ar": "سمعت: 'Você já leu 'Dom Casmurro', do Machado de Assis?' — 'هل قرأت رواية «دوم كاسمورو» لماشادو دي أسيس؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Você já leu 'Dom Casmurro', do Machado de Assis?",
+          "en": "I did. I think it's one of the greatest works of Brazilian literature.",
+          "ar": "هل قرأت رواية «دوم كاسمورو» لماشادو دي أسيس؟"
+        },
+        {
+          "pt": "Li sim. Acho que é uma das maiores obras da literatura brasileira.",
+          "en": "How about we visit the literature museum afterwards?",
+          "ar": "نعم قرأتها. أعتقد أنها من أعظم الأعمال في الأدب البرازيلي."
+        },
+        {
+          "pt": "Que tal visitarmos o museu de literatura depois?",
+          "en": "Have you read 'Dom Casmurro' by Machado de Assis?",
+          "ar": "ماذا لو زرنا متحف الأدب بعد ذلك؟"
+        }
+      ],
+      "answer": "Li sim. Acho que é uma das maiores obras da literatura brasileira.",
+      "accepted": [],
+      "audio": "Li sim. Acho que é uma das maiores obras da literatura brasileira.",
+      "explanation": {
+        "pt": "Você ouviu: 'Li sim. Acho que é uma das maiores obras da literatura brasileira.' — 'I did. I think it's one of the greatest works of Brazilian literature.'",
+        "en": "You heard: 'Li sim. Acho que é uma das maiores obras da literatura brasileira.' — 'I did. I think it's one of the greatest works of Brazilian literature.'",
+        "ar": "سمعت: 'Li sim. Acho que é uma das maiores obras da literatura brasileira.' — 'نعم قرأتها. أعتقد أنها من أعظم الأعمال في الأدب البرازيلي.'"
+      }
+    }
+  ],
+  "speaking": {
+    "title": {
+      "pt": "Fale Agora — Ouça e Repita",
+      "en": "Speak Now — Listen and Repeat",
+      "ar": "تحدث الآن — استمع وكرر"
+    },
+    "phrases": [
+      {
+        "pt": "Você já leu 'Dom Casmurro', do Machado de Assis?",
+        "en": "Have you read 'Dom Casmurro' by Machado de Assis?",
+        "ar": "هل قرأت رواية «دوم كاسمورو» لماشادو دي أسيس؟"
+      },
+      {
+        "pt": "Li sim. Acho que é uma das maiores obras da literatura brasileira.",
+        "en": "I did. I think it's one of the greatest works of Brazilian literature.",
+        "ar": "نعم قرأتها. أعتقد أنها من أعظم الأعمال في الأدب البرازيلي."
+      },
+      {
+        "pt": "O personagem Bentinho é fascinante, não acha?",
+        "en": "The character Bentinho is fascinating, don't you think?",
+        "ar": "شخصية بينتينيو رائعة، أليس كذلك؟"
+      },
+      {
+        "pt": "Com certeza. O enredo te prende do começo ao fim.",
+        "en": "Absolutely. The plot grabs you from start to finish.",
+        "ar": "بالتأكيد. تجذبك الحبكة من البداية إلى النهاية."
+      },
+      {
+        "pt": "Que tal visitarmos o museu de literatura depois?",
+        "en": "How about we visit the literature museum afterwards?",
+        "ar": "ماذا لو زرنا متحف الأدب بعد ذلك؟"
+      },
+      {
+        "pt": "Ótima ideia! Eu adoro ver as exposições novas.",
+        "en": "Great idea! I love seeing new exhibitions.",
+        "ar": "فكرة رائعة! أحب مشاهدة المعارض الجديدة."
+      },
+      {
+        "pt": "o romance",
+        "en": "the novel",
+        "ar": "الرواية"
+      },
+      {
+        "pt": "o conto",
+        "en": "the short story",
+        "ar": "القصة القصيرة"
+      },
+      {
+        "pt": "o poema",
+        "en": "the poem",
+        "ar": "القصيدة"
+      }
+    ]
+  },
+  "cultural_tips": {
+    "pt": "",
+    "en": "",
+    "ar": ""
+  }
+}

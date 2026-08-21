@@ -1,0 +1,1972 @@
+{
+  "id": "B1-01",
+  "level": "B1",
+  "level_name": {
+    "pt": "Intermediário",
+    "en": "Intermediate",
+    "ar": "متوسط"
+  },
+  "title": {
+    "pt": "Futuro do Pretérito (Condicional)",
+    "en": "Conditional",
+    "ar": "الشرط (المستقبل الناقص)"
+  },
+  "objectives": [
+    {
+      "pt": "Usar o futuro do pretérito para falar de situações hipotéticas e fazer pedidos educados.",
+      "en": "Use the conditional to talk about hypothetical situations and make polite requests.",
+      "ar": "استخدام صيغة الماضي المستقبلي للحديث عن مواقف افتراضية وتقديم طلبات مهذبة."
+    },
+    {
+      "pt": "Conjugar verbos regulares e irregulares no futuro do pretérito.",
+      "en": "Conjugate regular and irregular verbs in the conditional.",
+      "ar": "تصريف الأفعال النظامية وغير النظامية في زمن الماضي المستقبلي."
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "viajar",
+      "ipa": "/vi.aˈʒaʁ/",
+      "en": "to travel",
+      "ar": "يسافر",
+      "example": {
+        "pt": "Eu gostaria de viajar para o Brasil.",
+        "en": "I would like to travel to Brazil.",
+        "ar": "أودّ السفر إلى البرازيل."
+      }
+    },
+    {
+      "pt": "possível",
+      "ipa": "/poˈsi.vɛw/",
+      "en": "possible",
+      "ar": "ممكن",
+      "example": {
+        "pt": "Se eu tivesse dinheiro, viajaria para o Brasil.",
+        "en": "If I had money, I would travel to Brazil.",
+        "ar": "لو كان معي مال، لسافرت إلى البرازيل."
+      }
+    },
+    {
+      "pt": "o convite",
+      "ipa": "/u kõˈvi.tʃi/",
+      "en": "the invitation",
+      "ar": "الدعوة",
+      "example": {
+        "pt": "Se eu tivesse dinheiro, viajaria para o Brasil.",
+        "en": "If I had money, I would travel to Brazil.",
+        "ar": "لو كان معي مال، لسافرت إلى البرازيل."
+      }
+    },
+    {
+      "pt": "gostaria",
+      "ipa": "/ɡos.taˈɾi.ɐ/",
+      "en": "would like",
+      "ar": "أودّ / يودّ",
+      "example": {
+        "pt": "Eu também. Eu gostaria de visitar o Rio de Janeiro.",
+        "en": "Me too. I would like to visit Rio de Janeiro.",
+        "ar": "وأنا أيضاً. أودّ زيارة ريو دي جانيرو."
+      }
+    },
+    {
+      "pt": "o dinheiro",
+      "ipa": "/u dʒiˈɲej.ɾu/",
+      "en": "the money",
+      "ar": "المال",
+      "example": {
+        "pt": "Se eu tivesse dinheiro, viajaria para o Brasil.",
+        "en": "If I had money, I would travel to Brazil.",
+        "ar": "لو كان معي مال، لسافرت إلى البرازيل."
+      }
+    },
+    {
+      "pt": "as férias",
+      "ipa": "/as ˈfɛ.ɾi.ɐs/",
+      "en": "the vacation",
+      "ar": "العطلة",
+      "example": {
+        "pt": "Se eu tivesse dinheiro, viajaria para o Brasil.",
+        "en": "If I had money, I would travel to Brazil.",
+        "ar": "لو كان معي مال، لسافرت إلى البرازيل."
+      }
+    },
+    {
+      "pt": "caro",
+      "ipa": "/ˈka.ɾu/",
+      "en": "expensive",
+      "ar": "غالٍ",
+      "example": {
+        "pt": "Se eu tivesse dinheiro, viajaria para o Brasil.",
+        "en": "If I had money, I would travel to Brazil.",
+        "ar": "لو كان معي مال، لسافرت إلى البرازيل."
+      }
+    },
+    {
+      "pt": "barato",
+      "ipa": "/baˈɾa.tu/",
+      "en": "cheap",
+      "ar": "رخيص",
+      "example": {
+        "pt": "Se eu tivesse dinheiro, viajaria para o Brasil.",
+        "en": "If I had money, I would travel to Brazil.",
+        "ar": "لو كان معي مال، لسافرت إلى البرازيل."
+      }
+    },
+    {
+      "pt": "emprestar",
+      "ipa": "/ẽ.pɾesˈtaʁ/",
+      "en": "to lend",
+      "ar": "يُعير",
+      "example": {
+        "pt": "Você poderia me emprestar um guia de viagem?",
+        "en": "Could you lend me a travel guide?",
+        "ar": "هل يمكنك أن تعيرني دليلاً للسفر؟"
+      }
+    },
+    {
+      "pt": "a oportunidade",
+      "ipa": "/a o.po.tu.ɾo.niˈda.dʒi/",
+      "en": "the opportunity",
+      "ar": "الفرصة",
+      "example": {
+        "pt": "Você poderia fechar a janela, por favor?",
+        "en": "Could you close the window, please?",
+        "ar": "هل يمكنك إغلاق النافذة من فضلك؟"
+      }
+    },
+    {
+      "pt": "o futuro",
+      "ipa": "/u fuˈtu.ɾu/",
+      "en": "the future",
+      "ar": "المستقبل",
+      "example": {
+        "pt": "Se eu tivesse dinheiro, viajaria para o Brasil.",
+        "en": "If I had money, I would travel to Brazil.",
+        "ar": "لو كان معي مال، لسافرت إلى البرازيل."
+      }
+    },
+    {
+      "pt": "o sonho",
+      "ipa": "/u ˈsõ.ɲu/",
+      "en": "the dream",
+      "ar": "الحلم",
+      "example": {
+        "pt": "Se eu tivesse dinheiro, viajaria para o Brasil.",
+        "en": "If I had money, I would travel to Brazil.",
+        "ar": "لو كان معي مال، لسافرت إلى البرازيل."
+      }
+    },
+    {
+      "pt": "o desejo",
+      "ipa": "/u deˈze.ʒu/",
+      "en": "the wish",
+      "ar": "الرغبة",
+      "example": {
+        "pt": "Se eu tivesse dinheiro, viajaria para o Brasil.",
+        "en": "If I had money, I would travel to Brazil.",
+        "ar": "لو كان معي مال، لسافرت إلى البرازيل."
+      }
+    },
+    {
+      "pt": "a condição",
+      "ipa": "/a kõ.dʒi.siˈɐ̃w/",
+      "en": "the condition",
+      "ar": "الشرط",
+      "example": {
+        "pt": "Você poderia fechar a janela, por favor?",
+        "en": "Could you close the window, please?",
+        "ar": "هل يمكنك إغلاق النافذة من فضلك؟"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "title": {
+        "pt": "Formação do futuro do pretérito",
+        "en": "Forming the conditional",
+        "ar": "تكوين الماضي المستقبلي"
+      },
+      "explanation": {
+        "pt": "O futuro do pretérito se forma com o infinitivo mais as terminações -ia, -ias, -ia, -íamos, -íeis, -iam. Todas as conjugações usam as mesmas terminações.",
+        "en": "The conditional is formed with the infinitive plus the endings -ia, -ias, -ia, -íamos, -íeis, -iam. All conjugation groups use the same endings.",
+        "ar": "يتكوّن الماضي المستقبلي من المصدر بالإضافة إلى اللواحق -ia، -ias، -ia، -íamos، -íeis، -iam. تستخدم جميع مجموعات التصريف اللواحق نفسها."
+      },
+      "examples": [
+        {
+          "pt": "Eu gostaria de viajar para o Brasil.",
+          "en": "I would like to travel to Brazil.",
+          "ar": "أودّ السفر إلى البرازيل."
+        },
+        {
+          "pt": "Você poderia me ajudar com isso?",
+          "en": "Could you help me with this?",
+          "ar": "هل يمكنك مساعدتي في هذا؟"
+        },
+        {
+          "pt": "Nós compraríamos uma casa perto do mar.",
+          "en": "We would buy a house near the sea.",
+          "ar": "كنا سنشتري منزلاً قريباً من البحر."
+        }
+      ]
+    },
+    {
+      "title": {
+        "pt": "Condições hipotéticas, desejos e polidez",
+        "en": "Hypothetical conditions, wishes and politeness",
+        "ar": "الشروط الافتراضية والرغبات والمجاملة"
+      },
+      "explanation": {
+        "pt": "Usa-se o futuro do pretérito na oração principal de frases condicionais com 'se' mais o subjuntivo. Também expressa desejos e torna pedidos mais educados.",
+        "en": "The conditional is used in the main clause of conditional sentences with 'if' plus the subjunctive. It also expresses wishes and makes requests more polite.",
+        "ar": "يُستخدم الماضي المستقبلي في الجملة الرئيسية من الجمل الشرطية مع 'لو' أو 'إذا' والمضارع المنصوب. كما يعبّر عن الرغبات ويجعل الطلبات أكثر تهذيباً."
+      },
+      "examples": [
+        {
+          "pt": "Se eu tivesse dinheiro, viajaria hoje.",
+          "en": "If I had money, I would travel today.",
+          "ar": "لو كان معي مال، لسافرت اليوم."
+        },
+        {
+          "pt": "Você poderia fechar a janela, por favor?",
+          "en": "Could you close the window, please?",
+          "ar": "هل يمكنك إغلاق النافذة من فضلك؟"
+        },
+        {
+          "pt": "Eles seriam mais felizes com mais tempo livre.",
+          "en": "They would be happier with more free time.",
+          "ar": "كانوا سيكونون أكثر سعادة لو كان لديهم وقت فراغ أكبر."
+        }
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": {
+      "pt": "Um sonho de viagem",
+      "en": "A travel dream",
+      "ar": "حلم سفر"
+    },
+    "lines": [
+      {
+        "speaker": "Ana",
+        "pt": "Se eu tivesse dinheiro, viajaria para o Brasil.",
+        "en": "If I had money, I would travel to Brazil.",
+        "ar": "لو كان معي مال، لسافرت إلى البرازيل."
+      },
+      {
+        "speaker": "Pedro",
+        "pt": "Eu também. Eu gostaria de visitar o Rio de Janeiro.",
+        "en": "Me too. I would like to visit Rio de Janeiro.",
+        "ar": "وأنا أيضاً. أودّ زيارة ريو دي جانيرو."
+      },
+      {
+        "speaker": "Ana",
+        "pt": "Você poderia me emprestar um guia de viagem?",
+        "en": "Could you lend me a travel guide?",
+        "ar": "هل يمكنك أن تعيرني دليلاً للسفر؟"
+      },
+      {
+        "speaker": "Pedro",
+        "pt": "Claro! Eu te emprestaria com prazer.",
+        "en": "Of course! I would gladly lend it to you.",
+        "ar": "بالطبع! سأعيره لك بكل سرور."
+      },
+      {
+        "speaker": "Ana",
+        "pt": "Obrigada! Seria uma grande oportunidade.",
+        "en": "Thank you! It would be a great opportunity.",
+        "ar": "شكراً لك! ستكون فرصة عظيمة."
+      },
+      {
+        "speaker": "Pedro",
+        "pt": "Um dia nós viajaríamos juntos, com certeza.",
+        "en": "One day we would travel together, for sure.",
+        "ar": "في يومٍ ما سنسافر معاً، بالتأكيد."
+      }
+    ]
+  },
+  "reading": {
+    "title": {
+      "pt": "Planos para o futuro",
+      "en": "Plans for the future",
+      "ar": "خطط للمستقبل"
+    },
+    "text_pt": "Se eu tivesse mais tempo, viajaria com frequência. Gostaria de conhecer novas culturas e aprender outros idiomas. O mundo é grande e cheio de oportunidades. Um dia, eu realizaria esse sonho.",
+    "text_en": "If I had more time, I would travel often. I would like to learn about new cultures and study other languages. The world is big and full of opportunities. One day, I would fulfill this dream.",
+    "text_ar": "لو كان لديّ وقت أكثر، لسافرت كثيراً. أودّ التعرّف على ثقافات جديدة وتعلّم لغات أخرى. العالم كبير ومليء بالفرص. في يومٍ ما، سأحقق هذا الحلم."
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Escolha a forma correta: \"Se eu ___ dinheiro, compraria um carro.\"",
+        "en": "Choose the correct form: \"If I ___ money, I would buy a car.\"",
+        "ar": "اختر الصيغة الصحيحة: \"لو ___ مالاً، لاشتريت سيارة.\""
+      },
+      "options": [
+        {
+          "pt": "tivesse",
+          "en": "had",
+          "ar": "كان لدي"
+        },
+        {
+          "pt": "tem",
+          "en": "has",
+          "ar": "يملك"
+        },
+        {
+          "pt": "tinha",
+          "en": "had (imperfect)",
+          "ar": "كان يملك"
+        },
+        {
+          "pt": "teria",
+          "en": "would have",
+          "ar": "سيكون لديه"
+        }
+      ],
+      "answer": "tivesse",
+      "explanation": {
+        "pt": "Em condições irreais com 'se', usa-se o subjuntivo: 'se eu tivesse dinheiro'.",
+        "en": "In unreal conditions with 'if', we use the subjunctive: 'if I had money'.",
+        "ar": "في الشروط غير الواقعية مع 'لو'، نستخدم صيغة الشرط: 'لو كان معي مال'."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Complete com a forma educada: \"Você ___ me ajudar, por favor?\"",
+        "en": "Complete with the polite form: \"___ you help me, please?\"",
+        "ar": "أكمل بالصيغة المهذبة: \"هل ___ مساعدتي، من فضلك؟\""
+      },
+      "options": [
+        {
+          "pt": "poderia",
+          "en": "could",
+          "ar": "يمكنك"
+        },
+        {
+          "pt": "pode",
+          "en": "can",
+          "ar": "تستطيع"
+        },
+        {
+          "pt": "podendo",
+          "en": "being able",
+          "ar": "قادراً"
+        },
+        {
+          "pt": "poder",
+          "en": "to be able",
+          "ar": "أن يستطيع"
+        }
+      ],
+      "answer": "poderia",
+      "explanation": {
+        "pt": "'Poderia' no futuro do pretérito torna o pedido mais educado e cortês.",
+        "en": "'Poderia' in the conditional makes the request more polite and courteous.",
+        "ar": "استخدام 'poderia' في الماضي المستقبلي يجعل الطلب أكثر تهذيباً ولطفاً."
+      }
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o inglês: \"Eu gostaria de viajar para o Brasil.\"",
+        "en": "Translate to English: \"Eu gostaria de viajar para o Brasil.\"",
+        "ar": "ترجم إلى الإنجليزية: \"Eu gostaria de viajar para o Brasil.\""
+      },
+      "options": [],
+      "answer": "I would like to travel to Brazil.",
+      "explanation": {
+        "pt": "'Gostaria' é o futuro do pretérito de 'gostar' e equivale a 'would like'.",
+        "en": "'Gostaria' is the conditional of 'gostar' and means 'would like'.",
+        "ar": "'gostaria' هي صيغة الماضي المستقبلي من 'gostar' وتعادل 'would like' أي أودّ."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "viajaria",
+          "en": "viajaria",
+          "ar": "viajaria"
+        },
+        {
+          "pt": "para",
+          "en": "para",
+          "ar": "para"
+        },
+        {
+          "pt": "Brasil.",
+          "en": "Brasil.",
+          "ar": "Brasil."
+        },
+        {
+          "pt": "dinheiro,",
+          "en": "dinheiro,",
+          "ar": "dinheiro,"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "eu",
+          "en": "eu",
+          "ar": "eu"
+        },
+        {
+          "pt": "Se",
+          "en": "Se",
+          "ar": "Se"
+        },
+        {
+          "pt": "tivesse",
+          "en": "tivesse",
+          "ar": "tivesse"
+        }
+      ],
+      "answer": "Se eu tivesse dinheiro, viajaria para o Brasil.",
+      "accepted": [
+        "Se eu tivesse dinheiro, viajaria para o Brasil."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Se eu tivesse dinheiro, viajaria para o Brasil.'",
+        "en": "The correct order: 'If I had money, I would travel to Brazil.'",
+        "ar": "الترتيب الصحيح: 'لو كان معي مال، لسافرت إلى البرازيل.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o convite",
+          "en": "to travel",
+          "ar": "o convite"
+        },
+        {
+          "pt": "viajar",
+          "en": "possible",
+          "ar": "viajar"
+        },
+        {
+          "pt": "as férias",
+          "en": "the vacation",
+          "ar": "as férias"
+        },
+        {
+          "pt": "o dinheiro",
+          "en": "would like",
+          "ar": "o dinheiro"
+        },
+        {
+          "pt": "possível",
+          "en": "the invitation",
+          "ar": "possível"
+        },
+        {
+          "pt": "gostaria",
+          "en": "the money",
+          "ar": "gostaria"
+        }
+      ],
+      "answer": "o convite::to travel|viajar::possible|as férias::the vacation|o dinheiro::would like|possível::the invitation|gostaria::the money",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Se eu tivesse dinheiro, viajaria para o Brasil.",
+          "en": "If I had money, I would travel to Brazil.",
+          "ar": "وأنا أيضاً. أودّ زيارة ريو دي جانيرو."
+        },
+        {
+          "pt": "Obrigada! Seria uma grande oportunidade.",
+          "en": "Me too. I would like to visit Rio de Janeiro.",
+          "ar": "شكراً لك! ستكون فرصة عظيمة."
+        },
+        {
+          "pt": "Eu também. Eu gostaria de visitar o Rio de Janeiro.",
+          "en": "Thank you! It would be a great opportunity.",
+          "ar": "لو كان معي مال، لسافرت إلى البرازيل."
+        }
+      ],
+      "answer": "Se eu tivesse dinheiro, viajaria para o Brasil.",
+      "accepted": [],
+      "audio": "Se eu tivesse dinheiro, viajaria para o Brasil.",
+      "explanation": {
+        "pt": "Você ouviu: 'Se eu tivesse dinheiro, viajaria para o Brasil.' — 'If I had money, I would travel to Brazil.'",
+        "en": "You heard: 'Se eu tivesse dinheiro, viajaria para o Brasil.' — 'If I had money, I would travel to Brazil.'",
+        "ar": "سمعت: 'Se eu tivesse dinheiro, viajaria para o Brasil.' — 'لو كان معي مال، لسافرت إلى البرازيل.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Você poderia me emprestar um guia de viagem?",
+          "en": "Thank you! It would be a great opportunity.",
+          "ar": "هل يمكنك أن تعيرني دليلاً للسفر؟"
+        },
+        {
+          "pt": "Eu também. Eu gostaria de visitar o Rio de Janeiro.",
+          "en": "Me too. I would like to visit Rio de Janeiro.",
+          "ar": "وأنا أيضاً. أودّ زيارة ريو دي جانيرو."
+        },
+        {
+          "pt": "Obrigada! Seria uma grande oportunidade.",
+          "en": "Could you lend me a travel guide?",
+          "ar": "شكراً لك! ستكون فرصة عظيمة."
+        }
+      ],
+      "answer": "Eu também. Eu gostaria de visitar o Rio de Janeiro.",
+      "accepted": [],
+      "audio": "Eu também. Eu gostaria de visitar o Rio de Janeiro.",
+      "explanation": {
+        "pt": "Você ouviu: 'Eu também. Eu gostaria de visitar o Rio de Janeiro.' — 'Me too. I would like to visit Rio de Janeiro.'",
+        "en": "You heard: 'Eu também. Eu gostaria de visitar o Rio de Janeiro.' — 'Me too. I would like to visit Rio de Janeiro.'",
+        "ar": "سمعت: 'Eu também. Eu gostaria de visitar o Rio de Janeiro.' — 'وأنا أيضاً. أودّ زيارة ريو دي جانيرو.'"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Eu ___ de viajar para o Brasil.",
+        "en": "Eu ___ de viajar para o Brasil.",
+        "ar": "Eu ___ de viajar para o Brasil."
+      },
+      "options": [
+        {
+          "pt": "com",
+          "en": "com",
+          "ar": "com"
+        },
+        {
+          "pt": "uma",
+          "en": "uma",
+          "ar": "uma"
+        },
+        {
+          "pt": "gostaria",
+          "en": "gostaria",
+          "ar": "gostaria"
+        }
+      ],
+      "answer": "gostaria",
+      "accepted": [],
+      "explanation": {
+        "pt": "A resposta é 'gostaria'. Frase completa: Eu gostaria de viajar para o Brasil.",
+        "en": "The answer is 'gostaria'. Full sentence: I would like to travel to Brazil.",
+        "ar": "الإجابة الصحيحة: 'gostaria'. الجملة كاملة: أودّ السفر إلى البرازيل."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Se",
+          "en": "Se",
+          "ar": "Se"
+        },
+        {
+          "pt": "para",
+          "en": "para",
+          "ar": "para"
+        },
+        {
+          "pt": "dinheiro,",
+          "en": "dinheiro,",
+          "ar": "dinheiro,"
+        },
+        {
+          "pt": "Brasil.",
+          "en": "Brasil.",
+          "ar": "Brasil."
+        },
+        {
+          "pt": "eu",
+          "en": "eu",
+          "ar": "eu"
+        },
+        {
+          "pt": "tivesse",
+          "en": "tivesse",
+          "ar": "tivesse"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "viajaria",
+          "en": "viajaria",
+          "ar": "viajaria"
+        }
+      ],
+      "answer": "Se eu tivesse dinheiro, viajaria para o Brasil.",
+      "accepted": [
+        "Se eu tivesse dinheiro, viajaria para o Brasil."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Se eu tivesse dinheiro, viajaria para o Brasil.'",
+        "en": "The correct order: 'If I had money, I would travel to Brazil.'",
+        "ar": "الترتيب الصحيح: 'لو كان معي مال، لسافرت إلى البرازيل.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "possível",
+          "en": "to travel",
+          "ar": "possível"
+        },
+        {
+          "pt": "gostaria",
+          "en": "possible",
+          "ar": "gostaria"
+        },
+        {
+          "pt": "o dinheiro",
+          "en": "the invitation",
+          "ar": "o dinheiro"
+        },
+        {
+          "pt": "as férias",
+          "en": "would like",
+          "ar": "as férias"
+        },
+        {
+          "pt": "o convite",
+          "en": "the vacation",
+          "ar": "o convite"
+        },
+        {
+          "pt": "viajar",
+          "en": "the money",
+          "ar": "viajar"
+        }
+      ],
+      "answer": "possível::to travel|gostaria::possible|o dinheiro::the invitation|as férias::would like|o convite::the vacation|viajar::the money",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Eu também. Eu gostaria de visitar o Rio de Janeiro.",
+          "en": "Of course! I would gladly lend it to you.",
+          "ar": "وأنا أيضاً. أودّ زيارة ريو دي جانيرو."
+        },
+        {
+          "pt": "Se eu tivesse dinheiro, viajaria para o Brasil.",
+          "en": "If I had money, I would travel to Brazil.",
+          "ar": "لو كان معي مال، لسافرت إلى البرازيل."
+        },
+        {
+          "pt": "Claro! Eu te emprestaria com prazer.",
+          "en": "Me too. I would like to visit Rio de Janeiro.",
+          "ar": "بالطبع! سأعيره لك بكل سرور."
+        }
+      ],
+      "answer": "Se eu tivesse dinheiro, viajaria para o Brasil.",
+      "accepted": [],
+      "audio": "Se eu tivesse dinheiro, viajaria para o Brasil.",
+      "explanation": {
+        "pt": "Você ouviu: 'Se eu tivesse dinheiro, viajaria para o Brasil.' — 'If I had money, I would travel to Brazil.'",
+        "en": "You heard: 'Se eu tivesse dinheiro, viajaria para o Brasil.' — 'If I had money, I would travel to Brazil.'",
+        "ar": "سمعت: 'Se eu tivesse dinheiro, viajaria para o Brasil.' — 'لو كان معي مال، لسافرت إلى البرازيل.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Se eu tivesse dinheiro, viajaria para o Brasil.",
+          "en": "Thank you! It would be a great opportunity.",
+          "ar": "شكراً لك! ستكون فرصة عظيمة."
+        },
+        {
+          "pt": "Obrigada! Seria uma grande oportunidade.",
+          "en": "If I had money, I would travel to Brazil.",
+          "ar": "وأنا أيضاً. أودّ زيارة ريو دي جانيرو."
+        },
+        {
+          "pt": "Eu também. Eu gostaria de visitar o Rio de Janeiro.",
+          "en": "Me too. I would like to visit Rio de Janeiro.",
+          "ar": "لو كان معي مال، لسافرت إلى البرازيل."
+        }
+      ],
+      "answer": "Eu também. Eu gostaria de visitar o Rio de Janeiro.",
+      "accepted": [],
+      "audio": "Eu também. Eu gostaria de visitar o Rio de Janeiro.",
+      "explanation": {
+        "pt": "Você ouviu: 'Eu também. Eu gostaria de visitar o Rio de Janeiro.' — 'Me too. I would like to visit Rio de Janeiro.'",
+        "en": "You heard: 'Eu também. Eu gostaria de visitar o Rio de Janeiro.' — 'Me too. I would like to visit Rio de Janeiro.'",
+        "ar": "سمعت: 'Eu também. Eu gostaria de visitar o Rio de Janeiro.' — 'وأنا أيضاً. أودّ زيارة ريو دي جانيرو.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "eu",
+          "en": "eu",
+          "ar": "eu"
+        },
+        {
+          "pt": "para",
+          "en": "para",
+          "ar": "para"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "Brasil.",
+          "en": "Brasil.",
+          "ar": "Brasil."
+        },
+        {
+          "pt": "Se",
+          "en": "Se",
+          "ar": "Se"
+        },
+        {
+          "pt": "viajaria",
+          "en": "viajaria",
+          "ar": "viajaria"
+        },
+        {
+          "pt": "dinheiro,",
+          "en": "dinheiro,",
+          "ar": "dinheiro,"
+        },
+        {
+          "pt": "tivesse",
+          "en": "tivesse",
+          "ar": "tivesse"
+        }
+      ],
+      "answer": "Se eu tivesse dinheiro, viajaria para o Brasil.",
+      "accepted": [
+        "Se eu tivesse dinheiro, viajaria para o Brasil."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Se eu tivesse dinheiro, viajaria para o Brasil.'",
+        "en": "The correct order: 'If I had money, I would travel to Brazil.'",
+        "ar": "الترتيب الصحيح: 'لو كان معي مال، لسافرت إلى البرازيل.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "gostaria",
+          "en": "possible",
+          "ar": "gostaria"
+        },
+        {
+          "pt": "as férias",
+          "en": "to travel",
+          "ar": "as férias"
+        },
+        {
+          "pt": "possível",
+          "en": "the invitation",
+          "ar": "possível"
+        },
+        {
+          "pt": "o convite",
+          "en": "the vacation",
+          "ar": "o convite"
+        },
+        {
+          "pt": "o dinheiro",
+          "en": "would like",
+          "ar": "o dinheiro"
+        },
+        {
+          "pt": "viajar",
+          "en": "the money",
+          "ar": "viajar"
+        }
+      ],
+      "answer": "gostaria::possible|as férias::to travel|possível::the invitation|o convite::the vacation|o dinheiro::would like|viajar::the money",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Claro! Eu te emprestaria com prazer.",
+          "en": "Of course! I would gladly lend it to you.",
+          "ar": "بالطبع! سأعيره لك بكل سرور."
+        },
+        {
+          "pt": "Eu também. Eu gostaria de visitar o Rio de Janeiro.",
+          "en": "If I had money, I would travel to Brazil.",
+          "ar": "وأنا أيضاً. أودّ زيارة ريو دي جانيرو."
+        },
+        {
+          "pt": "Se eu tivesse dinheiro, viajaria para o Brasil.",
+          "en": "Me too. I would like to visit Rio de Janeiro.",
+          "ar": "لو كان معي مال، لسافرت إلى البرازيل."
+        }
+      ],
+      "answer": "Se eu tivesse dinheiro, viajaria para o Brasil.",
+      "accepted": [],
+      "audio": "Se eu tivesse dinheiro, viajaria para o Brasil.",
+      "explanation": {
+        "pt": "Você ouviu: 'Se eu tivesse dinheiro, viajaria para o Brasil.' — 'If I had money, I would travel to Brazil.'",
+        "en": "You heard: 'Se eu tivesse dinheiro, viajaria para o Brasil.' — 'If I had money, I would travel to Brazil.'",
+        "ar": "سمعت: 'Se eu tivesse dinheiro, viajaria para o Brasil.' — 'لو كان معي مال، لسافرت إلى البرازيل.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Você poderia me emprestar um guia de viagem?",
+          "en": "Me too. I would like to visit Rio de Janeiro.",
+          "ar": "لو كان معي مال، لسافرت إلى البرازيل."
+        },
+        {
+          "pt": "Eu também. Eu gostaria de visitar o Rio de Janeiro.",
+          "en": "Could you lend me a travel guide?",
+          "ar": "هل يمكنك أن تعيرني دليلاً للسفر؟"
+        },
+        {
+          "pt": "Se eu tivesse dinheiro, viajaria para o Brasil.",
+          "en": "If I had money, I would travel to Brazil.",
+          "ar": "وأنا أيضاً. أودّ زيارة ريو دي جانيرو."
+        }
+      ],
+      "answer": "Eu também. Eu gostaria de visitar o Rio de Janeiro.",
+      "accepted": [],
+      "audio": "Eu também. Eu gostaria de visitar o Rio de Janeiro.",
+      "explanation": {
+        "pt": "Você ouviu: 'Eu também. Eu gostaria de visitar o Rio de Janeiro.' — 'Me too. I would like to visit Rio de Janeiro.'",
+        "en": "You heard: 'Eu também. Eu gostaria de visitar o Rio de Janeiro.' — 'Me too. I would like to visit Rio de Janeiro.'",
+        "ar": "سمعت: 'Eu também. Eu gostaria de visitar o Rio de Janeiro.' — 'وأنا أيضاً. أودّ زيارة ريو دي جانيرو.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Se",
+          "en": "Se",
+          "ar": "Se"
+        },
+        {
+          "pt": "tivesse",
+          "en": "tivesse",
+          "ar": "tivesse"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "dinheiro,",
+          "en": "dinheiro,",
+          "ar": "dinheiro,"
+        },
+        {
+          "pt": "eu",
+          "en": "eu",
+          "ar": "eu"
+        },
+        {
+          "pt": "Brasil.",
+          "en": "Brasil.",
+          "ar": "Brasil."
+        },
+        {
+          "pt": "viajaria",
+          "en": "viajaria",
+          "ar": "viajaria"
+        },
+        {
+          "pt": "para",
+          "en": "para",
+          "ar": "para"
+        }
+      ],
+      "answer": "Se eu tivesse dinheiro, viajaria para o Brasil.",
+      "accepted": [
+        "Se eu tivesse dinheiro, viajaria para o Brasil."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Se eu tivesse dinheiro, viajaria para o Brasil.'",
+        "en": "The correct order: 'If I had money, I would travel to Brazil.'",
+        "ar": "الترتيب الصحيح: 'لو كان معي مال، لسافرت إلى البرازيل.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o dinheiro",
+          "en": "would like",
+          "ar": "o dinheiro"
+        },
+        {
+          "pt": "as férias",
+          "en": "possible",
+          "ar": "as férias"
+        },
+        {
+          "pt": "possível",
+          "en": "the invitation",
+          "ar": "possível"
+        },
+        {
+          "pt": "gostaria",
+          "en": "the money",
+          "ar": "gostaria"
+        },
+        {
+          "pt": "viajar",
+          "en": "to travel",
+          "ar": "viajar"
+        },
+        {
+          "pt": "o convite",
+          "en": "the vacation",
+          "ar": "o convite"
+        }
+      ],
+      "answer": "o dinheiro::would like|as férias::possible|possível::the invitation|gostaria::the money|viajar::to travel|o convite::the vacation",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Obrigada! Seria uma grande oportunidade.",
+          "en": "Of course! I would gladly lend it to you.",
+          "ar": "شكراً لك! ستكون فرصة عظيمة."
+        },
+        {
+          "pt": "Se eu tivesse dinheiro, viajaria para o Brasil.",
+          "en": "Thank you! It would be a great opportunity.",
+          "ar": "لو كان معي مال، لسافرت إلى البرازيل."
+        },
+        {
+          "pt": "Claro! Eu te emprestaria com prazer.",
+          "en": "If I had money, I would travel to Brazil.",
+          "ar": "بالطبع! سأعيره لك بكل سرور."
+        }
+      ],
+      "answer": "Se eu tivesse dinheiro, viajaria para o Brasil.",
+      "accepted": [],
+      "audio": "Se eu tivesse dinheiro, viajaria para o Brasil.",
+      "explanation": {
+        "pt": "Você ouviu: 'Se eu tivesse dinheiro, viajaria para o Brasil.' — 'If I had money, I would travel to Brazil.'",
+        "en": "You heard: 'Se eu tivesse dinheiro, viajaria para o Brasil.' — 'If I had money, I would travel to Brazil.'",
+        "ar": "سمعت: 'Se eu tivesse dinheiro, viajaria para o Brasil.' — 'لو كان معي مال، لسافرت إلى البرازيل.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Eu também. Eu gostaria de visitar o Rio de Janeiro.",
+          "en": "Thank you! It would be a great opportunity.",
+          "ar": "بالطبع! سأعيره لك بكل سرور."
+        },
+        {
+          "pt": "Obrigada! Seria uma grande oportunidade.",
+          "en": "Me too. I would like to visit Rio de Janeiro.",
+          "ar": "شكراً لك! ستكون فرصة عظيمة."
+        },
+        {
+          "pt": "Claro! Eu te emprestaria com prazer.",
+          "en": "Of course! I would gladly lend it to you.",
+          "ar": "وأنا أيضاً. أودّ زيارة ريو دي جانيرو."
+        }
+      ],
+      "answer": "Eu também. Eu gostaria de visitar o Rio de Janeiro.",
+      "accepted": [],
+      "audio": "Eu também. Eu gostaria de visitar o Rio de Janeiro.",
+      "explanation": {
+        "pt": "Você ouviu: 'Eu também. Eu gostaria de visitar o Rio de Janeiro.' — 'Me too. I would like to visit Rio de Janeiro.'",
+        "en": "You heard: 'Eu também. Eu gostaria de visitar o Rio de Janeiro.' — 'Me too. I would like to visit Rio de Janeiro.'",
+        "ar": "سمعت: 'Eu também. Eu gostaria de visitar o Rio de Janeiro.' — 'وأنا أيضاً. أودّ زيارة ريو دي جانيرو.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "tivesse",
+          "en": "tivesse",
+          "ar": "tivesse"
+        },
+        {
+          "pt": "dinheiro,",
+          "en": "dinheiro,",
+          "ar": "dinheiro,"
+        },
+        {
+          "pt": "Brasil.",
+          "en": "Brasil.",
+          "ar": "Brasil."
+        },
+        {
+          "pt": "viajaria",
+          "en": "viajaria",
+          "ar": "viajaria"
+        },
+        {
+          "pt": "eu",
+          "en": "eu",
+          "ar": "eu"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "para",
+          "en": "para",
+          "ar": "para"
+        },
+        {
+          "pt": "Se",
+          "en": "Se",
+          "ar": "Se"
+        }
+      ],
+      "answer": "Se eu tivesse dinheiro, viajaria para o Brasil.",
+      "accepted": [
+        "Se eu tivesse dinheiro, viajaria para o Brasil."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Se eu tivesse dinheiro, viajaria para o Brasil.'",
+        "en": "The correct order: 'If I had money, I would travel to Brazil.'",
+        "ar": "الترتيب الصحيح: 'لو كان معي مال، لسافرت إلى البرازيل.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "gostaria",
+          "en": "the invitation",
+          "ar": "gostaria"
+        },
+        {
+          "pt": "possível",
+          "en": "possible",
+          "ar": "possível"
+        },
+        {
+          "pt": "as férias",
+          "en": "to travel",
+          "ar": "as férias"
+        },
+        {
+          "pt": "viajar",
+          "en": "the vacation",
+          "ar": "viajar"
+        },
+        {
+          "pt": "o convite",
+          "en": "the money",
+          "ar": "o convite"
+        },
+        {
+          "pt": "o dinheiro",
+          "en": "would like",
+          "ar": "o dinheiro"
+        }
+      ],
+      "answer": "gostaria::the invitation|possível::possible|as férias::to travel|viajar::the vacation|o convite::the money|o dinheiro::would like",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Um dia nós viajaríamos juntos, com certeza.",
+          "en": "If I had money, I would travel to Brazil.",
+          "ar": "لو كان معي مال، لسافرت إلى البرازيل."
+        },
+        {
+          "pt": "Se eu tivesse dinheiro, viajaria para o Brasil.",
+          "en": "One day we would travel together, for sure.",
+          "ar": "في يومٍ ما سنسافر معاً، بالتأكيد."
+        },
+        {
+          "pt": "Eu também. Eu gostaria de visitar o Rio de Janeiro.",
+          "en": "Me too. I would like to visit Rio de Janeiro.",
+          "ar": "وأنا أيضاً. أودّ زيارة ريو دي جانيرو."
+        }
+      ],
+      "answer": "Se eu tivesse dinheiro, viajaria para o Brasil.",
+      "accepted": [],
+      "audio": "Se eu tivesse dinheiro, viajaria para o Brasil.",
+      "explanation": {
+        "pt": "Você ouviu: 'Se eu tivesse dinheiro, viajaria para o Brasil.' — 'If I had money, I would travel to Brazil.'",
+        "en": "You heard: 'Se eu tivesse dinheiro, viajaria para o Brasil.' — 'If I had money, I would travel to Brazil.'",
+        "ar": "سمعت: 'Se eu tivesse dinheiro, viajaria para o Brasil.' — 'لو كان معي مال، لسافرت إلى البرازيل.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Se eu tivesse dinheiro, viajaria para o Brasil.",
+          "en": "One day we would travel together, for sure.",
+          "ar": "في يومٍ ما سنسافر معاً، بالتأكيد."
+        },
+        {
+          "pt": "Eu também. Eu gostaria de visitar o Rio de Janeiro.",
+          "en": "If I had money, I would travel to Brazil.",
+          "ar": "وأنا أيضاً. أودّ زيارة ريو دي جانيرو."
+        },
+        {
+          "pt": "Um dia nós viajaríamos juntos, com certeza.",
+          "en": "Me too. I would like to visit Rio de Janeiro.",
+          "ar": "لو كان معي مال، لسافرت إلى البرازيل."
+        }
+      ],
+      "answer": "Eu também. Eu gostaria de visitar o Rio de Janeiro.",
+      "accepted": [],
+      "audio": "Eu também. Eu gostaria de visitar o Rio de Janeiro.",
+      "explanation": {
+        "pt": "Você ouviu: 'Eu também. Eu gostaria de visitar o Rio de Janeiro.' — 'Me too. I would like to visit Rio de Janeiro.'",
+        "en": "You heard: 'Eu também. Eu gostaria de visitar o Rio de Janeiro.' — 'Me too. I would like to visit Rio de Janeiro.'",
+        "ar": "سمعت: 'Eu também. Eu gostaria de visitar o Rio de Janeiro.' — 'وأنا أيضاً. أودّ زيارة ريو دي جانيرو.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "tivesse",
+          "en": "tivesse",
+          "ar": "tivesse"
+        },
+        {
+          "pt": "dinheiro,",
+          "en": "dinheiro,",
+          "ar": "dinheiro,"
+        },
+        {
+          "pt": "Se",
+          "en": "Se",
+          "ar": "Se"
+        },
+        {
+          "pt": "eu",
+          "en": "eu",
+          "ar": "eu"
+        },
+        {
+          "pt": "Brasil.",
+          "en": "Brasil.",
+          "ar": "Brasil."
+        },
+        {
+          "pt": "para",
+          "en": "para",
+          "ar": "para"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "viajaria",
+          "en": "viajaria",
+          "ar": "viajaria"
+        }
+      ],
+      "answer": "Se eu tivesse dinheiro, viajaria para o Brasil.",
+      "accepted": [
+        "Se eu tivesse dinheiro, viajaria para o Brasil."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Se eu tivesse dinheiro, viajaria para o Brasil.'",
+        "en": "The correct order: 'If I had money, I would travel to Brazil.'",
+        "ar": "الترتيب الصحيح: 'لو كان معي مال، لسافرت إلى البرازيل.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o convite",
+          "en": "the money",
+          "ar": "o convite"
+        },
+        {
+          "pt": "gostaria",
+          "en": "possible",
+          "ar": "gostaria"
+        },
+        {
+          "pt": "viajar",
+          "en": "the invitation",
+          "ar": "viajar"
+        },
+        {
+          "pt": "possível",
+          "en": "to travel",
+          "ar": "possível"
+        },
+        {
+          "pt": "as férias",
+          "en": "would like",
+          "ar": "as férias"
+        },
+        {
+          "pt": "o dinheiro",
+          "en": "the vacation",
+          "ar": "o dinheiro"
+        }
+      ],
+      "answer": "o convite::the money|gostaria::possible|viajar::the invitation|possível::to travel|as férias::would like|o dinheiro::the vacation",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Obrigada! Seria uma grande oportunidade.",
+          "en": "Me too. I would like to visit Rio de Janeiro.",
+          "ar": "وأنا أيضاً. أودّ زيارة ريو دي جانيرو."
+        },
+        {
+          "pt": "Se eu tivesse dinheiro, viajaria para o Brasil.",
+          "en": "Thank you! It would be a great opportunity.",
+          "ar": "شكراً لك! ستكون فرصة عظيمة."
+        },
+        {
+          "pt": "Eu também. Eu gostaria de visitar o Rio de Janeiro.",
+          "en": "If I had money, I would travel to Brazil.",
+          "ar": "لو كان معي مال، لسافرت إلى البرازيل."
+        }
+      ],
+      "answer": "Se eu tivesse dinheiro, viajaria para o Brasil.",
+      "accepted": [],
+      "audio": "Se eu tivesse dinheiro, viajaria para o Brasil.",
+      "explanation": {
+        "pt": "Você ouviu: 'Se eu tivesse dinheiro, viajaria para o Brasil.' — 'If I had money, I would travel to Brazil.'",
+        "en": "You heard: 'Se eu tivesse dinheiro, viajaria para o Brasil.' — 'If I had money, I would travel to Brazil.'",
+        "ar": "سمعت: 'Se eu tivesse dinheiro, viajaria para o Brasil.' — 'لو كان معي مال، لسافرت إلى البرازيل.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Se eu tivesse dinheiro, viajaria para o Brasil.",
+          "en": "If I had money, I would travel to Brazil.",
+          "ar": "لو كان معي مال، لسافرت إلى البرازيل."
+        },
+        {
+          "pt": "Um dia nós viajaríamos juntos, com certeza.",
+          "en": "One day we would travel together, for sure.",
+          "ar": "وأنا أيضاً. أودّ زيارة ريو دي جانيرو."
+        },
+        {
+          "pt": "Eu também. Eu gostaria de visitar o Rio de Janeiro.",
+          "en": "Me too. I would like to visit Rio de Janeiro.",
+          "ar": "في يومٍ ما سنسافر معاً، بالتأكيد."
+        }
+      ],
+      "answer": "Eu também. Eu gostaria de visitar o Rio de Janeiro.",
+      "accepted": [],
+      "audio": "Eu também. Eu gostaria de visitar o Rio de Janeiro.",
+      "explanation": {
+        "pt": "Você ouviu: 'Eu também. Eu gostaria de visitar o Rio de Janeiro.' — 'Me too. I would like to visit Rio de Janeiro.'",
+        "en": "You heard: 'Eu também. Eu gostaria de visitar o Rio de Janeiro.' — 'Me too. I would like to visit Rio de Janeiro.'",
+        "ar": "سمعت: 'Eu também. Eu gostaria de visitar o Rio de Janeiro.' — 'وأنا أيضاً. أودّ زيارة ريو دي جانيرو.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Brasil.",
+          "en": "Brasil.",
+          "ar": "Brasil."
+        },
+        {
+          "pt": "dinheiro,",
+          "en": "dinheiro,",
+          "ar": "dinheiro,"
+        },
+        {
+          "pt": "eu",
+          "en": "eu",
+          "ar": "eu"
+        },
+        {
+          "pt": "Se",
+          "en": "Se",
+          "ar": "Se"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "para",
+          "en": "para",
+          "ar": "para"
+        },
+        {
+          "pt": "tivesse",
+          "en": "tivesse",
+          "ar": "tivesse"
+        },
+        {
+          "pt": "viajaria",
+          "en": "viajaria",
+          "ar": "viajaria"
+        }
+      ],
+      "answer": "Se eu tivesse dinheiro, viajaria para o Brasil.",
+      "accepted": [
+        "Se eu tivesse dinheiro, viajaria para o Brasil."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Se eu tivesse dinheiro, viajaria para o Brasil.'",
+        "en": "The correct order: 'If I had money, I would travel to Brazil.'",
+        "ar": "الترتيب الصحيح: 'لو كان معي مال، لسافرت إلى البرازيل.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "possível",
+          "en": "the vacation",
+          "ar": "possível"
+        },
+        {
+          "pt": "o dinheiro",
+          "en": "possible",
+          "ar": "o dinheiro"
+        },
+        {
+          "pt": "viajar",
+          "en": "the invitation",
+          "ar": "viajar"
+        },
+        {
+          "pt": "as férias",
+          "en": "to travel",
+          "ar": "as férias"
+        },
+        {
+          "pt": "gostaria",
+          "en": "the money",
+          "ar": "gostaria"
+        },
+        {
+          "pt": "o convite",
+          "en": "would like",
+          "ar": "o convite"
+        }
+      ],
+      "answer": "possível::the vacation|o dinheiro::possible|viajar::the invitation|as férias::to travel|gostaria::the money|o convite::would like",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Você poderia me emprestar um guia de viagem?",
+          "en": "Could you lend me a travel guide?",
+          "ar": "هل يمكنك أن تعيرني دليلاً للسفر؟"
+        },
+        {
+          "pt": "Eu também. Eu gostaria de visitar o Rio de Janeiro.",
+          "en": "Me too. I would like to visit Rio de Janeiro.",
+          "ar": "وأنا أيضاً. أودّ زيارة ريو دي جانيرو."
+        },
+        {
+          "pt": "Se eu tivesse dinheiro, viajaria para o Brasil.",
+          "en": "If I had money, I would travel to Brazil.",
+          "ar": "لو كان معي مال، لسافرت إلى البرازيل."
+        }
+      ],
+      "answer": "Se eu tivesse dinheiro, viajaria para o Brasil.",
+      "accepted": [],
+      "audio": "Se eu tivesse dinheiro, viajaria para o Brasil.",
+      "explanation": {
+        "pt": "Você ouviu: 'Se eu tivesse dinheiro, viajaria para o Brasil.' — 'If I had money, I would travel to Brazil.'",
+        "en": "You heard: 'Se eu tivesse dinheiro, viajaria para o Brasil.' — 'If I had money, I would travel to Brazil.'",
+        "ar": "سمعت: 'Se eu tivesse dinheiro, viajaria para o Brasil.' — 'لو كان معي مال، لسافرت إلى البرازيل.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Eu também. Eu gostaria de visitar o Rio de Janeiro.",
+          "en": "Thank you! It would be a great opportunity.",
+          "ar": "هل يمكنك أن تعيرني دليلاً للسفر؟"
+        },
+        {
+          "pt": "Obrigada! Seria uma grande oportunidade.",
+          "en": "Could you lend me a travel guide?",
+          "ar": "شكراً لك! ستكون فرصة عظيمة."
+        },
+        {
+          "pt": "Você poderia me emprestar um guia de viagem?",
+          "en": "Me too. I would like to visit Rio de Janeiro.",
+          "ar": "وأنا أيضاً. أودّ زيارة ريو دي جانيرو."
+        }
+      ],
+      "answer": "Eu também. Eu gostaria de visitar o Rio de Janeiro.",
+      "accepted": [],
+      "audio": "Eu também. Eu gostaria de visitar o Rio de Janeiro.",
+      "explanation": {
+        "pt": "Você ouviu: 'Eu também. Eu gostaria de visitar o Rio de Janeiro.' — 'Me too. I would like to visit Rio de Janeiro.'",
+        "en": "You heard: 'Eu também. Eu gostaria de visitar o Rio de Janeiro.' — 'Me too. I would like to visit Rio de Janeiro.'",
+        "ar": "سمعت: 'Eu também. Eu gostaria de visitar o Rio de Janeiro.' — 'وأنا أيضاً. أودّ زيارة ريو دي جانيرو.'"
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'to travel'",
+        "en": "Type in Portuguese: 'to travel'",
+        "ar": "اكتب بالبرتغالية: 'يسافر'"
+      },
+      "options": [],
+      "answer": "viajar",
+      "accepted": [
+        "viajar"
+      ],
+      "explanation": {
+        "pt": "'viajar' significa 'to travel'.",
+        "en": "'viajar' means 'to travel'.",
+        "ar": "'$viajar' بالعربية: '$يسافر'."
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'possible'",
+        "en": "Type in Portuguese: 'possible'",
+        "ar": "اكتب بالبرتغالية: 'ممكن'"
+      },
+      "options": [],
+      "answer": "possível",
+      "accepted": [
+        "possível"
+      ],
+      "explanation": {
+        "pt": "'possível' significa 'possible'.",
+        "en": "'possível' means 'possible'.",
+        "ar": "'$possível' بالعربية: '$ممكن'."
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Claro! Eu te emprestaria com prazer.",
+          "en": "Claro! Eu te emprestaria com prazer.",
+          "ar": "Claro! Eu te emprestaria com prazer."
+        },
+        {
+          "pt": "Você poderia me emprestar um guia de viagem?",
+          "en": "Você poderia me emprestar um guia de viagem?",
+          "ar": "Você poderia me emprestar um guia de viagem?"
+        },
+        {
+          "pt": "Se eu tivesse dinheiro, viajaria para o Brasil.",
+          "en": "Se eu tivesse dinheiro, viajaria para o Brasil.",
+          "ar": "Se eu tivesse dinheiro, viajaria para o Brasil."
+        }
+      ],
+      "answer": "Se eu tivesse dinheiro, viajaria para o Brasil.",
+      "accepted": [],
+      "audio": "Se eu tivesse dinheiro, viajaria para o Brasil.",
+      "explanation": {
+        "pt": "Você ouviu: 'Se eu tivesse dinheiro, viajaria para o Brasil.'",
+        "en": "You heard: 'Se eu tivesse dinheiro, viajaria para o Brasil.'",
+        "ar": "سمعت: 'Se eu tivesse dinheiro, viajaria para o Brasil.'"
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Eu também. Eu gostaria de visitar o Rio de Janeiro.",
+          "en": "Eu também. Eu gostaria de visitar o Rio de Janeiro.",
+          "ar": "Eu também. Eu gostaria de visitar o Rio de Janeiro."
+        },
+        {
+          "pt": "Você poderia me emprestar um guia de viagem?",
+          "en": "Você poderia me emprestar um guia de viagem?",
+          "ar": "Você poderia me emprestar um guia de viagem?"
+        },
+        {
+          "pt": "Obrigada! Seria uma grande oportunidade.",
+          "en": "Obrigada! Seria uma grande oportunidade.",
+          "ar": "Obrigada! Seria uma grande oportunidade."
+        }
+      ],
+      "answer": "Eu também. Eu gostaria de visitar o Rio de Janeiro.",
+      "accepted": [],
+      "audio": "Eu também. Eu gostaria de visitar o Rio de Janeiro.",
+      "explanation": {
+        "pt": "Você ouviu: 'Eu também. Eu gostaria de visitar o Rio de Janeiro.'",
+        "en": "You heard: 'Eu também. Eu gostaria de visitar o Rio de Janeiro.'",
+        "ar": "سمعت: 'Eu também. Eu gostaria de visitar o Rio de Janeiro.'"
+      }
+    },
+    {
+      "type": "dictation",
+      "prompt": {
+        "pt": "Ouça e escreva o que você ouviu.",
+        "en": "Listen and type what you hear.",
+        "ar": "استمع واكتب ما سمعته."
+      },
+      "options": [],
+      "answer": "Se eu tivesse dinheiro, viajaria para o Brasil.",
+      "accepted": [],
+      "audio": "Se eu tivesse dinheiro, viajaria para o Brasil.",
+      "explanation": {
+        "pt": "A frase correta: 'Se eu tivesse dinheiro, viajaria para o Brasil.'",
+        "en": "The correct sentence: 'Se eu tivesse dinheiro, viajaria para o Brasil.'",
+        "ar": "الجملة الصحيحة: 'Se eu tivesse dinheiro, viajaria para o Brasil.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "para",
+          "en": "para",
+          "ar": "para"
+        },
+        {
+          "pt": "Se",
+          "en": "Se",
+          "ar": "Se"
+        },
+        {
+          "pt": "tivesse",
+          "en": "tivesse",
+          "ar": "tivesse"
+        },
+        {
+          "pt": "dinheiro,",
+          "en": "dinheiro,",
+          "ar": "dinheiro,"
+        },
+        {
+          "pt": "viajaria",
+          "en": "viajaria",
+          "ar": "viajaria"
+        },
+        {
+          "pt": "Brasil.",
+          "en": "Brasil.",
+          "ar": "Brasil."
+        },
+        {
+          "pt": "eu",
+          "en": "eu",
+          "ar": "eu"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        }
+      ],
+      "answer": "Se eu tivesse dinheiro, viajaria para o Brasil.",
+      "accepted": [
+        "Se eu tivesse dinheiro, viajaria para o Brasil."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Se eu tivesse dinheiro, viajaria para o Brasil.'",
+        "en": "The correct order: 'If I had money, I would travel to Brazil.'",
+        "ar": "الترتيب الصحيح: 'لو كان معي مال، لسافرت إلى البرازيل.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "possível",
+          "en": "would like",
+          "ar": "possível"
+        },
+        {
+          "pt": "as férias",
+          "en": "to travel",
+          "ar": "as férias"
+        },
+        {
+          "pt": "o convite",
+          "en": "possible",
+          "ar": "o convite"
+        },
+        {
+          "pt": "o dinheiro",
+          "en": "the invitation",
+          "ar": "o dinheiro"
+        },
+        {
+          "pt": "viajar",
+          "en": "the vacation",
+          "ar": "viajar"
+        },
+        {
+          "pt": "gostaria",
+          "en": "the money",
+          "ar": "gostaria"
+        }
+      ],
+      "answer": "possível::would like|as férias::to travel|o convite::possible|o dinheiro::the invitation|viajar::the vacation|gostaria::the money",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Eu também. Eu gostaria de visitar o Rio de Janeiro.",
+          "en": "If I had money, I would travel to Brazil.",
+          "ar": "لو كان معي مال، لسافرت إلى البرازيل."
+        },
+        {
+          "pt": "Um dia nós viajaríamos juntos, com certeza.",
+          "en": "One day we would travel together, for sure.",
+          "ar": "في يومٍ ما سنسافر معاً، بالتأكيد."
+        },
+        {
+          "pt": "Se eu tivesse dinheiro, viajaria para o Brasil.",
+          "en": "Me too. I would like to visit Rio de Janeiro.",
+          "ar": "وأنا أيضاً. أودّ زيارة ريو دي جانيرو."
+        }
+      ],
+      "answer": "Se eu tivesse dinheiro, viajaria para o Brasil.",
+      "accepted": [],
+      "audio": "Se eu tivesse dinheiro, viajaria para o Brasil.",
+      "explanation": {
+        "pt": "Você ouviu: 'Se eu tivesse dinheiro, viajaria para o Brasil.' — 'If I had money, I would travel to Brazil.'",
+        "en": "You heard: 'Se eu tivesse dinheiro, viajaria para o Brasil.' — 'If I had money, I would travel to Brazil.'",
+        "ar": "سمعت: 'Se eu tivesse dinheiro, viajaria para o Brasil.' — 'لو كان معي مال، لسافرت إلى البرازيل.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Claro! Eu te emprestaria com prazer.",
+          "en": "One day we would travel together, for sure.",
+          "ar": "وأنا أيضاً. أودّ زيارة ريو دي جانيرو."
+        },
+        {
+          "pt": "Um dia nós viajaríamos juntos, com certeza.",
+          "en": "Of course! I would gladly lend it to you.",
+          "ar": "في يومٍ ما سنسافر معاً، بالتأكيد."
+        },
+        {
+          "pt": "Eu também. Eu gostaria de visitar o Rio de Janeiro.",
+          "en": "Me too. I would like to visit Rio de Janeiro.",
+          "ar": "بالطبع! سأعيره لك بكل سرور."
+        }
+      ],
+      "answer": "Eu também. Eu gostaria de visitar o Rio de Janeiro.",
+      "accepted": [],
+      "audio": "Eu também. Eu gostaria de visitar o Rio de Janeiro.",
+      "explanation": {
+        "pt": "Você ouviu: 'Eu também. Eu gostaria de visitar o Rio de Janeiro.' — 'Me too. I would like to visit Rio de Janeiro.'",
+        "en": "You heard: 'Eu também. Eu gostaria de visitar o Rio de Janeiro.' — 'Me too. I would like to visit Rio de Janeiro.'",
+        "ar": "سمعت: 'Eu também. Eu gostaria de visitar o Rio de Janeiro.' — 'وأنا أيضاً. أودّ زيارة ريو دي جانيرو.'"
+      }
+    }
+  ],
+  "speaking": {
+    "title": {
+      "pt": "Fale Agora — Ouça e Repita",
+      "en": "Speak Now — Listen and Repeat",
+      "ar": "تحدث الآن — استمع وكرر"
+    },
+    "phrases": [
+      {
+        "pt": "Se eu tivesse dinheiro, viajaria para o Brasil.",
+        "en": "If I had money, I would travel to Brazil.",
+        "ar": "لو كان معي مال، لسافرت إلى البرازيل."
+      },
+      {
+        "pt": "Eu também. Eu gostaria de visitar o Rio de Janeiro.",
+        "en": "Me too. I would like to visit Rio de Janeiro.",
+        "ar": "وأنا أيضاً. أودّ زيارة ريو دي جانيرو."
+      },
+      {
+        "pt": "Você poderia me emprestar um guia de viagem?",
+        "en": "Could you lend me a travel guide?",
+        "ar": "هل يمكنك أن تعيرني دليلاً للسفر؟"
+      },
+      {
+        "pt": "Claro! Eu te emprestaria com prazer.",
+        "en": "Of course! I would gladly lend it to you.",
+        "ar": "بالطبع! سأعيره لك بكل سرور."
+      },
+      {
+        "pt": "Obrigada! Seria uma grande oportunidade.",
+        "en": "Thank you! It would be a great opportunity.",
+        "ar": "شكراً لك! ستكون فرصة عظيمة."
+      },
+      {
+        "pt": "Um dia nós viajaríamos juntos, com certeza.",
+        "en": "One day we would travel together, for sure.",
+        "ar": "في يومٍ ما سنسافر معاً، بالتأكيد."
+      },
+      {
+        "pt": "viajar",
+        "en": "to travel",
+        "ar": "يسافر"
+      },
+      {
+        "pt": "possível",
+        "en": "possible",
+        "ar": "ممكن"
+      },
+      {
+        "pt": "o convite",
+        "en": "the invitation",
+        "ar": "الدعوة"
+      }
+    ]
+  },
+  "cultural_tips": {
+    "pt": "",
+    "en": "",
+    "ar": ""
+  }
+}

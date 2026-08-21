@@ -1,0 +1,2119 @@
+{
+  "id": "C1-11",
+  "level": "C1",
+  "level_name": {
+    "pt": "Avançado",
+    "en": "Advanced",
+    "ar": "متقدم"
+  },
+  "title": {
+    "pt": "Debate e Opinião Crítica",
+    "en": "Debate and Critical Opinion",
+    "ar": "النقاش والرأي النقدي"
+  },
+  "objectives": [
+    {
+      "pt": "Participar de debates com argumentos organizados",
+      "en": "Take part in debates with organized arguments",
+      "ar": "المشاركة في النقاشات بحجج منظمة"
+    },
+    {
+      "pt": "Expressar opinião crítica e refutar ideias",
+      "en": "Express critical opinion and refute ideas",
+      "ar": "التعبير عن الرأي النقدي ودحض الأفكار"
+    },
+    {
+      "pt": "Usar marcadores discursivos de argumentação",
+      "en": "Use discursive markers of argumentation",
+      "ar": "استخدام أدوات الخطاب الحجاجي"
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "o debate",
+      "ipa": "/u deˈba.tʃi/",
+      "en": "the debate",
+      "ar": "النقاش",
+      "example": {
+        "pt": "No entanto, os dados mostram que o transporte público melhorou.",
+        "en": "However, the data show that public transport improved.",
+        "ar": "ومع ذلك، تظهر البيانات أن وسائل النقل العام تحسنت."
+      }
+    },
+    {
+      "pt": "a opinião",
+      "ipa": "/a o.pi.niˈɐ̃w/",
+      "en": "the opinion",
+      "ar": "الرأي",
+      "example": {
+        "pt": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
+        "en": "In short, the congestion rate only grows in big cities.",
+        "ar": "باختصار، معدل الازدحام يزداد فقط في المدن الكبرى."
+      }
+    },
+    {
+      "pt": "o argumento",
+      "ipa": "/u aʁ.ɡuˈmẽ.tu/",
+      "en": "the argument",
+      "ar": "الحجة",
+      "example": {
+        "pt": "No entanto, os dados mostram que o transporte público melhorou.",
+        "en": "However, the data show that public transport improved.",
+        "ar": "ومع ذلك، تظهر البيانات أن وسائل النقل العام تحسنت."
+      }
+    },
+    {
+      "pt": "a tese",
+      "ipa": "/a ˈtɛ.zi/",
+      "en": "the thesis",
+      "ar": "الأطروحة",
+      "example": {
+        "pt": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
+        "en": "In short, the congestion rate only grows in big cities.",
+        "ar": "باختصار، معدل الازدحام يزداد فقط في المدن الكبرى."
+      }
+    },
+    {
+      "pt": "a réplica",
+      "ipa": "/a ˈʁɛ.pli.ka/",
+      "en": "the rebuttal",
+      "ar": "الرد",
+      "example": {
+        "pt": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
+        "en": "In short, the congestion rate only grows in big cities.",
+        "ar": "باختصار، معدل الازدحام يزداد فقط في المدن الكبرى."
+      }
+    },
+    {
+      "pt": "o contraponto",
+      "ipa": "/u kõ.tɾaˈpõ.tu/",
+      "en": "the counterpoint",
+      "ar": "النقطة المقابلة",
+      "example": {
+        "pt": "No entanto, os dados mostram que o transporte público melhorou.",
+        "en": "However, the data show that public transport improved.",
+        "ar": "ومع ذلك، تظهر البيانات أن وسائل النقل العام تحسنت."
+      }
+    },
+    {
+      "pt": "convencer",
+      "ipa": "/kõ.vẽˈseɾ/",
+      "en": "to convince",
+      "ar": "يقنع",
+      "example": {
+        "pt": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
+        "en": "In short, the congestion rate only grows in big cities.",
+        "ar": "باختصار، معدل الازدحام يزداد فقط في المدن الكبرى."
+      }
+    },
+    {
+      "pt": "persuadir",
+      "ipa": "/peʁ.swaˈdʒiɾ/",
+      "en": "to persuade",
+      "ar": "يستمال، يقنع",
+      "example": {
+        "pt": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
+        "en": "In short, the congestion rate only grows in big cities.",
+        "ar": "باختصار، معدل الازدحام يزداد فقط في المدن الكبرى."
+      }
+    },
+    {
+      "pt": "a evidência",
+      "ipa": "/a e.viˈdẽ.si.a/",
+      "en": "the evidence",
+      "ar": "الدليل",
+      "example": {
+        "pt": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
+        "en": "In short, the congestion rate only grows in big cities.",
+        "ar": "باختصار، معدل الازدحام يزداد فقط في المدن الكبرى."
+      }
+    },
+    {
+      "pt": "a refutação",
+      "ipa": "/a ʁe.fu.taˈsɐ̃w/",
+      "en": "the refutation",
+      "ar": "الدحض",
+      "example": {
+        "pt": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
+        "en": "In short, the congestion rate only grows in big cities.",
+        "ar": "باختصار، معدل الازدحام يزداد فقط في المدن الكبرى."
+      }
+    },
+    {
+      "pt": "a ponderação",
+      "ipa": "/a põ.de.ɾaˈsɐ̃w/",
+      "en": "the consideration",
+      "ar": "الموازنة",
+      "example": {
+        "pt": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
+        "en": "In short, the congestion rate only grows in big cities.",
+        "ar": "باختصار، معدل الازدحام يزداد فقط في المدن الكبرى."
+      }
+    },
+    {
+      "pt": "o consenso",
+      "ipa": "/u kõˈsẽ.su/",
+      "en": "the consensus",
+      "ar": "الإجماع",
+      "example": {
+        "pt": "No entanto, os dados mostram que o transporte público melhorou.",
+        "en": "However, the data show that public transport improved.",
+        "ar": "ومع ذلك، تظهر البيانات أن وسائل النقل العام تحسنت."
+      }
+    },
+    {
+      "pt": "a divergência",
+      "ipa": "/a dʒi.veʁˈʒẽ.si.a/",
+      "en": "the disagreement",
+      "ar": "الاختلاف",
+      "example": {
+        "pt": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
+        "en": "In short, the congestion rate only grows in big cities.",
+        "ar": "باختصار، معدل الازدحام يزداد فقط في المدن الكبرى."
+      }
+    },
+    {
+      "pt": "defender",
+      "ipa": "/de.fẽˈdeɾ/",
+      "en": "to defend",
+      "ar": "يدافع عن",
+      "example": {
+        "pt": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
+        "en": "In short, the congestion rate only grows in big cities.",
+        "ar": "باختصار، معدل الازدحام يزداد فقط في المدن الكبرى."
+      }
+    },
+    {
+      "pt": "criticar",
+      "ipa": "/kɾi.tʃiˈkaɾ/",
+      "en": "to criticize",
+      "ar": "ينتقد",
+      "example": {
+        "pt": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
+        "en": "In short, the congestion rate only grows in big cities.",
+        "ar": "باختصار، معدل الازدحام يزداد فقط في المدن الكبرى."
+      }
+    },
+    {
+      "pt": "questionar",
+      "ipa": "/kes.tʃi.oˈnaɾ/",
+      "en": "to question",
+      "ar": "يشكك في، يستفهم",
+      "example": {
+        "pt": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
+        "en": "In short, the congestion rate only grows in big cities.",
+        "ar": "باختصار، معدل الازدحام يزداد فقط في المدن الكبرى."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "title": {
+        "pt": "Marcadores Discursivos de Argumentação",
+        "en": "Discursive Markers of Argumentation",
+        "ar": "أدوات الخطاب الحجاجي"
+      },
+      "explanation": {
+        "pt": "Para estruturar um debate, usam-se marcadores: 'por um lado' / 'por outro lado' (contraste), 'no entanto' e 'contudo' (oposição), 'além disso' (adição), 'em suma' (conclusão). Eles orientam o ouvinte e tornam a fala coesa. Ex.: 'Por um lado, a medida é justa; por outro, é cara'.",
+        "en": "To structure a debate, markers are used: 'por um lado' / 'por outro lado' (on one hand / on the other hand), 'no entanto' and 'contudo' (however), 'além disso' (furthermore), 'em suma' (in short). They guide the listener and make speech cohesive. E.g., 'Por um lado, a medida é justa; por outro, é cara' (On one hand, the measure is fair; on the other, it is expensive).",
+        "ar": "لتنظيم النقاش تُستخدم أدوات: 'por um lado' / 'por outro lado' (من جهة ومن جهة أخرى)، و'no entanto' و'contudo' (ومع ذلك)، و'além disso' (علاوة على ذلك)، و'em suma' (باختصار). وهي توجه المستمع وتجعل الكلام متماسكًا. مثال: 'Por um lado, a medida é justa; por outro, é cara'."
+      },
+      "examples": [
+        {
+          "pt": "Por um lado, a medida é justa; por outro, é cara.",
+          "en": "On one hand, the measure is fair; on the other, it is expensive.",
+          "ar": "من جهة، الإجراء عادل؛ ومن جهة أخرى، إنه مكلف."
+        },
+        {
+          "pt": "Ainda que haja críticas, o projeto avançou.",
+          "en": "Even though there is criticism, the project moved forward.",
+          "ar": "على الرغم من وجود انتقادات، فقد تقدم المشروع."
+        },
+        {
+          "pt": "No entanto, nem todos concordaram.",
+          "en": "However, not everyone agreed.",
+          "ar": "ومع ذلك، لم يتفق الجميع."
+        },
+        {
+          "pt": "Em suma, a decisão foi acertada.",
+          "en": "In short, the decision was right.",
+          "ar": "باختصار، كان القرار موفقًا."
+        }
+      ]
+    },
+    {
+      "title": {
+        "pt": "Concessão e Condição na Argumentação",
+        "en": "Concession and Condition in Argumentation",
+        "ar": "المقابل الشرطي والشروط في الحجاج"
+      },
+      "explanation": {
+        "pt": "No discurso argumentativo, a concessão admite um ponto do oponente sem abrir mão da própria tese: 'mesmo que', 'ainda que', 'por mais que'. A condição delimita o alcance da afirmação: 'se', 'caso', 'desde que', 'a menos que'. Combinados, eles tornam o argumento mais sofisticado e equilibrado.",
+        "en": "In argumentative discourse, concession acknowledges a point of the opponent without giving up one's own thesis: 'mesmo que', 'ainda que', 'por mais que'. Condition delimits the scope of the claim: 'se', 'caso', 'desde que', 'a menos que'. Combined, they make the argument more sophisticated and balanced.",
+        "ar": "في الخطاب الحجاجي، يُقِرّ المقابل الشرطي بنقطة من نقاط الخصم دون التخلي عن الأطروحة: 'mesmo que' و'ainda que' و'por mais que'. أما الشرط فيحدد نطاق الادعاء: 'se' و'caso' و'desde que' و'a menos que'. وعند الجمع بينهما يصبح الحجاج أكثر تعقيدًا وتوازنًا."
+      },
+      "examples": [
+        {
+          "pt": "Se considerarmos os dados, a conclusão muda.",
+          "en": "If we consider the data, the conclusion changes.",
+          "ar": "إذا نظرنا إلى البيانات، تتغير الخلاصة."
+        },
+        {
+          "pt": "Caso a proposta seja aprovada, todos ganham.",
+          "en": "Should the proposal be approved, everyone wins.",
+          "ar": "إذا اعتُمد الاقتراح، يكسب الجميع."
+        },
+        {
+          "pt": "Mesmo que o orçamento diminua, vamos investir.",
+          "en": "Even if the budget shrinks, we will invest.",
+          "ar": "حتى لو انخفضت الميزانية، سنستثمر."
+        },
+        {
+          "pt": "A menos que haja novas informações, a tese permanece.",
+          "en": "Unless there is new information, the thesis stands.",
+          "ar": "ما لم تتوفر معلومات جديدة، تبقى الأطروحة قائمة."
+        }
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": {
+      "pt": "Debate Sobre o Trânsito",
+      "en": "Debate About Traffic",
+      "ar": "نقاش حول الازدحام المروري"
+    },
+    "lines": [
+      {
+        "speaker": "Lívia",
+        "pt": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
+        "en": "In short, the congestion rate only grows in big cities.",
+        "ar": "باختصار، معدل الازدحام يزداد فقط في المدن الكبرى."
+      },
+      {
+        "speaker": "Caio",
+        "pt": "No entanto, os dados mostram que o transporte público melhorou.",
+        "en": "However, the data show that public transport improved.",
+        "ar": "ومع ذلك، تظهر البيانات أن وسائل النقل العام تحسنت."
+      },
+      {
+        "speaker": "Lívia",
+        "pt": "Por um lado, é verdade; por outro, os carros particulares ainda dominam.",
+        "en": "On one hand, that is true; on the other, private cars still dominate.",
+        "ar": "من جهة، هذا صحيح؛ ومن جهة أخرى، ما تزال السيارات الخاصة تهيمن."
+      },
+      {
+        "speaker": "Caio",
+        "pt": "Ainda que seja caro, o pedágio urbano poderia reduzir o fluxo.",
+        "en": "Even though it is expensive, urban tolls could reduce the flow.",
+        "ar": "على الرغم من كلفته، قد يقلل رسم المرور الحضري من التدفق."
+      },
+      {
+        "speaker": "Lívia",
+        "pt": "Caso o preço seja alto, a medida castiga os mais pobres.",
+        "en": "Should the price be high, the measure punishes the poorest.",
+        "ar": "إذا كان السعر مرتفعًا، فسيضر الإجراء بالفقراء."
+      },
+      {
+        "speaker": "Caio",
+        "pt": "Concordo, desde que o subsídio proteja quem mais precisa.",
+        "en": "I agree, as long as the subsidy protects those who need it most.",
+        "ar": "أوافق، بشرط أن يحمي الدعم من هم في أمس الحاجة إليه."
+      }
+    ]
+  },
+  "reading": {
+    "title": {
+      "pt": "A Arte de Argumentar",
+      "en": "The Art of Arguing",
+      "ar": "فن الحجاج"
+    },
+    "text_pt": "Um bom debate não vence pelo grito, mas pela qualidade dos argumentos. As evidências sustentam a tese, e a réplica respeitosa refuta o contraponto. Quem domina os marcadores discursivos conduz a discussão com clareza. No fim, o que importa não é vencer, mas iluminar a questão.",
+    "text_en": "A good debate is not won by shouting, but by the quality of the arguments. Evidence supports the thesis, and a respectful rebuttal refutes the counterpoint. Those who master discursive markers conduct the discussion with clarity. In the end, what matters is not winning, but shedding light on the issue.",
+    "text_ar": "لا يُكسب النقاش الجيد بالصراخ، بل بجودة الحجج. الأدلة تسند الأطروحة، والرد المحترم يدحض النقطة المقابلة. ومن يتقن أدوات الخطاب الحجاجي يقود المناقشة بوضوح. وفي النهاية، المهم ليس الفوز، بل إلقاء الضوء على القضية."
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual marcador expressa contraste entre duas ideias?",
+        "en": "Which marker expresses contrast between two ideas?",
+        "ar": "أي أداة تعبر عن التباين بين فكرتين؟"
+      },
+      "options": [
+        {
+          "pt": "por um lado ... por outro lado",
+          "en": "por um lado ... por outro lado",
+          "ar": "por um lado ... por outro lado"
+        },
+        {
+          "pt": "além disso",
+          "en": "além disso",
+          "ar": "além disso"
+        },
+        {
+          "pt": "em suma",
+          "en": "em suma",
+          "ar": "em suma"
+        }
+      ],
+      "answer": "por um lado ... por outro lado",
+      "explanation": {
+        "pt": "'Por um lado ... por outro lado' apresenta dois lados de uma questão.",
+        "en": "'Por um lado ... por outro lado' presents two sides of an issue.",
+        "ar": "'por um lado ... por outro lado' تعرض جانبي القضية."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Complete: '______ chova, a caminhada será feita.'",
+        "en": "Complete: '______ chova, a caminhada será feita.'",
+        "ar": "أكمل: '______ chova, a caminhada será feita.'"
+      },
+      "options": [
+        {
+          "pt": "Mesmo que",
+          "en": "Mesmo que",
+          "ar": "Mesmo que"
+        },
+        {
+          "pt": "Porque",
+          "en": "Porque",
+          "ar": "Porque"
+        },
+        {
+          "pt": "Logo",
+          "en": "Logo",
+          "ar": "Logo"
+        }
+      ],
+      "answer": "Mesmo que",
+      "explanation": {
+        "pt": "'Mesmo que' + subjuntivo 'chova' expressa concessão.",
+        "en": "'Mesmo que' + subjunctive 'chova' expresses concession.",
+        "ar": "'mesmo que' + صيغة الشرط 'chova' تعبر عن المقابل الشرطي."
+      }
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza: 'In short, the decision was the fairest possible.'",
+        "en": "Translate: 'In short, the decision was the fairest possible.'",
+        "ar": "ترجم: 'In short, the decision was the fairest possible.'"
+      },
+      "options": [],
+      "answer": "Em suma, a decisão foi a mais justa possível.",
+      "explanation": {
+        "pt": "'Em suma' introduz a conclusão; 'o mais justo possível' é o superlativo.",
+        "en": "'Em suma' introduces the conclusion; 'o mais justo possível' is the superlative.",
+        "ar": "'em suma' تقدم الخلاصة، و'o mais justo possível' هي صيغة التفضيل."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "cidades.",
+          "en": "cidades.",
+          "ar": "cidades."
+        },
+        {
+          "pt": "taxa",
+          "en": "taxa",
+          "ar": "taxa"
+        },
+        {
+          "pt": "grandes",
+          "en": "grandes",
+          "ar": "grandes"
+        },
+        {
+          "pt": "congestionamento",
+          "en": "congestionamento",
+          "ar": "congestionamento"
+        },
+        {
+          "pt": "Em",
+          "en": "Em",
+          "ar": "Em"
+        },
+        {
+          "pt": "suma,",
+          "en": "suma,",
+          "ar": "suma,"
+        },
+        {
+          "pt": "nas",
+          "en": "nas",
+          "ar": "nas"
+        },
+        {
+          "pt": "só",
+          "en": "só",
+          "ar": "só"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "cresce",
+          "en": "cresce",
+          "ar": "cresce"
+        }
+      ],
+      "answer": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
+      "accepted": [
+        "Em suma, a taxa de congestionamento só cresce nas grandes cidades."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Em suma, a taxa de congestionamento só cresce nas grandes cidades.'",
+        "en": "The correct order: 'In short, the congestion rate only grows in big cities.'",
+        "ar": "الترتيب الصحيح: 'باختصار، معدل الازدحام يزداد فقط في المدن الكبرى.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a opinião",
+          "en": "the opinion",
+          "ar": "a opinião"
+        },
+        {
+          "pt": "a tese",
+          "en": "the argument",
+          "ar": "a tese"
+        },
+        {
+          "pt": "o contraponto",
+          "en": "the rebuttal",
+          "ar": "o contraponto"
+        },
+        {
+          "pt": "o debate",
+          "en": "the counterpoint",
+          "ar": "o debate"
+        },
+        {
+          "pt": "o argumento",
+          "en": "the debate",
+          "ar": "o argumento"
+        },
+        {
+          "pt": "a réplica",
+          "en": "the thesis",
+          "ar": "a réplica"
+        }
+      ],
+      "answer": "a opinião::the opinion|a tese::the argument|o contraponto::the rebuttal|o debate::the counterpoint|o argumento::the debate|a réplica::the thesis",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "No entanto, os dados mostram que o transporte público melhorou.",
+          "en": "In short, the congestion rate only grows in big cities.",
+          "ar": "ومع ذلك، تظهر البيانات أن وسائل النقل العام تحسنت."
+        },
+        {
+          "pt": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
+          "en": "However, the data show that public transport improved.",
+          "ar": "أوافق، بشرط أن يحمي الدعم من هم في أمس الحاجة إليه."
+        },
+        {
+          "pt": "Concordo, desde que o subsídio proteja quem mais precisa.",
+          "en": "I agree, as long as the subsidy protects those who need it most.",
+          "ar": "باختصار، معدل الازدحام يزداد فقط في المدن الكبرى."
+        }
+      ],
+      "answer": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
+      "accepted": [],
+      "audio": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
+      "explanation": {
+        "pt": "Você ouviu: 'Em suma, a taxa de congestionamento só cresce nas grandes cidades.' — 'In short, the congestion rate only grows in big cities.'",
+        "en": "You heard: 'Em suma, a taxa de congestionamento só cresce nas grandes cidades.' — 'In short, the congestion rate only grows in big cities.'",
+        "ar": "سمعت: 'Em suma, a taxa de congestionamento só cresce nas grandes cidades.' — 'باختصار، معدل الازدحام يزداد فقط في المدن الكبرى.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Caso o preço seja alto, a medida castiga os mais pobres.",
+          "en": "Should the price be high, the measure punishes the poorest.",
+          "ar": "ومع ذلك، تظهر البيانات أن وسائل النقل العام تحسنت."
+        },
+        {
+          "pt": "No entanto, os dados mostram que o transporte público melhorou.",
+          "en": "However, the data show that public transport improved.",
+          "ar": "إذا كان السعر مرتفعًا، فسيضر الإجراء بالفقراء."
+        },
+        {
+          "pt": "Por um lado, é verdade; por outro, os carros particulares ainda dominam.",
+          "en": "On one hand, that is true; on the other, private cars still dominate.",
+          "ar": "من جهة، هذا صحيح؛ ومن جهة أخرى، ما تزال السيارات الخاصة تهيمن."
+        }
+      ],
+      "answer": "No entanto, os dados mostram que o transporte público melhorou.",
+      "accepted": [],
+      "audio": "No entanto, os dados mostram que o transporte público melhorou.",
+      "explanation": {
+        "pt": "Você ouviu: 'No entanto, os dados mostram que o transporte público melhorou.' — 'However, the data show that public transport improved.'",
+        "en": "You heard: 'No entanto, os dados mostram que o transporte público melhorou.' — 'However, the data show that public transport improved.'",
+        "ar": "سمعت: 'No entanto, os dados mostram que o transporte público melhorou.' — 'ومع ذلك، تظهر البيانات أن وسائل النقل العام تحسنت.'"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Por um lado, a medida é justa; por ___ é cara.",
+        "en": "Por um lado, a medida é justa; por ___ é cara.",
+        "ar": "Por um lado, a medida é justa; por ___ é cara."
+      },
+      "options": [
+        {
+          "pt": "nem",
+          "en": "nem",
+          "ar": "nem"
+        },
+        {
+          "pt": "decisão",
+          "en": "decisão",
+          "ar": "decisão"
+        },
+        {
+          "pt": "outro,",
+          "en": "outro,",
+          "ar": "outro,"
+        }
+      ],
+      "answer": "outro,",
+      "accepted": [],
+      "explanation": {
+        "pt": "A resposta é 'outro,'. Frase completa: Por um lado, a medida é justa; por outro, é cara.",
+        "en": "The answer is 'outro,'. Full sentence: On one hand, the measure is fair; on the other, it is expensive.",
+        "ar": "الإجابة الصحيحة: 'outro,'. الجملة كاملة: من جهة، الإجراء عادل؛ ومن جهة أخرى، إنه مكلف."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "só",
+          "en": "só",
+          "ar": "só"
+        },
+        {
+          "pt": "grandes",
+          "en": "grandes",
+          "ar": "grandes"
+        },
+        {
+          "pt": "nas",
+          "en": "nas",
+          "ar": "nas"
+        },
+        {
+          "pt": "cresce",
+          "en": "cresce",
+          "ar": "cresce"
+        },
+        {
+          "pt": "congestionamento",
+          "en": "congestionamento",
+          "ar": "congestionamento"
+        },
+        {
+          "pt": "cidades.",
+          "en": "cidades.",
+          "ar": "cidades."
+        },
+        {
+          "pt": "taxa",
+          "en": "taxa",
+          "ar": "taxa"
+        },
+        {
+          "pt": "suma,",
+          "en": "suma,",
+          "ar": "suma,"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "Em",
+          "en": "Em",
+          "ar": "Em"
+        }
+      ],
+      "answer": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
+      "accepted": [
+        "Em suma, a taxa de congestionamento só cresce nas grandes cidades."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Em suma, a taxa de congestionamento só cresce nas grandes cidades.'",
+        "en": "The correct order: 'In short, the congestion rate only grows in big cities.'",
+        "ar": "الترتيب الصحيح: 'باختصار، معدل الازدحام يزداد فقط في المدن الكبرى.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o contraponto",
+          "en": "the debate",
+          "ar": "o contraponto"
+        },
+        {
+          "pt": "o argumento",
+          "en": "the opinion",
+          "ar": "o argumento"
+        },
+        {
+          "pt": "o debate",
+          "en": "the argument",
+          "ar": "o debate"
+        },
+        {
+          "pt": "a opinião",
+          "en": "the counterpoint",
+          "ar": "a opinião"
+        },
+        {
+          "pt": "a réplica",
+          "en": "the thesis",
+          "ar": "a réplica"
+        },
+        {
+          "pt": "a tese",
+          "en": "the rebuttal",
+          "ar": "a tese"
+        }
+      ],
+      "answer": "o contraponto::the debate|o argumento::the opinion|o debate::the argument|a opinião::the counterpoint|a réplica::the thesis|a tese::the rebuttal",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "No entanto, os dados mostram que o transporte público melhorou.",
+          "en": "In short, the congestion rate only grows in big cities.",
+          "ar": "من جهة، هذا صحيح؛ ومن جهة أخرى، ما تزال السيارات الخاصة تهيمن."
+        },
+        {
+          "pt": "Por um lado, é verdade; por outro, os carros particulares ainda dominam.",
+          "en": "On one hand, that is true; on the other, private cars still dominate.",
+          "ar": "باختصار، معدل الازدحام يزداد فقط في المدن الكبرى."
+        },
+        {
+          "pt": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
+          "en": "However, the data show that public transport improved.",
+          "ar": "ومع ذلك، تظهر البيانات أن وسائل النقل العام تحسنت."
+        }
+      ],
+      "answer": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
+      "accepted": [],
+      "audio": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
+      "explanation": {
+        "pt": "Você ouviu: 'Em suma, a taxa de congestionamento só cresce nas grandes cidades.' — 'In short, the congestion rate only grows in big cities.'",
+        "en": "You heard: 'Em suma, a taxa de congestionamento só cresce nas grandes cidades.' — 'In short, the congestion rate only grows in big cities.'",
+        "ar": "سمعت: 'Em suma, a taxa de congestionamento só cresce nas grandes cidades.' — 'باختصار، معدل الازدحام يزداد فقط في المدن الكبرى.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Ainda que seja caro, o pedágio urbano poderia reduzir o fluxo.",
+          "en": "Even though it is expensive, urban tolls could reduce the flow.",
+          "ar": "ومع ذلك، تظهر البيانات أن وسائل النقل العام تحسنت."
+        },
+        {
+          "pt": "Concordo, desde que o subsídio proteja quem mais precisa.",
+          "en": "However, the data show that public transport improved.",
+          "ar": "أوافق، بشرط أن يحمي الدعم من هم في أمس الحاجة إليه."
+        },
+        {
+          "pt": "No entanto, os dados mostram que o transporte público melhorou.",
+          "en": "I agree, as long as the subsidy protects those who need it most.",
+          "ar": "على الرغم من كلفته، قد يقلل رسم المرور الحضري من التدفق."
+        }
+      ],
+      "answer": "No entanto, os dados mostram que o transporte público melhorou.",
+      "accepted": [],
+      "audio": "No entanto, os dados mostram que o transporte público melhorou.",
+      "explanation": {
+        "pt": "Você ouviu: 'No entanto, os dados mostram que o transporte público melhorou.' — 'However, the data show that public transport improved.'",
+        "en": "You heard: 'No entanto, os dados mostram que o transporte público melhorou.' — 'However, the data show that public transport improved.'",
+        "ar": "سمعت: 'No entanto, os dados mostram que o transporte público melhorou.' — 'ومع ذلك، تظهر البيانات أن وسائل النقل العام تحسنت.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Em",
+          "en": "Em",
+          "ar": "Em"
+        },
+        {
+          "pt": "cidades.",
+          "en": "cidades.",
+          "ar": "cidades."
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "nas",
+          "en": "nas",
+          "ar": "nas"
+        },
+        {
+          "pt": "congestionamento",
+          "en": "congestionamento",
+          "ar": "congestionamento"
+        },
+        {
+          "pt": "taxa",
+          "en": "taxa",
+          "ar": "taxa"
+        },
+        {
+          "pt": "suma,",
+          "en": "suma,",
+          "ar": "suma,"
+        },
+        {
+          "pt": "só",
+          "en": "só",
+          "ar": "só"
+        },
+        {
+          "pt": "grandes",
+          "en": "grandes",
+          "ar": "grandes"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "cresce",
+          "en": "cresce",
+          "ar": "cresce"
+        }
+      ],
+      "answer": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
+      "accepted": [
+        "Em suma, a taxa de congestionamento só cresce nas grandes cidades."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Em suma, a taxa de congestionamento só cresce nas grandes cidades.'",
+        "en": "The correct order: 'In short, the congestion rate only grows in big cities.'",
+        "ar": "الترتيب الصحيح: 'باختصار، معدل الازدحام يزداد فقط في المدن الكبرى.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o debate",
+          "en": "the argument",
+          "ar": "o debate"
+        },
+        {
+          "pt": "a tese",
+          "en": "the rebuttal",
+          "ar": "a tese"
+        },
+        {
+          "pt": "a réplica",
+          "en": "the thesis",
+          "ar": "a réplica"
+        },
+        {
+          "pt": "o argumento",
+          "en": "the debate",
+          "ar": "o argumento"
+        },
+        {
+          "pt": "a opinião",
+          "en": "the opinion",
+          "ar": "a opinião"
+        },
+        {
+          "pt": "o contraponto",
+          "en": "the counterpoint",
+          "ar": "o contraponto"
+        }
+      ],
+      "answer": "o debate::the argument|a tese::the rebuttal|a réplica::the thesis|o argumento::the debate|a opinião::the opinion|o contraponto::the counterpoint",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Concordo, desde que o subsídio proteja quem mais precisa.",
+          "en": "In short, the congestion rate only grows in big cities.",
+          "ar": "أوافق، بشرط أن يحمي الدعم من هم في أمس الحاجة إليه."
+        },
+        {
+          "pt": "Caso o preço seja alto, a medida castiga os mais pobres.",
+          "en": "Should the price be high, the measure punishes the poorest.",
+          "ar": "إذا كان السعر مرتفعًا، فسيضر الإجراء بالفقراء."
+        },
+        {
+          "pt": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
+          "en": "I agree, as long as the subsidy protects those who need it most.",
+          "ar": "باختصار، معدل الازدحام يزداد فقط في المدن الكبرى."
+        }
+      ],
+      "answer": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
+      "accepted": [],
+      "audio": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
+      "explanation": {
+        "pt": "Você ouviu: 'Em suma, a taxa de congestionamento só cresce nas grandes cidades.' — 'In short, the congestion rate only grows in big cities.'",
+        "en": "You heard: 'Em suma, a taxa de congestionamento só cresce nas grandes cidades.' — 'In short, the congestion rate only grows in big cities.'",
+        "ar": "سمعت: 'Em suma, a taxa de congestionamento só cresce nas grandes cidades.' — 'باختصار، معدل الازدحام يزداد فقط في المدن الكبرى.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Ainda que seja caro, o pedágio urbano poderia reduzir o fluxo.",
+          "en": "In short, the congestion rate only grows in big cities.",
+          "ar": "على الرغم من كلفته، قد يقلل رسم المرور الحضري من التدفق."
+        },
+        {
+          "pt": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
+          "en": "Even though it is expensive, urban tolls could reduce the flow.",
+          "ar": "باختصار، معدل الازدحام يزداد فقط في المدن الكبرى."
+        },
+        {
+          "pt": "No entanto, os dados mostram que o transporte público melhorou.",
+          "en": "However, the data show that public transport improved.",
+          "ar": "ومع ذلك، تظهر البيانات أن وسائل النقل العام تحسنت."
+        }
+      ],
+      "answer": "No entanto, os dados mostram que o transporte público melhorou.",
+      "accepted": [],
+      "audio": "No entanto, os dados mostram que o transporte público melhorou.",
+      "explanation": {
+        "pt": "Você ouviu: 'No entanto, os dados mostram que o transporte público melhorou.' — 'However, the data show that public transport improved.'",
+        "en": "You heard: 'No entanto, os dados mostram que o transporte público melhorou.' — 'However, the data show that public transport improved.'",
+        "ar": "سمعت: 'No entanto, os dados mostram que o transporte público melhorou.' — 'ومع ذلك، تظهر البيانات أن وسائل النقل العام تحسنت.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "congestionamento",
+          "en": "congestionamento",
+          "ar": "congestionamento"
+        },
+        {
+          "pt": "grandes",
+          "en": "grandes",
+          "ar": "grandes"
+        },
+        {
+          "pt": "cidades.",
+          "en": "cidades.",
+          "ar": "cidades."
+        },
+        {
+          "pt": "suma,",
+          "en": "suma,",
+          "ar": "suma,"
+        },
+        {
+          "pt": "cresce",
+          "en": "cresce",
+          "ar": "cresce"
+        },
+        {
+          "pt": "nas",
+          "en": "nas",
+          "ar": "nas"
+        },
+        {
+          "pt": "só",
+          "en": "só",
+          "ar": "só"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "Em",
+          "en": "Em",
+          "ar": "Em"
+        },
+        {
+          "pt": "taxa",
+          "en": "taxa",
+          "ar": "taxa"
+        }
+      ],
+      "answer": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
+      "accepted": [
+        "Em suma, a taxa de congestionamento só cresce nas grandes cidades."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Em suma, a taxa de congestionamento só cresce nas grandes cidades.'",
+        "en": "The correct order: 'In short, the congestion rate only grows in big cities.'",
+        "ar": "الترتيب الصحيح: 'باختصار، معدل الازدحام يزداد فقط في المدن الكبرى.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o debate",
+          "en": "the debate",
+          "ar": "o debate"
+        },
+        {
+          "pt": "a opinião",
+          "en": "the thesis",
+          "ar": "a opinião"
+        },
+        {
+          "pt": "o argumento",
+          "en": "the argument",
+          "ar": "o argumento"
+        },
+        {
+          "pt": "a réplica",
+          "en": "the opinion",
+          "ar": "a réplica"
+        },
+        {
+          "pt": "a tese",
+          "en": "the rebuttal",
+          "ar": "a tese"
+        },
+        {
+          "pt": "o contraponto",
+          "en": "the counterpoint",
+          "ar": "o contraponto"
+        }
+      ],
+      "answer": "o debate::the debate|a opinião::the thesis|o argumento::the argument|a réplica::the opinion|a tese::the rebuttal|o contraponto::the counterpoint",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Por um lado, é verdade; por outro, os carros particulares ainda dominam.",
+          "en": "In short, the congestion rate only grows in big cities.",
+          "ar": "على الرغم من كلفته، قد يقلل رسم المرور الحضري من التدفق."
+        },
+        {
+          "pt": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
+          "en": "On one hand, that is true; on the other, private cars still dominate.",
+          "ar": "من جهة، هذا صحيح؛ ومن جهة أخرى، ما تزال السيارات الخاصة تهيمن."
+        },
+        {
+          "pt": "Ainda que seja caro, o pedágio urbano poderia reduzir o fluxo.",
+          "en": "Even though it is expensive, urban tolls could reduce the flow.",
+          "ar": "باختصار، معدل الازدحام يزداد فقط في المدن الكبرى."
+        }
+      ],
+      "answer": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
+      "accepted": [],
+      "audio": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
+      "explanation": {
+        "pt": "Você ouviu: 'Em suma, a taxa de congestionamento só cresce nas grandes cidades.' — 'In short, the congestion rate only grows in big cities.'",
+        "en": "You heard: 'Em suma, a taxa de congestionamento só cresce nas grandes cidades.' — 'In short, the congestion rate only grows in big cities.'",
+        "ar": "سمعت: 'Em suma, a taxa de congestionamento só cresce nas grandes cidades.' — 'باختصار، معدل الازدحام يزداد فقط في المدن الكبرى.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Concordo, desde que o subsídio proteja quem mais precisa.",
+          "en": "I agree, as long as the subsidy protects those who need it most.",
+          "ar": "ومع ذلك، تظهر البيانات أن وسائل النقل العام تحسنت."
+        },
+        {
+          "pt": "No entanto, os dados mostram que o transporte público melhorou.",
+          "en": "On one hand, that is true; on the other, private cars still dominate.",
+          "ar": "أوافق، بشرط أن يحمي الدعم من هم في أمس الحاجة إليه."
+        },
+        {
+          "pt": "Por um lado, é verdade; por outro, os carros particulares ainda dominam.",
+          "en": "However, the data show that public transport improved.",
+          "ar": "من جهة، هذا صحيح؛ ومن جهة أخرى، ما تزال السيارات الخاصة تهيمن."
+        }
+      ],
+      "answer": "No entanto, os dados mostram que o transporte público melhorou.",
+      "accepted": [],
+      "audio": "No entanto, os dados mostram que o transporte público melhorou.",
+      "explanation": {
+        "pt": "Você ouviu: 'No entanto, os dados mostram que o transporte público melhorou.' — 'However, the data show that public transport improved.'",
+        "en": "You heard: 'No entanto, os dados mostram que o transporte público melhorou.' — 'However, the data show that public transport improved.'",
+        "ar": "سمعت: 'No entanto, os dados mostram que o transporte público melhorou.' — 'ومع ذلك، تظهر البيانات أن وسائل النقل العام تحسنت.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Em",
+          "en": "Em",
+          "ar": "Em"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "grandes",
+          "en": "grandes",
+          "ar": "grandes"
+        },
+        {
+          "pt": "suma,",
+          "en": "suma,",
+          "ar": "suma,"
+        },
+        {
+          "pt": "cresce",
+          "en": "cresce",
+          "ar": "cresce"
+        },
+        {
+          "pt": "congestionamento",
+          "en": "congestionamento",
+          "ar": "congestionamento"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "nas",
+          "en": "nas",
+          "ar": "nas"
+        },
+        {
+          "pt": "só",
+          "en": "só",
+          "ar": "só"
+        },
+        {
+          "pt": "cidades.",
+          "en": "cidades.",
+          "ar": "cidades."
+        },
+        {
+          "pt": "taxa",
+          "en": "taxa",
+          "ar": "taxa"
+        }
+      ],
+      "answer": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
+      "accepted": [
+        "Em suma, a taxa de congestionamento só cresce nas grandes cidades."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Em suma, a taxa de congestionamento só cresce nas grandes cidades.'",
+        "en": "The correct order: 'In short, the congestion rate only grows in big cities.'",
+        "ar": "الترتيب الصحيح: 'باختصار، معدل الازدحام يزداد فقط في المدن الكبرى.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o argumento",
+          "en": "the argument",
+          "ar": "o argumento"
+        },
+        {
+          "pt": "o contraponto",
+          "en": "the opinion",
+          "ar": "o contraponto"
+        },
+        {
+          "pt": "a réplica",
+          "en": "the rebuttal",
+          "ar": "a réplica"
+        },
+        {
+          "pt": "a tese",
+          "en": "the thesis",
+          "ar": "a tese"
+        },
+        {
+          "pt": "a opinião",
+          "en": "the debate",
+          "ar": "a opinião"
+        },
+        {
+          "pt": "o debate",
+          "en": "the counterpoint",
+          "ar": "o debate"
+        }
+      ],
+      "answer": "o argumento::the argument|o contraponto::the opinion|a réplica::the rebuttal|a tese::the thesis|a opinião::the debate|o debate::the counterpoint",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
+          "en": "However, the data show that public transport improved.",
+          "ar": "ومع ذلك، تظهر البيانات أن وسائل النقل العام تحسنت."
+        },
+        {
+          "pt": "Caso o preço seja alto, a medida castiga os mais pobres.",
+          "en": "In short, the congestion rate only grows in big cities.",
+          "ar": "باختصار، معدل الازدحام يزداد فقط في المدن الكبرى."
+        },
+        {
+          "pt": "No entanto, os dados mostram que o transporte público melhorou.",
+          "en": "Should the price be high, the measure punishes the poorest.",
+          "ar": "إذا كان السعر مرتفعًا، فسيضر الإجراء بالفقراء."
+        }
+      ],
+      "answer": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
+      "accepted": [],
+      "audio": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
+      "explanation": {
+        "pt": "Você ouviu: 'Em suma, a taxa de congestionamento só cresce nas grandes cidades.' — 'In short, the congestion rate only grows in big cities.'",
+        "en": "You heard: 'Em suma, a taxa de congestionamento só cresce nas grandes cidades.' — 'In short, the congestion rate only grows in big cities.'",
+        "ar": "سمعت: 'Em suma, a taxa de congestionamento só cresce nas grandes cidades.' — 'باختصار، معدل الازدحام يزداد فقط في المدن الكبرى.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "No entanto, os dados mostram que o transporte público melhorou.",
+          "en": "However, the data show that public transport improved.",
+          "ar": "من جهة، هذا صحيح؛ ومن جهة أخرى، ما تزال السيارات الخاصة تهيمن."
+        },
+        {
+          "pt": "Por um lado, é verdade; por outro, os carros particulares ainda dominam.",
+          "en": "On one hand, that is true; on the other, private cars still dominate.",
+          "ar": "أوافق، بشرط أن يحمي الدعم من هم في أمس الحاجة إليه."
+        },
+        {
+          "pt": "Concordo, desde que o subsídio proteja quem mais precisa.",
+          "en": "I agree, as long as the subsidy protects those who need it most.",
+          "ar": "ومع ذلك، تظهر البيانات أن وسائل النقل العام تحسنت."
+        }
+      ],
+      "answer": "No entanto, os dados mostram que o transporte público melhorou.",
+      "accepted": [],
+      "audio": "No entanto, os dados mostram que o transporte público melhorou.",
+      "explanation": {
+        "pt": "Você ouviu: 'No entanto, os dados mostram que o transporte público melhorou.' — 'However, the data show that public transport improved.'",
+        "en": "You heard: 'No entanto, os dados mostram que o transporte público melhorou.' — 'However, the data show that public transport improved.'",
+        "ar": "سمعت: 'No entanto, os dados mostram que o transporte público melhorou.' — 'ومع ذلك، تظهر البيانات أن وسائل النقل العام تحسنت.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "nas",
+          "en": "nas",
+          "ar": "nas"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "congestionamento",
+          "en": "congestionamento",
+          "ar": "congestionamento"
+        },
+        {
+          "pt": "suma,",
+          "en": "suma,",
+          "ar": "suma,"
+        },
+        {
+          "pt": "taxa",
+          "en": "taxa",
+          "ar": "taxa"
+        },
+        {
+          "pt": "Em",
+          "en": "Em",
+          "ar": "Em"
+        },
+        {
+          "pt": "grandes",
+          "en": "grandes",
+          "ar": "grandes"
+        },
+        {
+          "pt": "cidades.",
+          "en": "cidades.",
+          "ar": "cidades."
+        },
+        {
+          "pt": "cresce",
+          "en": "cresce",
+          "ar": "cresce"
+        },
+        {
+          "pt": "só",
+          "en": "só",
+          "ar": "só"
+        }
+      ],
+      "answer": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
+      "accepted": [
+        "Em suma, a taxa de congestionamento só cresce nas grandes cidades."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Em suma, a taxa de congestionamento só cresce nas grandes cidades.'",
+        "en": "The correct order: 'In short, the congestion rate only grows in big cities.'",
+        "ar": "الترتيب الصحيح: 'باختصار، معدل الازدحام يزداد فقط في المدن الكبرى.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o contraponto",
+          "en": "the debate",
+          "ar": "o contraponto"
+        },
+        {
+          "pt": "a opinião",
+          "en": "the opinion",
+          "ar": "a opinião"
+        },
+        {
+          "pt": "o argumento",
+          "en": "the counterpoint",
+          "ar": "o argumento"
+        },
+        {
+          "pt": "a réplica",
+          "en": "the thesis",
+          "ar": "a réplica"
+        },
+        {
+          "pt": "o debate",
+          "en": "the argument",
+          "ar": "o debate"
+        },
+        {
+          "pt": "a tese",
+          "en": "the rebuttal",
+          "ar": "a tese"
+        }
+      ],
+      "answer": "o contraponto::the debate|a opinião::the opinion|o argumento::the counterpoint|a réplica::the thesis|o debate::the argument|a tese::the rebuttal",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
+          "en": "Should the price be high, the measure punishes the poorest.",
+          "ar": "من جهة، هذا صحيح؛ ومن جهة أخرى، ما تزال السيارات الخاصة تهيمن."
+        },
+        {
+          "pt": "Caso o preço seja alto, a medida castiga os mais pobres.",
+          "en": "In short, the congestion rate only grows in big cities.",
+          "ar": "باختصار، معدل الازدحام يزداد فقط في المدن الكبرى."
+        },
+        {
+          "pt": "Por um lado, é verdade; por outro, os carros particulares ainda dominam.",
+          "en": "On one hand, that is true; on the other, private cars still dominate.",
+          "ar": "إذا كان السعر مرتفعًا، فسيضر الإجراء بالفقراء."
+        }
+      ],
+      "answer": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
+      "accepted": [],
+      "audio": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
+      "explanation": {
+        "pt": "Você ouviu: 'Em suma, a taxa de congestionamento só cresce nas grandes cidades.' — 'In short, the congestion rate only grows in big cities.'",
+        "en": "You heard: 'Em suma, a taxa de congestionamento só cresce nas grandes cidades.' — 'In short, the congestion rate only grows in big cities.'",
+        "ar": "سمعت: 'Em suma, a taxa de congestionamento só cresce nas grandes cidades.' — 'باختصار، معدل الازدحام يزداد فقط في المدن الكبرى.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Por um lado, é verdade; por outro, os carros particulares ainda dominam.",
+          "en": "However, the data show that public transport improved.",
+          "ar": "من جهة، هذا صحيح؛ ومن جهة أخرى، ما تزال السيارات الخاصة تهيمن."
+        },
+        {
+          "pt": "No entanto, os dados mostram que o transporte público melhorou.",
+          "en": "On one hand, that is true; on the other, private cars still dominate.",
+          "ar": "ومع ذلك، تظهر البيانات أن وسائل النقل العام تحسنت."
+        },
+        {
+          "pt": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
+          "en": "In short, the congestion rate only grows in big cities.",
+          "ar": "باختصار، معدل الازدحام يزداد فقط في المدن الكبرى."
+        }
+      ],
+      "answer": "No entanto, os dados mostram que o transporte público melhorou.",
+      "accepted": [],
+      "audio": "No entanto, os dados mostram que o transporte público melhorou.",
+      "explanation": {
+        "pt": "Você ouviu: 'No entanto, os dados mostram que o transporte público melhorou.' — 'However, the data show that public transport improved.'",
+        "en": "You heard: 'No entanto, os dados mostram que o transporte público melhorou.' — 'However, the data show that public transport improved.'",
+        "ar": "سمعت: 'No entanto, os dados mostram que o transporte público melhorou.' — 'ومع ذلك، تظهر البيانات أن وسائل النقل العام تحسنت.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "só",
+          "en": "só",
+          "ar": "só"
+        },
+        {
+          "pt": "Em",
+          "en": "Em",
+          "ar": "Em"
+        },
+        {
+          "pt": "grandes",
+          "en": "grandes",
+          "ar": "grandes"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "cresce",
+          "en": "cresce",
+          "ar": "cresce"
+        },
+        {
+          "pt": "nas",
+          "en": "nas",
+          "ar": "nas"
+        },
+        {
+          "pt": "suma,",
+          "en": "suma,",
+          "ar": "suma,"
+        },
+        {
+          "pt": "cidades.",
+          "en": "cidades.",
+          "ar": "cidades."
+        },
+        {
+          "pt": "taxa",
+          "en": "taxa",
+          "ar": "taxa"
+        },
+        {
+          "pt": "congestionamento",
+          "en": "congestionamento",
+          "ar": "congestionamento"
+        }
+      ],
+      "answer": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
+      "accepted": [
+        "Em suma, a taxa de congestionamento só cresce nas grandes cidades."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Em suma, a taxa de congestionamento só cresce nas grandes cidades.'",
+        "en": "The correct order: 'In short, the congestion rate only grows in big cities.'",
+        "ar": "الترتيب الصحيح: 'باختصار، معدل الازدحام يزداد فقط في المدن الكبرى.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a réplica",
+          "en": "the rebuttal",
+          "ar": "a réplica"
+        },
+        {
+          "pt": "o debate",
+          "en": "the opinion",
+          "ar": "o debate"
+        },
+        {
+          "pt": "o contraponto",
+          "en": "the argument",
+          "ar": "o contraponto"
+        },
+        {
+          "pt": "o argumento",
+          "en": "the counterpoint",
+          "ar": "o argumento"
+        },
+        {
+          "pt": "a opinião",
+          "en": "the debate",
+          "ar": "a opinião"
+        },
+        {
+          "pt": "a tese",
+          "en": "the thesis",
+          "ar": "a tese"
+        }
+      ],
+      "answer": "a réplica::the rebuttal|o debate::the opinion|o contraponto::the argument|o argumento::the counterpoint|a opinião::the debate|a tese::the thesis",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Concordo, desde que o subsídio proteja quem mais precisa.",
+          "en": "I agree, as long as the subsidy protects those who need it most.",
+          "ar": "باختصار، معدل الازدحام يزداد فقط في المدن الكبرى."
+        },
+        {
+          "pt": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
+          "en": "Even though it is expensive, urban tolls could reduce the flow.",
+          "ar": "على الرغم من كلفته، قد يقلل رسم المرور الحضري من التدفق."
+        },
+        {
+          "pt": "Ainda que seja caro, o pedágio urbano poderia reduzir o fluxo.",
+          "en": "In short, the congestion rate only grows in big cities.",
+          "ar": "أوافق، بشرط أن يحمي الدعم من هم في أمس الحاجة إليه."
+        }
+      ],
+      "answer": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
+      "accepted": [],
+      "audio": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
+      "explanation": {
+        "pt": "Você ouviu: 'Em suma, a taxa de congestionamento só cresce nas grandes cidades.' — 'In short, the congestion rate only grows in big cities.'",
+        "en": "You heard: 'Em suma, a taxa de congestionamento só cresce nas grandes cidades.' — 'In short, the congestion rate only grows in big cities.'",
+        "ar": "سمعت: 'Em suma, a taxa de congestionamento só cresce nas grandes cidades.' — 'باختصار، معدل الازدحام يزداد فقط في المدن الكبرى.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "No entanto, os dados mostram que o transporte público melhorou.",
+          "en": "However, the data show that public transport improved.",
+          "ar": "أوافق، بشرط أن يحمي الدعم من هم في أمس الحاجة إليه."
+        },
+        {
+          "pt": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
+          "en": "In short, the congestion rate only grows in big cities.",
+          "ar": "ومع ذلك، تظهر البيانات أن وسائل النقل العام تحسنت."
+        },
+        {
+          "pt": "Concordo, desde que o subsídio proteja quem mais precisa.",
+          "en": "I agree, as long as the subsidy protects those who need it most.",
+          "ar": "باختصار، معدل الازدحام يزداد فقط في المدن الكبرى."
+        }
+      ],
+      "answer": "No entanto, os dados mostram que o transporte público melhorou.",
+      "accepted": [],
+      "audio": "No entanto, os dados mostram que o transporte público melhorou.",
+      "explanation": {
+        "pt": "Você ouviu: 'No entanto, os dados mostram que o transporte público melhorou.' — 'However, the data show that public transport improved.'",
+        "en": "You heard: 'No entanto, os dados mostram que o transporte público melhorou.' — 'However, the data show that public transport improved.'",
+        "ar": "سمعت: 'No entanto, os dados mostram que o transporte público melhorou.' — 'ومع ذلك، تظهر البيانات أن وسائل النقل العام تحسنت.'"
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'the debate'",
+        "en": "Type in Portuguese: 'the debate'",
+        "ar": "اكتب بالبرتغالية: 'النقاش'"
+      },
+      "options": [],
+      "answer": "o debate",
+      "accepted": [
+        "o debate"
+      ],
+      "explanation": {
+        "pt": "'o debate' significa 'the debate'.",
+        "en": "'o debate' means 'the debate'.",
+        "ar": "'$o debate' بالعربية: '$النقاش'."
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'the opinion'",
+        "en": "Type in Portuguese: 'the opinion'",
+        "ar": "اكتب بالبرتغالية: 'الرأي'"
+      },
+      "options": [],
+      "answer": "a opinião",
+      "accepted": [
+        "a opinião"
+      ],
+      "explanation": {
+        "pt": "'a opinião' significa 'the opinion'.",
+        "en": "'a opinião' means 'the opinion'.",
+        "ar": "'$a opinião' بالعربية: '$الرأي'."
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Ainda que seja caro, o pedágio urbano poderia reduzir o fluxo.",
+          "en": "Ainda que seja caro, o pedágio urbano poderia reduzir o fluxo.",
+          "ar": "Ainda que seja caro, o pedágio urbano poderia reduzir o fluxo."
+        },
+        {
+          "pt": "Por um lado, é verdade; por outro, os carros particulares ainda dominam.",
+          "en": "Por um lado, é verdade; por outro, os carros particulares ainda dominam.",
+          "ar": "Por um lado, é verdade; por outro, os carros particulares ainda dominam."
+        },
+        {
+          "pt": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
+          "en": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
+          "ar": "Em suma, a taxa de congestionamento só cresce nas grandes cidades."
+        }
+      ],
+      "answer": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
+      "accepted": [],
+      "audio": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
+      "explanation": {
+        "pt": "Você ouviu: 'Em suma, a taxa de congestionamento só cresce nas grandes cidades.'",
+        "en": "You heard: 'Em suma, a taxa de congestionamento só cresce nas grandes cidades.'",
+        "ar": "سمعت: 'Em suma, a taxa de congestionamento só cresce nas grandes cidades.'"
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Ainda que seja caro, o pedágio urbano poderia reduzir o fluxo.",
+          "en": "Ainda que seja caro, o pedágio urbano poderia reduzir o fluxo.",
+          "ar": "Ainda que seja caro, o pedágio urbano poderia reduzir o fluxo."
+        },
+        {
+          "pt": "No entanto, os dados mostram que o transporte público melhorou.",
+          "en": "No entanto, os dados mostram que o transporte público melhorou.",
+          "ar": "No entanto, os dados mostram que o transporte público melhorou."
+        },
+        {
+          "pt": "Caso o preço seja alto, a medida castiga os mais pobres.",
+          "en": "Caso o preço seja alto, a medida castiga os mais pobres.",
+          "ar": "Caso o preço seja alto, a medida castiga os mais pobres."
+        }
+      ],
+      "answer": "No entanto, os dados mostram que o transporte público melhorou.",
+      "accepted": [],
+      "audio": "No entanto, os dados mostram que o transporte público melhorou.",
+      "explanation": {
+        "pt": "Você ouviu: 'No entanto, os dados mostram que o transporte público melhorou.'",
+        "en": "You heard: 'No entanto, os dados mostram que o transporte público melhorou.'",
+        "ar": "سمعت: 'No entanto, os dados mostram que o transporte público melhorou.'"
+      }
+    },
+    {
+      "type": "dictation",
+      "prompt": {
+        "pt": "Ouça e escreva o que você ouviu.",
+        "en": "Listen and type what you hear.",
+        "ar": "استمع واكتب ما سمعته."
+      },
+      "options": [],
+      "answer": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
+      "accepted": [],
+      "audio": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
+      "explanation": {
+        "pt": "A frase correta: 'Em suma, a taxa de congestionamento só cresce nas grandes cidades.'",
+        "en": "The correct sentence: 'Em suma, a taxa de congestionamento só cresce nas grandes cidades.'",
+        "ar": "الجملة الصحيحة: 'Em suma, a taxa de congestionamento só cresce nas grandes cidades.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Em",
+          "en": "Em",
+          "ar": "Em"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "grandes",
+          "en": "grandes",
+          "ar": "grandes"
+        },
+        {
+          "pt": "cresce",
+          "en": "cresce",
+          "ar": "cresce"
+        },
+        {
+          "pt": "cidades.",
+          "en": "cidades.",
+          "ar": "cidades."
+        },
+        {
+          "pt": "taxa",
+          "en": "taxa",
+          "ar": "taxa"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "suma,",
+          "en": "suma,",
+          "ar": "suma,"
+        },
+        {
+          "pt": "nas",
+          "en": "nas",
+          "ar": "nas"
+        },
+        {
+          "pt": "só",
+          "en": "só",
+          "ar": "só"
+        },
+        {
+          "pt": "congestionamento",
+          "en": "congestionamento",
+          "ar": "congestionamento"
+        }
+      ],
+      "answer": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
+      "accepted": [
+        "Em suma, a taxa de congestionamento só cresce nas grandes cidades."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Em suma, a taxa de congestionamento só cresce nas grandes cidades.'",
+        "en": "The correct order: 'In short, the congestion rate only grows in big cities.'",
+        "ar": "الترتيب الصحيح: 'باختصار، معدل الازدحام يزداد فقط في المدن الكبرى.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a opinião",
+          "en": "the rebuttal",
+          "ar": "a opinião"
+        },
+        {
+          "pt": "o argumento",
+          "en": "the counterpoint",
+          "ar": "o argumento"
+        },
+        {
+          "pt": "a réplica",
+          "en": "the debate",
+          "ar": "a réplica"
+        },
+        {
+          "pt": "a tese",
+          "en": "the opinion",
+          "ar": "a tese"
+        },
+        {
+          "pt": "o contraponto",
+          "en": "the argument",
+          "ar": "o contraponto"
+        },
+        {
+          "pt": "o debate",
+          "en": "the thesis",
+          "ar": "o debate"
+        }
+      ],
+      "answer": "a opinião::the rebuttal|o argumento::the counterpoint|a réplica::the debate|a tese::the opinion|o contraponto::the argument|o debate::the thesis",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
+          "en": "Even though it is expensive, urban tolls could reduce the flow.",
+          "ar": "باختصار، معدل الازدحام يزداد فقط في المدن الكبرى."
+        },
+        {
+          "pt": "No entanto, os dados mostram que o transporte público melhorou.",
+          "en": "However, the data show that public transport improved.",
+          "ar": "ومع ذلك، تظهر البيانات أن وسائل النقل العام تحسنت."
+        },
+        {
+          "pt": "Ainda que seja caro, o pedágio urbano poderia reduzir o fluxo.",
+          "en": "In short, the congestion rate only grows in big cities.",
+          "ar": "على الرغم من كلفته، قد يقلل رسم المرور الحضري من التدفق."
+        }
+      ],
+      "answer": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
+      "accepted": [],
+      "audio": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
+      "explanation": {
+        "pt": "Você ouviu: 'Em suma, a taxa de congestionamento só cresce nas grandes cidades.' — 'In short, the congestion rate only grows in big cities.'",
+        "en": "You heard: 'Em suma, a taxa de congestionamento só cresce nas grandes cidades.' — 'In short, the congestion rate only grows in big cities.'",
+        "ar": "سمعت: 'Em suma, a taxa de congestionamento só cresce nas grandes cidades.' — 'باختصار، معدل الازدحام يزداد فقط في المدن الكبرى.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Ainda que seja caro, o pedágio urbano poderia reduzir o fluxo.",
+          "en": "On one hand, that is true; on the other, private cars still dominate.",
+          "ar": "ومع ذلك، تظهر البيانات أن وسائل النقل العام تحسنت."
+        },
+        {
+          "pt": "Por um lado, é verdade; por outro, os carros particulares ainda dominam.",
+          "en": "However, the data show that public transport improved.",
+          "ar": "من جهة، هذا صحيح؛ ومن جهة أخرى، ما تزال السيارات الخاصة تهيمن."
+        },
+        {
+          "pt": "No entanto, os dados mostram que o transporte público melhorou.",
+          "en": "Even though it is expensive, urban tolls could reduce the flow.",
+          "ar": "على الرغم من كلفته، قد يقلل رسم المرور الحضري من التدفق."
+        }
+      ],
+      "answer": "No entanto, os dados mostram que o transporte público melhorou.",
+      "accepted": [],
+      "audio": "No entanto, os dados mostram que o transporte público melhorou.",
+      "explanation": {
+        "pt": "Você ouviu: 'No entanto, os dados mostram que o transporte público melhorou.' — 'However, the data show that public transport improved.'",
+        "en": "You heard: 'No entanto, os dados mostram que o transporte público melhorou.' — 'However, the data show that public transport improved.'",
+        "ar": "سمعت: 'No entanto, os dados mostram que o transporte público melhorou.' — 'ومع ذلك، تظهر البيانات أن وسائل النقل العام تحسنت.'"
+      }
+    }
+  ],
+  "speaking": {
+    "title": {
+      "pt": "Fale Agora — Ouça e Repita",
+      "en": "Speak Now — Listen and Repeat",
+      "ar": "تحدث الآن — استمع وكرر"
+    },
+    "phrases": [
+      {
+        "pt": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
+        "en": "In short, the congestion rate only grows in big cities.",
+        "ar": "باختصار، معدل الازدحام يزداد فقط في المدن الكبرى."
+      },
+      {
+        "pt": "No entanto, os dados mostram que o transporte público melhorou.",
+        "en": "However, the data show that public transport improved.",
+        "ar": "ومع ذلك، تظهر البيانات أن وسائل النقل العام تحسنت."
+      },
+      {
+        "pt": "Por um lado, é verdade; por outro, os carros particulares ainda dominam.",
+        "en": "On one hand, that is true; on the other, private cars still dominate.",
+        "ar": "من جهة، هذا صحيح؛ ومن جهة أخرى، ما تزال السيارات الخاصة تهيمن."
+      },
+      {
+        "pt": "Ainda que seja caro, o pedágio urbano poderia reduzir o fluxo.",
+        "en": "Even though it is expensive, urban tolls could reduce the flow.",
+        "ar": "على الرغم من كلفته، قد يقلل رسم المرور الحضري من التدفق."
+      },
+      {
+        "pt": "Caso o preço seja alto, a medida castiga os mais pobres.",
+        "en": "Should the price be high, the measure punishes the poorest.",
+        "ar": "إذا كان السعر مرتفعًا، فسيضر الإجراء بالفقراء."
+      },
+      {
+        "pt": "Concordo, desde que o subsídio proteja quem mais precisa.",
+        "en": "I agree, as long as the subsidy protects those who need it most.",
+        "ar": "أوافق، بشرط أن يحمي الدعم من هم في أمس الحاجة إليه."
+      },
+      {
+        "pt": "o debate",
+        "en": "the debate",
+        "ar": "النقاش"
+      },
+      {
+        "pt": "a opinião",
+        "en": "the opinion",
+        "ar": "الرأي"
+      },
+      {
+        "pt": "o argumento",
+        "en": "the argument",
+        "ar": "الحجة"
+      }
+    ]
+  },
+  "cultural_tips": {
+    "pt": "",
+    "en": "",
+    "ar": ""
+  }
+}

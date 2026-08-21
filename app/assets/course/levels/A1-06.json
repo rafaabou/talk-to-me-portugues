@@ -1,0 +1,1996 @@
+{
+  "id": "A1-06",
+  "level": "A1",
+  "level_name": {
+    "pt": "Iniciante",
+    "en": "Beginner",
+    "ar": "مبتدئ"
+  },
+  "title": {
+    "pt": "Presente do Indicativo",
+    "en": "Simple Present",
+    "ar": "المضارع البسيط"
+  },
+  "objectives": [
+    {
+      "pt": "Conjugar verbos regulares no presente",
+      "en": "Conjugate regular verbs in the present",
+      "ar": "تصريف الأفعال المنتظمة في المضارع"
+    },
+    {
+      "pt": "Usar verbos em -ar, -er, -ir",
+      "en": "Use -ar, -er, -ir verbs",
+      "ar": "استخدام الأفعال المنتهية بـ -ar، -er، -ir"
+    },
+    {
+      "pt": "Falar sobre rotinas e hábitos",
+      "en": "Talk about routines and habits",
+      "ar": "التحدث عن الروتين والعادات"
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "falar",
+      "ipa": "/faˈlaɾ/",
+      "en": "to speak",
+      "ar": "يتكلم",
+      "example": {
+        "pt": "Eu trabalho em São Paulo e moro no centro.",
+        "en": "I work in São Paulo and live downtown.",
+        "ar": "أعمل في ساو باولو وأسكن في المركز."
+      }
+    },
+    {
+      "pt": "comer",
+      "ipa": "/koˈmeɾ/",
+      "en": "to eat",
+      "ar": "يأكل",
+      "example": {
+        "pt": "Eu trabalho em São Paulo e moro no centro.",
+        "en": "I work in São Paulo and live downtown.",
+        "ar": "أعمل في ساو باولو وأسكن في المركز."
+      }
+    },
+    {
+      "pt": "beber",
+      "ipa": "/beˈbeɾ/",
+      "en": "to drink",
+      "ar": "يشرب",
+      "example": {
+        "pt": "Eu trabalho em São Paulo e moro no centro.",
+        "en": "I work in São Paulo and live downtown.",
+        "ar": "أعمل في ساو باولو وأسكن في المركز."
+      }
+    },
+    {
+      "pt": "viver",
+      "ipa": "/viˈveɾ/",
+      "en": "to live",
+      "ar": "يعيش",
+      "example": {
+        "pt": "Eu trabalho em São Paulo e moro no centro.",
+        "en": "I work in São Paulo and live downtown.",
+        "ar": "أعمل في ساو باولو وأسكن في المركز."
+      }
+    },
+    {
+      "pt": "abrir",
+      "ipa": "/aˈbɾiʁ/",
+      "en": "to open",
+      "ar": "يفتح",
+      "example": {
+        "pt": "Eu trabalho em São Paulo e moro no centro.",
+        "en": "I work in São Paulo and live downtown.",
+        "ar": "أعمل في ساو باولو وأسكن في المركز."
+      }
+    },
+    {
+      "pt": "trabalhar",
+      "ipa": "/tɾa.baˈʎaʁ/",
+      "en": "to work",
+      "ar": "يعمل",
+      "example": {
+        "pt": "Eu trabalho em São Paulo e moro no centro.",
+        "en": "I work in São Paulo and live downtown.",
+        "ar": "أعمل في ساو باولو وأسكن في المركز."
+      }
+    },
+    {
+      "pt": "estudar",
+      "ipa": "/is.tuˈdaʁ/",
+      "en": "to study",
+      "ar": "يدرس",
+      "example": {
+        "pt": "Eu trabalho em São Paulo e moro no centro.",
+        "en": "I work in São Paulo and live downtown.",
+        "ar": "أعمل في ساو باولو وأسكن في المركز."
+      }
+    },
+    {
+      "pt": "morar",
+      "ipa": "/moˈɾaʁ/",
+      "en": "to live (in a place)",
+      "ar": "يسكن",
+      "example": {
+        "pt": "Eu trabalho em São Paulo e moro no centro.",
+        "en": "I work in São Paulo and live downtown.",
+        "ar": "أعمل في ساو باولو وأسكن في المركز."
+      }
+    },
+    {
+      "pt": "aprender",
+      "ipa": "/a.pɾẽˈdeɾ/",
+      "en": "to learn",
+      "ar": "يتعلم",
+      "example": {
+        "pt": "Eu trabalho em São Paulo e moro no centro.",
+        "en": "I work in São Paulo and live downtown.",
+        "ar": "أعمل في ساو باولو وأسكن في المركز."
+      }
+    },
+    {
+      "pt": "entender",
+      "ipa": "/ẽ.tẽˈdeɾ/",
+      "en": "to understand",
+      "ar": "يفهم",
+      "example": {
+        "pt": "Eu trabalho em São Paulo e moro no centro.",
+        "en": "I work in São Paulo and live downtown.",
+        "ar": "أعمل في ساو باولو وأسكن في المركز."
+      }
+    },
+    {
+      "pt": "escrever",
+      "ipa": "/is.kɾeˈveɾ/",
+      "en": "to write",
+      "ar": "يكتب",
+      "example": {
+        "pt": "Eu trabalho em São Paulo e moro no centro.",
+        "en": "I work in São Paulo and live downtown.",
+        "ar": "أعمل في ساو باولو وأسكن في المركز."
+      }
+    },
+    {
+      "pt": "assistir",
+      "ipa": "/a.sisˈtʃiʁ/",
+      "en": "to watch",
+      "ar": "يشاهد",
+      "example": {
+        "pt": "Eu trabalho em São Paulo e moro no centro.",
+        "en": "I work in São Paulo and live downtown.",
+        "ar": "أعمل في ساو باولو وأسكن في المركز."
+      }
+    },
+    {
+      "pt": "viajar",
+      "ipa": "/vi.aˈʒaʁ/",
+      "en": "to travel",
+      "ar": "يسافر",
+      "example": {
+        "pt": "Eu trabalho em São Paulo e moro no centro.",
+        "en": "I work in São Paulo and live downtown.",
+        "ar": "أعمل في ساو باولو وأسكن في المركز."
+      }
+    },
+    {
+      "pt": "todos os dias",
+      "ipa": "/ˈto.dus us ˈdʒi.as/",
+      "en": "every day",
+      "ar": "كل يوم",
+      "example": {
+        "pt": "Você estuda todos os dias.",
+        "en": "You study every day.",
+        "ar": "أنت تدرس كل يوم."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "title": {
+        "pt": "Verbos em -AR",
+        "en": "-AR Verbs",
+        "ar": "الأفعال المنتهية بـ -AR"
+      },
+      "explanation": {
+        "pt": "Verbos em -ar (falar): eu falo, você fala, ele/ela fala, nós falamos, vocês falam, eles/elas falam. A terminação muda: -o, -a, -a, -amos, -am, -am.",
+        "en": "-ar verbs (falar - to speak): eu falo (I speak), você fala (you speak), ele/ela fala (he/she speaks), nós falamos (we speak), vocês falam (you pl. speak), eles/elas falam (they speak). The ending changes: -o, -a, -a, -amos, -am, -am.",
+        "ar": "الأفعال المنتهية بـ -ar (falar - يتكلم): eu falo (أتحدث)، você fala (تتحدث)، ele/ela fala (هو/هي يتحدث)، nós falamos (نتحدث)، vocês falam (تتحدثون)، eles/elas falam (يتحدثون). تتغير النهاية: -o، -a، -a، -amos، -am، -am."
+      },
+      "examples": [
+        {
+          "pt": "Eu falo português.",
+          "en": "I speak Portuguese.",
+          "ar": "أتحدث البرتغالية."
+        },
+        {
+          "pt": "Nós trabalhamos muito.",
+          "en": "We work a lot.",
+          "ar": "نحن نعمل كثيرًا."
+        },
+        {
+          "pt": "Você estuda todos os dias.",
+          "en": "You study every day.",
+          "ar": "أنت تدرس كل يوم."
+        }
+      ]
+    },
+    {
+      "title": {
+        "pt": "Verbos em -ER e -IR",
+        "en": "-ER and -IR Verbs",
+        "ar": "الأفعال المنتهية بـ -ER و -IR"
+      },
+      "explanation": {
+        "pt": "-er (comer): eu como, você come, ele come, nós comemos, vocês comem. -ir (abrir): eu abro, você abre, ele abre, nós abrimos, vocês abrem. Exceções comuns: 'ter' e 'vir'.",
+        "en": "-er (comer - to eat): eu como (I eat), você come, ele come, nós comemos, vocês comem. -ir (abrir - to open): eu abro, você abre, ele abre, nós abrimos, vocês abrem. Common exceptions: 'ter' (to have) and 'vir' (to come).",
+        "ar": "-er (comer - يأكل): eu como (آكل)، você come، ele come، nós comemos، vocês comem. -ir (abrir - يفتح): eu abro، você abre، ele abre، nós abrimos، vocês abrem. استثناءات شائعة: 'ter' (يملك) و 'vir' (يأتي)."
+      },
+      "examples": [
+        {
+          "pt": "Eu como arroz e feijão.",
+          "en": "I eat rice and beans.",
+          "ar": "آكل الأرز والفاصوليا."
+        },
+        {
+          "pt": "Ela aprende português rápido.",
+          "en": "She learns Portuguese fast.",
+          "ar": "تتعلم البرتغالية بسرعة."
+        },
+        {
+          "pt": "Nós assistimos TV à noite.",
+          "en": "We watch TV at night.",
+          "ar": "نشاهد التلفاز في الليل."
+        }
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": {
+      "pt": "A Rotina de Carla",
+      "en": "Carla's Routine",
+      "ar": "روتين كارلا"
+    },
+    "lines": [
+      {
+        "speaker": "Carla",
+        "pt": "Eu trabalho em São Paulo e moro no centro.",
+        "en": "I work in São Paulo and live downtown.",
+        "ar": "أعمل في ساو باولو وأسكن في المركز."
+      },
+      {
+        "speaker": "Amiga",
+        "pt": "Você estuda também?",
+        "en": "Do you also study?",
+        "ar": "هل تدرسين أيضًا؟"
+      },
+      {
+        "speaker": "Carla",
+        "pt": "Sim, eu aprendo espanhol à noite.",
+        "en": "Yes, I learn Spanish at night.",
+        "ar": "نعم، أتعلم الإسبانية في الليل."
+      },
+      {
+        "speaker": "Amiga",
+        "pt": "E o que você come no trabalho?",
+        "en": "And what do you eat at work?",
+        "ar": "وماذا تأكلين في العمل؟"
+      },
+      {
+        "speaker": "Carla",
+        "pt": "Eu como sanduíche e bebo café. É rápido.",
+        "en": "I eat a sandwich and drink coffee. It's fast.",
+        "ar": "آكل شطيرة وأشرب القهوة. إنه سريع."
+      }
+    ]
+  },
+  "reading": {
+    "title": {
+      "pt": "O Dia de Pedro",
+      "en": "Pedro's Day",
+      "ar": "يوم بيدرو"
+    },
+    "text_pt": "Pedro mora no Brasil. Ele trabalha numa empresa e viaja muito. Todos os dias ele abre o computador às oito horas. Ele escreve e-mails e fala com os clientes. À noite, ele come com a família e assiste TV.",
+    "text_en": "Pedro lives in Brazil. He works at a company and travels a lot. Every day he opens his computer at eight o'clock. He writes emails and talks with clients. At night, he eats with his family and watches TV.",
+    "text_ar": "يعيش بيدرو في البرازيل. يعمل في شركة ويسافر كثيرًا. كل يوم يفتح جهاز الكمبيوتر في الساعة الثامنة. يكتب رسائل البريد ويتحدث مع العملاء. في الليل، يأكل مع عائلته ويشاهد التلفاز."
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Eu ___ português todos os dias. (estudar)",
+        "en": "I ___ Portuguese every day. (estudar)",
+        "ar": "أنا أدرس البرتغالية كل يوم. (estudar)"
+      },
+      "options": [
+        {
+          "pt": "estudo",
+          "en": "estudo",
+          "ar": "estudo"
+        },
+        {
+          "pt": "estuda",
+          "en": "estuda",
+          "ar": "estuda"
+        },
+        {
+          "pt": "estudamos",
+          "en": "estudamos",
+          "ar": "estudamos"
+        }
+      ],
+      "answer": "estudo",
+      "explanation": {
+        "pt": "Com 'eu' usamos '-o': eu estudo.",
+        "en": "With 'eu' we use '-o': eu estudo.",
+        "ar": "مع 'eu' نستخدم '-o': eu estudo."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Nós ___ arroz e feijão. (comer)",
+        "en": "We ___ rice and beans. (comer)",
+        "ar": "نحن نأكل الأرز والفاصوليا. (comer)"
+      },
+      "options": [
+        {
+          "pt": "como",
+          "en": "como",
+          "ar": "como"
+        },
+        {
+          "pt": "come",
+          "en": "come",
+          "ar": "come"
+        },
+        {
+          "pt": "comemos",
+          "en": "comemos",
+          "ar": "comemos"
+        }
+      ],
+      "answer": "comemos",
+      "explanation": {
+        "pt": "Com 'nós' usamos '-emos': nós comemos.",
+        "en": "With 'nós' we use '-emos': nós comemos.",
+        "ar": "مع 'nós' نستخدم '-emos': nós comemos."
+      }
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza: 'to live'",
+        "en": "Translate: 'to live'",
+        "ar": "ترجم: 'to live'"
+      },
+      "options": [],
+      "answer": "viver / morar",
+      "explanation": {
+        "pt": "'Viver' (to live) e 'morar' (to reside).",
+        "en": "'Viver' (to live) and 'morar' (to reside).",
+        "ar": "'Viver' (يعيش) و 'morar' (يسكن)."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "e",
+          "en": "e",
+          "ar": "e"
+        },
+        {
+          "pt": "moro",
+          "en": "moro",
+          "ar": "moro"
+        },
+        {
+          "pt": "trabalho",
+          "en": "trabalho",
+          "ar": "trabalho"
+        },
+        {
+          "pt": "centro.",
+          "en": "centro.",
+          "ar": "centro."
+        },
+        {
+          "pt": "em",
+          "en": "em",
+          "ar": "em"
+        },
+        {
+          "pt": "São",
+          "en": "São",
+          "ar": "São"
+        },
+        {
+          "pt": "Paulo",
+          "en": "Paulo",
+          "ar": "Paulo"
+        },
+        {
+          "pt": "no",
+          "en": "no",
+          "ar": "no"
+        },
+        {
+          "pt": "Eu",
+          "en": "Eu",
+          "ar": "Eu"
+        }
+      ],
+      "answer": "Eu trabalho em São Paulo e moro no centro.",
+      "accepted": [
+        "Eu trabalho em São Paulo e moro no centro."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Eu trabalho em São Paulo e moro no centro.'",
+        "en": "The correct order: 'I work in São Paulo and live downtown.'",
+        "ar": "الترتيب الصحيح: 'أعمل في ساو باولو وأسكن في المركز.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "abrir",
+          "en": "to speak",
+          "ar": "abrir"
+        },
+        {
+          "pt": "comer",
+          "en": "to open",
+          "ar": "comer"
+        },
+        {
+          "pt": "falar",
+          "en": "to live",
+          "ar": "falar"
+        },
+        {
+          "pt": "trabalhar",
+          "en": "to drink",
+          "ar": "trabalhar"
+        },
+        {
+          "pt": "beber",
+          "en": "to work",
+          "ar": "beber"
+        },
+        {
+          "pt": "viver",
+          "en": "to eat",
+          "ar": "viver"
+        }
+      ],
+      "answer": "abrir::to speak|comer::to open|falar::to live|trabalhar::to drink|beber::to work|viver::to eat",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Você estuda também?",
+          "en": "I eat a sandwich and drink coffee. It's fast.",
+          "ar": "أعمل في ساو باولو وأسكن في المركز."
+        },
+        {
+          "pt": "Eu como sanduíche e bebo café. É rápido.",
+          "en": "Do you also study?",
+          "ar": "آكل شطيرة وأشرب القهوة. إنه سريع."
+        },
+        {
+          "pt": "Eu trabalho em São Paulo e moro no centro.",
+          "en": "I work in São Paulo and live downtown.",
+          "ar": "هل تدرسين أيضًا؟"
+        }
+      ],
+      "answer": "Eu trabalho em São Paulo e moro no centro.",
+      "accepted": [],
+      "audio": "Eu trabalho em São Paulo e moro no centro.",
+      "explanation": {
+        "pt": "Você ouviu: 'Eu trabalho em São Paulo e moro no centro.' — 'I work in São Paulo and live downtown.'",
+        "en": "You heard: 'Eu trabalho em São Paulo e moro no centro.' — 'I work in São Paulo and live downtown.'",
+        "ar": "سمعت: 'Eu trabalho em São Paulo e moro no centro.' — 'أعمل في ساو باولو وأسكن في المركز.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Você estuda também?",
+          "en": "I work in São Paulo and live downtown.",
+          "ar": "وماذا تأكلين في العمل؟"
+        },
+        {
+          "pt": "Eu trabalho em São Paulo e moro no centro.",
+          "en": "And what do you eat at work?",
+          "ar": "أعمل في ساو باولو وأسكن في المركز."
+        },
+        {
+          "pt": "E o que você come no trabalho?",
+          "en": "Do you also study?",
+          "ar": "هل تدرسين أيضًا؟"
+        }
+      ],
+      "answer": "Você estuda também?",
+      "accepted": [],
+      "audio": "Você estuda também?",
+      "explanation": {
+        "pt": "Você ouviu: 'Você estuda também?' — 'Do you also study?'",
+        "en": "You heard: 'Você estuda também?' — 'Do you also study?'",
+        "ar": "سمعت: 'Você estuda também?' — 'هل تدرسين أيضًا؟'"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Você estuda todos ___ dias.",
+        "en": "Você estuda todos ___ dias.",
+        "ar": "Você estuda todos ___ dias."
+      },
+      "options": [
+        {
+          "pt": "os",
+          "en": "os",
+          "ar": "os"
+        },
+        {
+          "pt": "Nós",
+          "en": "Nós",
+          "ar": "Nós"
+        },
+        {
+          "pt": "trabalhamos",
+          "en": "trabalhamos",
+          "ar": "trabalhamos"
+        }
+      ],
+      "answer": "os",
+      "accepted": [],
+      "explanation": {
+        "pt": "A resposta é 'os'. Frase completa: Você estuda todos os dias.",
+        "en": "The answer is 'os'. Full sentence: You study every day.",
+        "ar": "الإجابة الصحيحة: 'os'. الجملة كاملة: أنت تدرس كل يوم."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "e",
+          "en": "e",
+          "ar": "e"
+        },
+        {
+          "pt": "São",
+          "en": "São",
+          "ar": "São"
+        },
+        {
+          "pt": "Paulo",
+          "en": "Paulo",
+          "ar": "Paulo"
+        },
+        {
+          "pt": "centro.",
+          "en": "centro.",
+          "ar": "centro."
+        },
+        {
+          "pt": "no",
+          "en": "no",
+          "ar": "no"
+        },
+        {
+          "pt": "em",
+          "en": "em",
+          "ar": "em"
+        },
+        {
+          "pt": "trabalho",
+          "en": "trabalho",
+          "ar": "trabalho"
+        },
+        {
+          "pt": "Eu",
+          "en": "Eu",
+          "ar": "Eu"
+        },
+        {
+          "pt": "moro",
+          "en": "moro",
+          "ar": "moro"
+        }
+      ],
+      "answer": "Eu trabalho em São Paulo e moro no centro.",
+      "accepted": [
+        "Eu trabalho em São Paulo e moro no centro."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Eu trabalho em São Paulo e moro no centro.'",
+        "en": "The correct order: 'I work in São Paulo and live downtown.'",
+        "ar": "الترتيب الصحيح: 'أعمل في ساو باولو وأسكن في المركز.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "comer",
+          "en": "to work",
+          "ar": "comer"
+        },
+        {
+          "pt": "viver",
+          "en": "to open",
+          "ar": "viver"
+        },
+        {
+          "pt": "falar",
+          "en": "to drink",
+          "ar": "falar"
+        },
+        {
+          "pt": "beber",
+          "en": "to live",
+          "ar": "beber"
+        },
+        {
+          "pt": "trabalhar",
+          "en": "to speak",
+          "ar": "trabalhar"
+        },
+        {
+          "pt": "abrir",
+          "en": "to eat",
+          "ar": "abrir"
+        }
+      ],
+      "answer": "comer::to work|viver::to open|falar::to drink|beber::to live|trabalhar::to speak|abrir::to eat",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Eu trabalho em São Paulo e moro no centro.",
+          "en": "Yes, I learn Spanish at night.",
+          "ar": "نعم، أتعلم الإسبانية في الليل."
+        },
+        {
+          "pt": "Você estuda também?",
+          "en": "Do you also study?",
+          "ar": "هل تدرسين أيضًا؟"
+        },
+        {
+          "pt": "Sim, eu aprendo espanhol à noite.",
+          "en": "I work in São Paulo and live downtown.",
+          "ar": "أعمل في ساو باولو وأسكن في المركز."
+        }
+      ],
+      "answer": "Eu trabalho em São Paulo e moro no centro.",
+      "accepted": [],
+      "audio": "Eu trabalho em São Paulo e moro no centro.",
+      "explanation": {
+        "pt": "Você ouviu: 'Eu trabalho em São Paulo e moro no centro.' — 'I work in São Paulo and live downtown.'",
+        "en": "You heard: 'Eu trabalho em São Paulo e moro no centro.' — 'I work in São Paulo and live downtown.'",
+        "ar": "سمعت: 'Eu trabalho em São Paulo e moro no centro.' — 'أعمل في ساو باولو وأسكن في المركز.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Você estuda também?",
+          "en": "Do you also study?",
+          "ar": "نعم، أتعلم الإسبانية في الليل."
+        },
+        {
+          "pt": "Sim, eu aprendo espanhol à noite.",
+          "en": "Yes, I learn Spanish at night.",
+          "ar": "آكل شطيرة وأشرب القهوة. إنه سريع."
+        },
+        {
+          "pt": "Eu como sanduíche e bebo café. É rápido.",
+          "en": "I eat a sandwich and drink coffee. It's fast.",
+          "ar": "هل تدرسين أيضًا؟"
+        }
+      ],
+      "answer": "Você estuda também?",
+      "accepted": [],
+      "audio": "Você estuda também?",
+      "explanation": {
+        "pt": "Você ouviu: 'Você estuda também?' — 'Do you also study?'",
+        "en": "You heard: 'Você estuda também?' — 'Do you also study?'",
+        "ar": "سمعت: 'Você estuda também?' — 'هل تدرسين أيضًا؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "no",
+          "en": "no",
+          "ar": "no"
+        },
+        {
+          "pt": "Eu",
+          "en": "Eu",
+          "ar": "Eu"
+        },
+        {
+          "pt": "trabalho",
+          "en": "trabalho",
+          "ar": "trabalho"
+        },
+        {
+          "pt": "em",
+          "en": "em",
+          "ar": "em"
+        },
+        {
+          "pt": "Paulo",
+          "en": "Paulo",
+          "ar": "Paulo"
+        },
+        {
+          "pt": "São",
+          "en": "São",
+          "ar": "São"
+        },
+        {
+          "pt": "moro",
+          "en": "moro",
+          "ar": "moro"
+        },
+        {
+          "pt": "centro.",
+          "en": "centro.",
+          "ar": "centro."
+        },
+        {
+          "pt": "e",
+          "en": "e",
+          "ar": "e"
+        }
+      ],
+      "answer": "Eu trabalho em São Paulo e moro no centro.",
+      "accepted": [
+        "Eu trabalho em São Paulo e moro no centro."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Eu trabalho em São Paulo e moro no centro.'",
+        "en": "The correct order: 'I work in São Paulo and live downtown.'",
+        "ar": "الترتيب الصحيح: 'أعمل في ساو باولو وأسكن في المركز.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "beber",
+          "en": "to live",
+          "ar": "beber"
+        },
+        {
+          "pt": "viver",
+          "en": "to work",
+          "ar": "viver"
+        },
+        {
+          "pt": "comer",
+          "en": "to drink",
+          "ar": "comer"
+        },
+        {
+          "pt": "trabalhar",
+          "en": "to eat",
+          "ar": "trabalhar"
+        },
+        {
+          "pt": "falar",
+          "en": "to speak",
+          "ar": "falar"
+        },
+        {
+          "pt": "abrir",
+          "en": "to open",
+          "ar": "abrir"
+        }
+      ],
+      "answer": "beber::to live|viver::to work|comer::to drink|trabalhar::to eat|falar::to speak|abrir::to open",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Eu trabalho em São Paulo e moro no centro.",
+          "en": "Do you also study?",
+          "ar": "هل تدرسين أيضًا؟"
+        },
+        {
+          "pt": "Você estuda também?",
+          "en": "I work in São Paulo and live downtown.",
+          "ar": "أعمل في ساو باولو وأسكن في المركز."
+        },
+        {
+          "pt": "Eu como sanduíche e bebo café. É rápido.",
+          "en": "I eat a sandwich and drink coffee. It's fast.",
+          "ar": "آكل شطيرة وأشرب القهوة. إنه سريع."
+        }
+      ],
+      "answer": "Eu trabalho em São Paulo e moro no centro.",
+      "accepted": [],
+      "audio": "Eu trabalho em São Paulo e moro no centro.",
+      "explanation": {
+        "pt": "Você ouviu: 'Eu trabalho em São Paulo e moro no centro.' — 'I work in São Paulo and live downtown.'",
+        "en": "You heard: 'Eu trabalho em São Paulo e moro no centro.' — 'I work in São Paulo and live downtown.'",
+        "ar": "سمعت: 'Eu trabalho em São Paulo e moro no centro.' — 'أعمل في ساو باولو وأسكن في المركز.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Eu como sanduíche e bebo café. É rápido.",
+          "en": "I work in São Paulo and live downtown.",
+          "ar": "آكل شطيرة وأشرب القهوة. إنه سريع."
+        },
+        {
+          "pt": "Eu trabalho em São Paulo e moro no centro.",
+          "en": "I eat a sandwich and drink coffee. It's fast.",
+          "ar": "أعمل في ساو باولو وأسكن في المركز."
+        },
+        {
+          "pt": "Você estuda também?",
+          "en": "Do you also study?",
+          "ar": "هل تدرسين أيضًا؟"
+        }
+      ],
+      "answer": "Você estuda também?",
+      "accepted": [],
+      "audio": "Você estuda também?",
+      "explanation": {
+        "pt": "Você ouviu: 'Você estuda também?' — 'Do you also study?'",
+        "en": "You heard: 'Você estuda também?' — 'Do you also study?'",
+        "ar": "سمعت: 'Você estuda também?' — 'هل تدرسين أيضًا؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "e",
+          "en": "e",
+          "ar": "e"
+        },
+        {
+          "pt": "São",
+          "en": "São",
+          "ar": "São"
+        },
+        {
+          "pt": "Paulo",
+          "en": "Paulo",
+          "ar": "Paulo"
+        },
+        {
+          "pt": "Eu",
+          "en": "Eu",
+          "ar": "Eu"
+        },
+        {
+          "pt": "no",
+          "en": "no",
+          "ar": "no"
+        },
+        {
+          "pt": "centro.",
+          "en": "centro.",
+          "ar": "centro."
+        },
+        {
+          "pt": "moro",
+          "en": "moro",
+          "ar": "moro"
+        },
+        {
+          "pt": "trabalho",
+          "en": "trabalho",
+          "ar": "trabalho"
+        },
+        {
+          "pt": "em",
+          "en": "em",
+          "ar": "em"
+        }
+      ],
+      "answer": "Eu trabalho em São Paulo e moro no centro.",
+      "accepted": [
+        "Eu trabalho em São Paulo e moro no centro."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Eu trabalho em São Paulo e moro no centro.'",
+        "en": "The correct order: 'I work in São Paulo and live downtown.'",
+        "ar": "الترتيب الصحيح: 'أعمل في ساو باولو وأسكن في المركز.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "abrir",
+          "en": "to drink",
+          "ar": "abrir"
+        },
+        {
+          "pt": "beber",
+          "en": "to speak",
+          "ar": "beber"
+        },
+        {
+          "pt": "viver",
+          "en": "to live",
+          "ar": "viver"
+        },
+        {
+          "pt": "comer",
+          "en": "to eat",
+          "ar": "comer"
+        },
+        {
+          "pt": "trabalhar",
+          "en": "to open",
+          "ar": "trabalhar"
+        },
+        {
+          "pt": "falar",
+          "en": "to work",
+          "ar": "falar"
+        }
+      ],
+      "answer": "abrir::to drink|beber::to speak|viver::to live|comer::to eat|trabalhar::to open|falar::to work",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Eu trabalho em São Paulo e moro no centro.",
+          "en": "I work in São Paulo and live downtown.",
+          "ar": "أعمل في ساو باولو وأسكن في المركز."
+        },
+        {
+          "pt": "Eu como sanduíche e bebo café. É rápido.",
+          "en": "Yes, I learn Spanish at night.",
+          "ar": "نعم، أتعلم الإسبانية في الليل."
+        },
+        {
+          "pt": "Sim, eu aprendo espanhol à noite.",
+          "en": "I eat a sandwich and drink coffee. It's fast.",
+          "ar": "آكل شطيرة وأشرب القهوة. إنه سريع."
+        }
+      ],
+      "answer": "Eu trabalho em São Paulo e moro no centro.",
+      "accepted": [],
+      "audio": "Eu trabalho em São Paulo e moro no centro.",
+      "explanation": {
+        "pt": "Você ouviu: 'Eu trabalho em São Paulo e moro no centro.' — 'I work in São Paulo and live downtown.'",
+        "en": "You heard: 'Eu trabalho em São Paulo e moro no centro.' — 'I work in São Paulo and live downtown.'",
+        "ar": "سمعت: 'Eu trabalho em São Paulo e moro no centro.' — 'أعمل في ساو باولو وأسكن في المركز.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Você estuda também?",
+          "en": "Yes, I learn Spanish at night.",
+          "ar": "هل تدرسين أيضًا؟"
+        },
+        {
+          "pt": "Sim, eu aprendo espanhol à noite.",
+          "en": "Do you also study?",
+          "ar": "آكل شطيرة وأشرب القهوة. إنه سريع."
+        },
+        {
+          "pt": "Eu como sanduíche e bebo café. É rápido.",
+          "en": "I eat a sandwich and drink coffee. It's fast.",
+          "ar": "نعم، أتعلم الإسبانية في الليل."
+        }
+      ],
+      "answer": "Você estuda também?",
+      "accepted": [],
+      "audio": "Você estuda também?",
+      "explanation": {
+        "pt": "Você ouviu: 'Você estuda também?' — 'Do you also study?'",
+        "en": "You heard: 'Você estuda também?' — 'Do you also study?'",
+        "ar": "سمعت: 'Você estuda também?' — 'هل تدرسين أيضًا؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "em",
+          "en": "em",
+          "ar": "em"
+        },
+        {
+          "pt": "moro",
+          "en": "moro",
+          "ar": "moro"
+        },
+        {
+          "pt": "centro.",
+          "en": "centro.",
+          "ar": "centro."
+        },
+        {
+          "pt": "São",
+          "en": "São",
+          "ar": "São"
+        },
+        {
+          "pt": "Paulo",
+          "en": "Paulo",
+          "ar": "Paulo"
+        },
+        {
+          "pt": "no",
+          "en": "no",
+          "ar": "no"
+        },
+        {
+          "pt": "trabalho",
+          "en": "trabalho",
+          "ar": "trabalho"
+        },
+        {
+          "pt": "e",
+          "en": "e",
+          "ar": "e"
+        },
+        {
+          "pt": "Eu",
+          "en": "Eu",
+          "ar": "Eu"
+        }
+      ],
+      "answer": "Eu trabalho em São Paulo e moro no centro.",
+      "accepted": [
+        "Eu trabalho em São Paulo e moro no centro."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Eu trabalho em São Paulo e moro no centro.'",
+        "en": "The correct order: 'I work in São Paulo and live downtown.'",
+        "ar": "الترتيب الصحيح: 'أعمل في ساو باولو وأسكن في المركز.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "falar",
+          "en": "to drink",
+          "ar": "falar"
+        },
+        {
+          "pt": "viver",
+          "en": "to live",
+          "ar": "viver"
+        },
+        {
+          "pt": "abrir",
+          "en": "to work",
+          "ar": "abrir"
+        },
+        {
+          "pt": "beber",
+          "en": "to speak",
+          "ar": "beber"
+        },
+        {
+          "pt": "comer",
+          "en": "to eat",
+          "ar": "comer"
+        },
+        {
+          "pt": "trabalhar",
+          "en": "to open",
+          "ar": "trabalhar"
+        }
+      ],
+      "answer": "falar::to drink|viver::to live|abrir::to work|beber::to speak|comer::to eat|trabalhar::to open",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Você estuda também?",
+          "en": "Do you also study?",
+          "ar": "أعمل في ساو باولو وأسكن في المركز."
+        },
+        {
+          "pt": "E o que você come no trabalho?",
+          "en": "And what do you eat at work?",
+          "ar": "هل تدرسين أيضًا؟"
+        },
+        {
+          "pt": "Eu trabalho em São Paulo e moro no centro.",
+          "en": "I work in São Paulo and live downtown.",
+          "ar": "وماذا تأكلين في العمل؟"
+        }
+      ],
+      "answer": "Eu trabalho em São Paulo e moro no centro.",
+      "accepted": [],
+      "audio": "Eu trabalho em São Paulo e moro no centro.",
+      "explanation": {
+        "pt": "Você ouviu: 'Eu trabalho em São Paulo e moro no centro.' — 'I work in São Paulo and live downtown.'",
+        "en": "You heard: 'Eu trabalho em São Paulo e moro no centro.' — 'I work in São Paulo and live downtown.'",
+        "ar": "سمعت: 'Eu trabalho em São Paulo e moro no centro.' — 'أعمل في ساو باولو وأسكن في المركز.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Eu como sanduíche e bebo café. É rápido.",
+          "en": "Do you also study?",
+          "ar": "هل تدرسين أيضًا؟"
+        },
+        {
+          "pt": "Você estuda também?",
+          "en": "I eat a sandwich and drink coffee. It's fast.",
+          "ar": "آكل شطيرة وأشرب القهوة. إنه سريع."
+        },
+        {
+          "pt": "Sim, eu aprendo espanhol à noite.",
+          "en": "Yes, I learn Spanish at night.",
+          "ar": "نعم، أتعلم الإسبانية في الليل."
+        }
+      ],
+      "answer": "Você estuda também?",
+      "accepted": [],
+      "audio": "Você estuda também?",
+      "explanation": {
+        "pt": "Você ouviu: 'Você estuda também?' — 'Do you also study?'",
+        "en": "You heard: 'Você estuda também?' — 'Do you also study?'",
+        "ar": "سمعت: 'Você estuda também?' — 'هل تدرسين أيضًا؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "trabalho",
+          "en": "trabalho",
+          "ar": "trabalho"
+        },
+        {
+          "pt": "Paulo",
+          "en": "Paulo",
+          "ar": "Paulo"
+        },
+        {
+          "pt": "São",
+          "en": "São",
+          "ar": "São"
+        },
+        {
+          "pt": "em",
+          "en": "em",
+          "ar": "em"
+        },
+        {
+          "pt": "no",
+          "en": "no",
+          "ar": "no"
+        },
+        {
+          "pt": "centro.",
+          "en": "centro.",
+          "ar": "centro."
+        },
+        {
+          "pt": "Eu",
+          "en": "Eu",
+          "ar": "Eu"
+        },
+        {
+          "pt": "moro",
+          "en": "moro",
+          "ar": "moro"
+        },
+        {
+          "pt": "e",
+          "en": "e",
+          "ar": "e"
+        }
+      ],
+      "answer": "Eu trabalho em São Paulo e moro no centro.",
+      "accepted": [
+        "Eu trabalho em São Paulo e moro no centro."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Eu trabalho em São Paulo e moro no centro.'",
+        "en": "The correct order: 'I work in São Paulo and live downtown.'",
+        "ar": "الترتيب الصحيح: 'أعمل في ساو باولو وأسكن في المركز.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "falar",
+          "en": "to open",
+          "ar": "falar"
+        },
+        {
+          "pt": "comer",
+          "en": "to eat",
+          "ar": "comer"
+        },
+        {
+          "pt": "beber",
+          "en": "to work",
+          "ar": "beber"
+        },
+        {
+          "pt": "trabalhar",
+          "en": "to speak",
+          "ar": "trabalhar"
+        },
+        {
+          "pt": "abrir",
+          "en": "to drink",
+          "ar": "abrir"
+        },
+        {
+          "pt": "viver",
+          "en": "to live",
+          "ar": "viver"
+        }
+      ],
+      "answer": "falar::to open|comer::to eat|beber::to work|trabalhar::to speak|abrir::to drink|viver::to live",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Eu trabalho em São Paulo e moro no centro.",
+          "en": "Yes, I learn Spanish at night.",
+          "ar": "أعمل في ساو باولو وأسكن في المركز."
+        },
+        {
+          "pt": "Sim, eu aprendo espanhol à noite.",
+          "en": "I work in São Paulo and live downtown.",
+          "ar": "نعم، أتعلم الإسبانية في الليل."
+        },
+        {
+          "pt": "Eu como sanduíche e bebo café. É rápido.",
+          "en": "I eat a sandwich and drink coffee. It's fast.",
+          "ar": "آكل شطيرة وأشرب القهوة. إنه سريع."
+        }
+      ],
+      "answer": "Eu trabalho em São Paulo e moro no centro.",
+      "accepted": [],
+      "audio": "Eu trabalho em São Paulo e moro no centro.",
+      "explanation": {
+        "pt": "Você ouviu: 'Eu trabalho em São Paulo e moro no centro.' — 'I work in São Paulo and live downtown.'",
+        "en": "You heard: 'Eu trabalho em São Paulo e moro no centro.' — 'I work in São Paulo and live downtown.'",
+        "ar": "سمعت: 'Eu trabalho em São Paulo e moro no centro.' — 'أعمل في ساو باولو وأسكن في المركز.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Eu como sanduíche e bebo café. É rápido.",
+          "en": "I eat a sandwich and drink coffee. It's fast.",
+          "ar": "آكل شطيرة وأشرب القهوة. إنه سريع."
+        },
+        {
+          "pt": "E o que você come no trabalho?",
+          "en": "Do you also study?",
+          "ar": "هل تدرسين أيضًا؟"
+        },
+        {
+          "pt": "Você estuda também?",
+          "en": "And what do you eat at work?",
+          "ar": "وماذا تأكلين في العمل؟"
+        }
+      ],
+      "answer": "Você estuda também?",
+      "accepted": [],
+      "audio": "Você estuda também?",
+      "explanation": {
+        "pt": "Você ouviu: 'Você estuda também?' — 'Do you also study?'",
+        "en": "You heard: 'Você estuda também?' — 'Do you also study?'",
+        "ar": "سمعت: 'Você estuda também?' — 'هل تدرسين أيضًا؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Paulo",
+          "en": "Paulo",
+          "ar": "Paulo"
+        },
+        {
+          "pt": "e",
+          "en": "e",
+          "ar": "e"
+        },
+        {
+          "pt": "no",
+          "en": "no",
+          "ar": "no"
+        },
+        {
+          "pt": "trabalho",
+          "en": "trabalho",
+          "ar": "trabalho"
+        },
+        {
+          "pt": "Eu",
+          "en": "Eu",
+          "ar": "Eu"
+        },
+        {
+          "pt": "centro.",
+          "en": "centro.",
+          "ar": "centro."
+        },
+        {
+          "pt": "em",
+          "en": "em",
+          "ar": "em"
+        },
+        {
+          "pt": "São",
+          "en": "São",
+          "ar": "São"
+        },
+        {
+          "pt": "moro",
+          "en": "moro",
+          "ar": "moro"
+        }
+      ],
+      "answer": "Eu trabalho em São Paulo e moro no centro.",
+      "accepted": [
+        "Eu trabalho em São Paulo e moro no centro."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Eu trabalho em São Paulo e moro no centro.'",
+        "en": "The correct order: 'I work in São Paulo and live downtown.'",
+        "ar": "الترتيب الصحيح: 'أعمل في ساو باولو وأسكن في المركز.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "comer",
+          "en": "to drink",
+          "ar": "comer"
+        },
+        {
+          "pt": "viver",
+          "en": "to speak",
+          "ar": "viver"
+        },
+        {
+          "pt": "abrir",
+          "en": "to open",
+          "ar": "abrir"
+        },
+        {
+          "pt": "trabalhar",
+          "en": "to live",
+          "ar": "trabalhar"
+        },
+        {
+          "pt": "beber",
+          "en": "to work",
+          "ar": "beber"
+        },
+        {
+          "pt": "falar",
+          "en": "to eat",
+          "ar": "falar"
+        }
+      ],
+      "answer": "comer::to drink|viver::to speak|abrir::to open|trabalhar::to live|beber::to work|falar::to eat",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "E o que você come no trabalho?",
+          "en": "I work in São Paulo and live downtown.",
+          "ar": "وماذا تأكلين في العمل؟"
+        },
+        {
+          "pt": "Sim, eu aprendo espanhol à noite.",
+          "en": "Yes, I learn Spanish at night.",
+          "ar": "نعم، أتعلم الإسبانية في الليل."
+        },
+        {
+          "pt": "Eu trabalho em São Paulo e moro no centro.",
+          "en": "And what do you eat at work?",
+          "ar": "أعمل في ساو باولو وأسكن في المركز."
+        }
+      ],
+      "answer": "Eu trabalho em São Paulo e moro no centro.",
+      "accepted": [],
+      "audio": "Eu trabalho em São Paulo e moro no centro.",
+      "explanation": {
+        "pt": "Você ouviu: 'Eu trabalho em São Paulo e moro no centro.' — 'I work in São Paulo and live downtown.'",
+        "en": "You heard: 'Eu trabalho em São Paulo e moro no centro.' — 'I work in São Paulo and live downtown.'",
+        "ar": "سمعت: 'Eu trabalho em São Paulo e moro no centro.' — 'أعمل في ساو باولو وأسكن في المركز.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Eu trabalho em São Paulo e moro no centro.",
+          "en": "Do you also study?",
+          "ar": "أعمل في ساو باولو وأسكن في المركز."
+        },
+        {
+          "pt": "Você estuda também?",
+          "en": "Yes, I learn Spanish at night.",
+          "ar": "هل تدرسين أيضًا؟"
+        },
+        {
+          "pt": "Sim, eu aprendo espanhol à noite.",
+          "en": "I work in São Paulo and live downtown.",
+          "ar": "نعم، أتعلم الإسبانية في الليل."
+        }
+      ],
+      "answer": "Você estuda também?",
+      "accepted": [],
+      "audio": "Você estuda também?",
+      "explanation": {
+        "pt": "Você ouviu: 'Você estuda também?' — 'Do you also study?'",
+        "en": "You heard: 'Você estuda também?' — 'Do you also study?'",
+        "ar": "سمعت: 'Você estuda também?' — 'هل تدرسين أيضًا؟'"
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'to speak'",
+        "en": "Type in Portuguese: 'to speak'",
+        "ar": "اكتب بالبرتغالية: 'يتكلم'"
+      },
+      "options": [],
+      "answer": "falar",
+      "accepted": [
+        "falar"
+      ],
+      "explanation": {
+        "pt": "'falar' significa 'to speak'.",
+        "en": "'falar' means 'to speak'.",
+        "ar": "'$falar' بالعربية: '$يتكلم'."
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'to eat'",
+        "en": "Type in Portuguese: 'to eat'",
+        "ar": "اكتب بالبرتغالية: 'يأكل'"
+      },
+      "options": [],
+      "answer": "comer",
+      "accepted": [
+        "comer"
+      ],
+      "explanation": {
+        "pt": "'comer' significa 'to eat'.",
+        "en": "'comer' means 'to eat'.",
+        "ar": "'$comer' بالعربية: '$يأكل'."
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Eu trabalho em São Paulo e moro no centro.",
+          "en": "Eu trabalho em São Paulo e moro no centro.",
+          "ar": "Eu trabalho em São Paulo e moro no centro."
+        },
+        {
+          "pt": "Eu como sanduíche e bebo café. É rápido.",
+          "en": "Eu como sanduíche e bebo café. É rápido.",
+          "ar": "Eu como sanduíche e bebo café. É rápido."
+        },
+        {
+          "pt": "E o que você come no trabalho?",
+          "en": "E o que você come no trabalho?",
+          "ar": "E o que você come no trabalho?"
+        }
+      ],
+      "answer": "Eu trabalho em São Paulo e moro no centro.",
+      "accepted": [],
+      "audio": "Eu trabalho em São Paulo e moro no centro.",
+      "explanation": {
+        "pt": "Você ouviu: 'Eu trabalho em São Paulo e moro no centro.'",
+        "en": "You heard: 'Eu trabalho em São Paulo e moro no centro.'",
+        "ar": "سمعت: 'Eu trabalho em São Paulo e moro no centro.'"
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Eu trabalho em São Paulo e moro no centro.",
+          "en": "Eu trabalho em São Paulo e moro no centro.",
+          "ar": "Eu trabalho em São Paulo e moro no centro."
+        },
+        {
+          "pt": "Sim, eu aprendo espanhol à noite.",
+          "en": "Sim, eu aprendo espanhol à noite.",
+          "ar": "Sim, eu aprendo espanhol à noite."
+        },
+        {
+          "pt": "Você estuda também?",
+          "en": "Você estuda também?",
+          "ar": "Você estuda também?"
+        }
+      ],
+      "answer": "Você estuda também?",
+      "accepted": [],
+      "audio": "Você estuda também?",
+      "explanation": {
+        "pt": "Você ouviu: 'Você estuda também?'",
+        "en": "You heard: 'Você estuda também?'",
+        "ar": "سمعت: 'Você estuda também?'"
+      }
+    },
+    {
+      "type": "dictation",
+      "prompt": {
+        "pt": "Ouça e escreva o que você ouviu.",
+        "en": "Listen and type what you hear.",
+        "ar": "استمع واكتب ما سمعته."
+      },
+      "options": [],
+      "answer": "Eu trabalho em São Paulo e moro no centro.",
+      "accepted": [],
+      "audio": "Eu trabalho em São Paulo e moro no centro.",
+      "explanation": {
+        "pt": "A frase correta: 'Eu trabalho em São Paulo e moro no centro.'",
+        "en": "The correct sentence: 'Eu trabalho em São Paulo e moro no centro.'",
+        "ar": "الجملة الصحيحة: 'Eu trabalho em São Paulo e moro no centro.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "e",
+          "en": "e",
+          "ar": "e"
+        },
+        {
+          "pt": "São",
+          "en": "São",
+          "ar": "São"
+        },
+        {
+          "pt": "centro.",
+          "en": "centro.",
+          "ar": "centro."
+        },
+        {
+          "pt": "em",
+          "en": "em",
+          "ar": "em"
+        },
+        {
+          "pt": "trabalho",
+          "en": "trabalho",
+          "ar": "trabalho"
+        },
+        {
+          "pt": "moro",
+          "en": "moro",
+          "ar": "moro"
+        },
+        {
+          "pt": "Eu",
+          "en": "Eu",
+          "ar": "Eu"
+        },
+        {
+          "pt": "no",
+          "en": "no",
+          "ar": "no"
+        },
+        {
+          "pt": "Paulo",
+          "en": "Paulo",
+          "ar": "Paulo"
+        }
+      ],
+      "answer": "Eu trabalho em São Paulo e moro no centro.",
+      "accepted": [
+        "Eu trabalho em São Paulo e moro no centro."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Eu trabalho em São Paulo e moro no centro.'",
+        "en": "The correct order: 'I work in São Paulo and live downtown.'",
+        "ar": "الترتيب الصحيح: 'أعمل في ساو باولو وأسكن في المركز.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "beber",
+          "en": "to open",
+          "ar": "beber"
+        },
+        {
+          "pt": "abrir",
+          "en": "to live",
+          "ar": "abrir"
+        },
+        {
+          "pt": "trabalhar",
+          "en": "to drink",
+          "ar": "trabalhar"
+        },
+        {
+          "pt": "viver",
+          "en": "to eat",
+          "ar": "viver"
+        },
+        {
+          "pt": "falar",
+          "en": "to work",
+          "ar": "falar"
+        },
+        {
+          "pt": "comer",
+          "en": "to speak",
+          "ar": "comer"
+        }
+      ],
+      "answer": "beber::to open|abrir::to live|trabalhar::to drink|viver::to eat|falar::to work|comer::to speak",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "E o que você come no trabalho?",
+          "en": "I eat a sandwich and drink coffee. It's fast.",
+          "ar": "آكل شطيرة وأشرب القهوة. إنه سريع."
+        },
+        {
+          "pt": "Eu como sanduíche e bebo café. É rápido.",
+          "en": "I work in São Paulo and live downtown.",
+          "ar": "وماذا تأكلين في العمل؟"
+        },
+        {
+          "pt": "Eu trabalho em São Paulo e moro no centro.",
+          "en": "And what do you eat at work?",
+          "ar": "أعمل في ساو باولو وأسكن في المركز."
+        }
+      ],
+      "answer": "Eu trabalho em São Paulo e moro no centro.",
+      "accepted": [],
+      "audio": "Eu trabalho em São Paulo e moro no centro.",
+      "explanation": {
+        "pt": "Você ouviu: 'Eu trabalho em São Paulo e moro no centro.' — 'I work in São Paulo and live downtown.'",
+        "en": "You heard: 'Eu trabalho em São Paulo e moro no centro.' — 'I work in São Paulo and live downtown.'",
+        "ar": "سمعت: 'Eu trabalho em São Paulo e moro no centro.' — 'أعمل في ساو باولو وأسكن في المركز.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim, eu aprendo espanhol à noite.",
+          "en": "And what do you eat at work?",
+          "ar": "وماذا تأكلين في العمل؟"
+        },
+        {
+          "pt": "Você estuda também?",
+          "en": "Do you also study?",
+          "ar": "نعم، أتعلم الإسبانية في الليل."
+        },
+        {
+          "pt": "E o que você come no trabalho?",
+          "en": "Yes, I learn Spanish at night.",
+          "ar": "هل تدرسين أيضًا؟"
+        }
+      ],
+      "answer": "Você estuda também?",
+      "accepted": [],
+      "audio": "Você estuda também?",
+      "explanation": {
+        "pt": "Você ouviu: 'Você estuda também?' — 'Do you also study?'",
+        "en": "You heard: 'Você estuda também?' — 'Do you also study?'",
+        "ar": "سمعت: 'Você estuda também?' — 'هل تدرسين أيضًا؟'"
+      }
+    }
+  ],
+  "speaking": {
+    "title": {
+      "pt": "Fale Agora — Ouça e Repita",
+      "en": "Speak Now — Listen and Repeat",
+      "ar": "تحدث الآن — استمع وكرر"
+    },
+    "phrases": [
+      {
+        "pt": "Eu trabalho em São Paulo e moro no centro.",
+        "en": "I work in São Paulo and live downtown.",
+        "ar": "أعمل في ساو باولو وأسكن في المركز."
+      },
+      {
+        "pt": "Você estuda também?",
+        "en": "Do you also study?",
+        "ar": "هل تدرسين أيضًا؟"
+      },
+      {
+        "pt": "Sim, eu aprendo espanhol à noite.",
+        "en": "Yes, I learn Spanish at night.",
+        "ar": "نعم، أتعلم الإسبانية في الليل."
+      },
+      {
+        "pt": "E o que você come no trabalho?",
+        "en": "And what do you eat at work?",
+        "ar": "وماذا تأكلين في العمل؟"
+      },
+      {
+        "pt": "Eu como sanduíche e bebo café. É rápido.",
+        "en": "I eat a sandwich and drink coffee. It's fast.",
+        "ar": "آكل شطيرة وأشرب القهوة. إنه سريع."
+      },
+      {
+        "pt": "falar",
+        "en": "to speak",
+        "ar": "يتكلم"
+      },
+      {
+        "pt": "comer",
+        "en": "to eat",
+        "ar": "يأكل"
+      },
+      {
+        "pt": "beber",
+        "en": "to drink",
+        "ar": "يشرب"
+      }
+    ]
+  },
+  "cultural_tips": {
+    "pt": "",
+    "en": "",
+    "ar": ""
+  }
+}

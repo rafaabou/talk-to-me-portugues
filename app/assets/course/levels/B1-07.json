@@ -1,0 +1,2023 @@
+{
+  "id": "B1-07",
+  "level": "B1",
+  "level_name": {
+    "pt": "Intermediário",
+    "en": "Intermediate",
+    "ar": "متوسط"
+  },
+  "title": {
+    "pt": "Expressões de Opinião e Argumentação",
+    "en": "Opinions and Argumentation",
+    "ar": "التعبير عن الرأي والمناقشة"
+  },
+  "objectives": [
+    {
+      "pt": "Expressar opinião, concordar e discordar com naturalidade.",
+      "en": "Express opinions, agree and disagree naturally.",
+      "ar": "التعبير عن الرأي والموافقة والمعارضة بشكل طبيعي."
+    },
+    {
+      "pt": "Usar conectores de argumentação para organizar ideias.",
+      "en": "Use argumentation connectors to organize ideas.",
+      "ar": "استخدام أدوات الربط الحجاجية لتنظيم الأفكار."
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "a opinião",
+      "ipa": "/a o.pi.ɲiˈɐ̃w/",
+      "en": "the opinion",
+      "ar": "الرأي",
+      "example": {
+        "pt": "Acho que a cidade precisa de mais transporte público.",
+        "en": "I think the city needs more public transportation.",
+        "ar": "أعتقد أن المدينة بحاجة إلى المزيد من وسائل النقل العام."
+      }
+    },
+    {
+      "pt": "concordar",
+      "ipa": "/kõ.koʁˈdaʁ/",
+      "en": "to agree",
+      "ar": "يوافق",
+      "example": {
+        "pt": "Acho que a cidade precisa de mais transporte público.",
+        "en": "I think the city needs more public transportation.",
+        "ar": "أعتقد أن المدينة بحاجة إلى المزيد من وسائل النقل العام."
+      }
+    },
+    {
+      "pt": "discordar",
+      "ipa": "/dʒis.koʁˈdaʁ/",
+      "en": "to disagree",
+      "ar": "يخالف",
+      "example": {
+        "pt": "Acho que a cidade precisa de mais transporte público.",
+        "en": "I think the city needs more public transportation.",
+        "ar": "أعتقد أن المدينة بحاجة إلى المزيد من وسائل النقل العام."
+      }
+    },
+    {
+      "pt": "o argumento",
+      "ipa": "/u aʁ.ɡuˈmẽ.tu/",
+      "en": "the argument",
+      "ar": "الحجة",
+      "example": {
+        "pt": "Por isso, o governo deveria investir mais.",
+        "en": "Therefore, the government should invest more.",
+        "ar": "لذلك، ينبغي على الحكومة أن تستثمر أكثر."
+      }
+    },
+    {
+      "pt": "acho que",
+      "ipa": "/ˈa.ʃu ki/",
+      "en": "I think that",
+      "ar": "أعتقد أن",
+      "example": {
+        "pt": "Acho que a cidade precisa de mais transporte público.",
+        "en": "I think the city needs more public transportation.",
+        "ar": "أعتقد أن المدينة بحاجة إلى المزيد من وسائل النقل العام."
+      }
+    },
+    {
+      "pt": "na minha opinião",
+      "ipa": "/na ˈmĩ.ɲa o.pi.ɲiˈɐ̃w/",
+      "en": "in my opinion",
+      "ar": "برأيي",
+      "example": {
+        "pt": "Na minha opinião, tudo é uma questão de planejamento.",
+        "en": "In my opinion, everything is a matter of planning.",
+        "ar": "برأيي، كل شيء مسألة تخطيط."
+      }
+    },
+    {
+      "pt": "porque",
+      "ipa": "/poʁˈke/",
+      "en": "because",
+      "ar": "لأن",
+      "example": {
+        "pt": "Não fui à festa porque estava doente.",
+        "en": "I did not go to the party because I was sick.",
+        "ar": "لم أذهب إلى الحفلة لأنني كنت مريضاً."
+      }
+    },
+    {
+      "pt": "por isso",
+      "ipa": "/puʁ ˈi.su/",
+      "en": "therefore",
+      "ar": "لذلك",
+      "example": {
+        "pt": "Por isso, o governo deveria investir mais.",
+        "en": "Therefore, the government should invest more.",
+        "ar": "لذلك، ينبغي على الحكومة أن تستثمر أكثر."
+      }
+    },
+    {
+      "pt": "contudo",
+      "ipa": "/kõˈtu.du/",
+      "en": "however",
+      "ar": "ومع ذلك",
+      "example": {
+        "pt": "Concordo, mas construir metrô é caro, contudo, necessário.",
+        "en": "I agree, but building a subway is expensive; however, it is necessary.",
+        "ar": "أوافقك، لكن بناء المترو مكلف، ومع ذلك، ضروري."
+      }
+    },
+    {
+      "pt": "realmente",
+      "ipa": "/he.awˈmẽ.tʃi/",
+      "en": "really",
+      "ar": "حقاً",
+      "example": {
+        "pt": "Realmente, é uma boa sugestão.",
+        "en": "Really, that is a good suggestion.",
+        "ar": "حقاً، إنه اقتراح جيد."
+      }
+    },
+    {
+      "pt": "provável",
+      "ipa": "/pɾoˈva.vɛw/",
+      "en": "likely",
+      "ar": "محتمل",
+      "example": {
+        "pt": "Acho que a cidade precisa de mais transporte público.",
+        "en": "I think the city needs more public transportation.",
+        "ar": "أعتقد أن المدينة بحاجة إلى المزيد من وسائل النقل العام."
+      }
+    },
+    {
+      "pt": "a certeza",
+      "ipa": "/a seʁˈte.zɐ/",
+      "en": "the certainty",
+      "ar": "اليقين",
+      "example": {
+        "pt": "Acho que a cidade precisa de mais transporte público.",
+        "en": "I think the city needs more public transportation.",
+        "ar": "أعتقد أن المدينة بحاجة إلى المزيد من وسائل النقل العام."
+      }
+    },
+    {
+      "pt": "sugerir",
+      "ipa": "/su.ʒeˈɾiʁ/",
+      "en": "to suggest",
+      "ar": "يقترح",
+      "example": {
+        "pt": "Acho que a cidade precisa de mais transporte público.",
+        "en": "I think the city needs more public transportation.",
+        "ar": "أعتقد أن المدينة بحاجة إلى المزيد من وسائل النقل العام."
+      }
+    },
+    {
+      "pt": "convencer",
+      "ipa": "/kõ.vẽˈseʁ/",
+      "en": "to convince",
+      "ar": "يقنع",
+      "example": {
+        "pt": "Acho que a cidade precisa de mais transporte público.",
+        "en": "I think the city needs more public transportation.",
+        "ar": "أعتقد أن المدينة بحاجة إلى المزيد من وسائل النقل العام."
+      }
+    },
+    {
+      "pt": "criticar",
+      "ipa": "/kɾi.tʃiˈkaʁ/",
+      "en": "to criticize",
+      "ar": "ينتقد",
+      "example": {
+        "pt": "Acho que a cidade precisa de mais transporte público.",
+        "en": "I think the city needs more public transportation.",
+        "ar": "أعتقد أن المدينة بحاجة إلى المزيد من وسائل النقل العام."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "title": {
+        "pt": "Expressões para dar opinião",
+        "en": "Expressions for giving opinions",
+        "ar": "تعبيرات إبداء الرأي"
+      },
+      "explanation": {
+        "pt": "Para dar opinião usamos 'acho que', 'na minha opinião', 'para mim' e 'parece que'. Essas expressões tornam a afirmação mais pessoal e menos categórica.",
+        "en": "To give an opinion we use 'acho que', 'na minha opinião', 'para mim' and 'parece que'. These expressions make the statement more personal and less categorical.",
+        "ar": "لإبداء الرأي نستخدم 'acho que' (أعتقد أن) و'na minha opinião' (برأيي) و'para mim' (بالنسبة لي) و'parece que' (يبدو أن). هذه التعبيرات تجعل العبارة أكثر شخصية وأقل قاطعة."
+      },
+      "examples": [
+        {
+          "pt": "Acho que o filme é muito bom.",
+          "en": "I think the movie is very good.",
+          "ar": "أعتقد أن الفيلم جيد جداً."
+        },
+        {
+          "pt": "Na minha opinião, ele está errado.",
+          "en": "In my opinion, he is wrong.",
+          "ar": "برأيي، إنه مخطئ."
+        },
+        {
+          "pt": "Para mim, essa ideia não faz sentido.",
+          "en": "For me, this idea does not make sense.",
+          "ar": "بالنسبة لي، هذه الفكرة لا معنى لها."
+        }
+      ]
+    },
+    {
+      "title": {
+        "pt": "Conectores de argumentação",
+        "en": "Argumentation connectors",
+        "ar": "أدوات الربط الحجاجية"
+      },
+      "explanation": {
+        "pt": "Para justificar, concluir ou contrapor, usamos 'porque' (causa), 'por isso' (consequência), 'contudo' (contraste) e 'além disso' (adição).",
+        "en": "To justify, conclude or contrast, we use 'porque' (cause), 'por isso' (consequence), 'contudo' (contrast) and 'além disso' (addition).",
+        "ar": "للتبرير أو الخلاصة أو المعارضة، نستخدم 'porque' (السبب) و'por isso' (النتيجة) و'contudo' (الاستدراك) و'além disso' (بالإضافة إلى ذلك)."
+      },
+      "examples": [
+        {
+          "pt": "Estudei muito, por isso passei no exame.",
+          "en": "I studied a lot, therefore I passed the exam.",
+          "ar": "درست كثيراً، ولذلك نجحت في الامتحان."
+        },
+        {
+          "pt": "O restaurante é caro, contudo, é excelente.",
+          "en": "The restaurant is expensive; however, it is excellent.",
+          "ar": "المطعم غالٍ، ومع ذلك، فهو ممتاز."
+        },
+        {
+          "pt": "Não fui à festa porque estava doente.",
+          "en": "I did not go to the party because I was sick.",
+          "ar": "لم أذهب إلى الحفلة لأنني كنت مريضاً."
+        }
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": {
+      "pt": "Um debate sobre o trânsito",
+      "en": "A debate about traffic",
+      "ar": "نقاش حول المرور"
+    },
+    "lines": [
+      {
+        "speaker": "Caio",
+        "pt": "Acho que a cidade precisa de mais transporte público.",
+        "en": "I think the city needs more public transportation.",
+        "ar": "أعتقد أن المدينة بحاجة إلى المزيد من وسائل النقل العام."
+      },
+      {
+        "speaker": "Lia",
+        "pt": "Concordo, mas construir metrô é caro, contudo, necessário.",
+        "en": "I agree, but building a subway is expensive; however, it is necessary.",
+        "ar": "أوافقك، لكن بناء المترو مكلف، ومع ذلك، ضروري."
+      },
+      {
+        "speaker": "Caio",
+        "pt": "Por isso, o governo deveria investir mais.",
+        "en": "Therefore, the government should invest more.",
+        "ar": "لذلك، ينبغي على الحكومة أن تستثمر أكثر."
+      },
+      {
+        "speaker": "Lia",
+        "pt": "Discordo um pouco: primeiro precisamos de mais ciclovias.",
+        "en": "I disagree a little: first we need more bike lanes.",
+        "ar": "أخالفك قليلاً: نحتاج أولاً إلى المزيد من مسارات الدراجات."
+      },
+      {
+        "speaker": "Caio",
+        "pt": "Realmente, é uma boa sugestão.",
+        "en": "Really, that is a good suggestion.",
+        "ar": "حقاً، إنه اقتراح جيد."
+      },
+      {
+        "speaker": "Lia",
+        "pt": "Na minha opinião, tudo é uma questão de planejamento.",
+        "en": "In my opinion, everything is a matter of planning.",
+        "ar": "برأيي، كل شيء مسألة تخطيط."
+      }
+    ]
+  },
+  "reading": {
+    "title": {
+      "pt": "Minha opinião sobre reciclagem",
+      "en": "My opinion about recycling",
+      "ar": "رأيي في إعادة التدوير"
+    },
+    "text_pt": "Na minha opinião, a reciclagem deveria ser obrigatória em todas as cidades. Acho que o lixo é um dos maiores problemas do nosso tempo. Contudo, muita gente ainda não separa o lixo em casa. Por isso, é preciso mais educação ambiental.",
+    "text_en": "In my opinion, recycling should be mandatory in every city. I think waste is one of the biggest problems of our time. However, many people still do not sort their garbage at home. Therefore, more environmental education is needed.",
+    "text_ar": "برأيي، ينبغي أن تكون إعادة التدوير إلزامية في جميع المدن. أعتقد أن النفايات من أكبر مشاكل عصرنا. ومع ذلك، لا يزال كثيرون لا يفرزون النفايات في المنزل. لذلك، نحتاج إلى مزيد من التوعية البيئية."
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Complete: \"___ minha opinião, a cidade precisa de mais transporte público.\"",
+        "en": "Complete: \"___ my opinion, the city needs more public transportation.\"",
+        "ar": "أكمل: \"___ رأيي، المدينة بحاجة إلى المزيد من وسائل النقل العام.\""
+      },
+      "options": [
+        {
+          "pt": "Na",
+          "en": "In",
+          "ar": "في"
+        },
+        {
+          "pt": "De",
+          "en": "Of",
+          "ar": "من"
+        },
+        {
+          "pt": "Em",
+          "en": "In (neutral)",
+          "ar": "في (محايد)"
+        },
+        {
+          "pt": "Com",
+          "en": "With",
+          "ar": "مع"
+        }
+      ],
+      "answer": "Na",
+      "explanation": {
+        "pt": "A expressão fixa é 'na minha opinião', com contração de 'em' + 'a'.",
+        "en": "The fixed expression is 'na minha opinião', with the contraction of 'em' + 'a'.",
+        "ar": "التعبير الثابت هو 'na minha opinião' أي برأيي، مع دمج 'em' و'a'."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Escolha o conector de causa: \"Ele não veio ___ estava doente.\"",
+        "en": "Choose the cause connector: \"He did not come ___ he was sick.\"",
+        "ar": "اختر أداة السبب: \"لم يأتِ ___ كان مريضاً.\""
+      },
+      "options": [
+        {
+          "pt": "porque",
+          "en": "because",
+          "ar": "لأن"
+        },
+        {
+          "pt": "por isso",
+          "en": "therefore",
+          "ar": "لذلك"
+        },
+        {
+          "pt": "contudo",
+          "en": "however",
+          "ar": "ومع ذلك"
+        },
+        {
+          "pt": "apesar de",
+          "en": "despite",
+          "ar": "رغم"
+        }
+      ],
+      "answer": "porque",
+      "explanation": {
+        "pt": "'Porque' introduz a causa; 'por isso' e 'contudo' têm outros sentidos.",
+        "en": "'Porque' introduces the cause; 'por isso' and 'contudo' have other meanings.",
+        "ar": "تُدخل 'porque' السبب، بينما 'por isso' و'contudo' لها معانٍ أخرى."
+      }
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"I think the government should invest in education.\"",
+        "en": "Translate to Portuguese: \"I think the government should invest in education.\"",
+        "ar": "ترجم إلى البرتغالية: \"I think the government should invest in education.\""
+      },
+      "options": [],
+      "answer": "Acho que o governo deveria investir em educação.",
+      "explanation": {
+        "pt": "'Acho que' + 'deveria' (futuro do pretérito) expressa opinião pessoal com sugestão.",
+        "en": "'Acho que' + 'deveria' (conditional) expresses a personal opinion with a suggestion.",
+        "ar": "يعبّر 'acho que' مع 'deveria' (الماضي المستقبلي) عن رأي شخصي مع اقتراح."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "cidade",
+          "en": "cidade",
+          "ar": "cidade"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "mais",
+          "en": "mais",
+          "ar": "mais"
+        },
+        {
+          "pt": "Acho",
+          "en": "Acho",
+          "ar": "Acho"
+        },
+        {
+          "pt": "precisa",
+          "en": "precisa",
+          "ar": "precisa"
+        },
+        {
+          "pt": "transporte",
+          "en": "transporte",
+          "ar": "transporte"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "público.",
+          "en": "público.",
+          "ar": "público."
+        }
+      ],
+      "answer": "Acho que a cidade precisa de mais transporte público.",
+      "accepted": [
+        "Acho que a cidade precisa de mais transporte público."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Acho que a cidade precisa de mais transporte público.'",
+        "en": "The correct order: 'I think the city needs more public transportation.'",
+        "ar": "الترتيب الصحيح: 'أعتقد أن المدينة بحاجة إلى المزيد من وسائل النقل العام.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "na minha opinião",
+          "en": "to agree",
+          "ar": "na minha opinião"
+        },
+        {
+          "pt": "concordar",
+          "en": "in my opinion",
+          "ar": "concordar"
+        },
+        {
+          "pt": "discordar",
+          "en": "the opinion",
+          "ar": "discordar"
+        },
+        {
+          "pt": "a opinião",
+          "en": "the argument",
+          "ar": "a opinião"
+        },
+        {
+          "pt": "o argumento",
+          "en": "to disagree",
+          "ar": "o argumento"
+        },
+        {
+          "pt": "acho que",
+          "en": "I think that",
+          "ar": "acho que"
+        }
+      ],
+      "answer": "na minha opinião::to agree|concordar::in my opinion|discordar::the opinion|a opinião::the argument|o argumento::to disagree|acho que::I think that",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Discordo um pouco: primeiro precisamos de mais ciclovias.",
+          "en": "I disagree a little: first we need more bike lanes.",
+          "ar": "أوافقك، لكن بناء المترو مكلف، ومع ذلك، ضروري."
+        },
+        {
+          "pt": "Acho que a cidade precisa de mais transporte público.",
+          "en": "I agree, but building a subway is expensive; however, it is necessary.",
+          "ar": "أعتقد أن المدينة بحاجة إلى المزيد من وسائل النقل العام."
+        },
+        {
+          "pt": "Concordo, mas construir metrô é caro, contudo, necessário.",
+          "en": "I think the city needs more public transportation.",
+          "ar": "أخالفك قليلاً: نحتاج أولاً إلى المزيد من مسارات الدراجات."
+        }
+      ],
+      "answer": "Acho que a cidade precisa de mais transporte público.",
+      "accepted": [],
+      "audio": "Acho que a cidade precisa de mais transporte público.",
+      "explanation": {
+        "pt": "Você ouviu: 'Acho que a cidade precisa de mais transporte público.' — 'I think the city needs more public transportation.'",
+        "en": "You heard: 'Acho que a cidade precisa de mais transporte público.' — 'I think the city needs more public transportation.'",
+        "ar": "سمعت: 'Acho que a cidade precisa de mais transporte público.' — 'أعتقد أن المدينة بحاجة إلى المزيد من وسائل النقل العام.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Realmente, é uma boa sugestão.",
+          "en": "In my opinion, everything is a matter of planning.",
+          "ar": "برأيي، كل شيء مسألة تخطيط."
+        },
+        {
+          "pt": "Na minha opinião, tudo é uma questão de planejamento.",
+          "en": "Really, that is a good suggestion.",
+          "ar": "أوافقك، لكن بناء المترو مكلف، ومع ذلك، ضروري."
+        },
+        {
+          "pt": "Concordo, mas construir metrô é caro, contudo, necessário.",
+          "en": "I agree, but building a subway is expensive; however, it is necessary.",
+          "ar": "حقاً، إنه اقتراح جيد."
+        }
+      ],
+      "answer": "Concordo, mas construir metrô é caro, contudo, necessário.",
+      "accepted": [],
+      "audio": "Concordo, mas construir metrô é caro, contudo, necessário.",
+      "explanation": {
+        "pt": "Você ouviu: 'Concordo, mas construir metrô é caro, contudo, necessário.' — 'I agree, but building a subway is expensive; however, it is necessary.'",
+        "en": "You heard: 'Concordo, mas construir metrô é caro, contudo, necessário.' — 'I agree, but building a subway is expensive; however, it is necessary.'",
+        "ar": "سمعت: 'Concordo, mas construir metrô é caro, contudo, necessário.' — 'أوافقك، لكن بناء المترو مكلف، ومع ذلك، ضروري.'"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Acho que ___ filme é muito bom.",
+        "en": "Acho que ___ filme é muito bom.",
+        "ar": "Acho que ___ filme é muito bom."
+      },
+      "options": [
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "Na",
+          "en": "Na",
+          "ar": "Na"
+        },
+        {
+          "pt": "ideia",
+          "en": "ideia",
+          "ar": "ideia"
+        }
+      ],
+      "answer": "o",
+      "accepted": [],
+      "explanation": {
+        "pt": "A resposta é 'o'. Frase completa: Acho que o filme é muito bom.",
+        "en": "The answer is 'o'. Full sentence: I think the movie is very good.",
+        "ar": "الإجابة الصحيحة: 'o'. الجملة كاملة: أعتقد أن الفيلم جيد جداً."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "precisa",
+          "en": "precisa",
+          "ar": "precisa"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "público.",
+          "en": "público.",
+          "ar": "público."
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "transporte",
+          "en": "transporte",
+          "ar": "transporte"
+        },
+        {
+          "pt": "Acho",
+          "en": "Acho",
+          "ar": "Acho"
+        },
+        {
+          "pt": "cidade",
+          "en": "cidade",
+          "ar": "cidade"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "mais",
+          "en": "mais",
+          "ar": "mais"
+        }
+      ],
+      "answer": "Acho que a cidade precisa de mais transporte público.",
+      "accepted": [
+        "Acho que a cidade precisa de mais transporte público."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Acho que a cidade precisa de mais transporte público.'",
+        "en": "The correct order: 'I think the city needs more public transportation.'",
+        "ar": "الترتيب الصحيح: 'أعتقد أن المدينة بحاجة إلى المزيد من وسائل النقل العام.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "discordar",
+          "en": "in my opinion",
+          "ar": "discordar"
+        },
+        {
+          "pt": "na minha opinião",
+          "en": "to disagree",
+          "ar": "na minha opinião"
+        },
+        {
+          "pt": "a opinião",
+          "en": "the opinion",
+          "ar": "a opinião"
+        },
+        {
+          "pt": "acho que",
+          "en": "to agree",
+          "ar": "acho que"
+        },
+        {
+          "pt": "o argumento",
+          "en": "the argument",
+          "ar": "o argumento"
+        },
+        {
+          "pt": "concordar",
+          "en": "I think that",
+          "ar": "concordar"
+        }
+      ],
+      "answer": "discordar::in my opinion|na minha opinião::to disagree|a opinião::the opinion|acho que::to agree|o argumento::the argument|concordar::I think that",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Discordo um pouco: primeiro precisamos de mais ciclovias.",
+          "en": "I disagree a little: first we need more bike lanes.",
+          "ar": "أعتقد أن المدينة بحاجة إلى المزيد من وسائل النقل العام."
+        },
+        {
+          "pt": "Na minha opinião, tudo é uma questão de planejamento.",
+          "en": "In my opinion, everything is a matter of planning.",
+          "ar": "أخالفك قليلاً: نحتاج أولاً إلى المزيد من مسارات الدراجات."
+        },
+        {
+          "pt": "Acho que a cidade precisa de mais transporte público.",
+          "en": "I think the city needs more public transportation.",
+          "ar": "برأيي، كل شيء مسألة تخطيط."
+        }
+      ],
+      "answer": "Acho que a cidade precisa de mais transporte público.",
+      "accepted": [],
+      "audio": "Acho que a cidade precisa de mais transporte público.",
+      "explanation": {
+        "pt": "Você ouviu: 'Acho que a cidade precisa de mais transporte público.' — 'I think the city needs more public transportation.'",
+        "en": "You heard: 'Acho que a cidade precisa de mais transporte público.' — 'I think the city needs more public transportation.'",
+        "ar": "سمعت: 'Acho que a cidade precisa de mais transporte público.' — 'أعتقد أن المدينة بحاجة إلى المزيد من وسائل النقل العام.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Concordo, mas construir metrô é caro, contudo, necessário.",
+          "en": "Therefore, the government should invest more.",
+          "ar": "أوافقك، لكن بناء المترو مكلف، ومع ذلك، ضروري."
+        },
+        {
+          "pt": "Na minha opinião, tudo é uma questão de planejamento.",
+          "en": "I agree, but building a subway is expensive; however, it is necessary.",
+          "ar": "برأيي، كل شيء مسألة تخطيط."
+        },
+        {
+          "pt": "Por isso, o governo deveria investir mais.",
+          "en": "In my opinion, everything is a matter of planning.",
+          "ar": "لذلك، ينبغي على الحكومة أن تستثمر أكثر."
+        }
+      ],
+      "answer": "Concordo, mas construir metrô é caro, contudo, necessário.",
+      "accepted": [],
+      "audio": "Concordo, mas construir metrô é caro, contudo, necessário.",
+      "explanation": {
+        "pt": "Você ouviu: 'Concordo, mas construir metrô é caro, contudo, necessário.' — 'I agree, but building a subway is expensive; however, it is necessary.'",
+        "en": "You heard: 'Concordo, mas construir metrô é caro, contudo, necessário.' — 'I agree, but building a subway is expensive; however, it is necessary.'",
+        "ar": "سمعت: 'Concordo, mas construir metrô é caro, contudo, necessário.' — 'أوافقك، لكن بناء المترو مكلف، ومع ذلك، ضروري.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "cidade",
+          "en": "cidade",
+          "ar": "cidade"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "precisa",
+          "en": "precisa",
+          "ar": "precisa"
+        },
+        {
+          "pt": "transporte",
+          "en": "transporte",
+          "ar": "transporte"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "Acho",
+          "en": "Acho",
+          "ar": "Acho"
+        },
+        {
+          "pt": "mais",
+          "en": "mais",
+          "ar": "mais"
+        },
+        {
+          "pt": "público.",
+          "en": "público.",
+          "ar": "público."
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        }
+      ],
+      "answer": "Acho que a cidade precisa de mais transporte público.",
+      "accepted": [
+        "Acho que a cidade precisa de mais transporte público."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Acho que a cidade precisa de mais transporte público.'",
+        "en": "The correct order: 'I think the city needs more public transportation.'",
+        "ar": "الترتيب الصحيح: 'أعتقد أن المدينة بحاجة إلى المزيد من وسائل النقل العام.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a opinião",
+          "en": "to agree",
+          "ar": "a opinião"
+        },
+        {
+          "pt": "concordar",
+          "en": "in my opinion",
+          "ar": "concordar"
+        },
+        {
+          "pt": "acho que",
+          "en": "I think that",
+          "ar": "acho que"
+        },
+        {
+          "pt": "o argumento",
+          "en": "to disagree",
+          "ar": "o argumento"
+        },
+        {
+          "pt": "discordar",
+          "en": "the opinion",
+          "ar": "discordar"
+        },
+        {
+          "pt": "na minha opinião",
+          "en": "the argument",
+          "ar": "na minha opinião"
+        }
+      ],
+      "answer": "a opinião::to agree|concordar::in my opinion|acho que::I think that|o argumento::to disagree|discordar::the opinion|na minha opinião::the argument",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Acho que a cidade precisa de mais transporte público.",
+          "en": "In my opinion, everything is a matter of planning.",
+          "ar": "أعتقد أن المدينة بحاجة إلى المزيد من وسائل النقل العام."
+        },
+        {
+          "pt": "Concordo, mas construir metrô é caro, contudo, necessário.",
+          "en": "I agree, but building a subway is expensive; however, it is necessary.",
+          "ar": "أوافقك، لكن بناء المترو مكلف، ومع ذلك، ضروري."
+        },
+        {
+          "pt": "Na minha opinião, tudo é uma questão de planejamento.",
+          "en": "I think the city needs more public transportation.",
+          "ar": "برأيي، كل شيء مسألة تخطيط."
+        }
+      ],
+      "answer": "Acho que a cidade precisa de mais transporte público.",
+      "accepted": [],
+      "audio": "Acho que a cidade precisa de mais transporte público.",
+      "explanation": {
+        "pt": "Você ouviu: 'Acho que a cidade precisa de mais transporte público.' — 'I think the city needs more public transportation.'",
+        "en": "You heard: 'Acho que a cidade precisa de mais transporte público.' — 'I think the city needs more public transportation.'",
+        "ar": "سمعت: 'Acho que a cidade precisa de mais transporte público.' — 'أعتقد أن المدينة بحاجة إلى المزيد من وسائل النقل العام.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Na minha opinião, tudo é uma questão de planejamento.",
+          "en": "I agree, but building a subway is expensive; however, it is necessary.",
+          "ar": "برأيي، كل شيء مسألة تخطيط."
+        },
+        {
+          "pt": "Concordo, mas construir metrô é caro, contudo, necessário.",
+          "en": "In my opinion, everything is a matter of planning.",
+          "ar": "أوافقك، لكن بناء المترو مكلف، ومع ذلك، ضروري."
+        },
+        {
+          "pt": "Acho que a cidade precisa de mais transporte público.",
+          "en": "I think the city needs more public transportation.",
+          "ar": "أعتقد أن المدينة بحاجة إلى المزيد من وسائل النقل العام."
+        }
+      ],
+      "answer": "Concordo, mas construir metrô é caro, contudo, necessário.",
+      "accepted": [],
+      "audio": "Concordo, mas construir metrô é caro, contudo, necessário.",
+      "explanation": {
+        "pt": "Você ouviu: 'Concordo, mas construir metrô é caro, contudo, necessário.' — 'I agree, but building a subway is expensive; however, it is necessary.'",
+        "en": "You heard: 'Concordo, mas construir metrô é caro, contudo, necessário.' — 'I agree, but building a subway is expensive; however, it is necessary.'",
+        "ar": "سمعت: 'Concordo, mas construir metrô é caro, contudo, necessário.' — 'أوافقك، لكن بناء المترو مكلف، ومع ذلك، ضروري.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Acho",
+          "en": "Acho",
+          "ar": "Acho"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "mais",
+          "en": "mais",
+          "ar": "mais"
+        },
+        {
+          "pt": "precisa",
+          "en": "precisa",
+          "ar": "precisa"
+        },
+        {
+          "pt": "cidade",
+          "en": "cidade",
+          "ar": "cidade"
+        },
+        {
+          "pt": "público.",
+          "en": "público.",
+          "ar": "público."
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "transporte",
+          "en": "transporte",
+          "ar": "transporte"
+        }
+      ],
+      "answer": "Acho que a cidade precisa de mais transporte público.",
+      "accepted": [
+        "Acho que a cidade precisa de mais transporte público."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Acho que a cidade precisa de mais transporte público.'",
+        "en": "The correct order: 'I think the city needs more public transportation.'",
+        "ar": "الترتيب الصحيح: 'أعتقد أن المدينة بحاجة إلى المزيد من وسائل النقل العام.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "acho que",
+          "en": "to disagree",
+          "ar": "acho que"
+        },
+        {
+          "pt": "a opinião",
+          "en": "the argument",
+          "ar": "a opinião"
+        },
+        {
+          "pt": "na minha opinião",
+          "en": "in my opinion",
+          "ar": "na minha opinião"
+        },
+        {
+          "pt": "concordar",
+          "en": "I think that",
+          "ar": "concordar"
+        },
+        {
+          "pt": "discordar",
+          "en": "the opinion",
+          "ar": "discordar"
+        },
+        {
+          "pt": "o argumento",
+          "en": "to agree",
+          "ar": "o argumento"
+        }
+      ],
+      "answer": "acho que::to disagree|a opinião::the argument|na minha opinião::in my opinion|concordar::I think that|discordar::the opinion|o argumento::to agree",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Acho que a cidade precisa de mais transporte público.",
+          "en": "I agree, but building a subway is expensive; however, it is necessary.",
+          "ar": "أوافقك، لكن بناء المترو مكلف، ومع ذلك، ضروري."
+        },
+        {
+          "pt": "Concordo, mas construir metrô é caro, contudo, necessário.",
+          "en": "Therefore, the government should invest more.",
+          "ar": "لذلك، ينبغي على الحكومة أن تستثمر أكثر."
+        },
+        {
+          "pt": "Por isso, o governo deveria investir mais.",
+          "en": "I think the city needs more public transportation.",
+          "ar": "أعتقد أن المدينة بحاجة إلى المزيد من وسائل النقل العام."
+        }
+      ],
+      "answer": "Acho que a cidade precisa de mais transporte público.",
+      "accepted": [],
+      "audio": "Acho que a cidade precisa de mais transporte público.",
+      "explanation": {
+        "pt": "Você ouviu: 'Acho que a cidade precisa de mais transporte público.' — 'I think the city needs more public transportation.'",
+        "en": "You heard: 'Acho que a cidade precisa de mais transporte público.' — 'I think the city needs more public transportation.'",
+        "ar": "سمعت: 'Acho que a cidade precisa de mais transporte público.' — 'أعتقد أن المدينة بحاجة إلى المزيد من وسائل النقل العام.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Realmente, é uma boa sugestão.",
+          "en": "I think the city needs more public transportation.",
+          "ar": "حقاً، إنه اقتراح جيد."
+        },
+        {
+          "pt": "Acho que a cidade precisa de mais transporte público.",
+          "en": "I agree, but building a subway is expensive; however, it is necessary.",
+          "ar": "أعتقد أن المدينة بحاجة إلى المزيد من وسائل النقل العام."
+        },
+        {
+          "pt": "Concordo, mas construir metrô é caro, contudo, necessário.",
+          "en": "Really, that is a good suggestion.",
+          "ar": "أوافقك، لكن بناء المترو مكلف، ومع ذلك، ضروري."
+        }
+      ],
+      "answer": "Concordo, mas construir metrô é caro, contudo, necessário.",
+      "accepted": [],
+      "audio": "Concordo, mas construir metrô é caro, contudo, necessário.",
+      "explanation": {
+        "pt": "Você ouviu: 'Concordo, mas construir metrô é caro, contudo, necessário.' — 'I agree, but building a subway is expensive; however, it is necessary.'",
+        "en": "You heard: 'Concordo, mas construir metrô é caro, contudo, necessário.' — 'I agree, but building a subway is expensive; however, it is necessary.'",
+        "ar": "سمعت: 'Concordo, mas construir metrô é caro, contudo, necessário.' — 'أوافقك، لكن بناء المترو مكلف، ومع ذلك، ضروري.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "Acho",
+          "en": "Acho",
+          "ar": "Acho"
+        },
+        {
+          "pt": "público.",
+          "en": "público.",
+          "ar": "público."
+        },
+        {
+          "pt": "mais",
+          "en": "mais",
+          "ar": "mais"
+        },
+        {
+          "pt": "transporte",
+          "en": "transporte",
+          "ar": "transporte"
+        },
+        {
+          "pt": "cidade",
+          "en": "cidade",
+          "ar": "cidade"
+        },
+        {
+          "pt": "precisa",
+          "en": "precisa",
+          "ar": "precisa"
+        }
+      ],
+      "answer": "Acho que a cidade precisa de mais transporte público.",
+      "accepted": [
+        "Acho que a cidade precisa de mais transporte público."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Acho que a cidade precisa de mais transporte público.'",
+        "en": "The correct order: 'I think the city needs more public transportation.'",
+        "ar": "الترتيب الصحيح: 'أعتقد أن المدينة بحاجة إلى المزيد من وسائل النقل العام.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o argumento",
+          "en": "the opinion",
+          "ar": "o argumento"
+        },
+        {
+          "pt": "concordar",
+          "en": "I think that",
+          "ar": "concordar"
+        },
+        {
+          "pt": "acho que",
+          "en": "to disagree",
+          "ar": "acho que"
+        },
+        {
+          "pt": "a opinião",
+          "en": "the argument",
+          "ar": "a opinião"
+        },
+        {
+          "pt": "discordar",
+          "en": "in my opinion",
+          "ar": "discordar"
+        },
+        {
+          "pt": "na minha opinião",
+          "en": "to agree",
+          "ar": "na minha opinião"
+        }
+      ],
+      "answer": "o argumento::the opinion|concordar::I think that|acho que::to disagree|a opinião::the argument|discordar::in my opinion|na minha opinião::to agree",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Acho que a cidade precisa de mais transporte público.",
+          "en": "I think the city needs more public transportation.",
+          "ar": "برأيي، كل شيء مسألة تخطيط."
+        },
+        {
+          "pt": "Discordo um pouco: primeiro precisamos de mais ciclovias.",
+          "en": "In my opinion, everything is a matter of planning.",
+          "ar": "أخالفك قليلاً: نحتاج أولاً إلى المزيد من مسارات الدراجات."
+        },
+        {
+          "pt": "Na minha opinião, tudo é uma questão de planejamento.",
+          "en": "I disagree a little: first we need more bike lanes.",
+          "ar": "أعتقد أن المدينة بحاجة إلى المزيد من وسائل النقل العام."
+        }
+      ],
+      "answer": "Acho que a cidade precisa de mais transporte público.",
+      "accepted": [],
+      "audio": "Acho que a cidade precisa de mais transporte público.",
+      "explanation": {
+        "pt": "Você ouviu: 'Acho que a cidade precisa de mais transporte público.' — 'I think the city needs more public transportation.'",
+        "en": "You heard: 'Acho que a cidade precisa de mais transporte público.' — 'I think the city needs more public transportation.'",
+        "ar": "سمعت: 'Acho que a cidade precisa de mais transporte público.' — 'أعتقد أن المدينة بحاجة إلى المزيد من وسائل النقل العام.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Por isso, o governo deveria investir mais.",
+          "en": "Therefore, the government should invest more.",
+          "ar": "أوافقك، لكن بناء المترو مكلف، ومع ذلك، ضروري."
+        },
+        {
+          "pt": "Realmente, é uma boa sugestão.",
+          "en": "Really, that is a good suggestion.",
+          "ar": "لذلك، ينبغي على الحكومة أن تستثمر أكثر."
+        },
+        {
+          "pt": "Concordo, mas construir metrô é caro, contudo, necessário.",
+          "en": "I agree, but building a subway is expensive; however, it is necessary.",
+          "ar": "حقاً، إنه اقتراح جيد."
+        }
+      ],
+      "answer": "Concordo, mas construir metrô é caro, contudo, necessário.",
+      "accepted": [],
+      "audio": "Concordo, mas construir metrô é caro, contudo, necessário.",
+      "explanation": {
+        "pt": "Você ouviu: 'Concordo, mas construir metrô é caro, contudo, necessário.' — 'I agree, but building a subway is expensive; however, it is necessary.'",
+        "en": "You heard: 'Concordo, mas construir metrô é caro, contudo, necessário.' — 'I agree, but building a subway is expensive; however, it is necessary.'",
+        "ar": "سمعت: 'Concordo, mas construir metrô é caro, contudo, necessário.' — 'أوافقك، لكن بناء المترو مكلف، ومع ذلك، ضروري.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "transporte",
+          "en": "transporte",
+          "ar": "transporte"
+        },
+        {
+          "pt": "mais",
+          "en": "mais",
+          "ar": "mais"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "Acho",
+          "en": "Acho",
+          "ar": "Acho"
+        },
+        {
+          "pt": "cidade",
+          "en": "cidade",
+          "ar": "cidade"
+        },
+        {
+          "pt": "público.",
+          "en": "público.",
+          "ar": "público."
+        },
+        {
+          "pt": "precisa",
+          "en": "precisa",
+          "ar": "precisa"
+        }
+      ],
+      "answer": "Acho que a cidade precisa de mais transporte público.",
+      "accepted": [
+        "Acho que a cidade precisa de mais transporte público."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Acho que a cidade precisa de mais transporte público.'",
+        "en": "The correct order: 'I think the city needs more public transportation.'",
+        "ar": "الترتيب الصحيح: 'أعتقد أن المدينة بحاجة إلى المزيد من وسائل النقل العام.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "na minha opinião",
+          "en": "the opinion",
+          "ar": "na minha opinião"
+        },
+        {
+          "pt": "o argumento",
+          "en": "to agree",
+          "ar": "o argumento"
+        },
+        {
+          "pt": "discordar",
+          "en": "in my opinion",
+          "ar": "discordar"
+        },
+        {
+          "pt": "acho que",
+          "en": "the argument",
+          "ar": "acho que"
+        },
+        {
+          "pt": "concordar",
+          "en": "I think that",
+          "ar": "concordar"
+        },
+        {
+          "pt": "a opinião",
+          "en": "to disagree",
+          "ar": "a opinião"
+        }
+      ],
+      "answer": "na minha opinião::the opinion|o argumento::to agree|discordar::in my opinion|acho que::the argument|concordar::I think that|a opinião::to disagree",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Na minha opinião, tudo é uma questão de planejamento.",
+          "en": "In my opinion, everything is a matter of planning.",
+          "ar": "برأيي، كل شيء مسألة تخطيط."
+        },
+        {
+          "pt": "Acho que a cidade precisa de mais transporte público.",
+          "en": "I think the city needs more public transportation.",
+          "ar": "أعتقد أن المدينة بحاجة إلى المزيد من وسائل النقل العام."
+        },
+        {
+          "pt": "Por isso, o governo deveria investir mais.",
+          "en": "Therefore, the government should invest more.",
+          "ar": "لذلك، ينبغي على الحكومة أن تستثمر أكثر."
+        }
+      ],
+      "answer": "Acho que a cidade precisa de mais transporte público.",
+      "accepted": [],
+      "audio": "Acho que a cidade precisa de mais transporte público.",
+      "explanation": {
+        "pt": "Você ouviu: 'Acho que a cidade precisa de mais transporte público.' — 'I think the city needs more public transportation.'",
+        "en": "You heard: 'Acho que a cidade precisa de mais transporte público.' — 'I think the city needs more public transportation.'",
+        "ar": "سمعت: 'Acho que a cidade precisa de mais transporte público.' — 'أعتقد أن المدينة بحاجة إلى المزيد من وسائل النقل العام.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Concordo, mas construir metrô é caro, contudo, necessário.",
+          "en": "I disagree a little: first we need more bike lanes.",
+          "ar": "لذلك، ينبغي على الحكومة أن تستثمر أكثر."
+        },
+        {
+          "pt": "Por isso, o governo deveria investir mais.",
+          "en": "I agree, but building a subway is expensive; however, it is necessary.",
+          "ar": "أوافقك، لكن بناء المترو مكلف، ومع ذلك، ضروري."
+        },
+        {
+          "pt": "Discordo um pouco: primeiro precisamos de mais ciclovias.",
+          "en": "Therefore, the government should invest more.",
+          "ar": "أخالفك قليلاً: نحتاج أولاً إلى المزيد من مسارات الدراجات."
+        }
+      ],
+      "answer": "Concordo, mas construir metrô é caro, contudo, necessário.",
+      "accepted": [],
+      "audio": "Concordo, mas construir metrô é caro, contudo, necessário.",
+      "explanation": {
+        "pt": "Você ouviu: 'Concordo, mas construir metrô é caro, contudo, necessário.' — 'I agree, but building a subway is expensive; however, it is necessary.'",
+        "en": "You heard: 'Concordo, mas construir metrô é caro, contudo, necessário.' — 'I agree, but building a subway is expensive; however, it is necessary.'",
+        "ar": "سمعت: 'Concordo, mas construir metrô é caro, contudo, necessário.' — 'أوافقك، لكن بناء المترو مكلف، ومع ذلك، ضروري.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "público.",
+          "en": "público.",
+          "ar": "público."
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "transporte",
+          "en": "transporte",
+          "ar": "transporte"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "precisa",
+          "en": "precisa",
+          "ar": "precisa"
+        },
+        {
+          "pt": "mais",
+          "en": "mais",
+          "ar": "mais"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "Acho",
+          "en": "Acho",
+          "ar": "Acho"
+        },
+        {
+          "pt": "cidade",
+          "en": "cidade",
+          "ar": "cidade"
+        }
+      ],
+      "answer": "Acho que a cidade precisa de mais transporte público.",
+      "accepted": [
+        "Acho que a cidade precisa de mais transporte público."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Acho que a cidade precisa de mais transporte público.'",
+        "en": "The correct order: 'I think the city needs more public transportation.'",
+        "ar": "الترتيب الصحيح: 'أعتقد أن المدينة بحاجة إلى المزيد من وسائل النقل العام.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "concordar",
+          "en": "I think that",
+          "ar": "concordar"
+        },
+        {
+          "pt": "a opinião",
+          "en": "the argument",
+          "ar": "a opinião"
+        },
+        {
+          "pt": "discordar",
+          "en": "to agree",
+          "ar": "discordar"
+        },
+        {
+          "pt": "acho que",
+          "en": "to disagree",
+          "ar": "acho que"
+        },
+        {
+          "pt": "o argumento",
+          "en": "the opinion",
+          "ar": "o argumento"
+        },
+        {
+          "pt": "na minha opinião",
+          "en": "in my opinion",
+          "ar": "na minha opinião"
+        }
+      ],
+      "answer": "concordar::I think that|a opinião::the argument|discordar::to agree|acho que::to disagree|o argumento::the opinion|na minha opinião::in my opinion",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Por isso, o governo deveria investir mais.",
+          "en": "I think the city needs more public transportation.",
+          "ar": "لذلك، ينبغي على الحكومة أن تستثمر أكثر."
+        },
+        {
+          "pt": "Acho que a cidade precisa de mais transporte público.",
+          "en": "Therefore, the government should invest more.",
+          "ar": "برأيي، كل شيء مسألة تخطيط."
+        },
+        {
+          "pt": "Na minha opinião, tudo é uma questão de planejamento.",
+          "en": "In my opinion, everything is a matter of planning.",
+          "ar": "أعتقد أن المدينة بحاجة إلى المزيد من وسائل النقل العام."
+        }
+      ],
+      "answer": "Acho que a cidade precisa de mais transporte público.",
+      "accepted": [],
+      "audio": "Acho que a cidade precisa de mais transporte público.",
+      "explanation": {
+        "pt": "Você ouviu: 'Acho que a cidade precisa de mais transporte público.' — 'I think the city needs more public transportation.'",
+        "en": "You heard: 'Acho que a cidade precisa de mais transporte público.' — 'I think the city needs more public transportation.'",
+        "ar": "سمعت: 'Acho que a cidade precisa de mais transporte público.' — 'أعتقد أن المدينة بحاجة إلى المزيد من وسائل النقل العام.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Concordo, mas construir metrô é caro, contudo, necessário.",
+          "en": "Therefore, the government should invest more.",
+          "ar": "أوافقك، لكن بناء المترو مكلف، ومع ذلك، ضروري."
+        },
+        {
+          "pt": "Discordo um pouco: primeiro precisamos de mais ciclovias.",
+          "en": "I disagree a little: first we need more bike lanes.",
+          "ar": "لذلك، ينبغي على الحكومة أن تستثمر أكثر."
+        },
+        {
+          "pt": "Por isso, o governo deveria investir mais.",
+          "en": "I agree, but building a subway is expensive; however, it is necessary.",
+          "ar": "أخالفك قليلاً: نحتاج أولاً إلى المزيد من مسارات الدراجات."
+        }
+      ],
+      "answer": "Concordo, mas construir metrô é caro, contudo, necessário.",
+      "accepted": [],
+      "audio": "Concordo, mas construir metrô é caro, contudo, necessário.",
+      "explanation": {
+        "pt": "Você ouviu: 'Concordo, mas construir metrô é caro, contudo, necessário.' — 'I agree, but building a subway is expensive; however, it is necessary.'",
+        "en": "You heard: 'Concordo, mas construir metrô é caro, contudo, necessário.' — 'I agree, but building a subway is expensive; however, it is necessary.'",
+        "ar": "سمعت: 'Concordo, mas construir metrô é caro, contudo, necessário.' — 'أوافقك، لكن بناء المترو مكلف، ومع ذلك، ضروري.'"
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'the opinion'",
+        "en": "Type in Portuguese: 'the opinion'",
+        "ar": "اكتب بالبرتغالية: 'الرأي'"
+      },
+      "options": [],
+      "answer": "a opinião",
+      "accepted": [
+        "a opinião"
+      ],
+      "explanation": {
+        "pt": "'a opinião' significa 'the opinion'.",
+        "en": "'a opinião' means 'the opinion'.",
+        "ar": "'$a opinião' بالعربية: '$الرأي'."
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'to agree'",
+        "en": "Type in Portuguese: 'to agree'",
+        "ar": "اكتب بالبرتغالية: 'يوافق'"
+      },
+      "options": [],
+      "answer": "concordar",
+      "accepted": [
+        "concordar"
+      ],
+      "explanation": {
+        "pt": "'concordar' significa 'to agree'.",
+        "en": "'concordar' means 'to agree'.",
+        "ar": "'$concordar' بالعربية: '$يوافق'."
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Concordo, mas construir metrô é caro, contudo, necessário.",
+          "en": "Concordo, mas construir metrô é caro, contudo, necessário.",
+          "ar": "Concordo, mas construir metrô é caro, contudo, necessário."
+        },
+        {
+          "pt": "Realmente, é uma boa sugestão.",
+          "en": "Realmente, é uma boa sugestão.",
+          "ar": "Realmente, é uma boa sugestão."
+        },
+        {
+          "pt": "Acho que a cidade precisa de mais transporte público.",
+          "en": "Acho que a cidade precisa de mais transporte público.",
+          "ar": "Acho que a cidade precisa de mais transporte público."
+        }
+      ],
+      "answer": "Acho que a cidade precisa de mais transporte público.",
+      "accepted": [],
+      "audio": "Acho que a cidade precisa de mais transporte público.",
+      "explanation": {
+        "pt": "Você ouviu: 'Acho que a cidade precisa de mais transporte público.'",
+        "en": "You heard: 'Acho que a cidade precisa de mais transporte público.'",
+        "ar": "سمعت: 'Acho que a cidade precisa de mais transporte público.'"
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Concordo, mas construir metrô é caro, contudo, necessário.",
+          "en": "Concordo, mas construir metrô é caro, contudo, necessário.",
+          "ar": "Concordo, mas construir metrô é caro, contudo, necessário."
+        },
+        {
+          "pt": "Discordo um pouco: primeiro precisamos de mais ciclovias.",
+          "en": "Discordo um pouco: primeiro precisamos de mais ciclovias.",
+          "ar": "Discordo um pouco: primeiro precisamos de mais ciclovias."
+        },
+        {
+          "pt": "Realmente, é uma boa sugestão.",
+          "en": "Realmente, é uma boa sugestão.",
+          "ar": "Realmente, é uma boa sugestão."
+        }
+      ],
+      "answer": "Concordo, mas construir metrô é caro, contudo, necessário.",
+      "accepted": [],
+      "audio": "Concordo, mas construir metrô é caro, contudo, necessário.",
+      "explanation": {
+        "pt": "Você ouviu: 'Concordo, mas construir metrô é caro, contudo, necessário.'",
+        "en": "You heard: 'Concordo, mas construir metrô é caro, contudo, necessário.'",
+        "ar": "سمعت: 'Concordo, mas construir metrô é caro, contudo, necessário.'"
+      }
+    },
+    {
+      "type": "dictation",
+      "prompt": {
+        "pt": "Ouça e escreva o que você ouviu.",
+        "en": "Listen and type what you hear.",
+        "ar": "استمع واكتب ما سمعته."
+      },
+      "options": [],
+      "answer": "Acho que a cidade precisa de mais transporte público.",
+      "accepted": [],
+      "audio": "Acho que a cidade precisa de mais transporte público.",
+      "explanation": {
+        "pt": "A frase correta: 'Acho que a cidade precisa de mais transporte público.'",
+        "en": "The correct sentence: 'Acho que a cidade precisa de mais transporte público.'",
+        "ar": "الجملة الصحيحة: 'Acho que a cidade precisa de mais transporte público.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "mais",
+          "en": "mais",
+          "ar": "mais"
+        },
+        {
+          "pt": "Acho",
+          "en": "Acho",
+          "ar": "Acho"
+        },
+        {
+          "pt": "público.",
+          "en": "público.",
+          "ar": "público."
+        },
+        {
+          "pt": "transporte",
+          "en": "transporte",
+          "ar": "transporte"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "cidade",
+          "en": "cidade",
+          "ar": "cidade"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "precisa",
+          "en": "precisa",
+          "ar": "precisa"
+        }
+      ],
+      "answer": "Acho que a cidade precisa de mais transporte público.",
+      "accepted": [
+        "Acho que a cidade precisa de mais transporte público."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Acho que a cidade precisa de mais transporte público.'",
+        "en": "The correct order: 'I think the city needs more public transportation.'",
+        "ar": "الترتيب الصحيح: 'أعتقد أن المدينة بحاجة إلى المزيد من وسائل النقل العام.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "discordar",
+          "en": "the opinion",
+          "ar": "discordar"
+        },
+        {
+          "pt": "concordar",
+          "en": "I think that",
+          "ar": "concordar"
+        },
+        {
+          "pt": "o argumento",
+          "en": "to disagree",
+          "ar": "o argumento"
+        },
+        {
+          "pt": "a opinião",
+          "en": "the argument",
+          "ar": "a opinião"
+        },
+        {
+          "pt": "acho que",
+          "en": "in my opinion",
+          "ar": "acho que"
+        },
+        {
+          "pt": "na minha opinião",
+          "en": "to agree",
+          "ar": "na minha opinião"
+        }
+      ],
+      "answer": "discordar::the opinion|concordar::I think that|o argumento::to disagree|a opinião::the argument|acho que::in my opinion|na minha opinião::to agree",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Na minha opinião, tudo é uma questão de planejamento.",
+          "en": "I agree, but building a subway is expensive; however, it is necessary.",
+          "ar": "برأيي، كل شيء مسألة تخطيط."
+        },
+        {
+          "pt": "Concordo, mas construir metrô é caro, contudo, necessário.",
+          "en": "In my opinion, everything is a matter of planning.",
+          "ar": "أوافقك، لكن بناء المترو مكلف، ومع ذلك، ضروري."
+        },
+        {
+          "pt": "Acho que a cidade precisa de mais transporte público.",
+          "en": "I think the city needs more public transportation.",
+          "ar": "أعتقد أن المدينة بحاجة إلى المزيد من وسائل النقل العام."
+        }
+      ],
+      "answer": "Acho que a cidade precisa de mais transporte público.",
+      "accepted": [],
+      "audio": "Acho que a cidade precisa de mais transporte público.",
+      "explanation": {
+        "pt": "Você ouviu: 'Acho que a cidade precisa de mais transporte público.' — 'I think the city needs more public transportation.'",
+        "en": "You heard: 'Acho que a cidade precisa de mais transporte público.' — 'I think the city needs more public transportation.'",
+        "ar": "سمعت: 'Acho que a cidade precisa de mais transporte público.' — 'أعتقد أن المدينة بحاجة إلى المزيد من وسائل النقل العام.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Por isso, o governo deveria investir mais.",
+          "en": "I agree, but building a subway is expensive; however, it is necessary.",
+          "ar": "برأيي، كل شيء مسألة تخطيط."
+        },
+        {
+          "pt": "Na minha opinião, tudo é uma questão de planejamento.",
+          "en": "Therefore, the government should invest more.",
+          "ar": "لذلك، ينبغي على الحكومة أن تستثمر أكثر."
+        },
+        {
+          "pt": "Concordo, mas construir metrô é caro, contudo, necessário.",
+          "en": "In my opinion, everything is a matter of planning.",
+          "ar": "أوافقك، لكن بناء المترو مكلف، ومع ذلك، ضروري."
+        }
+      ],
+      "answer": "Concordo, mas construir metrô é caro, contudo, necessário.",
+      "accepted": [],
+      "audio": "Concordo, mas construir metrô é caro, contudo, necessário.",
+      "explanation": {
+        "pt": "Você ouviu: 'Concordo, mas construir metrô é caro, contudo, necessário.' — 'I agree, but building a subway is expensive; however, it is necessary.'",
+        "en": "You heard: 'Concordo, mas construir metrô é caro, contudo, necessário.' — 'I agree, but building a subway is expensive; however, it is necessary.'",
+        "ar": "سمعت: 'Concordo, mas construir metrô é caro, contudo, necessário.' — 'أوافقك، لكن بناء المترو مكلف، ومع ذلك، ضروري.'"
+      }
+    }
+  ],
+  "speaking": {
+    "title": {
+      "pt": "Fale Agora — Ouça e Repita",
+      "en": "Speak Now — Listen and Repeat",
+      "ar": "تحدث الآن — استمع وكرر"
+    },
+    "phrases": [
+      {
+        "pt": "Acho que a cidade precisa de mais transporte público.",
+        "en": "I think the city needs more public transportation.",
+        "ar": "أعتقد أن المدينة بحاجة إلى المزيد من وسائل النقل العام."
+      },
+      {
+        "pt": "Concordo, mas construir metrô é caro, contudo, necessário.",
+        "en": "I agree, but building a subway is expensive; however, it is necessary.",
+        "ar": "أوافقك، لكن بناء المترو مكلف، ومع ذلك، ضروري."
+      },
+      {
+        "pt": "Por isso, o governo deveria investir mais.",
+        "en": "Therefore, the government should invest more.",
+        "ar": "لذلك، ينبغي على الحكومة أن تستثمر أكثر."
+      },
+      {
+        "pt": "Discordo um pouco: primeiro precisamos de mais ciclovias.",
+        "en": "I disagree a little: first we need more bike lanes.",
+        "ar": "أخالفك قليلاً: نحتاج أولاً إلى المزيد من مسارات الدراجات."
+      },
+      {
+        "pt": "Realmente, é uma boa sugestão.",
+        "en": "Really, that is a good suggestion.",
+        "ar": "حقاً، إنه اقتراح جيد."
+      },
+      {
+        "pt": "Na minha opinião, tudo é uma questão de planejamento.",
+        "en": "In my opinion, everything is a matter of planning.",
+        "ar": "برأيي، كل شيء مسألة تخطيط."
+      },
+      {
+        "pt": "a opinião",
+        "en": "the opinion",
+        "ar": "الرأي"
+      },
+      {
+        "pt": "concordar",
+        "en": "to agree",
+        "ar": "يوافق"
+      },
+      {
+        "pt": "discordar",
+        "en": "to disagree",
+        "ar": "يخالف"
+      }
+    ]
+  },
+  "cultural_tips": {
+    "pt": "",
+    "en": "",
+    "ar": ""
+  }
+}

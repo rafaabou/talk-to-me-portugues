@@ -1,0 +1,2216 @@
+{
+  "id": "C2-10",
+  "level": "C2",
+  "level_name": {
+    "pt": "Proficiência",
+    "en": "Proficiency",
+    "ar": "إتقان"
+  },
+  "title": {
+    "pt": "Oratória e Apresentações",
+    "en": "Oratory and Presentations",
+    "ar": "الخطابة والعروض"
+  },
+  "objectives": [
+    {
+      "pt": "Estruturar discursos e apresentações com abertura, desenvolvimento e fechamento",
+      "en": "Structure speeches and presentations with an opening, development and closing",
+      "ar": "بناء الخطابات والعروض بافتتاحية وتطوير وخاتمة"
+    },
+    {
+      "pt": "Aplicar recursos retóricos de persuasão e ênfase",
+      "en": "Apply rhetorical devices of persuasion and emphasis",
+      "ar": "تطبيق الأدوات البلاغية للإقناع والتوكيد"
+    },
+    {
+      "pt": "Controlar pausas, gestos e contato visual",
+      "en": "Control pauses, gestures and eye contact",
+      "ar": "التحكم في التوقفات والإيماءات والتواصل البصري"
+    },
+    {
+      "pt": "Usar perguntas retóricas e estruturas de clivagem",
+      "en": "Use rhetorical questions and cleft structures",
+      "ar": "استخدام الأسئلة البلاغية وتراكيب التوكيد"
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "o discurso",
+      "ipa": "/dʒisˈkuʁ.su/",
+      "en": "speech",
+      "ar": "الخطاب",
+      "example": {
+        "pt": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
+        "en": "I will open with an anecdote to break the ice and win the audience.",
+        "ar": "سأفتتح بحكاية طريفة لكسر الجمود وكسب الجمهور."
+      }
+    },
+    {
+      "pt": "a plateia",
+      "ipa": "/plaˈtej.a/",
+      "en": "audience",
+      "ar": "الجمهور",
+      "example": {
+        "pt": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
+        "en": "I will open with an anecdote to break the ice and win the audience.",
+        "ar": "سأفتتح بحكاية طريفة لكسر الجمود وكسب الجمهور."
+      }
+    },
+    {
+      "pt": "o orador",
+      "ipa": "/o.ɾaˈdoʁ/",
+      "en": "speaker / orator",
+      "ar": "الخطيب",
+      "example": {
+        "pt": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
+        "en": "I will open with an anecdote to break the ice and win the audience.",
+        "ar": "سأفتتح بحكاية طريفة لكسر الجمود وكسب الجمهور."
+      }
+    },
+    {
+      "pt": "a persuasão",
+      "ipa": "/peʁ.suaˈzɐ̃w/",
+      "en": "persuasion",
+      "ar": "الإقناع",
+      "example": {
+        "pt": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
+        "en": "I will open with an anecdote to break the ice and win the audience.",
+        "ar": "سأفتتح بحكاية طريفة لكسر الجمود وكسب الجمهور."
+      }
+    },
+    {
+      "pt": "a retórica",
+      "ipa": "/xeˈtɔ.ɾi.ka/",
+      "en": "rhetoric",
+      "ar": "البلاغة",
+      "example": {
+        "pt": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
+        "en": "I will open with an anecdote to break the ice and win the audience.",
+        "ar": "سأفتتح بحكاية طريفة لكسر الجمود وكسب الجمهور."
+      }
+    },
+    {
+      "pt": "a ênfase",
+      "ipa": "/ˈẽ.fa.zi/",
+      "en": "emphasis",
+      "ar": "التوكيد",
+      "example": {
+        "pt": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
+        "en": "I will open with an anecdote to break the ice and win the audience.",
+        "ar": "سأفتتح بحكاية طريفة لكسر الجمود وكسب الجمهور."
+      }
+    },
+    {
+      "pt": "a pausa",
+      "ipa": "/ˈpaw.za/",
+      "en": "pause",
+      "ar": "التوقفة",
+      "example": {
+        "pt": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
+        "en": "I will open with an anecdote to break the ice and win the audience.",
+        "ar": "سأفتتح بحكاية طريفة لكسر الجمود وكسب الجمهور."
+      }
+    },
+    {
+      "pt": "o gesto",
+      "ipa": "/ˈʒes.tu/",
+      "en": "gesture",
+      "ar": "الإيماءة",
+      "example": {
+        "pt": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
+        "en": "I will open with an anecdote to break the ice and win the audience.",
+        "ar": "سأفتتح بحكاية طريفة لكسر الجمود وكسب الجمهور."
+      }
+    },
+    {
+      "pt": "o contato visual",
+      "ipa": "/kõˈta.tu vi.zuˈaw/",
+      "en": "eye contact",
+      "ar": "التواصل البصري",
+      "example": {
+        "pt": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
+        "en": "I will open with an anecdote to break the ice and win the audience.",
+        "ar": "سأفتتح بحكاية طريفة لكسر الجمود وكسب الجمهور."
+      }
+    },
+    {
+      "pt": "o tom de voz",
+      "ipa": "/ˈtõ dʒi ˈvɔ(j)s/",
+      "en": "tone of voice",
+      "ar": "نبرة الصوت",
+      "example": {
+        "pt": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
+        "en": "I will open with an anecdote to break the ice and win the audience.",
+        "ar": "سأفتتح بحكاية طريفة لكسر الجمود وكسب الجمهور."
+      }
+    },
+    {
+      "pt": "a abertura",
+      "ipa": "/a.beʁˈtu.ɾa/",
+      "en": "opening",
+      "ar": "الافتتاحية",
+      "example": {
+        "pt": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
+        "en": "I will open with an anecdote to break the ice and win the audience.",
+        "ar": "سأفتتح بحكاية طريفة لكسر الجمود وكسب الجمهور."
+      }
+    },
+    {
+      "pt": "o fechamento",
+      "ipa": "/fe.ʃaˈmẽ.tu/",
+      "en": "closing",
+      "ar": "الخاتمة",
+      "example": {
+        "pt": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
+        "en": "I will open with an anecdote to break the ice and win the audience.",
+        "ar": "سأفتتح بحكاية طريفة لكسر الجمود وكسب الجمهور."
+      }
+    },
+    {
+      "pt": "a pergunta retórica",
+      "ipa": "/peʁˈɡũ.ta xeˈtɔ.ɾi.ka/",
+      "en": "rhetorical question",
+      "ar": "السؤال البلاغي",
+      "example": {
+        "pt": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
+        "en": "I will open with an anecdote to break the ice and win the audience.",
+        "ar": "سأفتتح بحكاية طريفة لكسر الجمود وكسب الجمهور."
+      }
+    },
+    {
+      "pt": "a anedota",
+      "ipa": "/a.neˈdɔ.ta/",
+      "en": "anecdote",
+      "ar": "الحكاية الطريفة",
+      "example": {
+        "pt": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
+        "en": "I will open with an anecdote to break the ice and win the audience.",
+        "ar": "سأفتتح بحكاية طريفة لكسر الجمود وكسب الجمهور."
+      }
+    },
+    {
+      "pt": "a citação",
+      "ipa": "/si.taˈsɐ̃w/",
+      "en": "quotation",
+      "ar": "الاقتباس",
+      "example": {
+        "pt": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
+        "en": "I will open with an anecdote to break the ice and win the audience.",
+        "ar": "سأفتتح بحكاية طريفة لكسر الجمود وكسب الجمهور."
+      }
+    },
+    {
+      "pt": "o esquema",
+      "ipa": "/esˈkẽ.ma/",
+      "en": "outline",
+      "ar": "الخطة / المخطط",
+      "example": {
+        "pt": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
+        "en": "I will open with an anecdote to break the ice and win the audience.",
+        "ar": "سأفتتح بحكاية طريفة لكسر الجمود وكسب الجمهور."
+      }
+    },
+    {
+      "pt": "o teleprompter",
+      "ipa": "/te.leˈpɾõp.tʃeʁ/",
+      "en": "teleprompter",
+      "ar": "شاشة النص",
+      "example": {
+        "pt": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
+        "en": "I will open with an anecdote to break the ice and win the audience.",
+        "ar": "سأفتتح بحكاية طريفة لكسر الجمود وكسب الجمهور."
+      }
+    },
+    {
+      "pt": "o improviso",
+      "ipa": "/ĩ.pɾoˈvi.zu/",
+      "en": "impromptu / improvisation",
+      "ar": "الارتجال",
+      "example": {
+        "pt": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
+        "en": "I will open with an anecdote to break the ice and win the audience.",
+        "ar": "سأفتتح بحكاية طريفة لكسر الجمود وكسب الجمهور."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "title": {
+        "pt": "Estruturas de Ênfase (Clivagem)",
+        "en": "Emphatic (Cleft) Structures",
+        "ar": "تراكيب التوكيد"
+      },
+      "explanation": {
+        "pt": "A clivagem com 'é... que' destaca um constituinte da frase: 'É a pausa que sustenta a plateia', 'Foi com dados concretos que ele convenceu'. O pronome relativo 'que' não varia, e o verbo ser concorda no tempo. Essa estrutura é típica da oratória e deve ser reservada ao registro formal ou aos momentos de maior ênfase.",
+        "en": "The cleft structure with 'é... que' highlights a constituent of the sentence: 'É a pausa que sustenta a plateia' (It is the pause that holds the audience), 'Foi com dados concretos que ele convenceu' (It was with concrete data that he persuaded). The relative pronoun 'que' does not vary, and the verb 'ser' agrees in tense. This structure is typical of oratory and should be reserved for formal register or moments of greater emphasis.",
+        "ar": "يبرز تركيب التوكيد بـ 'é... que' عنصرًا من الجملة: 'É a pausa que sustenta a plateia' (إن التوقفة هي التي تثبت الجمهور)، 'Foi com dados concretos que ele convenceu' (ببيانات ملموسة كان هو الذي أقنع). لا يتغير الضمير الموصول 'que'، ويطابق فعل 'ser' الزمن. هذا التركيب سمة من سمات الخطابة ويُحتفظ به للمستوى الرسمي أو لحظات التوكيد الأكبر."
+      },
+      "examples": [
+        {
+          "pt": "É a pausa que sustenta a plateia, não a velocidade.",
+          "en": "It is the pause that holds the audience, not the speed.",
+          "ar": "إن التوقفة هي التي تثبت الجمهور، لا السرعة."
+        },
+        {
+          "pt": "Foi com dados concretos que ele convenceu os investidores.",
+          "en": "It was with concrete data that he persuaded the investors.",
+          "ar": "ببيانات ملموسة كان هو الذي أقنع المستثمرين."
+        },
+        {
+          "pt": "É no silêncio que o orador mais se comunica.",
+          "en": "It is in the silence that the speaker communicates the most.",
+          "ar": "في الصمت يكون الخطيب أكثر تواصلًا."
+        }
+      ]
+    },
+    {
+      "title": {
+        "pt": "Persuasão: Pergunta Retórica e Imperativo Atenuado",
+        "en": "Persuasion: Rhetorical Question and Softened Imperative",
+        "ar": "الإقناع: السؤال البلاغي وصيغة الأمر المخففة"
+      },
+      "explanation": {
+        "pt": "A pergunta retórica não espera resposta; engaja e orienta o raciocínio: 'Quem nunca hesitou diante de um desafio?'. O imperativo, quando suavizado, preserva a cortesia: 'Permitam-me compartilhar uma experiência', 'Consideremos, por um instante, outra hipótese'. Combinadas, essas estratégias conduzem a plateia sem imposição.",
+        "en": "The rhetorical question expects no answer; it engages and guides reasoning: 'Quem nunca hesitou diante de um desafio?' (Who has never hesitated before a challenge?). The imperative, when softened, preserves courtesy: 'Permitam-me compartilhar uma experiência' (Allow me to share an experience), 'Consideremos, por um instante, outra hipótese' (Let us consider, for a moment, another hypothesis). Combined, these strategies lead the audience without imposition.",
+        "ar": "لا يتوقع السؤال البلاغي جوابًا؛ بل يشغل الذهن ويوجّه الاستدلال: 'Quem nunca hesitou diante de um desafio?' (من منا لم يتردد أمام تحدٍ؟). وصيغة الأمر عندما تخفف تحفظ المجاملة: 'Permitam-me compartilhar uma experiência' (اسمحوا لي أن أشارككم تجربة)، 'Consideremos, por um instante, outra hipótese' (لننظر لحظة إلى فرضية أخرى). وتقود هذه الاستراتيجيات مجتمعة الجمهور دون إجبار."
+      },
+      "examples": [
+        {
+          "pt": "Quem nunca hesitou diante de um desafio?",
+          "en": "Who has never hesitated before a challenge?",
+          "ar": "من منا لم يتردد أمام تحدٍ؟"
+        },
+        {
+          "pt": "Permitam-me compartilhar uma experiência que me marcou.",
+          "en": "Allow me to share an experience that marked me.",
+          "ar": "اسمحوا لي أن أشارككم تجربة أثّرت فيّ."
+        },
+        {
+          "pt": "Consideremos, por um instante, outra hipótese.",
+          "en": "Let us consider, for a moment, another hypothesis.",
+          "ar": "لننظر لحظة إلى فرضية أخرى."
+        }
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": {
+      "pt": "Antes da Apresentação",
+      "en": "Before the Presentation",
+      "ar": "قبل العرض"
+    },
+    "lines": [
+      {
+        "speaker": "Érica",
+        "pt": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
+        "en": "I will open with an anecdote to break the ice and win the audience.",
+        "ar": "سأفتتح بحكاية طريفة لكسر الجمود وكسب الجمهور."
+      },
+      {
+        "speaker": "Bruno",
+        "pt": "Boa ideia. E no fechamento, você vai usar uma pergunta retórica?",
+        "en": "Good idea. And in the closing, will you use a rhetorical question?",
+        "ar": "فكرة جيدة. وفي الخاتمة، هل ستستخدمين سؤالًا بلاغيًا؟"
+      },
+      {
+        "speaker": "Érica",
+        "pt": "Sim. 'É o compromisso que transforma ideias em resultados', e deixo a pergunta no ar.",
+        "en": "Yes. 'It is commitment that turns ideas into results', and I leave the question hanging.",
+        "ar": "نعم. 'إن الالتزام هو الذي يحوّل الأفكار إلى نتائج'، وأترك السؤال معلقًا."
+      },
+      {
+        "speaker": "Bruno",
+        "pt": "Cuide das pausas: é no silêncio que a ênfase acontece.",
+        "en": "Mind the pauses: it is in the silence that the emphasis happens.",
+        "ar": "انتبهي للتوقفات: في الصمت يحدث التوكيد."
+      },
+      {
+        "speaker": "Érica",
+        "pt": "E mantenho o contato visual com três pontos distintos da plateia.",
+        "en": "And I keep eye contact with three distinct points of the audience.",
+        "ar": "وأحافظ على التواصل البصري مع ثلاث نقاط مختلفة من الجمهور."
+      },
+      {
+        "speaker": "Bruno",
+        "pt": "Perfeito. Sem improviso no roteiro, mas com espaço para a naturalidade.",
+        "en": "Perfect. No improvisation in the script, but with room for naturalness.",
+        "ar": "ممتاز. بلا ارتجال في النص، لكن مع مساحة للطبيعية."
+      }
+    ]
+  },
+  "reading": {
+    "title": {
+      "pt": "A Arte de Persuadir",
+      "en": "The Art of Persuading",
+      "ar": "فن الإقناع"
+    },
+    "text_pt": "Um bom orador começa pelo esquema: abertura com gancho, desenvolvimento em três blocos e fechamento com memória. É a retórica que ordena esses blocos, e é a pausa que lhes dá respiro. A persuasão, por fim, não reside no volume da voz, mas na coerência entre palavra, gesto e olhar. Quando esses elementos se alinham, a plateia escuta com os olhos.",
+    "text_en": "A good speaker starts with an outline: an opening with a hook, development in three blocks and a memorable closing. It is rhetoric that orders these blocks, and it is the pause that gives them breathing room. Persuasion, in the end, lies not in the volume of the voice but in the coherence among word, gesture and gaze. When these elements align, the audience listens with its eyes.",
+    "text_ar": "يبدأ الخطيب الجيد بالخطة: افتتاحية بخطّاف، وتطوير في ثلاث كتل، وخاتمة لا تُنسى. إن البلاغة هي التي ترتب هذه الكتل، والتوقفة هي التي تمنحها مساحة للتنفس. ولا يكمن الإقناع في النهاية في ارتفاع الصوت، بل في الاتساق بين الكلمة والإيماءة والنظرة. وعندما تتآلف هذه العناصر، يستمع الجمهور بعينيه."
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual frase usa a clivagem de ênfase corretamente?",
+        "en": "Which sentence correctly uses the emphatic cleft structure?",
+        "ar": "أي جملة تستخدم تركيب التوكيد بشكل صحيح؟"
+      },
+      "options": [
+        {
+          "pt": "É a pausa que sustenta a plateia.",
+          "en": "É a pausa que sustenta a plateia.",
+          "ar": "É a pausa que sustenta a plateia."
+        },
+        {
+          "pt": "É a pausa que ela sustenta.",
+          "en": "É a pausa que ela sustenta.",
+          "ar": "É a pausa que ela sustenta."
+        },
+        {
+          "pt": "A plateia que é a pausa sustenta.",
+          "en": "A plateia que é a pausa sustenta.",
+          "ar": "A plateia que é a pausa sustenta."
+        }
+      ],
+      "answer": "É a pausa que sustenta a plateia.",
+      "explanation": {
+        "pt": "A clivagem é 'é + elemento destacado + que + verbo': 'É a pausa que sustenta a plateia'.",
+        "en": "The cleft is 'é + highlighted element + que + verb': 'É a pausa que sustenta a plateia'.",
+        "ar": "التوكيد يكون 'é + العنصر المبرز + que + الفعل': 'É a pausa que sustenta a plateia'."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual é a função da pergunta retórica em um discurso?",
+        "en": "What is the function of the rhetorical question in a speech?",
+        "ar": "ما وظيفة السؤال البلاغي في الخطاب؟"
+      },
+      "options": [
+        {
+          "pt": "engajar e orientar a reflexão",
+          "en": "to engage and guide reflection",
+          "ar": "إشراك الجمهور وتوجيه التفكير"
+        },
+        {
+          "pt": "coletar dados da plateia",
+          "en": "to collect data from the audience",
+          "ar": "جمع بيانات من الجمهور"
+        },
+        {
+          "pt": "interromper a fala",
+          "en": "to interrupt the speech",
+          "ar": "مقاطعة الكلام"
+        }
+      ],
+      "answer": "engajar e orientar a reflexão",
+      "explanation": {
+        "pt": "A pergunta retórica engaja e orienta sem exigir resposta.",
+        "en": "The rhetorical question engages and guides without requiring an answer.",
+        "ar": "السؤال البلاغي يشغل الذهن ويوجه دون أن يطلب جوابًا."
+      }
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: 'rhetorical question'",
+        "en": "Translate into Portuguese: 'rhetorical question'",
+        "ar": "ترجم إلى البرتغالية: 'rhetorical question'"
+      },
+      "options": [],
+      "answer": "pergunta retórica",
+      "explanation": {
+        "pt": "'Pergunta retórica' é o termo consagrado.",
+        "en": "'Pergunta retórica' is the established term.",
+        "ar": "المصطلح المتعارف عليه هو 'pergunta retórica'."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "gelo",
+          "en": "gelo",
+          "ar": "gelo"
+        },
+        {
+          "pt": "com",
+          "en": "com",
+          "ar": "com"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "anedota",
+          "en": "anedota",
+          "ar": "anedota"
+        },
+        {
+          "pt": "plateia.",
+          "en": "plateia.",
+          "ar": "plateia."
+        },
+        {
+          "pt": "e",
+          "en": "e",
+          "ar": "e"
+        },
+        {
+          "pt": "para",
+          "en": "para",
+          "ar": "para"
+        },
+        {
+          "pt": "uma",
+          "en": "uma",
+          "ar": "uma"
+        },
+        {
+          "pt": "abrir",
+          "en": "abrir",
+          "ar": "abrir"
+        },
+        {
+          "pt": "quebrar",
+          "en": "quebrar",
+          "ar": "quebrar"
+        },
+        {
+          "pt": "ganhar",
+          "en": "ganhar",
+          "ar": "ganhar"
+        },
+        {
+          "pt": "Vou",
+          "en": "Vou",
+          "ar": "Vou"
+        }
+      ],
+      "answer": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
+      "accepted": [
+        "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.'",
+        "en": "The correct order: 'I will open with an anecdote to break the ice and win the audience.'",
+        "ar": "الترتيب الصحيح: 'سأفتتح بحكاية طريفة لكسر الجمود وكسب الجمهور.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a plateia",
+          "en": "speech",
+          "ar": "a plateia"
+        },
+        {
+          "pt": "o discurso",
+          "en": "persuasion",
+          "ar": "o discurso"
+        },
+        {
+          "pt": "a retórica",
+          "en": "emphasis",
+          "ar": "a retórica"
+        },
+        {
+          "pt": "o orador",
+          "en": "audience",
+          "ar": "o orador"
+        },
+        {
+          "pt": "a ênfase",
+          "en": "speaker / orator",
+          "ar": "a ênfase"
+        },
+        {
+          "pt": "a persuasão",
+          "en": "rhetoric",
+          "ar": "a persuasão"
+        }
+      ],
+      "answer": "a plateia::speech|o discurso::persuasion|a retórica::emphasis|o orador::audience|a ênfase::speaker / orator|a persuasão::rhetoric",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim. 'É o compromisso que transforma ideias em resultados', e deixo a pergunta no ar.",
+          "en": "I will open with an anecdote to break the ice and win the audience.",
+          "ar": "فكرة جيدة. وفي الخاتمة، هل ستستخدمين سؤالًا بلاغيًا؟"
+        },
+        {
+          "pt": "Boa ideia. E no fechamento, você vai usar uma pergunta retórica?",
+          "en": "Yes. 'It is commitment that turns ideas into results', and I leave the question hanging.",
+          "ar": "سأفتتح بحكاية طريفة لكسر الجمود وكسب الجمهور."
+        },
+        {
+          "pt": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
+          "en": "Good idea. And in the closing, will you use a rhetorical question?",
+          "ar": "نعم. 'إن الالتزام هو الذي يحوّل الأفكار إلى نتائج'، وأترك السؤال معلقًا."
+        }
+      ],
+      "answer": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
+      "accepted": [],
+      "audio": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
+      "explanation": {
+        "pt": "Você ouviu: 'Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.' — 'I will open with an anecdote to break the ice and win the audience.'",
+        "en": "You heard: 'Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.' — 'I will open with an anecdote to break the ice and win the audience.'",
+        "ar": "سمعت: 'Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.' — 'سأفتتح بحكاية طريفة لكسر الجمود وكسب الجمهور.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Boa ideia. E no fechamento, você vai usar uma pergunta retórica?",
+          "en": "Good idea. And in the closing, will you use a rhetorical question?",
+          "ar": "فكرة جيدة. وفي الخاتمة، هل ستستخدمين سؤالًا بلاغيًا؟"
+        },
+        {
+          "pt": "Sim. 'É o compromisso que transforma ideias em resultados', e deixo a pergunta no ar.",
+          "en": "Yes. 'It is commitment that turns ideas into results', and I leave the question hanging.",
+          "ar": "نعم. 'إن الالتزام هو الذي يحوّل الأفكار إلى نتائج'، وأترك السؤال معلقًا."
+        },
+        {
+          "pt": "E mantenho o contato visual com três pontos distintos da plateia.",
+          "en": "And I keep eye contact with three distinct points of the audience.",
+          "ar": "وأحافظ على التواصل البصري مع ثلاث نقاط مختلفة من الجمهور."
+        }
+      ],
+      "answer": "Boa ideia. E no fechamento, você vai usar uma pergunta retórica?",
+      "accepted": [],
+      "audio": "Boa ideia. E no fechamento, você vai usar uma pergunta retórica?",
+      "explanation": {
+        "pt": "Você ouviu: 'Boa ideia. E no fechamento, você vai usar uma pergunta retórica?' — 'Good idea. And in the closing, will you use a rhetorical question?'",
+        "en": "You heard: 'Boa ideia. E no fechamento, você vai usar uma pergunta retórica?' — 'Good idea. And in the closing, will you use a rhetorical question?'",
+        "ar": "سمعت: 'Boa ideia. E no fechamento, você vai usar uma pergunta retórica?' — 'فكرة جيدة. وفي الخاتمة، هل ستستخدمين سؤالًا بلاغيًا؟'"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "É a pausa que sustenta a plateia, não ___ velocidade.",
+        "en": "É a pausa que sustenta a plateia, não ___ velocidade.",
+        "ar": "É a pausa que sustenta a plateia, não ___ velocidade."
+      },
+      "options": [
+        {
+          "pt": "orador",
+          "en": "orador",
+          "ar": "orador"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        }
+      ],
+      "answer": "a",
+      "accepted": [],
+      "explanation": {
+        "pt": "A resposta é 'a'. Frase completa: É a pausa que sustenta a plateia, não a velocidade.",
+        "en": "The answer is 'a'. Full sentence: It is the pause that holds the audience, not the speed.",
+        "ar": "الإجابة الصحيحة: 'a'. الجملة كاملة: إن التوقفة هي التي تثبت الجمهور، لا السرعة."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "anedota",
+          "en": "anedota",
+          "ar": "anedota"
+        },
+        {
+          "pt": "gelo",
+          "en": "gelo",
+          "ar": "gelo"
+        },
+        {
+          "pt": "e",
+          "en": "e",
+          "ar": "e"
+        },
+        {
+          "pt": "para",
+          "en": "para",
+          "ar": "para"
+        },
+        {
+          "pt": "ganhar",
+          "en": "ganhar",
+          "ar": "ganhar"
+        },
+        {
+          "pt": "Vou",
+          "en": "Vou",
+          "ar": "Vou"
+        },
+        {
+          "pt": "quebrar",
+          "en": "quebrar",
+          "ar": "quebrar"
+        },
+        {
+          "pt": "uma",
+          "en": "uma",
+          "ar": "uma"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "abrir",
+          "en": "abrir",
+          "ar": "abrir"
+        },
+        {
+          "pt": "com",
+          "en": "com",
+          "ar": "com"
+        },
+        {
+          "pt": "plateia.",
+          "en": "plateia.",
+          "ar": "plateia."
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        }
+      ],
+      "answer": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
+      "accepted": [
+        "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.'",
+        "en": "The correct order: 'I will open with an anecdote to break the ice and win the audience.'",
+        "ar": "الترتيب الصحيح: 'سأفتتح بحكاية طريفة لكسر الجمود وكسب الجمهور.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o orador",
+          "en": "emphasis",
+          "ar": "o orador"
+        },
+        {
+          "pt": "a ênfase",
+          "en": "rhetoric",
+          "ar": "a ênfase"
+        },
+        {
+          "pt": "a retórica",
+          "en": "speaker / orator",
+          "ar": "a retórica"
+        },
+        {
+          "pt": "o discurso",
+          "en": "speech",
+          "ar": "o discurso"
+        },
+        {
+          "pt": "a plateia",
+          "en": "persuasion",
+          "ar": "a plateia"
+        },
+        {
+          "pt": "a persuasão",
+          "en": "audience",
+          "ar": "a persuasão"
+        }
+      ],
+      "answer": "o orador::emphasis|a ênfase::rhetoric|a retórica::speaker / orator|o discurso::speech|a plateia::persuasion|a persuasão::audience",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
+          "en": "I will open with an anecdote to break the ice and win the audience.",
+          "ar": "وأحافظ على التواصل البصري مع ثلاث نقاط مختلفة من الجمهور."
+        },
+        {
+          "pt": "Boa ideia. E no fechamento, você vai usar uma pergunta retórica?",
+          "en": "Good idea. And in the closing, will you use a rhetorical question?",
+          "ar": "فكرة جيدة. وفي الخاتمة، هل ستستخدمين سؤالًا بلاغيًا؟"
+        },
+        {
+          "pt": "E mantenho o contato visual com três pontos distintos da plateia.",
+          "en": "And I keep eye contact with three distinct points of the audience.",
+          "ar": "سأفتتح بحكاية طريفة لكسر الجمود وكسب الجمهور."
+        }
+      ],
+      "answer": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
+      "accepted": [],
+      "audio": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
+      "explanation": {
+        "pt": "Você ouviu: 'Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.' — 'I will open with an anecdote to break the ice and win the audience.'",
+        "en": "You heard: 'Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.' — 'I will open with an anecdote to break the ice and win the audience.'",
+        "ar": "سمعت: 'Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.' — 'سأفتتح بحكاية طريفة لكسر الجمود وكسب الجمهور.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Boa ideia. E no fechamento, você vai usar uma pergunta retórica?",
+          "en": "Good idea. And in the closing, will you use a rhetorical question?",
+          "ar": "نعم. 'إن الالتزام هو الذي يحوّل الأفكار إلى نتائج'، وأترك السؤال معلقًا."
+        },
+        {
+          "pt": "Sim. 'É o compromisso que transforma ideias em resultados', e deixo a pergunta no ar.",
+          "en": "Yes. 'It is commitment that turns ideas into results', and I leave the question hanging.",
+          "ar": "فكرة جيدة. وفي الخاتمة، هل ستستخدمين سؤالًا بلاغيًا؟"
+        },
+        {
+          "pt": "Perfeito. Sem improviso no roteiro, mas com espaço para a naturalidade.",
+          "en": "Perfect. No improvisation in the script, but with room for naturalness.",
+          "ar": "ممتاز. بلا ارتجال في النص، لكن مع مساحة للطبيعية."
+        }
+      ],
+      "answer": "Boa ideia. E no fechamento, você vai usar uma pergunta retórica?",
+      "accepted": [],
+      "audio": "Boa ideia. E no fechamento, você vai usar uma pergunta retórica?",
+      "explanation": {
+        "pt": "Você ouviu: 'Boa ideia. E no fechamento, você vai usar uma pergunta retórica?' — 'Good idea. And in the closing, will you use a rhetorical question?'",
+        "en": "You heard: 'Boa ideia. E no fechamento, você vai usar uma pergunta retórica?' — 'Good idea. And in the closing, will you use a rhetorical question?'",
+        "ar": "سمعت: 'Boa ideia. E no fechamento, você vai usar uma pergunta retórica?' — 'فكرة جيدة. وفي الخاتمة، هل ستستخدمين سؤالًا بلاغيًا؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "com",
+          "en": "com",
+          "ar": "com"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "gelo",
+          "en": "gelo",
+          "ar": "gelo"
+        },
+        {
+          "pt": "anedota",
+          "en": "anedota",
+          "ar": "anedota"
+        },
+        {
+          "pt": "abrir",
+          "en": "abrir",
+          "ar": "abrir"
+        },
+        {
+          "pt": "quebrar",
+          "en": "quebrar",
+          "ar": "quebrar"
+        },
+        {
+          "pt": "e",
+          "en": "e",
+          "ar": "e"
+        },
+        {
+          "pt": "plateia.",
+          "en": "plateia.",
+          "ar": "plateia."
+        },
+        {
+          "pt": "Vou",
+          "en": "Vou",
+          "ar": "Vou"
+        },
+        {
+          "pt": "para",
+          "en": "para",
+          "ar": "para"
+        },
+        {
+          "pt": "ganhar",
+          "en": "ganhar",
+          "ar": "ganhar"
+        },
+        {
+          "pt": "uma",
+          "en": "uma",
+          "ar": "uma"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        }
+      ],
+      "answer": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
+      "accepted": [
+        "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.'",
+        "en": "The correct order: 'I will open with an anecdote to break the ice and win the audience.'",
+        "ar": "الترتيب الصحيح: 'سأفتتح بحكاية طريفة لكسر الجمود وكسب الجمهور.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a persuasão",
+          "en": "rhetoric",
+          "ar": "a persuasão"
+        },
+        {
+          "pt": "o discurso",
+          "en": "speaker / orator",
+          "ar": "o discurso"
+        },
+        {
+          "pt": "o orador",
+          "en": "audience",
+          "ar": "o orador"
+        },
+        {
+          "pt": "a plateia",
+          "en": "speech",
+          "ar": "a plateia"
+        },
+        {
+          "pt": "a ênfase",
+          "en": "emphasis",
+          "ar": "a ênfase"
+        },
+        {
+          "pt": "a retórica",
+          "en": "persuasion",
+          "ar": "a retórica"
+        }
+      ],
+      "answer": "a persuasão::rhetoric|o discurso::speaker / orator|o orador::audience|a plateia::speech|a ênfase::emphasis|a retórica::persuasion",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Boa ideia. E no fechamento, você vai usar uma pergunta retórica?",
+          "en": "Mind the pauses: it is in the silence that the emphasis happens.",
+          "ar": "سأفتتح بحكاية طريفة لكسر الجمود وكسب الجمهور."
+        },
+        {
+          "pt": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
+          "en": "Good idea. And in the closing, will you use a rhetorical question?",
+          "ar": "انتبهي للتوقفات: في الصمت يحدث التوكيد."
+        },
+        {
+          "pt": "Cuide das pausas: é no silêncio que a ênfase acontece.",
+          "en": "I will open with an anecdote to break the ice and win the audience.",
+          "ar": "فكرة جيدة. وفي الخاتمة، هل ستستخدمين سؤالًا بلاغيًا؟"
+        }
+      ],
+      "answer": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
+      "accepted": [],
+      "audio": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
+      "explanation": {
+        "pt": "Você ouviu: 'Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.' — 'I will open with an anecdote to break the ice and win the audience.'",
+        "en": "You heard: 'Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.' — 'I will open with an anecdote to break the ice and win the audience.'",
+        "ar": "سمعت: 'Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.' — 'سأفتتح بحكاية طريفة لكسر الجمود وكسب الجمهور.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Perfeito. Sem improviso no roteiro, mas com espaço para a naturalidade.",
+          "en": "Perfect. No improvisation in the script, but with room for naturalness.",
+          "ar": "فكرة جيدة. وفي الخاتمة، هل ستستخدمين سؤالًا بلاغيًا؟"
+        },
+        {
+          "pt": "Cuide das pausas: é no silêncio que a ênfase acontece.",
+          "en": "Good idea. And in the closing, will you use a rhetorical question?",
+          "ar": "انتبهي للتوقفات: في الصمت يحدث التوكيد."
+        },
+        {
+          "pt": "Boa ideia. E no fechamento, você vai usar uma pergunta retórica?",
+          "en": "Mind the pauses: it is in the silence that the emphasis happens.",
+          "ar": "ممتاز. بلا ارتجال في النص، لكن مع مساحة للطبيعية."
+        }
+      ],
+      "answer": "Boa ideia. E no fechamento, você vai usar uma pergunta retórica?",
+      "accepted": [],
+      "audio": "Boa ideia. E no fechamento, você vai usar uma pergunta retórica?",
+      "explanation": {
+        "pt": "Você ouviu: 'Boa ideia. E no fechamento, você vai usar uma pergunta retórica?' — 'Good idea. And in the closing, will you use a rhetorical question?'",
+        "en": "You heard: 'Boa ideia. E no fechamento, você vai usar uma pergunta retórica?' — 'Good idea. And in the closing, will you use a rhetorical question?'",
+        "ar": "سمعت: 'Boa ideia. E no fechamento, você vai usar uma pergunta retórica?' — 'فكرة جيدة. وفي الخاتمة، هل ستستخدمين سؤالًا بلاغيًا؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "com",
+          "en": "com",
+          "ar": "com"
+        },
+        {
+          "pt": "anedota",
+          "en": "anedota",
+          "ar": "anedota"
+        },
+        {
+          "pt": "uma",
+          "en": "uma",
+          "ar": "uma"
+        },
+        {
+          "pt": "abrir",
+          "en": "abrir",
+          "ar": "abrir"
+        },
+        {
+          "pt": "e",
+          "en": "e",
+          "ar": "e"
+        },
+        {
+          "pt": "plateia.",
+          "en": "plateia.",
+          "ar": "plateia."
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "quebrar",
+          "en": "quebrar",
+          "ar": "quebrar"
+        },
+        {
+          "pt": "para",
+          "en": "para",
+          "ar": "para"
+        },
+        {
+          "pt": "Vou",
+          "en": "Vou",
+          "ar": "Vou"
+        },
+        {
+          "pt": "gelo",
+          "en": "gelo",
+          "ar": "gelo"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "ganhar",
+          "en": "ganhar",
+          "ar": "ganhar"
+        }
+      ],
+      "answer": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
+      "accepted": [
+        "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.'",
+        "en": "The correct order: 'I will open with an anecdote to break the ice and win the audience.'",
+        "ar": "الترتيب الصحيح: 'سأفتتح بحكاية طريفة لكسر الجمود وكسب الجمهور.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a retórica",
+          "en": "rhetoric",
+          "ar": "a retórica"
+        },
+        {
+          "pt": "o orador",
+          "en": "persuasion",
+          "ar": "o orador"
+        },
+        {
+          "pt": "a plateia",
+          "en": "speaker / orator",
+          "ar": "a plateia"
+        },
+        {
+          "pt": "a ênfase",
+          "en": "audience",
+          "ar": "a ênfase"
+        },
+        {
+          "pt": "a persuasão",
+          "en": "emphasis",
+          "ar": "a persuasão"
+        },
+        {
+          "pt": "o discurso",
+          "en": "speech",
+          "ar": "o discurso"
+        }
+      ],
+      "answer": "a retórica::rhetoric|o orador::persuasion|a plateia::speaker / orator|a ênfase::audience|a persuasão::emphasis|o discurso::speech",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "E mantenho o contato visual com três pontos distintos da plateia.",
+          "en": "I will open with an anecdote to break the ice and win the audience.",
+          "ar": "ممتاز. بلا ارتجال في النص، لكن مع مساحة للطبيعية."
+        },
+        {
+          "pt": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
+          "en": "And I keep eye contact with three distinct points of the audience.",
+          "ar": "سأفتتح بحكاية طريفة لكسر الجمود وكسب الجمهور."
+        },
+        {
+          "pt": "Perfeito. Sem improviso no roteiro, mas com espaço para a naturalidade.",
+          "en": "Perfect. No improvisation in the script, but with room for naturalness.",
+          "ar": "وأحافظ على التواصل البصري مع ثلاث نقاط مختلفة من الجمهور."
+        }
+      ],
+      "answer": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
+      "accepted": [],
+      "audio": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
+      "explanation": {
+        "pt": "Você ouviu: 'Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.' — 'I will open with an anecdote to break the ice and win the audience.'",
+        "en": "You heard: 'Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.' — 'I will open with an anecdote to break the ice and win the audience.'",
+        "ar": "سمعت: 'Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.' — 'سأفتتح بحكاية طريفة لكسر الجمود وكسب الجمهور.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim. 'É o compromisso que transforma ideias em resultados', e deixo a pergunta no ar.",
+          "en": "Good idea. And in the closing, will you use a rhetorical question?",
+          "ar": "نعم. 'إن الالتزام هو الذي يحوّل الأفكار إلى نتائج'، وأترك السؤال معلقًا."
+        },
+        {
+          "pt": "Boa ideia. E no fechamento, você vai usar uma pergunta retórica?",
+          "en": "I will open with an anecdote to break the ice and win the audience.",
+          "ar": "سأفتتح بحكاية طريفة لكسر الجمود وكسب الجمهور."
+        },
+        {
+          "pt": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
+          "en": "Yes. 'It is commitment that turns ideas into results', and I leave the question hanging.",
+          "ar": "فكرة جيدة. وفي الخاتمة، هل ستستخدمين سؤالًا بلاغيًا؟"
+        }
+      ],
+      "answer": "Boa ideia. E no fechamento, você vai usar uma pergunta retórica?",
+      "accepted": [],
+      "audio": "Boa ideia. E no fechamento, você vai usar uma pergunta retórica?",
+      "explanation": {
+        "pt": "Você ouviu: 'Boa ideia. E no fechamento, você vai usar uma pergunta retórica?' — 'Good idea. And in the closing, will you use a rhetorical question?'",
+        "en": "You heard: 'Boa ideia. E no fechamento, você vai usar uma pergunta retórica?' — 'Good idea. And in the closing, will you use a rhetorical question?'",
+        "ar": "سمعت: 'Boa ideia. E no fechamento, você vai usar uma pergunta retórica?' — 'فكرة جيدة. وفي الخاتمة، هل ستستخدمين سؤالًا بلاغيًا؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "gelo",
+          "en": "gelo",
+          "ar": "gelo"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "Vou",
+          "en": "Vou",
+          "ar": "Vou"
+        },
+        {
+          "pt": "e",
+          "en": "e",
+          "ar": "e"
+        },
+        {
+          "pt": "ganhar",
+          "en": "ganhar",
+          "ar": "ganhar"
+        },
+        {
+          "pt": "com",
+          "en": "com",
+          "ar": "com"
+        },
+        {
+          "pt": "para",
+          "en": "para",
+          "ar": "para"
+        },
+        {
+          "pt": "uma",
+          "en": "uma",
+          "ar": "uma"
+        },
+        {
+          "pt": "plateia.",
+          "en": "plateia.",
+          "ar": "plateia."
+        },
+        {
+          "pt": "anedota",
+          "en": "anedota",
+          "ar": "anedota"
+        },
+        {
+          "pt": "quebrar",
+          "en": "quebrar",
+          "ar": "quebrar"
+        },
+        {
+          "pt": "abrir",
+          "en": "abrir",
+          "ar": "abrir"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        }
+      ],
+      "answer": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
+      "accepted": [
+        "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.'",
+        "en": "The correct order: 'I will open with an anecdote to break the ice and win the audience.'",
+        "ar": "الترتيب الصحيح: 'سأفتتح بحكاية طريفة لكسر الجمود وكسب الجمهور.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a plateia",
+          "en": "speaker / orator",
+          "ar": "a plateia"
+        },
+        {
+          "pt": "o discurso",
+          "en": "audience",
+          "ar": "o discurso"
+        },
+        {
+          "pt": "a persuasão",
+          "en": "speech",
+          "ar": "a persuasão"
+        },
+        {
+          "pt": "a retórica",
+          "en": "rhetoric",
+          "ar": "a retórica"
+        },
+        {
+          "pt": "a ênfase",
+          "en": "emphasis",
+          "ar": "a ênfase"
+        },
+        {
+          "pt": "o orador",
+          "en": "persuasion",
+          "ar": "o orador"
+        }
+      ],
+      "answer": "a plateia::speaker / orator|o discurso::audience|a persuasão::speech|a retórica::rhetoric|a ênfase::emphasis|o orador::persuasion",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
+          "en": "Good idea. And in the closing, will you use a rhetorical question?",
+          "ar": "سأفتتح بحكاية طريفة لكسر الجمود وكسب الجمهور."
+        },
+        {
+          "pt": "E mantenho o contato visual com três pontos distintos da plateia.",
+          "en": "I will open with an anecdote to break the ice and win the audience.",
+          "ar": "فكرة جيدة. وفي الخاتمة، هل ستستخدمين سؤالًا بلاغيًا؟"
+        },
+        {
+          "pt": "Boa ideia. E no fechamento, você vai usar uma pergunta retórica?",
+          "en": "And I keep eye contact with three distinct points of the audience.",
+          "ar": "وأحافظ على التواصل البصري مع ثلاث نقاط مختلفة من الجمهور."
+        }
+      ],
+      "answer": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
+      "accepted": [],
+      "audio": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
+      "explanation": {
+        "pt": "Você ouviu: 'Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.' — 'I will open with an anecdote to break the ice and win the audience.'",
+        "en": "You heard: 'Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.' — 'I will open with an anecdote to break the ice and win the audience.'",
+        "ar": "سمعت: 'Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.' — 'سأفتتح بحكاية طريفة لكسر الجمود وكسب الجمهور.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "E mantenho o contato visual com três pontos distintos da plateia.",
+          "en": "Yes. 'It is commitment that turns ideas into results', and I leave the question hanging.",
+          "ar": "نعم. 'إن الالتزام هو الذي يحوّل الأفكار إلى نتائج'، وأترك السؤال معلقًا."
+        },
+        {
+          "pt": "Sim. 'É o compromisso que transforma ideias em resultados', e deixo a pergunta no ar.",
+          "en": "Good idea. And in the closing, will you use a rhetorical question?",
+          "ar": "فكرة جيدة. وفي الخاتمة، هل ستستخدمين سؤالًا بلاغيًا؟"
+        },
+        {
+          "pt": "Boa ideia. E no fechamento, você vai usar uma pergunta retórica?",
+          "en": "And I keep eye contact with three distinct points of the audience.",
+          "ar": "وأحافظ على التواصل البصري مع ثلاث نقاط مختلفة من الجمهور."
+        }
+      ],
+      "answer": "Boa ideia. E no fechamento, você vai usar uma pergunta retórica?",
+      "accepted": [],
+      "audio": "Boa ideia. E no fechamento, você vai usar uma pergunta retórica?",
+      "explanation": {
+        "pt": "Você ouviu: 'Boa ideia. E no fechamento, você vai usar uma pergunta retórica?' — 'Good idea. And in the closing, will you use a rhetorical question?'",
+        "en": "You heard: 'Boa ideia. E no fechamento, você vai usar uma pergunta retórica?' — 'Good idea. And in the closing, will you use a rhetorical question?'",
+        "ar": "سمعت: 'Boa ideia. E no fechamento, você vai usar uma pergunta retórica?' — 'فكرة جيدة. وفي الخاتمة، هل ستستخدمين سؤالًا بلاغيًا؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "uma",
+          "en": "uma",
+          "ar": "uma"
+        },
+        {
+          "pt": "gelo",
+          "en": "gelo",
+          "ar": "gelo"
+        },
+        {
+          "pt": "abrir",
+          "en": "abrir",
+          "ar": "abrir"
+        },
+        {
+          "pt": "com",
+          "en": "com",
+          "ar": "com"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "ganhar",
+          "en": "ganhar",
+          "ar": "ganhar"
+        },
+        {
+          "pt": "plateia.",
+          "en": "plateia.",
+          "ar": "plateia."
+        },
+        {
+          "pt": "quebrar",
+          "en": "quebrar",
+          "ar": "quebrar"
+        },
+        {
+          "pt": "Vou",
+          "en": "Vou",
+          "ar": "Vou"
+        },
+        {
+          "pt": "e",
+          "en": "e",
+          "ar": "e"
+        },
+        {
+          "pt": "anedota",
+          "en": "anedota",
+          "ar": "anedota"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "para",
+          "en": "para",
+          "ar": "para"
+        }
+      ],
+      "answer": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
+      "accepted": [
+        "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.'",
+        "en": "The correct order: 'I will open with an anecdote to break the ice and win the audience.'",
+        "ar": "الترتيب الصحيح: 'سأفتتح بحكاية طريفة لكسر الجمود وكسب الجمهور.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o discurso",
+          "en": "rhetoric",
+          "ar": "o discurso"
+        },
+        {
+          "pt": "a retórica",
+          "en": "audience",
+          "ar": "a retórica"
+        },
+        {
+          "pt": "a ênfase",
+          "en": "speech",
+          "ar": "a ênfase"
+        },
+        {
+          "pt": "a plateia",
+          "en": "speaker / orator",
+          "ar": "a plateia"
+        },
+        {
+          "pt": "o orador",
+          "en": "emphasis",
+          "ar": "o orador"
+        },
+        {
+          "pt": "a persuasão",
+          "en": "persuasion",
+          "ar": "a persuasão"
+        }
+      ],
+      "answer": "o discurso::rhetoric|a retórica::audience|a ênfase::speech|a plateia::speaker / orator|o orador::emphasis|a persuasão::persuasion",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "E mantenho o contato visual com três pontos distintos da plateia.",
+          "en": "I will open with an anecdote to break the ice and win the audience.",
+          "ar": "نعم. 'إن الالتزام هو الذي يحوّل الأفكار إلى نتائج'، وأترك السؤال معلقًا."
+        },
+        {
+          "pt": "Sim. 'É o compromisso que transforma ideias em resultados', e deixo a pergunta no ar.",
+          "en": "Yes. 'It is commitment that turns ideas into results', and I leave the question hanging.",
+          "ar": "وأحافظ على التواصل البصري مع ثلاث نقاط مختلفة من الجمهور."
+        },
+        {
+          "pt": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
+          "en": "And I keep eye contact with three distinct points of the audience.",
+          "ar": "سأفتتح بحكاية طريفة لكسر الجمود وكسب الجمهور."
+        }
+      ],
+      "answer": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
+      "accepted": [],
+      "audio": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
+      "explanation": {
+        "pt": "Você ouviu: 'Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.' — 'I will open with an anecdote to break the ice and win the audience.'",
+        "en": "You heard: 'Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.' — 'I will open with an anecdote to break the ice and win the audience.'",
+        "ar": "سمعت: 'Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.' — 'سأفتتح بحكاية طريفة لكسر الجمود وكسب الجمهور.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Boa ideia. E no fechamento, você vai usar uma pergunta retórica?",
+          "en": "Mind the pauses: it is in the silence that the emphasis happens.",
+          "ar": "فكرة جيدة. وفي الخاتمة، هل ستستخدمين سؤالًا بلاغيًا؟"
+        },
+        {
+          "pt": "Cuide das pausas: é no silêncio que a ênfase acontece.",
+          "en": "Good idea. And in the closing, will you use a rhetorical question?",
+          "ar": "انتبهي للتوقفات: في الصمت يحدث التوكيد."
+        },
+        {
+          "pt": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
+          "en": "I will open with an anecdote to break the ice and win the audience.",
+          "ar": "سأفتتح بحكاية طريفة لكسر الجمود وكسب الجمهور."
+        }
+      ],
+      "answer": "Boa ideia. E no fechamento, você vai usar uma pergunta retórica?",
+      "accepted": [],
+      "audio": "Boa ideia. E no fechamento, você vai usar uma pergunta retórica?",
+      "explanation": {
+        "pt": "Você ouviu: 'Boa ideia. E no fechamento, você vai usar uma pergunta retórica?' — 'Good idea. And in the closing, will you use a rhetorical question?'",
+        "en": "You heard: 'Boa ideia. E no fechamento, você vai usar uma pergunta retórica?' — 'Good idea. And in the closing, will you use a rhetorical question?'",
+        "ar": "سمعت: 'Boa ideia. E no fechamento, você vai usar uma pergunta retórica?' — 'فكرة جيدة. وفي الخاتمة، هل ستستخدمين سؤالًا بلاغيًا؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "ganhar",
+          "en": "ganhar",
+          "ar": "ganhar"
+        },
+        {
+          "pt": "plateia.",
+          "en": "plateia.",
+          "ar": "plateia."
+        },
+        {
+          "pt": "uma",
+          "en": "uma",
+          "ar": "uma"
+        },
+        {
+          "pt": "quebrar",
+          "en": "quebrar",
+          "ar": "quebrar"
+        },
+        {
+          "pt": "e",
+          "en": "e",
+          "ar": "e"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "para",
+          "en": "para",
+          "ar": "para"
+        },
+        {
+          "pt": "abrir",
+          "en": "abrir",
+          "ar": "abrir"
+        },
+        {
+          "pt": "gelo",
+          "en": "gelo",
+          "ar": "gelo"
+        },
+        {
+          "pt": "com",
+          "en": "com",
+          "ar": "com"
+        },
+        {
+          "pt": "Vou",
+          "en": "Vou",
+          "ar": "Vou"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "anedota",
+          "en": "anedota",
+          "ar": "anedota"
+        }
+      ],
+      "answer": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
+      "accepted": [
+        "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.'",
+        "en": "The correct order: 'I will open with an anecdote to break the ice and win the audience.'",
+        "ar": "الترتيب الصحيح: 'سأفتتح بحكاية طريفة لكسر الجمود وكسب الجمهور.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a retórica",
+          "en": "speaker / orator",
+          "ar": "a retórica"
+        },
+        {
+          "pt": "a ênfase",
+          "en": "speech",
+          "ar": "a ênfase"
+        },
+        {
+          "pt": "a plateia",
+          "en": "rhetoric",
+          "ar": "a plateia"
+        },
+        {
+          "pt": "o discurso",
+          "en": "audience",
+          "ar": "o discurso"
+        },
+        {
+          "pt": "o orador",
+          "en": "persuasion",
+          "ar": "o orador"
+        },
+        {
+          "pt": "a persuasão",
+          "en": "emphasis",
+          "ar": "a persuasão"
+        }
+      ],
+      "answer": "a retórica::speaker / orator|a ênfase::speech|a plateia::rhetoric|o discurso::audience|o orador::persuasion|a persuasão::emphasis",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "E mantenho o contato visual com três pontos distintos da plateia.",
+          "en": "And I keep eye contact with three distinct points of the audience.",
+          "ar": "سأفتتح بحكاية طريفة لكسر الجمود وكسب الجمهور."
+        },
+        {
+          "pt": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
+          "en": "I will open with an anecdote to break the ice and win the audience.",
+          "ar": "فكرة جيدة. وفي الخاتمة، هل ستستخدمين سؤالًا بلاغيًا؟"
+        },
+        {
+          "pt": "Boa ideia. E no fechamento, você vai usar uma pergunta retórica?",
+          "en": "Good idea. And in the closing, will you use a rhetorical question?",
+          "ar": "وأحافظ على التواصل البصري مع ثلاث نقاط مختلفة من الجمهور."
+        }
+      ],
+      "answer": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
+      "accepted": [],
+      "audio": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
+      "explanation": {
+        "pt": "Você ouviu: 'Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.' — 'I will open with an anecdote to break the ice and win the audience.'",
+        "en": "You heard: 'Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.' — 'I will open with an anecdote to break the ice and win the audience.'",
+        "ar": "سمعت: 'Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.' — 'سأفتتح بحكاية طريفة لكسر الجمود وكسب الجمهور.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Boa ideia. E no fechamento, você vai usar uma pergunta retórica?",
+          "en": "Yes. 'It is commitment that turns ideas into results', and I leave the question hanging.",
+          "ar": "نعم. 'إن الالتزام هو الذي يحوّل الأفكار إلى نتائج'، وأترك السؤال معلقًا."
+        },
+        {
+          "pt": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
+          "en": "Good idea. And in the closing, will you use a rhetorical question?",
+          "ar": "فكرة جيدة. وفي الخاتمة، هل ستستخدمين سؤالًا بلاغيًا؟"
+        },
+        {
+          "pt": "Sim. 'É o compromisso que transforma ideias em resultados', e deixo a pergunta no ar.",
+          "en": "I will open with an anecdote to break the ice and win the audience.",
+          "ar": "سأفتتح بحكاية طريفة لكسر الجمود وكسب الجمهور."
+        }
+      ],
+      "answer": "Boa ideia. E no fechamento, você vai usar uma pergunta retórica?",
+      "accepted": [],
+      "audio": "Boa ideia. E no fechamento, você vai usar uma pergunta retórica?",
+      "explanation": {
+        "pt": "Você ouviu: 'Boa ideia. E no fechamento, você vai usar uma pergunta retórica?' — 'Good idea. And in the closing, will you use a rhetorical question?'",
+        "en": "You heard: 'Boa ideia. E no fechamento, você vai usar uma pergunta retórica?' — 'Good idea. And in the closing, will you use a rhetorical question?'",
+        "ar": "سمعت: 'Boa ideia. E no fechamento, você vai usar uma pergunta retórica?' — 'فكرة جيدة. وفي الخاتمة، هل ستستخدمين سؤالًا بلاغيًا؟'"
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'speech'",
+        "en": "Type in Portuguese: 'speech'",
+        "ar": "اكتب بالبرتغالية: 'الخطاب'"
+      },
+      "options": [],
+      "answer": "o discurso",
+      "accepted": [
+        "o discurso"
+      ],
+      "explanation": {
+        "pt": "'o discurso' significa 'speech'.",
+        "en": "'o discurso' means 'speech'.",
+        "ar": "'$o discurso' بالعربية: '$الخطاب'."
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'audience'",
+        "en": "Type in Portuguese: 'audience'",
+        "ar": "اكتب بالبرتغالية: 'الجمهور'"
+      },
+      "options": [],
+      "answer": "a plateia",
+      "accepted": [
+        "a plateia"
+      ],
+      "explanation": {
+        "pt": "'a plateia' significa 'audience'.",
+        "en": "'a plateia' means 'audience'.",
+        "ar": "'$a plateia' بالعربية: '$الجمهور'."
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "E mantenho o contato visual com três pontos distintos da plateia.",
+          "en": "E mantenho o contato visual com três pontos distintos da plateia.",
+          "ar": "E mantenho o contato visual com três pontos distintos da plateia."
+        },
+        {
+          "pt": "Perfeito. Sem improviso no roteiro, mas com espaço para a naturalidade.",
+          "en": "Perfeito. Sem improviso no roteiro, mas com espaço para a naturalidade.",
+          "ar": "Perfeito. Sem improviso no roteiro, mas com espaço para a naturalidade."
+        },
+        {
+          "pt": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
+          "en": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
+          "ar": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia."
+        }
+      ],
+      "answer": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
+      "accepted": [],
+      "audio": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
+      "explanation": {
+        "pt": "Você ouviu: 'Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.'",
+        "en": "You heard: 'Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.'",
+        "ar": "سمعت: 'Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.'"
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Perfeito. Sem improviso no roteiro, mas com espaço para a naturalidade.",
+          "en": "Perfeito. Sem improviso no roteiro, mas com espaço para a naturalidade.",
+          "ar": "Perfeito. Sem improviso no roteiro, mas com espaço para a naturalidade."
+        },
+        {
+          "pt": "Boa ideia. E no fechamento, você vai usar uma pergunta retórica?",
+          "en": "Boa ideia. E no fechamento, você vai usar uma pergunta retórica?",
+          "ar": "Boa ideia. E no fechamento, você vai usar uma pergunta retórica?"
+        },
+        {
+          "pt": "E mantenho o contato visual com três pontos distintos da plateia.",
+          "en": "E mantenho o contato visual com três pontos distintos da plateia.",
+          "ar": "E mantenho o contato visual com três pontos distintos da plateia."
+        }
+      ],
+      "answer": "Boa ideia. E no fechamento, você vai usar uma pergunta retórica?",
+      "accepted": [],
+      "audio": "Boa ideia. E no fechamento, você vai usar uma pergunta retórica?",
+      "explanation": {
+        "pt": "Você ouviu: 'Boa ideia. E no fechamento, você vai usar uma pergunta retórica?'",
+        "en": "You heard: 'Boa ideia. E no fechamento, você vai usar uma pergunta retórica?'",
+        "ar": "سمعت: 'Boa ideia. E no fechamento, você vai usar uma pergunta retórica?'"
+      }
+    },
+    {
+      "type": "dictation",
+      "prompt": {
+        "pt": "Ouça e escreva o que você ouviu.",
+        "en": "Listen and type what you hear.",
+        "ar": "استمع واكتب ما سمعته."
+      },
+      "options": [],
+      "answer": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
+      "accepted": [],
+      "audio": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
+      "explanation": {
+        "pt": "A frase correta: 'Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.'",
+        "en": "The correct sentence: 'Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.'",
+        "ar": "الجملة الصحيحة: 'Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "e",
+          "en": "e",
+          "ar": "e"
+        },
+        {
+          "pt": "anedota",
+          "en": "anedota",
+          "ar": "anedota"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "uma",
+          "en": "uma",
+          "ar": "uma"
+        },
+        {
+          "pt": "para",
+          "en": "para",
+          "ar": "para"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "com",
+          "en": "com",
+          "ar": "com"
+        },
+        {
+          "pt": "Vou",
+          "en": "Vou",
+          "ar": "Vou"
+        },
+        {
+          "pt": "abrir",
+          "en": "abrir",
+          "ar": "abrir"
+        },
+        {
+          "pt": "ganhar",
+          "en": "ganhar",
+          "ar": "ganhar"
+        },
+        {
+          "pt": "quebrar",
+          "en": "quebrar",
+          "ar": "quebrar"
+        },
+        {
+          "pt": "gelo",
+          "en": "gelo",
+          "ar": "gelo"
+        },
+        {
+          "pt": "plateia.",
+          "en": "plateia.",
+          "ar": "plateia."
+        }
+      ],
+      "answer": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
+      "accepted": [
+        "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.'",
+        "en": "The correct order: 'I will open with an anecdote to break the ice and win the audience.'",
+        "ar": "الترتيب الصحيح: 'سأفتتح بحكاية طريفة لكسر الجمود وكسب الجمهور.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o discurso",
+          "en": "emphasis",
+          "ar": "o discurso"
+        },
+        {
+          "pt": "a retórica",
+          "en": "persuasion",
+          "ar": "a retórica"
+        },
+        {
+          "pt": "o orador",
+          "en": "speech",
+          "ar": "o orador"
+        },
+        {
+          "pt": "a plateia",
+          "en": "speaker / orator",
+          "ar": "a plateia"
+        },
+        {
+          "pt": "a ênfase",
+          "en": "rhetoric",
+          "ar": "a ênfase"
+        },
+        {
+          "pt": "a persuasão",
+          "en": "audience",
+          "ar": "a persuasão"
+        }
+      ],
+      "answer": "o discurso::emphasis|a retórica::persuasion|o orador::speech|a plateia::speaker / orator|a ênfase::rhetoric|a persuasão::audience",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim. 'É o compromisso que transforma ideias em resultados', e deixo a pergunta no ar.",
+          "en": "Yes. 'It is commitment that turns ideas into results', and I leave the question hanging.",
+          "ar": "سأفتتح بحكاية طريفة لكسر الجمود وكسب الجمهور."
+        },
+        {
+          "pt": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
+          "en": "I will open with an anecdote to break the ice and win the audience.",
+          "ar": "ممتاز. بلا ارتجال في النص، لكن مع مساحة للطبيعية."
+        },
+        {
+          "pt": "Perfeito. Sem improviso no roteiro, mas com espaço para a naturalidade.",
+          "en": "Perfect. No improvisation in the script, but with room for naturalness.",
+          "ar": "نعم. 'إن الالتزام هو الذي يحوّل الأفكار إلى نتائج'، وأترك السؤال معلقًا."
+        }
+      ],
+      "answer": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
+      "accepted": [],
+      "audio": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
+      "explanation": {
+        "pt": "Você ouviu: 'Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.' — 'I will open with an anecdote to break the ice and win the audience.'",
+        "en": "You heard: 'Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.' — 'I will open with an anecdote to break the ice and win the audience.'",
+        "ar": "سمعت: 'Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.' — 'سأفتتح بحكاية طريفة لكسر الجمود وكسب الجمهور.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Boa ideia. E no fechamento, você vai usar uma pergunta retórica?",
+          "en": "Perfect. No improvisation in the script, but with room for naturalness.",
+          "ar": "سأفتتح بحكاية طريفة لكسر الجمود وكسب الجمهور."
+        },
+        {
+          "pt": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
+          "en": "Good idea. And in the closing, will you use a rhetorical question?",
+          "ar": "ممتاز. بلا ارتجال في النص، لكن مع مساحة للطبيعية."
+        },
+        {
+          "pt": "Perfeito. Sem improviso no roteiro, mas com espaço para a naturalidade.",
+          "en": "I will open with an anecdote to break the ice and win the audience.",
+          "ar": "فكرة جيدة. وفي الخاتمة، هل ستستخدمين سؤالًا بلاغيًا؟"
+        }
+      ],
+      "answer": "Boa ideia. E no fechamento, você vai usar uma pergunta retórica?",
+      "accepted": [],
+      "audio": "Boa ideia. E no fechamento, você vai usar uma pergunta retórica?",
+      "explanation": {
+        "pt": "Você ouviu: 'Boa ideia. E no fechamento, você vai usar uma pergunta retórica?' — 'Good idea. And in the closing, will you use a rhetorical question?'",
+        "en": "You heard: 'Boa ideia. E no fechamento, você vai usar uma pergunta retórica?' — 'Good idea. And in the closing, will you use a rhetorical question?'",
+        "ar": "سمعت: 'Boa ideia. E no fechamento, você vai usar uma pergunta retórica?' — 'فكرة جيدة. وفي الخاتمة، هل ستستخدمين سؤالًا بلاغيًا؟'"
+      }
+    }
+  ],
+  "speaking": {
+    "title": {
+      "pt": "Fale Agora — Ouça e Repita",
+      "en": "Speak Now — Listen and Repeat",
+      "ar": "تحدث الآن — استمع وكرر"
+    },
+    "phrases": [
+      {
+        "pt": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
+        "en": "I will open with an anecdote to break the ice and win the audience.",
+        "ar": "سأفتتح بحكاية طريفة لكسر الجمود وكسب الجمهور."
+      },
+      {
+        "pt": "Boa ideia. E no fechamento, você vai usar uma pergunta retórica?",
+        "en": "Good idea. And in the closing, will you use a rhetorical question?",
+        "ar": "فكرة جيدة. وفي الخاتمة، هل ستستخدمين سؤالًا بلاغيًا؟"
+      },
+      {
+        "pt": "Sim. 'É o compromisso que transforma ideias em resultados', e deixo a pergunta no ar.",
+        "en": "Yes. 'It is commitment that turns ideas into results', and I leave the question hanging.",
+        "ar": "نعم. 'إن الالتزام هو الذي يحوّل الأفكار إلى نتائج'، وأترك السؤال معلقًا."
+      },
+      {
+        "pt": "Cuide das pausas: é no silêncio que a ênfase acontece.",
+        "en": "Mind the pauses: it is in the silence that the emphasis happens.",
+        "ar": "انتبهي للتوقفات: في الصمت يحدث التوكيد."
+      },
+      {
+        "pt": "E mantenho o contato visual com três pontos distintos da plateia.",
+        "en": "And I keep eye contact with three distinct points of the audience.",
+        "ar": "وأحافظ على التواصل البصري مع ثلاث نقاط مختلفة من الجمهور."
+      },
+      {
+        "pt": "Perfeito. Sem improviso no roteiro, mas com espaço para a naturalidade.",
+        "en": "Perfect. No improvisation in the script, but with room for naturalness.",
+        "ar": "ممتاز. بلا ارتجال في النص، لكن مع مساحة للطبيعية."
+      },
+      {
+        "pt": "o discurso",
+        "en": "speech",
+        "ar": "الخطاب"
+      },
+      {
+        "pt": "a plateia",
+        "en": "audience",
+        "ar": "الجمهور"
+      },
+      {
+        "pt": "o orador",
+        "en": "speaker / orator",
+        "ar": "الخطيب"
+      }
+    ]
+  },
+  "cultural_tips": {
+    "pt": "",
+    "en": "",
+    "ar": ""
+  }
+}

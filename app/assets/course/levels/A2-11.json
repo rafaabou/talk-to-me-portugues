@@ -1,0 +1,2011 @@
+{
+  "id": "A2-11",
+  "level": "A2",
+  "level_name": {
+    "pt": "Básico",
+    "en": "Elementary",
+    "ar": "أساسي"
+  },
+  "title": {
+    "pt": "Passado Contínuo (Pretérito Imperfeito)",
+    "en": "Past Continuous (Imperfect)",
+    "ar": "الماضي المستمر"
+  },
+  "objectives": [
+    {
+      "pt": "Formar o pretérito imperfeito (hábitos no passado)",
+      "en": "Form the past imperfect (habits in the past)",
+      "ar": "تكوين زمن الماضي الناقص (العادات في الماضي)"
+    },
+    {
+      "pt": "Descrever cenas e rotinas antigas",
+      "en": "Describe old scenes and routines",
+      "ar": "وصف المشاهد والروتين القديم"
+    },
+    {
+      "pt": "Contar histórias da infância",
+      "en": "Tell childhood stories",
+      "ar": "سرد قصص الطفولة"
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "antes",
+      "ipa": "/ˈɐ̃.tʃis/",
+      "en": "before",
+      "ar": "قبل",
+      "example": {
+        "pt": "Quando eu era criança, morava em uma fazenda.",
+        "en": "When I was a child, I lived on a farm.",
+        "ar": "عندما كنت طفلة، كنت أسكن في مزرعة."
+      }
+    },
+    {
+      "pt": "quando",
+      "ipa": "/ˈkwɐ̃.du/",
+      "en": "when",
+      "ar": "عندما",
+      "example": {
+        "pt": "Quando eu era criança, morava em uma fazenda.",
+        "en": "When I was a child, I lived on a farm.",
+        "ar": "عندما كنت طفلة، كنت أسكن في مزرعة."
+      }
+    },
+    {
+      "pt": "sempre",
+      "ipa": "/ˈsẽ.pɾi/",
+      "en": "always",
+      "ar": "دائمًا",
+      "example": {
+        "pt": "Ela sempre contava histórias engraçadas.",
+        "en": "She always told funny stories.",
+        "ar": "كانت تحكي دائمًا قصصًا مضحكة."
+      }
+    },
+    {
+      "pt": "antigamente",
+      "ipa": "/ɐ̃.tʃi.ɡaˈmẽ.tʃi/",
+      "en": "in the past",
+      "ar": "قديمًا",
+      "example": {
+        "pt": "Antigamente, nós morávamos no interior.",
+        "en": "In the past, we lived in the countryside.",
+        "ar": "قديمًا، كنا نسكن في الريف."
+      }
+    },
+    {
+      "pt": "de vez em quando",
+      "ipa": "/dʒi vez ẽj ˈkwɐ̃.du/",
+      "en": "sometimes / from time to time",
+      "ar": "من حين لآخر",
+      "example": {
+        "pt": "Nós íamos à praia de vez em quando.",
+        "en": "We went to the beach from time to time.",
+        "ar": "كنا نذهب إلى الشاطئ من حين لآخر."
+      }
+    },
+    {
+      "pt": "todos os dias",
+      "ipa": "/ˈto.dus us ˈdʒi.as/",
+      "en": "every day",
+      "ar": "كل يوم",
+      "example": {
+        "pt": "Eu estudava inglês todos os dias.",
+        "en": "I studied English every day.",
+        "ar": "كنت أدرس الإنجليزية كل يوم."
+      }
+    },
+    {
+      "pt": "brincar",
+      "ipa": "/bɾĩˈkaʁ/",
+      "en": "to play",
+      "ar": "يلعب",
+      "example": {
+        "pt": "Quando eu era criança, morava em uma fazenda.",
+        "en": "When I was a child, I lived on a farm.",
+        "ar": "عندما كنت طفلة، كنت أسكن في مزرعة."
+      }
+    },
+    {
+      "pt": "morar",
+      "ipa": "/moˈɾaʁ/",
+      "en": "to live / to reside",
+      "ar": "يسكن",
+      "example": {
+        "pt": "Quando eu era criança, morava em uma fazenda.",
+        "en": "When I was a child, I lived on a farm.",
+        "ar": "عندما كنت طفلة، كنت أسكن في مزرعة."
+      }
+    },
+    {
+      "pt": "sonhar",
+      "ipa": "/sõˈɲaʁ/",
+      "en": "to dream",
+      "ar": "يحلم",
+      "example": {
+        "pt": "Quando eu era criança, morava em uma fazenda.",
+        "en": "When I was a child, I lived on a farm.",
+        "ar": "عندما كنت طفلة، كنت أسكن في مزرعة."
+      }
+    },
+    {
+      "pt": "lembrar",
+      "ipa": "/lẽˈbɾaʁ/",
+      "en": "to remember",
+      "ar": "يتذكر",
+      "example": {
+        "pt": "Quando eu era criança, morava em uma fazenda.",
+        "en": "When I was a child, I lived on a farm.",
+        "ar": "عندما كنت طفلة، كنت أسكن في مزرعة."
+      }
+    },
+    {
+      "pt": "a infância",
+      "ipa": "/a ĩˈfɐ̃.si.a/",
+      "en": "the childhood",
+      "ar": "الطفولة",
+      "example": {
+        "pt": "E como era a sua rotina?",
+        "en": "And what was your routine like?",
+        "ar": "وكيف كان روتينك؟"
+      }
+    },
+    {
+      "pt": "a criança",
+      "ipa": "/a kɾiˈɐ̃.sa/",
+      "en": "the child",
+      "ar": "الطفل",
+      "example": {
+        "pt": "E como era a sua rotina?",
+        "en": "And what was your routine like?",
+        "ar": "وكيف كان روتينك؟"
+      }
+    },
+    {
+      "pt": "a escola",
+      "ipa": "/a isˈkɔ.la/",
+      "en": "the school",
+      "ar": "المدرسة",
+      "example": {
+        "pt": "E como era a sua rotina?",
+        "en": "And what was your routine like?",
+        "ar": "وكيف كان روتينك؟"
+      }
+    },
+    {
+      "pt": "jogar",
+      "ipa": "/ʒoˈɡaʁ/",
+      "en": "to play (a game)",
+      "ar": "يلعب",
+      "example": {
+        "pt": "Quando eu era criança, morava em uma fazenda.",
+        "en": "When I was a child, I lived on a farm.",
+        "ar": "عندما كنت طفلة، كنت أسكن في مزرعة."
+      }
+    },
+    {
+      "pt": "ler",
+      "ipa": "/leʁ/",
+      "en": "to read",
+      "ar": "يقرأ",
+      "example": {
+        "pt": "Quando eu era criança, morava em uma fazenda.",
+        "en": "When I was a child, I lived on a farm.",
+        "ar": "عندما كنت طفلة، كنت أسكن في مزرعة."
+      }
+    },
+    {
+      "pt": "contar",
+      "ipa": "/kõˈtaʁ/",
+      "en": "to tell",
+      "ar": "يحكي",
+      "example": {
+        "pt": "Quando eu era criança, morava em uma fazenda.",
+        "en": "When I was a child, I lived on a farm.",
+        "ar": "عندما كنت طفلة، كنت أسكن في مزرعة."
+      }
+    },
+    {
+      "pt": "o vizinho",
+      "ipa": "/u viˈzĩ.ɲu/",
+      "en": "the neighbor",
+      "ar": "الجار",
+      "example": {
+        "pt": "Eu acordava cedo, levava o café para o meu pai e brincava com meus irmãos.",
+        "en": "I woke up early, took coffee to my father and played with my brothers.",
+        "ar": "كنت أستيقظ مبكرًا، وأحمل القهوة لأبي وألعب مع إخوتي."
+      }
+    },
+    {
+      "pt": "a festa",
+      "ipa": "/a ˈfɛs.ta/",
+      "en": "the party",
+      "ar": "الحفلة",
+      "example": {
+        "pt": "E como era a sua rotina?",
+        "en": "And what was your routine like?",
+        "ar": "وكيف كان روتينك؟"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "title": {
+        "pt": "Pretérito Imperfeito (-ar)",
+        "en": "Past Imperfect (-ar)",
+        "ar": "الماضي الناقص (الأفعال المنتهية بـ -ar)"
+      },
+      "explanation": {
+        "pt": "O pretérito imperfeito descreve hábitos, ações contínuas e cenários no passado. Verbos em -ar: eu falava, você falava, nós falávamos, vocês falavam. Exemplo: 'Quando eu era criança, eu brincava na rua todos os dias.'",
+        "en": "The past imperfect describes habits, continuous actions and scenes in the past. -ar verbs: eu falava, você falava, nós falávamos, vocês falavam. Example: 'Quando eu era criança, eu brincava na rua todos os dias.' (When I was a child, I played in the street every day.)",
+        "ar": "الماضي الناقص يصف العادات والأفعال المستمرة والمشاهد في الماضي. الأفعال المنتهية بـ -ar: eu falava، você falava، nós falávamos، vocês falavam. مثال: 'Quando eu era criança, eu brincava na rua todos os dias.' (عندما كنت طفلًا، كنت ألعب في الشارع كل يوم.)"
+      },
+      "examples": [
+        {
+          "pt": "Antigamente, nós morávamos no interior.",
+          "en": "In the past, we lived in the countryside.",
+          "ar": "قديمًا، كنا نسكن في الريف."
+        },
+        {
+          "pt": "Eu estudava inglês todos os dias.",
+          "en": "I studied English every day.",
+          "ar": "كنت أدرس الإنجليزية كل يوم."
+        },
+        {
+          "pt": "Ela trabalhava em um banco.",
+          "en": "She worked at a bank.",
+          "ar": "كانت تعمل في أحد البنوك."
+        }
+      ]
+    },
+    {
+      "title": {
+        "pt": "Pretérito Imperfeito (-er/-ir) e Irregulares",
+        "en": "Past Imperfect (-er/-ir) and Irregular Verbs",
+        "ar": "الماضي الناقص (الأفعال المنتهية بـ -er/-ir) والأفعال الشاذة"
+      },
+      "explanation": {
+        "pt": "Verbos em -er/-ir: eu comia, você comia, nós comíamos, eles comiam; eu abria, você abria, nós abríamos. Irregulares: ser (era, éramos), ter (tinha, tínhamos), estar (estava), ir (ia, íamos). Exemplo: 'Ele tinha dez anos e ia à escola a pé.'",
+        "en": "-er/-ir verbs: eu comia, você comia, nós comíamos, eles comiam; eu abria, você abria, nós abríamos. Irregulars: ser (era, éramos), ter (tinha, tínhamos), estar (estava), ir (ia, íamos). Example: 'Ele tinha dez anos e ia à escola a pé.' (He was ten years old and walked to school.)",
+        "ar": "الأفعال المنتهية بـ -er/-ir: eu comia، você comia، nós comíamos، eles comiam؛ eu abria، você abria، nós abríamos. الأفعال الشاذة: ser (era، éramos)، ter (tinha، tínhamos)، estar (estava)، ir (ia، íamos). مثال: 'Ele tinha dez anos e ia à escola a pé.' (كان عمره عشر سنوات ويذهب إلى المدرسة مشيًا.)"
+      },
+      "examples": [
+        {
+          "pt": "Quando eu era criança, tinha um cachorro.",
+          "en": "When I was a child, I had a dog.",
+          "ar": "عندما كنت طفلًا، كان لدي كلب."
+        },
+        {
+          "pt": "Nós íamos à praia de vez em quando.",
+          "en": "We went to the beach from time to time.",
+          "ar": "كنا نذهب إلى الشاطئ من حين لآخر."
+        },
+        {
+          "pt": "Ela sempre contava histórias engraçadas.",
+          "en": "She always told funny stories.",
+          "ar": "كانت تحكي دائمًا قصصًا مضحكة."
+        }
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": {
+      "pt": "As Memórias da Avó",
+      "en": "Grandma's Memories",
+      "ar": "ذكريات الجدة"
+    },
+    "lines": [
+      {
+        "speaker": "Avó",
+        "pt": "Quando eu era criança, morava em uma fazenda.",
+        "en": "When I was a child, I lived on a farm.",
+        "ar": "عندما كنت طفلة، كنت أسكن في مزرعة."
+      },
+      {
+        "speaker": "Neta",
+        "pt": "E como era a sua rotina?",
+        "en": "And what was your routine like?",
+        "ar": "وكيف كان روتينك؟"
+      },
+      {
+        "speaker": "Avó",
+        "pt": "Eu acordava cedo, levava o café para o meu pai e brincava com meus irmãos.",
+        "en": "I woke up early, took coffee to my father and played with my brothers.",
+        "ar": "كنت أستيقظ مبكرًا، وأحمل القهوة لأبي وألعب مع إخوتي."
+      },
+      {
+        "speaker": "Neta",
+        "pt": "Vocês tinham muitos animais?",
+        "en": "Did you have many animals?",
+        "ar": "هل كان لديكم حيوانات كثيرة؟"
+      },
+      {
+        "speaker": "Avó",
+        "pt": "Sim! Tínhamos vacas, cavalos e galinhas.",
+        "en": "Yes! We had cows, horses and chickens.",
+        "ar": "نعم! كان لدينا أبقار وخيول ودجاج."
+      },
+      {
+        "speaker": "Neta",
+        "pt": "Que saudade daquele tempo, vovó!",
+        "en": "How you miss those times, grandma!",
+        "ar": "كم تشتاقين إلى تلك الأيام يا جدتي!"
+      }
+    ]
+  },
+  "reading": {
+    "title": {
+      "pt": "A Infância do Meu Avô",
+      "en": "My Grandfather's Childhood",
+      "ar": "طفولة جدي"
+    },
+    "text_pt": "Quando criança, meu avô morava em uma pequena cidade do interior. Todos os dias, ele ia a pé para a escola e ajudava a família na plantação. À noite, ele lia histórias para os irmãos e todos dormiam cedo. Ele diz que era uma vida difícil, mas cheia de alegria.",
+    "text_en": "As a child, my grandfather lived in a small town in the countryside. Every day, he walked to school and helped the family on the plantation. At night, he read stories to his brothers and everyone slept early. He says it was a hard life, but full of joy.",
+    "text_ar": "في طفولته، كان جدي يسكن في مدينة صغيرة في الريف. كل يوم، كان يمشي إلى المدرسة ويساعد العائلة في المزرعة. في الليل، كان يقرأ القصص لإخوته وكان الجميع ينامون مبكرًا. يقول إنها كانت حياة صعبة لكنها مليئة بالفرح."
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Quando eu era criança, ___ na rua. (brincar)",
+        "en": "When I was a child, I ___ in the street. (brincar)",
+        "ar": "عندما كنت طفلًا، ___ في الشارع. (brincar)"
+      },
+      "options": [
+        {
+          "pt": "brincava",
+          "en": "brincava",
+          "ar": "brincava"
+        },
+        {
+          "pt": "brinco",
+          "en": "brinco",
+          "ar": "brinco"
+        },
+        {
+          "pt": "brinquei",
+          "en": "brinquei",
+          "ar": "brinquei"
+        }
+      ],
+      "answer": "brincava",
+      "explanation": {
+        "pt": "Hábito no passado = pretérito imperfeito: brincava.",
+        "en": "Habit in the past = past imperfect: brincava.",
+        "ar": "العادة في الماضي = الماضي الناقص: brincava."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Antigamente, nós ___ no interior. (morar)",
+        "en": "In the past, we ___ in the countryside. (morar)",
+        "ar": "قديمًا، نحن ___ في الريف. (morar)"
+      },
+      "options": [
+        {
+          "pt": "morávamos",
+          "en": "morávamos",
+          "ar": "morávamos"
+        },
+        {
+          "pt": "moramos",
+          "en": "moramos",
+          "ar": "moramos"
+        },
+        {
+          "pt": "moraremos",
+          "en": "moraremos",
+          "ar": "moraremos"
+        }
+      ],
+      "answer": "morávamos",
+      "explanation": {
+        "pt": "Descrição de passado com 'nós': morávamos.",
+        "en": "Description of the past with 'nós': morávamos.",
+        "ar": "وصف الماضي مع 'nós': morávamos."
+      }
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza: 'when'",
+        "en": "Translate: 'when'",
+        "ar": "ترجم: 'when'"
+      },
+      "options": [],
+      "answer": "quando",
+      "explanation": {
+        "pt": "'Quando' = when.",
+        "en": "'Quando' = when.",
+        "ar": "'quando' = عندما."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "fazenda.",
+          "en": "fazenda.",
+          "ar": "fazenda."
+        },
+        {
+          "pt": "eu",
+          "en": "eu",
+          "ar": "eu"
+        },
+        {
+          "pt": "Quando",
+          "en": "Quando",
+          "ar": "Quando"
+        },
+        {
+          "pt": "uma",
+          "en": "uma",
+          "ar": "uma"
+        },
+        {
+          "pt": "criança,",
+          "en": "criança,",
+          "ar": "criança,"
+        },
+        {
+          "pt": "era",
+          "en": "era",
+          "ar": "era"
+        },
+        {
+          "pt": "em",
+          "en": "em",
+          "ar": "em"
+        },
+        {
+          "pt": "morava",
+          "en": "morava",
+          "ar": "morava"
+        }
+      ],
+      "answer": "Quando eu era criança, morava em uma fazenda.",
+      "accepted": [
+        "Quando eu era criança, morava em uma fazenda."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Quando eu era criança, morava em uma fazenda.'",
+        "en": "The correct order: 'When I was a child, I lived on a farm.'",
+        "ar": "الترتيب الصحيح: 'عندما كنت طفلة، كنت أسكن في مزرعة.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "todos os dias",
+          "en": "always",
+          "ar": "todos os dias"
+        },
+        {
+          "pt": "sempre",
+          "en": "in the past",
+          "ar": "sempre"
+        },
+        {
+          "pt": "antes",
+          "en": "before",
+          "ar": "antes"
+        },
+        {
+          "pt": "de vez em quando",
+          "en": "every day",
+          "ar": "de vez em quando"
+        },
+        {
+          "pt": "antigamente",
+          "en": "sometimes / from time to time",
+          "ar": "antigamente"
+        },
+        {
+          "pt": "quando",
+          "en": "when",
+          "ar": "quando"
+        }
+      ],
+      "answer": "todos os dias::always|sempre::in the past|antes::before|de vez em quando::every day|antigamente::sometimes / from time to time|quando::when",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Que saudade daquele tempo, vovó!",
+          "en": "How you miss those times, grandma!",
+          "ar": "كم تشتاقين إلى تلك الأيام يا جدتي!"
+        },
+        {
+          "pt": "Sim! Tínhamos vacas, cavalos e galinhas.",
+          "en": "When I was a child, I lived on a farm.",
+          "ar": "عندما كنت طفلة، كنت أسكن في مزرعة."
+        },
+        {
+          "pt": "Quando eu era criança, morava em uma fazenda.",
+          "en": "Yes! We had cows, horses and chickens.",
+          "ar": "نعم! كان لدينا أبقار وخيول ودجاج."
+        }
+      ],
+      "answer": "Quando eu era criança, morava em uma fazenda.",
+      "accepted": [],
+      "audio": "Quando eu era criança, morava em uma fazenda.",
+      "explanation": {
+        "pt": "Você ouviu: 'Quando eu era criança, morava em uma fazenda.' — 'When I was a child, I lived on a farm.'",
+        "en": "You heard: 'Quando eu era criança, morava em uma fazenda.' — 'When I was a child, I lived on a farm.'",
+        "ar": "سمعت: 'Quando eu era criança, morava em uma fazenda.' — 'عندما كنت طفلة، كنت أسكن في مزرعة.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Que saudade daquele tempo, vovó!",
+          "en": "Yes! We had cows, horses and chickens.",
+          "ar": "نعم! كان لدينا أبقار وخيول ودجاج."
+        },
+        {
+          "pt": "E como era a sua rotina?",
+          "en": "And what was your routine like?",
+          "ar": "وكيف كان روتينك؟"
+        },
+        {
+          "pt": "Sim! Tínhamos vacas, cavalos e galinhas.",
+          "en": "How you miss those times, grandma!",
+          "ar": "كم تشتاقين إلى تلك الأيام يا جدتي!"
+        }
+      ],
+      "answer": "E como era a sua rotina?",
+      "accepted": [],
+      "audio": "E como era a sua rotina?",
+      "explanation": {
+        "pt": "Você ouviu: 'E como era a sua rotina?' — 'And what was your routine like?'",
+        "en": "You heard: 'E como era a sua rotina?' — 'And what was your routine like?'",
+        "ar": "سمعت: 'E como era a sua rotina?' — 'وكيف كان روتينك؟'"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Antigamente, nós ___ no interior.",
+        "en": "Antigamente, nós ___ no interior.",
+        "ar": "Antigamente, nós ___ no interior."
+      },
+      "options": [
+        {
+          "pt": "morávamos",
+          "en": "morávamos",
+          "ar": "morávamos"
+        },
+        {
+          "pt": "Eu",
+          "en": "Eu",
+          "ar": "Eu"
+        },
+        {
+          "pt": "trabalhava",
+          "en": "trabalhava",
+          "ar": "trabalhava"
+        }
+      ],
+      "answer": "morávamos",
+      "accepted": [],
+      "explanation": {
+        "pt": "A resposta é 'morávamos'. Frase completa: Antigamente, nós morávamos no interior.",
+        "en": "The answer is 'morávamos'. Full sentence: In the past, we lived in the countryside.",
+        "ar": "الإجابة الصحيحة: 'morávamos'. الجملة كاملة: قديمًا، كنا نسكن في الريف."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "em",
+          "en": "em",
+          "ar": "em"
+        },
+        {
+          "pt": "morava",
+          "en": "morava",
+          "ar": "morava"
+        },
+        {
+          "pt": "era",
+          "en": "era",
+          "ar": "era"
+        },
+        {
+          "pt": "eu",
+          "en": "eu",
+          "ar": "eu"
+        },
+        {
+          "pt": "Quando",
+          "en": "Quando",
+          "ar": "Quando"
+        },
+        {
+          "pt": "criança,",
+          "en": "criança,",
+          "ar": "criança,"
+        },
+        {
+          "pt": "uma",
+          "en": "uma",
+          "ar": "uma"
+        },
+        {
+          "pt": "fazenda.",
+          "en": "fazenda.",
+          "ar": "fazenda."
+        }
+      ],
+      "answer": "Quando eu era criança, morava em uma fazenda.",
+      "accepted": [
+        "Quando eu era criança, morava em uma fazenda."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Quando eu era criança, morava em uma fazenda.'",
+        "en": "The correct order: 'When I was a child, I lived on a farm.'",
+        "ar": "الترتيب الصحيح: 'عندما كنت طفلة، كنت أسكن في مزرعة.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "de vez em quando",
+          "en": "always",
+          "ar": "de vez em quando"
+        },
+        {
+          "pt": "sempre",
+          "en": "every day",
+          "ar": "sempre"
+        },
+        {
+          "pt": "todos os dias",
+          "en": "when",
+          "ar": "todos os dias"
+        },
+        {
+          "pt": "quando",
+          "en": "before",
+          "ar": "quando"
+        },
+        {
+          "pt": "antigamente",
+          "en": "sometimes / from time to time",
+          "ar": "antigamente"
+        },
+        {
+          "pt": "antes",
+          "en": "in the past",
+          "ar": "antes"
+        }
+      ],
+      "answer": "de vez em quando::always|sempre::every day|todos os dias::when|quando::before|antigamente::sometimes / from time to time|antes::in the past",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim! Tínhamos vacas, cavalos e galinhas.",
+          "en": "Yes! We had cows, horses and chickens.",
+          "ar": "نعم! كان لدينا أبقار وخيول ودجاج."
+        },
+        {
+          "pt": "Quando eu era criança, morava em uma fazenda.",
+          "en": "And what was your routine like?",
+          "ar": "وكيف كان روتينك؟"
+        },
+        {
+          "pt": "E como era a sua rotina?",
+          "en": "When I was a child, I lived on a farm.",
+          "ar": "عندما كنت طفلة، كنت أسكن في مزرعة."
+        }
+      ],
+      "answer": "Quando eu era criança, morava em uma fazenda.",
+      "accepted": [],
+      "audio": "Quando eu era criança, morava em uma fazenda.",
+      "explanation": {
+        "pt": "Você ouviu: 'Quando eu era criança, morava em uma fazenda.' — 'When I was a child, I lived on a farm.'",
+        "en": "You heard: 'Quando eu era criança, morava em uma fazenda.' — 'When I was a child, I lived on a farm.'",
+        "ar": "سمعت: 'Quando eu era criança, morava em uma fazenda.' — 'عندما كنت طفلة، كنت أسكن في مزرعة.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Vocês tinham muitos animais?",
+          "en": "How you miss those times, grandma!",
+          "ar": "هل كان لديكم حيوانات كثيرة؟"
+        },
+        {
+          "pt": "Que saudade daquele tempo, vovó!",
+          "en": "Did you have many animals?",
+          "ar": "كم تشتاقين إلى تلك الأيام يا جدتي!"
+        },
+        {
+          "pt": "E como era a sua rotina?",
+          "en": "And what was your routine like?",
+          "ar": "وكيف كان روتينك؟"
+        }
+      ],
+      "answer": "E como era a sua rotina?",
+      "accepted": [],
+      "audio": "E como era a sua rotina?",
+      "explanation": {
+        "pt": "Você ouviu: 'E como era a sua rotina?' — 'And what was your routine like?'",
+        "en": "You heard: 'E como era a sua rotina?' — 'And what was your routine like?'",
+        "ar": "سمعت: 'E como era a sua rotina?' — 'وكيف كان روتينك؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "em",
+          "en": "em",
+          "ar": "em"
+        },
+        {
+          "pt": "era",
+          "en": "era",
+          "ar": "era"
+        },
+        {
+          "pt": "criança,",
+          "en": "criança,",
+          "ar": "criança,"
+        },
+        {
+          "pt": "eu",
+          "en": "eu",
+          "ar": "eu"
+        },
+        {
+          "pt": "fazenda.",
+          "en": "fazenda.",
+          "ar": "fazenda."
+        },
+        {
+          "pt": "Quando",
+          "en": "Quando",
+          "ar": "Quando"
+        },
+        {
+          "pt": "uma",
+          "en": "uma",
+          "ar": "uma"
+        },
+        {
+          "pt": "morava",
+          "en": "morava",
+          "ar": "morava"
+        }
+      ],
+      "answer": "Quando eu era criança, morava em uma fazenda.",
+      "accepted": [
+        "Quando eu era criança, morava em uma fazenda."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Quando eu era criança, morava em uma fazenda.'",
+        "en": "The correct order: 'When I was a child, I lived on a farm.'",
+        "ar": "الترتيب الصحيح: 'عندما كنت طفلة، كنت أسكن في مزرعة.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "de vez em quando",
+          "en": "before",
+          "ar": "de vez em quando"
+        },
+        {
+          "pt": "sempre",
+          "en": "every day",
+          "ar": "sempre"
+        },
+        {
+          "pt": "todos os dias",
+          "en": "in the past",
+          "ar": "todos os dias"
+        },
+        {
+          "pt": "quando",
+          "en": "sometimes / from time to time",
+          "ar": "quando"
+        },
+        {
+          "pt": "antes",
+          "en": "always",
+          "ar": "antes"
+        },
+        {
+          "pt": "antigamente",
+          "en": "when",
+          "ar": "antigamente"
+        }
+      ],
+      "answer": "de vez em quando::before|sempre::every day|todos os dias::in the past|quando::sometimes / from time to time|antes::always|antigamente::when",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "E como era a sua rotina?",
+          "en": "And what was your routine like?",
+          "ar": "وكيف كان روتينك؟"
+        },
+        {
+          "pt": "Vocês tinham muitos animais?",
+          "en": "When I was a child, I lived on a farm.",
+          "ar": "عندما كنت طفلة، كنت أسكن في مزرعة."
+        },
+        {
+          "pt": "Quando eu era criança, morava em uma fazenda.",
+          "en": "Did you have many animals?",
+          "ar": "هل كان لديكم حيوانات كثيرة؟"
+        }
+      ],
+      "answer": "Quando eu era criança, morava em uma fazenda.",
+      "accepted": [],
+      "audio": "Quando eu era criança, morava em uma fazenda.",
+      "explanation": {
+        "pt": "Você ouviu: 'Quando eu era criança, morava em uma fazenda.' — 'When I was a child, I lived on a farm.'",
+        "en": "You heard: 'Quando eu era criança, morava em uma fazenda.' — 'When I was a child, I lived on a farm.'",
+        "ar": "سمعت: 'Quando eu era criança, morava em uma fazenda.' — 'عندما كنت طفلة، كنت أسكن في مزرعة.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Vocês tinham muitos animais?",
+          "en": "I woke up early, took coffee to my father and played with my brothers.",
+          "ar": "كنت أستيقظ مبكرًا، وأحمل القهوة لأبي وألعب مع إخوتي."
+        },
+        {
+          "pt": "E como era a sua rotina?",
+          "en": "And what was your routine like?",
+          "ar": "وكيف كان روتينك؟"
+        },
+        {
+          "pt": "Eu acordava cedo, levava o café para o meu pai e brincava com meus irmãos.",
+          "en": "Did you have many animals?",
+          "ar": "هل كان لديكم حيوانات كثيرة؟"
+        }
+      ],
+      "answer": "E como era a sua rotina?",
+      "accepted": [],
+      "audio": "E como era a sua rotina?",
+      "explanation": {
+        "pt": "Você ouviu: 'E como era a sua rotina?' — 'And what was your routine like?'",
+        "en": "You heard: 'E como era a sua rotina?' — 'And what was your routine like?'",
+        "ar": "سمعت: 'E como era a sua rotina?' — 'وكيف كان روتينك؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "morava",
+          "en": "morava",
+          "ar": "morava"
+        },
+        {
+          "pt": "criança,",
+          "en": "criança,",
+          "ar": "criança,"
+        },
+        {
+          "pt": "Quando",
+          "en": "Quando",
+          "ar": "Quando"
+        },
+        {
+          "pt": "uma",
+          "en": "uma",
+          "ar": "uma"
+        },
+        {
+          "pt": "em",
+          "en": "em",
+          "ar": "em"
+        },
+        {
+          "pt": "era",
+          "en": "era",
+          "ar": "era"
+        },
+        {
+          "pt": "eu",
+          "en": "eu",
+          "ar": "eu"
+        },
+        {
+          "pt": "fazenda.",
+          "en": "fazenda.",
+          "ar": "fazenda."
+        }
+      ],
+      "answer": "Quando eu era criança, morava em uma fazenda.",
+      "accepted": [
+        "Quando eu era criança, morava em uma fazenda."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Quando eu era criança, morava em uma fazenda.'",
+        "en": "The correct order: 'When I was a child, I lived on a farm.'",
+        "ar": "الترتيب الصحيح: 'عندما كنت طفلة، كنت أسكن في مزرعة.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "antigamente",
+          "en": "in the past",
+          "ar": "antigamente"
+        },
+        {
+          "pt": "de vez em quando",
+          "en": "when",
+          "ar": "de vez em quando"
+        },
+        {
+          "pt": "sempre",
+          "en": "always",
+          "ar": "sempre"
+        },
+        {
+          "pt": "todos os dias",
+          "en": "every day",
+          "ar": "todos os dias"
+        },
+        {
+          "pt": "quando",
+          "en": "sometimes / from time to time",
+          "ar": "quando"
+        },
+        {
+          "pt": "antes",
+          "en": "before",
+          "ar": "antes"
+        }
+      ],
+      "answer": "antigamente::in the past|de vez em quando::when|sempre::always|todos os dias::every day|quando::sometimes / from time to time|antes::before",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "E como era a sua rotina?",
+          "en": "Did you have many animals?",
+          "ar": "وكيف كان روتينك؟"
+        },
+        {
+          "pt": "Quando eu era criança, morava em uma fazenda.",
+          "en": "And what was your routine like?",
+          "ar": "هل كان لديكم حيوانات كثيرة؟"
+        },
+        {
+          "pt": "Vocês tinham muitos animais?",
+          "en": "When I was a child, I lived on a farm.",
+          "ar": "عندما كنت طفلة، كنت أسكن في مزرعة."
+        }
+      ],
+      "answer": "Quando eu era criança, morava em uma fazenda.",
+      "accepted": [],
+      "audio": "Quando eu era criança, morava em uma fazenda.",
+      "explanation": {
+        "pt": "Você ouviu: 'Quando eu era criança, morava em uma fazenda.' — 'When I was a child, I lived on a farm.'",
+        "en": "You heard: 'Quando eu era criança, morava em uma fazenda.' — 'When I was a child, I lived on a farm.'",
+        "ar": "سمعت: 'Quando eu era criança, morava em uma fazenda.' — 'عندما كنت طفلة، كنت أسكن في مزرعة.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim! Tínhamos vacas, cavalos e galinhas.",
+          "en": "Yes! We had cows, horses and chickens.",
+          "ar": "نعم! كان لدينا أبقار وخيول ودجاج."
+        },
+        {
+          "pt": "E como era a sua rotina?",
+          "en": "Did you have many animals?",
+          "ar": "هل كان لديكم حيوانات كثيرة؟"
+        },
+        {
+          "pt": "Vocês tinham muitos animais?",
+          "en": "And what was your routine like?",
+          "ar": "وكيف كان روتينك؟"
+        }
+      ],
+      "answer": "E como era a sua rotina?",
+      "accepted": [],
+      "audio": "E como era a sua rotina?",
+      "explanation": {
+        "pt": "Você ouviu: 'E como era a sua rotina?' — 'And what was your routine like?'",
+        "en": "You heard: 'E como era a sua rotina?' — 'And what was your routine like?'",
+        "ar": "سمعت: 'E como era a sua rotina?' — 'وكيف كان روتينك؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "uma",
+          "en": "uma",
+          "ar": "uma"
+        },
+        {
+          "pt": "criança,",
+          "en": "criança,",
+          "ar": "criança,"
+        },
+        {
+          "pt": "era",
+          "en": "era",
+          "ar": "era"
+        },
+        {
+          "pt": "fazenda.",
+          "en": "fazenda.",
+          "ar": "fazenda."
+        },
+        {
+          "pt": "Quando",
+          "en": "Quando",
+          "ar": "Quando"
+        },
+        {
+          "pt": "em",
+          "en": "em",
+          "ar": "em"
+        },
+        {
+          "pt": "eu",
+          "en": "eu",
+          "ar": "eu"
+        },
+        {
+          "pt": "morava",
+          "en": "morava",
+          "ar": "morava"
+        }
+      ],
+      "answer": "Quando eu era criança, morava em uma fazenda.",
+      "accepted": [
+        "Quando eu era criança, morava em uma fazenda."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Quando eu era criança, morava em uma fazenda.'",
+        "en": "The correct order: 'When I was a child, I lived on a farm.'",
+        "ar": "الترتيب الصحيح: 'عندما كنت طفلة، كنت أسكن في مزرعة.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "de vez em quando",
+          "en": "sometimes / from time to time",
+          "ar": "de vez em quando"
+        },
+        {
+          "pt": "antigamente",
+          "en": "when",
+          "ar": "antigamente"
+        },
+        {
+          "pt": "sempre",
+          "en": "in the past",
+          "ar": "sempre"
+        },
+        {
+          "pt": "quando",
+          "en": "every day",
+          "ar": "quando"
+        },
+        {
+          "pt": "todos os dias",
+          "en": "before",
+          "ar": "todos os dias"
+        },
+        {
+          "pt": "antes",
+          "en": "always",
+          "ar": "antes"
+        }
+      ],
+      "answer": "de vez em quando::sometimes / from time to time|antigamente::when|sempre::in the past|quando::every day|todos os dias::before|antes::always",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Quando eu era criança, morava em uma fazenda.",
+          "en": "And what was your routine like?",
+          "ar": "عندما كنت طفلة، كنت أسكن في مزرعة."
+        },
+        {
+          "pt": "Sim! Tínhamos vacas, cavalos e galinhas.",
+          "en": "When I was a child, I lived on a farm.",
+          "ar": "نعم! كان لدينا أبقار وخيول ودجاج."
+        },
+        {
+          "pt": "E como era a sua rotina?",
+          "en": "Yes! We had cows, horses and chickens.",
+          "ar": "وكيف كان روتينك؟"
+        }
+      ],
+      "answer": "Quando eu era criança, morava em uma fazenda.",
+      "accepted": [],
+      "audio": "Quando eu era criança, morava em uma fazenda.",
+      "explanation": {
+        "pt": "Você ouviu: 'Quando eu era criança, morava em uma fazenda.' — 'When I was a child, I lived on a farm.'",
+        "en": "You heard: 'Quando eu era criança, morava em uma fazenda.' — 'When I was a child, I lived on a farm.'",
+        "ar": "سمعت: 'Quando eu era criança, morava em uma fazenda.' — 'عندما كنت طفلة، كنت أسكن في مزرعة.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Vocês tinham muitos animais?",
+          "en": "Did you have many animals?",
+          "ar": "كنت أستيقظ مبكرًا، وأحمل القهوة لأبي وألعب مع إخوتي."
+        },
+        {
+          "pt": "E como era a sua rotina?",
+          "en": "And what was your routine like?",
+          "ar": "هل كان لديكم حيوانات كثيرة؟"
+        },
+        {
+          "pt": "Eu acordava cedo, levava o café para o meu pai e brincava com meus irmãos.",
+          "en": "I woke up early, took coffee to my father and played with my brothers.",
+          "ar": "وكيف كان روتينك؟"
+        }
+      ],
+      "answer": "E como era a sua rotina?",
+      "accepted": [],
+      "audio": "E como era a sua rotina?",
+      "explanation": {
+        "pt": "Você ouviu: 'E como era a sua rotina?' — 'And what was your routine like?'",
+        "en": "You heard: 'E como era a sua rotina?' — 'And what was your routine like?'",
+        "ar": "سمعت: 'E como era a sua rotina?' — 'وكيف كان روتينك؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "fazenda.",
+          "en": "fazenda.",
+          "ar": "fazenda."
+        },
+        {
+          "pt": "criança,",
+          "en": "criança,",
+          "ar": "criança,"
+        },
+        {
+          "pt": "eu",
+          "en": "eu",
+          "ar": "eu"
+        },
+        {
+          "pt": "Quando",
+          "en": "Quando",
+          "ar": "Quando"
+        },
+        {
+          "pt": "morava",
+          "en": "morava",
+          "ar": "morava"
+        },
+        {
+          "pt": "era",
+          "en": "era",
+          "ar": "era"
+        },
+        {
+          "pt": "uma",
+          "en": "uma",
+          "ar": "uma"
+        },
+        {
+          "pt": "em",
+          "en": "em",
+          "ar": "em"
+        }
+      ],
+      "answer": "Quando eu era criança, morava em uma fazenda.",
+      "accepted": [
+        "Quando eu era criança, morava em uma fazenda."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Quando eu era criança, morava em uma fazenda.'",
+        "en": "The correct order: 'When I was a child, I lived on a farm.'",
+        "ar": "الترتيب الصحيح: 'عندما كنت طفلة، كنت أسكن في مزرعة.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "antes",
+          "en": "before",
+          "ar": "antes"
+        },
+        {
+          "pt": "de vez em quando",
+          "en": "when",
+          "ar": "de vez em quando"
+        },
+        {
+          "pt": "antigamente",
+          "en": "in the past",
+          "ar": "antigamente"
+        },
+        {
+          "pt": "todos os dias",
+          "en": "sometimes / from time to time",
+          "ar": "todos os dias"
+        },
+        {
+          "pt": "quando",
+          "en": "always",
+          "ar": "quando"
+        },
+        {
+          "pt": "sempre",
+          "en": "every day",
+          "ar": "sempre"
+        }
+      ],
+      "answer": "antes::before|de vez em quando::when|antigamente::in the past|todos os dias::sometimes / from time to time|quando::always|sempre::every day",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim! Tínhamos vacas, cavalos e galinhas.",
+          "en": "Did you have many animals?",
+          "ar": "هل كان لديكم حيوانات كثيرة؟"
+        },
+        {
+          "pt": "Quando eu era criança, morava em uma fazenda.",
+          "en": "When I was a child, I lived on a farm.",
+          "ar": "نعم! كان لدينا أبقار وخيول ودجاج."
+        },
+        {
+          "pt": "Vocês tinham muitos animais?",
+          "en": "Yes! We had cows, horses and chickens.",
+          "ar": "عندما كنت طفلة، كنت أسكن في مزرعة."
+        }
+      ],
+      "answer": "Quando eu era criança, morava em uma fazenda.",
+      "accepted": [],
+      "audio": "Quando eu era criança, morava em uma fazenda.",
+      "explanation": {
+        "pt": "Você ouviu: 'Quando eu era criança, morava em uma fazenda.' — 'When I was a child, I lived on a farm.'",
+        "en": "You heard: 'Quando eu era criança, morava em uma fazenda.' — 'When I was a child, I lived on a farm.'",
+        "ar": "سمعت: 'Quando eu era criança, morava em uma fazenda.' — 'عندما كنت طفلة، كنت أسكن في مزرعة.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Eu acordava cedo, levava o café para o meu pai e brincava com meus irmãos.",
+          "en": "I woke up early, took coffee to my father and played with my brothers.",
+          "ar": "كنت أستيقظ مبكرًا، وأحمل القهوة لأبي وألعب مع إخوتي."
+        },
+        {
+          "pt": "Vocês tinham muitos animais?",
+          "en": "And what was your routine like?",
+          "ar": "وكيف كان روتينك؟"
+        },
+        {
+          "pt": "E como era a sua rotina?",
+          "en": "Did you have many animals?",
+          "ar": "هل كان لديكم حيوانات كثيرة؟"
+        }
+      ],
+      "answer": "E como era a sua rotina?",
+      "accepted": [],
+      "audio": "E como era a sua rotina?",
+      "explanation": {
+        "pt": "Você ouviu: 'E como era a sua rotina?' — 'And what was your routine like?'",
+        "en": "You heard: 'E como era a sua rotina?' — 'And what was your routine like?'",
+        "ar": "سمعت: 'E como era a sua rotina?' — 'وكيف كان روتينك؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "criança,",
+          "en": "criança,",
+          "ar": "criança,"
+        },
+        {
+          "pt": "Quando",
+          "en": "Quando",
+          "ar": "Quando"
+        },
+        {
+          "pt": "era",
+          "en": "era",
+          "ar": "era"
+        },
+        {
+          "pt": "uma",
+          "en": "uma",
+          "ar": "uma"
+        },
+        {
+          "pt": "fazenda.",
+          "en": "fazenda.",
+          "ar": "fazenda."
+        },
+        {
+          "pt": "morava",
+          "en": "morava",
+          "ar": "morava"
+        },
+        {
+          "pt": "eu",
+          "en": "eu",
+          "ar": "eu"
+        },
+        {
+          "pt": "em",
+          "en": "em",
+          "ar": "em"
+        }
+      ],
+      "answer": "Quando eu era criança, morava em uma fazenda.",
+      "accepted": [
+        "Quando eu era criança, morava em uma fazenda."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Quando eu era criança, morava em uma fazenda.'",
+        "en": "The correct order: 'When I was a child, I lived on a farm.'",
+        "ar": "الترتيب الصحيح: 'عندما كنت طفلة، كنت أسكن في مزرعة.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "de vez em quando",
+          "en": "always",
+          "ar": "de vez em quando"
+        },
+        {
+          "pt": "antigamente",
+          "en": "sometimes / from time to time",
+          "ar": "antigamente"
+        },
+        {
+          "pt": "quando",
+          "en": "every day",
+          "ar": "quando"
+        },
+        {
+          "pt": "sempre",
+          "en": "before",
+          "ar": "sempre"
+        },
+        {
+          "pt": "todos os dias",
+          "en": "in the past",
+          "ar": "todos os dias"
+        },
+        {
+          "pt": "antes",
+          "en": "when",
+          "ar": "antes"
+        }
+      ],
+      "answer": "de vez em quando::always|antigamente::sometimes / from time to time|quando::every day|sempre::before|todos os dias::in the past|antes::when",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Quando eu era criança, morava em uma fazenda.",
+          "en": "Did you have many animals?",
+          "ar": "عندما كنت طفلة، كنت أسكن في مزرعة."
+        },
+        {
+          "pt": "Que saudade daquele tempo, vovó!",
+          "en": "When I was a child, I lived on a farm.",
+          "ar": "كم تشتاقين إلى تلك الأيام يا جدتي!"
+        },
+        {
+          "pt": "Vocês tinham muitos animais?",
+          "en": "How you miss those times, grandma!",
+          "ar": "هل كان لديكم حيوانات كثيرة؟"
+        }
+      ],
+      "answer": "Quando eu era criança, morava em uma fazenda.",
+      "accepted": [],
+      "audio": "Quando eu era criança, morava em uma fazenda.",
+      "explanation": {
+        "pt": "Você ouviu: 'Quando eu era criança, morava em uma fazenda.' — 'When I was a child, I lived on a farm.'",
+        "en": "You heard: 'Quando eu era criança, morava em uma fazenda.' — 'When I was a child, I lived on a farm.'",
+        "ar": "سمعت: 'Quando eu era criança, morava em uma fazenda.' — 'عندما كنت طفلة، كنت أسكن في مزرعة.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Eu acordava cedo, levava o café para o meu pai e brincava com meus irmãos.",
+          "en": "Did you have many animals?",
+          "ar": "هل كان لديكم حيوانات كثيرة؟"
+        },
+        {
+          "pt": "Vocês tinham muitos animais?",
+          "en": "And what was your routine like?",
+          "ar": "وكيف كان روتينك؟"
+        },
+        {
+          "pt": "E como era a sua rotina?",
+          "en": "I woke up early, took coffee to my father and played with my brothers.",
+          "ar": "كنت أستيقظ مبكرًا، وأحمل القهوة لأبي وألعب مع إخوتي."
+        }
+      ],
+      "answer": "E como era a sua rotina?",
+      "accepted": [],
+      "audio": "E como era a sua rotina?",
+      "explanation": {
+        "pt": "Você ouviu: 'E como era a sua rotina?' — 'And what was your routine like?'",
+        "en": "You heard: 'E como era a sua rotina?' — 'And what was your routine like?'",
+        "ar": "سمعت: 'E como era a sua rotina?' — 'وكيف كان روتينك؟'"
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'before'",
+        "en": "Type in Portuguese: 'before'",
+        "ar": "اكتب بالبرتغالية: 'قبل'"
+      },
+      "options": [],
+      "answer": "antes",
+      "accepted": [
+        "antes"
+      ],
+      "explanation": {
+        "pt": "'antes' significa 'before'.",
+        "en": "'antes' means 'before'.",
+        "ar": "'$antes' بالعربية: '$قبل'."
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'when'",
+        "en": "Type in Portuguese: 'when'",
+        "ar": "اكتب بالبرتغالية: 'عندما'"
+      },
+      "options": [],
+      "answer": "quando",
+      "accepted": [
+        "quando"
+      ],
+      "explanation": {
+        "pt": "'quando' significa 'when'.",
+        "en": "'quando' means 'when'.",
+        "ar": "'$quando' بالعربية: '$عندما'."
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "E como era a sua rotina?",
+          "en": "E como era a sua rotina?",
+          "ar": "E como era a sua rotina?"
+        },
+        {
+          "pt": "Quando eu era criança, morava em uma fazenda.",
+          "en": "Quando eu era criança, morava em uma fazenda.",
+          "ar": "Quando eu era criança, morava em uma fazenda."
+        },
+        {
+          "pt": "Sim! Tínhamos vacas, cavalos e galinhas.",
+          "en": "Sim! Tínhamos vacas, cavalos e galinhas.",
+          "ar": "Sim! Tínhamos vacas, cavalos e galinhas."
+        }
+      ],
+      "answer": "Quando eu era criança, morava em uma fazenda.",
+      "accepted": [],
+      "audio": "Quando eu era criança, morava em uma fazenda.",
+      "explanation": {
+        "pt": "Você ouviu: 'Quando eu era criança, morava em uma fazenda.'",
+        "en": "You heard: 'Quando eu era criança, morava em uma fazenda.'",
+        "ar": "سمعت: 'Quando eu era criança, morava em uma fazenda.'"
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "E como era a sua rotina?",
+          "en": "E como era a sua rotina?",
+          "ar": "E como era a sua rotina?"
+        },
+        {
+          "pt": "Quando eu era criança, morava em uma fazenda.",
+          "en": "Quando eu era criança, morava em uma fazenda.",
+          "ar": "Quando eu era criança, morava em uma fazenda."
+        },
+        {
+          "pt": "Sim! Tínhamos vacas, cavalos e galinhas.",
+          "en": "Sim! Tínhamos vacas, cavalos e galinhas.",
+          "ar": "Sim! Tínhamos vacas, cavalos e galinhas."
+        }
+      ],
+      "answer": "E como era a sua rotina?",
+      "accepted": [],
+      "audio": "E como era a sua rotina?",
+      "explanation": {
+        "pt": "Você ouviu: 'E como era a sua rotina?'",
+        "en": "You heard: 'E como era a sua rotina?'",
+        "ar": "سمعت: 'E como era a sua rotina?'"
+      }
+    },
+    {
+      "type": "dictation",
+      "prompt": {
+        "pt": "Ouça e escreva o que você ouviu.",
+        "en": "Listen and type what you hear.",
+        "ar": "استمع واكتب ما سمعته."
+      },
+      "options": [],
+      "answer": "Quando eu era criança, morava em uma fazenda.",
+      "accepted": [],
+      "audio": "Quando eu era criança, morava em uma fazenda.",
+      "explanation": {
+        "pt": "A frase correta: 'Quando eu era criança, morava em uma fazenda.'",
+        "en": "The correct sentence: 'Quando eu era criança, morava em uma fazenda.'",
+        "ar": "الجملة الصحيحة: 'Quando eu era criança, morava em uma fazenda.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "uma",
+          "en": "uma",
+          "ar": "uma"
+        },
+        {
+          "pt": "em",
+          "en": "em",
+          "ar": "em"
+        },
+        {
+          "pt": "fazenda.",
+          "en": "fazenda.",
+          "ar": "fazenda."
+        },
+        {
+          "pt": "era",
+          "en": "era",
+          "ar": "era"
+        },
+        {
+          "pt": "Quando",
+          "en": "Quando",
+          "ar": "Quando"
+        },
+        {
+          "pt": "criança,",
+          "en": "criança,",
+          "ar": "criança,"
+        },
+        {
+          "pt": "eu",
+          "en": "eu",
+          "ar": "eu"
+        },
+        {
+          "pt": "morava",
+          "en": "morava",
+          "ar": "morava"
+        }
+      ],
+      "answer": "Quando eu era criança, morava em uma fazenda.",
+      "accepted": [
+        "Quando eu era criança, morava em uma fazenda."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Quando eu era criança, morava em uma fazenda.'",
+        "en": "The correct order: 'When I was a child, I lived on a farm.'",
+        "ar": "الترتيب الصحيح: 'عندما كنت طفلة، كنت أسكن في مزرعة.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "antigamente",
+          "en": "before",
+          "ar": "antigamente"
+        },
+        {
+          "pt": "todos os dias",
+          "en": "every day",
+          "ar": "todos os dias"
+        },
+        {
+          "pt": "sempre",
+          "en": "sometimes / from time to time",
+          "ar": "sempre"
+        },
+        {
+          "pt": "de vez em quando",
+          "en": "when",
+          "ar": "de vez em quando"
+        },
+        {
+          "pt": "quando",
+          "en": "always",
+          "ar": "quando"
+        },
+        {
+          "pt": "antes",
+          "en": "in the past",
+          "ar": "antes"
+        }
+      ],
+      "answer": "antigamente::before|todos os dias::every day|sempre::sometimes / from time to time|de vez em quando::when|quando::always|antes::in the past",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Que saudade daquele tempo, vovó!",
+          "en": "When I was a child, I lived on a farm.",
+          "ar": "عندما كنت طفلة، كنت أسكن في مزرعة."
+        },
+        {
+          "pt": "Quando eu era criança, morava em uma fazenda.",
+          "en": "How you miss those times, grandma!",
+          "ar": "كم تشتاقين إلى تلك الأيام يا جدتي!"
+        },
+        {
+          "pt": "Sim! Tínhamos vacas, cavalos e galinhas.",
+          "en": "Yes! We had cows, horses and chickens.",
+          "ar": "نعم! كان لدينا أبقار وخيول ودجاج."
+        }
+      ],
+      "answer": "Quando eu era criança, morava em uma fazenda.",
+      "accepted": [],
+      "audio": "Quando eu era criança, morava em uma fazenda.",
+      "explanation": {
+        "pt": "Você ouviu: 'Quando eu era criança, morava em uma fazenda.' — 'When I was a child, I lived on a farm.'",
+        "en": "You heard: 'Quando eu era criança, morava em uma fazenda.' — 'When I was a child, I lived on a farm.'",
+        "ar": "سمعت: 'Quando eu era criança, morava em uma fazenda.' — 'عندما كنت طفلة، كنت أسكن في مزرعة.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Eu acordava cedo, levava o café para o meu pai e brincava com meus irmãos.",
+          "en": "I woke up early, took coffee to my father and played with my brothers.",
+          "ar": "وكيف كان روتينك؟"
+        },
+        {
+          "pt": "Sim! Tínhamos vacas, cavalos e galinhas.",
+          "en": "Yes! We had cows, horses and chickens.",
+          "ar": "كنت أستيقظ مبكرًا، وأحمل القهوة لأبي وألعب مع إخوتي."
+        },
+        {
+          "pt": "E como era a sua rotina?",
+          "en": "And what was your routine like?",
+          "ar": "نعم! كان لدينا أبقار وخيول ودجاج."
+        }
+      ],
+      "answer": "E como era a sua rotina?",
+      "accepted": [],
+      "audio": "E como era a sua rotina?",
+      "explanation": {
+        "pt": "Você ouviu: 'E como era a sua rotina?' — 'And what was your routine like?'",
+        "en": "You heard: 'E como era a sua rotina?' — 'And what was your routine like?'",
+        "ar": "سمعت: 'E como era a sua rotina?' — 'وكيف كان روتينك؟'"
+      }
+    }
+  ],
+  "speaking": {
+    "title": {
+      "pt": "Fale Agora — Ouça e Repita",
+      "en": "Speak Now — Listen and Repeat",
+      "ar": "تحدث الآن — استمع وكرر"
+    },
+    "phrases": [
+      {
+        "pt": "Quando eu era criança, morava em uma fazenda.",
+        "en": "When I was a child, I lived on a farm.",
+        "ar": "عندما كنت طفلة، كنت أسكن في مزرعة."
+      },
+      {
+        "pt": "E como era a sua rotina?",
+        "en": "And what was your routine like?",
+        "ar": "وكيف كان روتينك؟"
+      },
+      {
+        "pt": "Eu acordava cedo, levava o café para o meu pai e brincava com meus irmãos.",
+        "en": "I woke up early, took coffee to my father and played with my brothers.",
+        "ar": "كنت أستيقظ مبكرًا، وأحمل القهوة لأبي وألعب مع إخوتي."
+      },
+      {
+        "pt": "Vocês tinham muitos animais?",
+        "en": "Did you have many animals?",
+        "ar": "هل كان لديكم حيوانات كثيرة؟"
+      },
+      {
+        "pt": "Sim! Tínhamos vacas, cavalos e galinhas.",
+        "en": "Yes! We had cows, horses and chickens.",
+        "ar": "نعم! كان لدينا أبقار وخيول ودجاج."
+      },
+      {
+        "pt": "Que saudade daquele tempo, vovó!",
+        "en": "How you miss those times, grandma!",
+        "ar": "كم تشتاقين إلى تلك الأيام يا جدتي!"
+      },
+      {
+        "pt": "antes",
+        "en": "before",
+        "ar": "قبل"
+      },
+      {
+        "pt": "quando",
+        "en": "when",
+        "ar": "عندما"
+      },
+      {
+        "pt": "sempre",
+        "en": "always",
+        "ar": "دائمًا"
+      }
+    ]
+  },
+  "cultural_tips": {
+    "pt": "",
+    "en": "",
+    "ar": ""
+  }
+}

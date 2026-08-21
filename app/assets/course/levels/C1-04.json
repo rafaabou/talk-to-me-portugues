@@ -1,0 +1,2030 @@
+{
+  "id": "C1-04",
+  "level": "C1",
+  "level_name": {
+    "pt": "Avançado",
+    "en": "Advanced",
+    "ar": "متقدم"
+  },
+  "title": {
+    "pt": "Discurso Indireto",
+    "en": "Reported Speech",
+    "ar": "الكلام المنقول"
+  },
+  "objectives": [
+    {
+      "pt": "Transformar discurso direto em indireto",
+      "en": "Transform direct speech into reported speech",
+      "ar": "تحويل الكلام المباشر إلى منقول"
+    },
+    {
+      "pt": "Aplicar as mudanças de tempo e pessoa corretamente",
+      "en": "Apply tense and person changes correctly",
+      "ar": "تطبيق تغييرات الزمن والضمير بشكل صحيح"
+    },
+    {
+      "pt": "Relatar perguntas, pedidos e ordens",
+      "en": "Report questions, requests and orders",
+      "ar": "نقل الأسئلة والطلبات والأوامر"
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "o discurso indireto",
+      "ipa": "/u dʒisˈkuɾ.su ĩ.dʒiˈɾɛ.tu/",
+      "en": "reported speech",
+      "ar": "الكلام المنقول",
+      "example": {
+        "pt": "O professor disse que a prova seria na segunda-feira.",
+        "en": "The teacher said the exam would be on Monday.",
+        "ar": "قال المعلم إن الامتحان سيكون يوم الاثنين."
+      }
+    },
+    {
+      "pt": "relatar",
+      "ipa": "/he.laˈtaɾ/",
+      "en": "to report",
+      "ar": "يروي، ينقل",
+      "example": {
+        "pt": "O professor disse que a prova seria na segunda-feira.",
+        "en": "The teacher said the exam would be on Monday.",
+        "ar": "قال المعلم إن الامتحان سيكون يوم الاثنين."
+      }
+    },
+    {
+      "pt": "citar",
+      "ipa": "/siˈtaɾ/",
+      "en": "to quote",
+      "ar": "يقتبس",
+      "example": {
+        "pt": "O professor disse que a prova seria na segunda-feira.",
+        "en": "The teacher said the exam would be on Monday.",
+        "ar": "قال المعلم إن الامتحان سيكون يوم الاثنين."
+      }
+    },
+    {
+      "pt": "o verbo introdutório",
+      "ipa": "/u ˈveʁ.bu ĩ.tɾo.duˈtɔ.ɾi.u/",
+      "en": "the introductory verb",
+      "ar": "الفعل التمهيدي",
+      "example": {
+        "pt": "O professor disse que a prova seria na segunda-feira.",
+        "en": "The teacher said the exam would be on Monday.",
+        "ar": "قال المعلم إن الامتحان سيكون يوم الاثنين."
+      }
+    },
+    {
+      "pt": "a mudança de tempo",
+      "ipa": "/a muˈdɐ̃.sa dʒi ˈtẽ.pu/",
+      "en": "the tense change",
+      "ar": "تغيير الزمن",
+      "example": {
+        "pt": "O professor disse que a prova seria na segunda-feira.",
+        "en": "The teacher said the exam would be on Monday.",
+        "ar": "قال المعلم إن الامتحان سيكون يوم الاثنين."
+      }
+    },
+    {
+      "pt": "a pessoa gramatical",
+      "ipa": "/a peˈso.a ɡɾa.ma.tʃiˈkaw/",
+      "en": "the grammatical person",
+      "ar": "الضمير النحوي",
+      "example": {
+        "pt": "O professor disse que a prova seria na segunda-feira.",
+        "en": "The teacher said the exam would be on Monday.",
+        "ar": "قال المعلم إن الامتحان سيكون يوم الاثنين."
+      }
+    },
+    {
+      "pt": "o pronome",
+      "ipa": "/u pɾoˈnõ.mi/",
+      "en": "the pronoun",
+      "ar": "الضمير",
+      "example": {
+        "pt": "O professor disse que a prova seria na segunda-feira.",
+        "en": "The teacher said the exam would be on Monday.",
+        "ar": "قال المعلم إن الامتحان سيكون يوم الاثنين."
+      }
+    },
+    {
+      "pt": "afirmar",
+      "ipa": "/a.fiʁˈmaɾ/",
+      "en": "to affirm",
+      "ar": "يؤكد",
+      "example": {
+        "pt": "O professor disse que a prova seria na segunda-feira.",
+        "en": "The teacher said the exam would be on Monday.",
+        "ar": "قال المعلم إن الامتحان سيكون يوم الاثنين."
+      }
+    },
+    {
+      "pt": "perguntar",
+      "ipa": "/peʁ.ɡũˈtaɾ/",
+      "en": "to ask",
+      "ar": "يسأل",
+      "example": {
+        "pt": "O professor disse que a prova seria na segunda-feira.",
+        "en": "The teacher said the exam would be on Monday.",
+        "ar": "قال المعلم إن الامتحان سيكون يوم الاثنين."
+      }
+    },
+    {
+      "pt": "responder",
+      "ipa": "/hes.põˈdeɾ/",
+      "en": "to answer",
+      "ar": "يجيب",
+      "example": {
+        "pt": "O professor disse que a prova seria na segunda-feira.",
+        "en": "The teacher said the exam would be on Monday.",
+        "ar": "قال المعلم إن الامتحان سيكون يوم الاثنين."
+      }
+    },
+    {
+      "pt": "comentar",
+      "ipa": "/ko.mẽˈtaɾ/",
+      "en": "to comment",
+      "ar": "يعلّق",
+      "example": {
+        "pt": "O professor disse que a prova seria na segunda-feira.",
+        "en": "The teacher said the exam would be on Monday.",
+        "ar": "قال المعلم إن الامتحان سيكون يوم الاثنين."
+      }
+    },
+    {
+      "pt": "explicar",
+      "ipa": "/is.pliˈkaɾ/",
+      "en": "to explain",
+      "ar": "يشرح",
+      "example": {
+        "pt": "O professor disse que a prova seria na segunda-feira.",
+        "en": "The teacher said the exam would be on Monday.",
+        "ar": "قال المعلم إن الامتحان سيكون يوم الاثنين."
+      }
+    },
+    {
+      "pt": "a paráfrase",
+      "ipa": "/a paˈɾa.fɾa.zi/",
+      "en": "the paraphrase",
+      "ar": "إعادة الصياغة",
+      "example": {
+        "pt": "O professor disse que a prova seria na segunda-feira.",
+        "en": "The teacher said the exam would be on Monday.",
+        "ar": "قال المعلم إن الامتحان سيكون يوم الاثنين."
+      }
+    },
+    {
+      "pt": "a oração subordinada",
+      "ipa": "/a o.ɾaˈsɐ̃w su.boʁ.dʒiˈna.da/",
+      "en": "the subordinate clause",
+      "ar": "الجملة التابعة",
+      "example": {
+        "pt": "O professor disse que a prova seria na segunda-feira.",
+        "en": "The teacher said the exam would be on Monday.",
+        "ar": "قال المعلم إن الامتحان سيكون يوم الاثنين."
+      }
+    },
+    {
+      "pt": "o ponto de vista",
+      "ipa": "/u ˈpõ.tu dʒi ˈvis.ta/",
+      "en": "the point of view",
+      "ar": "وجهة النظر",
+      "example": {
+        "pt": "O professor disse que a prova seria na segunda-feira.",
+        "en": "The teacher said the exam would be on Monday.",
+        "ar": "قال المعلم إن الامتحان سيكون يوم الاثنين."
+      }
+    },
+    {
+      "pt": "a citação",
+      "ipa": "/a si.taˈsɐ̃w/",
+      "en": "the quotation",
+      "ar": "الاقتباس",
+      "example": {
+        "pt": "O professor disse que a prova seria na segunda-feira.",
+        "en": "The teacher said the exam would be on Monday.",
+        "ar": "قال المعلم إن الامتحان سيكون يوم الاثنين."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "title": {
+        "pt": "Mudanças de Tempo no Discurso Indireto",
+        "en": "Tense Changes in Reported Speech",
+        "ar": "تغييرات الزمن في الكلام المنقول"
+      },
+      "explanation": {
+        "pt": "Ao passar para o discurso indireto, o presente vira imperfeito, o pretérito perfeito vira mais-que-perfeito composto, o futuro vira futuro do pretérito, e o imperativo vira subjuntivo (pretérito imperfeito). Também mudam os pronomes e os advérbios: 'hoje' vira 'naquele dia', 'amanhã' vira 'no dia seguinte', 'aqui' vira 'lá'.",
+        "en": "When moving to reported speech, the present becomes the imperfect, the preterite becomes the compound pluperfect, the future becomes the conditional, and the imperative becomes the subjunctive (imperfect). Pronouns and adverbs also change: 'hoje' (today) becomes 'naquele dia' (that day), 'amanhã' (tomorrow) becomes 'no dia seguinte' (the next day), 'aqui' (here) becomes 'lá' (there).",
+        "ar": "عند التحويل إلى الكلام المنقول، يتحول المضارع إلى الماضي الناقص، والماضي البسيط إلى الماضي التام المركب، والمستقبل إلى صيغة الشرط، وصيغة الأمر إلى صيغة الماضي الشرطي. كما تتغير الضمائر والظروف: 'hoje' تصبح 'naquele dia'، و'amanhã' تصبح 'no dia seguinte'، و'aqui' تصبح 'lá'."
+      },
+      "examples": [
+        {
+          "pt": "Ela disse: \"Estou cansada.\" — Ela disse que estava cansada.",
+          "en": "She said: \"I am tired.\" — She said she was tired.",
+          "ar": "قالت: «أنا متعبة» — قالت إنها متعبة."
+        },
+        {
+          "pt": "Ele afirmou: \"Comprei o carro.\" — Ele afirmou que tinha comprado o carro.",
+          "en": "He stated: \"I bought the car.\" — He stated he had bought the car.",
+          "ar": "أكد: «اشتريت السيارة» — أكد أنه اشترى السيارة."
+        },
+        {
+          "pt": "Pedro disse: \"Vou viajar.\" — Pedro disse que ia viajar.",
+          "en": "Pedro said: \"I will travel.\" — Pedro said he was going to travel.",
+          "ar": "قال بيدرو: «سأسافر» — قال بيدرو إنه سيسافر."
+        },
+        {
+          "pt": "Maria respondeu: \"Amanhã estarei aqui.\" — Maria respondeu que estaria lá no dia seguinte.",
+          "en": "Maria replied: \"Tomorrow I will be here.\" — Maria replied she would be there the next day.",
+          "ar": "أجابت ماريا: «غدًا سأكون هنا» — أجابت ماريا أنها ستكون هناك في اليوم التالي."
+        }
+      ]
+    },
+    {
+      "title": {
+        "pt": "Perguntas, Pedidos e Ordens",
+        "en": "Questions, Requests and Orders",
+        "ar": "الأسئلة والطلبات والأوامر"
+      },
+      "explanation": {
+        "pt": "Perguntas diretas viram indiretas com 'se' (para sim/não) ou com a palavra interrogativa mantida (onde, quando, como). Pedidos e ordens usam 'pedir/ordenar que' + subjuntivo. O tempo do verbo introdutório determina o tempo do subjuntivo: 'pediu que eu trouxesse', 'pede que eu traga'.",
+        "en": "Direct questions become indirect with 'se' (for yes/no) or with the interrogative word kept (onde - where, quando - when, como - how). Requests and orders use 'pedir/ordenar que' + subjunctive. The tense of the introductory verb determines the subjunctive tense: 'pediu que eu trouxesse' (asked that I bring), 'pede que eu traga' (asks that I bring).",
+        "ar": "تتحول الأسئلة المباشرة إلى منقولة باستخدام 'se' (للإجابة بنعم/لا) أو مع بقاء أداة الاستفهام (أين، متى، كيف). تستخدم الطلبات والأوامر 'pedir/ordenar que' مع صيغة الشرط. ويحدد زمن الفعل التمهيدي زمن صيغة الشرط: 'pediu que eu trouxesse' و'pede que eu traga'."
+      },
+      "examples": [
+        {
+          "pt": "Ela perguntou: \"Você vem?\" — Ela perguntou se eu vinha.",
+          "en": "She asked: \"Are you coming?\" — She asked if I was coming.",
+          "ar": "سألت: «هل أنت قادم؟» — سألت إذا كنت قادمًا."
+        },
+        {
+          "pt": "Ele perguntou: \"Onde você mora?\" — Ele perguntou onde eu morava.",
+          "en": "He asked: \"Where do you live?\" — He asked where I lived.",
+          "ar": "سأل: «أين تسكن؟» — سأل أين أسكن."
+        },
+        {
+          "pt": "O chefe pediu: \"Traga o relatório.\" — O chefe pediu que eu trouxesse o relatório.",
+          "en": "The boss asked: \"Bring the report.\" — The boss asked me to bring the report.",
+          "ar": "طلب المدير: «أحضر التقرير» — طلب المدير أن أحضر التقرير."
+        },
+        {
+          "pt": "Ela perguntou: \"Que horas são?\" — Ela perguntou que horas eram.",
+          "en": "She asked: \"What time is it?\" — She asked what time it was.",
+          "ar": "سألت: «كم الساعة؟» — سألت كم الساعة."
+        }
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": {
+      "pt": "Repassando a Conversa",
+      "en": "Passing on the Conversation",
+      "ar": "نقل الحديث"
+    },
+    "lines": [
+      {
+        "speaker": "Júlia",
+        "pt": "O professor disse que a prova seria na segunda-feira.",
+        "en": "The teacher said the exam would be on Monday.",
+        "ar": "قال المعلم إن الامتحان سيكون يوم الاثنين."
+      },
+      {
+        "speaker": "André",
+        "pt": "Mas ele tinha afirmado que seria na sexta!",
+        "en": "But he had stated it would be on Friday!",
+        "ar": "لكنه كان قد أكد أنه سيكون يوم الجمعة!"
+      },
+      {
+        "speaker": "Júlia",
+        "pt": "Ele explicou que mudou de ideia e que avisaria por e-mail.",
+        "en": "He explained he changed his mind and would notify by email.",
+        "ar": "أوضح أنه غيّر رأيه وأنه سيعلن ذلك عبر البريد الإلكتروني."
+      },
+      {
+        "speaker": "André",
+        "pt": "E quando ele perguntou se você estava preparado?",
+        "en": "And when did he ask if you were prepared?",
+        "ar": "ومتى سألك إذا كنت مستعدًا؟"
+      },
+      {
+        "speaker": "Júlia",
+        "pt": "Eu respondi que estudaria o fim de semana inteiro.",
+        "en": "I answered that I would study the whole weekend.",
+        "ar": "أجبت أنني سأدرس طوال عطلة نهاية الأسبوع."
+      }
+    ]
+  },
+  "reading": {
+    "title": {
+      "pt": "O Que Ele Disse",
+      "en": "What He Said",
+      "ar": "ما الذي قاله"
+    },
+    "text_pt": "No final da reunião, o diretor explicou que os resultados seriam divulgados na semana seguinte. Ele pediu que todos mantivessem o foco e comentou que a equipe tinha superado as expectativas. Depois, respondeu que estava otimista com o futuro. Alguém perguntou se haveria novos investimentos, e ele disse que sim, se o mercado colaborasse.",
+    "text_en": "At the end of the meeting, the director explained that the results would be announced the following week. He asked everyone to stay focused and commented that the team had exceeded expectations. Then he answered that he was optimistic about the future. Someone asked whether there would be new investments, and he said yes, if the market cooperated.",
+    "text_ar": "في نهاية الاجتماع، أوضح المدير أن النتائج ستُعلن في الأسبوع التالي. وطلب من الجميع الحفاظ على التركيز وعلّق بأن الفريق قد تجاوز التوقعات. ثم أجاب أنه متفائل بالمستقبل. سأل أحدهم إذا كانت ستكون هناك استثمارات جديدة، فقال نعم، إذا تعاون السوق."
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Discurso indireto de: \"Estou feliz\", disse Ana.",
+        "en": "Reported speech of: \"Estou feliz\", disse Ana.",
+        "ar": "الكلام المنقول لـ: «أنا سعيدة»، قالت آنا."
+      },
+      "options": [
+        {
+          "pt": "Ana disse que está feliz.",
+          "en": "Ana disse que está feliz.",
+          "ar": "Ana disse que está feliz."
+        },
+        {
+          "pt": "Ana disse que estava feliz.",
+          "en": "Ana disse que estava feliz.",
+          "ar": "Ana disse que estava feliz."
+        },
+        {
+          "pt": "Ana disse que estará feliz.",
+          "en": "Ana disse que estará feliz.",
+          "ar": "Ana disse que estará feliz."
+        }
+      ],
+      "answer": "Ana disse que estava feliz.",
+      "explanation": {
+        "pt": "O presente 'estou' vira imperfeito 'estava' no discurso indireto.",
+        "en": "The present 'estou' becomes the imperfect 'estava' in reported speech.",
+        "ar": "يتحول المضارع 'estou' إلى الماضي الناقص 'estava' في الكلام المنقول."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Discurso indireto de: \"Onde você trabalha?\", perguntou ele.",
+        "en": "Reported speech of: \"Onde você trabalha?\", perguntou ele.",
+        "ar": "الكلام المنقول لـ: «أين تعمل؟»، سأل هو."
+      },
+      "options": [
+        {
+          "pt": "Ele perguntou onde eu trabalhava.",
+          "en": "Ele perguntou onde eu trabalhava.",
+          "ar": "Ele perguntou onde eu trabalhava."
+        },
+        {
+          "pt": "Ele perguntou onde eu trabalho.",
+          "en": "Ele perguntou onde eu trabalho.",
+          "ar": "Ele perguntou onde eu trabalho."
+        },
+        {
+          "pt": "Ele perguntou onde eu trabalharei.",
+          "en": "Ele perguntou onde eu trabalharei.",
+          "ar": "Ele perguntou onde eu trabalharei."
+        }
+      ],
+      "answer": "Ele perguntou onde eu trabalhava.",
+      "explanation": {
+        "pt": "A pergunta mantém a palavra interrogativa e o verbo recua para o imperfeito.",
+        "en": "The question keeps the interrogative word and the verb moves back to the imperfect.",
+        "ar": "تبقى أداة الاستفهام ويتأخر الفعل إلى الماضي الناقص."
+      }
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o discurso indireto: 'He said, \"I will travel tomorrow.\"'",
+        "en": "Translate into reported speech: 'He said, \"I will travel tomorrow.\"'",
+        "ar": "ترجم إلى الكلام المنقول: 'He said, \"I will travel tomorrow.\"'"
+      },
+      "options": [],
+      "answer": "Ele disse que viajaria no dia seguinte.",
+      "explanation": {
+        "pt": "'Will travel' vira 'viajaria'; 'tomorrow' vira 'no dia seguinte'.",
+        "en": "'Will travel' becomes 'viajaria'; 'tomorrow' becomes 'no dia seguinte'.",
+        "ar": "تتحول 'will travel' إلى 'viajaria'، و'tomorrow' إلى 'no dia seguinte'."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "na",
+          "en": "na",
+          "ar": "na"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "professor",
+          "en": "professor",
+          "ar": "professor"
+        },
+        {
+          "pt": "disse",
+          "en": "disse",
+          "ar": "disse"
+        },
+        {
+          "pt": "prova",
+          "en": "prova",
+          "ar": "prova"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "segunda-feira.",
+          "en": "segunda-feira.",
+          "ar": "segunda-feira."
+        },
+        {
+          "pt": "seria",
+          "en": "seria",
+          "ar": "seria"
+        }
+      ],
+      "answer": "O professor disse que a prova seria na segunda-feira.",
+      "accepted": [
+        "O professor disse que a prova seria na segunda-feira."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'O professor disse que a prova seria na segunda-feira.'",
+        "en": "The correct order: 'The teacher said the exam would be on Monday.'",
+        "ar": "الترتيب الصحيح: 'قال المعلم إن الامتحان سيكون يوم الاثنين.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "relatar",
+          "en": "to quote",
+          "ar": "relatar"
+        },
+        {
+          "pt": "citar",
+          "en": "the tense change",
+          "ar": "citar"
+        },
+        {
+          "pt": "o discurso indireto",
+          "en": "the introductory verb",
+          "ar": "o discurso indireto"
+        },
+        {
+          "pt": "a pessoa gramatical",
+          "en": "the grammatical person",
+          "ar": "a pessoa gramatical"
+        },
+        {
+          "pt": "o verbo introdutório",
+          "en": "reported speech",
+          "ar": "o verbo introdutório"
+        },
+        {
+          "pt": "a mudança de tempo",
+          "en": "to report",
+          "ar": "a mudança de tempo"
+        }
+      ],
+      "answer": "relatar::to quote|citar::the tense change|o discurso indireto::the introductory verb|a pessoa gramatical::the grammatical person|o verbo introdutório::reported speech|a mudança de tempo::to report",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "O professor disse que a prova seria na segunda-feira.",
+          "en": "He explained he changed his mind and would notify by email.",
+          "ar": "أجبت أنني سأدرس طوال عطلة نهاية الأسبوع."
+        },
+        {
+          "pt": "Ele explicou que mudou de ideia e que avisaria por e-mail.",
+          "en": "The teacher said the exam would be on Monday.",
+          "ar": "قال المعلم إن الامتحان سيكون يوم الاثنين."
+        },
+        {
+          "pt": "Eu respondi que estudaria o fim de semana inteiro.",
+          "en": "I answered that I would study the whole weekend.",
+          "ar": "أوضح أنه غيّر رأيه وأنه سيعلن ذلك عبر البريد الإلكتروني."
+        }
+      ],
+      "answer": "O professor disse que a prova seria na segunda-feira.",
+      "accepted": [],
+      "audio": "O professor disse que a prova seria na segunda-feira.",
+      "explanation": {
+        "pt": "Você ouviu: 'O professor disse que a prova seria na segunda-feira.' — 'The teacher said the exam would be on Monday.'",
+        "en": "You heard: 'O professor disse que a prova seria na segunda-feira.' — 'The teacher said the exam would be on Monday.'",
+        "ar": "سمعت: 'O professor disse que a prova seria na segunda-feira.' — 'قال المعلم إن الامتحان سيكون يوم الاثنين.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "O professor disse que a prova seria na segunda-feira.",
+          "en": "But he had stated it would be on Friday!",
+          "ar": "قال المعلم إن الامتحان سيكون يوم الاثنين."
+        },
+        {
+          "pt": "E quando ele perguntou se você estava preparado?",
+          "en": "And when did he ask if you were prepared?",
+          "ar": "لكنه كان قد أكد أنه سيكون يوم الجمعة!"
+        },
+        {
+          "pt": "Mas ele tinha afirmado que seria na sexta!",
+          "en": "The teacher said the exam would be on Monday.",
+          "ar": "ومتى سألك إذا كنت مستعدًا؟"
+        }
+      ],
+      "answer": "Mas ele tinha afirmado que seria na sexta!",
+      "accepted": [],
+      "audio": "Mas ele tinha afirmado que seria na sexta!",
+      "explanation": {
+        "pt": "Você ouviu: 'Mas ele tinha afirmado que seria na sexta!' — 'But he had stated it would be on Friday!'",
+        "en": "You heard: 'Mas ele tinha afirmado que seria na sexta!' — 'But he had stated it would be on Friday!'",
+        "ar": "سمعت: 'Mas ele tinha afirmado que seria na sexta!' — 'لكنه كان قد أكد أنه سيكون يوم الجمعة!'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "segunda-feira.",
+          "en": "segunda-feira.",
+          "ar": "segunda-feira."
+        },
+        {
+          "pt": "prova",
+          "en": "prova",
+          "ar": "prova"
+        },
+        {
+          "pt": "professor",
+          "en": "professor",
+          "ar": "professor"
+        },
+        {
+          "pt": "seria",
+          "en": "seria",
+          "ar": "seria"
+        },
+        {
+          "pt": "disse",
+          "en": "disse",
+          "ar": "disse"
+        },
+        {
+          "pt": "na",
+          "en": "na",
+          "ar": "na"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        }
+      ],
+      "answer": "O professor disse que a prova seria na segunda-feira.",
+      "accepted": [
+        "O professor disse que a prova seria na segunda-feira."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'O professor disse que a prova seria na segunda-feira.'",
+        "en": "The correct order: 'The teacher said the exam would be on Monday.'",
+        "ar": "الترتيب الصحيح: 'قال المعلم إن الامتحان سيكون يوم الاثنين.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a mudança de tempo",
+          "en": "the tense change",
+          "ar": "a mudança de tempo"
+        },
+        {
+          "pt": "relatar",
+          "en": "to report",
+          "ar": "relatar"
+        },
+        {
+          "pt": "citar",
+          "en": "reported speech",
+          "ar": "citar"
+        },
+        {
+          "pt": "o discurso indireto",
+          "en": "the grammatical person",
+          "ar": "o discurso indireto"
+        },
+        {
+          "pt": "a pessoa gramatical",
+          "en": "to quote",
+          "ar": "a pessoa gramatical"
+        },
+        {
+          "pt": "o verbo introdutório",
+          "en": "the introductory verb",
+          "ar": "o verbo introdutório"
+        }
+      ],
+      "answer": "a mudança de tempo::the tense change|relatar::to report|citar::reported speech|o discurso indireto::the grammatical person|a pessoa gramatical::to quote|o verbo introdutório::the introductory verb",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "O professor disse que a prova seria na segunda-feira.",
+          "en": "But he had stated it would be on Friday!",
+          "ar": "أوضح أنه غيّر رأيه وأنه سيعلن ذلك عبر البريد الإلكتروني."
+        },
+        {
+          "pt": "Ele explicou que mudou de ideia e que avisaria por e-mail.",
+          "en": "He explained he changed his mind and would notify by email.",
+          "ar": "قال المعلم إن الامتحان سيكون يوم الاثنين."
+        },
+        {
+          "pt": "Mas ele tinha afirmado que seria na sexta!",
+          "en": "The teacher said the exam would be on Monday.",
+          "ar": "لكنه كان قد أكد أنه سيكون يوم الجمعة!"
+        }
+      ],
+      "answer": "O professor disse que a prova seria na segunda-feira.",
+      "accepted": [],
+      "audio": "O professor disse que a prova seria na segunda-feira.",
+      "explanation": {
+        "pt": "Você ouviu: 'O professor disse que a prova seria na segunda-feira.' — 'The teacher said the exam would be on Monday.'",
+        "en": "You heard: 'O professor disse que a prova seria na segunda-feira.' — 'The teacher said the exam would be on Monday.'",
+        "ar": "سمعت: 'O professor disse que a prova seria na segunda-feira.' — 'قال المعلم إن الامتحان سيكون يوم الاثنين.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Mas ele tinha afirmado que seria na sexta!",
+          "en": "He explained he changed his mind and would notify by email.",
+          "ar": "أجبت أنني سأدرس طوال عطلة نهاية الأسبوع."
+        },
+        {
+          "pt": "Ele explicou que mudou de ideia e que avisaria por e-mail.",
+          "en": "I answered that I would study the whole weekend.",
+          "ar": "لكنه كان قد أكد أنه سيكون يوم الجمعة!"
+        },
+        {
+          "pt": "Eu respondi que estudaria o fim de semana inteiro.",
+          "en": "But he had stated it would be on Friday!",
+          "ar": "أوضح أنه غيّر رأيه وأنه سيعلن ذلك عبر البريد الإلكتروني."
+        }
+      ],
+      "answer": "Mas ele tinha afirmado que seria na sexta!",
+      "accepted": [],
+      "audio": "Mas ele tinha afirmado que seria na sexta!",
+      "explanation": {
+        "pt": "Você ouviu: 'Mas ele tinha afirmado que seria na sexta!' — 'But he had stated it would be on Friday!'",
+        "en": "You heard: 'Mas ele tinha afirmado que seria na sexta!' — 'But he had stated it would be on Friday!'",
+        "ar": "سمعت: 'Mas ele tinha afirmado que seria na sexta!' — 'لكنه كان قد أكد أنه سيكون يوم الجمعة!'"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Ela disse: \"Vou ligar.\" — Ela disse que ___ ligar.",
+        "en": "She said: \"I will call.\" — She said she ___ call.",
+        "ar": "قالت: \"سأتصل.\" — قالت إنها ___ تتصل."
+      },
+      "options": [
+        {
+          "pt": "ia",
+          "en": "ia",
+          "ar": "ia"
+        },
+        {
+          "pt": "irá",
+          "en": "irá",
+          "ar": "ست"
+        },
+        {
+          "pt": "iria",
+          "en": "iria",
+          "ar": "ست"
+        }
+      ],
+      "answer": "ia",
+      "accepted": [
+        "ia"
+      ],
+      "explanation": {
+        "pt": "O futuro \"vou\" vira \"ia\" (futuro do pretérito) no discurso indireto.",
+        "en": "The future \"vou\" becomes \"ia\" (conditional) in reported speech.",
+        "ar": "يتحول المستقبل \"vou\" إلى \"ia\" (الصيغة الشرطية) في الكلام المنقول."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "seria",
+          "en": "seria",
+          "ar": "seria"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "prova",
+          "en": "prova",
+          "ar": "prova"
+        },
+        {
+          "pt": "disse",
+          "en": "disse",
+          "ar": "disse"
+        },
+        {
+          "pt": "professor",
+          "en": "professor",
+          "ar": "professor"
+        },
+        {
+          "pt": "na",
+          "en": "na",
+          "ar": "na"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "segunda-feira.",
+          "en": "segunda-feira.",
+          "ar": "segunda-feira."
+        }
+      ],
+      "answer": "O professor disse que a prova seria na segunda-feira.",
+      "accepted": [
+        "O professor disse que a prova seria na segunda-feira."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'O professor disse que a prova seria na segunda-feira.'",
+        "en": "The correct order: 'The teacher said the exam would be on Monday.'",
+        "ar": "الترتيب الصحيح: 'قال المعلم إن الامتحان سيكون يوم الاثنين.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "relatar",
+          "en": "the tense change",
+          "ar": "relatar"
+        },
+        {
+          "pt": "a mudança de tempo",
+          "en": "reported speech",
+          "ar": "a mudança de tempo"
+        },
+        {
+          "pt": "o verbo introdutório",
+          "en": "the grammatical person",
+          "ar": "o verbo introdutório"
+        },
+        {
+          "pt": "o discurso indireto",
+          "en": "to quote",
+          "ar": "o discurso indireto"
+        },
+        {
+          "pt": "a pessoa gramatical",
+          "en": "to report",
+          "ar": "a pessoa gramatical"
+        },
+        {
+          "pt": "citar",
+          "en": "the introductory verb",
+          "ar": "citar"
+        }
+      ],
+      "answer": "relatar::the tense change|a mudança de tempo::reported speech|o verbo introdutório::the grammatical person|o discurso indireto::to quote|a pessoa gramatical::to report|citar::the introductory verb",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "E quando ele perguntou se você estava preparado?",
+          "en": "And when did he ask if you were prepared?",
+          "ar": "قال المعلم إن الامتحان سيكون يوم الاثنين."
+        },
+        {
+          "pt": "O professor disse que a prova seria na segunda-feira.",
+          "en": "He explained he changed his mind and would notify by email.",
+          "ar": "أوضح أنه غيّر رأيه وأنه سيعلن ذلك عبر البريد الإلكتروني."
+        },
+        {
+          "pt": "Ele explicou que mudou de ideia e que avisaria por e-mail.",
+          "en": "The teacher said the exam would be on Monday.",
+          "ar": "ومتى سألك إذا كنت مستعدًا؟"
+        }
+      ],
+      "answer": "O professor disse que a prova seria na segunda-feira.",
+      "accepted": [],
+      "audio": "O professor disse que a prova seria na segunda-feira.",
+      "explanation": {
+        "pt": "Você ouviu: 'O professor disse que a prova seria na segunda-feira.' — 'The teacher said the exam would be on Monday.'",
+        "en": "You heard: 'O professor disse que a prova seria na segunda-feira.' — 'The teacher said the exam would be on Monday.'",
+        "ar": "سمعت: 'O professor disse que a prova seria na segunda-feira.' — 'قال المعلم إن الامتحان سيكون يوم الاثنين.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Mas ele tinha afirmado que seria na sexta!",
+          "en": "I answered that I would study the whole weekend.",
+          "ar": "قال المعلم إن الامتحان سيكون يوم الاثنين."
+        },
+        {
+          "pt": "O professor disse que a prova seria na segunda-feira.",
+          "en": "The teacher said the exam would be on Monday.",
+          "ar": "أجبت أنني سأدرس طوال عطلة نهاية الأسبوع."
+        },
+        {
+          "pt": "Eu respondi que estudaria o fim de semana inteiro.",
+          "en": "But he had stated it would be on Friday!",
+          "ar": "لكنه كان قد أكد أنه سيكون يوم الجمعة!"
+        }
+      ],
+      "answer": "Mas ele tinha afirmado que seria na sexta!",
+      "accepted": [],
+      "audio": "Mas ele tinha afirmado que seria na sexta!",
+      "explanation": {
+        "pt": "Você ouviu: 'Mas ele tinha afirmado que seria na sexta!' — 'But he had stated it would be on Friday!'",
+        "en": "You heard: 'Mas ele tinha afirmado que seria na sexta!' — 'But he had stated it would be on Friday!'",
+        "ar": "سمعت: 'Mas ele tinha afirmado que seria na sexta!' — 'لكنه كان قد أكد أنه سيكون يوم الجمعة!'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "segunda-feira.",
+          "en": "segunda-feira.",
+          "ar": "segunda-feira."
+        },
+        {
+          "pt": "prova",
+          "en": "prova",
+          "ar": "prova"
+        },
+        {
+          "pt": "seria",
+          "en": "seria",
+          "ar": "seria"
+        },
+        {
+          "pt": "na",
+          "en": "na",
+          "ar": "na"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "professor",
+          "en": "professor",
+          "ar": "professor"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "disse",
+          "en": "disse",
+          "ar": "disse"
+        }
+      ],
+      "answer": "O professor disse que a prova seria na segunda-feira.",
+      "accepted": [
+        "O professor disse que a prova seria na segunda-feira."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'O professor disse que a prova seria na segunda-feira.'",
+        "en": "The correct order: 'The teacher said the exam would be on Monday.'",
+        "ar": "الترتيب الصحيح: 'قال المعلم إن الامتحان سيكون يوم الاثنين.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a mudança de tempo",
+          "en": "to report",
+          "ar": "a mudança de tempo"
+        },
+        {
+          "pt": "relatar",
+          "en": "reported speech",
+          "ar": "relatar"
+        },
+        {
+          "pt": "a pessoa gramatical",
+          "en": "the grammatical person",
+          "ar": "a pessoa gramatical"
+        },
+        {
+          "pt": "o discurso indireto",
+          "en": "to quote",
+          "ar": "o discurso indireto"
+        },
+        {
+          "pt": "citar",
+          "en": "the tense change",
+          "ar": "citar"
+        },
+        {
+          "pt": "o verbo introdutório",
+          "en": "the introductory verb",
+          "ar": "o verbo introdutório"
+        }
+      ],
+      "answer": "a mudança de tempo::to report|relatar::reported speech|a pessoa gramatical::the grammatical person|o discurso indireto::to quote|citar::the tense change|o verbo introdutório::the introductory verb",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Mas ele tinha afirmado que seria na sexta!",
+          "en": "I answered that I would study the whole weekend.",
+          "ar": "أجبت أنني سأدرس طوال عطلة نهاية الأسبوع."
+        },
+        {
+          "pt": "Eu respondi que estudaria o fim de semana inteiro.",
+          "en": "But he had stated it would be on Friday!",
+          "ar": "لكنه كان قد أكد أنه سيكون يوم الجمعة!"
+        },
+        {
+          "pt": "O professor disse que a prova seria na segunda-feira.",
+          "en": "The teacher said the exam would be on Monday.",
+          "ar": "قال المعلم إن الامتحان سيكون يوم الاثنين."
+        }
+      ],
+      "answer": "O professor disse que a prova seria na segunda-feira.",
+      "accepted": [],
+      "audio": "O professor disse que a prova seria na segunda-feira.",
+      "explanation": {
+        "pt": "Você ouviu: 'O professor disse que a prova seria na segunda-feira.' — 'The teacher said the exam would be on Monday.'",
+        "en": "You heard: 'O professor disse que a prova seria na segunda-feira.' — 'The teacher said the exam would be on Monday.'",
+        "ar": "سمعت: 'O professor disse que a prova seria na segunda-feira.' — 'قال المعلم إن الامتحان سيكون يوم الاثنين.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "E quando ele perguntou se você estava preparado?",
+          "en": "But he had stated it would be on Friday!",
+          "ar": "قال المعلم إن الامتحان سيكون يوم الاثنين."
+        },
+        {
+          "pt": "O professor disse que a prova seria na segunda-feira.",
+          "en": "The teacher said the exam would be on Monday.",
+          "ar": "لكنه كان قد أكد أنه سيكون يوم الجمعة!"
+        },
+        {
+          "pt": "Mas ele tinha afirmado que seria na sexta!",
+          "en": "And when did he ask if you were prepared?",
+          "ar": "ومتى سألك إذا كنت مستعدًا؟"
+        }
+      ],
+      "answer": "Mas ele tinha afirmado que seria na sexta!",
+      "accepted": [],
+      "audio": "Mas ele tinha afirmado que seria na sexta!",
+      "explanation": {
+        "pt": "Você ouviu: 'Mas ele tinha afirmado que seria na sexta!' — 'But he had stated it would be on Friday!'",
+        "en": "You heard: 'Mas ele tinha afirmado que seria na sexta!' — 'But he had stated it would be on Friday!'",
+        "ar": "سمعت: 'Mas ele tinha afirmado que seria na sexta!' — 'لكنه كان قد أكد أنه سيكون يوم الجمعة!'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "disse",
+          "en": "disse",
+          "ar": "disse"
+        },
+        {
+          "pt": "prova",
+          "en": "prova",
+          "ar": "prova"
+        },
+        {
+          "pt": "professor",
+          "en": "professor",
+          "ar": "professor"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "segunda-feira.",
+          "en": "segunda-feira.",
+          "ar": "segunda-feira."
+        },
+        {
+          "pt": "seria",
+          "en": "seria",
+          "ar": "seria"
+        },
+        {
+          "pt": "na",
+          "en": "na",
+          "ar": "na"
+        }
+      ],
+      "answer": "O professor disse que a prova seria na segunda-feira.",
+      "accepted": [
+        "O professor disse que a prova seria na segunda-feira."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'O professor disse que a prova seria na segunda-feira.'",
+        "en": "The correct order: 'The teacher said the exam would be on Monday.'",
+        "ar": "الترتيب الصحيح: 'قال المعلم إن الامتحان سيكون يوم الاثنين.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "relatar",
+          "en": "the introductory verb",
+          "ar": "relatar"
+        },
+        {
+          "pt": "citar",
+          "en": "the tense change",
+          "ar": "citar"
+        },
+        {
+          "pt": "o discurso indireto",
+          "en": "reported speech",
+          "ar": "o discurso indireto"
+        },
+        {
+          "pt": "a mudança de tempo",
+          "en": "the grammatical person",
+          "ar": "a mudança de tempo"
+        },
+        {
+          "pt": "o verbo introdutório",
+          "en": "to report",
+          "ar": "o verbo introdutório"
+        },
+        {
+          "pt": "a pessoa gramatical",
+          "en": "to quote",
+          "ar": "a pessoa gramatical"
+        }
+      ],
+      "answer": "relatar::the introductory verb|citar::the tense change|o discurso indireto::reported speech|a mudança de tempo::the grammatical person|o verbo introdutório::to report|a pessoa gramatical::to quote",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "E quando ele perguntou se você estava preparado?",
+          "en": "The teacher said the exam would be on Monday.",
+          "ar": "لكنه كان قد أكد أنه سيكون يوم الجمعة!"
+        },
+        {
+          "pt": "Mas ele tinha afirmado que seria na sexta!",
+          "en": "And when did he ask if you were prepared?",
+          "ar": "ومتى سألك إذا كنت مستعدًا؟"
+        },
+        {
+          "pt": "O professor disse que a prova seria na segunda-feira.",
+          "en": "But he had stated it would be on Friday!",
+          "ar": "قال المعلم إن الامتحان سيكون يوم الاثنين."
+        }
+      ],
+      "answer": "O professor disse que a prova seria na segunda-feira.",
+      "accepted": [],
+      "audio": "O professor disse que a prova seria na segunda-feira.",
+      "explanation": {
+        "pt": "Você ouviu: 'O professor disse que a prova seria na segunda-feira.' — 'The teacher said the exam would be on Monday.'",
+        "en": "You heard: 'O professor disse que a prova seria na segunda-feira.' — 'The teacher said the exam would be on Monday.'",
+        "ar": "سمعت: 'O professor disse que a prova seria na segunda-feira.' — 'قال المعلم إن الامتحان سيكون يوم الاثنين.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "O professor disse que a prova seria na segunda-feira.",
+          "en": "The teacher said the exam would be on Monday.",
+          "ar": "أجبت أنني سأدرس طوال عطلة نهاية الأسبوع."
+        },
+        {
+          "pt": "Eu respondi que estudaria o fim de semana inteiro.",
+          "en": "But he had stated it would be on Friday!",
+          "ar": "قال المعلم إن الامتحان سيكون يوم الاثنين."
+        },
+        {
+          "pt": "Mas ele tinha afirmado que seria na sexta!",
+          "en": "I answered that I would study the whole weekend.",
+          "ar": "لكنه كان قد أكد أنه سيكون يوم الجمعة!"
+        }
+      ],
+      "answer": "Mas ele tinha afirmado que seria na sexta!",
+      "accepted": [],
+      "audio": "Mas ele tinha afirmado que seria na sexta!",
+      "explanation": {
+        "pt": "Você ouviu: 'Mas ele tinha afirmado que seria na sexta!' — 'But he had stated it would be on Friday!'",
+        "en": "You heard: 'Mas ele tinha afirmado que seria na sexta!' — 'But he had stated it would be on Friday!'",
+        "ar": "سمعت: 'Mas ele tinha afirmado que seria na sexta!' — 'لكنه كان قد أكد أنه سيكون يوم الجمعة!'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "prova",
+          "en": "prova",
+          "ar": "prova"
+        },
+        {
+          "pt": "professor",
+          "en": "professor",
+          "ar": "professor"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "na",
+          "en": "na",
+          "ar": "na"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "disse",
+          "en": "disse",
+          "ar": "disse"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "seria",
+          "en": "seria",
+          "ar": "seria"
+        },
+        {
+          "pt": "segunda-feira.",
+          "en": "segunda-feira.",
+          "ar": "segunda-feira."
+        }
+      ],
+      "answer": "O professor disse que a prova seria na segunda-feira.",
+      "accepted": [
+        "O professor disse que a prova seria na segunda-feira."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'O professor disse que a prova seria na segunda-feira.'",
+        "en": "The correct order: 'The teacher said the exam would be on Monday.'",
+        "ar": "الترتيب الصحيح: 'قال المعلم إن الامتحان سيكون يوم الاثنين.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o verbo introdutório",
+          "en": "the introductory verb",
+          "ar": "o verbo introdutório"
+        },
+        {
+          "pt": "o discurso indireto",
+          "en": "to report",
+          "ar": "o discurso indireto"
+        },
+        {
+          "pt": "a pessoa gramatical",
+          "en": "to quote",
+          "ar": "a pessoa gramatical"
+        },
+        {
+          "pt": "a mudança de tempo",
+          "en": "the grammatical person",
+          "ar": "a mudança de tempo"
+        },
+        {
+          "pt": "citar",
+          "en": "reported speech",
+          "ar": "citar"
+        },
+        {
+          "pt": "relatar",
+          "en": "the tense change",
+          "ar": "relatar"
+        }
+      ],
+      "answer": "o verbo introdutório::the introductory verb|o discurso indireto::to report|a pessoa gramatical::to quote|a mudança de tempo::the grammatical person|citar::reported speech|relatar::the tense change",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Ele explicou que mudou de ideia e que avisaria por e-mail.",
+          "en": "He explained he changed his mind and would notify by email.",
+          "ar": "ومتى سألك إذا كنت مستعدًا؟"
+        },
+        {
+          "pt": "E quando ele perguntou se você estava preparado?",
+          "en": "And when did he ask if you were prepared?",
+          "ar": "أوضح أنه غيّر رأيه وأنه سيعلن ذلك عبر البريد الإلكتروني."
+        },
+        {
+          "pt": "O professor disse que a prova seria na segunda-feira.",
+          "en": "The teacher said the exam would be on Monday.",
+          "ar": "قال المعلم إن الامتحان سيكون يوم الاثنين."
+        }
+      ],
+      "answer": "O professor disse que a prova seria na segunda-feira.",
+      "accepted": [],
+      "audio": "O professor disse que a prova seria na segunda-feira.",
+      "explanation": {
+        "pt": "Você ouviu: 'O professor disse que a prova seria na segunda-feira.' — 'The teacher said the exam would be on Monday.'",
+        "en": "You heard: 'O professor disse que a prova seria na segunda-feira.' — 'The teacher said the exam would be on Monday.'",
+        "ar": "سمعت: 'O professor disse que a prova seria na segunda-feira.' — 'قال المعلم إن الامتحان سيكون يوم الاثنين.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Mas ele tinha afirmado que seria na sexta!",
+          "en": "The teacher said the exam would be on Monday.",
+          "ar": "أجبت أنني سأدرس طوال عطلة نهاية الأسبوع."
+        },
+        {
+          "pt": "Eu respondi que estudaria o fim de semana inteiro.",
+          "en": "But he had stated it would be on Friday!",
+          "ar": "قال المعلم إن الامتحان سيكون يوم الاثنين."
+        },
+        {
+          "pt": "O professor disse que a prova seria na segunda-feira.",
+          "en": "I answered that I would study the whole weekend.",
+          "ar": "لكنه كان قد أكد أنه سيكون يوم الجمعة!"
+        }
+      ],
+      "answer": "Mas ele tinha afirmado que seria na sexta!",
+      "accepted": [],
+      "audio": "Mas ele tinha afirmado que seria na sexta!",
+      "explanation": {
+        "pt": "Você ouviu: 'Mas ele tinha afirmado que seria na sexta!' — 'But he had stated it would be on Friday!'",
+        "en": "You heard: 'Mas ele tinha afirmado que seria na sexta!' — 'But he had stated it would be on Friday!'",
+        "ar": "سمعت: 'Mas ele tinha afirmado que seria na sexta!' — 'لكنه كان قد أكد أنه سيكون يوم الجمعة!'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "seria",
+          "en": "seria",
+          "ar": "seria"
+        },
+        {
+          "pt": "segunda-feira.",
+          "en": "segunda-feira.",
+          "ar": "segunda-feira."
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "disse",
+          "en": "disse",
+          "ar": "disse"
+        },
+        {
+          "pt": "prova",
+          "en": "prova",
+          "ar": "prova"
+        },
+        {
+          "pt": "professor",
+          "en": "professor",
+          "ar": "professor"
+        },
+        {
+          "pt": "na",
+          "en": "na",
+          "ar": "na"
+        }
+      ],
+      "answer": "O professor disse que a prova seria na segunda-feira.",
+      "accepted": [
+        "O professor disse que a prova seria na segunda-feira."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'O professor disse que a prova seria na segunda-feira.'",
+        "en": "The correct order: 'The teacher said the exam would be on Monday.'",
+        "ar": "الترتيب الصحيح: 'قال المعلم إن الامتحان سيكون يوم الاثنين.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o discurso indireto",
+          "en": "the tense change",
+          "ar": "o discurso indireto"
+        },
+        {
+          "pt": "o verbo introdutório",
+          "en": "the grammatical person",
+          "ar": "o verbo introdutório"
+        },
+        {
+          "pt": "a pessoa gramatical",
+          "en": "the introductory verb",
+          "ar": "a pessoa gramatical"
+        },
+        {
+          "pt": "a mudança de tempo",
+          "en": "to report",
+          "ar": "a mudança de tempo"
+        },
+        {
+          "pt": "relatar",
+          "en": "to quote",
+          "ar": "relatar"
+        },
+        {
+          "pt": "citar",
+          "en": "reported speech",
+          "ar": "citar"
+        }
+      ],
+      "answer": "o discurso indireto::the tense change|o verbo introdutório::the grammatical person|a pessoa gramatical::the introductory verb|a mudança de tempo::to report|relatar::to quote|citar::reported speech",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "O professor disse que a prova seria na segunda-feira.",
+          "en": "The teacher said the exam would be on Monday.",
+          "ar": "لكنه كان قد أكد أنه سيكون يوم الجمعة!"
+        },
+        {
+          "pt": "Eu respondi que estudaria o fim de semana inteiro.",
+          "en": "But he had stated it would be on Friday!",
+          "ar": "قال المعلم إن الامتحان سيكون يوم الاثنين."
+        },
+        {
+          "pt": "Mas ele tinha afirmado que seria na sexta!",
+          "en": "I answered that I would study the whole weekend.",
+          "ar": "أجبت أنني سأدرس طوال عطلة نهاية الأسبوع."
+        }
+      ],
+      "answer": "O professor disse que a prova seria na segunda-feira.",
+      "accepted": [],
+      "audio": "O professor disse que a prova seria na segunda-feira.",
+      "explanation": {
+        "pt": "Você ouviu: 'O professor disse que a prova seria na segunda-feira.' — 'The teacher said the exam would be on Monday.'",
+        "en": "You heard: 'O professor disse que a prova seria na segunda-feira.' — 'The teacher said the exam would be on Monday.'",
+        "ar": "سمعت: 'O professor disse que a prova seria na segunda-feira.' — 'قال المعلم إن الامتحان سيكون يوم الاثنين.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "O professor disse que a prova seria na segunda-feira.",
+          "en": "But he had stated it would be on Friday!",
+          "ar": "قال المعلم إن الامتحان سيكون يوم الاثنين."
+        },
+        {
+          "pt": "Mas ele tinha afirmado que seria na sexta!",
+          "en": "The teacher said the exam would be on Monday.",
+          "ar": "لكنه كان قد أكد أنه سيكون يوم الجمعة!"
+        },
+        {
+          "pt": "Ele explicou que mudou de ideia e que avisaria por e-mail.",
+          "en": "He explained he changed his mind and would notify by email.",
+          "ar": "أوضح أنه غيّر رأيه وأنه سيعلن ذلك عبر البريد الإلكتروني."
+        }
+      ],
+      "answer": "Mas ele tinha afirmado que seria na sexta!",
+      "accepted": [],
+      "audio": "Mas ele tinha afirmado que seria na sexta!",
+      "explanation": {
+        "pt": "Você ouviu: 'Mas ele tinha afirmado que seria na sexta!' — 'But he had stated it would be on Friday!'",
+        "en": "You heard: 'Mas ele tinha afirmado que seria na sexta!' — 'But he had stated it would be on Friday!'",
+        "ar": "سمعت: 'Mas ele tinha afirmado que seria na sexta!' — 'لكنه كان قد أكد أنه سيكون يوم الجمعة!'"
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'reported speech'",
+        "en": "Type in Portuguese: 'reported speech'",
+        "ar": "اكتب بالبرتغالية: 'الكلام المنقول'"
+      },
+      "options": [],
+      "answer": "o discurso indireto",
+      "accepted": [
+        "o discurso indireto"
+      ],
+      "explanation": {
+        "pt": "'o discurso indireto' significa 'reported speech'.",
+        "en": "'o discurso indireto' means 'reported speech'.",
+        "ar": "'$o discurso indireto' بالعربية: '$الكلام المنقول'."
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'to report'",
+        "en": "Type in Portuguese: 'to report'",
+        "ar": "اكتب بالبرتغالية: 'يروي، ينقل'"
+      },
+      "options": [],
+      "answer": "relatar",
+      "accepted": [
+        "relatar"
+      ],
+      "explanation": {
+        "pt": "'relatar' significa 'to report'.",
+        "en": "'relatar' means 'to report'.",
+        "ar": "'$relatar' بالعربية: '$يروي، ينقل'."
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Eu respondi que estudaria o fim de semana inteiro.",
+          "en": "Eu respondi que estudaria o fim de semana inteiro.",
+          "ar": "Eu respondi que estudaria o fim de semana inteiro."
+        },
+        {
+          "pt": "O professor disse que a prova seria na segunda-feira.",
+          "en": "O professor disse que a prova seria na segunda-feira.",
+          "ar": "O professor disse que a prova seria na segunda-feira."
+        },
+        {
+          "pt": "E quando ele perguntou se você estava preparado?",
+          "en": "E quando ele perguntou se você estava preparado?",
+          "ar": "E quando ele perguntou se você estava preparado?"
+        }
+      ],
+      "answer": "O professor disse que a prova seria na segunda-feira.",
+      "accepted": [],
+      "audio": "O professor disse que a prova seria na segunda-feira.",
+      "explanation": {
+        "pt": "Você ouviu: 'O professor disse que a prova seria na segunda-feira.'",
+        "en": "You heard: 'O professor disse que a prova seria na segunda-feira.'",
+        "ar": "سمعت: 'O professor disse que a prova seria na segunda-feira.'"
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "E quando ele perguntou se você estava preparado?",
+          "en": "E quando ele perguntou se você estava preparado?",
+          "ar": "E quando ele perguntou se você estava preparado?"
+        },
+        {
+          "pt": "Eu respondi que estudaria o fim de semana inteiro.",
+          "en": "Eu respondi que estudaria o fim de semana inteiro.",
+          "ar": "Eu respondi que estudaria o fim de semana inteiro."
+        },
+        {
+          "pt": "Mas ele tinha afirmado que seria na sexta!",
+          "en": "Mas ele tinha afirmado que seria na sexta!",
+          "ar": "Mas ele tinha afirmado que seria na sexta!"
+        }
+      ],
+      "answer": "Mas ele tinha afirmado que seria na sexta!",
+      "accepted": [],
+      "audio": "Mas ele tinha afirmado que seria na sexta!",
+      "explanation": {
+        "pt": "Você ouviu: 'Mas ele tinha afirmado que seria na sexta!'",
+        "en": "You heard: 'Mas ele tinha afirmado que seria na sexta!'",
+        "ar": "سمعت: 'Mas ele tinha afirmado que seria na sexta!'"
+      }
+    },
+    {
+      "type": "dictation",
+      "prompt": {
+        "pt": "Ouça e escreva o que você ouviu.",
+        "en": "Listen and type what you hear.",
+        "ar": "استمع واكتب ما سمعته."
+      },
+      "options": [],
+      "answer": "O professor disse que a prova seria na segunda-feira.",
+      "accepted": [],
+      "audio": "O professor disse que a prova seria na segunda-feira.",
+      "explanation": {
+        "pt": "A frase correta: 'O professor disse que a prova seria na segunda-feira.'",
+        "en": "The correct sentence: 'O professor disse que a prova seria na segunda-feira.'",
+        "ar": "الجملة الصحيحة: 'O professor disse que a prova seria na segunda-feira.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "prova",
+          "en": "prova",
+          "ar": "prova"
+        },
+        {
+          "pt": "seria",
+          "en": "seria",
+          "ar": "seria"
+        },
+        {
+          "pt": "na",
+          "en": "na",
+          "ar": "na"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "segunda-feira.",
+          "en": "segunda-feira.",
+          "ar": "segunda-feira."
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "professor",
+          "en": "professor",
+          "ar": "professor"
+        },
+        {
+          "pt": "disse",
+          "en": "disse",
+          "ar": "disse"
+        }
+      ],
+      "answer": "O professor disse que a prova seria na segunda-feira.",
+      "accepted": [
+        "O professor disse que a prova seria na segunda-feira."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'O professor disse que a prova seria na segunda-feira.'",
+        "en": "The correct order: 'The teacher said the exam would be on Monday.'",
+        "ar": "الترتيب الصحيح: 'قال المعلم إن الامتحان سيكون يوم الاثنين.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "citar",
+          "en": "reported speech",
+          "ar": "citar"
+        },
+        {
+          "pt": "relatar",
+          "en": "the tense change",
+          "ar": "relatar"
+        },
+        {
+          "pt": "o discurso indireto",
+          "en": "the grammatical person",
+          "ar": "o discurso indireto"
+        },
+        {
+          "pt": "o verbo introdutório",
+          "en": "the introductory verb",
+          "ar": "o verbo introdutório"
+        },
+        {
+          "pt": "a pessoa gramatical",
+          "en": "to report",
+          "ar": "a pessoa gramatical"
+        },
+        {
+          "pt": "a mudança de tempo",
+          "en": "to quote",
+          "ar": "a mudança de tempo"
+        }
+      ],
+      "answer": "citar::reported speech|relatar::the tense change|o discurso indireto::the grammatical person|o verbo introdutório::the introductory verb|a pessoa gramatical::to report|a mudança de tempo::to quote",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Mas ele tinha afirmado que seria na sexta!",
+          "en": "But he had stated it would be on Friday!",
+          "ar": "لكنه كان قد أكد أنه سيكون يوم الجمعة!"
+        },
+        {
+          "pt": "Ele explicou que mudou de ideia e que avisaria por e-mail.",
+          "en": "The teacher said the exam would be on Monday.",
+          "ar": "أوضح أنه غيّر رأيه وأنه سيعلن ذلك عبر البريد الإلكتروني."
+        },
+        {
+          "pt": "O professor disse que a prova seria na segunda-feira.",
+          "en": "He explained he changed his mind and would notify by email.",
+          "ar": "قال المعلم إن الامتحان سيكون يوم الاثنين."
+        }
+      ],
+      "answer": "O professor disse que a prova seria na segunda-feira.",
+      "accepted": [],
+      "audio": "O professor disse que a prova seria na segunda-feira.",
+      "explanation": {
+        "pt": "Você ouviu: 'O professor disse que a prova seria na segunda-feira.' — 'The teacher said the exam would be on Monday.'",
+        "en": "You heard: 'O professor disse que a prova seria na segunda-feira.' — 'The teacher said the exam would be on Monday.'",
+        "ar": "سمعت: 'O professor disse que a prova seria na segunda-feira.' — 'قال المعلم إن الامتحان سيكون يوم الاثنين.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Ele explicou que mudou de ideia e que avisaria por e-mail.",
+          "en": "But he had stated it would be on Friday!",
+          "ar": "قال المعلم إن الامتحان سيكون يوم الاثنين."
+        },
+        {
+          "pt": "Mas ele tinha afirmado que seria na sexta!",
+          "en": "The teacher said the exam would be on Monday.",
+          "ar": "أوضح أنه غيّر رأيه وأنه سيعلن ذلك عبر البريد الإلكتروني."
+        },
+        {
+          "pt": "O professor disse que a prova seria na segunda-feira.",
+          "en": "He explained he changed his mind and would notify by email.",
+          "ar": "لكنه كان قد أكد أنه سيكون يوم الجمعة!"
+        }
+      ],
+      "answer": "Mas ele tinha afirmado que seria na sexta!",
+      "accepted": [],
+      "audio": "Mas ele tinha afirmado que seria na sexta!",
+      "explanation": {
+        "pt": "Você ouviu: 'Mas ele tinha afirmado que seria na sexta!' — 'But he had stated it would be on Friday!'",
+        "en": "You heard: 'Mas ele tinha afirmado que seria na sexta!' — 'But he had stated it would be on Friday!'",
+        "ar": "سمعت: 'Mas ele tinha afirmado que seria na sexta!' — 'لكنه كان قد أكد أنه سيكون يوم الجمعة!'"
+      }
+    }
+  ],
+  "speaking": {
+    "title": {
+      "pt": "Fale Agora — Ouça e Repita",
+      "en": "Speak Now — Listen and Repeat",
+      "ar": "تحدث الآن — استمع وكرر"
+    },
+    "phrases": [
+      {
+        "pt": "O professor disse que a prova seria na segunda-feira.",
+        "en": "The teacher said the exam would be on Monday.",
+        "ar": "قال المعلم إن الامتحان سيكون يوم الاثنين."
+      },
+      {
+        "pt": "Mas ele tinha afirmado que seria na sexta!",
+        "en": "But he had stated it would be on Friday!",
+        "ar": "لكنه كان قد أكد أنه سيكون يوم الجمعة!"
+      },
+      {
+        "pt": "Ele explicou que mudou de ideia e que avisaria por e-mail.",
+        "en": "He explained he changed his mind and would notify by email.",
+        "ar": "أوضح أنه غيّر رأيه وأنه سيعلن ذلك عبر البريد الإلكتروني."
+      },
+      {
+        "pt": "E quando ele perguntou se você estava preparado?",
+        "en": "And when did he ask if you were prepared?",
+        "ar": "ومتى سألك إذا كنت مستعدًا؟"
+      },
+      {
+        "pt": "Eu respondi que estudaria o fim de semana inteiro.",
+        "en": "I answered that I would study the whole weekend.",
+        "ar": "أجبت أنني سأدرس طوال عطلة نهاية الأسبوع."
+      },
+      {
+        "pt": "o discurso indireto",
+        "en": "reported speech",
+        "ar": "الكلام المنقول"
+      },
+      {
+        "pt": "relatar",
+        "en": "to report",
+        "ar": "يروي، ينقل"
+      },
+      {
+        "pt": "citar",
+        "en": "to quote",
+        "ar": "يقتبس"
+      }
+    ]
+  },
+  "cultural_tips": {
+    "pt": "",
+    "en": "",
+    "ar": ""
+  }
+}

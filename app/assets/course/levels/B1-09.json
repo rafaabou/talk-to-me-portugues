@@ -1,0 +1,2001 @@
+{
+  "id": "B1-09",
+  "level": "B1",
+  "level_name": {
+    "pt": "Intermediário",
+    "en": "Intermediate",
+    "ar": "متوسط"
+  },
+  "title": {
+    "pt": "Prefeito Mais-que-perfeito",
+    "en": "Pluperfect",
+    "ar": "الماضي التام"
+  },
+  "objectives": [
+    {
+      "pt": "Formar o pretérito mais-que-perfeito composto com 'tinha' + particípio.",
+      "en": "Form the pluperfect with 'tinha' + past participle.",
+      "ar": "تكوين الماضي التام من 'tinha' + اسم المفعول."
+    },
+    {
+      "pt": "Usar o mais-que-perfeito para falar de ações anteriores a outras no passado.",
+      "en": "Use the pluperfect to talk about actions before other past actions.",
+      "ar": "استخدام الماضي التام للحديث عن أفعال حدثت قبل أفعال أخرى في الماضي."
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "o passado",
+      "ipa": "/u paˈsa.du/",
+      "en": "the past",
+      "ar": "الماضي",
+      "example": {
+        "pt": "Quando eu era criança, já tinha conhecido o mar.",
+        "en": "When I was a child, I had already seen the sea.",
+        "ar": "عندما كنت طفلة، كنت قد رأيت البحر بالفعل."
+      }
+    },
+    {
+      "pt": "lembrar",
+      "ipa": "/lẽˈbɾaʁ/",
+      "en": "to remember",
+      "ar": "يتذكر",
+      "example": {
+        "pt": "Quando eu era criança, já tinha conhecido o mar.",
+        "en": "When I was a child, I had already seen the sea.",
+        "ar": "عندما كنت طفلة، كنت قد رأيت البحر بالفعل."
+      }
+    },
+    {
+      "pt": "esquecer",
+      "ipa": "/es.keˈseʁ/",
+      "en": "to forget",
+      "ar": "ينسى",
+      "example": {
+        "pt": "Quando eu era criança, já tinha conhecido o mar.",
+        "en": "When I was a child, I had already seen the sea.",
+        "ar": "عندما كنت طفلة، كنت قد رأيت البحر بالفعل."
+      }
+    },
+    {
+      "pt": "já",
+      "ipa": "/ˈʒa/",
+      "en": "already",
+      "ar": "بالفعل",
+      "example": {
+        "pt": "Quando eu era criança, já tinha conhecido o mar.",
+        "en": "When I was a child, I had already seen the sea.",
+        "ar": "عندما كنت طفلة، كنت قد رأيت البحر بالفعل."
+      }
+    },
+    {
+      "pt": "ainda",
+      "ipa": "/aˈĩ.dɐ/",
+      "en": "still / yet",
+      "ar": "بعد / لا يزال",
+      "example": {
+        "pt": "Quando eu era criança, já tinha conhecido o mar.",
+        "en": "When I was a child, I had already seen the sea.",
+        "ar": "عندما كنت طفلة، كنت قد رأيت البحر بالفعل."
+      }
+    },
+    {
+      "pt": "quando",
+      "ipa": "/ˈkwɐ̃.du/",
+      "en": "when",
+      "ar": "عندما",
+      "example": {
+        "pt": "Quando eu era criança, já tinha conhecido o mar.",
+        "en": "When I was a child, I had already seen the sea.",
+        "ar": "عندما كنت طفلة، كنت قد رأيت البحر بالفعل."
+      }
+    },
+    {
+      "pt": "antes",
+      "ipa": "/ˈɐ̃.tʃis/",
+      "en": "before",
+      "ar": "قبل",
+      "example": {
+        "pt": "Sério? E onde a senhora tinha morado antes?",
+        "en": "Really? And where had you lived before?",
+        "ar": "حقاً؟ وأين كنتِ قد سكنتِ من قبل؟"
+      }
+    },
+    {
+      "pt": "depois",
+      "ipa": "/deˈpojs/",
+      "en": "after",
+      "ar": "بعد",
+      "example": {
+        "pt": "Quando eu era criança, já tinha conhecido o mar.",
+        "en": "When I was a child, I had already seen the sea.",
+        "ar": "عندما كنت طفلة، كنت قد رأيت البحر بالفعل."
+      }
+    },
+    {
+      "pt": "o acontecimento",
+      "ipa": "/u a.kõ.te.siˈmẽ.tu/",
+      "en": "the event",
+      "ar": "الحدث",
+      "example": {
+        "pt": "Quando eu era criança, já tinha conhecido o mar.",
+        "en": "When I was a child, I had already seen the sea.",
+        "ar": "عندما كنت طفلة، كنت قد رأيت البحر بالفعل."
+      }
+    },
+    {
+      "pt": "a infância",
+      "ipa": "/a ĩ.fɐ̃ˈsi.ɐ/",
+      "en": "the childhood",
+      "ar": "الطفولة",
+      "example": {
+        "pt": "Sério? E onde a senhora tinha morado antes?",
+        "en": "Really? And where had you lived before?",
+        "ar": "حقاً؟ وأين كنتِ قد سكنتِ من قبل؟"
+      }
+    },
+    {
+      "pt": "o hábito",
+      "ipa": "/u ˈa.bi.tu/",
+      "en": "the habit",
+      "ar": "العادة",
+      "example": {
+        "pt": "Quando eu era criança, já tinha conhecido o mar.",
+        "en": "When I was a child, I had already seen the sea.",
+        "ar": "عندما كنت طفلة، كنت قد رأيت البحر بالفعل."
+      }
+    },
+    {
+      "pt": "recordar",
+      "ipa": "/he.koʁˈdaʁ/",
+      "en": "to recall",
+      "ar": "يستحضر",
+      "example": {
+        "pt": "Quando eu era criança, já tinha conhecido o mar.",
+        "en": "When I was a child, I had already seen the sea.",
+        "ar": "عندما كنت طفلة، كنت قد رأيت البحر بالفعل."
+      }
+    },
+    {
+      "pt": "o momento",
+      "ipa": "/u moˈmẽ.tu/",
+      "en": "the moment",
+      "ar": "اللحظة",
+      "example": {
+        "pt": "Quando eu era criança, já tinha conhecido o mar.",
+        "en": "When I was a child, I had already seen the sea.",
+        "ar": "عندما كنت طفلة، كنت قد رأيت البحر بالفعل."
+      }
+    },
+    {
+      "pt": "a história",
+      "ipa": "/a isˈtɔ.ɾjɐ/",
+      "en": "the story",
+      "ar": "القصة",
+      "example": {
+        "pt": "Sério? E onde a senhora tinha morado antes?",
+        "en": "Really? And where had you lived before?",
+        "ar": "حقاً؟ وأين كنتِ قد سكنتِ من قبل؟"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "title": {
+        "pt": "Formação do mais-que-perfeito composto",
+        "en": "Forming the pluperfect",
+        "ar": "تكوين الماضي التام"
+      },
+      "explanation": {
+        "pt": "O pretérito mais-que-perfeito composto é formado por 'tinha/havia' + particípio. Indica uma ação passada anterior a outra ação também passada.",
+        "en": "The pluperfect is formed with 'tinha/havia' + past participle. It indicates a past action that happened before another past action.",
+        "ar": "يتكوّن الماضي التام من 'tinha/havia' + اسم المفعول. وهو يدل على فعل سابق لفعل آخر في الماضي."
+      },
+      "examples": [
+        {
+          "pt": "Eu tinha estudado antes do exame.",
+          "en": "I had studied before the exam.",
+          "ar": "كنت قد درست قبل الامتحان."
+        },
+        {
+          "pt": "Ela tinha chegado tarde ontem.",
+          "en": "She had arrived late yesterday.",
+          "ar": "كانت قد وصلت متأخرة أمس."
+        },
+        {
+          "pt": "Nós já tínhamos comido quando você ligou.",
+          "en": "We had already eaten when you called.",
+          "ar": "كنا قد أكلنا بالفعل عندما اتصلت."
+        }
+      ]
+    },
+    {
+      "title": {
+        "pt": "Contraste: perfeito x mais-que-perfeito",
+        "en": "Contrast: simple past x pluperfect",
+        "ar": "المقارنة بين الماضي البسيط والماضي التام"
+      },
+      "explanation": {
+        "pt": "Quando duas ações acontecem no passado, a mais antiga usa o mais-que-perfeito e a mais recente usa o pretérito perfeito, geralmente com 'quando'.",
+        "en": "When two actions happen in the past, the earlier one uses the pluperfect and the later one uses the simple past, usually with 'quando'.",
+        "ar": "عندما يحدث فعلان في الماضي، نستخدم الماضي التام للفعل الأقدم والماضي البسيط للفعل الأحدث، عادة مع 'quando'."
+      },
+      "examples": [
+        {
+          "pt": "Quando cheguei, ela já tinha saído.",
+          "en": "When I arrived, she had already left.",
+          "ar": "عندما وصلت، كانت قد غادرت بالفعل."
+        },
+        {
+          "pt": "Ele tinha vivido no Brasil antes de se mudar.",
+          "en": "He had lived in Brazil before moving.",
+          "ar": "كان قد عاش في البرازيل قبل انتقاله."
+        },
+        {
+          "pt": "Eu nunca tinha visto um lugar tão bonito.",
+          "en": "I had never seen such a beautiful place.",
+          "ar": "لم أكن قد رأيت مكاناً بهذا الجمال."
+        }
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": {
+      "pt": "Recordações da infância",
+      "en": "Childhood memories",
+      "ar": "ذكريات الطفولة"
+    },
+    "lines": [
+      {
+        "speaker": "Vó",
+        "pt": "Quando eu era criança, já tinha conhecido o mar.",
+        "en": "When I was a child, I had already seen the sea.",
+        "ar": "عندما كنت طفلة، كنت قد رأيت البحر بالفعل."
+      },
+      {
+        "speaker": "Rúbia",
+        "pt": "Sério? E onde a senhora tinha morado antes?",
+        "en": "Really? And where had you lived before?",
+        "ar": "حقاً؟ وأين كنتِ قد سكنتِ من قبل؟"
+      },
+      {
+        "speaker": "Vó",
+        "pt": "Eu tinha morado no interior, perto do rio.",
+        "en": "I had lived in the countryside, near the river.",
+        "ar": "كنت قد سكنت في الريف، قرب النهر."
+      },
+      {
+        "speaker": "Rúbia",
+        "pt": "Eu nunca tinha ouvido essa história.",
+        "en": "I had never heard that story.",
+        "ar": "لم أكن قد سمعت هذه القصة من قبل."
+      },
+      {
+        "speaker": "Vó",
+        "pt": "Quando o trem chegou, já tínhamos preparado tudo.",
+        "en": "When the train arrived, we had already prepared everything.",
+        "ar": "عندما وصل القطار، كنا قد جهّزنا كل شيء."
+      }
+    ]
+  },
+  "reading": {
+    "title": {
+      "pt": "Um dia inesquecível",
+      "en": "An unforgettable day",
+      "ar": "يوم لا يُنسى"
+    },
+    "text_pt": "Quando cheguei ao aeroporto, descobri que tinha esquecido o passaporte. Felizmente, minha mãe tinha guardado uma cópia. Eu tinha prometido ser mais organizado, mas tinha me esquecido de novo.",
+    "text_en": "When I arrived at the airport, I discovered I had forgotten my passport. Fortunately, my mother had kept a copy. I had promised to be more organized, but I had forgotten again.",
+    "text_ar": "عندما وصلت إلى المطار، اكتشفت أنني نسيت جواز سفري. ولحسن الحظ، كانت أمي قد احتفظت بنسخة. كنت قد وعدت بأن أكون أكثر تنظيماً، لكنني نسيت مرة أخرى."
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Complete: \"Quando cheguei, ela já tinha ___.\"",
+        "en": "Complete: \"When I arrived, she had already ___.\"",
+        "ar": "أكمل: \"عندما وصلت، كانت قد ___ بالفعل.\""
+      },
+      "options": [
+        {
+          "pt": "saído",
+          "en": "left",
+          "ar": "غادرت"
+        },
+        {
+          "pt": "saiu",
+          "en": "left (simple past)",
+          "ar": "خرجت"
+        },
+        {
+          "pt": "sai",
+          "en": "leaves",
+          "ar": "تخرج"
+        },
+        {
+          "pt": "saía",
+          "en": "used to leave",
+          "ar": "كانت تخرج"
+        }
+      ],
+      "answer": "saído",
+      "explanation": {
+        "pt": "O mais-que-perfeito composto usa 'tinha' + particípio: 'tinha saído'.",
+        "en": "The pluperfect uses 'tinha' + participle: 'tinha saído'.",
+        "ar": "يستخدم الماضي التام 'tinha' + اسم المفعول: 'كانت قد غادرت'."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Complete: \"Eu nunca ___ visitado o Rio antes de 2010.\"",
+        "en": "Complete: \"I had never ___ Rio before 2010.\"",
+        "ar": "أكمل: \"لم أكن قد ___ ريو قبل عام 2010.\""
+      },
+      "options": [
+        {
+          "pt": "tinha",
+          "en": "had",
+          "ar": "زرتُ"
+        },
+        {
+          "pt": "tenho",
+          "en": "have",
+          "ar": "أزور"
+        },
+        {
+          "pt": "teria",
+          "en": "would have",
+          "ar": "سأزور"
+        },
+        {
+          "pt": "teve",
+          "en": "had (he)",
+          "ar": "زُرت"
+        }
+      ],
+      "answer": "tinha",
+      "explanation": {
+        "pt": "Antes de um ponto no passado, usamos 'tinha' + particípio: 'nunca tinha visitado'.",
+        "en": "Before a point in the past, we use 'tinha' + participle: 'had never visited'.",
+        "ar": "قبل نقطة زمنية في الماضي، نستخدم 'tinha' + اسم المفعول: 'لم أكن قد زرت'."
+      }
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o inglês: \"Ele já tinha comido quando eu cheguei.\"",
+        "en": "Translate to English: \"Ele já tinha comido quando eu cheguei.\"",
+        "ar": "ترجم إلى الإنجليزية: \"Ele já tinha comido quando eu cheguei.\""
+      },
+      "options": [],
+      "answer": "He had already eaten when I arrived.",
+      "explanation": {
+        "pt": "'Tinha comido' é o mais-que-perfeito de 'comer', equivalente a 'had eaten'.",
+        "en": "'Tinha comido' is the pluperfect of 'comer', equivalent to 'had eaten'.",
+        "ar": "'tinha comido' هو الماضي التام من 'comer'، ويعادل 'had eaten'."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Quando",
+          "en": "Quando",
+          "ar": "Quando"
+        },
+        {
+          "pt": "eu",
+          "en": "eu",
+          "ar": "eu"
+        },
+        {
+          "pt": "tinha",
+          "en": "tinha",
+          "ar": "tinha"
+        },
+        {
+          "pt": "já",
+          "en": "já",
+          "ar": "já"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "mar.",
+          "en": "mar.",
+          "ar": "mar."
+        },
+        {
+          "pt": "conhecido",
+          "en": "conhecido",
+          "ar": "conhecido"
+        },
+        {
+          "pt": "era",
+          "en": "era",
+          "ar": "era"
+        },
+        {
+          "pt": "criança,",
+          "en": "criança,",
+          "ar": "criança,"
+        }
+      ],
+      "answer": "Quando eu era criança, já tinha conhecido o mar.",
+      "accepted": [
+        "Quando eu era criança, já tinha conhecido o mar."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Quando eu era criança, já tinha conhecido o mar.'",
+        "en": "The correct order: 'When I was a child, I had already seen the sea.'",
+        "ar": "الترتيب الصحيح: 'عندما كنت طفلة، كنت قد رأيت البحر بالفعل.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o passado",
+          "en": "already",
+          "ar": "o passado"
+        },
+        {
+          "pt": "quando",
+          "en": "the past",
+          "ar": "quando"
+        },
+        {
+          "pt": "lembrar",
+          "en": "to remember",
+          "ar": "lembrar"
+        },
+        {
+          "pt": "esquecer",
+          "en": "to forget",
+          "ar": "esquecer"
+        },
+        {
+          "pt": "já",
+          "en": "still / yet",
+          "ar": "já"
+        },
+        {
+          "pt": "ainda",
+          "en": "when",
+          "ar": "ainda"
+        }
+      ],
+      "answer": "o passado::already|quando::the past|lembrar::to remember|esquecer::to forget|já::still / yet|ainda::when",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sério? E onde a senhora tinha morado antes?",
+          "en": "When I was a child, I had already seen the sea.",
+          "ar": "حقاً؟ وأين كنتِ قد سكنتِ من قبل؟"
+        },
+        {
+          "pt": "Eu nunca tinha ouvido essa história.",
+          "en": "Really? And where had you lived before?",
+          "ar": "لم أكن قد سمعت هذه القصة من قبل."
+        },
+        {
+          "pt": "Quando eu era criança, já tinha conhecido o mar.",
+          "en": "I had never heard that story.",
+          "ar": "عندما كنت طفلة، كنت قد رأيت البحر بالفعل."
+        }
+      ],
+      "answer": "Quando eu era criança, já tinha conhecido o mar.",
+      "accepted": [],
+      "audio": "Quando eu era criança, já tinha conhecido o mar.",
+      "explanation": {
+        "pt": "Você ouviu: 'Quando eu era criança, já tinha conhecido o mar.' — 'When I was a child, I had already seen the sea.'",
+        "en": "You heard: 'Quando eu era criança, já tinha conhecido o mar.' — 'When I was a child, I had already seen the sea.'",
+        "ar": "سمعت: 'Quando eu era criança, já tinha conhecido o mar.' — 'عندما كنت طفلة، كنت قد رأيت البحر بالفعل.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Quando o trem chegou, já tínhamos preparado tudo.",
+          "en": "I had lived in the countryside, near the river.",
+          "ar": "عندما وصل القطار، كنا قد جهّزنا كل شيء."
+        },
+        {
+          "pt": "Sério? E onde a senhora tinha morado antes?",
+          "en": "Really? And where had you lived before?",
+          "ar": "كنت قد سكنت في الريف، قرب النهر."
+        },
+        {
+          "pt": "Eu tinha morado no interior, perto do rio.",
+          "en": "When the train arrived, we had already prepared everything.",
+          "ar": "حقاً؟ وأين كنتِ قد سكنتِ من قبل؟"
+        }
+      ],
+      "answer": "Sério? E onde a senhora tinha morado antes?",
+      "accepted": [],
+      "audio": "Sério? E onde a senhora tinha morado antes?",
+      "explanation": {
+        "pt": "Você ouviu: 'Sério? E onde a senhora tinha morado antes?' — 'Really? And where had you lived before?'",
+        "en": "You heard: 'Sério? E onde a senhora tinha morado antes?' — 'Really? And where had you lived before?'",
+        "ar": "سمعت: 'Sério? E onde a senhora tinha morado antes?' — 'حقاً؟ وأين كنتِ قد سكنتِ من قبل؟'"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Eu ___ estudado antes do exame.",
+        "en": "Eu ___ estudado antes do exame.",
+        "ar": "Eu ___ estudado antes do exame."
+      },
+      "options": [
+        {
+          "pt": "tinha",
+          "en": "tinha",
+          "ar": "tinha"
+        },
+        {
+          "pt": "quando",
+          "en": "quando",
+          "ar": "quando"
+        },
+        {
+          "pt": "tarde",
+          "en": "tarde",
+          "ar": "tarde"
+        }
+      ],
+      "answer": "tinha",
+      "accepted": [],
+      "explanation": {
+        "pt": "A resposta é 'tinha'. Frase completa: Eu tinha estudado antes do exame.",
+        "en": "The answer is 'tinha'. Full sentence: I had studied before the exam.",
+        "ar": "الإجابة الصحيحة: 'tinha'. الجملة كاملة: كنت قد درست قبل الامتحان."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "mar.",
+          "en": "mar.",
+          "ar": "mar."
+        },
+        {
+          "pt": "já",
+          "en": "já",
+          "ar": "já"
+        },
+        {
+          "pt": "conhecido",
+          "en": "conhecido",
+          "ar": "conhecido"
+        },
+        {
+          "pt": "eu",
+          "en": "eu",
+          "ar": "eu"
+        },
+        {
+          "pt": "tinha",
+          "en": "tinha",
+          "ar": "tinha"
+        },
+        {
+          "pt": "era",
+          "en": "era",
+          "ar": "era"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "criança,",
+          "en": "criança,",
+          "ar": "criança,"
+        },
+        {
+          "pt": "Quando",
+          "en": "Quando",
+          "ar": "Quando"
+        }
+      ],
+      "answer": "Quando eu era criança, já tinha conhecido o mar.",
+      "accepted": [
+        "Quando eu era criança, já tinha conhecido o mar."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Quando eu era criança, já tinha conhecido o mar.'",
+        "en": "The correct order: 'When I was a child, I had already seen the sea.'",
+        "ar": "الترتيب الصحيح: 'عندما كنت طفلة، كنت قد رأيت البحر بالفعل.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "esquecer",
+          "en": "to forget",
+          "ar": "esquecer"
+        },
+        {
+          "pt": "quando",
+          "en": "when",
+          "ar": "quando"
+        },
+        {
+          "pt": "já",
+          "en": "still / yet",
+          "ar": "já"
+        },
+        {
+          "pt": "ainda",
+          "en": "already",
+          "ar": "ainda"
+        },
+        {
+          "pt": "lembrar",
+          "en": "the past",
+          "ar": "lembrar"
+        },
+        {
+          "pt": "o passado",
+          "en": "to remember",
+          "ar": "o passado"
+        }
+      ],
+      "answer": "esquecer::to forget|quando::when|já::still / yet|ainda::already|lembrar::the past|o passado::to remember",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Quando eu era criança, já tinha conhecido o mar.",
+          "en": "When I was a child, I had already seen the sea.",
+          "ar": "لم أكن قد سمعت هذه القصة من قبل."
+        },
+        {
+          "pt": "Eu nunca tinha ouvido essa história.",
+          "en": "I had lived in the countryside, near the river.",
+          "ar": "كنت قد سكنت في الريف، قرب النهر."
+        },
+        {
+          "pt": "Eu tinha morado no interior, perto do rio.",
+          "en": "I had never heard that story.",
+          "ar": "عندما كنت طفلة، كنت قد رأيت البحر بالفعل."
+        }
+      ],
+      "answer": "Quando eu era criança, já tinha conhecido o mar.",
+      "accepted": [],
+      "audio": "Quando eu era criança, já tinha conhecido o mar.",
+      "explanation": {
+        "pt": "Você ouviu: 'Quando eu era criança, já tinha conhecido o mar.' — 'When I was a child, I had already seen the sea.'",
+        "en": "You heard: 'Quando eu era criança, já tinha conhecido o mar.' — 'When I was a child, I had already seen the sea.'",
+        "ar": "سمعت: 'Quando eu era criança, já tinha conhecido o mar.' — 'عندما كنت طفلة، كنت قد رأيت البحر بالفعل.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sério? E onde a senhora tinha morado antes?",
+          "en": "Really? And where had you lived before?",
+          "ar": "كنت قد سكنت في الريف، قرب النهر."
+        },
+        {
+          "pt": "Eu tinha morado no interior, perto do rio.",
+          "en": "I had lived in the countryside, near the river.",
+          "ar": "حقاً؟ وأين كنتِ قد سكنتِ من قبل؟"
+        },
+        {
+          "pt": "Eu nunca tinha ouvido essa história.",
+          "en": "I had never heard that story.",
+          "ar": "لم أكن قد سمعت هذه القصة من قبل."
+        }
+      ],
+      "answer": "Sério? E onde a senhora tinha morado antes?",
+      "accepted": [],
+      "audio": "Sério? E onde a senhora tinha morado antes?",
+      "explanation": {
+        "pt": "Você ouviu: 'Sério? E onde a senhora tinha morado antes?' — 'Really? And where had you lived before?'",
+        "en": "You heard: 'Sério? E onde a senhora tinha morado antes?' — 'Really? And where had you lived before?'",
+        "ar": "سمعت: 'Sério? E onde a senhora tinha morado antes?' — 'حقاً؟ وأين كنتِ قد سكنتِ من قبل؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Quando",
+          "en": "Quando",
+          "ar": "Quando"
+        },
+        {
+          "pt": "conhecido",
+          "en": "conhecido",
+          "ar": "conhecido"
+        },
+        {
+          "pt": "mar.",
+          "en": "mar.",
+          "ar": "mar."
+        },
+        {
+          "pt": "eu",
+          "en": "eu",
+          "ar": "eu"
+        },
+        {
+          "pt": "era",
+          "en": "era",
+          "ar": "era"
+        },
+        {
+          "pt": "tinha",
+          "en": "tinha",
+          "ar": "tinha"
+        },
+        {
+          "pt": "criança,",
+          "en": "criança,",
+          "ar": "criança,"
+        },
+        {
+          "pt": "já",
+          "en": "já",
+          "ar": "já"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        }
+      ],
+      "answer": "Quando eu era criança, já tinha conhecido o mar.",
+      "accepted": [
+        "Quando eu era criança, já tinha conhecido o mar."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Quando eu era criança, já tinha conhecido o mar.'",
+        "en": "The correct order: 'When I was a child, I had already seen the sea.'",
+        "ar": "الترتيب الصحيح: 'عندما كنت طفلة، كنت قد رأيت البحر بالفعل.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "quando",
+          "en": "when",
+          "ar": "quando"
+        },
+        {
+          "pt": "o passado",
+          "en": "to remember",
+          "ar": "o passado"
+        },
+        {
+          "pt": "esquecer",
+          "en": "the past",
+          "ar": "esquecer"
+        },
+        {
+          "pt": "já",
+          "en": "already",
+          "ar": "já"
+        },
+        {
+          "pt": "ainda",
+          "en": "still / yet",
+          "ar": "ainda"
+        },
+        {
+          "pt": "lembrar",
+          "en": "to forget",
+          "ar": "lembrar"
+        }
+      ],
+      "answer": "quando::when|o passado::to remember|esquecer::the past|já::already|ainda::still / yet|lembrar::to forget",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Eu nunca tinha ouvido essa história.",
+          "en": "When I was a child, I had already seen the sea.",
+          "ar": "كنت قد سكنت في الريف، قرب النهر."
+        },
+        {
+          "pt": "Quando eu era criança, já tinha conhecido o mar.",
+          "en": "I had never heard that story.",
+          "ar": "عندما كنت طفلة، كنت قد رأيت البحر بالفعل."
+        },
+        {
+          "pt": "Eu tinha morado no interior, perto do rio.",
+          "en": "I had lived in the countryside, near the river.",
+          "ar": "لم أكن قد سمعت هذه القصة من قبل."
+        }
+      ],
+      "answer": "Quando eu era criança, já tinha conhecido o mar.",
+      "accepted": [],
+      "audio": "Quando eu era criança, já tinha conhecido o mar.",
+      "explanation": {
+        "pt": "Você ouviu: 'Quando eu era criança, já tinha conhecido o mar.' — 'When I was a child, I had already seen the sea.'",
+        "en": "You heard: 'Quando eu era criança, já tinha conhecido o mar.' — 'When I was a child, I had already seen the sea.'",
+        "ar": "سمعت: 'Quando eu era criança, já tinha conhecido o mar.' — 'عندما كنت طفلة، كنت قد رأيت البحر بالفعل.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Eu nunca tinha ouvido essa história.",
+          "en": "When I was a child, I had already seen the sea.",
+          "ar": "عندما كنت طفلة، كنت قد رأيت البحر بالفعل."
+        },
+        {
+          "pt": "Sério? E onde a senhora tinha morado antes?",
+          "en": "Really? And where had you lived before?",
+          "ar": "حقاً؟ وأين كنتِ قد سكنتِ من قبل؟"
+        },
+        {
+          "pt": "Quando eu era criança, já tinha conhecido o mar.",
+          "en": "I had never heard that story.",
+          "ar": "لم أكن قد سمعت هذه القصة من قبل."
+        }
+      ],
+      "answer": "Sério? E onde a senhora tinha morado antes?",
+      "accepted": [],
+      "audio": "Sério? E onde a senhora tinha morado antes?",
+      "explanation": {
+        "pt": "Você ouviu: 'Sério? E onde a senhora tinha morado antes?' — 'Really? And where had you lived before?'",
+        "en": "You heard: 'Sério? E onde a senhora tinha morado antes?' — 'Really? And where had you lived before?'",
+        "ar": "سمعت: 'Sério? E onde a senhora tinha morado antes?' — 'حقاً؟ وأين كنتِ قد سكنتِ من قبل؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "Quando",
+          "en": "Quando",
+          "ar": "Quando"
+        },
+        {
+          "pt": "já",
+          "en": "já",
+          "ar": "já"
+        },
+        {
+          "pt": "tinha",
+          "en": "tinha",
+          "ar": "tinha"
+        },
+        {
+          "pt": "criança,",
+          "en": "criança,",
+          "ar": "criança,"
+        },
+        {
+          "pt": "eu",
+          "en": "eu",
+          "ar": "eu"
+        },
+        {
+          "pt": "mar.",
+          "en": "mar.",
+          "ar": "mar."
+        },
+        {
+          "pt": "conhecido",
+          "en": "conhecido",
+          "ar": "conhecido"
+        },
+        {
+          "pt": "era",
+          "en": "era",
+          "ar": "era"
+        }
+      ],
+      "answer": "Quando eu era criança, já tinha conhecido o mar.",
+      "accepted": [
+        "Quando eu era criança, já tinha conhecido o mar."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Quando eu era criança, já tinha conhecido o mar.'",
+        "en": "The correct order: 'When I was a child, I had already seen the sea.'",
+        "ar": "الترتيب الصحيح: 'عندما كنت طفلة، كنت قد رأيت البحر بالفعل.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "já",
+          "en": "the past",
+          "ar": "já"
+        },
+        {
+          "pt": "esquecer",
+          "en": "to remember",
+          "ar": "esquecer"
+        },
+        {
+          "pt": "quando",
+          "en": "when",
+          "ar": "quando"
+        },
+        {
+          "pt": "ainda",
+          "en": "already",
+          "ar": "ainda"
+        },
+        {
+          "pt": "lembrar",
+          "en": "still / yet",
+          "ar": "lembrar"
+        },
+        {
+          "pt": "o passado",
+          "en": "to forget",
+          "ar": "o passado"
+        }
+      ],
+      "answer": "já::the past|esquecer::to remember|quando::when|ainda::already|lembrar::still / yet|o passado::to forget",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Quando eu era criança, já tinha conhecido o mar.",
+          "en": "When I was a child, I had already seen the sea.",
+          "ar": "عندما كنت طفلة، كنت قد رأيت البحر بالفعل."
+        },
+        {
+          "pt": "Eu nunca tinha ouvido essa história.",
+          "en": "I had never heard that story.",
+          "ar": "كنت قد سكنت في الريف، قرب النهر."
+        },
+        {
+          "pt": "Eu tinha morado no interior, perto do rio.",
+          "en": "I had lived in the countryside, near the river.",
+          "ar": "لم أكن قد سمعت هذه القصة من قبل."
+        }
+      ],
+      "answer": "Quando eu era criança, já tinha conhecido o mar.",
+      "accepted": [],
+      "audio": "Quando eu era criança, já tinha conhecido o mar.",
+      "explanation": {
+        "pt": "Você ouviu: 'Quando eu era criança, já tinha conhecido o mar.' — 'When I was a child, I had already seen the sea.'",
+        "en": "You heard: 'Quando eu era criança, já tinha conhecido o mar.' — 'When I was a child, I had already seen the sea.'",
+        "ar": "سمعت: 'Quando eu era criança, já tinha conhecido o mar.' — 'عندما كنت طفلة، كنت قد رأيت البحر بالفعل.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Eu nunca tinha ouvido essa história.",
+          "en": "I had never heard that story.",
+          "ar": "كنت قد سكنت في الريف، قرب النهر."
+        },
+        {
+          "pt": "Eu tinha morado no interior, perto do rio.",
+          "en": "Really? And where had you lived before?",
+          "ar": "حقاً؟ وأين كنتِ قد سكنتِ من قبل؟"
+        },
+        {
+          "pt": "Sério? E onde a senhora tinha morado antes?",
+          "en": "I had lived in the countryside, near the river.",
+          "ar": "لم أكن قد سمعت هذه القصة من قبل."
+        }
+      ],
+      "answer": "Sério? E onde a senhora tinha morado antes?",
+      "accepted": [],
+      "audio": "Sério? E onde a senhora tinha morado antes?",
+      "explanation": {
+        "pt": "Você ouviu: 'Sério? E onde a senhora tinha morado antes?' — 'Really? And where had you lived before?'",
+        "en": "You heard: 'Sério? E onde a senhora tinha morado antes?' — 'Really? And where had you lived before?'",
+        "ar": "سمعت: 'Sério? E onde a senhora tinha morado antes?' — 'حقاً؟ وأين كنتِ قد سكنتِ من قبل؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "conhecido",
+          "en": "conhecido",
+          "ar": "conhecido"
+        },
+        {
+          "pt": "tinha",
+          "en": "tinha",
+          "ar": "tinha"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "era",
+          "en": "era",
+          "ar": "era"
+        },
+        {
+          "pt": "já",
+          "en": "já",
+          "ar": "já"
+        },
+        {
+          "pt": "mar.",
+          "en": "mar.",
+          "ar": "mar."
+        },
+        {
+          "pt": "Quando",
+          "en": "Quando",
+          "ar": "Quando"
+        },
+        {
+          "pt": "eu",
+          "en": "eu",
+          "ar": "eu"
+        },
+        {
+          "pt": "criança,",
+          "en": "criança,",
+          "ar": "criança,"
+        }
+      ],
+      "answer": "Quando eu era criança, já tinha conhecido o mar.",
+      "accepted": [
+        "Quando eu era criança, já tinha conhecido o mar."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Quando eu era criança, já tinha conhecido o mar.'",
+        "en": "The correct order: 'When I was a child, I had already seen the sea.'",
+        "ar": "الترتيب الصحيح: 'عندما كنت طفلة، كنت قد رأيت البحر بالفعل.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "ainda",
+          "en": "to forget",
+          "ar": "ainda"
+        },
+        {
+          "pt": "esquecer",
+          "en": "to remember",
+          "ar": "esquecer"
+        },
+        {
+          "pt": "quando",
+          "en": "already",
+          "ar": "quando"
+        },
+        {
+          "pt": "o passado",
+          "en": "the past",
+          "ar": "o passado"
+        },
+        {
+          "pt": "já",
+          "en": "still / yet",
+          "ar": "já"
+        },
+        {
+          "pt": "lembrar",
+          "en": "when",
+          "ar": "lembrar"
+        }
+      ],
+      "answer": "ainda::to forget|esquecer::to remember|quando::already|o passado::the past|já::still / yet|lembrar::when",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Eu nunca tinha ouvido essa história.",
+          "en": "When I was a child, I had already seen the sea.",
+          "ar": "لم أكن قد سمعت هذه القصة من قبل."
+        },
+        {
+          "pt": "Sério? E onde a senhora tinha morado antes?",
+          "en": "Really? And where had you lived before?",
+          "ar": "عندما كنت طفلة، كنت قد رأيت البحر بالفعل."
+        },
+        {
+          "pt": "Quando eu era criança, já tinha conhecido o mar.",
+          "en": "I had never heard that story.",
+          "ar": "حقاً؟ وأين كنتِ قد سكنتِ من قبل؟"
+        }
+      ],
+      "answer": "Quando eu era criança, já tinha conhecido o mar.",
+      "accepted": [],
+      "audio": "Quando eu era criança, já tinha conhecido o mar.",
+      "explanation": {
+        "pt": "Você ouviu: 'Quando eu era criança, já tinha conhecido o mar.' — 'When I was a child, I had already seen the sea.'",
+        "en": "You heard: 'Quando eu era criança, já tinha conhecido o mar.' — 'When I was a child, I had already seen the sea.'",
+        "ar": "سمعت: 'Quando eu era criança, já tinha conhecido o mar.' — 'عندما كنت طفلة، كنت قد رأيت البحر بالفعل.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Quando eu era criança, já tinha conhecido o mar.",
+          "en": "When the train arrived, we had already prepared everything.",
+          "ar": "عندما كنت طفلة، كنت قد رأيت البحر بالفعل."
+        },
+        {
+          "pt": "Sério? E onde a senhora tinha morado antes?",
+          "en": "Really? And where had you lived before?",
+          "ar": "حقاً؟ وأين كنتِ قد سكنتِ من قبل؟"
+        },
+        {
+          "pt": "Quando o trem chegou, já tínhamos preparado tudo.",
+          "en": "When I was a child, I had already seen the sea.",
+          "ar": "عندما وصل القطار، كنا قد جهّزنا كل شيء."
+        }
+      ],
+      "answer": "Sério? E onde a senhora tinha morado antes?",
+      "accepted": [],
+      "audio": "Sério? E onde a senhora tinha morado antes?",
+      "explanation": {
+        "pt": "Você ouviu: 'Sério? E onde a senhora tinha morado antes?' — 'Really? And where had you lived before?'",
+        "en": "You heard: 'Sério? E onde a senhora tinha morado antes?' — 'Really? And where had you lived before?'",
+        "ar": "سمعت: 'Sério? E onde a senhora tinha morado antes?' — 'حقاً؟ وأين كنتِ قد سكنتِ من قبل؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "tinha",
+          "en": "tinha",
+          "ar": "tinha"
+        },
+        {
+          "pt": "era",
+          "en": "era",
+          "ar": "era"
+        },
+        {
+          "pt": "eu",
+          "en": "eu",
+          "ar": "eu"
+        },
+        {
+          "pt": "criança,",
+          "en": "criança,",
+          "ar": "criança,"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "já",
+          "en": "já",
+          "ar": "já"
+        },
+        {
+          "pt": "mar.",
+          "en": "mar.",
+          "ar": "mar."
+        },
+        {
+          "pt": "conhecido",
+          "en": "conhecido",
+          "ar": "conhecido"
+        },
+        {
+          "pt": "Quando",
+          "en": "Quando",
+          "ar": "Quando"
+        }
+      ],
+      "answer": "Quando eu era criança, já tinha conhecido o mar.",
+      "accepted": [
+        "Quando eu era criança, já tinha conhecido o mar."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Quando eu era criança, já tinha conhecido o mar.'",
+        "en": "The correct order: 'When I was a child, I had already seen the sea.'",
+        "ar": "الترتيب الصحيح: 'عندما كنت طفلة، كنت قد رأيت البحر بالفعل.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o passado",
+          "en": "the past",
+          "ar": "o passado"
+        },
+        {
+          "pt": "ainda",
+          "en": "to remember",
+          "ar": "ainda"
+        },
+        {
+          "pt": "lembrar",
+          "en": "when",
+          "ar": "lembrar"
+        },
+        {
+          "pt": "esquecer",
+          "en": "already",
+          "ar": "esquecer"
+        },
+        {
+          "pt": "quando",
+          "en": "to forget",
+          "ar": "quando"
+        },
+        {
+          "pt": "já",
+          "en": "still / yet",
+          "ar": "já"
+        }
+      ],
+      "answer": "o passado::the past|ainda::to remember|lembrar::when|esquecer::already|quando::to forget|já::still / yet",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Quando o trem chegou, já tínhamos preparado tudo.",
+          "en": "When I was a child, I had already seen the sea.",
+          "ar": "حقاً؟ وأين كنتِ قد سكنتِ من قبل؟"
+        },
+        {
+          "pt": "Quando eu era criança, já tinha conhecido o mar.",
+          "en": "Really? And where had you lived before?",
+          "ar": "عندما كنت طفلة، كنت قد رأيت البحر بالفعل."
+        },
+        {
+          "pt": "Sério? E onde a senhora tinha morado antes?",
+          "en": "When the train arrived, we had already prepared everything.",
+          "ar": "عندما وصل القطار، كنا قد جهّزنا كل شيء."
+        }
+      ],
+      "answer": "Quando eu era criança, já tinha conhecido o mar.",
+      "accepted": [],
+      "audio": "Quando eu era criança, já tinha conhecido o mar.",
+      "explanation": {
+        "pt": "Você ouviu: 'Quando eu era criança, já tinha conhecido o mar.' — 'When I was a child, I had already seen the sea.'",
+        "en": "You heard: 'Quando eu era criança, já tinha conhecido o mar.' — 'When I was a child, I had already seen the sea.'",
+        "ar": "سمعت: 'Quando eu era criança, já tinha conhecido o mar.' — 'عندما كنت طفلة، كنت قد رأيت البحر بالفعل.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Eu tinha morado no interior, perto do rio.",
+          "en": "When I was a child, I had already seen the sea.",
+          "ar": "حقاً؟ وأين كنتِ قد سكنتِ من قبل؟"
+        },
+        {
+          "pt": "Quando eu era criança, já tinha conhecido o mar.",
+          "en": "I had lived in the countryside, near the river.",
+          "ar": "عندما كنت طفلة، كنت قد رأيت البحر بالفعل."
+        },
+        {
+          "pt": "Sério? E onde a senhora tinha morado antes?",
+          "en": "Really? And where had you lived before?",
+          "ar": "كنت قد سكنت في الريف، قرب النهر."
+        }
+      ],
+      "answer": "Sério? E onde a senhora tinha morado antes?",
+      "accepted": [],
+      "audio": "Sério? E onde a senhora tinha morado antes?",
+      "explanation": {
+        "pt": "Você ouviu: 'Sério? E onde a senhora tinha morado antes?' — 'Really? And where had you lived before?'",
+        "en": "You heard: 'Sério? E onde a senhora tinha morado antes?' — 'Really? And where had you lived before?'",
+        "ar": "سمعت: 'Sério? E onde a senhora tinha morado antes?' — 'حقاً؟ وأين كنتِ قد سكنتِ من قبل؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "conhecido",
+          "en": "conhecido",
+          "ar": "conhecido"
+        },
+        {
+          "pt": "já",
+          "en": "já",
+          "ar": "já"
+        },
+        {
+          "pt": "mar.",
+          "en": "mar.",
+          "ar": "mar."
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "Quando",
+          "en": "Quando",
+          "ar": "Quando"
+        },
+        {
+          "pt": "era",
+          "en": "era",
+          "ar": "era"
+        },
+        {
+          "pt": "tinha",
+          "en": "tinha",
+          "ar": "tinha"
+        },
+        {
+          "pt": "eu",
+          "en": "eu",
+          "ar": "eu"
+        },
+        {
+          "pt": "criança,",
+          "en": "criança,",
+          "ar": "criança,"
+        }
+      ],
+      "answer": "Quando eu era criança, já tinha conhecido o mar.",
+      "accepted": [
+        "Quando eu era criança, já tinha conhecido o mar."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Quando eu era criança, já tinha conhecido o mar.'",
+        "en": "The correct order: 'When I was a child, I had already seen the sea.'",
+        "ar": "الترتيب الصحيح: 'عندما كنت طفلة، كنت قد رأيت البحر بالفعل.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "já",
+          "en": "the past",
+          "ar": "já"
+        },
+        {
+          "pt": "esquecer",
+          "en": "to remember",
+          "ar": "esquecer"
+        },
+        {
+          "pt": "ainda",
+          "en": "to forget",
+          "ar": "ainda"
+        },
+        {
+          "pt": "lembrar",
+          "en": "already",
+          "ar": "lembrar"
+        },
+        {
+          "pt": "quando",
+          "en": "still / yet",
+          "ar": "quando"
+        },
+        {
+          "pt": "o passado",
+          "en": "when",
+          "ar": "o passado"
+        }
+      ],
+      "answer": "já::the past|esquecer::to remember|ainda::to forget|lembrar::already|quando::still / yet|o passado::when",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Quando eu era criança, já tinha conhecido o mar.",
+          "en": "When I was a child, I had already seen the sea.",
+          "ar": "عندما كنت طفلة، كنت قد رأيت البحر بالفعل."
+        },
+        {
+          "pt": "Eu nunca tinha ouvido essa história.",
+          "en": "I had never heard that story.",
+          "ar": "حقاً؟ وأين كنتِ قد سكنتِ من قبل؟"
+        },
+        {
+          "pt": "Sério? E onde a senhora tinha morado antes?",
+          "en": "Really? And where had you lived before?",
+          "ar": "لم أكن قد سمعت هذه القصة من قبل."
+        }
+      ],
+      "answer": "Quando eu era criança, já tinha conhecido o mar.",
+      "accepted": [],
+      "audio": "Quando eu era criança, já tinha conhecido o mar.",
+      "explanation": {
+        "pt": "Você ouviu: 'Quando eu era criança, já tinha conhecido o mar.' — 'When I was a child, I had already seen the sea.'",
+        "en": "You heard: 'Quando eu era criança, já tinha conhecido o mar.' — 'When I was a child, I had already seen the sea.'",
+        "ar": "سمعت: 'Quando eu era criança, já tinha conhecido o mar.' — 'عندما كنت طفلة، كنت قد رأيت البحر بالفعل.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Quando eu era criança, já tinha conhecido o mar.",
+          "en": "When the train arrived, we had already prepared everything.",
+          "ar": "عندما كنت طفلة، كنت قد رأيت البحر بالفعل."
+        },
+        {
+          "pt": "Quando o trem chegou, já tínhamos preparado tudo.",
+          "en": "Really? And where had you lived before?",
+          "ar": "حقاً؟ وأين كنتِ قد سكنتِ من قبل؟"
+        },
+        {
+          "pt": "Sério? E onde a senhora tinha morado antes?",
+          "en": "When I was a child, I had already seen the sea.",
+          "ar": "عندما وصل القطار، كنا قد جهّزنا كل شيء."
+        }
+      ],
+      "answer": "Sério? E onde a senhora tinha morado antes?",
+      "accepted": [],
+      "audio": "Sério? E onde a senhora tinha morado antes?",
+      "explanation": {
+        "pt": "Você ouviu: 'Sério? E onde a senhora tinha morado antes?' — 'Really? And where had you lived before?'",
+        "en": "You heard: 'Sério? E onde a senhora tinha morado antes?' — 'Really? And where had you lived before?'",
+        "ar": "سمعت: 'Sério? E onde a senhora tinha morado antes?' — 'حقاً؟ وأين كنتِ قد سكنتِ من قبل؟'"
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'the past'",
+        "en": "Type in Portuguese: 'the past'",
+        "ar": "اكتب بالبرتغالية: 'الماضي'"
+      },
+      "options": [],
+      "answer": "o passado",
+      "accepted": [
+        "o passado"
+      ],
+      "explanation": {
+        "pt": "'o passado' significa 'the past'.",
+        "en": "'o passado' means 'the past'.",
+        "ar": "'$o passado' بالعربية: '$الماضي'."
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'to remember'",
+        "en": "Type in Portuguese: 'to remember'",
+        "ar": "اكتب بالبرتغالية: 'يتذكر'"
+      },
+      "options": [],
+      "answer": "lembrar",
+      "accepted": [
+        "lembrar"
+      ],
+      "explanation": {
+        "pt": "'lembrar' significa 'to remember'.",
+        "en": "'lembrar' means 'to remember'.",
+        "ar": "'$lembrar' بالعربية: '$يتذكر'."
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Quando eu era criança, já tinha conhecido o mar.",
+          "en": "Quando eu era criança, já tinha conhecido o mar.",
+          "ar": "Quando eu era criança, já tinha conhecido o mar."
+        },
+        {
+          "pt": "Quando o trem chegou, já tínhamos preparado tudo.",
+          "en": "Quando o trem chegou, já tínhamos preparado tudo.",
+          "ar": "Quando o trem chegou, já tínhamos preparado tudo."
+        },
+        {
+          "pt": "Eu tinha morado no interior, perto do rio.",
+          "en": "Eu tinha morado no interior, perto do rio.",
+          "ar": "Eu tinha morado no interior, perto do rio."
+        }
+      ],
+      "answer": "Quando eu era criança, já tinha conhecido o mar.",
+      "accepted": [],
+      "audio": "Quando eu era criança, já tinha conhecido o mar.",
+      "explanation": {
+        "pt": "Você ouviu: 'Quando eu era criança, já tinha conhecido o mar.'",
+        "en": "You heard: 'Quando eu era criança, já tinha conhecido o mar.'",
+        "ar": "سمعت: 'Quando eu era criança, já tinha conhecido o mar.'"
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Quando eu era criança, já tinha conhecido o mar.",
+          "en": "Quando eu era criança, já tinha conhecido o mar.",
+          "ar": "Quando eu era criança, já tinha conhecido o mar."
+        },
+        {
+          "pt": "Quando o trem chegou, já tínhamos preparado tudo.",
+          "en": "Quando o trem chegou, já tínhamos preparado tudo.",
+          "ar": "Quando o trem chegou, já tínhamos preparado tudo."
+        },
+        {
+          "pt": "Sério? E onde a senhora tinha morado antes?",
+          "en": "Sério? E onde a senhora tinha morado antes?",
+          "ar": "Sério? E onde a senhora tinha morado antes?"
+        }
+      ],
+      "answer": "Sério? E onde a senhora tinha morado antes?",
+      "accepted": [],
+      "audio": "Sério? E onde a senhora tinha morado antes?",
+      "explanation": {
+        "pt": "Você ouviu: 'Sério? E onde a senhora tinha morado antes?'",
+        "en": "You heard: 'Sério? E onde a senhora tinha morado antes?'",
+        "ar": "سمعت: 'Sério? E onde a senhora tinha morado antes?'"
+      }
+    },
+    {
+      "type": "dictation",
+      "prompt": {
+        "pt": "Ouça e escreva o que você ouviu.",
+        "en": "Listen and type what you hear.",
+        "ar": "استمع واكتب ما سمعته."
+      },
+      "options": [],
+      "answer": "Quando eu era criança, já tinha conhecido o mar.",
+      "accepted": [],
+      "audio": "Quando eu era criança, já tinha conhecido o mar.",
+      "explanation": {
+        "pt": "A frase correta: 'Quando eu era criança, já tinha conhecido o mar.'",
+        "en": "The correct sentence: 'Quando eu era criança, já tinha conhecido o mar.'",
+        "ar": "الجملة الصحيحة: 'Quando eu era criança, já tinha conhecido o mar.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Quando",
+          "en": "Quando",
+          "ar": "Quando"
+        },
+        {
+          "pt": "eu",
+          "en": "eu",
+          "ar": "eu"
+        },
+        {
+          "pt": "já",
+          "en": "já",
+          "ar": "já"
+        },
+        {
+          "pt": "mar.",
+          "en": "mar.",
+          "ar": "mar."
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "criança,",
+          "en": "criança,",
+          "ar": "criança,"
+        },
+        {
+          "pt": "tinha",
+          "en": "tinha",
+          "ar": "tinha"
+        },
+        {
+          "pt": "conhecido",
+          "en": "conhecido",
+          "ar": "conhecido"
+        },
+        {
+          "pt": "era",
+          "en": "era",
+          "ar": "era"
+        }
+      ],
+      "answer": "Quando eu era criança, já tinha conhecido o mar.",
+      "accepted": [
+        "Quando eu era criança, já tinha conhecido o mar."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Quando eu era criança, já tinha conhecido o mar.'",
+        "en": "The correct order: 'When I was a child, I had already seen the sea.'",
+        "ar": "الترتيب الصحيح: 'عندما كنت طفلة، كنت قد رأيت البحر بالفعل.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "já",
+          "en": "when",
+          "ar": "já"
+        },
+        {
+          "pt": "quando",
+          "en": "still / yet",
+          "ar": "quando"
+        },
+        {
+          "pt": "ainda",
+          "en": "already",
+          "ar": "ainda"
+        },
+        {
+          "pt": "esquecer",
+          "en": "the past",
+          "ar": "esquecer"
+        },
+        {
+          "pt": "lembrar",
+          "en": "to forget",
+          "ar": "lembrar"
+        },
+        {
+          "pt": "o passado",
+          "en": "to remember",
+          "ar": "o passado"
+        }
+      ],
+      "answer": "já::when|quando::still / yet|ainda::already|esquecer::the past|lembrar::to forget|o passado::to remember",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Eu tinha morado no interior, perto do rio.",
+          "en": "Really? And where had you lived before?",
+          "ar": "كنت قد سكنت في الريف، قرب النهر."
+        },
+        {
+          "pt": "Quando eu era criança, já tinha conhecido o mar.",
+          "en": "I had lived in the countryside, near the river.",
+          "ar": "عندما كنت طفلة، كنت قد رأيت البحر بالفعل."
+        },
+        {
+          "pt": "Sério? E onde a senhora tinha morado antes?",
+          "en": "When I was a child, I had already seen the sea.",
+          "ar": "حقاً؟ وأين كنتِ قد سكنتِ من قبل؟"
+        }
+      ],
+      "answer": "Quando eu era criança, já tinha conhecido o mar.",
+      "accepted": [],
+      "audio": "Quando eu era criança, já tinha conhecido o mar.",
+      "explanation": {
+        "pt": "Você ouviu: 'Quando eu era criança, já tinha conhecido o mar.' — 'When I was a child, I had already seen the sea.'",
+        "en": "You heard: 'Quando eu era criança, já tinha conhecido o mar.' — 'When I was a child, I had already seen the sea.'",
+        "ar": "سمعت: 'Quando eu era criança, já tinha conhecido o mar.' — 'عندما كنت طفلة، كنت قد رأيت البحر بالفعل.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Quando o trem chegou, já tínhamos preparado tudo.",
+          "en": "When the train arrived, we had already prepared everything.",
+          "ar": "حقاً؟ وأين كنتِ قد سكنتِ من قبل؟"
+        },
+        {
+          "pt": "Sério? E onde a senhora tinha morado antes?",
+          "en": "Really? And where had you lived before?",
+          "ar": "عندما كنت طفلة، كنت قد رأيت البحر بالفعل."
+        },
+        {
+          "pt": "Quando eu era criança, já tinha conhecido o mar.",
+          "en": "When I was a child, I had already seen the sea.",
+          "ar": "عندما وصل القطار، كنا قد جهّزنا كل شيء."
+        }
+      ],
+      "answer": "Sério? E onde a senhora tinha morado antes?",
+      "accepted": [],
+      "audio": "Sério? E onde a senhora tinha morado antes?",
+      "explanation": {
+        "pt": "Você ouviu: 'Sério? E onde a senhora tinha morado antes?' — 'Really? And where had you lived before?'",
+        "en": "You heard: 'Sério? E onde a senhora tinha morado antes?' — 'Really? And where had you lived before?'",
+        "ar": "سمعت: 'Sério? E onde a senhora tinha morado antes?' — 'حقاً؟ وأين كنتِ قد سكنتِ من قبل؟'"
+      }
+    }
+  ],
+  "speaking": {
+    "title": {
+      "pt": "Fale Agora — Ouça e Repita",
+      "en": "Speak Now — Listen and Repeat",
+      "ar": "تحدث الآن — استمع وكرر"
+    },
+    "phrases": [
+      {
+        "pt": "Quando eu era criança, já tinha conhecido o mar.",
+        "en": "When I was a child, I had already seen the sea.",
+        "ar": "عندما كنت طفلة، كنت قد رأيت البحر بالفعل."
+      },
+      {
+        "pt": "Sério? E onde a senhora tinha morado antes?",
+        "en": "Really? And where had you lived before?",
+        "ar": "حقاً؟ وأين كنتِ قد سكنتِ من قبل؟"
+      },
+      {
+        "pt": "Eu tinha morado no interior, perto do rio.",
+        "en": "I had lived in the countryside, near the river.",
+        "ar": "كنت قد سكنت في الريف، قرب النهر."
+      },
+      {
+        "pt": "Eu nunca tinha ouvido essa história.",
+        "en": "I had never heard that story.",
+        "ar": "لم أكن قد سمعت هذه القصة من قبل."
+      },
+      {
+        "pt": "Quando o trem chegou, já tínhamos preparado tudo.",
+        "en": "When the train arrived, we had already prepared everything.",
+        "ar": "عندما وصل القطار، كنا قد جهّزنا كل شيء."
+      },
+      {
+        "pt": "o passado",
+        "en": "the past",
+        "ar": "الماضي"
+      },
+      {
+        "pt": "lembrar",
+        "en": "to remember",
+        "ar": "يتذكر"
+      },
+      {
+        "pt": "esquecer",
+        "en": "to forget",
+        "ar": "ينسى"
+      }
+    ]
+  },
+  "cultural_tips": {
+    "pt": "",
+    "en": "",
+    "ar": ""
+  }
+}

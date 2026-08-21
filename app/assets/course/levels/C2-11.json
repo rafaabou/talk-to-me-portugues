@@ -1,0 +1,2136 @@
+{
+  "id": "C2-11",
+  "level": "C2",
+  "level_name": {
+    "pt": "Proficiência",
+    "en": "Proficiency",
+    "ar": "إتقان"
+  },
+  "title": {
+    "pt": "Prova Final: Proficiência",
+    "en": "Final Test: Proficiency",
+    "ar": "الاختبار النهائي: الإتقان"
+  },
+  "objectives": [
+    {
+      "pt": "Rever a concordância, a regência e a colocação pronominal",
+      "en": "Review agreement, verbal/nominal government and pronoun placement",
+      "ar": "مراجعة المطابقة وعملية الربط ومواضع الضمائر"
+    },
+    {
+      "pt": "Consolidar tempos compostos e vozes verbais",
+      "en": "Consolidate compound tenses and verb voices",
+      "ar": "ترسيخ الأزمنة المركبة وصيغ الفعل"
+    },
+    {
+      "pt": "Demonstrar domínio pleno das quatro competências",
+      "en": "Demonstrate full mastery of the four skills",
+      "ar": "إظهار إتقان تام للمهارات الأربع"
+    },
+    {
+      "pt": "Autoavaliar o desempenho segundo critérios do nível C2",
+      "en": "Self-assess performance according to C2-level criteria",
+      "ar": "تقييم الأداء ذاتيًا وفق معايير المستوى C2"
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "a prova",
+      "ipa": "/ˈpɾɔ.va/",
+      "en": "test / exam",
+      "ar": "الامتحان",
+      "example": {
+        "pt": "Você terá noventa minutos para a redação e a compreensão leitora.",
+        "en": "You will have ninety minutes for the essay and reading comprehension.",
+        "ar": "سيتوفر لديك تسعون دقيقة للإنشاء والفهم القرائي."
+      }
+    },
+    {
+      "pt": "o exame",
+      "ipa": "/eˈzɐ̃.mi/",
+      "en": "examination",
+      "ar": "الاختبار",
+      "example": {
+        "pt": "Não me preocupa a nota, mas o critério de avaliação deve estar claro.",
+        "en": "The grade does not worry me, but the assessment criterion must be clear.",
+        "ar": "لا تقلقني الدرجة، لكن يجب أن يكون معيار التقييم واضحًا."
+      }
+    },
+    {
+      "pt": "a proficiência",
+      "ipa": "/pɾo.fi.siˈẽ.si.a/",
+      "en": "proficiency",
+      "ar": "الكفاءة / الإجادة",
+      "example": {
+        "pt": "Você terá noventa minutos para a redação e a compreensão leitora.",
+        "en": "You will have ninety minutes for the essay and reading comprehension.",
+        "ar": "سيتوفر لديك تسعون دقيقة للإنشاء والفهم القرائي."
+      }
+    },
+    {
+      "pt": "a redação",
+      "ipa": "/xe.daˈsɐ̃w/",
+      "en": "essay / written composition",
+      "ar": "الإنشاء",
+      "example": {
+        "pt": "Você terá noventa minutos para a redação e a compreensão leitora.",
+        "en": "You will have ninety minutes for the essay and reading comprehension.",
+        "ar": "سيتوفر لديك تسعون دقيقة للإنشاء والفهم القرائي."
+      }
+    },
+    {
+      "pt": "a compreensão auditiva",
+      "ipa": "/kõ.pɾe.ẽˈsɐ̃w aw.dʒiˈtʃi.va/",
+      "en": "listening comprehension",
+      "ar": "الفهم السمعي",
+      "example": {
+        "pt": "Você terá noventa minutos para a redação e a compreensão leitora.",
+        "en": "You will have ninety minutes for the essay and reading comprehension.",
+        "ar": "سيتوفر لديك تسعون دقيقة للإنشاء والفهم القرائي."
+      }
+    },
+    {
+      "pt": "a compreensão leitora",
+      "ipa": "/kõ.pɾe.ẽˈsɐ̃w lejˈtɔ.ɾa/",
+      "en": "reading comprehension",
+      "ar": "الفهم القرائي",
+      "example": {
+        "pt": "Você terá noventa minutos para a redação e a compreensão leitora.",
+        "en": "You will have ninety minutes for the essay and reading comprehension.",
+        "ar": "سيتوفر لديك تسعون دقيقة للإنشاء والفهم القرائي."
+      }
+    },
+    {
+      "pt": "a expressão oral",
+      "ipa": "/es.pɾeˈsɐ̃w oˈɾaw/",
+      "en": "oral expression",
+      "ar": "التعبير الشفهي",
+      "example": {
+        "pt": "Você terá noventa minutos para a redação e a compreensão leitora.",
+        "en": "You will have ninety minutes for the essay and reading comprehension.",
+        "ar": "سيتوفر لديك تسعون دقيقة للإنشاء والفهم القرائي."
+      }
+    },
+    {
+      "pt": "a nota",
+      "ipa": "/ˈnɔ.ta/",
+      "en": "grade / mark",
+      "ar": "الدرجة",
+      "example": {
+        "pt": "Você terá noventa minutos para a redação e a compreensão leitora.",
+        "en": "You will have ninety minutes for the essay and reading comprehension.",
+        "ar": "سيتوفر لديك تسعون دقيقة للإنشاء والفهم القرائي."
+      }
+    },
+    {
+      "pt": "o critério de avaliação",
+      "ipa": "/kɾiˈtɛ.ɾi.u dʒi a.va.li.aˈsɐ̃w/",
+      "en": "assessment criterion",
+      "ar": "معيار التقييم",
+      "example": {
+        "pt": "Não me preocupa a nota, mas o critério de avaliação deve estar claro.",
+        "en": "The grade does not worry me, but the assessment criterion must be clear.",
+        "ar": "لا تقلقني الدرجة، لكن يجب أن يكون معيار التقييم واضحًا."
+      }
+    },
+    {
+      "pt": "o nível",
+      "ipa": "/ˈni.vew/",
+      "en": "level",
+      "ar": "المستوى",
+      "example": {
+        "pt": "Não me preocupa a nota, mas o critério de avaliação deve estar claro.",
+        "en": "The grade does not worry me, but the assessment criterion must be clear.",
+        "ar": "لا تقلقني الدرجة، لكن يجب أن يكون معيار التقييم واضحًا."
+      }
+    },
+    {
+      "pt": "o certificado",
+      "ipa": "/seʁ.tʃi.fiˈka.du/",
+      "en": "certificate",
+      "ar": "الشهادة",
+      "example": {
+        "pt": "Não me preocupa a nota, mas o critério de avaliação deve estar claro.",
+        "en": "The grade does not worry me, but the assessment criterion must be clear.",
+        "ar": "لا تقلقني الدرجة، لكن يجب أن يكون معيار التقييم واضحًا."
+      }
+    },
+    {
+      "pt": "o desempenho",
+      "ipa": "/de.zẽˈpẽ.ɲu/",
+      "en": "performance",
+      "ar": "الأداء",
+      "example": {
+        "pt": "Não me preocupa a nota, mas o critério de avaliação deve estar claro.",
+        "en": "The grade does not worry me, but the assessment criterion must be clear.",
+        "ar": "لا تقلقني الدرجة، لكن يجب أن يكون معيار التقييم واضحًا."
+      }
+    },
+    {
+      "pt": "a escala",
+      "ipa": "/esˈka.la/",
+      "en": "scale",
+      "ar": "السلم / المقياس",
+      "example": {
+        "pt": "Você terá noventa minutos para a redação e a compreensão leitora.",
+        "en": "You will have ninety minutes for the essay and reading comprehension.",
+        "ar": "سيتوفر لديك تسعون دقيقة للإنشاء والفهم القرائي."
+      }
+    },
+    {
+      "pt": "o examinador",
+      "ipa": "/e.za.mĩ.naˈdoʁ/",
+      "en": "examiner",
+      "ar": "الممتحن",
+      "example": {
+        "pt": "Não me preocupa a nota, mas o critério de avaliação deve estar claro.",
+        "en": "The grade does not worry me, but the assessment criterion must be clear.",
+        "ar": "لا تقلقني الدرجة، لكن يجب أن يكون معيار التقييم واضحًا."
+      }
+    },
+    {
+      "pt": "o candidato",
+      "ipa": "/kɐ̃.dʒiˈda.tu/",
+      "en": "candidate",
+      "ar": "المرشح",
+      "example": {
+        "pt": "Não me preocupa a nota, mas o critério de avaliação deve estar claro.",
+        "en": "The grade does not worry me, but the assessment criterion must be clear.",
+        "ar": "لا تقلقني الدرجة، لكن يجب أن يكون معيار التقييم واضحًا."
+      }
+    },
+    {
+      "pt": "o domínio",
+      "ipa": "/doˈmĩ.ni.u/",
+      "en": "mastery",
+      "ar": "الإتقان",
+      "example": {
+        "pt": "Não me preocupa a nota, mas o critério de avaliação deve estar claro.",
+        "en": "The grade does not worry me, but the assessment criterion must be clear.",
+        "ar": "لا تقلقني الدرجة، لكن يجب أن يكون معيار التقييم واضحًا."
+      }
+    },
+    {
+      "pt": "a banca",
+      "ipa": "/ˈbɐ̃.ka/",
+      "en": "examining board",
+      "ar": "لجنة الامتحان",
+      "example": {
+        "pt": "Você terá noventa minutos para a redação e a compreensão leitora.",
+        "en": "You will have ninety minutes for the essay and reading comprehension.",
+        "ar": "سيتوفر لديك تسعون دقيقة للإنشاء والفهم القرائي."
+      }
+    },
+    {
+      "pt": "a pontuação",
+      "ipa": "/põ.tu.aˈsɐ̃w/",
+      "en": "scoring",
+      "ar": "الترقيم / التنقيط",
+      "example": {
+        "pt": "Você terá noventa minutos para a redação e a compreensão leitora.",
+        "en": "You will have ninety minutes for the essay and reading comprehension.",
+        "ar": "سيتوفر لديك تسعون دقيقة للإنشاء والفهم القرائي."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "title": {
+        "pt": "Revisão: Concordância, Regência e Colocação",
+        "en": "Review: Agreement, Government and Pronoun Placement",
+        "ar": "مراجعة: المطابقة والربط ومواضع الضمائر"
+      },
+      "explanation": {
+        "pt": "No nível C2, a norma culta deve ser automática. Concordância: 'Havia muitos obstáculos' (haver = existir, impessoal) vs. 'Existiam muitos obstáculos'. Regência: 'Assistir ao espetáculo' (assistir = presenciar) vs. 'Assistir o paciente' (assistir = ajudar). Colocação pronominal: a ênclise é padrão em início de período e após pausa: 'Entregou-me o documento'; a próclise segue negativos, advérbios e pronomes relativos: 'Não me entregou', 'que se refere'.",
+        "en": "At the C2 level, the educated norm must be automatic. Agreement: 'Havia muitos obstáculos' (haver = to exist, impersonal) vs. 'Existiam muitos obstáculos' (there were many obstacles). Government: 'Assistir ao espetáculo' (assistir = to witness) vs. 'Assistir o paciente' (assistir = to help). Pronoun placement: enclisis is standard at the start of a sentence and after a pause: 'Entregou-me o documento'; proclisis follows negatives, adverbs and relative pronouns: 'Não me entregou', 'que se refere'.",
+        "ar": "في المستوى C2 يجب أن تكون القاعدة الفصيحة تلقائية. المطابقة: 'Havia muitos obstáculos' (haver بمعنى يوجد، غير شخصي) مقابل 'Existiam muitos obstáculos' (كانت هناك عقبات كثيرة). الربط: 'Assistir ao espetáculo' (assistir بمعنى يشاهد) مقابل 'Assistir o paciente' (assistir بمعنى يساعد). مواضع الضمائر: الإلحاق (الضمة الموصولة) هو الأصل في بداية الجملة وبعد التوقفة: 'Entregou-me o documento'؛ أما التقديم (الضمة السابقة) فيأتي بعد النفي والظروف والضمائر الموصولة: 'Não me entregou' و'que se refere'."
+      },
+      "examples": [
+        {
+          "pt": "Havia dúvidas quanto à validade da prova. (impessoal)",
+          "en": "There were doubts as to the validity of the test. (impersonal)",
+          "ar": "كانت هناك شكوك حول صلاحية الامتحان. (غير شخصي)"
+        },
+        {
+          "pt": "A banca assistiu ao exame oral com atenção. (presenciar)",
+          "en": "The board watched the oral exam attentively. (to witness)",
+          "ar": "شاهدت اللجنة الامتحان الشفهي باهتمام. (يشاهد)"
+        },
+        {
+          "pt": "Não se deve menosprezar a compreensão auditiva.",
+          "en": "One should not underestimate listening comprehension.",
+          "ar": "لا ينبغي الاستهانة بالفهم السمعي."
+        }
+      ]
+    },
+    {
+      "title": {
+        "pt": "Revisão: Tempos Compostos e Vozes Verbais",
+        "en": "Review: Compound Tenses and Verb Voices",
+        "ar": "مراجعة: الأزمنة المركبة وصيغ الفعل"
+      },
+      "explanation": {
+        "pt": "Os tempos compostos combinam 'ter' ou 'haver' com o particípio: 'tinha terminado' (mais-que-perfeito composto), 'terá sido avaliado' (futuro composto da passiva). A voz passiva pode ser analítica ('foi corrigido'), pronominal ('corrigiu-se') ou com verbo auxiliar + particípio ('está sendo corrigido'). A escolha entre elas afeta o foco e o estilo do texto de avaliação.",
+        "en": "Compound tenses combine 'ter' or 'haver' with the participle: 'tinha terminado' (pluperfect compound), 'terá sido avaliado' (future perfect of the passive). The passive voice can be analytic ('foi corrigido'), pronominal ('corrigiu-se') or with auxiliary verb + participle ('está sendo corrigido'). The choice between them affects the focus and style of the assessment text.",
+        "ar": "تدمج الأزمنة المركبة 'ter' أو 'haver' مع اسم المفعول: 'tinha terminado' (الماضي الأسبق المركب)، 'terá sido avaliado' (المستقبل التام للمجهول). ويمكن أن يكون المبني للمجهول تحليليًا ('foi corrigido') أو ضميريًا ('corrigiu-se') أو بفعل مساعد + اسم مفعول ('está sendo corrigido'). ويؤثر الاختيار بين هذه الصيغ في مركز الاهتمام وأسلوب نص التقييم."
+      },
+      "examples": [
+        {
+          "pt": "Quando o tempo acabou, ela já tinha terminado a redação.",
+          "en": "When the time ran out, she had already finished the essay.",
+          "ar": "عندما انتهى الوقت، كانت قد أنهت الإنشاء بالفعل."
+        },
+        {
+          "pt": "A prova será corrigida pela banca até sexta-feira.",
+          "en": "The test will be graded by the board by Friday.",
+          "ar": "سيُصحّح الامتحان من اللجنة حتى الجمعة."
+        },
+        {
+          "pt": "Está sendo avaliado o domínio da expressão oral.",
+          "en": "Mastery of oral expression is being assessed.",
+          "ar": "يجري الآن تقييم إتقان التعبير الشفهي."
+        }
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": {
+      "pt": "No Dia do Exame",
+      "en": "On Exam Day",
+      "ar": "يوم الامتحان"
+    },
+    "lines": [
+      {
+        "speaker": "Exam-inador",
+        "pt": "Você terá noventa minutos para a redação e a compreensão leitora.",
+        "en": "You will have ninety minutes for the essay and reading comprehension.",
+        "ar": "سيتوفر لديك تسعون دقيقة للإنشاء والفهم القرائي."
+      },
+      {
+        "speaker": "Nádia",
+        "pt": "Compreendo. E a expressão oral será avaliada em seguida pela banca?",
+        "en": "I understand. And will the oral expression be assessed next by the board?",
+        "ar": "فهمت. وهل سيقيّم التعبير الشفهي بعد ذلك من اللجنة؟"
+      },
+      {
+        "speaker": "Exam-inador",
+        "pt": "Sim, em entrevista individual de quinze minutos.",
+        "en": "Yes, in a fifteen-minute individual interview.",
+        "ar": "نعم، في مقابلة فردية مدتها خمس عشرة دقيقة."
+      },
+      {
+        "speaker": "Nádia",
+        "pt": "Não me preocupa a nota, mas o critério de avaliação deve estar claro.",
+        "en": "The grade does not worry me, but the assessment criterion must be clear.",
+        "ar": "لا تقلقني الدرجة، لكن يجب أن يكون معيار التقييم واضحًا."
+      },
+      {
+        "speaker": "Exam-inador",
+        "pt": "A escala segue os descritores do nível C2 do quadro europeu.",
+        "en": "The scale follows the C2 level descriptors of the European framework.",
+        "ar": "يتبع السلم واصفات المستوى C2 في الإطار الأوروبي."
+      },
+      {
+        "speaker": "Nádia",
+        "pt": "Perfeito. Havendo qualquer dúvida, perguntarei antes de iniciar.",
+        "en": "Perfect. Should there be any doubt, I will ask before starting.",
+        "ar": "ممتاز. إن وُجد أي لبس، سأسأل قبل البدء."
+      }
+    ]
+  },
+  "reading": {
+    "title": {
+      "pt": "Critérios de Avaliação do C2",
+      "en": "C2 Assessment Criteria",
+      "ar": "معايير تقييم المستوى C2"
+    },
+    "text_pt": "O candidato deve demonstrar compreensão plena de textos complexos e capacidade de síntese. A redação será avaliada quanto à coerência, à coesão, à precisão lexical e à adequação do registro. Na entrevista, serão considerados a fluência, a pronúncia e o domínio de estruturas sofisticadas. Concluída a correção, a banca emitirá o certificado com o desempenho detalhado.",
+    "text_en": "The candidate must demonstrate full understanding of complex texts and the ability to synthesize. The essay will be assessed for coherence, cohesion, lexical precision and register adequacy. In the interview, fluency, pronunciation and mastery of sophisticated structures will be considered. Once the grading is completed, the board will issue the certificate with detailed performance.",
+    "text_ar": "يجب أن يُظهر المرشح فهمًا تامًا للنصوص المعقدة وقدرة على التلخيص. وسيُقيَّم الإنشاء من حيث التماسك والترابط ودقة المعجم وملاءمة المستوى. وفي المقابلة، ستُؤخذ في الاعتبار الطلاقة والنطق وإتقان التراكيب المتقدمة. وبعد اكتمال التصحيح، ستصدر اللجنة الشهادة مع تفاصيل الأداء."
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Assinale a frase correta quanto à concordância.",
+        "en": "Choose the sentence that is correct with regard to agreement.",
+        "ar": "اختر الجملة الصحيحة من حيث المطابقة."
+      },
+      "options": [
+        {
+          "pt": "Haviam muitas dúvidas sobre a prova.",
+          "en": "Haviam muitas dúvidas sobre a prova.",
+          "ar": "Haviam muitas dúvidas sobre a prova."
+        },
+        {
+          "pt": "Havia muitas dúvidas sobre a prova.",
+          "en": "Havia muitas dúvidas sobre a prova.",
+          "ar": "Havia muitas dúvidas sobre a prova."
+        },
+        {
+          "pt": "Houveram muitas dúvidas sobre a prova.",
+          "en": "Houveram muitas dúvidas sobre a prova.",
+          "ar": "Houveram muitas dúvidas sobre a prova."
+        }
+      ],
+      "answer": "Havia muitas dúvidas sobre a prova.",
+      "explanation": {
+        "pt": "'Haver' impessoal fica no singular: 'Havia muitas dúvidas'.",
+        "en": "Impersonal 'haver' stays singular: 'Havia muitas dúvidas'.",
+        "ar": "يبقى الفعل 'haver' غير الشخصي مفردًا: 'Havia muitas dúvidas'."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Em qual frase a colocação pronominal está correta?",
+        "en": "In which sentence is the pronoun placement correct?",
+        "ar": "في أي جملة يكون وضع الضمير صحيحًا؟"
+      },
+      "options": [
+        {
+          "pt": "Me entregou o documento ontem.",
+          "en": "Me entregou o documento ontem.",
+          "ar": "Me entregou o documento ontem."
+        },
+        {
+          "pt": "Entregou-me o documento ontem.",
+          "en": "Entregou-me o documento ontem.",
+          "ar": "Entregou-me o documento ontem."
+        },
+        {
+          "pt": "Entregou me o documento ontem.",
+          "en": "Entregou me o documento ontem.",
+          "ar": "Entregou me o documento ontem."
+        }
+      ],
+      "answer": "Entregou-me o documento ontem.",
+      "explanation": {
+        "pt": "Após verbo em início de período, usa-se ênclise: 'Entregou-me'.",
+        "en": "After a verb at the start of a sentence, enclisis is used: 'Entregou-me'.",
+        "ar": "بعد فعل في بداية الجملة، يستخدم الإلحاق: 'Entregou-me'."
+      }
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: 'listening comprehension'",
+        "en": "Translate into Portuguese: 'listening comprehension'",
+        "ar": "ترجم إلى البرتغالية: 'listening comprehension'"
+      },
+      "options": [],
+      "answer": "compreensão auditiva",
+      "explanation": {
+        "pt": "'Compreensão auditiva' é o termo dos exames de proficiência.",
+        "en": "'Compreensão auditiva' is the term used in proficiency exams.",
+        "ar": "مصطلح 'compreensão auditiva' هو المستخدم في امتحانات الكفاءة."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "para",
+          "en": "para",
+          "ar": "para"
+        },
+        {
+          "pt": "redação",
+          "en": "redação",
+          "ar": "redação"
+        },
+        {
+          "pt": "leitora.",
+          "en": "leitora.",
+          "ar": "leitora."
+        },
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        },
+        {
+          "pt": "e",
+          "en": "e",
+          "ar": "e"
+        },
+        {
+          "pt": "minutos",
+          "en": "minutos",
+          "ar": "minutos"
+        },
+        {
+          "pt": "compreensão",
+          "en": "compreensão",
+          "ar": "compreensão"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "noventa",
+          "en": "noventa",
+          "ar": "noventa"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "terá",
+          "en": "terá",
+          "ar": "terá"
+        }
+      ],
+      "answer": "Você terá noventa minutos para a redação e a compreensão leitora.",
+      "accepted": [
+        "Você terá noventa minutos para a redação e a compreensão leitora."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Você terá noventa minutos para a redação e a compreensão leitora.'",
+        "en": "The correct order: 'You will have ninety minutes for the essay and reading comprehension.'",
+        "ar": "الترتيب الصحيح: 'سيتوفر لديك تسعون دقيقة للإنشاء والفهم القرائي.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a compreensão auditiva",
+          "en": "proficiency",
+          "ar": "a compreensão auditiva"
+        },
+        {
+          "pt": "a prova",
+          "en": "examination",
+          "ar": "a prova"
+        },
+        {
+          "pt": "a redação",
+          "en": "essay / written composition",
+          "ar": "a redação"
+        },
+        {
+          "pt": "a proficiência",
+          "en": "listening comprehension",
+          "ar": "a proficiência"
+        },
+        {
+          "pt": "o exame",
+          "en": "reading comprehension",
+          "ar": "o exame"
+        },
+        {
+          "pt": "a compreensão leitora",
+          "en": "test / exam",
+          "ar": "a compreensão leitora"
+        }
+      ],
+      "answer": "a compreensão auditiva::proficiency|a prova::examination|a redação::essay / written composition|a proficiência::listening comprehension|o exame::reading comprehension|a compreensão leitora::test / exam",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Você terá noventa minutos para a redação e a compreensão leitora.",
+          "en": "The scale follows the C2 level descriptors of the European framework.",
+          "ar": "يتبع السلم واصفات المستوى C2 في الإطار الأوروبي."
+        },
+        {
+          "pt": "Compreendo. E a expressão oral será avaliada em seguida pela banca?",
+          "en": "You will have ninety minutes for the essay and reading comprehension.",
+          "ar": "سيتوفر لديك تسعون دقيقة للإنشاء والفهم القرائي."
+        },
+        {
+          "pt": "A escala segue os descritores do nível C2 do quadro europeu.",
+          "en": "I understand. And will the oral expression be assessed next by the board?",
+          "ar": "فهمت. وهل سيقيّم التعبير الشفهي بعد ذلك من اللجنة؟"
+        }
+      ],
+      "answer": "Você terá noventa minutos para a redação e a compreensão leitora.",
+      "accepted": [],
+      "audio": "Você terá noventa minutos para a redação e a compreensão leitora.",
+      "explanation": {
+        "pt": "Você ouviu: 'Você terá noventa minutos para a redação e a compreensão leitora.' — 'You will have ninety minutes for the essay and reading comprehension.'",
+        "en": "You heard: 'Você terá noventa minutos para a redação e a compreensão leitora.' — 'You will have ninety minutes for the essay and reading comprehension.'",
+        "ar": "سمعت: 'Você terá noventa minutos para a redação e a compreensão leitora.' — 'سيتوفر لديك تسعون دقيقة للإنشاء والفهم القرائي.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "A escala segue os descritores do nível C2 do quadro europeu.",
+          "en": "I understand. And will the oral expression be assessed next by the board?",
+          "ar": "يتبع السلم واصفات المستوى C2 في الإطار الأوروبي."
+        },
+        {
+          "pt": "Compreendo. E a expressão oral será avaliada em seguida pela banca?",
+          "en": "The scale follows the C2 level descriptors of the European framework.",
+          "ar": "فهمت. وهل سيقيّم التعبير الشفهي بعد ذلك من اللجنة؟"
+        },
+        {
+          "pt": "Não me preocupa a nota, mas o critério de avaliação deve estar claro.",
+          "en": "The grade does not worry me, but the assessment criterion must be clear.",
+          "ar": "لا تقلقني الدرجة، لكن يجب أن يكون معيار التقييم واضحًا."
+        }
+      ],
+      "answer": "Compreendo. E a expressão oral será avaliada em seguida pela banca?",
+      "accepted": [],
+      "audio": "Compreendo. E a expressão oral será avaliada em seguida pela banca?",
+      "explanation": {
+        "pt": "Você ouviu: 'Compreendo. E a expressão oral será avaliada em seguida pela banca?' — 'I understand. And will the oral expression be assessed next by the board?'",
+        "en": "You heard: 'Compreendo. E a expressão oral será avaliada em seguida pela banca?' — 'I understand. And will the oral expression be assessed next by the board?'",
+        "ar": "سمعت: 'Compreendo. E a expressão oral será avaliada em seguida pela banca?' — 'فهمت. وهل سيقيّم التعبير الشفهي بعد ذلك من اللجنة؟'"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Havia dúvidas quanto à validade ___ prova. (impessoal)",
+        "en": "Havia dúvidas quanto à validade ___ prova. (impessoal)",
+        "ar": "Havia dúvidas quanto à validade ___ prova. (impessoal)"
+      },
+      "options": [
+        {
+          "pt": "da",
+          "en": "da",
+          "ar": "da"
+        },
+        {
+          "pt": "exame",
+          "en": "exame",
+          "ar": "exame"
+        },
+        {
+          "pt": "deve",
+          "en": "deve",
+          "ar": "deve"
+        }
+      ],
+      "answer": "da",
+      "accepted": [],
+      "explanation": {
+        "pt": "A resposta é 'da'. Frase completa: Havia dúvidas quanto à validade da prova. (impessoal)",
+        "en": "The answer is 'da'. Full sentence: There were doubts as to the validity of the test. (impersonal)",
+        "ar": "الإجابة الصحيحة: 'da'. الجملة كاملة: كانت هناك شكوك حول صلاحية الامتحان. (غير شخصي)"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "para",
+          "en": "para",
+          "ar": "para"
+        },
+        {
+          "pt": "leitora.",
+          "en": "leitora.",
+          "ar": "leitora."
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "compreensão",
+          "en": "compreensão",
+          "ar": "compreensão"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "terá",
+          "en": "terá",
+          "ar": "terá"
+        },
+        {
+          "pt": "minutos",
+          "en": "minutos",
+          "ar": "minutos"
+        },
+        {
+          "pt": "redação",
+          "en": "redação",
+          "ar": "redação"
+        },
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        },
+        {
+          "pt": "noventa",
+          "en": "noventa",
+          "ar": "noventa"
+        },
+        {
+          "pt": "e",
+          "en": "e",
+          "ar": "e"
+        }
+      ],
+      "answer": "Você terá noventa minutos para a redação e a compreensão leitora.",
+      "accepted": [
+        "Você terá noventa minutos para a redação e a compreensão leitora."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Você terá noventa minutos para a redação e a compreensão leitora.'",
+        "en": "The correct order: 'You will have ninety minutes for the essay and reading comprehension.'",
+        "ar": "الترتيب الصحيح: 'سيتوفر لديك تسعون دقيقة للإنشاء والفهم القرائي.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a compreensão leitora",
+          "en": "test / exam",
+          "ar": "a compreensão leitora"
+        },
+        {
+          "pt": "a proficiência",
+          "en": "essay / written composition",
+          "ar": "a proficiência"
+        },
+        {
+          "pt": "a prova",
+          "en": "reading comprehension",
+          "ar": "a prova"
+        },
+        {
+          "pt": "a compreensão auditiva",
+          "en": "proficiency",
+          "ar": "a compreensão auditiva"
+        },
+        {
+          "pt": "o exame",
+          "en": "listening comprehension",
+          "ar": "o exame"
+        },
+        {
+          "pt": "a redação",
+          "en": "examination",
+          "ar": "a redação"
+        }
+      ],
+      "answer": "a compreensão leitora::test / exam|a proficiência::essay / written composition|a prova::reading comprehension|a compreensão auditiva::proficiency|o exame::listening comprehension|a redação::examination",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Você terá noventa minutos para a redação e a compreensão leitora.",
+          "en": "Perfect. Should there be any doubt, I will ask before starting.",
+          "ar": "ممتاز. إن وُجد أي لبس، سأسأل قبل البدء."
+        },
+        {
+          "pt": "Perfeito. Havendo qualquer dúvida, perguntarei antes de iniciar.",
+          "en": "Yes, in a fifteen-minute individual interview.",
+          "ar": "نعم، في مقابلة فردية مدتها خمس عشرة دقيقة."
+        },
+        {
+          "pt": "Sim, em entrevista individual de quinze minutos.",
+          "en": "You will have ninety minutes for the essay and reading comprehension.",
+          "ar": "سيتوفر لديك تسعون دقيقة للإنشاء والفهم القرائي."
+        }
+      ],
+      "answer": "Você terá noventa minutos para a redação e a compreensão leitora.",
+      "accepted": [],
+      "audio": "Você terá noventa minutos para a redação e a compreensão leitora.",
+      "explanation": {
+        "pt": "Você ouviu: 'Você terá noventa minutos para a redação e a compreensão leitora.' — 'You will have ninety minutes for the essay and reading comprehension.'",
+        "en": "You heard: 'Você terá noventa minutos para a redação e a compreensão leitora.' — 'You will have ninety minutes for the essay and reading comprehension.'",
+        "ar": "سمعت: 'Você terá noventa minutos para a redação e a compreensão leitora.' — 'سيتوفر لديك تسعون دقيقة للإنشاء والفهم القرائي.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Perfeito. Havendo qualquer dúvida, perguntarei antes de iniciar.",
+          "en": "I understand. And will the oral expression be assessed next by the board?",
+          "ar": "ممتاز. إن وُجد أي لبس، سأسأل قبل البدء."
+        },
+        {
+          "pt": "Compreendo. E a expressão oral será avaliada em seguida pela banca?",
+          "en": "Perfect. Should there be any doubt, I will ask before starting.",
+          "ar": "يتبع السلم واصفات المستوى C2 في الإطار الأوروبي."
+        },
+        {
+          "pt": "A escala segue os descritores do nível C2 do quadro europeu.",
+          "en": "The scale follows the C2 level descriptors of the European framework.",
+          "ar": "فهمت. وهل سيقيّم التعبير الشفهي بعد ذلك من اللجنة؟"
+        }
+      ],
+      "answer": "Compreendo. E a expressão oral será avaliada em seguida pela banca?",
+      "accepted": [],
+      "audio": "Compreendo. E a expressão oral será avaliada em seguida pela banca?",
+      "explanation": {
+        "pt": "Você ouviu: 'Compreendo. E a expressão oral será avaliada em seguida pela banca?' — 'I understand. And will the oral expression be assessed next by the board?'",
+        "en": "You heard: 'Compreendo. E a expressão oral será avaliada em seguida pela banca?' — 'I understand. And will the oral expression be assessed next by the board?'",
+        "ar": "سمعت: 'Compreendo. E a expressão oral será avaliada em seguida pela banca?' — 'فهمت. وهل سيقيّم التعبير الشفهي بعد ذلك من اللجنة؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "compreensão",
+          "en": "compreensão",
+          "ar": "compreensão"
+        },
+        {
+          "pt": "terá",
+          "en": "terá",
+          "ar": "terá"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "leitora.",
+          "en": "leitora.",
+          "ar": "leitora."
+        },
+        {
+          "pt": "e",
+          "en": "e",
+          "ar": "e"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "minutos",
+          "en": "minutos",
+          "ar": "minutos"
+        },
+        {
+          "pt": "noventa",
+          "en": "noventa",
+          "ar": "noventa"
+        },
+        {
+          "pt": "redação",
+          "en": "redação",
+          "ar": "redação"
+        },
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        },
+        {
+          "pt": "para",
+          "en": "para",
+          "ar": "para"
+        }
+      ],
+      "answer": "Você terá noventa minutos para a redação e a compreensão leitora.",
+      "accepted": [
+        "Você terá noventa minutos para a redação e a compreensão leitora."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Você terá noventa minutos para a redação e a compreensão leitora.'",
+        "en": "The correct order: 'You will have ninety minutes for the essay and reading comprehension.'",
+        "ar": "الترتيب الصحيح: 'سيتوفر لديك تسعون دقيقة للإنشاء والفهم القرائي.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a redação",
+          "en": "examination",
+          "ar": "a redação"
+        },
+        {
+          "pt": "a proficiência",
+          "en": "essay / written composition",
+          "ar": "a proficiência"
+        },
+        {
+          "pt": "a prova",
+          "en": "listening comprehension",
+          "ar": "a prova"
+        },
+        {
+          "pt": "o exame",
+          "en": "test / exam",
+          "ar": "o exame"
+        },
+        {
+          "pt": "a compreensão leitora",
+          "en": "proficiency",
+          "ar": "a compreensão leitora"
+        },
+        {
+          "pt": "a compreensão auditiva",
+          "en": "reading comprehension",
+          "ar": "a compreensão auditiva"
+        }
+      ],
+      "answer": "a redação::examination|a proficiência::essay / written composition|a prova::listening comprehension|o exame::test / exam|a compreensão leitora::proficiency|a compreensão auditiva::reading comprehension",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Não me preocupa a nota, mas o critério de avaliação deve estar claro.",
+          "en": "I understand. And will the oral expression be assessed next by the board?",
+          "ar": "سيتوفر لديك تسعون دقيقة للإنشاء والفهم القرائي."
+        },
+        {
+          "pt": "Você terá noventa minutos para a redação e a compreensão leitora.",
+          "en": "You will have ninety minutes for the essay and reading comprehension.",
+          "ar": "فهمت. وهل سيقيّم التعبير الشفهي بعد ذلك من اللجنة؟"
+        },
+        {
+          "pt": "Compreendo. E a expressão oral será avaliada em seguida pela banca?",
+          "en": "The grade does not worry me, but the assessment criterion must be clear.",
+          "ar": "لا تقلقني الدرجة، لكن يجب أن يكون معيار التقييم واضحًا."
+        }
+      ],
+      "answer": "Você terá noventa minutos para a redação e a compreensão leitora.",
+      "accepted": [],
+      "audio": "Você terá noventa minutos para a redação e a compreensão leitora.",
+      "explanation": {
+        "pt": "Você ouviu: 'Você terá noventa minutos para a redação e a compreensão leitora.' — 'You will have ninety minutes for the essay and reading comprehension.'",
+        "en": "You heard: 'Você terá noventa minutos para a redação e a compreensão leitora.' — 'You will have ninety minutes for the essay and reading comprehension.'",
+        "ar": "سمعت: 'Você terá noventa minutos para a redação e a compreensão leitora.' — 'سيتوفر لديك تسعون دقيقة للإنشاء والفهم القرائي.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Não me preocupa a nota, mas o critério de avaliação deve estar claro.",
+          "en": "I understand. And will the oral expression be assessed next by the board?",
+          "ar": "يتبع السلم واصفات المستوى C2 في الإطار الأوروبي."
+        },
+        {
+          "pt": "A escala segue os descritores do nível C2 do quadro europeu.",
+          "en": "The scale follows the C2 level descriptors of the European framework.",
+          "ar": "لا تقلقني الدرجة، لكن يجب أن يكون معيار التقييم واضحًا."
+        },
+        {
+          "pt": "Compreendo. E a expressão oral será avaliada em seguida pela banca?",
+          "en": "The grade does not worry me, but the assessment criterion must be clear.",
+          "ar": "فهمت. وهل سيقيّم التعبير الشفهي بعد ذلك من اللجنة؟"
+        }
+      ],
+      "answer": "Compreendo. E a expressão oral será avaliada em seguida pela banca?",
+      "accepted": [],
+      "audio": "Compreendo. E a expressão oral será avaliada em seguida pela banca?",
+      "explanation": {
+        "pt": "Você ouviu: 'Compreendo. E a expressão oral será avaliada em seguida pela banca?' — 'I understand. And will the oral expression be assessed next by the board?'",
+        "en": "You heard: 'Compreendo. E a expressão oral será avaliada em seguida pela banca?' — 'I understand. And will the oral expression be assessed next by the board?'",
+        "ar": "سمعت: 'Compreendo. E a expressão oral será avaliada em seguida pela banca?' — 'فهمت. وهل سيقيّم التعبير الشفهي بعد ذلك من اللجنة؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "minutos",
+          "en": "minutos",
+          "ar": "minutos"
+        },
+        {
+          "pt": "e",
+          "en": "e",
+          "ar": "e"
+        },
+        {
+          "pt": "compreensão",
+          "en": "compreensão",
+          "ar": "compreensão"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        },
+        {
+          "pt": "leitora.",
+          "en": "leitora.",
+          "ar": "leitora."
+        },
+        {
+          "pt": "noventa",
+          "en": "noventa",
+          "ar": "noventa"
+        },
+        {
+          "pt": "para",
+          "en": "para",
+          "ar": "para"
+        },
+        {
+          "pt": "redação",
+          "en": "redação",
+          "ar": "redação"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "terá",
+          "en": "terá",
+          "ar": "terá"
+        }
+      ],
+      "answer": "Você terá noventa minutos para a redação e a compreensão leitora.",
+      "accepted": [
+        "Você terá noventa minutos para a redação e a compreensão leitora."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Você terá noventa minutos para a redação e a compreensão leitora.'",
+        "en": "The correct order: 'You will have ninety minutes for the essay and reading comprehension.'",
+        "ar": "الترتيب الصحيح: 'سيتوفر لديك تسعون دقيقة للإنشاء والفهم القرائي.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a redação",
+          "en": "test / exam",
+          "ar": "a redação"
+        },
+        {
+          "pt": "a proficiência",
+          "en": "reading comprehension",
+          "ar": "a proficiência"
+        },
+        {
+          "pt": "a compreensão auditiva",
+          "en": "listening comprehension",
+          "ar": "a compreensão auditiva"
+        },
+        {
+          "pt": "a compreensão leitora",
+          "en": "essay / written composition",
+          "ar": "a compreensão leitora"
+        },
+        {
+          "pt": "a prova",
+          "en": "proficiency",
+          "ar": "a prova"
+        },
+        {
+          "pt": "o exame",
+          "en": "examination",
+          "ar": "o exame"
+        }
+      ],
+      "answer": "a redação::test / exam|a proficiência::reading comprehension|a compreensão auditiva::listening comprehension|a compreensão leitora::essay / written composition|a prova::proficiency|o exame::examination",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim, em entrevista individual de quinze minutos.",
+          "en": "Yes, in a fifteen-minute individual interview.",
+          "ar": "سيتوفر لديك تسعون دقيقة للإنشاء والفهم القرائي."
+        },
+        {
+          "pt": "Você terá noventa minutos para a redação e a compreensão leitora.",
+          "en": "The grade does not worry me, but the assessment criterion must be clear.",
+          "ar": "نعم، في مقابلة فردية مدتها خمس عشرة دقيقة."
+        },
+        {
+          "pt": "Não me preocupa a nota, mas o critério de avaliação deve estar claro.",
+          "en": "You will have ninety minutes for the essay and reading comprehension.",
+          "ar": "لا تقلقني الدرجة، لكن يجب أن يكون معيار التقييم واضحًا."
+        }
+      ],
+      "answer": "Você terá noventa minutos para a redação e a compreensão leitora.",
+      "accepted": [],
+      "audio": "Você terá noventa minutos para a redação e a compreensão leitora.",
+      "explanation": {
+        "pt": "Você ouviu: 'Você terá noventa minutos para a redação e a compreensão leitora.' — 'You will have ninety minutes for the essay and reading comprehension.'",
+        "en": "You heard: 'Você terá noventa minutos para a redação e a compreensão leitora.' — 'You will have ninety minutes for the essay and reading comprehension.'",
+        "ar": "سمعت: 'Você terá noventa minutos para a redação e a compreensão leitora.' — 'سيتوفر لديك تسعون دقيقة للإنشاء والفهم القرائي.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Compreendo. E a expressão oral será avaliada em seguida pela banca?",
+          "en": "I understand. And will the oral expression be assessed next by the board?",
+          "ar": "نعم، في مقابلة فردية مدتها خمس عشرة دقيقة."
+        },
+        {
+          "pt": "Perfeito. Havendo qualquer dúvida, perguntarei antes de iniciar.",
+          "en": "Perfect. Should there be any doubt, I will ask before starting.",
+          "ar": "ممتاز. إن وُجد أي لبس، سأسأل قبل البدء."
+        },
+        {
+          "pt": "Sim, em entrevista individual de quinze minutos.",
+          "en": "Yes, in a fifteen-minute individual interview.",
+          "ar": "فهمت. وهل سيقيّم التعبير الشفهي بعد ذلك من اللجنة؟"
+        }
+      ],
+      "answer": "Compreendo. E a expressão oral será avaliada em seguida pela banca?",
+      "accepted": [],
+      "audio": "Compreendo. E a expressão oral será avaliada em seguida pela banca?",
+      "explanation": {
+        "pt": "Você ouviu: 'Compreendo. E a expressão oral será avaliada em seguida pela banca?' — 'I understand. And will the oral expression be assessed next by the board?'",
+        "en": "You heard: 'Compreendo. E a expressão oral será avaliada em seguida pela banca?' — 'I understand. And will the oral expression be assessed next by the board?'",
+        "ar": "سمعت: 'Compreendo. E a expressão oral será avaliada em seguida pela banca?' — 'فهمت. وهل سيقيّم التعبير الشفهي بعد ذلك من اللجنة؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "noventa",
+          "en": "noventa",
+          "ar": "noventa"
+        },
+        {
+          "pt": "redação",
+          "en": "redação",
+          "ar": "redação"
+        },
+        {
+          "pt": "compreensão",
+          "en": "compreensão",
+          "ar": "compreensão"
+        },
+        {
+          "pt": "para",
+          "en": "para",
+          "ar": "para"
+        },
+        {
+          "pt": "e",
+          "en": "e",
+          "ar": "e"
+        },
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        },
+        {
+          "pt": "minutos",
+          "en": "minutos",
+          "ar": "minutos"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "leitora.",
+          "en": "leitora.",
+          "ar": "leitora."
+        },
+        {
+          "pt": "terá",
+          "en": "terá",
+          "ar": "terá"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        }
+      ],
+      "answer": "Você terá noventa minutos para a redação e a compreensão leitora.",
+      "accepted": [
+        "Você terá noventa minutos para a redação e a compreensão leitora."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Você terá noventa minutos para a redação e a compreensão leitora.'",
+        "en": "The correct order: 'You will have ninety minutes for the essay and reading comprehension.'",
+        "ar": "الترتيب الصحيح: 'سيتوفر لديك تسعون دقيقة للإنشاء والفهم القرائي.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a prova",
+          "en": "proficiency",
+          "ar": "a prova"
+        },
+        {
+          "pt": "o exame",
+          "en": "examination",
+          "ar": "o exame"
+        },
+        {
+          "pt": "a compreensão leitora",
+          "en": "essay / written composition",
+          "ar": "a compreensão leitora"
+        },
+        {
+          "pt": "a proficiência",
+          "en": "reading comprehension",
+          "ar": "a proficiência"
+        },
+        {
+          "pt": "a redação",
+          "en": "listening comprehension",
+          "ar": "a redação"
+        },
+        {
+          "pt": "a compreensão auditiva",
+          "en": "test / exam",
+          "ar": "a compreensão auditiva"
+        }
+      ],
+      "answer": "a prova::proficiency|o exame::examination|a compreensão leitora::essay / written composition|a proficiência::reading comprehension|a redação::listening comprehension|a compreensão auditiva::test / exam",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Perfeito. Havendo qualquer dúvida, perguntarei antes de iniciar.",
+          "en": "Perfect. Should there be any doubt, I will ask before starting.",
+          "ar": "ممتاز. إن وُجد أي لبس، سأسأل قبل البدء."
+        },
+        {
+          "pt": "Você terá noventa minutos para a redação e a compreensão leitora.",
+          "en": "You will have ninety minutes for the essay and reading comprehension.",
+          "ar": "سيتوفر لديك تسعون دقيقة للإنشاء والفهم القرائي."
+        },
+        {
+          "pt": "Sim, em entrevista individual de quinze minutos.",
+          "en": "Yes, in a fifteen-minute individual interview.",
+          "ar": "نعم، في مقابلة فردية مدتها خمس عشرة دقيقة."
+        }
+      ],
+      "answer": "Você terá noventa minutos para a redação e a compreensão leitora.",
+      "accepted": [],
+      "audio": "Você terá noventa minutos para a redação e a compreensão leitora.",
+      "explanation": {
+        "pt": "Você ouviu: 'Você terá noventa minutos para a redação e a compreensão leitora.' — 'You will have ninety minutes for the essay and reading comprehension.'",
+        "en": "You heard: 'Você terá noventa minutos para a redação e a compreensão leitora.' — 'You will have ninety minutes for the essay and reading comprehension.'",
+        "ar": "سمعت: 'Você terá noventa minutos para a redação e a compreensão leitora.' — 'سيتوفر لديك تسعون دقيقة للإنشاء والفهم القرائي.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim, em entrevista individual de quinze minutos.",
+          "en": "I understand. And will the oral expression be assessed next by the board?",
+          "ar": "سيتوفر لديك تسعون دقيقة للإنشاء والفهم القرائي."
+        },
+        {
+          "pt": "Você terá noventa minutos para a redação e a compreensão leitora.",
+          "en": "You will have ninety minutes for the essay and reading comprehension.",
+          "ar": "نعم، في مقابلة فردية مدتها خمس عشرة دقيقة."
+        },
+        {
+          "pt": "Compreendo. E a expressão oral será avaliada em seguida pela banca?",
+          "en": "Yes, in a fifteen-minute individual interview.",
+          "ar": "فهمت. وهل سيقيّم التعبير الشفهي بعد ذلك من اللجنة؟"
+        }
+      ],
+      "answer": "Compreendo. E a expressão oral será avaliada em seguida pela banca?",
+      "accepted": [],
+      "audio": "Compreendo. E a expressão oral será avaliada em seguida pela banca?",
+      "explanation": {
+        "pt": "Você ouviu: 'Compreendo. E a expressão oral será avaliada em seguida pela banca?' — 'I understand. And will the oral expression be assessed next by the board?'",
+        "en": "You heard: 'Compreendo. E a expressão oral será avaliada em seguida pela banca?' — 'I understand. And will the oral expression be assessed next by the board?'",
+        "ar": "سمعت: 'Compreendo. E a expressão oral será avaliada em seguida pela banca?' — 'فهمت. وهل سيقيّم التعبير الشفهي بعد ذلك من اللجنة؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "e",
+          "en": "e",
+          "ar": "e"
+        },
+        {
+          "pt": "leitora.",
+          "en": "leitora.",
+          "ar": "leitora."
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "minutos",
+          "en": "minutos",
+          "ar": "minutos"
+        },
+        {
+          "pt": "para",
+          "en": "para",
+          "ar": "para"
+        },
+        {
+          "pt": "compreensão",
+          "en": "compreensão",
+          "ar": "compreensão"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "terá",
+          "en": "terá",
+          "ar": "terá"
+        },
+        {
+          "pt": "redação",
+          "en": "redação",
+          "ar": "redação"
+        },
+        {
+          "pt": "noventa",
+          "en": "noventa",
+          "ar": "noventa"
+        },
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        }
+      ],
+      "answer": "Você terá noventa minutos para a redação e a compreensão leitora.",
+      "accepted": [
+        "Você terá noventa minutos para a redação e a compreensão leitora."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Você terá noventa minutos para a redação e a compreensão leitora.'",
+        "en": "The correct order: 'You will have ninety minutes for the essay and reading comprehension.'",
+        "ar": "الترتيب الصحيح: 'سيتوفر لديك تسعون دقيقة للإنشاء والفهم القرائي.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a prova",
+          "en": "listening comprehension",
+          "ar": "a prova"
+        },
+        {
+          "pt": "o exame",
+          "en": "examination",
+          "ar": "o exame"
+        },
+        {
+          "pt": "a compreensão leitora",
+          "en": "test / exam",
+          "ar": "a compreensão leitora"
+        },
+        {
+          "pt": "a compreensão auditiva",
+          "en": "essay / written composition",
+          "ar": "a compreensão auditiva"
+        },
+        {
+          "pt": "a proficiência",
+          "en": "reading comprehension",
+          "ar": "a proficiência"
+        },
+        {
+          "pt": "a redação",
+          "en": "proficiency",
+          "ar": "a redação"
+        }
+      ],
+      "answer": "a prova::listening comprehension|o exame::examination|a compreensão leitora::test / exam|a compreensão auditiva::essay / written composition|a proficiência::reading comprehension|a redação::proficiency",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Não me preocupa a nota, mas o critério de avaliação deve estar claro.",
+          "en": "I understand. And will the oral expression be assessed next by the board?",
+          "ar": "سيتوفر لديك تسعون دقيقة للإنشاء والفهم القرائي."
+        },
+        {
+          "pt": "Compreendo. E a expressão oral será avaliada em seguida pela banca?",
+          "en": "You will have ninety minutes for the essay and reading comprehension.",
+          "ar": "فهمت. وهل سيقيّم التعبير الشفهي بعد ذلك من اللجنة؟"
+        },
+        {
+          "pt": "Você terá noventa minutos para a redação e a compreensão leitora.",
+          "en": "The grade does not worry me, but the assessment criterion must be clear.",
+          "ar": "لا تقلقني الدرجة، لكن يجب أن يكون معيار التقييم واضحًا."
+        }
+      ],
+      "answer": "Você terá noventa minutos para a redação e a compreensão leitora.",
+      "accepted": [],
+      "audio": "Você terá noventa minutos para a redação e a compreensão leitora.",
+      "explanation": {
+        "pt": "Você ouviu: 'Você terá noventa minutos para a redação e a compreensão leitora.' — 'You will have ninety minutes for the essay and reading comprehension.'",
+        "en": "You heard: 'Você terá noventa minutos para a redação e a compreensão leitora.' — 'You will have ninety minutes for the essay and reading comprehension.'",
+        "ar": "سمعت: 'Você terá noventa minutos para a redação e a compreensão leitora.' — 'سيتوفر لديك تسعون دقيقة للإنشاء والفهم القرائي.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim, em entrevista individual de quinze minutos.",
+          "en": "Yes, in a fifteen-minute individual interview.",
+          "ar": "فهمت. وهل سيقيّم التعبير الشفهي بعد ذلك من اللجنة؟"
+        },
+        {
+          "pt": "Perfeito. Havendo qualquer dúvida, perguntarei antes de iniciar.",
+          "en": "I understand. And will the oral expression be assessed next by the board?",
+          "ar": "ممتاز. إن وُجد أي لبس، سأسأل قبل البدء."
+        },
+        {
+          "pt": "Compreendo. E a expressão oral será avaliada em seguida pela banca?",
+          "en": "Perfect. Should there be any doubt, I will ask before starting.",
+          "ar": "نعم، في مقابلة فردية مدتها خمس عشرة دقيقة."
+        }
+      ],
+      "answer": "Compreendo. E a expressão oral será avaliada em seguida pela banca?",
+      "accepted": [],
+      "audio": "Compreendo. E a expressão oral será avaliada em seguida pela banca?",
+      "explanation": {
+        "pt": "Você ouviu: 'Compreendo. E a expressão oral será avaliada em seguida pela banca?' — 'I understand. And will the oral expression be assessed next by the board?'",
+        "en": "You heard: 'Compreendo. E a expressão oral será avaliada em seguida pela banca?' — 'I understand. And will the oral expression be assessed next by the board?'",
+        "ar": "سمعت: 'Compreendo. E a expressão oral será avaliada em seguida pela banca?' — 'فهمت. وهل سيقيّم التعبير الشفهي بعد ذلك من اللجنة؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "leitora.",
+          "en": "leitora.",
+          "ar": "leitora."
+        },
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        },
+        {
+          "pt": "compreensão",
+          "en": "compreensão",
+          "ar": "compreensão"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "para",
+          "en": "para",
+          "ar": "para"
+        },
+        {
+          "pt": "minutos",
+          "en": "minutos",
+          "ar": "minutos"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "noventa",
+          "en": "noventa",
+          "ar": "noventa"
+        },
+        {
+          "pt": "redação",
+          "en": "redação",
+          "ar": "redação"
+        },
+        {
+          "pt": "terá",
+          "en": "terá",
+          "ar": "terá"
+        },
+        {
+          "pt": "e",
+          "en": "e",
+          "ar": "e"
+        }
+      ],
+      "answer": "Você terá noventa minutos para a redação e a compreensão leitora.",
+      "accepted": [
+        "Você terá noventa minutos para a redação e a compreensão leitora."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Você terá noventa minutos para a redação e a compreensão leitora.'",
+        "en": "The correct order: 'You will have ninety minutes for the essay and reading comprehension.'",
+        "ar": "الترتيب الصحيح: 'سيتوفر لديك تسعون دقيقة للإنشاء والفهم القرائي.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a prova",
+          "en": "essay / written composition",
+          "ar": "a prova"
+        },
+        {
+          "pt": "a proficiência",
+          "en": "examination",
+          "ar": "a proficiência"
+        },
+        {
+          "pt": "a compreensão auditiva",
+          "en": "test / exam",
+          "ar": "a compreensão auditiva"
+        },
+        {
+          "pt": "o exame",
+          "en": "listening comprehension",
+          "ar": "o exame"
+        },
+        {
+          "pt": "a compreensão leitora",
+          "en": "proficiency",
+          "ar": "a compreensão leitora"
+        },
+        {
+          "pt": "a redação",
+          "en": "reading comprehension",
+          "ar": "a redação"
+        }
+      ],
+      "answer": "a prova::essay / written composition|a proficiência::examination|a compreensão auditiva::test / exam|o exame::listening comprehension|a compreensão leitora::proficiency|a redação::reading comprehension",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim, em entrevista individual de quinze minutos.",
+          "en": "You will have ninety minutes for the essay and reading comprehension.",
+          "ar": "نعم، في مقابلة فردية مدتها خمس عشرة دقيقة."
+        },
+        {
+          "pt": "Você terá noventa minutos para a redação e a compreensão leitora.",
+          "en": "Yes, in a fifteen-minute individual interview.",
+          "ar": "سيتوفر لديك تسعون دقيقة للإنشاء والفهم القرائي."
+        },
+        {
+          "pt": "A escala segue os descritores do nível C2 do quadro europeu.",
+          "en": "The scale follows the C2 level descriptors of the European framework.",
+          "ar": "يتبع السلم واصفات المستوى C2 في الإطار الأوروبي."
+        }
+      ],
+      "answer": "Você terá noventa minutos para a redação e a compreensão leitora.",
+      "accepted": [],
+      "audio": "Você terá noventa minutos para a redação e a compreensão leitora.",
+      "explanation": {
+        "pt": "Você ouviu: 'Você terá noventa minutos para a redação e a compreensão leitora.' — 'You will have ninety minutes for the essay and reading comprehension.'",
+        "en": "You heard: 'Você terá noventa minutos para a redação e a compreensão leitora.' — 'You will have ninety minutes for the essay and reading comprehension.'",
+        "ar": "سمعت: 'Você terá noventa minutos para a redação e a compreensão leitora.' — 'سيتوفر لديك تسعون دقيقة للإنشاء والفهم القرائي.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim, em entrevista individual de quinze minutos.",
+          "en": "The scale follows the C2 level descriptors of the European framework.",
+          "ar": "فهمت. وهل سيقيّم التعبير الشفهي بعد ذلك من اللجنة؟"
+        },
+        {
+          "pt": "Compreendo. E a expressão oral será avaliada em seguida pela banca?",
+          "en": "I understand. And will the oral expression be assessed next by the board?",
+          "ar": "يتبع السلم واصفات المستوى C2 في الإطار الأوروبي."
+        },
+        {
+          "pt": "A escala segue os descritores do nível C2 do quadro europeu.",
+          "en": "Yes, in a fifteen-minute individual interview.",
+          "ar": "نعم، في مقابلة فردية مدتها خمس عشرة دقيقة."
+        }
+      ],
+      "answer": "Compreendo. E a expressão oral será avaliada em seguida pela banca?",
+      "accepted": [],
+      "audio": "Compreendo. E a expressão oral será avaliada em seguida pela banca?",
+      "explanation": {
+        "pt": "Você ouviu: 'Compreendo. E a expressão oral será avaliada em seguida pela banca?' — 'I understand. And will the oral expression be assessed next by the board?'",
+        "en": "You heard: 'Compreendo. E a expressão oral será avaliada em seguida pela banca?' — 'I understand. And will the oral expression be assessed next by the board?'",
+        "ar": "سمعت: 'Compreendo. E a expressão oral será avaliada em seguida pela banca?' — 'فهمت. وهل سيقيّم التعبير الشفهي بعد ذلك من اللجنة؟'"
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'test / exam'",
+        "en": "Type in Portuguese: 'test / exam'",
+        "ar": "اكتب بالبرتغالية: 'الامتحان'"
+      },
+      "options": [],
+      "answer": "a prova",
+      "accepted": [
+        "a prova"
+      ],
+      "explanation": {
+        "pt": "'a prova' significa 'test / exam'.",
+        "en": "'a prova' means 'test / exam'.",
+        "ar": "'$a prova' بالعربية: '$الامتحان'."
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'examination'",
+        "en": "Type in Portuguese: 'examination'",
+        "ar": "اكتب بالبرتغالية: 'الاختبار'"
+      },
+      "options": [],
+      "answer": "o exame",
+      "accepted": [
+        "o exame"
+      ],
+      "explanation": {
+        "pt": "'o exame' significa 'examination'.",
+        "en": "'o exame' means 'examination'.",
+        "ar": "'$o exame' بالعربية: '$الاختبار'."
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Perfeito. Havendo qualquer dúvida, perguntarei antes de iniciar.",
+          "en": "Perfeito. Havendo qualquer dúvida, perguntarei antes de iniciar.",
+          "ar": "Perfeito. Havendo qualquer dúvida, perguntarei antes de iniciar."
+        },
+        {
+          "pt": "A escala segue os descritores do nível C2 do quadro europeu.",
+          "en": "A escala segue os descritores do nível C2 do quadro europeu.",
+          "ar": "A escala segue os descritores do nível C2 do quadro europeu."
+        },
+        {
+          "pt": "Você terá noventa minutos para a redação e a compreensão leitora.",
+          "en": "Você terá noventa minutos para a redação e a compreensão leitora.",
+          "ar": "Você terá noventa minutos para a redação e a compreensão leitora."
+        }
+      ],
+      "answer": "Você terá noventa minutos para a redação e a compreensão leitora.",
+      "accepted": [],
+      "audio": "Você terá noventa minutos para a redação e a compreensão leitora.",
+      "explanation": {
+        "pt": "Você ouviu: 'Você terá noventa minutos para a redação e a compreensão leitora.'",
+        "en": "You heard: 'Você terá noventa minutos para a redação e a compreensão leitora.'",
+        "ar": "سمعت: 'Você terá noventa minutos para a redação e a compreensão leitora.'"
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Você terá noventa minutos para a redação e a compreensão leitora.",
+          "en": "Você terá noventa minutos para a redação e a compreensão leitora.",
+          "ar": "Você terá noventa minutos para a redação e a compreensão leitora."
+        },
+        {
+          "pt": "Compreendo. E a expressão oral será avaliada em seguida pela banca?",
+          "en": "Compreendo. E a expressão oral será avaliada em seguida pela banca?",
+          "ar": "Compreendo. E a expressão oral será avaliada em seguida pela banca?"
+        },
+        {
+          "pt": "A escala segue os descritores do nível C2 do quadro europeu.",
+          "en": "A escala segue os descritores do nível C2 do quadro europeu.",
+          "ar": "A escala segue os descritores do nível C2 do quadro europeu."
+        }
+      ],
+      "answer": "Compreendo. E a expressão oral será avaliada em seguida pela banca?",
+      "accepted": [],
+      "audio": "Compreendo. E a expressão oral será avaliada em seguida pela banca?",
+      "explanation": {
+        "pt": "Você ouviu: 'Compreendo. E a expressão oral será avaliada em seguida pela banca?'",
+        "en": "You heard: 'Compreendo. E a expressão oral será avaliada em seguida pela banca?'",
+        "ar": "سمعت: 'Compreendo. E a expressão oral será avaliada em seguida pela banca?'"
+      }
+    },
+    {
+      "type": "dictation",
+      "prompt": {
+        "pt": "Ouça e escreva o que você ouviu.",
+        "en": "Listen and type what you hear.",
+        "ar": "استمع واكتب ما سمعته."
+      },
+      "options": [],
+      "answer": "Você terá noventa minutos para a redação e a compreensão leitora.",
+      "accepted": [],
+      "audio": "Você terá noventa minutos para a redação e a compreensão leitora.",
+      "explanation": {
+        "pt": "A frase correta: 'Você terá noventa minutos para a redação e a compreensão leitora.'",
+        "en": "The correct sentence: 'Você terá noventa minutos para a redação e a compreensão leitora.'",
+        "ar": "الجملة الصحيحة: 'Você terá noventa minutos para a redação e a compreensão leitora.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "terá",
+          "en": "terá",
+          "ar": "terá"
+        },
+        {
+          "pt": "noventa",
+          "en": "noventa",
+          "ar": "noventa"
+        },
+        {
+          "pt": "leitora.",
+          "en": "leitora.",
+          "ar": "leitora."
+        },
+        {
+          "pt": "e",
+          "en": "e",
+          "ar": "e"
+        },
+        {
+          "pt": "para",
+          "en": "para",
+          "ar": "para"
+        },
+        {
+          "pt": "redação",
+          "en": "redação",
+          "ar": "redação"
+        },
+        {
+          "pt": "compreensão",
+          "en": "compreensão",
+          "ar": "compreensão"
+        },
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "minutos",
+          "en": "minutos",
+          "ar": "minutos"
+        }
+      ],
+      "answer": "Você terá noventa minutos para a redação e a compreensão leitora.",
+      "accepted": [
+        "Você terá noventa minutos para a redação e a compreensão leitora."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Você terá noventa minutos para a redação e a compreensão leitora.'",
+        "en": "The correct order: 'You will have ninety minutes for the essay and reading comprehension.'",
+        "ar": "الترتيب الصحيح: 'سيتوفر لديك تسعون دقيقة للإنشاء والفهم القرائي.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a proficiência",
+          "en": "examination",
+          "ar": "a proficiência"
+        },
+        {
+          "pt": "a redação",
+          "en": "test / exam",
+          "ar": "a redação"
+        },
+        {
+          "pt": "a compreensão auditiva",
+          "en": "proficiency",
+          "ar": "a compreensão auditiva"
+        },
+        {
+          "pt": "o exame",
+          "en": "essay / written composition",
+          "ar": "o exame"
+        },
+        {
+          "pt": "a compreensão leitora",
+          "en": "listening comprehension",
+          "ar": "a compreensão leitora"
+        },
+        {
+          "pt": "a prova",
+          "en": "reading comprehension",
+          "ar": "a prova"
+        }
+      ],
+      "answer": "a proficiência::examination|a redação::test / exam|a compreensão auditiva::proficiency|o exame::essay / written composition|a compreensão leitora::listening comprehension|a prova::reading comprehension",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Não me preocupa a nota, mas o critério de avaliação deve estar claro.",
+          "en": "You will have ninety minutes for the essay and reading comprehension.",
+          "ar": "فهمت. وهل سيقيّم التعبير الشفهي بعد ذلك من اللجنة؟"
+        },
+        {
+          "pt": "Você terá noventa minutos para a redação e a compreensão leitora.",
+          "en": "The grade does not worry me, but the assessment criterion must be clear.",
+          "ar": "لا تقلقني الدرجة، لكن يجب أن يكون معيار التقييم واضحًا."
+        },
+        {
+          "pt": "Compreendo. E a expressão oral será avaliada em seguida pela banca?",
+          "en": "I understand. And will the oral expression be assessed next by the board?",
+          "ar": "سيتوفر لديك تسعون دقيقة للإنشاء والفهم القرائي."
+        }
+      ],
+      "answer": "Você terá noventa minutos para a redação e a compreensão leitora.",
+      "accepted": [],
+      "audio": "Você terá noventa minutos para a redação e a compreensão leitora.",
+      "explanation": {
+        "pt": "Você ouviu: 'Você terá noventa minutos para a redação e a compreensão leitora.' — 'You will have ninety minutes for the essay and reading comprehension.'",
+        "en": "You heard: 'Você terá noventa minutos para a redação e a compreensão leitora.' — 'You will have ninety minutes for the essay and reading comprehension.'",
+        "ar": "سمعت: 'Você terá noventa minutos para a redação e a compreensão leitora.' — 'سيتوفر لديك تسعون دقيقة للإنشاء والفهم القرائي.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Você terá noventa minutos para a redação e a compreensão leitora.",
+          "en": "You will have ninety minutes for the essay and reading comprehension.",
+          "ar": "سيتوفر لديك تسعون دقيقة للإنشاء والفهم القرائي."
+        },
+        {
+          "pt": "A escala segue os descritores do nível C2 do quadro europeu.",
+          "en": "The scale follows the C2 level descriptors of the European framework.",
+          "ar": "يتبع السلم واصفات المستوى C2 في الإطار الأوروبي."
+        },
+        {
+          "pt": "Compreendo. E a expressão oral será avaliada em seguida pela banca?",
+          "en": "I understand. And will the oral expression be assessed next by the board?",
+          "ar": "فهمت. وهل سيقيّم التعبير الشفهي بعد ذلك من اللجنة؟"
+        }
+      ],
+      "answer": "Compreendo. E a expressão oral será avaliada em seguida pela banca?",
+      "accepted": [],
+      "audio": "Compreendo. E a expressão oral será avaliada em seguida pela banca?",
+      "explanation": {
+        "pt": "Você ouviu: 'Compreendo. E a expressão oral será avaliada em seguida pela banca?' — 'I understand. And will the oral expression be assessed next by the board?'",
+        "en": "You heard: 'Compreendo. E a expressão oral será avaliada em seguida pela banca?' — 'I understand. And will the oral expression be assessed next by the board?'",
+        "ar": "سمعت: 'Compreendo. E a expressão oral será avaliada em seguida pela banca?' — 'فهمت. وهل سيقيّم التعبير الشفهي بعد ذلك من اللجنة؟'"
+      }
+    }
+  ],
+  "speaking": {
+    "title": {
+      "pt": "Fale Agora — Ouça e Repita",
+      "en": "Speak Now — Listen and Repeat",
+      "ar": "تحدث الآن — استمع وكرر"
+    },
+    "phrases": [
+      {
+        "pt": "Você terá noventa minutos para a redação e a compreensão leitora.",
+        "en": "You will have ninety minutes for the essay and reading comprehension.",
+        "ar": "سيتوفر لديك تسعون دقيقة للإنشاء والفهم القرائي."
+      },
+      {
+        "pt": "Compreendo. E a expressão oral será avaliada em seguida pela banca?",
+        "en": "I understand. And will the oral expression be assessed next by the board?",
+        "ar": "فهمت. وهل سيقيّم التعبير الشفهي بعد ذلك من اللجنة؟"
+      },
+      {
+        "pt": "Sim, em entrevista individual de quinze minutos.",
+        "en": "Yes, in a fifteen-minute individual interview.",
+        "ar": "نعم، في مقابلة فردية مدتها خمس عشرة دقيقة."
+      },
+      {
+        "pt": "Não me preocupa a nota, mas o critério de avaliação deve estar claro.",
+        "en": "The grade does not worry me, but the assessment criterion must be clear.",
+        "ar": "لا تقلقني الدرجة، لكن يجب أن يكون معيار التقييم واضحًا."
+      },
+      {
+        "pt": "A escala segue os descritores do nível C2 do quadro europeu.",
+        "en": "The scale follows the C2 level descriptors of the European framework.",
+        "ar": "يتبع السلم واصفات المستوى C2 في الإطار الأوروبي."
+      },
+      {
+        "pt": "Perfeito. Havendo qualquer dúvida, perguntarei antes de iniciar.",
+        "en": "Perfect. Should there be any doubt, I will ask before starting.",
+        "ar": "ممتاز. إن وُجد أي لبس، سأسأل قبل البدء."
+      },
+      {
+        "pt": "a prova",
+        "en": "test / exam",
+        "ar": "الامتحان"
+      },
+      {
+        "pt": "o exame",
+        "en": "examination",
+        "ar": "الاختبار"
+      },
+      {
+        "pt": "a proficiência",
+        "en": "proficiency",
+        "ar": "الكفاءة / الإجادة"
+      }
+    ]
+  },
+  "cultural_tips": {
+    "pt": "",
+    "en": "",
+    "ar": ""
+  }
+}

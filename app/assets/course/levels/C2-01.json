@@ -1,0 +1,2136 @@
+{
+  "id": "C2-01",
+  "level": "C2",
+  "level_name": {
+    "pt": "Proficiência",
+    "en": "Proficiency",
+    "ar": "إتقان"
+  },
+  "title": {
+    "pt": "Expressões Idiomáticas Avançadas",
+    "en": "Advanced Idiomatic Expressions",
+    "ar": "التعبيرات الاصطلاحية المتقدمة"
+  },
+  "objectives": [
+    {
+      "pt": "Reconhecer e empregar expressões idiomáticas avançadas do português brasileiro",
+      "en": "Recognize and use advanced idiomatic expressions of Brazilian Portuguese",
+      "ar": "التعرف على التعابير الاصطلاحية المتقدمة في البرتغالية البرازيلية واستخدامها"
+    },
+    {
+      "pt": "Distinguir o sentido literal do sentido figurado em contextos reais",
+      "en": "Distinguish literal from figurative meaning in real contexts",
+      "ar": "التمييز بين المعنى الحرفي والمعنى المجازي في سياقات حقيقية"
+    },
+    {
+      "pt": "Ajustar o registro do discurso ao contexto e ao interlocutor",
+      "en": "Adjust the register of speech to the context and the interlocutor",
+      "ar": "ضبط مستوى الخطاب وفقًا للسياق والمتحدث"
+    },
+    {
+      "pt": "Compreender piadas e metáforas culturais do cotidiano brasileiro",
+      "en": "Understand jokes and cultural metaphors of everyday Brazilian life",
+      "ar": "فهم النكات والاستعارات الثقافية في الحياة اليومية البرازيلية"
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "pagar mico",
+      "ipa": "/paˈɡaʁ ˈmi.ku/",
+      "en": "to embarrass oneself in public",
+      "ar": "يحرج نفسه أمام الناس",
+      "example": {
+        "pt": "Você viu o Pedro puxando saco do diretor a noite inteira?",
+        "en": "Did you see Pedro sucking up to the director all night?",
+        "ar": "هل رأيتِ بيدرو يتملق المدير طوال الليل؟"
+      }
+    },
+    {
+      "pt": "ficar a ver navios",
+      "ipa": "/fiˈkaɾ a ˈveɾ naˈvi.us/",
+      "en": "to be left empty-handed",
+      "ar": "يخسر كل شيء / يظل بلا شيء",
+      "example": {
+        "pt": "Você viu o Pedro puxando saco do diretor a noite inteira?",
+        "en": "Did you see Pedro sucking up to the director all night?",
+        "ar": "هل رأيتِ بيدرو يتملق المدير طوال الليل؟"
+      }
+    },
+    {
+      "pt": "chover no molhado",
+      "ipa": "/ʃoˈveɾ nu moˈʎa.du/",
+      "en": "to state the obvious",
+      "ar": "يُطيل في كلام بديهي",
+      "example": {
+        "pt": "Você viu o Pedro puxando saco do diretor a noite inteira?",
+        "en": "Did you see Pedro sucking up to the director all night?",
+        "ar": "هل رأيتِ بيدرو يتملق المدير طوال الليل؟"
+      }
+    },
+    {
+      "pt": "puxar a brasa para a sua sardinha",
+      "ipa": "/puˈʃaɾ a ˈbɾa.za ˈpa.ɾa a ˈsu.a saʁˈdʒĩ.ɲa/",
+      "en": "to look after one's own interests",
+      "ar": "يُرجّح كفته / يخدم مصلحته",
+      "example": {
+        "pt": "Você viu o Pedro puxando saco do diretor a noite inteira?",
+        "en": "Did you see Pedro sucking up to the director all night?",
+        "ar": "هل رأيتِ بيدرو يتملق المدير طوال الليل؟"
+      }
+    },
+    {
+      "pt": "encher linguiça",
+      "ipa": "/ẽˈʃeɾ lĩˈɡwi.sa/",
+      "en": "to pad out, to drag on pointlessly",
+      "ar": "يطيل الكلام بلا فائدة",
+      "example": {
+        "pt": "Combinado. Antes eu deixar na mão ninguém do que encher linguiça até de madrugada.",
+        "en": "Deal. I would rather not leave anyone in the lurch than drag things on until dawn.",
+        "ar": "متّفق. الأفضل ألا أتخلى عن أحد بدلًا من إطالة الكلام بلا طائل حتى الفجر."
+      }
+    },
+    {
+      "pt": "dar com a língua nos dentes",
+      "ipa": "/ˈdaʁ kõw a ˈlĩ.ɡwa nuz ˈdẽ.tʃis/",
+      "en": "to spill the beans",
+      "ar": "يفشي السر",
+      "example": {
+        "pt": "Você viu o Pedro puxando saco do diretor a noite inteira?",
+        "en": "Did you see Pedro sucking up to the director all night?",
+        "ar": "هل رأيتِ بيدرو يتملق المدير طوال الليل؟"
+      }
+    },
+    {
+      "pt": "morder a língua",
+      "ipa": "/moʁˈdeɾ a ˈlĩ.ɡwa/",
+      "en": "to eat one's words",
+      "ar": "يتراجع عن كلامه نادمًا",
+      "example": {
+        "pt": "Você viu o Pedro puxando saco do diretor a noite inteira?",
+        "en": "Did you see Pedro sucking up to the director all night?",
+        "ar": "هل رأيتِ بيدرو يتملق المدير طوال الليل؟"
+      }
+    },
+    {
+      "pt": "vestir a camisa",
+      "ipa": "/vesˈtʃiɾ a kaˈmi.za/",
+      "en": "to commit wholeheartedly",
+      "ar": "يلتزم بإخلاص تام",
+      "example": {
+        "pt": "Você viu o Pedro puxando saco do diretor a noite inteira?",
+        "en": "Did you see Pedro sucking up to the director all night?",
+        "ar": "هل رأيتِ بيدرو يتملق المدير طوال الليل؟"
+      }
+    },
+    {
+      "pt": "deixar a peteca cair",
+      "ipa": "/dejˈʃaɾ a peˈtɛ.ka kaˈiʁ/",
+      "en": "to give up, to let things fall apart",
+      "ar": "يستسلم / يُسقط الأمر",
+      "example": {
+        "pt": "Combinado. Antes eu deixar na mão ninguém do que encher linguiça até de madrugada.",
+        "en": "Deal. I would rather not leave anyone in the lurch than drag things on until dawn.",
+        "ar": "متّفق. الأفضل ألا أتخلى عن أحد بدلًا من إطالة الكلام بلا طائل حتى الفجر."
+      }
+    },
+    {
+      "pt": "segurar vela",
+      "ipa": "/seɡuˈɾaʁ ˈvɛ.la/",
+      "en": "to be a third wheel",
+      "ar": "يكون طرفًا ثالثًا محرجًا",
+      "example": {
+        "pt": "Pois é, mas eu vou segurar vela, como sempre, e terminar o projeto sozinho.",
+        "en": "Right, but as always I'll be the one left holding the bag and finish the project alone.",
+        "ar": "صحيح، لكنني سأبقى كما هو الحال دائمًا في موقف صعب وأنهي المشروع وحدي."
+      }
+    },
+    {
+      "pt": "viajar na maionese",
+      "ipa": "/viaˈʒaʁ na maj.oˈne.zi/",
+      "en": "to talk nonsense, to be confused",
+      "ar": "يتكلم كلامًا غير مفهوم",
+      "example": {
+        "pt": "Você viu o Pedro puxando saco do diretor a noite inteira?",
+        "en": "Did you see Pedro sucking up to the director all night?",
+        "ar": "هل رأيتِ بيدرو يتملق المدير طوال الليل؟"
+      }
+    },
+    {
+      "pt": "engolir sapo",
+      "ipa": "/ẽɡoˈliʁ ˈsa.pu/",
+      "en": "to swallow an insult silently",
+      "ar": "يتجرع الإهانة بصمت",
+      "example": {
+        "pt": "Você viu o Pedro puxando saco do diretor a noite inteira?",
+        "en": "Did you see Pedro sucking up to the director all night?",
+        "ar": "هل رأيتِ بيدرو يتملق المدير طوال الليل؟"
+      }
+    },
+    {
+      "pt": "bater na mesma tecla",
+      "ipa": "/baˈteʁ na ˈmez.ma ˈtɛ.kla/",
+      "en": "to harp on the same subject",
+      "ar": "يُعيد نفس الموضوع مرارًا",
+      "example": {
+        "pt": "Você viu o Pedro puxando saco do diretor a noite inteira?",
+        "en": "Did you see Pedro sucking up to the director all night?",
+        "ar": "هل رأيتِ بيدرو يتملق المدير طوال الليل؟"
+      }
+    },
+    {
+      "pt": "fazer nas coxas",
+      "ipa": "/faˈzeɾ naz ˈkɔ.ʃas/",
+      "en": "to do something hastily and sloppily",
+      "ar": "يعمل الشيء على عجل وبلا إتقان",
+      "example": {
+        "pt": "Você viu o Pedro puxando saco do diretor a noite inteira?",
+        "en": "Did you see Pedro sucking up to the director all night?",
+        "ar": "هل رأيتِ بيدرو يتملق المدير طوال الليل؟"
+      }
+    },
+    {
+      "pt": "matar a cobra e mostrar o pau",
+      "ipa": "/maˈtaɾ a ˈkɔ.bɾa i mosˈtɾaɾ u ˈpaw/",
+      "en": "to do something and prove it",
+      "ar": "يقوم بالأمر ويُثبته",
+      "example": {
+        "pt": "Você viu o Pedro puxando saco do diretor a noite inteira?",
+        "en": "Did you see Pedro sucking up to the director all night?",
+        "ar": "هل رأيتِ بيدرو يتملق المدير طوال الليل؟"
+      }
+    },
+    {
+      "pt": "ficar de orelha em pé",
+      "ipa": "/fiˈkaɾ dʒi oˈɾe.ʎa ẽj ˈpɛ/",
+      "en": "to be on alert, suspicious",
+      "ar": "يكون في حالة تأهب وارتياب",
+      "example": {
+        "pt": "Você viu o Pedro puxando saco do diretor a noite inteira?",
+        "en": "Did you see Pedro sucking up to the director all night?",
+        "ar": "هل رأيتِ بيدرو يتملق المدير طوال الليل؟"
+      }
+    },
+    {
+      "pt": "puxar saco",
+      "ipa": "/puˈʃaɾ ˈsa.ku/",
+      "en": "to suck up to someone",
+      "ar": "يتملق",
+      "example": {
+        "pt": "Você viu o Pedro puxando saco do diretor a noite inteira?",
+        "en": "Did you see Pedro sucking up to the director all night?",
+        "ar": "هل رأيتِ بيدرو يتملق المدير طوال الليل؟"
+      }
+    },
+    {
+      "pt": "deixar na mão",
+      "ipa": "/dejˈʃaɾ na ˈmɐ̃w/",
+      "en": "to leave someone in the lurch",
+      "ar": "يتركه في مأزق / يتخلى عنه",
+      "example": {
+        "pt": "Combinado. Antes eu deixar na mão ninguém do que encher linguiça até de madrugada.",
+        "en": "Deal. I would rather not leave anyone in the lurch than drag things on until dawn.",
+        "ar": "متّفق. الأفضل ألا أتخلى عن أحد بدلًا من إطالة الكلام بلا طائل حتى الفجر."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "title": {
+        "pt": "Idiomatismos e Concordância",
+        "en": "Idioms and Agreement",
+        "ar": "التعابير الاصطلاحية والمطابقة"
+      },
+      "explanation": {
+        "pt": "As expressões idiomáticas são unidades fixas: a estrutura não se altera, mas os pronomes oblíquos e a flexão verbal concordam com o sujeito. Em 'Eu puxei a brasa para a minha sardinha', o possessivo e o verbo variam; o núcleo da expressão permanece intacto. Já 'vestir a camisa' admite variação de objeto: 'vestir a camisa do time'.",
+        "en": "Idioms are fixed units: the structure does not change, but oblique pronouns and verb inflection agree with the subject. In 'Eu puxei a brasa para a minha sardinha' (I looked after my own interests), the possessive and the verb vary; the core of the expression remains intact. 'Vestir a camisa' (to commit) accepts variation of the object: 'vestir a camisa do time'.",
+        "ar": "التعابير الاصطلاحية وحدات ثابتة: لا يتغيّر بناؤها، لكن الضمائر المتصلة وتصريف الفعل يطابقان الفاعل. في جملة 'Eu puxei a brasa para a minha sardinha' (رجّحتُ كفتي)، يتغير ضمير الملكية والفعل بينما يبقى جوهر التعبير ثابتًا. أما 'vestir a camisa' (الالتزام) فيقبل تنويع المفعول: 'vestir a camisa do time'."
+      },
+      "examples": [
+        {
+          "pt": "Eu não vou deixar a peteca cair agora que estamos no fim.",
+          "en": "I am not going to give up now that we are at the end.",
+          "ar": "لن أستسلم الآن ونحن في النهاية."
+        },
+        {
+          "pt": "Ela segura vela melhor do que assiste a filme.",
+          "en": "She is a better third wheel than a movie watcher.",
+          "ar": "هي أتقن في لعب دور الطرف الثالث منها في مشاهدة الأفلام."
+        },
+        {
+          "pt": "Nós engolimos sapo a semana inteira por causa do chefe.",
+          "en": "We swallowed insults all week because of the boss.",
+          "ar": "تجرعنا الإهانات طوال الأسبوع بسبب المدير."
+        }
+      ]
+    },
+    {
+      "title": {
+        "pt": "Registro: Informal e Formal",
+        "en": "Register: Informal and Formal",
+        "ar": "المستوى: غير الرسمي والرسمي"
+      },
+      "explanation": {
+        "pt": "Quase todos os idiomatismos acima pertencem ao registro coloquial. Em contextos formais ou acadêmicos, deve-se parafrasear: em vez de 'puxar saco', diga 'ser bajulador' ou 'adular'; em vez de 'deixar na mão', use 'abandonar' ou 'não cumprir o compromisso'. O domínio do registro é um dos sinais mais fortes de proficiência no nível C2.",
+        "en": "Nearly all of the idioms above belong to the colloquial register. In formal or academic contexts, you should paraphrase: instead of 'puxar saco' (to suck up), say 'ser bajulador' or 'adular'; instead of 'deixar na mão' (to leave in the lurch), use 'abandonar' or 'não cumprir o compromisso'. Mastering register is one of the strongest signs of C2 proficiency.",
+        "ar": "تنتمي جميع هذه التعابير تقريبًا إلى المستوى غير الرسمي. في السياقات الرسمية أو الأكاديمية، يجب إعادة الصياغة: بدلًا من 'puxar saco' (يتملق) يُقال 'ser bajulador' أو 'adular'؛ وبدلًا من 'deixar na mão' (يتركه في مأزق) يُستخدم 'abandonar' أو 'não cumprir o compromisso'. إتقان المستوى اللغوي من أقوى علامات الكفاءة في المستوى C2."
+      },
+      "examples": [
+        {
+          "pt": "Formal: O orador adulava as autoridades presentes.",
+          "en": "Formal: The speaker flattered the authorities present.",
+          "ar": "رسمي: كان المتحدث يتملق المسؤولين الحاضرين."
+        },
+        {
+          "pt": "Informal: Ele passou o dia puxando saco do chefe.",
+          "en": "Informal: He spent the day sucking up to the boss.",
+          "ar": "غير رسمي: أمضى اليوم كله يتملق المدير."
+        },
+        {
+          "pt": "Formal: A empresa não cumpriu o compromisso assumido.",
+          "en": "Formal: The company did not honor its commitment.",
+          "ar": "رسمي: لم توفِّ الشركة بالتزامها."
+        }
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": {
+      "pt": "Depois da Festa",
+      "en": "After the Party",
+      "ar": "بعد الحفلة"
+    },
+    "lines": [
+      {
+        "speaker": "Clara",
+        "pt": "Você viu o Pedro puxando saco do diretor a noite inteira?",
+        "en": "Did you see Pedro sucking up to the director all night?",
+        "ar": "هل رأيتِ بيدرو يتملق المدير طوال الليل؟"
+      },
+      {
+        "speaker": "Rafael",
+        "pt": "Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.",
+        "en": "Of course I saw. He went off the rails when he tried to praise the lecture.",
+        "ar": "بالتأكيد رأيتُه. لقد تلخبط في كلامه عندما حاول مدح المحاضرة."
+      },
+      {
+        "speaker": "Clara",
+        "pt": "E a Mariana? Deixou a peteca cair de novo e não levou o relatório.",
+        "en": "And Mariana? She let things fall apart again and did not bring the report.",
+        "ar": "وماريانا؟ لقد استسلمت مجددًا ولم تحضر التقرير."
+      },
+      {
+        "speaker": "Rafael",
+        "pt": "Pois é, mas eu vou segurar vela, como sempre, e terminar o projeto sozinho.",
+        "en": "Right, but as always I'll be the one left holding the bag and finish the project alone.",
+        "ar": "صحيح، لكنني سأبقى كما هو الحال دائمًا في موقف صعب وأنهي المشروع وحدي."
+      },
+      {
+        "speaker": "Clara",
+        "pt": "Não morda a língua depois, viu? Já estou ficando de orelha em pé com essa turma.",
+        "en": "Don't eat your words later, okay? I am already getting suspicious of this crowd.",
+        "ar": "لا تتراجع عن كلامك لاحقًا، اتفقنا؟ أنا بدأت أشك في هذه المجموعة."
+      },
+      {
+        "speaker": "Rafael",
+        "pt": "Combinado. Antes eu deixar na mão ninguém do que encher linguiça até de madrugada.",
+        "en": "Deal. I would rather not leave anyone in the lurch than drag things on until dawn.",
+        "ar": "متّفق. الأفضل ألا أتخلى عن أحد بدلًا من إطالة الكلام بلا طائل حتى الفجر."
+      }
+    ]
+  },
+  "reading": {
+    "title": {
+      "pt": "O Valor do Registro",
+      "en": "The Value of Register",
+      "ar": "قيمة المستوى اللغوي"
+    },
+    "text_pt": "Na entrevista de emprego, Ana quase pagou mico ao usar uma gíria no lugar errado. Percebendo o deslize, ela remediou com elegância e vestiu a camisa da empresa nos meses seguintes. A experiência a ensinou que dominar o registro é tão importante quanto dominar o vocabulário. Hoje ela parafraseia com naturalidade, sem jamais deixar a peteca cair.",
+    "text_en": "At the job interview, Ana almost embarrassed herself by using slang in the wrong place. Noticing the slip, she remedied it with elegance and committed herself wholeheartedly to the company in the following months. The experience taught her that mastering register is as important as mastering vocabulary. Today she paraphrases with ease, without ever giving up.",
+    "text_ar": "في مقابلة العمل، كادت آنا أن تتعرض للإحراج عندما استخدمت تعبيرًا عاميًا في غير موضعه. وبعد أن لاحظت الخطأ، عالجته بأناقة والتصقت بالشركة بإخلاص في الأشهر التالية. علّمتها التجربة أن إتقان المستوى اللغوي لا يقل أهمية عن إتقان المفردات. وهي اليوم تعيد الصياغة بسهولة دون أن تستسلم أبدًا."
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual expressão significa 'contar um segredo'?",
+        "en": "Which expression means 'to tell a secret'?",
+        "ar": "ما التعبير الذي يعني 'إفشاء سر'؟"
+      },
+      "options": [
+        {
+          "pt": "morder a língua",
+          "en": "morder a língua",
+          "ar": "morder a língua"
+        },
+        {
+          "pt": "dar com a língua nos dentes",
+          "en": "dar com a língua nos dentes",
+          "ar": "dar com a língua nos dentes"
+        },
+        {
+          "pt": "chover no molhado",
+          "en": "chover no molhado",
+          "ar": "chover no molhado"
+        }
+      ],
+      "answer": "dar com a língua nos dentes",
+      "explanation": {
+        "pt": "'Dar com a língua nos dentes' é revelar, contar um segredo.",
+        "en": "'Dar com a língua nos dentes' means to reveal, to tell a secret.",
+        "ar": "التعبير 'dar com a língua nos dentes' يعني الإفصاح عن سر."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Em um texto formal, como substituir 'puxar saco'?",
+        "en": "In a formal text, how do you replace 'puxar saco'?",
+        "ar": "في نص رسمي، بماذا نستبدل 'puxar saco'؟"
+      },
+      "options": [
+        {
+          "pt": "adular",
+          "en": "adular",
+          "ar": "adular"
+        },
+        {
+          "pt": "viajar na maionese",
+          "en": "viajar na maionese",
+          "ar": "viajar na maionese"
+        },
+        {
+          "pt": "segurar vela",
+          "en": "segurar vela",
+          "ar": "segurar vela"
+        }
+      ],
+      "answer": "adular",
+      "explanation": {
+        "pt": "'Adular' é o equivalente formal de 'puxar saco'.",
+        "en": "'Adular' (to flatter) is the formal equivalent of 'puxar saco'.",
+        "ar": "الفعل 'adular' (يتملق) هو المقابل الرسمي لـ 'puxar saco'."
+      }
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: 'to eat one's words'",
+        "en": "Translate into Portuguese: 'to eat one's words'",
+        "ar": "ترجم إلى البرتغالية: 'to eat one's words'"
+      },
+      "options": [],
+      "answer": "morder a língua",
+      "explanation": {
+        "pt": "'Morder a língua' é a expressão equivalente.",
+        "en": "'Morder a língua' is the equivalent expression.",
+        "ar": "التعبير 'morder a língua' هو المكافئ."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "diretor",
+          "en": "diretor",
+          "ar": "diretor"
+        },
+        {
+          "pt": "noite",
+          "en": "noite",
+          "ar": "noite"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "viu",
+          "en": "viu",
+          "ar": "viu"
+        },
+        {
+          "pt": "Pedro",
+          "en": "Pedro",
+          "ar": "Pedro"
+        },
+        {
+          "pt": "puxando",
+          "en": "puxando",
+          "ar": "puxando"
+        },
+        {
+          "pt": "inteira?",
+          "en": "inteira?",
+          "ar": "inteira?"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "saco",
+          "en": "saco",
+          "ar": "saco"
+        }
+      ],
+      "answer": "Você viu o Pedro puxando saco do diretor a noite inteira?",
+      "accepted": [
+        "Você viu o Pedro puxando saco do diretor a noite inteira?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Você viu o Pedro puxando saco do diretor a noite inteira?'",
+        "en": "The correct order: 'Did you see Pedro sucking up to the director all night?'",
+        "ar": "الترتيب الصحيح: 'هل رأيتِ بيدرو يتملق المدير طوال الليل؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "puxar a brasa para a sua sardinha",
+          "en": "to look after one's own interests",
+          "ar": "puxar a brasa para a sua sardinha"
+        },
+        {
+          "pt": "pagar mico",
+          "en": "to pad out, to drag on pointlessly",
+          "ar": "pagar mico"
+        },
+        {
+          "pt": "dar com a língua nos dentes",
+          "en": "to be left empty-handed",
+          "ar": "dar com a língua nos dentes"
+        },
+        {
+          "pt": "encher linguiça",
+          "en": "to spill the beans",
+          "ar": "encher linguiça"
+        },
+        {
+          "pt": "chover no molhado",
+          "en": "to embarrass oneself in public",
+          "ar": "chover no molhado"
+        },
+        {
+          "pt": "ficar a ver navios",
+          "en": "to state the obvious",
+          "ar": "ficar a ver navios"
+        }
+      ],
+      "answer": "puxar a brasa para a sua sardinha::to look after one's own interests|pagar mico::to pad out, to drag on pointlessly|dar com a língua nos dentes::to be left empty-handed|encher linguiça::to spill the beans|chover no molhado::to embarrass oneself in public|ficar a ver navios::to state the obvious",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "E a Mariana? Deixou a peteca cair de novo e não levou o relatório.",
+          "en": "And Mariana? She let things fall apart again and did not bring the report.",
+          "ar": "هل رأيتِ بيدرو يتملق المدير طوال الليل؟"
+        },
+        {
+          "pt": "Você viu o Pedro puxando saco do diretor a noite inteira?",
+          "en": "Did you see Pedro sucking up to the director all night?",
+          "ar": "وماريانا؟ لقد استسلمت مجددًا ولم تحضر التقرير."
+        },
+        {
+          "pt": "Combinado. Antes eu deixar na mão ninguém do que encher linguiça até de madrugada.",
+          "en": "Deal. I would rather not leave anyone in the lurch than drag things on until dawn.",
+          "ar": "متّفق. الأفضل ألا أتخلى عن أحد بدلًا من إطالة الكلام بلا طائل حتى الفجر."
+        }
+      ],
+      "answer": "Você viu o Pedro puxando saco do diretor a noite inteira?",
+      "accepted": [],
+      "audio": "Você viu o Pedro puxando saco do diretor a noite inteira?",
+      "explanation": {
+        "pt": "Você ouviu: 'Você viu o Pedro puxando saco do diretor a noite inteira?' — 'Did you see Pedro sucking up to the director all night?'",
+        "en": "You heard: 'Você viu o Pedro puxando saco do diretor a noite inteira?' — 'Did you see Pedro sucking up to the director all night?'",
+        "ar": "سمعت: 'Você viu o Pedro puxando saco do diretor a noite inteira?' — 'هل رأيتِ بيدرو يتملق المدير طوال الليل؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.",
+          "en": "And Mariana? She let things fall apart again and did not bring the report.",
+          "ar": "وماريانا؟ لقد استسلمت مجددًا ولم تحضر التقرير."
+        },
+        {
+          "pt": "E a Mariana? Deixou a peteca cair de novo e não levou o relatório.",
+          "en": "Of course I saw. He went off the rails when he tried to praise the lecture.",
+          "ar": "صحيح، لكنني سأبقى كما هو الحال دائمًا في موقف صعب وأنهي المشروع وحدي."
+        },
+        {
+          "pt": "Pois é, mas eu vou segurar vela, como sempre, e terminar o projeto sozinho.",
+          "en": "Right, but as always I'll be the one left holding the bag and finish the project alone.",
+          "ar": "بالتأكيد رأيتُه. لقد تلخبط في كلامه عندما حاول مدح المحاضرة."
+        }
+      ],
+      "answer": "Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.",
+      "accepted": [],
+      "audio": "Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.",
+      "explanation": {
+        "pt": "Você ouviu: 'Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.' — 'Of course I saw. He went off the rails when he tried to praise the lecture.'",
+        "en": "You heard: 'Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.' — 'Of course I saw. He went off the rails when he tried to praise the lecture.'",
+        "ar": "سمعت: 'Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.' — 'بالتأكيد رأيتُه. لقد تلخبط في كلامه عندما حاول مدح المحاضرة.'"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Eu não vou deixar a peteca cair agora que estamos ___ fim.",
+        "en": "Eu não vou deixar a peteca cair agora que estamos ___ fim.",
+        "ar": "Eu não vou deixar a peteca cair agora que estamos ___ fim."
+      },
+      "options": [
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "melhor",
+          "en": "melhor",
+          "ar": "melhor"
+        },
+        {
+          "pt": "no",
+          "en": "no",
+          "ar": "no"
+        }
+      ],
+      "answer": "no",
+      "accepted": [],
+      "explanation": {
+        "pt": "A resposta é 'no'. Frase completa: Eu não vou deixar a peteca cair agora que estamos no fim.",
+        "en": "The answer is 'no'. Full sentence: I am not going to give up now that we are at the end.",
+        "ar": "الإجابة الصحيحة: 'no'. الجملة كاملة: لن أستسلم الآن ونحن في النهاية."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "viu",
+          "en": "viu",
+          "ar": "viu"
+        },
+        {
+          "pt": "diretor",
+          "en": "diretor",
+          "ar": "diretor"
+        },
+        {
+          "pt": "puxando",
+          "en": "puxando",
+          "ar": "puxando"
+        },
+        {
+          "pt": "noite",
+          "en": "noite",
+          "ar": "noite"
+        },
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        },
+        {
+          "pt": "Pedro",
+          "en": "Pedro",
+          "ar": "Pedro"
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "inteira?",
+          "en": "inteira?",
+          "ar": "inteira?"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "saco",
+          "en": "saco",
+          "ar": "saco"
+        }
+      ],
+      "answer": "Você viu o Pedro puxando saco do diretor a noite inteira?",
+      "accepted": [
+        "Você viu o Pedro puxando saco do diretor a noite inteira?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Você viu o Pedro puxando saco do diretor a noite inteira?'",
+        "en": "The correct order: 'Did you see Pedro sucking up to the director all night?'",
+        "ar": "الترتيب الصحيح: 'هل رأيتِ بيدرو يتملق المدير طوال الليل؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "ficar a ver navios",
+          "en": "to spill the beans",
+          "ar": "ficar a ver navios"
+        },
+        {
+          "pt": "dar com a língua nos dentes",
+          "en": "to look after one's own interests",
+          "ar": "dar com a língua nos dentes"
+        },
+        {
+          "pt": "pagar mico",
+          "en": "to embarrass oneself in public",
+          "ar": "pagar mico"
+        },
+        {
+          "pt": "chover no molhado",
+          "en": "to be left empty-handed",
+          "ar": "chover no molhado"
+        },
+        {
+          "pt": "encher linguiça",
+          "en": "to state the obvious",
+          "ar": "encher linguiça"
+        },
+        {
+          "pt": "puxar a brasa para a sua sardinha",
+          "en": "to pad out, to drag on pointlessly",
+          "ar": "puxar a brasa para a sua sardinha"
+        }
+      ],
+      "answer": "ficar a ver navios::to spill the beans|dar com a língua nos dentes::to look after one's own interests|pagar mico::to embarrass oneself in public|chover no molhado::to be left empty-handed|encher linguiça::to state the obvious|puxar a brasa para a sua sardinha::to pad out, to drag on pointlessly",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Pois é, mas eu vou segurar vela, como sempre, e terminar o projeto sozinho.",
+          "en": "Did you see Pedro sucking up to the director all night?",
+          "ar": "بالتأكيد رأيتُه. لقد تلخبط في كلامه عندما حاول مدح المحاضرة."
+        },
+        {
+          "pt": "Você viu o Pedro puxando saco do diretor a noite inteira?",
+          "en": "Of course I saw. He went off the rails when he tried to praise the lecture.",
+          "ar": "صحيح، لكنني سأبقى كما هو الحال دائمًا في موقف صعب وأنهي المشروع وحدي."
+        },
+        {
+          "pt": "Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.",
+          "en": "Right, but as always I'll be the one left holding the bag and finish the project alone.",
+          "ar": "هل رأيتِ بيدرو يتملق المدير طوال الليل؟"
+        }
+      ],
+      "answer": "Você viu o Pedro puxando saco do diretor a noite inteira?",
+      "accepted": [],
+      "audio": "Você viu o Pedro puxando saco do diretor a noite inteira?",
+      "explanation": {
+        "pt": "Você ouviu: 'Você viu o Pedro puxando saco do diretor a noite inteira?' — 'Did you see Pedro sucking up to the director all night?'",
+        "en": "You heard: 'Você viu o Pedro puxando saco do diretor a noite inteira?' — 'Did you see Pedro sucking up to the director all night?'",
+        "ar": "سمعت: 'Você viu o Pedro puxando saco do diretor a noite inteira?' — 'هل رأيتِ بيدرو يتملق المدير طوال الليل؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Pois é, mas eu vou segurar vela, como sempre, e terminar o projeto sozinho.",
+          "en": "Of course I saw. He went off the rails when he tried to praise the lecture.",
+          "ar": "لا تتراجع عن كلامك لاحقًا، اتفقنا؟ أنا بدأت أشك في هذه المجموعة."
+        },
+        {
+          "pt": "Não morda a língua depois, viu? Já estou ficando de orelha em pé com essa turma.",
+          "en": "Don't eat your words later, okay? I am already getting suspicious of this crowd.",
+          "ar": "بالتأكيد رأيتُه. لقد تلخبط في كلامه عندما حاول مدح المحاضرة."
+        },
+        {
+          "pt": "Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.",
+          "en": "Right, but as always I'll be the one left holding the bag and finish the project alone.",
+          "ar": "صحيح، لكنني سأبقى كما هو الحال دائمًا في موقف صعب وأنهي المشروع وحدي."
+        }
+      ],
+      "answer": "Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.",
+      "accepted": [],
+      "audio": "Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.",
+      "explanation": {
+        "pt": "Você ouviu: 'Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.' — 'Of course I saw. He went off the rails when he tried to praise the lecture.'",
+        "en": "You heard: 'Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.' — 'Of course I saw. He went off the rails when he tried to praise the lecture.'",
+        "ar": "سمعت: 'Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.' — 'بالتأكيد رأيتُه. لقد تلخبط في كلامه عندما حاول مدح المحاضرة.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "puxando",
+          "en": "puxando",
+          "ar": "puxando"
+        },
+        {
+          "pt": "saco",
+          "en": "saco",
+          "ar": "saco"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        },
+        {
+          "pt": "Pedro",
+          "en": "Pedro",
+          "ar": "Pedro"
+        },
+        {
+          "pt": "inteira?",
+          "en": "inteira?",
+          "ar": "inteira?"
+        },
+        {
+          "pt": "diretor",
+          "en": "diretor",
+          "ar": "diretor"
+        },
+        {
+          "pt": "viu",
+          "en": "viu",
+          "ar": "viu"
+        },
+        {
+          "pt": "noite",
+          "en": "noite",
+          "ar": "noite"
+        }
+      ],
+      "answer": "Você viu o Pedro puxando saco do diretor a noite inteira?",
+      "accepted": [
+        "Você viu o Pedro puxando saco do diretor a noite inteira?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Você viu o Pedro puxando saco do diretor a noite inteira?'",
+        "en": "The correct order: 'Did you see Pedro sucking up to the director all night?'",
+        "ar": "الترتيب الصحيح: 'هل رأيتِ بيدرو يتملق المدير طوال الليل؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "dar com a língua nos dentes",
+          "en": "to pad out, to drag on pointlessly",
+          "ar": "dar com a língua nos dentes"
+        },
+        {
+          "pt": "chover no molhado",
+          "en": "to be left empty-handed",
+          "ar": "chover no molhado"
+        },
+        {
+          "pt": "puxar a brasa para a sua sardinha",
+          "en": "to look after one's own interests",
+          "ar": "puxar a brasa para a sua sardinha"
+        },
+        {
+          "pt": "encher linguiça",
+          "en": "to spill the beans",
+          "ar": "encher linguiça"
+        },
+        {
+          "pt": "pagar mico",
+          "en": "to embarrass oneself in public",
+          "ar": "pagar mico"
+        },
+        {
+          "pt": "ficar a ver navios",
+          "en": "to state the obvious",
+          "ar": "ficar a ver navios"
+        }
+      ],
+      "answer": "dar com a língua nos dentes::to pad out, to drag on pointlessly|chover no molhado::to be left empty-handed|puxar a brasa para a sua sardinha::to look after one's own interests|encher linguiça::to spill the beans|pagar mico::to embarrass oneself in public|ficar a ver navios::to state the obvious",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Você viu o Pedro puxando saco do diretor a noite inteira?",
+          "en": "Did you see Pedro sucking up to the director all night?",
+          "ar": "هل رأيتِ بيدرو يتملق المدير طوال الليل؟"
+        },
+        {
+          "pt": "E a Mariana? Deixou a peteca cair de novo e não levou o relatório.",
+          "en": "Don't eat your words later, okay? I am already getting suspicious of this crowd.",
+          "ar": "لا تتراجع عن كلامك لاحقًا، اتفقنا؟ أنا بدأت أشك في هذه المجموعة."
+        },
+        {
+          "pt": "Não morda a língua depois, viu? Já estou ficando de orelha em pé com essa turma.",
+          "en": "And Mariana? She let things fall apart again and did not bring the report.",
+          "ar": "وماريانا؟ لقد استسلمت مجددًا ولم تحضر التقرير."
+        }
+      ],
+      "answer": "Você viu o Pedro puxando saco do diretor a noite inteira?",
+      "accepted": [],
+      "audio": "Você viu o Pedro puxando saco do diretor a noite inteira?",
+      "explanation": {
+        "pt": "Você ouviu: 'Você viu o Pedro puxando saco do diretor a noite inteira?' — 'Did you see Pedro sucking up to the director all night?'",
+        "en": "You heard: 'Você viu o Pedro puxando saco do diretor a noite inteira?' — 'Did you see Pedro sucking up to the director all night?'",
+        "ar": "سمعت: 'Você viu o Pedro puxando saco do diretor a noite inteira?' — 'هل رأيتِ بيدرو يتملق المدير طوال الليل؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.",
+          "en": "Of course I saw. He went off the rails when he tried to praise the lecture.",
+          "ar": "صحيح، لكنني سأبقى كما هو الحال دائمًا في موقف صعب وأنهي المشروع وحدي."
+        },
+        {
+          "pt": "Pois é, mas eu vou segurar vela, como sempre, e terminar o projeto sozinho.",
+          "en": "Right, but as always I'll be the one left holding the bag and finish the project alone.",
+          "ar": "هل رأيتِ بيدرو يتملق المدير طوال الليل؟"
+        },
+        {
+          "pt": "Você viu o Pedro puxando saco do diretor a noite inteira?",
+          "en": "Did you see Pedro sucking up to the director all night?",
+          "ar": "بالتأكيد رأيتُه. لقد تلخبط في كلامه عندما حاول مدح المحاضرة."
+        }
+      ],
+      "answer": "Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.",
+      "accepted": [],
+      "audio": "Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.",
+      "explanation": {
+        "pt": "Você ouviu: 'Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.' — 'Of course I saw. He went off the rails when he tried to praise the lecture.'",
+        "en": "You heard: 'Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.' — 'Of course I saw. He went off the rails when he tried to praise the lecture.'",
+        "ar": "سمعت: 'Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.' — 'بالتأكيد رأيتُه. لقد تلخبط في كلامه عندما حاول مدح المحاضرة.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "Pedro",
+          "en": "Pedro",
+          "ar": "Pedro"
+        },
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        },
+        {
+          "pt": "diretor",
+          "en": "diretor",
+          "ar": "diretor"
+        },
+        {
+          "pt": "viu",
+          "en": "viu",
+          "ar": "viu"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "saco",
+          "en": "saco",
+          "ar": "saco"
+        },
+        {
+          "pt": "inteira?",
+          "en": "inteira?",
+          "ar": "inteira?"
+        },
+        {
+          "pt": "noite",
+          "en": "noite",
+          "ar": "noite"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "puxando",
+          "en": "puxando",
+          "ar": "puxando"
+        }
+      ],
+      "answer": "Você viu o Pedro puxando saco do diretor a noite inteira?",
+      "accepted": [
+        "Você viu o Pedro puxando saco do diretor a noite inteira?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Você viu o Pedro puxando saco do diretor a noite inteira?'",
+        "en": "The correct order: 'Did you see Pedro sucking up to the director all night?'",
+        "ar": "الترتيب الصحيح: 'هل رأيتِ بيدرو يتملق المدير طوال الليل؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "ficar a ver navios",
+          "en": "to be left empty-handed",
+          "ar": "ficar a ver navios"
+        },
+        {
+          "pt": "dar com a língua nos dentes",
+          "en": "to state the obvious",
+          "ar": "dar com a língua nos dentes"
+        },
+        {
+          "pt": "pagar mico",
+          "en": "to pad out, to drag on pointlessly",
+          "ar": "pagar mico"
+        },
+        {
+          "pt": "chover no molhado",
+          "en": "to embarrass oneself in public",
+          "ar": "chover no molhado"
+        },
+        {
+          "pt": "encher linguiça",
+          "en": "to spill the beans",
+          "ar": "encher linguiça"
+        },
+        {
+          "pt": "puxar a brasa para a sua sardinha",
+          "en": "to look after one's own interests",
+          "ar": "puxar a brasa para a sua sardinha"
+        }
+      ],
+      "answer": "ficar a ver navios::to be left empty-handed|dar com a língua nos dentes::to state the obvious|pagar mico::to pad out, to drag on pointlessly|chover no molhado::to embarrass oneself in public|encher linguiça::to spill the beans|puxar a brasa para a sua sardinha::to look after one's own interests",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Você viu o Pedro puxando saco do diretor a noite inteira?",
+          "en": "Right, but as always I'll be the one left holding the bag and finish the project alone.",
+          "ar": "لا تتراجع عن كلامك لاحقًا، اتفقنا؟ أنا بدأت أشك في هذه المجموعة."
+        },
+        {
+          "pt": "Pois é, mas eu vou segurar vela, como sempre, e terminar o projeto sozinho.",
+          "en": "Don't eat your words later, okay? I am already getting suspicious of this crowd.",
+          "ar": "هل رأيتِ بيدرو يتملق المدير طوال الليل؟"
+        },
+        {
+          "pt": "Não morda a língua depois, viu? Já estou ficando de orelha em pé com essa turma.",
+          "en": "Did you see Pedro sucking up to the director all night?",
+          "ar": "صحيح، لكنني سأبقى كما هو الحال دائمًا في موقف صعب وأنهي المشروع وحدي."
+        }
+      ],
+      "answer": "Você viu o Pedro puxando saco do diretor a noite inteira?",
+      "accepted": [],
+      "audio": "Você viu o Pedro puxando saco do diretor a noite inteira?",
+      "explanation": {
+        "pt": "Você ouviu: 'Você viu o Pedro puxando saco do diretor a noite inteira?' — 'Did you see Pedro sucking up to the director all night?'",
+        "en": "You heard: 'Você viu o Pedro puxando saco do diretor a noite inteira?' — 'Did you see Pedro sucking up to the director all night?'",
+        "ar": "سمعت: 'Você viu o Pedro puxando saco do diretor a noite inteira?' — 'هل رأيتِ بيدرو يتملق المدير طوال الليل؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Você viu o Pedro puxando saco do diretor a noite inteira?",
+          "en": "And Mariana? She let things fall apart again and did not bring the report.",
+          "ar": "وماريانا؟ لقد استسلمت مجددًا ولم تحضر التقرير."
+        },
+        {
+          "pt": "Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.",
+          "en": "Did you see Pedro sucking up to the director all night?",
+          "ar": "هل رأيتِ بيدرو يتملق المدير طوال الليل؟"
+        },
+        {
+          "pt": "E a Mariana? Deixou a peteca cair de novo e não levou o relatório.",
+          "en": "Of course I saw. He went off the rails when he tried to praise the lecture.",
+          "ar": "بالتأكيد رأيتُه. لقد تلخبط في كلامه عندما حاول مدح المحاضرة."
+        }
+      ],
+      "answer": "Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.",
+      "accepted": [],
+      "audio": "Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.",
+      "explanation": {
+        "pt": "Você ouviu: 'Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.' — 'Of course I saw. He went off the rails when he tried to praise the lecture.'",
+        "en": "You heard: 'Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.' — 'Of course I saw. He went off the rails when he tried to praise the lecture.'",
+        "ar": "سمعت: 'Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.' — 'بالتأكيد رأيتُه. لقد تلخبط في كلامه عندما حاول مدح المحاضرة.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "puxando",
+          "en": "puxando",
+          "ar": "puxando"
+        },
+        {
+          "pt": "inteira?",
+          "en": "inteira?",
+          "ar": "inteira?"
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "viu",
+          "en": "viu",
+          "ar": "viu"
+        },
+        {
+          "pt": "diretor",
+          "en": "diretor",
+          "ar": "diretor"
+        },
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "noite",
+          "en": "noite",
+          "ar": "noite"
+        },
+        {
+          "pt": "saco",
+          "en": "saco",
+          "ar": "saco"
+        },
+        {
+          "pt": "Pedro",
+          "en": "Pedro",
+          "ar": "Pedro"
+        }
+      ],
+      "answer": "Você viu o Pedro puxando saco do diretor a noite inteira?",
+      "accepted": [
+        "Você viu o Pedro puxando saco do diretor a noite inteira?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Você viu o Pedro puxando saco do diretor a noite inteira?'",
+        "en": "The correct order: 'Did you see Pedro sucking up to the director all night?'",
+        "ar": "الترتيب الصحيح: 'هل رأيتِ بيدرو يتملق المدير طوال الليل؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "dar com a língua nos dentes",
+          "en": "to state the obvious",
+          "ar": "dar com a língua nos dentes"
+        },
+        {
+          "pt": "chover no molhado",
+          "en": "to pad out, to drag on pointlessly",
+          "ar": "chover no molhado"
+        },
+        {
+          "pt": "encher linguiça",
+          "en": "to spill the beans",
+          "ar": "encher linguiça"
+        },
+        {
+          "pt": "puxar a brasa para a sua sardinha",
+          "en": "to embarrass oneself in public",
+          "ar": "puxar a brasa para a sua sardinha"
+        },
+        {
+          "pt": "ficar a ver navios",
+          "en": "to be left empty-handed",
+          "ar": "ficar a ver navios"
+        },
+        {
+          "pt": "pagar mico",
+          "en": "to look after one's own interests",
+          "ar": "pagar mico"
+        }
+      ],
+      "answer": "dar com a língua nos dentes::to state the obvious|chover no molhado::to pad out, to drag on pointlessly|encher linguiça::to spill the beans|puxar a brasa para a sua sardinha::to embarrass oneself in public|ficar a ver navios::to be left empty-handed|pagar mico::to look after one's own interests",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Você viu o Pedro puxando saco do diretor a noite inteira?",
+          "en": "Deal. I would rather not leave anyone in the lurch than drag things on until dawn.",
+          "ar": "لا تتراجع عن كلامك لاحقًا، اتفقنا؟ أنا بدأت أشك في هذه المجموعة."
+        },
+        {
+          "pt": "Não morda a língua depois, viu? Já estou ficando de orelha em pé com essa turma.",
+          "en": "Did you see Pedro sucking up to the director all night?",
+          "ar": "هل رأيتِ بيدرو يتملق المدير طوال الليل؟"
+        },
+        {
+          "pt": "Combinado. Antes eu deixar na mão ninguém do que encher linguiça até de madrugada.",
+          "en": "Don't eat your words later, okay? I am already getting suspicious of this crowd.",
+          "ar": "متّفق. الأفضل ألا أتخلى عن أحد بدلًا من إطالة الكلام بلا طائل حتى الفجر."
+        }
+      ],
+      "answer": "Você viu o Pedro puxando saco do diretor a noite inteira?",
+      "accepted": [],
+      "audio": "Você viu o Pedro puxando saco do diretor a noite inteira?",
+      "explanation": {
+        "pt": "Você ouviu: 'Você viu o Pedro puxando saco do diretor a noite inteira?' — 'Did you see Pedro sucking up to the director all night?'",
+        "en": "You heard: 'Você viu o Pedro puxando saco do diretor a noite inteira?' — 'Did you see Pedro sucking up to the director all night?'",
+        "ar": "سمعت: 'Você viu o Pedro puxando saco do diretor a noite inteira?' — 'هل رأيتِ بيدرو يتملق المدير طوال الليل؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.",
+          "en": "Of course I saw. He went off the rails when he tried to praise the lecture.",
+          "ar": "بالتأكيد رأيتُه. لقد تلخبط في كلامه عندما حاول مدح المحاضرة."
+        },
+        {
+          "pt": "E a Mariana? Deixou a peteca cair de novo e não levou o relatório.",
+          "en": "And Mariana? She let things fall apart again and did not bring the report.",
+          "ar": "لا تتراجع عن كلامك لاحقًا، اتفقنا؟ أنا بدأت أشك في هذه المجموعة."
+        },
+        {
+          "pt": "Não morda a língua depois, viu? Já estou ficando de orelha em pé com essa turma.",
+          "en": "Don't eat your words later, okay? I am already getting suspicious of this crowd.",
+          "ar": "وماريانا؟ لقد استسلمت مجددًا ولم تحضر التقرير."
+        }
+      ],
+      "answer": "Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.",
+      "accepted": [],
+      "audio": "Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.",
+      "explanation": {
+        "pt": "Você ouviu: 'Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.' — 'Of course I saw. He went off the rails when he tried to praise the lecture.'",
+        "en": "You heard: 'Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.' — 'Of course I saw. He went off the rails when he tried to praise the lecture.'",
+        "ar": "سمعت: 'Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.' — 'بالتأكيد رأيتُه. لقد تلخبط في كلامه عندما حاول مدح المحاضرة.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "viu",
+          "en": "viu",
+          "ar": "viu"
+        },
+        {
+          "pt": "diretor",
+          "en": "diretor",
+          "ar": "diretor"
+        },
+        {
+          "pt": "puxando",
+          "en": "puxando",
+          "ar": "puxando"
+        },
+        {
+          "pt": "inteira?",
+          "en": "inteira?",
+          "ar": "inteira?"
+        },
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "Pedro",
+          "en": "Pedro",
+          "ar": "Pedro"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "noite",
+          "en": "noite",
+          "ar": "noite"
+        },
+        {
+          "pt": "saco",
+          "en": "saco",
+          "ar": "saco"
+        }
+      ],
+      "answer": "Você viu o Pedro puxando saco do diretor a noite inteira?",
+      "accepted": [
+        "Você viu o Pedro puxando saco do diretor a noite inteira?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Você viu o Pedro puxando saco do diretor a noite inteira?'",
+        "en": "The correct order: 'Did you see Pedro sucking up to the director all night?'",
+        "ar": "الترتيب الصحيح: 'هل رأيتِ بيدرو يتملق المدير طوال الليل؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "pagar mico",
+          "en": "to look after one's own interests",
+          "ar": "pagar mico"
+        },
+        {
+          "pt": "ficar a ver navios",
+          "en": "to spill the beans",
+          "ar": "ficar a ver navios"
+        },
+        {
+          "pt": "dar com a língua nos dentes",
+          "en": "to pad out, to drag on pointlessly",
+          "ar": "dar com a língua nos dentes"
+        },
+        {
+          "pt": "puxar a brasa para a sua sardinha",
+          "en": "to be left empty-handed",
+          "ar": "puxar a brasa para a sua sardinha"
+        },
+        {
+          "pt": "chover no molhado",
+          "en": "to state the obvious",
+          "ar": "chover no molhado"
+        },
+        {
+          "pt": "encher linguiça",
+          "en": "to embarrass oneself in public",
+          "ar": "encher linguiça"
+        }
+      ],
+      "answer": "pagar mico::to look after one's own interests|ficar a ver navios::to spill the beans|dar com a língua nos dentes::to pad out, to drag on pointlessly|puxar a brasa para a sua sardinha::to be left empty-handed|chover no molhado::to state the obvious|encher linguiça::to embarrass oneself in public",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Você viu o Pedro puxando saco do diretor a noite inteira?",
+          "en": "Did you see Pedro sucking up to the director all night?",
+          "ar": "لا تتراجع عن كلامك لاحقًا، اتفقنا؟ أنا بدأت أشك في هذه المجموعة."
+        },
+        {
+          "pt": "Pois é, mas eu vou segurar vela, como sempre, e terminar o projeto sozinho.",
+          "en": "Don't eat your words later, okay? I am already getting suspicious of this crowd.",
+          "ar": "صحيح، لكنني سأبقى كما هو الحال دائمًا في موقف صعب وأنهي المشروع وحدي."
+        },
+        {
+          "pt": "Não morda a língua depois, viu? Já estou ficando de orelha em pé com essa turma.",
+          "en": "Right, but as always I'll be the one left holding the bag and finish the project alone.",
+          "ar": "هل رأيتِ بيدرو يتملق المدير طوال الليل؟"
+        }
+      ],
+      "answer": "Você viu o Pedro puxando saco do diretor a noite inteira?",
+      "accepted": [],
+      "audio": "Você viu o Pedro puxando saco do diretor a noite inteira?",
+      "explanation": {
+        "pt": "Você ouviu: 'Você viu o Pedro puxando saco do diretor a noite inteira?' — 'Did you see Pedro sucking up to the director all night?'",
+        "en": "You heard: 'Você viu o Pedro puxando saco do diretor a noite inteira?' — 'Did you see Pedro sucking up to the director all night?'",
+        "ar": "سمعت: 'Você viu o Pedro puxando saco do diretor a noite inteira?' — 'هل رأيتِ بيدرو يتملق المدير طوال الليل؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "E a Mariana? Deixou a peteca cair de novo e não levou o relatório.",
+          "en": "Of course I saw. He went off the rails when he tried to praise the lecture.",
+          "ar": "وماريانا؟ لقد استسلمت مجددًا ولم تحضر التقرير."
+        },
+        {
+          "pt": "Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.",
+          "en": "Don't eat your words later, okay? I am already getting suspicious of this crowd.",
+          "ar": "لا تتراجع عن كلامك لاحقًا، اتفقنا؟ أنا بدأت أشك في هذه المجموعة."
+        },
+        {
+          "pt": "Não morda a língua depois, viu? Já estou ficando de orelha em pé com essa turma.",
+          "en": "And Mariana? She let things fall apart again and did not bring the report.",
+          "ar": "بالتأكيد رأيتُه. لقد تلخبط في كلامه عندما حاول مدح المحاضرة."
+        }
+      ],
+      "answer": "Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.",
+      "accepted": [],
+      "audio": "Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.",
+      "explanation": {
+        "pt": "Você ouviu: 'Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.' — 'Of course I saw. He went off the rails when he tried to praise the lecture.'",
+        "en": "You heard: 'Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.' — 'Of course I saw. He went off the rails when he tried to praise the lecture.'",
+        "ar": "سمعت: 'Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.' — 'بالتأكيد رأيتُه. لقد تلخبط في كلامه عندما حاول مدح المحاضرة.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "puxando",
+          "en": "puxando",
+          "ar": "puxando"
+        },
+        {
+          "pt": "diretor",
+          "en": "diretor",
+          "ar": "diretor"
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "inteira?",
+          "en": "inteira?",
+          "ar": "inteira?"
+        },
+        {
+          "pt": "Pedro",
+          "en": "Pedro",
+          "ar": "Pedro"
+        },
+        {
+          "pt": "saco",
+          "en": "saco",
+          "ar": "saco"
+        },
+        {
+          "pt": "noite",
+          "en": "noite",
+          "ar": "noite"
+        },
+        {
+          "pt": "viu",
+          "en": "viu",
+          "ar": "viu"
+        },
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        }
+      ],
+      "answer": "Você viu o Pedro puxando saco do diretor a noite inteira?",
+      "accepted": [
+        "Você viu o Pedro puxando saco do diretor a noite inteira?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Você viu o Pedro puxando saco do diretor a noite inteira?'",
+        "en": "The correct order: 'Did you see Pedro sucking up to the director all night?'",
+        "ar": "الترتيب الصحيح: 'هل رأيتِ بيدرو يتملق المدير طوال الليل؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "puxar a brasa para a sua sardinha",
+          "en": "to state the obvious",
+          "ar": "puxar a brasa para a sua sardinha"
+        },
+        {
+          "pt": "chover no molhado",
+          "en": "to spill the beans",
+          "ar": "chover no molhado"
+        },
+        {
+          "pt": "dar com a língua nos dentes",
+          "en": "to embarrass oneself in public",
+          "ar": "dar com a língua nos dentes"
+        },
+        {
+          "pt": "ficar a ver navios",
+          "en": "to be left empty-handed",
+          "ar": "ficar a ver navios"
+        },
+        {
+          "pt": "encher linguiça",
+          "en": "to pad out, to drag on pointlessly",
+          "ar": "encher linguiça"
+        },
+        {
+          "pt": "pagar mico",
+          "en": "to look after one's own interests",
+          "ar": "pagar mico"
+        }
+      ],
+      "answer": "puxar a brasa para a sua sardinha::to state the obvious|chover no molhado::to spill the beans|dar com a língua nos dentes::to embarrass oneself in public|ficar a ver navios::to be left empty-handed|encher linguiça::to pad out, to drag on pointlessly|pagar mico::to look after one's own interests",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Não morda a língua depois, viu? Já estou ficando de orelha em pé com essa turma.",
+          "en": "And Mariana? She let things fall apart again and did not bring the report.",
+          "ar": "لا تتراجع عن كلامك لاحقًا، اتفقنا؟ أنا بدأت أشك في هذه المجموعة."
+        },
+        {
+          "pt": "Você viu o Pedro puxando saco do diretor a noite inteira?",
+          "en": "Did you see Pedro sucking up to the director all night?",
+          "ar": "وماريانا؟ لقد استسلمت مجددًا ولم تحضر التقرير."
+        },
+        {
+          "pt": "E a Mariana? Deixou a peteca cair de novo e não levou o relatório.",
+          "en": "Don't eat your words later, okay? I am already getting suspicious of this crowd.",
+          "ar": "هل رأيتِ بيدرو يتملق المدير طوال الليل؟"
+        }
+      ],
+      "answer": "Você viu o Pedro puxando saco do diretor a noite inteira?",
+      "accepted": [],
+      "audio": "Você viu o Pedro puxando saco do diretor a noite inteira?",
+      "explanation": {
+        "pt": "Você ouviu: 'Você viu o Pedro puxando saco do diretor a noite inteira?' — 'Did you see Pedro sucking up to the director all night?'",
+        "en": "You heard: 'Você viu o Pedro puxando saco do diretor a noite inteira?' — 'Did you see Pedro sucking up to the director all night?'",
+        "ar": "سمعت: 'Você viu o Pedro puxando saco do diretor a noite inteira?' — 'هل رأيتِ بيدرو يتملق المدير طوال الليل؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Você viu o Pedro puxando saco do diretor a noite inteira?",
+          "en": "Did you see Pedro sucking up to the director all night?",
+          "ar": "لا تتراجع عن كلامك لاحقًا، اتفقنا؟ أنا بدأت أشك في هذه المجموعة."
+        },
+        {
+          "pt": "Não morda a língua depois, viu? Já estou ficando de orelha em pé com essa turma.",
+          "en": "Of course I saw. He went off the rails when he tried to praise the lecture.",
+          "ar": "هل رأيتِ بيدرو يتملق المدير طوال الليل؟"
+        },
+        {
+          "pt": "Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.",
+          "en": "Don't eat your words later, okay? I am already getting suspicious of this crowd.",
+          "ar": "بالتأكيد رأيتُه. لقد تلخبط في كلامه عندما حاول مدح المحاضرة."
+        }
+      ],
+      "answer": "Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.",
+      "accepted": [],
+      "audio": "Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.",
+      "explanation": {
+        "pt": "Você ouviu: 'Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.' — 'Of course I saw. He went off the rails when he tried to praise the lecture.'",
+        "en": "You heard: 'Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.' — 'Of course I saw. He went off the rails when he tried to praise the lecture.'",
+        "ar": "سمعت: 'Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.' — 'بالتأكيد رأيتُه. لقد تلخبط في كلامه عندما حاول مدح المحاضرة.'"
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'to embarrass oneself in public'",
+        "en": "Type in Portuguese: 'to embarrass oneself in public'",
+        "ar": "اكتب بالبرتغالية: 'يحرج نفسه أمام الناس'"
+      },
+      "options": [],
+      "answer": "pagar mico",
+      "accepted": [
+        "pagar mico"
+      ],
+      "explanation": {
+        "pt": "'pagar mico' significa 'to embarrass oneself in public'.",
+        "en": "'pagar mico' means 'to embarrass oneself in public'.",
+        "ar": "'$pagar mico' بالعربية: '$يحرج نفسه أمام الناس'."
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'to be left empty-handed'",
+        "en": "Type in Portuguese: 'to be left empty-handed'",
+        "ar": "اكتب بالبرتغالية: 'يخسر كل شيء / يظل بلا شيء'"
+      },
+      "options": [],
+      "answer": "ficar a ver navios",
+      "accepted": [
+        "ficar a ver navios"
+      ],
+      "explanation": {
+        "pt": "'ficar a ver navios' significa 'to be left empty-handed'.",
+        "en": "'ficar a ver navios' means 'to be left empty-handed'.",
+        "ar": "'$ficar a ver navios' بالعربية: '$يخسر كل شيء / يظل بلا شيء'."
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.",
+          "en": "Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.",
+          "ar": "Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra."
+        },
+        {
+          "pt": "Combinado. Antes eu deixar na mão ninguém do que encher linguiça até de madrugada.",
+          "en": "Combinado. Antes eu deixar na mão ninguém do que encher linguiça até de madrugada.",
+          "ar": "Combinado. Antes eu deixar na mão ninguém do que encher linguiça até de madrugada."
+        },
+        {
+          "pt": "Você viu o Pedro puxando saco do diretor a noite inteira?",
+          "en": "Você viu o Pedro puxando saco do diretor a noite inteira?",
+          "ar": "Você viu o Pedro puxando saco do diretor a noite inteira?"
+        }
+      ],
+      "answer": "Você viu o Pedro puxando saco do diretor a noite inteira?",
+      "accepted": [],
+      "audio": "Você viu o Pedro puxando saco do diretor a noite inteira?",
+      "explanation": {
+        "pt": "Você ouviu: 'Você viu o Pedro puxando saco do diretor a noite inteira?'",
+        "en": "You heard: 'Você viu o Pedro puxando saco do diretor a noite inteira?'",
+        "ar": "سمعت: 'Você viu o Pedro puxando saco do diretor a noite inteira?'"
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.",
+          "en": "Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.",
+          "ar": "Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra."
+        },
+        {
+          "pt": "E a Mariana? Deixou a peteca cair de novo e não levou o relatório.",
+          "en": "E a Mariana? Deixou a peteca cair de novo e não levou o relatório.",
+          "ar": "E a Mariana? Deixou a peteca cair de novo e não levou o relatório."
+        },
+        {
+          "pt": "Pois é, mas eu vou segurar vela, como sempre, e terminar o projeto sozinho.",
+          "en": "Pois é, mas eu vou segurar vela, como sempre, e terminar o projeto sozinho.",
+          "ar": "Pois é, mas eu vou segurar vela, como sempre, e terminar o projeto sozinho."
+        }
+      ],
+      "answer": "Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.",
+      "accepted": [],
+      "audio": "Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.",
+      "explanation": {
+        "pt": "Você ouviu: 'Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.'",
+        "en": "You heard: 'Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.'",
+        "ar": "سمعت: 'Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.'"
+      }
+    },
+    {
+      "type": "dictation",
+      "prompt": {
+        "pt": "Ouça e escreva o que você ouviu.",
+        "en": "Listen and type what you hear.",
+        "ar": "استمع واكتب ما سمعته."
+      },
+      "options": [],
+      "answer": "Você viu o Pedro puxando saco do diretor a noite inteira?",
+      "accepted": [],
+      "audio": "Você viu o Pedro puxando saco do diretor a noite inteira?",
+      "explanation": {
+        "pt": "A frase correta: 'Você viu o Pedro puxando saco do diretor a noite inteira?'",
+        "en": "The correct sentence: 'Você viu o Pedro puxando saco do diretor a noite inteira?'",
+        "ar": "الجملة الصحيحة: 'Você viu o Pedro puxando saco do diretor a noite inteira?'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "viu",
+          "en": "viu",
+          "ar": "viu"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "puxando",
+          "en": "puxando",
+          "ar": "puxando"
+        },
+        {
+          "pt": "diretor",
+          "en": "diretor",
+          "ar": "diretor"
+        },
+        {
+          "pt": "Pedro",
+          "en": "Pedro",
+          "ar": "Pedro"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "inteira?",
+          "en": "inteira?",
+          "ar": "inteira?"
+        },
+        {
+          "pt": "noite",
+          "en": "noite",
+          "ar": "noite"
+        },
+        {
+          "pt": "saco",
+          "en": "saco",
+          "ar": "saco"
+        },
+        {
+          "pt": "Você",
+          "en": "Você",
+          "ar": "Você"
+        }
+      ],
+      "answer": "Você viu o Pedro puxando saco do diretor a noite inteira?",
+      "accepted": [
+        "Você viu o Pedro puxando saco do diretor a noite inteira?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Você viu o Pedro puxando saco do diretor a noite inteira?'",
+        "en": "The correct order: 'Did you see Pedro sucking up to the director all night?'",
+        "ar": "الترتيب الصحيح: 'هل رأيتِ بيدرو يتملق المدير طوال الليل؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "encher linguiça",
+          "en": "to look after one's own interests",
+          "ar": "encher linguiça"
+        },
+        {
+          "pt": "puxar a brasa para a sua sardinha",
+          "en": "to state the obvious",
+          "ar": "puxar a brasa para a sua sardinha"
+        },
+        {
+          "pt": "ficar a ver navios",
+          "en": "to be left empty-handed",
+          "ar": "ficar a ver navios"
+        },
+        {
+          "pt": "pagar mico",
+          "en": "to embarrass oneself in public",
+          "ar": "pagar mico"
+        },
+        {
+          "pt": "dar com a língua nos dentes",
+          "en": "to pad out, to drag on pointlessly",
+          "ar": "dar com a língua nos dentes"
+        },
+        {
+          "pt": "chover no molhado",
+          "en": "to spill the beans",
+          "ar": "chover no molhado"
+        }
+      ],
+      "answer": "encher linguiça::to look after one's own interests|puxar a brasa para a sua sardinha::to state the obvious|ficar a ver navios::to be left empty-handed|pagar mico::to embarrass oneself in public|dar com a língua nos dentes::to pad out, to drag on pointlessly|chover no molhado::to spill the beans",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "E a Mariana? Deixou a peteca cair de novo e não levou o relatório.",
+          "en": "And Mariana? She let things fall apart again and did not bring the report.",
+          "ar": "لا تتراجع عن كلامك لاحقًا، اتفقنا؟ أنا بدأت أشك في هذه المجموعة."
+        },
+        {
+          "pt": "Não morda a língua depois, viu? Já estou ficando de orelha em pé com essa turma.",
+          "en": "Did you see Pedro sucking up to the director all night?",
+          "ar": "هل رأيتِ بيدرو يتملق المدير طوال الليل؟"
+        },
+        {
+          "pt": "Você viu o Pedro puxando saco do diretor a noite inteira?",
+          "en": "Don't eat your words later, okay? I am already getting suspicious of this crowd.",
+          "ar": "وماريانا؟ لقد استسلمت مجددًا ولم تحضر التقرير."
+        }
+      ],
+      "answer": "Você viu o Pedro puxando saco do diretor a noite inteira?",
+      "accepted": [],
+      "audio": "Você viu o Pedro puxando saco do diretor a noite inteira?",
+      "explanation": {
+        "pt": "Você ouviu: 'Você viu o Pedro puxando saco do diretor a noite inteira?' — 'Did you see Pedro sucking up to the director all night?'",
+        "en": "You heard: 'Você viu o Pedro puxando saco do diretor a noite inteira?' — 'Did you see Pedro sucking up to the director all night?'",
+        "ar": "سمعت: 'Você viu o Pedro puxando saco do diretor a noite inteira?' — 'هل رأيتِ بيدرو يتملق المدير طوال الليل؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.",
+          "en": "Of course I saw. He went off the rails when he tried to praise the lecture.",
+          "ar": "متّفق. الأفضل ألا أتخلى عن أحد بدلًا من إطالة الكلام بلا طائل حتى الفجر."
+        },
+        {
+          "pt": "Combinado. Antes eu deixar na mão ninguém do que encher linguiça até de madrugada.",
+          "en": "Don't eat your words later, okay? I am already getting suspicious of this crowd.",
+          "ar": "لا تتراجع عن كلامك لاحقًا، اتفقنا؟ أنا بدأت أشك في هذه المجموعة."
+        },
+        {
+          "pt": "Não morda a língua depois, viu? Já estou ficando de orelha em pé com essa turma.",
+          "en": "Deal. I would rather not leave anyone in the lurch than drag things on until dawn.",
+          "ar": "بالتأكيد رأيتُه. لقد تلخبط في كلامه عندما حاول مدح المحاضرة."
+        }
+      ],
+      "answer": "Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.",
+      "accepted": [],
+      "audio": "Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.",
+      "explanation": {
+        "pt": "Você ouviu: 'Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.' — 'Of course I saw. He went off the rails when he tried to praise the lecture.'",
+        "en": "You heard: 'Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.' — 'Of course I saw. He went off the rails when he tried to praise the lecture.'",
+        "ar": "سمعت: 'Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.' — 'بالتأكيد رأيتُه. لقد تلخبط في كلامه عندما حاول مدح المحاضرة.'"
+      }
+    }
+  ],
+  "speaking": {
+    "title": {
+      "pt": "Fale Agora — Ouça e Repita",
+      "en": "Speak Now — Listen and Repeat",
+      "ar": "تحدث الآن — استمع وكرر"
+    },
+    "phrases": [
+      {
+        "pt": "Você viu o Pedro puxando saco do diretor a noite inteira?",
+        "en": "Did you see Pedro sucking up to the director all night?",
+        "ar": "هل رأيتِ بيدرو يتملق المدير طوال الليل؟"
+      },
+      {
+        "pt": "Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.",
+        "en": "Of course I saw. He went off the rails when he tried to praise the lecture.",
+        "ar": "بالتأكيد رأيتُه. لقد تلخبط في كلامه عندما حاول مدح المحاضرة."
+      },
+      {
+        "pt": "E a Mariana? Deixou a peteca cair de novo e não levou o relatório.",
+        "en": "And Mariana? She let things fall apart again and did not bring the report.",
+        "ar": "وماريانا؟ لقد استسلمت مجددًا ولم تحضر التقرير."
+      },
+      {
+        "pt": "Pois é, mas eu vou segurar vela, como sempre, e terminar o projeto sozinho.",
+        "en": "Right, but as always I'll be the one left holding the bag and finish the project alone.",
+        "ar": "صحيح، لكنني سأبقى كما هو الحال دائمًا في موقف صعب وأنهي المشروع وحدي."
+      },
+      {
+        "pt": "Não morda a língua depois, viu? Já estou ficando de orelha em pé com essa turma.",
+        "en": "Don't eat your words later, okay? I am already getting suspicious of this crowd.",
+        "ar": "لا تتراجع عن كلامك لاحقًا، اتفقنا؟ أنا بدأت أشك في هذه المجموعة."
+      },
+      {
+        "pt": "Combinado. Antes eu deixar na mão ninguém do que encher linguiça até de madrugada.",
+        "en": "Deal. I would rather not leave anyone in the lurch than drag things on until dawn.",
+        "ar": "متّفق. الأفضل ألا أتخلى عن أحد بدلًا من إطالة الكلام بلا طائل حتى الفجر."
+      },
+      {
+        "pt": "pagar mico",
+        "en": "to embarrass oneself in public",
+        "ar": "يحرج نفسه أمام الناس"
+      },
+      {
+        "pt": "ficar a ver navios",
+        "en": "to be left empty-handed",
+        "ar": "يخسر كل شيء / يظل بلا شيء"
+      },
+      {
+        "pt": "chover no molhado",
+        "en": "to state the obvious",
+        "ar": "يُطيل في كلام بديهي"
+      }
+    ]
+  },
+  "cultural_tips": {
+    "pt": "",
+    "en": "",
+    "ar": ""
+  }
+}

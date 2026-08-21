@@ -1,0 +1,1869 @@
+{
+  "id": "A1-11",
+  "level": "A1",
+  "level_name": {
+    "pt": "Iniciante",
+    "en": "Beginner",
+    "ar": "مبتدئ"
+  },
+  "title": {
+    "pt": "Horas e Rotina Diária",
+    "en": "Time and Daily Routine",
+    "ar": "الساعة والروتين اليومي"
+  },
+  "objectives": [
+    {
+      "pt": "Dizer as horas em português",
+      "en": "Tell time in Portuguese",
+      "ar": "قول الساعة بالبرتغالية"
+    },
+    {
+      "pt": "Falar sobre rotina diária",
+      "en": "Talk about daily routine",
+      "ar": "التحدث عن الروتين اليومي"
+    },
+    {
+      "pt": "Usar 'de manhã', 'à tarde', 'à noite'",
+      "en": "Use 'de manhã', 'à tarde', 'à noite'",
+      "ar": "استخدام تعبيرات الصباح والمساء والليل"
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "a hora",
+      "ipa": "/a ˈɔ.ɾa/",
+      "en": "the hour",
+      "ar": "الساعة",
+      "example": {
+        "pt": "Bruno, que horas você acorda?",
+        "en": "Bruno, what time do you wake up?",
+        "ar": "برونو، في أي ساعة تستيقظ؟"
+      }
+    },
+    {
+      "pt": "o relógio",
+      "ipa": "/u ʁeˈlɔ.ʒi.u/",
+      "en": "the clock",
+      "ar": "الساعة",
+      "example": {
+        "pt": "E o que você faz depois?",
+        "en": "And what do you do after?",
+        "ar": "وماذا تفعل بعد ذلك؟"
+      }
+    },
+    {
+      "pt": "que horas são?",
+      "ipa": "/ki ˈɔ.ɾas sɐ̃w/",
+      "en": "what time is it?",
+      "ar": "كم الساعة؟",
+      "example": {
+        "pt": "Bruno, que horas você acorda?",
+        "en": "Bruno, what time do you wake up?",
+        "ar": "برونو، في أي ساعة تستيقظ؟"
+      }
+    },
+    {
+      "pt": "é uma hora",
+      "ipa": "/ɛ ˈũ.ma ˈɔ.ɾa/",
+      "en": "it's one o'clock",
+      "ar": "الساعة الواحدة",
+      "example": {
+        "pt": "É uma hora da tarde.",
+        "en": "It's one in the afternoon.",
+        "ar": "إنها الواحدة ظهرًا."
+      }
+    },
+    {
+      "pt": "são duas horas",
+      "ipa": "/sɐ̃w ˈdu.as ˈɔ.ɾas/",
+      "en": "it's two o'clock",
+      "ar": "الساعة الثانية",
+      "example": {
+        "pt": "Que horas são? São oito horas.",
+        "en": "What time is it? It's eight o'clock.",
+        "ar": "كم الساعة؟ إنها الثامنة."
+      }
+    },
+    {
+      "pt": "de manhã",
+      "ipa": "/dʒi mɐˈɲɐ̃/",
+      "en": "in the morning",
+      "ar": "في الصباح",
+      "example": {
+        "pt": "Eu acordo às seis e meia de manhã.",
+        "en": "I wake up at six thirty in the morning.",
+        "ar": "أستيقظ في السادسة والنصف صباحًا."
+      }
+    },
+    {
+      "pt": "à tarde",
+      "ipa": "/a ˈtaʁ.dʒi/",
+      "en": "in the afternoon",
+      "ar": "في الظهيرة",
+      "example": {
+        "pt": "À noite, eu vejo TV.",
+        "en": "At night, I watch TV.",
+        "ar": "في الليل، أشاهد التلفاز."
+      }
+    },
+    {
+      "pt": "à noite",
+      "ipa": "/a ˈnoj.tʃi/",
+      "en": "at night",
+      "ar": "في الليل",
+      "example": {
+        "pt": "À noite, eu vejo TV.",
+        "en": "At night, I watch TV.",
+        "ar": "في الليل، أشاهد التلفاز."
+      }
+    },
+    {
+      "pt": "acordar",
+      "ipa": "/a.koʁˈdaʁ/",
+      "en": "to wake up",
+      "ar": "يستيقظ",
+      "example": {
+        "pt": "Bruno, que horas você acorda?",
+        "en": "Bruno, what time do you wake up?",
+        "ar": "برونو، في أي ساعة تستيقظ؟"
+      }
+    },
+    {
+      "pt": "levantar",
+      "ipa": "/le.vɐ̃ˈtaʁ/",
+      "en": "to get up",
+      "ar": "يقوم",
+      "example": {
+        "pt": "Bruno, que horas você acorda?",
+        "en": "Bruno, what time do you wake up?",
+        "ar": "برونو، في أي ساعة تستيقظ؟"
+      }
+    },
+    {
+      "pt": "tomar banho",
+      "ipa": "/toˈmaʁ ˈbɐ̃.ɲu/",
+      "en": "to shower",
+      "ar": "يستحم",
+      "example": {
+        "pt": "Bruno, que horas você acorda?",
+        "en": "Bruno, what time do you wake up?",
+        "ar": "برونو، في أي ساعة تستيقظ؟"
+      }
+    },
+    {
+      "pt": "tomar café",
+      "ipa": "/toˈmaʁ kaˈfɛ/",
+      "en": "to have breakfast",
+      "ar": "يتناول الفطور",
+      "example": {
+        "pt": "Bruno, que horas você acorda?",
+        "en": "Bruno, what time do you wake up?",
+        "ar": "برونو، في أي ساعة تستيقظ؟"
+      }
+    },
+    {
+      "pt": "sair",
+      "ipa": "/saˈiʁ/",
+      "en": "to leave",
+      "ar": "يخرج",
+      "example": {
+        "pt": "Bruno, que horas você acorda?",
+        "en": "Bruno, what time do you wake up?",
+        "ar": "برونو، في أي ساعة تستيقظ؟"
+      }
+    },
+    {
+      "pt": "chegar",
+      "ipa": "/ʃeˈɡaʁ/",
+      "en": "to arrive",
+      "ar": "يصل",
+      "example": {
+        "pt": "Bruno, que horas você acorda?",
+        "en": "Bruno, what time do you wake up?",
+        "ar": "برونو، في أي ساعة تستيقظ؟"
+      }
+    },
+    {
+      "pt": "dormir",
+      "ipa": "/doʁˈmiʁ/",
+      "en": "to sleep",
+      "ar": "ينام",
+      "example": {
+        "pt": "Bruno, que horas você acorda?",
+        "en": "Bruno, what time do you wake up?",
+        "ar": "برونو، في أي ساعة تستيقظ؟"
+      }
+    },
+    {
+      "pt": "a manhã",
+      "ipa": "/a mɐˈɲɐ̃/",
+      "en": "the morning",
+      "ar": "الصباح",
+      "example": {
+        "pt": "Bruno, que horas você acorda?",
+        "en": "Bruno, what time do you wake up?",
+        "ar": "برونو، في أي ساعة تستيقظ؟"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "title": {
+        "pt": "Dizendo as Horas",
+        "en": "Telling Time",
+        "ar": "قول الوقت"
+      },
+      "explanation": {
+        "pt": "Para a hora certa: 'É uma hora' (1h), 'São duas horas' (2h). Para minutos: 'São três e quinze' (3:15), 'São quatro e meia' (4:30), 'São cinco para as seis' (5:55). 'Meia' = 30 min.",
+        "en": "For the exact hour: 'É uma hora' (1:00), 'São duas horas' (2:00). For minutes: 'São três e quinze' (3:15), 'São quatro e meia' (4:30), 'São cinco para as seis' (5:55). 'Meia' = 30 minutes.",
+        "ar": "للساعة الصحيحة: 'É uma hora' (الساعة الواحدة)، 'São duas horas' (الساعة الثانية). للدقائق: 'São três e quinze' (3:15)، 'São quatro e meia' (4:30)، 'São cinco para as seis' (5:55). 'meia' = 30 دقيقة."
+      },
+      "examples": [
+        {
+          "pt": "Que horas são? São oito horas.",
+          "en": "What time is it? It's eight o'clock.",
+          "ar": "كم الساعة؟ إنها الثامنة."
+        },
+        {
+          "pt": "É uma hora da tarde.",
+          "en": "It's one in the afternoon.",
+          "ar": "إنها الواحدة ظهرًا."
+        },
+        {
+          "pt": "São dez para as nove.",
+          "en": "It's ten to nine.",
+          "ar": "إنها العاشرة إلى التاسعة."
+        }
+      ]
+    },
+    {
+      "title": {
+        "pt": "Rotina Diária",
+        "en": "Daily Routine",
+        "ar": "الروتين اليومي"
+      },
+      "explanation": {
+        "pt": "Para descrever a rotina: 'Eu acordo às sete horas' (I wake up at seven). 'Às' = at (time). 'De manhã' (in the morning), 'à tarde' (in the afternoon), 'à noite' (at night). Exemplo: 'De manhã, eu tomo café e saio para o trabalho.'",
+        "en": "To describe routine: 'Eu acordo às sete horas' (I wake up at seven). 'Às' = at (time). 'De manhã' (in the morning), 'à tarde' (in the afternoon), 'à noite' (at night). Example: 'De manhã, eu tomo café e saio para o trabalho.' (In the morning, I have breakfast and leave for work.)",
+        "ar": "لوصف الروتين: 'Eu acordo às sete horas' (أستيقظ في السابعة). 'às' = في (للوقت). 'de manhã' (في الصباح)، 'à tarde' (في الظهيرة)، 'à noite' (في الليل). مثال: 'De manhã, eu tomo café e saio para o trabalho.' (في الصباح، أتناول الفطور وأخرج إلى العمل.)"
+      },
+      "examples": [
+        {
+          "pt": "Eu acordo às seis e meia.",
+          "en": "I wake up at six thirty.",
+          "ar": "أستيقظ في السادسة والنصف."
+        },
+        {
+          "pt": "À noite, eu vejo TV.",
+          "en": "At night, I watch TV.",
+          "ar": "في الليل، أشاهد التلفاز."
+        },
+        {
+          "pt": "Eu chego em casa à tarde.",
+          "en": "I arrive home in the afternoon.",
+          "ar": "أصل إلى المنزل في الظهيرة."
+        }
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": {
+      "pt": "A Rotina de Bruno",
+      "en": "Bruno's Routine",
+      "ar": "روتين برونو"
+    },
+    "lines": [
+      {
+        "speaker": "Amiga",
+        "pt": "Bruno, que horas você acorda?",
+        "en": "Bruno, what time do you wake up?",
+        "ar": "برونو، في أي ساعة تستيقظ؟"
+      },
+      {
+        "speaker": "Bruno",
+        "pt": "Eu acordo às seis e meia de manhã.",
+        "en": "I wake up at six thirty in the morning.",
+        "ar": "أستيقظ في السادسة والنصف صباحًا."
+      },
+      {
+        "speaker": "Amiga",
+        "pt": "E o que você faz depois?",
+        "en": "And what do you do after?",
+        "ar": "وماذا تفعل بعد ذلك؟"
+      },
+      {
+        "speaker": "Bruno",
+        "pt": "Tomo banho, tomo café e saio às oito.",
+        "en": "I shower, have breakfast and leave at eight.",
+        "ar": "أستحم، أتناول الفطور وأخرج في الثامنة."
+      },
+      {
+        "speaker": "Amiga",
+        "pt": "Você chega em casa que horas?",
+        "en": "What time do you arrive home?",
+        "ar": "في أي ساعة تصل إلى المنزل؟"
+      },
+      {
+        "speaker": "Bruno",
+        "pt": "Às seis da noite. Depois eu durmo cedo.",
+        "en": "At six in the evening. Then I sleep early.",
+        "ar": "في السادسة مساءً. ثم أنام مبكرًا."
+      }
+    ]
+  },
+  "reading": {
+    "title": {
+      "pt": "Um Dia na Vida de Luiza",
+      "en": "A Day in the Life of Luiza",
+      "ar": "يوم من حياة لويزا"
+    },
+    "text_pt": "Luiza acorda às sete horas. De manhã, ela toma café com pão e sai para o trabalho às oito e meia. Ao meio-dia, ela almoça perto do escritório. À tarde, ela volta para casa. À noite, ela janta com a família e dorme às onze.",
+    "text_en": "Luiza wakes up at seven. In the morning, she has coffee with bread and leaves for work at eight thirty. At noon, she has lunch near the office. In the afternoon, she returns home. At night, she has dinner with her family and sleeps at eleven.",
+    "text_ar": "تستيقظ لويزا في السابعة. في الصباح، تتناول القهوة مع الخبز وتخرج إلى العمل في الثامنة والنصف. عند الظهيرة، تتناول الغداء قرب المكتب. في الظهيرة، تعود إلى المنزل. في الليل، تتناول العشاء مع عائلتها وتنام في الحادية عشرة."
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Como se diz '7:30'?",
+        "en": "How do you say '7:30'?",
+        "ar": "كيف تقول '7:30'؟"
+      },
+      "options": [
+        {
+          "pt": "sete e meia",
+          "en": "sete e meia",
+          "ar": "sete e meia"
+        },
+        {
+          "pt": "sete e quinze",
+          "en": "sete e quinze",
+          "ar": "sete e quinze"
+        },
+        {
+          "pt": "oito e meia",
+          "en": "oito e meia",
+          "ar": "oito e meia"
+        }
+      ],
+      "answer": "sete e meia",
+      "explanation": {
+        "pt": "7:30 = 'sete e meia'.",
+        "en": "7:30 = 'sete e meia'.",
+        "ar": "7:30 = 'sete e meia'."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual expressão significa 'in the morning'?",
+        "en": "Which expression means 'in the morning'?",
+        "ar": "أي عبارة تعني 'in the morning'؟"
+      },
+      "options": [
+        {
+          "pt": "à noite",
+          "en": "à noite",
+          "ar": "à noite"
+        },
+        {
+          "pt": "de manhã",
+          "en": "de manhã",
+          "ar": "de manhã"
+        },
+        {
+          "pt": "à tarde",
+          "en": "à tarde",
+          "ar": "à tarde"
+        }
+      ],
+      "answer": "de manhã",
+      "explanation": {
+        "pt": "'De manhã' = in the morning.",
+        "en": "'De manhã' = in the morning.",
+        "ar": "'de manhã' = في الصباح."
+      }
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza: 'to sleep'",
+        "en": "Translate: 'to sleep'",
+        "ar": "ترجم: 'to sleep'"
+      },
+      "options": [],
+      "answer": "dormir",
+      "explanation": {
+        "pt": "'Dormir' significa to sleep.",
+        "en": "'Dormir' means to sleep.",
+        "ar": "'dormir' تعني ينام."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "acorda?",
+          "en": "acorda?",
+          "ar": "acorda?"
+        },
+        {
+          "pt": "Bruno,",
+          "en": "Bruno,",
+          "ar": "Bruno,"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "horas",
+          "en": "horas",
+          "ar": "horas"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        }
+      ],
+      "answer": "Bruno, que horas você acorda?",
+      "accepted": [
+        "Bruno, que horas você acorda?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Bruno, que horas você acorda?'",
+        "en": "The correct order: 'Bruno, what time do you wake up?'",
+        "ar": "الترتيب الصحيح: 'برونو، في أي ساعة تستيقظ؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "é uma hora",
+          "en": "the hour",
+          "ar": "é uma hora"
+        },
+        {
+          "pt": "a hora",
+          "en": "the clock",
+          "ar": "a hora"
+        },
+        {
+          "pt": "de manhã",
+          "en": "in the morning",
+          "ar": "de manhã"
+        },
+        {
+          "pt": "são duas horas",
+          "en": "what time is it?",
+          "ar": "são duas horas"
+        },
+        {
+          "pt": "que horas são?",
+          "en": "it's two o'clock",
+          "ar": "que horas são?"
+        },
+        {
+          "pt": "o relógio",
+          "en": "it's one o'clock",
+          "ar": "o relógio"
+        }
+      ],
+      "answer": "é uma hora::the hour|a hora::the clock|de manhã::in the morning|são duas horas::what time is it?|que horas são?::it's two o'clock|o relógio::it's one o'clock",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Eu acordo às seis e meia de manhã.",
+          "en": "Bruno, what time do you wake up?",
+          "ar": "أستيقظ في السادسة والنصف صباحًا."
+        },
+        {
+          "pt": "Tomo banho, tomo café e saio às oito.",
+          "en": "I wake up at six thirty in the morning.",
+          "ar": "برونو، في أي ساعة تستيقظ؟"
+        },
+        {
+          "pt": "Bruno, que horas você acorda?",
+          "en": "I shower, have breakfast and leave at eight.",
+          "ar": "أستحم، أتناول الفطور وأخرج في الثامنة."
+        }
+      ],
+      "answer": "Bruno, que horas você acorda?",
+      "accepted": [],
+      "audio": "Bruno, que horas você acorda?",
+      "explanation": {
+        "pt": "Você ouviu: 'Bruno, que horas você acorda?' — 'Bruno, what time do you wake up?'",
+        "en": "You heard: 'Bruno, que horas você acorda?' — 'Bruno, what time do you wake up?'",
+        "ar": "سمعت: 'Bruno, que horas você acorda?' — 'برونو، في أي ساعة تستيقظ؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Bruno, que horas você acorda?",
+          "en": "I wake up at six thirty in the morning.",
+          "ar": "برونو، في أي ساعة تستيقظ؟"
+        },
+        {
+          "pt": "E o que você faz depois?",
+          "en": "And what do you do after?",
+          "ar": "أستيقظ في السادسة والنصف صباحًا."
+        },
+        {
+          "pt": "Eu acordo às seis e meia de manhã.",
+          "en": "Bruno, what time do you wake up?",
+          "ar": "وماذا تفعل بعد ذلك؟"
+        }
+      ],
+      "answer": "Eu acordo às seis e meia de manhã.",
+      "accepted": [],
+      "audio": "Eu acordo às seis e meia de manhã.",
+      "explanation": {
+        "pt": "Você ouviu: 'Eu acordo às seis e meia de manhã.' — 'I wake up at six thirty in the morning.'",
+        "en": "You heard: 'Eu acordo às seis e meia de manhã.' — 'I wake up at six thirty in the morning.'",
+        "ar": "سمعت: 'Eu acordo às seis e meia de manhã.' — 'أستيقظ في السادسة والنصف صباحًا.'"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Que horas são? ___ oito horas.",
+        "en": "Que horas são? ___ oito horas.",
+        "ar": "Que horas são? ___ oito horas."
+      },
+      "options": [
+        {
+          "pt": "São",
+          "en": "São",
+          "ar": "São"
+        },
+        {
+          "pt": "É",
+          "en": "É",
+          "ar": "É"
+        },
+        {
+          "pt": "hora",
+          "en": "hora",
+          "ar": "hora"
+        }
+      ],
+      "answer": "São",
+      "accepted": [],
+      "explanation": {
+        "pt": "A resposta é 'São'. Frase completa: Que horas são? São oito horas.",
+        "en": "The answer is 'São'. Full sentence: What time is it? It's eight o'clock.",
+        "ar": "الإجابة الصحيحة: 'São'. الجملة كاملة: كم الساعة؟ إنها الثامنة."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "acorda?",
+          "en": "acorda?",
+          "ar": "acorda?"
+        },
+        {
+          "pt": "Bruno,",
+          "en": "Bruno,",
+          "ar": "Bruno,"
+        },
+        {
+          "pt": "horas",
+          "en": "horas",
+          "ar": "horas"
+        }
+      ],
+      "answer": "Bruno, que horas você acorda?",
+      "accepted": [
+        "Bruno, que horas você acorda?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Bruno, que horas você acorda?'",
+        "en": "The correct order: 'Bruno, what time do you wake up?'",
+        "ar": "الترتيب الصحيح: 'برونو، في أي ساعة تستيقظ؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "são duas horas",
+          "en": "it's two o'clock",
+          "ar": "são duas horas"
+        },
+        {
+          "pt": "que horas são?",
+          "en": "it's one o'clock",
+          "ar": "que horas são?"
+        },
+        {
+          "pt": "a hora",
+          "en": "the hour",
+          "ar": "a hora"
+        },
+        {
+          "pt": "é uma hora",
+          "en": "what time is it?",
+          "ar": "é uma hora"
+        },
+        {
+          "pt": "de manhã",
+          "en": "the clock",
+          "ar": "de manhã"
+        },
+        {
+          "pt": "o relógio",
+          "en": "in the morning",
+          "ar": "o relógio"
+        }
+      ],
+      "answer": "são duas horas::it's two o'clock|que horas são?::it's one o'clock|a hora::the hour|é uma hora::what time is it?|de manhã::the clock|o relógio::in the morning",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Bruno, que horas você acorda?",
+          "en": "What time do you arrive home?",
+          "ar": "في أي ساعة تصل إلى المنزل؟"
+        },
+        {
+          "pt": "E o que você faz depois?",
+          "en": "Bruno, what time do you wake up?",
+          "ar": "وماذا تفعل بعد ذلك؟"
+        },
+        {
+          "pt": "Você chega em casa que horas?",
+          "en": "And what do you do after?",
+          "ar": "برونو، في أي ساعة تستيقظ؟"
+        }
+      ],
+      "answer": "Bruno, que horas você acorda?",
+      "accepted": [],
+      "audio": "Bruno, que horas você acorda?",
+      "explanation": {
+        "pt": "Você ouviu: 'Bruno, que horas você acorda?' — 'Bruno, what time do you wake up?'",
+        "en": "You heard: 'Bruno, que horas você acorda?' — 'Bruno, what time do you wake up?'",
+        "ar": "سمعت: 'Bruno, que horas você acorda?' — 'برونو، في أي ساعة تستيقظ؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Eu acordo às seis e meia de manhã.",
+          "en": "What time do you arrive home?",
+          "ar": "أستيقظ في السادسة والنصف صباحًا."
+        },
+        {
+          "pt": "Você chega em casa que horas?",
+          "en": "At six in the evening. Then I sleep early.",
+          "ar": "في السادسة مساءً. ثم أنام مبكرًا."
+        },
+        {
+          "pt": "Às seis da noite. Depois eu durmo cedo.",
+          "en": "I wake up at six thirty in the morning.",
+          "ar": "في أي ساعة تصل إلى المنزل؟"
+        }
+      ],
+      "answer": "Eu acordo às seis e meia de manhã.",
+      "accepted": [],
+      "audio": "Eu acordo às seis e meia de manhã.",
+      "explanation": {
+        "pt": "Você ouviu: 'Eu acordo às seis e meia de manhã.' — 'I wake up at six thirty in the morning.'",
+        "en": "You heard: 'Eu acordo às seis e meia de manhã.' — 'I wake up at six thirty in the morning.'",
+        "ar": "سمعت: 'Eu acordo às seis e meia de manhã.' — 'أستيقظ في السادسة والنصف صباحًا.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "horas",
+          "en": "horas",
+          "ar": "horas"
+        },
+        {
+          "pt": "acorda?",
+          "en": "acorda?",
+          "ar": "acorda?"
+        },
+        {
+          "pt": "Bruno,",
+          "en": "Bruno,",
+          "ar": "Bruno,"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        }
+      ],
+      "answer": "Bruno, que horas você acorda?",
+      "accepted": [
+        "Bruno, que horas você acorda?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Bruno, que horas você acorda?'",
+        "en": "The correct order: 'Bruno, what time do you wake up?'",
+        "ar": "الترتيب الصحيح: 'برونو، في أي ساعة تستيقظ؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a hora",
+          "en": "it's one o'clock",
+          "ar": "a hora"
+        },
+        {
+          "pt": "é uma hora",
+          "en": "it's two o'clock",
+          "ar": "é uma hora"
+        },
+        {
+          "pt": "o relógio",
+          "en": "the clock",
+          "ar": "o relógio"
+        },
+        {
+          "pt": "são duas horas",
+          "en": "the hour",
+          "ar": "são duas horas"
+        },
+        {
+          "pt": "de manhã",
+          "en": "what time is it?",
+          "ar": "de manhã"
+        },
+        {
+          "pt": "que horas são?",
+          "en": "in the morning",
+          "ar": "que horas são?"
+        }
+      ],
+      "answer": "a hora::it's one o'clock|é uma hora::it's two o'clock|o relógio::the clock|são duas horas::the hour|de manhã::what time is it?|que horas são?::in the morning",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "E o que você faz depois?",
+          "en": "I wake up at six thirty in the morning.",
+          "ar": "وماذا تفعل بعد ذلك؟"
+        },
+        {
+          "pt": "Eu acordo às seis e meia de manhã.",
+          "en": "And what do you do after?",
+          "ar": "أستيقظ في السادسة والنصف صباحًا."
+        },
+        {
+          "pt": "Bruno, que horas você acorda?",
+          "en": "Bruno, what time do you wake up?",
+          "ar": "برونو، في أي ساعة تستيقظ؟"
+        }
+      ],
+      "answer": "Bruno, que horas você acorda?",
+      "accepted": [],
+      "audio": "Bruno, que horas você acorda?",
+      "explanation": {
+        "pt": "Você ouviu: 'Bruno, que horas você acorda?' — 'Bruno, what time do you wake up?'",
+        "en": "You heard: 'Bruno, que horas você acorda?' — 'Bruno, what time do you wake up?'",
+        "ar": "سمعت: 'Bruno, que horas você acorda?' — 'برونو، في أي ساعة تستيقظ؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "E o que você faz depois?",
+          "en": "At six in the evening. Then I sleep early.",
+          "ar": "في السادسة مساءً. ثم أنام مبكرًا."
+        },
+        {
+          "pt": "Às seis da noite. Depois eu durmo cedo.",
+          "en": "And what do you do after?",
+          "ar": "أستيقظ في السادسة والنصف صباحًا."
+        },
+        {
+          "pt": "Eu acordo às seis e meia de manhã.",
+          "en": "I wake up at six thirty in the morning.",
+          "ar": "وماذا تفعل بعد ذلك؟"
+        }
+      ],
+      "answer": "Eu acordo às seis e meia de manhã.",
+      "accepted": [],
+      "audio": "Eu acordo às seis e meia de manhã.",
+      "explanation": {
+        "pt": "Você ouviu: 'Eu acordo às seis e meia de manhã.' — 'I wake up at six thirty in the morning.'",
+        "en": "You heard: 'Eu acordo às seis e meia de manhã.' — 'I wake up at six thirty in the morning.'",
+        "ar": "سمعت: 'Eu acordo às seis e meia de manhã.' — 'أستيقظ في السادسة والنصف صباحًا.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "horas",
+          "en": "horas",
+          "ar": "horas"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "Bruno,",
+          "en": "Bruno,",
+          "ar": "Bruno,"
+        },
+        {
+          "pt": "acorda?",
+          "en": "acorda?",
+          "ar": "acorda?"
+        }
+      ],
+      "answer": "Bruno, que horas você acorda?",
+      "accepted": [
+        "Bruno, que horas você acorda?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Bruno, que horas você acorda?'",
+        "en": "The correct order: 'Bruno, what time do you wake up?'",
+        "ar": "الترتيب الصحيح: 'برونو، في أي ساعة تستيقظ؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "de manhã",
+          "en": "what time is it?",
+          "ar": "de manhã"
+        },
+        {
+          "pt": "o relógio",
+          "en": "the hour",
+          "ar": "o relógio"
+        },
+        {
+          "pt": "são duas horas",
+          "en": "in the morning",
+          "ar": "são duas horas"
+        },
+        {
+          "pt": "que horas são?",
+          "en": "it's two o'clock",
+          "ar": "que horas são?"
+        },
+        {
+          "pt": "é uma hora",
+          "en": "it's one o'clock",
+          "ar": "é uma hora"
+        },
+        {
+          "pt": "a hora",
+          "en": "the clock",
+          "ar": "a hora"
+        }
+      ],
+      "answer": "de manhã::what time is it?|o relógio::the hour|são duas horas::in the morning|que horas são?::it's two o'clock|é uma hora::it's one o'clock|a hora::the clock",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Eu acordo às seis e meia de manhã.",
+          "en": "I shower, have breakfast and leave at eight.",
+          "ar": "أستيقظ في السادسة والنصف صباحًا."
+        },
+        {
+          "pt": "Tomo banho, tomo café e saio às oito.",
+          "en": "I wake up at six thirty in the morning.",
+          "ar": "برونو، في أي ساعة تستيقظ؟"
+        },
+        {
+          "pt": "Bruno, que horas você acorda?",
+          "en": "Bruno, what time do you wake up?",
+          "ar": "أستحم، أتناول الفطور وأخرج في الثامنة."
+        }
+      ],
+      "answer": "Bruno, que horas você acorda?",
+      "accepted": [],
+      "audio": "Bruno, que horas você acorda?",
+      "explanation": {
+        "pt": "Você ouviu: 'Bruno, que horas você acorda?' — 'Bruno, what time do you wake up?'",
+        "en": "You heard: 'Bruno, que horas você acorda?' — 'Bruno, what time do you wake up?'",
+        "ar": "سمعت: 'Bruno, que horas você acorda?' — 'برونو، في أي ساعة تستيقظ؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Tomo banho, tomo café e saio às oito.",
+          "en": "I wake up at six thirty in the morning.",
+          "ar": "أستيقظ في السادسة والنصف صباحًا."
+        },
+        {
+          "pt": "Eu acordo às seis e meia de manhã.",
+          "en": "I shower, have breakfast and leave at eight.",
+          "ar": "في السادسة مساءً. ثم أنام مبكرًا."
+        },
+        {
+          "pt": "Às seis da noite. Depois eu durmo cedo.",
+          "en": "At six in the evening. Then I sleep early.",
+          "ar": "أستحم، أتناول الفطور وأخرج في الثامنة."
+        }
+      ],
+      "answer": "Eu acordo às seis e meia de manhã.",
+      "accepted": [],
+      "audio": "Eu acordo às seis e meia de manhã.",
+      "explanation": {
+        "pt": "Você ouviu: 'Eu acordo às seis e meia de manhã.' — 'I wake up at six thirty in the morning.'",
+        "en": "You heard: 'Eu acordo às seis e meia de manhã.' — 'I wake up at six thirty in the morning.'",
+        "ar": "سمعت: 'Eu acordo às seis e meia de manhã.' — 'أستيقظ في السادسة والنصف صباحًا.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "acorda?",
+          "en": "acorda?",
+          "ar": "acorda?"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "horas",
+          "en": "horas",
+          "ar": "horas"
+        },
+        {
+          "pt": "Bruno,",
+          "en": "Bruno,",
+          "ar": "Bruno,"
+        }
+      ],
+      "answer": "Bruno, que horas você acorda?",
+      "accepted": [
+        "Bruno, que horas você acorda?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Bruno, que horas você acorda?'",
+        "en": "The correct order: 'Bruno, what time do you wake up?'",
+        "ar": "الترتيب الصحيح: 'برونو، في أي ساعة تستيقظ؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "que horas são?",
+          "en": "it's one o'clock",
+          "ar": "que horas são?"
+        },
+        {
+          "pt": "o relógio",
+          "en": "it's two o'clock",
+          "ar": "o relógio"
+        },
+        {
+          "pt": "é uma hora",
+          "en": "in the morning",
+          "ar": "é uma hora"
+        },
+        {
+          "pt": "a hora",
+          "en": "the clock",
+          "ar": "a hora"
+        },
+        {
+          "pt": "de manhã",
+          "en": "the hour",
+          "ar": "de manhã"
+        },
+        {
+          "pt": "são duas horas",
+          "en": "what time is it?",
+          "ar": "são duas horas"
+        }
+      ],
+      "answer": "que horas são?::it's one o'clock|o relógio::it's two o'clock|é uma hora::in the morning|a hora::the clock|de manhã::the hour|são duas horas::what time is it?",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Bruno, que horas você acorda?",
+          "en": "I wake up at six thirty in the morning.",
+          "ar": "أستيقظ في السادسة والنصف صباحًا."
+        },
+        {
+          "pt": "Eu acordo às seis e meia de manhã.",
+          "en": "And what do you do after?",
+          "ar": "وماذا تفعل بعد ذلك؟"
+        },
+        {
+          "pt": "E o que você faz depois?",
+          "en": "Bruno, what time do you wake up?",
+          "ar": "برونو، في أي ساعة تستيقظ؟"
+        }
+      ],
+      "answer": "Bruno, que horas você acorda?",
+      "accepted": [],
+      "audio": "Bruno, que horas você acorda?",
+      "explanation": {
+        "pt": "Você ouviu: 'Bruno, que horas você acorda?' — 'Bruno, what time do you wake up?'",
+        "en": "You heard: 'Bruno, que horas você acorda?' — 'Bruno, what time do you wake up?'",
+        "ar": "سمعت: 'Bruno, que horas você acorda?' — 'برونو، في أي ساعة تستيقظ؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Bruno, que horas você acorda?",
+          "en": "And what do you do after?",
+          "ar": "وماذا تفعل بعد ذلك؟"
+        },
+        {
+          "pt": "E o que você faz depois?",
+          "en": "Bruno, what time do you wake up?",
+          "ar": "أستيقظ في السادسة والنصف صباحًا."
+        },
+        {
+          "pt": "Eu acordo às seis e meia de manhã.",
+          "en": "I wake up at six thirty in the morning.",
+          "ar": "برونو، في أي ساعة تستيقظ؟"
+        }
+      ],
+      "answer": "Eu acordo às seis e meia de manhã.",
+      "accepted": [],
+      "audio": "Eu acordo às seis e meia de manhã.",
+      "explanation": {
+        "pt": "Você ouviu: 'Eu acordo às seis e meia de manhã.' — 'I wake up at six thirty in the morning.'",
+        "en": "You heard: 'Eu acordo às seis e meia de manhã.' — 'I wake up at six thirty in the morning.'",
+        "ar": "سمعت: 'Eu acordo às seis e meia de manhã.' — 'أستيقظ في السادسة والنصف صباحًا.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "horas",
+          "en": "horas",
+          "ar": "horas"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "Bruno,",
+          "en": "Bruno,",
+          "ar": "Bruno,"
+        },
+        {
+          "pt": "acorda?",
+          "en": "acorda?",
+          "ar": "acorda?"
+        }
+      ],
+      "answer": "Bruno, que horas você acorda?",
+      "accepted": [
+        "Bruno, que horas você acorda?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Bruno, que horas você acorda?'",
+        "en": "The correct order: 'Bruno, what time do you wake up?'",
+        "ar": "الترتيب الصحيح: 'برونو، في أي ساعة تستيقظ؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a hora",
+          "en": "the hour",
+          "ar": "a hora"
+        },
+        {
+          "pt": "são duas horas",
+          "en": "it's two o'clock",
+          "ar": "são duas horas"
+        },
+        {
+          "pt": "o relógio",
+          "en": "the clock",
+          "ar": "o relógio"
+        },
+        {
+          "pt": "de manhã",
+          "en": "it's one o'clock",
+          "ar": "de manhã"
+        },
+        {
+          "pt": "é uma hora",
+          "en": "what time is it?",
+          "ar": "é uma hora"
+        },
+        {
+          "pt": "que horas são?",
+          "en": "in the morning",
+          "ar": "que horas são?"
+        }
+      ],
+      "answer": "a hora::the hour|são duas horas::it's two o'clock|o relógio::the clock|de manhã::it's one o'clock|é uma hora::what time is it?|que horas são?::in the morning",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Bruno, que horas você acorda?",
+          "en": "What time do you arrive home?",
+          "ar": "برونو، في أي ساعة تستيقظ؟"
+        },
+        {
+          "pt": "Às seis da noite. Depois eu durmo cedo.",
+          "en": "Bruno, what time do you wake up?",
+          "ar": "في السادسة مساءً. ثم أنام مبكرًا."
+        },
+        {
+          "pt": "Você chega em casa que horas?",
+          "en": "At six in the evening. Then I sleep early.",
+          "ar": "في أي ساعة تصل إلى المنزل؟"
+        }
+      ],
+      "answer": "Bruno, que horas você acorda?",
+      "accepted": [],
+      "audio": "Bruno, que horas você acorda?",
+      "explanation": {
+        "pt": "Você ouviu: 'Bruno, que horas você acorda?' — 'Bruno, what time do you wake up?'",
+        "en": "You heard: 'Bruno, que horas você acorda?' — 'Bruno, what time do you wake up?'",
+        "ar": "سمعت: 'Bruno, que horas você acorda?' — 'برونو، في أي ساعة تستيقظ؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Você chega em casa que horas?",
+          "en": "I wake up at six thirty in the morning.",
+          "ar": "أستيقظ في السادسة والنصف صباحًا."
+        },
+        {
+          "pt": "Às seis da noite. Depois eu durmo cedo.",
+          "en": "What time do you arrive home?",
+          "ar": "في أي ساعة تصل إلى المنزل؟"
+        },
+        {
+          "pt": "Eu acordo às seis e meia de manhã.",
+          "en": "At six in the evening. Then I sleep early.",
+          "ar": "في السادسة مساءً. ثم أنام مبكرًا."
+        }
+      ],
+      "answer": "Eu acordo às seis e meia de manhã.",
+      "accepted": [],
+      "audio": "Eu acordo às seis e meia de manhã.",
+      "explanation": {
+        "pt": "Você ouviu: 'Eu acordo às seis e meia de manhã.' — 'I wake up at six thirty in the morning.'",
+        "en": "You heard: 'Eu acordo às seis e meia de manhã.' — 'I wake up at six thirty in the morning.'",
+        "ar": "سمعت: 'Eu acordo às seis e meia de manhã.' — 'أستيقظ في السادسة والنصف صباحًا.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "Bruno,",
+          "en": "Bruno,",
+          "ar": "Bruno,"
+        },
+        {
+          "pt": "horas",
+          "en": "horas",
+          "ar": "horas"
+        },
+        {
+          "pt": "acorda?",
+          "en": "acorda?",
+          "ar": "acorda?"
+        }
+      ],
+      "answer": "Bruno, que horas você acorda?",
+      "accepted": [
+        "Bruno, que horas você acorda?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Bruno, que horas você acorda?'",
+        "en": "The correct order: 'Bruno, what time do you wake up?'",
+        "ar": "الترتيب الصحيح: 'برونو، في أي ساعة تستيقظ؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o relógio",
+          "en": "the hour",
+          "ar": "o relógio"
+        },
+        {
+          "pt": "é uma hora",
+          "en": "in the morning",
+          "ar": "é uma hora"
+        },
+        {
+          "pt": "são duas horas",
+          "en": "it's two o'clock",
+          "ar": "são duas horas"
+        },
+        {
+          "pt": "de manhã",
+          "en": "what time is it?",
+          "ar": "de manhã"
+        },
+        {
+          "pt": "que horas são?",
+          "en": "it's one o'clock",
+          "ar": "que horas são?"
+        },
+        {
+          "pt": "a hora",
+          "en": "the clock",
+          "ar": "a hora"
+        }
+      ],
+      "answer": "o relógio::the hour|é uma hora::in the morning|são duas horas::it's two o'clock|de manhã::what time is it?|que horas são?::it's one o'clock|a hora::the clock",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Tomo banho, tomo café e saio às oito.",
+          "en": "I shower, have breakfast and leave at eight.",
+          "ar": "برونو، في أي ساعة تستيقظ؟"
+        },
+        {
+          "pt": "Bruno, que horas você acorda?",
+          "en": "Bruno, what time do you wake up?",
+          "ar": "وماذا تفعل بعد ذلك؟"
+        },
+        {
+          "pt": "E o que você faz depois?",
+          "en": "And what do you do after?",
+          "ar": "أستحم، أتناول الفطور وأخرج في الثامنة."
+        }
+      ],
+      "answer": "Bruno, que horas você acorda?",
+      "accepted": [],
+      "audio": "Bruno, que horas você acorda?",
+      "explanation": {
+        "pt": "Você ouviu: 'Bruno, que horas você acorda?' — 'Bruno, what time do you wake up?'",
+        "en": "You heard: 'Bruno, que horas você acorda?' — 'Bruno, what time do you wake up?'",
+        "ar": "سمعت: 'Bruno, que horas você acorda?' — 'برونو، في أي ساعة تستيقظ؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Bruno, que horas você acorda?",
+          "en": "I wake up at six thirty in the morning.",
+          "ar": "أستيقظ في السادسة والنصف صباحًا."
+        },
+        {
+          "pt": "Eu acordo às seis e meia de manhã.",
+          "en": "At six in the evening. Then I sleep early.",
+          "ar": "برونو، في أي ساعة تستيقظ؟"
+        },
+        {
+          "pt": "Às seis da noite. Depois eu durmo cedo.",
+          "en": "Bruno, what time do you wake up?",
+          "ar": "في السادسة مساءً. ثم أنام مبكرًا."
+        }
+      ],
+      "answer": "Eu acordo às seis e meia de manhã.",
+      "accepted": [],
+      "audio": "Eu acordo às seis e meia de manhã.",
+      "explanation": {
+        "pt": "Você ouviu: 'Eu acordo às seis e meia de manhã.' — 'I wake up at six thirty in the morning.'",
+        "en": "You heard: 'Eu acordo às seis e meia de manhã.' — 'I wake up at six thirty in the morning.'",
+        "ar": "سمعت: 'Eu acordo às seis e meia de manhã.' — 'أستيقظ في السادسة والنصف صباحًا.'"
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'the hour'",
+        "en": "Type in Portuguese: 'the hour'",
+        "ar": "اكتب بالبرتغالية: 'الساعة'"
+      },
+      "options": [],
+      "answer": "a hora",
+      "accepted": [
+        "a hora"
+      ],
+      "explanation": {
+        "pt": "'a hora' significa 'the hour'.",
+        "en": "'a hora' means 'the hour'.",
+        "ar": "'$a hora' بالعربية: '$الساعة'."
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'the clock'",
+        "en": "Type in Portuguese: 'the clock'",
+        "ar": "اكتب بالبرتغالية: 'الساعة'"
+      },
+      "options": [],
+      "answer": "o relógio",
+      "accepted": [
+        "o relógio"
+      ],
+      "explanation": {
+        "pt": "'o relógio' significa 'the clock'.",
+        "en": "'o relógio' means 'the clock'.",
+        "ar": "'$o relógio' بالعربية: '$الساعة'."
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Bruno, que horas você acorda?",
+          "en": "Bruno, que horas você acorda?",
+          "ar": "Bruno, que horas você acorda?"
+        },
+        {
+          "pt": "Você chega em casa que horas?",
+          "en": "Você chega em casa que horas?",
+          "ar": "Você chega em casa que horas?"
+        },
+        {
+          "pt": "Eu acordo às seis e meia de manhã.",
+          "en": "Eu acordo às seis e meia de manhã.",
+          "ar": "Eu acordo às seis e meia de manhã."
+        }
+      ],
+      "answer": "Bruno, que horas você acorda?",
+      "accepted": [],
+      "audio": "Bruno, que horas você acorda?",
+      "explanation": {
+        "pt": "Você ouviu: 'Bruno, que horas você acorda?'",
+        "en": "You heard: 'Bruno, que horas você acorda?'",
+        "ar": "سمعت: 'Bruno, que horas você acorda?'"
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Eu acordo às seis e meia de manhã.",
+          "en": "Eu acordo às seis e meia de manhã.",
+          "ar": "Eu acordo às seis e meia de manhã."
+        },
+        {
+          "pt": "Tomo banho, tomo café e saio às oito.",
+          "en": "Tomo banho, tomo café e saio às oito.",
+          "ar": "Tomo banho, tomo café e saio às oito."
+        },
+        {
+          "pt": "Você chega em casa que horas?",
+          "en": "Você chega em casa que horas?",
+          "ar": "Você chega em casa que horas?"
+        }
+      ],
+      "answer": "Eu acordo às seis e meia de manhã.",
+      "accepted": [],
+      "audio": "Eu acordo às seis e meia de manhã.",
+      "explanation": {
+        "pt": "Você ouviu: 'Eu acordo às seis e meia de manhã.'",
+        "en": "You heard: 'Eu acordo às seis e meia de manhã.'",
+        "ar": "سمعت: 'Eu acordo às seis e meia de manhã.'"
+      }
+    },
+    {
+      "type": "dictation",
+      "prompt": {
+        "pt": "Ouça e escreva o que você ouviu.",
+        "en": "Listen and type what you hear.",
+        "ar": "استمع واكتب ما سمعته."
+      },
+      "options": [],
+      "answer": "Bruno, que horas você acorda?",
+      "accepted": [],
+      "audio": "Bruno, que horas você acorda?",
+      "explanation": {
+        "pt": "A frase correta: 'Bruno, que horas você acorda?'",
+        "en": "The correct sentence: 'Bruno, que horas você acorda?'",
+        "ar": "الجملة الصحيحة: 'Bruno, que horas você acorda?'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "acorda?",
+          "en": "acorda?",
+          "ar": "acorda?"
+        },
+        {
+          "pt": "Bruno,",
+          "en": "Bruno,",
+          "ar": "Bruno,"
+        },
+        {
+          "pt": "horas",
+          "en": "horas",
+          "ar": "horas"
+        }
+      ],
+      "answer": "Bruno, que horas você acorda?",
+      "accepted": [
+        "Bruno, que horas você acorda?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Bruno, que horas você acorda?'",
+        "en": "The correct order: 'Bruno, what time do you wake up?'",
+        "ar": "الترتيب الصحيح: 'برونو، في أي ساعة تستيقظ؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "são duas horas",
+          "en": "the clock",
+          "ar": "são duas horas"
+        },
+        {
+          "pt": "o relógio",
+          "en": "it's one o'clock",
+          "ar": "o relógio"
+        },
+        {
+          "pt": "que horas são?",
+          "en": "the hour",
+          "ar": "que horas são?"
+        },
+        {
+          "pt": "a hora",
+          "en": "in the morning",
+          "ar": "a hora"
+        },
+        {
+          "pt": "é uma hora",
+          "en": "what time is it?",
+          "ar": "é uma hora"
+        },
+        {
+          "pt": "de manhã",
+          "en": "it's two o'clock",
+          "ar": "de manhã"
+        }
+      ],
+      "answer": "são duas horas::the clock|o relógio::it's one o'clock|que horas são?::the hour|a hora::in the morning|é uma hora::what time is it?|de manhã::it's two o'clock",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Bruno, que horas você acorda?",
+          "en": "I shower, have breakfast and leave at eight.",
+          "ar": "برونو، في أي ساعة تستيقظ؟"
+        },
+        {
+          "pt": "Você chega em casa que horas?",
+          "en": "What time do you arrive home?",
+          "ar": "في أي ساعة تصل إلى المنزل؟"
+        },
+        {
+          "pt": "Tomo banho, tomo café e saio às oito.",
+          "en": "Bruno, what time do you wake up?",
+          "ar": "أستحم، أتناول الفطور وأخرج في الثامنة."
+        }
+      ],
+      "answer": "Bruno, que horas você acorda?",
+      "accepted": [],
+      "audio": "Bruno, que horas você acorda?",
+      "explanation": {
+        "pt": "Você ouviu: 'Bruno, que horas você acorda?' — 'Bruno, what time do you wake up?'",
+        "en": "You heard: 'Bruno, que horas você acorda?' — 'Bruno, what time do you wake up?'",
+        "ar": "سمعت: 'Bruno, que horas você acorda?' — 'برونو، في أي ساعة تستيقظ؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Eu acordo às seis e meia de manhã.",
+          "en": "What time do you arrive home?",
+          "ar": "وماذا تفعل بعد ذلك؟"
+        },
+        {
+          "pt": "E o que você faz depois?",
+          "en": "And what do you do after?",
+          "ar": "أستيقظ في السادسة والنصف صباحًا."
+        },
+        {
+          "pt": "Você chega em casa que horas?",
+          "en": "I wake up at six thirty in the morning.",
+          "ar": "في أي ساعة تصل إلى المنزل؟"
+        }
+      ],
+      "answer": "Eu acordo às seis e meia de manhã.",
+      "accepted": [],
+      "audio": "Eu acordo às seis e meia de manhã.",
+      "explanation": {
+        "pt": "Você ouviu: 'Eu acordo às seis e meia de manhã.' — 'I wake up at six thirty in the morning.'",
+        "en": "You heard: 'Eu acordo às seis e meia de manhã.' — 'I wake up at six thirty in the morning.'",
+        "ar": "سمعت: 'Eu acordo às seis e meia de manhã.' — 'أستيقظ في السادسة والنصف صباحًا.'"
+      }
+    }
+  ],
+  "speaking": {
+    "title": {
+      "pt": "Fale Agora — Ouça e Repita",
+      "en": "Speak Now — Listen and Repeat",
+      "ar": "تحدث الآن — استمع وكرر"
+    },
+    "phrases": [
+      {
+        "pt": "Bruno, que horas você acorda?",
+        "en": "Bruno, what time do you wake up?",
+        "ar": "برونو، في أي ساعة تستيقظ؟"
+      },
+      {
+        "pt": "Eu acordo às seis e meia de manhã.",
+        "en": "I wake up at six thirty in the morning.",
+        "ar": "أستيقظ في السادسة والنصف صباحًا."
+      },
+      {
+        "pt": "E o que você faz depois?",
+        "en": "And what do you do after?",
+        "ar": "وماذا تفعل بعد ذلك؟"
+      },
+      {
+        "pt": "Tomo banho, tomo café e saio às oito.",
+        "en": "I shower, have breakfast and leave at eight.",
+        "ar": "أستحم، أتناول الفطور وأخرج في الثامنة."
+      },
+      {
+        "pt": "Você chega em casa que horas?",
+        "en": "What time do you arrive home?",
+        "ar": "في أي ساعة تصل إلى المنزل؟"
+      },
+      {
+        "pt": "Às seis da noite. Depois eu durmo cedo.",
+        "en": "At six in the evening. Then I sleep early.",
+        "ar": "في السادسة مساءً. ثم أنام مبكرًا."
+      },
+      {
+        "pt": "a hora",
+        "en": "the hour",
+        "ar": "الساعة"
+      },
+      {
+        "pt": "o relógio",
+        "en": "the clock",
+        "ar": "الساعة"
+      },
+      {
+        "pt": "que horas são?",
+        "en": "what time is it?",
+        "ar": "كم الساعة؟"
+      }
+    ]
+  },
+  "cultural_tips": {
+    "pt": "",
+    "en": "",
+    "ar": ""
+  }
+}

@@ -1,0 +1,1898 @@
+{
+  "id": "A1-03",
+  "level": "A1",
+  "level_name": {
+    "pt": "Iniciante",
+    "en": "Beginner",
+    "ar": "مبتدئ"
+  },
+  "title": {
+    "pt": "Números de 0 a 100",
+    "en": "Numbers 0 to 100",
+    "ar": "الأرقام من 0 إلى 100"
+  },
+  "objectives": [
+    {
+      "pt": "Contar de 0 a 100 em português",
+      "en": "Count from 0 to 100 in Portuguese",
+      "ar": "العد من 0 إلى 100 بالبرتغالية"
+    },
+    {
+      "pt": "Usar números em telefones e preços",
+      "en": "Use numbers in phones and prices",
+      "ar": "استخدام الأرقام في الهواتف والأسعار"
+    },
+    {
+      "pt": "Perguntar a idade",
+      "en": "Ask someone's age",
+      "ar": "السؤال عن العمر"
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "zero",
+      "ipa": "/ˈzɛ.ɾu/",
+      "en": "zero",
+      "ar": "صفر",
+      "example": {
+        "pt": "Bom dia! Um café, por favor.",
+        "en": "Good morning! A coffee, please.",
+        "ar": "صباح الخير! فنجان قهوة، من فضلك."
+      }
+    },
+    {
+      "pt": "um",
+      "ipa": "/ũw/",
+      "en": "one",
+      "ar": "واحد",
+      "example": {
+        "pt": "Bom dia! Um café, por favor.",
+        "en": "Good morning! A coffee, please.",
+        "ar": "صباح الخير! فنجان قهوة، من فضلك."
+      }
+    },
+    {
+      "pt": "dois",
+      "ipa": "/dojs/",
+      "en": "two",
+      "ar": "اثنان",
+      "example": {
+        "pt": "Bom dia! Um café, por favor.",
+        "en": "Good morning! A coffee, please.",
+        "ar": "صباح الخير! فنجان قهوة، من فضلك."
+      }
+    },
+    {
+      "pt": "três",
+      "ipa": "/tɾes/",
+      "en": "three",
+      "ar": "ثلاثة",
+      "example": {
+        "pt": "E o troco são três reais. Obrigado!",
+        "en": "And the change is three reais. Thank you!",
+        "ar": "والباقي ثلاثة ريالات. شكرًا!"
+      }
+    },
+    {
+      "pt": "quatro",
+      "ipa": "/ˈkwa.tɾu/",
+      "en": "four",
+      "ar": "أربعة",
+      "example": {
+        "pt": "Bom dia! Um café, por favor.",
+        "en": "Good morning! A coffee, please.",
+        "ar": "صباح الخير! فنجان قهوة، من فضلك."
+      }
+    },
+    {
+      "pt": "cinco",
+      "ipa": "/ˈsĩ.ku/",
+      "en": "five",
+      "ar": "خمسة",
+      "example": {
+        "pt": "Eu tenho vinte e cinco anos.",
+        "en": "I am twenty-five years old.",
+        "ar": "عمري خمسة وعشرون عامًا."
+      }
+    },
+    {
+      "pt": "seis",
+      "ipa": "/sejs/",
+      "en": "six",
+      "ar": "ستة",
+      "example": {
+        "pt": "Bom dia! Um café, por favor.",
+        "en": "Good morning! A coffee, please.",
+        "ar": "صباح الخير! فنجان قهوة، من فضلك."
+      }
+    },
+    {
+      "pt": "sete",
+      "ipa": "/ˈsɛ.tʃi/",
+      "en": "seven",
+      "ar": "سبعة",
+      "example": {
+        "pt": "Bom dia! São sete reais.",
+        "en": "Good morning! It's seven reais.",
+        "ar": "صباح الخير! سبعة ريالات."
+      }
+    },
+    {
+      "pt": "oito",
+      "ipa": "/ˈoj.tu/",
+      "en": "eight",
+      "ar": "ثمانية",
+      "example": {
+        "pt": "Meu número é nove, oito, sete.",
+        "en": "My number is nine, eight, seven.",
+        "ar": "رقمي هو تسعة، ثمانية، سبعة."
+      }
+    },
+    {
+      "pt": "nove",
+      "ipa": "/ˈnɔ.vi/",
+      "en": "nine",
+      "ar": "تسعة",
+      "example": {
+        "pt": "Meu número é nove, oito, sete.",
+        "en": "My number is nine, eight, seven.",
+        "ar": "رقمي هو تسعة، ثمانية، سبعة."
+      }
+    },
+    {
+      "pt": "dez",
+      "ipa": "/dɛs/",
+      "en": "ten",
+      "ar": "عشرة",
+      "example": {
+        "pt": "Aqui estão dez reais.",
+        "en": "Here is ten reais.",
+        "ar": "ها هي عشرة ريالات."
+      }
+    },
+    {
+      "pt": "vinte",
+      "ipa": "/ˈvĩ.tʃi/",
+      "en": "twenty",
+      "ar": "عشرون",
+      "example": {
+        "pt": "Eu tenho vinte e cinco anos.",
+        "en": "I am twenty-five years old.",
+        "ar": "عمري خمسة وعشرون عامًا."
+      }
+    },
+    {
+      "pt": "trinta",
+      "ipa": "/ˈtɾĩ.ta/",
+      "en": "thirty",
+      "ar": "ثلاثون",
+      "example": {
+        "pt": "Eu tenho trinta anos.",
+        "en": "I am thirty years old.",
+        "ar": "عمري ثلاثون عامًا."
+      }
+    },
+    {
+      "pt": "cem",
+      "ipa": "/sẽj/",
+      "en": "one hundred",
+      "ar": "مئة",
+      "example": {
+        "pt": "Bom dia! Um café, por favor.",
+        "en": "Good morning! A coffee, please.",
+        "ar": "صباح الخير! فنجان قهوة، من فضلك."
+      }
+    },
+    {
+      "pt": "a idade",
+      "ipa": "/a iˈda.dʒi/",
+      "en": "the age",
+      "ar": "العمر",
+      "example": {
+        "pt": "Bom dia! Um café, por favor.",
+        "en": "Good morning! A coffee, please.",
+        "ar": "صباح الخير! فنجان قهوة، من فضلك."
+      }
+    },
+    {
+      "pt": "o preço",
+      "ipa": "/u ˈpɾe.su/",
+      "en": "the price",
+      "ar": "السعر",
+      "example": {
+        "pt": "E o troco são três reais. Obrigado!",
+        "en": "And the change is three reais. Thank you!",
+        "ar": "والباقي ثلاثة ريالات. شكرًا!"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "title": {
+        "pt": "Números 11-20",
+        "en": "Numbers 11-20",
+        "ar": "الأرقام من 11 إلى 20"
+      },
+      "explanation": {
+        "pt": "Onze (11), doze (12), treze (13), quatorze (14), quinze (15), dezesseis (16), dezessete (17), dezoito (18), dezenove (19), vinte (20). Do 21 ao 29: vinte e um, vinte e dois, etc.",
+        "en": "Onze (11), doze (12), treze (13), quatorze (14), quinze (15), dezesseis (16), dezessete (17), dezoito (18), dezenove (19), vinte (20). From 21 to 29: vinte e um, vinte e dois, etc.",
+        "ar": "أحد عشر (11)، اثنا عشر (12)، ثلاثة عشر (13)، أربعة عشر (14)، خمسة عشر (15)، ستة عشر (16)، سبعة عشر (17)، ثمانية عشر (18)، تسعة عشر (19)، عشرون (20). من 21 إلى 29: vinte e um، vinte e dois، إلخ."
+      },
+      "examples": [
+        {
+          "pt": "Eu tenho vinte e cinco anos.",
+          "en": "I am twenty-five years old.",
+          "ar": "عمري خمسة وعشرون عامًا."
+        },
+        {
+          "pt": "O café custa sete reais.",
+          "en": "The coffee costs seven reais.",
+          "ar": "سعر القهوة سبعة ريالات."
+        },
+        {
+          "pt": "Meu número é nove, oito, sete.",
+          "en": "My number is nine, eight, seven.",
+          "ar": "رقمي هو تسعة، ثمانية، سبعة."
+        }
+      ]
+    },
+    {
+      "title": {
+        "pt": "Perguntando a Idade",
+        "en": "Asking Age",
+        "ar": "السؤال عن العمر"
+      },
+      "explanation": {
+        "pt": "Para perguntar a idade: 'Quantos anos você tem?' A resposta: 'Eu tenho X anos.' O verbo 'ter' (to have) é usado, não 'ser'.",
+        "en": "To ask age: 'Quantos anos você tem?' (How old are you?). The answer: 'Eu tenho X anos.' (I am X years old.) The verb 'ter' (to have) is used, not 'ser' (to be).",
+        "ar": "للسؤال عن العمر: 'Quantos anos você tem?' (كم عمرك؟). الجواب: 'Eu tenho X anos.' (عمري X سنة). يُستخدم الفعل 'ter' (يملك) وليس 'ser' (يكون)."
+      },
+      "examples": [
+        {
+          "pt": "Quantos anos você tem?",
+          "en": "How old are you?",
+          "ar": "كم عمرك؟"
+        },
+        {
+          "pt": "Eu tenho trinta anos.",
+          "en": "I am thirty years old.",
+          "ar": "عمري ثلاثون عامًا."
+        },
+        {
+          "pt": "Ela tem vinte anos.",
+          "en": "She is twenty years old.",
+          "ar": "عمرها عشرون عامًا."
+        }
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": {
+      "pt": "Comprando Café",
+      "en": "Buying Coffee",
+      "ar": "شراء القهوة"
+    },
+    "lines": [
+      {
+        "speaker": "Cliente",
+        "pt": "Bom dia! Um café, por favor.",
+        "en": "Good morning! A coffee, please.",
+        "ar": "صباح الخير! فنجان قهوة، من فضلك."
+      },
+      {
+        "speaker": "Garçom",
+        "pt": "Bom dia! São sete reais.",
+        "en": "Good morning! It's seven reais.",
+        "ar": "صباح الخير! سبعة ريالات."
+      },
+      {
+        "speaker": "Cliente",
+        "pt": "Aqui estão dez reais.",
+        "en": "Here is ten reais.",
+        "ar": "ها هي عشرة ريالات."
+      },
+      {
+        "speaker": "Garçom",
+        "pt": "E o troco são três reais. Obrigado!",
+        "en": "And the change is three reais. Thank you!",
+        "ar": "والباقي ثلاثة ريالات. شكرًا!"
+      },
+      {
+        "speaker": "Cliente",
+        "pt": "De nada. Até logo!",
+        "en": "You're welcome. See you later!",
+        "ar": "عفوًا. أراك لاحقًا!"
+      }
+    ]
+  },
+  "reading": {
+    "title": {
+      "pt": "Números no Dia a Dia",
+      "en": "Numbers in Daily Life",
+      "ar": "الأرقام في الحياة اليومية"
+    },
+    "text_pt": "Os números são muito importantes. Na padaria, o pão custa cinco reais. O ônibus número vinte vai para o centro. O telefone dela é 9876-5432. Hoje ela tem vinte e cinco anos e está muito feliz.",
+    "text_en": "Numbers are very important. At the bakery, the bread costs five reais. Bus number twenty goes downtown. Her phone number is 9876-5432. Today she is twenty-five years old and is very happy.",
+    "text_ar": "الأرقام مهمة جدًا. في المخبز، سعر الخبز خمسة ريالات. الحافلة رقم عشرين تذهب إلى المركز. رقم هاتفها 9876-5432. اليوم عمرها خمسة وعشرون عامًا وهي سعيدة جدًا."
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Como se diz 15 em português?",
+        "en": "How do you say 15 in Portuguese?",
+        "ar": "كيف تقول 15 بالبرتغالية؟"
+      },
+      "options": [
+        {
+          "pt": "quatorze",
+          "en": "quatorze",
+          "ar": "quatorze"
+        },
+        {
+          "pt": "quinze",
+          "en": "quinze",
+          "ar": "quinze"
+        },
+        {
+          "pt": "dezesseis",
+          "en": "dezesseis",
+          "ar": "dezesseis"
+        }
+      ],
+      "answer": "quinze",
+      "explanation": {
+        "pt": "15 é 'quinze'.",
+        "en": "15 is 'quinze'.",
+        "ar": "15 هي 'quinze'."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Quantos anos você tem? - Eu ___ vinte anos.",
+        "en": "How old are you? - I ___ twenty years old.",
+        "ar": "كم عمرك؟ - عمري عشرون عامًا."
+      },
+      "options": [
+        {
+          "pt": "sou",
+          "en": "sou",
+          "ar": "sou"
+        },
+        {
+          "pt": "tenho",
+          "en": "tenho",
+          "ar": "tenho"
+        },
+        {
+          "pt": "estou",
+          "en": "estou",
+          "ar": "estou"
+        }
+      ],
+      "answer": "tenho",
+      "explanation": {
+        "pt": "Usamos 'ter' para idade: 'eu tenho'.",
+        "en": "We use 'ter' for age: 'eu tenho'.",
+        "ar": "نستخدم 'ter' للعمر: 'eu tenho'."
+      }
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza: 'one hundred'",
+        "en": "Translate: 'one hundred'",
+        "ar": "ترجم: 'one hundred'"
+      },
+      "options": [],
+      "answer": "cem",
+      "explanation": {
+        "pt": "'cem' significa one hundred.",
+        "en": "'cem' means one hundred.",
+        "ar": "'cem' تعني مئة."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Um",
+          "en": "Um",
+          "ar": "Um"
+        },
+        {
+          "pt": "por",
+          "en": "por",
+          "ar": "por"
+        },
+        {
+          "pt": "Bom",
+          "en": "Bom",
+          "ar": "Bom"
+        },
+        {
+          "pt": "dia!",
+          "en": "dia!",
+          "ar": "dia!"
+        },
+        {
+          "pt": "café,",
+          "en": "café,",
+          "ar": "café,"
+        },
+        {
+          "pt": "favor.",
+          "en": "favor.",
+          "ar": "favor."
+        }
+      ],
+      "answer": "Bom dia! Um café, por favor.",
+      "accepted": [
+        "Bom dia! Um café, por favor."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Bom dia! Um café, por favor.'",
+        "en": "The correct order: 'Good morning! A coffee, please.'",
+        "ar": "الترتيب الصحيح: 'صباح الخير! فنجان قهوة، من فضلك.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "quatro",
+          "en": "two",
+          "ar": "quatro"
+        },
+        {
+          "pt": "dois",
+          "en": "four",
+          "ar": "dois"
+        },
+        {
+          "pt": "cinco",
+          "en": "five",
+          "ar": "cinco"
+        },
+        {
+          "pt": "zero",
+          "en": "zero",
+          "ar": "zero"
+        },
+        {
+          "pt": "um",
+          "en": "three",
+          "ar": "um"
+        },
+        {
+          "pt": "três",
+          "en": "one",
+          "ar": "três"
+        }
+      ],
+      "answer": "quatro::two|dois::four|cinco::five|zero::zero|um::three|três::one",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Aqui estão dez reais.",
+          "en": "And the change is three reais. Thank you!",
+          "ar": "صباح الخير! فنجان قهوة، من فضلك."
+        },
+        {
+          "pt": "Bom dia! Um café, por favor.",
+          "en": "Good morning! A coffee, please.",
+          "ar": "والباقي ثلاثة ريالات. شكرًا!"
+        },
+        {
+          "pt": "E o troco são três reais. Obrigado!",
+          "en": "Here is ten reais.",
+          "ar": "ها هي عشرة ريالات."
+        }
+      ],
+      "answer": "Bom dia! Um café, por favor.",
+      "accepted": [],
+      "audio": "Bom dia! Um café, por favor.",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia! Um café, por favor.' — 'Good morning! A coffee, please.'",
+        "en": "You heard: 'Bom dia! Um café, por favor.' — 'Good morning! A coffee, please.'",
+        "ar": "سمعت: 'Bom dia! Um café, por favor.' — 'صباح الخير! فنجان قهوة، من فضلك.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "E o troco são três reais. Obrigado!",
+          "en": "Good morning! It's seven reais.",
+          "ar": "صباح الخير! سبعة ريالات."
+        },
+        {
+          "pt": "Bom dia! Um café, por favor.",
+          "en": "And the change is three reais. Thank you!",
+          "ar": "والباقي ثلاثة ريالات. شكرًا!"
+        },
+        {
+          "pt": "Bom dia! São sete reais.",
+          "en": "Good morning! A coffee, please.",
+          "ar": "صباح الخير! فنجان قهوة، من فضلك."
+        }
+      ],
+      "answer": "Bom dia! São sete reais.",
+      "accepted": [],
+      "audio": "Bom dia! São sete reais.",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia! São sete reais.' — 'Good morning! It's seven reais.'",
+        "en": "You heard: 'Bom dia! São sete reais.' — 'Good morning! It's seven reais.'",
+        "ar": "سمعت: 'Bom dia! São sete reais.' — 'صباح الخير! سبعة ريالات.'"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Eu ___ vinte e cinco anos.",
+        "en": "Eu ___ vinte e cinco anos.",
+        "ar": "Eu ___ vinte e cinco anos."
+      },
+      "options": [
+        {
+          "pt": "é",
+          "en": "é",
+          "ar": "é"
+        },
+        {
+          "pt": "tenho",
+          "en": "tenho",
+          "ar": "tenho"
+        },
+        {
+          "pt": "sete",
+          "en": "sete",
+          "ar": "sete"
+        }
+      ],
+      "answer": "tenho",
+      "accepted": [],
+      "explanation": {
+        "pt": "A resposta é 'tenho'. Frase completa: Eu tenho vinte e cinco anos.",
+        "en": "The answer is 'tenho'. Full sentence: I am twenty-five years old.",
+        "ar": "الإجابة الصحيحة: 'tenho'. الجملة كاملة: عمري خمسة وعشرون عامًا."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "dia!",
+          "en": "dia!",
+          "ar": "dia!"
+        },
+        {
+          "pt": "café,",
+          "en": "café,",
+          "ar": "café,"
+        },
+        {
+          "pt": "Bom",
+          "en": "Bom",
+          "ar": "Bom"
+        },
+        {
+          "pt": "por",
+          "en": "por",
+          "ar": "por"
+        },
+        {
+          "pt": "favor.",
+          "en": "favor.",
+          "ar": "favor."
+        },
+        {
+          "pt": "Um",
+          "en": "Um",
+          "ar": "Um"
+        }
+      ],
+      "answer": "Bom dia! Um café, por favor.",
+      "accepted": [
+        "Bom dia! Um café, por favor."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Bom dia! Um café, por favor.'",
+        "en": "The correct order: 'Good morning! A coffee, please.'",
+        "ar": "الترتيب الصحيح: 'صباح الخير! فنجان قهوة، من فضلك.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "um",
+          "en": "five",
+          "ar": "um"
+        },
+        {
+          "pt": "dois",
+          "en": "one",
+          "ar": "dois"
+        },
+        {
+          "pt": "zero",
+          "en": "four",
+          "ar": "zero"
+        },
+        {
+          "pt": "cinco",
+          "en": "zero",
+          "ar": "cinco"
+        },
+        {
+          "pt": "três",
+          "en": "three",
+          "ar": "três"
+        },
+        {
+          "pt": "quatro",
+          "en": "two",
+          "ar": "quatro"
+        }
+      ],
+      "answer": "um::five|dois::one|zero::four|cinco::zero|três::three|quatro::two",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "De nada. Até logo!",
+          "en": "Good morning! A coffee, please.",
+          "ar": "عفوًا. أراك لاحقًا!"
+        },
+        {
+          "pt": "Aqui estão dez reais.",
+          "en": "Here is ten reais.",
+          "ar": "ها هي عشرة ريالات."
+        },
+        {
+          "pt": "Bom dia! Um café, por favor.",
+          "en": "You're welcome. See you later!",
+          "ar": "صباح الخير! فنجان قهوة، من فضلك."
+        }
+      ],
+      "answer": "Bom dia! Um café, por favor.",
+      "accepted": [],
+      "audio": "Bom dia! Um café, por favor.",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia! Um café, por favor.' — 'Good morning! A coffee, please.'",
+        "en": "You heard: 'Bom dia! Um café, por favor.' — 'Good morning! A coffee, please.'",
+        "ar": "سمعت: 'Bom dia! Um café, por favor.' — 'صباح الخير! فنجان قهوة، من فضلك.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Aqui estão dez reais.",
+          "en": "Good morning! It's seven reais.",
+          "ar": "صباح الخير! سبعة ريالات."
+        },
+        {
+          "pt": "Bom dia! São sete reais.",
+          "en": "Here is ten reais.",
+          "ar": "ها هي عشرة ريالات."
+        },
+        {
+          "pt": "Bom dia! Um café, por favor.",
+          "en": "Good morning! A coffee, please.",
+          "ar": "صباح الخير! فنجان قهوة، من فضلك."
+        }
+      ],
+      "answer": "Bom dia! São sete reais.",
+      "accepted": [],
+      "audio": "Bom dia! São sete reais.",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia! São sete reais.' — 'Good morning! It's seven reais.'",
+        "en": "You heard: 'Bom dia! São sete reais.' — 'Good morning! It's seven reais.'",
+        "ar": "سمعت: 'Bom dia! São sete reais.' — 'صباح الخير! سبعة ريالات.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "café,",
+          "en": "café,",
+          "ar": "café,"
+        },
+        {
+          "pt": "por",
+          "en": "por",
+          "ar": "por"
+        },
+        {
+          "pt": "Bom",
+          "en": "Bom",
+          "ar": "Bom"
+        },
+        {
+          "pt": "dia!",
+          "en": "dia!",
+          "ar": "dia!"
+        },
+        {
+          "pt": "favor.",
+          "en": "favor.",
+          "ar": "favor."
+        },
+        {
+          "pt": "Um",
+          "en": "Um",
+          "ar": "Um"
+        }
+      ],
+      "answer": "Bom dia! Um café, por favor.",
+      "accepted": [
+        "Bom dia! Um café, por favor."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Bom dia! Um café, por favor.'",
+        "en": "The correct order: 'Good morning! A coffee, please.'",
+        "ar": "الترتيب الصحيح: 'صباح الخير! فنجان قهوة، من فضلك.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "quatro",
+          "en": "four",
+          "ar": "quatro"
+        },
+        {
+          "pt": "um",
+          "en": "three",
+          "ar": "um"
+        },
+        {
+          "pt": "três",
+          "en": "zero",
+          "ar": "três"
+        },
+        {
+          "pt": "cinco",
+          "en": "two",
+          "ar": "cinco"
+        },
+        {
+          "pt": "dois",
+          "en": "five",
+          "ar": "dois"
+        },
+        {
+          "pt": "zero",
+          "en": "one",
+          "ar": "zero"
+        }
+      ],
+      "answer": "quatro::four|um::three|três::zero|cinco::two|dois::five|zero::one",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "De nada. Até logo!",
+          "en": "You're welcome. See you later!",
+          "ar": "صباح الخير! فنجان قهوة، من فضلك."
+        },
+        {
+          "pt": "Bom dia! Um café, por favor.",
+          "en": "Good morning! A coffee, please.",
+          "ar": "والباقي ثلاثة ريالات. شكرًا!"
+        },
+        {
+          "pt": "E o troco são três reais. Obrigado!",
+          "en": "And the change is three reais. Thank you!",
+          "ar": "عفوًا. أراك لاحقًا!"
+        }
+      ],
+      "answer": "Bom dia! Um café, por favor.",
+      "accepted": [],
+      "audio": "Bom dia! Um café, por favor.",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia! Um café, por favor.' — 'Good morning! A coffee, please.'",
+        "en": "You heard: 'Bom dia! Um café, por favor.' — 'Good morning! A coffee, please.'",
+        "ar": "سمعت: 'Bom dia! Um café, por favor.' — 'صباح الخير! فنجان قهوة، من فضلك.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "De nada. Até logo!",
+          "en": "Good morning! It's seven reais.",
+          "ar": "صباح الخير! سبعة ريالات."
+        },
+        {
+          "pt": "Bom dia! São sete reais.",
+          "en": "You're welcome. See you later!",
+          "ar": "عفوًا. أراك لاحقًا!"
+        },
+        {
+          "pt": "Aqui estão dez reais.",
+          "en": "Here is ten reais.",
+          "ar": "ها هي عشرة ريالات."
+        }
+      ],
+      "answer": "Bom dia! São sete reais.",
+      "accepted": [],
+      "audio": "Bom dia! São sete reais.",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia! São sete reais.' — 'Good morning! It's seven reais.'",
+        "en": "You heard: 'Bom dia! São sete reais.' — 'Good morning! It's seven reais.'",
+        "ar": "سمعت: 'Bom dia! São sete reais.' — 'صباح الخير! سبعة ريالات.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "por",
+          "en": "por",
+          "ar": "por"
+        },
+        {
+          "pt": "favor.",
+          "en": "favor.",
+          "ar": "favor."
+        },
+        {
+          "pt": "dia!",
+          "en": "dia!",
+          "ar": "dia!"
+        },
+        {
+          "pt": "café,",
+          "en": "café,",
+          "ar": "café,"
+        },
+        {
+          "pt": "Bom",
+          "en": "Bom",
+          "ar": "Bom"
+        },
+        {
+          "pt": "Um",
+          "en": "Um",
+          "ar": "Um"
+        }
+      ],
+      "answer": "Bom dia! Um café, por favor.",
+      "accepted": [
+        "Bom dia! Um café, por favor."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Bom dia! Um café, por favor.'",
+        "en": "The correct order: 'Good morning! A coffee, please.'",
+        "ar": "الترتيب الصحيح: 'صباح الخير! فنجان قهوة، من فضلك.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "quatro",
+          "en": "four",
+          "ar": "quatro"
+        },
+        {
+          "pt": "cinco",
+          "en": "one",
+          "ar": "cinco"
+        },
+        {
+          "pt": "um",
+          "en": "three",
+          "ar": "um"
+        },
+        {
+          "pt": "dois",
+          "en": "zero",
+          "ar": "dois"
+        },
+        {
+          "pt": "zero",
+          "en": "five",
+          "ar": "zero"
+        },
+        {
+          "pt": "três",
+          "en": "two",
+          "ar": "três"
+        }
+      ],
+      "answer": "quatro::four|cinco::one|um::three|dois::zero|zero::five|três::two",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "De nada. Até logo!",
+          "en": "Good morning! It's seven reais.",
+          "ar": "عفوًا. أراك لاحقًا!"
+        },
+        {
+          "pt": "Bom dia! Um café, por favor.",
+          "en": "Good morning! A coffee, please.",
+          "ar": "صباح الخير! سبعة ريالات."
+        },
+        {
+          "pt": "Bom dia! São sete reais.",
+          "en": "You're welcome. See you later!",
+          "ar": "صباح الخير! فنجان قهوة، من فضلك."
+        }
+      ],
+      "answer": "Bom dia! Um café, por favor.",
+      "accepted": [],
+      "audio": "Bom dia! Um café, por favor.",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia! Um café, por favor.' — 'Good morning! A coffee, please.'",
+        "en": "You heard: 'Bom dia! Um café, por favor.' — 'Good morning! A coffee, please.'",
+        "ar": "سمعت: 'Bom dia! Um café, por favor.' — 'صباح الخير! فنجان قهوة، من فضلك.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "De nada. Até logo!",
+          "en": "Here is ten reais.",
+          "ar": "عفوًا. أراك لاحقًا!"
+        },
+        {
+          "pt": "Aqui estão dez reais.",
+          "en": "Good morning! It's seven reais.",
+          "ar": "ها هي عشرة ريالات."
+        },
+        {
+          "pt": "Bom dia! São sete reais.",
+          "en": "You're welcome. See you later!",
+          "ar": "صباح الخير! سبعة ريالات."
+        }
+      ],
+      "answer": "Bom dia! São sete reais.",
+      "accepted": [],
+      "audio": "Bom dia! São sete reais.",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia! São sete reais.' — 'Good morning! It's seven reais.'",
+        "en": "You heard: 'Bom dia! São sete reais.' — 'Good morning! It's seven reais.'",
+        "ar": "سمعت: 'Bom dia! São sete reais.' — 'صباح الخير! سبعة ريالات.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Bom",
+          "en": "Bom",
+          "ar": "Bom"
+        },
+        {
+          "pt": "favor.",
+          "en": "favor.",
+          "ar": "favor."
+        },
+        {
+          "pt": "por",
+          "en": "por",
+          "ar": "por"
+        },
+        {
+          "pt": "Um",
+          "en": "Um",
+          "ar": "Um"
+        },
+        {
+          "pt": "dia!",
+          "en": "dia!",
+          "ar": "dia!"
+        },
+        {
+          "pt": "café,",
+          "en": "café,",
+          "ar": "café,"
+        }
+      ],
+      "answer": "Bom dia! Um café, por favor.",
+      "accepted": [
+        "Bom dia! Um café, por favor."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Bom dia! Um café, por favor.'",
+        "en": "The correct order: 'Good morning! A coffee, please.'",
+        "ar": "الترتيب الصحيح: 'صباح الخير! فنجان قهوة، من فضلك.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "quatro",
+          "en": "five",
+          "ar": "quatro"
+        },
+        {
+          "pt": "zero",
+          "en": "zero",
+          "ar": "zero"
+        },
+        {
+          "pt": "um",
+          "en": "one",
+          "ar": "um"
+        },
+        {
+          "pt": "três",
+          "en": "four",
+          "ar": "três"
+        },
+        {
+          "pt": "dois",
+          "en": "three",
+          "ar": "dois"
+        },
+        {
+          "pt": "cinco",
+          "en": "two",
+          "ar": "cinco"
+        }
+      ],
+      "answer": "quatro::five|zero::zero|um::one|três::four|dois::three|cinco::two",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "De nada. Até logo!",
+          "en": "You're welcome. See you later!",
+          "ar": "عفوًا. أراك لاحقًا!"
+        },
+        {
+          "pt": "Bom dia! Um café, por favor.",
+          "en": "Here is ten reais.",
+          "ar": "ها هي عشرة ريالات."
+        },
+        {
+          "pt": "Aqui estão dez reais.",
+          "en": "Good morning! A coffee, please.",
+          "ar": "صباح الخير! فنجان قهوة، من فضلك."
+        }
+      ],
+      "answer": "Bom dia! Um café, por favor.",
+      "accepted": [],
+      "audio": "Bom dia! Um café, por favor.",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia! Um café, por favor.' — 'Good morning! A coffee, please.'",
+        "en": "You heard: 'Bom dia! Um café, por favor.' — 'Good morning! A coffee, please.'",
+        "ar": "سمعت: 'Bom dia! Um café, por favor.' — 'صباح الخير! فنجان قهوة، من فضلك.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Bom dia! Um café, por favor.",
+          "en": "Good morning! It's seven reais.",
+          "ar": "صباح الخير! سبعة ريالات."
+        },
+        {
+          "pt": "E o troco são três reais. Obrigado!",
+          "en": "And the change is three reais. Thank you!",
+          "ar": "صباح الخير! فنجان قهوة، من فضلك."
+        },
+        {
+          "pt": "Bom dia! São sete reais.",
+          "en": "Good morning! A coffee, please.",
+          "ar": "والباقي ثلاثة ريالات. شكرًا!"
+        }
+      ],
+      "answer": "Bom dia! São sete reais.",
+      "accepted": [],
+      "audio": "Bom dia! São sete reais.",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia! São sete reais.' — 'Good morning! It's seven reais.'",
+        "en": "You heard: 'Bom dia! São sete reais.' — 'Good morning! It's seven reais.'",
+        "ar": "سمعت: 'Bom dia! São sete reais.' — 'صباح الخير! سبعة ريالات.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Bom",
+          "en": "Bom",
+          "ar": "Bom"
+        },
+        {
+          "pt": "café,",
+          "en": "café,",
+          "ar": "café,"
+        },
+        {
+          "pt": "dia!",
+          "en": "dia!",
+          "ar": "dia!"
+        },
+        {
+          "pt": "por",
+          "en": "por",
+          "ar": "por"
+        },
+        {
+          "pt": "favor.",
+          "en": "favor.",
+          "ar": "favor."
+        },
+        {
+          "pt": "Um",
+          "en": "Um",
+          "ar": "Um"
+        }
+      ],
+      "answer": "Bom dia! Um café, por favor.",
+      "accepted": [
+        "Bom dia! Um café, por favor."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Bom dia! Um café, por favor.'",
+        "en": "The correct order: 'Good morning! A coffee, please.'",
+        "ar": "الترتيب الصحيح: 'صباح الخير! فنجان قهوة، من فضلك.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "três",
+          "en": "two",
+          "ar": "três"
+        },
+        {
+          "pt": "cinco",
+          "en": "five",
+          "ar": "cinco"
+        },
+        {
+          "pt": "zero",
+          "en": "four",
+          "ar": "zero"
+        },
+        {
+          "pt": "um",
+          "en": "three",
+          "ar": "um"
+        },
+        {
+          "pt": "quatro",
+          "en": "one",
+          "ar": "quatro"
+        },
+        {
+          "pt": "dois",
+          "en": "zero",
+          "ar": "dois"
+        }
+      ],
+      "answer": "três::two|cinco::five|zero::four|um::three|quatro::one|dois::zero",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Bom dia! Um café, por favor.",
+          "en": "You're welcome. See you later!",
+          "ar": "عفوًا. أراك لاحقًا!"
+        },
+        {
+          "pt": "Bom dia! São sete reais.",
+          "en": "Good morning! It's seven reais.",
+          "ar": "صباح الخير! فنجان قهوة، من فضلك."
+        },
+        {
+          "pt": "De nada. Até logo!",
+          "en": "Good morning! A coffee, please.",
+          "ar": "صباح الخير! سبعة ريالات."
+        }
+      ],
+      "answer": "Bom dia! Um café, por favor.",
+      "accepted": [],
+      "audio": "Bom dia! Um café, por favor.",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia! Um café, por favor.' — 'Good morning! A coffee, please.'",
+        "en": "You heard: 'Bom dia! Um café, por favor.' — 'Good morning! A coffee, please.'",
+        "ar": "سمعت: 'Bom dia! Um café, por favor.' — 'صباح الخير! فنجان قهوة، من فضلك.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "E o troco são três reais. Obrigado!",
+          "en": "Good morning! It's seven reais.",
+          "ar": "والباقي ثلاثة ريالات. شكرًا!"
+        },
+        {
+          "pt": "Bom dia! São sete reais.",
+          "en": "And the change is three reais. Thank you!",
+          "ar": "صباح الخير! سبعة ريالات."
+        },
+        {
+          "pt": "De nada. Até logo!",
+          "en": "You're welcome. See you later!",
+          "ar": "عفوًا. أراك لاحقًا!"
+        }
+      ],
+      "answer": "Bom dia! São sete reais.",
+      "accepted": [],
+      "audio": "Bom dia! São sete reais.",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia! São sete reais.' — 'Good morning! It's seven reais.'",
+        "en": "You heard: 'Bom dia! São sete reais.' — 'Good morning! It's seven reais.'",
+        "ar": "سمعت: 'Bom dia! São sete reais.' — 'صباح الخير! سبعة ريالات.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "café,",
+          "en": "café,",
+          "ar": "café,"
+        },
+        {
+          "pt": "Bom",
+          "en": "Bom",
+          "ar": "Bom"
+        },
+        {
+          "pt": "favor.",
+          "en": "favor.",
+          "ar": "favor."
+        },
+        {
+          "pt": "dia!",
+          "en": "dia!",
+          "ar": "dia!"
+        },
+        {
+          "pt": "por",
+          "en": "por",
+          "ar": "por"
+        },
+        {
+          "pt": "Um",
+          "en": "Um",
+          "ar": "Um"
+        }
+      ],
+      "answer": "Bom dia! Um café, por favor.",
+      "accepted": [
+        "Bom dia! Um café, por favor."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Bom dia! Um café, por favor.'",
+        "en": "The correct order: 'Good morning! A coffee, please.'",
+        "ar": "الترتيب الصحيح: 'صباح الخير! فنجان قهوة، من فضلك.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "dois",
+          "en": "three",
+          "ar": "dois"
+        },
+        {
+          "pt": "três",
+          "en": "five",
+          "ar": "três"
+        },
+        {
+          "pt": "zero",
+          "en": "zero",
+          "ar": "zero"
+        },
+        {
+          "pt": "cinco",
+          "en": "four",
+          "ar": "cinco"
+        },
+        {
+          "pt": "um",
+          "en": "one",
+          "ar": "um"
+        },
+        {
+          "pt": "quatro",
+          "en": "two",
+          "ar": "quatro"
+        }
+      ],
+      "answer": "dois::three|três::five|zero::zero|cinco::four|um::one|quatro::two",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Bom dia! Um café, por favor.",
+          "en": "Good morning! It's seven reais.",
+          "ar": "صباح الخير! فنجان قهوة، من فضلك."
+        },
+        {
+          "pt": "Bom dia! São sete reais.",
+          "en": "Good morning! A coffee, please.",
+          "ar": "صباح الخير! سبعة ريالات."
+        },
+        {
+          "pt": "E o troco são três reais. Obrigado!",
+          "en": "And the change is three reais. Thank you!",
+          "ar": "والباقي ثلاثة ريالات. شكرًا!"
+        }
+      ],
+      "answer": "Bom dia! Um café, por favor.",
+      "accepted": [],
+      "audio": "Bom dia! Um café, por favor.",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia! Um café, por favor.' — 'Good morning! A coffee, please.'",
+        "en": "You heard: 'Bom dia! Um café, por favor.' — 'Good morning! A coffee, please.'",
+        "ar": "سمعت: 'Bom dia! Um café, por favor.' — 'صباح الخير! فنجان قهوة، من فضلك.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Bom dia! São sete reais.",
+          "en": "Here is ten reais.",
+          "ar": "صباح الخير! سبعة ريالات."
+        },
+        {
+          "pt": "De nada. Até logo!",
+          "en": "Good morning! It's seven reais.",
+          "ar": "عفوًا. أراك لاحقًا!"
+        },
+        {
+          "pt": "Aqui estão dez reais.",
+          "en": "You're welcome. See you later!",
+          "ar": "ها هي عشرة ريالات."
+        }
+      ],
+      "answer": "Bom dia! São sete reais.",
+      "accepted": [],
+      "audio": "Bom dia! São sete reais.",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia! São sete reais.' — 'Good morning! It's seven reais.'",
+        "en": "You heard: 'Bom dia! São sete reais.' — 'Good morning! It's seven reais.'",
+        "ar": "سمعت: 'Bom dia! São sete reais.' — 'صباح الخير! سبعة ريالات.'"
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'zero'",
+        "en": "Type in Portuguese: 'zero'",
+        "ar": "اكتب بالبرتغالية: 'صفر'"
+      },
+      "options": [],
+      "answer": "zero",
+      "accepted": [
+        "zero"
+      ],
+      "explanation": {
+        "pt": "'zero' significa 'zero'.",
+        "en": "'zero' means 'zero'.",
+        "ar": "'$zero' بالعربية: '$صفر'."
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'one'",
+        "en": "Type in Portuguese: 'one'",
+        "ar": "اكتب بالبرتغالية: 'واحد'"
+      },
+      "options": [],
+      "answer": "um",
+      "accepted": [
+        "um"
+      ],
+      "explanation": {
+        "pt": "'um' significa 'one'.",
+        "en": "'um' means 'one'.",
+        "ar": "'$um' بالعربية: '$واحد'."
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Bom dia! Um café, por favor.",
+          "en": "Bom dia! Um café, por favor.",
+          "ar": "Bom dia! Um café, por favor."
+        },
+        {
+          "pt": "E o troco são três reais. Obrigado!",
+          "en": "E o troco são três reais. Obrigado!",
+          "ar": "E o troco são três reais. Obrigado!"
+        },
+        {
+          "pt": "De nada. Até logo!",
+          "en": "De nada. Até logo!",
+          "ar": "De nada. Até logo!"
+        }
+      ],
+      "answer": "Bom dia! Um café, por favor.",
+      "accepted": [],
+      "audio": "Bom dia! Um café, por favor.",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia! Um café, por favor.'",
+        "en": "You heard: 'Bom dia! Um café, por favor.'",
+        "ar": "سمعت: 'Bom dia! Um café, por favor.'"
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Aqui estão dez reais.",
+          "en": "Aqui estão dez reais.",
+          "ar": "Aqui estão dez reais."
+        },
+        {
+          "pt": "De nada. Até logo!",
+          "en": "De nada. Até logo!",
+          "ar": "De nada. Até logo!"
+        },
+        {
+          "pt": "Bom dia! São sete reais.",
+          "en": "Bom dia! São sete reais.",
+          "ar": "Bom dia! São sete reais."
+        }
+      ],
+      "answer": "Bom dia! São sete reais.",
+      "accepted": [],
+      "audio": "Bom dia! São sete reais.",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia! São sete reais.'",
+        "en": "You heard: 'Bom dia! São sete reais.'",
+        "ar": "سمعت: 'Bom dia! São sete reais.'"
+      }
+    },
+    {
+      "type": "dictation",
+      "prompt": {
+        "pt": "Ouça e escreva o que você ouviu.",
+        "en": "Listen and type what you hear.",
+        "ar": "استمع واكتب ما سمعته."
+      },
+      "options": [],
+      "answer": "Bom dia! Um café, por favor.",
+      "accepted": [],
+      "audio": "Bom dia! Um café, por favor.",
+      "explanation": {
+        "pt": "A frase correta: 'Bom dia! Um café, por favor.'",
+        "en": "The correct sentence: 'Bom dia! Um café, por favor.'",
+        "ar": "الجملة الصحيحة: 'Bom dia! Um café, por favor.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Um",
+          "en": "Um",
+          "ar": "Um"
+        },
+        {
+          "pt": "favor.",
+          "en": "favor.",
+          "ar": "favor."
+        },
+        {
+          "pt": "por",
+          "en": "por",
+          "ar": "por"
+        },
+        {
+          "pt": "Bom",
+          "en": "Bom",
+          "ar": "Bom"
+        },
+        {
+          "pt": "dia!",
+          "en": "dia!",
+          "ar": "dia!"
+        },
+        {
+          "pt": "café,",
+          "en": "café,",
+          "ar": "café,"
+        }
+      ],
+      "answer": "Bom dia! Um café, por favor.",
+      "accepted": [
+        "Bom dia! Um café, por favor."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Bom dia! Um café, por favor.'",
+        "en": "The correct order: 'Good morning! A coffee, please.'",
+        "ar": "الترتيب الصحيح: 'صباح الخير! فنجان قهوة، من فضلك.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "quatro",
+          "en": "three",
+          "ar": "quatro"
+        },
+        {
+          "pt": "um",
+          "en": "four",
+          "ar": "um"
+        },
+        {
+          "pt": "três",
+          "en": "five",
+          "ar": "três"
+        },
+        {
+          "pt": "cinco",
+          "en": "two",
+          "ar": "cinco"
+        },
+        {
+          "pt": "dois",
+          "en": "zero",
+          "ar": "dois"
+        },
+        {
+          "pt": "zero",
+          "en": "one",
+          "ar": "zero"
+        }
+      ],
+      "answer": "quatro::three|um::four|três::five|cinco::two|dois::zero|zero::one",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Aqui estão dez reais.",
+          "en": "Here is ten reais.",
+          "ar": "صباح الخير! فنجان قهوة، من فضلك."
+        },
+        {
+          "pt": "Bom dia! Um café, por favor.",
+          "en": "Good morning! A coffee, please.",
+          "ar": "ها هي عشرة ريالات."
+        },
+        {
+          "pt": "Bom dia! São sete reais.",
+          "en": "Good morning! It's seven reais.",
+          "ar": "صباح الخير! سبعة ريالات."
+        }
+      ],
+      "answer": "Bom dia! Um café, por favor.",
+      "accepted": [],
+      "audio": "Bom dia! Um café, por favor.",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia! Um café, por favor.' — 'Good morning! A coffee, please.'",
+        "en": "You heard: 'Bom dia! Um café, por favor.' — 'Good morning! A coffee, please.'",
+        "ar": "سمعت: 'Bom dia! Um café, por favor.' — 'صباح الخير! فنجان قهوة، من فضلك.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Bom dia! São sete reais.",
+          "en": "Good morning! A coffee, please.",
+          "ar": "صباح الخير! سبعة ريالات."
+        },
+        {
+          "pt": "De nada. Até logo!",
+          "en": "Good morning! It's seven reais.",
+          "ar": "صباح الخير! فنجان قهوة، من فضلك."
+        },
+        {
+          "pt": "Bom dia! Um café, por favor.",
+          "en": "You're welcome. See you later!",
+          "ar": "عفوًا. أراك لاحقًا!"
+        }
+      ],
+      "answer": "Bom dia! São sete reais.",
+      "accepted": [],
+      "audio": "Bom dia! São sete reais.",
+      "explanation": {
+        "pt": "Você ouviu: 'Bom dia! São sete reais.' — 'Good morning! It's seven reais.'",
+        "en": "You heard: 'Bom dia! São sete reais.' — 'Good morning! It's seven reais.'",
+        "ar": "سمعت: 'Bom dia! São sete reais.' — 'صباح الخير! سبعة ريالات.'"
+      }
+    }
+  ],
+  "speaking": {
+    "title": {
+      "pt": "Fale Agora — Ouça e Repita",
+      "en": "Speak Now — Listen and Repeat",
+      "ar": "تحدث الآن — استمع وكرر"
+    },
+    "phrases": [
+      {
+        "pt": "Bom dia! Um café, por favor.",
+        "en": "Good morning! A coffee, please.",
+        "ar": "صباح الخير! فنجان قهوة، من فضلك."
+      },
+      {
+        "pt": "Bom dia! São sete reais.",
+        "en": "Good morning! It's seven reais.",
+        "ar": "صباح الخير! سبعة ريالات."
+      },
+      {
+        "pt": "Aqui estão dez reais.",
+        "en": "Here is ten reais.",
+        "ar": "ها هي عشرة ريالات."
+      },
+      {
+        "pt": "E o troco são três reais. Obrigado!",
+        "en": "And the change is three reais. Thank you!",
+        "ar": "والباقي ثلاثة ريالات. شكرًا!"
+      },
+      {
+        "pt": "De nada. Até logo!",
+        "en": "You're welcome. See you later!",
+        "ar": "عفوًا. أراك لاحقًا!"
+      },
+      {
+        "pt": "zero",
+        "en": "zero",
+        "ar": "صفر"
+      },
+      {
+        "pt": "um",
+        "en": "one",
+        "ar": "واحد"
+      },
+      {
+        "pt": "dois",
+        "en": "two",
+        "ar": "اثنان"
+      }
+    ]
+  },
+  "cultural_tips": {
+    "pt": "O café é a bebida nacional do Brasil.",
+    "en": "Coffee is the national drink of Brazil.",
+    "ar": "القهوة هي المشروب الوطني في البرازيل."
+  }
+}

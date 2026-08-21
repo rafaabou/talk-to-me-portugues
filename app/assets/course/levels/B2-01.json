@@ -1,0 +1,2068 @@
+{
+  "id": "B2-01",
+  "level": "B2",
+  "level_name": {
+    "pt": "Intermediário Alto",
+    "en": "Upper-Intermediate",
+    "ar": "متوسط متقدم"
+  },
+  "title": {
+    "pt": "Subjuntivo I (Presente)",
+    "en": "Subjunctive I (Present)",
+    "ar": "صيغة المضارع الشرطي"
+  },
+  "objectives": [
+    {
+      "pt": "Formar o presente do subjuntivo dos verbos regulares",
+      "en": "Form the present subjunctive of regular verbs",
+      "ar": "تكوين صيغة المضارع الشرطي من الأفعال المنتظمة"
+    },
+    {
+      "pt": "Usar o subjuntivo depois de verbos de desejo, dúvida e emoção",
+      "en": "Use the subjunctive after verbs of desire, doubt and emotion",
+      "ar": "استخدام صيغة المضارع الشرطي بعد أفعال الرغبة والشك والعاطفة"
+    },
+    {
+      "pt": "Empregar o subjuntivo com expressões impessoais",
+      "en": "Use the subjunctive with impersonal expressions",
+      "ar": "توظيف صيغة المضارع الشرطي مع التعبيرات غير الشخصية"
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "talvez",
+      "ipa": "/tawˈvejs/",
+      "en": "maybe",
+      "ar": "ربما",
+      "example": {
+        "pt": "Tomara que não chova! Talvez o tempo fique bom.",
+        "en": "Hopefully it won't rain! Maybe the weather will be good.",
+        "ar": "ليت المطر لا يهطل! ربما يكون الطقس جيدًا."
+      }
+    },
+    {
+      "pt": "desejar",
+      "ipa": "/de.zeˈʒaχ/",
+      "en": "to wish",
+      "ar": "يتمنى",
+      "example": {
+        "pt": "Espero que você possa ir à praia comigo no sábado.",
+        "en": "I hope you can go to the beach with me on Saturday.",
+        "ar": "آمل أن تتمكن من الذهاب إلى الشاطئ معي يوم السبت."
+      }
+    },
+    {
+      "pt": "esperar",
+      "ipa": "/is.peˈɾaχ/",
+      "en": "to hope",
+      "ar": "يأمل",
+      "example": {
+        "pt": "Espero que você possa ir à praia comigo no sábado.",
+        "en": "I hope you can go to the beach with me on Saturday.",
+        "ar": "آمل أن تتمكن من الذهاب إلى الشاطئ معي يوم السبت."
+      }
+    },
+    {
+      "pt": "duvidar",
+      "ipa": "/du.viˈdaχ/",
+      "en": "to doubt",
+      "ar": "يشك",
+      "example": {
+        "pt": "Espero que você possa ir à praia comigo no sábado.",
+        "en": "I hope you can go to the beach with me on Saturday.",
+        "ar": "آمل أن تتمكن من الذهاب إلى الشاطئ معي يوم السبت."
+      }
+    },
+    {
+      "pt": "exigir",
+      "ipa": "/e.ziˈʒiχ/",
+      "en": "to demand",
+      "ar": "يطالب",
+      "example": {
+        "pt": "Espero que você possa ir à praia comigo no sábado.",
+        "en": "I hope you can go to the beach with me on Saturday.",
+        "ar": "آمل أن تتمكن من الذهاب إلى الشاطئ معي يوم السبت."
+      }
+    },
+    {
+      "pt": "pedir",
+      "ipa": "/peˈdʒiχ/",
+      "en": "to ask (for)",
+      "ar": "يطلب",
+      "example": {
+        "pt": "Espero que você possa ir à praia comigo no sábado.",
+        "en": "I hope you can go to the beach with me on Saturday.",
+        "ar": "آمل أن تتمكن من الذهاب إلى الشاطئ معي يوم السبت."
+      }
+    },
+    {
+      "pt": "necessário",
+      "ipa": "/ne.seˈsa.ɾju/",
+      "en": "necessary",
+      "ar": "ضروري",
+      "example": {
+        "pt": "Espero que você possa ir à praia comigo no sábado.",
+        "en": "I hope you can go to the beach with me on Saturday.",
+        "ar": "آمل أن تتمكن من الذهاب إلى الشاطئ معي يوم السبت."
+      }
+    },
+    {
+      "pt": "importante",
+      "ipa": "/ĩ.poɾˈtɐ̃.tʃi/",
+      "en": "important",
+      "ar": "مهم",
+      "example": {
+        "pt": "É importante que a gente saia um pouco da cidade.",
+        "en": "It's important that we get out of the city a little.",
+        "ar": "من المهم أن نخرج قليلًا من المدينة."
+      }
+    },
+    {
+      "pt": "possível",
+      "ipa": "/poˈsi.vew/",
+      "en": "possible",
+      "ar": "ممكن",
+      "example": {
+        "pt": "Espero que você possa ir à praia comigo no sábado.",
+        "en": "I hope you can go to the beach with me on Saturday.",
+        "ar": "آمل أن تتمكن من الذهاب إلى الشاطئ معي يوم السبت."
+      }
+    },
+    {
+      "pt": "o desejo",
+      "ipa": "/u deˈze.ʒu/",
+      "en": "the wish",
+      "ar": "الرغبة",
+      "example": {
+        "pt": "Tomara que não chova! Talvez o tempo fique bom.",
+        "en": "Hopefully it won't rain! Maybe the weather will be good.",
+        "ar": "ليت المطر لا يهطل! ربما يكون الطقس جيدًا."
+      }
+    },
+    {
+      "pt": "a dúvida",
+      "ipa": "/a ˈdu.vi.da/",
+      "en": "the doubt",
+      "ar": "الشك",
+      "example": {
+        "pt": "É importante que a gente saia um pouco da cidade.",
+        "en": "It's important that we get out of the city a little.",
+        "ar": "من المهم أن نخرج قليلًا من المدينة."
+      }
+    },
+    {
+      "pt": "a sugestão",
+      "ipa": "/a su.ʒisˈtɐ̃w/",
+      "en": "the suggestion",
+      "ar": "الاقتراح",
+      "example": {
+        "pt": "É importante que a gente saia um pouco da cidade.",
+        "en": "It's important that we get out of the city a little.",
+        "ar": "من المهم أن نخرج قليلًا من المدينة."
+      }
+    },
+    {
+      "pt": "tomara que",
+      "ipa": "/toˈma.ɾa ki/",
+      "en": "hopefully",
+      "ar": "ليت",
+      "example": {
+        "pt": "Tomara que não chova! Talvez o tempo fique bom.",
+        "en": "Hopefully it won't rain! Maybe the weather will be good.",
+        "ar": "ليت المطر لا يهطل! ربما يكون الطقس جيدًا."
+      }
+    },
+    {
+      "pt": "oxalá",
+      "ipa": "/o.ʃaˈla/",
+      "en": "if only",
+      "ar": "ليت",
+      "example": {
+        "pt": "Espero que você possa ir à praia comigo no sábado.",
+        "en": "I hope you can go to the beach with me on Saturday.",
+        "ar": "آمل أن تتمكن من الذهاب إلى الشاطئ معي يوم السبت."
+      }
+    },
+    {
+      "pt": "espero que",
+      "ipa": "/isˈpɛ.ɾu ki/",
+      "en": "I hope that",
+      "ar": "آمل أن",
+      "example": {
+        "pt": "Espero que você possa ir à praia comigo no sábado.",
+        "en": "I hope you can go to the beach with me on Saturday.",
+        "ar": "آمل أن تتمكن من الذهاب إلى الشاطئ معي يوم السبت."
+      }
+    },
+    {
+      "pt": "é importante que",
+      "ipa": "/ɛ ĩ.poɾˈtɐ̃.tʃi ki/",
+      "en": "it's important that",
+      "ar": "من المهم أن",
+      "example": {
+        "pt": "É importante que a gente saia um pouco da cidade.",
+        "en": "It's important that we get out of the city a little.",
+        "ar": "من المهم أن نخرج قليلًا من المدينة."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "title": {
+        "pt": "Formação do Presente do Subjuntivo",
+        "en": "Forming the Present Subjunctive",
+        "ar": "تكوين المضارع الشرطي"
+      },
+      "explanation": {
+        "pt": "Tire o -o da primeira pessoa do presente do indicativo e acrescente: para verbos em -ar: -e, -es, -e, -emos, -eis, -em; para verbos em -er e -ir: -a, -as, -a, -amos, -ais, -am. Exemplo: eu falo → que eu fale; eu como → que eu coma; eu parto → que eu parta.",
+        "en": "Drop the -o from the first person singular of the present indicative and add: for -ar verbs: -e, -es, -e, -emos, -eis, -em; for -er and -ir verbs: -a, -as, -a, -amos, -ais, -am. Example: eu falo → que eu fale; eu como → que eu coma; eu parto → que eu parta.",
+        "ar": "احذف حرف -o من صيغة المتكلم في المضارع الإخباري وأضف: للأفعال المنتهية بـ -ar: -e، -es، -e، -emos، -eis، -em؛ وللأفعال المنتهية بـ -er و -ir: -a، -as، -a، -amos، -ais، -am. مثال: eu falo ← que eu fale؛ eu como ← que eu coma؛ eu parto ← que eu parta."
+      },
+      "examples": [
+        {
+          "pt": "Que eu fale com ela amanhã.",
+          "en": "That I speak with her tomorrow.",
+          "ar": "أن أتحدث معها غدًا."
+        },
+        {
+          "pt": "Que ele coma frutas todos os dias.",
+          "en": "That he eat fruit every day.",
+          "ar": "أن يأكل الفواكه كل يوم."
+        },
+        {
+          "pt": "Que nós partamos cedo.",
+          "en": "That we leave early.",
+          "ar": "أن نغادر باكرًا."
+        },
+        {
+          "pt": "Que eles falem com o chefe.",
+          "en": "That they speak with the boss.",
+          "ar": "أن يتحدثوا مع الرئيس."
+        }
+      ]
+    },
+    {
+      "title": {
+        "pt": "Usos do Presente do Subjuntivo",
+        "en": "Uses of the Present Subjunctive",
+        "ar": "استخدامات المضارع الشرطي"
+      },
+      "explanation": {
+        "pt": "Usamos o presente do subjuntivo depois de verbos de desejo e vontade (esperar, querer, desejar), de dúvida (duvidar), de expressões impessoais (é importante que, é necessário que) e de conjunções como talvez e oxalá. O verbo principal expressa um fato presente ou futuro que ainda não é certo.",
+        "en": "We use the present subjunctive after verbs of desire and will (esperar, querer, desejar), of doubt (duvidar), impersonal expressions (é importante que, é necessário que) and conjunctions such as talvez and oxalá. The main verb expresses a present or future fact that is not yet certain.",
+        "ar": "نستخدم المضارع الشرطي بعد أفعال الرغبة والإرادة (esperar، querer، desejar)، وأفعال الشك (duvidar)، والتعبيرات غير الشخصية (é importante que، é necessário que)، وأدوات مثل talvez و oxalá. ويدل الفعل الأصلي على حقيقة حاضرة أو مستقبلية غير مؤكدة بعد."
+      },
+      "examples": [
+        {
+          "pt": "Espero que você venha à festa.",
+          "en": "I hope you come to the party.",
+          "ar": "آمل أن تأتي إلى الحفلة."
+        },
+        {
+          "pt": "Duvido que ele saiba a resposta.",
+          "en": "I doubt he knows the answer.",
+          "ar": "أشك في أنه يعرف الإجابة."
+        },
+        {
+          "pt": "Talvez chova amanhã.",
+          "en": "Maybe it will rain tomorrow.",
+          "ar": "ربما تمطر غدًا."
+        },
+        {
+          "pt": "É importante que todos estudem.",
+          "en": "It's important that everyone studies.",
+          "ar": "من المهم أن يدرس الجميع."
+        }
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": {
+      "pt": "Planos para o Fim de Semana",
+      "en": "Weekend Plans",
+      "ar": "خطط عطلة نهاية الأسبوع"
+    },
+    "lines": [
+      {
+        "speaker": "Ana",
+        "pt": "Espero que você possa ir à praia comigo no sábado.",
+        "en": "I hope you can go to the beach with me on Saturday.",
+        "ar": "آمل أن تتمكن من الذهاب إلى الشاطئ معي يوم السبت."
+      },
+      {
+        "speaker": "Bruno",
+        "pt": "Tomara que não chova! Talvez o tempo fique bom.",
+        "en": "Hopefully it won't rain! Maybe the weather will be good.",
+        "ar": "ليت المطر لا يهطل! ربما يكون الطقس جيدًا."
+      },
+      {
+        "speaker": "Ana",
+        "pt": "É importante que a gente saia um pouco da cidade.",
+        "en": "It's important that we get out of the city a little.",
+        "ar": "من المهم أن نخرج قليلًا من المدينة."
+      },
+      {
+        "speaker": "Bruno",
+        "pt": "Quero que você conheça uma praia linda que eu descobri.",
+        "en": "I want you to see a beautiful beach I discovered.",
+        "ar": "أريدك أن تتعرف على شاطئ جميل اكتشفته."
+      },
+      {
+        "speaker": "Ana",
+        "pt": "Ótimo! Duvido que eu fique em casa neste fim de semana.",
+        "en": "Great! I doubt I'll stay home this weekend.",
+        "ar": "رائع! أشك في أن أبقى في المنزل هذا الأسبوع."
+      }
+    ]
+  },
+  "reading": {
+    "title": {
+      "pt": "Esperanças para o Ano Novo",
+      "en": "Hopes for the New Year",
+      "ar": "آمال العام الجديد"
+    },
+    "text_pt": "No começo do ano, muitas pessoas fazem planos. É importante que você pense no que deseja alcançar. Espero que todos tenham saúde e que os sonhos se realizem. Oxalá o próximo ano seja melhor para todos.",
+    "text_en": "At the beginning of the year, many people make plans. It's important that you think about what you wish to achieve. I hope everyone is healthy and that dreams come true. May the coming year be better for everyone.",
+    "text_ar": "في بداية السنة، يضع الكثير من الناس خططًا. من المهم أن تفكر فيما تتمنى تحقيقه. أرجو أن يتمتع الجميع بالصحة وأن تتحقق الأحلام. ليت العام القادم يكون أفضل للجميع."
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "É importante que você ___ os documentos.",
+        "en": "It's important that you ___ the documents.",
+        "ar": "من المهم أن ___ المستندات."
+      },
+      "options": [
+        {
+          "pt": "assine",
+          "en": "assine",
+          "ar": "assine"
+        },
+        {
+          "pt": "assina",
+          "en": "assina",
+          "ar": "assina"
+        },
+        {
+          "pt": "assinar",
+          "en": "assinar",
+          "ar": "assinar"
+        }
+      ],
+      "answer": "assine",
+      "explanation": {
+        "pt": "Depois da expressão impessoal 'é importante que' usamos o subjuntivo: que você assine.",
+        "en": "After the impersonal expression 'é importante que' we use the subjunctive: que você assine.",
+        "ar": "بعد التعبير غير الشخصي 'é importante que' نستخدم المضارع الشرطي: que você assine."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Espero que vocês ___ felizes.",
+        "en": "I hope you (plural) are happy.",
+        "ar": "آمل أن تكونوا سعداء."
+      },
+      "options": [
+        {
+          "pt": "são",
+          "en": "são",
+          "ar": "são"
+        },
+        {
+          "pt": "sejam",
+          "en": "sejam",
+          "ar": "sejam"
+        },
+        {
+          "pt": "serem",
+          "en": "serem",
+          "ar": "serem"
+        }
+      ],
+      "answer": "sejam",
+      "explanation": {
+        "pt": "Depois de 'espero que' usamos o subjuntivo: que vocês sejam.",
+        "en": "After 'espero que' we use the subjunctive: que vocês sejam.",
+        "ar": "بعد 'espero que' نستخدم المضارع الشرطي: que vocês sejam."
+      }
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza: 'Maybe he comes tomorrow'",
+        "en": "Translate: 'Maybe he comes tomorrow'",
+        "ar": "ترجم: 'Maybe he comes tomorrow'"
+      },
+      "options": [],
+      "answer": "Talvez ele venha amanhã",
+      "explanation": {
+        "pt": "'Talvez' exige subjuntivo: talvez ele venha.",
+        "en": "'Talvez' requires the subjunctive: talvez ele venha.",
+        "ar": "تتطلب 'talvez' المضارع الشرطي: talvez ele venha."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "no",
+          "en": "no",
+          "ar": "no"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "Espero",
+          "en": "Espero",
+          "ar": "Espero"
+        },
+        {
+          "pt": "comigo",
+          "en": "comigo",
+          "ar": "comigo"
+        },
+        {
+          "pt": "sábado.",
+          "en": "sábado.",
+          "ar": "sábado."
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "à",
+          "en": "à",
+          "ar": "à"
+        },
+        {
+          "pt": "possa",
+          "en": "possa",
+          "ar": "possa"
+        },
+        {
+          "pt": "ir",
+          "en": "ir",
+          "ar": "ir"
+        },
+        {
+          "pt": "praia",
+          "en": "praia",
+          "ar": "praia"
+        }
+      ],
+      "answer": "Espero que você possa ir à praia comigo no sábado.",
+      "accepted": [
+        "Espero que você possa ir à praia comigo no sábado."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Espero que você possa ir à praia comigo no sábado.'",
+        "en": "The correct order: 'I hope you can go to the beach with me on Saturday.'",
+        "ar": "الترتيب الصحيح: 'آمل أن تتمكن من الذهاب إلى الشاطئ معي يوم السبت.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "pedir",
+          "en": "to demand",
+          "ar": "pedir"
+        },
+        {
+          "pt": "duvidar",
+          "en": "to doubt",
+          "ar": "duvidar"
+        },
+        {
+          "pt": "exigir",
+          "en": "maybe",
+          "ar": "exigir"
+        },
+        {
+          "pt": "esperar",
+          "en": "to hope",
+          "ar": "esperar"
+        },
+        {
+          "pt": "desejar",
+          "en": "to wish",
+          "ar": "desejar"
+        },
+        {
+          "pt": "talvez",
+          "en": "to ask (for)",
+          "ar": "talvez"
+        }
+      ],
+      "answer": "pedir::to demand|duvidar::to doubt|exigir::maybe|esperar::to hope|desejar::to wish|talvez::to ask (for)",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Quero que você conheça uma praia linda que eu descobri.",
+          "en": "I hope you can go to the beach with me on Saturday.",
+          "ar": "رائع! أشك في أن أبقى في المنزل هذا الأسبوع."
+        },
+        {
+          "pt": "Ótimo! Duvido que eu fique em casa neste fim de semana.",
+          "en": "Great! I doubt I'll stay home this weekend.",
+          "ar": "آمل أن تتمكن من الذهاب إلى الشاطئ معي يوم السبت."
+        },
+        {
+          "pt": "Espero que você possa ir à praia comigo no sábado.",
+          "en": "I want you to see a beautiful beach I discovered.",
+          "ar": "أريدك أن تتعرف على شاطئ جميل اكتشفته."
+        }
+      ],
+      "answer": "Espero que você possa ir à praia comigo no sábado.",
+      "accepted": [],
+      "audio": "Espero que você possa ir à praia comigo no sábado.",
+      "explanation": {
+        "pt": "Você ouviu: 'Espero que você possa ir à praia comigo no sábado.' — 'I hope you can go to the beach with me on Saturday.'",
+        "en": "You heard: 'Espero que você possa ir à praia comigo no sábado.' — 'I hope you can go to the beach with me on Saturday.'",
+        "ar": "سمعت: 'Espero que você possa ir à praia comigo no sábado.' — 'آمل أن تتمكن من الذهاب إلى الشاطئ معي يوم السبت.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Espero que você possa ir à praia comigo no sábado.",
+          "en": "I hope you can go to the beach with me on Saturday.",
+          "ar": "آمل أن تتمكن من الذهاب إلى الشاطئ معي يوم السبت."
+        },
+        {
+          "pt": "Ótimo! Duvido que eu fique em casa neste fim de semana.",
+          "en": "Great! I doubt I'll stay home this weekend.",
+          "ar": "رائع! أشك في أن أبقى في المنزل هذا الأسبوع."
+        },
+        {
+          "pt": "Tomara que não chova! Talvez o tempo fique bom.",
+          "en": "Hopefully it won't rain! Maybe the weather will be good.",
+          "ar": "ليت المطر لا يهطل! ربما يكون الطقس جيدًا."
+        }
+      ],
+      "answer": "Tomara que não chova! Talvez o tempo fique bom.",
+      "accepted": [],
+      "audio": "Tomara que não chova! Talvez o tempo fique bom.",
+      "explanation": {
+        "pt": "Você ouviu: 'Tomara que não chova! Talvez o tempo fique bom.' — 'Hopefully it won't rain! Maybe the weather will be good.'",
+        "en": "You heard: 'Tomara que não chova! Talvez o tempo fique bom.' — 'Hopefully it won't rain! Maybe the weather will be good.'",
+        "ar": "سمعت: 'Tomara que não chova! Talvez o tempo fique bom.' — 'ليت المطر لا يهطل! ربما يكون الطقس جيدًا.'"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Que ___ fale com ela amanhã.",
+        "en": "Que ___ fale com ela amanhã.",
+        "ar": "Que ___ fale com ela amanhã."
+      },
+      "options": [
+        {
+          "pt": "Que",
+          "en": "Que",
+          "ar": "Que"
+        },
+        {
+          "pt": "eu",
+          "en": "eu",
+          "ar": "eu"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        }
+      ],
+      "answer": "eu",
+      "accepted": [],
+      "explanation": {
+        "pt": "A resposta é 'eu'. Frase completa: Que eu fale com ela amanhã.",
+        "en": "The answer is 'eu'. Full sentence: That I speak with her tomorrow.",
+        "ar": "الإجابة الصحيحة: 'eu'. الجملة كاملة: أن أتحدث معها غدًا."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "praia",
+          "en": "praia",
+          "ar": "praia"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "possa",
+          "en": "possa",
+          "ar": "possa"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "à",
+          "en": "à",
+          "ar": "à"
+        },
+        {
+          "pt": "Espero",
+          "en": "Espero",
+          "ar": "Espero"
+        },
+        {
+          "pt": "sábado.",
+          "en": "sábado.",
+          "ar": "sábado."
+        },
+        {
+          "pt": "comigo",
+          "en": "comigo",
+          "ar": "comigo"
+        },
+        {
+          "pt": "ir",
+          "en": "ir",
+          "ar": "ir"
+        },
+        {
+          "pt": "no",
+          "en": "no",
+          "ar": "no"
+        }
+      ],
+      "answer": "Espero que você possa ir à praia comigo no sábado.",
+      "accepted": [
+        "Espero que você possa ir à praia comigo no sábado."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Espero que você possa ir à praia comigo no sábado.'",
+        "en": "The correct order: 'I hope you can go to the beach with me on Saturday.'",
+        "ar": "الترتيب الصحيح: 'آمل أن تتمكن من الذهاب إلى الشاطئ معي يوم السبت.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "pedir",
+          "en": "to wish",
+          "ar": "pedir"
+        },
+        {
+          "pt": "talvez",
+          "en": "to hope",
+          "ar": "talvez"
+        },
+        {
+          "pt": "exigir",
+          "en": "to doubt",
+          "ar": "exigir"
+        },
+        {
+          "pt": "duvidar",
+          "en": "to demand",
+          "ar": "duvidar"
+        },
+        {
+          "pt": "esperar",
+          "en": "maybe",
+          "ar": "esperar"
+        },
+        {
+          "pt": "desejar",
+          "en": "to ask (for)",
+          "ar": "desejar"
+        }
+      ],
+      "answer": "pedir::to wish|talvez::to hope|exigir::to doubt|duvidar::to demand|esperar::maybe|desejar::to ask (for)",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Ótimo! Duvido que eu fique em casa neste fim de semana.",
+          "en": "I hope you can go to the beach with me on Saturday.",
+          "ar": "آمل أن تتمكن من الذهاب إلى الشاطئ معي يوم السبت."
+        },
+        {
+          "pt": "Quero que você conheça uma praia linda que eu descobri.",
+          "en": "Great! I doubt I'll stay home this weekend.",
+          "ar": "رائع! أشك في أن أبقى في المنزل هذا الأسبوع."
+        },
+        {
+          "pt": "Espero que você possa ir à praia comigo no sábado.",
+          "en": "I want you to see a beautiful beach I discovered.",
+          "ar": "أريدك أن تتعرف على شاطئ جميل اكتشفته."
+        }
+      ],
+      "answer": "Espero que você possa ir à praia comigo no sábado.",
+      "accepted": [],
+      "audio": "Espero que você possa ir à praia comigo no sábado.",
+      "explanation": {
+        "pt": "Você ouviu: 'Espero que você possa ir à praia comigo no sábado.' — 'I hope you can go to the beach with me on Saturday.'",
+        "en": "You heard: 'Espero que você possa ir à praia comigo no sábado.' — 'I hope you can go to the beach with me on Saturday.'",
+        "ar": "سمعت: 'Espero que você possa ir à praia comigo no sábado.' — 'آمل أن تتمكن من الذهاب إلى الشاطئ معي يوم السبت.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "É importante que a gente saia um pouco da cidade.",
+          "en": "Great! I doubt I'll stay home this weekend.",
+          "ar": "رائع! أشك في أن أبقى في المنزل هذا الأسبوع."
+        },
+        {
+          "pt": "Tomara que não chova! Talvez o tempo fique bom.",
+          "en": "It's important that we get out of the city a little.",
+          "ar": "ليت المطر لا يهطل! ربما يكون الطقس جيدًا."
+        },
+        {
+          "pt": "Ótimo! Duvido que eu fique em casa neste fim de semana.",
+          "en": "Hopefully it won't rain! Maybe the weather will be good.",
+          "ar": "من المهم أن نخرج قليلًا من المدينة."
+        }
+      ],
+      "answer": "Tomara que não chova! Talvez o tempo fique bom.",
+      "accepted": [],
+      "audio": "Tomara que não chova! Talvez o tempo fique bom.",
+      "explanation": {
+        "pt": "Você ouviu: 'Tomara que não chova! Talvez o tempo fique bom.' — 'Hopefully it won't rain! Maybe the weather will be good.'",
+        "en": "You heard: 'Tomara que não chova! Talvez o tempo fique bom.' — 'Hopefully it won't rain! Maybe the weather will be good.'",
+        "ar": "سمعت: 'Tomara que não chova! Talvez o tempo fique bom.' — 'ليت المطر لا يهطل! ربما يكون الطقس جيدًا.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "ir",
+          "en": "ir",
+          "ar": "ir"
+        },
+        {
+          "pt": "comigo",
+          "en": "comigo",
+          "ar": "comigo"
+        },
+        {
+          "pt": "à",
+          "en": "à",
+          "ar": "à"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "Espero",
+          "en": "Espero",
+          "ar": "Espero"
+        },
+        {
+          "pt": "sábado.",
+          "en": "sábado.",
+          "ar": "sábado."
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "no",
+          "en": "no",
+          "ar": "no"
+        },
+        {
+          "pt": "possa",
+          "en": "possa",
+          "ar": "possa"
+        },
+        {
+          "pt": "praia",
+          "en": "praia",
+          "ar": "praia"
+        }
+      ],
+      "answer": "Espero que você possa ir à praia comigo no sábado.",
+      "accepted": [
+        "Espero que você possa ir à praia comigo no sábado."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Espero que você possa ir à praia comigo no sábado.'",
+        "en": "The correct order: 'I hope you can go to the beach with me on Saturday.'",
+        "ar": "الترتيب الصحيح: 'آمل أن تتمكن من الذهاب إلى الشاطئ معي يوم السبت.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "pedir",
+          "en": "maybe",
+          "ar": "pedir"
+        },
+        {
+          "pt": "talvez",
+          "en": "to doubt",
+          "ar": "talvez"
+        },
+        {
+          "pt": "duvidar",
+          "en": "to hope",
+          "ar": "duvidar"
+        },
+        {
+          "pt": "exigir",
+          "en": "to ask (for)",
+          "ar": "exigir"
+        },
+        {
+          "pt": "esperar",
+          "en": "to wish",
+          "ar": "esperar"
+        },
+        {
+          "pt": "desejar",
+          "en": "to demand",
+          "ar": "desejar"
+        }
+      ],
+      "answer": "pedir::maybe|talvez::to doubt|duvidar::to hope|exigir::to ask (for)|esperar::to wish|desejar::to demand",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "É importante que a gente saia um pouco da cidade.",
+          "en": "I want you to see a beautiful beach I discovered.",
+          "ar": "آمل أن تتمكن من الذهاب إلى الشاطئ معي يوم السبت."
+        },
+        {
+          "pt": "Espero que você possa ir à praia comigo no sábado.",
+          "en": "It's important that we get out of the city a little.",
+          "ar": "أريدك أن تتعرف على شاطئ جميل اكتشفته."
+        },
+        {
+          "pt": "Quero que você conheça uma praia linda que eu descobri.",
+          "en": "I hope you can go to the beach with me on Saturday.",
+          "ar": "من المهم أن نخرج قليلًا من المدينة."
+        }
+      ],
+      "answer": "Espero que você possa ir à praia comigo no sábado.",
+      "accepted": [],
+      "audio": "Espero que você possa ir à praia comigo no sábado.",
+      "explanation": {
+        "pt": "Você ouviu: 'Espero que você possa ir à praia comigo no sábado.' — 'I hope you can go to the beach with me on Saturday.'",
+        "en": "You heard: 'Espero que você possa ir à praia comigo no sábado.' — 'I hope you can go to the beach with me on Saturday.'",
+        "ar": "سمعت: 'Espero que você possa ir à praia comigo no sábado.' — 'آمل أن تتمكن من الذهاب إلى الشاطئ معي يوم السبت.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "É importante que a gente saia um pouco da cidade.",
+          "en": "I want you to see a beautiful beach I discovered.",
+          "ar": "أريدك أن تتعرف على شاطئ جميل اكتشفته."
+        },
+        {
+          "pt": "Quero que você conheça uma praia linda que eu descobri.",
+          "en": "Hopefully it won't rain! Maybe the weather will be good.",
+          "ar": "من المهم أن نخرج قليلًا من المدينة."
+        },
+        {
+          "pt": "Tomara que não chova! Talvez o tempo fique bom.",
+          "en": "It's important that we get out of the city a little.",
+          "ar": "ليت المطر لا يهطل! ربما يكون الطقس جيدًا."
+        }
+      ],
+      "answer": "Tomara que não chova! Talvez o tempo fique bom.",
+      "accepted": [],
+      "audio": "Tomara que não chova! Talvez o tempo fique bom.",
+      "explanation": {
+        "pt": "Você ouviu: 'Tomara que não chova! Talvez o tempo fique bom.' — 'Hopefully it won't rain! Maybe the weather will be good.'",
+        "en": "You heard: 'Tomara que não chova! Talvez o tempo fique bom.' — 'Hopefully it won't rain! Maybe the weather will be good.'",
+        "ar": "سمعت: 'Tomara que não chova! Talvez o tempo fique bom.' — 'ليت المطر لا يهطل! ربما يكون الطقس جيدًا.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "no",
+          "en": "no",
+          "ar": "no"
+        },
+        {
+          "pt": "sábado.",
+          "en": "sábado.",
+          "ar": "sábado."
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "praia",
+          "en": "praia",
+          "ar": "praia"
+        },
+        {
+          "pt": "comigo",
+          "en": "comigo",
+          "ar": "comigo"
+        },
+        {
+          "pt": "ir",
+          "en": "ir",
+          "ar": "ir"
+        },
+        {
+          "pt": "Espero",
+          "en": "Espero",
+          "ar": "Espero"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "à",
+          "en": "à",
+          "ar": "à"
+        },
+        {
+          "pt": "possa",
+          "en": "possa",
+          "ar": "possa"
+        }
+      ],
+      "answer": "Espero que você possa ir à praia comigo no sábado.",
+      "accepted": [
+        "Espero que você possa ir à praia comigo no sábado."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Espero que você possa ir à praia comigo no sábado.'",
+        "en": "The correct order: 'I hope you can go to the beach with me on Saturday.'",
+        "ar": "الترتيب الصحيح: 'آمل أن تتمكن من الذهاب إلى الشاطئ معي يوم السبت.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "esperar",
+          "en": "to doubt",
+          "ar": "esperar"
+        },
+        {
+          "pt": "talvez",
+          "en": "to demand",
+          "ar": "talvez"
+        },
+        {
+          "pt": "pedir",
+          "en": "to wish",
+          "ar": "pedir"
+        },
+        {
+          "pt": "duvidar",
+          "en": "maybe",
+          "ar": "duvidar"
+        },
+        {
+          "pt": "exigir",
+          "en": "to ask (for)",
+          "ar": "exigir"
+        },
+        {
+          "pt": "desejar",
+          "en": "to hope",
+          "ar": "desejar"
+        }
+      ],
+      "answer": "esperar::to doubt|talvez::to demand|pedir::to wish|duvidar::maybe|exigir::to ask (for)|desejar::to hope",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "É importante que a gente saia um pouco da cidade.",
+          "en": "It's important that we get out of the city a little.",
+          "ar": "من المهم أن نخرج قليلًا من المدينة."
+        },
+        {
+          "pt": "Espero que você possa ir à praia comigo no sábado.",
+          "en": "Great! I doubt I'll stay home this weekend.",
+          "ar": "آمل أن تتمكن من الذهاب إلى الشاطئ معي يوم السبت."
+        },
+        {
+          "pt": "Ótimo! Duvido que eu fique em casa neste fim de semana.",
+          "en": "I hope you can go to the beach with me on Saturday.",
+          "ar": "رائع! أشك في أن أبقى في المنزل هذا الأسبوع."
+        }
+      ],
+      "answer": "Espero que você possa ir à praia comigo no sábado.",
+      "accepted": [],
+      "audio": "Espero que você possa ir à praia comigo no sábado.",
+      "explanation": {
+        "pt": "Você ouviu: 'Espero que você possa ir à praia comigo no sábado.' — 'I hope you can go to the beach with me on Saturday.'",
+        "en": "You heard: 'Espero que você possa ir à praia comigo no sábado.' — 'I hope you can go to the beach with me on Saturday.'",
+        "ar": "سمعت: 'Espero que você possa ir à praia comigo no sábado.' — 'آمل أن تتمكن من الذهاب إلى الشاطئ معي يوم السبت.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Tomara que não chova! Talvez o tempo fique bom.",
+          "en": "I want you to see a beautiful beach I discovered.",
+          "ar": "أريدك أن تتعرف على شاطئ جميل اكتشفته."
+        },
+        {
+          "pt": "Quero que você conheça uma praia linda que eu descobri.",
+          "en": "It's important that we get out of the city a little.",
+          "ar": "من المهم أن نخرج قليلًا من المدينة."
+        },
+        {
+          "pt": "É importante que a gente saia um pouco da cidade.",
+          "en": "Hopefully it won't rain! Maybe the weather will be good.",
+          "ar": "ليت المطر لا يهطل! ربما يكون الطقس جيدًا."
+        }
+      ],
+      "answer": "Tomara que não chova! Talvez o tempo fique bom.",
+      "accepted": [],
+      "audio": "Tomara que não chova! Talvez o tempo fique bom.",
+      "explanation": {
+        "pt": "Você ouviu: 'Tomara que não chova! Talvez o tempo fique bom.' — 'Hopefully it won't rain! Maybe the weather will be good.'",
+        "en": "You heard: 'Tomara que não chova! Talvez o tempo fique bom.' — 'Hopefully it won't rain! Maybe the weather will be good.'",
+        "ar": "سمعت: 'Tomara que não chova! Talvez o tempo fique bom.' — 'ليت المطر لا يهطل! ربما يكون الطقس جيدًا.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "à",
+          "en": "à",
+          "ar": "à"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "no",
+          "en": "no",
+          "ar": "no"
+        },
+        {
+          "pt": "comigo",
+          "en": "comigo",
+          "ar": "comigo"
+        },
+        {
+          "pt": "ir",
+          "en": "ir",
+          "ar": "ir"
+        },
+        {
+          "pt": "praia",
+          "en": "praia",
+          "ar": "praia"
+        },
+        {
+          "pt": "possa",
+          "en": "possa",
+          "ar": "possa"
+        },
+        {
+          "pt": "sábado.",
+          "en": "sábado.",
+          "ar": "sábado."
+        },
+        {
+          "pt": "Espero",
+          "en": "Espero",
+          "ar": "Espero"
+        }
+      ],
+      "answer": "Espero que você possa ir à praia comigo no sábado.",
+      "accepted": [
+        "Espero que você possa ir à praia comigo no sábado."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Espero que você possa ir à praia comigo no sábado.'",
+        "en": "The correct order: 'I hope you can go to the beach with me on Saturday.'",
+        "ar": "الترتيب الصحيح: 'آمل أن تتمكن من الذهاب إلى الشاطئ معي يوم السبت.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "talvez",
+          "en": "to hope",
+          "ar": "talvez"
+        },
+        {
+          "pt": "desejar",
+          "en": "to ask (for)",
+          "ar": "desejar"
+        },
+        {
+          "pt": "pedir",
+          "en": "to doubt",
+          "ar": "pedir"
+        },
+        {
+          "pt": "duvidar",
+          "en": "maybe",
+          "ar": "duvidar"
+        },
+        {
+          "pt": "esperar",
+          "en": "to demand",
+          "ar": "esperar"
+        },
+        {
+          "pt": "exigir",
+          "en": "to wish",
+          "ar": "exigir"
+        }
+      ],
+      "answer": "talvez::to hope|desejar::to ask (for)|pedir::to doubt|duvidar::maybe|esperar::to demand|exigir::to wish",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Ótimo! Duvido que eu fique em casa neste fim de semana.",
+          "en": "It's important that we get out of the city a little.",
+          "ar": "آمل أن تتمكن من الذهاب إلى الشاطئ معي يوم السبت."
+        },
+        {
+          "pt": "Espero que você possa ir à praia comigo no sábado.",
+          "en": "Great! I doubt I'll stay home this weekend.",
+          "ar": "من المهم أن نخرج قليلًا من المدينة."
+        },
+        {
+          "pt": "É importante que a gente saia um pouco da cidade.",
+          "en": "I hope you can go to the beach with me on Saturday.",
+          "ar": "رائع! أشك في أن أبقى في المنزل هذا الأسبوع."
+        }
+      ],
+      "answer": "Espero que você possa ir à praia comigo no sábado.",
+      "accepted": [],
+      "audio": "Espero que você possa ir à praia comigo no sábado.",
+      "explanation": {
+        "pt": "Você ouviu: 'Espero que você possa ir à praia comigo no sábado.' — 'I hope you can go to the beach with me on Saturday.'",
+        "en": "You heard: 'Espero que você possa ir à praia comigo no sábado.' — 'I hope you can go to the beach with me on Saturday.'",
+        "ar": "سمعت: 'Espero que você possa ir à praia comigo no sábado.' — 'آمل أن تتمكن من الذهاب إلى الشاطئ معي يوم السبت.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Tomara que não chova! Talvez o tempo fique bom.",
+          "en": "I hope you can go to the beach with me on Saturday.",
+          "ar": "رائع! أشك في أن أبقى في المنزل هذا الأسبوع."
+        },
+        {
+          "pt": "Ótimo! Duvido que eu fique em casa neste fim de semana.",
+          "en": "Great! I doubt I'll stay home this weekend.",
+          "ar": "ليت المطر لا يهطل! ربما يكون الطقس جيدًا."
+        },
+        {
+          "pt": "Espero que você possa ir à praia comigo no sábado.",
+          "en": "Hopefully it won't rain! Maybe the weather will be good.",
+          "ar": "آمل أن تتمكن من الذهاب إلى الشاطئ معي يوم السبت."
+        }
+      ],
+      "answer": "Tomara que não chova! Talvez o tempo fique bom.",
+      "accepted": [],
+      "audio": "Tomara que não chova! Talvez o tempo fique bom.",
+      "explanation": {
+        "pt": "Você ouviu: 'Tomara que não chova! Talvez o tempo fique bom.' — 'Hopefully it won't rain! Maybe the weather will be good.'",
+        "en": "You heard: 'Tomara que não chova! Talvez o tempo fique bom.' — 'Hopefully it won't rain! Maybe the weather will be good.'",
+        "ar": "سمعت: 'Tomara que não chova! Talvez o tempo fique bom.' — 'ليت المطر لا يهطل! ربما يكون الطقس جيدًا.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "à",
+          "en": "à",
+          "ar": "à"
+        },
+        {
+          "pt": "no",
+          "en": "no",
+          "ar": "no"
+        },
+        {
+          "pt": "praia",
+          "en": "praia",
+          "ar": "praia"
+        },
+        {
+          "pt": "possa",
+          "en": "possa",
+          "ar": "possa"
+        },
+        {
+          "pt": "Espero",
+          "en": "Espero",
+          "ar": "Espero"
+        },
+        {
+          "pt": "comigo",
+          "en": "comigo",
+          "ar": "comigo"
+        },
+        {
+          "pt": "sábado.",
+          "en": "sábado.",
+          "ar": "sábado."
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "ir",
+          "en": "ir",
+          "ar": "ir"
+        }
+      ],
+      "answer": "Espero que você possa ir à praia comigo no sábado.",
+      "accepted": [
+        "Espero que você possa ir à praia comigo no sábado."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Espero que você possa ir à praia comigo no sábado.'",
+        "en": "The correct order: 'I hope you can go to the beach with me on Saturday.'",
+        "ar": "الترتيب الصحيح: 'آمل أن تتمكن من الذهاب إلى الشاطئ معي يوم السبت.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "pedir",
+          "en": "to wish",
+          "ar": "pedir"
+        },
+        {
+          "pt": "esperar",
+          "en": "maybe",
+          "ar": "esperar"
+        },
+        {
+          "pt": "talvez",
+          "en": "to demand",
+          "ar": "talvez"
+        },
+        {
+          "pt": "exigir",
+          "en": "to doubt",
+          "ar": "exigir"
+        },
+        {
+          "pt": "desejar",
+          "en": "to ask (for)",
+          "ar": "desejar"
+        },
+        {
+          "pt": "duvidar",
+          "en": "to hope",
+          "ar": "duvidar"
+        }
+      ],
+      "answer": "pedir::to wish|esperar::maybe|talvez::to demand|exigir::to doubt|desejar::to ask (for)|duvidar::to hope",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Quero que você conheça uma praia linda que eu descobri.",
+          "en": "Hopefully it won't rain! Maybe the weather will be good.",
+          "ar": "آمل أن تتمكن من الذهاب إلى الشاطئ معي يوم السبت."
+        },
+        {
+          "pt": "Tomara que não chova! Talvez o tempo fique bom.",
+          "en": "I hope you can go to the beach with me on Saturday.",
+          "ar": "ليت المطر لا يهطل! ربما يكون الطقس جيدًا."
+        },
+        {
+          "pt": "Espero que você possa ir à praia comigo no sábado.",
+          "en": "I want you to see a beautiful beach I discovered.",
+          "ar": "أريدك أن تتعرف على شاطئ جميل اكتشفته."
+        }
+      ],
+      "answer": "Espero que você possa ir à praia comigo no sábado.",
+      "accepted": [],
+      "audio": "Espero que você possa ir à praia comigo no sábado.",
+      "explanation": {
+        "pt": "Você ouviu: 'Espero que você possa ir à praia comigo no sábado.' — 'I hope you can go to the beach with me on Saturday.'",
+        "en": "You heard: 'Espero que você possa ir à praia comigo no sábado.' — 'I hope you can go to the beach with me on Saturday.'",
+        "ar": "سمعت: 'Espero que você possa ir à praia comigo no sábado.' — 'آمل أن تتمكن من الذهاب إلى الشاطئ معي يوم السبت.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Tomara que não chova! Talvez o tempo fique bom.",
+          "en": "I want you to see a beautiful beach I discovered.",
+          "ar": "ليت المطر لا يهطل! ربما يكون الطقس جيدًا."
+        },
+        {
+          "pt": "É importante que a gente saia um pouco da cidade.",
+          "en": "It's important that we get out of the city a little.",
+          "ar": "من المهم أن نخرج قليلًا من المدينة."
+        },
+        {
+          "pt": "Quero que você conheça uma praia linda que eu descobri.",
+          "en": "Hopefully it won't rain! Maybe the weather will be good.",
+          "ar": "أريدك أن تتعرف على شاطئ جميل اكتشفته."
+        }
+      ],
+      "answer": "Tomara que não chova! Talvez o tempo fique bom.",
+      "accepted": [],
+      "audio": "Tomara que não chova! Talvez o tempo fique bom.",
+      "explanation": {
+        "pt": "Você ouviu: 'Tomara que não chova! Talvez o tempo fique bom.' — 'Hopefully it won't rain! Maybe the weather will be good.'",
+        "en": "You heard: 'Tomara que não chova! Talvez o tempo fique bom.' — 'Hopefully it won't rain! Maybe the weather will be good.'",
+        "ar": "سمعت: 'Tomara que não chova! Talvez o tempo fique bom.' — 'ليت المطر لا يهطل! ربما يكون الطقس جيدًا.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "comigo",
+          "en": "comigo",
+          "ar": "comigo"
+        },
+        {
+          "pt": "ir",
+          "en": "ir",
+          "ar": "ir"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "no",
+          "en": "no",
+          "ar": "no"
+        },
+        {
+          "pt": "Espero",
+          "en": "Espero",
+          "ar": "Espero"
+        },
+        {
+          "pt": "praia",
+          "en": "praia",
+          "ar": "praia"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "sábado.",
+          "en": "sábado.",
+          "ar": "sábado."
+        },
+        {
+          "pt": "à",
+          "en": "à",
+          "ar": "à"
+        },
+        {
+          "pt": "possa",
+          "en": "possa",
+          "ar": "possa"
+        }
+      ],
+      "answer": "Espero que você possa ir à praia comigo no sábado.",
+      "accepted": [
+        "Espero que você possa ir à praia comigo no sábado."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Espero que você possa ir à praia comigo no sábado.'",
+        "en": "The correct order: 'I hope you can go to the beach with me on Saturday.'",
+        "ar": "الترتيب الصحيح: 'آمل أن تتمكن من الذهاب إلى الشاطئ معي يوم السبت.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "esperar",
+          "en": "maybe",
+          "ar": "esperar"
+        },
+        {
+          "pt": "pedir",
+          "en": "to demand",
+          "ar": "pedir"
+        },
+        {
+          "pt": "exigir",
+          "en": "to ask (for)",
+          "ar": "exigir"
+        },
+        {
+          "pt": "talvez",
+          "en": "to doubt",
+          "ar": "talvez"
+        },
+        {
+          "pt": "desejar",
+          "en": "to hope",
+          "ar": "desejar"
+        },
+        {
+          "pt": "duvidar",
+          "en": "to wish",
+          "ar": "duvidar"
+        }
+      ],
+      "answer": "esperar::maybe|pedir::to demand|exigir::to ask (for)|talvez::to doubt|desejar::to hope|duvidar::to wish",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Ótimo! Duvido que eu fique em casa neste fim de semana.",
+          "en": "I want you to see a beautiful beach I discovered.",
+          "ar": "آمل أن تتمكن من الذهاب إلى الشاطئ معي يوم السبت."
+        },
+        {
+          "pt": "Espero que você possa ir à praia comigo no sábado.",
+          "en": "I hope you can go to the beach with me on Saturday.",
+          "ar": "أريدك أن تتعرف على شاطئ جميل اكتشفته."
+        },
+        {
+          "pt": "Quero que você conheça uma praia linda que eu descobri.",
+          "en": "Great! I doubt I'll stay home this weekend.",
+          "ar": "رائع! أشك في أن أبقى في المنزل هذا الأسبوع."
+        }
+      ],
+      "answer": "Espero que você possa ir à praia comigo no sábado.",
+      "accepted": [],
+      "audio": "Espero que você possa ir à praia comigo no sábado.",
+      "explanation": {
+        "pt": "Você ouviu: 'Espero que você possa ir à praia comigo no sábado.' — 'I hope you can go to the beach with me on Saturday.'",
+        "en": "You heard: 'Espero que você possa ir à praia comigo no sábado.' — 'I hope you can go to the beach with me on Saturday.'",
+        "ar": "سمعت: 'Espero que você possa ir à praia comigo no sábado.' — 'آمل أن تتمكن من الذهاب إلى الشاطئ معي يوم السبت.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "É importante que a gente saia um pouco da cidade.",
+          "en": "It's important that we get out of the city a little.",
+          "ar": "من المهم أن نخرج قليلًا من المدينة."
+        },
+        {
+          "pt": "Tomara que não chova! Talvez o tempo fique bom.",
+          "en": "Hopefully it won't rain! Maybe the weather will be good.",
+          "ar": "آمل أن تتمكن من الذهاب إلى الشاطئ معي يوم السبت."
+        },
+        {
+          "pt": "Espero que você possa ir à praia comigo no sábado.",
+          "en": "I hope you can go to the beach with me on Saturday.",
+          "ar": "ليت المطر لا يهطل! ربما يكون الطقس جيدًا."
+        }
+      ],
+      "answer": "Tomara que não chova! Talvez o tempo fique bom.",
+      "accepted": [],
+      "audio": "Tomara que não chova! Talvez o tempo fique bom.",
+      "explanation": {
+        "pt": "Você ouviu: 'Tomara que não chova! Talvez o tempo fique bom.' — 'Hopefully it won't rain! Maybe the weather will be good.'",
+        "en": "You heard: 'Tomara que não chova! Talvez o tempo fique bom.' — 'Hopefully it won't rain! Maybe the weather will be good.'",
+        "ar": "سمعت: 'Tomara que não chova! Talvez o tempo fique bom.' — 'ليت المطر لا يهطل! ربما يكون الطقس جيدًا.'"
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'maybe'",
+        "en": "Type in Portuguese: 'maybe'",
+        "ar": "اكتب بالبرتغالية: 'ربما'"
+      },
+      "options": [],
+      "answer": "talvez",
+      "accepted": [
+        "talvez"
+      ],
+      "explanation": {
+        "pt": "'talvez' significa 'maybe'.",
+        "en": "'talvez' means 'maybe'.",
+        "ar": "'$talvez' بالعربية: '$ربما'."
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'to wish'",
+        "en": "Type in Portuguese: 'to wish'",
+        "ar": "اكتب بالبرتغالية: 'يتمنى'"
+      },
+      "options": [],
+      "answer": "desejar",
+      "accepted": [
+        "desejar"
+      ],
+      "explanation": {
+        "pt": "'desejar' significa 'to wish'.",
+        "en": "'desejar' means 'to wish'.",
+        "ar": "'$desejar' بالعربية: '$يتمنى'."
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Quero que você conheça uma praia linda que eu descobri.",
+          "en": "Quero que você conheça uma praia linda que eu descobri.",
+          "ar": "Quero que você conheça uma praia linda que eu descobri."
+        },
+        {
+          "pt": "Espero que você possa ir à praia comigo no sábado.",
+          "en": "Espero que você possa ir à praia comigo no sábado.",
+          "ar": "Espero que você possa ir à praia comigo no sábado."
+        },
+        {
+          "pt": "É importante que a gente saia um pouco da cidade.",
+          "en": "É importante que a gente saia um pouco da cidade.",
+          "ar": "É importante que a gente saia um pouco da cidade."
+        }
+      ],
+      "answer": "Espero que você possa ir à praia comigo no sábado.",
+      "accepted": [],
+      "audio": "Espero que você possa ir à praia comigo no sábado.",
+      "explanation": {
+        "pt": "Você ouviu: 'Espero que você possa ir à praia comigo no sábado.'",
+        "en": "You heard: 'Espero que você possa ir à praia comigo no sábado.'",
+        "ar": "سمعت: 'Espero que você possa ir à praia comigo no sábado.'"
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Tomara que não chova! Talvez o tempo fique bom.",
+          "en": "Tomara que não chova! Talvez o tempo fique bom.",
+          "ar": "Tomara que não chova! Talvez o tempo fique bom."
+        },
+        {
+          "pt": "Quero que você conheça uma praia linda que eu descobri.",
+          "en": "Quero que você conheça uma praia linda que eu descobri.",
+          "ar": "Quero que você conheça uma praia linda que eu descobri."
+        },
+        {
+          "pt": "É importante que a gente saia um pouco da cidade.",
+          "en": "É importante que a gente saia um pouco da cidade.",
+          "ar": "É importante que a gente saia um pouco da cidade."
+        }
+      ],
+      "answer": "Tomara que não chova! Talvez o tempo fique bom.",
+      "accepted": [],
+      "audio": "Tomara que não chova! Talvez o tempo fique bom.",
+      "explanation": {
+        "pt": "Você ouviu: 'Tomara que não chova! Talvez o tempo fique bom.'",
+        "en": "You heard: 'Tomara que não chova! Talvez o tempo fique bom.'",
+        "ar": "سمعت: 'Tomara que não chova! Talvez o tempo fique bom.'"
+      }
+    },
+    {
+      "type": "dictation",
+      "prompt": {
+        "pt": "Ouça e escreva o que você ouviu.",
+        "en": "Listen and type what you hear.",
+        "ar": "استمع واكتب ما سمعته."
+      },
+      "options": [],
+      "answer": "Espero que você possa ir à praia comigo no sábado.",
+      "accepted": [],
+      "audio": "Espero que você possa ir à praia comigo no sábado.",
+      "explanation": {
+        "pt": "A frase correta: 'Espero que você possa ir à praia comigo no sábado.'",
+        "en": "The correct sentence: 'Espero que você possa ir à praia comigo no sábado.'",
+        "ar": "الجملة الصحيحة: 'Espero que você possa ir à praia comigo no sábado.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "no",
+          "en": "no",
+          "ar": "no"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "sábado.",
+          "en": "sábado.",
+          "ar": "sábado."
+        },
+        {
+          "pt": "Espero",
+          "en": "Espero",
+          "ar": "Espero"
+        },
+        {
+          "pt": "à",
+          "en": "à",
+          "ar": "à"
+        },
+        {
+          "pt": "comigo",
+          "en": "comigo",
+          "ar": "comigo"
+        },
+        {
+          "pt": "ir",
+          "en": "ir",
+          "ar": "ir"
+        },
+        {
+          "pt": "possa",
+          "en": "possa",
+          "ar": "possa"
+        },
+        {
+          "pt": "praia",
+          "en": "praia",
+          "ar": "praia"
+        }
+      ],
+      "answer": "Espero que você possa ir à praia comigo no sábado.",
+      "accepted": [
+        "Espero que você possa ir à praia comigo no sábado."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Espero que você possa ir à praia comigo no sábado.'",
+        "en": "The correct order: 'I hope you can go to the beach with me on Saturday.'",
+        "ar": "الترتيب الصحيح: 'آمل أن تتمكن من الذهاب إلى الشاطئ معي يوم السبت.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "talvez",
+          "en": "to doubt",
+          "ar": "talvez"
+        },
+        {
+          "pt": "esperar",
+          "en": "to hope",
+          "ar": "esperar"
+        },
+        {
+          "pt": "duvidar",
+          "en": "to ask (for)",
+          "ar": "duvidar"
+        },
+        {
+          "pt": "pedir",
+          "en": "maybe",
+          "ar": "pedir"
+        },
+        {
+          "pt": "exigir",
+          "en": "to wish",
+          "ar": "exigir"
+        },
+        {
+          "pt": "desejar",
+          "en": "to demand",
+          "ar": "desejar"
+        }
+      ],
+      "answer": "talvez::to doubt|esperar::to hope|duvidar::to ask (for)|pedir::maybe|exigir::to wish|desejar::to demand",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "É importante que a gente saia um pouco da cidade.",
+          "en": "It's important that we get out of the city a little.",
+          "ar": "أريدك أن تتعرف على شاطئ جميل اكتشفته."
+        },
+        {
+          "pt": "Espero que você possa ir à praia comigo no sábado.",
+          "en": "I hope you can go to the beach with me on Saturday.",
+          "ar": "آمل أن تتمكن من الذهاب إلى الشاطئ معي يوم السبت."
+        },
+        {
+          "pt": "Quero que você conheça uma praia linda que eu descobri.",
+          "en": "I want you to see a beautiful beach I discovered.",
+          "ar": "من المهم أن نخرج قليلًا من المدينة."
+        }
+      ],
+      "answer": "Espero que você possa ir à praia comigo no sábado.",
+      "accepted": [],
+      "audio": "Espero que você possa ir à praia comigo no sábado.",
+      "explanation": {
+        "pt": "Você ouviu: 'Espero que você possa ir à praia comigo no sábado.' — 'I hope you can go to the beach with me on Saturday.'",
+        "en": "You heard: 'Espero que você possa ir à praia comigo no sábado.' — 'I hope you can go to the beach with me on Saturday.'",
+        "ar": "سمعت: 'Espero que você possa ir à praia comigo no sábado.' — 'آمل أن تتمكن من الذهاب إلى الشاطئ معي يوم السبت.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Ótimo! Duvido que eu fique em casa neste fim de semana.",
+          "en": "Hopefully it won't rain! Maybe the weather will be good.",
+          "ar": "أريدك أن تتعرف على شاطئ جميل اكتشفته."
+        },
+        {
+          "pt": "Quero que você conheça uma praia linda que eu descobri.",
+          "en": "Great! I doubt I'll stay home this weekend.",
+          "ar": "ليت المطر لا يهطل! ربما يكون الطقس جيدًا."
+        },
+        {
+          "pt": "Tomara que não chova! Talvez o tempo fique bom.",
+          "en": "I want you to see a beautiful beach I discovered.",
+          "ar": "رائع! أشك في أن أبقى في المنزل هذا الأسبوع."
+        }
+      ],
+      "answer": "Tomara que não chova! Talvez o tempo fique bom.",
+      "accepted": [],
+      "audio": "Tomara que não chova! Talvez o tempo fique bom.",
+      "explanation": {
+        "pt": "Você ouviu: 'Tomara que não chova! Talvez o tempo fique bom.' — 'Hopefully it won't rain! Maybe the weather will be good.'",
+        "en": "You heard: 'Tomara que não chova! Talvez o tempo fique bom.' — 'Hopefully it won't rain! Maybe the weather will be good.'",
+        "ar": "سمعت: 'Tomara que não chova! Talvez o tempo fique bom.' — 'ليت المطر لا يهطل! ربما يكون الطقس جيدًا.'"
+      }
+    }
+  ],
+  "speaking": {
+    "title": {
+      "pt": "Fale Agora — Ouça e Repita",
+      "en": "Speak Now — Listen and Repeat",
+      "ar": "تحدث الآن — استمع وكرر"
+    },
+    "phrases": [
+      {
+        "pt": "Espero que você possa ir à praia comigo no sábado.",
+        "en": "I hope you can go to the beach with me on Saturday.",
+        "ar": "آمل أن تتمكن من الذهاب إلى الشاطئ معي يوم السبت."
+      },
+      {
+        "pt": "Tomara que não chova! Talvez o tempo fique bom.",
+        "en": "Hopefully it won't rain! Maybe the weather will be good.",
+        "ar": "ليت المطر لا يهطل! ربما يكون الطقس جيدًا."
+      },
+      {
+        "pt": "É importante que a gente saia um pouco da cidade.",
+        "en": "It's important that we get out of the city a little.",
+        "ar": "من المهم أن نخرج قليلًا من المدينة."
+      },
+      {
+        "pt": "Quero que você conheça uma praia linda que eu descobri.",
+        "en": "I want you to see a beautiful beach I discovered.",
+        "ar": "أريدك أن تتعرف على شاطئ جميل اكتشفته."
+      },
+      {
+        "pt": "Ótimo! Duvido que eu fique em casa neste fim de semana.",
+        "en": "Great! I doubt I'll stay home this weekend.",
+        "ar": "رائع! أشك في أن أبقى في المنزل هذا الأسبوع."
+      },
+      {
+        "pt": "talvez",
+        "en": "maybe",
+        "ar": "ربما"
+      },
+      {
+        "pt": "desejar",
+        "en": "to wish",
+        "ar": "يتمنى"
+      },
+      {
+        "pt": "esperar",
+        "en": "to hope",
+        "ar": "يأمل"
+      }
+    ]
+  },
+  "cultural_tips": {
+    "pt": "",
+    "en": "",
+    "ar": ""
+  }
+}

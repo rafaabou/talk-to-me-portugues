@@ -1,0 +1,1960 @@
+{
+  "id": "A1-02",
+  "level": "A1",
+  "level_name": {
+    "pt": "Iniciante",
+    "en": "Beginner",
+    "ar": "مبتدئ"
+  },
+  "title": {
+    "pt": "Cumprimentos e Apresentações",
+    "en": "Greetings and Introductions",
+    "ar": "التحيات والتعارف"
+  },
+  "objectives": [
+    {
+      "pt": "Cumprimentar em situações formais e informais",
+      "en": "Greet in formal and informal situations",
+      "ar": "التحية في المواقف الرسمية وغير الرسمية"
+    },
+    {
+      "pt": "Apresentar-se e perguntar o nome",
+      "en": "Introduce yourself and ask someone's name",
+      "ar": "التعريف بنفسك والسؤال عن الاسم"
+    },
+    {
+      "pt": "Usar expressões de cortesia",
+      "en": "Use courtesy expressions",
+      "ar": "استخدام عبارات المجاملة"
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "olá",
+      "ipa": "/oˈla/",
+      "en": "hello",
+      "ar": "مرحبًا",
+      "example": {
+        "pt": "Olá! Meu nome é Ana. E você?",
+        "en": "Hello! My name is Ana. And you?",
+        "ar": "مرحبًا! اسمي آنا. وأنت؟"
+      }
+    },
+    {
+      "pt": "bom dia",
+      "ipa": "/bõw ˈdʒi.a/",
+      "en": "good morning",
+      "ar": "صباح الخير",
+      "example": {
+        "pt": "Bom dia, senhor Silva. (formal)",
+        "en": "Good morning, Mr. Silva. (formal)",
+        "ar": "صباح الخير، سيد سيلفا. (رسمي)"
+      }
+    },
+    {
+      "pt": "boa tarde",
+      "ipa": "/ˈbo.a ˈtaʁ.dʒi/",
+      "en": "good afternoon",
+      "ar": "مساء الخير",
+      "example": {
+        "pt": "Olá! Meu nome é Ana. E você?",
+        "en": "Hello! My name is Ana. And you?",
+        "ar": "مرحبًا! اسمي آنا. وأنت؟"
+      }
+    },
+    {
+      "pt": "boa noite",
+      "ipa": "/ˈbo.a ˈnoj.tʃi/",
+      "en": "good night",
+      "ar": "ليلة سعيدة",
+      "example": {
+        "pt": "Olá! Meu nome é Ana. E você?",
+        "en": "Hello! My name is Ana. And you?",
+        "ar": "مرحبًا! اسمي آنا. وأنت؟"
+      }
+    },
+    {
+      "pt": "tchau",
+      "ipa": "/tʃaw/",
+      "en": "bye",
+      "ar": "وداعًا",
+      "example": {
+        "pt": "Tchau, Ana! Até amanhã.",
+        "en": "Bye, Ana! See you tomorrow.",
+        "ar": "وداعًا آنا! أراك غدًا."
+      }
+    },
+    {
+      "pt": "até logo",
+      "ipa": "/aˈtɛ ˈlɔ.ɡu/",
+      "en": "see you later",
+      "ar": "أراك لاحقًا",
+      "example": {
+        "pt": "Tudo ótimo. Até logo, Pedro!",
+        "en": "Everything great. See you later, Pedro!",
+        "ar": "كل شيء رائع. أراك لاحقًا يا بيدرو!"
+      }
+    },
+    {
+      "pt": "prazer",
+      "ipa": "/pɾaˈzeʁ/",
+      "en": "nice to meet you",
+      "ar": "سررت بلقائك",
+      "example": {
+        "pt": "Oi, Ana! Eu sou o Pedro. Muito prazer.",
+        "en": "Hi, Ana! I'm Pedro. Nice to meet you.",
+        "ar": "مرحبًا آنا! أنا بيدرو. سررت بلقائك."
+      }
+    },
+    {
+      "pt": "meu nome é",
+      "ipa": "/mew ˈnõ.mi ɛ/",
+      "en": "my name is",
+      "ar": "اسمي هو",
+      "example": {
+        "pt": "Olá! Meu nome é Ana. E você?",
+        "en": "Hello! My name is Ana. And you?",
+        "ar": "مرحبًا! اسمي آنا. وأنت؟"
+      }
+    },
+    {
+      "pt": "eu sou",
+      "ipa": "/ew sow/",
+      "en": "I am",
+      "ar": "أنا",
+      "example": {
+        "pt": "Oi, Ana! Eu sou o Pedro. Muito prazer.",
+        "en": "Hi, Ana! I'm Pedro. Nice to meet you.",
+        "ar": "مرحبًا آنا! أنا بيدرو. سررت بلقائك."
+      }
+    },
+    {
+      "pt": "como vai?",
+      "ipa": "/ˈkõ.mu vaj/",
+      "en": "how are you?",
+      "ar": "كيف حالك؟",
+      "example": {
+        "pt": "O prazer é meu. Como vai você?",
+        "en": "The pleasure is mine. How are you?",
+        "ar": "بسرور. كيف حالك؟"
+      }
+    },
+    {
+      "pt": "tudo bem?",
+      "ipa": "/ˈtu.du bẽj/",
+      "en": "everything ok?",
+      "ar": "كل شيء بخير؟",
+      "example": {
+        "pt": "Tudo bem, obrigado! E você?",
+        "en": "I'm fine, thanks! And you?",
+        "ar": "أنا بخير، شكرًا! وأنت؟"
+      }
+    },
+    {
+      "pt": "obrigado",
+      "ipa": "/o.bɾiˈɡa.du/",
+      "en": "thank you (m)",
+      "ar": "شكرًا",
+      "example": {
+        "pt": "Tudo bem, obrigado! E você?",
+        "en": "I'm fine, thanks! And you?",
+        "ar": "أنا بخير، شكرًا! وأنت؟"
+      }
+    },
+    {
+      "pt": "obrigada",
+      "ipa": "/o.bɾiˈɡa.da/",
+      "en": "thank you (f)",
+      "ar": "شكرًا",
+      "example": {
+        "pt": "Obrigada, de nada. (feminine)",
+        "en": "Thank you, you're welcome. (feminine)",
+        "ar": "شكرًا، عفوًا. (مؤنث)"
+      }
+    },
+    {
+      "pt": "de nada",
+      "ipa": "/dʒi ˈna.da/",
+      "en": "you're welcome",
+      "ar": "عفوًا",
+      "example": {
+        "pt": "Obrigada, de nada. (feminine)",
+        "en": "Thank you, you're welcome. (feminine)",
+        "ar": "شكرًا، عفوًا. (مؤنث)"
+      }
+    },
+    {
+      "pt": "por favor",
+      "ipa": "/puʁ faˈvoʁ/",
+      "en": "please",
+      "ar": "من فضلك",
+      "example": {
+        "pt": "Olá! Meu nome é Ana. E você?",
+        "en": "Hello! My name is Ana. And you?",
+        "ar": "مرحبًا! اسمي آنا. وأنت؟"
+      }
+    },
+    {
+      "pt": "desculpa",
+      "ipa": "/dʒisˈkuw.pa/",
+      "en": "sorry",
+      "ar": "آسف",
+      "example": {
+        "pt": "Olá! Meu nome é Ana. E você?",
+        "en": "Hello! My name is Ana. And you?",
+        "ar": "مرحبًا! اسمي آنا. وأنت؟"
+      }
+    },
+    {
+      "pt": "até amanhã",
+      "ipa": "/aˈtɛ a.mɐˈɲɐ̃/",
+      "en": "see you tomorrow",
+      "ar": "أراك غدًا",
+      "example": {
+        "pt": "Tudo ótimo. Até logo, Pedro!",
+        "en": "Everything great. See you later, Pedro!",
+        "ar": "كل شيء رائع. أراك لاحقًا يا بيدرو!"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "title": {
+        "pt": "Formal e Informal",
+        "en": "Formal and Informal",
+        "ar": "رسمي وغير رسمي"
+      },
+      "explanation": {
+        "pt": "No Brasil, 'você' é a forma comum de tratamento. 'Tu' é usado em algumas regiões. O tratamento formal usa 'o senhor' e 'a senhora'. As saudações também variam: 'oi' (informal), 'olá' (neutro), 'bom dia' (cortês).",
+        "en": "In Brazil, 'você' is the common form of address. 'Tu' is used in some regions. Formal address uses 'o senhor' (sir) and 'a senhora' (madam). Greetings also vary: 'oi' (informal), 'olá' (neutral), 'bom dia' (polite).",
+        "ar": "في البرازيل، 'você' هي صيغة الخطاب الشائعة. تُستخدم 'tu' في بعض المناطق. الخطاب الرسمي يستخدم 'o senhor' (سيدي) و 'a senhora' (سيدتي). تختلف التحيات أيضًا: 'oi' (غير رسمي)، 'olá' (محايد)، 'bom dia' (مهذب)."
+      },
+      "examples": [
+        {
+          "pt": "Oi, tudo bem? (informal)",
+          "en": "Hi, how's it going? (informal)",
+          "ar": "مرحبًا، كيف الحال؟ (غير رسمي)"
+        },
+        {
+          "pt": "Bom dia, senhor Silva. (formal)",
+          "en": "Good morning, Mr. Silva. (formal)",
+          "ar": "صباح الخير، سيد سيلفا. (رسمي)"
+        },
+        {
+          "pt": "Obrigada, de nada. (feminine)",
+          "en": "Thank you, you're welcome. (feminine)",
+          "ar": "شكرًا، عفوًا. (مؤنث)"
+        }
+      ]
+    },
+    {
+      "title": {
+        "pt": "Apresentando-se",
+        "en": "Introducing Yourself",
+        "ar": "تقديم نفسك"
+      },
+      "explanation": {
+        "pt": "Para se apresentar: 'Eu me chamo...' ou 'Meu nome é...'. Depois: 'Muito prazer' (nice to meet you). Para perguntar: 'Qual é o seu nome?'",
+        "en": "To introduce yourself: 'Eu me chamo...' (I'm called...) or 'Meu nome é...' (My name is...). Then: 'Muito prazer' (Nice to meet you). To ask: 'Qual é o seu nome?' (What's your name?)",
+        "ar": "لتقديم نفسك: 'Eu me chamo...' أو 'Meu nome é...'. ثم: 'Muito prazer' (سررت بلقائك). للسؤال: 'Qual é o seu nome?' (ما اسمك؟)"
+      },
+      "examples": [
+        {
+          "pt": "Meu nome é Ana.",
+          "en": "My name is Ana.",
+          "ar": "اسمي آنا."
+        },
+        {
+          "pt": "Muito prazer! Eu me chamo Carlos.",
+          "en": "Nice to meet you! My name is Carlos.",
+          "ar": "سررت بلقائك! اسمي كارلوس."
+        },
+        {
+          "pt": "Qual é o seu nome?",
+          "en": "What's your name?",
+          "ar": "ما اسمك؟"
+        }
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": {
+      "pt": "Conhecendo Alguém",
+      "en": "Meeting Someone",
+      "ar": "التعرف على شخص"
+    },
+    "lines": [
+      {
+        "speaker": "Ana",
+        "pt": "Olá! Meu nome é Ana. E você?",
+        "en": "Hello! My name is Ana. And you?",
+        "ar": "مرحبًا! اسمي آنا. وأنت؟"
+      },
+      {
+        "speaker": "Pedro",
+        "pt": "Oi, Ana! Eu sou o Pedro. Muito prazer.",
+        "en": "Hi, Ana! I'm Pedro. Nice to meet you.",
+        "ar": "مرحبًا آنا! أنا بيدرو. سررت بلقائك."
+      },
+      {
+        "speaker": "Ana",
+        "pt": "O prazer é meu. Como vai você?",
+        "en": "The pleasure is mine. How are you?",
+        "ar": "بسرور. كيف حالك؟"
+      },
+      {
+        "speaker": "Pedro",
+        "pt": "Tudo bem, obrigado! E você?",
+        "en": "I'm fine, thanks! And you?",
+        "ar": "أنا بخير، شكرًا! وأنت؟"
+      },
+      {
+        "speaker": "Ana",
+        "pt": "Tudo ótimo. Até logo, Pedro!",
+        "en": "Everything great. See you later, Pedro!",
+        "ar": "كل شيء رائع. أراك لاحقًا يا بيدرو!"
+      },
+      {
+        "speaker": "Pedro",
+        "pt": "Tchau, Ana! Até amanhã.",
+        "en": "Bye, Ana! See you tomorrow.",
+        "ar": "وداعًا آنا! أراك غدًا."
+      }
+    ]
+  },
+  "reading": {
+    "title": {
+      "pt": "Saudações no Brasil",
+      "en": "Greetings in Brazil",
+      "ar": "التحيات في البرازيل"
+    },
+    "text_pt": "No Brasil, as pessoas cumprimentam com um beijo ou um aperto de mão. 'Oi' e 'olá' são saudações comuns. De manhã, dizemos 'bom dia'. À tarde, 'boa tarde'. À noite, 'boa noite'. Quando chegamos, perguntamos 'tudo bem?'.",
+    "text_en": "In Brazil, people greet with a kiss or a handshake. 'Oi' (hi) and 'olá' (hello) are common greetings. In the morning, we say 'bom dia' (good morning). In the afternoon, 'boa tarde' (good afternoon). At night, 'boa noite' (good night). When we arrive, we ask 'tudo bem?' (how's everything?).",
+    "text_ar": "في البرازيل، يحيي الناس بقبلة أو مصافحة. 'Oi' (مرحبًا) و 'olá' (أهلًا) تحيات شائعة. في الصباح نقول 'bom dia' (صباح الخير). في الظهيرة 'boa tarde' (مساء الخير). في الليل 'boa noite' (ليلة سعيدة). عند الوصول نسأل 'tudo bem?' (كيف الحال؟)."
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "O que você diz de manhã?",
+        "en": "What do you say in the morning?",
+        "ar": "ماذا تقول في الصباح؟"
+      },
+      "options": [
+        {
+          "pt": "bom dia",
+          "en": "bom dia",
+          "ar": "bom dia"
+        },
+        {
+          "pt": "boa noite",
+          "en": "boa noite",
+          "ar": "boa noite"
+        },
+        {
+          "pt": "tchau",
+          "en": "tchau",
+          "ar": "tchau"
+        }
+      ],
+      "answer": "bom dia",
+      "explanation": {
+        "pt": "De manhã dizemos 'bom dia'.",
+        "en": "In the morning we say 'bom dia'.",
+        "ar": "في الصباح نقول 'bom dia'."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual expressão é formal?",
+        "en": "Which expression is formal?",
+        "ar": "أي عبارة رسمية؟"
+      },
+      "options": [
+        {
+          "pt": "oi",
+          "en": "oi",
+          "ar": "oi"
+        },
+        {
+          "pt": "e aí?",
+          "en": "e aí?",
+          "ar": "e aí?"
+        },
+        {
+          "pt": "bom dia, senhor",
+          "en": "bom dia, senhor",
+          "ar": "bom dia, senhor"
+        }
+      ],
+      "answer": "bom dia, senhor",
+      "explanation": {
+        "pt": "'bom dia, senhor' é formal.",
+        "en": "'bom dia, senhor' is formal.",
+        "ar": "'bom dia, senhor' رسمية."
+      }
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza: 'my name is'",
+        "en": "Translate: 'my name is'",
+        "ar": "ترجم: 'my name is'"
+      },
+      "options": [],
+      "answer": "meu nome é",
+      "explanation": {
+        "pt": "'Meu nome é' significa 'my name is'.",
+        "en": "'Meu nome é' means 'my name is'.",
+        "ar": "'Meu nome é' تعني 'my name is'."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Meu",
+          "en": "Meu",
+          "ar": "Meu"
+        },
+        {
+          "pt": "você?",
+          "en": "você?",
+          "ar": "você?"
+        },
+        {
+          "pt": "Olá!",
+          "en": "Olá!",
+          "ar": "Olá!"
+        },
+        {
+          "pt": "Ana.",
+          "en": "Ana.",
+          "ar": "Ana."
+        },
+        {
+          "pt": "E",
+          "en": "E",
+          "ar": "E"
+        },
+        {
+          "pt": "é",
+          "en": "é",
+          "ar": "é"
+        },
+        {
+          "pt": "nome",
+          "en": "nome",
+          "ar": "nome"
+        }
+      ],
+      "answer": "Olá! Meu nome é Ana. E você?",
+      "accepted": [
+        "Olá! Meu nome é Ana. E você?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Olá! Meu nome é Ana. E você?'",
+        "en": "The correct order: 'Hello! My name is Ana. And you?'",
+        "ar": "الترتيب الصحيح: 'مرحبًا! اسمي آنا. وأنت؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "olá",
+          "en": "good afternoon",
+          "ar": "olá"
+        },
+        {
+          "pt": "tchau",
+          "en": "hello",
+          "ar": "tchau"
+        },
+        {
+          "pt": "bom dia",
+          "en": "good morning",
+          "ar": "bom dia"
+        },
+        {
+          "pt": "boa tarde",
+          "en": "see you later",
+          "ar": "boa tarde"
+        },
+        {
+          "pt": "até logo",
+          "en": "bye",
+          "ar": "até logo"
+        },
+        {
+          "pt": "boa noite",
+          "en": "good night",
+          "ar": "boa noite"
+        }
+      ],
+      "answer": "olá::good afternoon|tchau::hello|bom dia::good morning|boa tarde::see you later|até logo::bye|boa noite::good night",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Tchau, Ana! Até amanhã.",
+          "en": "Bye, Ana! See you tomorrow.",
+          "ar": "مرحبًا آنا! أنا بيدرو. سررت بلقائك."
+        },
+        {
+          "pt": "Olá! Meu nome é Ana. E você?",
+          "en": "Hello! My name is Ana. And you?",
+          "ar": "مرحبًا! اسمي آنا. وأنت؟"
+        },
+        {
+          "pt": "Oi, Ana! Eu sou o Pedro. Muito prazer.",
+          "en": "Hi, Ana! I'm Pedro. Nice to meet you.",
+          "ar": "وداعًا آنا! أراك غدًا."
+        }
+      ],
+      "answer": "Olá! Meu nome é Ana. E você?",
+      "accepted": [],
+      "audio": "Olá! Meu nome é Ana. E você?",
+      "explanation": {
+        "pt": "Você ouviu: 'Olá! Meu nome é Ana. E você?' — 'Hello! My name is Ana. And you?'",
+        "en": "You heard: 'Olá! Meu nome é Ana. E você?' — 'Hello! My name is Ana. And you?'",
+        "ar": "سمعت: 'Olá! Meu nome é Ana. E você?' — 'مرحبًا! اسمي آنا. وأنت؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Oi, Ana! Eu sou o Pedro. Muito prazer.",
+          "en": "The pleasure is mine. How are you?",
+          "ar": "وداعًا آنا! أراك غدًا."
+        },
+        {
+          "pt": "Tchau, Ana! Até amanhã.",
+          "en": "Hi, Ana! I'm Pedro. Nice to meet you.",
+          "ar": "مرحبًا آنا! أنا بيدرو. سررت بلقائك."
+        },
+        {
+          "pt": "O prazer é meu. Como vai você?",
+          "en": "Bye, Ana! See you tomorrow.",
+          "ar": "بسرور. كيف حالك؟"
+        }
+      ],
+      "answer": "Oi, Ana! Eu sou o Pedro. Muito prazer.",
+      "accepted": [],
+      "audio": "Oi, Ana! Eu sou o Pedro. Muito prazer.",
+      "explanation": {
+        "pt": "Você ouviu: 'Oi, Ana! Eu sou o Pedro. Muito prazer.' — 'Hi, Ana! I'm Pedro. Nice to meet you.'",
+        "en": "You heard: 'Oi, Ana! Eu sou o Pedro. Muito prazer.' — 'Hi, Ana! I'm Pedro. Nice to meet you.'",
+        "ar": "سمعت: 'Oi, Ana! Eu sou o Pedro. Muito prazer.' — 'مرحبًا آنا! أنا بيدرو. سررت بلقائك.'"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Oi, tudo ___ (informal)",
+        "en": "Oi, tudo ___ (informal)",
+        "ar": "Oi, tudo ___ (informal)"
+      },
+      "options": [
+        {
+          "pt": "bem?",
+          "en": "bem?",
+          "ar": "bem?"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "senhor",
+          "en": "senhor",
+          "ar": "senhor"
+        }
+      ],
+      "answer": "bem?",
+      "accepted": [],
+      "explanation": {
+        "pt": "A resposta é 'bem?'. Frase completa: Oi, tudo bem? (informal)",
+        "en": "The answer is 'bem?'. Full sentence: Hi, how's it going? (informal)",
+        "ar": "الإجابة الصحيحة: 'bem?'. الجملة كاملة: مرحبًا، كيف الحال؟ (غير رسمي)"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Ana.",
+          "en": "Ana.",
+          "ar": "Ana."
+        },
+        {
+          "pt": "Olá!",
+          "en": "Olá!",
+          "ar": "Olá!"
+        },
+        {
+          "pt": "você?",
+          "en": "você?",
+          "ar": "você?"
+        },
+        {
+          "pt": "é",
+          "en": "é",
+          "ar": "é"
+        },
+        {
+          "pt": "nome",
+          "en": "nome",
+          "ar": "nome"
+        },
+        {
+          "pt": "Meu",
+          "en": "Meu",
+          "ar": "Meu"
+        },
+        {
+          "pt": "E",
+          "en": "E",
+          "ar": "E"
+        }
+      ],
+      "answer": "Olá! Meu nome é Ana. E você?",
+      "accepted": [
+        "Olá! Meu nome é Ana. E você?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Olá! Meu nome é Ana. E você?'",
+        "en": "The correct order: 'Hello! My name is Ana. And you?'",
+        "ar": "الترتيب الصحيح: 'مرحبًا! اسمي آنا. وأنت؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "tchau",
+          "en": "good night",
+          "ar": "tchau"
+        },
+        {
+          "pt": "boa noite",
+          "en": "bye",
+          "ar": "boa noite"
+        },
+        {
+          "pt": "bom dia",
+          "en": "see you later",
+          "ar": "bom dia"
+        },
+        {
+          "pt": "olá",
+          "en": "good morning",
+          "ar": "olá"
+        },
+        {
+          "pt": "boa tarde",
+          "en": "hello",
+          "ar": "boa tarde"
+        },
+        {
+          "pt": "até logo",
+          "en": "good afternoon",
+          "ar": "até logo"
+        }
+      ],
+      "answer": "tchau::good night|boa noite::bye|bom dia::see you later|olá::good morning|boa tarde::hello|até logo::good afternoon",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "O prazer é meu. Como vai você?",
+          "en": "The pleasure is mine. How are you?",
+          "ar": "مرحبًا! اسمي آنا. وأنت؟"
+        },
+        {
+          "pt": "Olá! Meu nome é Ana. E você?",
+          "en": "Hello! My name is Ana. And you?",
+          "ar": "أنا بخير، شكرًا! وأنت؟"
+        },
+        {
+          "pt": "Tudo bem, obrigado! E você?",
+          "en": "I'm fine, thanks! And you?",
+          "ar": "بسرور. كيف حالك؟"
+        }
+      ],
+      "answer": "Olá! Meu nome é Ana. E você?",
+      "accepted": [],
+      "audio": "Olá! Meu nome é Ana. E você?",
+      "explanation": {
+        "pt": "Você ouviu: 'Olá! Meu nome é Ana. E você?' — 'Hello! My name is Ana. And you?'",
+        "en": "You heard: 'Olá! Meu nome é Ana. E você?' — 'Hello! My name is Ana. And you?'",
+        "ar": "سمعت: 'Olá! Meu nome é Ana. E você?' — 'مرحبًا! اسمي آنا. وأنت؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Oi, Ana! Eu sou o Pedro. Muito prazer.",
+          "en": "Hi, Ana! I'm Pedro. Nice to meet you.",
+          "ar": "مرحبًا آنا! أنا بيدرو. سررت بلقائك."
+        },
+        {
+          "pt": "Olá! Meu nome é Ana. E você?",
+          "en": "The pleasure is mine. How are you?",
+          "ar": "مرحبًا! اسمي آنا. وأنت؟"
+        },
+        {
+          "pt": "O prazer é meu. Como vai você?",
+          "en": "Hello! My name is Ana. And you?",
+          "ar": "بسرور. كيف حالك؟"
+        }
+      ],
+      "answer": "Oi, Ana! Eu sou o Pedro. Muito prazer.",
+      "accepted": [],
+      "audio": "Oi, Ana! Eu sou o Pedro. Muito prazer.",
+      "explanation": {
+        "pt": "Você ouviu: 'Oi, Ana! Eu sou o Pedro. Muito prazer.' — 'Hi, Ana! I'm Pedro. Nice to meet you.'",
+        "en": "You heard: 'Oi, Ana! Eu sou o Pedro. Muito prazer.' — 'Hi, Ana! I'm Pedro. Nice to meet you.'",
+        "ar": "سمعت: 'Oi, Ana! Eu sou o Pedro. Muito prazer.' — 'مرحبًا آنا! أنا بيدرو. سررت بلقائك.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "nome",
+          "en": "nome",
+          "ar": "nome"
+        },
+        {
+          "pt": "Olá!",
+          "en": "Olá!",
+          "ar": "Olá!"
+        },
+        {
+          "pt": "você?",
+          "en": "você?",
+          "ar": "você?"
+        },
+        {
+          "pt": "Meu",
+          "en": "Meu",
+          "ar": "Meu"
+        },
+        {
+          "pt": "é",
+          "en": "é",
+          "ar": "é"
+        },
+        {
+          "pt": "E",
+          "en": "E",
+          "ar": "E"
+        },
+        {
+          "pt": "Ana.",
+          "en": "Ana.",
+          "ar": "Ana."
+        }
+      ],
+      "answer": "Olá! Meu nome é Ana. E você?",
+      "accepted": [
+        "Olá! Meu nome é Ana. E você?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Olá! Meu nome é Ana. E você?'",
+        "en": "The correct order: 'Hello! My name is Ana. And you?'",
+        "ar": "الترتيب الصحيح: 'مرحبًا! اسمي آنا. وأنت؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "olá",
+          "en": "good night",
+          "ar": "olá"
+        },
+        {
+          "pt": "tchau",
+          "en": "good morning",
+          "ar": "tchau"
+        },
+        {
+          "pt": "boa noite",
+          "en": "bye",
+          "ar": "boa noite"
+        },
+        {
+          "pt": "boa tarde",
+          "en": "see you later",
+          "ar": "boa tarde"
+        },
+        {
+          "pt": "até logo",
+          "en": "hello",
+          "ar": "até logo"
+        },
+        {
+          "pt": "bom dia",
+          "en": "good afternoon",
+          "ar": "bom dia"
+        }
+      ],
+      "answer": "olá::good night|tchau::good morning|boa noite::bye|boa tarde::see you later|até logo::hello|bom dia::good afternoon",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Olá! Meu nome é Ana. E você?",
+          "en": "Bye, Ana! See you tomorrow.",
+          "ar": "كل شيء رائع. أراك لاحقًا يا بيدرو!"
+        },
+        {
+          "pt": "Tudo ótimo. Até logo, Pedro!",
+          "en": "Hello! My name is Ana. And you?",
+          "ar": "مرحبًا! اسمي آنا. وأنت؟"
+        },
+        {
+          "pt": "Tchau, Ana! Até amanhã.",
+          "en": "Everything great. See you later, Pedro!",
+          "ar": "وداعًا آنا! أراك غدًا."
+        }
+      ],
+      "answer": "Olá! Meu nome é Ana. E você?",
+      "accepted": [],
+      "audio": "Olá! Meu nome é Ana. E você?",
+      "explanation": {
+        "pt": "Você ouviu: 'Olá! Meu nome é Ana. E você?' — 'Hello! My name is Ana. And you?'",
+        "en": "You heard: 'Olá! Meu nome é Ana. E você?' — 'Hello! My name is Ana. And you?'",
+        "ar": "سمعت: 'Olá! Meu nome é Ana. E você?' — 'مرحبًا! اسمي آنا. وأنت؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Tchau, Ana! Até amanhã.",
+          "en": "The pleasure is mine. How are you?",
+          "ar": "بسرور. كيف حالك؟"
+        },
+        {
+          "pt": "Oi, Ana! Eu sou o Pedro. Muito prazer.",
+          "en": "Hi, Ana! I'm Pedro. Nice to meet you.",
+          "ar": "مرحبًا آنا! أنا بيدرو. سررت بلقائك."
+        },
+        {
+          "pt": "O prazer é meu. Como vai você?",
+          "en": "Bye, Ana! See you tomorrow.",
+          "ar": "وداعًا آنا! أراك غدًا."
+        }
+      ],
+      "answer": "Oi, Ana! Eu sou o Pedro. Muito prazer.",
+      "accepted": [],
+      "audio": "Oi, Ana! Eu sou o Pedro. Muito prazer.",
+      "explanation": {
+        "pt": "Você ouviu: 'Oi, Ana! Eu sou o Pedro. Muito prazer.' — 'Hi, Ana! I'm Pedro. Nice to meet you.'",
+        "en": "You heard: 'Oi, Ana! Eu sou o Pedro. Muito prazer.' — 'Hi, Ana! I'm Pedro. Nice to meet you.'",
+        "ar": "سمعت: 'Oi, Ana! Eu sou o Pedro. Muito prazer.' — 'مرحبًا آنا! أنا بيدرو. سررت بلقائك.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "é",
+          "en": "é",
+          "ar": "é"
+        },
+        {
+          "pt": "Ana.",
+          "en": "Ana.",
+          "ar": "Ana."
+        },
+        {
+          "pt": "E",
+          "en": "E",
+          "ar": "E"
+        },
+        {
+          "pt": "Olá!",
+          "en": "Olá!",
+          "ar": "Olá!"
+        },
+        {
+          "pt": "você?",
+          "en": "você?",
+          "ar": "você?"
+        },
+        {
+          "pt": "Meu",
+          "en": "Meu",
+          "ar": "Meu"
+        },
+        {
+          "pt": "nome",
+          "en": "nome",
+          "ar": "nome"
+        }
+      ],
+      "answer": "Olá! Meu nome é Ana. E você?",
+      "accepted": [
+        "Olá! Meu nome é Ana. E você?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Olá! Meu nome é Ana. E você?'",
+        "en": "The correct order: 'Hello! My name is Ana. And you?'",
+        "ar": "الترتيب الصحيح: 'مرحبًا! اسمي آنا. وأنت؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "tchau",
+          "en": "good morning",
+          "ar": "tchau"
+        },
+        {
+          "pt": "boa tarde",
+          "en": "see you later",
+          "ar": "boa tarde"
+        },
+        {
+          "pt": "boa noite",
+          "en": "hello",
+          "ar": "boa noite"
+        },
+        {
+          "pt": "olá",
+          "en": "bye",
+          "ar": "olá"
+        },
+        {
+          "pt": "bom dia",
+          "en": "good afternoon",
+          "ar": "bom dia"
+        },
+        {
+          "pt": "até logo",
+          "en": "good night",
+          "ar": "até logo"
+        }
+      ],
+      "answer": "tchau::good morning|boa tarde::see you later|boa noite::hello|olá::bye|bom dia::good afternoon|até logo::good night",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Tudo bem, obrigado! E você?",
+          "en": "Hello! My name is Ana. And you?",
+          "ar": "مرحبًا! اسمي آنا. وأنت؟"
+        },
+        {
+          "pt": "Tchau, Ana! Até amanhã.",
+          "en": "I'm fine, thanks! And you?",
+          "ar": "أنا بخير، شكرًا! وأنت؟"
+        },
+        {
+          "pt": "Olá! Meu nome é Ana. E você?",
+          "en": "Bye, Ana! See you tomorrow.",
+          "ar": "وداعًا آنا! أراك غدًا."
+        }
+      ],
+      "answer": "Olá! Meu nome é Ana. E você?",
+      "accepted": [],
+      "audio": "Olá! Meu nome é Ana. E você?",
+      "explanation": {
+        "pt": "Você ouviu: 'Olá! Meu nome é Ana. E você?' — 'Hello! My name is Ana. And you?'",
+        "en": "You heard: 'Olá! Meu nome é Ana. E você?' — 'Hello! My name is Ana. And you?'",
+        "ar": "سمعت: 'Olá! Meu nome é Ana. E você?' — 'مرحبًا! اسمي آنا. وأنت؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Oi, Ana! Eu sou o Pedro. Muito prazer.",
+          "en": "Hello! My name is Ana. And you?",
+          "ar": "وداعًا آنا! أراك غدًا."
+        },
+        {
+          "pt": "Tchau, Ana! Até amanhã.",
+          "en": "Bye, Ana! See you tomorrow.",
+          "ar": "مرحبًا! اسمي آنا. وأنت؟"
+        },
+        {
+          "pt": "Olá! Meu nome é Ana. E você?",
+          "en": "Hi, Ana! I'm Pedro. Nice to meet you.",
+          "ar": "مرحبًا آنا! أنا بيدرو. سررت بلقائك."
+        }
+      ],
+      "answer": "Oi, Ana! Eu sou o Pedro. Muito prazer.",
+      "accepted": [],
+      "audio": "Oi, Ana! Eu sou o Pedro. Muito prazer.",
+      "explanation": {
+        "pt": "Você ouviu: 'Oi, Ana! Eu sou o Pedro. Muito prazer.' — 'Hi, Ana! I'm Pedro. Nice to meet you.'",
+        "en": "You heard: 'Oi, Ana! Eu sou o Pedro. Muito prazer.' — 'Hi, Ana! I'm Pedro. Nice to meet you.'",
+        "ar": "سمعت: 'Oi, Ana! Eu sou o Pedro. Muito prazer.' — 'مرحبًا آنا! أنا بيدرو. سررت بلقائك.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "é",
+          "en": "é",
+          "ar": "é"
+        },
+        {
+          "pt": "Olá!",
+          "en": "Olá!",
+          "ar": "Olá!"
+        },
+        {
+          "pt": "Meu",
+          "en": "Meu",
+          "ar": "Meu"
+        },
+        {
+          "pt": "você?",
+          "en": "você?",
+          "ar": "você?"
+        },
+        {
+          "pt": "Ana.",
+          "en": "Ana.",
+          "ar": "Ana."
+        },
+        {
+          "pt": "E",
+          "en": "E",
+          "ar": "E"
+        },
+        {
+          "pt": "nome",
+          "en": "nome",
+          "ar": "nome"
+        }
+      ],
+      "answer": "Olá! Meu nome é Ana. E você?",
+      "accepted": [
+        "Olá! Meu nome é Ana. E você?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Olá! Meu nome é Ana. E você?'",
+        "en": "The correct order: 'Hello! My name is Ana. And you?'",
+        "ar": "الترتيب الصحيح: 'مرحبًا! اسمي آنا. وأنت؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "boa noite",
+          "en": "good night",
+          "ar": "boa noite"
+        },
+        {
+          "pt": "bom dia",
+          "en": "hello",
+          "ar": "bom dia"
+        },
+        {
+          "pt": "até logo",
+          "en": "bye",
+          "ar": "até logo"
+        },
+        {
+          "pt": "boa tarde",
+          "en": "good afternoon",
+          "ar": "boa tarde"
+        },
+        {
+          "pt": "olá",
+          "en": "see you later",
+          "ar": "olá"
+        },
+        {
+          "pt": "tchau",
+          "en": "good morning",
+          "ar": "tchau"
+        }
+      ],
+      "answer": "boa noite::good night|bom dia::hello|até logo::bye|boa tarde::good afternoon|olá::see you later|tchau::good morning",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Tchau, Ana! Até amanhã.",
+          "en": "I'm fine, thanks! And you?",
+          "ar": "أنا بخير، شكرًا! وأنت؟"
+        },
+        {
+          "pt": "Tudo bem, obrigado! E você?",
+          "en": "Hello! My name is Ana. And you?",
+          "ar": "مرحبًا! اسمي آنا. وأنت؟"
+        },
+        {
+          "pt": "Olá! Meu nome é Ana. E você?",
+          "en": "Bye, Ana! See you tomorrow.",
+          "ar": "وداعًا آنا! أراك غدًا."
+        }
+      ],
+      "answer": "Olá! Meu nome é Ana. E você?",
+      "accepted": [],
+      "audio": "Olá! Meu nome é Ana. E você?",
+      "explanation": {
+        "pt": "Você ouviu: 'Olá! Meu nome é Ana. E você?' — 'Hello! My name is Ana. And you?'",
+        "en": "You heard: 'Olá! Meu nome é Ana. E você?' — 'Hello! My name is Ana. And you?'",
+        "ar": "سمعت: 'Olá! Meu nome é Ana. E você?' — 'مرحبًا! اسمي آنا. وأنت؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Oi, Ana! Eu sou o Pedro. Muito prazer.",
+          "en": "Hi, Ana! I'm Pedro. Nice to meet you.",
+          "ar": "بسرور. كيف حالك؟"
+        },
+        {
+          "pt": "O prazer é meu. Como vai você?",
+          "en": "The pleasure is mine. How are you?",
+          "ar": "مرحبًا آنا! أنا بيدرو. سررت بلقائك."
+        },
+        {
+          "pt": "Tchau, Ana! Até amanhã.",
+          "en": "Bye, Ana! See you tomorrow.",
+          "ar": "وداعًا آنا! أراك غدًا."
+        }
+      ],
+      "answer": "Oi, Ana! Eu sou o Pedro. Muito prazer.",
+      "accepted": [],
+      "audio": "Oi, Ana! Eu sou o Pedro. Muito prazer.",
+      "explanation": {
+        "pt": "Você ouviu: 'Oi, Ana! Eu sou o Pedro. Muito prazer.' — 'Hi, Ana! I'm Pedro. Nice to meet you.'",
+        "en": "You heard: 'Oi, Ana! Eu sou o Pedro. Muito prazer.' — 'Hi, Ana! I'm Pedro. Nice to meet you.'",
+        "ar": "سمعت: 'Oi, Ana! Eu sou o Pedro. Muito prazer.' — 'مرحبًا آنا! أنا بيدرو. سررت بلقائك.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "você?",
+          "en": "você?",
+          "ar": "você?"
+        },
+        {
+          "pt": "E",
+          "en": "E",
+          "ar": "E"
+        },
+        {
+          "pt": "é",
+          "en": "é",
+          "ar": "é"
+        },
+        {
+          "pt": "Meu",
+          "en": "Meu",
+          "ar": "Meu"
+        },
+        {
+          "pt": "Olá!",
+          "en": "Olá!",
+          "ar": "Olá!"
+        },
+        {
+          "pt": "Ana.",
+          "en": "Ana.",
+          "ar": "Ana."
+        },
+        {
+          "pt": "nome",
+          "en": "nome",
+          "ar": "nome"
+        }
+      ],
+      "answer": "Olá! Meu nome é Ana. E você?",
+      "accepted": [
+        "Olá! Meu nome é Ana. E você?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Olá! Meu nome é Ana. E você?'",
+        "en": "The correct order: 'Hello! My name is Ana. And you?'",
+        "ar": "الترتيب الصحيح: 'مرحبًا! اسمي آنا. وأنت؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "boa tarde",
+          "en": "see you later",
+          "ar": "boa tarde"
+        },
+        {
+          "pt": "boa noite",
+          "en": "hello",
+          "ar": "boa noite"
+        },
+        {
+          "pt": "olá",
+          "en": "good afternoon",
+          "ar": "olá"
+        },
+        {
+          "pt": "tchau",
+          "en": "good night",
+          "ar": "tchau"
+        },
+        {
+          "pt": "até logo",
+          "en": "bye",
+          "ar": "até logo"
+        },
+        {
+          "pt": "bom dia",
+          "en": "good morning",
+          "ar": "bom dia"
+        }
+      ],
+      "answer": "boa tarde::see you later|boa noite::hello|olá::good afternoon|tchau::good night|até logo::bye|bom dia::good morning",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Tudo bem, obrigado! E você?",
+          "en": "I'm fine, thanks! And you?",
+          "ar": "مرحبًا! اسمي آنا. وأنت؟"
+        },
+        {
+          "pt": "Olá! Meu nome é Ana. E você?",
+          "en": "Everything great. See you later, Pedro!",
+          "ar": "أنا بخير، شكرًا! وأنت؟"
+        },
+        {
+          "pt": "Tudo ótimo. Até logo, Pedro!",
+          "en": "Hello! My name is Ana. And you?",
+          "ar": "كل شيء رائع. أراك لاحقًا يا بيدرو!"
+        }
+      ],
+      "answer": "Olá! Meu nome é Ana. E você?",
+      "accepted": [],
+      "audio": "Olá! Meu nome é Ana. E você?",
+      "explanation": {
+        "pt": "Você ouviu: 'Olá! Meu nome é Ana. E você?' — 'Hello! My name is Ana. And you?'",
+        "en": "You heard: 'Olá! Meu nome é Ana. E você?' — 'Hello! My name is Ana. And you?'",
+        "ar": "سمعت: 'Olá! Meu nome é Ana. E você?' — 'مرحبًا! اسمي آنا. وأنت؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Oi, Ana! Eu sou o Pedro. Muito prazer.",
+          "en": "I'm fine, thanks! And you?",
+          "ar": "وداعًا آنا! أراك غدًا."
+        },
+        {
+          "pt": "Tudo bem, obrigado! E você?",
+          "en": "Hi, Ana! I'm Pedro. Nice to meet you.",
+          "ar": "مرحبًا آنا! أنا بيدرو. سررت بلقائك."
+        },
+        {
+          "pt": "Tchau, Ana! Até amanhã.",
+          "en": "Bye, Ana! See you tomorrow.",
+          "ar": "أنا بخير، شكرًا! وأنت؟"
+        }
+      ],
+      "answer": "Oi, Ana! Eu sou o Pedro. Muito prazer.",
+      "accepted": [],
+      "audio": "Oi, Ana! Eu sou o Pedro. Muito prazer.",
+      "explanation": {
+        "pt": "Você ouviu: 'Oi, Ana! Eu sou o Pedro. Muito prazer.' — 'Hi, Ana! I'm Pedro. Nice to meet you.'",
+        "en": "You heard: 'Oi, Ana! Eu sou o Pedro. Muito prazer.' — 'Hi, Ana! I'm Pedro. Nice to meet you.'",
+        "ar": "سمعت: 'Oi, Ana! Eu sou o Pedro. Muito prazer.' — 'مرحبًا آنا! أنا بيدرو. سررت بلقائك.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "você?",
+          "en": "você?",
+          "ar": "você?"
+        },
+        {
+          "pt": "Ana.",
+          "en": "Ana.",
+          "ar": "Ana."
+        },
+        {
+          "pt": "Meu",
+          "en": "Meu",
+          "ar": "Meu"
+        },
+        {
+          "pt": "Olá!",
+          "en": "Olá!",
+          "ar": "Olá!"
+        },
+        {
+          "pt": "E",
+          "en": "E",
+          "ar": "E"
+        },
+        {
+          "pt": "nome",
+          "en": "nome",
+          "ar": "nome"
+        },
+        {
+          "pt": "é",
+          "en": "é",
+          "ar": "é"
+        }
+      ],
+      "answer": "Olá! Meu nome é Ana. E você?",
+      "accepted": [
+        "Olá! Meu nome é Ana. E você?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Olá! Meu nome é Ana. E você?'",
+        "en": "The correct order: 'Hello! My name is Ana. And you?'",
+        "ar": "الترتيب الصحيح: 'مرحبًا! اسمي آنا. وأنت؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "boa noite",
+          "en": "good afternoon",
+          "ar": "boa noite"
+        },
+        {
+          "pt": "bom dia",
+          "en": "good morning",
+          "ar": "bom dia"
+        },
+        {
+          "pt": "olá",
+          "en": "hello",
+          "ar": "olá"
+        },
+        {
+          "pt": "até logo",
+          "en": "bye",
+          "ar": "até logo"
+        },
+        {
+          "pt": "boa tarde",
+          "en": "see you later",
+          "ar": "boa tarde"
+        },
+        {
+          "pt": "tchau",
+          "en": "good night",
+          "ar": "tchau"
+        }
+      ],
+      "answer": "boa noite::good afternoon|bom dia::good morning|olá::hello|até logo::bye|boa tarde::see you later|tchau::good night",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Oi, Ana! Eu sou o Pedro. Muito prazer.",
+          "en": "Hi, Ana! I'm Pedro. Nice to meet you.",
+          "ar": "بسرور. كيف حالك؟"
+        },
+        {
+          "pt": "O prazer é meu. Como vai você?",
+          "en": "Hello! My name is Ana. And you?",
+          "ar": "مرحبًا! اسمي آنا. وأنت؟"
+        },
+        {
+          "pt": "Olá! Meu nome é Ana. E você?",
+          "en": "The pleasure is mine. How are you?",
+          "ar": "مرحبًا آنا! أنا بيدرو. سررت بلقائك."
+        }
+      ],
+      "answer": "Olá! Meu nome é Ana. E você?",
+      "accepted": [],
+      "audio": "Olá! Meu nome é Ana. E você?",
+      "explanation": {
+        "pt": "Você ouviu: 'Olá! Meu nome é Ana. E você?' — 'Hello! My name is Ana. And you?'",
+        "en": "You heard: 'Olá! Meu nome é Ana. E você?' — 'Hello! My name is Ana. And you?'",
+        "ar": "سمعت: 'Olá! Meu nome é Ana. E você?' — 'مرحبًا! اسمي آنا. وأنت؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Oi, Ana! Eu sou o Pedro. Muito prazer.",
+          "en": "Everything great. See you later, Pedro!",
+          "ar": "مرحبًا آنا! أنا بيدرو. سررت بلقائك."
+        },
+        {
+          "pt": "Tudo ótimo. Até logo, Pedro!",
+          "en": "The pleasure is mine. How are you?",
+          "ar": "بسرور. كيف حالك؟"
+        },
+        {
+          "pt": "O prazer é meu. Como vai você?",
+          "en": "Hi, Ana! I'm Pedro. Nice to meet you.",
+          "ar": "كل شيء رائع. أراك لاحقًا يا بيدرو!"
+        }
+      ],
+      "answer": "Oi, Ana! Eu sou o Pedro. Muito prazer.",
+      "accepted": [],
+      "audio": "Oi, Ana! Eu sou o Pedro. Muito prazer.",
+      "explanation": {
+        "pt": "Você ouviu: 'Oi, Ana! Eu sou o Pedro. Muito prazer.' — 'Hi, Ana! I'm Pedro. Nice to meet you.'",
+        "en": "You heard: 'Oi, Ana! Eu sou o Pedro. Muito prazer.' — 'Hi, Ana! I'm Pedro. Nice to meet you.'",
+        "ar": "سمعت: 'Oi, Ana! Eu sou o Pedro. Muito prazer.' — 'مرحبًا آنا! أنا بيدرو. سررت بلقائك.'"
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'hello'",
+        "en": "Type in Portuguese: 'hello'",
+        "ar": "اكتب بالبرتغالية: 'مرحبًا'"
+      },
+      "options": [],
+      "answer": "olá",
+      "accepted": [
+        "olá"
+      ],
+      "explanation": {
+        "pt": "'olá' significa 'hello'.",
+        "en": "'olá' means 'hello'.",
+        "ar": "'$olá' بالعربية: '$مرحبًا'."
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'good morning'",
+        "en": "Type in Portuguese: 'good morning'",
+        "ar": "اكتب بالبرتغالية: 'صباح الخير'"
+      },
+      "options": [],
+      "answer": "bom dia",
+      "accepted": [
+        "bom dia"
+      ],
+      "explanation": {
+        "pt": "'bom dia' significa 'good morning'.",
+        "en": "'bom dia' means 'good morning'.",
+        "ar": "'$bom dia' بالعربية: '$صباح الخير'."
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Tudo ótimo. Até logo, Pedro!",
+          "en": "Tudo ótimo. Até logo, Pedro!",
+          "ar": "Tudo ótimo. Até logo, Pedro!"
+        },
+        {
+          "pt": "Olá! Meu nome é Ana. E você?",
+          "en": "Olá! Meu nome é Ana. E você?",
+          "ar": "Olá! Meu nome é Ana. E você?"
+        },
+        {
+          "pt": "Tchau, Ana! Até amanhã.",
+          "en": "Tchau, Ana! Até amanhã.",
+          "ar": "Tchau, Ana! Até amanhã."
+        }
+      ],
+      "answer": "Olá! Meu nome é Ana. E você?",
+      "accepted": [],
+      "audio": "Olá! Meu nome é Ana. E você?",
+      "explanation": {
+        "pt": "Você ouviu: 'Olá! Meu nome é Ana. E você?'",
+        "en": "You heard: 'Olá! Meu nome é Ana. E você?'",
+        "ar": "سمعت: 'Olá! Meu nome é Ana. E você?'"
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Olá! Meu nome é Ana. E você?",
+          "en": "Olá! Meu nome é Ana. E você?",
+          "ar": "Olá! Meu nome é Ana. E você?"
+        },
+        {
+          "pt": "Tudo bem, obrigado! E você?",
+          "en": "Tudo bem, obrigado! E você?",
+          "ar": "Tudo bem, obrigado! E você?"
+        },
+        {
+          "pt": "Oi, Ana! Eu sou o Pedro. Muito prazer.",
+          "en": "Oi, Ana! Eu sou o Pedro. Muito prazer.",
+          "ar": "Oi, Ana! Eu sou o Pedro. Muito prazer."
+        }
+      ],
+      "answer": "Oi, Ana! Eu sou o Pedro. Muito prazer.",
+      "accepted": [],
+      "audio": "Oi, Ana! Eu sou o Pedro. Muito prazer.",
+      "explanation": {
+        "pt": "Você ouviu: 'Oi, Ana! Eu sou o Pedro. Muito prazer.'",
+        "en": "You heard: 'Oi, Ana! Eu sou o Pedro. Muito prazer.'",
+        "ar": "سمعت: 'Oi, Ana! Eu sou o Pedro. Muito prazer.'"
+      }
+    },
+    {
+      "type": "dictation",
+      "prompt": {
+        "pt": "Ouça e escreva o que você ouviu.",
+        "en": "Listen and type what you hear.",
+        "ar": "استمع واكتب ما سمعته."
+      },
+      "options": [],
+      "answer": "Olá! Meu nome é Ana. E você?",
+      "accepted": [],
+      "audio": "Olá! Meu nome é Ana. E você?",
+      "explanation": {
+        "pt": "A frase correta: 'Olá! Meu nome é Ana. E você?'",
+        "en": "The correct sentence: 'Olá! Meu nome é Ana. E você?'",
+        "ar": "الجملة الصحيحة: 'Olá! Meu nome é Ana. E você?'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Ana.",
+          "en": "Ana.",
+          "ar": "Ana."
+        },
+        {
+          "pt": "nome",
+          "en": "nome",
+          "ar": "nome"
+        },
+        {
+          "pt": "Olá!",
+          "en": "Olá!",
+          "ar": "Olá!"
+        },
+        {
+          "pt": "é",
+          "en": "é",
+          "ar": "é"
+        },
+        {
+          "pt": "você?",
+          "en": "você?",
+          "ar": "você?"
+        },
+        {
+          "pt": "E",
+          "en": "E",
+          "ar": "E"
+        },
+        {
+          "pt": "Meu",
+          "en": "Meu",
+          "ar": "Meu"
+        }
+      ],
+      "answer": "Olá! Meu nome é Ana. E você?",
+      "accepted": [
+        "Olá! Meu nome é Ana. E você?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Olá! Meu nome é Ana. E você?'",
+        "en": "The correct order: 'Hello! My name is Ana. And you?'",
+        "ar": "الترتيب الصحيح: 'مرحبًا! اسمي آنا. وأنت؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "olá",
+          "en": "good morning",
+          "ar": "olá"
+        },
+        {
+          "pt": "tchau",
+          "en": "good night",
+          "ar": "tchau"
+        },
+        {
+          "pt": "bom dia",
+          "en": "hello",
+          "ar": "bom dia"
+        },
+        {
+          "pt": "até logo",
+          "en": "good afternoon",
+          "ar": "até logo"
+        },
+        {
+          "pt": "boa tarde",
+          "en": "bye",
+          "ar": "boa tarde"
+        },
+        {
+          "pt": "boa noite",
+          "en": "see you later",
+          "ar": "boa noite"
+        }
+      ],
+      "answer": "olá::good morning|tchau::good night|bom dia::hello|até logo::good afternoon|boa tarde::bye|boa noite::see you later",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "O prazer é meu. Como vai você?",
+          "en": "Hello! My name is Ana. And you?",
+          "ar": "بسرور. كيف حالك؟"
+        },
+        {
+          "pt": "Oi, Ana! Eu sou o Pedro. Muito prazer.",
+          "en": "Hi, Ana! I'm Pedro. Nice to meet you.",
+          "ar": "مرحبًا! اسمي آنا. وأنت؟"
+        },
+        {
+          "pt": "Olá! Meu nome é Ana. E você?",
+          "en": "The pleasure is mine. How are you?",
+          "ar": "مرحبًا آنا! أنا بيدرو. سررت بلقائك."
+        }
+      ],
+      "answer": "Olá! Meu nome é Ana. E você?",
+      "accepted": [],
+      "audio": "Olá! Meu nome é Ana. E você?",
+      "explanation": {
+        "pt": "Você ouviu: 'Olá! Meu nome é Ana. E você?' — 'Hello! My name is Ana. And you?'",
+        "en": "You heard: 'Olá! Meu nome é Ana. E você?' — 'Hello! My name is Ana. And you?'",
+        "ar": "سمعت: 'Olá! Meu nome é Ana. E você?' — 'مرحبًا! اسمي آنا. وأنت؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Tchau, Ana! Até amanhã.",
+          "en": "Bye, Ana! See you tomorrow.",
+          "ar": "مرحبًا آنا! أنا بيدرو. سررت بلقائك."
+        },
+        {
+          "pt": "Oi, Ana! Eu sou o Pedro. Muito prazer.",
+          "en": "Hello! My name is Ana. And you?",
+          "ar": "مرحبًا! اسمي آنا. وأنت؟"
+        },
+        {
+          "pt": "Olá! Meu nome é Ana. E você?",
+          "en": "Hi, Ana! I'm Pedro. Nice to meet you.",
+          "ar": "وداعًا آنا! أراك غدًا."
+        }
+      ],
+      "answer": "Oi, Ana! Eu sou o Pedro. Muito prazer.",
+      "accepted": [],
+      "audio": "Oi, Ana! Eu sou o Pedro. Muito prazer.",
+      "explanation": {
+        "pt": "Você ouviu: 'Oi, Ana! Eu sou o Pedro. Muito prazer.' — 'Hi, Ana! I'm Pedro. Nice to meet you.'",
+        "en": "You heard: 'Oi, Ana! Eu sou o Pedro. Muito prazer.' — 'Hi, Ana! I'm Pedro. Nice to meet you.'",
+        "ar": "سمعت: 'Oi, Ana! Eu sou o Pedro. Muito prazer.' — 'مرحبًا آنا! أنا بيدرو. سررت بلقائك.'"
+      }
+    }
+  ],
+  "speaking": {
+    "title": {
+      "pt": "Fale Agora — Ouça e Repita",
+      "en": "Speak Now — Listen and Repeat",
+      "ar": "تحدث الآن — استمع وكرر"
+    },
+    "phrases": [
+      {
+        "pt": "Olá! Meu nome é Ana. E você?",
+        "en": "Hello! My name is Ana. And you?",
+        "ar": "مرحبًا! اسمي آنا. وأنت؟"
+      },
+      {
+        "pt": "Oi, Ana! Eu sou o Pedro. Muito prazer.",
+        "en": "Hi, Ana! I'm Pedro. Nice to meet you.",
+        "ar": "مرحبًا آنا! أنا بيدرو. سررت بلقائك."
+      },
+      {
+        "pt": "O prazer é meu. Como vai você?",
+        "en": "The pleasure is mine. How are you?",
+        "ar": "بسرور. كيف حالك؟"
+      },
+      {
+        "pt": "Tudo bem, obrigado! E você?",
+        "en": "I'm fine, thanks! And you?",
+        "ar": "أنا بخير، شكرًا! وأنت؟"
+      },
+      {
+        "pt": "Tudo ótimo. Até logo, Pedro!",
+        "en": "Everything great. See you later, Pedro!",
+        "ar": "كل شيء رائع. أراك لاحقًا يا بيدرو!"
+      },
+      {
+        "pt": "Tchau, Ana! Até amanhã.",
+        "en": "Bye, Ana! See you tomorrow.",
+        "ar": "وداعًا آنا! أراك غدًا."
+      },
+      {
+        "pt": "olá",
+        "en": "hello",
+        "ar": "مرحبًا"
+      },
+      {
+        "pt": "bom dia",
+        "en": "good morning",
+        "ar": "صباح الخير"
+      },
+      {
+        "pt": "boa tarde",
+        "en": "good afternoon",
+        "ar": "مساء الخير"
+      }
+    ]
+  },
+  "cultural_tips": {
+    "pt": "Beijinhos no rosto são cumprimento comum entre amigos.",
+    "en": "Cheek kisses are a common greeting among friends.",
+    "ar": "قبلات على الخد هي تحية شائعة بين الأصدقاء."
+  }
+}

@@ -1,0 +1,2051 @@
+{
+  "id": "A2-07",
+  "level": "A2",
+  "level_name": {
+    "pt": "Básico",
+    "en": "Elementary",
+    "ar": "أساسي"
+  },
+  "title": {
+    "pt": "Futuro Imediato e Futuro Simples",
+    "en": "Immediate and Simple Future",
+    "ar": "المستقبل القريب والبسيط"
+  },
+  "objectives": [
+    {
+      "pt": "Formar o futuro imediato com ir + infinitivo",
+      "en": "Form the immediate future with ir + infinitive",
+      "ar": "تكوين المستقبل القريب باستخدام ir + صيغة المصدر"
+    },
+    {
+      "pt": "Usar o futuro simples formal",
+      "en": "Use the formal simple future",
+      "ar": "استخدام المستقبل البسيط الرسمي"
+    },
+    {
+      "pt": "Falar sobre planos e intenções",
+      "en": "Talk about plans and intentions",
+      "ar": "التحدث عن الخطط والنوايا"
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "amanhã",
+      "ipa": "/a.mɐˈɲɐ̃/",
+      "en": "tomorrow",
+      "ar": "غدًا",
+      "example": {
+        "pt": "O que você vai fazer amanhã?",
+        "en": "What are you going to do tomorrow?",
+        "ar": "ماذا ستفعل غدًا؟"
+      }
+    },
+    {
+      "pt": "depois",
+      "ipa": "/deˈpojs/",
+      "en": "later / after",
+      "ar": "بعد ذلك",
+      "example": {
+        "pt": "Voltamos no domingo à noite. Depois te conto tudo!",
+        "en": "We come back Sunday night. Then I will tell you everything!",
+        "ar": "نعود ليلة الأحد. ثم سأحكي لك كل شيء!"
+      }
+    },
+    {
+      "pt": "a próxima semana",
+      "ipa": "/a ˈpɾɔ.si.ma seˈmɐ̃.na/",
+      "en": "next week",
+      "ar": "الأسبوع القادم",
+      "example": {
+        "pt": "Vou com a minha irmã. Vamos ver os amigos.",
+        "en": "With my sister. We are going to see friends.",
+        "ar": "مع أختي. سنزور الأصدقاء."
+      }
+    },
+    {
+      "pt": "o ano que vem",
+      "ipa": "/u ˈɐ̃.nu ki vẽj/",
+      "en": "next year",
+      "ar": "السنة القادمة",
+      "example": {
+        "pt": "O que você vai fazer no fim de semana?",
+        "en": "What are you going to do on the weekend?",
+        "ar": "ماذا ستفعل في عطلة نهاية الأسبوع؟"
+      }
+    },
+    {
+      "pt": "ir",
+      "ipa": "/iʁ/",
+      "en": "to go",
+      "ar": "يذهب",
+      "example": {
+        "pt": "O que você vai fazer no fim de semana?",
+        "en": "What are you going to do on the weekend?",
+        "ar": "ماذا ستفعل في عطلة نهاية الأسبوع؟"
+      }
+    },
+    {
+      "pt": "ver",
+      "ipa": "/veʁ/",
+      "en": "to see",
+      "ar": "يرى",
+      "example": {
+        "pt": "Vou com a minha irmã. Vamos ver os amigos.",
+        "en": "With my sister. We are going to see friends.",
+        "ar": "مع أختي. سنزور الأصدقاء."
+      }
+    },
+    {
+      "pt": "jantar",
+      "ipa": "/ʒɐ̃ˈtaʁ/",
+      "en": "to have dinner",
+      "ar": "يتعشى",
+      "example": {
+        "pt": "Nós vamos jantar fora hoje.",
+        "en": "We are going to have dinner out tonight.",
+        "ar": "سنتعشى خارج المنزل الليلة."
+      }
+    },
+    {
+      "pt": "comprar",
+      "ipa": "/kõˈpɾaʁ/",
+      "en": "to buy",
+      "ar": "يشتري",
+      "example": {
+        "pt": "O que você vai fazer no fim de semana?",
+        "en": "What are you going to do on the weekend?",
+        "ar": "ماذا ستفعل في عطلة نهاية الأسبوع؟"
+      }
+    },
+    {
+      "pt": "encontrar",
+      "ipa": "/ẽ.kõˈtɾaʁ/",
+      "en": "to meet",
+      "ar": "يلتقي",
+      "example": {
+        "pt": "O que você vai fazer no fim de semana?",
+        "en": "What are you going to do on the weekend?",
+        "ar": "ماذا ستفعل في عطلة نهاية الأسبوع؟"
+      }
+    },
+    {
+      "pt": "terminar",
+      "ipa": "/teʁ.miˈnaʁ/",
+      "en": "to finish",
+      "ar": "ينهي",
+      "example": {
+        "pt": "O que você vai fazer no fim de semana?",
+        "en": "What are you going to do on the weekend?",
+        "ar": "ماذا ستفعل في عطلة نهاية الأسبوع؟"
+      }
+    },
+    {
+      "pt": "começar",
+      "ipa": "/ko.meˈsaʁ/",
+      "en": "to begin",
+      "ar": "يبدأ",
+      "example": {
+        "pt": "O que você vai fazer no fim de semana?",
+        "en": "What are you going to do on the weekend?",
+        "ar": "ماذا ستفعل في عطلة نهاية الأسبوع؟"
+      }
+    },
+    {
+      "pt": "voltar",
+      "ipa": "/voʊˈtaʁ/",
+      "en": "to return",
+      "ar": "يعود",
+      "example": {
+        "pt": "O que você vai fazer no fim de semana?",
+        "en": "What are you going to do on the weekend?",
+        "ar": "ماذا ستفعل في عطلة نهاية الأسبوع؟"
+      }
+    },
+    {
+      "pt": "decidir",
+      "ipa": "/de.siˈdʒiʁ/",
+      "en": "to decide",
+      "ar": "يقرر",
+      "example": {
+        "pt": "O que você vai fazer no fim de semana?",
+        "en": "What are you going to do on the weekend?",
+        "ar": "ماذا ستفعل في عطلة نهاية الأسبوع؟"
+      }
+    },
+    {
+      "pt": "o plano",
+      "ipa": "/u ˈplɐ̃.nu/",
+      "en": "the plan",
+      "ar": "الخطة",
+      "example": {
+        "pt": "O que você vai fazer no fim de semana?",
+        "en": "What are you going to do on the weekend?",
+        "ar": "ماذا ستفعل في عطلة نهاية الأسبوع؟"
+      }
+    },
+    {
+      "pt": "provavelmente",
+      "ipa": "/pɾo.va.vewˈmẽ.tʃi/",
+      "en": "probably",
+      "ar": "على الأرجح",
+      "example": {
+        "pt": "O que você vai fazer no fim de semana?",
+        "en": "What are you going to do on the weekend?",
+        "ar": "ماذا ستفعل في عطلة نهاية الأسبوع؟"
+      }
+    },
+    {
+      "pt": "depois de amanhã",
+      "ipa": "/deˈpojs dʒi a.mɐˈɲɐ̃/",
+      "en": "the day after tomorrow",
+      "ar": "بعد غد",
+      "example": {
+        "pt": "Voltamos no domingo à noite. Depois te conto tudo!",
+        "en": "We come back Sunday night. Then I will tell you everything!",
+        "ar": "نعود ليلة الأحد. ثم سأحكي لك كل شيء!"
+      }
+    },
+    {
+      "pt": "a festa",
+      "ipa": "/a ˈfɛs.ta/",
+      "en": "the party",
+      "ar": "الحفلة",
+      "example": {
+        "pt": "Vou com a minha irmã. Vamos ver os amigos.",
+        "en": "With my sister. We are going to see friends.",
+        "ar": "مع أختي. سنزور الأصدقاء."
+      }
+    },
+    {
+      "pt": "assistir",
+      "ipa": "/a.sisˈtʃiʁ/",
+      "en": "to watch",
+      "ar": "يشاهد",
+      "example": {
+        "pt": "O que você vai fazer no fim de semana?",
+        "en": "What are you going to do on the weekend?",
+        "ar": "ماذا ستفعل في عطلة نهاية الأسبوع؟"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "title": {
+        "pt": "Futuro Imediato (ir + infinitivo)",
+        "en": "Immediate Future (ir + infinitive)",
+        "ar": "المستقبل القريب (ir + صيغة المصدر)"
+      },
+      "explanation": {
+        "pt": "O futuro imediato usa ir + infinitivo: eu vou falar, você vai comer, nós vamos viajar, eles vão chegar. É o futuro mais usado na fala. Exemplo: 'Vou assistir a um filme hoje.'",
+        "en": "The immediate future uses ir + infinitive: eu vou falar, você vai comer, nós vamos viajar, eles vão chegar. It is the most used future in speech. Example: 'Vou assistir a um filme hoje.' (I am going to watch a movie today.)",
+        "ar": "المستقبل القريب يستخدم ir + صيغة المصدر: eu vou falar، você vai comer، nós vamos viajar، eles vão chegar. وهو المستقبل الأكثر استخدامًا في الكلام. مثال: 'Vou assistir a um filme hoje.' (سأشاهد فيلمًا اليوم.)"
+      },
+      "examples": [
+        {
+          "pt": "Eu vou viajar para o Nordeste.",
+          "en": "I am going to travel to the Northeast.",
+          "ar": "سأسافر إلى الشمال الشرقي."
+        },
+        {
+          "pt": "Nós vamos jantar fora hoje.",
+          "en": "We are going to have dinner out tonight.",
+          "ar": "سنتعشى خارج المنزل الليلة."
+        },
+        {
+          "pt": "O que você vai fazer amanhã?",
+          "en": "What are you going to do tomorrow?",
+          "ar": "ماذا ستفعل غدًا؟"
+        }
+      ]
+    },
+    {
+      "title": {
+        "pt": "Futuro Simples",
+        "en": "Simple Future",
+        "ar": "المستقبل البسيط"
+      },
+      "explanation": {
+        "pt": "O futuro simples é mais formal: falarei, falará, falaremos, falarão (verbos em -ar); comerei, comerá, comeremos (em -er); abrirei, abrirá (em -ir). Irregulares: serei (ser), estarei (estar), terei (ter), farei (fazer). Na conversa, prefere-se 'vou + infinitivo'.",
+        "en": "The simple future is more formal: falarei, falará, falaremos, falarão (-ar verbs); comerei, comerá, comeremos (-er verbs); abrirei, abrirá (-ir verbs). Irregulars: serei (ser), estarei (estar), terei (ter), farei (fazer). In conversation, 'vou + infinitive' is preferred.",
+        "ar": "المستقبل البسيط أكثر رسمية: falarei، falará، falaremos، falarão (الأفعال المنتهية بـ -ar)؛ comerei، comerá، comeremos (المنتهية بـ -er)؛ abrirei، abrirá (المنتهية بـ -ir). الأفعال الشاذة: serei (سأكون)، estarei (سأبقى)، terei (سأملك)، farei (سأفعل). في المحادثة يفضَّل 'vou + صيغة المصدر'."
+      },
+      "examples": [
+        {
+          "pt": "Eu te ligarei amanhã.",
+          "en": "I will call you tomorrow.",
+          "ar": "سأتصل بك غدًا."
+        },
+        {
+          "pt": "Nós falaremos com o gerente.",
+          "en": "We will speak with the manager.",
+          "ar": "سنتحدث مع المدير."
+        },
+        {
+          "pt": "Onde estará o João no sábado?",
+          "en": "Where will João be on Saturday?",
+          "ar": "أين سيكون جواو يوم السبت؟"
+        }
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": {
+      "pt": "Os Planos do Fim de Semana",
+      "en": "Weekend Plans",
+      "ar": "خطط عطلة نهاية الأسبوع"
+    },
+    "lines": [
+      {
+        "speaker": "Rafa",
+        "pt": "O que você vai fazer no fim de semana?",
+        "en": "What are you going to do on the weekend?",
+        "ar": "ماذا ستفعل في عطلة نهاية الأسبوع؟"
+      },
+      {
+        "speaker": "Sofia",
+        "pt": "Vou viajar para o Rio de Janeiro.",
+        "en": "I am going to travel to Rio de Janeiro.",
+        "ar": "سأسافر إلى ريو دي جانيرو."
+      },
+      {
+        "speaker": "Rafa",
+        "pt": "Com quem você vai?",
+        "en": "Who are you going with?",
+        "ar": "مع من ستسافرين؟"
+      },
+      {
+        "speaker": "Sofia",
+        "pt": "Vou com a minha irmã. Vamos ver os amigos.",
+        "en": "With my sister. We are going to see friends.",
+        "ar": "مع أختي. سنزور الأصدقاء."
+      },
+      {
+        "speaker": "Rafa",
+        "pt": "E quando vocês voltam?",
+        "en": "And when do you come back?",
+        "ar": "ومتى تعودان؟"
+      },
+      {
+        "speaker": "Sofia",
+        "pt": "Voltamos no domingo à noite. Depois te conto tudo!",
+        "en": "We come back Sunday night. Then I will tell you everything!",
+        "ar": "نعود ليلة الأحد. ثم سأحكي لك كل شيء!"
+      }
+    ]
+  },
+  "reading": {
+    "title": {
+      "pt": "O Plano de Raquel",
+      "en": "Raquel's Plan",
+      "ar": "خطة راكيل"
+    },
+    "text_pt": "Amanhã é sábado e o plano de Raquel está pronto. Ela vai acordar cedo, vai caminhar no parque e vai tomar café com os amigos. À tarde, vai visitar o museu e, à noite, vai jantar com a família. Depois de amanhã, ela vai descansar o dia inteiro.",
+    "text_en": "Tomorrow is Saturday and Raquel's plan is ready. She is going to wake up early, walk in the park and have coffee with friends. In the afternoon, she is going to visit the museum and, at night, she is going to have dinner with her family. The day after tomorrow, she is going to rest all day.",
+    "text_ar": "غدًا هو يوم السبت وخطة راكيل جاهزة. ستستيقظ مبكرًا وستمشي في الحديقة وتتناول القهوة مع الأصدقاء. في الظهيرة، ستزور المتحف، وفي الليل ستتناول العشاء مع عائلتها. بعد غد، سترتاح طوال اليوم."
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Nós ___ viajar no sábado.",
+        "en": "We ___ travel on Saturday.",
+        "ar": "نحن ___ نسافر يوم السبت."
+      },
+      "options": [
+        {
+          "pt": "vamos",
+          "en": "vamos",
+          "ar": "vamos"
+        },
+        {
+          "pt": "vai",
+          "en": "vai",
+          "ar": "vai"
+        },
+        {
+          "pt": "vão",
+          "en": "vão",
+          "ar": "vão"
+        }
+      ],
+      "answer": "vamos",
+      "explanation": {
+        "pt": "Futuro imediato: ir + infinitivo. Nós vamos viajar.",
+        "en": "Immediate future: ir + infinitive. Nós vamos viajar.",
+        "ar": "المستقبل القريب: ir + صيغة المصدر. Nós vamos viajar."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Eu ___ comprar um presente.",
+        "en": "I ___ buy a gift.",
+        "ar": "أنا ___ أشتري هدية."
+      },
+      "options": [
+        {
+          "pt": "vou",
+          "en": "vou",
+          "ar": "vou"
+        },
+        {
+          "pt": "vai",
+          "en": "vai",
+          "ar": "vai"
+        },
+        {
+          "pt": "ir",
+          "en": "ir",
+          "ar": "ir"
+        }
+      ],
+      "answer": "vou",
+      "explanation": {
+        "pt": "Eu vou + infinitivo: vou comprar.",
+        "en": "Eu vou + infinitive: vou comprar.",
+        "ar": "Eu vou + صيغة المصدر: vou comprar."
+      }
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza: 'tomorrow'",
+        "en": "Translate: 'tomorrow'",
+        "ar": "ترجم: 'tomorrow'"
+      },
+      "options": [],
+      "answer": "amanhã",
+      "explanation": {
+        "pt": "'Amanhã' = tomorrow.",
+        "en": "'Amanhã' = tomorrow.",
+        "ar": "'amanhã' = غدًا."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "no",
+          "en": "no",
+          "ar": "no"
+        },
+        {
+          "pt": "fim",
+          "en": "fim",
+          "ar": "fim"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "semana?",
+          "en": "semana?",
+          "ar": "semana?"
+        },
+        {
+          "pt": "fazer",
+          "en": "fazer",
+          "ar": "fazer"
+        },
+        {
+          "pt": "vai",
+          "en": "vai",
+          "ar": "vai"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        }
+      ],
+      "answer": "O que você vai fazer no fim de semana?",
+      "accepted": [
+        "O que você vai fazer no fim de semana?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'O que você vai fazer no fim de semana?'",
+        "en": "The correct order: 'What are you going to do on the weekend?'",
+        "ar": "الترتيب الصحيح: 'ماذا ستفعل في عطلة نهاية الأسبوع؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "ver",
+          "en": "tomorrow",
+          "ar": "ver"
+        },
+        {
+          "pt": "o ano que vem",
+          "en": "next year",
+          "ar": "o ano que vem"
+        },
+        {
+          "pt": "depois",
+          "en": "next week",
+          "ar": "depois"
+        },
+        {
+          "pt": "ir",
+          "en": "to see",
+          "ar": "ir"
+        },
+        {
+          "pt": "amanhã",
+          "en": "later / after",
+          "ar": "amanhã"
+        },
+        {
+          "pt": "a próxima semana",
+          "en": "to go",
+          "ar": "a próxima semana"
+        }
+      ],
+      "answer": "ver::tomorrow|o ano que vem::next year|depois::next week|ir::to see|amanhã::later / after|a próxima semana::to go",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "E quando vocês voltam?",
+          "en": "What are you going to do on the weekend?",
+          "ar": "ومتى تعودان؟"
+        },
+        {
+          "pt": "O que você vai fazer no fim de semana?",
+          "en": "And when do you come back?",
+          "ar": "ماذا ستفعل في عطلة نهاية الأسبوع؟"
+        },
+        {
+          "pt": "Com quem você vai?",
+          "en": "Who are you going with?",
+          "ar": "مع من ستسافرين؟"
+        }
+      ],
+      "answer": "O que você vai fazer no fim de semana?",
+      "accepted": [],
+      "audio": "O que você vai fazer no fim de semana?",
+      "explanation": {
+        "pt": "Você ouviu: 'O que você vai fazer no fim de semana?' — 'What are you going to do on the weekend?'",
+        "en": "You heard: 'O que você vai fazer no fim de semana?' — 'What are you going to do on the weekend?'",
+        "ar": "سمعت: 'O que você vai fazer no fim de semana?' — 'ماذا ستفعل في عطلة نهاية الأسبوع؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "O que você vai fazer no fim de semana?",
+          "en": "What are you going to do on the weekend?",
+          "ar": "ماذا ستفعل في عطلة نهاية الأسبوع؟"
+        },
+        {
+          "pt": "Vou viajar para o Rio de Janeiro.",
+          "en": "I am going to travel to Rio de Janeiro.",
+          "ar": "نعود ليلة الأحد. ثم سأحكي لك كل شيء!"
+        },
+        {
+          "pt": "Voltamos no domingo à noite. Depois te conto tudo!",
+          "en": "We come back Sunday night. Then I will tell you everything!",
+          "ar": "سأسافر إلى ريو دي جانيرو."
+        }
+      ],
+      "answer": "Vou viajar para o Rio de Janeiro.",
+      "accepted": [],
+      "audio": "Vou viajar para o Rio de Janeiro.",
+      "explanation": {
+        "pt": "Você ouviu: 'Vou viajar para o Rio de Janeiro.' — 'I am going to travel to Rio de Janeiro.'",
+        "en": "You heard: 'Vou viajar para o Rio de Janeiro.' — 'I am going to travel to Rio de Janeiro.'",
+        "ar": "سمعت: 'Vou viajar para o Rio de Janeiro.' — 'سأسافر إلى ريو دي جانيرو.'"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Eu vou ___ para o Nordeste.",
+        "en": "Eu vou ___ para o Nordeste.",
+        "ar": "Eu vou ___ para o Nordeste."
+      },
+      "options": [
+        {
+          "pt": "fora",
+          "en": "fora",
+          "ar": "fora"
+        },
+        {
+          "pt": "vamos",
+          "en": "vamos",
+          "ar": "vamos"
+        },
+        {
+          "pt": "viajar",
+          "en": "viajar",
+          "ar": "viajar"
+        }
+      ],
+      "answer": "viajar",
+      "accepted": [],
+      "explanation": {
+        "pt": "A resposta é 'viajar'. Frase completa: Eu vou viajar para o Nordeste.",
+        "en": "The answer is 'viajar'. Full sentence: I am going to travel to the Northeast.",
+        "ar": "الإجابة الصحيحة: 'viajar'. الجملة كاملة: سأسافر إلى الشمال الشرقي."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "semana?",
+          "en": "semana?",
+          "ar": "semana?"
+        },
+        {
+          "pt": "fim",
+          "en": "fim",
+          "ar": "fim"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "fazer",
+          "en": "fazer",
+          "ar": "fazer"
+        },
+        {
+          "pt": "vai",
+          "en": "vai",
+          "ar": "vai"
+        },
+        {
+          "pt": "no",
+          "en": "no",
+          "ar": "no"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        }
+      ],
+      "answer": "O que você vai fazer no fim de semana?",
+      "accepted": [
+        "O que você vai fazer no fim de semana?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'O que você vai fazer no fim de semana?'",
+        "en": "The correct order: 'What are you going to do on the weekend?'",
+        "ar": "الترتيب الصحيح: 'ماذا ستفعل في عطلة نهاية الأسبوع؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "ver",
+          "en": "later / after",
+          "ar": "ver"
+        },
+        {
+          "pt": "ir",
+          "en": "tomorrow",
+          "ar": "ir"
+        },
+        {
+          "pt": "depois",
+          "en": "next year",
+          "ar": "depois"
+        },
+        {
+          "pt": "amanhã",
+          "en": "to see",
+          "ar": "amanhã"
+        },
+        {
+          "pt": "a próxima semana",
+          "en": "to go",
+          "ar": "a próxima semana"
+        },
+        {
+          "pt": "o ano que vem",
+          "en": "next week",
+          "ar": "o ano que vem"
+        }
+      ],
+      "answer": "ver::later / after|ir::tomorrow|depois::next year|amanhã::to see|a próxima semana::to go|o ano que vem::next week",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Voltamos no domingo à noite. Depois te conto tudo!",
+          "en": "With my sister. We are going to see friends.",
+          "ar": "ماذا ستفعل في عطلة نهاية الأسبوع؟"
+        },
+        {
+          "pt": "Vou com a minha irmã. Vamos ver os amigos.",
+          "en": "What are you going to do on the weekend?",
+          "ar": "نعود ليلة الأحد. ثم سأحكي لك كل شيء!"
+        },
+        {
+          "pt": "O que você vai fazer no fim de semana?",
+          "en": "We come back Sunday night. Then I will tell you everything!",
+          "ar": "مع أختي. سنزور الأصدقاء."
+        }
+      ],
+      "answer": "O que você vai fazer no fim de semana?",
+      "accepted": [],
+      "audio": "O que você vai fazer no fim de semana?",
+      "explanation": {
+        "pt": "Você ouviu: 'O que você vai fazer no fim de semana?' — 'What are you going to do on the weekend?'",
+        "en": "You heard: 'O que você vai fazer no fim de semana?' — 'What are you going to do on the weekend?'",
+        "ar": "سمعت: 'O que você vai fazer no fim de semana?' — 'ماذا ستفعل في عطلة نهاية الأسبوع؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Vou com a minha irmã. Vamos ver os amigos.",
+          "en": "What are you going to do on the weekend?",
+          "ar": "سأسافر إلى ريو دي جانيرو."
+        },
+        {
+          "pt": "O que você vai fazer no fim de semana?",
+          "en": "With my sister. We are going to see friends.",
+          "ar": "مع أختي. سنزور الأصدقاء."
+        },
+        {
+          "pt": "Vou viajar para o Rio de Janeiro.",
+          "en": "I am going to travel to Rio de Janeiro.",
+          "ar": "ماذا ستفعل في عطلة نهاية الأسبوع؟"
+        }
+      ],
+      "answer": "Vou viajar para o Rio de Janeiro.",
+      "accepted": [],
+      "audio": "Vou viajar para o Rio de Janeiro.",
+      "explanation": {
+        "pt": "Você ouviu: 'Vou viajar para o Rio de Janeiro.' — 'I am going to travel to Rio de Janeiro.'",
+        "en": "You heard: 'Vou viajar para o Rio de Janeiro.' — 'I am going to travel to Rio de Janeiro.'",
+        "ar": "سمعت: 'Vou viajar para o Rio de Janeiro.' — 'سأسافر إلى ريو دي جانيرو.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "fazer",
+          "en": "fazer",
+          "ar": "fazer"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "vai",
+          "en": "vai",
+          "ar": "vai"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "semana?",
+          "en": "semana?",
+          "ar": "semana?"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "fim",
+          "en": "fim",
+          "ar": "fim"
+        },
+        {
+          "pt": "no",
+          "en": "no",
+          "ar": "no"
+        }
+      ],
+      "answer": "O que você vai fazer no fim de semana?",
+      "accepted": [
+        "O que você vai fazer no fim de semana?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'O que você vai fazer no fim de semana?'",
+        "en": "The correct order: 'What are you going to do on the weekend?'",
+        "ar": "الترتيب الصحيح: 'ماذا ستفعل في عطلة نهاية الأسبوع؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "depois",
+          "en": "next year",
+          "ar": "depois"
+        },
+        {
+          "pt": "a próxima semana",
+          "en": "tomorrow",
+          "ar": "a próxima semana"
+        },
+        {
+          "pt": "o ano que vem",
+          "en": "later / after",
+          "ar": "o ano que vem"
+        },
+        {
+          "pt": "amanhã",
+          "en": "next week",
+          "ar": "amanhã"
+        },
+        {
+          "pt": "ir",
+          "en": "to go",
+          "ar": "ir"
+        },
+        {
+          "pt": "ver",
+          "en": "to see",
+          "ar": "ver"
+        }
+      ],
+      "answer": "depois::next year|a próxima semana::tomorrow|o ano que vem::later / after|amanhã::next week|ir::to go|ver::to see",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "O que você vai fazer no fim de semana?",
+          "en": "With my sister. We are going to see friends.",
+          "ar": "مع من ستسافرين؟"
+        },
+        {
+          "pt": "Com quem você vai?",
+          "en": "Who are you going with?",
+          "ar": "ماذا ستفعل في عطلة نهاية الأسبوع؟"
+        },
+        {
+          "pt": "Vou com a minha irmã. Vamos ver os amigos.",
+          "en": "What are you going to do on the weekend?",
+          "ar": "مع أختي. سنزور الأصدقاء."
+        }
+      ],
+      "answer": "O que você vai fazer no fim de semana?",
+      "accepted": [],
+      "audio": "O que você vai fazer no fim de semana?",
+      "explanation": {
+        "pt": "Você ouviu: 'O que você vai fazer no fim de semana?' — 'What are you going to do on the weekend?'",
+        "en": "You heard: 'O que você vai fazer no fim de semana?' — 'What are you going to do on the weekend?'",
+        "ar": "سمعت: 'O que você vai fazer no fim de semana?' — 'ماذا ستفعل في عطلة نهاية الأسبوع؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Com quem você vai?",
+          "en": "I am going to travel to Rio de Janeiro.",
+          "ar": "نعود ليلة الأحد. ثم سأحكي لك كل شيء!"
+        },
+        {
+          "pt": "Voltamos no domingo à noite. Depois te conto tudo!",
+          "en": "Who are you going with?",
+          "ar": "سأسافر إلى ريو دي جانيرو."
+        },
+        {
+          "pt": "Vou viajar para o Rio de Janeiro.",
+          "en": "We come back Sunday night. Then I will tell you everything!",
+          "ar": "مع من ستسافرين؟"
+        }
+      ],
+      "answer": "Vou viajar para o Rio de Janeiro.",
+      "accepted": [],
+      "audio": "Vou viajar para o Rio de Janeiro.",
+      "explanation": {
+        "pt": "Você ouviu: 'Vou viajar para o Rio de Janeiro.' — 'I am going to travel to Rio de Janeiro.'",
+        "en": "You heard: 'Vou viajar para o Rio de Janeiro.' — 'I am going to travel to Rio de Janeiro.'",
+        "ar": "سمعت: 'Vou viajar para o Rio de Janeiro.' — 'سأسافر إلى ريو دي جانيرو.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "vai",
+          "en": "vai",
+          "ar": "vai"
+        },
+        {
+          "pt": "fim",
+          "en": "fim",
+          "ar": "fim"
+        },
+        {
+          "pt": "fazer",
+          "en": "fazer",
+          "ar": "fazer"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "semana?",
+          "en": "semana?",
+          "ar": "semana?"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "no",
+          "en": "no",
+          "ar": "no"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        }
+      ],
+      "answer": "O que você vai fazer no fim de semana?",
+      "accepted": [
+        "O que você vai fazer no fim de semana?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'O que você vai fazer no fim de semana?'",
+        "en": "The correct order: 'What are you going to do on the weekend?'",
+        "ar": "الترتيب الصحيح: 'ماذا ستفعل في عطلة نهاية الأسبوع؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "depois",
+          "en": "tomorrow",
+          "ar": "depois"
+        },
+        {
+          "pt": "ver",
+          "en": "next week",
+          "ar": "ver"
+        },
+        {
+          "pt": "amanhã",
+          "en": "to see",
+          "ar": "amanhã"
+        },
+        {
+          "pt": "o ano que vem",
+          "en": "next year",
+          "ar": "o ano que vem"
+        },
+        {
+          "pt": "a próxima semana",
+          "en": "to go",
+          "ar": "a próxima semana"
+        },
+        {
+          "pt": "ir",
+          "en": "later / after",
+          "ar": "ir"
+        }
+      ],
+      "answer": "depois::tomorrow|ver::next week|amanhã::to see|o ano que vem::next year|a próxima semana::to go|ir::later / after",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "O que você vai fazer no fim de semana?",
+          "en": "And when do you come back?",
+          "ar": "ماذا ستفعل في عطلة نهاية الأسبوع؟"
+        },
+        {
+          "pt": "Vou viajar para o Rio de Janeiro.",
+          "en": "What are you going to do on the weekend?",
+          "ar": "ومتى تعودان؟"
+        },
+        {
+          "pt": "E quando vocês voltam?",
+          "en": "I am going to travel to Rio de Janeiro.",
+          "ar": "سأسافر إلى ريو دي جانيرو."
+        }
+      ],
+      "answer": "O que você vai fazer no fim de semana?",
+      "accepted": [],
+      "audio": "O que você vai fazer no fim de semana?",
+      "explanation": {
+        "pt": "Você ouviu: 'O que você vai fazer no fim de semana?' — 'What are you going to do on the weekend?'",
+        "en": "You heard: 'O que você vai fazer no fim de semana?' — 'What are you going to do on the weekend?'",
+        "ar": "سمعت: 'O que você vai fazer no fim de semana?' — 'ماذا ستفعل في عطلة نهاية الأسبوع؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Voltamos no domingo à noite. Depois te conto tudo!",
+          "en": "And when do you come back?",
+          "ar": "سأسافر إلى ريو دي جانيرو."
+        },
+        {
+          "pt": "E quando vocês voltam?",
+          "en": "We come back Sunday night. Then I will tell you everything!",
+          "ar": "ومتى تعودان؟"
+        },
+        {
+          "pt": "Vou viajar para o Rio de Janeiro.",
+          "en": "I am going to travel to Rio de Janeiro.",
+          "ar": "نعود ليلة الأحد. ثم سأحكي لك كل شيء!"
+        }
+      ],
+      "answer": "Vou viajar para o Rio de Janeiro.",
+      "accepted": [],
+      "audio": "Vou viajar para o Rio de Janeiro.",
+      "explanation": {
+        "pt": "Você ouviu: 'Vou viajar para o Rio de Janeiro.' — 'I am going to travel to Rio de Janeiro.'",
+        "en": "You heard: 'Vou viajar para o Rio de Janeiro.' — 'I am going to travel to Rio de Janeiro.'",
+        "ar": "سمعت: 'Vou viajar para o Rio de Janeiro.' — 'سأسافر إلى ريو دي جانيرو.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "vai",
+          "en": "vai",
+          "ar": "vai"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "fim",
+          "en": "fim",
+          "ar": "fim"
+        },
+        {
+          "pt": "no",
+          "en": "no",
+          "ar": "no"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "semana?",
+          "en": "semana?",
+          "ar": "semana?"
+        },
+        {
+          "pt": "fazer",
+          "en": "fazer",
+          "ar": "fazer"
+        }
+      ],
+      "answer": "O que você vai fazer no fim de semana?",
+      "accepted": [
+        "O que você vai fazer no fim de semana?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'O que você vai fazer no fim de semana?'",
+        "en": "The correct order: 'What are you going to do on the weekend?'",
+        "ar": "الترتيب الصحيح: 'ماذا ستفعل في عطلة نهاية الأسبوع؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a próxima semana",
+          "en": "to go",
+          "ar": "a próxima semana"
+        },
+        {
+          "pt": "o ano que vem",
+          "en": "next week",
+          "ar": "o ano que vem"
+        },
+        {
+          "pt": "depois",
+          "en": "to see",
+          "ar": "depois"
+        },
+        {
+          "pt": "ir",
+          "en": "tomorrow",
+          "ar": "ir"
+        },
+        {
+          "pt": "amanhã",
+          "en": "later / after",
+          "ar": "amanhã"
+        },
+        {
+          "pt": "ver",
+          "en": "next year",
+          "ar": "ver"
+        }
+      ],
+      "answer": "a próxima semana::to go|o ano que vem::next week|depois::to see|ir::tomorrow|amanhã::later / after|ver::next year",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "E quando vocês voltam?",
+          "en": "What are you going to do on the weekend?",
+          "ar": "ماذا ستفعل في عطلة نهاية الأسبوع؟"
+        },
+        {
+          "pt": "O que você vai fazer no fim de semana?",
+          "en": "With my sister. We are going to see friends.",
+          "ar": "ومتى تعودان؟"
+        },
+        {
+          "pt": "Vou com a minha irmã. Vamos ver os amigos.",
+          "en": "And when do you come back?",
+          "ar": "مع أختي. سنزور الأصدقاء."
+        }
+      ],
+      "answer": "O que você vai fazer no fim de semana?",
+      "accepted": [],
+      "audio": "O que você vai fazer no fim de semana?",
+      "explanation": {
+        "pt": "Você ouviu: 'O que você vai fazer no fim de semana?' — 'What are you going to do on the weekend?'",
+        "en": "You heard: 'O que você vai fazer no fim de semana?' — 'What are you going to do on the weekend?'",
+        "ar": "سمعت: 'O que você vai fazer no fim de semana?' — 'ماذا ستفعل في عطلة نهاية الأسبوع؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Voltamos no domingo à noite. Depois te conto tudo!",
+          "en": "I am going to travel to Rio de Janeiro.",
+          "ar": "نعود ليلة الأحد. ثم سأحكي لك كل شيء!"
+        },
+        {
+          "pt": "Vou viajar para o Rio de Janeiro.",
+          "en": "What are you going to do on the weekend?",
+          "ar": "سأسافر إلى ريو دي جانيرو."
+        },
+        {
+          "pt": "O que você vai fazer no fim de semana?",
+          "en": "We come back Sunday night. Then I will tell you everything!",
+          "ar": "ماذا ستفعل في عطلة نهاية الأسبوع؟"
+        }
+      ],
+      "answer": "Vou viajar para o Rio de Janeiro.",
+      "accepted": [],
+      "audio": "Vou viajar para o Rio de Janeiro.",
+      "explanation": {
+        "pt": "Você ouviu: 'Vou viajar para o Rio de Janeiro.' — 'I am going to travel to Rio de Janeiro.'",
+        "en": "You heard: 'Vou viajar para o Rio de Janeiro.' — 'I am going to travel to Rio de Janeiro.'",
+        "ar": "سمعت: 'Vou viajar para o Rio de Janeiro.' — 'سأسافر إلى ريو دي جانيرو.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "fim",
+          "en": "fim",
+          "ar": "fim"
+        },
+        {
+          "pt": "no",
+          "en": "no",
+          "ar": "no"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "semana?",
+          "en": "semana?",
+          "ar": "semana?"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "fazer",
+          "en": "fazer",
+          "ar": "fazer"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "vai",
+          "en": "vai",
+          "ar": "vai"
+        }
+      ],
+      "answer": "O que você vai fazer no fim de semana?",
+      "accepted": [
+        "O que você vai fazer no fim de semana?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'O que você vai fazer no fim de semana?'",
+        "en": "The correct order: 'What are you going to do on the weekend?'",
+        "ar": "الترتيب الصحيح: 'ماذا ستفعل في عطلة نهاية الأسبوع؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "amanhã",
+          "en": "later / after",
+          "ar": "amanhã"
+        },
+        {
+          "pt": "o ano que vem",
+          "en": "to see",
+          "ar": "o ano que vem"
+        },
+        {
+          "pt": "ir",
+          "en": "next week",
+          "ar": "ir"
+        },
+        {
+          "pt": "ver",
+          "en": "to go",
+          "ar": "ver"
+        },
+        {
+          "pt": "a próxima semana",
+          "en": "tomorrow",
+          "ar": "a próxima semana"
+        },
+        {
+          "pt": "depois",
+          "en": "next year",
+          "ar": "depois"
+        }
+      ],
+      "answer": "amanhã::later / after|o ano que vem::to see|ir::next week|ver::to go|a próxima semana::tomorrow|depois::next year",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "O que você vai fazer no fim de semana?",
+          "en": "And when do you come back?",
+          "ar": "نعود ليلة الأحد. ثم سأحكي لك كل شيء!"
+        },
+        {
+          "pt": "Voltamos no domingo à noite. Depois te conto tudo!",
+          "en": "What are you going to do on the weekend?",
+          "ar": "ماذا ستفعل في عطلة نهاية الأسبوع؟"
+        },
+        {
+          "pt": "E quando vocês voltam?",
+          "en": "We come back Sunday night. Then I will tell you everything!",
+          "ar": "ومتى تعودان؟"
+        }
+      ],
+      "answer": "O que você vai fazer no fim de semana?",
+      "accepted": [],
+      "audio": "O que você vai fazer no fim de semana?",
+      "explanation": {
+        "pt": "Você ouviu: 'O que você vai fazer no fim de semana?' — 'What are you going to do on the weekend?'",
+        "en": "You heard: 'O que você vai fazer no fim de semana?' — 'What are you going to do on the weekend?'",
+        "ar": "سمعت: 'O que você vai fazer no fim de semana?' — 'ماذا ستفعل في عطلة نهاية الأسبوع؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Vou viajar para o Rio de Janeiro.",
+          "en": "What are you going to do on the weekend?",
+          "ar": "سأسافر إلى ريو دي جانيرو."
+        },
+        {
+          "pt": "Com quem você vai?",
+          "en": "Who are you going with?",
+          "ar": "مع من ستسافرين؟"
+        },
+        {
+          "pt": "O que você vai fazer no fim de semana?",
+          "en": "I am going to travel to Rio de Janeiro.",
+          "ar": "ماذا ستفعل في عطلة نهاية الأسبوع؟"
+        }
+      ],
+      "answer": "Vou viajar para o Rio de Janeiro.",
+      "accepted": [],
+      "audio": "Vou viajar para o Rio de Janeiro.",
+      "explanation": {
+        "pt": "Você ouviu: 'Vou viajar para o Rio de Janeiro.' — 'I am going to travel to Rio de Janeiro.'",
+        "en": "You heard: 'Vou viajar para o Rio de Janeiro.' — 'I am going to travel to Rio de Janeiro.'",
+        "ar": "سمعت: 'Vou viajar para o Rio de Janeiro.' — 'سأسافر إلى ريو دي جانيرو.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "fim",
+          "en": "fim",
+          "ar": "fim"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "vai",
+          "en": "vai",
+          "ar": "vai"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "fazer",
+          "en": "fazer",
+          "ar": "fazer"
+        },
+        {
+          "pt": "no",
+          "en": "no",
+          "ar": "no"
+        },
+        {
+          "pt": "semana?",
+          "en": "semana?",
+          "ar": "semana?"
+        }
+      ],
+      "answer": "O que você vai fazer no fim de semana?",
+      "accepted": [
+        "O que você vai fazer no fim de semana?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'O que você vai fazer no fim de semana?'",
+        "en": "The correct order: 'What are you going to do on the weekend?'",
+        "ar": "الترتيب الصحيح: 'ماذا ستفعل في عطلة نهاية الأسبوع؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o ano que vem",
+          "en": "next year",
+          "ar": "o ano que vem"
+        },
+        {
+          "pt": "ir",
+          "en": "next week",
+          "ar": "ir"
+        },
+        {
+          "pt": "depois",
+          "en": "to go",
+          "ar": "depois"
+        },
+        {
+          "pt": "ver",
+          "en": "to see",
+          "ar": "ver"
+        },
+        {
+          "pt": "amanhã",
+          "en": "tomorrow",
+          "ar": "amanhã"
+        },
+        {
+          "pt": "a próxima semana",
+          "en": "later / after",
+          "ar": "a próxima semana"
+        }
+      ],
+      "answer": "o ano que vem::next year|ir::next week|depois::to go|ver::to see|amanhã::tomorrow|a próxima semana::later / after",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "E quando vocês voltam?",
+          "en": "Who are you going with?",
+          "ar": "ومتى تعودان؟"
+        },
+        {
+          "pt": "Com quem você vai?",
+          "en": "And when do you come back?",
+          "ar": "ماذا ستفعل في عطلة نهاية الأسبوع؟"
+        },
+        {
+          "pt": "O que você vai fazer no fim de semana?",
+          "en": "What are you going to do on the weekend?",
+          "ar": "مع من ستسافرين؟"
+        }
+      ],
+      "answer": "O que você vai fazer no fim de semana?",
+      "accepted": [],
+      "audio": "O que você vai fazer no fim de semana?",
+      "explanation": {
+        "pt": "Você ouviu: 'O que você vai fazer no fim de semana?' — 'What are you going to do on the weekend?'",
+        "en": "You heard: 'O que você vai fazer no fim de semana?' — 'What are you going to do on the weekend?'",
+        "ar": "سمعت: 'O que você vai fazer no fim de semana?' — 'ماذا ستفعل في عطلة نهاية الأسبوع؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "E quando vocês voltam?",
+          "en": "I am going to travel to Rio de Janeiro.",
+          "ar": "مع من ستسافرين؟"
+        },
+        {
+          "pt": "Com quem você vai?",
+          "en": "And when do you come back?",
+          "ar": "ومتى تعودان؟"
+        },
+        {
+          "pt": "Vou viajar para o Rio de Janeiro.",
+          "en": "Who are you going with?",
+          "ar": "سأسافر إلى ريو دي جانيرو."
+        }
+      ],
+      "answer": "Vou viajar para o Rio de Janeiro.",
+      "accepted": [],
+      "audio": "Vou viajar para o Rio de Janeiro.",
+      "explanation": {
+        "pt": "Você ouviu: 'Vou viajar para o Rio de Janeiro.' — 'I am going to travel to Rio de Janeiro.'",
+        "en": "You heard: 'Vou viajar para o Rio de Janeiro.' — 'I am going to travel to Rio de Janeiro.'",
+        "ar": "سمعت: 'Vou viajar para o Rio de Janeiro.' — 'سأسافر إلى ريو دي جانيرو.'"
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'tomorrow'",
+        "en": "Type in Portuguese: 'tomorrow'",
+        "ar": "اكتب بالبرتغالية: 'غدًا'"
+      },
+      "options": [],
+      "answer": "amanhã",
+      "accepted": [
+        "amanhã"
+      ],
+      "explanation": {
+        "pt": "'amanhã' significa 'tomorrow'.",
+        "en": "'amanhã' means 'tomorrow'.",
+        "ar": "'$amanhã' بالعربية: '$غدًا'."
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'later / after'",
+        "en": "Type in Portuguese: 'later / after'",
+        "ar": "اكتب بالبرتغالية: 'بعد ذلك'"
+      },
+      "options": [],
+      "answer": "depois",
+      "accepted": [
+        "depois"
+      ],
+      "explanation": {
+        "pt": "'depois' significa 'later / after'.",
+        "en": "'depois' means 'later / after'.",
+        "ar": "'$depois' بالعربية: '$بعد ذلك'."
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "E quando vocês voltam?",
+          "en": "E quando vocês voltam?",
+          "ar": "E quando vocês voltam?"
+        },
+        {
+          "pt": "Vou viajar para o Rio de Janeiro.",
+          "en": "Vou viajar para o Rio de Janeiro.",
+          "ar": "Vou viajar para o Rio de Janeiro."
+        },
+        {
+          "pt": "O que você vai fazer no fim de semana?",
+          "en": "O que você vai fazer no fim de semana?",
+          "ar": "O que você vai fazer no fim de semana?"
+        }
+      ],
+      "answer": "O que você vai fazer no fim de semana?",
+      "accepted": [],
+      "audio": "O que você vai fazer no fim de semana?",
+      "explanation": {
+        "pt": "Você ouviu: 'O que você vai fazer no fim de semana?'",
+        "en": "You heard: 'O que você vai fazer no fim de semana?'",
+        "ar": "سمعت: 'O que você vai fazer no fim de semana?'"
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Voltamos no domingo à noite. Depois te conto tudo!",
+          "en": "Voltamos no domingo à noite. Depois te conto tudo!",
+          "ar": "Voltamos no domingo à noite. Depois te conto tudo!"
+        },
+        {
+          "pt": "Vou viajar para o Rio de Janeiro.",
+          "en": "Vou viajar para o Rio de Janeiro.",
+          "ar": "Vou viajar para o Rio de Janeiro."
+        },
+        {
+          "pt": "O que você vai fazer no fim de semana?",
+          "en": "O que você vai fazer no fim de semana?",
+          "ar": "O que você vai fazer no fim de semana?"
+        }
+      ],
+      "answer": "Vou viajar para o Rio de Janeiro.",
+      "accepted": [],
+      "audio": "Vou viajar para o Rio de Janeiro.",
+      "explanation": {
+        "pt": "Você ouviu: 'Vou viajar para o Rio de Janeiro.'",
+        "en": "You heard: 'Vou viajar para o Rio de Janeiro.'",
+        "ar": "سمعت: 'Vou viajar para o Rio de Janeiro.'"
+      }
+    },
+    {
+      "type": "dictation",
+      "prompt": {
+        "pt": "Ouça e escreva o que você ouviu.",
+        "en": "Listen and type what you hear.",
+        "ar": "استمع واكتب ما سمعته."
+      },
+      "options": [],
+      "answer": "O que você vai fazer no fim de semana?",
+      "accepted": [],
+      "audio": "O que você vai fazer no fim de semana?",
+      "explanation": {
+        "pt": "A frase correta: 'O que você vai fazer no fim de semana?'",
+        "en": "The correct sentence: 'O que você vai fazer no fim de semana?'",
+        "ar": "الجملة الصحيحة: 'O que você vai fazer no fim de semana?'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "semana?",
+          "en": "semana?",
+          "ar": "semana?"
+        },
+        {
+          "pt": "fim",
+          "en": "fim",
+          "ar": "fim"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "vai",
+          "en": "vai",
+          "ar": "vai"
+        },
+        {
+          "pt": "no",
+          "en": "no",
+          "ar": "no"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "fazer",
+          "en": "fazer",
+          "ar": "fazer"
+        }
+      ],
+      "answer": "O que você vai fazer no fim de semana?",
+      "accepted": [
+        "O que você vai fazer no fim de semana?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'O que você vai fazer no fim de semana?'",
+        "en": "The correct order: 'What are you going to do on the weekend?'",
+        "ar": "الترتيب الصحيح: 'ماذا ستفعل في عطلة نهاية الأسبوع؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "ver",
+          "en": "next year",
+          "ar": "ver"
+        },
+        {
+          "pt": "depois",
+          "en": "to go",
+          "ar": "depois"
+        },
+        {
+          "pt": "amanhã",
+          "en": "later / after",
+          "ar": "amanhã"
+        },
+        {
+          "pt": "a próxima semana",
+          "en": "to see",
+          "ar": "a próxima semana"
+        },
+        {
+          "pt": "o ano que vem",
+          "en": "next week",
+          "ar": "o ano que vem"
+        },
+        {
+          "pt": "ir",
+          "en": "tomorrow",
+          "ar": "ir"
+        }
+      ],
+      "answer": "ver::next year|depois::to go|amanhã::later / after|a próxima semana::to see|o ano que vem::next week|ir::tomorrow",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "O que você vai fazer no fim de semana?",
+          "en": "What are you going to do on the weekend?",
+          "ar": "مع من ستسافرين؟"
+        },
+        {
+          "pt": "Com quem você vai?",
+          "en": "Who are you going with?",
+          "ar": "ومتى تعودان؟"
+        },
+        {
+          "pt": "E quando vocês voltam?",
+          "en": "And when do you come back?",
+          "ar": "ماذا ستفعل في عطلة نهاية الأسبوع؟"
+        }
+      ],
+      "answer": "O que você vai fazer no fim de semana?",
+      "accepted": [],
+      "audio": "O que você vai fazer no fim de semana?",
+      "explanation": {
+        "pt": "Você ouviu: 'O que você vai fazer no fim de semana?' — 'What are you going to do on the weekend?'",
+        "en": "You heard: 'O que você vai fazer no fim de semana?' — 'What are you going to do on the weekend?'",
+        "ar": "سمعت: 'O que você vai fazer no fim de semana?' — 'ماذا ستفعل في عطلة نهاية الأسبوع؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Vou com a minha irmã. Vamos ver os amigos.",
+          "en": "And when do you come back?",
+          "ar": "سأسافر إلى ريو دي جانيرو."
+        },
+        {
+          "pt": "Vou viajar para o Rio de Janeiro.",
+          "en": "I am going to travel to Rio de Janeiro.",
+          "ar": "مع أختي. سنزور الأصدقاء."
+        },
+        {
+          "pt": "E quando vocês voltam?",
+          "en": "With my sister. We are going to see friends.",
+          "ar": "ومتى تعودان؟"
+        }
+      ],
+      "answer": "Vou viajar para o Rio de Janeiro.",
+      "accepted": [],
+      "audio": "Vou viajar para o Rio de Janeiro.",
+      "explanation": {
+        "pt": "Você ouviu: 'Vou viajar para o Rio de Janeiro.' — 'I am going to travel to Rio de Janeiro.'",
+        "en": "You heard: 'Vou viajar para o Rio de Janeiro.' — 'I am going to travel to Rio de Janeiro.'",
+        "ar": "سمعت: 'Vou viajar para o Rio de Janeiro.' — 'سأسافر إلى ريو دي جانيرو.'"
+      }
+    }
+  ],
+  "speaking": {
+    "title": {
+      "pt": "Fale Agora — Ouça e Repita",
+      "en": "Speak Now — Listen and Repeat",
+      "ar": "تحدث الآن — استمع وكرر"
+    },
+    "phrases": [
+      {
+        "pt": "O que você vai fazer no fim de semana?",
+        "en": "What are you going to do on the weekend?",
+        "ar": "ماذا ستفعل في عطلة نهاية الأسبوع؟"
+      },
+      {
+        "pt": "Vou viajar para o Rio de Janeiro.",
+        "en": "I am going to travel to Rio de Janeiro.",
+        "ar": "سأسافر إلى ريو دي جانيرو."
+      },
+      {
+        "pt": "Com quem você vai?",
+        "en": "Who are you going with?",
+        "ar": "مع من ستسافرين؟"
+      },
+      {
+        "pt": "Vou com a minha irmã. Vamos ver os amigos.",
+        "en": "With my sister. We are going to see friends.",
+        "ar": "مع أختي. سنزور الأصدقاء."
+      },
+      {
+        "pt": "E quando vocês voltam?",
+        "en": "And when do you come back?",
+        "ar": "ومتى تعودان؟"
+      },
+      {
+        "pt": "Voltamos no domingo à noite. Depois te conto tudo!",
+        "en": "We come back Sunday night. Then I will tell you everything!",
+        "ar": "نعود ليلة الأحد. ثم سأحكي لك كل شيء!"
+      },
+      {
+        "pt": "amanhã",
+        "en": "tomorrow",
+        "ar": "غدًا"
+      },
+      {
+        "pt": "depois",
+        "en": "later / after",
+        "ar": "بعد ذلك"
+      },
+      {
+        "pt": "a próxima semana",
+        "en": "next week",
+        "ar": "الأسبوع القادم"
+      }
+    ]
+  },
+  "cultural_tips": {
+    "pt": "",
+    "en": "",
+    "ar": ""
+  }
+}

@@ -1,0 +1,2051 @@
+{
+  "id": "A2-06",
+  "level": "A2",
+  "level_name": {
+    "pt": "Básico",
+    "en": "Elementary",
+    "ar": "أساسي"
+  },
+  "title": {
+    "pt": "Clima e Estações",
+    "en": "Weather and Seasons",
+    "ar": "الطقس والفصول"
+  },
+  "objectives": [
+    {
+      "pt": "Falar sobre o tempo e o clima",
+      "en": "Talk about the weather and climate",
+      "ar": "التحدث عن الطقس والمناخ"
+    },
+    {
+      "pt": "Usar expressões com fazer, estar e chover",
+      "en": "Use expressions with fazer, estar and chover",
+      "ar": "استخدام تعبيرات مع أفعال fazer و estar و chover"
+    },
+    {
+      "pt": "Nomear as estações do ano e suas características",
+      "en": "Name the seasons and their characteristics",
+      "ar": "تسمية فصول السنة وخصائصها"
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "o clima",
+      "ipa": "/u ˈkli.ma/",
+      "en": "the climate",
+      "ar": "المناخ",
+      "example": {
+        "pt": "O céu está cheio de nuvens e o vento está forte.",
+        "en": "The sky is full of clouds and the wind is strong.",
+        "ar": "السماء مليئة بالغيوم والرياح قوية."
+      }
+    },
+    {
+      "pt": "o tempo",
+      "ipa": "/u ˈtẽ.pu/",
+      "en": "the weather",
+      "ar": "الطقس",
+      "example": {
+        "pt": "O céu está cheio de nuvens e o vento está forte.",
+        "en": "The sky is full of clouds and the wind is strong.",
+        "ar": "السماء مليئة بالغيوم والرياح قوية."
+      }
+    },
+    {
+      "pt": "a chuva",
+      "ipa": "/a ˈʃu.va/",
+      "en": "the rain",
+      "ar": "المطر",
+      "example": {
+        "pt": "A primavera é uma estação bonita.",
+        "en": "Spring is a beautiful season.",
+        "ar": "الربيع فصل جميل."
+      }
+    },
+    {
+      "pt": "chover",
+      "ipa": "/ʃoˈveʁ/",
+      "en": "to rain",
+      "ar": "يمطر",
+      "example": {
+        "pt": "Sim, mas à noite vai chover.",
+        "en": "Yes, but it is going to rain tonight.",
+        "ar": "نعم، لكنها ستمطر في الليل."
+      }
+    },
+    {
+      "pt": "o sol",
+      "ipa": "/u sɔw/",
+      "en": "the sun",
+      "ar": "الشمس",
+      "example": {
+        "pt": "O céu está cheio de nuvens e o vento está forte.",
+        "en": "The sky is full of clouds and the wind is strong.",
+        "ar": "السماء مليئة بالغيوم والرياح قوية."
+      }
+    },
+    {
+      "pt": "a nuvem",
+      "ipa": "/a ˈnu.vẽj/",
+      "en": "the cloud",
+      "ar": "السحابة",
+      "example": {
+        "pt": "A primavera é uma estação bonita.",
+        "en": "Spring is a beautiful season.",
+        "ar": "الربيع فصل جميل."
+      }
+    },
+    {
+      "pt": "o vento",
+      "ipa": "/u ˈvẽ.tu/",
+      "en": "the wind",
+      "ar": "الرياح",
+      "example": {
+        "pt": "O céu está cheio de nuvens e o vento está forte.",
+        "en": "The sky is full of clouds and the wind is strong.",
+        "ar": "السماء مليئة بالغيوم والرياح قوية."
+      }
+    },
+    {
+      "pt": "o calor",
+      "ipa": "/u kaˈloʁ/",
+      "en": "the heat",
+      "ar": "الحر",
+      "example": {
+        "pt": "O céu está cheio de nuvens e o vento está forte.",
+        "en": "The sky is full of clouds and the wind is strong.",
+        "ar": "السماء مليئة بالغيوم والرياح قوية."
+      }
+    },
+    {
+      "pt": "o frio",
+      "ipa": "/u ˈfɾi.u/",
+      "en": "the cold",
+      "ar": "البرد",
+      "example": {
+        "pt": "O céu está cheio de nuvens e o vento está forte.",
+        "en": "The sky is full of clouds and the wind is strong.",
+        "ar": "السماء مليئة بالغيوم والرياح قوية."
+      }
+    },
+    {
+      "pt": "a temperatura",
+      "ipa": "/a tẽ.pe.ɾaˈtu.ɾa/",
+      "en": "the temperature",
+      "ar": "درجة الحرارة",
+      "example": {
+        "pt": "A primavera é uma estação bonita.",
+        "en": "Spring is a beautiful season.",
+        "ar": "الربيع فصل جميل."
+      }
+    },
+    {
+      "pt": "a estação",
+      "ipa": "/a es.taˈsɐ̃w/",
+      "en": "the season",
+      "ar": "الفصل",
+      "example": {
+        "pt": "A primavera é uma estação bonita.",
+        "en": "Spring is a beautiful season.",
+        "ar": "الربيع فصل جميل."
+      }
+    },
+    {
+      "pt": "a primavera",
+      "ipa": "/a pɾi.maˈvɛ.ɾa/",
+      "en": "the spring",
+      "ar": "الربيع",
+      "example": {
+        "pt": "A primavera é uma estação bonita.",
+        "en": "Spring is a beautiful season.",
+        "ar": "الربيع فصل جميل."
+      }
+    },
+    {
+      "pt": "o verão",
+      "ipa": "/u veˈɾɐ̃w/",
+      "en": "the summer",
+      "ar": "الصيف",
+      "example": {
+        "pt": "O céu está cheio de nuvens e o vento está forte.",
+        "en": "The sky is full of clouds and the wind is strong.",
+        "ar": "السماء مليئة بالغيوم والرياح قوية."
+      }
+    },
+    {
+      "pt": "o outono",
+      "ipa": "/u oʊˈto.nu/",
+      "en": "the autumn",
+      "ar": "الخريف",
+      "example": {
+        "pt": "O céu está cheio de nuvens e o vento está forte.",
+        "en": "The sky is full of clouds and the wind is strong.",
+        "ar": "السماء مليئة بالغيوم والرياح قوية."
+      }
+    },
+    {
+      "pt": "o inverno",
+      "ipa": "/u ĩˈveʁ.nu/",
+      "en": "the winter",
+      "ar": "الشتاء",
+      "example": {
+        "pt": "O céu está cheio de nuvens e o vento está forte.",
+        "en": "The sky is full of clouds and the wind is strong.",
+        "ar": "السماء مليئة بالغيوم والرياح قوية."
+      }
+    },
+    {
+      "pt": "úmido",
+      "ipa": "/ˈũ.mi.du/",
+      "en": "humid",
+      "ar": "رطب",
+      "example": {
+        "pt": "Que calor hoje! Está fazendo trinta e cinco graus.",
+        "en": "It is so hot today! It is thirty-five degrees.",
+        "ar": "يا له من حر اليوم! درجة الحرارة خمس وثلاثون درجة."
+      }
+    },
+    {
+      "pt": "seco",
+      "ipa": "/ˈse.ku/",
+      "en": "dry",
+      "ar": "جاف",
+      "example": {
+        "pt": "Que calor hoje! Está fazendo trinta e cinco graus.",
+        "en": "It is so hot today! It is thirty-five degrees.",
+        "ar": "يا له من حر اليوم! درجة الحرارة خمس وثلاثون درجة."
+      }
+    },
+    {
+      "pt": "o guarda-chuva",
+      "ipa": "/u ˈɡwaʁ.da ˈʃu.va/",
+      "en": "the umbrella",
+      "ar": "المظلة",
+      "example": {
+        "pt": "O céu está cheio de nuvens e o vento está forte.",
+        "en": "The sky is full of clouds and the wind is strong.",
+        "ar": "السماء مليئة بالغيوم والرياح قوية."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "title": {
+        "pt": "Falando do Tempo",
+        "en": "Talking about the Weather",
+        "ar": "التحدث عن الطقس"
+      },
+      "explanation": {
+        "pt": "Para o tempo, usamos 'fazer' e 'estar': Faz calor (It is hot), Faz frio (It is cold), Está chovendo (It is raining), Está nublado (It is cloudy), Está ventando (It is windy), Está fazendo sol (It is sunny).",
+        "en": "For the weather, we use 'fazer' and 'estar': Faz calor (It is hot), Faz frio (It is cold), Está chovendo (It is raining), Está nublado (It is cloudy), Está ventando (It is windy), Está fazendo sol (It is sunny).",
+        "ar": "للطقس، نستخدم 'fazer' و 'estar': Faz calor (الجو حار)، Faz frio (الجو بارد)، Está chovendo (إنها تمطر)، Está nublado (الجو غائم)، Está ventando (الرياح تهب)، Está fazendo sol (السماء مشمسة)."
+      },
+      "examples": [
+        {
+          "pt": "Hoje está fazendo muito calor.",
+          "en": "It is very hot today.",
+          "ar": "الجو حار جدًا اليوم."
+        },
+        {
+          "pt": "Está chovendo, leve o guarda-chuva.",
+          "en": "It is raining, take the umbrella.",
+          "ar": "إنها تمطر، خذ المظلة."
+        },
+        {
+          "pt": "Amanhã vai fazer frio.",
+          "en": "It will be cold tomorrow.",
+          "ar": "سيكون الجو باردًا غدًا."
+        }
+      ]
+    },
+    {
+      "title": {
+        "pt": "As Estações do Ano",
+        "en": "The Seasons",
+        "ar": "فصول السنة"
+      },
+      "explanation": {
+        "pt": "As estações: a primavera (spring), o verão (summer), o outono (autumn), o inverno (winter). No Brasil, o verão vai de dezembro a março. 'No verão faz calor e chove muito.' 'No inverno, faz frio no sul do país.'",
+        "en": "The seasons: a primavera (spring), o verão (summer), o outono (autumn), o inverno (winter). In Brazil, summer runs from December to March. 'No verão faz calor e chove muito.' (In summer it is hot and it rains a lot.) 'No inverno, faz frio no sul do país.' (In winter it is cold in the south of the country.)",
+        "ar": "الفصول: a primavera (الربيع)، o verão (الصيف)، o outono (الخريف)، o inverno (الشتاء). في البرازيل، يمتد الصيف من ديسمبر إلى مارس. 'No verão faz calor e chove muito.' (في الصيف الجو حار وتمطر كثيرًا.) 'No inverno, faz frio no sul do país.' (في الشتاء يكون الجو باردًا في جنوب البلاد.)"
+      },
+      "examples": [
+        {
+          "pt": "No verão, as praias ficam lotadas.",
+          "en": "In summer, the beaches get crowded.",
+          "ar": "في الصيف، تمتلئ الشواطئ بالناس."
+        },
+        {
+          "pt": "No inverno, faz frio em São Paulo.",
+          "en": "In winter, it is cold in São Paulo.",
+          "ar": "في الشتاء، يكون الجو باردًا في ساو باولو."
+        },
+        {
+          "pt": "A primavera é uma estação bonita.",
+          "en": "Spring is a beautiful season.",
+          "ar": "الربيع فصل جميل."
+        }
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": {
+      "pt": "O Tempo Hoje",
+      "en": "The Weather Today",
+      "ar": "طقس اليوم"
+    },
+    "lines": [
+      {
+        "speaker": "Ana",
+        "pt": "Que calor hoje! Está fazendo trinta e cinco graus.",
+        "en": "It is so hot today! It is thirty-five degrees.",
+        "ar": "يا له من حر اليوم! درجة الحرارة خمس وثلاثون درجة."
+      },
+      {
+        "speaker": "Carlos",
+        "pt": "Sim, mas à noite vai chover.",
+        "en": "Yes, but it is going to rain tonight.",
+        "ar": "نعم، لكنها ستمطر في الليل."
+      },
+      {
+        "speaker": "Ana",
+        "pt": "Como você sabe?",
+        "en": "How do you know?",
+        "ar": "كيف تعرف؟"
+      },
+      {
+        "speaker": "Carlos",
+        "pt": "O céu está cheio de nuvens e o vento está forte.",
+        "en": "The sky is full of clouds and the wind is strong.",
+        "ar": "السماء مليئة بالغيوم والرياح قوية."
+      },
+      {
+        "speaker": "Ana",
+        "pt": "Então vou levar o guarda-chuva.",
+        "en": "Then I will take the umbrella.",
+        "ar": "إذن سآخذ المظلة."
+      },
+      {
+        "speaker": "Carlos",
+        "pt": "Boa ideia! No verão chove muito aqui.",
+        "en": "Good idea! In summer it rains a lot here.",
+        "ar": "فكرة جيدة! تمطر كثيرًا هنا في الصيف."
+      }
+    ]
+  },
+  "reading": {
+    "title": {
+      "pt": "O Clima do Brasil",
+      "en": "The Climate of Brazil",
+      "ar": "مناخ البرازيل"
+    },
+    "text_pt": "O Brasil é um país de clima tropical, mas o clima varia muito de região para região. No verão, faz muito calor e chove bastante no Sudeste. No inverno, o Sul pode ter temperaturas baixas, e até neve em algumas cidades. Por isso, a melhor época para viajar depende do lugar.",
+    "text_en": "Brazil is a country with a tropical climate, but the climate varies a lot from region to region. In summer, it is very hot and it rains a lot in the Southeast. In winter, the South can have low temperatures, and even snow in some cities. That is why the best time to travel depends on the place.",
+    "text_ar": "البرازيل بلد ذو مناخ استوائي، لكن المناخ يختلف كثيرًا من منطقة إلى أخرى. في الصيف، يكون الطقس حارًا جدًا وتمطر كثيرًا في الجنوب الشرقي. في الشتاء، قد تشهد المنطقة الجنوبية درجات حرارة منخفضة، وحتى ثلوجًا في بعض المدن. لذلك، فإن أفضل وقت للسفر يعتمد على المكان."
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Hoje está ___ muito calor.",
+        "en": "Today it is ___ very hot.",
+        "ar": "اليوم الجو ___ حار جدًا."
+      },
+      "options": [
+        {
+          "pt": "fazendo",
+          "en": "fazendo",
+          "ar": "fazendo"
+        },
+        {
+          "pt": "faz",
+          "en": "faz",
+          "ar": "faz"
+        },
+        {
+          "pt": "fazer",
+          "en": "fazer",
+          "ar": "fazer"
+        }
+      ],
+      "answer": "fazendo",
+      "explanation": {
+        "pt": "Com 'está', usamos 'fazendo': está fazendo calor.",
+        "en": "With 'está', we use 'fazendo': está fazendo calor.",
+        "ar": "مع 'está' نستخدم 'fazendo': está fazendo calor (الجو حار)."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "No ___ faz muito calor e chove bastante.",
+        "en": "In ___ it is very hot and it rains a lot.",
+        "ar": "في ___ يكون الجو حارًا جدًا وتمطر كثيرًا."
+      },
+      "options": [
+        {
+          "pt": "verão",
+          "en": "verão",
+          "ar": "verão"
+        },
+        {
+          "pt": "inverno",
+          "en": "inverno",
+          "ar": "inverno"
+        },
+        {
+          "pt": "outono",
+          "en": "outono",
+          "ar": "outono"
+        }
+      ],
+      "answer": "verão",
+      "explanation": {
+        "pt": "O verão no Brasil é quente e chuvoso.",
+        "en": "Summer in Brazil is hot and rainy.",
+        "ar": "الصيف في البرازيل حار وممطر."
+      }
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza: 'the winter'",
+        "en": "Translate: 'the winter'",
+        "ar": "ترجم: 'the winter'"
+      },
+      "options": [],
+      "answer": "o inverno",
+      "explanation": {
+        "pt": "'O inverno' = the winter.",
+        "en": "'O inverno' = the winter.",
+        "ar": "'o inverno' = الشتاء."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "e",
+          "en": "e",
+          "ar": "e"
+        },
+        {
+          "pt": "cinco",
+          "en": "cinco",
+          "ar": "cinco"
+        },
+        {
+          "pt": "calor",
+          "en": "calor",
+          "ar": "calor"
+        },
+        {
+          "pt": "graus.",
+          "en": "graus.",
+          "ar": "graus."
+        },
+        {
+          "pt": "trinta",
+          "en": "trinta",
+          "ar": "trinta"
+        },
+        {
+          "pt": "Que",
+          "en": "Que",
+          "ar": "Que"
+        },
+        {
+          "pt": "hoje!",
+          "en": "hoje!",
+          "ar": "hoje!"
+        },
+        {
+          "pt": "Está",
+          "en": "Está",
+          "ar": "Está"
+        },
+        {
+          "pt": "fazendo",
+          "en": "fazendo",
+          "ar": "fazendo"
+        }
+      ],
+      "answer": "Que calor hoje! Está fazendo trinta e cinco graus.",
+      "accepted": [
+        "Que calor hoje! Está fazendo trinta e cinco graus."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Que calor hoje! Está fazendo trinta e cinco graus.'",
+        "en": "The correct order: 'It is so hot today! It is thirty-five degrees.'",
+        "ar": "الترتيب الصحيح: 'يا له من حر اليوم! درجة الحرارة خمس وثلاثون درجة.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "chover",
+          "en": "the rain",
+          "ar": "chover"
+        },
+        {
+          "pt": "a chuva",
+          "en": "the cloud",
+          "ar": "a chuva"
+        },
+        {
+          "pt": "o tempo",
+          "en": "the sun",
+          "ar": "o tempo"
+        },
+        {
+          "pt": "a nuvem",
+          "en": "the weather",
+          "ar": "a nuvem"
+        },
+        {
+          "pt": "o clima",
+          "en": "the climate",
+          "ar": "o clima"
+        },
+        {
+          "pt": "o sol",
+          "en": "to rain",
+          "ar": "o sol"
+        }
+      ],
+      "answer": "chover::the rain|a chuva::the cloud|o tempo::the sun|a nuvem::the weather|o clima::the climate|o sol::to rain",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Como você sabe?",
+          "en": "It is so hot today! It is thirty-five degrees.",
+          "ar": "إذن سآخذ المظلة."
+        },
+        {
+          "pt": "Então vou levar o guarda-chuva.",
+          "en": "How do you know?",
+          "ar": "يا له من حر اليوم! درجة الحرارة خمس وثلاثون درجة."
+        },
+        {
+          "pt": "Que calor hoje! Está fazendo trinta e cinco graus.",
+          "en": "Then I will take the umbrella.",
+          "ar": "كيف تعرف؟"
+        }
+      ],
+      "answer": "Que calor hoje! Está fazendo trinta e cinco graus.",
+      "accepted": [],
+      "audio": "Que calor hoje! Está fazendo trinta e cinco graus.",
+      "explanation": {
+        "pt": "Você ouviu: 'Que calor hoje! Está fazendo trinta e cinco graus.' — 'It is so hot today! It is thirty-five degrees.'",
+        "en": "You heard: 'Que calor hoje! Está fazendo trinta e cinco graus.' — 'It is so hot today! It is thirty-five degrees.'",
+        "ar": "سمعت: 'Que calor hoje! Está fazendo trinta e cinco graus.' — 'يا له من حر اليوم! درجة الحرارة خمس وثلاثون درجة.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim, mas à noite vai chover.",
+          "en": "Yes, but it is going to rain tonight.",
+          "ar": "فكرة جيدة! تمطر كثيرًا هنا في الصيف."
+        },
+        {
+          "pt": "Então vou levar o guarda-chuva.",
+          "en": "Good idea! In summer it rains a lot here.",
+          "ar": "إذن سآخذ المظلة."
+        },
+        {
+          "pt": "Boa ideia! No verão chove muito aqui.",
+          "en": "Then I will take the umbrella.",
+          "ar": "نعم، لكنها ستمطر في الليل."
+        }
+      ],
+      "answer": "Sim, mas à noite vai chover.",
+      "accepted": [],
+      "audio": "Sim, mas à noite vai chover.",
+      "explanation": {
+        "pt": "Você ouviu: 'Sim, mas à noite vai chover.' — 'Yes, but it is going to rain tonight.'",
+        "en": "You heard: 'Sim, mas à noite vai chover.' — 'Yes, but it is going to rain tonight.'",
+        "ar": "سمعت: 'Sim, mas à noite vai chover.' — 'نعم، لكنها ستمطر في الليل.'"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Hoje está fazendo ___ calor.",
+        "en": "Hoje está fazendo ___ calor.",
+        "ar": "Hoje está fazendo ___ calor."
+      },
+      "options": [
+        {
+          "pt": "fazer",
+          "en": "fazer",
+          "ar": "fazer"
+        },
+        {
+          "pt": "leve",
+          "en": "leve",
+          "ar": "leve"
+        },
+        {
+          "pt": "muito",
+          "en": "muito",
+          "ar": "muito"
+        }
+      ],
+      "answer": "muito",
+      "accepted": [],
+      "explanation": {
+        "pt": "A resposta é 'muito'. Frase completa: Hoje está fazendo muito calor.",
+        "en": "The answer is 'muito'. Full sentence: It is very hot today.",
+        "ar": "الإجابة الصحيحة: 'muito'. الجملة كاملة: الجو حار جدًا اليوم."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Que",
+          "en": "Que",
+          "ar": "Que"
+        },
+        {
+          "pt": "trinta",
+          "en": "trinta",
+          "ar": "trinta"
+        },
+        {
+          "pt": "e",
+          "en": "e",
+          "ar": "e"
+        },
+        {
+          "pt": "graus.",
+          "en": "graus.",
+          "ar": "graus."
+        },
+        {
+          "pt": "fazendo",
+          "en": "fazendo",
+          "ar": "fazendo"
+        },
+        {
+          "pt": "Está",
+          "en": "Está",
+          "ar": "Está"
+        },
+        {
+          "pt": "calor",
+          "en": "calor",
+          "ar": "calor"
+        },
+        {
+          "pt": "cinco",
+          "en": "cinco",
+          "ar": "cinco"
+        },
+        {
+          "pt": "hoje!",
+          "en": "hoje!",
+          "ar": "hoje!"
+        }
+      ],
+      "answer": "Que calor hoje! Está fazendo trinta e cinco graus.",
+      "accepted": [
+        "Que calor hoje! Está fazendo trinta e cinco graus."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Que calor hoje! Está fazendo trinta e cinco graus.'",
+        "en": "The correct order: 'It is so hot today! It is thirty-five degrees.'",
+        "ar": "الترتيب الصحيح: 'يا له من حر اليوم! درجة الحرارة خمس وثلاثون درجة.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a chuva",
+          "en": "the climate",
+          "ar": "a chuva"
+        },
+        {
+          "pt": "chover",
+          "en": "to rain",
+          "ar": "chover"
+        },
+        {
+          "pt": "a nuvem",
+          "en": "the sun",
+          "ar": "a nuvem"
+        },
+        {
+          "pt": "o sol",
+          "en": "the cloud",
+          "ar": "o sol"
+        },
+        {
+          "pt": "o clima",
+          "en": "the weather",
+          "ar": "o clima"
+        },
+        {
+          "pt": "o tempo",
+          "en": "the rain",
+          "ar": "o tempo"
+        }
+      ],
+      "answer": "a chuva::the climate|chover::to rain|a nuvem::the sun|o sol::the cloud|o clima::the weather|o tempo::the rain",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Então vou levar o guarda-chuva.",
+          "en": "It is so hot today! It is thirty-five degrees.",
+          "ar": "إذن سآخذ المظلة."
+        },
+        {
+          "pt": "Sim, mas à noite vai chover.",
+          "en": "Then I will take the umbrella.",
+          "ar": "نعم، لكنها ستمطر في الليل."
+        },
+        {
+          "pt": "Que calor hoje! Está fazendo trinta e cinco graus.",
+          "en": "Yes, but it is going to rain tonight.",
+          "ar": "يا له من حر اليوم! درجة الحرارة خمس وثلاثون درجة."
+        }
+      ],
+      "answer": "Que calor hoje! Está fazendo trinta e cinco graus.",
+      "accepted": [],
+      "audio": "Que calor hoje! Está fazendo trinta e cinco graus.",
+      "explanation": {
+        "pt": "Você ouviu: 'Que calor hoje! Está fazendo trinta e cinco graus.' — 'It is so hot today! It is thirty-five degrees.'",
+        "en": "You heard: 'Que calor hoje! Está fazendo trinta e cinco graus.' — 'It is so hot today! It is thirty-five degrees.'",
+        "ar": "سمعت: 'Que calor hoje! Está fazendo trinta e cinco graus.' — 'يا له من حر اليوم! درجة الحرارة خمس وثلاثون درجة.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Como você sabe?",
+          "en": "How do you know?",
+          "ar": "نعم، لكنها ستمطر في الليل."
+        },
+        {
+          "pt": "Sim, mas à noite vai chover.",
+          "en": "Yes, but it is going to rain tonight.",
+          "ar": "فكرة جيدة! تمطر كثيرًا هنا في الصيف."
+        },
+        {
+          "pt": "Boa ideia! No verão chove muito aqui.",
+          "en": "Good idea! In summer it rains a lot here.",
+          "ar": "كيف تعرف؟"
+        }
+      ],
+      "answer": "Sim, mas à noite vai chover.",
+      "accepted": [],
+      "audio": "Sim, mas à noite vai chover.",
+      "explanation": {
+        "pt": "Você ouviu: 'Sim, mas à noite vai chover.' — 'Yes, but it is going to rain tonight.'",
+        "en": "You heard: 'Sim, mas à noite vai chover.' — 'Yes, but it is going to rain tonight.'",
+        "ar": "سمعت: 'Sim, mas à noite vai chover.' — 'نعم، لكنها ستمطر في الليل.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "hoje!",
+          "en": "hoje!",
+          "ar": "hoje!"
+        },
+        {
+          "pt": "calor",
+          "en": "calor",
+          "ar": "calor"
+        },
+        {
+          "pt": "Que",
+          "en": "Que",
+          "ar": "Que"
+        },
+        {
+          "pt": "graus.",
+          "en": "graus.",
+          "ar": "graus."
+        },
+        {
+          "pt": "e",
+          "en": "e",
+          "ar": "e"
+        },
+        {
+          "pt": "fazendo",
+          "en": "fazendo",
+          "ar": "fazendo"
+        },
+        {
+          "pt": "cinco",
+          "en": "cinco",
+          "ar": "cinco"
+        },
+        {
+          "pt": "Está",
+          "en": "Está",
+          "ar": "Está"
+        },
+        {
+          "pt": "trinta",
+          "en": "trinta",
+          "ar": "trinta"
+        }
+      ],
+      "answer": "Que calor hoje! Está fazendo trinta e cinco graus.",
+      "accepted": [
+        "Que calor hoje! Está fazendo trinta e cinco graus."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Que calor hoje! Está fazendo trinta e cinco graus.'",
+        "en": "The correct order: 'It is so hot today! It is thirty-five degrees.'",
+        "ar": "الترتيب الصحيح: 'يا له من حر اليوم! درجة الحرارة خمس وثلاثون درجة.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o clima",
+          "en": "the cloud",
+          "ar": "o clima"
+        },
+        {
+          "pt": "a chuva",
+          "en": "the climate",
+          "ar": "a chuva"
+        },
+        {
+          "pt": "o sol",
+          "en": "the sun",
+          "ar": "o sol"
+        },
+        {
+          "pt": "chover",
+          "en": "the rain",
+          "ar": "chover"
+        },
+        {
+          "pt": "a nuvem",
+          "en": "the weather",
+          "ar": "a nuvem"
+        },
+        {
+          "pt": "o tempo",
+          "en": "to rain",
+          "ar": "o tempo"
+        }
+      ],
+      "answer": "o clima::the cloud|a chuva::the climate|o sol::the sun|chover::the rain|a nuvem::the weather|o tempo::to rain",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Que calor hoje! Está fazendo trinta e cinco graus.",
+          "en": "It is so hot today! It is thirty-five degrees.",
+          "ar": "السماء مليئة بالغيوم والرياح قوية."
+        },
+        {
+          "pt": "O céu está cheio de nuvens e o vento está forte.",
+          "en": "The sky is full of clouds and the wind is strong.",
+          "ar": "كيف تعرف؟"
+        },
+        {
+          "pt": "Como você sabe?",
+          "en": "How do you know?",
+          "ar": "يا له من حر اليوم! درجة الحرارة خمس وثلاثون درجة."
+        }
+      ],
+      "answer": "Que calor hoje! Está fazendo trinta e cinco graus.",
+      "accepted": [],
+      "audio": "Que calor hoje! Está fazendo trinta e cinco graus.",
+      "explanation": {
+        "pt": "Você ouviu: 'Que calor hoje! Está fazendo trinta e cinco graus.' — 'It is so hot today! It is thirty-five degrees.'",
+        "en": "You heard: 'Que calor hoje! Está fazendo trinta e cinco graus.' — 'It is so hot today! It is thirty-five degrees.'",
+        "ar": "سمعت: 'Que calor hoje! Está fazendo trinta e cinco graus.' — 'يا له من حر اليوم! درجة الحرارة خمس وثلاثون درجة.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Boa ideia! No verão chove muito aqui.",
+          "en": "Yes, but it is going to rain tonight.",
+          "ar": "نعم، لكنها ستمطر في الليل."
+        },
+        {
+          "pt": "Sim, mas à noite vai chover.",
+          "en": "How do you know?",
+          "ar": "فكرة جيدة! تمطر كثيرًا هنا في الصيف."
+        },
+        {
+          "pt": "Como você sabe?",
+          "en": "Good idea! In summer it rains a lot here.",
+          "ar": "كيف تعرف؟"
+        }
+      ],
+      "answer": "Sim, mas à noite vai chover.",
+      "accepted": [],
+      "audio": "Sim, mas à noite vai chover.",
+      "explanation": {
+        "pt": "Você ouviu: 'Sim, mas à noite vai chover.' — 'Yes, but it is going to rain tonight.'",
+        "en": "You heard: 'Sim, mas à noite vai chover.' — 'Yes, but it is going to rain tonight.'",
+        "ar": "سمعت: 'Sim, mas à noite vai chover.' — 'نعم، لكنها ستمطر في الليل.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "cinco",
+          "en": "cinco",
+          "ar": "cinco"
+        },
+        {
+          "pt": "calor",
+          "en": "calor",
+          "ar": "calor"
+        },
+        {
+          "pt": "fazendo",
+          "en": "fazendo",
+          "ar": "fazendo"
+        },
+        {
+          "pt": "graus.",
+          "en": "graus.",
+          "ar": "graus."
+        },
+        {
+          "pt": "Está",
+          "en": "Está",
+          "ar": "Está"
+        },
+        {
+          "pt": "Que",
+          "en": "Que",
+          "ar": "Que"
+        },
+        {
+          "pt": "hoje!",
+          "en": "hoje!",
+          "ar": "hoje!"
+        },
+        {
+          "pt": "trinta",
+          "en": "trinta",
+          "ar": "trinta"
+        },
+        {
+          "pt": "e",
+          "en": "e",
+          "ar": "e"
+        }
+      ],
+      "answer": "Que calor hoje! Está fazendo trinta e cinco graus.",
+      "accepted": [
+        "Que calor hoje! Está fazendo trinta e cinco graus."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Que calor hoje! Está fazendo trinta e cinco graus.'",
+        "en": "The correct order: 'It is so hot today! It is thirty-five degrees.'",
+        "ar": "الترتيب الصحيح: 'يا له من حر اليوم! درجة الحرارة خمس وثلاثون درجة.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "chover",
+          "en": "the sun",
+          "ar": "chover"
+        },
+        {
+          "pt": "o sol",
+          "en": "the climate",
+          "ar": "o sol"
+        },
+        {
+          "pt": "o tempo",
+          "en": "the cloud",
+          "ar": "o tempo"
+        },
+        {
+          "pt": "o clima",
+          "en": "the weather",
+          "ar": "o clima"
+        },
+        {
+          "pt": "a nuvem",
+          "en": "the rain",
+          "ar": "a nuvem"
+        },
+        {
+          "pt": "a chuva",
+          "en": "to rain",
+          "ar": "a chuva"
+        }
+      ],
+      "answer": "chover::the sun|o sol::the climate|o tempo::the cloud|o clima::the weather|a nuvem::the rain|a chuva::to rain",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim, mas à noite vai chover.",
+          "en": "It is so hot today! It is thirty-five degrees.",
+          "ar": "كيف تعرف؟"
+        },
+        {
+          "pt": "Como você sabe?",
+          "en": "How do you know?",
+          "ar": "يا له من حر اليوم! درجة الحرارة خمس وثلاثون درجة."
+        },
+        {
+          "pt": "Que calor hoje! Está fazendo trinta e cinco graus.",
+          "en": "Yes, but it is going to rain tonight.",
+          "ar": "نعم، لكنها ستمطر في الليل."
+        }
+      ],
+      "answer": "Que calor hoje! Está fazendo trinta e cinco graus.",
+      "accepted": [],
+      "audio": "Que calor hoje! Está fazendo trinta e cinco graus.",
+      "explanation": {
+        "pt": "Você ouviu: 'Que calor hoje! Está fazendo trinta e cinco graus.' — 'It is so hot today! It is thirty-five degrees.'",
+        "en": "You heard: 'Que calor hoje! Está fazendo trinta e cinco graus.' — 'It is so hot today! It is thirty-five degrees.'",
+        "ar": "سمعت: 'Que calor hoje! Está fazendo trinta e cinco graus.' — 'يا له من حر اليوم! درجة الحرارة خمس وثلاثون درجة.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim, mas à noite vai chover.",
+          "en": "How do you know?",
+          "ar": "نعم، لكنها ستمطر في الليل."
+        },
+        {
+          "pt": "O céu está cheio de nuvens e o vento está forte.",
+          "en": "Yes, but it is going to rain tonight.",
+          "ar": "السماء مليئة بالغيوم والرياح قوية."
+        },
+        {
+          "pt": "Como você sabe?",
+          "en": "The sky is full of clouds and the wind is strong.",
+          "ar": "كيف تعرف؟"
+        }
+      ],
+      "answer": "Sim, mas à noite vai chover.",
+      "accepted": [],
+      "audio": "Sim, mas à noite vai chover.",
+      "explanation": {
+        "pt": "Você ouviu: 'Sim, mas à noite vai chover.' — 'Yes, but it is going to rain tonight.'",
+        "en": "You heard: 'Sim, mas à noite vai chover.' — 'Yes, but it is going to rain tonight.'",
+        "ar": "سمعت: 'Sim, mas à noite vai chover.' — 'نعم، لكنها ستمطر في الليل.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "graus.",
+          "en": "graus.",
+          "ar": "graus."
+        },
+        {
+          "pt": "trinta",
+          "en": "trinta",
+          "ar": "trinta"
+        },
+        {
+          "pt": "e",
+          "en": "e",
+          "ar": "e"
+        },
+        {
+          "pt": "fazendo",
+          "en": "fazendo",
+          "ar": "fazendo"
+        },
+        {
+          "pt": "hoje!",
+          "en": "hoje!",
+          "ar": "hoje!"
+        },
+        {
+          "pt": "Que",
+          "en": "Que",
+          "ar": "Que"
+        },
+        {
+          "pt": "cinco",
+          "en": "cinco",
+          "ar": "cinco"
+        },
+        {
+          "pt": "Está",
+          "en": "Está",
+          "ar": "Está"
+        },
+        {
+          "pt": "calor",
+          "en": "calor",
+          "ar": "calor"
+        }
+      ],
+      "answer": "Que calor hoje! Está fazendo trinta e cinco graus.",
+      "accepted": [
+        "Que calor hoje! Está fazendo trinta e cinco graus."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Que calor hoje! Está fazendo trinta e cinco graus.'",
+        "en": "The correct order: 'It is so hot today! It is thirty-five degrees.'",
+        "ar": "الترتيب الصحيح: 'يا له من حر اليوم! درجة الحرارة خمس وثلاثون درجة.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o tempo",
+          "en": "the sun",
+          "ar": "o tempo"
+        },
+        {
+          "pt": "o clima",
+          "en": "the climate",
+          "ar": "o clima"
+        },
+        {
+          "pt": "a nuvem",
+          "en": "the cloud",
+          "ar": "a nuvem"
+        },
+        {
+          "pt": "a chuva",
+          "en": "the rain",
+          "ar": "a chuva"
+        },
+        {
+          "pt": "chover",
+          "en": "the weather",
+          "ar": "chover"
+        },
+        {
+          "pt": "o sol",
+          "en": "to rain",
+          "ar": "o sol"
+        }
+      ],
+      "answer": "o tempo::the sun|o clima::the climate|a nuvem::the cloud|a chuva::the rain|chover::the weather|o sol::to rain",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Boa ideia! No verão chove muito aqui.",
+          "en": "It is so hot today! It is thirty-five degrees.",
+          "ar": "نعم، لكنها ستمطر في الليل."
+        },
+        {
+          "pt": "Que calor hoje! Está fazendo trinta e cinco graus.",
+          "en": "Good idea! In summer it rains a lot here.",
+          "ar": "فكرة جيدة! تمطر كثيرًا هنا في الصيف."
+        },
+        {
+          "pt": "Sim, mas à noite vai chover.",
+          "en": "Yes, but it is going to rain tonight.",
+          "ar": "يا له من حر اليوم! درجة الحرارة خمس وثلاثون درجة."
+        }
+      ],
+      "answer": "Que calor hoje! Está fazendo trinta e cinco graus.",
+      "accepted": [],
+      "audio": "Que calor hoje! Está fazendo trinta e cinco graus.",
+      "explanation": {
+        "pt": "Você ouviu: 'Que calor hoje! Está fazendo trinta e cinco graus.' — 'It is so hot today! It is thirty-five degrees.'",
+        "en": "You heard: 'Que calor hoje! Está fazendo trinta e cinco graus.' — 'It is so hot today! It is thirty-five degrees.'",
+        "ar": "سمعت: 'Que calor hoje! Está fazendo trinta e cinco graus.' — 'يا له من حر اليوم! درجة الحرارة خمس وثلاثون درجة.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Como você sabe?",
+          "en": "Yes, but it is going to rain tonight.",
+          "ar": "إذن سآخذ المظلة."
+        },
+        {
+          "pt": "Então vou levar o guarda-chuva.",
+          "en": "Then I will take the umbrella.",
+          "ar": "كيف تعرف؟"
+        },
+        {
+          "pt": "Sim, mas à noite vai chover.",
+          "en": "How do you know?",
+          "ar": "نعم، لكنها ستمطر في الليل."
+        }
+      ],
+      "answer": "Sim, mas à noite vai chover.",
+      "accepted": [],
+      "audio": "Sim, mas à noite vai chover.",
+      "explanation": {
+        "pt": "Você ouviu: 'Sim, mas à noite vai chover.' — 'Yes, but it is going to rain tonight.'",
+        "en": "You heard: 'Sim, mas à noite vai chover.' — 'Yes, but it is going to rain tonight.'",
+        "ar": "سمعت: 'Sim, mas à noite vai chover.' — 'نعم، لكنها ستمطر في الليل.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "trinta",
+          "en": "trinta",
+          "ar": "trinta"
+        },
+        {
+          "pt": "Está",
+          "en": "Está",
+          "ar": "Está"
+        },
+        {
+          "pt": "calor",
+          "en": "calor",
+          "ar": "calor"
+        },
+        {
+          "pt": "hoje!",
+          "en": "hoje!",
+          "ar": "hoje!"
+        },
+        {
+          "pt": "cinco",
+          "en": "cinco",
+          "ar": "cinco"
+        },
+        {
+          "pt": "graus.",
+          "en": "graus.",
+          "ar": "graus."
+        },
+        {
+          "pt": "Que",
+          "en": "Que",
+          "ar": "Que"
+        },
+        {
+          "pt": "fazendo",
+          "en": "fazendo",
+          "ar": "fazendo"
+        },
+        {
+          "pt": "e",
+          "en": "e",
+          "ar": "e"
+        }
+      ],
+      "answer": "Que calor hoje! Está fazendo trinta e cinco graus.",
+      "accepted": [
+        "Que calor hoje! Está fazendo trinta e cinco graus."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Que calor hoje! Está fazendo trinta e cinco graus.'",
+        "en": "The correct order: 'It is so hot today! It is thirty-five degrees.'",
+        "ar": "الترتيب الصحيح: 'يا له من حر اليوم! درجة الحرارة خمس وثلاثون درجة.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o clima",
+          "en": "the climate",
+          "ar": "o clima"
+        },
+        {
+          "pt": "chover",
+          "en": "the sun",
+          "ar": "chover"
+        },
+        {
+          "pt": "a nuvem",
+          "en": "to rain",
+          "ar": "a nuvem"
+        },
+        {
+          "pt": "a chuva",
+          "en": "the weather",
+          "ar": "a chuva"
+        },
+        {
+          "pt": "o sol",
+          "en": "the cloud",
+          "ar": "o sol"
+        },
+        {
+          "pt": "o tempo",
+          "en": "the rain",
+          "ar": "o tempo"
+        }
+      ],
+      "answer": "o clima::the climate|chover::the sun|a nuvem::to rain|a chuva::the weather|o sol::the cloud|o tempo::the rain",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Como você sabe?",
+          "en": "It is so hot today! It is thirty-five degrees.",
+          "ar": "يا له من حر اليوم! درجة الحرارة خمس وثلاثون درجة."
+        },
+        {
+          "pt": "Boa ideia! No verão chove muito aqui.",
+          "en": "Good idea! In summer it rains a lot here.",
+          "ar": "كيف تعرف؟"
+        },
+        {
+          "pt": "Que calor hoje! Está fazendo trinta e cinco graus.",
+          "en": "How do you know?",
+          "ar": "فكرة جيدة! تمطر كثيرًا هنا في الصيف."
+        }
+      ],
+      "answer": "Que calor hoje! Está fazendo trinta e cinco graus.",
+      "accepted": [],
+      "audio": "Que calor hoje! Está fazendo trinta e cinco graus.",
+      "explanation": {
+        "pt": "Você ouviu: 'Que calor hoje! Está fazendo trinta e cinco graus.' — 'It is so hot today! It is thirty-five degrees.'",
+        "en": "You heard: 'Que calor hoje! Está fazendo trinta e cinco graus.' — 'It is so hot today! It is thirty-five degrees.'",
+        "ar": "سمعت: 'Que calor hoje! Está fazendo trinta e cinco graus.' — 'يا له من حر اليوم! درجة الحرارة خمس وثلاثون درجة.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Que calor hoje! Está fazendo trinta e cinco graus.",
+          "en": "How do you know?",
+          "ar": "يا له من حر اليوم! درجة الحرارة خمس وثلاثون درجة."
+        },
+        {
+          "pt": "Sim, mas à noite vai chover.",
+          "en": "Yes, but it is going to rain tonight.",
+          "ar": "كيف تعرف؟"
+        },
+        {
+          "pt": "Como você sabe?",
+          "en": "It is so hot today! It is thirty-five degrees.",
+          "ar": "نعم، لكنها ستمطر في الليل."
+        }
+      ],
+      "answer": "Sim, mas à noite vai chover.",
+      "accepted": [],
+      "audio": "Sim, mas à noite vai chover.",
+      "explanation": {
+        "pt": "Você ouviu: 'Sim, mas à noite vai chover.' — 'Yes, but it is going to rain tonight.'",
+        "en": "You heard: 'Sim, mas à noite vai chover.' — 'Yes, but it is going to rain tonight.'",
+        "ar": "سمعت: 'Sim, mas à noite vai chover.' — 'نعم، لكنها ستمطر في الليل.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "hoje!",
+          "en": "hoje!",
+          "ar": "hoje!"
+        },
+        {
+          "pt": "graus.",
+          "en": "graus.",
+          "ar": "graus."
+        },
+        {
+          "pt": "calor",
+          "en": "calor",
+          "ar": "calor"
+        },
+        {
+          "pt": "Está",
+          "en": "Está",
+          "ar": "Está"
+        },
+        {
+          "pt": "Que",
+          "en": "Que",
+          "ar": "Que"
+        },
+        {
+          "pt": "fazendo",
+          "en": "fazendo",
+          "ar": "fazendo"
+        },
+        {
+          "pt": "e",
+          "en": "e",
+          "ar": "e"
+        },
+        {
+          "pt": "cinco",
+          "en": "cinco",
+          "ar": "cinco"
+        },
+        {
+          "pt": "trinta",
+          "en": "trinta",
+          "ar": "trinta"
+        }
+      ],
+      "answer": "Que calor hoje! Está fazendo trinta e cinco graus.",
+      "accepted": [
+        "Que calor hoje! Está fazendo trinta e cinco graus."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Que calor hoje! Está fazendo trinta e cinco graus.'",
+        "en": "The correct order: 'It is so hot today! It is thirty-five degrees.'",
+        "ar": "الترتيب الصحيح: 'يا له من حر اليوم! درجة الحرارة خمس وثلاثون درجة.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a chuva",
+          "en": "to rain",
+          "ar": "a chuva"
+        },
+        {
+          "pt": "o clima",
+          "en": "the sun",
+          "ar": "o clima"
+        },
+        {
+          "pt": "chover",
+          "en": "the cloud",
+          "ar": "chover"
+        },
+        {
+          "pt": "a nuvem",
+          "en": "the rain",
+          "ar": "a nuvem"
+        },
+        {
+          "pt": "o tempo",
+          "en": "the climate",
+          "ar": "o tempo"
+        },
+        {
+          "pt": "o sol",
+          "en": "the weather",
+          "ar": "o sol"
+        }
+      ],
+      "answer": "a chuva::to rain|o clima::the sun|chover::the cloud|a nuvem::the rain|o tempo::the climate|o sol::the weather",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Boa ideia! No verão chove muito aqui.",
+          "en": "It is so hot today! It is thirty-five degrees.",
+          "ar": "السماء مليئة بالغيوم والرياح قوية."
+        },
+        {
+          "pt": "Que calor hoje! Está fazendo trinta e cinco graus.",
+          "en": "The sky is full of clouds and the wind is strong.",
+          "ar": "يا له من حر اليوم! درجة الحرارة خمس وثلاثون درجة."
+        },
+        {
+          "pt": "O céu está cheio de nuvens e o vento está forte.",
+          "en": "Good idea! In summer it rains a lot here.",
+          "ar": "فكرة جيدة! تمطر كثيرًا هنا في الصيف."
+        }
+      ],
+      "answer": "Que calor hoje! Está fazendo trinta e cinco graus.",
+      "accepted": [],
+      "audio": "Que calor hoje! Está fazendo trinta e cinco graus.",
+      "explanation": {
+        "pt": "Você ouviu: 'Que calor hoje! Está fazendo trinta e cinco graus.' — 'It is so hot today! It is thirty-five degrees.'",
+        "en": "You heard: 'Que calor hoje! Está fazendo trinta e cinco graus.' — 'It is so hot today! It is thirty-five degrees.'",
+        "ar": "سمعت: 'Que calor hoje! Está fazendo trinta e cinco graus.' — 'يا له من حر اليوم! درجة الحرارة خمس وثلاثون درجة.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim, mas à noite vai chover.",
+          "en": "Then I will take the umbrella.",
+          "ar": "السماء مليئة بالغيوم والرياح قوية."
+        },
+        {
+          "pt": "O céu está cheio de nuvens e o vento está forte.",
+          "en": "Yes, but it is going to rain tonight.",
+          "ar": "إذن سآخذ المظلة."
+        },
+        {
+          "pt": "Então vou levar o guarda-chuva.",
+          "en": "The sky is full of clouds and the wind is strong.",
+          "ar": "نعم، لكنها ستمطر في الليل."
+        }
+      ],
+      "answer": "Sim, mas à noite vai chover.",
+      "accepted": [],
+      "audio": "Sim, mas à noite vai chover.",
+      "explanation": {
+        "pt": "Você ouviu: 'Sim, mas à noite vai chover.' — 'Yes, but it is going to rain tonight.'",
+        "en": "You heard: 'Sim, mas à noite vai chover.' — 'Yes, but it is going to rain tonight.'",
+        "ar": "سمعت: 'Sim, mas à noite vai chover.' — 'نعم، لكنها ستمطر في الليل.'"
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'the climate'",
+        "en": "Type in Portuguese: 'the climate'",
+        "ar": "اكتب بالبرتغالية: 'المناخ'"
+      },
+      "options": [],
+      "answer": "o clima",
+      "accepted": [
+        "o clima"
+      ],
+      "explanation": {
+        "pt": "'o clima' significa 'the climate'.",
+        "en": "'o clima' means 'the climate'.",
+        "ar": "'$o clima' بالعربية: '$المناخ'."
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'the weather'",
+        "en": "Type in Portuguese: 'the weather'",
+        "ar": "اكتب بالبرتغالية: 'الطقس'"
+      },
+      "options": [],
+      "answer": "o tempo",
+      "accepted": [
+        "o tempo"
+      ],
+      "explanation": {
+        "pt": "'o tempo' significa 'the weather'.",
+        "en": "'o tempo' means 'the weather'.",
+        "ar": "'$o tempo' بالعربية: '$الطقس'."
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Sim, mas à noite vai chover.",
+          "en": "Sim, mas à noite vai chover.",
+          "ar": "Sim, mas à noite vai chover."
+        },
+        {
+          "pt": "O céu está cheio de nuvens e o vento está forte.",
+          "en": "O céu está cheio de nuvens e o vento está forte.",
+          "ar": "O céu está cheio de nuvens e o vento está forte."
+        },
+        {
+          "pt": "Que calor hoje! Está fazendo trinta e cinco graus.",
+          "en": "Que calor hoje! Está fazendo trinta e cinco graus.",
+          "ar": "Que calor hoje! Está fazendo trinta e cinco graus."
+        }
+      ],
+      "answer": "Que calor hoje! Está fazendo trinta e cinco graus.",
+      "accepted": [],
+      "audio": "Que calor hoje! Está fazendo trinta e cinco graus.",
+      "explanation": {
+        "pt": "Você ouviu: 'Que calor hoje! Está fazendo trinta e cinco graus.'",
+        "en": "You heard: 'Que calor hoje! Está fazendo trinta e cinco graus.'",
+        "ar": "سمعت: 'Que calor hoje! Está fazendo trinta e cinco graus.'"
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Sim, mas à noite vai chover.",
+          "en": "Sim, mas à noite vai chover.",
+          "ar": "Sim, mas à noite vai chover."
+        },
+        {
+          "pt": "Então vou levar o guarda-chuva.",
+          "en": "Então vou levar o guarda-chuva.",
+          "ar": "Então vou levar o guarda-chuva."
+        },
+        {
+          "pt": "O céu está cheio de nuvens e o vento está forte.",
+          "en": "O céu está cheio de nuvens e o vento está forte.",
+          "ar": "O céu está cheio de nuvens e o vento está forte."
+        }
+      ],
+      "answer": "Sim, mas à noite vai chover.",
+      "accepted": [],
+      "audio": "Sim, mas à noite vai chover.",
+      "explanation": {
+        "pt": "Você ouviu: 'Sim, mas à noite vai chover.'",
+        "en": "You heard: 'Sim, mas à noite vai chover.'",
+        "ar": "سمعت: 'Sim, mas à noite vai chover.'"
+      }
+    },
+    {
+      "type": "dictation",
+      "prompt": {
+        "pt": "Ouça e escreva o que você ouviu.",
+        "en": "Listen and type what you hear.",
+        "ar": "استمع واكتب ما سمعته."
+      },
+      "options": [],
+      "answer": "Que calor hoje! Está fazendo trinta e cinco graus.",
+      "accepted": [],
+      "audio": "Que calor hoje! Está fazendo trinta e cinco graus.",
+      "explanation": {
+        "pt": "A frase correta: 'Que calor hoje! Está fazendo trinta e cinco graus.'",
+        "en": "The correct sentence: 'Que calor hoje! Está fazendo trinta e cinco graus.'",
+        "ar": "الجملة الصحيحة: 'Que calor hoje! Está fazendo trinta e cinco graus.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "e",
+          "en": "e",
+          "ar": "e"
+        },
+        {
+          "pt": "calor",
+          "en": "calor",
+          "ar": "calor"
+        },
+        {
+          "pt": "cinco",
+          "en": "cinco",
+          "ar": "cinco"
+        },
+        {
+          "pt": "Que",
+          "en": "Que",
+          "ar": "Que"
+        },
+        {
+          "pt": "fazendo",
+          "en": "fazendo",
+          "ar": "fazendo"
+        },
+        {
+          "pt": "hoje!",
+          "en": "hoje!",
+          "ar": "hoje!"
+        },
+        {
+          "pt": "Está",
+          "en": "Está",
+          "ar": "Está"
+        },
+        {
+          "pt": "graus.",
+          "en": "graus.",
+          "ar": "graus."
+        },
+        {
+          "pt": "trinta",
+          "en": "trinta",
+          "ar": "trinta"
+        }
+      ],
+      "answer": "Que calor hoje! Está fazendo trinta e cinco graus.",
+      "accepted": [
+        "Que calor hoje! Está fazendo trinta e cinco graus."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Que calor hoje! Está fazendo trinta e cinco graus.'",
+        "en": "The correct order: 'It is so hot today! It is thirty-five degrees.'",
+        "ar": "الترتيب الصحيح: 'يا له من حر اليوم! درجة الحرارة خمس وثلاثون درجة.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "chover",
+          "en": "the cloud",
+          "ar": "chover"
+        },
+        {
+          "pt": "a chuva",
+          "en": "the weather",
+          "ar": "a chuva"
+        },
+        {
+          "pt": "a nuvem",
+          "en": "to rain",
+          "ar": "a nuvem"
+        },
+        {
+          "pt": "o clima",
+          "en": "the sun",
+          "ar": "o clima"
+        },
+        {
+          "pt": "o tempo",
+          "en": "the climate",
+          "ar": "o tempo"
+        },
+        {
+          "pt": "o sol",
+          "en": "the rain",
+          "ar": "o sol"
+        }
+      ],
+      "answer": "chover::the cloud|a chuva::the weather|a nuvem::to rain|o clima::the sun|o tempo::the climate|o sol::the rain",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim, mas à noite vai chover.",
+          "en": "Yes, but it is going to rain tonight.",
+          "ar": "فكرة جيدة! تمطر كثيرًا هنا في الصيف."
+        },
+        {
+          "pt": "Boa ideia! No verão chove muito aqui.",
+          "en": "Good idea! In summer it rains a lot here.",
+          "ar": "نعم، لكنها ستمطر في الليل."
+        },
+        {
+          "pt": "Que calor hoje! Está fazendo trinta e cinco graus.",
+          "en": "It is so hot today! It is thirty-five degrees.",
+          "ar": "يا له من حر اليوم! درجة الحرارة خمس وثلاثون درجة."
+        }
+      ],
+      "answer": "Que calor hoje! Está fazendo trinta e cinco graus.",
+      "accepted": [],
+      "audio": "Que calor hoje! Está fazendo trinta e cinco graus.",
+      "explanation": {
+        "pt": "Você ouviu: 'Que calor hoje! Está fazendo trinta e cinco graus.' — 'It is so hot today! It is thirty-five degrees.'",
+        "en": "You heard: 'Que calor hoje! Está fazendo trinta e cinco graus.' — 'It is so hot today! It is thirty-five degrees.'",
+        "ar": "سمعت: 'Que calor hoje! Está fazendo trinta e cinco graus.' — 'يا له من حر اليوم! درجة الحرارة خمس وثلاثون درجة.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim, mas à noite vai chover.",
+          "en": "How do you know?",
+          "ar": "كيف تعرف؟"
+        },
+        {
+          "pt": "Como você sabe?",
+          "en": "Yes, but it is going to rain tonight.",
+          "ar": "فكرة جيدة! تمطر كثيرًا هنا في الصيف."
+        },
+        {
+          "pt": "Boa ideia! No verão chove muito aqui.",
+          "en": "Good idea! In summer it rains a lot here.",
+          "ar": "نعم، لكنها ستمطر في الليل."
+        }
+      ],
+      "answer": "Sim, mas à noite vai chover.",
+      "accepted": [],
+      "audio": "Sim, mas à noite vai chover.",
+      "explanation": {
+        "pt": "Você ouviu: 'Sim, mas à noite vai chover.' — 'Yes, but it is going to rain tonight.'",
+        "en": "You heard: 'Sim, mas à noite vai chover.' — 'Yes, but it is going to rain tonight.'",
+        "ar": "سمعت: 'Sim, mas à noite vai chover.' — 'نعم، لكنها ستمطر في الليل.'"
+      }
+    }
+  ],
+  "speaking": {
+    "title": {
+      "pt": "Fale Agora — Ouça e Repita",
+      "en": "Speak Now — Listen and Repeat",
+      "ar": "تحدث الآن — استمع وكرر"
+    },
+    "phrases": [
+      {
+        "pt": "Que calor hoje! Está fazendo trinta e cinco graus.",
+        "en": "It is so hot today! It is thirty-five degrees.",
+        "ar": "يا له من حر اليوم! درجة الحرارة خمس وثلاثون درجة."
+      },
+      {
+        "pt": "Sim, mas à noite vai chover.",
+        "en": "Yes, but it is going to rain tonight.",
+        "ar": "نعم، لكنها ستمطر في الليل."
+      },
+      {
+        "pt": "Como você sabe?",
+        "en": "How do you know?",
+        "ar": "كيف تعرف؟"
+      },
+      {
+        "pt": "O céu está cheio de nuvens e o vento está forte.",
+        "en": "The sky is full of clouds and the wind is strong.",
+        "ar": "السماء مليئة بالغيوم والرياح قوية."
+      },
+      {
+        "pt": "Então vou levar o guarda-chuva.",
+        "en": "Then I will take the umbrella.",
+        "ar": "إذن سآخذ المظلة."
+      },
+      {
+        "pt": "Boa ideia! No verão chove muito aqui.",
+        "en": "Good idea! In summer it rains a lot here.",
+        "ar": "فكرة جيدة! تمطر كثيرًا هنا في الصيف."
+      },
+      {
+        "pt": "o clima",
+        "en": "the climate",
+        "ar": "المناخ"
+      },
+      {
+        "pt": "o tempo",
+        "en": "the weather",
+        "ar": "الطقس"
+      },
+      {
+        "pt": "a chuva",
+        "en": "the rain",
+        "ar": "المطر"
+      }
+    ]
+  },
+  "cultural_tips": {
+    "pt": "",
+    "en": "",
+    "ar": ""
+  }
+}

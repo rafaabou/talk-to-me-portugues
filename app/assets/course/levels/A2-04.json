@@ -1,0 +1,2011 @@
+{
+  "id": "A2-04",
+  "level": "A2",
+  "level_name": {
+    "pt": "Básico",
+    "en": "Elementary",
+    "ar": "أساسي"
+  },
+  "title": {
+    "pt": "Viajando pelo Brasil",
+    "en": "Traveling through Brazil",
+    "ar": "السفر في البرازيل"
+  },
+  "objectives": [
+    {
+      "pt": "Falar sobre viagens e meios de transporte",
+      "en": "Talk about trips and means of transport",
+      "ar": "التحدث عن السفر ووسائل النقل"
+    },
+    {
+      "pt": "Pedir informações no aeroporto e no hotel",
+      "en": "Ask for information at the airport and hotel",
+      "ar": "طلب المعلومات في المطار والفندق"
+    },
+    {
+      "pt": "Nomear lugares e atrações turísticas do Brasil",
+      "en": "Name places and tourist attractions in Brazil",
+      "ar": "تسمية الأماكن والمعالم السياحية في البرازيل"
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "a viagem",
+      "ipa": "/a viˈa.ʒẽj/",
+      "en": "the trip",
+      "ar": "الرحلة",
+      "example": {
+        "pt": "A que horas sai o voo para Salvador?",
+        "en": "What time does the flight to Salvador leave?",
+        "ar": "في أي ساعة تغادر الرحلة إلى سالفادور؟"
+      }
+    },
+    {
+      "pt": "viajar",
+      "ipa": "/vi.aˈʒaʁ/",
+      "en": "to travel",
+      "ar": "يسافر",
+      "example": {
+        "pt": "Nós vamos viajar de ônibus.",
+        "en": "We are going to travel by bus.",
+        "ar": "سنسافر بالحافلة."
+      }
+    },
+    {
+      "pt": "a passagem",
+      "ipa": "/a paˈsa.ʒẽj/",
+      "en": "the ticket",
+      "ar": "التذكرة",
+      "example": {
+        "pt": "A que horas sai o voo para Salvador?",
+        "en": "What time does the flight to Salvador leave?",
+        "ar": "في أي ساعة تغادر الرحلة إلى سالفادور؟"
+      }
+    },
+    {
+      "pt": "o aeroporto",
+      "ipa": "/u a.e.ɾoˈpɔʁ.tu/",
+      "en": "the airport",
+      "ar": "المطار",
+      "example": {
+        "pt": "Com licença, onde fica o portão de embarque?",
+        "en": "Excuse me, where is the boarding gate?",
+        "ar": "عذرًا، أين بوابة الصعود إلى الطائرة؟"
+      }
+    },
+    {
+      "pt": "a mala",
+      "ipa": "/a ˈma.la/",
+      "en": "the suitcase",
+      "ar": "الحقيبة",
+      "example": {
+        "pt": "A que horas sai o voo para Salvador?",
+        "en": "What time does the flight to Salvador leave?",
+        "ar": "في أي ساعة تغادر الرحلة إلى سالفادور؟"
+      }
+    },
+    {
+      "pt": "o voo",
+      "ipa": "/u ˈvo.u/",
+      "en": "the flight",
+      "ar": "الرحلة الجوية",
+      "example": {
+        "pt": "Com licença, onde fica o portão de embarque?",
+        "en": "Excuse me, where is the boarding gate?",
+        "ar": "عذرًا، أين بوابة الصعود إلى الطائرة؟"
+      }
+    },
+    {
+      "pt": "o hotel",
+      "ipa": "/u oˈtɛw/",
+      "en": "the hotel",
+      "ar": "الفندق",
+      "example": {
+        "pt": "Com licença, onde fica o portão de embarque?",
+        "en": "Excuse me, where is the boarding gate?",
+        "ar": "عذرًا، أين بوابة الصعود إلى الطائرة؟"
+      }
+    },
+    {
+      "pt": "reservar",
+      "ipa": "/ʁe.zeʁˈvaʁ/",
+      "en": "to reserve",
+      "ar": "يحجز",
+      "example": {
+        "pt": "Com licença, onde fica o portão de embarque?",
+        "en": "Excuse me, where is the boarding gate?",
+        "ar": "عذرًا، أين بوابة الصعود إلى الطائرة؟"
+      }
+    },
+    {
+      "pt": "a praia",
+      "ipa": "/a ˈpɾaj.a/",
+      "en": "the beach",
+      "ar": "الشاطئ",
+      "example": {
+        "pt": "A que horas sai o voo para Salvador?",
+        "en": "What time does the flight to Salvador leave?",
+        "ar": "في أي ساعة تغادر الرحلة إلى سالفادور؟"
+      }
+    },
+    {
+      "pt": "a cachoeira",
+      "ipa": "/a ka.ʃoˈej.ɾa/",
+      "en": "the waterfall",
+      "ar": "الشلال",
+      "example": {
+        "pt": "A que horas sai o voo para Salvador?",
+        "en": "What time does the flight to Salvador leave?",
+        "ar": "في أي ساعة تغادر الرحلة إلى سالفادور؟"
+      }
+    },
+    {
+      "pt": "o guia",
+      "ipa": "/u ˈɡi.a/",
+      "en": "the guide",
+      "ar": "الدليل",
+      "example": {
+        "pt": "Com licença, onde fica o portão de embarque?",
+        "en": "Excuse me, where is the boarding gate?",
+        "ar": "عذرًا، أين بوابة الصعود إلى الطائرة؟"
+      }
+    },
+    {
+      "pt": "a entrada",
+      "ipa": "/a ẽˈtɾa.da/",
+      "en": "the entrance / ticket",
+      "ar": "الدخول",
+      "example": {
+        "pt": "A que horas sai o voo para Salvador?",
+        "en": "What time does the flight to Salvador leave?",
+        "ar": "في أي ساعة تغادر الرحلة إلى سالفادور؟"
+      }
+    },
+    {
+      "pt": "o turista",
+      "ipa": "/u tuˈɾis.ta/",
+      "en": "the tourist",
+      "ar": "السائح",
+      "example": {
+        "pt": "Com licença, onde fica o portão de embarque?",
+        "en": "Excuse me, where is the boarding gate?",
+        "ar": "عذرًا، أين بوابة الصعود إلى الطائرة؟"
+      }
+    },
+    {
+      "pt": "o rio",
+      "ipa": "/u ˈʁi.u/",
+      "en": "the river",
+      "ar": "النهر",
+      "example": {
+        "pt": "Com licença, onde fica o portão de embarque?",
+        "en": "Excuse me, where is the boarding gate?",
+        "ar": "عذرًا، أين بوابة الصعود إلى الطائرة؟"
+      }
+    },
+    {
+      "pt": "o passeio",
+      "ipa": "/u paˈsej.u/",
+      "en": "the tour",
+      "ar": "الجولة",
+      "example": {
+        "pt": "Com licença, onde fica o portão de embarque?",
+        "en": "Excuse me, where is the boarding gate?",
+        "ar": "عذرًا، أين بوابة الصعود إلى الطائرة؟"
+      }
+    },
+    {
+      "pt": "o destino",
+      "ipa": "/u dʒisˈtʃi.nu/",
+      "en": "the destination",
+      "ar": "الوجهة",
+      "example": {
+        "pt": "Com licença, onde fica o portão de embarque?",
+        "en": "Excuse me, where is the boarding gate?",
+        "ar": "عذرًا، أين بوابة الصعود إلى الطائرة؟"
+      }
+    },
+    {
+      "pt": "o ônibus",
+      "ipa": "/u ˈõ.ni.bus/",
+      "en": "the bus",
+      "ar": "الحافلة",
+      "example": {
+        "pt": "Com licença, onde fica o portão de embarque?",
+        "en": "Excuse me, where is the boarding gate?",
+        "ar": "عذرًا، أين بوابة الصعود إلى الطائرة؟"
+      }
+    },
+    {
+      "pt": "de avião",
+      "ipa": "/dʒi a.viˈɐ̃w/",
+      "en": "by plane",
+      "ar": "بالطائرة",
+      "example": {
+        "pt": "Com licença, onde fica o portão de embarque?",
+        "en": "Excuse me, where is the boarding gate?",
+        "ar": "عذرًا، أين بوابة الصعود إلى الطائرة؟"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "title": {
+        "pt": "Meios de Transporte e Preposições",
+        "en": "Means of Transport and Prepositions",
+        "ar": "وسائل النقل وحروف الجر"
+      },
+      "explanation": {
+        "pt": "Para viajar, usamos 'de' com meios de transporte: de avião (by plane), de ônibus (by bus), de trem (by train), de carro (by car). 'Vou para São Paulo de avião.' Com destinos: 'para' (movimento) e 'em' (localização): 'Chego em Recife às três horas.'",
+        "en": "To travel, we use 'de' with means of transport: de avião (by plane), de ônibus (by bus), de trem (by train), de carro (by car). 'Vou para São Paulo de avião.' With destinations: 'para' (movement) and 'em' (location): 'Chego em Recife às três horas.'",
+        "ar": "للسفر، نستخدم 'de' مع وسائل النقل: de avião (بالطائرة)، de ônibus (بالحافلة)، de trem (بالقطار)، de carro (بالسيارة). 'Vou para São Paulo de avião.' مع الوجهات: 'para' (حركة) و 'em' (مكان): 'Chego em Recife às três horas.'"
+      },
+      "examples": [
+        {
+          "pt": "Nós vamos viajar de ônibus.",
+          "en": "We are going to travel by bus.",
+          "ar": "سنسافر بالحافلة."
+        },
+        {
+          "pt": "O voo chega ao Rio de manhã.",
+          "en": "The flight arrives in Rio in the morning.",
+          "ar": "تصل الرحلة إلى ريو في الصباح."
+        },
+        {
+          "pt": "Eu reservo o hotel em Salvador.",
+          "en": "I book the hotel in Salvador.",
+          "ar": "أحجز الفندق في سالفادور."
+        }
+      ]
+    },
+    {
+      "title": {
+        "pt": "Pedindo Informações na Viagem",
+        "en": "Asking for Information While Traveling",
+        "ar": "طلب المعلومات أثناء السفر"
+      },
+      "explanation": {
+        "pt": "Para pedir informações: 'Onde fica...?' (Where is...?), 'Como chego ao...?' (How do I get to...?), 'A que horas sai o ônibus?' (What time does the bus leave?). Respostas: 'Fica perto', 'É a duas quadras', 'Fica longe?'",
+        "en": "To ask for information: 'Onde fica...?' (Where is...?), 'Como chego ao...?' (How do I get to...?), 'A que horas sai o ônibus?' (What time does the bus leave?). Answers: 'Fica perto' (It is near), 'É a duas quadras' (It is two blocks away), 'Fica longe?' (Is it far?)",
+        "ar": "لطلب المعلومات: 'Onde fica...?' (أين يقع...؟)، 'Como chego ao...?' (كيف أصل إلى...؟)، 'A que horas sai o ônibus?' (في أي ساعة تغادر الحافلة؟). الإجابات: 'Fica perto' (إنه قريب)، 'É a duas quadras' (على بعد مبنيين)، 'Fica longe?' (هل هو بعيد؟)"
+      },
+      "examples": [
+        {
+          "pt": "Onde fica o aeroporto?",
+          "en": "Where is the airport?",
+          "ar": "أين يقع المطار؟"
+        },
+        {
+          "pt": "Como chego à praia?",
+          "en": "How do I get to the beach?",
+          "ar": "كيف أصل إلى الشاطئ؟"
+        },
+        {
+          "pt": "A que horas sai o trem?",
+          "en": "What time does the train leave?",
+          "ar": "في أي ساعة يغادر القطار؟"
+        }
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": {
+      "pt": "No Aeroporto",
+      "en": "At the Airport",
+      "ar": "في المطار"
+    },
+    "lines": [
+      {
+        "speaker": "Turista",
+        "pt": "Com licença, onde fica o portão de embarque?",
+        "en": "Excuse me, where is the boarding gate?",
+        "ar": "عذرًا، أين بوابة الصعود إلى الطائرة؟"
+      },
+      {
+        "speaker": "Funcionário",
+        "pt": "Fica no segundo andar, à direita.",
+        "en": "It is on the second floor, to the right.",
+        "ar": "إنها في الطابق الثاني، على اليمين."
+      },
+      {
+        "speaker": "Turista",
+        "pt": "A que horas sai o voo para Salvador?",
+        "en": "What time does the flight to Salvador leave?",
+        "ar": "في أي ساعة تغادر الرحلة إلى سالفادور؟"
+      },
+      {
+        "speaker": "Funcionário",
+        "pt": "O voo sai às dez e meia.",
+        "en": "The flight leaves at ten thirty.",
+        "ar": "تغادر الرحلة في العاشرة والنصف."
+      },
+      {
+        "speaker": "Turista",
+        "pt": "E o ônibus para o hotel?",
+        "en": "And the bus to the hotel?",
+        "ar": "والحافلة إلى الفندق؟"
+      },
+      {
+        "speaker": "Funcionário",
+        "pt": "O ônibus fica em frente ao aeroporto. Boa viagem!",
+        "en": "The bus is in front of the airport. Have a good trip!",
+        "ar": "الحافلة أمام المطار. رحلة سعيدة!"
+      }
+    ]
+  },
+  "reading": {
+    "title": {
+      "pt": "Uma Viagem pelo Brasil",
+      "en": "A Trip through Brazil",
+      "ar": "رحلة عبر البرازيل"
+    },
+    "text_pt": "No verão passado, Ana fez uma viagem incrível pelo Brasil. Ela voou para Salvador, passeou no centro histórico e depois foi de ônibus para a Chapada Diamantina. Lá, ela visitou cachoeiras e nadou em rios de água clara. Ela já quer voltar no ano que vem.",
+    "text_en": "Last summer, Ana took an incredible trip through Brazil. She flew to Salvador, toured the historic center and then went by bus to Chapada Diamantina. There, she visited waterfalls and swam in clear-water rivers. She already wants to go back next year.",
+    "text_ar": "في الصيف الماضي، قامت آنا برحلة مذهلة عبر البرازيل. سافرت بالطائرة إلى سالفادور، وتجولت في المركز التاريخي ثم ذهبت بالحافلة إلى تشابادا ديامانتينا. هناك، زارت الشلالات وسبحت في أنهار ذات مياه صافية. إنها تريد العودة في العام القادم."
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Vou viajar ___ avião.",
+        "en": "I am going to travel ___ plane.",
+        "ar": "سأسافر ___ طائرة."
+      },
+      "options": [
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "para",
+          "en": "para",
+          "ar": "para"
+        },
+        {
+          "pt": "em",
+          "en": "em",
+          "ar": "em"
+        }
+      ],
+      "answer": "de",
+      "explanation": {
+        "pt": "Meio de transporte: de avião.",
+        "en": "Means of transport: de avião (by plane).",
+        "ar": "وسيلة النقل: de avião (بالطائرة)."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Onde ___ o hotel?",
+        "en": "Where ___ the hotel?",
+        "ar": "أين ___ الفندق؟"
+      },
+      "options": [
+        {
+          "pt": "fica",
+          "en": "fica",
+          "ar": "fica"
+        },
+        {
+          "pt": "fale",
+          "en": "fale",
+          "ar": "fale"
+        },
+        {
+          "pt": "chega",
+          "en": "chega",
+          "ar": "chega"
+        }
+      ],
+      "answer": "fica",
+      "explanation": {
+        "pt": "'Onde fica?' = Where is it located?",
+        "en": "'Onde fica?' = Where is it located?",
+        "ar": "'Onde fica?' = أين يقع؟"
+      }
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza: 'the airport'",
+        "en": "Translate: 'the airport'",
+        "ar": "ترجم: 'the airport'"
+      },
+      "options": [],
+      "answer": "o aeroporto",
+      "explanation": {
+        "pt": "'O aeroporto' = the airport.",
+        "en": "'O aeroporto' = the airport.",
+        "ar": "'o aeroporto' = المطار."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "licença,",
+          "en": "licença,",
+          "ar": "licença,"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "onde",
+          "en": "onde",
+          "ar": "onde"
+        },
+        {
+          "pt": "embarque?",
+          "en": "embarque?",
+          "ar": "embarque?"
+        },
+        {
+          "pt": "fica",
+          "en": "fica",
+          "ar": "fica"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "portão",
+          "en": "portão",
+          "ar": "portão"
+        },
+        {
+          "pt": "Com",
+          "en": "Com",
+          "ar": "Com"
+        }
+      ],
+      "answer": "Com licença, onde fica o portão de embarque?",
+      "accepted": [
+        "Com licença, onde fica o portão de embarque?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Com licença, onde fica o portão de embarque?'",
+        "en": "The correct order: 'Excuse me, where is the boarding gate?'",
+        "ar": "الترتيب الصحيح: 'عذرًا، أين بوابة الصعود إلى الطائرة؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a viagem",
+          "en": "the airport",
+          "ar": "a viagem"
+        },
+        {
+          "pt": "a mala",
+          "en": "the ticket",
+          "ar": "a mala"
+        },
+        {
+          "pt": "a passagem",
+          "en": "the suitcase",
+          "ar": "a passagem"
+        },
+        {
+          "pt": "viajar",
+          "en": "to travel",
+          "ar": "viajar"
+        },
+        {
+          "pt": "o voo",
+          "en": "the flight",
+          "ar": "o voo"
+        },
+        {
+          "pt": "o aeroporto",
+          "en": "the trip",
+          "ar": "o aeroporto"
+        }
+      ],
+      "answer": "a viagem::the airport|a mala::the ticket|a passagem::the suitcase|viajar::to travel|o voo::the flight|o aeroporto::the trip",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Com licença, onde fica o portão de embarque?",
+          "en": "Excuse me, where is the boarding gate?",
+          "ar": "عذرًا، أين بوابة الصعود إلى الطائرة؟"
+        },
+        {
+          "pt": "E o ônibus para o hotel?",
+          "en": "And the bus to the hotel?",
+          "ar": "الحافلة أمام المطار. رحلة سعيدة!"
+        },
+        {
+          "pt": "O ônibus fica em frente ao aeroporto. Boa viagem!",
+          "en": "The bus is in front of the airport. Have a good trip!",
+          "ar": "والحافلة إلى الفندق؟"
+        }
+      ],
+      "answer": "Com licença, onde fica o portão de embarque?",
+      "accepted": [],
+      "audio": "Com licença, onde fica o portão de embarque?",
+      "explanation": {
+        "pt": "Você ouviu: 'Com licença, onde fica o portão de embarque?' — 'Excuse me, where is the boarding gate?'",
+        "en": "You heard: 'Com licença, onde fica o portão de embarque?' — 'Excuse me, where is the boarding gate?'",
+        "ar": "سمعت: 'Com licença, onde fica o portão de embarque?' — 'عذرًا، أين بوابة الصعود إلى الطائرة؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Fica no segundo andar, à direita.",
+          "en": "The bus is in front of the airport. Have a good trip!",
+          "ar": "الحافلة أمام المطار. رحلة سعيدة!"
+        },
+        {
+          "pt": "O voo sai às dez e meia.",
+          "en": "It is on the second floor, to the right.",
+          "ar": "إنها في الطابق الثاني، على اليمين."
+        },
+        {
+          "pt": "O ônibus fica em frente ao aeroporto. Boa viagem!",
+          "en": "The flight leaves at ten thirty.",
+          "ar": "تغادر الرحلة في العاشرة والنصف."
+        }
+      ],
+      "answer": "Fica no segundo andar, à direita.",
+      "accepted": [],
+      "audio": "Fica no segundo andar, à direita.",
+      "explanation": {
+        "pt": "Você ouviu: 'Fica no segundo andar, à direita.' — 'It is on the second floor, to the right.'",
+        "en": "You heard: 'Fica no segundo andar, à direita.' — 'It is on the second floor, to the right.'",
+        "ar": "سمعت: 'Fica no segundo andar, à direita.' — 'إنها في الطابق الثاني، على اليمين.'"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Nós vamos ___ de ônibus.",
+        "en": "Nós vamos ___ de ônibus.",
+        "ar": "Nós vamos ___ de ônibus."
+      },
+      "options": [
+        {
+          "pt": "viajar",
+          "en": "viajar",
+          "ar": "viajar"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "Eu",
+          "en": "Eu",
+          "ar": "Eu"
+        }
+      ],
+      "answer": "viajar",
+      "accepted": [],
+      "explanation": {
+        "pt": "A resposta é 'viajar'. Frase completa: Nós vamos viajar de ônibus.",
+        "en": "The answer is 'viajar'. Full sentence: We are going to travel by bus.",
+        "ar": "الإجابة الصحيحة: 'viajar'. الجملة كاملة: سنسافر بالحافلة."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "embarque?",
+          "en": "embarque?",
+          "ar": "embarque?"
+        },
+        {
+          "pt": "portão",
+          "en": "portão",
+          "ar": "portão"
+        },
+        {
+          "pt": "licença,",
+          "en": "licença,",
+          "ar": "licença,"
+        },
+        {
+          "pt": "fica",
+          "en": "fica",
+          "ar": "fica"
+        },
+        {
+          "pt": "onde",
+          "en": "onde",
+          "ar": "onde"
+        },
+        {
+          "pt": "Com",
+          "en": "Com",
+          "ar": "Com"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        }
+      ],
+      "answer": "Com licença, onde fica o portão de embarque?",
+      "accepted": [
+        "Com licença, onde fica o portão de embarque?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Com licença, onde fica o portão de embarque?'",
+        "en": "The correct order: 'Excuse me, where is the boarding gate?'",
+        "ar": "الترتيب الصحيح: 'عذرًا، أين بوابة الصعود إلى الطائرة؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a mala",
+          "en": "to travel",
+          "ar": "a mala"
+        },
+        {
+          "pt": "o voo",
+          "en": "the ticket",
+          "ar": "o voo"
+        },
+        {
+          "pt": "a passagem",
+          "en": "the flight",
+          "ar": "a passagem"
+        },
+        {
+          "pt": "viajar",
+          "en": "the airport",
+          "ar": "viajar"
+        },
+        {
+          "pt": "o aeroporto",
+          "en": "the trip",
+          "ar": "o aeroporto"
+        },
+        {
+          "pt": "a viagem",
+          "en": "the suitcase",
+          "ar": "a viagem"
+        }
+      ],
+      "answer": "a mala::to travel|o voo::the ticket|a passagem::the flight|viajar::the airport|o aeroporto::the trip|a viagem::the suitcase",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Com licença, onde fica o portão de embarque?",
+          "en": "Excuse me, where is the boarding gate?",
+          "ar": "الحافلة أمام المطار. رحلة سعيدة!"
+        },
+        {
+          "pt": "O ônibus fica em frente ao aeroporto. Boa viagem!",
+          "en": "The flight leaves at ten thirty.",
+          "ar": "تغادر الرحلة في العاشرة والنصف."
+        },
+        {
+          "pt": "O voo sai às dez e meia.",
+          "en": "The bus is in front of the airport. Have a good trip!",
+          "ar": "عذرًا، أين بوابة الصعود إلى الطائرة؟"
+        }
+      ],
+      "answer": "Com licença, onde fica o portão de embarque?",
+      "accepted": [],
+      "audio": "Com licença, onde fica o portão de embarque?",
+      "explanation": {
+        "pt": "Você ouviu: 'Com licença, onde fica o portão de embarque?' — 'Excuse me, where is the boarding gate?'",
+        "en": "You heard: 'Com licença, onde fica o portão de embarque?' — 'Excuse me, where is the boarding gate?'",
+        "ar": "سمعت: 'Com licença, onde fica o portão de embarque?' — 'عذرًا، أين بوابة الصعود إلى الطائرة؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "A que horas sai o voo para Salvador?",
+          "en": "What time does the flight to Salvador leave?",
+          "ar": "في أي ساعة تغادر الرحلة إلى سالفادور؟"
+        },
+        {
+          "pt": "O voo sai às dez e meia.",
+          "en": "It is on the second floor, to the right.",
+          "ar": "إنها في الطابق الثاني، على اليمين."
+        },
+        {
+          "pt": "Fica no segundo andar, à direita.",
+          "en": "The flight leaves at ten thirty.",
+          "ar": "تغادر الرحلة في العاشرة والنصف."
+        }
+      ],
+      "answer": "Fica no segundo andar, à direita.",
+      "accepted": [],
+      "audio": "Fica no segundo andar, à direita.",
+      "explanation": {
+        "pt": "Você ouviu: 'Fica no segundo andar, à direita.' — 'It is on the second floor, to the right.'",
+        "en": "You heard: 'Fica no segundo andar, à direita.' — 'It is on the second floor, to the right.'",
+        "ar": "سمعت: 'Fica no segundo andar, à direita.' — 'إنها في الطابق الثاني، على اليمين.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "onde",
+          "en": "onde",
+          "ar": "onde"
+        },
+        {
+          "pt": "licença,",
+          "en": "licença,",
+          "ar": "licença,"
+        },
+        {
+          "pt": "portão",
+          "en": "portão",
+          "ar": "portão"
+        },
+        {
+          "pt": "fica",
+          "en": "fica",
+          "ar": "fica"
+        },
+        {
+          "pt": "Com",
+          "en": "Com",
+          "ar": "Com"
+        },
+        {
+          "pt": "embarque?",
+          "en": "embarque?",
+          "ar": "embarque?"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        }
+      ],
+      "answer": "Com licença, onde fica o portão de embarque?",
+      "accepted": [
+        "Com licença, onde fica o portão de embarque?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Com licença, onde fica o portão de embarque?'",
+        "en": "The correct order: 'Excuse me, where is the boarding gate?'",
+        "ar": "الترتيب الصحيح: 'عذرًا، أين بوابة الصعود إلى الطائرة؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o voo",
+          "en": "the ticket",
+          "ar": "o voo"
+        },
+        {
+          "pt": "viajar",
+          "en": "the trip",
+          "ar": "viajar"
+        },
+        {
+          "pt": "a passagem",
+          "en": "the airport",
+          "ar": "a passagem"
+        },
+        {
+          "pt": "o aeroporto",
+          "en": "the flight",
+          "ar": "o aeroporto"
+        },
+        {
+          "pt": "a viagem",
+          "en": "to travel",
+          "ar": "a viagem"
+        },
+        {
+          "pt": "a mala",
+          "en": "the suitcase",
+          "ar": "a mala"
+        }
+      ],
+      "answer": "o voo::the ticket|viajar::the trip|a passagem::the airport|o aeroporto::the flight|a viagem::to travel|a mala::the suitcase",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "E o ônibus para o hotel?",
+          "en": "Excuse me, where is the boarding gate?",
+          "ar": "عذرًا، أين بوابة الصعود إلى الطائرة؟"
+        },
+        {
+          "pt": "O ônibus fica em frente ao aeroporto. Boa viagem!",
+          "en": "And the bus to the hotel?",
+          "ar": "والحافلة إلى الفندق؟"
+        },
+        {
+          "pt": "Com licença, onde fica o portão de embarque?",
+          "en": "The bus is in front of the airport. Have a good trip!",
+          "ar": "الحافلة أمام المطار. رحلة سعيدة!"
+        }
+      ],
+      "answer": "Com licença, onde fica o portão de embarque?",
+      "accepted": [],
+      "audio": "Com licença, onde fica o portão de embarque?",
+      "explanation": {
+        "pt": "Você ouviu: 'Com licença, onde fica o portão de embarque?' — 'Excuse me, where is the boarding gate?'",
+        "en": "You heard: 'Com licença, onde fica o portão de embarque?' — 'Excuse me, where is the boarding gate?'",
+        "ar": "سمعت: 'Com licença, onde fica o portão de embarque?' — 'عذرًا، أين بوابة الصعود إلى الطائرة؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "O voo sai às dez e meia.",
+          "en": "It is on the second floor, to the right.",
+          "ar": "إنها في الطابق الثاني، على اليمين."
+        },
+        {
+          "pt": "Com licença, onde fica o portão de embarque?",
+          "en": "The flight leaves at ten thirty.",
+          "ar": "عذرًا، أين بوابة الصعود إلى الطائرة؟"
+        },
+        {
+          "pt": "Fica no segundo andar, à direita.",
+          "en": "Excuse me, where is the boarding gate?",
+          "ar": "تغادر الرحلة في العاشرة والنصف."
+        }
+      ],
+      "answer": "Fica no segundo andar, à direita.",
+      "accepted": [],
+      "audio": "Fica no segundo andar, à direita.",
+      "explanation": {
+        "pt": "Você ouviu: 'Fica no segundo andar, à direita.' — 'It is on the second floor, to the right.'",
+        "en": "You heard: 'Fica no segundo andar, à direita.' — 'It is on the second floor, to the right.'",
+        "ar": "سمعت: 'Fica no segundo andar, à direita.' — 'إنها في الطابق الثاني، على اليمين.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "portão",
+          "en": "portão",
+          "ar": "portão"
+        },
+        {
+          "pt": "fica",
+          "en": "fica",
+          "ar": "fica"
+        },
+        {
+          "pt": "embarque?",
+          "en": "embarque?",
+          "ar": "embarque?"
+        },
+        {
+          "pt": "onde",
+          "en": "onde",
+          "ar": "onde"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "licença,",
+          "en": "licença,",
+          "ar": "licença,"
+        },
+        {
+          "pt": "Com",
+          "en": "Com",
+          "ar": "Com"
+        }
+      ],
+      "answer": "Com licença, onde fica o portão de embarque?",
+      "accepted": [
+        "Com licença, onde fica o portão de embarque?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Com licença, onde fica o portão de embarque?'",
+        "en": "The correct order: 'Excuse me, where is the boarding gate?'",
+        "ar": "الترتيب الصحيح: 'عذرًا، أين بوابة الصعود إلى الطائرة؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a viagem",
+          "en": "the airport",
+          "ar": "a viagem"
+        },
+        {
+          "pt": "viajar",
+          "en": "the suitcase",
+          "ar": "viajar"
+        },
+        {
+          "pt": "a mala",
+          "en": "to travel",
+          "ar": "a mala"
+        },
+        {
+          "pt": "a passagem",
+          "en": "the ticket",
+          "ar": "a passagem"
+        },
+        {
+          "pt": "o voo",
+          "en": "the trip",
+          "ar": "o voo"
+        },
+        {
+          "pt": "o aeroporto",
+          "en": "the flight",
+          "ar": "o aeroporto"
+        }
+      ],
+      "answer": "a viagem::the airport|viajar::the suitcase|a mala::to travel|a passagem::the ticket|o voo::the trip|o aeroporto::the flight",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "O ônibus fica em frente ao aeroporto. Boa viagem!",
+          "en": "Excuse me, where is the boarding gate?",
+          "ar": "الحافلة أمام المطار. رحلة سعيدة!"
+        },
+        {
+          "pt": "Fica no segundo andar, à direita.",
+          "en": "It is on the second floor, to the right.",
+          "ar": "إنها في الطابق الثاني، على اليمين."
+        },
+        {
+          "pt": "Com licença, onde fica o portão de embarque?",
+          "en": "The bus is in front of the airport. Have a good trip!",
+          "ar": "عذرًا، أين بوابة الصعود إلى الطائرة؟"
+        }
+      ],
+      "answer": "Com licença, onde fica o portão de embarque?",
+      "accepted": [],
+      "audio": "Com licença, onde fica o portão de embarque?",
+      "explanation": {
+        "pt": "Você ouviu: 'Com licença, onde fica o portão de embarque?' — 'Excuse me, where is the boarding gate?'",
+        "en": "You heard: 'Com licença, onde fica o portão de embarque?' — 'Excuse me, where is the boarding gate?'",
+        "ar": "سمعت: 'Com licença, onde fica o portão de embarque?' — 'عذرًا، أين بوابة الصعود إلى الطائرة؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Com licença, onde fica o portão de embarque?",
+          "en": "What time does the flight to Salvador leave?",
+          "ar": "إنها في الطابق الثاني، على اليمين."
+        },
+        {
+          "pt": "Fica no segundo andar, à direita.",
+          "en": "It is on the second floor, to the right.",
+          "ar": "في أي ساعة تغادر الرحلة إلى سالفادور؟"
+        },
+        {
+          "pt": "A que horas sai o voo para Salvador?",
+          "en": "Excuse me, where is the boarding gate?",
+          "ar": "عذرًا، أين بوابة الصعود إلى الطائرة؟"
+        }
+      ],
+      "answer": "Fica no segundo andar, à direita.",
+      "accepted": [],
+      "audio": "Fica no segundo andar, à direita.",
+      "explanation": {
+        "pt": "Você ouviu: 'Fica no segundo andar, à direita.' — 'It is on the second floor, to the right.'",
+        "en": "You heard: 'Fica no segundo andar, à direita.' — 'It is on the second floor, to the right.'",
+        "ar": "سمعت: 'Fica no segundo andar, à direita.' — 'إنها في الطابق الثاني، على اليمين.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "Com",
+          "en": "Com",
+          "ar": "Com"
+        },
+        {
+          "pt": "portão",
+          "en": "portão",
+          "ar": "portão"
+        },
+        {
+          "pt": "embarque?",
+          "en": "embarque?",
+          "ar": "embarque?"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "fica",
+          "en": "fica",
+          "ar": "fica"
+        },
+        {
+          "pt": "onde",
+          "en": "onde",
+          "ar": "onde"
+        },
+        {
+          "pt": "licença,",
+          "en": "licença,",
+          "ar": "licença,"
+        }
+      ],
+      "answer": "Com licença, onde fica o portão de embarque?",
+      "accepted": [
+        "Com licença, onde fica o portão de embarque?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Com licença, onde fica o portão de embarque?'",
+        "en": "The correct order: 'Excuse me, where is the boarding gate?'",
+        "ar": "الترتيب الصحيح: 'عذرًا، أين بوابة الصعود إلى الطائرة؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a passagem",
+          "en": "the flight",
+          "ar": "a passagem"
+        },
+        {
+          "pt": "viajar",
+          "en": "to travel",
+          "ar": "viajar"
+        },
+        {
+          "pt": "o aeroporto",
+          "en": "the trip",
+          "ar": "o aeroporto"
+        },
+        {
+          "pt": "a mala",
+          "en": "the airport",
+          "ar": "a mala"
+        },
+        {
+          "pt": "a viagem",
+          "en": "the ticket",
+          "ar": "a viagem"
+        },
+        {
+          "pt": "o voo",
+          "en": "the suitcase",
+          "ar": "o voo"
+        }
+      ],
+      "answer": "a passagem::the flight|viajar::to travel|o aeroporto::the trip|a mala::the airport|a viagem::the ticket|o voo::the suitcase",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Com licença, onde fica o portão de embarque?",
+          "en": "And the bus to the hotel?",
+          "ar": "والحافلة إلى الفندق؟"
+        },
+        {
+          "pt": "A que horas sai o voo para Salvador?",
+          "en": "What time does the flight to Salvador leave?",
+          "ar": "في أي ساعة تغادر الرحلة إلى سالفادور؟"
+        },
+        {
+          "pt": "E o ônibus para o hotel?",
+          "en": "Excuse me, where is the boarding gate?",
+          "ar": "عذرًا، أين بوابة الصعود إلى الطائرة؟"
+        }
+      ],
+      "answer": "Com licença, onde fica o portão de embarque?",
+      "accepted": [],
+      "audio": "Com licença, onde fica o portão de embarque?",
+      "explanation": {
+        "pt": "Você ouviu: 'Com licença, onde fica o portão de embarque?' — 'Excuse me, where is the boarding gate?'",
+        "en": "You heard: 'Com licença, onde fica o portão de embarque?' — 'Excuse me, where is the boarding gate?'",
+        "ar": "سمعت: 'Com licença, onde fica o portão de embarque?' — 'عذرًا، أين بوابة الصعود إلى الطائرة؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Com licença, onde fica o portão de embarque?",
+          "en": "Excuse me, where is the boarding gate?",
+          "ar": "عذرًا، أين بوابة الصعود إلى الطائرة؟"
+        },
+        {
+          "pt": "O ônibus fica em frente ao aeroporto. Boa viagem!",
+          "en": "The bus is in front of the airport. Have a good trip!",
+          "ar": "إنها في الطابق الثاني، على اليمين."
+        },
+        {
+          "pt": "Fica no segundo andar, à direita.",
+          "en": "It is on the second floor, to the right.",
+          "ar": "الحافلة أمام المطار. رحلة سعيدة!"
+        }
+      ],
+      "answer": "Fica no segundo andar, à direita.",
+      "accepted": [],
+      "audio": "Fica no segundo andar, à direita.",
+      "explanation": {
+        "pt": "Você ouviu: 'Fica no segundo andar, à direita.' — 'It is on the second floor, to the right.'",
+        "en": "You heard: 'Fica no segundo andar, à direita.' — 'It is on the second floor, to the right.'",
+        "ar": "سمعت: 'Fica no segundo andar, à direita.' — 'إنها في الطابق الثاني، على اليمين.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "fica",
+          "en": "fica",
+          "ar": "fica"
+        },
+        {
+          "pt": "licença,",
+          "en": "licença,",
+          "ar": "licença,"
+        },
+        {
+          "pt": "Com",
+          "en": "Com",
+          "ar": "Com"
+        },
+        {
+          "pt": "onde",
+          "en": "onde",
+          "ar": "onde"
+        },
+        {
+          "pt": "embarque?",
+          "en": "embarque?",
+          "ar": "embarque?"
+        },
+        {
+          "pt": "portão",
+          "en": "portão",
+          "ar": "portão"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        }
+      ],
+      "answer": "Com licença, onde fica o portão de embarque?",
+      "accepted": [
+        "Com licença, onde fica o portão de embarque?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Com licença, onde fica o portão de embarque?'",
+        "en": "The correct order: 'Excuse me, where is the boarding gate?'",
+        "ar": "الترتيب الصحيح: 'عذرًا، أين بوابة الصعود إلى الطائرة؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a passagem",
+          "en": "the ticket",
+          "ar": "a passagem"
+        },
+        {
+          "pt": "o aeroporto",
+          "en": "to travel",
+          "ar": "o aeroporto"
+        },
+        {
+          "pt": "o voo",
+          "en": "the trip",
+          "ar": "o voo"
+        },
+        {
+          "pt": "a viagem",
+          "en": "the suitcase",
+          "ar": "a viagem"
+        },
+        {
+          "pt": "a mala",
+          "en": "the airport",
+          "ar": "a mala"
+        },
+        {
+          "pt": "viajar",
+          "en": "the flight",
+          "ar": "viajar"
+        }
+      ],
+      "answer": "a passagem::the ticket|o aeroporto::to travel|o voo::the trip|a viagem::the suitcase|a mala::the airport|viajar::the flight",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "O voo sai às dez e meia.",
+          "en": "The flight leaves at ten thirty.",
+          "ar": "والحافلة إلى الفندق؟"
+        },
+        {
+          "pt": "Com licença, onde fica o portão de embarque?",
+          "en": "Excuse me, where is the boarding gate?",
+          "ar": "عذرًا، أين بوابة الصعود إلى الطائرة؟"
+        },
+        {
+          "pt": "E o ônibus para o hotel?",
+          "en": "And the bus to the hotel?",
+          "ar": "تغادر الرحلة في العاشرة والنصف."
+        }
+      ],
+      "answer": "Com licença, onde fica o portão de embarque?",
+      "accepted": [],
+      "audio": "Com licença, onde fica o portão de embarque?",
+      "explanation": {
+        "pt": "Você ouviu: 'Com licença, onde fica o portão de embarque?' — 'Excuse me, where is the boarding gate?'",
+        "en": "You heard: 'Com licença, onde fica o portão de embarque?' — 'Excuse me, where is the boarding gate?'",
+        "ar": "سمعت: 'Com licença, onde fica o portão de embarque?' — 'عذرًا، أين بوابة الصعود إلى الطائرة؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "A que horas sai o voo para Salvador?",
+          "en": "Excuse me, where is the boarding gate?",
+          "ar": "إنها في الطابق الثاني، على اليمين."
+        },
+        {
+          "pt": "Com licença, onde fica o portão de embarque?",
+          "en": "What time does the flight to Salvador leave?",
+          "ar": "عذرًا، أين بوابة الصعود إلى الطائرة؟"
+        },
+        {
+          "pt": "Fica no segundo andar, à direita.",
+          "en": "It is on the second floor, to the right.",
+          "ar": "في أي ساعة تغادر الرحلة إلى سالفادور؟"
+        }
+      ],
+      "answer": "Fica no segundo andar, à direita.",
+      "accepted": [],
+      "audio": "Fica no segundo andar, à direita.",
+      "explanation": {
+        "pt": "Você ouviu: 'Fica no segundo andar, à direita.' — 'It is on the second floor, to the right.'",
+        "en": "You heard: 'Fica no segundo andar, à direita.' — 'It is on the second floor, to the right.'",
+        "ar": "سمعت: 'Fica no segundo andar, à direita.' — 'إنها في الطابق الثاني، على اليمين.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "fica",
+          "en": "fica",
+          "ar": "fica"
+        },
+        {
+          "pt": "licença,",
+          "en": "licença,",
+          "ar": "licença,"
+        },
+        {
+          "pt": "onde",
+          "en": "onde",
+          "ar": "onde"
+        },
+        {
+          "pt": "embarque?",
+          "en": "embarque?",
+          "ar": "embarque?"
+        },
+        {
+          "pt": "portão",
+          "en": "portão",
+          "ar": "portão"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "Com",
+          "en": "Com",
+          "ar": "Com"
+        }
+      ],
+      "answer": "Com licença, onde fica o portão de embarque?",
+      "accepted": [
+        "Com licença, onde fica o portão de embarque?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Com licença, onde fica o portão de embarque?'",
+        "en": "The correct order: 'Excuse me, where is the boarding gate?'",
+        "ar": "الترتيب الصحيح: 'عذرًا، أين بوابة الصعود إلى الطائرة؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a mala",
+          "en": "the ticket",
+          "ar": "a mala"
+        },
+        {
+          "pt": "o voo",
+          "en": "the airport",
+          "ar": "o voo"
+        },
+        {
+          "pt": "o aeroporto",
+          "en": "the suitcase",
+          "ar": "o aeroporto"
+        },
+        {
+          "pt": "viajar",
+          "en": "the flight",
+          "ar": "viajar"
+        },
+        {
+          "pt": "a viagem",
+          "en": "to travel",
+          "ar": "a viagem"
+        },
+        {
+          "pt": "a passagem",
+          "en": "the trip",
+          "ar": "a passagem"
+        }
+      ],
+      "answer": "a mala::the ticket|o voo::the airport|o aeroporto::the suitcase|viajar::the flight|a viagem::to travel|a passagem::the trip",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Com licença, onde fica o portão de embarque?",
+          "en": "The flight leaves at ten thirty.",
+          "ar": "والحافلة إلى الفندق؟"
+        },
+        {
+          "pt": "E o ônibus para o hotel?",
+          "en": "And the bus to the hotel?",
+          "ar": "تغادر الرحلة في العاشرة والنصف."
+        },
+        {
+          "pt": "O voo sai às dez e meia.",
+          "en": "Excuse me, where is the boarding gate?",
+          "ar": "عذرًا، أين بوابة الصعود إلى الطائرة؟"
+        }
+      ],
+      "answer": "Com licença, onde fica o portão de embarque?",
+      "accepted": [],
+      "audio": "Com licença, onde fica o portão de embarque?",
+      "explanation": {
+        "pt": "Você ouviu: 'Com licença, onde fica o portão de embarque?' — 'Excuse me, where is the boarding gate?'",
+        "en": "You heard: 'Com licença, onde fica o portão de embarque?' — 'Excuse me, where is the boarding gate?'",
+        "ar": "سمعت: 'Com licença, onde fica o portão de embarque?' — 'عذرًا، أين بوابة الصعود إلى الطائرة؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Com licença, onde fica o portão de embarque?",
+          "en": "Excuse me, where is the boarding gate?",
+          "ar": "إنها في الطابق الثاني، على اليمين."
+        },
+        {
+          "pt": "Fica no segundo andar, à direita.",
+          "en": "It is on the second floor, to the right.",
+          "ar": "عذرًا، أين بوابة الصعود إلى الطائرة؟"
+        },
+        {
+          "pt": "E o ônibus para o hotel?",
+          "en": "And the bus to the hotel?",
+          "ar": "والحافلة إلى الفندق؟"
+        }
+      ],
+      "answer": "Fica no segundo andar, à direita.",
+      "accepted": [],
+      "audio": "Fica no segundo andar, à direita.",
+      "explanation": {
+        "pt": "Você ouviu: 'Fica no segundo andar, à direita.' — 'It is on the second floor, to the right.'",
+        "en": "You heard: 'Fica no segundo andar, à direita.' — 'It is on the second floor, to the right.'",
+        "ar": "سمعت: 'Fica no segundo andar, à direita.' — 'إنها في الطابق الثاني، على اليمين.'"
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'the trip'",
+        "en": "Type in Portuguese: 'the trip'",
+        "ar": "اكتب بالبرتغالية: 'الرحلة'"
+      },
+      "options": [],
+      "answer": "a viagem",
+      "accepted": [
+        "a viagem"
+      ],
+      "explanation": {
+        "pt": "'a viagem' significa 'the trip'.",
+        "en": "'a viagem' means 'the trip'.",
+        "ar": "'$a viagem' بالعربية: '$الرحلة'."
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'to travel'",
+        "en": "Type in Portuguese: 'to travel'",
+        "ar": "اكتب بالبرتغالية: 'يسافر'"
+      },
+      "options": [],
+      "answer": "viajar",
+      "accepted": [
+        "viajar"
+      ],
+      "explanation": {
+        "pt": "'viajar' significa 'to travel'.",
+        "en": "'viajar' means 'to travel'.",
+        "ar": "'$viajar' بالعربية: '$يسافر'."
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Fica no segundo andar, à direita.",
+          "en": "Fica no segundo andar, à direita.",
+          "ar": "Fica no segundo andar, à direita."
+        },
+        {
+          "pt": "O voo sai às dez e meia.",
+          "en": "O voo sai às dez e meia.",
+          "ar": "O voo sai às dez e meia."
+        },
+        {
+          "pt": "Com licença, onde fica o portão de embarque?",
+          "en": "Com licença, onde fica o portão de embarque?",
+          "ar": "Com licença, onde fica o portão de embarque?"
+        }
+      ],
+      "answer": "Com licença, onde fica o portão de embarque?",
+      "accepted": [],
+      "audio": "Com licença, onde fica o portão de embarque?",
+      "explanation": {
+        "pt": "Você ouviu: 'Com licença, onde fica o portão de embarque?'",
+        "en": "You heard: 'Com licença, onde fica o portão de embarque?'",
+        "ar": "سمعت: 'Com licença, onde fica o portão de embarque?'"
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "O voo sai às dez e meia.",
+          "en": "O voo sai às dez e meia.",
+          "ar": "O voo sai às dez e meia."
+        },
+        {
+          "pt": "Com licença, onde fica o portão de embarque?",
+          "en": "Com licença, onde fica o portão de embarque?",
+          "ar": "Com licença, onde fica o portão de embarque?"
+        },
+        {
+          "pt": "Fica no segundo andar, à direita.",
+          "en": "Fica no segundo andar, à direita.",
+          "ar": "Fica no segundo andar, à direita."
+        }
+      ],
+      "answer": "Fica no segundo andar, à direita.",
+      "accepted": [],
+      "audio": "Fica no segundo andar, à direita.",
+      "explanation": {
+        "pt": "Você ouviu: 'Fica no segundo andar, à direita.'",
+        "en": "You heard: 'Fica no segundo andar, à direita.'",
+        "ar": "سمعت: 'Fica no segundo andar, à direita.'"
+      }
+    },
+    {
+      "type": "dictation",
+      "prompt": {
+        "pt": "Ouça e escreva o que você ouviu.",
+        "en": "Listen and type what you hear.",
+        "ar": "استمع واكتب ما سمعته."
+      },
+      "options": [],
+      "answer": "Com licença, onde fica o portão de embarque?",
+      "accepted": [],
+      "audio": "Com licença, onde fica o portão de embarque?",
+      "explanation": {
+        "pt": "A frase correta: 'Com licença, onde fica o portão de embarque?'",
+        "en": "The correct sentence: 'Com licença, onde fica o portão de embarque?'",
+        "ar": "الجملة الصحيحة: 'Com licença, onde fica o portão de embarque?'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Com",
+          "en": "Com",
+          "ar": "Com"
+        },
+        {
+          "pt": "fica",
+          "en": "fica",
+          "ar": "fica"
+        },
+        {
+          "pt": "portão",
+          "en": "portão",
+          "ar": "portão"
+        },
+        {
+          "pt": "embarque?",
+          "en": "embarque?",
+          "ar": "embarque?"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "licença,",
+          "en": "licença,",
+          "ar": "licença,"
+        },
+        {
+          "pt": "onde",
+          "en": "onde",
+          "ar": "onde"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        }
+      ],
+      "answer": "Com licença, onde fica o portão de embarque?",
+      "accepted": [
+        "Com licença, onde fica o portão de embarque?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Com licença, onde fica o portão de embarque?'",
+        "en": "The correct order: 'Excuse me, where is the boarding gate?'",
+        "ar": "الترتيب الصحيح: 'عذرًا، أين بوابة الصعود إلى الطائرة؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a mala",
+          "en": "the airport",
+          "ar": "a mala"
+        },
+        {
+          "pt": "o aeroporto",
+          "en": "the flight",
+          "ar": "o aeroporto"
+        },
+        {
+          "pt": "a passagem",
+          "en": "to travel",
+          "ar": "a passagem"
+        },
+        {
+          "pt": "o voo",
+          "en": "the ticket",
+          "ar": "o voo"
+        },
+        {
+          "pt": "a viagem",
+          "en": "the trip",
+          "ar": "a viagem"
+        },
+        {
+          "pt": "viajar",
+          "en": "the suitcase",
+          "ar": "viajar"
+        }
+      ],
+      "answer": "a mala::the airport|o aeroporto::the flight|a passagem::to travel|o voo::the ticket|a viagem::the trip|viajar::the suitcase",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "A que horas sai o voo para Salvador?",
+          "en": "The bus is in front of the airport. Have a good trip!",
+          "ar": "عذرًا، أين بوابة الصعود إلى الطائرة؟"
+        },
+        {
+          "pt": "Com licença, onde fica o portão de embarque?",
+          "en": "Excuse me, where is the boarding gate?",
+          "ar": "الحافلة أمام المطار. رحلة سعيدة!"
+        },
+        {
+          "pt": "O ônibus fica em frente ao aeroporto. Boa viagem!",
+          "en": "What time does the flight to Salvador leave?",
+          "ar": "في أي ساعة تغادر الرحلة إلى سالفادور؟"
+        }
+      ],
+      "answer": "Com licença, onde fica o portão de embarque?",
+      "accepted": [],
+      "audio": "Com licença, onde fica o portão de embarque?",
+      "explanation": {
+        "pt": "Você ouviu: 'Com licença, onde fica o portão de embarque?' — 'Excuse me, where is the boarding gate?'",
+        "en": "You heard: 'Com licença, onde fica o portão de embarque?' — 'Excuse me, where is the boarding gate?'",
+        "ar": "سمعت: 'Com licença, onde fica o portão de embarque?' — 'عذرًا، أين بوابة الصعود إلى الطائرة؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Fica no segundo andar, à direita.",
+          "en": "Excuse me, where is the boarding gate?",
+          "ar": "في أي ساعة تغادر الرحلة إلى سالفادور؟"
+        },
+        {
+          "pt": "Com licença, onde fica o portão de embarque?",
+          "en": "What time does the flight to Salvador leave?",
+          "ar": "إنها في الطابق الثاني، على اليمين."
+        },
+        {
+          "pt": "A que horas sai o voo para Salvador?",
+          "en": "It is on the second floor, to the right.",
+          "ar": "عذرًا، أين بوابة الصعود إلى الطائرة؟"
+        }
+      ],
+      "answer": "Fica no segundo andar, à direita.",
+      "accepted": [],
+      "audio": "Fica no segundo andar, à direita.",
+      "explanation": {
+        "pt": "Você ouviu: 'Fica no segundo andar, à direita.' — 'It is on the second floor, to the right.'",
+        "en": "You heard: 'Fica no segundo andar, à direita.' — 'It is on the second floor, to the right.'",
+        "ar": "سمعت: 'Fica no segundo andar, à direita.' — 'إنها في الطابق الثاني، على اليمين.'"
+      }
+    }
+  ],
+  "speaking": {
+    "title": {
+      "pt": "Fale Agora — Ouça e Repita",
+      "en": "Speak Now — Listen and Repeat",
+      "ar": "تحدث الآن — استمع وكرر"
+    },
+    "phrases": [
+      {
+        "pt": "Com licença, onde fica o portão de embarque?",
+        "en": "Excuse me, where is the boarding gate?",
+        "ar": "عذرًا، أين بوابة الصعود إلى الطائرة؟"
+      },
+      {
+        "pt": "Fica no segundo andar, à direita.",
+        "en": "It is on the second floor, to the right.",
+        "ar": "إنها في الطابق الثاني، على اليمين."
+      },
+      {
+        "pt": "A que horas sai o voo para Salvador?",
+        "en": "What time does the flight to Salvador leave?",
+        "ar": "في أي ساعة تغادر الرحلة إلى سالفادور؟"
+      },
+      {
+        "pt": "O voo sai às dez e meia.",
+        "en": "The flight leaves at ten thirty.",
+        "ar": "تغادر الرحلة في العاشرة والنصف."
+      },
+      {
+        "pt": "E o ônibus para o hotel?",
+        "en": "And the bus to the hotel?",
+        "ar": "والحافلة إلى الفندق؟"
+      },
+      {
+        "pt": "O ônibus fica em frente ao aeroporto. Boa viagem!",
+        "en": "The bus is in front of the airport. Have a good trip!",
+        "ar": "الحافلة أمام المطار. رحلة سعيدة!"
+      },
+      {
+        "pt": "a viagem",
+        "en": "the trip",
+        "ar": "الرحلة"
+      },
+      {
+        "pt": "viajar",
+        "en": "to travel",
+        "ar": "يسافر"
+      },
+      {
+        "pt": "a passagem",
+        "en": "the ticket",
+        "ar": "التذكرة"
+      }
+    ]
+  },
+  "cultural_tips": {
+    "pt": "",
+    "en": "",
+    "ar": ""
+  }
+}

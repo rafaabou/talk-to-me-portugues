@@ -1,0 +1,2028 @@
+{
+  "id": "C1-07",
+  "level": "C1",
+  "level_name": {
+    "pt": "Avançado",
+    "en": "Advanced",
+    "ar": "متقدم"
+  },
+  "title": {
+    "pt": "Redação Formal: Cartas e E-mails",
+    "en": "Formal Writing: Letters and Emails",
+    "ar": "الكتابة الرسمية: الرسائل والبريد"
+  },
+  "objectives": [
+    {
+      "pt": "Escrever cartas e e-mails formais em português",
+      "en": "Write formal letters and emails in Portuguese",
+      "ar": "كتابة رسائل رسمية وبريد إلكتروني بالبرتغالية"
+    },
+    {
+      "pt": "Usar fórmulas de cortesia e tratamento adequadas",
+      "en": "Use appropriate courtesy and address formulas",
+      "ar": "استخدام عبارات المجاملة والخطاب المناسبة"
+    },
+    {
+      "pt": "Adequar o registro à situação comunicativa",
+      "en": "Adjust the register to the communicative situation",
+      "ar": "تكييف المستوى اللغوي مع موقف التواصل"
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "a carta formal",
+      "ipa": "/a ˈkaʁ.ta foʁˈmaw/",
+      "en": "the formal letter",
+      "ar": "الرسالة الرسمية",
+      "example": {
+        "pt": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
+        "en": "Dear Dr. Martins, I am writing to confirm Friday's meeting.",
+        "ar": "عزيزي الدكتور مارتنز، أكتب إليكم لتأكيد اجتماع يوم الجمعة."
+      }
+    },
+    {
+      "pt": "o e-mail",
+      "ipa": "/u iˈmew/",
+      "en": "the email",
+      "ar": "البريد الإلكتروني",
+      "example": {
+        "pt": "Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.",
+        "en": "Dear Mr. Lopes, I thank you for your contact and confirm the ten o'clock slot.",
+        "ar": "عزيزي السيد لوبيز، أشكركم على تواصلكم وأؤكد موعد الساعة العاشرة."
+      }
+    },
+    {
+      "pt": "o destinatário",
+      "ipa": "/u des.tʃi.naˈta.ɾi.u/",
+      "en": "the recipient",
+      "ar": "المرسل إليه",
+      "example": {
+        "pt": "Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.",
+        "en": "Dear Mr. Lopes, I thank you for your contact and confirm the ten o'clock slot.",
+        "ar": "عزيزي السيد لوبيز، أشكركم على تواصلكم وأؤكد موعد الساعة العاشرة."
+      }
+    },
+    {
+      "pt": "o remetente",
+      "ipa": "/u ʁe.meˈtẽ.tʃi/",
+      "en": "the sender",
+      "ar": "المرسل",
+      "example": {
+        "pt": "Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.",
+        "en": "Dear Mr. Lopes, I thank you for your contact and confirm the ten o'clock slot.",
+        "ar": "عزيزي السيد لوبيز، أشكركم على تواصلكم وأؤكد موعد الساعة العاشرة."
+      }
+    },
+    {
+      "pt": "o assunto",
+      "ipa": "/u aˈsũ.tu/",
+      "en": "the subject",
+      "ar": "الموضوع",
+      "example": {
+        "pt": "Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.",
+        "en": "Dear Mr. Lopes, I thank you for your contact and confirm the ten o'clock slot.",
+        "ar": "عزيزي السيد لوبيز، أشكركم على تواصلكم وأؤكد موعد الساعة العاشرة."
+      }
+    },
+    {
+      "pt": "o anexo",
+      "ipa": "/u aˈnek.su/",
+      "en": "the attachment",
+      "ar": "المرفق",
+      "example": {
+        "pt": "Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.",
+        "en": "Dear Mr. Lopes, I thank you for your contact and confirm the ten o'clock slot.",
+        "ar": "عزيزي السيد لوبيز، أشكركم على تواصلكم وأؤكد موعد الساعة العاشرة."
+      }
+    },
+    {
+      "pt": "o cumprimento",
+      "ipa": "/u kũ.pɾiˈmẽ.tu/",
+      "en": "the greeting",
+      "ar": "التحية",
+      "example": {
+        "pt": "Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.",
+        "en": "Dear Mr. Lopes, I thank you for your contact and confirm the ten o'clock slot.",
+        "ar": "عزيزي السيد لوبيز، أشكركم على تواصلكم وأؤكد موعد الساعة العاشرة."
+      }
+    },
+    {
+      "pt": "a saudação",
+      "ipa": "/a saw.daˈsɐ̃w/",
+      "en": "the salutation",
+      "ar": "التحية، السلام",
+      "example": {
+        "pt": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
+        "en": "Dear Dr. Martins, I am writing to confirm Friday's meeting.",
+        "ar": "عزيزي الدكتور مارتنز، أكتب إليكم لتأكيد اجتماع يوم الجمعة."
+      }
+    },
+    {
+      "pt": "a despedida",
+      "ipa": "/a dez.peˈdʒi.da/",
+      "en": "the closing",
+      "ar": "الخاتمة، التوديع",
+      "example": {
+        "pt": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
+        "en": "Dear Dr. Martins, I am writing to confirm Friday's meeting.",
+        "ar": "عزيزي الدكتور مارتنز، أكتب إليكم لتأكيد اجتماع يوم الجمعة."
+      }
+    },
+    {
+      "pt": "cordialmente",
+      "ipa": "/koʁ.dʒi.awˈmẽ.tʃi/",
+      "en": "cordially",
+      "ar": "باحترام، بتحية طيبة",
+      "example": {
+        "pt": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
+        "en": "Dear Dr. Martins, I am writing to confirm Friday's meeting.",
+        "ar": "عزيزي الدكتور مارتنز، أكتب إليكم لتأكيد اجتماع يوم الجمعة."
+      }
+    },
+    {
+      "pt": "atenciosamente",
+      "ipa": "/a.tẽ.si.o.zaˈmẽ.tʃi/",
+      "en": "sincerely",
+      "ar": "مع خالص التحية",
+      "example": {
+        "pt": "Fico à disposição também. Atenciosamente, Antônio Lopes.",
+        "en": "I am at your disposal as well. Sincerely, Antônio Lopes.",
+        "ar": "وأنا أيضًا تحت تصرفكم. مع خالص التحية، أنطونيو لوبيز."
+      }
+    },
+    {
+      "pt": "a solicitação",
+      "ipa": "/a so.li.si.taˈsɐ̃w/",
+      "en": "the request",
+      "ar": "الطلب",
+      "example": {
+        "pt": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
+        "en": "Dear Dr. Martins, I am writing to confirm Friday's meeting.",
+        "ar": "عزيزي الدكتور مارتنز، أكتب إليكم لتأكيد اجتماع يوم الجمعة."
+      }
+    },
+    {
+      "pt": "o esclarecimento",
+      "ipa": "/u is.kla.ɾe.siˈmẽ.tu/",
+      "en": "the clarification",
+      "ar": "التوضيح",
+      "example": {
+        "pt": "Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.",
+        "en": "Dear Mr. Lopes, I thank you for your contact and confirm the ten o'clock slot.",
+        "ar": "عزيزي السيد لوبيز، أشكركم على تواصلكم وأؤكد موعد الساعة العاشرة."
+      }
+    },
+    {
+      "pt": "agradecer",
+      "ipa": "/a.ɡɾa.deˈseɾ/",
+      "en": "to thank",
+      "ar": "يشكر",
+      "example": {
+        "pt": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
+        "en": "Dear Dr. Martins, I am writing to confirm Friday's meeting.",
+        "ar": "عزيزي الدكتور مارتنز، أكتب إليكم لتأكيد اجتماع يوم الجمعة."
+      }
+    },
+    {
+      "pt": "encaminhar",
+      "ipa": "/ẽ.kɐ̃.miˈɲaɾ/",
+      "en": "to forward",
+      "ar": "يحيل، يوجّه",
+      "example": {
+        "pt": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
+        "en": "Dear Dr. Martins, I am writing to confirm Friday's meeting.",
+        "ar": "عزيزي الدكتور مارتنز، أكتب إليكم لتأكيد اجتماع يوم الجمعة."
+      }
+    },
+    {
+      "pt": "anexar",
+      "ipa": "/a.nekˈsaɾ/",
+      "en": "to attach",
+      "ar": "يرفق",
+      "example": {
+        "pt": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
+        "en": "Dear Dr. Martins, I am writing to confirm Friday's meeting.",
+        "ar": "عزيزي الدكتور مارتنز، أكتب إليكم لتأكيد اجتماع يوم الجمعة."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "title": {
+        "pt": "Fórmulas de Cortesia e Tratamento",
+        "en": "Courtesy and Address Formulas",
+        "ar": "عبارات المجاملة والخطاب"
+      },
+      "explanation": {
+        "pt": "A correspondência formal começa com 'Prezado(a) Senhor(a)' ou 'Caro(a)' e termina com 'Atenciosamente' ou 'Cordialmente'. Verbos como 'solicitar', 'encaminhar' e 'agradecer' aparecem em estruturas fixas: 'Venho por meio desta solicitar...', 'Fico à disposição para esclarecimentos'. O tratamento usa 'Vossa Senhoria' (V. Sa.) para autoridades e 'você' ou 'o senhor' conforme o grau de formalidade.",
+        "en": "Formal correspondence begins with 'Prezado(a) Senhor(a)' (Dear Sir/Madam) or 'Caro(a)' (Dear) and ends with 'Atenciosamente' (Sincerely) or 'Cordialmente' (Cordially). Verbs like 'solicitar' (to request), 'encaminhar' (to forward) and 'agradecer' (to thank) appear in fixed structures: 'Venho por meio desta solicitar...' (I am writing to request...), 'Fico à disposição para esclarecimentos' (I remain at your disposal for clarifications). Address uses 'Vossa Senhoria' for authorities and 'você' or 'o senhor' depending on the degree of formality.",
+        "ar": "يبدأ البريد الرسمي بعبارة 'Prezado(a) Senhor(a)' (السيد الفاضل/السيدة الفاضلة) أو 'Caro(a)' (عزيزي) وينتهي بعبارة 'Atenciosamente' أو 'Cordialmente'. وتظهر أفعال مثل 'solicitar' (يطلب) و'encaminhar' (يحيل) و'agradecer' (يشكر) في تراكيب ثابتة: 'Venho por meio desta solicitar...' (أكتب إليكم لأطلب...) و'Fico à disposição para esclarecimentos' (أبقى تحت تصرفكم للتوضيحات). ويُستخدم 'Vossa Senhoria' للمسؤولين و'você' أو 'o senhor' بحسب درجة الرسمية."
+      },
+      "examples": [
+        {
+          "pt": "Prezado Senhor, agradecemos o seu contato.",
+          "en": "Dear Sir, we thank you for your contact.",
+          "ar": "عزيزي السيد، نشكركم على تواصلكم."
+        },
+        {
+          "pt": "Venho por meio desta solicitar um esclarecimento.",
+          "en": "I am writing to request a clarification.",
+          "ar": "أكتب إليكم من خلال هذه الرسالة لأطلب توضيحًا."
+        },
+        {
+          "pt": "Fico à disposição para qualquer esclarecimento adicional.",
+          "en": "I remain at your disposal for any further clarification.",
+          "ar": "أبقى تحت تصرفكم لأي توضيح إضافي."
+        },
+        {
+          "pt": "Atenciosamente, Maria Silva.",
+          "en": "Sincerely, Maria Silva.",
+          "ar": "مع خالص التحية، ماريا سيلفا."
+        }
+      ]
+    },
+    {
+      "title": {
+        "pt": "Do Registro Informal ao Formal",
+        "en": "From Informal to Formal Register",
+        "ar": "من المستوى غير الرسمي إلى الرسمي"
+      },
+      "explanation": {
+        "pt": "No registro formal, evita-se a gíria e as reduções: 'quero que' vira 'gostaria de solicitar'; 'manda' vira 'encaminha'; 'a gente' vira 'nós'. A estrutura da frase é mais completa e o vocabulário, mais preciso. Frases como 'Preciso do documento' tornam-se 'Gostaria de solicitar o referido documento'.",
+        "en": "In the formal register, slang and reductions are avoided: 'quero que' becomes 'gostaria de solicitar'; 'manda' becomes 'encaminha'; 'a gente' becomes 'nós'. The sentence structure is more complete and the vocabulary more precise. Phrases like 'Preciso do documento' become 'Gostaria de solicitar o referido documento'.",
+        "ar": "في المستوى الرسمي، تُتجنب العامية والاختصارات: تتحول 'quero que' إلى 'gostaria de solicitar'، و'manda' إلى 'encaminha'، و'a gente' إلى 'nós'. يصبح التركيب أكثر اكتمالًا والمفردات أكثر دقة. فجملة 'Preciso do documento' تصبح 'Gostaria de solicitar o referido documento'."
+      },
+      "examples": [
+        {
+          "pt": "Gostaria de solicitar a renovação do contrato.",
+          "en": "I would like to request the contract renewal.",
+          "ar": "أود طلب تجديد العقد."
+        },
+        {
+          "pt": "Encaminho em anexo o documento solicitado.",
+          "en": "I am forwarding the requested document as an attachment.",
+          "ar": "أرفق لكم الوثيقة المطلوبة."
+        },
+        {
+          "pt": "Desde já agradeço a atenção dispensada.",
+          "en": "I thank you in advance for your attention.",
+          "ar": "أشكركم مقدمًا على حسن الاهتمام."
+        },
+        {
+          "pt": "Aguardo retorno ao longo da próxima semana.",
+          "en": "I await your reply during the coming week.",
+          "ar": "أنتظر ردكم خلال الأسبوع القادم."
+        }
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": {
+      "pt": "Confirmando uma Reunião",
+      "en": "Confirming a Meeting",
+      "ar": "تأكيد اجتماع"
+    },
+    "lines": [
+      {
+        "speaker": "Cliente",
+        "pt": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
+        "en": "Dear Dr. Martins, I am writing to confirm Friday's meeting.",
+        "ar": "عزيزي الدكتور مارتنز، أكتب إليكم لتأكيد اجتماع يوم الجمعة."
+      },
+      {
+        "speaker": "Dr. Martins",
+        "pt": "Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.",
+        "en": "Dear Mr. Lopes, I thank you for your contact and confirm the ten o'clock slot.",
+        "ar": "عزيزي السيد لوبيز، أشكركم على تواصلكم وأؤكد موعد الساعة العاشرة."
+      },
+      {
+        "speaker": "Cliente",
+        "pt": "Encaminho em anexo a pauta da reunião para sua análise.",
+        "en": "I am forwarding the meeting agenda as an attachment for your review.",
+        "ar": "أرفق لكم جدول أعمال الاجتماع لاطلاعكم عليه."
+      },
+      {
+        "speaker": "Dr. Martins",
+        "pt": "Recebido. Caso precise de esclarecimentos, estou à disposição.",
+        "en": "Received. Should you need clarifications, I am at your disposal.",
+        "ar": "تم الاستلام. إذا احتجتم أي توضيحات، فأنا تحت تصرفكم."
+      },
+      {
+        "speaker": "Cliente",
+        "pt": "Fico à disposição também. Atenciosamente, Antônio Lopes.",
+        "en": "I am at your disposal as well. Sincerely, Antônio Lopes.",
+        "ar": "وأنا أيضًا تحت تصرفكم. مع خالص التحية، أنطونيو لوبيز."
+      }
+    ]
+  },
+  "reading": {
+    "title": {
+      "pt": "O E-mail Corporativo",
+      "en": "The Corporate Email",
+      "ar": "البريد الإلكتروني المؤسسي"
+    },
+    "text_pt": "Um bom e-mail formal começa com um assunto claro e uma saudação adequada. O texto organiza-se em parágrafos curtos: apresenta o motivo, explica o pedido e propõe um prazo. Ao final, o remetente agradece e se coloca à disposição. Essa estrutura transmite profissionalismo e respeito ao destinatário.",
+    "text_en": "A good formal email starts with a clear subject and an appropriate salutation. The text is organized into short paragraphs: it presents the reason, explains the request and proposes a deadline. At the end, the sender thanks and offers their availability. This structure conveys professionalism and respect for the recipient.",
+    "text_ar": "يبدأ البريد الرسمي الجيد بموضوع واضح وتحية مناسبة. وينظم النص في فقرات قصيرة: يقدم السبب، ويشرح الطلب، ويقترح موعدًا. وفي النهاية يشكر المرسل ويعرض نفسه تحت تصرف المرسل إليه. ينقل هذا الهيكل الاحترافية والاحترام للمتلقي."
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual fórmula é adequada para iniciar uma carta formal?",
+        "en": "Which formula is appropriate to start a formal letter?",
+        "ar": "أي عبارة مناسبة لبدء رسالة رسمية؟"
+      },
+      "options": [
+        {
+          "pt": "Prezado Senhor,",
+          "en": "Prezado Senhor,",
+          "ar": "Prezado Senhor,"
+        },
+        {
+          "pt": "E aí, mano,",
+          "en": "E aí, mano,",
+          "ar": "E aí, mano,"
+        },
+        {
+          "pt": "Oi, tudo bom?",
+          "en": "Oi, tudo bom?",
+          "ar": "Oi, tudo bom?"
+        }
+      ],
+      "answer": "Prezado Senhor,",
+      "explanation": {
+        "pt": "'Prezado Senhor' é a saudação formal; as demais são informais.",
+        "en": "'Prezado Senhor' is the formal salutation; the others are informal.",
+        "ar": "'Prezado Senhor' هي التحية الرسمية، أما البقية فغير رسمية."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Complete com o registro formal: '______ em anexo o relatório.'",
+        "en": "Complete in the formal register: '______ em anexo o relatório.'",
+        "ar": "أكمل بالمستوى الرسمي: '______ em anexo o relatório.'"
+      },
+      "options": [
+        {
+          "pt": "Mando",
+          "en": "Mando",
+          "ar": "Mando"
+        },
+        {
+          "pt": "Encaminho",
+          "en": "Encaminho",
+          "ar": "Encaminho"
+        },
+        {
+          "pt": "Jogo",
+          "en": "Jogo",
+          "ar": "Jogo"
+        }
+      ],
+      "answer": "Encaminho",
+      "explanation": {
+        "pt": "'Encaminho em anexo' é a forma formal e padrão.",
+        "en": "'Encaminho em anexo' is the formal, standard form.",
+        "ar": "'Encaminho em anexo' هي الصيغة الرسمية المعيارية."
+      }
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português formal: 'I would like to request the attached document.'",
+        "en": "Translate into formal Portuguese: 'I would like to request the attached document.'",
+        "ar": "ترجم إلى البرتغالية الرسمية: 'I would like to request the attached document.'"
+      },
+      "options": [],
+      "answer": "Gostaria de solicitar o documento anexo.",
+      "explanation": {
+        "pt": "'Gostaria de solicitar' é o correspondente formal de 'I would like to request'.",
+        "en": "'Gostaria de solicitar' is the formal equivalent of 'I would like to request'.",
+        "ar": "'Gostaria de solicitar' هي المقابل الرسمي لعبارة 'I would like to request'."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "Dr.",
+          "en": "Dr.",
+          "ar": "Dr."
+        },
+        {
+          "pt": "reunião",
+          "en": "reunião",
+          "ar": "reunião"
+        },
+        {
+          "pt": "venho",
+          "en": "venho",
+          "ar": "venho"
+        },
+        {
+          "pt": "Martins,",
+          "en": "Martins,",
+          "ar": "Martins,"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "confirmar",
+          "en": "confirmar",
+          "ar": "confirmar"
+        },
+        {
+          "pt": "sexta-feira.",
+          "en": "sexta-feira.",
+          "ar": "sexta-feira."
+        },
+        {
+          "pt": "Prezado",
+          "en": "Prezado",
+          "ar": "Prezado"
+        }
+      ],
+      "answer": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
+      "accepted": [
+        "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.'",
+        "en": "The correct order: 'Dear Dr. Martins, I am writing to confirm Friday's meeting.'",
+        "ar": "الترتيب الصحيح: 'عزيزي الدكتور مارتنز، أكتب إليكم لتأكيد اجتماع يوم الجمعة.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o anexo",
+          "en": "the email",
+          "ar": "o anexo"
+        },
+        {
+          "pt": "o remetente",
+          "en": "the attachment",
+          "ar": "o remetente"
+        },
+        {
+          "pt": "o e-mail",
+          "en": "the subject",
+          "ar": "o e-mail"
+        },
+        {
+          "pt": "o assunto",
+          "en": "the formal letter",
+          "ar": "o assunto"
+        },
+        {
+          "pt": "o destinatário",
+          "en": "the recipient",
+          "ar": "o destinatário"
+        },
+        {
+          "pt": "a carta formal",
+          "en": "the sender",
+          "ar": "a carta formal"
+        }
+      ],
+      "answer": "o anexo::the email|o remetente::the attachment|o e-mail::the subject|o assunto::the formal letter|o destinatário::the recipient|a carta formal::the sender",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Encaminho em anexo a pauta da reunião para sua análise.",
+          "en": "I am at your disposal as well. Sincerely, Antônio Lopes.",
+          "ar": "أرفق لكم جدول أعمال الاجتماع لاطلاعكم عليه."
+        },
+        {
+          "pt": "Fico à disposição também. Atenciosamente, Antônio Lopes.",
+          "en": "I am forwarding the meeting agenda as an attachment for your review.",
+          "ar": "وأنا أيضًا تحت تصرفكم. مع خالص التحية، أنطونيو لوبيز."
+        },
+        {
+          "pt": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
+          "en": "Dear Dr. Martins, I am writing to confirm Friday's meeting.",
+          "ar": "عزيزي الدكتور مارتنز، أكتب إليكم لتأكيد اجتماع يوم الجمعة."
+        }
+      ],
+      "answer": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
+      "accepted": [],
+      "audio": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
+      "explanation": {
+        "pt": "Você ouviu: 'Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.' — 'Dear Dr. Martins, I am writing to confirm Friday's meeting.'",
+        "en": "You heard: 'Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.' — 'Dear Dr. Martins, I am writing to confirm Friday's meeting.'",
+        "ar": "سمعت: 'Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.' — 'عزيزي الدكتور مارتنز، أكتب إليكم لتأكيد اجتماع يوم الجمعة.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
+          "en": "Dear Mr. Lopes, I thank you for your contact and confirm the ten o'clock slot.",
+          "ar": "عزيزي السيد لوبيز، أشكركم على تواصلكم وأؤكد موعد الساعة العاشرة."
+        },
+        {
+          "pt": "Fico à disposição também. Atenciosamente, Antônio Lopes.",
+          "en": "Dear Dr. Martins, I am writing to confirm Friday's meeting.",
+          "ar": "عزيزي الدكتور مارتنز، أكتب إليكم لتأكيد اجتماع يوم الجمعة."
+        },
+        {
+          "pt": "Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.",
+          "en": "I am at your disposal as well. Sincerely, Antônio Lopes.",
+          "ar": "وأنا أيضًا تحت تصرفكم. مع خالص التحية، أنطونيو لوبيز."
+        }
+      ],
+      "answer": "Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.",
+      "accepted": [],
+      "audio": "Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.",
+      "explanation": {
+        "pt": "Você ouviu: 'Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.' — 'Dear Mr. Lopes, I thank you for your contact and confirm the ten o'clock slot.'",
+        "en": "You heard: 'Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.' — 'Dear Mr. Lopes, I thank you for your contact and confirm the ten o'clock slot.'",
+        "ar": "سمعت: 'Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.' — 'عزيزي السيد لوبيز، أشكركم على تواصلكم وأؤكد موعد الساعة العاشرة.'"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Prezado ___ agradecemos o seu contato.",
+        "en": "Prezado ___ agradecemos o seu contato.",
+        "ar": "Prezado ___ agradecemos o seu contato."
+      },
+      "options": [
+        {
+          "pt": "Senhor,",
+          "en": "Senhor,",
+          "ar": "Senhor,"
+        },
+        {
+          "pt": "por",
+          "en": "por",
+          "ar": "por"
+        },
+        {
+          "pt": "Venho",
+          "en": "Venho",
+          "ar": "Venho"
+        }
+      ],
+      "answer": "Senhor,",
+      "accepted": [],
+      "explanation": {
+        "pt": "A resposta é 'Senhor,'. Frase completa: Prezado Senhor, agradecemos o seu contato.",
+        "en": "The answer is 'Senhor,'. Full sentence: Dear Sir, we thank you for your contact.",
+        "ar": "الإجابة الصحيحة: 'Senhor,'. الجملة كاملة: عزيزي السيد، نشكركم على تواصلكم."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Martins,",
+          "en": "Martins,",
+          "ar": "Martins,"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "Prezado",
+          "en": "Prezado",
+          "ar": "Prezado"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "Dr.",
+          "en": "Dr.",
+          "ar": "Dr."
+        },
+        {
+          "pt": "reunião",
+          "en": "reunião",
+          "ar": "reunião"
+        },
+        {
+          "pt": "sexta-feira.",
+          "en": "sexta-feira.",
+          "ar": "sexta-feira."
+        },
+        {
+          "pt": "confirmar",
+          "en": "confirmar",
+          "ar": "confirmar"
+        },
+        {
+          "pt": "venho",
+          "en": "venho",
+          "ar": "venho"
+        }
+      ],
+      "answer": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
+      "accepted": [
+        "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.'",
+        "en": "The correct order: 'Dear Dr. Martins, I am writing to confirm Friday's meeting.'",
+        "ar": "الترتيب الصحيح: 'عزيزي الدكتور مارتنز، أكتب إليكم لتأكيد اجتماع يوم الجمعة.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o e-mail",
+          "en": "the sender",
+          "ar": "o e-mail"
+        },
+        {
+          "pt": "o assunto",
+          "en": "the email",
+          "ar": "o assunto"
+        },
+        {
+          "pt": "o destinatário",
+          "en": "the attachment",
+          "ar": "o destinatário"
+        },
+        {
+          "pt": "o anexo",
+          "en": "the subject",
+          "ar": "o anexo"
+        },
+        {
+          "pt": "o remetente",
+          "en": "the recipient",
+          "ar": "o remetente"
+        },
+        {
+          "pt": "a carta formal",
+          "en": "the formal letter",
+          "ar": "a carta formal"
+        }
+      ],
+      "answer": "o e-mail::the sender|o assunto::the email|o destinatário::the attachment|o anexo::the subject|o remetente::the recipient|a carta formal::the formal letter",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
+          "en": "Received. Should you need clarifications, I am at your disposal.",
+          "ar": "وأنا أيضًا تحت تصرفكم. مع خالص التحية، أنطونيو لوبيز."
+        },
+        {
+          "pt": "Recebido. Caso precise de esclarecimentos, estou à disposição.",
+          "en": "I am at your disposal as well. Sincerely, Antônio Lopes.",
+          "ar": "عزيزي الدكتور مارتنز، أكتب إليكم لتأكيد اجتماع يوم الجمعة."
+        },
+        {
+          "pt": "Fico à disposição também. Atenciosamente, Antônio Lopes.",
+          "en": "Dear Dr. Martins, I am writing to confirm Friday's meeting.",
+          "ar": "تم الاستلام. إذا احتجتم أي توضيحات، فأنا تحت تصرفكم."
+        }
+      ],
+      "answer": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
+      "accepted": [],
+      "audio": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
+      "explanation": {
+        "pt": "Você ouviu: 'Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.' — 'Dear Dr. Martins, I am writing to confirm Friday's meeting.'",
+        "en": "You heard: 'Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.' — 'Dear Dr. Martins, I am writing to confirm Friday's meeting.'",
+        "ar": "سمعت: 'Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.' — 'عزيزي الدكتور مارتنز، أكتب إليكم لتأكيد اجتماع يوم الجمعة.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Fico à disposição também. Atenciosamente, Antônio Lopes.",
+          "en": "Dear Mr. Lopes, I thank you for your contact and confirm the ten o'clock slot.",
+          "ar": "عزيزي الدكتور مارتنز، أكتب إليكم لتأكيد اجتماع يوم الجمعة."
+        },
+        {
+          "pt": "Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.",
+          "en": "I am at your disposal as well. Sincerely, Antônio Lopes.",
+          "ar": "عزيزي السيد لوبيز، أشكركم على تواصلكم وأؤكد موعد الساعة العاشرة."
+        },
+        {
+          "pt": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
+          "en": "Dear Dr. Martins, I am writing to confirm Friday's meeting.",
+          "ar": "وأنا أيضًا تحت تصرفكم. مع خالص التحية، أنطونيو لوبيز."
+        }
+      ],
+      "answer": "Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.",
+      "accepted": [],
+      "audio": "Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.",
+      "explanation": {
+        "pt": "Você ouviu: 'Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.' — 'Dear Mr. Lopes, I thank you for your contact and confirm the ten o'clock slot.'",
+        "en": "You heard: 'Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.' — 'Dear Mr. Lopes, I thank you for your contact and confirm the ten o'clock slot.'",
+        "ar": "سمعت: 'Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.' — 'عزيزي السيد لوبيز، أشكركم على تواصلكم وأؤكد موعد الساعة العاشرة.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "venho",
+          "en": "venho",
+          "ar": "venho"
+        },
+        {
+          "pt": "Prezado",
+          "en": "Prezado",
+          "ar": "Prezado"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "Dr.",
+          "en": "Dr.",
+          "ar": "Dr."
+        },
+        {
+          "pt": "Martins,",
+          "en": "Martins,",
+          "ar": "Martins,"
+        },
+        {
+          "pt": "reunião",
+          "en": "reunião",
+          "ar": "reunião"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "sexta-feira.",
+          "en": "sexta-feira.",
+          "ar": "sexta-feira."
+        },
+        {
+          "pt": "confirmar",
+          "en": "confirmar",
+          "ar": "confirmar"
+        }
+      ],
+      "answer": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
+      "accepted": [
+        "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.'",
+        "en": "The correct order: 'Dear Dr. Martins, I am writing to confirm Friday's meeting.'",
+        "ar": "الترتيب الصحيح: 'عزيزي الدكتور مارتنز، أكتب إليكم لتأكيد اجتماع يوم الجمعة.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a carta formal",
+          "en": "the recipient",
+          "ar": "a carta formal"
+        },
+        {
+          "pt": "o e-mail",
+          "en": "the formal letter",
+          "ar": "o e-mail"
+        },
+        {
+          "pt": "o assunto",
+          "en": "the attachment",
+          "ar": "o assunto"
+        },
+        {
+          "pt": "o destinatário",
+          "en": "the subject",
+          "ar": "o destinatário"
+        },
+        {
+          "pt": "o anexo",
+          "en": "the sender",
+          "ar": "o anexo"
+        },
+        {
+          "pt": "o remetente",
+          "en": "the email",
+          "ar": "o remetente"
+        }
+      ],
+      "answer": "a carta formal::the recipient|o e-mail::the formal letter|o assunto::the attachment|o destinatário::the subject|o anexo::the sender|o remetente::the email",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
+          "en": "I am at your disposal as well. Sincerely, Antônio Lopes.",
+          "ar": "وأنا أيضًا تحت تصرفكم. مع خالص التحية، أنطونيو لوبيز."
+        },
+        {
+          "pt": "Fico à disposição também. Atenciosamente, Antônio Lopes.",
+          "en": "Dear Dr. Martins, I am writing to confirm Friday's meeting.",
+          "ar": "عزيزي السيد لوبيز، أشكركم على تواصلكم وأؤكد موعد الساعة العاشرة."
+        },
+        {
+          "pt": "Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.",
+          "en": "Dear Mr. Lopes, I thank you for your contact and confirm the ten o'clock slot.",
+          "ar": "عزيزي الدكتور مارتنز، أكتب إليكم لتأكيد اجتماع يوم الجمعة."
+        }
+      ],
+      "answer": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
+      "accepted": [],
+      "audio": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
+      "explanation": {
+        "pt": "Você ouviu: 'Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.' — 'Dear Dr. Martins, I am writing to confirm Friday's meeting.'",
+        "en": "You heard: 'Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.' — 'Dear Dr. Martins, I am writing to confirm Friday's meeting.'",
+        "ar": "سمعت: 'Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.' — 'عزيزي الدكتور مارتنز، أكتب إليكم لتأكيد اجتماع يوم الجمعة.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Fico à disposição também. Atenciosamente, Antônio Lopes.",
+          "en": "Dear Mr. Lopes, I thank you for your contact and confirm the ten o'clock slot.",
+          "ar": "أرفق لكم جدول أعمال الاجتماع لاطلاعكم عليه."
+        },
+        {
+          "pt": "Encaminho em anexo a pauta da reunião para sua análise.",
+          "en": "I am forwarding the meeting agenda as an attachment for your review.",
+          "ar": "عزيزي السيد لوبيز، أشكركم على تواصلكم وأؤكد موعد الساعة العاشرة."
+        },
+        {
+          "pt": "Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.",
+          "en": "I am at your disposal as well. Sincerely, Antônio Lopes.",
+          "ar": "وأنا أيضًا تحت تصرفكم. مع خالص التحية، أنطونيو لوبيز."
+        }
+      ],
+      "answer": "Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.",
+      "accepted": [],
+      "audio": "Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.",
+      "explanation": {
+        "pt": "Você ouviu: 'Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.' — 'Dear Mr. Lopes, I thank you for your contact and confirm the ten o'clock slot.'",
+        "en": "You heard: 'Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.' — 'Dear Mr. Lopes, I thank you for your contact and confirm the ten o'clock slot.'",
+        "ar": "سمعت: 'Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.' — 'عزيزي السيد لوبيز، أشكركم على تواصلكم وأؤكد موعد الساعة العاشرة.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "sexta-feira.",
+          "en": "sexta-feira.",
+          "ar": "sexta-feira."
+        },
+        {
+          "pt": "confirmar",
+          "en": "confirmar",
+          "ar": "confirmar"
+        },
+        {
+          "pt": "reunião",
+          "en": "reunião",
+          "ar": "reunião"
+        },
+        {
+          "pt": "venho",
+          "en": "venho",
+          "ar": "venho"
+        },
+        {
+          "pt": "Dr.",
+          "en": "Dr.",
+          "ar": "Dr."
+        },
+        {
+          "pt": "Prezado",
+          "en": "Prezado",
+          "ar": "Prezado"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "Martins,",
+          "en": "Martins,",
+          "ar": "Martins,"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        }
+      ],
+      "answer": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
+      "accepted": [
+        "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.'",
+        "en": "The correct order: 'Dear Dr. Martins, I am writing to confirm Friday's meeting.'",
+        "ar": "الترتيب الصحيح: 'عزيزي الدكتور مارتنز، أكتب إليكم لتأكيد اجتماع يوم الجمعة.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o remetente",
+          "en": "the email",
+          "ar": "o remetente"
+        },
+        {
+          "pt": "o e-mail",
+          "en": "the attachment",
+          "ar": "o e-mail"
+        },
+        {
+          "pt": "o anexo",
+          "en": "the recipient",
+          "ar": "o anexo"
+        },
+        {
+          "pt": "o destinatário",
+          "en": "the formal letter",
+          "ar": "o destinatário"
+        },
+        {
+          "pt": "a carta formal",
+          "en": "the sender",
+          "ar": "a carta formal"
+        },
+        {
+          "pt": "o assunto",
+          "en": "the subject",
+          "ar": "o assunto"
+        }
+      ],
+      "answer": "o remetente::the email|o e-mail::the attachment|o anexo::the recipient|o destinatário::the formal letter|a carta formal::the sender|o assunto::the subject",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
+          "en": "Dear Dr. Martins, I am writing to confirm Friday's meeting.",
+          "ar": "عزيزي الدكتور مارتنز، أكتب إليكم لتأكيد اجتماع يوم الجمعة."
+        },
+        {
+          "pt": "Recebido. Caso precise de esclarecimentos, estou à disposição.",
+          "en": "Received. Should you need clarifications, I am at your disposal.",
+          "ar": "تم الاستلام. إذا احتجتم أي توضيحات، فأنا تحت تصرفكم."
+        },
+        {
+          "pt": "Encaminho em anexo a pauta da reunião para sua análise.",
+          "en": "I am forwarding the meeting agenda as an attachment for your review.",
+          "ar": "أرفق لكم جدول أعمال الاجتماع لاطلاعكم عليه."
+        }
+      ],
+      "answer": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
+      "accepted": [],
+      "audio": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
+      "explanation": {
+        "pt": "Você ouviu: 'Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.' — 'Dear Dr. Martins, I am writing to confirm Friday's meeting.'",
+        "en": "You heard: 'Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.' — 'Dear Dr. Martins, I am writing to confirm Friday's meeting.'",
+        "ar": "سمعت: 'Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.' — 'عزيزي الدكتور مارتنز، أكتب إليكم لتأكيد اجتماع يوم الجمعة.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Encaminho em anexo a pauta da reunião para sua análise.",
+          "en": "I am at your disposal as well. Sincerely, Antônio Lopes.",
+          "ar": "عزيزي السيد لوبيز، أشكركم على تواصلكم وأؤكد موعد الساعة العاشرة."
+        },
+        {
+          "pt": "Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.",
+          "en": "I am forwarding the meeting agenda as an attachment for your review.",
+          "ar": "أرفق لكم جدول أعمال الاجتماع لاطلاعكم عليه."
+        },
+        {
+          "pt": "Fico à disposição também. Atenciosamente, Antônio Lopes.",
+          "en": "Dear Mr. Lopes, I thank you for your contact and confirm the ten o'clock slot.",
+          "ar": "وأنا أيضًا تحت تصرفكم. مع خالص التحية، أنطونيو لوبيز."
+        }
+      ],
+      "answer": "Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.",
+      "accepted": [],
+      "audio": "Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.",
+      "explanation": {
+        "pt": "Você ouviu: 'Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.' — 'Dear Mr. Lopes, I thank you for your contact and confirm the ten o'clock slot.'",
+        "en": "You heard: 'Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.' — 'Dear Mr. Lopes, I thank you for your contact and confirm the ten o'clock slot.'",
+        "ar": "سمعت: 'Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.' — 'عزيزي السيد لوبيز، أشكركم على تواصلكم وأؤكد موعد الساعة العاشرة.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "sexta-feira.",
+          "en": "sexta-feira.",
+          "ar": "sexta-feira."
+        },
+        {
+          "pt": "venho",
+          "en": "venho",
+          "ar": "venho"
+        },
+        {
+          "pt": "Dr.",
+          "en": "Dr.",
+          "ar": "Dr."
+        },
+        {
+          "pt": "reunião",
+          "en": "reunião",
+          "ar": "reunião"
+        },
+        {
+          "pt": "Martins,",
+          "en": "Martins,",
+          "ar": "Martins,"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "Prezado",
+          "en": "Prezado",
+          "ar": "Prezado"
+        },
+        {
+          "pt": "confirmar",
+          "en": "confirmar",
+          "ar": "confirmar"
+        }
+      ],
+      "answer": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
+      "accepted": [
+        "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.'",
+        "en": "The correct order: 'Dear Dr. Martins, I am writing to confirm Friday's meeting.'",
+        "ar": "الترتيب الصحيح: 'عزيزي الدكتور مارتنز، أكتب إليكم لتأكيد اجتماع يوم الجمعة.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o destinatário",
+          "en": "the recipient",
+          "ar": "o destinatário"
+        },
+        {
+          "pt": "o anexo",
+          "en": "the email",
+          "ar": "o anexo"
+        },
+        {
+          "pt": "o remetente",
+          "en": "the sender",
+          "ar": "o remetente"
+        },
+        {
+          "pt": "a carta formal",
+          "en": "the subject",
+          "ar": "a carta formal"
+        },
+        {
+          "pt": "o e-mail",
+          "en": "the formal letter",
+          "ar": "o e-mail"
+        },
+        {
+          "pt": "o assunto",
+          "en": "the attachment",
+          "ar": "o assunto"
+        }
+      ],
+      "answer": "o destinatário::the recipient|o anexo::the email|o remetente::the sender|a carta formal::the subject|o e-mail::the formal letter|o assunto::the attachment",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Encaminho em anexo a pauta da reunião para sua análise.",
+          "en": "I am at your disposal as well. Sincerely, Antônio Lopes.",
+          "ar": "أرفق لكم جدول أعمال الاجتماع لاطلاعكم عليه."
+        },
+        {
+          "pt": "Fico à disposição também. Atenciosamente, Antônio Lopes.",
+          "en": "Dear Dr. Martins, I am writing to confirm Friday's meeting.",
+          "ar": "وأنا أيضًا تحت تصرفكم. مع خالص التحية، أنطونيو لوبيز."
+        },
+        {
+          "pt": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
+          "en": "I am forwarding the meeting agenda as an attachment for your review.",
+          "ar": "عزيزي الدكتور مارتنز، أكتب إليكم لتأكيد اجتماع يوم الجمعة."
+        }
+      ],
+      "answer": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
+      "accepted": [],
+      "audio": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
+      "explanation": {
+        "pt": "Você ouviu: 'Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.' — 'Dear Dr. Martins, I am writing to confirm Friday's meeting.'",
+        "en": "You heard: 'Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.' — 'Dear Dr. Martins, I am writing to confirm Friday's meeting.'",
+        "ar": "سمعت: 'Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.' — 'عزيزي الدكتور مارتنز، أكتب إليكم لتأكيد اجتماع يوم الجمعة.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.",
+          "en": "Dear Dr. Martins, I am writing to confirm Friday's meeting.",
+          "ar": "عزيزي السيد لوبيز، أشكركم على تواصلكم وأؤكد موعد الساعة العاشرة."
+        },
+        {
+          "pt": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
+          "en": "Dear Mr. Lopes, I thank you for your contact and confirm the ten o'clock slot.",
+          "ar": "تم الاستلام. إذا احتجتم أي توضيحات، فأنا تحت تصرفكم."
+        },
+        {
+          "pt": "Recebido. Caso precise de esclarecimentos, estou à disposição.",
+          "en": "Received. Should you need clarifications, I am at your disposal.",
+          "ar": "عزيزي الدكتور مارتنز، أكتب إليكم لتأكيد اجتماع يوم الجمعة."
+        }
+      ],
+      "answer": "Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.",
+      "accepted": [],
+      "audio": "Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.",
+      "explanation": {
+        "pt": "Você ouviu: 'Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.' — 'Dear Mr. Lopes, I thank you for your contact and confirm the ten o'clock slot.'",
+        "en": "You heard: 'Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.' — 'Dear Mr. Lopes, I thank you for your contact and confirm the ten o'clock slot.'",
+        "ar": "سمعت: 'Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.' — 'عزيزي السيد لوبيز، أشكركم على تواصلكم وأؤكد موعد الساعة العاشرة.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Prezado",
+          "en": "Prezado",
+          "ar": "Prezado"
+        },
+        {
+          "pt": "confirmar",
+          "en": "confirmar",
+          "ar": "confirmar"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "venho",
+          "en": "venho",
+          "ar": "venho"
+        },
+        {
+          "pt": "Dr.",
+          "en": "Dr.",
+          "ar": "Dr."
+        },
+        {
+          "pt": "reunião",
+          "en": "reunião",
+          "ar": "reunião"
+        },
+        {
+          "pt": "sexta-feira.",
+          "en": "sexta-feira.",
+          "ar": "sexta-feira."
+        },
+        {
+          "pt": "Martins,",
+          "en": "Martins,",
+          "ar": "Martins,"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        }
+      ],
+      "answer": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
+      "accepted": [
+        "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.'",
+        "en": "The correct order: 'Dear Dr. Martins, I am writing to confirm Friday's meeting.'",
+        "ar": "الترتيب الصحيح: 'عزيزي الدكتور مارتنز، أكتب إليكم لتأكيد اجتماع يوم الجمعة.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o anexo",
+          "en": "the sender",
+          "ar": "o anexo"
+        },
+        {
+          "pt": "o e-mail",
+          "en": "the formal letter",
+          "ar": "o e-mail"
+        },
+        {
+          "pt": "o assunto",
+          "en": "the attachment",
+          "ar": "o assunto"
+        },
+        {
+          "pt": "o destinatário",
+          "en": "the email",
+          "ar": "o destinatário"
+        },
+        {
+          "pt": "o remetente",
+          "en": "the subject",
+          "ar": "o remetente"
+        },
+        {
+          "pt": "a carta formal",
+          "en": "the recipient",
+          "ar": "a carta formal"
+        }
+      ],
+      "answer": "o anexo::the sender|o e-mail::the formal letter|o assunto::the attachment|o destinatário::the email|o remetente::the subject|a carta formal::the recipient",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.",
+          "en": "Dear Dr. Martins, I am writing to confirm Friday's meeting.",
+          "ar": "وأنا أيضًا تحت تصرفكم. مع خالص التحية، أنطونيو لوبيز."
+        },
+        {
+          "pt": "Fico à disposição também. Atenciosamente, Antônio Lopes.",
+          "en": "Dear Mr. Lopes, I thank you for your contact and confirm the ten o'clock slot.",
+          "ar": "عزيزي الدكتور مارتنز، أكتب إليكم لتأكيد اجتماع يوم الجمعة."
+        },
+        {
+          "pt": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
+          "en": "I am at your disposal as well. Sincerely, Antônio Lopes.",
+          "ar": "عزيزي السيد لوبيز، أشكركم على تواصلكم وأؤكد موعد الساعة العاشرة."
+        }
+      ],
+      "answer": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
+      "accepted": [],
+      "audio": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
+      "explanation": {
+        "pt": "Você ouviu: 'Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.' — 'Dear Dr. Martins, I am writing to confirm Friday's meeting.'",
+        "en": "You heard: 'Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.' — 'Dear Dr. Martins, I am writing to confirm Friday's meeting.'",
+        "ar": "سمعت: 'Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.' — 'عزيزي الدكتور مارتنز، أكتب إليكم لتأكيد اجتماع يوم الجمعة.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Encaminho em anexo a pauta da reunião para sua análise.",
+          "en": "I am forwarding the meeting agenda as an attachment for your review.",
+          "ar": "وأنا أيضًا تحت تصرفكم. مع خالص التحية، أنطونيو لوبيز."
+        },
+        {
+          "pt": "Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.",
+          "en": "Dear Mr. Lopes, I thank you for your contact and confirm the ten o'clock slot.",
+          "ar": "أرفق لكم جدول أعمال الاجتماع لاطلاعكم عليه."
+        },
+        {
+          "pt": "Fico à disposição também. Atenciosamente, Antônio Lopes.",
+          "en": "I am at your disposal as well. Sincerely, Antônio Lopes.",
+          "ar": "عزيزي السيد لوبيز، أشكركم على تواصلكم وأؤكد موعد الساعة العاشرة."
+        }
+      ],
+      "answer": "Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.",
+      "accepted": [],
+      "audio": "Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.",
+      "explanation": {
+        "pt": "Você ouviu: 'Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.' — 'Dear Mr. Lopes, I thank you for your contact and confirm the ten o'clock slot.'",
+        "en": "You heard: 'Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.' — 'Dear Mr. Lopes, I thank you for your contact and confirm the ten o'clock slot.'",
+        "ar": "سمعت: 'Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.' — 'عزيزي السيد لوبيز، أشكركم على تواصلكم وأؤكد موعد الساعة العاشرة.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "venho",
+          "en": "venho",
+          "ar": "venho"
+        },
+        {
+          "pt": "Prezado",
+          "en": "Prezado",
+          "ar": "Prezado"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "Dr.",
+          "en": "Dr.",
+          "ar": "Dr."
+        },
+        {
+          "pt": "reunião",
+          "en": "reunião",
+          "ar": "reunião"
+        },
+        {
+          "pt": "confirmar",
+          "en": "confirmar",
+          "ar": "confirmar"
+        },
+        {
+          "pt": "sexta-feira.",
+          "en": "sexta-feira.",
+          "ar": "sexta-feira."
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "Martins,",
+          "en": "Martins,",
+          "ar": "Martins,"
+        }
+      ],
+      "answer": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
+      "accepted": [
+        "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.'",
+        "en": "The correct order: 'Dear Dr. Martins, I am writing to confirm Friday's meeting.'",
+        "ar": "الترتيب الصحيح: 'عزيزي الدكتور مارتنز، أكتب إليكم لتأكيد اجتماع يوم الجمعة.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o destinatário",
+          "en": "the attachment",
+          "ar": "o destinatário"
+        },
+        {
+          "pt": "a carta formal",
+          "en": "the subject",
+          "ar": "a carta formal"
+        },
+        {
+          "pt": "o anexo",
+          "en": "the formal letter",
+          "ar": "o anexo"
+        },
+        {
+          "pt": "o remetente",
+          "en": "the sender",
+          "ar": "o remetente"
+        },
+        {
+          "pt": "o e-mail",
+          "en": "the email",
+          "ar": "o e-mail"
+        },
+        {
+          "pt": "o assunto",
+          "en": "the recipient",
+          "ar": "o assunto"
+        }
+      ],
+      "answer": "o destinatário::the attachment|a carta formal::the subject|o anexo::the formal letter|o remetente::the sender|o e-mail::the email|o assunto::the recipient",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
+          "en": "Dear Dr. Martins, I am writing to confirm Friday's meeting.",
+          "ar": "عزيزي الدكتور مارتنز، أكتب إليكم لتأكيد اجتماع يوم الجمعة."
+        },
+        {
+          "pt": "Fico à disposição também. Atenciosamente, Antônio Lopes.",
+          "en": "I am forwarding the meeting agenda as an attachment for your review.",
+          "ar": "وأنا أيضًا تحت تصرفكم. مع خالص التحية، أنطونيو لوبيز."
+        },
+        {
+          "pt": "Encaminho em anexo a pauta da reunião para sua análise.",
+          "en": "I am at your disposal as well. Sincerely, Antônio Lopes.",
+          "ar": "أرفق لكم جدول أعمال الاجتماع لاطلاعكم عليه."
+        }
+      ],
+      "answer": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
+      "accepted": [],
+      "audio": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
+      "explanation": {
+        "pt": "Você ouviu: 'Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.' — 'Dear Dr. Martins, I am writing to confirm Friday's meeting.'",
+        "en": "You heard: 'Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.' — 'Dear Dr. Martins, I am writing to confirm Friday's meeting.'",
+        "ar": "سمعت: 'Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.' — 'عزيزي الدكتور مارتنز، أكتب إليكم لتأكيد اجتماع يوم الجمعة.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
+          "en": "Dear Mr. Lopes, I thank you for your contact and confirm the ten o'clock slot.",
+          "ar": "وأنا أيضًا تحت تصرفكم. مع خالص التحية، أنطونيو لوبيز."
+        },
+        {
+          "pt": "Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.",
+          "en": "Dear Dr. Martins, I am writing to confirm Friday's meeting.",
+          "ar": "عزيزي السيد لوبيز، أشكركم على تواصلكم وأؤكد موعد الساعة العاشرة."
+        },
+        {
+          "pt": "Fico à disposição também. Atenciosamente, Antônio Lopes.",
+          "en": "I am at your disposal as well. Sincerely, Antônio Lopes.",
+          "ar": "عزيزي الدكتور مارتنز، أكتب إليكم لتأكيد اجتماع يوم الجمعة."
+        }
+      ],
+      "answer": "Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.",
+      "accepted": [],
+      "audio": "Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.",
+      "explanation": {
+        "pt": "Você ouviu: 'Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.' — 'Dear Mr. Lopes, I thank you for your contact and confirm the ten o'clock slot.'",
+        "en": "You heard: 'Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.' — 'Dear Mr. Lopes, I thank you for your contact and confirm the ten o'clock slot.'",
+        "ar": "سمعت: 'Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.' — 'عزيزي السيد لوبيز، أشكركم على تواصلكم وأؤكد موعد الساعة العاشرة.'"
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'the formal letter'",
+        "en": "Type in Portuguese: 'the formal letter'",
+        "ar": "اكتب بالبرتغالية: 'الرسالة الرسمية'"
+      },
+      "options": [],
+      "answer": "a carta formal",
+      "accepted": [
+        "a carta formal"
+      ],
+      "explanation": {
+        "pt": "'a carta formal' significa 'the formal letter'.",
+        "en": "'a carta formal' means 'the formal letter'.",
+        "ar": "'$a carta formal' بالعربية: '$الرسالة الرسمية'."
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'the email'",
+        "en": "Type in Portuguese: 'the email'",
+        "ar": "اكتب بالبرتغالية: 'البريد الإلكتروني'"
+      },
+      "options": [],
+      "answer": "o e-mail",
+      "accepted": [
+        "o e-mail"
+      ],
+      "explanation": {
+        "pt": "'o e-mail' significa 'the email'.",
+        "en": "'o e-mail' means 'the email'.",
+        "ar": "'$o e-mail' بالعربية: '$البريد الإلكتروني'."
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Fico à disposição também. Atenciosamente, Antônio Lopes.",
+          "en": "Fico à disposição também. Atenciosamente, Antônio Lopes.",
+          "ar": "Fico à disposição também. Atenciosamente, Antônio Lopes."
+        },
+        {
+          "pt": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
+          "en": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
+          "ar": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira."
+        },
+        {
+          "pt": "Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.",
+          "en": "Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.",
+          "ar": "Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas."
+        }
+      ],
+      "answer": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
+      "accepted": [],
+      "audio": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
+      "explanation": {
+        "pt": "Você ouviu: 'Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.'",
+        "en": "You heard: 'Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.'",
+        "ar": "سمعت: 'Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.'"
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.",
+          "en": "Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.",
+          "ar": "Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas."
+        },
+        {
+          "pt": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
+          "en": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
+          "ar": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira."
+        },
+        {
+          "pt": "Recebido. Caso precise de esclarecimentos, estou à disposição.",
+          "en": "Recebido. Caso precise de esclarecimentos, estou à disposição.",
+          "ar": "Recebido. Caso precise de esclarecimentos, estou à disposição."
+        }
+      ],
+      "answer": "Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.",
+      "accepted": [],
+      "audio": "Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.",
+      "explanation": {
+        "pt": "Você ouviu: 'Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.'",
+        "en": "You heard: 'Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.'",
+        "ar": "سمعت: 'Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.'"
+      }
+    },
+    {
+      "type": "dictation",
+      "prompt": {
+        "pt": "Ouça e escreva o que você ouviu.",
+        "en": "Listen and type what you hear.",
+        "ar": "استمع واكتب ما سمعته."
+      },
+      "options": [],
+      "answer": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
+      "accepted": [],
+      "audio": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
+      "explanation": {
+        "pt": "A frase correta: 'Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.'",
+        "en": "The correct sentence: 'Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.'",
+        "ar": "الجملة الصحيحة: 'Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Martins,",
+          "en": "Martins,",
+          "ar": "Martins,"
+        },
+        {
+          "pt": "Dr.",
+          "en": "Dr.",
+          "ar": "Dr."
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "reunião",
+          "en": "reunião",
+          "ar": "reunião"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "sexta-feira.",
+          "en": "sexta-feira.",
+          "ar": "sexta-feira."
+        },
+        {
+          "pt": "Prezado",
+          "en": "Prezado",
+          "ar": "Prezado"
+        },
+        {
+          "pt": "confirmar",
+          "en": "confirmar",
+          "ar": "confirmar"
+        },
+        {
+          "pt": "venho",
+          "en": "venho",
+          "ar": "venho"
+        }
+      ],
+      "answer": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
+      "accepted": [
+        "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.'",
+        "en": "The correct order: 'Dear Dr. Martins, I am writing to confirm Friday's meeting.'",
+        "ar": "الترتيب الصحيح: 'عزيزي الدكتور مارتنز، أكتب إليكم لتأكيد اجتماع يوم الجمعة.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o destinatário",
+          "en": "the sender",
+          "ar": "o destinatário"
+        },
+        {
+          "pt": "a carta formal",
+          "en": "the attachment",
+          "ar": "a carta formal"
+        },
+        {
+          "pt": "o e-mail",
+          "en": "the recipient",
+          "ar": "o e-mail"
+        },
+        {
+          "pt": "o anexo",
+          "en": "the formal letter",
+          "ar": "o anexo"
+        },
+        {
+          "pt": "o remetente",
+          "en": "the subject",
+          "ar": "o remetente"
+        },
+        {
+          "pt": "o assunto",
+          "en": "the email",
+          "ar": "o assunto"
+        }
+      ],
+      "answer": "o destinatário::the sender|a carta formal::the attachment|o e-mail::the recipient|o anexo::the formal letter|o remetente::the subject|o assunto::the email",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Encaminho em anexo a pauta da reunião para sua análise.",
+          "en": "Dear Dr. Martins, I am writing to confirm Friday's meeting.",
+          "ar": "أرفق لكم جدول أعمال الاجتماع لاطلاعكم عليه."
+        },
+        {
+          "pt": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
+          "en": "Dear Mr. Lopes, I thank you for your contact and confirm the ten o'clock slot.",
+          "ar": "عزيزي الدكتور مارتنز، أكتب إليكم لتأكيد اجتماع يوم الجمعة."
+        },
+        {
+          "pt": "Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.",
+          "en": "I am forwarding the meeting agenda as an attachment for your review.",
+          "ar": "عزيزي السيد لوبيز، أشكركم على تواصلكم وأؤكد موعد الساعة العاشرة."
+        }
+      ],
+      "answer": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
+      "accepted": [],
+      "audio": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
+      "explanation": {
+        "pt": "Você ouviu: 'Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.' — 'Dear Dr. Martins, I am writing to confirm Friday's meeting.'",
+        "en": "You heard: 'Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.' — 'Dear Dr. Martins, I am writing to confirm Friday's meeting.'",
+        "ar": "سمعت: 'Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.' — 'عزيزي الدكتور مارتنز، أكتب إليكم لتأكيد اجتماع يوم الجمعة.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.",
+          "en": "Dear Mr. Lopes, I thank you for your contact and confirm the ten o'clock slot.",
+          "ar": "أرفق لكم جدول أعمال الاجتماع لاطلاعكم عليه."
+        },
+        {
+          "pt": "Encaminho em anexo a pauta da reunião para sua análise.",
+          "en": "I am at your disposal as well. Sincerely, Antônio Lopes.",
+          "ar": "وأنا أيضًا تحت تصرفكم. مع خالص التحية، أنطونيو لوبيز."
+        },
+        {
+          "pt": "Fico à disposição também. Atenciosamente, Antônio Lopes.",
+          "en": "I am forwarding the meeting agenda as an attachment for your review.",
+          "ar": "عزيزي السيد لوبيز، أشكركم على تواصلكم وأؤكد موعد الساعة العاشرة."
+        }
+      ],
+      "answer": "Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.",
+      "accepted": [],
+      "audio": "Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.",
+      "explanation": {
+        "pt": "Você ouviu: 'Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.' — 'Dear Mr. Lopes, I thank you for your contact and confirm the ten o'clock slot.'",
+        "en": "You heard: 'Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.' — 'Dear Mr. Lopes, I thank you for your contact and confirm the ten o'clock slot.'",
+        "ar": "سمعت: 'Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.' — 'عزيزي السيد لوبيز، أشكركم على تواصلكم وأؤكد موعد الساعة العاشرة.'"
+      }
+    }
+  ],
+  "speaking": {
+    "title": {
+      "pt": "Fale Agora — Ouça e Repita",
+      "en": "Speak Now — Listen and Repeat",
+      "ar": "تحدث الآن — استمع وكرر"
+    },
+    "phrases": [
+      {
+        "pt": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
+        "en": "Dear Dr. Martins, I am writing to confirm Friday's meeting.",
+        "ar": "عزيزي الدكتور مارتنز، أكتب إليكم لتأكيد اجتماع يوم الجمعة."
+      },
+      {
+        "pt": "Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.",
+        "en": "Dear Mr. Lopes, I thank you for your contact and confirm the ten o'clock slot.",
+        "ar": "عزيزي السيد لوبيز، أشكركم على تواصلكم وأؤكد موعد الساعة العاشرة."
+      },
+      {
+        "pt": "Encaminho em anexo a pauta da reunião para sua análise.",
+        "en": "I am forwarding the meeting agenda as an attachment for your review.",
+        "ar": "أرفق لكم جدول أعمال الاجتماع لاطلاعكم عليه."
+      },
+      {
+        "pt": "Recebido. Caso precise de esclarecimentos, estou à disposição.",
+        "en": "Received. Should you need clarifications, I am at your disposal.",
+        "ar": "تم الاستلام. إذا احتجتم أي توضيحات، فأنا تحت تصرفكم."
+      },
+      {
+        "pt": "Fico à disposição também. Atenciosamente, Antônio Lopes.",
+        "en": "I am at your disposal as well. Sincerely, Antônio Lopes.",
+        "ar": "وأنا أيضًا تحت تصرفكم. مع خالص التحية، أنطونيو لوبيز."
+      },
+      {
+        "pt": "a carta formal",
+        "en": "the formal letter",
+        "ar": "الرسالة الرسمية"
+      },
+      {
+        "pt": "o e-mail",
+        "en": "the email",
+        "ar": "البريد الإلكتروني"
+      },
+      {
+        "pt": "o destinatário",
+        "en": "the recipient",
+        "ar": "المرسل إليه"
+      }
+    ]
+  },
+  "cultural_tips": {
+    "pt": "",
+    "en": "",
+    "ar": ""
+  }
+}

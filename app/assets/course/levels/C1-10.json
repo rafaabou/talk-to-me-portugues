@@ -1,0 +1,1988 @@
+{
+  "id": "C1-10",
+  "level": "C1",
+  "level_name": {
+    "pt": "Avançado",
+    "en": "Advanced",
+    "ar": "متقدم"
+  },
+  "title": {
+    "pt": "Inversão e Ênfase",
+    "en": "Inversion and Emphasis",
+    "ar": "التقديم والتأخير والتوكيد"
+  },
+  "objectives": [
+    {
+      "pt": "Usar a inversão sintática para dar ênfase",
+      "en": "Use syntactic inversion to give emphasis",
+      "ar": "استخدام القلب النحوي لإضفاء التوكيد"
+    },
+    {
+      "pt": "Dominar as estruturas de clivagem (é que, o que... é)",
+      "en": "Master cleft structures (é que, o que... é)",
+      "ar": "إتقان تراكيب التقسيم (é que، o que... é)"
+    },
+    {
+      "pt": "Reconhecer a ordem marcada em textos e na fala",
+      "en": "Recognize marked word order in texts and speech",
+      "ar": "التعرف على الترتيب المميز في النصوص والكلام"
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "a inversão",
+      "ipa": "/a ĩ.veʁˈsɐ̃w/",
+      "en": "the inversion",
+      "ar": "القلب، التقديم",
+      "example": {
+        "pt": "Foi você que marcou a reunião de amanhã?",
+        "en": "Was it you who scheduled tomorrow's meeting?",
+        "ar": "هل أنت من حدد اجتماع الغد؟"
+      }
+    },
+    {
+      "pt": "a ênfase",
+      "ipa": "/a ˈẽ.fa.zi/",
+      "en": "the emphasis",
+      "ar": "التوكيد",
+      "example": {
+        "pt": "Foi você que marcou a reunião de amanhã?",
+        "en": "Was it you who scheduled tomorrow's meeting?",
+        "ar": "هل أنت من حدد اجتماع الغد؟"
+      }
+    },
+    {
+      "pt": "o tópico",
+      "ipa": "/u ˈtɔ.pi.ku/",
+      "en": "the topic",
+      "ar": "الموضوع، المحور",
+      "example": {
+        "pt": "O que me preocupa é o horário, não a pauta.",
+        "en": "What worries me is the time, not the agenda.",
+        "ar": "ما يقلقني هو التوقيت، لا جدول الأعمال."
+      }
+    },
+    {
+      "pt": "o foco",
+      "ipa": "/u ˈfɔ.ku/",
+      "en": "the focus",
+      "ar": "التركيز",
+      "example": {
+        "pt": "O que me preocupa é o horário, não a pauta.",
+        "en": "What worries me is the time, not the agenda.",
+        "ar": "ما يقلقني هو التوقيت، لا جدول الأعمال."
+      }
+    },
+    {
+      "pt": "realçar",
+      "ipa": "/ʁe.awˈsaɾ/",
+      "en": "to highlight",
+      "ar": "يبرز",
+      "example": {
+        "pt": "Foi você que marcou a reunião de amanhã?",
+        "en": "Was it you who scheduled tomorrow's meeting?",
+        "ar": "هل أنت من حدد اجتماع الغد؟"
+      }
+    },
+    {
+      "pt": "destacar",
+      "ipa": "/des.taˈkaɾ/",
+      "en": "to emphasize",
+      "ar": "يسلط الضوء",
+      "example": {
+        "pt": "Foi você que marcou a reunião de amanhã?",
+        "en": "Was it you who scheduled tomorrow's meeting?",
+        "ar": "هل أنت من حدد اجتماع الغد؟"
+      }
+    },
+    {
+      "pt": "o complemento",
+      "ipa": "/u kõ.pleˈmẽ.tu/",
+      "en": "the complement",
+      "ar": "المتمم",
+      "example": {
+        "pt": "O que me preocupa é o horário, não a pauta.",
+        "en": "What worries me is the time, not the agenda.",
+        "ar": "ما يقلقني هو التوقيت، لا جدول الأعمال."
+      }
+    },
+    {
+      "pt": "o sujeito posposto",
+      "ipa": "/u suˈʒej.tu posˈpɔs.tu/",
+      "en": "the postposed subject",
+      "ar": "الفاعل المؤخر",
+      "example": {
+        "pt": "O que me preocupa é o horário, não a pauta.",
+        "en": "What worries me is the time, not the agenda.",
+        "ar": "ما يقلقني هو التوقيت، لا جدول الأعمال."
+      }
+    },
+    {
+      "pt": "a oração clivada",
+      "ipa": "/a o.ɾaˈsɐ̃w kliˈva.da/",
+      "en": "the cleft sentence",
+      "ar": "الجملة المقسّمة",
+      "example": {
+        "pt": "Foi você que marcou a reunião de amanhã?",
+        "en": "Was it you who scheduled tomorrow's meeting?",
+        "ar": "هل أنت من حدد اجتماع الغد؟"
+      }
+    },
+    {
+      "pt": "o advérbio",
+      "ipa": "/u aˈdvɛʁ.bi.u/",
+      "en": "the adverb",
+      "ar": "الظرف",
+      "example": {
+        "pt": "O que me preocupa é o horário, não a pauta.",
+        "en": "What worries me is the time, not the agenda.",
+        "ar": "ما يقلقني هو التوقيت، لا جدول الأعمال."
+      }
+    },
+    {
+      "pt": "o adjetivo anteposto",
+      "ipa": "/u a.dʒiˈtʃi.vu ɐ̃.teˈpɔs.tu/",
+      "en": "the preposed adjective",
+      "ar": "الصفة المقدّمة",
+      "example": {
+        "pt": "O que me preocupa é o horário, não a pauta.",
+        "en": "What worries me is the time, not the agenda.",
+        "ar": "ما يقلقني هو التوقيت، لا جدول الأعمال."
+      }
+    },
+    {
+      "pt": "a estrutura",
+      "ipa": "/a is.tɾuˈtu.ɾa/",
+      "en": "the structure",
+      "ar": "البنية",
+      "example": {
+        "pt": "Foi você que marcou a reunião de amanhã?",
+        "en": "Was it you who scheduled tomorrow's meeting?",
+        "ar": "هل أنت من حدد اجتماع الغد؟"
+      }
+    },
+    {
+      "pt": "enfaticamente",
+      "ipa": "/ẽ.fa.tʃi.kaˈmẽ.tʃi/",
+      "en": "emphatically",
+      "ar": "بتوكيد",
+      "example": {
+        "pt": "Foi você que marcou a reunião de amanhã?",
+        "en": "Was it you who scheduled tomorrow's meeting?",
+        "ar": "هل أنت من حدد اجتماع الغد؟"
+      }
+    },
+    {
+      "pt": "enfatizar",
+      "ipa": "/ẽ.fa.tʃiˈzaɾ/",
+      "en": "to emphasize",
+      "ar": "يؤكد، يشدد",
+      "example": {
+        "pt": "Foi você que marcou a reunião de amanhã?",
+        "en": "Was it you who scheduled tomorrow's meeting?",
+        "ar": "هل أنت من حدد اجتماع الغد؟"
+      }
+    },
+    {
+      "pt": "o realce",
+      "ipa": "/u ʁeˈaws/",
+      "en": "the emphasis, relief",
+      "ar": "الإبراز",
+      "example": {
+        "pt": "O que me preocupa é o horário, não a pauta.",
+        "en": "What worries me is the time, not the agenda.",
+        "ar": "ما يقلقني هو التوقيت، لا جدول الأعمال."
+      }
+    },
+    {
+      "pt": "colocar em relevo",
+      "ipa": "/ko.loˈkaɾ ĩ ʁeˈlɛ.vu/",
+      "en": "to put in relief",
+      "ar": "يبرز، يسلط الضوء",
+      "example": {
+        "pt": "Foi você que marcou a reunião de amanhã?",
+        "en": "Was it you who scheduled tomorrow's meeting?",
+        "ar": "هل أنت من حدد اجتماع الغد؟"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "title": {
+        "pt": "Sujeito Posposto e Ordem Marcada",
+        "en": "Postposed Subject and Marked Word Order",
+        "ar": "الفاعل المؤخر والترتيب المميز"
+      },
+      "explanation": {
+        "pt": "Na ordem marcada, o sujeito vem depois do verbo para dar ênfase ou criar efeito estilístico: 'Chegaram os convidados'. Essa inversão é comum com verbos inacusativos e com advérbios em posição inicial: 'De repente, chegou a notícia'. Quando o sujeito é posposto, o verbo concorda com ele normalmente: 'Chegaram os convidados'.",
+        "en": "In marked word order, the subject comes after the verb to give emphasis or create a stylistic effect: 'Chegaram os convidados' (The guests arrived). This inversion is common with unaccusative verbs and with adverbs in initial position: 'De repente, chegou a notícia' (Suddenly, the news arrived). When the subject is postposed, the verb agrees with it normally: 'Chegaram os convidados'.",
+        "ar": "في الترتيب المميز، يأتي الفاعل بعد الفعل لإضفاء التوكيد أو إحداث أثر أسلوبي: 'Chegaram os convidados' (وصل الضيوف). هذا القلب شائع مع الأفعال اللازمة ومع الظروف في الموضع الأول: 'De repente, chegou a notícia' (فجأة وصل الخبر). وعندما يتأخر الفاعل يطابقه الفعل بشكل طبيعي: 'Chegaram os convidados'."
+      },
+      "examples": [
+        {
+          "pt": "Chegaram os convidados de São Paulo.",
+          "en": "The guests from São Paulo arrived.",
+          "ar": "وصل الضيوف القادمون من ساو باولو."
+        },
+        {
+          "pt": "Aconteceu uma coisa incrível ontem.",
+          "en": "Something incredible happened yesterday.",
+          "ar": "حدث شيء مذهل بالأمس."
+        },
+        {
+          "pt": "Chegou atrasado o próprio presidente.",
+          "en": "Even the president himself arrived late.",
+          "ar": "حضر متأخرًا الرئيس نفسه."
+        },
+        {
+          "pt": "Passam os anos e nada muda.",
+          "en": "The years go by and nothing changes.",
+          "ar": "تمر السنوات ولا شيء يتغير."
+        }
+      ]
+    },
+    {
+      "title": {
+        "pt": "Estruturas de Clivagem",
+        "en": "Cleft Structures",
+        "ar": "تراكيب التقسيم"
+      },
+      "explanation": {
+        "pt": "As estruturas clivadas isolam um elemento para destacá-lo: 'Foi Maria que resolveu o problema' (destaque do sujeito), 'Foi no Rio que eles se conheceram' (destaque do lugar). A construção 'o que ... é' destaca um verbo ou ideia: 'O que eu quero é sossego'. Essas estruturas são muito frequentes na fala brasileira.",
+        "en": "Cleft structures isolate an element to highlight it: 'Foi Maria que resolveu o problema' (highlighting the subject), 'Foi no Rio que eles se conheceram' (highlighting the place). The construction 'o que ... é' highlights a verb or idea: 'O que eu quero é sossego' (What I want is peace). These structures are very frequent in Brazilian speech.",
+        "ar": "تعزل الجمل المقسّمة عنصرًا لإبرازه: 'Foi Maria que resolveu o problema' (إبراز الفاعل: كانت ماريا هي التي حلت المشكلة)، و'Foi no Rio que eles se conheceram' (إبراز المكان: كان في ريو حيث تعارفا). ويبرز التركيب 'o que ... é' فعلًا أو فكرة: 'O que eu quero é sossego' (ما أريده هو الهدوء). هذه التراكيب شائعة جدًا في الكلام البرازيلي."
+      },
+      "examples": [
+        {
+          "pt": "Foi Maria que resolveu o problema.",
+          "en": "It was Maria who solved the problem.",
+          "ar": "كانت ماريا هي التي حلت المشكلة."
+        },
+        {
+          "pt": "O que eu quero é sossego.",
+          "en": "What I want is peace and quiet.",
+          "ar": "ما أريده هو الهدوء."
+        },
+        {
+          "pt": "É hoje que a gente vai comemorar.",
+          "en": "It is today that we are going to celebrate.",
+          "ar": "اليوم هو اليوم الذي سنحتفل فيه."
+        },
+        {
+          "pt": "Foi no Rio que eles se conheceram.",
+          "en": "It was in Rio that they met.",
+          "ar": "في ريو تعارفا."
+        }
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": {
+      "pt": "Deixando as Coisas Claras",
+      "en": "Making Things Clear",
+      "ar": "توضيح الأمور"
+    },
+    "lines": [
+      {
+        "speaker": "Vera",
+        "pt": "Foi você que marcou a reunião de amanhã?",
+        "en": "Was it you who scheduled tomorrow's meeting?",
+        "ar": "هل أنت من حدد اجتماع الغد؟"
+      },
+      {
+        "speaker": "Túlio",
+        "pt": "Foi sim, e foi eu que convidei a diretoria inteira.",
+        "en": "Yes it was, and it was me who invited the whole board.",
+        "ar": "نعم، وأنا من دعوت مجلس الإدارة كاملًا."
+      },
+      {
+        "speaker": "Vera",
+        "pt": "O que me preocupa é o horário, não a pauta.",
+        "en": "What worries me is the time, not the agenda.",
+        "ar": "ما يقلقني هو التوقيت، لا جدول الأعمال."
+      },
+      {
+        "speaker": "Túlio",
+        "pt": "Então mudemos. Chega o relatório e depois discutimos tudo.",
+        "en": "Then let's change it. First comes the report, then we discuss everything.",
+        "ar": "إذن لنغيّره. يصل التقرير أولًا ثم نناقش كل شيء."
+      },
+      {
+        "speaker": "Vera",
+        "pt": "Perfeito. É isso mesmo que eu esperava ouvir.",
+        "en": "Perfect. That is exactly what I expected to hear.",
+        "ar": "ممتاز. هذا بالضبط ما كنت أتوقع سماعه."
+      }
+    ]
+  },
+  "reading": {
+    "title": {
+      "pt": "O Poder da Ordem das Palavras",
+      "en": "The Power of Word Order",
+      "ar": "قوة ترتيب الكلمات"
+    },
+    "text_pt": "No português, a ordem das palavras não é um mero detalhe: 'O professor chegou' informa; 'Chegou o professor' enfatiza a chegada. As estruturas clivadas reforçam ainda mais o foco do enunciado. É essa liberdade de arranjo que permite ao falante matizar a mensagem. Por isso, dominar a inversão é sinal de domínio da língua.",
+    "text_en": "In Portuguese, word order is not a mere detail: 'O professor chegou' informs; 'Chegou o professor' emphasizes the arrival. Cleft structures reinforce the focus of the utterance even more. It is this freedom of arrangement that allows the speaker to nuance the message. That is why mastering inversion is a sign of mastery of the language.",
+    "text_ar": "في البرتغالية، ليس ترتيب الكلمات مجرد تفصيل: جملة 'O professor chegou' تخبر، وجملة 'Chegou o professor' تؤكد الوصول. وتزيد الجمل المقسّمة من تركيز الكلام أكثر. هذه الحرية في الترتيب هي ما تتيح للمتحدث أن يضفي فروقًا دقيقة على الرسالة. لذلك فإن إتقان القلب علامة على إتقان اللغة."
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual frase destaca o lugar com estrutura clivada?",
+        "en": "Which sentence highlights the place with a cleft structure?",
+        "ar": "أي جملة تبرز المكان بتركيب مقسّم؟"
+      },
+      "options": [
+        {
+          "pt": "Foi no Rio que eles se conheceram.",
+          "en": "Foi no Rio que eles se conheceram.",
+          "ar": "Foi no Rio que eles se conheceram."
+        },
+        {
+          "pt": "Eles se conheceram no Rio.",
+          "en": "Eles se conheceram no Rio.",
+          "ar": "Eles se conheceram no Rio."
+        },
+        {
+          "pt": "Eles no Rio se conheceram.",
+          "en": "Eles no Rio se conheceram.",
+          "ar": "Eles no Rio se conheceram."
+        }
+      ],
+      "answer": "Foi no Rio que eles se conheceram.",
+      "explanation": {
+        "pt": "'Foi ... que' isola e destaca o elemento: o lugar.",
+        "en": "'Foi ... que' isolates and highlights the element: the place.",
+        "ar": "'Foi ... que' تعزل العنصر وتبرزه: المكان."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Complete com a ordem marcada: '______ uma coisa incrível.'",
+        "en": "Complete with marked word order: '______ uma coisa incrível.'",
+        "ar": "أكمل بالترتيب المميز: '______ uma coisa incrível.'"
+      },
+      "options": [
+        {
+          "pt": "Aconteceu",
+          "en": "Aconteceu",
+          "ar": "Aconteceu"
+        },
+        {
+          "pt": "Acontecerá",
+          "en": "Acontecerá",
+          "ar": "Acontecerá"
+        },
+        {
+          "pt": "Acontecendo",
+          "en": "Acontecendo",
+          "ar": "Acontecendo"
+        }
+      ],
+      "answer": "Aconteceu",
+      "explanation": {
+        "pt": "'Aconteceu uma coisa incrível' pospõe o sujeito para dar ênfase.",
+        "en": "'Aconteceu uma coisa incrível' postposes the subject for emphasis.",
+        "ar": "جملة 'Aconteceu uma coisa incrível' تؤخر الفاعل للتوكيد."
+      }
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza com ênfase: 'It was yesterday that they decided everything.'",
+        "en": "Translate with emphasis: 'It was yesterday that they decided everything.'",
+        "ar": "ترجم مع التوكيد: 'It was yesterday that they decided everything.'"
+      },
+      "options": [],
+      "answer": "Foi ontem que eles decidiram tudo.",
+      "explanation": {
+        "pt": "A estrutura 'Foi ... que' realça o advérbio de tempo 'ontem'.",
+        "en": "The structure 'Foi ... que' highlights the adverb of time 'ontem'.",
+        "ar": "تركيب 'Foi ... que' يبرز ظرف الزمن 'ontem'."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "marcou",
+          "en": "marcou",
+          "ar": "marcou"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "amanhã?",
+          "en": "amanhã?",
+          "ar": "amanhã?"
+        },
+        {
+          "pt": "reunião",
+          "en": "reunião",
+          "ar": "reunião"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "Foi",
+          "en": "Foi",
+          "ar": "Foi"
+        }
+      ],
+      "answer": "Foi você que marcou a reunião de amanhã?",
+      "accepted": [
+        "Foi você que marcou a reunião de amanhã?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Foi você que marcou a reunião de amanhã?'",
+        "en": "The correct order: 'Was it you who scheduled tomorrow's meeting?'",
+        "ar": "الترتيب الصحيح: 'هل أنت من حدد اجتماع الغد؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o foco",
+          "en": "the topic",
+          "ar": "o foco"
+        },
+        {
+          "pt": "realçar",
+          "en": "to emphasize",
+          "ar": "realçar"
+        },
+        {
+          "pt": "a ênfase",
+          "en": "the inversion",
+          "ar": "a ênfase"
+        },
+        {
+          "pt": "destacar",
+          "en": "the focus",
+          "ar": "destacar"
+        },
+        {
+          "pt": "o tópico",
+          "en": "the emphasis",
+          "ar": "o tópico"
+        },
+        {
+          "pt": "a inversão",
+          "en": "to highlight",
+          "ar": "a inversão"
+        }
+      ],
+      "answer": "o foco::the topic|realçar::to emphasize|a ênfase::the inversion|destacar::the focus|o tópico::the emphasis|a inversão::to highlight",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Foi você que marcou a reunião de amanhã?",
+          "en": "What worries me is the time, not the agenda.",
+          "ar": "ما يقلقني هو التوقيت، لا جدول الأعمال."
+        },
+        {
+          "pt": "O que me preocupa é o horário, não a pauta.",
+          "en": "Yes it was, and it was me who invited the whole board.",
+          "ar": "هل أنت من حدد اجتماع الغد؟"
+        },
+        {
+          "pt": "Foi sim, e foi eu que convidei a diretoria inteira.",
+          "en": "Was it you who scheduled tomorrow's meeting?",
+          "ar": "نعم، وأنا من دعوت مجلس الإدارة كاملًا."
+        }
+      ],
+      "answer": "Foi você que marcou a reunião de amanhã?",
+      "accepted": [],
+      "audio": "Foi você que marcou a reunião de amanhã?",
+      "explanation": {
+        "pt": "Você ouviu: 'Foi você que marcou a reunião de amanhã?' — 'Was it you who scheduled tomorrow's meeting?'",
+        "en": "You heard: 'Foi você que marcou a reunião de amanhã?' — 'Was it you who scheduled tomorrow's meeting?'",
+        "ar": "سمعت: 'Foi você que marcou a reunião de amanhã?' — 'هل أنت من حدد اجتماع الغد؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Foi sim, e foi eu que convidei a diretoria inteira.",
+          "en": "Was it you who scheduled tomorrow's meeting?",
+          "ar": "نعم، وأنا من دعوت مجلس الإدارة كاملًا."
+        },
+        {
+          "pt": "Foi você que marcou a reunião de amanhã?",
+          "en": "Perfect. That is exactly what I expected to hear.",
+          "ar": "ممتاز. هذا بالضبط ما كنت أتوقع سماعه."
+        },
+        {
+          "pt": "Perfeito. É isso mesmo que eu esperava ouvir.",
+          "en": "Yes it was, and it was me who invited the whole board.",
+          "ar": "هل أنت من حدد اجتماع الغد؟"
+        }
+      ],
+      "answer": "Foi sim, e foi eu que convidei a diretoria inteira.",
+      "accepted": [],
+      "audio": "Foi sim, e foi eu que convidei a diretoria inteira.",
+      "explanation": {
+        "pt": "Você ouviu: 'Foi sim, e foi eu que convidei a diretoria inteira.' — 'Yes it was, and it was me who invited the whole board.'",
+        "en": "You heard: 'Foi sim, e foi eu que convidei a diretoria inteira.' — 'Yes it was, and it was me who invited the whole board.'",
+        "ar": "سمعت: 'Foi sim, e foi eu que convidei a diretoria inteira.' — 'نعم، وأنا من دعوت مجلس الإدارة كاملًا.'"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Chegaram os ___ de São Paulo.",
+        "en": "Chegaram os ___ de São Paulo.",
+        "ar": "Chegaram os ___ de São Paulo."
+      },
+      "options": [
+        {
+          "pt": "convidados",
+          "en": "convidados",
+          "ar": "convidados"
+        },
+        {
+          "pt": "próprio",
+          "en": "próprio",
+          "ar": "próprio"
+        },
+        {
+          "pt": "Chegou",
+          "en": "Chegou",
+          "ar": "Chegou"
+        }
+      ],
+      "answer": "convidados",
+      "accepted": [],
+      "explanation": {
+        "pt": "A resposta é 'convidados'. Frase completa: Chegaram os convidados de São Paulo.",
+        "en": "The answer is 'convidados'. Full sentence: The guests from São Paulo arrived.",
+        "ar": "الإجابة الصحيحة: 'convidados'. الجملة كاملة: وصل الضيوف القادمون من ساو باولو."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "marcou",
+          "en": "marcou",
+          "ar": "marcou"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "reunião",
+          "en": "reunião",
+          "ar": "reunião"
+        },
+        {
+          "pt": "amanhã?",
+          "en": "amanhã?",
+          "ar": "amanhã?"
+        },
+        {
+          "pt": "Foi",
+          "en": "Foi",
+          "ar": "Foi"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        }
+      ],
+      "answer": "Foi você que marcou a reunião de amanhã?",
+      "accepted": [
+        "Foi você que marcou a reunião de amanhã?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Foi você que marcou a reunião de amanhã?'",
+        "en": "The correct order: 'Was it you who scheduled tomorrow's meeting?'",
+        "ar": "الترتيب الصحيح: 'هل أنت من حدد اجتماع الغد؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o tópico",
+          "en": "the inversion",
+          "ar": "o tópico"
+        },
+        {
+          "pt": "o foco",
+          "en": "the topic",
+          "ar": "o foco"
+        },
+        {
+          "pt": "realçar",
+          "en": "to emphasize",
+          "ar": "realçar"
+        },
+        {
+          "pt": "destacar",
+          "en": "the emphasis",
+          "ar": "destacar"
+        },
+        {
+          "pt": "a ênfase",
+          "en": "the focus",
+          "ar": "a ênfase"
+        },
+        {
+          "pt": "a inversão",
+          "en": "to highlight",
+          "ar": "a inversão"
+        }
+      ],
+      "answer": "o tópico::the inversion|o foco::the topic|realçar::to emphasize|destacar::the emphasis|a ênfase::the focus|a inversão::to highlight",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Então mudemos. Chega o relatório e depois discutimos tudo.",
+          "en": "Then let's change it. First comes the report, then we discuss everything.",
+          "ar": "هل أنت من حدد اجتماع الغد؟"
+        },
+        {
+          "pt": "Foi sim, e foi eu que convidei a diretoria inteira.",
+          "en": "Yes it was, and it was me who invited the whole board.",
+          "ar": "إذن لنغيّره. يصل التقرير أولًا ثم نناقش كل شيء."
+        },
+        {
+          "pt": "Foi você que marcou a reunião de amanhã?",
+          "en": "Was it you who scheduled tomorrow's meeting?",
+          "ar": "نعم، وأنا من دعوت مجلس الإدارة كاملًا."
+        }
+      ],
+      "answer": "Foi você que marcou a reunião de amanhã?",
+      "accepted": [],
+      "audio": "Foi você que marcou a reunião de amanhã?",
+      "explanation": {
+        "pt": "Você ouviu: 'Foi você que marcou a reunião de amanhã?' — 'Was it you who scheduled tomorrow's meeting?'",
+        "en": "You heard: 'Foi você que marcou a reunião de amanhã?' — 'Was it you who scheduled tomorrow's meeting?'",
+        "ar": "سمعت: 'Foi você que marcou a reunião de amanhã?' — 'هل أنت من حدد اجتماع الغد؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Então mudemos. Chega o relatório e depois discutimos tudo.",
+          "en": "Yes it was, and it was me who invited the whole board.",
+          "ar": "ما يقلقني هو التوقيت، لا جدول الأعمال."
+        },
+        {
+          "pt": "Foi sim, e foi eu que convidei a diretoria inteira.",
+          "en": "What worries me is the time, not the agenda.",
+          "ar": "نعم، وأنا من دعوت مجلس الإدارة كاملًا."
+        },
+        {
+          "pt": "O que me preocupa é o horário, não a pauta.",
+          "en": "Then let's change it. First comes the report, then we discuss everything.",
+          "ar": "إذن لنغيّره. يصل التقرير أولًا ثم نناقش كل شيء."
+        }
+      ],
+      "answer": "Foi sim, e foi eu que convidei a diretoria inteira.",
+      "accepted": [],
+      "audio": "Foi sim, e foi eu que convidei a diretoria inteira.",
+      "explanation": {
+        "pt": "Você ouviu: 'Foi sim, e foi eu que convidei a diretoria inteira.' — 'Yes it was, and it was me who invited the whole board.'",
+        "en": "You heard: 'Foi sim, e foi eu que convidei a diretoria inteira.' — 'Yes it was, and it was me who invited the whole board.'",
+        "ar": "سمعت: 'Foi sim, e foi eu que convidei a diretoria inteira.' — 'نعم، وأنا من دعوت مجلس الإدارة كاملًا.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "reunião",
+          "en": "reunião",
+          "ar": "reunião"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "Foi",
+          "en": "Foi",
+          "ar": "Foi"
+        },
+        {
+          "pt": "marcou",
+          "en": "marcou",
+          "ar": "marcou"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "amanhã?",
+          "en": "amanhã?",
+          "ar": "amanhã?"
+        }
+      ],
+      "answer": "Foi você que marcou a reunião de amanhã?",
+      "accepted": [
+        "Foi você que marcou a reunião de amanhã?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Foi você que marcou a reunião de amanhã?'",
+        "en": "The correct order: 'Was it you who scheduled tomorrow's meeting?'",
+        "ar": "الترتيب الصحيح: 'هل أنت من حدد اجتماع الغد؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "destacar",
+          "en": "the inversion",
+          "ar": "destacar"
+        },
+        {
+          "pt": "realçar",
+          "en": "the emphasis",
+          "ar": "realçar"
+        },
+        {
+          "pt": "o tópico",
+          "en": "to emphasize",
+          "ar": "o tópico"
+        },
+        {
+          "pt": "o foco",
+          "en": "the focus",
+          "ar": "o foco"
+        },
+        {
+          "pt": "a inversão",
+          "en": "to highlight",
+          "ar": "a inversão"
+        },
+        {
+          "pt": "a ênfase",
+          "en": "the topic",
+          "ar": "a ênfase"
+        }
+      ],
+      "answer": "destacar::the inversion|realçar::the emphasis|o tópico::to emphasize|o foco::the focus|a inversão::to highlight|a ênfase::the topic",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Foi sim, e foi eu que convidei a diretoria inteira.",
+          "en": "Was it you who scheduled tomorrow's meeting?",
+          "ar": "هل أنت من حدد اجتماع الغد؟"
+        },
+        {
+          "pt": "Perfeito. É isso mesmo que eu esperava ouvir.",
+          "en": "Perfect. That is exactly what I expected to hear.",
+          "ar": "ممتاز. هذا بالضبط ما كنت أتوقع سماعه."
+        },
+        {
+          "pt": "Foi você que marcou a reunião de amanhã?",
+          "en": "Yes it was, and it was me who invited the whole board.",
+          "ar": "نعم، وأنا من دعوت مجلس الإدارة كاملًا."
+        }
+      ],
+      "answer": "Foi você que marcou a reunião de amanhã?",
+      "accepted": [],
+      "audio": "Foi você que marcou a reunião de amanhã?",
+      "explanation": {
+        "pt": "Você ouviu: 'Foi você que marcou a reunião de amanhã?' — 'Was it you who scheduled tomorrow's meeting?'",
+        "en": "You heard: 'Foi você que marcou a reunião de amanhã?' — 'Was it you who scheduled tomorrow's meeting?'",
+        "ar": "سمعت: 'Foi você que marcou a reunião de amanhã?' — 'هل أنت من حدد اجتماع الغد؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Perfeito. É isso mesmo que eu esperava ouvir.",
+          "en": "Perfect. That is exactly what I expected to hear.",
+          "ar": "ما يقلقني هو التوقيت، لا جدول الأعمال."
+        },
+        {
+          "pt": "Foi sim, e foi eu que convidei a diretoria inteira.",
+          "en": "What worries me is the time, not the agenda.",
+          "ar": "ممتاز. هذا بالضبط ما كنت أتوقع سماعه."
+        },
+        {
+          "pt": "O que me preocupa é o horário, não a pauta.",
+          "en": "Yes it was, and it was me who invited the whole board.",
+          "ar": "نعم، وأنا من دعوت مجلس الإدارة كاملًا."
+        }
+      ],
+      "answer": "Foi sim, e foi eu que convidei a diretoria inteira.",
+      "accepted": [],
+      "audio": "Foi sim, e foi eu que convidei a diretoria inteira.",
+      "explanation": {
+        "pt": "Você ouviu: 'Foi sim, e foi eu que convidei a diretoria inteira.' — 'Yes it was, and it was me who invited the whole board.'",
+        "en": "You heard: 'Foi sim, e foi eu que convidei a diretoria inteira.' — 'Yes it was, and it was me who invited the whole board.'",
+        "ar": "سمعت: 'Foi sim, e foi eu que convidei a diretoria inteira.' — 'نعم، وأنا من دعوت مجلس الإدارة كاملًا.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "marcou",
+          "en": "marcou",
+          "ar": "marcou"
+        },
+        {
+          "pt": "amanhã?",
+          "en": "amanhã?",
+          "ar": "amanhã?"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "Foi",
+          "en": "Foi",
+          "ar": "Foi"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "reunião",
+          "en": "reunião",
+          "ar": "reunião"
+        }
+      ],
+      "answer": "Foi você que marcou a reunião de amanhã?",
+      "accepted": [
+        "Foi você que marcou a reunião de amanhã?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Foi você que marcou a reunião de amanhã?'",
+        "en": "The correct order: 'Was it you who scheduled tomorrow's meeting?'",
+        "ar": "الترتيب الصحيح: 'هل أنت من حدد اجتماع الغد؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "destacar",
+          "en": "the focus",
+          "ar": "destacar"
+        },
+        {
+          "pt": "a inversão",
+          "en": "to highlight",
+          "ar": "a inversão"
+        },
+        {
+          "pt": "realçar",
+          "en": "the emphasis",
+          "ar": "realçar"
+        },
+        {
+          "pt": "a ênfase",
+          "en": "the topic",
+          "ar": "a ênfase"
+        },
+        {
+          "pt": "o foco",
+          "en": "to emphasize",
+          "ar": "o foco"
+        },
+        {
+          "pt": "o tópico",
+          "en": "the inversion",
+          "ar": "o tópico"
+        }
+      ],
+      "answer": "destacar::the focus|a inversão::to highlight|realçar::the emphasis|a ênfase::the topic|o foco::to emphasize|o tópico::the inversion",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Então mudemos. Chega o relatório e depois discutimos tudo.",
+          "en": "Was it you who scheduled tomorrow's meeting?",
+          "ar": "إذن لنغيّره. يصل التقرير أولًا ثم نناقش كل شيء."
+        },
+        {
+          "pt": "Perfeito. É isso mesmo que eu esperava ouvir.",
+          "en": "Perfect. That is exactly what I expected to hear.",
+          "ar": "هل أنت من حدد اجتماع الغد؟"
+        },
+        {
+          "pt": "Foi você que marcou a reunião de amanhã?",
+          "en": "Then let's change it. First comes the report, then we discuss everything.",
+          "ar": "ممتاز. هذا بالضبط ما كنت أتوقع سماعه."
+        }
+      ],
+      "answer": "Foi você que marcou a reunião de amanhã?",
+      "accepted": [],
+      "audio": "Foi você que marcou a reunião de amanhã?",
+      "explanation": {
+        "pt": "Você ouviu: 'Foi você que marcou a reunião de amanhã?' — 'Was it you who scheduled tomorrow's meeting?'",
+        "en": "You heard: 'Foi você que marcou a reunião de amanhã?' — 'Was it you who scheduled tomorrow's meeting?'",
+        "ar": "سمعت: 'Foi você que marcou a reunião de amanhã?' — 'هل أنت من حدد اجتماع الغد؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Foi você que marcou a reunião de amanhã?",
+          "en": "Was it you who scheduled tomorrow's meeting?",
+          "ar": "ممتاز. هذا بالضبط ما كنت أتوقع سماعه."
+        },
+        {
+          "pt": "Perfeito. É isso mesmo que eu esperava ouvir.",
+          "en": "Perfect. That is exactly what I expected to hear.",
+          "ar": "هل أنت من حدد اجتماع الغد؟"
+        },
+        {
+          "pt": "Foi sim, e foi eu que convidei a diretoria inteira.",
+          "en": "Yes it was, and it was me who invited the whole board.",
+          "ar": "نعم، وأنا من دعوت مجلس الإدارة كاملًا."
+        }
+      ],
+      "answer": "Foi sim, e foi eu que convidei a diretoria inteira.",
+      "accepted": [],
+      "audio": "Foi sim, e foi eu que convidei a diretoria inteira.",
+      "explanation": {
+        "pt": "Você ouviu: 'Foi sim, e foi eu que convidei a diretoria inteira.' — 'Yes it was, and it was me who invited the whole board.'",
+        "en": "You heard: 'Foi sim, e foi eu que convidei a diretoria inteira.' — 'Yes it was, and it was me who invited the whole board.'",
+        "ar": "سمعت: 'Foi sim, e foi eu que convidei a diretoria inteira.' — 'نعم، وأنا من دعوت مجلس الإدارة كاملًا.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Foi",
+          "en": "Foi",
+          "ar": "Foi"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "amanhã?",
+          "en": "amanhã?",
+          "ar": "amanhã?"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "reunião",
+          "en": "reunião",
+          "ar": "reunião"
+        },
+        {
+          "pt": "marcou",
+          "en": "marcou",
+          "ar": "marcou"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        }
+      ],
+      "answer": "Foi você que marcou a reunião de amanhã?",
+      "accepted": [
+        "Foi você que marcou a reunião de amanhã?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Foi você que marcou a reunião de amanhã?'",
+        "en": "The correct order: 'Was it you who scheduled tomorrow's meeting?'",
+        "ar": "الترتيب الصحيح: 'هل أنت من حدد اجتماع الغد؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o foco",
+          "en": "the topic",
+          "ar": "o foco"
+        },
+        {
+          "pt": "a inversão",
+          "en": "to highlight",
+          "ar": "a inversão"
+        },
+        {
+          "pt": "realçar",
+          "en": "to emphasize",
+          "ar": "realçar"
+        },
+        {
+          "pt": "o tópico",
+          "en": "the emphasis",
+          "ar": "o tópico"
+        },
+        {
+          "pt": "a ênfase",
+          "en": "the focus",
+          "ar": "a ênfase"
+        },
+        {
+          "pt": "destacar",
+          "en": "the inversion",
+          "ar": "destacar"
+        }
+      ],
+      "answer": "o foco::the topic|a inversão::to highlight|realçar::to emphasize|o tópico::the emphasis|a ênfase::the focus|destacar::the inversion",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Então mudemos. Chega o relatório e depois discutimos tudo.",
+          "en": "Perfect. That is exactly what I expected to hear.",
+          "ar": "إذن لنغيّره. يصل التقرير أولًا ثم نناقش كل شيء."
+        },
+        {
+          "pt": "Perfeito. É isso mesmo que eu esperava ouvir.",
+          "en": "Was it you who scheduled tomorrow's meeting?",
+          "ar": "هل أنت من حدد اجتماع الغد؟"
+        },
+        {
+          "pt": "Foi você que marcou a reunião de amanhã?",
+          "en": "Then let's change it. First comes the report, then we discuss everything.",
+          "ar": "ممتاز. هذا بالضبط ما كنت أتوقع سماعه."
+        }
+      ],
+      "answer": "Foi você que marcou a reunião de amanhã?",
+      "accepted": [],
+      "audio": "Foi você que marcou a reunião de amanhã?",
+      "explanation": {
+        "pt": "Você ouviu: 'Foi você que marcou a reunião de amanhã?' — 'Was it you who scheduled tomorrow's meeting?'",
+        "en": "You heard: 'Foi você que marcou a reunião de amanhã?' — 'Was it you who scheduled tomorrow's meeting?'",
+        "ar": "سمعت: 'Foi você que marcou a reunião de amanhã?' — 'هل أنت من حدد اجتماع الغد؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Foi sim, e foi eu que convidei a diretoria inteira.",
+          "en": "What worries me is the time, not the agenda.",
+          "ar": "ما يقلقني هو التوقيت، لا جدول الأعمال."
+        },
+        {
+          "pt": "Então mudemos. Chega o relatório e depois discutimos tudo.",
+          "en": "Then let's change it. First comes the report, then we discuss everything.",
+          "ar": "إذن لنغيّره. يصل التقرير أولًا ثم نناقش كل شيء."
+        },
+        {
+          "pt": "O que me preocupa é o horário, não a pauta.",
+          "en": "Yes it was, and it was me who invited the whole board.",
+          "ar": "نعم، وأنا من دعوت مجلس الإدارة كاملًا."
+        }
+      ],
+      "answer": "Foi sim, e foi eu que convidei a diretoria inteira.",
+      "accepted": [],
+      "audio": "Foi sim, e foi eu que convidei a diretoria inteira.",
+      "explanation": {
+        "pt": "Você ouviu: 'Foi sim, e foi eu que convidei a diretoria inteira.' — 'Yes it was, and it was me who invited the whole board.'",
+        "en": "You heard: 'Foi sim, e foi eu que convidei a diretoria inteira.' — 'Yes it was, and it was me who invited the whole board.'",
+        "ar": "سمعت: 'Foi sim, e foi eu que convidei a diretoria inteira.' — 'نعم، وأنا من دعوت مجلس الإدارة كاملًا.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "amanhã?",
+          "en": "amanhã?",
+          "ar": "amanhã?"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "marcou",
+          "en": "marcou",
+          "ar": "marcou"
+        },
+        {
+          "pt": "reunião",
+          "en": "reunião",
+          "ar": "reunião"
+        },
+        {
+          "pt": "Foi",
+          "en": "Foi",
+          "ar": "Foi"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        }
+      ],
+      "answer": "Foi você que marcou a reunião de amanhã?",
+      "accepted": [
+        "Foi você que marcou a reunião de amanhã?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Foi você que marcou a reunião de amanhã?'",
+        "en": "The correct order: 'Was it you who scheduled tomorrow's meeting?'",
+        "ar": "الترتيب الصحيح: 'هل أنت من حدد اجتماع الغد؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a ênfase",
+          "en": "the topic",
+          "ar": "a ênfase"
+        },
+        {
+          "pt": "o foco",
+          "en": "the emphasis",
+          "ar": "o foco"
+        },
+        {
+          "pt": "realçar",
+          "en": "the focus",
+          "ar": "realçar"
+        },
+        {
+          "pt": "destacar",
+          "en": "the inversion",
+          "ar": "destacar"
+        },
+        {
+          "pt": "a inversão",
+          "en": "to emphasize",
+          "ar": "a inversão"
+        },
+        {
+          "pt": "o tópico",
+          "en": "to highlight",
+          "ar": "o tópico"
+        }
+      ],
+      "answer": "a ênfase::the topic|o foco::the emphasis|realçar::the focus|destacar::the inversion|a inversão::to emphasize|o tópico::to highlight",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "O que me preocupa é o horário, não a pauta.",
+          "en": "Was it you who scheduled tomorrow's meeting?",
+          "ar": "هل أنت من حدد اجتماع الغد؟"
+        },
+        {
+          "pt": "Então mudemos. Chega o relatório e depois discutimos tudo.",
+          "en": "Then let's change it. First comes the report, then we discuss everything.",
+          "ar": "ما يقلقني هو التوقيت، لا جدول الأعمال."
+        },
+        {
+          "pt": "Foi você que marcou a reunião de amanhã?",
+          "en": "What worries me is the time, not the agenda.",
+          "ar": "إذن لنغيّره. يصل التقرير أولًا ثم نناقش كل شيء."
+        }
+      ],
+      "answer": "Foi você que marcou a reunião de amanhã?",
+      "accepted": [],
+      "audio": "Foi você que marcou a reunião de amanhã?",
+      "explanation": {
+        "pt": "Você ouviu: 'Foi você que marcou a reunião de amanhã?' — 'Was it you who scheduled tomorrow's meeting?'",
+        "en": "You heard: 'Foi você que marcou a reunião de amanhã?' — 'Was it you who scheduled tomorrow's meeting?'",
+        "ar": "سمعت: 'Foi você que marcou a reunião de amanhã?' — 'هل أنت من حدد اجتماع الغد؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Foi você que marcou a reunião de amanhã?",
+          "en": "Yes it was, and it was me who invited the whole board.",
+          "ar": "إذن لنغيّره. يصل التقرير أولًا ثم نناقش كل شيء."
+        },
+        {
+          "pt": "Foi sim, e foi eu que convidei a diretoria inteira.",
+          "en": "Was it you who scheduled tomorrow's meeting?",
+          "ar": "هل أنت من حدد اجتماع الغد؟"
+        },
+        {
+          "pt": "Então mudemos. Chega o relatório e depois discutimos tudo.",
+          "en": "Then let's change it. First comes the report, then we discuss everything.",
+          "ar": "نعم، وأنا من دعوت مجلس الإدارة كاملًا."
+        }
+      ],
+      "answer": "Foi sim, e foi eu que convidei a diretoria inteira.",
+      "accepted": [],
+      "audio": "Foi sim, e foi eu que convidei a diretoria inteira.",
+      "explanation": {
+        "pt": "Você ouviu: 'Foi sim, e foi eu que convidei a diretoria inteira.' — 'Yes it was, and it was me who invited the whole board.'",
+        "en": "You heard: 'Foi sim, e foi eu que convidei a diretoria inteira.' — 'Yes it was, and it was me who invited the whole board.'",
+        "ar": "سمعت: 'Foi sim, e foi eu que convidei a diretoria inteira.' — 'نعم، وأنا من دعوت مجلس الإدارة كاملًا.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "marcou",
+          "en": "marcou",
+          "ar": "marcou"
+        },
+        {
+          "pt": "Foi",
+          "en": "Foi",
+          "ar": "Foi"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "amanhã?",
+          "en": "amanhã?",
+          "ar": "amanhã?"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "reunião",
+          "en": "reunião",
+          "ar": "reunião"
+        }
+      ],
+      "answer": "Foi você que marcou a reunião de amanhã?",
+      "accepted": [
+        "Foi você que marcou a reunião de amanhã?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Foi você que marcou a reunião de amanhã?'",
+        "en": "The correct order: 'Was it you who scheduled tomorrow's meeting?'",
+        "ar": "الترتيب الصحيح: 'هل أنت من حدد اجتماع الغد؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "destacar",
+          "en": "the inversion",
+          "ar": "destacar"
+        },
+        {
+          "pt": "o tópico",
+          "en": "to highlight",
+          "ar": "o tópico"
+        },
+        {
+          "pt": "a inversão",
+          "en": "the emphasis",
+          "ar": "a inversão"
+        },
+        {
+          "pt": "realçar",
+          "en": "the focus",
+          "ar": "realçar"
+        },
+        {
+          "pt": "a ênfase",
+          "en": "to emphasize",
+          "ar": "a ênfase"
+        },
+        {
+          "pt": "o foco",
+          "en": "the topic",
+          "ar": "o foco"
+        }
+      ],
+      "answer": "destacar::the inversion|o tópico::to highlight|a inversão::the emphasis|realçar::the focus|a ênfase::to emphasize|o foco::the topic",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Perfeito. É isso mesmo que eu esperava ouvir.",
+          "en": "Was it you who scheduled tomorrow's meeting?",
+          "ar": "ممتاز. هذا بالضبط ما كنت أتوقع سماعه."
+        },
+        {
+          "pt": "O que me preocupa é o horário, não a pauta.",
+          "en": "What worries me is the time, not the agenda.",
+          "ar": "هل أنت من حدد اجتماع الغد؟"
+        },
+        {
+          "pt": "Foi você que marcou a reunião de amanhã?",
+          "en": "Perfect. That is exactly what I expected to hear.",
+          "ar": "ما يقلقني هو التوقيت، لا جدول الأعمال."
+        }
+      ],
+      "answer": "Foi você que marcou a reunião de amanhã?",
+      "accepted": [],
+      "audio": "Foi você que marcou a reunião de amanhã?",
+      "explanation": {
+        "pt": "Você ouviu: 'Foi você que marcou a reunião de amanhã?' — 'Was it you who scheduled tomorrow's meeting?'",
+        "en": "You heard: 'Foi você que marcou a reunião de amanhã?' — 'Was it you who scheduled tomorrow's meeting?'",
+        "ar": "سمعت: 'Foi você que marcou a reunião de amanhã?' — 'هل أنت من حدد اجتماع الغد؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Foi sim, e foi eu que convidei a diretoria inteira.",
+          "en": "What worries me is the time, not the agenda.",
+          "ar": "ما يقلقني هو التوقيت، لا جدول الأعمال."
+        },
+        {
+          "pt": "O que me preocupa é o horário, não a pauta.",
+          "en": "Was it you who scheduled tomorrow's meeting?",
+          "ar": "نعم، وأنا من دعوت مجلس الإدارة كاملًا."
+        },
+        {
+          "pt": "Foi você que marcou a reunião de amanhã?",
+          "en": "Yes it was, and it was me who invited the whole board.",
+          "ar": "هل أنت من حدد اجتماع الغد؟"
+        }
+      ],
+      "answer": "Foi sim, e foi eu que convidei a diretoria inteira.",
+      "accepted": [],
+      "audio": "Foi sim, e foi eu que convidei a diretoria inteira.",
+      "explanation": {
+        "pt": "Você ouviu: 'Foi sim, e foi eu que convidei a diretoria inteira.' — 'Yes it was, and it was me who invited the whole board.'",
+        "en": "You heard: 'Foi sim, e foi eu que convidei a diretoria inteira.' — 'Yes it was, and it was me who invited the whole board.'",
+        "ar": "سمعت: 'Foi sim, e foi eu que convidei a diretoria inteira.' — 'نعم، وأنا من دعوت مجلس الإدارة كاملًا.'"
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'the inversion'",
+        "en": "Type in Portuguese: 'the inversion'",
+        "ar": "اكتب بالبرتغالية: 'القلب، التقديم'"
+      },
+      "options": [],
+      "answer": "a inversão",
+      "accepted": [
+        "a inversão"
+      ],
+      "explanation": {
+        "pt": "'a inversão' significa 'the inversion'.",
+        "en": "'a inversão' means 'the inversion'.",
+        "ar": "'$a inversão' بالعربية: '$القلب، التقديم'."
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'the emphasis'",
+        "en": "Type in Portuguese: 'the emphasis'",
+        "ar": "اكتب بالبرتغالية: 'التوكيد'"
+      },
+      "options": [],
+      "answer": "a ênfase",
+      "accepted": [
+        "a ênfase"
+      ],
+      "explanation": {
+        "pt": "'a ênfase' significa 'the emphasis'.",
+        "en": "'a ênfase' means 'the emphasis'.",
+        "ar": "'$a ênfase' بالعربية: '$التوكيد'."
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Foi sim, e foi eu que convidei a diretoria inteira.",
+          "en": "Foi sim, e foi eu que convidei a diretoria inteira.",
+          "ar": "Foi sim, e foi eu que convidei a diretoria inteira."
+        },
+        {
+          "pt": "Perfeito. É isso mesmo que eu esperava ouvir.",
+          "en": "Perfeito. É isso mesmo que eu esperava ouvir.",
+          "ar": "Perfeito. É isso mesmo que eu esperava ouvir."
+        },
+        {
+          "pt": "Foi você que marcou a reunião de amanhã?",
+          "en": "Foi você que marcou a reunião de amanhã?",
+          "ar": "Foi você que marcou a reunião de amanhã?"
+        }
+      ],
+      "answer": "Foi você que marcou a reunião de amanhã?",
+      "accepted": [],
+      "audio": "Foi você que marcou a reunião de amanhã?",
+      "explanation": {
+        "pt": "Você ouviu: 'Foi você que marcou a reunião de amanhã?'",
+        "en": "You heard: 'Foi você que marcou a reunião de amanhã?'",
+        "ar": "سمعت: 'Foi você que marcou a reunião de amanhã?'"
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Perfeito. É isso mesmo que eu esperava ouvir.",
+          "en": "Perfeito. É isso mesmo que eu esperava ouvir.",
+          "ar": "Perfeito. É isso mesmo que eu esperava ouvir."
+        },
+        {
+          "pt": "Foi sim, e foi eu que convidei a diretoria inteira.",
+          "en": "Foi sim, e foi eu que convidei a diretoria inteira.",
+          "ar": "Foi sim, e foi eu que convidei a diretoria inteira."
+        },
+        {
+          "pt": "Então mudemos. Chega o relatório e depois discutimos tudo.",
+          "en": "Então mudemos. Chega o relatório e depois discutimos tudo.",
+          "ar": "Então mudemos. Chega o relatório e depois discutimos tudo."
+        }
+      ],
+      "answer": "Foi sim, e foi eu que convidei a diretoria inteira.",
+      "accepted": [],
+      "audio": "Foi sim, e foi eu que convidei a diretoria inteira.",
+      "explanation": {
+        "pt": "Você ouviu: 'Foi sim, e foi eu que convidei a diretoria inteira.'",
+        "en": "You heard: 'Foi sim, e foi eu que convidei a diretoria inteira.'",
+        "ar": "سمعت: 'Foi sim, e foi eu que convidei a diretoria inteira.'"
+      }
+    },
+    {
+      "type": "dictation",
+      "prompt": {
+        "pt": "Ouça e escreva o que você ouviu.",
+        "en": "Listen and type what you hear.",
+        "ar": "استمع واكتب ما سمعته."
+      },
+      "options": [],
+      "answer": "Foi você que marcou a reunião de amanhã?",
+      "accepted": [],
+      "audio": "Foi você que marcou a reunião de amanhã?",
+      "explanation": {
+        "pt": "A frase correta: 'Foi você que marcou a reunião de amanhã?'",
+        "en": "The correct sentence: 'Foi você que marcou a reunião de amanhã?'",
+        "ar": "الجملة الصحيحة: 'Foi você que marcou a reunião de amanhã?'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Foi",
+          "en": "Foi",
+          "ar": "Foi"
+        },
+        {
+          "pt": "amanhã?",
+          "en": "amanhã?",
+          "ar": "amanhã?"
+        },
+        {
+          "pt": "marcou",
+          "en": "marcou",
+          "ar": "marcou"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "reunião",
+          "en": "reunião",
+          "ar": "reunião"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        }
+      ],
+      "answer": "Foi você que marcou a reunião de amanhã?",
+      "accepted": [
+        "Foi você que marcou a reunião de amanhã?"
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'Foi você que marcou a reunião de amanhã?'",
+        "en": "The correct order: 'Was it you who scheduled tomorrow's meeting?'",
+        "ar": "الترتيب الصحيح: 'هل أنت من حدد اجتماع الغد؟'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o foco",
+          "en": "the inversion",
+          "ar": "o foco"
+        },
+        {
+          "pt": "realçar",
+          "en": "to emphasize",
+          "ar": "realçar"
+        },
+        {
+          "pt": "a ênfase",
+          "en": "the focus",
+          "ar": "a ênfase"
+        },
+        {
+          "pt": "o tópico",
+          "en": "the topic",
+          "ar": "o tópico"
+        },
+        {
+          "pt": "a inversão",
+          "en": "to highlight",
+          "ar": "a inversão"
+        },
+        {
+          "pt": "destacar",
+          "en": "the emphasis",
+          "ar": "destacar"
+        }
+      ],
+      "answer": "o foco::the inversion|realçar::to emphasize|a ênfase::the focus|o tópico::the topic|a inversão::to highlight|destacar::the emphasis",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Foi você que marcou a reunião de amanhã?",
+          "en": "Was it you who scheduled tomorrow's meeting?",
+          "ar": "ما يقلقني هو التوقيت، لا جدول الأعمال."
+        },
+        {
+          "pt": "Perfeito. É isso mesmo que eu esperava ouvir.",
+          "en": "What worries me is the time, not the agenda.",
+          "ar": "هل أنت من حدد اجتماع الغد؟"
+        },
+        {
+          "pt": "O que me preocupa é o horário, não a pauta.",
+          "en": "Perfect. That is exactly what I expected to hear.",
+          "ar": "ممتاز. هذا بالضبط ما كنت أتوقع سماعه."
+        }
+      ],
+      "answer": "Foi você que marcou a reunião de amanhã?",
+      "accepted": [],
+      "audio": "Foi você que marcou a reunião de amanhã?",
+      "explanation": {
+        "pt": "Você ouviu: 'Foi você que marcou a reunião de amanhã?' — 'Was it you who scheduled tomorrow's meeting?'",
+        "en": "You heard: 'Foi você que marcou a reunião de amanhã?' — 'Was it you who scheduled tomorrow's meeting?'",
+        "ar": "سمعت: 'Foi você que marcou a reunião de amanhã?' — 'هل أنت من حدد اجتماع الغد؟'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Foi sim, e foi eu que convidei a diretoria inteira.",
+          "en": "Then let's change it. First comes the report, then we discuss everything.",
+          "ar": "ما يقلقني هو التوقيت، لا جدول الأعمال."
+        },
+        {
+          "pt": "Então mudemos. Chega o relatório e depois discutimos tudo.",
+          "en": "Yes it was, and it was me who invited the whole board.",
+          "ar": "إذن لنغيّره. يصل التقرير أولًا ثم نناقش كل شيء."
+        },
+        {
+          "pt": "O que me preocupa é o horário, não a pauta.",
+          "en": "What worries me is the time, not the agenda.",
+          "ar": "نعم، وأنا من دعوت مجلس الإدارة كاملًا."
+        }
+      ],
+      "answer": "Foi sim, e foi eu que convidei a diretoria inteira.",
+      "accepted": [],
+      "audio": "Foi sim, e foi eu que convidei a diretoria inteira.",
+      "explanation": {
+        "pt": "Você ouviu: 'Foi sim, e foi eu que convidei a diretoria inteira.' — 'Yes it was, and it was me who invited the whole board.'",
+        "en": "You heard: 'Foi sim, e foi eu que convidei a diretoria inteira.' — 'Yes it was, and it was me who invited the whole board.'",
+        "ar": "سمعت: 'Foi sim, e foi eu que convidei a diretoria inteira.' — 'نعم، وأنا من دعوت مجلس الإدارة كاملًا.'"
+      }
+    }
+  ],
+  "speaking": {
+    "title": {
+      "pt": "Fale Agora — Ouça e Repita",
+      "en": "Speak Now — Listen and Repeat",
+      "ar": "تحدث الآن — استمع وكرر"
+    },
+    "phrases": [
+      {
+        "pt": "Foi você que marcou a reunião de amanhã?",
+        "en": "Was it you who scheduled tomorrow's meeting?",
+        "ar": "هل أنت من حدد اجتماع الغد؟"
+      },
+      {
+        "pt": "Foi sim, e foi eu que convidei a diretoria inteira.",
+        "en": "Yes it was, and it was me who invited the whole board.",
+        "ar": "نعم، وأنا من دعوت مجلس الإدارة كاملًا."
+      },
+      {
+        "pt": "O que me preocupa é o horário, não a pauta.",
+        "en": "What worries me is the time, not the agenda.",
+        "ar": "ما يقلقني هو التوقيت، لا جدول الأعمال."
+      },
+      {
+        "pt": "Então mudemos. Chega o relatório e depois discutimos tudo.",
+        "en": "Then let's change it. First comes the report, then we discuss everything.",
+        "ar": "إذن لنغيّره. يصل التقرير أولًا ثم نناقش كل شيء."
+      },
+      {
+        "pt": "Perfeito. É isso mesmo que eu esperava ouvir.",
+        "en": "Perfect. That is exactly what I expected to hear.",
+        "ar": "ممتاز. هذا بالضبط ما كنت أتوقع سماعه."
+      },
+      {
+        "pt": "a inversão",
+        "en": "the inversion",
+        "ar": "القلب، التقديم"
+      },
+      {
+        "pt": "a ênfase",
+        "en": "the emphasis",
+        "ar": "التوكيد"
+      },
+      {
+        "pt": "o tópico",
+        "en": "the topic",
+        "ar": "الموضوع، المحور"
+      }
+    ]
+  },
+  "cultural_tips": {
+    "pt": "",
+    "en": "",
+    "ar": ""
+  }
+}

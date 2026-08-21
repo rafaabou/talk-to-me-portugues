@@ -1,0 +1,2188 @@
+{
+  "id": "C1-08",
+  "level": "C1",
+  "level_name": {
+    "pt": "Avançado",
+    "en": "Advanced",
+    "ar": "متقدم"
+  },
+  "title": {
+    "pt": "Concordância Nominal e Verbal",
+    "en": "Nominal and Verbal Agreement",
+    "ar": "مطابقة الاسم والفعل"
+  },
+  "objectives": [
+    {
+      "pt": "Aplicar as regras de concordância nominal",
+      "en": "Apply the rules of nominal agreement",
+      "ar": "تطبيق قواعد المطابقة الاسمية"
+    },
+    {
+      "pt": "Dominar a concordância verbal com sujeito complexo",
+      "en": "Master verbal agreement with complex subjects",
+      "ar": "إتقان مطابقة الفعل مع الفاعل المركب"
+    },
+    {
+      "pt": "Reconhecer os casos especiais de concordância",
+      "en": "Recognize special cases of agreement",
+      "ar": "التعرف على الحالات الخاصة للمطابقة"
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "a concordância nominal",
+      "ipa": "/a kõ.koʁˈdɐ̃.si.a no.miˈnaw/",
+      "en": "nominal agreement",
+      "ar": "المطابقة الاسمية",
+      "example": {
+        "pt": "A maioria dos alunos chegou à aula.",
+        "en": "Most of the students arrived at class.",
+        "ar": "وصل معظم الطلاب إلى الصف."
+      }
+    },
+    {
+      "pt": "a concordância verbal",
+      "ipa": "/a kõ.koʁˈdɐ̃.si.a veʁˈbaw/",
+      "en": "verbal agreement",
+      "ar": "مطابقة الفعل مع الفاعل",
+      "example": {
+        "pt": "A maioria dos alunos chegou à aula.",
+        "en": "Most of the students arrived at class.",
+        "ar": "وصل معظم الطلاب إلى الصف."
+      }
+    },
+    {
+      "pt": "o sujeito",
+      "ipa": "/u suˈʒej.tu/",
+      "en": "the subject",
+      "ar": "الفاعل",
+      "example": {
+        "pt": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
+        "en": "The text has an error: '30% da turma faltou' can also be 'faltaram'.",
+        "ar": "النص فيه خطأ: '30% da turma faltou' يمكن أيضًا أن تكون 'faltaram'."
+      }
+    },
+    {
+      "pt": "o núcleo",
+      "ipa": "/u ˈnu.kle.u/",
+      "en": "the nucleus, core",
+      "ar": "الرأس، النواة",
+      "example": {
+        "pt": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
+        "en": "The text has an error: '30% da turma faltou' can also be 'faltaram'.",
+        "ar": "النص فيه خطأ: '30% da turma faltou' يمكن أيضًا أن تكون 'faltaram'."
+      }
+    },
+    {
+      "pt": "o sujeito composto",
+      "ipa": "/u suˈʒej.tu kõˈpɔs.tu/",
+      "en": "the compound subject",
+      "ar": "الفاعل المركب",
+      "example": {
+        "pt": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
+        "en": "The text has an error: '30% da turma faltou' can also be 'faltaram'.",
+        "ar": "النص فيه خطأ: '30% da turma faltou' يمكن أيضًا أن تكون 'faltaram'."
+      }
+    },
+    {
+      "pt": "a expressão partitiva",
+      "ipa": "/a is.pɾeˈsɐ̃w paʁ.tʃiˈtʃi.va/",
+      "en": "the partitive expression",
+      "ar": "التعبير الجزئي",
+      "example": {
+        "pt": "A maioria dos alunos chegou à aula.",
+        "en": "Most of the students arrived at class.",
+        "ar": "وصل معظم الطلاب إلى الصف."
+      }
+    },
+    {
+      "pt": "a maioria de",
+      "ipa": "/a ma.joˈɾi.a dʒi/",
+      "en": "most of",
+      "ar": "أغلبية، معظم",
+      "example": {
+        "pt": "A maioria dos alunos chegou à aula.",
+        "en": "Most of the students arrived at class.",
+        "ar": "وصل معظم الطلاب إلى الصف."
+      }
+    },
+    {
+      "pt": "a gente",
+      "ipa": "/a ˈʒẽ.tʃi/",
+      "en": "we (colloquial)",
+      "ar": "نحن (عامية)",
+      "example": {
+        "pt": "A maioria dos alunos chegou à aula.",
+        "en": "Most of the students arrived at class.",
+        "ar": "وصل معظم الطلاب إلى الصف."
+      }
+    },
+    {
+      "pt": "o percentual",
+      "ipa": "/u peʁ.sẽ.tuˈaw/",
+      "en": "the percentage",
+      "ar": "النسبة المئوية",
+      "example": {
+        "pt": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
+        "en": "The text has an error: '30% da turma faltou' can also be 'faltaram'.",
+        "ar": "النص فيه خطأ: '30% da turma faltou' يمكن أيضًا أن تكون 'faltaram'."
+      }
+    },
+    {
+      "pt": "a fração",
+      "ipa": "/a fɾaˈsɐ̃w/",
+      "en": "the fraction",
+      "ar": "الكسر",
+      "example": {
+        "pt": "A maioria dos alunos chegou à aula.",
+        "en": "Most of the students arrived at class.",
+        "ar": "وصل معظم الطلاب إلى الصف."
+      }
+    },
+    {
+      "pt": "o coletivo",
+      "ipa": "/u ko.liˈtʃi.vu/",
+      "en": "the collective noun",
+      "ar": "اسم الجمع",
+      "example": {
+        "pt": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
+        "en": "The text has an error: '30% da turma faltou' can also be 'faltaram'.",
+        "ar": "النص فيه خطأ: '30% da turma faltou' يمكن أيضًا أن تكون 'faltaram'."
+      }
+    },
+    {
+      "pt": "o pronome de tratamento",
+      "ipa": "/u pɾoˈnõ.mi dʒi tɾa.taˈmẽ.tu/",
+      "en": "the term of address",
+      "ar": "ضمير المخاطبة",
+      "example": {
+        "pt": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
+        "en": "The text has an error: '30% da turma faltou' can also be 'faltaram'.",
+        "ar": "النص فيه خطأ: '30% da turma faltou' يمكن أيضًا أن تكون 'faltaram'."
+      }
+    },
+    {
+      "pt": "a regra",
+      "ipa": "/a ˈhɛ.ɡɾa/",
+      "en": "the rule",
+      "ar": "القاعدة",
+      "example": {
+        "pt": "A maioria dos alunos chegou à aula.",
+        "en": "Most of the students arrived at class.",
+        "ar": "وصل معظم الطلاب إلى الصف."
+      }
+    },
+    {
+      "pt": "o adjetivo",
+      "ipa": "/u a.dʒiˈtʃi.vu/",
+      "en": "the adjective",
+      "ar": "الصفة",
+      "example": {
+        "pt": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
+        "en": "The text has an error: '30% da turma faltou' can also be 'faltaram'.",
+        "ar": "النص فيه خطأ: '30% da turma faltou' يمكن أيضًا أن تكون 'faltaram'."
+      }
+    },
+    {
+      "pt": "a locução",
+      "ipa": "/a lo.kuˈsɐ̃w/",
+      "en": "the phrase, locution",
+      "ar": "التركيب",
+      "example": {
+        "pt": "A maioria dos alunos chegou à aula.",
+        "en": "Most of the students arrived at class.",
+        "ar": "وصل معظم الطلاب إلى الصف."
+      }
+    },
+    {
+      "pt": "o pronome apassivador",
+      "ipa": "/u pɾoˈnõ.mi a.pa.si.vaˈdoɾ/",
+      "en": "the passive pronoun",
+      "ar": "ضمير المبني للمجهول",
+      "example": {
+        "pt": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
+        "en": "The text has an error: '30% da turma faltou' can also be 'faltaram'.",
+        "ar": "النص فيه خطأ: '30% da turma faltou' يمكن أيضًا أن تكون 'faltaram'."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "title": {
+        "pt": "Concordância com Expressões Partitivas",
+        "en": "Agreement with Partitive Expressions",
+        "ar": "المطابقة مع التعبيرات الجزئية"
+      },
+      "explanation": {
+        "pt": "Com expressões partitivas como 'a maioria de', 'grande parte de', 'uma porção de', o verbo pode concordar com o partitivo (singular) ou com o termo seguinte (plural). Ambas as formas são aceitas: 'A maioria dos alunos chegou' ou 'A maioria dos alunos chegaram'. Já com percentuais e frações, concorda-se com o número: '30% da população votou' ou 'votaram'; 'um terço dos alunos faltou' ou 'faltaram'.",
+        "en": "With partitive expressions such as 'a maioria de' (most of), 'grande parte de' (a large part of), 'uma porção de' (a portion of), the verb may agree with the partitive (singular) or with the following term (plural). Both forms are accepted: 'A maioria dos alunos chegou' or 'A maioria dos alunos chegaram'. With percentages and fractions, agreement follows the number: '30% da população votou' or 'votaram'; 'um terço dos alunos faltou' or 'faltaram'.",
+        "ar": "مع التعبيرات الجزئية مثل 'a maioria de' (أغلبية) و'grande parte de' (جزء كبير من) و'uma porção de' (حصة من)، يمكن أن يطابق الفعل الجزء (المفرد) أو ما يليه (الجمع). وكلا الصيغتين مقبولتان: 'A maioria dos alunos chegou' أو 'A maioria dos alunos chegaram'. أما مع النسب المئوية والكسور فتتم المطابقة مع العدد: '30% da população votou' أو 'votaram'؛ و'um terço dos alunos faltou' أو 'faltaram'."
+      },
+      "examples": [
+        {
+          "pt": "A maioria dos alunos chegou à aula.",
+          "en": "Most of the students arrived at class.",
+          "ar": "وصل معظم الطلاب إلى الصف."
+        },
+        {
+          "pt": "A maioria dos alunos chegaram atrasados.",
+          "en": "Most of the students arrived late.",
+          "ar": "وصل معظم الطلاب متأخرين."
+        },
+        {
+          "pt": "30% da população votou no plebiscito.",
+          "en": "30% of the population voted in the plebiscite.",
+          "ar": "صوّت 30% من السكان في الاستفتاء."
+        },
+        {
+          "pt": "Grande parte do trabalho está feita.",
+          "en": "A large part of the work is done.",
+          "ar": "جزء كبير من العمل منجز."
+        }
+      ]
+    },
+    {
+      "title": {
+        "pt": "Sujeito Composto e 'A Gente'",
+        "en": "Compound Subject and 'A Gente'",
+        "ar": "الفاعل المركب و'a gente'"
+      },
+      "explanation": {
+        "pt": "Com sujeito composto, o verbo vai para o plural: 'O pai e o filho chegaram'. Quando o sujeito vem depois do verbo, a concordância é igual: 'Chegaram o pai e o filho'. Já 'a gente', apesar do sentido de 'nós', pede verbo na terceira pessoa do singular: 'A gente viu o filme'. O pronome apassivador 'se' concorda com o objeto: 'Vendem-se casas', mas 'Precisa-se de funcionários' fica no singular porque 'de funcionários' é complemento, não sujeito.",
+        "en": "With a compound subject, the verb goes to the plural: 'O pai e o filho chegaram' (The father and the son arrived). When the subject comes after the verb, the agreement is the same: 'Chegaram o pai e o filho'. However, 'a gente', despite meaning 'we', takes the third person singular: 'A gente viu o filme' (We watched the film). The passive pronoun 'se' agrees with the object: 'Vendem-se casas' (Houses for sale), but 'Precisa-se de funcionários' (We need employees) stays singular because 'de funcionários' is a complement, not the subject.",
+        "ar": "مع الفاعل المركب، يذهب الفعل إلى الجمع: 'O pai e o filho chegaram'. وعندما يأتي الفاعل بعد الفعل تكون المطابقة نفسها: 'Chegaram o pai e o filho'. أما 'a gente'، رغم معناها «نحن»، فتتطلب الفعل في المفرد الغائب: 'A gente viu o filme'. ويتطابق ضمير المبني للمجهول 'se' مع المفعول: 'Vendem-se casas'، لكن تبقى 'Precisa-se de funcionários' مفردة لأن 'de funcionários' متمم لا فاعل."
+      },
+      "examples": [
+        {
+          "pt": "Chegaram o pai e o filho.",
+          "en": "The father and the son arrived.",
+          "ar": "وصل الأب والابن."
+        },
+        {
+          "pt": "Precisa-se de funcionários.",
+          "en": "Employees are needed.",
+          "ar": "مطلوب موظفون."
+        },
+        {
+          "pt": "Vendem-se casas na praia.",
+          "en": "Houses are for sale at the beach.",
+          "ar": "تباع منازل على الشاطئ."
+        },
+        {
+          "pt": "A gente viu o filme ontem.",
+          "en": "We watched the film yesterday.",
+          "ar": "شاهدنا الفيلم أمس."
+        }
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": {
+      "pt": "Revisão de um Texto",
+      "en": "Reviewing a Text",
+      "ar": "مراجعة نص"
+    },
+    "lines": [
+      {
+        "speaker": "Professora",
+        "pt": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
+        "en": "The text has an error: '30% da turma faltou' can also be 'faltaram'.",
+        "ar": "النص فيه خطأ: '30% da turma faltou' يمكن أيضًا أن تكون 'faltaram'."
+      },
+      {
+        "speaker": "Aluno",
+        "pt": "Então as duas formas estão corretas?",
+        "en": "So both forms are correct?",
+        "ar": "إذن الصيغتان صحيحتان؟"
+      },
+      {
+        "speaker": "Professora",
+        "pt": "Sim, com percentuais o verbo pode concordar com o número ou com o termo seguinte.",
+        "en": "Yes, with percentages the verb can agree with the number or with the following term.",
+        "ar": "نعم، مع النسب المئوية يمكن أن يطابق الفعل العدد أو ما يليه."
+      },
+      {
+        "speaker": "Aluno",
+        "pt": "E com 'a gente', sempre na terceira pessoa?",
+        "en": "And with 'a gente', always in the third person?",
+        "ar": "ومع 'a gente'، دائمًا في الغائب؟"
+      },
+      {
+        "speaker": "Professora",
+        "pt": "Isso. 'A gente vai', nunca 'a gente vamos'.",
+        "en": "Exactly. 'A gente vai', never 'a gente vamos'.",
+        "ar": "بالضبط. 'A gente vai'، ولا نقول أبدًا 'a gente vamos'."
+      }
+    ]
+  },
+  "reading": {
+    "title": {
+      "pt": "A Língua na Redação",
+      "en": "Language in Writing",
+      "ar": "اللغة في الكتابة"
+    },
+    "text_pt": "Na redação jornalística, a concordância é rigorosa: 'a maioria dos eleitores foi às urnas' convive com 'a maioria dos eleitores foram às urnas'. O cuidado com o sujeito composto e com as expressões partitivas mostra domínio da norma culta. Quem escreve com precisão transmite credibilidade e clareza.",
+    "text_en": "In journalistic writing, agreement is strict: 'a maioria dos eleitores foi às urnas' coexists with 'a maioria dos eleitores foram às urnas'. Care with compound subjects and partitive expressions shows mastery of the standard norm. Those who write with precision convey credibility and clarity.",
+    "text_ar": "في الكتابة الصحفية تكون المطابقة صارمة: 'a maioria dos eleitores foi às urnas' تتعايش مع 'a maioria dos eleitores foram às urnas'. والاعتناء بالفاعل المركب والتعبيرات الجزئية يدل على إتقان القاعدة الفصيحة. ومن يكتب بدقة ينقل المصداقية والوضوح."
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual frase está correta segundo a norma culta?",
+        "en": "Which sentence is correct according to the standard norm?",
+        "ar": "أي جملة صحيحة وفق القاعدة الفصيحة؟"
+      },
+      "options": [
+        {
+          "pt": "A gente vamos viajar.",
+          "en": "A gente vamos viajar.",
+          "ar": "A gente vamos viajar."
+        },
+        {
+          "pt": "A gente vai viajar.",
+          "en": "A gente vai viajar.",
+          "ar": "A gente vai viajar."
+        },
+        {
+          "pt": "A gente vão viajar.",
+          "en": "A gente vão viajar.",
+          "ar": "A gente vão viajar."
+        }
+      ],
+      "answer": "A gente vai viajar.",
+      "explanation": {
+        "pt": "'A gente' pede verbo na terceira pessoa do singular.",
+        "en": "'A gente' takes the third person singular verb.",
+        "ar": "'a gente' تتطلب الفعل في المفرد الغائب."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Complete: '______-se casas na praia.'",
+        "en": "Complete: '______-se casas na praia.'",
+        "ar": "أكمل: '______-se casas na praia.'"
+      },
+      "options": [
+        {
+          "pt": "Vende",
+          "en": "Vende",
+          "ar": "Vende"
+        },
+        {
+          "pt": "Vendem",
+          "en": "Vendem",
+          "ar": "Vendem"
+        },
+        {
+          "pt": "Vender",
+          "en": "Vender",
+          "ar": "Vender"
+        }
+      ],
+      "answer": "Vendem",
+      "explanation": {
+        "pt": "Com 'se' apassivador, o verbo concorda com o objeto plural 'casas'.",
+        "en": "With the passive 'se', the verb agrees with the plural object 'casas'.",
+        "ar": "مع 'se' المبني للمجهول يطابق الفعل المفعول الجمع 'casas'."
+      }
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza: 'Most of the teachers agreed with the proposal.'",
+        "en": "Translate: 'Most of the teachers agreed with the proposal.'",
+        "ar": "ترجم: 'Most of the teachers agreed with the proposal.'"
+      },
+      "options": [],
+      "answer": "A maioria dos professores concordou com a proposta.",
+      "explanation": {
+        "pt": "'A maioria de' + verbo no singular é a forma mais comum e aceita.",
+        "en": "'A maioria de' + singular verb is the most common and accepted form.",
+        "ar": "'a maioria de' مع الفعل المفرد هي الصيغة الأكثر شيوعًا وقبولًا."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "também",
+          "en": "também",
+          "ar": "também"
+        },
+        {
+          "pt": "'faltaram'.",
+          "en": "'faltaram'.",
+          "ar": "'faltaram'."
+        },
+        {
+          "pt": "ser",
+          "en": "ser",
+          "ar": "ser"
+        },
+        {
+          "pt": "tem",
+          "en": "tem",
+          "ar": "tem"
+        },
+        {
+          "pt": "da",
+          "en": "da",
+          "ar": "da"
+        },
+        {
+          "pt": "faltou'",
+          "en": "faltou'",
+          "ar": "faltou'"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "um",
+          "en": "um",
+          "ar": "um"
+        },
+        {
+          "pt": "texto",
+          "en": "texto",
+          "ar": "texto"
+        },
+        {
+          "pt": "erro:",
+          "en": "erro:",
+          "ar": "erro:"
+        },
+        {
+          "pt": "'30%",
+          "en": "'30%",
+          "ar": "'30%"
+        },
+        {
+          "pt": "turma",
+          "en": "turma",
+          "ar": "turma"
+        },
+        {
+          "pt": "pode",
+          "en": "pode",
+          "ar": "pode"
+        }
+      ],
+      "answer": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
+      "accepted": [
+        "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.'",
+        "en": "The correct order: 'The text has an error: '30% da turma faltou' can also be 'faltaram'.'",
+        "ar": "الترتيب الصحيح: 'النص فيه خطأ: '30% da turma faltou' يمكن أيضًا أن تكون 'faltaram'.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o sujeito composto",
+          "en": "the partitive expression",
+          "ar": "o sujeito composto"
+        },
+        {
+          "pt": "a expressão partitiva",
+          "en": "nominal agreement",
+          "ar": "a expressão partitiva"
+        },
+        {
+          "pt": "a concordância verbal",
+          "en": "the nucleus, core",
+          "ar": "a concordância verbal"
+        },
+        {
+          "pt": "o núcleo",
+          "en": "the compound subject",
+          "ar": "o núcleo"
+        },
+        {
+          "pt": "a concordância nominal",
+          "en": "verbal agreement",
+          "ar": "a concordância nominal"
+        },
+        {
+          "pt": "o sujeito",
+          "en": "the subject",
+          "ar": "o sujeito"
+        }
+      ],
+      "answer": "o sujeito composto::the partitive expression|a expressão partitiva::nominal agreement|a concordância verbal::the nucleus, core|o núcleo::the compound subject|a concordância nominal::verbal agreement|o sujeito::the subject",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim, com percentuais o verbo pode concordar com o número ou com o termo seguinte.",
+          "en": "Yes, with percentages the verb can agree with the number or with the following term.",
+          "ar": "نعم، مع النسب المئوية يمكن أن يطابق الفعل العدد أو ما يليه."
+        },
+        {
+          "pt": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
+          "en": "The text has an error: '30% da turma faltou' can also be 'faltaram'.",
+          "ar": "بالضبط. 'A gente vai'، ولا نقول أبدًا 'a gente vamos'."
+        },
+        {
+          "pt": "Isso. 'A gente vai', nunca 'a gente vamos'.",
+          "en": "Exactly. 'A gente vai', never 'a gente vamos'.",
+          "ar": "النص فيه خطأ: '30% da turma faltou' يمكن أيضًا أن تكون 'faltaram'."
+        }
+      ],
+      "answer": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
+      "accepted": [],
+      "audio": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
+      "explanation": {
+        "pt": "Você ouviu: 'O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.' — 'The text has an error: '30% da turma faltou' can also be 'faltaram'.'",
+        "en": "You heard: 'O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.' — 'The text has an error: '30% da turma faltou' can also be 'faltaram'.'",
+        "ar": "سمعت: 'O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.' — 'النص فيه خطأ: '30% da turma faltou' يمكن أيضًا أن تكون 'faltaram'.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Então as duas formas estão corretas?",
+          "en": "Exactly. 'A gente vai', never 'a gente vamos'.",
+          "ar": "إذن الصيغتان صحيحتان؟"
+        },
+        {
+          "pt": "Isso. 'A gente vai', nunca 'a gente vamos'.",
+          "en": "So both forms are correct?",
+          "ar": "ومع 'a gente'، دائمًا في الغائب؟"
+        },
+        {
+          "pt": "E com 'a gente', sempre na terceira pessoa?",
+          "en": "And with 'a gente', always in the third person?",
+          "ar": "بالضبط. 'A gente vai'، ولا نقول أبدًا 'a gente vamos'."
+        }
+      ],
+      "answer": "Então as duas formas estão corretas?",
+      "accepted": [],
+      "audio": "Então as duas formas estão corretas?",
+      "explanation": {
+        "pt": "Você ouviu: 'Então as duas formas estão corretas?' — 'So both forms are correct?'",
+        "en": "You heard: 'Então as duas formas estão corretas?' — 'So both forms are correct?'",
+        "ar": "سمعت: 'Então as duas formas estão corretas?' — 'إذن الصيغتان صحيحتان؟'"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "A ___ dos alunos chegou à aula.",
+        "en": "A ___ dos alunos chegou à aula.",
+        "ar": "A ___ dos alunos chegou à aula."
+      },
+      "options": [
+        {
+          "pt": "da",
+          "en": "da",
+          "ar": "da"
+        },
+        {
+          "pt": "está",
+          "en": "está",
+          "ar": "está"
+        },
+        {
+          "pt": "maioria",
+          "en": "maioria",
+          "ar": "maioria"
+        }
+      ],
+      "answer": "maioria",
+      "accepted": [],
+      "explanation": {
+        "pt": "A resposta é 'maioria'. Frase completa: A maioria dos alunos chegou à aula.",
+        "en": "The answer is 'maioria'. Full sentence: Most of the students arrived at class.",
+        "ar": "الإجابة الصحيحة: 'maioria'. الجملة كاملة: وصل معظم الطلاب إلى الصف."
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "tem",
+          "en": "tem",
+          "ar": "tem"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "turma",
+          "en": "turma",
+          "ar": "turma"
+        },
+        {
+          "pt": "'30%",
+          "en": "'30%",
+          "ar": "'30%"
+        },
+        {
+          "pt": "texto",
+          "en": "texto",
+          "ar": "texto"
+        },
+        {
+          "pt": "da",
+          "en": "da",
+          "ar": "da"
+        },
+        {
+          "pt": "também",
+          "en": "também",
+          "ar": "também"
+        },
+        {
+          "pt": "pode",
+          "en": "pode",
+          "ar": "pode"
+        },
+        {
+          "pt": "faltou'",
+          "en": "faltou'",
+          "ar": "faltou'"
+        },
+        {
+          "pt": "um",
+          "en": "um",
+          "ar": "um"
+        },
+        {
+          "pt": "'faltaram'.",
+          "en": "'faltaram'.",
+          "ar": "'faltaram'."
+        },
+        {
+          "pt": "ser",
+          "en": "ser",
+          "ar": "ser"
+        },
+        {
+          "pt": "erro:",
+          "en": "erro:",
+          "ar": "erro:"
+        }
+      ],
+      "answer": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
+      "accepted": [
+        "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.'",
+        "en": "The correct order: 'The text has an error: '30% da turma faltou' can also be 'faltaram'.'",
+        "ar": "الترتيب الصحيح: 'النص فيه خطأ: '30% da turma faltou' يمكن أيضًا أن تكون 'faltaram'.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o sujeito",
+          "en": "nominal agreement",
+          "ar": "o sujeito"
+        },
+        {
+          "pt": "o sujeito composto",
+          "en": "the nucleus, core",
+          "ar": "o sujeito composto"
+        },
+        {
+          "pt": "a concordância verbal",
+          "en": "the subject",
+          "ar": "a concordância verbal"
+        },
+        {
+          "pt": "a expressão partitiva",
+          "en": "the compound subject",
+          "ar": "a expressão partitiva"
+        },
+        {
+          "pt": "o núcleo",
+          "en": "verbal agreement",
+          "ar": "o núcleo"
+        },
+        {
+          "pt": "a concordância nominal",
+          "en": "the partitive expression",
+          "ar": "a concordância nominal"
+        }
+      ],
+      "answer": "o sujeito::nominal agreement|o sujeito composto::the nucleus, core|a concordância verbal::the subject|a expressão partitiva::the compound subject|o núcleo::verbal agreement|a concordância nominal::the partitive expression",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim, com percentuais o verbo pode concordar com o número ou com o termo seguinte.",
+          "en": "The text has an error: '30% da turma faltou' can also be 'faltaram'.",
+          "ar": "نعم، مع النسب المئوية يمكن أن يطابق الفعل العدد أو ما يليه."
+        },
+        {
+          "pt": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
+          "en": "And with 'a gente', always in the third person?",
+          "ar": "ومع 'a gente'، دائمًا في الغائب؟"
+        },
+        {
+          "pt": "E com 'a gente', sempre na terceira pessoa?",
+          "en": "Yes, with percentages the verb can agree with the number or with the following term.",
+          "ar": "النص فيه خطأ: '30% da turma faltou' يمكن أيضًا أن تكون 'faltaram'."
+        }
+      ],
+      "answer": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
+      "accepted": [],
+      "audio": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
+      "explanation": {
+        "pt": "Você ouviu: 'O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.' — 'The text has an error: '30% da turma faltou' can also be 'faltaram'.'",
+        "en": "You heard: 'O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.' — 'The text has an error: '30% da turma faltou' can also be 'faltaram'.'",
+        "ar": "سمعت: 'O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.' — 'النص فيه خطأ: '30% da turma faltou' يمكن أيضًا أن تكون 'faltaram'.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Então as duas formas estão corretas?",
+          "en": "Exactly. 'A gente vai', never 'a gente vamos'.",
+          "ar": "ومع 'a gente'، دائمًا في الغائب؟"
+        },
+        {
+          "pt": "E com 'a gente', sempre na terceira pessoa?",
+          "en": "So both forms are correct?",
+          "ar": "إذن الصيغتان صحيحتان؟"
+        },
+        {
+          "pt": "Isso. 'A gente vai', nunca 'a gente vamos'.",
+          "en": "And with 'a gente', always in the third person?",
+          "ar": "بالضبط. 'A gente vai'، ولا نقول أبدًا 'a gente vamos'."
+        }
+      ],
+      "answer": "Então as duas formas estão corretas?",
+      "accepted": [],
+      "audio": "Então as duas formas estão corretas?",
+      "explanation": {
+        "pt": "Você ouviu: 'Então as duas formas estão corretas?' — 'So both forms are correct?'",
+        "en": "You heard: 'Então as duas formas estão corretas?' — 'So both forms are correct?'",
+        "ar": "سمعت: 'Então as duas formas estão corretas?' — 'إذن الصيغتان صحيحتان؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "da",
+          "en": "da",
+          "ar": "da"
+        },
+        {
+          "pt": "erro:",
+          "en": "erro:",
+          "ar": "erro:"
+        },
+        {
+          "pt": "'faltaram'.",
+          "en": "'faltaram'.",
+          "ar": "'faltaram'."
+        },
+        {
+          "pt": "tem",
+          "en": "tem",
+          "ar": "tem"
+        },
+        {
+          "pt": "também",
+          "en": "também",
+          "ar": "também"
+        },
+        {
+          "pt": "faltou'",
+          "en": "faltou'",
+          "ar": "faltou'"
+        },
+        {
+          "pt": "pode",
+          "en": "pode",
+          "ar": "pode"
+        },
+        {
+          "pt": "turma",
+          "en": "turma",
+          "ar": "turma"
+        },
+        {
+          "pt": "um",
+          "en": "um",
+          "ar": "um"
+        },
+        {
+          "pt": "ser",
+          "en": "ser",
+          "ar": "ser"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "texto",
+          "en": "texto",
+          "ar": "texto"
+        },
+        {
+          "pt": "'30%",
+          "en": "'30%",
+          "ar": "'30%"
+        }
+      ],
+      "answer": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
+      "accepted": [
+        "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.'",
+        "en": "The correct order: 'The text has an error: '30% da turma faltou' can also be 'faltaram'.'",
+        "ar": "الترتيب الصحيح: 'النص فيه خطأ: '30% da turma faltou' يمكن أيضًا أن تكون 'faltaram'.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a concordância nominal",
+          "en": "nominal agreement",
+          "ar": "a concordância nominal"
+        },
+        {
+          "pt": "o sujeito composto",
+          "en": "the nucleus, core",
+          "ar": "o sujeito composto"
+        },
+        {
+          "pt": "o sujeito",
+          "en": "the compound subject",
+          "ar": "o sujeito"
+        },
+        {
+          "pt": "o núcleo",
+          "en": "the subject",
+          "ar": "o núcleo"
+        },
+        {
+          "pt": "a concordância verbal",
+          "en": "the partitive expression",
+          "ar": "a concordância verbal"
+        },
+        {
+          "pt": "a expressão partitiva",
+          "en": "verbal agreement",
+          "ar": "a expressão partitiva"
+        }
+      ],
+      "answer": "a concordância nominal::nominal agreement|o sujeito composto::the nucleus, core|o sujeito::the compound subject|o núcleo::the subject|a concordância verbal::the partitive expression|a expressão partitiva::verbal agreement",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "E com 'a gente', sempre na terceira pessoa?",
+          "en": "Yes, with percentages the verb can agree with the number or with the following term.",
+          "ar": "نعم، مع النسب المئوية يمكن أن يطابق الفعل العدد أو ما يليه."
+        },
+        {
+          "pt": "Sim, com percentuais o verbo pode concordar com o número ou com o termo seguinte.",
+          "en": "And with 'a gente', always in the third person?",
+          "ar": "النص فيه خطأ: '30% da turma faltou' يمكن أيضًا أن تكون 'faltaram'."
+        },
+        {
+          "pt": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
+          "en": "The text has an error: '30% da turma faltou' can also be 'faltaram'.",
+          "ar": "ومع 'a gente'، دائمًا في الغائب؟"
+        }
+      ],
+      "answer": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
+      "accepted": [],
+      "audio": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
+      "explanation": {
+        "pt": "Você ouviu: 'O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.' — 'The text has an error: '30% da turma faltou' can also be 'faltaram'.'",
+        "en": "You heard: 'O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.' — 'The text has an error: '30% da turma faltou' can also be 'faltaram'.'",
+        "ar": "سمعت: 'O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.' — 'النص فيه خطأ: '30% da turma faltou' يمكن أيضًا أن تكون 'faltaram'.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Então as duas formas estão corretas?",
+          "en": "The text has an error: '30% da turma faltou' can also be 'faltaram'.",
+          "ar": "بالضبط. 'A gente vai'، ولا نقول أبدًا 'a gente vamos'."
+        },
+        {
+          "pt": "Isso. 'A gente vai', nunca 'a gente vamos'.",
+          "en": "Exactly. 'A gente vai', never 'a gente vamos'.",
+          "ar": "إذن الصيغتان صحيحتان؟"
+        },
+        {
+          "pt": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
+          "en": "So both forms are correct?",
+          "ar": "النص فيه خطأ: '30% da turma faltou' يمكن أيضًا أن تكون 'faltaram'."
+        }
+      ],
+      "answer": "Então as duas formas estão corretas?",
+      "accepted": [],
+      "audio": "Então as duas formas estão corretas?",
+      "explanation": {
+        "pt": "Você ouviu: 'Então as duas formas estão corretas?' — 'So both forms are correct?'",
+        "en": "You heard: 'Então as duas formas estão corretas?' — 'So both forms are correct?'",
+        "ar": "سمعت: 'Então as duas formas estão corretas?' — 'إذن الصيغتان صحيحتان؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "texto",
+          "en": "texto",
+          "ar": "texto"
+        },
+        {
+          "pt": "turma",
+          "en": "turma",
+          "ar": "turma"
+        },
+        {
+          "pt": "ser",
+          "en": "ser",
+          "ar": "ser"
+        },
+        {
+          "pt": "da",
+          "en": "da",
+          "ar": "da"
+        },
+        {
+          "pt": "pode",
+          "en": "pode",
+          "ar": "pode"
+        },
+        {
+          "pt": "'30%",
+          "en": "'30%",
+          "ar": "'30%"
+        },
+        {
+          "pt": "'faltaram'.",
+          "en": "'faltaram'.",
+          "ar": "'faltaram'."
+        },
+        {
+          "pt": "erro:",
+          "en": "erro:",
+          "ar": "erro:"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "faltou'",
+          "en": "faltou'",
+          "ar": "faltou'"
+        },
+        {
+          "pt": "um",
+          "en": "um",
+          "ar": "um"
+        },
+        {
+          "pt": "também",
+          "en": "também",
+          "ar": "também"
+        },
+        {
+          "pt": "tem",
+          "en": "tem",
+          "ar": "tem"
+        }
+      ],
+      "answer": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
+      "accepted": [
+        "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.'",
+        "en": "The correct order: 'The text has an error: '30% da turma faltou' can also be 'faltaram'.'",
+        "ar": "الترتيب الصحيح: 'النص فيه خطأ: '30% da turma faltou' يمكن أيضًا أن تكون 'faltaram'.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o sujeito",
+          "en": "the nucleus, core",
+          "ar": "o sujeito"
+        },
+        {
+          "pt": "a expressão partitiva",
+          "en": "nominal agreement",
+          "ar": "a expressão partitiva"
+        },
+        {
+          "pt": "o sujeito composto",
+          "en": "the subject",
+          "ar": "o sujeito composto"
+        },
+        {
+          "pt": "a concordância verbal",
+          "en": "the compound subject",
+          "ar": "a concordância verbal"
+        },
+        {
+          "pt": "a concordância nominal",
+          "en": "verbal agreement",
+          "ar": "a concordância nominal"
+        },
+        {
+          "pt": "o núcleo",
+          "en": "the partitive expression",
+          "ar": "o núcleo"
+        }
+      ],
+      "answer": "o sujeito::the nucleus, core|a expressão partitiva::nominal agreement|o sujeito composto::the subject|a concordância verbal::the compound subject|a concordância nominal::verbal agreement|o núcleo::the partitive expression",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Então as duas formas estão corretas?",
+          "en": "Exactly. 'A gente vai', never 'a gente vamos'.",
+          "ar": "النص فيه خطأ: '30% da turma faltou' يمكن أيضًا أن تكون 'faltaram'."
+        },
+        {
+          "pt": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
+          "en": "The text has an error: '30% da turma faltou' can also be 'faltaram'.",
+          "ar": "بالضبط. 'A gente vai'، ولا نقول أبدًا 'a gente vamos'."
+        },
+        {
+          "pt": "Isso. 'A gente vai', nunca 'a gente vamos'.",
+          "en": "So both forms are correct?",
+          "ar": "إذن الصيغتان صحيحتان؟"
+        }
+      ],
+      "answer": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
+      "accepted": [],
+      "audio": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
+      "explanation": {
+        "pt": "Você ouviu: 'O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.' — 'The text has an error: '30% da turma faltou' can also be 'faltaram'.'",
+        "en": "You heard: 'O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.' — 'The text has an error: '30% da turma faltou' can also be 'faltaram'.'",
+        "ar": "سمعت: 'O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.' — 'النص فيه خطأ: '30% da turma faltou' يمكن أيضًا أن تكون 'faltaram'.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Então as duas formas estão corretas?",
+          "en": "So both forms are correct?",
+          "ar": "إذن الصيغتان صحيحتان؟"
+        },
+        {
+          "pt": "Isso. 'A gente vai', nunca 'a gente vamos'.",
+          "en": "Exactly. 'A gente vai', never 'a gente vamos'.",
+          "ar": "ومع 'a gente'، دائمًا في الغائب؟"
+        },
+        {
+          "pt": "E com 'a gente', sempre na terceira pessoa?",
+          "en": "And with 'a gente', always in the third person?",
+          "ar": "بالضبط. 'A gente vai'، ولا نقول أبدًا 'a gente vamos'."
+        }
+      ],
+      "answer": "Então as duas formas estão corretas?",
+      "accepted": [],
+      "audio": "Então as duas formas estão corretas?",
+      "explanation": {
+        "pt": "Você ouviu: 'Então as duas formas estão corretas?' — 'So both forms are correct?'",
+        "en": "You heard: 'Então as duas formas estão corretas?' — 'So both forms are correct?'",
+        "ar": "سمعت: 'Então as duas formas estão corretas?' — 'إذن الصيغتان صحيحتان؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "tem",
+          "en": "tem",
+          "ar": "tem"
+        },
+        {
+          "pt": "'30%",
+          "en": "'30%",
+          "ar": "'30%"
+        },
+        {
+          "pt": "erro:",
+          "en": "erro:",
+          "ar": "erro:"
+        },
+        {
+          "pt": "'faltaram'.",
+          "en": "'faltaram'.",
+          "ar": "'faltaram'."
+        },
+        {
+          "pt": "turma",
+          "en": "turma",
+          "ar": "turma"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "da",
+          "en": "da",
+          "ar": "da"
+        },
+        {
+          "pt": "pode",
+          "en": "pode",
+          "ar": "pode"
+        },
+        {
+          "pt": "texto",
+          "en": "texto",
+          "ar": "texto"
+        },
+        {
+          "pt": "um",
+          "en": "um",
+          "ar": "um"
+        },
+        {
+          "pt": "ser",
+          "en": "ser",
+          "ar": "ser"
+        },
+        {
+          "pt": "também",
+          "en": "também",
+          "ar": "também"
+        },
+        {
+          "pt": "faltou'",
+          "en": "faltou'",
+          "ar": "faltou'"
+        }
+      ],
+      "answer": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
+      "accepted": [
+        "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.'",
+        "en": "The correct order: 'The text has an error: '30% da turma faltou' can also be 'faltaram'.'",
+        "ar": "الترتيب الصحيح: 'النص فيه خطأ: '30% da turma faltou' يمكن أيضًا أن تكون 'faltaram'.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a concordância verbal",
+          "en": "nominal agreement",
+          "ar": "a concordância verbal"
+        },
+        {
+          "pt": "a concordância nominal",
+          "en": "the subject",
+          "ar": "a concordância nominal"
+        },
+        {
+          "pt": "a expressão partitiva",
+          "en": "the compound subject",
+          "ar": "a expressão partitiva"
+        },
+        {
+          "pt": "o sujeito",
+          "en": "verbal agreement",
+          "ar": "o sujeito"
+        },
+        {
+          "pt": "o núcleo",
+          "en": "the nucleus, core",
+          "ar": "o núcleo"
+        },
+        {
+          "pt": "o sujeito composto",
+          "en": "the partitive expression",
+          "ar": "o sujeito composto"
+        }
+      ],
+      "answer": "a concordância verbal::nominal agreement|a concordância nominal::the subject|a expressão partitiva::the compound subject|o sujeito::verbal agreement|o núcleo::the nucleus, core|o sujeito composto::the partitive expression",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
+          "en": "And with 'a gente', always in the third person?",
+          "ar": "ومع 'a gente'، دائمًا في الغائب؟"
+        },
+        {
+          "pt": "E com 'a gente', sempre na terceira pessoa?",
+          "en": "So both forms are correct?",
+          "ar": "النص فيه خطأ: '30% da turma faltou' يمكن أيضًا أن تكون 'faltaram'."
+        },
+        {
+          "pt": "Então as duas formas estão corretas?",
+          "en": "The text has an error: '30% da turma faltou' can also be 'faltaram'.",
+          "ar": "إذن الصيغتان صحيحتان؟"
+        }
+      ],
+      "answer": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
+      "accepted": [],
+      "audio": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
+      "explanation": {
+        "pt": "Você ouviu: 'O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.' — 'The text has an error: '30% da turma faltou' can also be 'faltaram'.'",
+        "en": "You heard: 'O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.' — 'The text has an error: '30% da turma faltou' can also be 'faltaram'.'",
+        "ar": "سمعت: 'O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.' — 'النص فيه خطأ: '30% da turma faltou' يمكن أيضًا أن تكون 'faltaram'.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Então as duas formas estão corretas?",
+          "en": "Yes, with percentages the verb can agree with the number or with the following term.",
+          "ar": "إذن الصيغتان صحيحتان؟"
+        },
+        {
+          "pt": "Sim, com percentuais o verbo pode concordar com o número ou com o termo seguinte.",
+          "en": "So both forms are correct?",
+          "ar": "ومع 'a gente'، دائمًا في الغائب؟"
+        },
+        {
+          "pt": "E com 'a gente', sempre na terceira pessoa?",
+          "en": "And with 'a gente', always in the third person?",
+          "ar": "نعم، مع النسب المئوية يمكن أن يطابق الفعل العدد أو ما يليه."
+        }
+      ],
+      "answer": "Então as duas formas estão corretas?",
+      "accepted": [],
+      "audio": "Então as duas formas estão corretas?",
+      "explanation": {
+        "pt": "Você ouviu: 'Então as duas formas estão corretas?' — 'So both forms are correct?'",
+        "en": "You heard: 'Então as duas formas estão corretas?' — 'So both forms are correct?'",
+        "ar": "سمعت: 'Então as duas formas estão corretas?' — 'إذن الصيغتان صحيحتان؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "'faltaram'.",
+          "en": "'faltaram'.",
+          "ar": "'faltaram'."
+        },
+        {
+          "pt": "da",
+          "en": "da",
+          "ar": "da"
+        },
+        {
+          "pt": "faltou'",
+          "en": "faltou'",
+          "ar": "faltou'"
+        },
+        {
+          "pt": "erro:",
+          "en": "erro:",
+          "ar": "erro:"
+        },
+        {
+          "pt": "pode",
+          "en": "pode",
+          "ar": "pode"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "também",
+          "en": "também",
+          "ar": "também"
+        },
+        {
+          "pt": "tem",
+          "en": "tem",
+          "ar": "tem"
+        },
+        {
+          "pt": "turma",
+          "en": "turma",
+          "ar": "turma"
+        },
+        {
+          "pt": "'30%",
+          "en": "'30%",
+          "ar": "'30%"
+        },
+        {
+          "pt": "texto",
+          "en": "texto",
+          "ar": "texto"
+        },
+        {
+          "pt": "um",
+          "en": "um",
+          "ar": "um"
+        },
+        {
+          "pt": "ser",
+          "en": "ser",
+          "ar": "ser"
+        }
+      ],
+      "answer": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
+      "accepted": [
+        "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.'",
+        "en": "The correct order: 'The text has an error: '30% da turma faltou' can also be 'faltaram'.'",
+        "ar": "الترتيب الصحيح: 'النص فيه خطأ: '30% da turma faltou' يمكن أيضًا أن تكون 'faltaram'.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a expressão partitiva",
+          "en": "the nucleus, core",
+          "ar": "a expressão partitiva"
+        },
+        {
+          "pt": "o sujeito",
+          "en": "the partitive expression",
+          "ar": "o sujeito"
+        },
+        {
+          "pt": "a concordância verbal",
+          "en": "verbal agreement",
+          "ar": "a concordância verbal"
+        },
+        {
+          "pt": "o sujeito composto",
+          "en": "nominal agreement",
+          "ar": "o sujeito composto"
+        },
+        {
+          "pt": "o núcleo",
+          "en": "the compound subject",
+          "ar": "o núcleo"
+        },
+        {
+          "pt": "a concordância nominal",
+          "en": "the subject",
+          "ar": "a concordância nominal"
+        }
+      ],
+      "answer": "a expressão partitiva::the nucleus, core|o sujeito::the partitive expression|a concordância verbal::verbal agreement|o sujeito composto::nominal agreement|o núcleo::the compound subject|a concordância nominal::the subject",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "E com 'a gente', sempre na terceira pessoa?",
+          "en": "The text has an error: '30% da turma faltou' can also be 'faltaram'.",
+          "ar": "ومع 'a gente'، دائمًا في الغائب؟"
+        },
+        {
+          "pt": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
+          "en": "So both forms are correct?",
+          "ar": "النص فيه خطأ: '30% da turma faltou' يمكن أيضًا أن تكون 'faltaram'."
+        },
+        {
+          "pt": "Então as duas formas estão corretas?",
+          "en": "And with 'a gente', always in the third person?",
+          "ar": "إذن الصيغتان صحيحتان؟"
+        }
+      ],
+      "answer": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
+      "accepted": [],
+      "audio": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
+      "explanation": {
+        "pt": "Você ouviu: 'O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.' — 'The text has an error: '30% da turma faltou' can also be 'faltaram'.'",
+        "en": "You heard: 'O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.' — 'The text has an error: '30% da turma faltou' can also be 'faltaram'.'",
+        "ar": "سمعت: 'O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.' — 'النص فيه خطأ: '30% da turma faltou' يمكن أيضًا أن تكون 'faltaram'.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim, com percentuais o verbo pode concordar com o número ou com o termo seguinte.",
+          "en": "Exactly. 'A gente vai', never 'a gente vamos'.",
+          "ar": "إذن الصيغتان صحيحتان؟"
+        },
+        {
+          "pt": "Então as duas formas estão corretas?",
+          "en": "So both forms are correct?",
+          "ar": "نعم، مع النسب المئوية يمكن أن يطابق الفعل العدد أو ما يليه."
+        },
+        {
+          "pt": "Isso. 'A gente vai', nunca 'a gente vamos'.",
+          "en": "Yes, with percentages the verb can agree with the number or with the following term.",
+          "ar": "بالضبط. 'A gente vai'، ولا نقول أبدًا 'a gente vamos'."
+        }
+      ],
+      "answer": "Então as duas formas estão corretas?",
+      "accepted": [],
+      "audio": "Então as duas formas estão corretas?",
+      "explanation": {
+        "pt": "Você ouviu: 'Então as duas formas estão corretas?' — 'So both forms are correct?'",
+        "en": "You heard: 'Então as duas formas estão corretas?' — 'So both forms are correct?'",
+        "ar": "سمعت: 'Então as duas formas estão corretas?' — 'إذن الصيغتان صحيحتان؟'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "pode",
+          "en": "pode",
+          "ar": "pode"
+        },
+        {
+          "pt": "um",
+          "en": "um",
+          "ar": "um"
+        },
+        {
+          "pt": "turma",
+          "en": "turma",
+          "ar": "turma"
+        },
+        {
+          "pt": "'30%",
+          "en": "'30%",
+          "ar": "'30%"
+        },
+        {
+          "pt": "também",
+          "en": "também",
+          "ar": "também"
+        },
+        {
+          "pt": "da",
+          "en": "da",
+          "ar": "da"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "tem",
+          "en": "tem",
+          "ar": "tem"
+        },
+        {
+          "pt": "texto",
+          "en": "texto",
+          "ar": "texto"
+        },
+        {
+          "pt": "ser",
+          "en": "ser",
+          "ar": "ser"
+        },
+        {
+          "pt": "faltou'",
+          "en": "faltou'",
+          "ar": "faltou'"
+        },
+        {
+          "pt": "'faltaram'.",
+          "en": "'faltaram'.",
+          "ar": "'faltaram'."
+        },
+        {
+          "pt": "erro:",
+          "en": "erro:",
+          "ar": "erro:"
+        }
+      ],
+      "answer": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
+      "accepted": [
+        "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.'",
+        "en": "The correct order: 'The text has an error: '30% da turma faltou' can also be 'faltaram'.'",
+        "ar": "الترتيب الصحيح: 'النص فيه خطأ: '30% da turma faltou' يمكن أيضًا أن تكون 'faltaram'.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "o sujeito",
+          "en": "the partitive expression",
+          "ar": "o sujeito"
+        },
+        {
+          "pt": "a concordância nominal",
+          "en": "the nucleus, core",
+          "ar": "a concordância nominal"
+        },
+        {
+          "pt": "o sujeito composto",
+          "en": "verbal agreement",
+          "ar": "o sujeito composto"
+        },
+        {
+          "pt": "o núcleo",
+          "en": "the subject",
+          "ar": "o núcleo"
+        },
+        {
+          "pt": "a concordância verbal",
+          "en": "the compound subject",
+          "ar": "a concordância verbal"
+        },
+        {
+          "pt": "a expressão partitiva",
+          "en": "nominal agreement",
+          "ar": "a expressão partitiva"
+        }
+      ],
+      "answer": "o sujeito::the partitive expression|a concordância nominal::the nucleus, core|o sujeito composto::verbal agreement|o núcleo::the subject|a concordância verbal::the compound subject|a expressão partitiva::nominal agreement",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "E com 'a gente', sempre na terceira pessoa?",
+          "en": "Exactly. 'A gente vai', never 'a gente vamos'.",
+          "ar": "النص فيه خطأ: '30% da turma faltou' يمكن أيضًا أن تكون 'faltaram'."
+        },
+        {
+          "pt": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
+          "en": "The text has an error: '30% da turma faltou' can also be 'faltaram'.",
+          "ar": "ومع 'a gente'، دائمًا في الغائب؟"
+        },
+        {
+          "pt": "Isso. 'A gente vai', nunca 'a gente vamos'.",
+          "en": "And with 'a gente', always in the third person?",
+          "ar": "بالضبط. 'A gente vai'، ولا نقول أبدًا 'a gente vamos'."
+        }
+      ],
+      "answer": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
+      "accepted": [],
+      "audio": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
+      "explanation": {
+        "pt": "Você ouviu: 'O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.' — 'The text has an error: '30% da turma faltou' can also be 'faltaram'.'",
+        "en": "You heard: 'O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.' — 'The text has an error: '30% da turma faltou' can also be 'faltaram'.'",
+        "ar": "سمعت: 'O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.' — 'النص فيه خطأ: '30% da turma faltou' يمكن أيضًا أن تكون 'faltaram'.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Então as duas formas estão corretas?",
+          "en": "The text has an error: '30% da turma faltou' can also be 'faltaram'.",
+          "ar": "إذن الصيغتان صحيحتان؟"
+        },
+        {
+          "pt": "Sim, com percentuais o verbo pode concordar com o número ou com o termo seguinte.",
+          "en": "So both forms are correct?",
+          "ar": "النص فيه خطأ: '30% da turma faltou' يمكن أيضًا أن تكون 'faltaram'."
+        },
+        {
+          "pt": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
+          "en": "Yes, with percentages the verb can agree with the number or with the following term.",
+          "ar": "نعم، مع النسب المئوية يمكن أن يطابق الفعل العدد أو ما يليه."
+        }
+      ],
+      "answer": "Então as duas formas estão corretas?",
+      "accepted": [],
+      "audio": "Então as duas formas estão corretas?",
+      "explanation": {
+        "pt": "Você ouviu: 'Então as duas formas estão corretas?' — 'So both forms are correct?'",
+        "en": "You heard: 'Então as duas formas estão corretas?' — 'So both forms are correct?'",
+        "ar": "سمعت: 'Então as duas formas estão corretas?' — 'إذن الصيغتان صحيحتان؟'"
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'nominal agreement'",
+        "en": "Type in Portuguese: 'nominal agreement'",
+        "ar": "اكتب بالبرتغالية: 'المطابقة الاسمية'"
+      },
+      "options": [],
+      "answer": "a concordância nominal",
+      "accepted": [
+        "a concordância nominal"
+      ],
+      "explanation": {
+        "pt": "'a concordância nominal' significa 'nominal agreement'.",
+        "en": "'a concordância nominal' means 'nominal agreement'.",
+        "ar": "'$a concordância nominal' بالعربية: '$المطابقة الاسمية'."
+      }
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: 'verbal agreement'",
+        "en": "Type in Portuguese: 'verbal agreement'",
+        "ar": "اكتب بالبرتغالية: 'مطابقة الفعل مع الفاعل'"
+      },
+      "options": [],
+      "answer": "a concordância verbal",
+      "accepted": [
+        "a concordância verbal"
+      ],
+      "explanation": {
+        "pt": "'a concordância verbal' significa 'verbal agreement'.",
+        "en": "'a concordância verbal' means 'verbal agreement'.",
+        "ar": "'$a concordância verbal' بالعربية: '$مطابقة الفعل مع الفاعل'."
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "E com 'a gente', sempre na terceira pessoa?",
+          "en": "E com 'a gente', sempre na terceira pessoa?",
+          "ar": "E com 'a gente', sempre na terceira pessoa?"
+        },
+        {
+          "pt": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
+          "en": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
+          "ar": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'."
+        },
+        {
+          "pt": "Sim, com percentuais o verbo pode concordar com o número ou com o termo seguinte.",
+          "en": "Sim, com percentuais o verbo pode concordar com o número ou com o termo seguinte.",
+          "ar": "Sim, com percentuais o verbo pode concordar com o número ou com o termo seguinte."
+        }
+      ],
+      "answer": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
+      "accepted": [],
+      "audio": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
+      "explanation": {
+        "pt": "Você ouviu: 'O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.'",
+        "en": "You heard: 'O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.'",
+        "ar": "سمعت: 'O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.'"
+      }
+    },
+    {
+      "type": "listening",
+      "prompt": {
+        "pt": "O que você ouviu?",
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟"
+      },
+      "options": [
+        {
+          "pt": "Isso. 'A gente vai', nunca 'a gente vamos'.",
+          "en": "Isso. 'A gente vai', nunca 'a gente vamos'.",
+          "ar": "Isso. 'A gente vai', nunca 'a gente vamos'."
+        },
+        {
+          "pt": "Então as duas formas estão corretas?",
+          "en": "Então as duas formas estão corretas?",
+          "ar": "Então as duas formas estão corretas?"
+        },
+        {
+          "pt": "Sim, com percentuais o verbo pode concordar com o número ou com o termo seguinte.",
+          "en": "Sim, com percentuais o verbo pode concordar com o número ou com o termo seguinte.",
+          "ar": "Sim, com percentuais o verbo pode concordar com o número ou com o termo seguinte."
+        }
+      ],
+      "answer": "Então as duas formas estão corretas?",
+      "accepted": [],
+      "audio": "Então as duas formas estão corretas?",
+      "explanation": {
+        "pt": "Você ouviu: 'Então as duas formas estão corretas?'",
+        "en": "You heard: 'Então as duas formas estão corretas?'",
+        "ar": "سمعت: 'Então as duas formas estão corretas?'"
+      }
+    },
+    {
+      "type": "dictation",
+      "prompt": {
+        "pt": "Ouça e escreva o que você ouviu.",
+        "en": "Listen and type what you hear.",
+        "ar": "استمع واكتب ما سمعته."
+      },
+      "options": [],
+      "answer": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
+      "accepted": [],
+      "audio": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
+      "explanation": {
+        "pt": "A frase correta: 'O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.'",
+        "en": "The correct sentence: 'O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.'",
+        "ar": "الجملة الصحيحة: 'O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.'"
+      }
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "texto",
+          "en": "texto",
+          "ar": "texto"
+        },
+        {
+          "pt": "turma",
+          "en": "turma",
+          "ar": "turma"
+        },
+        {
+          "pt": "um",
+          "en": "um",
+          "ar": "um"
+        },
+        {
+          "pt": "'30%",
+          "en": "'30%",
+          "ar": "'30%"
+        },
+        {
+          "pt": "faltou'",
+          "en": "faltou'",
+          "ar": "faltou'"
+        },
+        {
+          "pt": "erro:",
+          "en": "erro:",
+          "ar": "erro:"
+        },
+        {
+          "pt": "também",
+          "en": "também",
+          "ar": "também"
+        },
+        {
+          "pt": "pode",
+          "en": "pode",
+          "ar": "pode"
+        },
+        {
+          "pt": "ser",
+          "en": "ser",
+          "ar": "ser"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "'faltaram'.",
+          "en": "'faltaram'.",
+          "ar": "'faltaram'."
+        },
+        {
+          "pt": "tem",
+          "en": "tem",
+          "ar": "tem"
+        },
+        {
+          "pt": "da",
+          "en": "da",
+          "ar": "da"
+        }
+      ],
+      "answer": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
+      "accepted": [
+        "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'."
+      ],
+      "explanation": {
+        "pt": "A ordem correta: 'O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.'",
+        "en": "The correct order: 'The text has an error: '30% da turma faltou' can also be 'faltaram'.'",
+        "ar": "الترتيب الصحيح: 'النص فيه خطأ: '30% da turma faltou' يمكن أيضًا أن تكون 'faltaram'.'"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "prompt": {
+        "pt": "Associe cada palavra em português ao seu significado em inglês:",
+        "en": "Match each Portuguese word to its English meaning:",
+        "ar": "قم بمطابقة كل كلمة برتغالية مع معناها بالإنجليزية:"
+      },
+      "options": [
+        {
+          "pt": "a expressão partitiva",
+          "en": "nominal agreement",
+          "ar": "a expressão partitiva"
+        },
+        {
+          "pt": "o sujeito",
+          "en": "the partitive expression",
+          "ar": "o sujeito"
+        },
+        {
+          "pt": "o núcleo",
+          "en": "the nucleus, core",
+          "ar": "o núcleo"
+        },
+        {
+          "pt": "a concordância nominal",
+          "en": "the subject",
+          "ar": "a concordância nominal"
+        },
+        {
+          "pt": "o sujeito composto",
+          "en": "verbal agreement",
+          "ar": "o sujeito composto"
+        },
+        {
+          "pt": "a concordância verbal",
+          "en": "the compound subject",
+          "ar": "a concordância verbal"
+        }
+      ],
+      "answer": "a expressão partitiva::nominal agreement|o sujeito::the partitive expression|o núcleo::the nucleus, core|a concordância nominal::the subject|o sujeito composto::verbal agreement|a concordância verbal::the compound subject",
+      "accepted": [],
+      "explanation": {
+        "pt": "Associe corretamente os pares.",
+        "en": "Match the pairs correctly.",
+        "ar": "قم بمطابقة الأزواج بشكل صحيح."
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim, com percentuais o verbo pode concordar com o número ou com o termo seguinte.",
+          "en": "So both forms are correct?",
+          "ar": "النص فيه خطأ: '30% da turma faltou' يمكن أيضًا أن تكون 'faltaram'."
+        },
+        {
+          "pt": "Então as duas formas estão corretas?",
+          "en": "The text has an error: '30% da turma faltou' can also be 'faltaram'.",
+          "ar": "إذن الصيغتان صحيحتان؟"
+        },
+        {
+          "pt": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
+          "en": "Yes, with percentages the verb can agree with the number or with the following term.",
+          "ar": "نعم، مع النسب المئوية يمكن أن يطابق الفعل العدد أو ما يليه."
+        }
+      ],
+      "answer": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
+      "accepted": [],
+      "audio": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
+      "explanation": {
+        "pt": "Você ouviu: 'O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.' — 'The text has an error: '30% da turma faltou' can also be 'faltaram'.'",
+        "en": "You heard: 'O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.' — 'The text has an error: '30% da turma faltou' can also be 'faltaram'.'",
+        "ar": "سمعت: 'O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.' — 'النص فيه خطأ: '30% da turma faltou' يمكن أيضًا أن تكون 'faltaram'.'"
+      }
+    },
+    {
+      "type": "listening_mcq",
+      "prompt": {
+        "pt": "Ouça e escolha a tradução correta:",
+        "en": "Listen and choose the correct translation:",
+        "ar": "استمع واختر الترجمة الصحيحة:"
+      },
+      "options": [
+        {
+          "pt": "Sim, com percentuais o verbo pode concordar com o número ou com o termo seguinte.",
+          "en": "So both forms are correct?",
+          "ar": "نعم، مع النسب المئوية يمكن أن يطابق الفعل العدد أو ما يليه."
+        },
+        {
+          "pt": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
+          "en": "The text has an error: '30% da turma faltou' can also be 'faltaram'.",
+          "ar": "إذن الصيغتان صحيحتان؟"
+        },
+        {
+          "pt": "Então as duas formas estão corretas?",
+          "en": "Yes, with percentages the verb can agree with the number or with the following term.",
+          "ar": "النص فيه خطأ: '30% da turma faltou' يمكن أيضًا أن تكون 'faltaram'."
+        }
+      ],
+      "answer": "Então as duas formas estão corretas?",
+      "accepted": [],
+      "audio": "Então as duas formas estão corretas?",
+      "explanation": {
+        "pt": "Você ouviu: 'Então as duas formas estão corretas?' — 'So both forms are correct?'",
+        "en": "You heard: 'Então as duas formas estão corretas?' — 'So both forms are correct?'",
+        "ar": "سمعت: 'Então as duas formas estão corretas?' — 'إذن الصيغتان صحيحتان؟'"
+      }
+    }
+  ],
+  "speaking": {
+    "title": {
+      "pt": "Fale Agora — Ouça e Repita",
+      "en": "Speak Now — Listen and Repeat",
+      "ar": "تحدث الآن — استمع وكرر"
+    },
+    "phrases": [
+      {
+        "pt": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
+        "en": "The text has an error: '30% da turma faltou' can also be 'faltaram'.",
+        "ar": "النص فيه خطأ: '30% da turma faltou' يمكن أيضًا أن تكون 'faltaram'."
+      },
+      {
+        "pt": "Então as duas formas estão corretas?",
+        "en": "So both forms are correct?",
+        "ar": "إذن الصيغتان صحيحتان؟"
+      },
+      {
+        "pt": "Sim, com percentuais o verbo pode concordar com o número ou com o termo seguinte.",
+        "en": "Yes, with percentages the verb can agree with the number or with the following term.",
+        "ar": "نعم، مع النسب المئوية يمكن أن يطابق الفعل العدد أو ما يليه."
+      },
+      {
+        "pt": "E com 'a gente', sempre na terceira pessoa?",
+        "en": "And with 'a gente', always in the third person?",
+        "ar": "ومع 'a gente'، دائمًا في الغائب؟"
+      },
+      {
+        "pt": "Isso. 'A gente vai', nunca 'a gente vamos'.",
+        "en": "Exactly. 'A gente vai', never 'a gente vamos'.",
+        "ar": "بالضبط. 'A gente vai'، ولا نقول أبدًا 'a gente vamos'."
+      },
+      {
+        "pt": "a concordância nominal",
+        "en": "nominal agreement",
+        "ar": "المطابقة الاسمية"
+      },
+      {
+        "pt": "a concordância verbal",
+        "en": "verbal agreement",
+        "ar": "مطابقة الفعل مع الفاعل"
+      },
+      {
+        "pt": "o sujeito",
+        "en": "the subject",
+        "ar": "الفاعل"
+      }
+    ]
+  },
+  "cultural_tips": {
+    "pt": "",
+    "en": "",
+    "ar": ""
+  }
+}
