@@ -173,7 +173,6 @@ grype-scan:
       - sbom-*.cdx.json
       - grype-*-report.json
     expire_in: 4 weeks
-  needs: [build]
   rules:
     - if: $CI_PIPELINE_SOURCE == "merge_request_event"
     - if: $CI_COMMIT_BRANCH == "main"
