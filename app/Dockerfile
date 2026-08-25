@@ -22,7 +22,8 @@ WORKDIR /app
 
 # Pre-install Android components Gradle needs (cached until base image changes):
 # NDK 26.3.11579264 = flutter.ndkVersion on Flutter 3.29.3
-RUN yes | sdkmanager --licenses > /dev/null && \
+# (license prompt isolated so sdkmanager's exit doesn't SIGPIPE 'yes' into 141)
+RUN ( yes | sdkmanager --licenses > /dev/null ) || true ; \
     sdkmanager "platform-tools" "platforms;android-34" "platforms;android-35" \
       "build-tools;34.0.0" "ndk;26.3.11579264" "cmake;3.22.1" > /dev/null
 
