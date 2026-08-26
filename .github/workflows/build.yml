@@ -29,7 +29,7 @@ jobs:
     - linux
     - X64
     - portuguese
-    timeout-minutes: 15
+    timeout-minutes: 30
     defaults:
       run:
         working-directory: app
@@ -87,7 +87,7 @@ jobs:
     - linux
     - X64
     - portuguese
-    timeout-minutes: 30
+    timeout-minutes: 90
     defaults:
       run:
         working-directory: app
@@ -188,7 +188,7 @@ jobs:
     - linux
     - X64
     - portuguese
-    timeout-minutes: 20
+    timeout-minutes: 30
     strategy:
       fail-fast: false
       matrix:
@@ -226,7 +226,7 @@ jobs:
     - linux
     - X64
     - portuguese
-    timeout-minutes: 15
+    timeout-minutes: 45
     permissions:
       contents: write
       packages: write
@@ -311,7 +311,7 @@ jobs:
     - linux
     - X64
     - portuguese
-    timeout-minutes: 10
+    timeout-minutes: 20
     permissions:
       contents: write
     steps:
