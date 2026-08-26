@@ -254,7 +254,7 @@ jobs:
       run: "cosign sign-blob --yes \\\n  --output-signature app-release.apk.sig \\\n  app/build/app/outputs/flutter-apk/app-release.apk\n\
         cosign sign-blob --yes \\\n  --output-signature sbom-project.cdx.json.sig \\\n  sbom-project.cdx.json"
     - name: Generate Provenance (SLSA)
-      uses: slsa-framework/slsa-github-generator/actions/generate-attestations@v2
+      uses: slsa-framework/slsa-github-generator/actions/generate-attestations@v2.1.0
       with:
         subject-path: app/build/app/outputs/flutter-apk/app-release.apk
         provenance-name: provenance.intoto.jsonl
