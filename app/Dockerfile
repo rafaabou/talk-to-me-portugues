@@ -11,11 +11,11 @@
 #         CIS-DI-0001 non-root user, CIS-DI-0005 content trust,
 #         CIS-DI-0006 healthcheck.
 #
-# NOTE: app/.dockerignore excludes *.apk except the staged app-release.apk,
-#       plus keystores/host state.
+# NOTE: app/.dockerignore keeps the staged app-release.apk and excludes
+#       keystores/host state (see app/.dockerignore).
 # =============================================================================
 
-FROM alpine:3.20
+FROM alpine:3.22
 
 LABEL org.opencontainers.image.title="talk-to-me-portugues" \
       org.opencontainers.image.description="Release APK artifact container (scan-only, never published)" \

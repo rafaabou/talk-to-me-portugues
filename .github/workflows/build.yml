@@ -20,7 +20,6 @@ permissions:
   security-events: write
   packages: write
   id-token: write
-  attestations: write
 jobs:
   validate:
     name: Validate Portuguese App
@@ -195,7 +194,6 @@ jobs:
       contents: write
       packages: write
       id-token: write
-      attestations: write
     steps:
     - name: Checkout
       uses: actions/checkout@v4
@@ -234,14 +232,14 @@ jobs:
       working-directory: app
       run: "flutter build apk --release \\\n  --obfuscate \\\n  --split-debug-info=build/debug-info \\\n  --target-platform\
         \ android-arm64"
+    - name: Install Grype & Syft
+      run: |
+        curl -sSfL https://raw.githubusercontent.com/anchore/grype/main/install.sh | sh -s -- -b $HOME/.local/bin
+        curl -sSfL https://raw.githubusercontent.com/anchore/syft/main/install.sh | sh -s -- -b $HOME/.local/bin
     - name: Generate SBOMs
       run: 'export PATH="$HOME/.local/bin:$PATH"
 
         syft file:. -o cyclonedx-json=sbom-project.cdx.json
-
-        syft file:app/build/app/outputs/flutter-apk/app-release.apk -o cyclonedx-json=sbom-apk.cdx.json'
-    - name: Generate APK SBOM
-      run: 'export PATH="$HOME/.local/bin:$PATH"
 
         syft file:app/build/app/outputs/flutter-apk/app-release.apk -o cyclonedx-json=sbom-apk.cdx.json'
     - name: Vulnerability Scan on APK SBOM
