@@ -297,6 +297,11 @@ jobs:
         git config user.name "github-actions"
         git config user.email "github-actions@github.com"
         git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/rafaabou/talk-to-me-portugues.git"
+        # Delete existing release and tag if they exist
+        gh release delete "$TAG" --yes 2>/dev/null || true
+        git push origin --delete "$TAG" 2>/dev/null || true
+        git tag -d "$TAG" 2>/dev/null || true
+        # Create tag
         git tag -f "$TAG" "${{ github.sha }}"
         git push origin -f "$TAG"
         # Create release with all artifacts
