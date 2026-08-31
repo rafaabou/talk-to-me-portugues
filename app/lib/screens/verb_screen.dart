@@ -104,13 +104,7 @@ class _VerbScreenState extends State<VerbScreen> {
                                         fontWeight: FontWeight.w600,
                                       ),
                                     ),
-                                    subtitle: Text(
-                                      lang == 'ar'
-                                          ? v.ar
-                                          : lang == 'pt'
-                                          ? v.en
-                                          : v.en,
-                                    ),
+                                    subtitle: Text(v.ar),
                                     trailing: const Icon(Icons.chevron_right),
                                     onTap:
                                         () => Navigator.push(
@@ -154,12 +148,7 @@ class _VerbDetailScreenState extends State<VerbDetailScreen> {
     final lang = context.watch<AppState>().lang;
     final tense = widget.data.tenses[_tenseIndex];
     final forms = widget.verb.conjugation(tense.id);
-    final title =
-        lang == 'ar'
-            ? widget.verb.ar
-            : lang == 'pt'
-            ? widget.verb.inf
-            : widget.verb.inf;
+    final title = lang == 'ar' ? widget.verb.ar : widget.verb.inf;
 
     return AppSelectionArea(
       child: Scaffold(

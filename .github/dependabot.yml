@@ -16,9 +16,6 @@ updates:
       - "dart"
       - "flutter"
       - "portugues"
-    commit-message:
-      prefix: "deps(dart):"
-      include: "scope"
     reviewers:
       - "rafaabou"
     assignees:

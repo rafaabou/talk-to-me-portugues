@@ -492,22 +492,22 @@
       "options": [
         {
           "pt": "pretender",
-          "en": "to intend (not 'to pretend')",
+          "en": "to intend",
           "ar": "pretender"
         },
         {
           "pt": "sensato",
-          "en": "the library",
+          "en": "sensible",
           "ar": "sensato"
         },
         {
           "pt": "os pais",
-          "en": "actually",
+          "en": "the parents",
           "ar": "os pais"
         },
         {
           "pt": "na verdade",
-          "en": "the bookstore (not 'library')",
+          "en": "actually",
           "ar": "na verdade"
         },
         {
@@ -521,7 +521,7 @@
           "ar": "a biblioteca"
         }
       ],
-      "answer": "pretender::to intend (not 'to pretend')|sensato::the library|os pais::actually|na verdade::the bookstore (not 'library')|a livraria::sensible (not 'sensitive')|a biblioteca::the parents (not 'the country')",
+      "answer": "pretender::to intend|sensato::sensible|os pais::the parents|na verdade::actually|a livraria::sensible (not 'sensitive')|a biblioteca::the parents (not 'the country')",
       "accepted": [],
       "explanation": {
         "pt": "Associe corretamente os pares.",
@@ -716,12 +716,12 @@
       "options": [
         {
           "pt": "os pais",
-          "en": "the library",
+          "en": "the parents",
           "ar": "os pais"
         },
         {
           "pt": "sensato",
-          "en": "the parents (not 'the country')",
+          "en": "sensible",
           "ar": "sensato"
         },
         {
@@ -741,11 +741,11 @@
         },
         {
           "pt": "pretender",
-          "en": "the bookstore (not 'library')",
+          "en": "to intend",
           "ar": "pretender"
         }
       ],
-      "answer": "os pais::the library|sensato::the parents (not 'the country')|a biblioteca::to intend (not 'to pretend')|a livraria::sensible (not 'sensitive')|na verdade::actually|pretender::the bookstore (not 'library')",
+      "answer": "os pais::the parents|sensato::sensible|a biblioteca::to intend (not 'to pretend')|a livraria::sensible (not 'sensitive')|na verdade::actually|pretender::to intend",
       "accepted": [],
       "explanation": {
         "pt": "Associe corretamente os pares.",
@@ -817,85 +817,6 @@
         "pt": "Você ouviu: 'Cuidado! 'Embarrassed' é 'constrangido', não 'embaraçado'.' — 'Careful! 'Embarrassed' is 'constrangido', not 'embaraçado'.'",
         "en": "You heard: 'Cuidado! 'Embarrassed' é 'constrangido', não 'embaraçado'.' — 'Careful! 'Embarrassed' is 'constrangido', not 'embaraçado'.'",
         "ar": "سمعت: 'Cuidado! 'Embarrassed' é 'constrangido', não 'embaraçado'.' — 'انتبه! 'Embarrassed' تعني 'constrangido'، وليست 'embaraçado'.'"
-      }
-    },
-    {
-      "type": "sentence_reorder",
-      "prompt": {
-        "pt": "Reordene as palavras para formar a frase:",
-        "en": "Reorder the words to form the sentence:",
-        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
-      },
-      "options": [
-        {
-          "pt": "'estou",
-          "en": "'estou",
-          "ar": "'estou"
-        },
-        {
-          "pt": "am",
-          "en": "am",
-          "ar": "am"
-        },
-        {
-          "pt": "esta",
-          "en": "esta",
-          "ar": "esta"
-        },
-        {
-          "pt": "'I",
-          "en": "'I",
-          "ar": "'I"
-        },
-        {
-          "pt": "embarrassed'",
-          "en": "embarrassed'",
-          "ar": "embarrassed'"
-        },
-        {
-          "pt": "com",
-          "en": "com",
-          "ar": "com"
-        },
-        {
-          "pt": "como",
-          "en": "como",
-          "ar": "como"
-        },
-        {
-          "pt": "Me",
-          "en": "Me",
-          "ar": "Me"
-        },
-        {
-          "pt": "Escrevi",
-          "en": "Escrevi",
-          "ar": "Escrevi"
-        },
-        {
-          "pt": "ajuda",
-          "en": "ajuda",
-          "ar": "ajuda"
-        },
-        {
-          "pt": "embaraçado'.",
-          "en": "embaraçado'.",
-          "ar": "embaraçado'."
-        },
-        {
-          "pt": "tradução?",
-          "en": "tradução?",
-          "ar": "tradução?"
-        }
-      ],
-      "answer": "Me ajuda com esta tradução? Escrevi 'I am embarrassed' como 'estou embaraçado'.",
-      "accepted": [
-        "Me ajuda com esta tradução? Escrevi 'I am embarrassed' como 'estou embaraçado'."
-      ],
-      "explanation": {
-        "pt": "A ordem correta: 'Me ajuda com esta tradução? Escrevi 'I am embarrassed' como 'estou embaraçado'.'",
-        "en": "The correct order: 'Can you help me with this translation? I wrote 'I am embarrassed' as 'estou embaraçado'.'",
-        "ar": "الترتيب الصحيح: 'هل تساعدني في هذه الترجمة؟ كتبت 'I am embarrassed' بأنها 'estou embaraçado'.'"
       }
     },
     {
@@ -908,7 +829,7 @@
       "options": [
         {
           "pt": "os pais",
-          "en": "the library",
+          "en": "the parents",
           "ar": "os pais"
         },
         {
@@ -928,166 +849,21 @@
         },
         {
           "pt": "pretender",
-          "en": "to intend (not 'to pretend')",
+          "en": "to intend",
           "ar": "pretender"
         },
         {
           "pt": "sensato",
-          "en": "the bookstore (not 'library')",
+          "en": "sensible",
           "ar": "sensato"
         }
       ],
-      "answer": "os pais::the library|a livraria::the parents (not 'the country')|a biblioteca::sensible (not 'sensitive')|na verdade::actually|pretender::to intend (not 'to pretend')|sensato::the bookstore (not 'library')",
+      "answer": "os pais::the parents|a livraria::the parents (not 'the country')|a biblioteca::sensible (not 'sensitive')|na verdade::actually|pretender::to intend|sensato::sensible",
       "accepted": [],
       "explanation": {
         "pt": "Associe corretamente os pares.",
         "en": "Match the pairs correctly.",
         "ar": "قم بمطابقة الأزواج بشكل صحيح."
-      }
-    },
-    {
-      "type": "listening_mcq",
-      "prompt": {
-        "pt": "Ouça e escolha a tradução correta:",
-        "en": "Listen and choose the correct translation:",
-        "ar": "استمع واختر الترجمة الصحيحة:"
-      },
-      "options": [
-        {
-          "pt": "'Pretend' significa 'fingir'. 'Pretender' é 'to intend'.",
-          "en": "How interesting! I'll pay more attention to false cognates.",
-          "ar": "كم هذا مثير! سأنتبه أكثر إلى الكلمات الخادعة."
-        },
-        {
-          "pt": "Me ajuda com esta tradução? Escrevi 'I am embarrassed' como 'estou embaraçado'.",
-          "en": "Can you help me with this translation? I wrote 'I am embarrassed' as 'estou embaraçado'.",
-          "ar": "'Pretend' تعني 'يتظاهر'. أما 'pretender' فتعني 'ينوي'."
-        },
-        {
-          "pt": "Que interessante! Vou prestar mais atenção aos falsos cognatos.",
-          "en": "'Pretend' means 'to fake'. 'Pretender' is 'to intend'.",
-          "ar": "هل تساعدني في هذه الترجمة؟ كتبت 'I am embarrassed' بأنها 'estou embaraçado'."
-        }
-      ],
-      "answer": "Me ajuda com esta tradução? Escrevi 'I am embarrassed' como 'estou embaraçado'.",
-      "accepted": [],
-      "audio": "Me ajuda com esta tradução? Escrevi 'I am embarrassed' como 'estou embaraçado'.",
-      "explanation": {
-        "pt": "Você ouviu: 'Me ajuda com esta tradução? Escrevi 'I am embarrassed' como 'estou embaraçado'.' — 'Can you help me with this translation? I wrote 'I am embarrassed' as 'estou embaraçado'.'",
-        "en": "You heard: 'Me ajuda com esta tradução? Escrevi 'I am embarrassed' como 'estou embaraçado'.' — 'Can you help me with this translation? I wrote 'I am embarrassed' as 'estou embaraçado'.'",
-        "ar": "سمعت: 'Me ajuda com esta tradução? Escrevi 'I am embarrassed' como 'estou embaraçado'.' — 'هل تساعدني في هذه الترجمة؟ كتبت 'I am embarrassed' بأنها 'estou embaraçado'.'"
-      }
-    },
-    {
-      "type": "listening_mcq",
-      "prompt": {
-        "pt": "Ouça e escolha a tradução correta:",
-        "en": "Listen and choose the correct translation:",
-        "ar": "استمع واختر الترجمة الصحيحة:"
-      },
-      "options": [
-        {
-          "pt": "Cuidado! 'Embarrassed' é 'constrangido', não 'embaraçado'.",
-          "en": "How interesting! I'll pay more attention to false cognates.",
-          "ar": "هل تساعدني في هذه الترجمة؟ كتبت 'I am embarrassed' بأنها 'estou embaraçado'."
-        },
-        {
-          "pt": "Me ajuda com esta tradução? Escrevi 'I am embarrassed' como 'estou embaraçado'.",
-          "en": "Can you help me with this translation? I wrote 'I am embarrassed' as 'estou embaraçado'.",
-          "ar": "كم هذا مثير! سأنتبه أكثر إلى الكلمات الخادعة."
-        },
-        {
-          "pt": "Que interessante! Vou prestar mais atenção aos falsos cognatos.",
-          "en": "Careful! 'Embarrassed' is 'constrangido', not 'embaraçado'.",
-          "ar": "انتبه! 'Embarrassed' تعني 'constrangido'، وليست 'embaraçado'."
-        }
-      ],
-      "answer": "Cuidado! 'Embarrassed' é 'constrangido', não 'embaraçado'.",
-      "accepted": [],
-      "audio": "Cuidado! 'Embarrassed' é 'constrangido', não 'embaraçado'.",
-      "explanation": {
-        "pt": "Você ouviu: 'Cuidado! 'Embarrassed' é 'constrangido', não 'embaraçado'.' — 'Careful! 'Embarrassed' is 'constrangido', not 'embaraçado'.'",
-        "en": "You heard: 'Cuidado! 'Embarrassed' é 'constrangido', não 'embaraçado'.' — 'Careful! 'Embarrassed' is 'constrangido', not 'embaraçado'.'",
-        "ar": "سمعت: 'Cuidado! 'Embarrassed' é 'constrangido', não 'embaraçado'.' — 'انتبه! 'Embarrassed' تعني 'constrangido'، وليست 'embaraçado'.'"
-      }
-    },
-    {
-      "type": "sentence_reorder",
-      "prompt": {
-        "pt": "Reordene as palavras para formar a frase:",
-        "en": "Reorder the words to form the sentence:",
-        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
-      },
-      "options": [
-        {
-          "pt": "'I",
-          "en": "'I",
-          "ar": "'I"
-        },
-        {
-          "pt": "com",
-          "en": "com",
-          "ar": "com"
-        },
-        {
-          "pt": "embaraçado'.",
-          "en": "embaraçado'.",
-          "ar": "embaraçado'."
-        },
-        {
-          "pt": "am",
-          "en": "am",
-          "ar": "am"
-        },
-        {
-          "pt": "embarrassed'",
-          "en": "embarrassed'",
-          "ar": "embarrassed'"
-        },
-        {
-          "pt": "esta",
-          "en": "esta",
-          "ar": "esta"
-        },
-        {
-          "pt": "Escrevi",
-          "en": "Escrevi",
-          "ar": "Escrevi"
-        },
-        {
-          "pt": "Me",
-          "en": "Me",
-          "ar": "Me"
-        },
-        {
-          "pt": "como",
-          "en": "como",
-          "ar": "como"
-        },
-        {
-          "pt": "'estou",
-          "en": "'estou",
-          "ar": "'estou"
-        },
-        {
-          "pt": "ajuda",
-          "en": "ajuda",
-          "ar": "ajuda"
-        },
-        {
-          "pt": "tradução?",
-          "en": "tradução?",
-          "ar": "tradução?"
-        }
-      ],
-      "answer": "Me ajuda com esta tradução? Escrevi 'I am embarrassed' como 'estou embaraçado'.",
-      "accepted": [
-        "Me ajuda com esta tradução? Escrevi 'I am embarrassed' como 'estou embaraçado'."
-      ],
-      "explanation": {
-        "pt": "A ordem correta: 'Me ajuda com esta tradução? Escrevi 'I am embarrassed' como 'estou embaraçado'.'",
-        "en": "The correct order: 'Can you help me with this translation? I wrote 'I am embarrassed' as 'estou embaraçado'.'",
-        "ar": "الترتيب الصحيح: 'هل تساعدني في هذه الترجمة؟ كتبت 'I am embarrassed' بأنها 'estou embaraçado'.'"
       }
     },
     {
@@ -1110,176 +886,31 @@
         },
         {
           "pt": "os pais",
-          "en": "the library",
+          "en": "the parents",
           "ar": "os pais"
         },
         {
           "pt": "pretender",
-          "en": "actually",
+          "en": "to intend",
           "ar": "pretender"
         },
         {
           "pt": "na verdade",
-          "en": "sensible (not 'sensitive')",
+          "en": "actually",
           "ar": "na verdade"
         },
         {
           "pt": "sensato",
-          "en": "the bookstore (not 'library')",
+          "en": "sensible",
           "ar": "sensato"
         }
       ],
-      "answer": "a livraria::to intend (not 'to pretend')|a biblioteca::the parents (not 'the country')|os pais::the library|pretender::actually|na verdade::sensible (not 'sensitive')|sensato::the bookstore (not 'library')",
+      "answer": "a livraria::to intend (not 'to pretend')|a biblioteca::the parents (not 'the country')|os pais::the parents|pretender::to intend|na verdade::actually|sensato::sensible",
       "accepted": [],
       "explanation": {
         "pt": "Associe corretamente os pares.",
         "en": "Match the pairs correctly.",
         "ar": "قم بمطابقة الأزواج بشكل صحيح."
-      }
-    },
-    {
-      "type": "listening_mcq",
-      "prompt": {
-        "pt": "Ouça e escolha a tradução correta:",
-        "en": "Listen and choose the correct translation:",
-        "ar": "استمع واختر الترجمة الصحيحة:"
-      },
-      "options": [
-        {
-          "pt": "'Pretend' significa 'fingir'. 'Pretender' é 'to intend'.",
-          "en": "Can you help me with this translation? I wrote 'I am embarrassed' as 'estou embaraçado'.",
-          "ar": "'Pretend' تعني 'يتظاهر'. أما 'pretender' فتعني 'ينوي'."
-        },
-        {
-          "pt": "Ah, entendi. E 'pretend'?",
-          "en": "'Pretend' means 'to fake'. 'Pretender' is 'to intend'.",
-          "ar": "هل تساعدني في هذه الترجمة؟ كتبت 'I am embarrassed' بأنها 'estou embaraçado'."
-        },
-        {
-          "pt": "Me ajuda com esta tradução? Escrevi 'I am embarrassed' como 'estou embaraçado'.",
-          "en": "Ah, I see. And 'pretend'?",
-          "ar": "آه، فهمت. وماذا عن 'pretend'؟"
-        }
-      ],
-      "answer": "Me ajuda com esta tradução? Escrevi 'I am embarrassed' como 'estou embaraçado'.",
-      "accepted": [],
-      "audio": "Me ajuda com esta tradução? Escrevi 'I am embarrassed' como 'estou embaraçado'.",
-      "explanation": {
-        "pt": "Você ouviu: 'Me ajuda com esta tradução? Escrevi 'I am embarrassed' como 'estou embaraçado'.' — 'Can you help me with this translation? I wrote 'I am embarrassed' as 'estou embaraçado'.'",
-        "en": "You heard: 'Me ajuda com esta tradução? Escrevi 'I am embarrassed' como 'estou embaraçado'.' — 'Can you help me with this translation? I wrote 'I am embarrassed' as 'estou embaraçado'.'",
-        "ar": "سمعت: 'Me ajuda com esta tradução? Escrevi 'I am embarrassed' como 'estou embaraçado'.' — 'هل تساعدني في هذه الترجمة؟ كتبت 'I am embarrassed' بأنها 'estou embaraçado'.'"
-      }
-    },
-    {
-      "type": "listening_mcq",
-      "prompt": {
-        "pt": "Ouça e escolha a tradução correta:",
-        "en": "Listen and choose the correct translation:",
-        "ar": "استمع واختر الترجمة الصحيحة:"
-      },
-      "options": [
-        {
-          "pt": "Cuidado! 'Embarrassed' é 'constrangido', não 'embaraçado'.",
-          "en": "'Pretend' means 'to fake'. 'Pretender' is 'to intend'.",
-          "ar": "انتبه! 'Embarrassed' تعني 'constrangido'، وليست 'embaraçado'."
-        },
-        {
-          "pt": "'Pretend' significa 'fingir'. 'Pretender' é 'to intend'.",
-          "en": "How interesting! I'll pay more attention to false cognates.",
-          "ar": "كم هذا مثير! سأنتبه أكثر إلى الكلمات الخادعة."
-        },
-        {
-          "pt": "Que interessante! Vou prestar mais atenção aos falsos cognatos.",
-          "en": "Careful! 'Embarrassed' is 'constrangido', not 'embaraçado'.",
-          "ar": "'Pretend' تعني 'يتظاهر'. أما 'pretender' فتعني 'ينوي'."
-        }
-      ],
-      "answer": "Cuidado! 'Embarrassed' é 'constrangido', não 'embaraçado'.",
-      "accepted": [],
-      "audio": "Cuidado! 'Embarrassed' é 'constrangido', não 'embaraçado'.",
-      "explanation": {
-        "pt": "Você ouviu: 'Cuidado! 'Embarrassed' é 'constrangido', não 'embaraçado'.' — 'Careful! 'Embarrassed' is 'constrangido', not 'embaraçado'.'",
-        "en": "You heard: 'Cuidado! 'Embarrassed' é 'constrangido', não 'embaraçado'.' — 'Careful! 'Embarrassed' is 'constrangido', not 'embaraçado'.'",
-        "ar": "سمعت: 'Cuidado! 'Embarrassed' é 'constrangido', não 'embaraçado'.' — 'انتبه! 'Embarrassed' تعني 'constrangido'، وليست 'embaraçado'.'"
-      }
-    },
-    {
-      "type": "sentence_reorder",
-      "prompt": {
-        "pt": "Reordene as palavras para formar a frase:",
-        "en": "Reorder the words to form the sentence:",
-        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
-      },
-      "options": [
-        {
-          "pt": "Me",
-          "en": "Me",
-          "ar": "Me"
-        },
-        {
-          "pt": "embarrassed'",
-          "en": "embarrassed'",
-          "ar": "embarrassed'"
-        },
-        {
-          "pt": "com",
-          "en": "com",
-          "ar": "com"
-        },
-        {
-          "pt": "'estou",
-          "en": "'estou",
-          "ar": "'estou"
-        },
-        {
-          "pt": "'I",
-          "en": "'I",
-          "ar": "'I"
-        },
-        {
-          "pt": "Escrevi",
-          "en": "Escrevi",
-          "ar": "Escrevi"
-        },
-        {
-          "pt": "esta",
-          "en": "esta",
-          "ar": "esta"
-        },
-        {
-          "pt": "ajuda",
-          "en": "ajuda",
-          "ar": "ajuda"
-        },
-        {
-          "pt": "como",
-          "en": "como",
-          "ar": "como"
-        },
-        {
-          "pt": "tradução?",
-          "en": "tradução?",
-          "ar": "tradução?"
-        },
-        {
-          "pt": "embaraçado'.",
-          "en": "embaraçado'.",
-          "ar": "embaraçado'."
-        },
-        {
-          "pt": "am",
-          "en": "am",
-          "ar": "am"
-        }
-      ],
-      "answer": "Me ajuda com esta tradução? Escrevi 'I am embarrassed' como 'estou embaraçado'.",
-      "accepted": [
-        "Me ajuda com esta tradução? Escrevi 'I am embarrassed' como 'estou embaraçado'."
-      ],
-      "explanation": {
-        "pt": "A ordem correta: 'Me ajuda com esta tradução? Escrevi 'I am embarrassed' como 'estou embaraçado'.'",
-        "en": "The correct order: 'Can you help me with this translation? I wrote 'I am embarrassed' as 'estou embaraçado'.'",
-        "ar": "الترتيب الصحيح: 'هل تساعدني في هذه الترجمة؟ كتبت 'I am embarrassed' بأنها 'estou embaraçado'.'"
       }
     },
     {
@@ -1292,7 +923,7 @@
       "options": [
         {
           "pt": "na verdade",
-          "en": "the bookstore (not 'library')",
+          "en": "actually",
           "ar": "na verdade"
         },
         {
@@ -1302,12 +933,12 @@
         },
         {
           "pt": "sensato",
-          "en": "to intend (not 'to pretend')",
+          "en": "sensible",
           "ar": "sensato"
         },
         {
           "pt": "os pais",
-          "en": "sensible (not 'sensitive')",
+          "en": "the parents",
           "ar": "os pais"
         },
         {
@@ -1317,161 +948,16 @@
         },
         {
           "pt": "pretender",
-          "en": "actually",
+          "en": "to intend",
           "ar": "pretender"
         }
       ],
-      "answer": "na verdade::the bookstore (not 'library')|a livraria::the parents (not 'the country')|sensato::to intend (not 'to pretend')|os pais::sensible (not 'sensitive')|a biblioteca::the library|pretender::actually",
+      "answer": "na verdade::actually|a livraria::the parents (not 'the country')|sensato::sensible|os pais::the parents|a biblioteca::the library|pretender::to intend",
       "accepted": [],
       "explanation": {
         "pt": "Associe corretamente os pares.",
         "en": "Match the pairs correctly.",
         "ar": "قم بمطابقة الأزواج بشكل صحيح."
-      }
-    },
-    {
-      "type": "listening_mcq",
-      "prompt": {
-        "pt": "Ouça e escolha a tradução correta:",
-        "en": "Listen and choose the correct translation:",
-        "ar": "استمع واختر الترجمة الصحيحة:"
-      },
-      "options": [
-        {
-          "pt": "Ah, entendi. E 'pretend'?",
-          "en": "Ah, I see. And 'pretend'?",
-          "ar": "'Pretend' تعني 'يتظاهر'. أما 'pretender' فتعني 'ينوي'."
-        },
-        {
-          "pt": "Me ajuda com esta tradução? Escrevi 'I am embarrassed' como 'estou embaraçado'.",
-          "en": "'Pretend' means 'to fake'. 'Pretender' is 'to intend'.",
-          "ar": "هل تساعدني في هذه الترجمة؟ كتبت 'I am embarrassed' بأنها 'estou embaraçado'."
-        },
-        {
-          "pt": "'Pretend' significa 'fingir'. 'Pretender' é 'to intend'.",
-          "en": "Can you help me with this translation? I wrote 'I am embarrassed' as 'estou embaraçado'.",
-          "ar": "آه، فهمت. وماذا عن 'pretend'؟"
-        }
-      ],
-      "answer": "Me ajuda com esta tradução? Escrevi 'I am embarrassed' como 'estou embaraçado'.",
-      "accepted": [],
-      "audio": "Me ajuda com esta tradução? Escrevi 'I am embarrassed' como 'estou embaraçado'.",
-      "explanation": {
-        "pt": "Você ouviu: 'Me ajuda com esta tradução? Escrevi 'I am embarrassed' como 'estou embaraçado'.' — 'Can you help me with this translation? I wrote 'I am embarrassed' as 'estou embaraçado'.'",
-        "en": "You heard: 'Me ajuda com esta tradução? Escrevi 'I am embarrassed' como 'estou embaraçado'.' — 'Can you help me with this translation? I wrote 'I am embarrassed' as 'estou embaraçado'.'",
-        "ar": "سمعت: 'Me ajuda com esta tradução? Escrevi 'I am embarrassed' como 'estou embaraçado'.' — 'هل تساعدني في هذه الترجمة؟ كتبت 'I am embarrassed' بأنها 'estou embaraçado'.'"
-      }
-    },
-    {
-      "type": "listening_mcq",
-      "prompt": {
-        "pt": "Ouça e escolha a tradução correta:",
-        "en": "Listen and choose the correct translation:",
-        "ar": "استمع واختر الترجمة الصحيحة:"
-      },
-      "options": [
-        {
-          "pt": "Cuidado! 'Embarrassed' é 'constrangido', não 'embaraçado'.",
-          "en": "'Pretend' means 'to fake'. 'Pretender' is 'to intend'.",
-          "ar": "'Pretend' تعني 'يتظاهر'. أما 'pretender' فتعني 'ينوي'."
-        },
-        {
-          "pt": "Me ajuda com esta tradução? Escrevi 'I am embarrassed' como 'estou embaraçado'.",
-          "en": "Careful! 'Embarrassed' is 'constrangido', not 'embaraçado'.",
-          "ar": "هل تساعدني في هذه الترجمة؟ كتبت 'I am embarrassed' بأنها 'estou embaraçado'."
-        },
-        {
-          "pt": "'Pretend' significa 'fingir'. 'Pretender' é 'to intend'.",
-          "en": "Can you help me with this translation? I wrote 'I am embarrassed' as 'estou embaraçado'.",
-          "ar": "انتبه! 'Embarrassed' تعني 'constrangido'، وليست 'embaraçado'."
-        }
-      ],
-      "answer": "Cuidado! 'Embarrassed' é 'constrangido', não 'embaraçado'.",
-      "accepted": [],
-      "audio": "Cuidado! 'Embarrassed' é 'constrangido', não 'embaraçado'.",
-      "explanation": {
-        "pt": "Você ouviu: 'Cuidado! 'Embarrassed' é 'constrangido', não 'embaraçado'.' — 'Careful! 'Embarrassed' is 'constrangido', not 'embaraçado'.'",
-        "en": "You heard: 'Cuidado! 'Embarrassed' é 'constrangido', não 'embaraçado'.' — 'Careful! 'Embarrassed' is 'constrangido', not 'embaraçado'.'",
-        "ar": "سمعت: 'Cuidado! 'Embarrassed' é 'constrangido', não 'embaraçado'.' — 'انتبه! 'Embarrassed' تعني 'constrangido'، وليست 'embaraçado'.'"
-      }
-    },
-    {
-      "type": "sentence_reorder",
-      "prompt": {
-        "pt": "Reordene as palavras para formar a frase:",
-        "en": "Reorder the words to form the sentence:",
-        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
-      },
-      "options": [
-        {
-          "pt": "ajuda",
-          "en": "ajuda",
-          "ar": "ajuda"
-        },
-        {
-          "pt": "'I",
-          "en": "'I",
-          "ar": "'I"
-        },
-        {
-          "pt": "com",
-          "en": "com",
-          "ar": "com"
-        },
-        {
-          "pt": "Me",
-          "en": "Me",
-          "ar": "Me"
-        },
-        {
-          "pt": "como",
-          "en": "como",
-          "ar": "como"
-        },
-        {
-          "pt": "Escrevi",
-          "en": "Escrevi",
-          "ar": "Escrevi"
-        },
-        {
-          "pt": "embaraçado'.",
-          "en": "embaraçado'.",
-          "ar": "embaraçado'."
-        },
-        {
-          "pt": "tradução?",
-          "en": "tradução?",
-          "ar": "tradução?"
-        },
-        {
-          "pt": "embarrassed'",
-          "en": "embarrassed'",
-          "ar": "embarrassed'"
-        },
-        {
-          "pt": "am",
-          "en": "am",
-          "ar": "am"
-        },
-        {
-          "pt": "'estou",
-          "en": "'estou",
-          "ar": "'estou"
-        },
-        {
-          "pt": "esta",
-          "en": "esta",
-          "ar": "esta"
-        }
-      ],
-      "answer": "Me ajuda com esta tradução? Escrevi 'I am embarrassed' como 'estou embaraçado'.",
-      "accepted": [
-        "Me ajuda com esta tradução? Escrevi 'I am embarrassed' como 'estou embaraçado'."
-      ],
-      "explanation": {
-        "pt": "A ordem correta: 'Me ajuda com esta tradução? Escrevi 'I am embarrassed' como 'estou embaraçado'.'",
-        "en": "The correct order: 'Can you help me with this translation? I wrote 'I am embarrassed' as 'estou embaraçado'.'",
-        "ar": "الترتيب الصحيح: 'هل تساعدني في هذه الترجمة؟ كتبت 'I am embarrassed' بأنها 'estou embaraçado'.'"
       }
     },
     {
@@ -1494,176 +980,31 @@
         },
         {
           "pt": "sensato",
-          "en": "sensible (not 'sensitive')",
+          "en": "sensible",
           "ar": "sensato"
         },
         {
           "pt": "na verdade",
-          "en": "the bookstore (not 'library')",
+          "en": "actually",
           "ar": "na verdade"
         },
         {
           "pt": "os pais",
-          "en": "the library",
+          "en": "the parents",
           "ar": "os pais"
         },
         {
           "pt": "pretender",
-          "en": "actually",
+          "en": "to intend",
           "ar": "pretender"
         }
       ],
-      "answer": "a biblioteca::to intend (not 'to pretend')|a livraria::the parents (not 'the country')|sensato::sensible (not 'sensitive')|na verdade::the bookstore (not 'library')|os pais::the library|pretender::actually",
+      "answer": "a biblioteca::to intend (not 'to pretend')|a livraria::the parents (not 'the country')|sensato::sensible|na verdade::actually|os pais::the parents|pretender::to intend",
       "accepted": [],
       "explanation": {
         "pt": "Associe corretamente os pares.",
         "en": "Match the pairs correctly.",
         "ar": "قم بمطابقة الأزواج بشكل صحيح."
-      }
-    },
-    {
-      "type": "listening_mcq",
-      "prompt": {
-        "pt": "Ouça e escolha a tradução correta:",
-        "en": "Listen and choose the correct translation:",
-        "ar": "استمع واختر الترجمة الصحيحة:"
-      },
-      "options": [
-        {
-          "pt": "Que interessante! Vou prestar mais atenção aos falsos cognatos.",
-          "en": "Can you help me with this translation? I wrote 'I am embarrassed' as 'estou embaraçado'.",
-          "ar": "كم هذا مثير! سأنتبه أكثر إلى الكلمات الخادعة."
-        },
-        {
-          "pt": "Cuidado! 'Embarrassed' é 'constrangido', não 'embaraçado'.",
-          "en": "Careful! 'Embarrassed' is 'constrangido', not 'embaraçado'.",
-          "ar": "هل تساعدني في هذه الترجمة؟ كتبت 'I am embarrassed' بأنها 'estou embaraçado'."
-        },
-        {
-          "pt": "Me ajuda com esta tradução? Escrevi 'I am embarrassed' como 'estou embaraçado'.",
-          "en": "How interesting! I'll pay more attention to false cognates.",
-          "ar": "انتبه! 'Embarrassed' تعني 'constrangido'، وليست 'embaraçado'."
-        }
-      ],
-      "answer": "Me ajuda com esta tradução? Escrevi 'I am embarrassed' como 'estou embaraçado'.",
-      "accepted": [],
-      "audio": "Me ajuda com esta tradução? Escrevi 'I am embarrassed' como 'estou embaraçado'.",
-      "explanation": {
-        "pt": "Você ouviu: 'Me ajuda com esta tradução? Escrevi 'I am embarrassed' como 'estou embaraçado'.' — 'Can you help me with this translation? I wrote 'I am embarrassed' as 'estou embaraçado'.'",
-        "en": "You heard: 'Me ajuda com esta tradução? Escrevi 'I am embarrassed' como 'estou embaraçado'.' — 'Can you help me with this translation? I wrote 'I am embarrassed' as 'estou embaraçado'.'",
-        "ar": "سمعت: 'Me ajuda com esta tradução? Escrevi 'I am embarrassed' como 'estou embaraçado'.' — 'هل تساعدني في هذه الترجمة؟ كتبت 'I am embarrassed' بأنها 'estou embaraçado'.'"
-      }
-    },
-    {
-      "type": "listening_mcq",
-      "prompt": {
-        "pt": "Ouça e escolha a tradução correta:",
-        "en": "Listen and choose the correct translation:",
-        "ar": "استمع واختر الترجمة الصحيحة:"
-      },
-      "options": [
-        {
-          "pt": "Que interessante! Vou prestar mais atenção aos falsos cognatos.",
-          "en": "How interesting! I'll pay more attention to false cognates.",
-          "ar": "انتبه! 'Embarrassed' تعني 'constrangido'، وليست 'embaraçado'."
-        },
-        {
-          "pt": "Cuidado! 'Embarrassed' é 'constrangido', não 'embaraçado'.",
-          "en": "Careful! 'Embarrassed' is 'constrangido', not 'embaraçado'.",
-          "ar": "كم هذا مثير! سأنتبه أكثر إلى الكلمات الخادعة."
-        },
-        {
-          "pt": "Ah, entendi. E 'pretend'?",
-          "en": "Ah, I see. And 'pretend'?",
-          "ar": "آه، فهمت. وماذا عن 'pretend'؟"
-        }
-      ],
-      "answer": "Cuidado! 'Embarrassed' é 'constrangido', não 'embaraçado'.",
-      "accepted": [],
-      "audio": "Cuidado! 'Embarrassed' é 'constrangido', não 'embaraçado'.",
-      "explanation": {
-        "pt": "Você ouviu: 'Cuidado! 'Embarrassed' é 'constrangido', não 'embaraçado'.' — 'Careful! 'Embarrassed' is 'constrangido', not 'embaraçado'.'",
-        "en": "You heard: 'Cuidado! 'Embarrassed' é 'constrangido', não 'embaraçado'.' — 'Careful! 'Embarrassed' is 'constrangido', not 'embaraçado'.'",
-        "ar": "سمعت: 'Cuidado! 'Embarrassed' é 'constrangido', não 'embaraçado'.' — 'انتبه! 'Embarrassed' تعني 'constrangido'، وليست 'embaraçado'.'"
-      }
-    },
-    {
-      "type": "sentence_reorder",
-      "prompt": {
-        "pt": "Reordene as palavras para formar a frase:",
-        "en": "Reorder the words to form the sentence:",
-        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
-      },
-      "options": [
-        {
-          "pt": "tradução?",
-          "en": "tradução?",
-          "ar": "tradução?"
-        },
-        {
-          "pt": "'estou",
-          "en": "'estou",
-          "ar": "'estou"
-        },
-        {
-          "pt": "Escrevi",
-          "en": "Escrevi",
-          "ar": "Escrevi"
-        },
-        {
-          "pt": "como",
-          "en": "como",
-          "ar": "como"
-        },
-        {
-          "pt": "am",
-          "en": "am",
-          "ar": "am"
-        },
-        {
-          "pt": "embaraçado'.",
-          "en": "embaraçado'.",
-          "ar": "embaraçado'."
-        },
-        {
-          "pt": "Me",
-          "en": "Me",
-          "ar": "Me"
-        },
-        {
-          "pt": "ajuda",
-          "en": "ajuda",
-          "ar": "ajuda"
-        },
-        {
-          "pt": "esta",
-          "en": "esta",
-          "ar": "esta"
-        },
-        {
-          "pt": "'I",
-          "en": "'I",
-          "ar": "'I"
-        },
-        {
-          "pt": "com",
-          "en": "com",
-          "ar": "com"
-        },
-        {
-          "pt": "embarrassed'",
-          "en": "embarrassed'",
-          "ar": "embarrassed'"
-        }
-      ],
-      "answer": "Me ajuda com esta tradução? Escrevi 'I am embarrassed' como 'estou embaraçado'.",
-      "accepted": [
-        "Me ajuda com esta tradução? Escrevi 'I am embarrassed' como 'estou embaraçado'."
-      ],
-      "explanation": {
-        "pt": "A ordem correta: 'Me ajuda com esta tradução? Escrevi 'I am embarrassed' como 'estou embaraçado'.'",
-        "en": "The correct order: 'Can you help me with this translation? I wrote 'I am embarrassed' as 'estou embaraçado'.'",
-        "ar": "الترتيب الصحيح: 'هل تساعدني في هذه الترجمة؟ كتبت 'I am embarrassed' بأنها 'estou embaraçado'.'"
       }
     },
     {
@@ -1676,17 +1017,17 @@
       "options": [
         {
           "pt": "sensato",
-          "en": "the parents (not 'the country')",
+          "en": "sensible",
           "ar": "sensato"
         },
         {
           "pt": "na verdade",
-          "en": "the bookstore (not 'library')",
+          "en": "actually",
           "ar": "na verdade"
         },
         {
           "pt": "os pais",
-          "en": "the library",
+          "en": "the parents",
           "ar": "os pais"
         },
         {
@@ -1696,7 +1037,7 @@
         },
         {
           "pt": "pretender",
-          "en": "actually",
+          "en": "to intend",
           "ar": "pretender"
         },
         {
@@ -1705,78 +1046,12 @@
           "ar": "a livraria"
         }
       ],
-      "answer": "sensato::the parents (not 'the country')|na verdade::the bookstore (not 'library')|os pais::the library|a biblioteca::sensible (not 'sensitive')|pretender::actually|a livraria::to intend (not 'to pretend')",
+      "answer": "sensato::sensible|na verdade::actually|os pais::the parents|a biblioteca::sensible (not 'sensitive')|pretender::to intend|a livraria::to intend (not 'to pretend')",
       "accepted": [],
       "explanation": {
         "pt": "Associe corretamente os pares.",
         "en": "Match the pairs correctly.",
         "ar": "قم بمطابقة الأزواج بشكل صحيح."
-      }
-    },
-    {
-      "type": "listening_mcq",
-      "prompt": {
-        "pt": "Ouça e escolha a tradução correta:",
-        "en": "Listen and choose the correct translation:",
-        "ar": "استمع واختر الترجمة الصحيحة:"
-      },
-      "options": [
-        {
-          "pt": "Ah, entendi. E 'pretend'?",
-          "en": "'Pretend' means 'to fake'. 'Pretender' is 'to intend'.",
-          "ar": "'Pretend' تعني 'يتظاهر'. أما 'pretender' فتعني 'ينوي'."
-        },
-        {
-          "pt": "Me ajuda com esta tradução? Escrevi 'I am embarrassed' como 'estou embaraçado'.",
-          "en": "Ah, I see. And 'pretend'?",
-          "ar": "آه، فهمت. وماذا عن 'pretend'؟"
-        },
-        {
-          "pt": "'Pretend' significa 'fingir'. 'Pretender' é 'to intend'.",
-          "en": "Can you help me with this translation? I wrote 'I am embarrassed' as 'estou embaraçado'.",
-          "ar": "هل تساعدني في هذه الترجمة؟ كتبت 'I am embarrassed' بأنها 'estou embaraçado'."
-        }
-      ],
-      "answer": "Me ajuda com esta tradução? Escrevi 'I am embarrassed' como 'estou embaraçado'.",
-      "accepted": [],
-      "audio": "Me ajuda com esta tradução? Escrevi 'I am embarrassed' como 'estou embaraçado'.",
-      "explanation": {
-        "pt": "Você ouviu: 'Me ajuda com esta tradução? Escrevi 'I am embarrassed' como 'estou embaraçado'.' — 'Can you help me with this translation? I wrote 'I am embarrassed' as 'estou embaraçado'.'",
-        "en": "You heard: 'Me ajuda com esta tradução? Escrevi 'I am embarrassed' como 'estou embaraçado'.' — 'Can you help me with this translation? I wrote 'I am embarrassed' as 'estou embaraçado'.'",
-        "ar": "سمعت: 'Me ajuda com esta tradução? Escrevi 'I am embarrassed' como 'estou embaraçado'.' — 'هل تساعدني في هذه الترجمة؟ كتبت 'I am embarrassed' بأنها 'estou embaraçado'.'"
-      }
-    },
-    {
-      "type": "listening_mcq",
-      "prompt": {
-        "pt": "Ouça e escolha a tradução correta:",
-        "en": "Listen and choose the correct translation:",
-        "ar": "استمع واختر الترجمة الصحيحة:"
-      },
-      "options": [
-        {
-          "pt": "Cuidado! 'Embarrassed' é 'constrangido', não 'embaraçado'.",
-          "en": "Careful! 'Embarrassed' is 'constrangido', not 'embaraçado'.",
-          "ar": "هل تساعدني في هذه الترجمة؟ كتبت 'I am embarrassed' بأنها 'estou embaraçado'."
-        },
-        {
-          "pt": "'Pretend' significa 'fingir'. 'Pretender' é 'to intend'.",
-          "en": "Can you help me with this translation? I wrote 'I am embarrassed' as 'estou embaraçado'.",
-          "ar": "'Pretend' تعني 'يتظاهر'. أما 'pretender' فتعني 'ينوي'."
-        },
-        {
-          "pt": "Me ajuda com esta tradução? Escrevi 'I am embarrassed' como 'estou embaraçado'.",
-          "en": "'Pretend' means 'to fake'. 'Pretender' is 'to intend'.",
-          "ar": "انتبه! 'Embarrassed' تعني 'constrangido'، وليست 'embaraçado'."
-        }
-      ],
-      "answer": "Cuidado! 'Embarrassed' é 'constrangido', não 'embaraçado'.",
-      "accepted": [],
-      "audio": "Cuidado! 'Embarrassed' é 'constrangido', não 'embaraçado'.",
-      "explanation": {
-        "pt": "Você ouviu: 'Cuidado! 'Embarrassed' é 'constrangido', não 'embaraçado'.' — 'Careful! 'Embarrassed' is 'constrangido', not 'embaraçado'.'",
-        "en": "You heard: 'Cuidado! 'Embarrassed' é 'constrangido', não 'embaraçado'.' — 'Careful! 'Embarrassed' is 'constrangido', not 'embaraçado'.'",
-        "ar": "سمعت: 'Cuidado! 'Embarrassed' é 'constrangido', não 'embaraçado'.' — 'انتبه! 'Embarrassed' تعني 'constrangido'، وليست 'embaraçado'.'"
       }
     },
     {
@@ -1899,85 +1174,6 @@
       }
     },
     {
-      "type": "sentence_reorder",
-      "prompt": {
-        "pt": "Reordene as palavras para formar a frase:",
-        "en": "Reorder the words to form the sentence:",
-        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
-      },
-      "options": [
-        {
-          "pt": "'estou",
-          "en": "'estou",
-          "ar": "'estou"
-        },
-        {
-          "pt": "Escrevi",
-          "en": "Escrevi",
-          "ar": "Escrevi"
-        },
-        {
-          "pt": "embarrassed'",
-          "en": "embarrassed'",
-          "ar": "embarrassed'"
-        },
-        {
-          "pt": "tradução?",
-          "en": "tradução?",
-          "ar": "tradução?"
-        },
-        {
-          "pt": "Me",
-          "en": "Me",
-          "ar": "Me"
-        },
-        {
-          "pt": "embaraçado'.",
-          "en": "embaraçado'.",
-          "ar": "embaraçado'."
-        },
-        {
-          "pt": "esta",
-          "en": "esta",
-          "ar": "esta"
-        },
-        {
-          "pt": "ajuda",
-          "en": "ajuda",
-          "ar": "ajuda"
-        },
-        {
-          "pt": "am",
-          "en": "am",
-          "ar": "am"
-        },
-        {
-          "pt": "como",
-          "en": "como",
-          "ar": "como"
-        },
-        {
-          "pt": "'I",
-          "en": "'I",
-          "ar": "'I"
-        },
-        {
-          "pt": "com",
-          "en": "com",
-          "ar": "com"
-        }
-      ],
-      "answer": "Me ajuda com esta tradução? Escrevi 'I am embarrassed' como 'estou embaraçado'.",
-      "accepted": [
-        "Me ajuda com esta tradução? Escrevi 'I am embarrassed' como 'estou embaraçado'."
-      ],
-      "explanation": {
-        "pt": "A ordem correta: 'Me ajuda com esta tradução? Escrevi 'I am embarrassed' como 'estou embaraçado'.'",
-        "en": "The correct order: 'Can you help me with this translation? I wrote 'I am embarrassed' as 'estou embaraçado'.'",
-        "ar": "الترتيب الصحيح: 'هل تساعدني في هذه الترجمة؟ كتبت 'I am embarrassed' بأنها 'estou embaraçado'.'"
-      }
-    },
-    {
       "type": "match_pairs",
       "prompt": {
         "pt": "Associe cada palavra em português ao seu significado em inglês:",
@@ -1987,17 +1183,17 @@
       "options": [
         {
           "pt": "sensato",
-          "en": "the bookstore (not 'library')",
+          "en": "sensible",
           "ar": "sensato"
         },
         {
           "pt": "os pais",
-          "en": "actually",
+          "en": "the parents",
           "ar": "os pais"
         },
         {
           "pt": "pretender",
-          "en": "sensible (not 'sensitive')",
+          "en": "to intend",
           "ar": "pretender"
         },
         {
@@ -2012,82 +1208,16 @@
         },
         {
           "pt": "na verdade",
-          "en": "to intend (not 'to pretend')",
+          "en": "actually",
           "ar": "na verdade"
         }
       ],
-      "answer": "sensato::the bookstore (not 'library')|os pais::actually|pretender::sensible (not 'sensitive')|a biblioteca::the parents (not 'the country')|a livraria::the library|na verdade::to intend (not 'to pretend')",
+      "answer": "sensato::sensible|os pais::the parents|pretender::to intend|a biblioteca::the parents (not 'the country')|a livraria::the library|na verdade::actually",
       "accepted": [],
       "explanation": {
         "pt": "Associe corretamente os pares.",
         "en": "Match the pairs correctly.",
         "ar": "قم بمطابقة الأزواج بشكل صحيح."
-      }
-    },
-    {
-      "type": "listening_mcq",
-      "prompt": {
-        "pt": "Ouça e escolha a tradução correta:",
-        "en": "Listen and choose the correct translation:",
-        "ar": "استمع واختر الترجمة الصحيحة:"
-      },
-      "options": [
-        {
-          "pt": "Me ajuda com esta tradução? Escrevi 'I am embarrassed' como 'estou embaraçado'.",
-          "en": "Can you help me with this translation? I wrote 'I am embarrassed' as 'estou embaraçado'.",
-          "ar": "انتبه! 'Embarrassed' تعني 'constrangido'، وليست 'embaraçado'."
-        },
-        {
-          "pt": "Que interessante! Vou prestar mais atenção aos falsos cognatos.",
-          "en": "How interesting! I'll pay more attention to false cognates.",
-          "ar": "كم هذا مثير! سأنتبه أكثر إلى الكلمات الخادعة."
-        },
-        {
-          "pt": "Cuidado! 'Embarrassed' é 'constrangido', não 'embaraçado'.",
-          "en": "Careful! 'Embarrassed' is 'constrangido', not 'embaraçado'.",
-          "ar": "هل تساعدني في هذه الترجمة؟ كتبت 'I am embarrassed' بأنها 'estou embaraçado'."
-        }
-      ],
-      "answer": "Me ajuda com esta tradução? Escrevi 'I am embarrassed' como 'estou embaraçado'.",
-      "accepted": [],
-      "audio": "Me ajuda com esta tradução? Escrevi 'I am embarrassed' como 'estou embaraçado'.",
-      "explanation": {
-        "pt": "Você ouviu: 'Me ajuda com esta tradução? Escrevi 'I am embarrassed' como 'estou embaraçado'.' — 'Can you help me with this translation? I wrote 'I am embarrassed' as 'estou embaraçado'.'",
-        "en": "You heard: 'Me ajuda com esta tradução? Escrevi 'I am embarrassed' como 'estou embaraçado'.' — 'Can you help me with this translation? I wrote 'I am embarrassed' as 'estou embaraçado'.'",
-        "ar": "سمعت: 'Me ajuda com esta tradução? Escrevi 'I am embarrassed' como 'estou embaraçado'.' — 'هل تساعدني في هذه الترجمة؟ كتبت 'I am embarrassed' بأنها 'estou embaraçado'.'"
-      }
-    },
-    {
-      "type": "listening_mcq",
-      "prompt": {
-        "pt": "Ouça e escolha a tradução correta:",
-        "en": "Listen and choose the correct translation:",
-        "ar": "استمع واختر الترجمة الصحيحة:"
-      },
-      "options": [
-        {
-          "pt": "Ah, entendi. E 'pretend'?",
-          "en": "Careful! 'Embarrassed' is 'constrangido', not 'embaraçado'.",
-          "ar": "انتبه! 'Embarrassed' تعني 'constrangido'، وليست 'embaraçado'."
-        },
-        {
-          "pt": "Cuidado! 'Embarrassed' é 'constrangido', não 'embaraçado'.",
-          "en": "'Pretend' means 'to fake'. 'Pretender' is 'to intend'.",
-          "ar": "'Pretend' تعني 'يتظاهر'. أما 'pretender' فتعني 'ينوي'."
-        },
-        {
-          "pt": "'Pretend' significa 'fingir'. 'Pretender' é 'to intend'.",
-          "en": "Ah, I see. And 'pretend'?",
-          "ar": "آه، فهمت. وماذا عن 'pretend'؟"
-        }
-      ],
-      "answer": "Cuidado! 'Embarrassed' é 'constrangido', não 'embaraçado'.",
-      "accepted": [],
-      "audio": "Cuidado! 'Embarrassed' é 'constrangido', não 'embaraçado'.",
-      "explanation": {
-        "pt": "Você ouviu: 'Cuidado! 'Embarrassed' é 'constrangido', não 'embaraçado'.' — 'Careful! 'Embarrassed' is 'constrangido', not 'embaraçado'.'",
-        "en": "You heard: 'Cuidado! 'Embarrassed' é 'constrangido', não 'embaraçado'.' — 'Careful! 'Embarrassed' is 'constrangido', not 'embaraçado'.'",
-        "ar": "سمعت: 'Cuidado! 'Embarrassed' é 'constrangido', não 'embaraçado'.' — 'انتبه! 'Embarrassed' تعني 'constrangido'، وليست 'embaraçado'.'"
       }
     }
   ],

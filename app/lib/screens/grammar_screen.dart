@@ -125,7 +125,7 @@ class _GrammarScreenState extends State<GrammarScreen> {
                           ),
                         ),
                     ],
-                    CreditFooter(),
+                    const CreditFooter(),
                   ],
                 ),
       ),

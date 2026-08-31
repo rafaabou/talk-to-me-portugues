@@ -1,5 +1,7 @@
 # Talk To Me Português Brasileiro
 
+**Latest release: v1.2.0**
+
 Offline-first **Brazilian Portuguese** learning app (Flutter, Android). 72 CEFR lessons (A1–C2), FSRS flashcards,
 quizzes, audio with speed/repeat controls, verb conjugator, stats + streaks — 100% offline.
 
@@ -143,7 +145,7 @@ Volumes cache `/root/.pub-cache`, `/root/.gradle` so repeat builds are fast.
 | Flutter version | workflow env / GitLab variables / Dockerfile ARG | 3.29.3 |
 | Java version | workflows / Dockerfile | 17 |
 | App id | `app/android/app/build.gradle.kts` | `com.rafaabou.ptbr_zero_to_hero` |
-| Version name/code | `app/pubspec.yaml` (`version:`) | 1.1.0+2 |
+| Version name/code | `app/pubspec.yaml` (`version:`) | 1.2.0+4 |
 | Progress export file | documents dir | `ptbr_progress.json` |
 | UI languages | in-app switcher | en / pt / ar (RTL) |
 | Runner labels (GH Actions) | `.github/workflows/build.yml` | `self-hosted, linux, X64, portuguese` |
@@ -176,3 +178,17 @@ gitleaks detect --no-git -c .gitleaks.toml  # optional local secret scan
 ## License
 
 Apache-2.0 — see `LICENSE` and `NOTICE`.
+
+## Changelog
+
+### v1.2.0 (2026-08-31)
+- Reset progress now shows confirmation dialog
+- Silent `catch (_) {}` blocks replaced with `debugPrint` for debuggability
+- Localized UI strings (match-pair headers, audio button, theme selector) for pt/es/ar
+- Dead code cleanup (duplicate ternaries, unused imports, merged answer blocks)
+- Dynamic lesson count (no more hardcoded 72 in stats/export)
+- Match-pair quiz UI: two-column select-to-match (Portuguese left, English right)
+- Exercise deduplication: 2944 → 1231 exercises (removed 1713 duplicates)
+- All 398 match-pair Portuguese words verified against English translations
+- Deduplicated `.gitignore`, fixed duplicate `commit-message` in `dependabot.yml`
+- Version bumped to 1.2.0+4
