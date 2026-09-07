@@ -519,12 +519,12 @@
         },
         {
           "pt": "Acho que a cidade precisa de mais transporte público.",
-          "en": "I agree, but building a subway is expensive; however, it is necessary.",
+          "en": "I think the city needs more public transportation.",
           "ar": "أعتقد أن المدينة بحاجة إلى المزيد من وسائل النقل العام."
         },
         {
           "pt": "Concordo, mas construir metrô é caro, contudo, necessário.",
-          "en": "I think the city needs more public transportation.",
+          "en": "I agree, but building a subway is expensive; however, it is necessary.",
           "ar": "أخالفك قليلاً: نحتاج أولاً إلى المزيد من مسارات الدراجات."
         }
       ],
@@ -756,12 +756,12 @@
       "options": [
         {
           "pt": "Concordo, mas construir metrô é caro, contudo, necessário.",
-          "en": "Therefore, the government should invest more.",
+          "en": "I agree, but building a subway is expensive; however, it is necessary.",
           "ar": "أوافقك، لكن بناء المترو مكلف، ومع ذلك، ضروري."
         },
         {
           "pt": "Na minha opinião, tudo é uma questão de planejamento.",
-          "en": "I agree, but building a subway is expensive; however, it is necessary.",
+          "en": "Therefore, the government should invest more.",
           "ar": "برأيي، كل شيء مسألة تخطيط."
         },
         {

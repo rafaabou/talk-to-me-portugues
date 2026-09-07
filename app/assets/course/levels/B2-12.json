@@ -534,12 +534,12 @@
         },
         {
           "pt": "Certo. Quando vocês se sentirem confiantes, passem para o nível C1.",
-          "en": "You've reached the end of level B2. How do you feel?",
+          "en": "Excellent. Remember that the subjunctive needs daily practice.",
           "ar": "ممتاز. تذكروا أن صيغة الشرط تحتاج إلى ممارسة يومية."
         },
         {
           "pt": "Vocês chegaram ao fim do nível B2. Como se sentem?",
-          "en": "Excellent. Remember that the subjunctive needs daily practice.",
+          "en": "You've reached the end of level B2. How do you feel?",
           "ar": "لقد وصلتم إلى نهاية المستوى B2. كيف تشعرون؟"
         }
       ],
@@ -776,12 +776,12 @@
       "options": [
         {
           "pt": "Excelente. Lembrem-se de que o subjuntivo precisa de prática diária.",
-          "en": "Very good! Now I can discuss complex topics in Portuguese.",
+          "en": "You've reached the end of level B2. How do you feel?",
           "ar": "ممتاز. تذكروا أن صيغة الشرط تحتاج إلى ممارسة يومية."
         },
         {
           "pt": "Muito bem! Agora consigo discutir temas complexos em português.",
-          "en": "You've reached the end of level B2. How do you feel?",
+          "en": "Very good! Now I can discuss complex topics in Portuguese.",
           "ar": "جيد جدًا! الآن أستطيع مناقشة مواضيع معقدة بالبرتغالية."
         },
         {

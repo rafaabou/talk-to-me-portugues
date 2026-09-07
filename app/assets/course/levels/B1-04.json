@@ -494,12 +494,12 @@
       "options": [
         {
           "pt": "Houve um grande acidente na rodovia.",
-          "en": "Did you watch the news today?",
+          "en": "There was a big accident on the highway.",
           "ar": "وقع حادث كبير على الطريق السريع."
         },
         {
           "pt": "Você viu as notícias hoje?",
-          "en": "There was a big accident on the highway.",
+          "en": "Did you watch the news today?",
           "ar": "لا، لم أجد وقتاً بعد."
         },
         {
@@ -683,7 +683,7 @@
       "options": [
         {
           "pt": "Não, ainda não tive tempo.",
-          "en": "Did you watch the news today?",
+          "en": "Yes, the news was published this morning.",
           "ar": "لا، لم أجد وقتاً بعد."
         },
         {
@@ -693,7 +693,7 @@
         },
         {
           "pt": "Você viu as notícias hoje?",
-          "en": "Yes, the news was published this morning.",
+          "en": "Did you watch the news today?",
           "ar": "نعم، نُشر الخبر هذا الصباح."
         }
       ],
@@ -716,12 +716,12 @@
       "options": [
         {
           "pt": "Não, ainda não tive tempo.",
-          "en": "Did you watch the news today?",
+          "en": "No, I haven't had time yet.",
           "ar": "وقع حادث كبير على الطريق السريع."
         },
         {
           "pt": "Você viu as notícias hoje?",
-          "en": "No, I haven't had time yet.",
+          "en": "Did you watch the news today?",
           "ar": "لا، لم أجد وقتاً بعد."
         },
         {

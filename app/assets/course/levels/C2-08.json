@@ -542,12 +542,12 @@
         },
         {
           "pt": "Verificou-se que a temperatura interferiu nos resultados.",
-          "en": "Although the chart shows a trend, the table reveals high dispersion.",
+          "en": "It was verified that the temperature interfered with the results.",
           "ar": "تأكد أن درجة الحرارة أثرت في النتائج."
         },
         {
           "pt": "Sim, pois a reprodutibilidade depende desse controle. Portanto, documente tudo.",
-          "en": "It was verified that the temperature interfered with the results.",
+          "en": "Although the chart shows a trend, the table reveals high dispersion.",
           "ar": "رغم أن الرسم البياني يُظهر اتجاهًا، يكشف الجدول تبعثرًا كبيرًا."
         }
       ],
@@ -575,12 +575,12 @@
         },
         {
           "pt": "Devo registrar esse efeito no relatório técnico?",
-          "en": "Since peer review is still pending, we cannot publish yet.",
+          "en": "Should I record this effect in the technical report?",
           "ar": "نظرًا لأن التحكيم ما زال معلقًا، لا يمكننا النشر بعد."
         },
         {
           "pt": "Uma vez que falta a revisão por pares, ainda não podemos publicar.",
-          "en": "Should I record this effect in the technical report?",
+          "en": "Since peer review is still pending, we cannot publish yet.",
           "ar": "هل يجب أن أسجل هذا الأثر في التقرير التقني؟"
         }
       ],
@@ -736,7 +736,7 @@
       "options": [
         {
           "pt": "Embora o gráfico mostre uma tendência, a tabela revela dispersão alta.",
-          "en": "It was verified that the temperature interfered with the results.",
+          "en": "Should I record this effect in the technical report?",
           "ar": "هل يجب أن أسجل هذا الأثر في التقرير التقني؟"
         },
         {
@@ -746,7 +746,7 @@
         },
         {
           "pt": "Verificou-se que a temperatura interferiu nos resultados.",
-          "en": "Should I record this effect in the technical report?",
+          "en": "It was verified that the temperature interfered with the results.",
           "ar": "رغم أن الرسم البياني يُظهر اتجاهًا، يكشف الجدول تبعثرًا كبيرًا."
         }
       ],

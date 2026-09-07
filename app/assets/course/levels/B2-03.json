@@ -524,7 +524,7 @@
       "options": [
         {
           "pt": "A nova biblioteca foi inaugurada ontem na avenida central.",
-          "en": "Was it built by the state government?",
+          "en": "The new library was inaugurated yesterday on the central avenue.",
           "ar": "تم افتتاح المكتبة الجديدة أمس في الشارع الرئيسي."
         },
         {
@@ -534,7 +534,7 @@
         },
         {
           "pt": "Foi construída pelo governo estadual?",
-          "en": "The new library was inaugurated yesterday on the central avenue.",
+          "en": "Was it built by the state government?",
           "ar": "هل بناها حكومة الولاية؟"
         }
       ],
@@ -562,12 +562,12 @@
         },
         {
           "pt": "Que ótima notícia! Serão oferecidos cursos gratuitos lá?",
-          "en": "Was it built by the state government?",
+          "en": "What great news! Will free courses be offered there?",
           "ar": "هل بناها حكومة الولاية؟"
         },
         {
           "pt": "Foi construída pelo governo estadual?",
-          "en": "What great news! Will free courses be offered there?",
+          "en": "Was it built by the state government?",
           "ar": "يا لها من أخبار رائعة! هل ستُقدَّم دورات مجانية هناك؟"
         }
       ],
@@ -733,7 +733,7 @@
       "options": [
         {
           "pt": "Sim, serão oferecidos cursos de informática e leitura.",
-          "en": "The new library was inaugurated yesterday on the central avenue.",
+          "en": "Yes, computer and reading courses will be offered.",
           "ar": "تم افتتاح المكتبة الجديدة أمس في الشارع الرئيسي."
         },
         {
@@ -743,7 +743,7 @@
         },
         {
           "pt": "A nova biblioteca foi inaugurada ontem na avenida central.",
-          "en": "Yes, computer and reading courses will be offered.",
+          "en": "The new library was inaugurated yesterday on the central avenue.",
           "ar": "يا لها من أخبار رائعة! هل ستُقدَّم دورات مجانية هناك؟"
         }
       ],

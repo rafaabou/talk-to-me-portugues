@@ -522,7 +522,7 @@
       "options": [
         {
           "pt": "Pedro, você pode me ajudar?",
-          "en": "Do not worry. Anything, call me.",
+          "en": "Pedro, can you help me?",
           "ar": "لا تقلقي. أي شيء، اتصل بي."
         },
         {
@@ -532,7 +532,7 @@
         },
         {
           "pt": "Sem problema. Eu te espero na garagem.",
-          "en": "Pedro, can you help me?",
+          "en": "Do not worry. Anything, call me.",
           "ar": "لا مشكلة. سأنتظرك في المرآب."
         }
       ],
@@ -711,7 +711,7 @@
       "options": [
         {
           "pt": "Pedro, você pode me ajudar?",
-          "en": "Of course! What do you need?",
+          "en": "Pedro, can you help me?",
           "ar": "بيدرو، هل يمكنك مساعدتي؟"
         },
         {
@@ -721,7 +721,7 @@
         },
         {
           "pt": "Preciso que você me empreste o carro hoje.",
-          "en": "Pedro, can you help me?",
+          "en": "Of course! What do you need?",
           "ar": "أحتاج أن تعيرني السيارة اليوم."
         }
       ],

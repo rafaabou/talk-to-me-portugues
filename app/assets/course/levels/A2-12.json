@@ -527,12 +527,12 @@
         },
         {
           "pt": "O que você fez ontem?",
-          "en": "I worked in the morning and went to the market in the afternoon.",
+          "en": "What did you do yesterday?",
           "ar": "عملت صباحًا وذهبت إلى السوق في الظهيرة."
         },
         {
           "pt": "Quando eu era criança, eu adorava ir ao mercado com meu pai.",
-          "en": "What did you do yesterday?",
+          "en": "I worked in the morning and went to the market in the afternoon.",
           "ar": "عندما كنت طفلة، كنت أحب الذهاب إلى السوق مع أبي."
         }
       ],
@@ -711,7 +711,7 @@
       "options": [
         {
           "pt": "Quando eu era criança, eu adorava ir ao mercado com meu pai.",
-          "en": "What did you do yesterday?",
+          "en": "When I was a child, I loved going to the market with my father.",
           "ar": "سأزور الشاطئ وأشتري هدية لأمي."
         },
         {
@@ -721,7 +721,7 @@
         },
         {
           "pt": "O que você fez ontem?",
-          "en": "When I was a child, I loved going to the market with my father.",
+          "en": "What did you do yesterday?",
           "ar": "ماذا فعلت بالأمس؟"
         }
       ],

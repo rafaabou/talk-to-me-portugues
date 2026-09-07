@@ -541,7 +541,7 @@
       "options": [
         {
           "pt": "Você já leu 'Dom Casmurro', do Machado de Assis?",
-          "en": "Great idea! I love seeing new exhibitions.",
+          "en": "Have you read 'Dom Casmurro' by Machado de Assis?",
           "ar": "نعم قرأتها. أعتقد أنها من أعظم الأعمال في الأدب البرازيلي."
         },
         {
@@ -551,7 +551,7 @@
         },
         {
           "pt": "Li sim. Acho que é uma das maiores obras da literatura brasileira.",
-          "en": "Have you read 'Dom Casmurro' by Machado de Assis?",
+          "en": "Great idea! I love seeing new exhibitions.",
           "ar": "هل قرأت رواية «دوم كاسمورو» لماشادو دي أسيس؟"
         }
       ],
@@ -755,12 +755,12 @@
         },
         {
           "pt": "Você já leu 'Dom Casmurro', do Machado de Assis?",
-          "en": "Great idea! I love seeing new exhibitions.",
+          "en": "Have you read 'Dom Casmurro' by Machado de Assis?",
           "ar": "هل قرأت رواية «دوم كاسمورو» لماشادو دي أسيس؟"
         },
         {
           "pt": "Ótima ideia! Eu adoro ver as exposições novas.",
-          "en": "Have you read 'Dom Casmurro' by Machado de Assis?",
+          "en": "Great idea! I love seeing new exhibitions.",
           "ar": "فكرة رائعة! أحب مشاهدة المعارض الجديدة."
         }
       ],
@@ -783,7 +783,7 @@
       "options": [
         {
           "pt": "Você já leu 'Dom Casmurro', do Machado de Assis?",
-          "en": "I did. I think it's one of the greatest works of Brazilian literature.",
+          "en": "Absolutely. The plot grabs you from start to finish.",
           "ar": "بالتأكيد. تجذبك الحبكة من البداية إلى النهاية."
         },
         {
@@ -793,7 +793,7 @@
         },
         {
           "pt": "Li sim. Acho que é uma das maiores obras da literatura brasileira.",
-          "en": "Absolutely. The plot grabs you from start to finish.",
+          "en": "I did. I think it's one of the greatest works of Brazilian literature.",
           "ar": "هل قرأت رواية «دوم كاسمورو» لماشادو دي أسيس؟"
         }
       ],

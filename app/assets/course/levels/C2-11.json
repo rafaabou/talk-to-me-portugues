@@ -557,12 +557,12 @@
       "options": [
         {
           "pt": "Você terá noventa minutos para a redação e a compreensão leitora.",
-          "en": "The scale follows the C2 level descriptors of the European framework.",
+          "en": "You will have ninety minutes for the essay and reading comprehension.",
           "ar": "يتبع السلم واصفات المستوى C2 في الإطار الأوروبي."
         },
         {
           "pt": "Compreendo. E a expressão oral será avaliada em seguida pela banca?",
-          "en": "You will have ninety minutes for the essay and reading comprehension.",
+          "en": "The scale follows the C2 level descriptors of the European framework.",
           "ar": "سيتوفر لديك تسعون دقيقة للإنشاء والفهم القرائي."
         },
         {
@@ -590,12 +590,12 @@
       "options": [
         {
           "pt": "A escala segue os descritores do nível C2 do quadro europeu.",
-          "en": "I understand. And will the oral expression be assessed next by the board?",
+          "en": "The scale follows the C2 level descriptors of the European framework.",
           "ar": "يتبع السلم واصفات المستوى C2 في الإطار الأوروبي."
         },
         {
           "pt": "Compreendo. E a expressão oral será avaliada em seguida pela banca?",
-          "en": "The scale follows the C2 level descriptors of the European framework.",
+          "en": "I understand. And will the oral expression be assessed next by the board?",
           "ar": "فهمت. وهل سيقيّم التعبير الشفهي بعد ذلك من اللجنة؟"
         },
         {
@@ -776,7 +776,7 @@
       "options": [
         {
           "pt": "Você terá noventa minutos para a redação e a compreensão leitora.",
-          "en": "Perfect. Should there be any doubt, I will ask before starting.",
+          "en": "You will have ninety minutes for the essay and reading comprehension.",
           "ar": "ممتاز. إن وُجد أي لبس، سأسأل قبل البدء."
         },
         {
@@ -786,7 +786,7 @@
         },
         {
           "pt": "Sim, em entrevista individual de quinze minutos.",
-          "en": "You will have ninety minutes for the essay and reading comprehension.",
+          "en": "Perfect. Should there be any doubt, I will ask before starting.",
           "ar": "سيتوفر لديك تسعون دقيقة للإنشاء والفهم القرائي."
         }
       ],
@@ -809,12 +809,12 @@
       "options": [
         {
           "pt": "Perfeito. Havendo qualquer dúvida, perguntarei antes de iniciar.",
-          "en": "I understand. And will the oral expression be assessed next by the board?",
+          "en": "Perfect. Should there be any doubt, I will ask before starting.",
           "ar": "ممتاز. إن وُجد أي لبس، سأسأل قبل البدء."
         },
         {
           "pt": "Compreendo. E a expressão oral será avaliada em seguida pela banca?",
-          "en": "Perfect. Should there be any doubt, I will ask before starting.",
+          "en": "I understand. And will the oral expression be assessed next by the board?",
           "ar": "يتبع السلم واصفات المستوى C2 في الإطار الأوروبي."
         },
         {

@@ -524,12 +524,12 @@
       "options": [
         {
           "pt": "O professor disse que a prova seria na segunda-feira.",
-          "en": "He explained he changed his mind and would notify by email.",
+          "en": "The teacher said the exam would be on Monday.",
           "ar": "أجبت أنني سأدرس طوال عطلة نهاية الأسبوع."
         },
         {
           "pt": "Ele explicou que mudou de ideia e que avisaria por e-mail.",
-          "en": "The teacher said the exam would be on Monday.",
+          "en": "He explained he changed his mind and would notify by email.",
           "ar": "قال المعلم إن الامتحان سيكون يوم الاثنين."
         },
         {
@@ -557,7 +557,7 @@
       "options": [
         {
           "pt": "O professor disse que a prova seria na segunda-feira.",
-          "en": "But he had stated it would be on Friday!",
+          "en": "The teacher said the exam would be on Monday.",
           "ar": "قال المعلم إن الامتحان سيكون يوم الاثنين."
         },
         {
@@ -567,7 +567,7 @@
         },
         {
           "pt": "Mas ele tinha afirmado que seria na sexta!",
-          "en": "The teacher said the exam would be on Monday.",
+          "en": "But he had stated it would be on Friday!",
           "ar": "ومتى سألك إذا كنت مستعدًا؟"
         }
       ],
@@ -701,7 +701,7 @@
       "options": [
         {
           "pt": "O professor disse que a prova seria na segunda-feira.",
-          "en": "But he had stated it would be on Friday!",
+          "en": "The teacher said the exam would be on Monday.",
           "ar": "أوضح أنه غيّر رأيه وأنه سيعلن ذلك عبر البريد الإلكتروني."
         },
         {
@@ -711,7 +711,7 @@
         },
         {
           "pt": "Mas ele tinha afirmado que seria na sexta!",
-          "en": "The teacher said the exam would be on Monday.",
+          "en": "But he had stated it would be on Friday!",
           "ar": "لكنه كان قد أكد أنه سيكون يوم الجمعة!"
         }
       ],
@@ -734,7 +734,7 @@
       "options": [
         {
           "pt": "Mas ele tinha afirmado que seria na sexta!",
-          "en": "He explained he changed his mind and would notify by email.",
+          "en": "But he had stated it would be on Friday!",
           "ar": "أجبت أنني سأدرس طوال عطلة نهاية الأسبوع."
         },
         {
@@ -744,7 +744,7 @@
         },
         {
           "pt": "Eu respondi que estudaria o fim de semana inteiro.",
-          "en": "But he had stated it would be on Friday!",
+          "en": "He explained he changed his mind and would notify by email.",
           "ar": "أوضح أنه غيّر رأيه وأنه سيعلن ذلك عبر البريد الإلكتروني."
         }
       ],

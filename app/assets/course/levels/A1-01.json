@@ -488,7 +488,7 @@
       "options": [
         {
           "pt": "A, B, C, D, E...",
-          "en": "Good morning! Let's learn the alphabet.",
+          "en": "A, B, C, D, E...",
           "ar": "أ، ب، ج، د، هـ..."
         },
         {
@@ -498,7 +498,7 @@
         },
         {
           "pt": "Bom dia! Vamos aprender o alfabeto.",
-          "en": "A, B, C, D, E...",
+          "en": "Good morning! Let's learn the alphabet.",
           "ar": "صباح الخير! دعونا نتعلم الأبجدية."
         }
       ],
@@ -682,12 +682,12 @@
       "options": [
         {
           "pt": "Bom dia! Vamos aprender o alfabeto.",
-          "en": "Very good! Now let's read some words.",
+          "en": "Good morning! Let's learn the alphabet.",
           "ar": "ممتاز! الآن دعونا نقرأ بعض الكلمات."
         },
         {
           "pt": "Muito bem! Agora vamos ler algumas palavras.",
-          "en": "Good morning! Let's learn the alphabet.",
+          "en": "Very good! Now let's read some words.",
           "ar": "صباح الخير! دعونا نتعلم الأبجدية."
         },
         {
@@ -715,7 +715,7 @@
       "options": [
         {
           "pt": "Bom dia, professor! É muito difícil?",
-          "en": "Very good! Now let's read some words.",
+          "en": "Good morning, professor! Is it very difficult?",
           "ar": "ممتاز! الآن دعونا نقرأ بعض الكلمات."
         },
         {
@@ -725,7 +725,7 @@
         },
         {
           "pt": "Muito bem! Agora vamos ler algumas palavras.",
-          "en": "Good morning, professor! Is it very difficult?",
+          "en": "Very good! Now let's read some words.",
           "ar": "لا، إنه سهل. استمع وكرر."
         }
       ],

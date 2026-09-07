@@ -538,7 +538,7 @@
       "options": [
         {
           "pt": "Vou sim. A torcida está animada!",
-          "en": "A victory today would be amazing!",
+          "en": "Yes, I am. The fans are excited!",
           "ar": "هل ستذهب إلى الملعب اليوم؟"
         },
         {
@@ -548,7 +548,7 @@
         },
         {
           "pt": "A vitória hoje seria incrível!",
-          "en": "Yes, I am. The fans are excited!",
+          "en": "A victory today would be amazing!",
           "ar": "سيكون الفوز اليوم رائعاً!"
         }
       ],
@@ -699,12 +699,12 @@
         },
         {
           "pt": "Mas o treinador está preocupado com a defesa.",
-          "en": "Are you going to the stadium today?",
+          "en": "But the coach is worried about the defense.",
           "ar": "هل ستذهب إلى الملعب اليوم؟"
         },
         {
           "pt": "Você vai ao estádio hoje?",
-          "en": "But the coach is worried about the defense.",
+          "en": "Are you going to the stadium today?",
           "ar": "لكن المدرب قلق بشأن الدفاع."
         }
       ],
@@ -727,12 +727,12 @@
       "options": [
         {
           "pt": "Vou sim. A torcida está animada!",
-          "en": "But the coach is worried about the defense.",
+          "en": "Yes, I am. The fans are excited!",
           "ar": "لكن المدرب قلق بشأن الدفاع."
         },
         {
           "pt": "Mas o treinador está preocupado com a defesa.",
-          "en": "Yes, I am. The fans are excited!",
+          "en": "But the coach is worried about the defense.",
           "ar": "هذا الفريق أقوى من الخصم."
         },
         {

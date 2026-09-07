@@ -515,12 +515,12 @@
         },
         {
           "pt": "Tô de boa, só um pouco quebrado esse mês.",
-          "en": "Hey, buddy, everything good?",
+          "en": "That view is really cool, you know?",
           "ar": "أنا بخير، لكن مفلس قليلًا هذا الشهر."
         },
         {
           "pt": "E aí, parça, tudo beleza?",
-          "en": "That view is really cool, you know?",
+          "en": "Hey, buddy, everything good?",
           "ar": "هذا المنظر رائع جدًا، تعرف؟"
         }
       ],
@@ -543,7 +543,7 @@
       "options": [
         {
           "pt": "Pode deixar, cara. Tá tudo certo.",
-          "en": "I'm fine, just a bit broke this month.",
+          "en": "Leave it to me, dude. Everything's fine.",
           "ar": "تمام! لكن لا تدع أحدًا يسخر منا، اتفقنا؟"
         },
         {
@@ -553,7 +553,7 @@
         },
         {
           "pt": "Tô de boa, só um pouco quebrado esse mês.",
-          "en": "Leave it to me, dude. Everything's fine.",
+          "en": "I'm fine, just a bit broke this month.",
           "ar": "اترك الأمر لي يا رجل. كل شيء على ما يُرام."
         }
       ],

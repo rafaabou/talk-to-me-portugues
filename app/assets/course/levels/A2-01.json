@@ -537,7 +537,7 @@
       "options": [
         {
           "pt": "O que você fez no fim de semana?",
-          "en": "Great! Did you stay there two days?",
+          "en": "What did you do on the weekend?",
           "ar": "ماذا فعلتِ في عطلة نهاية الأسبوع؟"
         },
         {
@@ -547,7 +547,7 @@
         },
         {
           "pt": "Comprei um presente para a minha mãe. Ela adorou!",
-          "en": "What did you do on the weekend?",
+          "en": "Great! Did you stay there two days?",
           "ar": "رائع! هل بقيتِ هناك يومين؟"
         }
       ],
@@ -575,12 +575,12 @@
         },
         {
           "pt": "Eu viajei para o litoral e visitei minha avó.",
-          "en": "Did you buy anything?",
+          "en": "I traveled to the coast and visited my grandmother.",
           "ar": "هل اشتريتِ شيئًا؟"
         },
         {
           "pt": "O que você fez no fim de semana?",
-          "en": "I traveled to the coast and visited my grandmother.",
+          "en": "Did you buy anything?",
           "ar": "ماذا فعلتِ في عطلة نهاية الأسبوع؟"
         }
       ],
@@ -741,7 +741,7 @@
       "options": [
         {
           "pt": "O que você fez no fim de semana?",
-          "en": "Great! Did you stay there two days?",
+          "en": "What did you do on the weekend?",
           "ar": "نعم. يوم السبت، تنزهنا على الشاطئ وأكلنا المأكولات البحرية."
         },
         {
@@ -751,7 +751,7 @@
         },
         {
           "pt": "Sim. No sábado, nós passeamos na praia e comemos frutos do mar.",
-          "en": "What did you do on the weekend?",
+          "en": "Great! Did you stay there two days?",
           "ar": "ماذا فعلتِ في عطلة نهاية الأسبوع؟"
         }
       ],

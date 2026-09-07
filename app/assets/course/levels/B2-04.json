@@ -539,7 +539,7 @@
       "options": [
         {
           "pt": "Boa ideia! Se cada um fizer a sua parte, o bairro fica melhor.",
-          "en": "Did you know our neighborhood will get a recycling system?",
+          "en": "Good idea! If everyone does their part, the neighborhood gets better.",
           "ar": "فكرة جيدة! إذا قام كل واحد بدوره، سيصبح الحي أفضل."
         },
         {
@@ -549,7 +549,7 @@
         },
         {
           "pt": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
-          "en": "Good idea! If everyone does their part, the neighborhood gets better.",
+          "en": "Did you know our neighborhood will get a recycling system?",
           "ar": "رائع! من الضروري أن نفرز القمامة في المنزل."
         }
       ],
@@ -763,12 +763,12 @@
       "options": [
         {
           "pt": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
-          "en": "Good idea! If everyone does their part, the neighborhood gets better.",
+          "en": "Did you know our neighborhood will get a recycling system?",
           "ar": "فكرة جيدة! إذا قام كل واحد بدوره، سيصبح الحي أفضل."
         },
         {
           "pt": "Que ótimo! É fundamental que a gente separe o lixo em casa.",
-          "en": "Did you know our neighborhood will get a recycling system?",
+          "en": "Good idea! If everyone does their part, the neighborhood gets better.",
           "ar": "رائع! من الضروري أن نفرز القمامة في المنزل."
         },
         {

@@ -525,7 +525,7 @@
       "options": [
         {
           "pt": "Você estuda também?",
-          "en": "I work in São Paulo and live downtown.",
+          "en": "Do you also study?",
           "ar": "وماذا تأكلين في العمل؟"
         },
         {
@@ -535,7 +535,7 @@
         },
         {
           "pt": "E o que você come no trabalho?",
-          "en": "Do you also study?",
+          "en": "I work in São Paulo and live downtown.",
           "ar": "هل تدرسين أيضًا؟"
         }
       ],
@@ -701,7 +701,7 @@
       "options": [
         {
           "pt": "Eu trabalho em São Paulo e moro no centro.",
-          "en": "Yes, I learn Spanish at night.",
+          "en": "I work in São Paulo and live downtown.",
           "ar": "نعم، أتعلم الإسبانية في الليل."
         },
         {
@@ -711,7 +711,7 @@
         },
         {
           "pt": "Sim, eu aprendo espanhol à noite.",
-          "en": "I work in São Paulo and live downtown.",
+          "en": "Yes, I learn Spanish at night.",
           "ar": "أعمل في ساو باولو وأسكن في المركز."
         }
       ],

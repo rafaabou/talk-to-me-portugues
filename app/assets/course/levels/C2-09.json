@@ -547,12 +547,12 @@
         },
         {
           "pt": "Exato. Provavelmente precisamos de mais evidências antes de concluir.",
-          "en": "Present the structure of the syllogism we read yesterday.",
+          "en": "Exactly. We probably need more evidence before concluding.",
           "ar": "بالضبط. نحتاج على الأرجح إلى مزيد من الأدلة قبل الاستنتاج."
         },
         {
           "pt": "Apresente a estrutura do silogismo que lemos ontem.",
-          "en": "Exactly. We probably need more evidence before concluding.",
+          "en": "Present the structure of the syllogism we read yesterday.",
           "ar": "ومن منظور أخلاقي، ينبغي أن نعلّق الحكم عندما تنقص البيانات."
         }
       ],
@@ -746,12 +746,12 @@
       "options": [
         {
           "pt": "Apresente a estrutura do silogismo que lemos ontem.",
-          "en": "Exactly. We probably need more evidence before concluding.",
+          "en": "Present the structure of the syllogism we read yesterday.",
           "ar": "اعرض بنية القياس المنطقي الذي قرأناه أمس."
         },
         {
           "pt": "Exato. Provavelmente precisamos de mais evidências antes de concluir.",
-          "en": "Present the structure of the syllogism we read yesterday.",
+          "en": "Exactly. We probably need more evidence before concluding.",
           "ar": "بالضبط. نحتاج على الأرجح إلى مزيد من الأدلة قبل الاستنتاج."
         },
         {
@@ -779,7 +779,7 @@
       "options": [
         {
           "pt": "Duas premissas e uma conclusão: se todo conhecimento vem da experiência, então o racionalismo naufraga.",
-          "en": "If that holds, the conclusion loses validity, although the premises seem solid.",
+          "en": "Two premises and a conclusion: if all knowledge comes from experience, then rationalism founders.",
           "ar": "في حال صحة ذلك، تفقد النتيجة صلاحيتها، وإن بدت المقدمات راسخة."
         },
         {
@@ -789,7 +789,7 @@
         },
         {
           "pt": "Cuidado: essa inferência pode esconder uma falácia de generalização.",
-          "en": "Two premises and a conclusion: if all knowledge comes from experience, then rationalism founders.",
+          "en": "If that holds, the conclusion loses validity, although the premises seem solid.",
           "ar": "انتبه: قد يخفي هذا الاستدلال مغالطة تعميم."
         }
       ],

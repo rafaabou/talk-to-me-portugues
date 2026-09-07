@@ -526,12 +526,12 @@
         },
         {
           "pt": "Lucas, me conta sobre a sua família.",
-          "en": "My grandparents live with us. They are very dear.",
+          "en": "Lucas, tell me about your family.",
           "ar": "يعيش أجدادي معنا. إنهم عزيزون جدًا."
         },
         {
           "pt": "Você tem irmãos?",
-          "en": "Lucas, tell me about your family.",
+          "en": "My grandparents live with us. They are very dear.",
           "ar": "لوكاس، حدثني عن عائلتك."
         }
       ],
@@ -554,12 +554,12 @@
       "options": [
         {
           "pt": "Meus avós moram com a gente. São muito queridos.",
-          "en": "My father is an engineer and my mother is a teacher.",
+          "en": "And your grandparents?",
           "ar": "أبي مهندس وأمي معلمة."
         },
         {
           "pt": "Meu pai é engenheiro e minha mãe é professora.",
-          "en": "And your grandparents?",
+          "en": "My father is an engineer and my mother is a teacher.",
           "ar": "وأجدادك؟"
         },
         {
@@ -720,7 +720,7 @@
       "options": [
         {
           "pt": "Lucas, me conta sobre a sua família.",
-          "en": "My grandparents live with us. They are very dear.",
+          "en": "Lucas, tell me about your family.",
           "ar": "نعم، لدي أخت أصغر. عمرها خمسة عشر عامًا."
         },
         {
@@ -730,7 +730,7 @@
         },
         {
           "pt": "Meus avós moram com a gente. São muito queridos.",
-          "en": "Lucas, tell me about your family.",
+          "en": "My grandparents live with us. They are very dear.",
           "ar": "يعيش أجدادي معنا. إنهم عزيزون جدًا."
         }
       ],

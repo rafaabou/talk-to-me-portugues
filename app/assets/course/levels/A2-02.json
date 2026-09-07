@@ -527,7 +527,7 @@
       "options": [
         {
           "pt": "Sim, aceito. Obrigado!",
-          "en": "Good morning! Would you like to try on this shirt?",
+          "en": "Twenty percent. Do you accept card?",
           "ar": "عشرون بالمئة. هل تقبل البطاقة؟"
         },
         {
@@ -537,7 +537,7 @@
         },
         {
           "pt": "Bom dia! Quer experimentar esta camisa?",
-          "en": "Twenty percent. Do you accept card?",
+          "en": "Good morning! Would you like to try on this shirt?",
           "ar": "صباح الخير! هل تريد تجربة هذا القميص؟"
         }
       ],
@@ -565,12 +565,12 @@
         },
         {
           "pt": "Sim, aceito. Obrigado!",
-          "en": "Yes. How much does it cost?",
+          "en": "Yes, I do. Thank you!",
           "ar": "عشرون بالمئة. هل تقبل البطاقة؟"
         },
         {
           "pt": "Sim. Quanto custa?",
-          "en": "Yes, I do. Thank you!",
+          "en": "Yes. How much does it cost?",
           "ar": "نعم. كم سعره؟"
         }
       ],
@@ -721,7 +721,7 @@
       "options": [
         {
           "pt": "Sim. Quanto custa?",
-          "en": "Good morning! Would you like to try on this shirt?",
+          "en": "Yes. How much does it cost?",
           "ar": "صباح الخير! هل تريد تجربة هذا القميص؟"
         },
         {
@@ -731,7 +731,7 @@
         },
         {
           "pt": "Bom dia! Quer experimentar esta camisa?",
-          "en": "Yes. How much does it cost?",
+          "en": "Good morning! Would you like to try on this shirt?",
           "ar": "نعم، أقبل. شكرًا!"
         }
       ],

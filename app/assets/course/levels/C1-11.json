@@ -540,12 +540,12 @@
       "options": [
         {
           "pt": "No entanto, os dados mostram que o transporte público melhorou.",
-          "en": "In short, the congestion rate only grows in big cities.",
+          "en": "However, the data show that public transport improved.",
           "ar": "ومع ذلك، تظهر البيانات أن وسائل النقل العام تحسنت."
         },
         {
           "pt": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
-          "en": "However, the data show that public transport improved.",
+          "en": "In short, the congestion rate only grows in big cities.",
           "ar": "أوافق، بشرط أن يحمي الدعم من هم في أمس الحاجة إليه."
         },
         {
@@ -759,7 +759,7 @@
       "options": [
         {
           "pt": "No entanto, os dados mostram que o transporte público melhorou.",
-          "en": "In short, the congestion rate only grows in big cities.",
+          "en": "However, the data show that public transport improved.",
           "ar": "من جهة، هذا صحيح؛ ومن جهة أخرى، ما تزال السيارات الخاصة تهيمن."
         },
         {
@@ -769,7 +769,7 @@
         },
         {
           "pt": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
-          "en": "However, the data show that public transport improved.",
+          "en": "In short, the congestion rate only grows in big cities.",
           "ar": "ومع ذلك، تظهر البيانات أن وسائل النقل العام تحسنت."
         }
       ],
@@ -797,12 +797,12 @@
         },
         {
           "pt": "Concordo, desde que o subsídio proteja quem mais precisa.",
-          "en": "However, the data show that public transport improved.",
+          "en": "I agree, as long as the subsidy protects those who need it most.",
           "ar": "أوافق، بشرط أن يحمي الدعم من هم في أمس الحاجة إليه."
         },
         {
           "pt": "No entanto, os dados mostram que o transporte público melhorou.",
-          "en": "I agree, as long as the subsidy protects those who need it most.",
+          "en": "However, the data show that public transport improved.",
           "ar": "على الرغم من كلفته، قد يقلل رسم المرور الحضري من التدفق."
         }
       ],

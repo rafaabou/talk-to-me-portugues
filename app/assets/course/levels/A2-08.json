@@ -537,12 +537,12 @@
         },
         {
           "pt": "Bom dia! O que você está sentindo?",
-          "en": "Since last night.",
+          "en": "Good morning! What are you feeling?",
           "ar": "منذ الليلة الماضية."
         },
         {
           "pt": "Desde ontem à noite.",
-          "en": "Good morning! What are you feeling?",
+          "en": "Since last night.",
           "ar": "صباح الخير! بماذا تشعر؟"
         }
       ],
@@ -565,12 +565,12 @@
       "options": [
         {
           "pt": "Obrigado, doutor. Eu sigo as instruções.",
-          "en": "I have a sore throat and a fever.",
+          "en": "Good morning! What are you feeling?",
           "ar": "أعاني من التهاب في الحلق وحمى."
         },
         {
           "pt": "Estou com dor de garganta e febre.",
-          "en": "Good morning! What are you feeling?",
+          "en": "I have a sore throat and a fever.",
           "ar": "صباح الخير! بماذا تشعر؟"
         },
         {
@@ -769,12 +769,12 @@
         },
         {
           "pt": "Desde quando?",
-          "en": "I have a sore throat and a fever.",
+          "en": "Since when?",
           "ar": "صباح الخير! بماذا تشعر؟"
         },
         {
           "pt": "Estou com dor de garganta e febre.",
-          "en": "Since when?",
+          "en": "I have a sore throat and a fever.",
           "ar": "أعاني من التهاب في الحلق وحمى."
         }
       ],

@@ -518,12 +518,12 @@
       "options": [
         {
           "pt": "Perfeito. A menos que chova, vamos nos divertir.",
-          "en": "When I finish work today, I want to go to the gym.",
+          "en": "Great! If I finish the project early, I'll go with you.",
           "ar": "رائع. ما لم يهطل المطر، سنستمتع."
         },
         {
           "pt": "Quando eu sair do trabalho hoje, quero ir à academia.",
-          "en": "Great! If I finish the project early, I'll go with you.",
+          "en": "When I finish work today, I want to go to the gym.",
           "ar": "عندما أنتهي من العمل اليوم، أريد الذهاب إلى النادي الرياضي."
         },
         {
@@ -551,12 +551,12 @@
       "options": [
         {
           "pt": "Ótimo! Se eu terminar o projeto cedo, vou junto com você.",
-          "en": "Cool. As soon as you finish, let me know.",
+          "en": "Great! If I finish the project early, I'll go with you.",
           "ar": "حسنًا. بمجرد أن تنتهي، أخبرني."
         },
         {
           "pt": "Legal. Assim que você terminar, me avisa.",
-          "en": "Great! If I finish the project early, I'll go with you.",
+          "en": "Cool. As soon as you finish, let me know.",
           "ar": "عندما أنتهي من العمل اليوم، أريد الذهاب إلى النادي الرياضي."
         },
         {
@@ -732,7 +732,7 @@
       "options": [
         {
           "pt": "Ótimo! Se eu terminar o projeto cedo, vou junto com você.",
-          "en": "When I finish work today, I want to go to the gym.",
+          "en": "Great! If I finish the project early, I'll go with you.",
           "ar": "رائع! إذا أنهيت المشروع مبكرًا، سأذهب معك."
         },
         {
@@ -742,7 +742,7 @@
         },
         {
           "pt": "Quando eu sair do trabalho hoje, quero ir à academia.",
-          "en": "Great! If I finish the project early, I'll go with you.",
+          "en": "When I finish work today, I want to go to the gym.",
           "ar": "متفق. ثم بعد ذلك، من يدري، ربما نتناول العشاء خارجًا."
         }
       ],

@@ -499,12 +499,12 @@
       "options": [
         {
           "pt": "Vamos comemorar meu aniversário na sexta-feira!",
-          "en": "Yes, it starts at eight in the evening at my house.",
+          "en": "Let's celebrate my birthday on Friday!",
           "ar": "رائع! هل ستكون الحفلة يوم السبت؟"
         },
         {
           "pt": "Que ótimo! A festa será no sábado?",
-          "en": "Let's celebrate my birthday on Friday!",
+          "en": "Yes, it starts at eight in the evening at my house.",
           "ar": "نعم، تبدأ الساعة الثامنة مساءً في منزلي."
         },
         {
@@ -532,12 +532,12 @@
       "options": [
         {
           "pt": "Que ótimo! A festa será no sábado?",
-          "en": "I will prepare a special toast. Can I bring a cake?",
+          "en": "How great! Will the party be on Saturday?",
           "ar": "نعم، تبدأ الساعة الثامنة مساءً في منزلي."
         },
         {
           "pt": "Sim, começa às oito da noite na minha casa.",
-          "en": "How great! Will the party be on Saturday?",
+          "en": "I will prepare a special toast. Can I bring a cake?",
           "ar": "رائع! هل ستكون الحفلة يوم السبت؟"
         },
         {
@@ -693,12 +693,12 @@
       "options": [
         {
           "pt": "Vamos comemorar meu aniversário na sexta-feira!",
-          "en": "Yes, it starts at eight in the evening at my house.",
+          "en": "Let's celebrate my birthday on Friday!",
           "ar": "سأحضّر نخباً خاصاً. هل يمكنني إحضار كعكة؟"
         },
         {
           "pt": "Vou preparar um brinde especial. Posso trazer um bolo?",
-          "en": "Let's celebrate my birthday on Friday!",
+          "en": "Yes, it starts at eight in the evening at my house.",
           "ar": "هيا نحتفل بعيد ميلادي يوم الجمعة!"
         },
         {
@@ -731,12 +731,12 @@
         },
         {
           "pt": "Claro! Não se esqueça de convidar a Ana.",
-          "en": "How great! Will the party be on Saturday?",
+          "en": "Let's celebrate my birthday on Friday!",
           "ar": "هيا نحتفل بعيد ميلادي يوم الجمعة!"
         },
         {
           "pt": "Que ótimo! A festa será no sábado?",
-          "en": "Let's celebrate my birthday on Friday!",
+          "en": "How great! Will the party be on Saturday?",
           "ar": "رائع! هل ستكون الحفلة يوم السبت؟"
         }
       ],

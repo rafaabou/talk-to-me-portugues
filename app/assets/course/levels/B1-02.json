@@ -494,7 +494,7 @@
       "options": [
         {
           "pt": "Sim, mas gostaria de uma promoção em seis meses.",
-          "en": "Tell me about your professional experience.",
+          "en": "Yes, but I would like a promotion in six months.",
           "ar": "نعم، لكنني أودّ الحصول على ترقية بعد ستة أشهر."
         },
         {
@@ -504,7 +504,7 @@
         },
         {
           "pt": "Conte-me sobre sua experiência profissional.",
-          "en": "Yes, but I would like a promotion in six months.",
+          "en": "Tell me about your professional experience.",
           "ar": "حدثني عن خبرتك المهنية."
         }
       ],

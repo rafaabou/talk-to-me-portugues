@@ -557,7 +557,7 @@
       "options": [
         {
           "pt": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
-          "en": "Dear Mr. Lopes, I thank you for your contact and confirm the ten o'clock slot.",
+          "en": "I am at your disposal as well. Sincerely, Antônio Lopes.",
           "ar": "عزيزي السيد لوبيز، أشكركم على تواصلكم وأؤكد موعد الساعة العاشرة."
         },
         {
@@ -567,7 +567,7 @@
         },
         {
           "pt": "Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.",
-          "en": "I am at your disposal as well. Sincerely, Antônio Lopes.",
+          "en": "Dear Mr. Lopes, I thank you for your contact and confirm the ten o'clock slot.",
           "ar": "وأنا أيضًا تحت تصرفكم. مع خالص التحية، أنطونيو لوبيز."
         }
       ],
@@ -733,7 +733,7 @@
       "options": [
         {
           "pt": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
-          "en": "Received. Should you need clarifications, I am at your disposal.",
+          "en": "Dear Dr. Martins, I am writing to confirm Friday's meeting.",
           "ar": "وأنا أيضًا تحت تصرفكم. مع خالص التحية، أنطونيو لوبيز."
         },
         {
@@ -743,7 +743,7 @@
         },
         {
           "pt": "Fico à disposição também. Atenciosamente, Antônio Lopes.",
-          "en": "Dear Dr. Martins, I am writing to confirm Friday's meeting.",
+          "en": "Received. Should you need clarifications, I am at your disposal.",
           "ar": "تم الاستلام. إذا احتجتم أي توضيحات، فأنا تحت تصرفكم."
         }
       ],
@@ -766,12 +766,12 @@
       "options": [
         {
           "pt": "Fico à disposição também. Atenciosamente, Antônio Lopes.",
-          "en": "Dear Mr. Lopes, I thank you for your contact and confirm the ten o'clock slot.",
+          "en": "I am at your disposal as well. Sincerely, Antônio Lopes.",
           "ar": "عزيزي الدكتور مارتنز، أكتب إليكم لتأكيد اجتماع يوم الجمعة."
         },
         {
           "pt": "Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.",
-          "en": "I am at your disposal as well. Sincerely, Antônio Lopes.",
+          "en": "Dear Mr. Lopes, I thank you for your contact and confirm the ten o'clock slot.",
           "ar": "عزيزي السيد لوبيز، أشكركم على تواصلكم وأؤكد موعد الساعة العاشرة."
         },
         {

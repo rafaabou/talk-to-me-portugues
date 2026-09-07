@@ -573,12 +573,12 @@
         },
         {
           "pt": "Com certeza. Seria possível aumentar o prazo de pagamento?",
-          "en": "Agreed. If you agree to everything, we close the deal today.",
+          "en": "Of course. Would it be possible to extend the payment period?",
           "ar": "متفق. إذا وافقتم على كل شيء، نُبرم الصفقة اليوم."
         },
         {
           "pt": "Combinado. Se concordarem com tudo, fechamos o negócio hoje.",
-          "en": "Of course. Would it be possible to extend the payment period?",
+          "en": "Agreed. If you agree to everything, we close the deal today.",
           "ar": "بالتأكيد. هل يمكن تمديد مدة السداد؟"
         }
       ],
@@ -749,12 +749,12 @@
         },
         {
           "pt": "Podemos considerar, se o valor total for mantido.",
-          "en": "Good afternoon. We would like to discuss the contract terms.",
+          "en": "We can consider it, if the total amount stays the same.",
           "ar": "يمكننا النظر في ذلك، إذا بقي المبلغ الإجمالي كما هو."
         },
         {
           "pt": "Boa tarde. Gostaríamos de discutir os termos do contrato.",
-          "en": "We can consider it, if the total amount stays the same.",
+          "en": "Good afternoon. We would like to discuss the contract terms.",
           "ar": "مساء الخير. نود مناقشة بنود العقد."
         }
       ],
@@ -777,7 +777,7 @@
       "options": [
         {
           "pt": "Boa tarde. Gostaríamos de discutir os termos do contrato.",
-          "en": "Of course. Would it be possible to extend the payment period?",
+          "en": "Good afternoon. We would like to discuss the contract terms.",
           "ar": "بالتأكيد. هل يمكن تمديد مدة السداد؟"
         },
         {
@@ -787,7 +787,7 @@
         },
         {
           "pt": "Com certeza. Seria possível aumentar o prazo de pagamento?",
-          "en": "Good afternoon. We would like to discuss the contract terms.",
+          "en": "Of course. Would it be possible to extend the payment period?",
           "ar": "عادل. بالإضافة إلى ذلك، نحتاج إلى مهلة أطول للتسليم."
         }
       ],

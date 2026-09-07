@@ -542,7 +542,7 @@
       "options": [
         {
           "pt": "Como você sabe?",
-          "en": "It is so hot today! It is thirty-five degrees.",
+          "en": "Then I will take the umbrella.",
           "ar": "إذن سآخذ المظلة."
         },
         {
@@ -552,7 +552,7 @@
         },
         {
           "pt": "Que calor hoje! Está fazendo trinta e cinco graus.",
-          "en": "Then I will take the umbrella.",
+          "en": "It is so hot today! It is thirty-five degrees.",
           "ar": "كيف تعرف؟"
         }
       ],
@@ -751,7 +751,7 @@
       "options": [
         {
           "pt": "Então vou levar o guarda-chuva.",
-          "en": "It is so hot today! It is thirty-five degrees.",
+          "en": "Yes, but it is going to rain tonight.",
           "ar": "إذن سآخذ المظلة."
         },
         {
@@ -761,7 +761,7 @@
         },
         {
           "pt": "Que calor hoje! Está fazendo trinta e cinco graus.",
-          "en": "Yes, but it is going to rain tonight.",
+          "en": "It is so hot today! It is thirty-five degrees.",
           "ar": "يا له من حر اليوم! درجة الحرارة خمس وثلاثون درجة."
         }
       ],

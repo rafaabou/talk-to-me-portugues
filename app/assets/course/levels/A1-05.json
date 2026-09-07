@@ -491,12 +491,12 @@
         },
         {
           "pt": "Olá, eu sou o João. Eu sou engenheiro.",
-          "en": "Nice to meet you! I'm very happy to work with you.",
+          "en": "Hello, I'm João. I'm an engineer.",
           "ar": "وأنا أيضًا. أنا متعب قليلًا اليوم."
         },
         {
           "pt": "Muito prazer! Eu estou muito feliz de trabalhar com você.",
-          "en": "Hello, I'm João. I'm an engineer.",
+          "en": "Nice to meet you! I'm very happy to work with you.",
           "ar": "سررت بلقائك! أنا سعيدة جدًا بالعمل معك."
         }
       ],
@@ -524,12 +524,12 @@
         },
         {
           "pt": "Olá, eu sou o João. Eu sou engenheiro.",
-          "en": "Nice to meet you! I'm very happy to work with you.",
+          "en": "Hello, I'm João. I'm an engineer.",
           "ar": "سررت بلقائك! أنا سعيدة جدًا بالعمل معك."
         },
         {
           "pt": "Muito prazer! Eu estou muito feliz de trabalhar com você.",
-          "en": "Hello, I'm João. I'm an engineer.",
+          "en": "Nice to meet you! I'm very happy to work with you.",
           "ar": "وأنا أيضًا. أنا متعب قليلًا اليوم."
         }
       ],
@@ -690,7 +690,7 @@
       "options": [
         {
           "pt": "Muito prazer! Eu estou muito feliz de trabalhar com você.",
-          "en": "Hello, I'm João. I'm an engineer.",
+          "en": "Rest on the weekend. You are very dedicated.",
           "ar": "سررت بلقائك! أنا سعيدة جدًا بالعمل معك."
         },
         {
@@ -700,7 +700,7 @@
         },
         {
           "pt": "Olá, eu sou o João. Eu sou engenheiro.",
-          "en": "Rest on the weekend. You are very dedicated.",
+          "en": "Hello, I'm João. I'm an engineer.",
           "ar": "استرح في عطلة نهاية الأسبوع. أنت مخلص جدًا."
         }
       ],
@@ -723,7 +723,7 @@
       "options": [
         {
           "pt": "Descansa no fim de semana. Você é muito dedicado.",
-          "en": "Nice to meet you! I'm very happy to work with you.",
+          "en": "Hello, I'm João. I'm an engineer.",
           "ar": "سررت بلقائك! أنا سعيدة جدًا بالعمل معك."
         },
         {
@@ -733,7 +733,7 @@
         },
         {
           "pt": "Muito prazer! Eu estou muito feliz de trabalhar com você.",
-          "en": "Hello, I'm João. I'm an engineer.",
+          "en": "Nice to meet you! I'm very happy to work with you.",
           "ar": "مرحبًا، أنا جواو. أنا مهندس."
         }
       ],

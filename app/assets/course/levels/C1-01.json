@@ -583,12 +583,12 @@
         },
         {
           "pt": "É possível que a viagem saia cara se formos em julho.",
-          "en": "Hopefully we find cheap tickets.",
+          "en": "Even if it costs more, I prefer to go in July.",
           "ar": "ليتنا نجد تذاكر رخيصة."
         },
         {
           "pt": "Tomara que encontremos passagens baratas.",
-          "en": "Even if it costs more, I prefer to go in July.",
+          "en": "Hopefully we find cheap tickets.",
           "ar": "حتى لو كلفت أكثر، أفضل الذهاب في يوليو."
         }
       ],
@@ -769,12 +769,12 @@
         },
         {
           "pt": "É possível que a viagem saia cara se formos em julho.",
-          "en": "Even if it costs more, I prefer to go in July.",
+          "en": "The trip may be expensive if we go in July.",
           "ar": "ليتنا نجد تذاكر رخيصة."
         },
         {
           "pt": "Tomara que encontremos passagens baratas.",
-          "en": "The trip may be expensive if we go in July.",
+          "en": "Even if it costs more, I prefer to go in July.",
           "ar": "حتى لو كلفت أكثر، أفضل الذهاب في يوليو."
         }
       ],
@@ -797,12 +797,12 @@
       "options": [
         {
           "pt": "É possível que a viagem saia cara se formos em julho.",
-          "en": "Hopefully we find cheap tickets.",
+          "en": "The trip may be expensive if we go in July.",
           "ar": "من الممكن أن تكون الرحلة مكلفة إذا ذهبنا في يوليو."
         },
         {
           "pt": "Tomara que encontremos passagens baratas.",
-          "en": "The trip may be expensive if we go in July.",
+          "en": "Hopefully we find cheap tickets.",
           "ar": "لكي ينجح الأمر، علينا أن نقرر هذا الأسبوع."
         },
         {

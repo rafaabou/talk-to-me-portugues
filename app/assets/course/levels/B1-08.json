@@ -514,7 +514,7 @@
       "options": [
         {
           "pt": "Sim, fica a dez minutos do metrô.",
-          "en": "This apartment has two bedrooms and a spacious kitchen.",
+          "en": "Yes, it is ten minutes from the subway.",
           "ar": "إذن سأفكر في الأمر وأتحدث مع كفيلي."
         },
         {
@@ -524,7 +524,7 @@
         },
         {
           "pt": "Este apartamento tem dois quartos e uma cozinha ampla.",
-          "en": "Yes, it is ten minutes from the subway.",
+          "en": "This apartment has two bedrooms and a spacious kitchen.",
           "ar": "نعم، تبعد عشر دقائق عن المترو."
         }
       ],
@@ -552,12 +552,12 @@
         },
         {
           "pt": "É perto do meu trabalho? Fica perto do metrô?",
-          "en": "This apartment has two bedrooms and a spacious kitchen.",
+          "en": "Is it near my work? Is it near the subway?",
           "ar": "هذه الشقة تحتوي على غرفتي نوم ومطبخ واسع."
         },
         {
           "pt": "Este apartamento tem dois quartos e uma cozinha ampla.",
-          "en": "Is it near my work? Is it near the subway?",
+          "en": "This apartment has two bedrooms and a spacious kitchen.",
           "ar": "نعم، تبعد عشر دقائق عن المترو."
         }
       ],
@@ -761,12 +761,12 @@
         },
         {
           "pt": "Quanto é o aluguel? Preciso pagar caução?",
-          "en": "Is it near my work? Is it near the subway?",
+          "en": "How much is the rent? Do I need to pay a deposit?",
           "ar": "هذه الشقة تحتوي على غرفتي نوم ومطبخ واسع."
         },
         {
           "pt": "É perto do meu trabalho? Fica perto do metrô?",
-          "en": "How much is the rent? Do I need to pay a deposit?",
+          "en": "Is it near my work? Is it near the subway?",
           "ar": "كم الإيجار؟ هل أحتاج إلى دفع ضمانة؟"
         }
       ],

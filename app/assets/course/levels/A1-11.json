@@ -500,7 +500,7 @@
       "options": [
         {
           "pt": "Eu acordo às seis e meia de manhã.",
-          "en": "Bruno, what time do you wake up?",
+          "en": "I shower, have breakfast and leave at eight.",
           "ar": "أستيقظ في السادسة والنصف صباحًا."
         },
         {
@@ -510,7 +510,7 @@
         },
         {
           "pt": "Bruno, que horas você acorda?",
-          "en": "I shower, have breakfast and leave at eight.",
+          "en": "Bruno, what time do you wake up?",
           "ar": "أستحم، أتناول الفطور وأخرج في الثامنة."
         }
       ],
@@ -533,7 +533,7 @@
       "options": [
         {
           "pt": "Bruno, que horas você acorda?",
-          "en": "I wake up at six thirty in the morning.",
+          "en": "Bruno, what time do you wake up?",
           "ar": "برونو، في أي ساعة تستيقظ؟"
         },
         {
@@ -543,7 +543,7 @@
         },
         {
           "pt": "Eu acordo às seis e meia de manhã.",
-          "en": "Bruno, what time do you wake up?",
+          "en": "I wake up at six thirty in the morning.",
           "ar": "وماذا تفعل بعد ذلك؟"
         }
       ],
@@ -689,12 +689,12 @@
       "options": [
         {
           "pt": "Bruno, que horas você acorda?",
-          "en": "What time do you arrive home?",
+          "en": "Bruno, what time do you wake up?",
           "ar": "في أي ساعة تصل إلى المنزل؟"
         },
         {
           "pt": "E o que você faz depois?",
-          "en": "Bruno, what time do you wake up?",
+          "en": "What time do you arrive home?",
           "ar": "وماذا تفعل بعد ذلك؟"
         },
         {
@@ -722,7 +722,7 @@
       "options": [
         {
           "pt": "Eu acordo às seis e meia de manhã.",
-          "en": "What time do you arrive home?",
+          "en": "I wake up at six thirty in the morning.",
           "ar": "أستيقظ في السادسة والنصف صباحًا."
         },
         {
@@ -732,7 +732,7 @@
         },
         {
           "pt": "Às seis da noite. Depois eu durmo cedo.",
-          "en": "I wake up at six thirty in the morning.",
+          "en": "What time do you arrive home?",
           "ar": "في أي ساعة تصل إلى المنزل؟"
         }
       ],

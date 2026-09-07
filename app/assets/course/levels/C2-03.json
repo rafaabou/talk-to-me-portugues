@@ -547,7 +547,7 @@
       "options": [
         {
           "pt": "Perfeito. E por que não usamos 'concluídos'?",
-          "en": "Rewrite the developed clause as a reduced participle clause.",
+          "en": "The report finished, we sent the email.",
           "ar": "أعد كتابة الجملة المطوّرة إلى جملة مختزلة باسم المفعول."
         },
         {
@@ -557,7 +557,7 @@
         },
         {
           "pt": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
-          "en": "The report finished, we sent the email.",
+          "en": "Rewrite the developed clause as a reduced participle clause.",
           "ar": "بعد إنجاز التقرير، أرسلنا البريد الإلكتروني."
         }
       ],
@@ -585,12 +585,12 @@
         },
         {
           "pt": "Concluído o relatório, enviamos o e-mail.",
-          "en": "After the report was finished, we sent the email.",
+          "en": "Perfect. And why do we not use 'concluídos'?",
           "ar": "ممتاز. ولماذا لا نستخدم 'concluídos'؟"
         },
         {
           "pt": "Depois que o relatório foi concluído, enviamos o e-mail.",
-          "en": "Perfect. And why do we not use 'concluídos'?",
+          "en": "After the report was finished, we sent the email.",
           "ar": "بعد إنجاز التقرير، أرسلنا البريد الإلكتروني."
         }
       ],
@@ -756,12 +756,12 @@
       "options": [
         {
           "pt": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
-          "en": "The report finished, we sent the email.",
+          "en": "Rewrite the developed clause as a reduced participle clause.",
           "ar": "بعد إنجاز التقرير، أرسلنا البريد الإلكتروني."
         },
         {
           "pt": "Concluído o relatório, enviamos o e-mail.",
-          "en": "Rewrite the developed clause as a reduced participle clause.",
+          "en": "The report finished, we sent the email.",
           "ar": "الآن اختصرها باسم المفعول."
         },
         {
@@ -789,7 +789,7 @@
       "options": [
         {
           "pt": "Depois que o relatório foi concluído, enviamos o e-mail.",
-          "en": "Now reduce it with the participle.",
+          "en": "After the report was finished, we sent the email.",
           "ar": "بعد إنجاز التقرير، أرسلنا البريد الإلكتروني."
         },
         {
@@ -799,7 +799,7 @@
         },
         {
           "pt": "Agora reduza com o particípio.",
-          "en": "After the report was finished, we sent the email.",
+          "en": "Now reduce it with the participle.",
           "ar": "الآن اختصرها باسم المفعول."
         }
       ],

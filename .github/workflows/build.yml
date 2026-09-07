@@ -23,11 +23,7 @@ permissions:
 jobs:
   validate:
     name: Validate Portuguese App
-    runs-on:
-    - self-hosted
-    - linux
-    - X64
-    - portuguese
+    runs-on: ubuntu-latest
     timeout-minutes: 30
     defaults:
       run:
@@ -80,11 +76,7 @@ jobs:
   build:
     name: Build Portuguese App
     needs: validate
-    runs-on:
-    - self-hosted
-    - linux
-    - X64
-    - portuguese
+    runs-on: ubuntu-latest
     timeout-minutes: 90
     defaults:
       run:
@@ -193,11 +185,7 @@ jobs:
     name: Package & Release Portuguese App
     needs:
     - build
-    runs-on:
-    - self-hosted
-    - linux
-    - X64
-    - portuguese
+    runs-on: ubuntu-latest
     timeout-minutes: 45
     permissions:
       contents: write
@@ -268,7 +256,7 @@ jobs:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         export PATH="$HOME/.local/bin:$PATH"
-        TAG="v1.4.2"
+        TAG="v1.4.3"
         gh release create "$TAG" \
           app/build/app/outputs/flutter-apk/app-release.apk \
           app-release.apk.sig \
@@ -276,18 +264,20 @@ jobs:
           sbom-project.cdx.json.sig \
           sbom-apk.cdx.json \
           --title "Talk To Me Português Brasileiro By Mohamed Rafaa Tounekti" \
-          --notes "## Talk To Me Português Brasileiro v1.4.2
+          --notes "## Talk To Me Português Brasileiro v1.4.3
           By **Mohamed Rafaa Tounekti**
 
-          ### What's New in v1.4.2
-          - 🔍 Audio filter toggle (All / With Audio) on verb screen
-          - 📖 1,834 verbs with 8 tenses (present, preterite, imperfect, future, conditional, subjunctive, subjunctive past, imperative)
-          - 🌐 Trilingual display (Portuguese + English + Arabic)
-          - 🔊 TTS audio for verb infinitives and lesson vocabulary
-          - 📊 Verb conjugation grouping by type (-AR/-ER/-IR/-OR/irregular)
-          - 🔊 Audio icon badges for verbs with full audio
+          ### What's New in v1.4.3
+          - 🌐 Web support — run directly in your browser
+          - 🔧 Fixed 187 listening exercises with incorrect English translations
+          - 🏗️ CI/CD now builds on GitHub-hosted runners
 
           ### Previous Features
+          - 1,834 verbs with 8 tenses (present, preterite, imperfect, future, conditional, subjunctive, subjunctive past, imperative)
+          - Audio filter toggle (All / With Audio) on verb screen
+          - Trilingual display (Portuguese + English + Arabic)
+          - TTS audio for verb infinitives and lesson vocabulary
+          - Verb conjugation grouping by type (-AR/-ER/-IR/-OR/irregular)
           - Complete lesson library with dialogues, grammar, readings, exercises
           - Flashcard review with FSRS spaced repetition
           - Quiz mode with best score tracking
@@ -303,11 +293,7 @@ jobs:
     name: Release Portuguese App
     needs: package
     if: github.event_name == 'push' && github.ref == 'refs/heads/main'
-    runs-on:
-    - self-hosted
-    - linux
-    - X64
-    - portuguese
+    runs-on: ubuntu-latest
     timeout-minutes: 20
     permissions:
       contents: write
@@ -318,7 +304,7 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         export PATH="$HOME/.local/bin:$PATH"
-        TAG="v1.4.2"
+        TAG="v1.4.3"
         # Create tag with auth
         git config user.name "github-actions"
         git config user.email "github-actions@github.com"
@@ -338,18 +324,20 @@ jobs:
           sbom-project.cdx.json.sig \
           sbom-apk.cdx.json \
           --title "Talk To Me Português Brasileiro By Mohamed Rafaa Tounekti" \
-          --notes "## Talk To Me Português Brasileiro v1.4.2
+          --notes "## Talk To Me Português Brasileiro v1.4.3
           By **Mohamed Rafaa Tounekti**
 
-          ### What's New in v1.4.2
-          - 🔍 Audio filter toggle (All / With Audio) on verb screen
-          - 📖 1,834 verbs with 8 tenses (present, preterite, imperfect, future, conditional, subjunctive, subjunctive past, imperative)
-          - 🌐 Trilingual display (Portuguese + English + Arabic)
-          - 🔊 TTS audio for verb infinitives and lesson vocabulary
-          - 📊 Verb conjugation grouping by type (-AR/-ER/-IR/-OR/irregular)
-          - 🔊 Audio icon badges for verbs with full audio
+          ### What's New in v1.4.3
+          - 🌐 Web support — run directly in your browser
+          - 🔧 Fixed 187 listening exercises with incorrect English translations
+          - 🏗️ CI/CD now builds on GitHub-hosted runners
 
           ### Previous Features
+          - 1,834 verbs with 8 tenses (present, preterite, imperfect, future, conditional, subjunctive, subjunctive past, imperative)
+          - Audio filter toggle (All / With Audio) on verb screen
+          - Trilingual display (Portuguese + English + Arabic)
+          - TTS audio for verb infinitives and lesson vocabulary
+          - Verb conjugation grouping by type (-AR/-ER/-IR/-OR/irregular)
           - Complete lesson library with dialogues, grammar, readings, exercises
           - Flashcard review with FSRS spaced repetition
           - Quiz mode with best score tracking

@@ -506,12 +506,12 @@
       "options": [
         {
           "pt": "Olá! Meu nome é Karim. Sou do Egito.",
-          "en": "Yes, thank you. I would like a coffee with milk.",
+          "en": "Hello! My name is Karim. I'm from Egypt.",
           "ar": "سررت بلقائك يا كريم! أنا مارينا."
         },
         {
           "pt": "Muito prazer, Karim! Eu sou a Marina.",
-          "en": "Hello! My name is Karim. I'm from Egypt.",
+          "en": "Yes, thank you. I would like a coffee with milk.",
           "ar": "مرحبًا! اسمي كريم. أنا من مصر."
         },
         {
@@ -710,12 +710,12 @@
       "options": [
         {
           "pt": "Olá! Meu nome é Karim. Sou do Egito.",
-          "en": "Nice to meet you, Karim! I'm Marina.",
+          "en": "Hello! My name is Karim. I'm from Egypt.",
           "ar": "سررت بلقائك يا كريم! أنا مارينا."
         },
         {
           "pt": "Muito prazer, Karim! Eu sou a Marina.",
-          "en": "Hello! My name is Karim. I'm from Egypt.",
+          "en": "Nice to meet you, Karim! I'm Marina.",
           "ar": "مرحبًا! اسمي كريم. أنا من مصر."
         },
         {

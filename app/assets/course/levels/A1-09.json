@@ -527,12 +527,12 @@
       "options": [
         {
           "pt": "Boa noite! Aqui está o cardápio.",
-          "en": "Then I'd like the fish and a water, please.",
+          "en": "Good evening! Here is the menu.",
           "ar": "قهوة والحساب، من فضلك."
         },
         {
           "pt": "Um café e a conta, por favor.",
-          "en": "Good evening! Here is the menu.",
+          "en": "Then I'd like the fish and a water, please.",
           "ar": "مساء الخير! هذه قائمة الطعام."
         },
         {
@@ -726,12 +726,12 @@
         },
         {
           "pt": "Muito bem! Alguma sobremesa?",
-          "en": "Good evening! Here is the menu.",
+          "en": "Very well! Any dessert?",
           "ar": "مساء الخير! هذه قائمة الطعام."
         },
         {
           "pt": "Boa noite! Aqui está o cardápio.",
-          "en": "Very well! Any dessert?",
+          "en": "Good evening! Here is the menu.",
           "ar": "السمك مع الأرز لذيذ."
         }
       ],
@@ -754,12 +754,12 @@
       "options": [
         {
           "pt": "Boa noite! Aqui está o cardápio.",
-          "en": "Thank you. What do you recommend?",
+          "en": "Good evening! Here is the menu.",
           "ar": "ممتاز! أي حلوى؟"
         },
         {
           "pt": "Obrigado. O que você recomenda?",
-          "en": "Good evening! Here is the menu.",
+          "en": "Thank you. What do you recommend?",
           "ar": "شكرًا. ماذا تنصح؟"
         },
         {

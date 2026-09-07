@@ -570,12 +570,12 @@
       "options": [
         {
           "pt": "Fica no segundo andar, à direita.",
-          "en": "The bus is in front of the airport. Have a good trip!",
+          "en": "It is on the second floor, to the right.",
           "ar": "الحافلة أمام المطار. رحلة سعيدة!"
         },
         {
           "pt": "O voo sai às dez e meia.",
-          "en": "It is on the second floor, to the right.",
+          "en": "The bus is in front of the airport. Have a good trip!",
           "ar": "إنها في الطابق الثاني، على اليمين."
         },
         {
@@ -779,12 +779,12 @@
         },
         {
           "pt": "O voo sai às dez e meia.",
-          "en": "It is on the second floor, to the right.",
+          "en": "The flight leaves at ten thirty.",
           "ar": "إنها في الطابق الثاني، على اليمين."
         },
         {
           "pt": "Fica no segundo andar, à direita.",
-          "en": "The flight leaves at ten thirty.",
+          "en": "It is on the second floor, to the right.",
           "ar": "تغادر الرحلة في العاشرة والنصف."
         }
       ],

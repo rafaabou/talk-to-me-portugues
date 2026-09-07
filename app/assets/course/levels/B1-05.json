@@ -542,12 +542,12 @@
         },
         {
           "pt": "Estou escrevendo um e-mail para minha chefe.",
-          "en": "Hello? What are you doing right now?",
+          "en": "I am writing an email to my boss.",
           "ar": "إذن سأمشي إلى منزلك."
         },
         {
           "pt": "Então vou andando até a sua casa.",
-          "en": "I am writing an email to my boss.",
+          "en": "Hello? What are you doing right now?",
           "ar": "ألو؟ ماذا تفعل الآن؟"
         }
       ],
@@ -703,12 +703,12 @@
       "options": [
         {
           "pt": "Não, ele está assistindo futebol na TV.",
-          "en": "Hello? What are you doing right now?",
+          "en": "No, he is watching soccer on TV.",
           "ar": "ألو؟ ماذا تفعل الآن؟"
         },
         {
           "pt": "Alô? O que você está fazendo agora?",
-          "en": "No, he is watching soccer on TV.",
+          "en": "Hello? What are you doing right now?",
           "ar": "لا، إنه يشاهد كرة القدم على التلفزيون."
         },
         {
@@ -741,12 +741,12 @@
         },
         {
           "pt": "Estou escrevendo um e-mail para minha chefe.",
-          "en": "And Pedro? Is he studying?",
+          "en": "I am writing an email to my boss.",
           "ar": "وبيدرو؟ هل يدرس؟"
         },
         {
           "pt": "E o Pedro? Está estudando?",
-          "en": "I am writing an email to my boss.",
+          "en": "And Pedro? Is he studying?",
           "ar": "أنا أكتب رسالة إلكترونية إلى مديرتي."
         }
       ],

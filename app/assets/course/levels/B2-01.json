@@ -529,7 +529,7 @@
       "options": [
         {
           "pt": "Quero que você conheça uma praia linda que eu descobri.",
-          "en": "I hope you can go to the beach with me on Saturday.",
+          "en": "I want you to see a beautiful beach I discovered.",
           "ar": "رائع! أشك في أن أبقى في المنزل هذا الأسبوع."
         },
         {
@@ -539,7 +539,7 @@
         },
         {
           "pt": "Espero que você possa ir à praia comigo no sábado.",
-          "en": "I want you to see a beautiful beach I discovered.",
+          "en": "I hope you can go to the beach with me on Saturday.",
           "ar": "أريدك أن تتعرف على شاطئ جميل اكتشفته."
         }
       ],
@@ -743,7 +743,7 @@
       "options": [
         {
           "pt": "Ótimo! Duvido que eu fique em casa neste fim de semana.",
-          "en": "I hope you can go to the beach with me on Saturday.",
+          "en": "I want you to see a beautiful beach I discovered.",
           "ar": "آمل أن تتمكن من الذهاب إلى الشاطئ معي يوم السبت."
         },
         {
@@ -753,7 +753,7 @@
         },
         {
           "pt": "Espero que você possa ir à praia comigo no sábado.",
-          "en": "I want you to see a beautiful beach I discovered.",
+          "en": "I hope you can go to the beach with me on Saturday.",
           "ar": "أريدك أن تتعرف على شاطئ جميل اكتشفته."
         }
       ],
@@ -781,12 +781,12 @@
         },
         {
           "pt": "Tomara que não chova! Talvez o tempo fique bom.",
-          "en": "It's important that we get out of the city a little.",
+          "en": "Hopefully it won't rain! Maybe the weather will be good.",
           "ar": "ليت المطر لا يهطل! ربما يكون الطقس جيدًا."
         },
         {
           "pt": "Ótimo! Duvido que eu fique em casa neste fim de semana.",
-          "en": "Hopefully it won't rain! Maybe the weather will be good.",
+          "en": "It's important that we get out of the city a little.",
           "ar": "من المهم أن نخرج قليلًا من المدينة."
         }
       ],

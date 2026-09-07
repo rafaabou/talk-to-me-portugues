@@ -509,7 +509,7 @@
       "options": [
         {
           "pt": "Você vai votar nas próximas eleições?",
-          "en": "I agree. Society's participation is essential to democracy.",
+          "en": "Are you going to vote in the next elections?",
           "ar": "أوافقك الرأي. مشاركة المجتمع أساسية للديمقراطية."
         },
         {
@@ -519,7 +519,7 @@
         },
         {
           "pt": "Por isso é preciso que a gente acompanhe a política de perto.",
-          "en": "Are you going to vote in the next elections?",
+          "en": "I agree. Society's participation is essential to democracy.",
           "ar": "لذلك يجب أن نتابع السياسة عن قرب."
         }
       ],
@@ -708,12 +708,12 @@
         },
         {
           "pt": "Você vai votar nas próximas eleições?",
-          "en": "Of course! In my opinion, voting is a duty and a right of every citizen.",
+          "en": "Are you going to vote in the next elections?",
           "ar": "هذا صحيح، لكنني أعتقد أن العديد من المرشحين لا يوفون بوعودهم."
         },
         {
           "pt": "Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.",
-          "en": "Are you going to vote in the next elections?",
+          "en": "Of course! In my opinion, voting is a duty and a right of every citizen.",
           "ar": "هل ستصوت في الانتخابات المقبلة؟"
         }
       ],

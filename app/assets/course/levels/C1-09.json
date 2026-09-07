@@ -544,12 +544,12 @@
         },
         {
           "pt": "Sabia que a independência foi proclamada em 1822 por Dom Pedro I?",
-          "en": "Slavery was abolished in 1888, the last major abolition in the Americas.",
+          "en": "Did you know that independence was proclaimed in 1822 by Dom Pedro I?",
           "ar": "هل تعلمين أن الاستقلال أُعلن عام 1822 على يد دوم بيدرو الأول؟"
         },
         {
           "pt": "Sim, e antes disso o país viveu séculos de colonização e escravidão.",
-          "en": "Did you know that independence was proclaimed in 1822 by Dom Pedro I?",
+          "en": "Slavery was abolished in 1888, the last major abolition in the Americas.",
           "ar": "نعم، وقبل ذلك عاشت البلاد قرونًا من الاستعمار والعبودية."
         }
       ],
@@ -796,7 +796,7 @@
       "options": [
         {
           "pt": "Sim, e antes disso o país viveu séculos de colonização e escravidão.",
-          "en": "History is complex, but understanding the past helps explain the present.",
+          "en": "Yes, and before that the country lived through centuries of colonization and slavery.",
           "ar": "أُلغيت العبودية عام 1888، وهو آخر إلغاء كبير في الأمريكتين."
         },
         {
@@ -806,7 +806,7 @@
         },
         {
           "pt": "A escravidão foi abolida em 1888, a última grande abolição das Américas.",
-          "en": "Yes, and before that the country lived through centuries of colonization and slavery.",
+          "en": "History is complex, but understanding the past helps explain the present.",
           "ar": "نعم، وقبل ذلك عاشت البلاد قرونًا من الاستعمار والعبودية."
         }
       ],

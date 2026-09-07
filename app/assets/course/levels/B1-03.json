@@ -487,7 +487,7 @@
       "options": [
         {
           "pt": "Sim, a amiga com quem estudo na universidade.",
-          "en": "Do you know the girl who works at the bakery?",
+          "en": "Yes, she is the friend I study with at university.",
           "ar": "والمقهى الذي التقينا فيه أمس؟"
         },
         {
@@ -497,7 +497,7 @@
         },
         {
           "pt": "Conhece a moça que trabalha na padaria?",
-          "en": "Yes, she is the friend I study with at university.",
+          "en": "Do you know the girl who works at the bakery?",
           "ar": "نعم، إنها صديقتي التي أدرس معها في الجامعة."
         }
       ],
@@ -691,12 +691,12 @@
         },
         {
           "pt": "Sim, a amiga com quem estudo na universidade.",
-          "en": "Do you know the girl who works at the bakery?",
+          "en": "Yes, she is the friend I study with at university.",
           "ar": "هل تعرف الفتاة التي تعمل في المخبز؟"
         },
         {
           "pt": "Conhece a moça que trabalha na padaria?",
-          "en": "Yes, she is the friend I study with at university.",
+          "en": "Do you know the girl who works at the bakery?",
           "ar": "أعجبني كثيراً! الكعكة التي أكلناها كانت لذيذة."
         }
       ],
@@ -719,12 +719,12 @@
       "options": [
         {
           "pt": "Conhece a moça que trabalha na padaria?",
-          "en": "Yes, she is the friend I study with at university.",
+          "en": "The place whose prices are fair is perfect for us.",
           "ar": "هل تعرف الفتاة التي تعمل في المخبز؟"
         },
         {
           "pt": "Sim, a amiga com quem estudo na universidade.",
-          "en": "The place whose prices are fair is perfect for us.",
+          "en": "Yes, she is the friend I study with at university.",
           "ar": "نعم، إنها صديقتي التي أدرس معها في الجامعة."
         },
         {

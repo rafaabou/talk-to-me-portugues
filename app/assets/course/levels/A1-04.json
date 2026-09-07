@@ -510,12 +510,12 @@
       "options": [
         {
           "pt": "Os exercícios são para hoje?",
-          "en": "Open your books to page ten.",
+          "en": "Teacher, where is my pen?",
           "ar": "افتحوا الكتب في الصفحة عشرة."
         },
         {
           "pt": "Abram os livros na página dez.",
-          "en": "Teacher, where is my pen?",
+          "en": "Open your books to page ten.",
           "ar": "هل الواجبات لهذا اليوم؟"
         },
         {
@@ -737,12 +737,12 @@
       "options": [
         {
           "pt": "Professora, onde está a minha caneta?",
-          "en": "It's on the table, next to the notebook.",
+          "en": "Teacher, where is my pen?",
           "ar": "إنه على الطاولة، بجانب الدفتر."
         },
         {
           "pt": "Abram os livros na página dez.",
-          "en": "Teacher, where is my pen?",
+          "en": "It's on the table, next to the notebook.",
           "ar": "أستاذة، أين قلمي؟"
         },
         {

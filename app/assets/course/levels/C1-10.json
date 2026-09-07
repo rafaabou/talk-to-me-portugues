@@ -519,7 +519,7 @@
       "options": [
         {
           "pt": "Foi você que marcou a reunião de amanhã?",
-          "en": "What worries me is the time, not the agenda.",
+          "en": "Was it you who scheduled tomorrow's meeting?",
           "ar": "ما يقلقني هو التوقيت، لا جدول الأعمال."
         },
         {
@@ -529,7 +529,7 @@
         },
         {
           "pt": "Foi sim, e foi eu que convidei a diretoria inteira.",
-          "en": "Was it you who scheduled tomorrow's meeting?",
+          "en": "What worries me is the time, not the agenda.",
           "ar": "نعم، وأنا من دعوت مجلس الإدارة كاملًا."
         }
       ],
@@ -552,7 +552,7 @@
       "options": [
         {
           "pt": "Foi sim, e foi eu que convidei a diretoria inteira.",
-          "en": "Was it you who scheduled tomorrow's meeting?",
+          "en": "Yes it was, and it was me who invited the whole board.",
           "ar": "نعم، وأنا من دعوت مجلس الإدارة كاملًا."
         },
         {
@@ -562,7 +562,7 @@
         },
         {
           "pt": "Perfeito. É isso mesmo que eu esperava ouvir.",
-          "en": "Yes it was, and it was me who invited the whole board.",
+          "en": "Was it you who scheduled tomorrow's meeting?",
           "ar": "هل أنت من حدد اجتماع الغد؟"
         }
       ],
@@ -756,12 +756,12 @@
       "options": [
         {
           "pt": "Então mudemos. Chega o relatório e depois discutimos tudo.",
-          "en": "Yes it was, and it was me who invited the whole board.",
+          "en": "What worries me is the time, not the agenda.",
           "ar": "ما يقلقني هو التوقيت، لا جدول الأعمال."
         },
         {
           "pt": "Foi sim, e foi eu que convidei a diretoria inteira.",
-          "en": "What worries me is the time, not the agenda.",
+          "en": "Yes it was, and it was me who invited the whole board.",
           "ar": "نعم، وأنا من دعوت مجلس الإدارة كاملًا."
         },
         {

@@ -529,12 +529,12 @@
       "options": [
         {
           "pt": "Você viu a notícia sobre os avanços da inteligência artificial?",
-          "en": "I agree. Cybersecurity is increasingly important.",
+          "en": "Did you see the news about advances in artificial intelligence?",
           "ar": "أوافقك. الأمن السيبراني أصبح أكثر أهمية."
         },
         {
           "pt": "Vi. O cientista disse que os novos sistemas aprendem sozinhos.",
-          "en": "Did you see the news about advances in artificial intelligence?",
+          "en": "I agree. Cybersecurity is increasingly important.",
           "ar": "نعم. قال العالم إن الأنظمة الجديدة تتعلم بمفردها."
         },
         {
@@ -776,7 +776,7 @@
       "options": [
         {
           "pt": "Vi. O cientista disse que os novos sistemas aprendem sozinhos.",
-          "en": "Did you see the news about advances in artificial intelligence?",
+          "en": "I did. The scientist said the new systems learn on their own.",
           "ar": "صحيح تمامًا. التحدي هو استخدام التكنولوجيا لخير الجميع."
         },
         {
@@ -786,7 +786,7 @@
         },
         {
           "pt": "Você viu a notícia sobre os avanços da inteligência artificial?",
-          "en": "I did. The scientist said the new systems learn on their own.",
+          "en": "Did you see the news about advances in artificial intelligence?",
           "ar": "هل رأيت خبر التقدم في الذكاء الاصطناعي؟"
         }
       ],

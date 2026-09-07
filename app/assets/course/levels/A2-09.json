@@ -731,7 +731,7 @@
       "options": [
         {
           "pt": "Filho, me ajuda a preparar o jantar.",
-          "en": "Do not close the oven door. Wait fifteen minutes.",
+          "en": "Son, help me prepare dinner.",
           "ar": "انتهيت! والآن؟"
         },
         {
@@ -741,7 +741,7 @@
         },
         {
           "pt": "Pronto! E agora?",
-          "en": "Son, help me prepare dinner.",
+          "en": "Do not close the oven door. Wait fifteen minutes.",
           "ar": "يا بني، ساعدني في تحضير العشاء."
         }
       ],

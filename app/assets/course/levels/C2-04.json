@@ -776,12 +776,12 @@
       "options": [
         {
           "pt": "O laudo foi homologado, e a sentença será publicada na sexta.",
-          "en": "Perfect. Once the addendum is ratified, I will file everything by Wednesday.",
+          "en": "The expert report has been ratified, and the judgment will be published on Friday.",
           "ar": "ممتاز. بعد التصديق على الملحق، سأقدّم كل شيء حتى الأربعاء."
         },
         {
           "pt": "Perfeito. Homologado o aditivo, protocolo tudo até quarta-feira.",
-          "en": "The expert report has been ratified, and the judgment will be published on Friday.",
+          "en": "Perfect. Once the addendum is ratified, I will file everything by Wednesday.",
           "ar": "فهمت. هل يزال بإمكاننا تقديم الطعن ضمن المهلة القانونية؟"
         },
         {
@@ -809,7 +809,7 @@
       "options": [
         {
           "pt": "Perfeito. Homologado o aditivo, protocolo tudo até quarta-feira.",
-          "en": "I see. Would the appeal still lie within the legal deadline?",
+          "en": "Then I will prepare the draft appeal, citing the relevant case law.",
           "ar": "فهمت. هل يزال بإمكاننا تقديم الطعن ضمن المهلة القانونية؟"
         },
         {
@@ -819,7 +819,7 @@
         },
         {
           "pt": "Compreendo. O recurso caberia ainda dentro do prazo legal?",
-          "en": "Then I will prepare the draft appeal, citing the relevant case law.",
+          "en": "I see. Would the appeal still lie within the legal deadline?",
           "ar": "ممتاز. بعد التصديق على الملحق، سأقدّم كل شيء حتى الأربعاء."
         }
       ],
