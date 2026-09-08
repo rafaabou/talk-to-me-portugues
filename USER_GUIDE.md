@@ -1,6 +1,6 @@
 # User Guide — Talk To Me Portugues Brasileiro
 
-**Version 1.4.3** | By Mohamed Rafaa Tounekti
+**Version 1.5.0** | By Mohamed Rafaa Tounekti
 
 Learn Brazilian Portuguese from zero to fluency. 100% offline, trilingual (Portuguese + English + Arabic).
 
@@ -42,6 +42,7 @@ The home screen is your dashboard with:
 - **Progress card** — See how many lessons you've completed and your current streak
 - **Due card** — Words due for review from flashcards
 - **Quick actions** — 6 buttons: Flashcards, Search, Grammar, Favorites, Verbs, Stats
+- **Bottom Navigation** — 5 tabs: Home, Cards, Verbs, Stats, Account
 - **Quizzes** — One card per level (A1-C2), each with 10 questions
 - **Lessons** — All levels listed with lesson counts and completion status
 
@@ -148,6 +149,7 @@ When all cards are done, you see:
    - **Irregular verbs** (e.g., ser, estar, ter, ir)
 3. Use the **search bar** to find a specific verb
 4. Toggle **Audio filter** to show only verbs with full audio
+5. Use the **Common** filter to show only the 50 most frequently used verbs
 
 ### Verb Detail
 
@@ -240,6 +242,36 @@ Tap **Stats** on the home screen to see:
 
 ---
 
+## Achievements
+
+Earn 17 achievement badges as you learn:
+
+| Badge | Requirement |
+|-------|------------|
+| First Steps | Complete your first lesson |
+| Student | Complete 5 lessons |
+| Scholar | Complete 20 lessons |
+| Master | Complete 50 lessons |
+| Graduate | Complete all 72 lessons |
+| Getting Started | Complete 10 exercises |
+| Practice Makes Perfect | Complete 100 exercises |
+| Exercise Master | Complete 500 exercises |
+| Collector | Add 5 words to favorites |
+| On Fire | Study 3 days in a row |
+| Week Warrior | Study 7 days in a row |
+| Monthly Champion | Study 30 days in a row |
+| Perfect Score | Get 10/10 on any quiz |
+| Brain Trainer | Review 50 flashcards |
+| Memory Master | Review 200 flashcards |
+| Explorer | Study on 10 different days |
+| Dedicated Learner | Study on 30 different days |
+| Voice Master | Complete 10 speaking exercises |
+| Data Guardian | Export your progress for the first time |
+
+View your achievements on the Stats screen.
+
+---
+
 ## Settings
 
 Access from the app bar menu:
@@ -254,6 +286,19 @@ Access from the app bar menu:
 | **Export Progress** | File or Clipboard | Save your progress |
 | **Import Progress** | Select file | Restore progress from backup |
 | **Reset Progress** | With confirmation | Delete all progress |
+
+---
+
+## Account & Backup
+
+Access from the **Account** tab in the bottom navigation bar:
+
+- **Profile** — Your learner status (saved locally)
+- **Backup** — Export/Import/Share your progress as JSON
+- **Clear Data** — Reset all progress (with confirmation)
+- **About** — App version and privacy info
+
+Your data never leaves your device. Backup creates a local JSON file you can store anywhere.
 
 ---
 
