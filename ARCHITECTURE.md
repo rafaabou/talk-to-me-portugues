@@ -1,6 +1,6 @@
 # Architecture — Talk To Me Portugues Brasileiro
 
-**Version 1.5.0** | By Mohamed Rafaa Tounekti
+**Version 1.6.0** | By Mohamed Rafaa Tounekti
 
 ---
 
