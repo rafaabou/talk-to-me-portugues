@@ -181,6 +181,66 @@ jobs:
         rm -f /tmp/scan.tar
       if: always()
       continue-on-error: true
+  desktop:
+    name: Build Desktop Portuguese App (${{ matrix.os }})
+    needs: validate
+    strategy:
+      matrix:
+        os: [ubuntu-latest, windows-latest, macos-latest]
+      fail-fast: false
+    runs-on: ${{ matrix.os }}
+    timeout-minutes: 60
+    defaults:
+      run:
+        working-directory: app
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+    - name: Setup Flutter
+      uses: subosito/flutter-action@v2
+      with:
+        flutter-version: ${{ env.FLUTTER_VERSION }}
+        channel: stable
+        cache: false
+    - name: Install Linux desktop dependencies
+      if: matrix.os == 'ubuntu-latest'
+      run: sudo apt-get update -qq && sudo apt-get install -y -qq libgtk-3-dev cmake ninja-build clang pkg-config libgstreamer1.0-dev gstreamer1.0-plugins-good
+    - name: Enable desktop support
+      run: flutter config --enable-linux-desktop --enable-windows-desktop --enable-macos-desktop
+    - name: Get Dependencies
+      run: flutter pub get --enforce-lockfile
+    - name: Build Linux Desktop
+      if: matrix.os == 'ubuntu-latest'
+      run: flutter build linux --release
+    - name: Build Windows Desktop
+      if: matrix.os == 'windows-latest'
+      run: flutter build windows --release
+    - name: Build macOS Desktop
+      if: matrix.os == 'macos-latest'
+      run: flutter build macos --release
+    - name: Upload Linux bundle
+      if: matrix.os == 'ubuntu-latest'
+      uses: actions/upload-artifact@v4
+      with:
+        name: pt-linux-desktop
+        path: app/build/linux/x64/release/bundle/
+        retention-days: 7
+    - name: Upload Windows bundle
+      if: matrix.os == 'windows-latest'
+      uses: actions/upload-artifact@v4
+      with:
+        name: pt-windows-desktop
+        path: app/build/windows/x64/runner/Release/
+        retention-days: 7
+    - name: Upload macOS bundle
+      if: matrix.os == 'macos-latest'
+      uses: actions/upload-artifact@v4
+      with:
+        name: pt-macos-desktop
+        path: app/build/macos/Build/Products/Release/
+        retention-days: 7
   package:
     name: Package & Release Portuguese App
     needs:
@@ -260,7 +320,9 @@ jobs:
         retention-days: 7
   release:
     name: Release Portuguese App
-    needs: package
+    needs:
+    - package
+    - desktop
     if: github.event_name == 'push' && github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
     timeout-minutes: 20
@@ -276,6 +338,18 @@ jobs:
       with:
         name: release-artifacts
         path: artifacts
+    - name: Download desktop artifacts
+      uses: actions/download-artifact@v4
+      with:
+        pattern: pt-*-desktop
+        path: desktop-artifacts
+    - name: Zip desktop bundles
+      run: |
+        sudo apt-get update -qq && sudo apt-get install -y -qq zip > /dev/null 2>&1
+        (cd desktop-artifacts/pt-linux-desktop && zip -qr ../../TalkToMePT-linux.zip .)
+        (cd desktop-artifacts/pt-windows-desktop && zip -qr ../../TalkToMePT-windows.zip .)
+        (cd desktop-artifacts/pt-macos-desktop && zip -qr ../../TalkToMePT-macos.zip .)
+        ls -la TalkToMePT-*.zip
     - name: Create tag & GitHub Release
       env:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -297,9 +371,18 @@ jobs:
           artifacts/sbom-project.cdx.json \
           artifacts/sbom-project.cdx.json.sig \
           artifacts/sbom-apk.cdx.json \
+          TalkToMePT-linux.zip \
+          TalkToMePT-windows.zip \
+          TalkToMePT-macos.zip \
           --title "Talk To Me Portugues Brasileiro By Mohamed Rafaa Tounekti" \
           --notes "## Talk To Me Portugues Brasileiro v1.5.0
           By **Mohamed Rafaa Tounekti**
+
+          ### Downloads
+          - **Android**: app-release.apk
+          - **Linux**: TalkToMePT-linux.zip (unzip and run)
+          - **Windows**: TalkToMePT-windows.zip (unzip and run .exe)
+          - **macOS**: TalkToMePT-macos.zip (unzip and open .app)"
 
           ### What's New in v1.5.0
           - Bottom navigation bar (Home / Cards / Verbs / Stats / Account)
