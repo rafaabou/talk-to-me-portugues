@@ -212,10 +212,10 @@ jobs:
     - name: Get Dependencies
       run: flutter pub get --enforce-lockfile
     - name: Build Linux Desktop
-      if: matrix.os == 'ubuntu-latest'
+      if: matrix.os == 'ubuntu-latest' && (startsWith(github.ref, 'refs/tags/v') || (github.event_name == 'push' && contains(github.event.head_commit.message, '[desktop]')))
       run: flutter build linux --release
     - name: Build Linux AppImage
-      if: matrix.os == 'ubuntu-latest'
+      if: matrix.os == 'ubuntu-latest' && (startsWith(github.ref, 'refs/tags/v') || (github.event_name == 'push' && contains(github.event.head_commit.message, '[desktop]')))
       run: |
         sudo apt-get update -qq && sudo apt-get install -y -qq plocate file wget
         sudo updatedb || true
@@ -230,34 +230,34 @@ jobs:
         fastforge package --platform=linux --targets=appimage
         ls -la dist/
     - name: Upload Linux AppImage
-      if: matrix.os == 'ubuntu-latest'
+      if: matrix.os == 'ubuntu-latest' && (startsWith(github.ref, 'refs/tags/v') || (github.event_name == 'push' && contains(github.event.head_commit.message, '[desktop]')))
       uses: actions/upload-artifact@v4
       with:
         name: pt-linux-appimage
         path: app/dist/**/*.AppImage
         retention-days: 7
     - name: Build Windows Desktop
-      if: matrix.os == 'windows-2022'
+      if: matrix.os == 'windows-2022' && (startsWith(github.ref, 'refs/tags/v') || (github.event_name == 'push' && contains(github.event.head_commit.message, '[desktop]')))
       run: flutter build windows --release
     - name: Build macOS Desktop
-      if: matrix.os == 'macos-latest'
+      if: matrix.os == 'macos-latest' && (startsWith(github.ref, 'refs/tags/v') || (github.event_name == 'push' && contains(github.event.head_commit.message, '[desktop]')))
       run: flutter build macos --release
     - name: Upload Linux bundle
-      if: matrix.os == 'ubuntu-latest'
+      if: matrix.os == 'ubuntu-latest' && (startsWith(github.ref, 'refs/tags/v') || (github.event_name == 'push' && contains(github.event.head_commit.message, '[desktop]')))
       uses: actions/upload-artifact@v4
       with:
         name: pt-linux-desktop
         path: app/build/linux/x64/release/bundle/
         retention-days: 7
     - name: Upload Windows bundle
-      if: matrix.os == 'windows-2022'
+      if: matrix.os == 'windows-2022' && (startsWith(github.ref, 'refs/tags/v') || (github.event_name == 'push' && contains(github.event.head_commit.message, '[desktop]')))
       uses: actions/upload-artifact@v4
       with:
         name: pt-windows-desktop
         path: app/build/windows/x64/runner/Release/
         retention-days: 7
     - name: Upload macOS bundle
-      if: matrix.os == 'macos-latest'
+      if: matrix.os == 'macos-latest' && (startsWith(github.ref, 'refs/tags/v') || (github.event_name == 'push' && contains(github.event.head_commit.message, '[desktop]')))
       uses: actions/upload-artifact@v4
       with:
         name: pt-macos-desktop
@@ -365,15 +365,16 @@ jobs:
       with:
         pattern: pt-*
         path: desktop-artifacts
-    - name: Zip desktop bundles
+      continue-on-error: true
+    - name: Prepare desktop bundles (optional)
       run: |
         sudo apt-get update -qq && sudo apt-get install -y -qq zip > /dev/null 2>&1
-        (cd desktop-artifacts/pt-linux-desktop && zip -qr ../../TalkToMePT-linux.zip .)
-        (cd desktop-artifacts/pt-windows-desktop && zip -qr ../../TalkToMePT-windows.zip .)
-        (cd desktop-artifacts/pt-macos-desktop && zip -qr ../../TalkToMePT-macos.zip .)
-        cp $(find desktop-artifacts/pt-linux-appimage -name "*.AppImage" | head -1) ./TalkToMePT.AppImage
-        chmod +x ./TalkToMePT.AppImage
-        ls -la TalkToMePT-*.zip TalkToMePT.AppImage
+        [ -d desktop-artifacts/pt-linux-desktop ] && (cd desktop-artifacts/pt-linux-desktop && zip -qr ../../TalkToMePT-linux.zip .) || echo "no linux bundle, skipping"
+        [ -d desktop-artifacts/pt-windows-desktop ] && (cd desktop-artifacts/pt-windows-desktop && zip -qr ../../TalkToMePT-windows.zip .) || echo "no windows bundle, skipping"
+        [ -d desktop-artifacts/pt-macos-desktop ] && (cd desktop-artifacts/pt-macos-desktop && zip -qr ../../TalkToMePT-macos.zip .) || echo "no macos bundle, skipping"
+        APPIMAGE=$(find desktop-artifacts/pt-linux-appimage -name "*.AppImage" 2>/dev/null | head -1)
+        [ -n "$APPIMAGE" ] && cp "$APPIMAGE" ./TalkToMePT.AppImage && chmod +x ./TalkToMePT.AppImage || echo "no appimage, skipping"
+        ls -la TalkToMePT-*.zip TalkToMePT.AppImage 2>/dev/null || true
     - name: Create tag & GitHub Release
       env:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -389,49 +390,60 @@ jobs:
         git tag -d "$TAG" 2>/dev/null || true
         git tag -f "$TAG" "${{ github.sha }}"
         git push origin -f "$TAG"
-        gh release create "$TAG" \
-          artifacts/app/build/app/outputs/flutter-apk/app-release.apk \
-          artifacts/app-release.apk.sig \
-          artifacts/sbom-project.cdx.json \
-          artifacts/sbom-project.cdx.json.sig \
-          artifacts/sbom-apk.cdx.json \
-          TalkToMePT-linux.zip \
-          TalkToMePT-windows.zip \
-          TalkToMePT-macos.zip \
-          TalkToMePT.AppImage \
+        FILES="artifacts/app/build/app/outputs/flutter-apk/app-release.apk artifacts/app-release.apk.sig artifacts/sbom-project.cdx.json artifacts/sbom-project.cdx.json.sig artifacts/sbom-apk.cdx.json"
+        NOTES="## Talk To Me Portugues Brasileiro v1.6.0
+        By **Mohamed Rafaa Tounekti**
+
+        ### Downloads
+        - **Android**: app-release.apk"
+        if [ -f TalkToMePT.AppImage ]; then
+          FILES="$FILES TalkToMePT.AppImage"
+          NOTES="$NOTES
+        - **Linux**: TalkToMePT.AppImage (recommended - chmod +x and double-click, runs on any distro)"
+        fi
+        if [ -f TalkToMePT-linux.zip ]; then
+          FILES="$FILES TalkToMePT-linux.zip"
+          NOTES="$NOTES
+        - **Linux bundle**: TalkToMePT-linux.zip (unzip and run)"
+        fi
+        if [ -f TalkToMePT-windows.zip ]; then
+          FILES="$FILES TalkToMePT-windows.zip"
+          NOTES="$NOTES
+        - **Windows**: TalkToMePT-windows.zip (unzip and run .exe)"
+        fi
+        if [ -f TalkToMePT-macos.zip ]; then
+          FILES="$FILES TalkToMePT-macos.zip"
+          NOTES="$NOTES
+        - **macOS**: TalkToMePT-macos.zip (unzip and open .app)"
+        fi
+        NOTES="$NOTES
+
+        ### What's New in v1.6.0
+        - Desktop apps for Linux, Windows, and macOS
+        - Web audio fix - .opus playback via HTML5 Audio with correct MIME types
+        - serve_web.py ships correct MIME types for audio and fonts
+        - Version display fixed across app and landing page
+
+        ### Previous Features (v1.5.0)
+        - Bottom navigation bar (Home / Cards / Verbs / Stats / Account)
+        - 17 achievement badges with unlock tracking
+        - Common Verbs filter with color-coded type badges
+        - Enhanced verb detail screen with summary header
+        - Speaking exercises with progress tracking
+        - Account screen with export/import/share/clear data
+        - Flashcard and quiz review counters
+        - 1,834 verbs with 8 tenses
+        - Web support - run directly in your browser
+        - Trilingual display (Portuguese + English + Arabic)
+        - Flashcard review with FSRS spaced repetition
+        - Quiz mode with best score tracking
+        - Offline support
+
+        ### Technical
+        - Built with Flutter 3.29.3
+        - Signed APK with Cosign keyless signing
+        - SBOM + vulnerability scanning included
+        - CI/CD: validate -> build -> scan -> package -> release"
+        gh release create "$TAG" $FILES \
           --title "Talk To Me Portugues Brasileiro By Mohamed Rafaa Tounekti" \
-          --notes "## Talk To Me Portugues Brasileiro v1.6.0
-          By **Mohamed Rafaa Tounekti**
-
-          ### Downloads
-          - **Android**: app-release.apk
-          - **Linux**: TalkToMePT.AppImage (recommended - chmod +x and double-click, runs on any distro) or TalkToMePT-linux.zip (unzip and run)
-          - **Windows**: TalkToMePT-windows.zip (unzip and run .exe)
-          - **macOS**: TalkToMePT-macos.zip (unzip and open .app)
-
-          ### What's New in v1.6.0
-          - Desktop apps for Linux, Windows, and macOS
-          - Web audio fix - .opus playback via HTML5 Audio with correct MIME types
-          - serve_web.py ships correct MIME types for audio and fonts
-          - Version display fixed across app and landing page
-
-          ### Previous Features (v1.5.0)
-          - Bottom navigation bar (Home / Cards / Verbs / Stats / Account)
-          - 17 achievement badges with unlock tracking
-          - Common Verbs filter with color-coded type badges
-          - Enhanced verb detail screen with summary header
-          - Speaking exercises with progress tracking
-          - Account screen with export/import/share/clear data
-          - Flashcard and quiz review counters
-          - 1,834 verbs with 8 tenses
-          - Web support - run directly in your browser
-          - Trilingual display (Portuguese + English + Arabic)
-          - Flashcard review with FSRS spaced repetition
-          - Quiz mode with best score tracking
-          - Offline support
-
-          ### Technical
-          - Built with Flutter 3.29.3
-          - Signed APK with Cosign keyless signing
-          - SBOM + vulnerability scanning included
-          - CI/CD: validate -> build -> scan -> package -> release"
+          --notes "$NOTES"
