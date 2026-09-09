@@ -382,7 +382,7 @@ jobs:
           - **Android**: app-release.apk
           - **Linux**: TalkToMePT-linux.zip (unzip and run)
           - **Windows**: TalkToMePT-windows.zip (unzip and run .exe)
-          - **macOS**: TalkToMePT-macos.zip (unzip and open .app)"
+          - **macOS**: TalkToMePT-macos.zip (unzip and open .app)
 
           ### What's New in v1.6.0
           - Desktop apps for Linux, Windows, and macOS
