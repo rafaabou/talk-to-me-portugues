@@ -1,0 +1,15 @@
+display_name: Talk To Me Portugues Brasileiro
+generic_name: Language Learning
+icon: web/icons/Icon-512.png
+keywords:
+  - Portuguese
+  - Brazilian
+  - Learning
+  - Offline
+  - Language
+categories:
+  - Education
+startup_notify: true
+# fastforge auto-detects shared libraries; bundled below are extras
+# commonly missing on minimal distros.
+include: []

@@ -214,6 +214,28 @@ jobs:
     - name: Build Linux Desktop
       if: matrix.os == 'ubuntu-latest'
       run: flutter build linux --release
+    - name: Build Linux AppImage
+      if: matrix.os == 'ubuntu-latest'
+      run: |
+        sudo apt-get update -qq && sudo apt-get install -y -qq locate mlocate file wget > /dev/null 2>&1
+        sudo updatedb || true
+        mkdir -p /tmp/aibin
+        wget -q "https://github.com/AppImage/appimagetool/releases/download/continuous/appimagetool-x86_64.AppImage" -O /tmp/aibin/appimagetool
+        chmod +x /tmp/aibin/appimagetool
+        (cd /tmp/aibin && ./appimagetool --appimage-extract > /dev/null)
+        mkdir -p /tmp/airoot && ln -sf /tmp/aibin/squashfs-root/AppRun /tmp/airoot/appimagetool
+        export PATH="/tmp/airoot:$PATH"
+        dart pub global activate fastforge
+        export PATH="$PATH:$HOME/.pub-cache/bin"
+        fastforge package --platform=linux --targets=appimage
+        ls -la dist/
+    - name: Upload Linux AppImage
+      if: matrix.os == 'ubuntu-latest'
+      uses: actions/upload-artifact@v4
+      with:
+        name: pt-linux-appimage
+        path: app/dist/*.AppImage
+        retention-days: 7
     - name: Build Windows Desktop
       if: matrix.os == 'windows-2022'
       run: flutter build windows --release
@@ -341,7 +363,7 @@ jobs:
     - name: Download desktop artifacts
       uses: actions/download-artifact@v4
       with:
-        pattern: pt-*-desktop
+        pattern: pt-*
         path: desktop-artifacts
     - name: Zip desktop bundles
       run: |
@@ -349,7 +371,9 @@ jobs:
         (cd desktop-artifacts/pt-linux-desktop && zip -qr ../../TalkToMePT-linux.zip .)
         (cd desktop-artifacts/pt-windows-desktop && zip -qr ../../TalkToMePT-windows.zip .)
         (cd desktop-artifacts/pt-macos-desktop && zip -qr ../../TalkToMePT-macos.zip .)
-        ls -la TalkToMePT-*.zip
+        cp desktop-artifacts/pt-linux-appimage/*.AppImage ./TalkToMePT.AppImage
+        chmod +x ./TalkToMePT.AppImage
+        ls -la TalkToMePT-*.zip TalkToMePT.AppImage
     - name: Create tag & GitHub Release
       env:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -374,13 +398,14 @@ jobs:
           TalkToMePT-linux.zip \
           TalkToMePT-windows.zip \
           TalkToMePT-macos.zip \
+          TalkToMePT.AppImage \
           --title "Talk To Me Portugues Brasileiro By Mohamed Rafaa Tounekti" \
           --notes "## Talk To Me Portugues Brasileiro v1.6.0
           By **Mohamed Rafaa Tounekti**
 
           ### Downloads
           - **Android**: app-release.apk
-          - **Linux**: TalkToMePT-linux.zip (unzip and run)
+          - **Linux**: TalkToMePT.AppImage (recommended - chmod +x and double-click, runs on any distro) or TalkToMePT-linux.zip (unzip and run)
           - **Windows**: TalkToMePT-windows.zip (unzip and run .exe)
           - **macOS**: TalkToMePT-macos.zip (unzip and open .app)
 
