@@ -234,7 +234,7 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: pt-linux-appimage
-        path: app/dist/*.AppImage
+        path: app/dist/**/*.AppImage
         retention-days: 7
     - name: Build Windows Desktop
       if: matrix.os == 'windows-2022'
@@ -371,7 +371,7 @@ jobs:
         (cd desktop-artifacts/pt-linux-desktop && zip -qr ../../TalkToMePT-linux.zip .)
         (cd desktop-artifacts/pt-windows-desktop && zip -qr ../../TalkToMePT-windows.zip .)
         (cd desktop-artifacts/pt-macos-desktop && zip -qr ../../TalkToMePT-macos.zip .)
-        cp desktop-artifacts/pt-linux-appimage/*.AppImage ./TalkToMePT.AppImage
+        cp $(find desktop-artifacts/pt-linux-appimage -name "*.AppImage" | head -1) ./TalkToMePT.AppImage
         chmod +x ./TalkToMePT.AppImage
         ls -la TalkToMePT-*.zip TalkToMePT.AppImage
     - name: Create tag & GitHub Release
