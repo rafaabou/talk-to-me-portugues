@@ -532,8 +532,8 @@
       "options": [
         {
           "pt": "Claro! O que eu faço?",
-          "en": "Got it. I will set the table.",
-          "ar": "فهمت. سأجهز المائدة."
+          "en": "Of course! What do I do?",
+          "ar": "بالتأكيد! ماذا أفعل؟"
         },
         {
           "pt": "Filho, me ajuda a preparar o jantar.",
@@ -542,8 +542,8 @@
         },
         {
           "pt": "Entendido. Vou pôr a mesa.",
-          "en": "Of course! What do I do?",
-          "ar": "بالتأكيد! ماذا أفعل؟"
+          "en": "Got it. I will set the table.",
+          "ar": "فهمت. سأجهز المائدة."
         }
       ],
       "answer": "Filho, me ajuda a preparar o jantar.",
@@ -565,17 +565,17 @@
       "options": [
         {
           "pt": "Filho, me ajuda a preparar o jantar.",
-          "en": "Wash the tomatoes and cut the onion, please.",
-          "ar": "بالتأكيد! ماذا أفعل؟"
+          "en": "Son, help me prepare dinner.",
+          "ar": "يا بني، ساعدني في تحضير العشاء."
         },
         {
           "pt": "Claro! O que eu faço?",
           "en": "Of course! What do I do?",
-          "ar": "يا بني، ساعدني في تحضير العشاء."
+          "ar": "بالتأكيد! ماذا أفعل؟"
         },
         {
           "pt": "Lave os tomates e corte a cebola, por favor.",
-          "en": "Son, help me prepare dinner.",
+          "en": "Wash the tomatoes and cut the onion, please.",
           "ar": "اغسل الطماطم وقطّع البصل، من فضلك."
         }
       ],
@@ -732,17 +732,17 @@
         {
           "pt": "Filho, me ajuda a preparar o jantar.",
           "en": "Son, help me prepare dinner.",
-          "ar": "انتهيت! والآن؟"
+          "ar": "يا بني، ساعدني في تحضير العشاء."
         },
         {
           "pt": "Não feche a porta do forno. Espere quinze minutos.",
-          "en": "Done! And now?",
+          "en": "Do not close the oven door. Wait fifteen minutes.",
           "ar": "لا تغلق باب الفرن. انتظر خمس عشرة دقيقة."
         },
         {
           "pt": "Pronto! E agora?",
-          "en": "Do not close the oven door. Wait fifteen minutes.",
-          "ar": "يا بني، ساعدني في تحضير العشاء."
+          "en": "Done! And now?",
+          "ar": "انتهيت! والآن؟"
         }
       ],
       "answer": "Filho, me ajuda a preparar o jantar.",
@@ -765,17 +765,17 @@
         {
           "pt": "Claro! O que eu faço?",
           "en": "Of course! What do I do?",
-          "ar": "فهمت. سأجهز المائدة."
+          "ar": "بالتأكيد! ماذا أفعل؟"
         },
         {
           "pt": "Não feche a porta do forno. Espere quinze minutos.",
           "en": "Do not close the oven door. Wait fifteen minutes.",
-          "ar": "بالتأكيد! ماذا أفعل؟"
+          "ar": "لا تغلق باب الفرن. انتظر خمس عشرة دقيقة."
         },
         {
           "pt": "Entendido. Vou pôr a mesa.",
           "en": "Got it. I will set the table.",
-          "ar": "لا تغلق باب الفرن. انتظر خمس عشرة دقيقة."
+          "ar": "فهمت. سأجهز المائدة."
         }
       ],
       "answer": "Claro! O que eu faço?",
@@ -833,18 +833,18 @@
       "options": [
         {
           "pt": "Lave os tomates e corte a cebola, por favor.",
-          "en": "Lave os tomates e corte a cebola, por favor.",
-          "ar": "Lave os tomates e corte a cebola, por favor."
+          "en": "Wash the tomatoes and cut the onion, please.",
+          "ar": "اغسل الطماطم وقطّع البصل، من فضلك."
         },
         {
           "pt": "Filho, me ajuda a preparar o jantar.",
-          "en": "Filho, me ajuda a preparar o jantar.",
-          "ar": "Filho, me ajuda a preparar o jantar."
+          "en": "Son, help me prepare dinner.",
+          "ar": "يا بني، ساعدني في تحضير العشاء."
         },
         {
           "pt": "Claro! O que eu faço?",
-          "en": "Claro! O que eu faço?",
-          "ar": "Claro! O que eu faço?"
+          "en": "Of course! What do I do?",
+          "ar": "بالتأكيد! ماذا أفعل؟"
         }
       ],
       "answer": "Filho, me ajuda a preparar o jantar.",
@@ -866,18 +866,18 @@
       "options": [
         {
           "pt": "Claro! O que eu faço?",
-          "en": "Claro! O que eu faço?",
-          "ar": "Claro! O que eu faço?"
+          "en": "Of course! What do I do?",
+          "ar": "بالتأكيد! ماذا أفعل؟"
         },
         {
           "pt": "Filho, me ajuda a preparar o jantar.",
-          "en": "Filho, me ajuda a preparar o jantar.",
-          "ar": "Filho, me ajuda a preparar o jantar."
+          "en": "Son, help me prepare dinner.",
+          "ar": "يا بني، ساعدني في تحضير العشاء."
         },
         {
           "pt": "Não feche a porta do forno. Espere quinze minutos.",
-          "en": "Não feche a porta do forno. Espere quinze minutos.",
-          "ar": "Não feche a porta do forno. Espere quinze minutos."
+          "en": "Do not close the oven door. Wait fifteen minutes.",
+          "ar": "لا تغلق باب الفرن. انتظر خمس عشرة دقيقة."
         }
       ],
       "answer": "Claro! O que eu faço?",

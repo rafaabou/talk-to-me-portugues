@@ -487,12 +487,12 @@
         {
           "pt": "Eu também. Eu estou um pouco cansado hoje.",
           "en": "Me too. I'm a little tired today.",
-          "ar": "مرحبًا، أنا جواو. أنا مهندس."
+          "ar": "وأنا أيضًا. أنا متعب قليلًا اليوم."
         },
         {
           "pt": "Olá, eu sou o João. Eu sou engenheiro.",
           "en": "Hello, I'm João. I'm an engineer.",
-          "ar": "وأنا أيضًا. أنا متعب قليلًا اليوم."
+          "ar": "مرحبًا، أنا جواو. أنا مهندس."
         },
         {
           "pt": "Muito prazer! Eu estou muito feliz de trabalhar com você.",
@@ -520,17 +520,17 @@
         {
           "pt": "Eu também. Eu estou um pouco cansado hoje.",
           "en": "Me too. I'm a little tired today.",
-          "ar": "مرحبًا، أنا جواو. أنا مهندس."
+          "ar": "وأنا أيضًا. أنا متعب قليلًا اليوم."
         },
         {
           "pt": "Olá, eu sou o João. Eu sou engenheiro.",
           "en": "Hello, I'm João. I'm an engineer.",
-          "ar": "سررت بلقائك! أنا سعيدة جدًا بالعمل معك."
+          "ar": "مرحبًا، أنا جواو. أنا مهندس."
         },
         {
           "pt": "Muito prazer! Eu estou muito feliz de trabalhar com você.",
           "en": "Nice to meet you! I'm very happy to work with you.",
-          "ar": "وأنا أيضًا. أنا متعب قليلًا اليوم."
+          "ar": "سررت بلقائك! أنا سعيدة جدًا بالعمل معك."
         }
       ],
       "answer": "Muito prazer! Eu estou muito feliz de trabalhar com você.",
@@ -690,18 +690,18 @@
       "options": [
         {
           "pt": "Muito prazer! Eu estou muito feliz de trabalhar com você.",
-          "en": "Rest on the weekend. You are very dedicated.",
+          "en": "Nice to meet you! I'm very happy to work with you.",
           "ar": "سررت بلقائك! أنا سعيدة جدًا بالعمل معك."
         },
         {
           "pt": "Descansa no fim de semana. Você é muito dedicado.",
-          "en": "Nice to meet you! I'm very happy to work with you.",
-          "ar": "مرحبًا، أنا جواو. أنا مهندس."
+          "en": "Rest on the weekend. You are very dedicated.",
+          "ar": "استرح في عطلة نهاية الأسبوع. أنت مخلص جدًا."
         },
         {
           "pt": "Olá, eu sou o João. Eu sou engenheiro.",
           "en": "Hello, I'm João. I'm an engineer.",
-          "ar": "استرح في عطلة نهاية الأسبوع. أنت مخلص جدًا."
+          "ar": "مرحبًا، أنا جواو. أنا مهندس."
         }
       ],
       "answer": "Olá, eu sou o João. Eu sou engenheiro.",
@@ -723,18 +723,18 @@
       "options": [
         {
           "pt": "Descansa no fim de semana. Você é muito dedicado.",
-          "en": "Hello, I'm João. I'm an engineer.",
-          "ar": "سررت بلقائك! أنا سعيدة جدًا بالعمل معك."
-        },
-        {
-          "pt": "Olá, eu sou o João. Eu sou engenheiro.",
           "en": "Rest on the weekend. You are very dedicated.",
           "ar": "استرح في عطلة نهاية الأسبوع. أنت مخلص جدًا."
         },
         {
+          "pt": "Olá, eu sou o João. Eu sou engenheiro.",
+          "en": "Hello, I'm João. I'm an engineer.",
+          "ar": "مرحبًا، أنا جواو. أنا مهندس."
+        },
+        {
           "pt": "Muito prazer! Eu estou muito feliz de trabalhar com você.",
           "en": "Nice to meet you! I'm very happy to work with you.",
-          "ar": "مرحبًا، أنا جواو. أنا مهندس."
+          "ar": "سررت بلقائك! أنا سعيدة جدًا بالعمل معك."
         }
       ],
       "answer": "Muito prazer! Eu estou muito feliz de trabalhar com você.",
@@ -792,18 +792,18 @@
       "options": [
         {
           "pt": "Olá, eu sou o João. Eu sou engenheiro.",
-          "en": "Olá, eu sou o João. Eu sou engenheiro.",
-          "ar": "Olá, eu sou o João. Eu sou engenheiro."
+          "en": "Hello, I'm João. I'm an engineer.",
+          "ar": "مرحبًا، أنا جواو. أنا مهندس."
         },
         {
           "pt": "Muito prazer! Eu estou muito feliz de trabalhar com você.",
-          "en": "Muito prazer! Eu estou muito feliz de trabalhar com você.",
-          "ar": "Muito prazer! Eu estou muito feliz de trabalhar com você."
+          "en": "Nice to meet you! I'm very happy to work with you.",
+          "ar": "سررت بلقائك! أنا سعيدة جدًا بالعمل معك."
         },
         {
           "pt": "Descansa no fim de semana. Você é muito dedicado.",
-          "en": "Descansa no fim de semana. Você é muito dedicado.",
-          "ar": "Descansa no fim de semana. Você é muito dedicado."
+          "en": "Rest on the weekend. You are very dedicated.",
+          "ar": "استرح في عطلة نهاية الأسبوع. أنت مخلص جدًا."
         }
       ],
       "answer": "Olá, eu sou o João. Eu sou engenheiro.",
@@ -825,18 +825,18 @@
       "options": [
         {
           "pt": "Olá, eu sou o João. Eu sou engenheiro.",
-          "en": "Olá, eu sou o João. Eu sou engenheiro.",
-          "ar": "Olá, eu sou o João. Eu sou engenheiro."
+          "en": "Hello, I'm João. I'm an engineer.",
+          "ar": "مرحبًا، أنا جواو. أنا مهندس."
         },
         {
           "pt": "Eu também. Eu estou um pouco cansado hoje.",
-          "en": "Eu também. Eu estou um pouco cansado hoje.",
-          "ar": "Eu também. Eu estou um pouco cansado hoje."
+          "en": "Me too. I'm a little tired today.",
+          "ar": "وأنا أيضًا. أنا متعب قليلًا اليوم."
         },
         {
           "pt": "Muito prazer! Eu estou muito feliz de trabalhar com você.",
-          "en": "Muito prazer! Eu estou muito feliz de trabalhar com você.",
-          "ar": "Muito prazer! Eu estou muito feliz de trabalhar com você."
+          "en": "Nice to meet you! I'm very happy to work with you.",
+          "ar": "سررت بلقائك! أنا سعيدة جدًا بالعمل معك."
         }
       ],
       "answer": "Muito prazer! Eu estou muito feliz de trabalhar com você.",

@@ -542,17 +542,17 @@
         {
           "pt": "Você já leu 'Dom Casmurro', do Machado de Assis?",
           "en": "Have you read 'Dom Casmurro' by Machado de Assis?",
-          "ar": "نعم قرأتها. أعتقد أنها من أعظم الأعمال في الأدب البرازيلي."
+          "ar": "هل قرأت رواية «دوم كاسمورو» لماشادو دي أسيس؟"
         },
         {
           "pt": "Ótima ideia! Eu adoro ver as exposições novas.",
-          "en": "I did. I think it's one of the greatest works of Brazilian literature.",
+          "en": "Great idea! I love seeing new exhibitions.",
           "ar": "فكرة رائعة! أحب مشاهدة المعارض الجديدة."
         },
         {
           "pt": "Li sim. Acho que é uma das maiores obras da literatura brasileira.",
-          "en": "Great idea! I love seeing new exhibitions.",
-          "ar": "هل قرأت رواية «دوم كاسمورو» لماشادو دي أسيس؟"
+          "en": "I did. I think it's one of the greatest works of Brazilian literature.",
+          "ar": "نعم قرأتها. أعتقد أنها من أعظم الأعمال في الأدب البرازيلي."
         }
       ],
       "answer": "Você já leu 'Dom Casmurro', do Machado de Assis?",
@@ -783,18 +783,18 @@
       "options": [
         {
           "pt": "Você já leu 'Dom Casmurro', do Machado de Assis?",
+          "en": "Have you read 'Dom Casmurro' by Machado de Assis?",
+          "ar": "هل قرأت رواية «دوم كاسمورو» لماشادو دي أسيس؟"
+        },
+        {
+          "pt": "Com certeza. O enredo te prende do começo ao fim.",
           "en": "Absolutely. The plot grabs you from start to finish.",
           "ar": "بالتأكيد. تجذبك الحبكة من البداية إلى النهاية."
         },
         {
-          "pt": "Com certeza. O enredo te prende do começo ao fim.",
-          "en": "Have you read 'Dom Casmurro' by Machado de Assis?",
-          "ar": "نعم قرأتها. أعتقد أنها من أعظم الأعمال في الأدب البرازيلي."
-        },
-        {
           "pt": "Li sim. Acho que é uma das maiores obras da literatura brasileira.",
           "en": "I did. I think it's one of the greatest works of Brazilian literature.",
-          "ar": "هل قرأت رواية «دوم كاسمورو» لماشادو دي أسيس؟"
+          "ar": "نعم قرأتها. أعتقد أنها من أعظم الأعمال في الأدب البرازيلي."
         }
       ],
       "answer": "Li sim. Acho que é uma das maiores obras da literatura brasileira.",
@@ -852,18 +852,18 @@
       "options": [
         {
           "pt": "Li sim. Acho que é uma das maiores obras da literatura brasileira.",
-          "en": "Li sim. Acho que é uma das maiores obras da literatura brasileira.",
-          "ar": "Li sim. Acho que é uma das maiores obras da literatura brasileira."
+          "en": "I did. I think it's one of the greatest works of Brazilian literature.",
+          "ar": "نعم قرأتها. أعتقد أنها من أعظم الأعمال في الأدب البرازيلي."
         },
         {
           "pt": "Ótima ideia! Eu adoro ver as exposições novas.",
-          "en": "Ótima ideia! Eu adoro ver as exposições novas.",
-          "ar": "Ótima ideia! Eu adoro ver as exposições novas."
+          "en": "Great idea! I love seeing new exhibitions.",
+          "ar": "فكرة رائعة! أحب مشاهدة المعارض الجديدة."
         },
         {
           "pt": "Você já leu 'Dom Casmurro', do Machado de Assis?",
-          "en": "Você já leu 'Dom Casmurro', do Machado de Assis?",
-          "ar": "Você já leu 'Dom Casmurro', do Machado de Assis?"
+          "en": "Have you read 'Dom Casmurro' by Machado de Assis?",
+          "ar": "هل قرأت رواية «دوم كاسمورو» لماشادو دي أسيس؟"
         }
       ],
       "answer": "Você já leu 'Dom Casmurro', do Machado de Assis?",
@@ -885,18 +885,18 @@
       "options": [
         {
           "pt": "Com certeza. O enredo te prende do começo ao fim.",
-          "en": "Com certeza. O enredo te prende do começo ao fim.",
-          "ar": "Com certeza. O enredo te prende do começo ao fim."
+          "en": "Absolutely. The plot grabs you from start to finish.",
+          "ar": "بالتأكيد. تجذبك الحبكة من البداية إلى النهاية."
         },
         {
           "pt": "Li sim. Acho que é uma das maiores obras da literatura brasileira.",
-          "en": "Li sim. Acho que é uma das maiores obras da literatura brasileira.",
-          "ar": "Li sim. Acho que é uma das maiores obras da literatura brasileira."
+          "en": "I did. I think it's one of the greatest works of Brazilian literature.",
+          "ar": "نعم قرأتها. أعتقد أنها من أعظم الأعمال في الأدب البرازيلي."
         },
         {
           "pt": "O personagem Bentinho é fascinante, não acha?",
-          "en": "O personagem Bentinho é fascinante, não acha?",
-          "ar": "O personagem Bentinho é fascinante, não acha?"
+          "en": "The character Bentinho is fascinating, don't you think?",
+          "ar": "شخصية بينتينيو رائعة، أليس كذلك؟"
         }
       ],
       "answer": "Li sim. Acho que é uma das maiores obras da literatura brasileira.",

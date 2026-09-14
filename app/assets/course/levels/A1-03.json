@@ -499,18 +499,18 @@
       "options": [
         {
           "pt": "Aqui estão dez reais.",
-          "en": "And the change is three reais. Thank you!",
-          "ar": "صباح الخير! فنجان قهوة، من فضلك."
+          "en": "Here is ten reais.",
+          "ar": "ها هي عشرة ريالات."
         },
         {
           "pt": "Bom dia! Um café, por favor.",
           "en": "Good morning! A coffee, please.",
-          "ar": "والباقي ثلاثة ريالات. شكرًا!"
+          "ar": "صباح الخير! فنجان قهوة، من فضلك."
         },
         {
           "pt": "E o troco são três reais. Obrigado!",
-          "en": "Here is ten reais.",
-          "ar": "ها هي عشرة ريالات."
+          "en": "And the change is three reais. Thank you!",
+          "ar": "والباقي ثلاثة ريالات. شكرًا!"
         }
       ],
       "answer": "Bom dia! Um café, por favor.",
@@ -532,18 +532,18 @@
       "options": [
         {
           "pt": "E o troco são três reais. Obrigado!",
-          "en": "Good morning! A coffee, please.",
-          "ar": "صباح الخير! سبعة ريالات."
-        },
-        {
-          "pt": "Bom dia! Um café, por favor.",
           "en": "And the change is three reais. Thank you!",
           "ar": "والباقي ثلاثة ريالات. شكرًا!"
         },
         {
+          "pt": "Bom dia! Um café, por favor.",
+          "en": "Good morning! A coffee, please.",
+          "ar": "صباح الخير! فنجان قهوة، من فضلك."
+        },
+        {
           "pt": "Bom dia! São sete reais.",
           "en": "Good morning! It's seven reais.",
-          "ar": "صباح الخير! فنجان قهوة، من فضلك."
+          "ar": "صباح الخير! سبعة ريالات."
         }
       ],
       "answer": "Bom dia! São sete reais.",
@@ -727,12 +727,12 @@
         {
           "pt": "Aqui estão dez reais.",
           "en": "Here is ten reais.",
-          "ar": "صباح الخير! سبعة ريالات."
+          "ar": "ها هي عشرة ريالات."
         },
         {
           "pt": "Bom dia! São sete reais.",
           "en": "Good morning! It's seven reais.",
-          "ar": "ها هي عشرة ريالات."
+          "ar": "صباح الخير! سبعة ريالات."
         },
         {
           "pt": "Bom dia! Um café, por favor.",
@@ -795,18 +795,18 @@
       "options": [
         {
           "pt": "Bom dia! Um café, por favor.",
-          "en": "Bom dia! Um café, por favor.",
-          "ar": "Bom dia! Um café, por favor."
+          "en": "Good morning! A coffee, please.",
+          "ar": "صباح الخير! فنجان قهوة، من فضلك."
         },
         {
           "pt": "E o troco são três reais. Obrigado!",
-          "en": "E o troco são três reais. Obrigado!",
-          "ar": "E o troco são três reais. Obrigado!"
+          "en": "And the change is three reais. Thank you!",
+          "ar": "والباقي ثلاثة ريالات. شكرًا!"
         },
         {
           "pt": "De nada. Até logo!",
-          "en": "De nada. Até logo!",
-          "ar": "De nada. Até logo!"
+          "en": "You're welcome. See you later!",
+          "ar": "عفوًا. أراك لاحقًا!"
         }
       ],
       "answer": "Bom dia! Um café, por favor.",
@@ -828,18 +828,18 @@
       "options": [
         {
           "pt": "Aqui estão dez reais.",
-          "en": "Aqui estão dez reais.",
-          "ar": "Aqui estão dez reais."
+          "en": "Here is ten reais.",
+          "ar": "ها هي عشرة ريالات."
         },
         {
           "pt": "De nada. Até logo!",
-          "en": "De nada. Até logo!",
-          "ar": "De nada. Até logo!"
+          "en": "You're welcome. See you later!",
+          "ar": "عفوًا. أراك لاحقًا!"
         },
         {
           "pt": "Bom dia! São sete reais.",
-          "en": "Bom dia! São sete reais.",
-          "ar": "Bom dia! São sete reais."
+          "en": "Good morning! It's seven reais.",
+          "ar": "صباح الخير! سبعة ريالات."
         }
       ],
       "answer": "Bom dia! São sete reais.",

@@ -537,8 +537,8 @@
       "options": [
         {
           "pt": "Embora o gráfico mostre uma tendência, a tabela revela dispersão alta.",
-          "en": "Yes, because reproducibility depends on that control. Therefore, document everything.",
-          "ar": "نعم، لأن قابلية إعادة الإنتاج تعتمد على هذا الضبط. لذلك، وثّق كل شيء."
+          "en": "Although the chart shows a trend, the table reveals high dispersion.",
+          "ar": "رغم أن الرسم البياني يُظهر اتجاهًا، يكشف الجدول تبعثرًا كبيرًا."
         },
         {
           "pt": "Verificou-se que a temperatura interferiu nos resultados.",
@@ -547,8 +547,8 @@
         },
         {
           "pt": "Sim, pois a reprodutibilidade depende desse controle. Portanto, documente tudo.",
-          "en": "Although the chart shows a trend, the table reveals high dispersion.",
-          "ar": "رغم أن الرسم البياني يُظهر اتجاهًا، يكشف الجدول تبعثرًا كبيرًا."
+          "en": "Yes, because reproducibility depends on that control. Therefore, document everything.",
+          "ar": "نعم، لأن قابلية إعادة الإنتاج تعتمد على هذا الضبط. لذلك، وثّق كل شيء."
         }
       ],
       "answer": "Verificou-se que a temperatura interferiu nos resultados.",
@@ -576,12 +576,12 @@
         {
           "pt": "Devo registrar esse efeito no relatório técnico?",
           "en": "Should I record this effect in the technical report?",
-          "ar": "نظرًا لأن التحكيم ما زال معلقًا، لا يمكننا النشر بعد."
+          "ar": "هل يجب أن أسجل هذا الأثر في التقرير التقني؟"
         },
         {
           "pt": "Uma vez que falta a revisão por pares, ainda não podemos publicar.",
           "en": "Since peer review is still pending, we cannot publish yet.",
-          "ar": "هل يجب أن أسجل هذا الأثر في التقرير التقني؟"
+          "ar": "نظرًا لأن التحكيم ما زال معلقًا، لا يمكننا النشر بعد."
         }
       ],
       "answer": "Devo registrar esse efeito no relatório técnico?",
@@ -736,18 +736,18 @@
       "options": [
         {
           "pt": "Embora o gráfico mostre uma tendência, a tabela revela dispersão alta.",
+          "en": "Although the chart shows a trend, the table reveals high dispersion.",
+          "ar": "رغم أن الرسم البياني يُظهر اتجاهًا، يكشف الجدول تبعثرًا كبيرًا."
+        },
+        {
+          "pt": "Devo registrar esse efeito no relatório técnico?",
           "en": "Should I record this effect in the technical report?",
           "ar": "هل يجب أن أسجل هذا الأثر في التقرير التقني؟"
         },
         {
-          "pt": "Devo registrar esse efeito no relatório técnico?",
-          "en": "Although the chart shows a trend, the table reveals high dispersion.",
-          "ar": "تأكد أن درجة الحرارة أثرت في النتائج."
-        },
-        {
           "pt": "Verificou-se que a temperatura interferiu nos resultados.",
           "en": "It was verified that the temperature interfered with the results.",
-          "ar": "رغم أن الرسم البياني يُظهر اتجاهًا، يكشف الجدول تبعثرًا كبيرًا."
+          "ar": "تأكد أن درجة الحرارة أثرت في النتائج."
         }
       ],
       "answer": "Verificou-se que a temperatura interferiu nos resultados.",
@@ -769,13 +769,13 @@
       "options": [
         {
           "pt": "Sim, pois a reprodutibilidade depende desse controle. Portanto, documente tudo.",
-          "en": "Exactly. It should be concluded that the hypothesis was partially confirmed.",
-          "ar": "بالضبط. تجدر خلاصة القول إن الفرضية تأكدت جزئيًا."
+          "en": "Yes, because reproducibility depends on that control. Therefore, document everything.",
+          "ar": "نعم، لأن قابلية إعادة الإنتاج تعتمد على هذا الضبط. لذلك، وثّق كل شيء."
         },
         {
           "pt": "Exato. Cabe concluir que a hipótese foi parcialmente confirmada.",
-          "en": "Yes, because reproducibility depends on that control. Therefore, document everything.",
-          "ar": "نعم، لأن قابلية إعادة الإنتاج تعتمد على هذا الضبط. لذلك، وثّق كل شيء."
+          "en": "Exactly. It should be concluded that the hypothesis was partially confirmed.",
+          "ar": "بالضبط. تجدر خلاصة القول إن الفرضية تأكدت جزئيًا."
         },
         {
           "pt": "Devo registrar esse efeito no relatório técnico?",
@@ -838,18 +838,18 @@
       "options": [
         {
           "pt": "Sim, pois a reprodutibilidade depende desse controle. Portanto, documente tudo.",
-          "en": "Sim, pois a reprodutibilidade depende desse controle. Portanto, documente tudo.",
-          "ar": "Sim, pois a reprodutibilidade depende desse controle. Portanto, documente tudo."
+          "en": "Yes, because reproducibility depends on that control. Therefore, document everything.",
+          "ar": "نعم، لأن قابلية إعادة الإنتاج تعتمد على هذا الضبط. لذلك، وثّق كل شيء."
         },
         {
           "pt": "Verificou-se que a temperatura interferiu nos resultados.",
-          "en": "Verificou-se que a temperatura interferiu nos resultados.",
-          "ar": "Verificou-se que a temperatura interferiu nos resultados."
+          "en": "It was verified that the temperature interfered with the results.",
+          "ar": "تأكد أن درجة الحرارة أثرت في النتائج."
         },
         {
           "pt": "Uma vez que falta a revisão por pares, ainda não podemos publicar.",
-          "en": "Uma vez que falta a revisão por pares, ainda não podemos publicar.",
-          "ar": "Uma vez que falta a revisão por pares, ainda não podemos publicar."
+          "en": "Since peer review is still pending, we cannot publish yet.",
+          "ar": "نظرًا لأن التحكيم ما زال معلقًا، لا يمكننا النشر بعد."
         }
       ],
       "answer": "Verificou-se que a temperatura interferiu nos resultados.",
@@ -871,18 +871,18 @@
       "options": [
         {
           "pt": "Uma vez que falta a revisão por pares, ainda não podemos publicar.",
-          "en": "Uma vez que falta a revisão por pares, ainda não podemos publicar.",
-          "ar": "Uma vez que falta a revisão por pares, ainda não podemos publicar."
+          "en": "Since peer review is still pending, we cannot publish yet.",
+          "ar": "نظرًا لأن التحكيم ما زال معلقًا، لا يمكننا النشر بعد."
         },
         {
           "pt": "Devo registrar esse efeito no relatório técnico?",
-          "en": "Devo registrar esse efeito no relatório técnico?",
-          "ar": "Devo registrar esse efeito no relatório técnico?"
+          "en": "Should I record this effect in the technical report?",
+          "ar": "هل يجب أن أسجل هذا الأثر في التقرير التقني؟"
         },
         {
           "pt": "Exato. Cabe concluir que a hipótese foi parcialmente confirmada.",
-          "en": "Exato. Cabe concluir que a hipótese foi parcialmente confirmada.",
-          "ar": "Exato. Cabe concluir que a hipótese foi parcialmente confirmada."
+          "en": "Exactly. It should be concluded that the hypothesis was partially confirmed.",
+          "ar": "بالضبط. تجدر خلاصة القول إن الفرضية تأكدت جزئيًا."
         }
       ],
       "answer": "Devo registrar esse efeito no relatório técnico?",

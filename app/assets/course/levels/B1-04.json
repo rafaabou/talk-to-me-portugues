@@ -500,12 +500,12 @@
         {
           "pt": "Você viu as notícias hoje?",
           "en": "Did you watch the news today?",
-          "ar": "لا، لم أجد وقتاً بعد."
+          "ar": "هل شاهدت الأخبار اليوم؟"
         },
         {
           "pt": "Não, ainda não tive tempo.",
           "en": "No, I haven't had time yet.",
-          "ar": "هل شاهدت الأخبار اليوم؟"
+          "ar": "لا، لم أجد وقتاً بعد."
         }
       ],
       "answer": "Você viu as notícias hoje?",
@@ -528,17 +528,17 @@
         {
           "pt": "Sim, a notícia foi publicada esta manhã.",
           "en": "Yes, the news was published this morning.",
-          "ar": "لا، لم أجد وقتاً بعد."
+          "ar": "نعم، نُشر الخبر هذا الصباح."
         },
         {
           "pt": "Não, ainda não tive tempo.",
           "en": "No, I haven't had time yet.",
-          "ar": "حقاً؟ هل نُشر في الجريدة؟"
+          "ar": "لا، لم أجد وقتاً بعد."
         },
         {
           "pt": "Sério? Foi divulgado no jornal?",
           "en": "Really? Was it reported in the newspaper?",
-          "ar": "نعم، نُشر الخبر هذا الصباح."
+          "ar": "حقاً؟ هل نُشر في الجريدة؟"
         }
       ],
       "answer": "Não, ainda não tive tempo.",
@@ -683,18 +683,18 @@
       "options": [
         {
           "pt": "Não, ainda não tive tempo.",
-          "en": "Yes, the news was published this morning.",
+          "en": "No, I haven't had time yet.",
           "ar": "لا، لم أجد وقتاً بعد."
         },
         {
           "pt": "Sim, a notícia foi publicada esta manhã.",
-          "en": "No, I haven't had time yet.",
-          "ar": "هل شاهدت الأخبار اليوم؟"
+          "en": "Yes, the news was published this morning.",
+          "ar": "نعم، نُشر الخبر هذا الصباح."
         },
         {
           "pt": "Você viu as notícias hoje?",
           "en": "Did you watch the news today?",
-          "ar": "نعم، نُشر الخبر هذا الصباح."
+          "ar": "هل شاهدت الأخبار اليوم؟"
         }
       ],
       "answer": "Você viu as notícias hoje?",
@@ -717,17 +717,17 @@
         {
           "pt": "Não, ainda não tive tempo.",
           "en": "No, I haven't had time yet.",
-          "ar": "وقع حادث كبير على الطريق السريع."
+          "ar": "لا، لم أجد وقتاً بعد."
         },
         {
           "pt": "Você viu as notícias hoje?",
           "en": "Did you watch the news today?",
-          "ar": "لا، لم أجد وقتاً بعد."
+          "ar": "هل شاهدت الأخبار اليوم؟"
         },
         {
           "pt": "Houve um grande acidente na rodovia.",
           "en": "There was a big accident on the highway.",
-          "ar": "هل شاهدت الأخبار اليوم؟"
+          "ar": "وقع حادث كبير على الطريق السريع."
         }
       ],
       "answer": "Não, ainda não tive tempo.",
@@ -785,18 +785,18 @@
       "options": [
         {
           "pt": "Preciso verificar se é verídico.",
-          "en": "Preciso verificar se é verídico.",
-          "ar": "Preciso verificar se é verídico."
+          "en": "I need to check if it is true.",
+          "ar": "أحتاج إلى التحقق من صحة الخبر."
         },
         {
           "pt": "Houve um grande acidente na rodovia.",
-          "en": "Houve um grande acidente na rodovia.",
-          "ar": "Houve um grande acidente na rodovia."
+          "en": "There was a big accident on the highway.",
+          "ar": "وقع حادث كبير على الطريق السريع."
         },
         {
           "pt": "Você viu as notícias hoje?",
-          "en": "Você viu as notícias hoje?",
-          "ar": "Você viu as notícias hoje?"
+          "en": "Did you watch the news today?",
+          "ar": "هل شاهدت الأخبار اليوم؟"
         }
       ],
       "answer": "Você viu as notícias hoje?",
@@ -818,18 +818,18 @@
       "options": [
         {
           "pt": "Não, ainda não tive tempo.",
-          "en": "Não, ainda não tive tempo.",
-          "ar": "Não, ainda não tive tempo."
+          "en": "No, I haven't had time yet.",
+          "ar": "لا، لم أجد وقتاً بعد."
         },
         {
           "pt": "Preciso verificar se é verídico.",
-          "en": "Preciso verificar se é verídico.",
-          "ar": "Preciso verificar se é verídico."
+          "en": "I need to check if it is true.",
+          "ar": "أحتاج إلى التحقق من صحة الخبر."
         },
         {
           "pt": "Houve um grande acidente na rodovia.",
-          "en": "Houve um grande acidente na rodovia.",
-          "ar": "Houve um grande acidente na rodovia."
+          "en": "There was a big accident on the highway.",
+          "ar": "وقع حادث كبير على الطريق السريع."
         }
       ],
       "answer": "Não, ainda não tive tempo.",

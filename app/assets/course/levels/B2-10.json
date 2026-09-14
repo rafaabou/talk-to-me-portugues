@@ -536,7 +536,7 @@
         {
           "pt": "Boa tarde. Gostaríamos de discutir os termos do contrato.",
           "en": "Good afternoon. We would like to discuss the contract terms.",
-          "ar": "يمكننا النظر في ذلك، إذا بقي المبلغ الإجمالي كما هو."
+          "ar": "مساء الخير. نود مناقشة بنود العقد."
         },
         {
           "pt": "Justo. Além disso, precisamos de um prazo maior para a entrega.",
@@ -546,7 +546,7 @@
         {
           "pt": "Podemos considerar, se o valor total for mantido.",
           "en": "We can consider it, if the total amount stays the same.",
-          "ar": "مساء الخير. نود مناقشة بنود العقد."
+          "ar": "يمكننا النظر في ذلك، إذا بقي المبلغ الإجمالي كما هو."
         }
       ],
       "answer": "Boa tarde. Gostaríamos de discutir os termos do contrato.",
@@ -574,12 +574,12 @@
         {
           "pt": "Com certeza. Seria possível aumentar o prazo de pagamento?",
           "en": "Of course. Would it be possible to extend the payment period?",
-          "ar": "متفق. إذا وافقتم على كل شيء، نُبرم الصفقة اليوم."
+          "ar": "بالتأكيد. هل يمكن تمديد مدة السداد؟"
         },
         {
           "pt": "Combinado. Se concordarem com tudo, fechamos o negócio hoje.",
           "en": "Agreed. If you agree to everything, we close the deal today.",
-          "ar": "بالتأكيد. هل يمكن تمديد مدة السداد؟"
+          "ar": "متفق. إذا وافقتم على كل شيء، نُبرم الصفقة اليوم."
         }
       ],
       "answer": "Com certeza. Seria possível aumentar o prazo de pagamento?",
@@ -778,17 +778,17 @@
         {
           "pt": "Boa tarde. Gostaríamos de discutir os termos do contrato.",
           "en": "Good afternoon. We would like to discuss the contract terms.",
-          "ar": "بالتأكيد. هل يمكن تمديد مدة السداد؟"
+          "ar": "مساء الخير. نود مناقشة بنود العقد."
         },
         {
           "pt": "Justo. Além disso, precisamos de um prazo maior para a entrega.",
           "en": "Fair. Besides, we need a longer delivery deadline.",
-          "ar": "مساء الخير. نود مناقشة بنود العقد."
+          "ar": "عادل. بالإضافة إلى ذلك، نحتاج إلى مهلة أطول للتسليم."
         },
         {
           "pt": "Com certeza. Seria possível aumentar o prazo de pagamento?",
           "en": "Of course. Would it be possible to extend the payment period?",
-          "ar": "عادل. بالإضافة إلى ذلك، نحتاج إلى مهلة أطول للتسليم."
+          "ar": "بالتأكيد. هل يمكن تمديد مدة السداد؟"
         }
       ],
       "answer": "Com certeza. Seria possível aumentar o prazo de pagamento?",
@@ -846,18 +846,18 @@
       "options": [
         {
           "pt": "Combinado. Se concordarem com tudo, fechamos o negócio hoje.",
-          "en": "Combinado. Se concordarem com tudo, fechamos o negócio hoje.",
-          "ar": "Combinado. Se concordarem com tudo, fechamos o negócio hoje."
+          "en": "Agreed. If you agree to everything, we close the deal today.",
+          "ar": "متفق. إذا وافقتم على كل شيء، نُبرم الصفقة اليوم."
         },
         {
           "pt": "Boa tarde. Gostaríamos de discutir os termos do contrato.",
-          "en": "Boa tarde. Gostaríamos de discutir os termos do contrato.",
-          "ar": "Boa tarde. Gostaríamos de discutir os termos do contrato."
+          "en": "Good afternoon. We would like to discuss the contract terms.",
+          "ar": "مساء الخير. نود مناقشة بنود العقد."
         },
         {
           "pt": "Justo. Além disso, precisamos de um prazo maior para a entrega.",
-          "en": "Justo. Além disso, precisamos de um prazo maior para a entrega.",
-          "ar": "Justo. Além disso, precisamos de um prazo maior para a entrega."
+          "en": "Fair. Besides, we need a longer delivery deadline.",
+          "ar": "عادل. بالإضافة إلى ذلك، نحتاج إلى مهلة أطول للتسليم."
         }
       ],
       "answer": "Boa tarde. Gostaríamos de discutir os termos do contrato.",
@@ -879,18 +879,18 @@
       "options": [
         {
           "pt": "Com certeza. Seria possível aumentar o prazo de pagamento?",
-          "en": "Com certeza. Seria possível aumentar o prazo de pagamento?",
-          "ar": "Com certeza. Seria possível aumentar o prazo de pagamento?"
+          "en": "Of course. Would it be possible to extend the payment period?",
+          "ar": "بالتأكيد. هل يمكن تمديد مدة السداد؟"
         },
         {
           "pt": "Boa tarde. Gostaríamos de discutir os termos do contrato.",
-          "en": "Boa tarde. Gostaríamos de discutir os termos do contrato.",
-          "ar": "Boa tarde. Gostaríamos de discutir os termos do contrato."
+          "en": "Good afternoon. We would like to discuss the contract terms.",
+          "ar": "مساء الخير. نود مناقشة بنود العقد."
         },
         {
           "pt": "Justo. Além disso, precisamos de um prazo maior para a entrega.",
-          "en": "Justo. Além disso, precisamos de um prazo maior para a entrega.",
-          "ar": "Justo. Além disso, precisamos de um prazo maior para a entrega."
+          "en": "Fair. Besides, we need a longer delivery deadline.",
+          "ar": "عادل. بالإضافة إلى ذلك، نحتاج إلى مهلة أطول للتسليم."
         }
       ],
       "answer": "Com certeza. Seria possível aumentar o prazo de pagamento?",

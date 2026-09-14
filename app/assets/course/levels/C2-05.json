@@ -567,18 +567,18 @@
       "options": [
         {
           "pt": "E o carioca ainda fala 'ma[iʃ]' no fim das palavras, puxando o 's'.",
-          "en": "Here in the South we say 'o chimarrão é bom'; in the Northeast you hear 'a água é quente' with a different rhythm.",
+          "en": "And the carioca still says 'ma[iʃ]' at the end of words, drawing out the 's'.",
           "ar": "والكاريكا ما زال يقول 'ma[iʃ]' في نهاية الكلمات مع إطالة حرف 's'."
         },
         {
           "pt": "Aqui no Sul a gente diz 'o chimarrão é bom', no Nordeste tu ouve 'a água é quente' com outro ritmo.",
-          "en": "And the carioca still says 'ma[iʃ]' at the end of words, drawing out the 's'.",
-          "ar": "هل تريد الغداء معنا، أم ستتوجه مباشرة إلى المحاضرة؟"
+          "en": "Here in the South we say 'o chimarrão é bom'; in the Northeast you hear 'a água é quente' with a different rhythm.",
+          "ar": "هنا في الجنوب نقول 'o chimarrão é bom'، وفي الشمال الشرقي تسمع 'a água é quente' بإيقاع مختلف."
         },
         {
           "pt": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
           "en": "Do you (tu) want to have lunch with us, or are you heading straight to the lecture?",
-          "ar": "هنا في الجنوب نقول 'o chimarrão é bom'، وفي الشمال الشرقي تسمع 'a água é quente' بإيقاع مختلف."
+          "ar": "هل تريد الغداء معنا، أم ستتوجه مباشرة إلى المحاضرة؟"
         }
       ],
       "answer": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
@@ -600,17 +600,17 @@
       "options": [
         {
           "pt": "Então vamos almoçar, que eu te conto as gírias do Norte que ninguém conhece.",
-          "en": "Here in the South we say 'o chimarrão é bom'; in the Northeast you hear 'a água é quente' with a different rhythm.",
-          "ar": "يمكن ذلك. لكن لتكن على علم، المطعم المجاور ممتلئ."
+          "en": "Then let's have lunch, and I'll tell you Northern slang that nobody knows.",
+          "ar": "إذن لنتناول الغداء، وسأحكي لك عن دارج الشمال التي لا يعرفها أحد."
         },
         {
           "pt": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
           "en": "Sure. But just so you know, the restaurant next door is packed.",
-          "ar": "إذن لنتناول الغداء، وسأحكي لك عن دارج الشمال التي لا يعرفها أحد."
+          "ar": "يمكن ذلك. لكن لتكن على علم، المطعم المجاور ممتلئ."
         },
         {
           "pt": "Aqui no Sul a gente diz 'o chimarrão é bom', no Nordeste tu ouve 'a água é quente' com outro ritmo.",
-          "en": "Then let's have lunch, and I'll tell you Northern slang that nobody knows.",
+          "en": "Here in the South we say 'o chimarrão é bom'; in the Northeast you hear 'a água é quente' with a different rhythm.",
           "ar": "هنا في الجنوب نقول 'o chimarrão é bom'، وفي الشمال الشرقي تسمع 'a água é quente' بإيقاع مختلف."
         }
       ],
@@ -797,7 +797,7 @@
         {
           "pt": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
           "en": "Sure. But just so you know, the restaurant next door is packed.",
-          "ar": "هل تريد الغداء معنا، أم ستتوجه مباشرة إلى المحاضرة؟"
+          "ar": "يمكن ذلك. لكن لتكن على علم، المطعم المجاور ممتلئ."
         },
         {
           "pt": "E o carioca ainda fala 'ma[iʃ]' no fim das palavras, puxando o 's'.",
@@ -807,7 +807,7 @@
         {
           "pt": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
           "en": "Do you (tu) want to have lunch with us, or are you heading straight to the lecture?",
-          "ar": "يمكن ذلك. لكن لتكن على علم، المطعم المجاور ممتلئ."
+          "ar": "هل تريد الغداء معنا، أم ستتوجه مباشرة إلى المحاضرة؟"
         }
       ],
       "answer": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
@@ -830,16 +830,16 @@
         {
           "pt": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
           "en": "Sure. But just so you know, the restaurant next door is packed.",
-          "ar": "والكاريكا ما زال يقول 'ma[iʃ]' في نهاية الكلمات مع إطالة حرف 's'."
-        },
-        {
-          "pt": "E o carioca ainda fala 'ma[iʃ]' no fim das palavras, puxando o 's'.",
-          "en": "Exactly. Prosody, lexicon and pronouns vary, but the educated standard brings everyone together in formal writing.",
           "ar": "يمكن ذلك. لكن لتكن على علم، المطعم المجاور ممتلئ."
         },
         {
-          "pt": "Exato. Prosódia, léxico e pronomes variam, mas a norma culta aproxima todos na escrita formal.",
+          "pt": "E o carioca ainda fala 'ma[iʃ]' no fim das palavras, puxando o 's'.",
           "en": "And the carioca still says 'ma[iʃ]' at the end of words, drawing out the 's'.",
+          "ar": "والكاريكا ما زال يقول 'ma[iʃ]' في نهاية الكلمات مع إطالة حرف 's'."
+        },
+        {
+          "pt": "Exato. Prosódia, léxico e pronomes variam, mas a norma culta aproxima todos na escrita formal.",
+          "en": "Exactly. Prosody, lexicon and pronouns vary, but the educated standard brings everyone together in formal writing.",
           "ar": "بالضبط. يختلف الإيقاع والمعجم والضمائر، لكن القاعدة الفصيحة تجمع الجميع في الكتابة الرسمية."
         }
       ],
@@ -898,18 +898,18 @@
       "options": [
         {
           "pt": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
-          "en": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
-          "ar": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?"
+          "en": "Do you (tu) want to have lunch with us, or are you heading straight to the lecture?",
+          "ar": "هل تريد الغداء معنا، أم ستتوجه مباشرة إلى المحاضرة؟"
         },
         {
           "pt": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
-          "en": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
-          "ar": "Pode ser. Mas, para você saber, o restaurante do lado está lotado."
+          "en": "Sure. But just so you know, the restaurant next door is packed.",
+          "ar": "يمكن ذلك. لكن لتكن على علم، المطعم المجاور ممتلئ."
         },
         {
           "pt": "E o carioca ainda fala 'ma[iʃ]' no fim das palavras, puxando o 's'.",
-          "en": "E o carioca ainda fala 'ma[iʃ]' no fim das palavras, puxando o 's'.",
-          "ar": "E o carioca ainda fala 'ma[iʃ]' no fim das palavras, puxando o 's'."
+          "en": "And the carioca still says 'ma[iʃ]' at the end of words, drawing out the 's'.",
+          "ar": "والكاريكا ما زال يقول 'ma[iʃ]' في نهاية الكلمات مع إطالة حرف 's'."
         }
       ],
       "answer": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
@@ -931,18 +931,18 @@
       "options": [
         {
           "pt": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
-          "en": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
-          "ar": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?"
+          "en": "Do you (tu) want to have lunch with us, or are you heading straight to the lecture?",
+          "ar": "هل تريد الغداء معنا، أم ستتوجه مباشرة إلى المحاضرة؟"
         },
         {
           "pt": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
-          "en": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
-          "ar": "Pode ser. Mas, para você saber, o restaurante do lado está lotado."
+          "en": "Sure. But just so you know, the restaurant next door is packed.",
+          "ar": "يمكن ذلك. لكن لتكن على علم، المطعم المجاور ممتلئ."
         },
         {
           "pt": "Aqui no Sul a gente diz 'o chimarrão é bom', no Nordeste tu ouve 'a água é quente' com outro ritmo.",
-          "en": "Aqui no Sul a gente diz 'o chimarrão é bom', no Nordeste tu ouve 'a água é quente' com outro ritmo.",
-          "ar": "Aqui no Sul a gente diz 'o chimarrão é bom', no Nordeste tu ouve 'a água é quente' com outro ritmo."
+          "en": "Here in the South we say 'o chimarrão é bom'; in the Northeast you hear 'a água é quente' with a different rhythm.",
+          "ar": "هنا في الجنوب نقول 'o chimarrão é bom'، وفي الشمال الشرقي تسمع 'a água é quente' بإيقاع مختلف."
         }
       ],
       "answer": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",

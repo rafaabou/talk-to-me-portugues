@@ -505,12 +505,12 @@
         {
           "pt": "Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.",
           "en": "Yes, but I still have doubts about the conditional.",
-          "ar": "هل نراجع فصل ضمائر الوصل؟"
+          "ar": "نعم، لكن ما زال لديّ شكوك حول الماضي المستقبلي."
         },
         {
           "pt": "Vamos revisar o capítulo de pronomes relativos?",
           "en": "Shall we review the chapter on relative pronouns?",
-          "ar": "نعم، لكن ما زال لديّ شكوك حول الماضي المستقبلي."
+          "ar": "هل نراجع فصل ضمائر الوصل؟"
         },
         {
           "pt": "Terminamos o nível B1! Que progresso, hein?",
@@ -538,17 +538,17 @@
         {
           "pt": "Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.",
           "en": "Yes, but I still have doubts about the conditional.",
-          "ar": "إذا أنهيت الأنشطة، سأكون جاهزاً للمستوى التالي."
-        },
-        {
-          "pt": "Boa ideia! Estou preparando um resumo hoje.",
-          "en": "If I finish the activities, I will be ready for the next level.",
           "ar": "نعم، لكن ما زال لديّ شكوك حول الماضي المستقبلي."
         },
         {
-          "pt": "Se eu concluir as atividades, estarei pronto para o próximo nível.",
+          "pt": "Boa ideia! Estou preparando um resumo hoje.",
           "en": "Good idea! I am preparing a summary today.",
           "ar": "فكرة جيدة! أنا أحضّر ملخصاً اليوم."
+        },
+        {
+          "pt": "Se eu concluir as atividades, estarei pronto para o próximo nível.",
+          "en": "If I finish the activities, I will be ready for the next level.",
+          "ar": "إذا أنهيت الأنشطة، سأكون جاهزاً للمستوى التالي."
         }
       ],
       "answer": "Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.",
@@ -736,8 +736,8 @@
       "options": [
         {
           "pt": "Terminamos o nível B1! Que progresso, hein?",
-          "en": "I think with more practice you will master it.",
-          "ar": "أعتقد أنك ستتقنه مع المزيد من التمرين."
+          "en": "We finished level B1! What progress, right?",
+          "ar": "أنهينا المستوى B1! يا له من تقدم، أليس كذلك؟"
         },
         {
           "pt": "Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.",
@@ -746,8 +746,8 @@
         },
         {
           "pt": "Acho que com mais prática você vai dominar.",
-          "en": "We finished level B1! What progress, right?",
-          "ar": "أنهينا المستوى B1! يا له من تقدم، أليس كذلك؟"
+          "en": "I think with more practice you will master it.",
+          "ar": "أعتقد أنك ستتقنه مع المزيد من التمرين."
         }
       ],
       "answer": "Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.",
@@ -805,18 +805,18 @@
       "options": [
         {
           "pt": "Terminamos o nível B1! Que progresso, hein?",
-          "en": "Terminamos o nível B1! Que progresso, hein?",
-          "ar": "Terminamos o nível B1! Que progresso, hein?"
+          "en": "We finished level B1! What progress, right?",
+          "ar": "أنهينا المستوى B1! يا له من تقدم، أليس كذلك؟"
         },
         {
           "pt": "Se eu concluir as atividades, estarei pronto para o próximo nível.",
-          "en": "Se eu concluir as atividades, estarei pronto para o próximo nível.",
-          "ar": "Se eu concluir as atividades, estarei pronto para o próximo nível."
+          "en": "If I finish the activities, I will be ready for the next level.",
+          "ar": "إذا أنهيت الأنشطة، سأكون جاهزاً للمستوى التالي."
         },
         {
           "pt": "Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.",
-          "en": "Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.",
-          "ar": "Sim, mas ainda tenho dúvidas sobre o futuro do pretérito."
+          "en": "Yes, but I still have doubts about the conditional.",
+          "ar": "نعم، لكن ما زال لديّ شكوك حول الماضي المستقبلي."
         }
       ],
       "answer": "Terminamos o nível B1! Que progresso, hein?",
@@ -838,18 +838,18 @@
       "options": [
         {
           "pt": "Acho que com mais prática você vai dominar.",
-          "en": "Acho que com mais prática você vai dominar.",
-          "ar": "Acho que com mais prática você vai dominar."
+          "en": "I think with more practice you will master it.",
+          "ar": "أعتقد أنك ستتقنه مع المزيد من التمرين."
         },
         {
           "pt": "Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.",
-          "en": "Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.",
-          "ar": "Sim, mas ainda tenho dúvidas sobre o futuro do pretérito."
+          "en": "Yes, but I still have doubts about the conditional.",
+          "ar": "نعم، لكن ما زال لديّ شكوك حول الماضي المستقبلي."
         },
         {
           "pt": "Se eu concluir as atividades, estarei pronto para o próximo nível.",
-          "en": "Se eu concluir as atividades, estarei pronto para o próximo nível.",
-          "ar": "Se eu concluir as atividades, estarei pronto para o próximo nível."
+          "en": "If I finish the activities, I will be ready for the next level.",
+          "ar": "إذا أنهيت الأنشطة، سأكون جاهزاً للمستوى التالي."
         }
       ],
       "answer": "Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.",

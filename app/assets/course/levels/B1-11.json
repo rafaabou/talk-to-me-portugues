@@ -506,17 +506,17 @@
         {
           "pt": "Obrigado! A transferência será concluída hoje?",
           "en": "Thank you! Will the transfer be completed today?",
-          "ar": "صباح الخير! كيف يمكنني مساعدتك؟"
+          "ar": "شكراً! هل سيُكتمل التحويل اليوم؟"
         },
         {
           "pt": "Perfeito. Qual é o valor e a conta de destino?",
           "en": "Perfect. What is the amount and the destination account?",
-          "ar": "شكراً! هل سيُكتمل التحويل اليوم؟"
+          "ar": "ممتاز. ما المبلغ وحساب المستلم؟"
         },
         {
           "pt": "Bom dia! Como posso ajudar?",
           "en": "Good morning! How can I help you?",
-          "ar": "ممتاز. ما المبلغ وحساب المستلم؟"
+          "ar": "صباح الخير! كيف يمكنني مساعدتك؟"
         }
       ],
       "answer": "Bom dia! Como posso ajudar?",
@@ -543,12 +543,12 @@
         },
         {
           "pt": "Bom dia! Como posso ajudar?",
-          "en": "Thank you! Will the transfer be completed today?",
+          "en": "Good morning! How can I help you?",
           "ar": "صباح الخير! كيف يمكنني مساعدتك؟"
         },
         {
           "pt": "Obrigado! A transferência será concluída hoje?",
-          "en": "Good morning! How can I help you?",
+          "en": "Thank you! Will the transfer be completed today?",
           "ar": "شكراً! هل سيُكتمل التحويل اليوم؟"
         }
       ],
@@ -695,17 +695,17 @@
         {
           "pt": "Bom dia! Como posso ajudar?",
           "en": "Good morning! How can I help you?",
-          "ar": "ممتاز. ما المبلغ وحساب المستلم؟"
+          "ar": "صباح الخير! كيف يمكنني مساعدتك؟"
         },
         {
           "pt": "Perfeito. Qual é o valor e a conta de destino?",
-          "en": "Thank you! Will the transfer be completed today?",
-          "ar": "شكراً! هل سيُكتمل التحويل اليوم؟"
+          "en": "Perfect. What is the amount and the destination account?",
+          "ar": "ممتاز. ما المبلغ وحساب المستلم؟"
         },
         {
           "pt": "Obrigado! A transferência será concluída hoje?",
-          "en": "Perfect. What is the amount and the destination account?",
-          "ar": "صباح الخير! كيف يمكنني مساعدتك؟"
+          "en": "Thank you! Will the transfer be completed today?",
+          "ar": "شكراً! هل سيُكتمل التحويل اليوم؟"
         }
       ],
       "answer": "Bom dia! Como posso ajudar?",
@@ -727,18 +727,18 @@
       "options": [
         {
           "pt": "Perfeito. Qual é o valor e a conta de destino?",
-          "en": "Your balance is one thousand three hundred reais.",
+          "en": "Perfect. What is the amount and the destination account?",
           "ar": "ممتاز. ما المبلغ وحساب المستلم؟"
         },
         {
           "pt": "Quero fazer uma transferência pelo aplicativo.",
           "en": "I want to make a transfer using the app.",
-          "ar": "رصيدك ألف وثلاثمئة ريال."
+          "ar": "أريد إجراء تحويل عبر التطبيق."
         },
         {
           "pt": "Seu saldo é de mil e trezentos reais.",
-          "en": "Perfect. What is the amount and the destination account?",
-          "ar": "أريد إجراء تحويل عبر التطبيق."
+          "en": "Your balance is one thousand three hundred reais.",
+          "ar": "رصيدك ألف وثلاثمئة ريال."
         }
       ],
       "answer": "Quero fazer uma transferência pelo aplicativo.",
@@ -796,18 +796,18 @@
       "options": [
         {
           "pt": "Seu saldo é de mil e trezentos reais.",
-          "en": "Seu saldo é de mil e trezentos reais.",
-          "ar": "Seu saldo é de mil e trezentos reais."
+          "en": "Your balance is one thousand three hundred reais.",
+          "ar": "رصيدك ألف وثلاثمئة ريال."
         },
         {
           "pt": "Bom dia! Como posso ajudar?",
-          "en": "Bom dia! Como posso ajudar?",
-          "ar": "Bom dia! Como posso ajudar?"
+          "en": "Good morning! How can I help you?",
+          "ar": "صباح الخير! كيف يمكنني مساعدتك؟"
         },
         {
           "pt": "Quero fazer uma transferência pelo aplicativo.",
-          "en": "Quero fazer uma transferência pelo aplicativo.",
-          "ar": "Quero fazer uma transferência pelo aplicativo."
+          "en": "I want to make a transfer using the app.",
+          "ar": "أريد إجراء تحويل عبر التطبيق."
         }
       ],
       "answer": "Bom dia! Como posso ajudar?",
@@ -829,18 +829,18 @@
       "options": [
         {
           "pt": "Perfeito. Qual é o valor e a conta de destino?",
-          "en": "Perfeito. Qual é o valor e a conta de destino?",
-          "ar": "Perfeito. Qual é o valor e a conta de destino?"
+          "en": "Perfect. What is the amount and the destination account?",
+          "ar": "ممتاز. ما المبلغ وحساب المستلم؟"
         },
         {
           "pt": "Obrigado! A transferência será concluída hoje?",
-          "en": "Obrigado! A transferência será concluída hoje?",
-          "ar": "Obrigado! A transferência será concluída hoje?"
+          "en": "Thank you! Will the transfer be completed today?",
+          "ar": "شكراً! هل سيُكتمل التحويل اليوم؟"
         },
         {
           "pt": "Quero fazer uma transferência pelo aplicativo.",
-          "en": "Quero fazer uma transferência pelo aplicativo.",
-          "ar": "Quero fazer uma transferência pelo aplicativo."
+          "en": "I want to make a transfer using the app.",
+          "ar": "أريد إجراء تحويل عبر التطبيق."
         }
       ],
       "answer": "Quero fazer uma transferência pelo aplicativo.",

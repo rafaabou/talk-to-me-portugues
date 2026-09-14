@@ -543,12 +543,12 @@
         {
           "pt": "E o ônibus para o hotel?",
           "en": "And the bus to the hotel?",
-          "ar": "الحافلة أمام المطار. رحلة سعيدة!"
+          "ar": "والحافلة إلى الفندق؟"
         },
         {
           "pt": "O ônibus fica em frente ao aeroporto. Boa viagem!",
           "en": "The bus is in front of the airport. Have a good trip!",
-          "ar": "والحافلة إلى الفندق؟"
+          "ar": "الحافلة أمام المطار. رحلة سعيدة!"
         }
       ],
       "answer": "Com licença, onde fica o portão de embarque?",
@@ -571,17 +571,17 @@
         {
           "pt": "Fica no segundo andar, à direita.",
           "en": "It is on the second floor, to the right.",
-          "ar": "الحافلة أمام المطار. رحلة سعيدة!"
-        },
-        {
-          "pt": "O voo sai às dez e meia.",
-          "en": "The bus is in front of the airport. Have a good trip!",
           "ar": "إنها في الطابق الثاني، على اليمين."
         },
         {
-          "pt": "O ônibus fica em frente ao aeroporto. Boa viagem!",
+          "pt": "O voo sai às dez e meia.",
           "en": "The flight leaves at ten thirty.",
           "ar": "تغادر الرحلة في العاشرة والنصف."
+        },
+        {
+          "pt": "O ônibus fica em frente ao aeroporto. Boa viagem!",
+          "en": "The bus is in front of the airport. Have a good trip!",
+          "ar": "الحافلة أمام المطار. رحلة سعيدة!"
         }
       ],
       "answer": "Fica no segundo andar, à direita.",
@@ -742,17 +742,17 @@
         {
           "pt": "Com licença, onde fica o portão de embarque?",
           "en": "Excuse me, where is the boarding gate?",
-          "ar": "الحافلة أمام المطار. رحلة سعيدة!"
+          "ar": "عذرًا، أين بوابة الصعود إلى الطائرة؟"
         },
         {
           "pt": "O ônibus fica em frente ao aeroporto. Boa viagem!",
-          "en": "The flight leaves at ten thirty.",
-          "ar": "تغادر الرحلة في العاشرة والنصف."
+          "en": "The bus is in front of the airport. Have a good trip!",
+          "ar": "الحافلة أمام المطار. رحلة سعيدة!"
         },
         {
           "pt": "O voo sai às dez e meia.",
-          "en": "The bus is in front of the airport. Have a good trip!",
-          "ar": "عذرًا، أين بوابة الصعود إلى الطائرة؟"
+          "en": "The flight leaves at ten thirty.",
+          "ar": "تغادر الرحلة في العاشرة والنصف."
         }
       ],
       "answer": "Com licença, onde fica o portão de embarque?",
@@ -780,12 +780,12 @@
         {
           "pt": "O voo sai às dez e meia.",
           "en": "The flight leaves at ten thirty.",
-          "ar": "إنها في الطابق الثاني، على اليمين."
+          "ar": "تغادر الرحلة في العاشرة والنصف."
         },
         {
           "pt": "Fica no segundo andar, à direita.",
           "en": "It is on the second floor, to the right.",
-          "ar": "تغادر الرحلة في العاشرة والنصف."
+          "ar": "إنها في الطابق الثاني، على اليمين."
         }
       ],
       "answer": "Fica no segundo andar, à direita.",
@@ -843,18 +843,18 @@
       "options": [
         {
           "pt": "Fica no segundo andar, à direita.",
-          "en": "Fica no segundo andar, à direita.",
-          "ar": "Fica no segundo andar, à direita."
+          "en": "It is on the second floor, to the right.",
+          "ar": "إنها في الطابق الثاني، على اليمين."
         },
         {
           "pt": "O voo sai às dez e meia.",
-          "en": "O voo sai às dez e meia.",
-          "ar": "O voo sai às dez e meia."
+          "en": "The flight leaves at ten thirty.",
+          "ar": "تغادر الرحلة في العاشرة والنصف."
         },
         {
           "pt": "Com licença, onde fica o portão de embarque?",
-          "en": "Com licença, onde fica o portão de embarque?",
-          "ar": "Com licença, onde fica o portão de embarque?"
+          "en": "Excuse me, where is the boarding gate?",
+          "ar": "عذرًا، أين بوابة الصعود إلى الطائرة؟"
         }
       ],
       "answer": "Com licença, onde fica o portão de embarque?",
@@ -876,18 +876,18 @@
       "options": [
         {
           "pt": "O voo sai às dez e meia.",
-          "en": "O voo sai às dez e meia.",
-          "ar": "O voo sai às dez e meia."
+          "en": "The flight leaves at ten thirty.",
+          "ar": "تغادر الرحلة في العاشرة والنصف."
         },
         {
           "pt": "Com licença, onde fica o portão de embarque?",
-          "en": "Com licença, onde fica o portão de embarque?",
-          "ar": "Com licença, onde fica o portão de embarque?"
+          "en": "Excuse me, where is the boarding gate?",
+          "ar": "عذرًا، أين بوابة الصعود إلى الطائرة؟"
         },
         {
           "pt": "Fica no segundo andar, à direita.",
-          "en": "Fica no segundo andar, à direita.",
-          "ar": "Fica no segundo andar, à direita."
+          "en": "It is on the second floor, to the right.",
+          "ar": "إنها في الطابق الثاني، على اليمين."
         }
       ],
       "answer": "Fica no segundo andar, à direita.",

@@ -553,17 +553,17 @@
         {
           "pt": "Viu? E ainda dizem que segunda-feira é um dia comum.",
           "en": "See? And they still say Monday is an ordinary day.",
-          "ar": "يا لها من متعة أن تستيقظ في السادسة لتركب ثلاث حافلات، أليس كذلك؟"
+          "ar": "أرأيت؟ وما زالوا يقولون إن الاثنين يوم عادي."
         },
         {
           "pt": "Com esse humor, você deveria fazer uma comédia stand-up.",
           "en": "With that humor, you should do a stand-up comedy show.",
-          "ar": "أرأيت؟ وما زالوا يقولون إن الاثنين يوم عادي."
+          "ar": "بفضل هذه الفكاهة، ينبغي أن تقدم عرضًا كوميديًا."
         },
         {
           "pt": "Que delícia acordar às seis para pegar três ônibus, não?",
           "en": "What a delight to wake up at six to catch three buses, right?",
-          "ar": "بفضل هذه الفكاهة، ينبغي أن تقدم عرضًا كوميديًا."
+          "ar": "يا لها من متعة أن تستيقظ في السادسة لتركب ثلاث حافلات، أليس كذلك؟"
         }
       ],
       "answer": "Que delícia acordar às seis para pegar três ônibus, não?",
@@ -585,12 +585,12 @@
       "options": [
         {
           "pt": "Que delícia acordar às seis para pegar três ônibus, não?",
-          "en": "With that humor, you should do a stand-up comedy show.",
+          "en": "What a delight to wake up at six to catch three buses, right?",
           "ar": "يا لها من متعة أن تستيقظ في السادسة لتركب ثلاث حافلات، أليس كذلك؟"
         },
         {
           "pt": "Com esse humor, você deveria fazer uma comédia stand-up.",
-          "en": "What a delight to wake up at six to catch three buses, right?",
+          "en": "With that humor, you should do a stand-up comedy show.",
           "ar": "بفضل هذه الفكاهة، ينبغي أن تقدم عرضًا كوميديًا."
         },
         {
@@ -767,17 +767,17 @@
         {
           "pt": "Que delícia acordar às seis para pegar três ônibus, não?",
           "en": "What a delight to wake up at six to catch three buses, right?",
-          "ar": "بفضل هذه الفكاهة، ينبغي أن تقدم عرضًا كوميديًا."
+          "ar": "يا لها من متعة أن تستيقظ في السادسة لتركب ثلاث حافلات، أليس كذلك؟"
         },
         {
           "pt": "Com esse humor, você deveria fazer uma comédia stand-up.",
-          "en": "See? And they still say Monday is an ordinary day.",
-          "ar": "أرأيت؟ وما زالوا يقولون إن الاثنين يوم عادي."
+          "en": "With that humor, you should do a stand-up comedy show.",
+          "ar": "بفضل هذه الفكاهة، ينبغي أن تقدم عرضًا كوميديًا."
         },
         {
           "pt": "Viu? E ainda dizem que segunda-feira é um dia comum.",
-          "en": "With that humor, you should do a stand-up comedy show.",
-          "ar": "يا لها من متعة أن تستيقظ في السادسة لتركب ثلاث حافلات، أليس كذلك؟"
+          "en": "See? And they still say Monday is an ordinary day.",
+          "ar": "أرأيت؟ وما زالوا يقولون إن الاثنين يوم عادي."
         }
       ],
       "answer": "Que delícia acordar às seis para pegar três ônibus, não?",
@@ -799,12 +799,12 @@
       "options": [
         {
           "pt": "Não exagera. Você só esqueceu o celular, a chave e o relatório.",
-          "en": "What a delight to wake up at six to catch three buses, right?",
+          "en": "Don't exaggerate. You only forgot your phone, your keys and the report.",
           "ar": "لا تبالغ. نسيتَ فقط هاتفك ومفاتيحك والتقرير."
         },
         {
           "pt": "Que delícia acordar às seis para pegar três ônibus, não?",
-          "en": "Don't exaggerate. You only forgot your phone, your keys and the report.",
+          "en": "What a delight to wake up at six to catch three buses, right?",
           "ar": "يا لها من متعة أن تستيقظ في السادسة لتركب ثلاث حافلات، أليس كذلك؟"
         },
         {
@@ -868,18 +868,18 @@
       "options": [
         {
           "pt": "Sarcasmo às sete da manhã? Hoje você está realmente inspirado.",
-          "en": "Sarcasmo às sete da manhã? Hoje você está realmente inspirado.",
-          "ar": "Sarcasmo às sete da manhã? Hoje você está realmente inspirado."
+          "en": "Sarcasm at seven in the morning? You are really inspired today.",
+          "ar": "تهكم في السابعة صباحًا؟ أنت ملهم فعلًا اليوم."
         },
         {
           "pt": "Não exagera. Você só esqueceu o celular, a chave e o relatório.",
-          "en": "Não exagera. Você só esqueceu o celular, a chave e o relatório.",
-          "ar": "Não exagera. Você só esqueceu o celular, a chave e o relatório."
+          "en": "Don't exaggerate. You only forgot your phone, your keys and the report.",
+          "ar": "لا تبالغ. نسيتَ فقط هاتفك ومفاتيحك والتقرير."
         },
         {
           "pt": "Que delícia acordar às seis para pegar três ônibus, não?",
-          "en": "Que delícia acordar às seis para pegar três ônibus, não?",
-          "ar": "Que delícia acordar às seis para pegar três ônibus, não?"
+          "en": "What a delight to wake up at six to catch three buses, right?",
+          "ar": "يا لها من متعة أن تستيقظ في السادسة لتركب ثلاث حافلات، أليس كذلك؟"
         }
       ],
       "answer": "Que delícia acordar às seis para pegar três ônibus, não?",
@@ -901,18 +901,18 @@
       "options": [
         {
           "pt": "Sarcasmo às sete da manhã? Hoje você está realmente inspirado.",
-          "en": "Sarcasmo às sete da manhã? Hoje você está realmente inspirado.",
-          "ar": "Sarcasmo às sete da manhã? Hoje você está realmente inspirado."
+          "en": "Sarcasm at seven in the morning? You are really inspired today.",
+          "ar": "تهكم في السابعة صباحًا؟ أنت ملهم فعلًا اليوم."
         },
         {
           "pt": "Não exagera. Você só esqueceu o celular, a chave e o relatório.",
-          "en": "Não exagera. Você só esqueceu o celular, a chave e o relatório.",
-          "ar": "Não exagera. Você só esqueceu o celular, a chave e o relatório."
+          "en": "Don't exaggerate. You only forgot your phone, your keys and the report.",
+          "ar": "لا تبالغ. نسيتَ فقط هاتفك ومفاتيحك والتقرير."
         },
         {
           "pt": "Com esse humor, você deveria fazer uma comédia stand-up.",
-          "en": "Com esse humor, você deveria fazer uma comédia stand-up.",
-          "ar": "Com esse humor, você deveria fazer uma comédia stand-up."
+          "en": "With that humor, you should do a stand-up comedy show.",
+          "ar": "بفضل هذه الفكاهة، ينبغي أن تقدم عرضًا كوميديًا."
         }
       ],
       "answer": "Sarcasmo às sete da manhã? Hoje você está realmente inspirado.",

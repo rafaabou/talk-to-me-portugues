@@ -528,17 +528,17 @@
         {
           "pt": "Trabalhei em uma empresa de tecnologia por três anos.",
           "en": "I worked at a technology company for three years.",
-          "ar": "ما المهارات التي طوّرتها؟"
+          "ar": "عملت في شركة تقنية لمدة ثلاث سنوات."
         },
         {
           "pt": "Que habilidades você desenvolveu?",
-          "en": "Yes, but I would like a promotion in six months.",
-          "ar": "نعم، لكنني أودّ الحصول على ترقية بعد ستة أشهر."
+          "en": "What skills did you develop?",
+          "ar": "ما المهارات التي طوّرتها؟"
         },
         {
           "pt": "Sim, mas gostaria de uma promoção em seis meses.",
-          "en": "What skills did you develop?",
-          "ar": "عملت في شركة تقنية لمدة ثلاث سنوات."
+          "en": "Yes, but I would like a promotion in six months.",
+          "ar": "نعم، لكنني أودّ الحصول على ترقية بعد ستة أشهر."
         }
       ],
       "answer": "Trabalhei em uma empresa de tecnologia por três anos.",
@@ -684,12 +684,12 @@
         {
           "pt": "Você aceitaria um salário inicial menor?",
           "en": "Would you accept a lower starting salary?",
-          "ar": "حدثني عن خبرتك المهنية."
+          "ar": "هل تقبلين راتباً ابتدائياً أقل؟"
         },
         {
           "pt": "Conte-me sobre sua experiência profissional.",
           "en": "Tell me about your professional experience.",
-          "ar": "هل تقبلين راتباً ابتدائياً أقل؟"
+          "ar": "حدثني عن خبرتك المهنية."
         },
         {
           "pt": "Trabalhei em uma empresa de tecnologia por três anos.",
@@ -721,12 +721,12 @@
         },
         {
           "pt": "Tenho boas habilidades de comunicação e trabalho em equipe.",
-          "en": "What skills did you develop?",
+          "en": "I have good communication and teamwork skills.",
           "ar": "أمتلك مهارات جيدة في التواصل والعمل ضمن فريق."
         },
         {
           "pt": "Que habilidades você desenvolveu?",
-          "en": "I have good communication and teamwork skills.",
+          "en": "What skills did you develop?",
           "ar": "ما المهارات التي طوّرتها؟"
         }
       ],
@@ -785,18 +785,18 @@
       "options": [
         {
           "pt": "Conte-me sobre sua experiência profissional.",
-          "en": "Conte-me sobre sua experiência profissional.",
-          "ar": "Conte-me sobre sua experiência profissional."
+          "en": "Tell me about your professional experience.",
+          "ar": "حدثني عن خبرتك المهنية."
         },
         {
           "pt": "Sim, mas gostaria de uma promoção em seis meses.",
-          "en": "Sim, mas gostaria de uma promoção em seis meses.",
-          "ar": "Sim, mas gostaria de uma promoção em seis meses."
+          "en": "Yes, but I would like a promotion in six months.",
+          "ar": "نعم، لكنني أودّ الحصول على ترقية بعد ستة أشهر."
         },
         {
           "pt": "Que habilidades você desenvolveu?",
-          "en": "Que habilidades você desenvolveu?",
-          "ar": "Que habilidades você desenvolveu?"
+          "en": "What skills did you develop?",
+          "ar": "ما المهارات التي طوّرتها؟"
         }
       ],
       "answer": "Conte-me sobre sua experiência profissional.",
@@ -818,18 +818,18 @@
       "options": [
         {
           "pt": "Conte-me sobre sua experiência profissional.",
-          "en": "Conte-me sobre sua experiência profissional.",
-          "ar": "Conte-me sobre sua experiência profissional."
+          "en": "Tell me about your professional experience.",
+          "ar": "حدثني عن خبرتك المهنية."
         },
         {
           "pt": "Você aceitaria um salário inicial menor?",
-          "en": "Você aceitaria um salário inicial menor?",
-          "ar": "Você aceitaria um salário inicial menor?"
+          "en": "Would you accept a lower starting salary?",
+          "ar": "هل تقبلين راتباً ابتدائياً أقل؟"
         },
         {
           "pt": "Trabalhei em uma empresa de tecnologia por três anos.",
-          "en": "Trabalhei em uma empresa de tecnologia por três anos.",
-          "ar": "Trabalhei em uma empresa de tecnologia por três anos."
+          "en": "I worked at a technology company for three years.",
+          "ar": "عملت في شركة تقنية لمدة ثلاث سنوات."
         }
       ],
       "answer": "Trabalhei em uma empresa de tecnologia por três anos.",

@@ -510,18 +510,18 @@
       "options": [
         {
           "pt": "Mó legal esse visual, tá ligado?",
-          "en": "I'm fine, just a bit broke this month.",
-          "ar": "أهلًا يا رفيق، كل شيء تمام؟"
+          "en": "That view is really cool, you know?",
+          "ar": "هذا المنظر رائع جدًا، تعرف؟"
         },
         {
           "pt": "Tô de boa, só um pouco quebrado esse mês.",
-          "en": "That view is really cool, you know?",
+          "en": "I'm fine, just a bit broke this month.",
           "ar": "أنا بخير، لكن مفلس قليلًا هذا الشهر."
         },
         {
           "pt": "E aí, parça, tudo beleza?",
           "en": "Hey, buddy, everything good?",
-          "ar": "هذا المنظر رائع جدًا، تعرف؟"
+          "ar": "أهلًا يا رفيق، كل شيء تمام؟"
         }
       ],
       "answer": "E aí, parça, tudo beleza?",
@@ -544,7 +544,7 @@
         {
           "pt": "Pode deixar, cara. Tá tudo certo.",
           "en": "Leave it to me, dude. Everything's fine.",
-          "ar": "تمام! لكن لا تدع أحدًا يسخر منا، اتفقنا؟"
+          "ar": "اترك الأمر لي يا رجل. كل شيء على ما يُرام."
         },
         {
           "pt": "Falou! Mas não deixa ninguém zoar com a gente, hein?",
@@ -554,7 +554,7 @@
         {
           "pt": "Tô de boa, só um pouco quebrado esse mês.",
           "en": "I'm fine, just a bit broke this month.",
-          "ar": "اترك الأمر لي يا رجل. كل شيء على ما يُرام."
+          "ar": "أنا بخير، لكن مفلس قليلًا هذا الشهر."
         }
       ],
       "answer": "Tô de boa, só um pouco quebrado esse mês.",
@@ -705,12 +705,12 @@
         {
           "pt": "Tô de boa, só um pouco quebrado esse mês.",
           "en": "I'm fine, just a bit broke this month.",
-          "ar": "أهلًا يا رفيق، كل شيء تمام؟"
+          "ar": "أنا بخير، لكن مفلس قليلًا هذا الشهر."
         },
         {
           "pt": "E aí, parça, tudo beleza?",
           "en": "Hey, buddy, everything good?",
-          "ar": "تمام! لكن لا تدع أحدًا يسخر منا، اتفقنا؟"
+          "ar": "أهلًا يا رفيق، كل شيء تمام؟"
         }
       ],
       "answer": "E aí, parça, tudo beleza?",
@@ -733,7 +733,7 @@
         {
           "pt": "E aí, parça, tudo beleza?",
           "en": "Hey, buddy, everything good?",
-          "ar": "تمام! لكن لا تدع أحدًا يسخر منا، اتفقنا؟"
+          "ar": "أهلًا يا رفيق، كل شيء تمام؟"
         },
         {
           "pt": "Falou! Mas não deixa ninguém zoar com a gente, hein?",
@@ -743,7 +743,7 @@
         {
           "pt": "Tô de boa, só um pouco quebrado esse mês.",
           "en": "I'm fine, just a bit broke this month.",
-          "ar": "أهلًا يا رفيق، كل شيء تمام؟"
+          "ar": "أنا بخير، لكن مفلس قليلًا هذا الشهر."
         }
       ],
       "answer": "Tô de boa, só um pouco quebrado esse mês.",
@@ -801,18 +801,18 @@
       "options": [
         {
           "pt": "Falou! Mas não deixa ninguém zoar com a gente, hein?",
-          "en": "Falou! Mas não deixa ninguém zoar com a gente, hein?",
-          "ar": "Falou! Mas não deixa ninguém zoar com a gente, hein?"
+          "en": "Alright! But don't let anyone mess with us, ok?",
+          "ar": "أنا بخير، لكن مفلس قليلًا هذا الشهر."
         },
         {
           "pt": "Mó legal esse visual, tá ligado?",
-          "en": "Mó legal esse visual, tá ligado?",
-          "ar": "Mó legal esse visual, tá ligado?"
+          "en": "That view is really cool, you know?",
+          "ar": "هذا المنظر رائع جدًا، تعرف؟"
         },
         {
           "pt": "E aí, parça, tudo beleza?",
-          "en": "E aí, parça, tudo beleza?",
-          "ar": "E aí, parça, tudo beleza?"
+          "en": "Hey, buddy, everything good?",
+          "ar": "أهلًا يا رفيق، كل شيء تمام؟"
         }
       ],
       "answer": "E aí, parça, tudo beleza?",
@@ -834,18 +834,18 @@
       "options": [
         {
           "pt": "Sem problema, o rolê é barato. Saca só o lugar!",
-          "en": "Sem problema, o rolê é barato. Saca só o lugar!",
-          "ar": "Sem problema, o rolê é barato. Saca só o lugar!"
+          "en": "No problem, the hangout is cheap. Check out the place!",
+          "ar": "لا مشكلة، الخروج رخيص. انظر إلى المكان!"
         },
         {
           "pt": "Tô de boa, só um pouco quebrado esse mês.",
-          "en": "Tô de boa, só um pouco quebrado esse mês.",
-          "ar": "Tô de boa, só um pouco quebrado esse mês."
+          "en": "I'm fine, just a bit broke this month.",
+          "ar": "أنا بخير، لكن مفلس قليلًا هذا الشهر."
         },
         {
           "pt": "Pode deixar, cara. Tá tudo certo.",
-          "en": "Pode deixar, cara. Tá tudo certo.",
-          "ar": "Pode deixar, cara. Tá tudo certo."
+          "en": "Leave it to me, dude. Everything's fine.",
+          "ar": "اترك الأمر لي يا رجل. كل شيء على ما يُرام."
         }
       ],
       "answer": "Tô de boa, só um pouco quebrado esse mês.",

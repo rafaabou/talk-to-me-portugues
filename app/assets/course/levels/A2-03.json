@@ -523,16 +523,16 @@
         {
           "pt": "Pedro, você pode me ajudar?",
           "en": "Pedro, can you help me?",
-          "ar": "لا تقلقي. أي شيء، اتصل بي."
-        },
-        {
-          "pt": "Pode deixar. Qualquer coisa, me liga.",
-          "en": "No problem. I will wait for you at the garage.",
           "ar": "بيدرو، هل يمكنك مساعدتي؟"
         },
         {
-          "pt": "Sem problema. Eu te espero na garagem.",
+          "pt": "Pode deixar. Qualquer coisa, me liga.",
           "en": "Do not worry. Anything, call me.",
+          "ar": "لا تقلقي. أي شيء، اتصل بي."
+        },
+        {
+          "pt": "Sem problema. Eu te espero na garagem.",
+          "en": "No problem. I will wait for you at the garage.",
           "ar": "لا مشكلة. سأنتظرك في المرآب."
         }
       ],
@@ -556,17 +556,17 @@
         {
           "pt": "Preciso que você me empreste o carro hoje.",
           "en": "I need you to lend me the car today.",
-          "ar": "لا تقلقي. أي شيء، اتصل بي."
+          "ar": "أحتاج أن تعيرني السيارة اليوم."
         },
         {
           "pt": "Pode deixar. Qualquer coisa, me liga.",
           "en": "Do not worry. Anything, call me.",
-          "ar": "بالتأكيد! ماذا تحتاجين؟"
+          "ar": "لا تقلقي. أي شيء، اتصل بي."
         },
         {
           "pt": "Claro! O que você precisa?",
           "en": "Of course! What do you need?",
-          "ar": "أحتاج أن تعيرني السيارة اليوم."
+          "ar": "بالتأكيد! ماذا تحتاجين؟"
         }
       ],
       "answer": "Claro! O que você precisa?",
@@ -716,12 +716,12 @@
         },
         {
           "pt": "Claro! O que você precisa?",
-          "en": "I need you to lend me the car today.",
+          "en": "Of course! What do you need?",
           "ar": "بالتأكيد! ماذا تحتاجين؟"
         },
         {
           "pt": "Preciso que você me empreste o carro hoje.",
-          "en": "Of course! What do you need?",
+          "en": "I need you to lend me the car today.",
           "ar": "أحتاج أن تعيرني السيارة اليوم."
         }
       ],
@@ -744,12 +744,12 @@
       "options": [
         {
           "pt": "Muito obrigada! Eu lhe devolvo à noite.",
-          "en": "I need you to lend me the car today.",
+          "en": "Thank you very much! I will return it to you tonight.",
           "ar": "شكرًا جزيلًا! سأعيدها لك في الليل."
         },
         {
           "pt": "Preciso que você me empreste o carro hoje.",
-          "en": "Thank you very much! I will return it to you tonight.",
+          "en": "I need you to lend me the car today.",
           "ar": "أحتاج أن تعيرني السيارة اليوم."
         },
         {
@@ -813,18 +813,18 @@
       "options": [
         {
           "pt": "Pedro, você pode me ajudar?",
-          "en": "Pedro, você pode me ajudar?",
-          "ar": "Pedro, você pode me ajudar?"
+          "en": "Pedro, can you help me?",
+          "ar": "بيدرو، هل يمكنك مساعدتي؟"
         },
         {
           "pt": "Pode deixar. Qualquer coisa, me liga.",
-          "en": "Pode deixar. Qualquer coisa, me liga.",
-          "ar": "Pode deixar. Qualquer coisa, me liga."
+          "en": "Do not worry. Anything, call me.",
+          "ar": "لا تقلقي. أي شيء، اتصل بي."
         },
         {
           "pt": "Preciso que você me empreste o carro hoje.",
-          "en": "Preciso que você me empreste o carro hoje.",
-          "ar": "Preciso que você me empreste o carro hoje."
+          "en": "I need you to lend me the car today.",
+          "ar": "أحتاج أن تعيرني السيارة اليوم."
         }
       ],
       "answer": "Pedro, você pode me ajudar?",
@@ -846,18 +846,18 @@
       "options": [
         {
           "pt": "Sem problema. Eu te espero na garagem.",
-          "en": "Sem problema. Eu te espero na garagem.",
-          "ar": "Sem problema. Eu te espero na garagem."
+          "en": "No problem. I will wait for you at the garage.",
+          "ar": "لا مشكلة. سأنتظرك في المرآب."
         },
         {
           "pt": "Pode deixar. Qualquer coisa, me liga.",
-          "en": "Pode deixar. Qualquer coisa, me liga.",
-          "ar": "Pode deixar. Qualquer coisa, me liga."
+          "en": "Do not worry. Anything, call me.",
+          "ar": "لا تقلقي. أي شيء، اتصل بي."
         },
         {
           "pt": "Claro! O que você precisa?",
-          "en": "Claro! O que você precisa?",
-          "ar": "Claro! O que você precisa?"
+          "en": "Of course! What do you need?",
+          "ar": "بالتأكيد! ماذا تحتاجين؟"
         }
       ],
       "answer": "Claro! O que você precisa?",

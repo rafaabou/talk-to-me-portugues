@@ -573,12 +573,12 @@
         {
           "pt": "Cuidado! 'Embarrassed' é 'constrangido', não 'embaraçado'.",
           "en": "Careful! 'Embarrassed' is 'constrangido', not 'embaraçado'.",
-          "ar": "هل تساعدني في هذه الترجمة؟ كتبت 'I am embarrassed' بأنها 'estou embaraçado'."
+          "ar": "انتبه! 'Embarrassed' تعني 'constrangido'، وليست 'embaraçado'."
         },
         {
           "pt": "Me ajuda com esta tradução? Escrevi 'I am embarrassed' como 'estou embaraçado'.",
           "en": "Can you help me with this translation? I wrote 'I am embarrassed' as 'estou embaraçado'.",
-          "ar": "انتبه! 'Embarrassed' تعني 'constrangido'، وليست 'embaraçado'."
+          "ar": "هل تساعدني في هذه الترجمة؟ كتبت 'I am embarrassed' بأنها 'estou embaraçado'."
         },
         {
           "pt": "'Pretend' significa 'fingir'. 'Pretender' é 'to intend'.",
@@ -763,12 +763,12 @@
       "options": [
         {
           "pt": "Cuidado! 'Embarrassed' é 'constrangido', não 'embaraçado'.",
-          "en": "How interesting! I'll pay more attention to false cognates.",
+          "en": "Careful! 'Embarrassed' is 'constrangido', not 'embaraçado'.",
           "ar": "انتبه! 'Embarrassed' تعني 'constrangido'، وليست 'embaraçado'."
         },
         {
           "pt": "Que interessante! Vou prestar mais atenção aos falsos cognatos.",
-          "en": "Careful! 'Embarrassed' is 'constrangido', not 'embaraçado'.",
+          "en": "How interesting! I'll pay more attention to false cognates.",
           "ar": "كم هذا مثير! سأنتبه أكثر إلى الكلمات الخادعة."
         },
         {
@@ -797,17 +797,17 @@
         {
           "pt": "Que interessante! Vou prestar mais atenção aos falsos cognatos.",
           "en": "How interesting! I'll pay more attention to false cognates.",
-          "ar": "هل تساعدني في هذه الترجمة؟ كتبت 'I am embarrassed' بأنها 'estou embaraçado'."
+          "ar": "كم هذا مثير! سأنتبه أكثر إلى الكلمات الخادعة."
         },
         {
           "pt": "Cuidado! 'Embarrassed' é 'constrangido', não 'embaraçado'.",
           "en": "Careful! 'Embarrassed' is 'constrangido', not 'embaraçado'.",
-          "ar": "كم هذا مثير! سأنتبه أكثر إلى الكلمات الخادعة."
+          "ar": "انتبه! 'Embarrassed' تعني 'constrangido'، وليست 'embaraçado'."
         },
         {
           "pt": "Me ajuda com esta tradução? Escrevi 'I am embarrassed' como 'estou embaraçado'.",
           "en": "Can you help me with this translation? I wrote 'I am embarrassed' as 'estou embaraçado'.",
-          "ar": "انتبه! 'Embarrassed' تعني 'constrangido'، وليست 'embaraçado'."
+          "ar": "هل تساعدني في هذه الترجمة؟ كتبت 'I am embarrassed' بأنها 'estou embaraçado'."
         }
       ],
       "answer": "Cuidado! 'Embarrassed' é 'constrangido', não 'embaraçado'.",
@@ -1100,18 +1100,18 @@
       "options": [
         {
           "pt": "Me ajuda com esta tradução? Escrevi 'I am embarrassed' como 'estou embaraçado'.",
-          "en": "Me ajuda com esta tradução? Escrevi 'I am embarrassed' como 'estou embaraçado'.",
-          "ar": "Me ajuda com esta tradução? Escrevi 'I am embarrassed' como 'estou embaraçado'."
+          "en": "Can you help me with this translation? I wrote 'I am embarrassed' as 'estou embaraçado'.",
+          "ar": "هل تساعدني في هذه الترجمة؟ كتبت 'I am embarrassed' بأنها 'estou embaraçado'."
         },
         {
           "pt": "Ah, entendi. E 'pretend'?",
-          "en": "Ah, entendi. E 'pretend'?",
-          "ar": "Ah, entendi. E 'pretend'?"
+          "en": "Ah, I see. And 'pretend'?",
+          "ar": "آه، فهمت. وماذا عن 'pretend'؟"
         },
         {
           "pt": "'Pretend' significa 'fingir'. 'Pretender' é 'to intend'.",
-          "en": "'Pretend' significa 'fingir'. 'Pretender' é 'to intend'.",
-          "ar": "'Pretend' significa 'fingir'. 'Pretender' é 'to intend'."
+          "en": "'Pretend' means 'to fake'. 'Pretender' is 'to intend'.",
+          "ar": "'Pretend' تعني 'يتظاهر'. أما 'pretender' فتعني 'ينوي'."
         }
       ],
       "answer": "Me ajuda com esta tradução? Escrevi 'I am embarrassed' como 'estou embaraçado'.",
@@ -1133,18 +1133,18 @@
       "options": [
         {
           "pt": "'Pretend' significa 'fingir'. 'Pretender' é 'to intend'.",
-          "en": "'Pretend' significa 'fingir'. 'Pretender' é 'to intend'.",
-          "ar": "'Pretend' significa 'fingir'. 'Pretender' é 'to intend'."
+          "en": "'Pretend' means 'to fake'. 'Pretender' is 'to intend'.",
+          "ar": "'Pretend' تعني 'يتظاهر'. أما 'pretender' فتعني 'ينوي'."
         },
         {
           "pt": "Ah, entendi. E 'pretend'?",
-          "en": "Ah, entendi. E 'pretend'?",
-          "ar": "Ah, entendi. E 'pretend'?"
+          "en": "Ah, I see. And 'pretend'?",
+          "ar": "آه، فهمت. وماذا عن 'pretend'؟"
         },
         {
           "pt": "Cuidado! 'Embarrassed' é 'constrangido', não 'embaraçado'.",
-          "en": "Cuidado! 'Embarrassed' é 'constrangido', não 'embaraçado'.",
-          "ar": "Cuidado! 'Embarrassed' é 'constrangido', não 'embaraçado'."
+          "en": "Careful! 'Embarrassed' is 'constrangido', not 'embaraçado'.",
+          "ar": "انتبه! 'Embarrassed' تعني 'constrangido'، وليست 'embaraçado'."
         }
       ],
       "answer": "Cuidado! 'Embarrassed' é 'constrangido', não 'embaraçado'.",

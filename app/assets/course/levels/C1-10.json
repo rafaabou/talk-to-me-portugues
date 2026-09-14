@@ -520,16 +520,16 @@
         {
           "pt": "Foi você que marcou a reunião de amanhã?",
           "en": "Was it you who scheduled tomorrow's meeting?",
-          "ar": "ما يقلقني هو التوقيت، لا جدول الأعمال."
-        },
-        {
-          "pt": "O que me preocupa é o horário, não a pauta.",
-          "en": "Yes it was, and it was me who invited the whole board.",
           "ar": "هل أنت من حدد اجتماع الغد؟"
         },
         {
-          "pt": "Foi sim, e foi eu que convidei a diretoria inteira.",
+          "pt": "O que me preocupa é o horário, não a pauta.",
           "en": "What worries me is the time, not the agenda.",
+          "ar": "ما يقلقني هو التوقيت، لا جدول الأعمال."
+        },
+        {
+          "pt": "Foi sim, e foi eu que convidei a diretoria inteira.",
+          "en": "Yes it was, and it was me who invited the whole board.",
           "ar": "نعم، وأنا من دعوت مجلس الإدارة كاملًا."
         }
       ],
@@ -557,13 +557,13 @@
         },
         {
           "pt": "Foi você que marcou a reunião de amanhã?",
-          "en": "Perfect. That is exactly what I expected to hear.",
-          "ar": "ممتاز. هذا بالضبط ما كنت أتوقع سماعه."
+          "en": "Was it you who scheduled tomorrow's meeting?",
+          "ar": "هل أنت من حدد اجتماع الغد؟"
         },
         {
           "pt": "Perfeito. É isso mesmo que eu esperava ouvir.",
-          "en": "Was it you who scheduled tomorrow's meeting?",
-          "ar": "هل أنت من حدد اجتماع الغد؟"
+          "en": "Perfect. That is exactly what I expected to hear.",
+          "ar": "ممتاز. هذا بالضبط ما كنت أتوقع سماعه."
         }
       ],
       "answer": "Foi sim, e foi eu que convidei a diretoria inteira.",
@@ -724,17 +724,17 @@
         {
           "pt": "Então mudemos. Chega o relatório e depois discutimos tudo.",
           "en": "Then let's change it. First comes the report, then we discuss everything.",
-          "ar": "هل أنت من حدد اجتماع الغد؟"
+          "ar": "إذن لنغيّره. يصل التقرير أولًا ثم نناقش كل شيء."
         },
         {
           "pt": "Foi sim, e foi eu que convidei a diretoria inteira.",
           "en": "Yes it was, and it was me who invited the whole board.",
-          "ar": "إذن لنغيّره. يصل التقرير أولًا ثم نناقش كل شيء."
+          "ar": "نعم، وأنا من دعوت مجلس الإدارة كاملًا."
         },
         {
           "pt": "Foi você que marcou a reunião de amanhã?",
           "en": "Was it you who scheduled tomorrow's meeting?",
-          "ar": "نعم، وأنا من دعوت مجلس الإدارة كاملًا."
+          "ar": "هل أنت من حدد اجتماع الغد؟"
         }
       ],
       "answer": "Foi você que marcou a reunião de amanhã?",
@@ -756,8 +756,8 @@
       "options": [
         {
           "pt": "Então mudemos. Chega o relatório e depois discutimos tudo.",
-          "en": "What worries me is the time, not the agenda.",
-          "ar": "ما يقلقني هو التوقيت، لا جدول الأعمال."
+          "en": "Then let's change it. First comes the report, then we discuss everything.",
+          "ar": "إذن لنغيّره. يصل التقرير أولًا ثم نناقش كل شيء."
         },
         {
           "pt": "Foi sim, e foi eu que convidei a diretoria inteira.",
@@ -766,8 +766,8 @@
         },
         {
           "pt": "O que me preocupa é o horário, não a pauta.",
-          "en": "Then let's change it. First comes the report, then we discuss everything.",
-          "ar": "إذن لنغيّره. يصل التقرير أولًا ثم نناقش كل شيء."
+          "en": "What worries me is the time, not the agenda.",
+          "ar": "ما يقلقني هو التوقيت، لا جدول الأعمال."
         }
       ],
       "answer": "Foi sim, e foi eu que convidei a diretoria inteira.",
@@ -825,18 +825,18 @@
       "options": [
         {
           "pt": "Foi sim, e foi eu que convidei a diretoria inteira.",
-          "en": "Foi sim, e foi eu que convidei a diretoria inteira.",
-          "ar": "Foi sim, e foi eu que convidei a diretoria inteira."
+          "en": "Yes it was, and it was me who invited the whole board.",
+          "ar": "نعم، وأنا من دعوت مجلس الإدارة كاملًا."
         },
         {
           "pt": "Perfeito. É isso mesmo que eu esperava ouvir.",
-          "en": "Perfeito. É isso mesmo que eu esperava ouvir.",
-          "ar": "Perfeito. É isso mesmo que eu esperava ouvir."
+          "en": "Perfect. That is exactly what I expected to hear.",
+          "ar": "ممتاز. هذا بالضبط ما كنت أتوقع سماعه."
         },
         {
           "pt": "Foi você que marcou a reunião de amanhã?",
-          "en": "Foi você que marcou a reunião de amanhã?",
-          "ar": "Foi você que marcou a reunião de amanhã?"
+          "en": "Was it you who scheduled tomorrow's meeting?",
+          "ar": "هل أنت من حدد اجتماع الغد؟"
         }
       ],
       "answer": "Foi você que marcou a reunião de amanhã?",
@@ -858,18 +858,18 @@
       "options": [
         {
           "pt": "Perfeito. É isso mesmo que eu esperava ouvir.",
-          "en": "Perfeito. É isso mesmo que eu esperava ouvir.",
-          "ar": "Perfeito. É isso mesmo que eu esperava ouvir."
+          "en": "Perfect. That is exactly what I expected to hear.",
+          "ar": "ممتاز. هذا بالضبط ما كنت أتوقع سماعه."
         },
         {
           "pt": "Foi sim, e foi eu que convidei a diretoria inteira.",
-          "en": "Foi sim, e foi eu que convidei a diretoria inteira.",
-          "ar": "Foi sim, e foi eu que convidei a diretoria inteira."
+          "en": "Yes it was, and it was me who invited the whole board.",
+          "ar": "نعم، وأنا من دعوت مجلس الإدارة كاملًا."
         },
         {
           "pt": "Então mudemos. Chega o relatório e depois discutimos tudo.",
-          "en": "Então mudemos. Chega o relatório e depois discutimos tudo.",
-          "ar": "Então mudemos. Chega o relatório e depois discutimos tudo."
+          "en": "Then let's change it. First comes the report, then we discuss everything.",
+          "ar": "إذن لنغيّره. يصل التقرير أولًا ثم نناقش كل شيء."
         }
       ],
       "answer": "Foi sim, e foi eu que convidei a diretoria inteira.",

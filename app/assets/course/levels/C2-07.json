@@ -391,7 +391,7 @@
         {
           "pt": "a domesticação",
           "en": "domestication",
-          "ar": "الترجمة المقربة"
+          "ar": "الترجمة المقربة من القارئ"
         },
         {
           "pt": "o calque total",
@@ -401,7 +401,7 @@
         {
           "pt": "a estrangeirização",
           "en": "foreignization",
-          "ar": "الترجمة المبعدة"
+          "ar": "الترجمة المبعدة عن القارئ"
         }
       ],
       "answer": "a domesticação",
@@ -547,8 +547,8 @@
       "options": [
         {
           "pt": "E o trocadilho do anúncio? Domesticamos ou mantemos com nota?",
-          "en": "Perfect. After the revision, we still check every false cognate.",
-          "ar": "ممتاز. بعد المراجعة، نفحص أيضًا كل لفظ مشترك خادع."
+          "en": "And the pun in the ad? Do we domesticate it or keep it with a footnote?",
+          "ar": "والتلاعب اللفظي في الإعلان؟ هل نقربه من القارئ أم نحتفظ به مع حاشية؟"
         },
         {
           "pt": "Este texto técnico pede equivalência precisa, não tradução literal.",
@@ -557,8 +557,8 @@
         },
         {
           "pt": "Perfeito. Depois da revisão, ainda checamos cada falso cognato.",
-          "en": "And the pun in the ad? Do we domesticate it or keep it with a footnote?",
-          "ar": "والتلاعب اللفظي في الإعلان؟ هل نقربه من القارئ أم نحتفظ به مع حاشية؟"
+          "en": "Perfect. After the revision, we still check every false cognate.",
+          "ar": "ممتاز. بعد المراجعة، نفحص أيضًا كل لفظ مشترك خادع."
         }
       ],
       "answer": "Este texto técnico pede equivalência precisa, não tradução literal.",
@@ -581,17 +581,17 @@
         {
           "pt": "Perfeito. Depois da revisão, ainda checamos cada falso cognato.",
           "en": "Perfect. After the revision, we still check every false cognate.",
-          "ar": "هذا النص التقني يتطلب تكافؤًا دقيقًا لا ترجمة حرفية."
+          "ar": "ممتاز. بعد المراجعة، نفحص أيضًا كل لفظ مشترك خادع."
         },
         {
           "pt": "Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.",
           "en": "I agree. 'Pretend' here is not 'pretender' in the sense of desiring, but rather 'alegar' (to claim).",
-          "ar": "ممتاز. بعد المراجعة، نفحص أيضًا كل لفظ مشترك خادع."
+          "ar": "أتفق. كلمة 'pretend' هنا لا تعني 'pretender' بمعنى الرغبة، بل 'alegar' أي الادعاء."
         },
         {
           "pt": "Este texto técnico pede equivalência precisa, não tradução literal.",
           "en": "This technical text calls for precise equivalence, not literal translation.",
-          "ar": "أتفق. كلمة 'pretend' هنا لا تعني 'pretender' بمعنى الرغبة، بل 'alegar' أي الادعاء."
+          "ar": "هذا النص التقني يتطلب تكافؤًا دقيقًا لا ترجمة حرفية."
         }
       ],
       "answer": "Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.",
@@ -756,18 +756,18 @@
       "options": [
         {
           "pt": "Então preservamos o tom, ajustamos o registro e mantemos a fluência.",
-          "en": "I agree. 'Pretend' here is not 'pretender' in the sense of desiring, but rather 'alegar' (to claim).",
-          "ar": "هذا النص التقني يتطلب تكافؤًا دقيقًا لا ترجمة حرفية."
+          "en": "Then we preserve the tone, adjust the register and keep fluency.",
+          "ar": "إذن نحافظ على النبرة ونضبط المستوى ونحافظ على السلاسة."
         },
         {
           "pt": "Este texto técnico pede equivalência precisa, não tradução literal.",
           "en": "This technical text calls for precise equivalence, not literal translation.",
-          "ar": "أتفق. كلمة 'pretend' هنا لا تعني 'pretender' بمعنى الرغبة، بل 'alegar' أي الادعاء."
+          "ar": "هذا النص التقني يتطلب تكافؤًا دقيقًا لا ترجمة حرفية."
         },
         {
           "pt": "Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.",
-          "en": "Then we preserve the tone, adjust the register and keep fluency.",
-          "ar": "إذن نحافظ على النبرة ونضبط المستوى ونحافظ على السلاسة."
+          "en": "I agree. 'Pretend' here is not 'pretender' in the sense of desiring, but rather 'alegar' (to claim).",
+          "ar": "أتفق. كلمة 'pretend' هنا لا تعني 'pretender' بمعنى الرغبة، بل 'alegar' أي الادعاء."
         }
       ],
       "answer": "Este texto técnico pede equivalência precisa, não tradução literal.",
@@ -795,12 +795,12 @@
         {
           "pt": "Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.",
           "en": "I agree. 'Pretend' here is not 'pretender' in the sense of desiring, but rather 'alegar' (to claim).",
-          "ar": "هذا النص التقني يتطلب تكافؤًا دقيقًا لا ترجمة حرفية."
+          "ar": "أتفق. كلمة 'pretend' هنا لا تعني 'pretender' بمعنى الرغبة، بل 'alegar' أي الادعاء."
         },
         {
           "pt": "Este texto técnico pede equivalência precisa, não tradução literal.",
           "en": "This technical text calls for precise equivalence, not literal translation.",
-          "ar": "أتفق. كلمة 'pretend' هنا لا تعني 'pretender' بمعنى الرغبة، بل 'alegar' أي الادعاء."
+          "ar": "هذا النص التقني يتطلب تكافؤًا دقيقًا لا ترجمة حرفية."
         }
       ],
       "answer": "Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.",
@@ -858,18 +858,18 @@
       "options": [
         {
           "pt": "Este texto técnico pede equivalência precisa, não tradução literal.",
-          "en": "Este texto técnico pede equivalência precisa, não tradução literal.",
-          "ar": "Este texto técnico pede equivalência precisa, não tradução literal."
+          "en": "This technical text calls for precise equivalence, not literal translation.",
+          "ar": "هذا النص التقني يتطلب تكافؤًا دقيقًا لا ترجمة حرفية."
         },
         {
           "pt": "Perfeito. Depois da revisão, ainda checamos cada falso cognato.",
-          "en": "Perfeito. Depois da revisão, ainda checamos cada falso cognato.",
-          "ar": "Perfeito. Depois da revisão, ainda checamos cada falso cognato."
+          "en": "Perfect. After the revision, we still check every false cognate.",
+          "ar": "ممتاز. بعد المراجعة، نفحص أيضًا كل لفظ مشترك خادع."
         },
         {
           "pt": "Para o público jovem, um equivalente adaptado funciona melhor que a nota.",
-          "en": "Para o público jovem, um equivalente adaptado funciona melhor que a nota.",
-          "ar": "Para o público jovem, um equivalente adaptado funciona melhor que a nota."
+          "en": "For a young audience, an adapted equivalent works better than a footnote.",
+          "ar": "بالنسبة لجمهور الشباب، يعمل المكافئ المُكيَّف أفضل من الحاشية."
         }
       ],
       "answer": "Este texto técnico pede equivalência precisa, não tradução literal.",
@@ -891,18 +891,18 @@
       "options": [
         {
           "pt": "E o trocadilho do anúncio? Domesticamos ou mantemos com nota?",
-          "en": "E o trocadilho do anúncio? Domesticamos ou mantemos com nota?",
-          "ar": "E o trocadilho do anúncio? Domesticamos ou mantemos com nota?"
+          "en": "And the pun in the ad? Do we domesticate it or keep it with a footnote?",
+          "ar": "والتلاعب اللفظي في الإعلان؟ هل نقربه من القارئ أم نحتفظ به مع حاشية؟"
         },
         {
           "pt": "Para o público jovem, um equivalente adaptado funciona melhor que a nota.",
-          "en": "Para o público jovem, um equivalente adaptado funciona melhor que a nota.",
-          "ar": "Para o público jovem, um equivalente adaptado funciona melhor que a nota."
+          "en": "For a young audience, an adapted equivalent works better than a footnote.",
+          "ar": "بالنسبة لجمهور الشباب، يعمل المكافئ المُكيَّف أفضل من الحاشية."
         },
         {
           "pt": "Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.",
-          "en": "Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.",
-          "ar": "Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'."
+          "en": "I agree. 'Pretend' here is not 'pretender' in the sense of desiring, but rather 'alegar' (to claim).",
+          "ar": "أتفق. كلمة 'pretend' هنا لا تعني 'pretender' بمعنى الرغبة، بل 'alegar' أي الادعاء."
         }
       ],
       "answer": "Concordo. 'Pretend' aqui não é 'pretender' no sentido de desejar, e sim 'alegar'.",

@@ -515,17 +515,17 @@
         {
           "pt": "Sim, fica a dez minutos do metrô.",
           "en": "Yes, it is ten minutes from the subway.",
-          "ar": "إذن سأفكر في الأمر وأتحدث مع كفيلي."
+          "ar": "نعم، تبعد عشر دقائق عن المترو."
         },
         {
           "pt": "Então vou pensar e falarei com meu fiador.",
           "en": "Then I will think about it and talk to my guarantor.",
-          "ar": "هذه الشقة تحتوي على غرفتي نوم ومطبخ واسع."
+          "ar": "إذن سأفكر في الأمر وأتحدث مع كفيلي."
         },
         {
           "pt": "Este apartamento tem dois quartos e uma cozinha ampla.",
           "en": "This apartment has two bedrooms and a spacious kitchen.",
-          "ar": "نعم، تبعد عشر دقائق عن المترو."
+          "ar": "هذه الشقة تحتوي على غرفتي نوم ومطبخ واسع."
         }
       ],
       "answer": "Este apartamento tem dois quartos e uma cozinha ampla.",
@@ -548,17 +548,17 @@
         {
           "pt": "Sim, fica a dez minutos do metrô.",
           "en": "Yes, it is ten minutes from the subway.",
-          "ar": "هل هي قريبة من عملي؟ هل تقع قرب المترو؟"
+          "ar": "نعم، تبعد عشر دقائق عن المترو."
         },
         {
           "pt": "É perto do meu trabalho? Fica perto do metrô?",
           "en": "Is it near my work? Is it near the subway?",
-          "ar": "هذه الشقة تحتوي على غرفتي نوم ومطبخ واسع."
+          "ar": "هل هي قريبة من عملي؟ هل تقع قرب المترو؟"
         },
         {
           "pt": "Este apartamento tem dois quartos e uma cozinha ampla.",
           "en": "This apartment has two bedrooms and a spacious kitchen.",
-          "ar": "نعم، تبعد عشر دقائق عن المترو."
+          "ar": "هذه الشقة تحتوي على غرفتي نوم ومطبخ واسع."
         }
       ],
       "answer": "É perto do meu trabalho? Fica perto do metrô?",
@@ -724,17 +724,17 @@
         {
           "pt": "Este apartamento tem dois quartos e uma cozinha ampla.",
           "en": "This apartment has two bedrooms and a spacious kitchen.",
-          "ar": "الإيجار ألف ريال والضمانة ثلاثة أشهر."
+          "ar": "هذه الشقة تحتوي على غرفتي نوم ومطبخ واسع."
         },
         {
           "pt": "O aluguel é mil reais e a caução é de três meses.",
-          "en": "Then I will think about it and talk to my guarantor.",
-          "ar": "إذن سأفكر في الأمر وأتحدث مع كفيلي."
+          "en": "The rent is a thousand reais and the deposit is three months.",
+          "ar": "الإيجار ألف ريال والضمانة ثلاثة أشهر."
         },
         {
           "pt": "Então vou pensar e falarei com meu fiador.",
-          "en": "The rent is a thousand reais and the deposit is three months.",
-          "ar": "هذه الشقة تحتوي على غرفتي نوم ومطبخ واسع."
+          "en": "Then I will think about it and talk to my guarantor.",
+          "ar": "إذن سأفكر في الأمر وأتحدث مع كفيلي."
         }
       ],
       "answer": "Este apartamento tem dois quartos e uma cozinha ampla.",
@@ -757,17 +757,17 @@
         {
           "pt": "Este apartamento tem dois quartos e uma cozinha ampla.",
           "en": "This apartment has two bedrooms and a spacious kitchen.",
-          "ar": "هل هي قريبة من عملي؟ هل تقع قرب المترو؟"
+          "ar": "هذه الشقة تحتوي على غرفتي نوم ومطبخ واسع."
         },
         {
           "pt": "Quanto é o aluguel? Preciso pagar caução?",
           "en": "How much is the rent? Do I need to pay a deposit?",
-          "ar": "هذه الشقة تحتوي على غرفتي نوم ومطبخ واسع."
+          "ar": "كم الإيجار؟ هل أحتاج إلى دفع ضمانة؟"
         },
         {
           "pt": "É perto do meu trabalho? Fica perto do metrô?",
           "en": "Is it near my work? Is it near the subway?",
-          "ar": "كم الإيجار؟ هل أحتاج إلى دفع ضمانة؟"
+          "ar": "هل هي قريبة من عملي؟ هل تقع قرب المترو؟"
         }
       ],
       "answer": "É perto do meu trabalho? Fica perto do metrô?",
@@ -825,18 +825,18 @@
       "options": [
         {
           "pt": "Então vou pensar e falarei com meu fiador.",
-          "en": "Então vou pensar e falarei com meu fiador.",
-          "ar": "Então vou pensar e falarei com meu fiador."
+          "en": "Then I will think about it and talk to my guarantor.",
+          "ar": "إذن سأفكر في الأمر وأتحدث مع كفيلي."
         },
         {
           "pt": "Este apartamento tem dois quartos e uma cozinha ampla.",
-          "en": "Este apartamento tem dois quartos e uma cozinha ampla.",
-          "ar": "Este apartamento tem dois quartos e uma cozinha ampla."
+          "en": "This apartment has two bedrooms and a spacious kitchen.",
+          "ar": "هذه الشقة تحتوي على غرفتي نوم ومطبخ واسع."
         },
         {
           "pt": "O aluguel é mil reais e a caução é de três meses.",
-          "en": "O aluguel é mil reais e a caução é de três meses.",
-          "ar": "O aluguel é mil reais e a caução é de três meses."
+          "en": "The rent is a thousand reais and the deposit is three months.",
+          "ar": "الإيجار ألف ريال والضمانة ثلاثة أشهر."
         }
       ],
       "answer": "Este apartamento tem dois quartos e uma cozinha ampla.",
@@ -858,18 +858,18 @@
       "options": [
         {
           "pt": "O aluguel é mil reais e a caução é de três meses.",
-          "en": "O aluguel é mil reais e a caução é de três meses.",
-          "ar": "O aluguel é mil reais e a caução é de três meses."
+          "en": "The rent is a thousand reais and the deposit is three months.",
+          "ar": "الإيجار ألف ريال والضمانة ثلاثة أشهر."
         },
         {
           "pt": "É perto do meu trabalho? Fica perto do metrô?",
-          "en": "É perto do meu trabalho? Fica perto do metrô?",
-          "ar": "É perto do meu trabalho? Fica perto do metrô?"
+          "en": "Is it near my work? Is it near the subway?",
+          "ar": "هل هي قريبة من عملي؟ هل تقع قرب المترو؟"
         },
         {
           "pt": "Este apartamento tem dois quartos e uma cozinha ampla.",
-          "en": "Este apartamento tem dois quartos e uma cozinha ampla.",
-          "ar": "Este apartamento tem dois quartos e uma cozinha ampla."
+          "en": "This apartment has two bedrooms and a spacious kitchen.",
+          "ar": "هذه الشقة تحتوي على غرفتي نوم ومطبخ واسع."
         }
       ],
       "answer": "É perto do meu trabalho? Fica perto do metrô?",

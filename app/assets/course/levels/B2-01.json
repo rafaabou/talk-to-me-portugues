@@ -530,17 +530,17 @@
         {
           "pt": "Quero que você conheça uma praia linda que eu descobri.",
           "en": "I want you to see a beautiful beach I discovered.",
-          "ar": "رائع! أشك في أن أبقى في المنزل هذا الأسبوع."
+          "ar": "أريدك أن تتعرف على شاطئ جميل اكتشفته."
         },
         {
           "pt": "Ótimo! Duvido que eu fique em casa neste fim de semana.",
           "en": "Great! I doubt I'll stay home this weekend.",
-          "ar": "آمل أن تتمكن من الذهاب إلى الشاطئ معي يوم السبت."
+          "ar": "رائع! أشك في أن أبقى في المنزل هذا الأسبوع."
         },
         {
           "pt": "Espero que você possa ir à praia comigo no sábado.",
           "en": "I hope you can go to the beach with me on Saturday.",
-          "ar": "أريدك أن تتعرف على شاطئ جميل اكتشفته."
+          "ar": "آمل أن تتمكن من الذهاب إلى الشاطئ معي يوم السبت."
         }
       ],
       "answer": "Espero que você possa ir à praia comigo no sábado.",
@@ -743,18 +743,18 @@
       "options": [
         {
           "pt": "Ótimo! Duvido que eu fique em casa neste fim de semana.",
-          "en": "I want you to see a beautiful beach I discovered.",
-          "ar": "آمل أن تتمكن من الذهاب إلى الشاطئ معي يوم السبت."
-        },
-        {
-          "pt": "Quero que você conheça uma praia linda que eu descobri.",
           "en": "Great! I doubt I'll stay home this weekend.",
           "ar": "رائع! أشك في أن أبقى في المنزل هذا الأسبوع."
         },
         {
+          "pt": "Quero que você conheça uma praia linda que eu descobri.",
+          "en": "I want you to see a beautiful beach I discovered.",
+          "ar": "أريدك أن تتعرف على شاطئ جميل اكتشفته."
+        },
+        {
           "pt": "Espero que você possa ir à praia comigo no sábado.",
           "en": "I hope you can go to the beach with me on Saturday.",
-          "ar": "أريدك أن تتعرف على شاطئ جميل اكتشفته."
+          "ar": "آمل أن تتمكن من الذهاب إلى الشاطئ معي يوم السبت."
         }
       ],
       "answer": "Espero que você possa ir à praia comigo no sábado.",
@@ -776,8 +776,8 @@
       "options": [
         {
           "pt": "É importante que a gente saia um pouco da cidade.",
-          "en": "Great! I doubt I'll stay home this weekend.",
-          "ar": "رائع! أشك في أن أبقى في المنزل هذا الأسبوع."
+          "en": "It's important that we get out of the city a little.",
+          "ar": "من المهم أن نخرج قليلًا من المدينة."
         },
         {
           "pt": "Tomara que não chova! Talvez o tempo fique bom.",
@@ -786,8 +786,8 @@
         },
         {
           "pt": "Ótimo! Duvido que eu fique em casa neste fim de semana.",
-          "en": "It's important that we get out of the city a little.",
-          "ar": "من المهم أن نخرج قليلًا من المدينة."
+          "en": "Great! I doubt I'll stay home this weekend.",
+          "ar": "رائع! أشك في أن أبقى في المنزل هذا الأسبوع."
         }
       ],
       "answer": "Tomara que não chova! Talvez o tempo fique bom.",
@@ -845,18 +845,18 @@
       "options": [
         {
           "pt": "Quero que você conheça uma praia linda que eu descobri.",
-          "en": "Quero que você conheça uma praia linda que eu descobri.",
-          "ar": "Quero que você conheça uma praia linda que eu descobri."
+          "en": "I want you to see a beautiful beach I discovered.",
+          "ar": "أريدك أن تتعرف على شاطئ جميل اكتشفته."
         },
         {
           "pt": "Espero que você possa ir à praia comigo no sábado.",
-          "en": "Espero que você possa ir à praia comigo no sábado.",
-          "ar": "Espero que você possa ir à praia comigo no sábado."
+          "en": "I hope you can go to the beach with me on Saturday.",
+          "ar": "آمل أن تتمكن من الذهاب إلى الشاطئ معي يوم السبت."
         },
         {
           "pt": "É importante que a gente saia um pouco da cidade.",
-          "en": "É importante que a gente saia um pouco da cidade.",
-          "ar": "É importante que a gente saia um pouco da cidade."
+          "en": "It's important that we get out of the city a little.",
+          "ar": "من المهم أن نخرج قليلًا من المدينة."
         }
       ],
       "answer": "Espero que você possa ir à praia comigo no sábado.",
@@ -878,18 +878,18 @@
       "options": [
         {
           "pt": "Tomara que não chova! Talvez o tempo fique bom.",
-          "en": "Tomara que não chova! Talvez o tempo fique bom.",
-          "ar": "Tomara que não chova! Talvez o tempo fique bom."
+          "en": "Hopefully it won't rain! Maybe the weather will be good.",
+          "ar": "ليت المطر لا يهطل! ربما يكون الطقس جيدًا."
         },
         {
           "pt": "Quero que você conheça uma praia linda que eu descobri.",
-          "en": "Quero que você conheça uma praia linda que eu descobri.",
-          "ar": "Quero que você conheça uma praia linda que eu descobri."
+          "en": "I want you to see a beautiful beach I discovered.",
+          "ar": "أريدك أن تتعرف على شاطئ جميل اكتشفته."
         },
         {
           "pt": "É importante que a gente saia um pouco da cidade.",
-          "en": "É importante que a gente saia um pouco da cidade.",
-          "ar": "É importante que a gente saia um pouco da cidade."
+          "en": "It's important that we get out of the city a little.",
+          "ar": "من المهم أن نخرج قليلًا من المدينة."
         }
       ],
       "answer": "Tomara que não chova! Talvez o tempo fique bom.",

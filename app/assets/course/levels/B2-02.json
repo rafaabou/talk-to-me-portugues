@@ -510,16 +510,16 @@
         {
           "pt": "Você vai votar nas próximas eleições?",
           "en": "Are you going to vote in the next elections?",
-          "ar": "أوافقك الرأي. مشاركة المجتمع أساسية للديمقراطية."
-        },
-        {
-          "pt": "Concordo. A participação da sociedade é fundamental para a democracia.",
-          "en": "That's why we need to follow politics closely.",
           "ar": "هل ستصوت في الانتخابات المقبلة؟"
         },
         {
-          "pt": "Por isso é preciso que a gente acompanhe a política de perto.",
+          "pt": "Concordo. A participação da sociedade é fundamental para a democracia.",
           "en": "I agree. Society's participation is essential to democracy.",
+          "ar": "أوافقك الرأي. مشاركة المجتمع أساسية للديمقراطية."
+        },
+        {
+          "pt": "Por isso é preciso que a gente acompanhe a política de perto.",
+          "en": "That's why we need to follow politics closely.",
           "ar": "لذلك يجب أن نتابع السياسة عن قرب."
         }
       ],
@@ -543,17 +543,17 @@
         {
           "pt": "Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.",
           "en": "Of course! In my opinion, voting is a duty and a right of every citizen.",
-          "ar": "لذلك يجب أن نتابع السياسة عن قرب."
-        },
-        {
-          "pt": "Concordo. A participação da sociedade é fundamental para a democracia.",
-          "en": "That's why we need to follow politics closely.",
           "ar": "بالتأكيد! في رأيي، التصويت واجب وحق لكل مواطن."
         },
         {
-          "pt": "Por isso é preciso que a gente acompanhe a política de perto.",
+          "pt": "Concordo. A participação da sociedade é fundamental para a democracia.",
           "en": "I agree. Society's participation is essential to democracy.",
           "ar": "أوافقك الرأي. مشاركة المجتمع أساسية للديمقراطية."
+        },
+        {
+          "pt": "Por isso é preciso que a gente acompanhe a política de perto.",
+          "en": "That's why we need to follow politics closely.",
+          "ar": "لذلك يجب أن نتابع السياسة عن قرب."
         }
       ],
       "answer": "Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.",
@@ -704,17 +704,17 @@
         {
           "pt": "É verdade, mas acho que muitos candidatos não cumprem suas promessas.",
           "en": "That's true, but I think many candidates don't keep their promises.",
-          "ar": "بالتأكيد! في رأيي، التصويت واجب وحق لكل مواطن."
+          "ar": "هذا صحيح، لكنني أعتقد أن العديد من المرشحين لا يوفون بوعودهم."
         },
         {
           "pt": "Você vai votar nas próximas eleições?",
           "en": "Are you going to vote in the next elections?",
-          "ar": "هذا صحيح، لكنني أعتقد أن العديد من المرشحين لا يوفون بوعودهم."
+          "ar": "هل ستصوت في الانتخابات المقبلة؟"
         },
         {
           "pt": "Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.",
           "en": "Of course! In my opinion, voting is a duty and a right of every citizen.",
-          "ar": "هل ستصوت في الانتخابات المقبلة؟"
+          "ar": "بالتأكيد! في رأيي، التصويت واجب وحق لكل مواطن."
         }
       ],
       "answer": "Você vai votar nas próximas eleições?",
@@ -737,17 +737,17 @@
         {
           "pt": "Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.",
           "en": "Of course! In my opinion, voting is a duty and a right of every citizen.",
-          "ar": "هل ستصوت في الانتخابات المقبلة؟"
+          "ar": "بالتأكيد! في رأيي، التصويت واجب وحق لكل مواطن."
         },
         {
           "pt": "Concordo. A participação da sociedade é fundamental para a democracia.",
-          "en": "Are you going to vote in the next elections?",
+          "en": "I agree. Society's participation is essential to democracy.",
           "ar": "أوافقك الرأي. مشاركة المجتمع أساسية للديمقراطية."
         },
         {
           "pt": "Você vai votar nas próximas eleições?",
-          "en": "I agree. Society's participation is essential to democracy.",
-          "ar": "بالتأكيد! في رأيي، التصويت واجب وحق لكل مواطن."
+          "en": "Are you going to vote in the next elections?",
+          "ar": "هل ستصوت في الانتخابات المقبلة؟"
         }
       ],
       "answer": "Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.",
@@ -805,18 +805,18 @@
       "options": [
         {
           "pt": "Você vai votar nas próximas eleições?",
-          "en": "Você vai votar nas próximas eleições?",
-          "ar": "Você vai votar nas próximas eleições?"
+          "en": "Are you going to vote in the next elections?",
+          "ar": "هل ستصوت في الانتخابات المقبلة؟"
         },
         {
           "pt": "Concordo. A participação da sociedade é fundamental para a democracia.",
-          "en": "Concordo. A participação da sociedade é fundamental para a democracia.",
-          "ar": "Concordo. A participação da sociedade é fundamental para a democracia."
+          "en": "I agree. Society's participation is essential to democracy.",
+          "ar": "أوافقك الرأي. مشاركة المجتمع أساسية للديمقراطية."
         },
         {
           "pt": "Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.",
-          "en": "Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.",
-          "ar": "Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão."
+          "en": "Of course! In my opinion, voting is a duty and a right of every citizen.",
+          "ar": "بالتأكيد! في رأيي، التصويت واجب وحق لكل مواطن."
         }
       ],
       "answer": "Você vai votar nas próximas eleições?",
@@ -838,18 +838,18 @@
       "options": [
         {
           "pt": "Por isso é preciso que a gente acompanhe a política de perto.",
-          "en": "Por isso é preciso que a gente acompanhe a política de perto.",
-          "ar": "Por isso é preciso que a gente acompanhe a política de perto."
+          "en": "That's why we need to follow politics closely.",
+          "ar": "لذلك يجب أن نتابع السياسة عن قرب."
         },
         {
           "pt": "Concordo. A participação da sociedade é fundamental para a democracia.",
-          "en": "Concordo. A participação da sociedade é fundamental para a democracia.",
-          "ar": "Concordo. A participação da sociedade é fundamental para a democracia."
+          "en": "I agree. Society's participation is essential to democracy.",
+          "ar": "أوافقك الرأي. مشاركة المجتمع أساسية للديمقراطية."
         },
         {
           "pt": "Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.",
-          "en": "Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.",
-          "ar": "Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão."
+          "en": "Of course! In my opinion, voting is a duty and a right of every citizen.",
+          "ar": "بالتأكيد! في رأيي، التصويت واجب وحق لكل مواطن."
         }
       ],
       "answer": "Claro! Na minha opinião, o voto é um dever e um direito de todo cidadão.",

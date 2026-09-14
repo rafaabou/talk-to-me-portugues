@@ -505,8 +505,8 @@
       "options": [
         {
           "pt": "Vou sim. A torcida está animada!",
-          "en": "If the top scorer scores, we will finish first.",
-          "ar": "إذا سجّل الهداف، فسنحتّل المركز الأول."
+          "en": "Yes, I am. The fans are excited!",
+          "ar": "نعم سأذهب. الجمهور متحمّس!"
         },
         {
           "pt": "Você vai ao estádio hoje?",
@@ -515,8 +515,8 @@
         },
         {
           "pt": "Se o artilheiro marcar, ficaremos em primeiro lugar.",
-          "en": "Yes, I am. The fans are excited!",
-          "ar": "نعم سأذهب. الجمهور متحمّس!"
+          "en": "If the top scorer scores, we will finish first.",
+          "ar": "إذا سجّل الهداف، فسنحتّل المركز الأول."
         }
       ],
       "answer": "Você vai ao estádio hoje?",
@@ -539,12 +539,12 @@
         {
           "pt": "Vou sim. A torcida está animada!",
           "en": "Yes, I am. The fans are excited!",
-          "ar": "هل ستذهب إلى الملعب اليوم؟"
+          "ar": "نعم سأذهب. الجمهور متحمّس!"
         },
         {
           "pt": "Você vai ao estádio hoje?",
           "en": "Are you going to the stadium today?",
-          "ar": "نعم سأذهب. الجمهور متحمّس!"
+          "ar": "هل ستذهب إلى الملعب اليوم؟"
         },
         {
           "pt": "A vitória hoje seria incrível!",
@@ -700,12 +700,12 @@
         {
           "pt": "Mas o treinador está preocupado com a defesa.",
           "en": "But the coach is worried about the defense.",
-          "ar": "هل ستذهب إلى الملعب اليوم؟"
+          "ar": "لكن المدرب قلق بشأن الدفاع."
         },
         {
           "pt": "Você vai ao estádio hoje?",
           "en": "Are you going to the stadium today?",
-          "ar": "لكن المدرب قلق بشأن الدفاع."
+          "ar": "هل ستذهب إلى الملعب اليوم؟"
         }
       ],
       "answer": "Você vai ao estádio hoje?",
@@ -728,17 +728,17 @@
         {
           "pt": "Vou sim. A torcida está animada!",
           "en": "Yes, I am. The fans are excited!",
-          "ar": "لكن المدرب قلق بشأن الدفاع."
+          "ar": "نعم سأذهب. الجمهور متحمّس!"
         },
         {
           "pt": "Mas o treinador está preocupado com a defesa.",
           "en": "But the coach is worried about the defense.",
-          "ar": "هذا الفريق أقوى من الخصم."
+          "ar": "لكن المدرب قلق بشأن الدفاع."
         },
         {
           "pt": "Este time é mais forte que o rival.",
           "en": "This team is stronger than the rival.",
-          "ar": "نعم سأذهب. الجمهور متحمّس!"
+          "ar": "هذا الفريق أقوى من الخصم."
         }
       ],
       "answer": "Vou sim. A torcida está animada!",
@@ -796,18 +796,18 @@
       "options": [
         {
           "pt": "A vitória hoje seria incrível!",
-          "en": "A vitória hoje seria incrível!",
-          "ar": "A vitória hoje seria incrível!"
+          "en": "A victory today would be amazing!",
+          "ar": "سيكون الفوز اليوم رائعاً!"
         },
         {
           "pt": "Mas o treinador está preocupado com a defesa.",
-          "en": "Mas o treinador está preocupado com a defesa.",
-          "ar": "Mas o treinador está preocupado com a defesa."
+          "en": "But the coach is worried about the defense.",
+          "ar": "لكن المدرب قلق بشأن الدفاع."
         },
         {
           "pt": "Você vai ao estádio hoje?",
-          "en": "Você vai ao estádio hoje?",
-          "ar": "Você vai ao estádio hoje?"
+          "en": "Are you going to the stadium today?",
+          "ar": "هل ستذهب إلى الملعب اليوم؟"
         }
       ],
       "answer": "Você vai ao estádio hoje?",
@@ -829,18 +829,18 @@
       "options": [
         {
           "pt": "A vitória hoje seria incrível!",
-          "en": "A vitória hoje seria incrível!",
-          "ar": "A vitória hoje seria incrível!"
+          "en": "A victory today would be amazing!",
+          "ar": "سيكون الفوز اليوم رائعاً!"
         },
         {
           "pt": "Vou sim. A torcida está animada!",
-          "en": "Vou sim. A torcida está animada!",
-          "ar": "Vou sim. A torcida está animada!"
+          "en": "Yes, I am. The fans are excited!",
+          "ar": "نعم سأذهب. الجمهور متحمّس!"
         },
         {
           "pt": "Mas o treinador está preocupado com a defesa.",
-          "en": "Mas o treinador está preocupado com a defesa.",
-          "ar": "Mas o treinador está preocupado com a defesa."
+          "en": "But the coach is worried about the defense.",
+          "ar": "لكن المدرب قلق بشأن الدفاع."
         }
       ],
       "answer": "Vou sim. A torcida está animada!",

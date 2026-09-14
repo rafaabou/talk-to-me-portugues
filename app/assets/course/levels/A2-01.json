@@ -542,13 +542,13 @@
         },
         {
           "pt": "Que bom! Você ficou lá dois dias?",
-          "en": "I bought a gift for my mother. She loved it!",
-          "ar": "اشتريت هدية لأمي. لقد أحبّتها!"
+          "en": "Great! Did you stay there two days?",
+          "ar": "رائع! هل بقيتِ هناك يومين؟"
         },
         {
           "pt": "Comprei um presente para a minha mãe. Ela adorou!",
-          "en": "Great! Did you stay there two days?",
-          "ar": "رائع! هل بقيتِ هناك يومين؟"
+          "en": "I bought a gift for my mother. She loved it!",
+          "ar": "اشتريت هدية لأمي. لقد أحبّتها!"
         }
       ],
       "answer": "O que você fez no fim de semana?",
@@ -570,17 +570,17 @@
       "options": [
         {
           "pt": "Você comprou alguma coisa?",
-          "en": "What did you do on the weekend?",
-          "ar": "سافرت إلى الساحل وزرت جدتي."
+          "en": "Did you buy anything?",
+          "ar": "هل اشتريتِ شيئًا؟"
         },
         {
           "pt": "Eu viajei para o litoral e visitei minha avó.",
           "en": "I traveled to the coast and visited my grandmother.",
-          "ar": "هل اشتريتِ شيئًا؟"
+          "ar": "سافرت إلى الساحل وزرت جدتي."
         },
         {
           "pt": "O que você fez no fim de semana?",
-          "en": "Did you buy anything?",
+          "en": "What did you do on the weekend?",
           "ar": "ماذا فعلتِ في عطلة نهاية الأسبوع؟"
         }
       ],
@@ -742,17 +742,17 @@
         {
           "pt": "O que você fez no fim de semana?",
           "en": "What did you do on the weekend?",
-          "ar": "نعم. يوم السبت، تنزهنا على الشاطئ وأكلنا المأكولات البحرية."
+          "ar": "ماذا فعلتِ في عطلة نهاية الأسبوع؟"
         },
         {
           "pt": "Que bom! Você ficou lá dois dias?",
-          "en": "Yes. On Saturday, we strolled on the beach and ate seafood.",
+          "en": "Great! Did you stay there two days?",
           "ar": "رائع! هل بقيتِ هناك يومين؟"
         },
         {
           "pt": "Sim. No sábado, nós passeamos na praia e comemos frutos do mar.",
-          "en": "Great! Did you stay there two days?",
-          "ar": "ماذا فعلتِ في عطلة نهاية الأسبوع؟"
+          "en": "Yes. On Saturday, we strolled on the beach and ate seafood.",
+          "ar": "نعم. يوم السبت، تنزهنا على الشاطئ وأكلنا المأكولات البحرية."
         }
       ],
       "answer": "O que você fez no fim de semana?",
@@ -779,13 +779,13 @@
         },
         {
           "pt": "Sim. No sábado, nós passeamos na praia e comemos frutos do mar.",
-          "en": "I bought a gift for my mother. She loved it!",
-          "ar": "اشتريت هدية لأمي. لقد أحبّتها!"
+          "en": "Yes. On Saturday, we strolled on the beach and ate seafood.",
+          "ar": "نعم. يوم السبت، تنزهنا على الشاطئ وأكلنا المأكولات البحرية."
         },
         {
           "pt": "Comprei um presente para a minha mãe. Ela adorou!",
-          "en": "Yes. On Saturday, we strolled on the beach and ate seafood.",
-          "ar": "نعم. يوم السبت، تنزهنا على الشاطئ وأكلنا المأكولات البحرية."
+          "en": "I bought a gift for my mother. She loved it!",
+          "ar": "اشتريت هدية لأمي. لقد أحبّتها!"
         }
       ],
       "answer": "Eu viajei para o litoral e visitei minha avó.",
@@ -843,18 +843,18 @@
       "options": [
         {
           "pt": "O que você fez no fim de semana?",
-          "en": "O que você fez no fim de semana?",
-          "ar": "O que você fez no fim de semana?"
+          "en": "What did you do on the weekend?",
+          "ar": "ماذا فعلتِ في عطلة نهاية الأسبوع؟"
         },
         {
           "pt": "Você comprou alguma coisa?",
-          "en": "Você comprou alguma coisa?",
-          "ar": "Você comprou alguma coisa?"
+          "en": "Did you buy anything?",
+          "ar": "هل اشتريتِ شيئًا؟"
         },
         {
           "pt": "Que bom! Você ficou lá dois dias?",
-          "en": "Que bom! Você ficou lá dois dias?",
-          "ar": "Que bom! Você ficou lá dois dias?"
+          "en": "Great! Did you stay there two days?",
+          "ar": "رائع! هل بقيتِ هناك يومين؟"
         }
       ],
       "answer": "O que você fez no fim de semana?",
@@ -876,18 +876,18 @@
       "options": [
         {
           "pt": "Que bom! Você ficou lá dois dias?",
-          "en": "Que bom! Você ficou lá dois dias?",
-          "ar": "Que bom! Você ficou lá dois dias?"
+          "en": "Great! Did you stay there two days?",
+          "ar": "رائع! هل بقيتِ هناك يومين؟"
         },
         {
           "pt": "Eu viajei para o litoral e visitei minha avó.",
-          "en": "Eu viajei para o litoral e visitei minha avó.",
-          "ar": "Eu viajei para o litoral e visitei minha avó."
+          "en": "I traveled to the coast and visited my grandmother.",
+          "ar": "سافرت إلى الساحل وزرت جدتي."
         },
         {
           "pt": "Sim. No sábado, nós passeamos na praia e comemos frutos do mar.",
-          "en": "Sim. No sábado, nós passeamos na praia e comemos frutos do mar.",
-          "ar": "Sim. No sábado, nós passeamos na praia e comemos frutos do mar."
+          "en": "Yes. On Saturday, we strolled on the beach and ate seafood.",
+          "ar": "نعم. يوم السبت، تنزهنا على الشاطئ وأكلنا المأكولات البحرية."
         }
       ],
       "answer": "Eu viajei para o litoral e visitei minha avó.",

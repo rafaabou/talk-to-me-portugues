@@ -347,8 +347,8 @@
         },
         {
           "pt": "além disso",
-          "en": "além disso",
-          "ar": "além disso"
+          "en": "moreover",
+          "ar": "علاوة على ذلك"
         },
         {
           "pt": "em suma",
@@ -546,12 +546,12 @@
         {
           "pt": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
           "en": "In short, the congestion rate only grows in big cities.",
-          "ar": "أوافق، بشرط أن يحمي الدعم من هم في أمس الحاجة إليه."
+          "ar": "باختصار، معدل الازدحام يزداد فقط في المدن الكبرى."
         },
         {
           "pt": "Concordo, desde que o subsídio proteja quem mais precisa.",
           "en": "I agree, as long as the subsidy protects those who need it most.",
-          "ar": "باختصار، معدل الازدحام يزداد فقط في المدن الكبرى."
+          "ar": "أوافق، بشرط أن يحمي الدعم من هم في أمس الحاجة إليه."
         }
       ],
       "answer": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
@@ -574,12 +574,12 @@
         {
           "pt": "Caso o preço seja alto, a medida castiga os mais pobres.",
           "en": "Should the price be high, the measure punishes the poorest.",
-          "ar": "ومع ذلك، تظهر البيانات أن وسائل النقل العام تحسنت."
+          "ar": "إذا كان السعر مرتفعًا، فسيضر الإجراء بالفقراء."
         },
         {
           "pt": "No entanto, os dados mostram que o transporte público melhorou.",
           "en": "However, the data show that public transport improved.",
-          "ar": "إذا كان السعر مرتفعًا، فسيضر الإجراء بالفقراء."
+          "ar": "ومع ذلك، تظهر البيانات أن وسائل النقل العام تحسنت."
         },
         {
           "pt": "Por um lado, é verdade; por outro, os carros particulares ainda dominam.",
@@ -760,17 +760,17 @@
         {
           "pt": "No entanto, os dados mostram que o transporte público melhorou.",
           "en": "However, the data show that public transport improved.",
-          "ar": "من جهة، هذا صحيح؛ ومن جهة أخرى، ما تزال السيارات الخاصة تهيمن."
+          "ar": "ومع ذلك، تظهر البيانات أن وسائل النقل العام تحسنت."
         },
         {
           "pt": "Por um lado, é verdade; por outro, os carros particulares ainda dominam.",
           "en": "On one hand, that is true; on the other, private cars still dominate.",
-          "ar": "باختصار، معدل الازدحام يزداد فقط في المدن الكبرى."
+          "ar": "من جهة، هذا صحيح؛ ومن جهة أخرى، ما تزال السيارات الخاصة تهيمن."
         },
         {
           "pt": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
           "en": "In short, the congestion rate only grows in big cities.",
-          "ar": "ومع ذلك، تظهر البيانات أن وسائل النقل العام تحسنت."
+          "ar": "باختصار، معدل الازدحام يزداد فقط في المدن الكبرى."
         }
       ],
       "answer": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
@@ -793,7 +793,7 @@
         {
           "pt": "Ainda que seja caro, o pedágio urbano poderia reduzir o fluxo.",
           "en": "Even though it is expensive, urban tolls could reduce the flow.",
-          "ar": "ومع ذلك، تظهر البيانات أن وسائل النقل العام تحسنت."
+          "ar": "على الرغم من كلفته، قد يقلل رسم المرور الحضري من التدفق."
         },
         {
           "pt": "Concordo, desde que o subsídio proteja quem mais precisa.",
@@ -803,7 +803,7 @@
         {
           "pt": "No entanto, os dados mostram que o transporte público melhorou.",
           "en": "However, the data show that public transport improved.",
-          "ar": "على الرغم من كلفته، قد يقلل رسم المرور الحضري من التدفق."
+          "ar": "ومع ذلك، تظهر البيانات أن وسائل النقل العام تحسنت."
         }
       ],
       "answer": "No entanto, os dados mostram que o transporte público melhorou.",
@@ -861,18 +861,18 @@
       "options": [
         {
           "pt": "Ainda que seja caro, o pedágio urbano poderia reduzir o fluxo.",
-          "en": "Ainda que seja caro, o pedágio urbano poderia reduzir o fluxo.",
-          "ar": "Ainda que seja caro, o pedágio urbano poderia reduzir o fluxo."
+          "en": "Even though it is expensive, urban tolls could reduce the flow.",
+          "ar": "على الرغم من كلفته، قد يقلل رسم المرور الحضري من التدفق."
         },
         {
           "pt": "Por um lado, é verdade; por outro, os carros particulares ainda dominam.",
-          "en": "Por um lado, é verdade; por outro, os carros particulares ainda dominam.",
-          "ar": "Por um lado, é verdade; por outro, os carros particulares ainda dominam."
+          "en": "On one hand, that is true; on the other, private cars still dominate.",
+          "ar": "من جهة، هذا صحيح؛ ومن جهة أخرى، ما تزال السيارات الخاصة تهيمن."
         },
         {
           "pt": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
-          "en": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
-          "ar": "Em suma, a taxa de congestionamento só cresce nas grandes cidades."
+          "en": "In short, the congestion rate only grows in big cities.",
+          "ar": "باختصار، معدل الازدحام يزداد فقط في المدن الكبرى."
         }
       ],
       "answer": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
@@ -894,18 +894,18 @@
       "options": [
         {
           "pt": "Ainda que seja caro, o pedágio urbano poderia reduzir o fluxo.",
-          "en": "Ainda que seja caro, o pedágio urbano poderia reduzir o fluxo.",
-          "ar": "Ainda que seja caro, o pedágio urbano poderia reduzir o fluxo."
+          "en": "Even though it is expensive, urban tolls could reduce the flow.",
+          "ar": "على الرغم من كلفته، قد يقلل رسم المرور الحضري من التدفق."
         },
         {
           "pt": "No entanto, os dados mostram que o transporte público melhorou.",
-          "en": "No entanto, os dados mostram que o transporte público melhorou.",
-          "ar": "No entanto, os dados mostram que o transporte público melhorou."
+          "en": "However, the data show that public transport improved.",
+          "ar": "ومع ذلك، تظهر البيانات أن وسائل النقل العام تحسنت."
         },
         {
           "pt": "Caso o preço seja alto, a medida castiga os mais pobres.",
-          "en": "Caso o preço seja alto, a medida castiga os mais pobres.",
-          "ar": "Caso o preço seja alto, a medida castiga os mais pobres."
+          "en": "Should the price be high, the measure punishes the poorest.",
+          "ar": "إذا كان السعر مرتفعًا، فسيضر الإجراء بالفقراء."
         }
       ],
       "answer": "No entanto, os dados mostram que o transporte público melhorou.",

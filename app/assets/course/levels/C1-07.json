@@ -524,12 +524,12 @@
       "options": [
         {
           "pt": "Encaminho em anexo a pauta da reunião para sua análise.",
-          "en": "I am at your disposal as well. Sincerely, Antônio Lopes.",
+          "en": "I am forwarding the meeting agenda as an attachment for your review.",
           "ar": "أرفق لكم جدول أعمال الاجتماع لاطلاعكم عليه."
         },
         {
           "pt": "Fico à disposição também. Atenciosamente, Antônio Lopes.",
-          "en": "I am forwarding the meeting agenda as an attachment for your review.",
+          "en": "I am at your disposal as well. Sincerely, Antônio Lopes.",
           "ar": "وأنا أيضًا تحت تصرفكم. مع خالص التحية، أنطونيو لوبيز."
         },
         {
@@ -557,18 +557,18 @@
       "options": [
         {
           "pt": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
-          "en": "I am at your disposal as well. Sincerely, Antônio Lopes.",
-          "ar": "عزيزي السيد لوبيز، أشكركم على تواصلكم وأؤكد موعد الساعة العاشرة."
-        },
-        {
-          "pt": "Fico à disposição também. Atenciosamente, Antônio Lopes.",
           "en": "Dear Dr. Martins, I am writing to confirm Friday's meeting.",
           "ar": "عزيزي الدكتور مارتنز، أكتب إليكم لتأكيد اجتماع يوم الجمعة."
         },
         {
+          "pt": "Fico à disposição também. Atenciosamente, Antônio Lopes.",
+          "en": "I am at your disposal as well. Sincerely, Antônio Lopes.",
+          "ar": "وأنا أيضًا تحت تصرفكم. مع خالص التحية، أنطونيو لوبيز."
+        },
+        {
           "pt": "Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.",
           "en": "Dear Mr. Lopes, I thank you for your contact and confirm the ten o'clock slot.",
-          "ar": "وأنا أيضًا تحت تصرفكم. مع خالص التحية، أنطونيو لوبيز."
+          "ar": "عزيزي السيد لوبيز، أشكركم على تواصلكم وأؤكد موعد الساعة العاشرة."
         }
       ],
       "answer": "Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.",
@@ -734,17 +734,17 @@
         {
           "pt": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
           "en": "Dear Dr. Martins, I am writing to confirm Friday's meeting.",
-          "ar": "وأنا أيضًا تحت تصرفكم. مع خالص التحية، أنطونيو لوبيز."
-        },
-        {
-          "pt": "Recebido. Caso precise de esclarecimentos, estou à disposição.",
-          "en": "I am at your disposal as well. Sincerely, Antônio Lopes.",
           "ar": "عزيزي الدكتور مارتنز، أكتب إليكم لتأكيد اجتماع يوم الجمعة."
         },
         {
-          "pt": "Fico à disposição também. Atenciosamente, Antônio Lopes.",
+          "pt": "Recebido. Caso precise de esclarecimentos, estou à disposição.",
           "en": "Received. Should you need clarifications, I am at your disposal.",
           "ar": "تم الاستلام. إذا احتجتم أي توضيحات، فأنا تحت تصرفكم."
+        },
+        {
+          "pt": "Fico à disposição também. Atenciosamente, Antônio Lopes.",
+          "en": "I am at your disposal as well. Sincerely, Antônio Lopes.",
+          "ar": "وأنا أيضًا تحت تصرفكم. مع خالص التحية، أنطونيو لوبيز."
         }
       ],
       "answer": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
@@ -767,7 +767,7 @@
         {
           "pt": "Fico à disposição também. Atenciosamente, Antônio Lopes.",
           "en": "I am at your disposal as well. Sincerely, Antônio Lopes.",
-          "ar": "عزيزي الدكتور مارتنز، أكتب إليكم لتأكيد اجتماع يوم الجمعة."
+          "ar": "وأنا أيضًا تحت تصرفكم. مع خالص التحية، أنطونيو لوبيز."
         },
         {
           "pt": "Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.",
@@ -777,7 +777,7 @@
         {
           "pt": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
           "en": "Dear Dr. Martins, I am writing to confirm Friday's meeting.",
-          "ar": "وأنا أيضًا تحت تصرفكم. مع خالص التحية، أنطونيو لوبيز."
+          "ar": "عزيزي الدكتور مارتنز، أكتب إليكم لتأكيد اجتماع يوم الجمعة."
         }
       ],
       "answer": "Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.",
@@ -835,18 +835,18 @@
       "options": [
         {
           "pt": "Fico à disposição também. Atenciosamente, Antônio Lopes.",
-          "en": "Fico à disposição também. Atenciosamente, Antônio Lopes.",
-          "ar": "Fico à disposição também. Atenciosamente, Antônio Lopes."
+          "en": "I am at your disposal as well. Sincerely, Antônio Lopes.",
+          "ar": "وأنا أيضًا تحت تصرفكم. مع خالص التحية، أنطونيو لوبيز."
         },
         {
           "pt": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
-          "en": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
-          "ar": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira."
+          "en": "Dear Dr. Martins, I am writing to confirm Friday's meeting.",
+          "ar": "عزيزي الدكتور مارتنز، أكتب إليكم لتأكيد اجتماع يوم الجمعة."
         },
         {
           "pt": "Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.",
-          "en": "Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.",
-          "ar": "Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas."
+          "en": "Dear Mr. Lopes, I thank you for your contact and confirm the ten o'clock slot.",
+          "ar": "عزيزي السيد لوبيز، أشكركم على تواصلكم وأؤكد موعد الساعة العاشرة."
         }
       ],
       "answer": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
@@ -868,18 +868,18 @@
       "options": [
         {
           "pt": "Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.",
-          "en": "Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.",
-          "ar": "Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas."
+          "en": "Dear Mr. Lopes, I thank you for your contact and confirm the ten o'clock slot.",
+          "ar": "عزيزي السيد لوبيز، أشكركم على تواصلكم وأؤكد موعد الساعة العاشرة."
         },
         {
           "pt": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
-          "en": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
-          "ar": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira."
+          "en": "Dear Dr. Martins, I am writing to confirm Friday's meeting.",
+          "ar": "عزيزي الدكتور مارتنز، أكتب إليكم لتأكيد اجتماع يوم الجمعة."
         },
         {
           "pt": "Recebido. Caso precise de esclarecimentos, estou à disposição.",
-          "en": "Recebido. Caso precise de esclarecimentos, estou à disposição.",
-          "ar": "Recebido. Caso precise de esclarecimentos, estou à disposição."
+          "en": "Received. Should you need clarifications, I am at your disposal.",
+          "ar": "تم الاستلام. إذا احتجتم أي توضيحات، فأنا تحت تصرفكم."
         }
       ],
       "answer": "Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.",

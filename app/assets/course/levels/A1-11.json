@@ -363,18 +363,18 @@
       "options": [
         {
           "pt": "à noite",
-          "en": "à noite",
-          "ar": "à noite"
+          "en": "at night",
+          "ar": "في الليل"
         },
         {
           "pt": "de manhã",
-          "en": "de manhã",
-          "ar": "de manhã"
+          "en": "in the morning",
+          "ar": "في الصباح"
         },
         {
           "pt": "à tarde",
-          "en": "à tarde",
-          "ar": "à tarde"
+          "en": "in the afternoon",
+          "ar": "في الظهيرة"
         }
       ],
       "answer": "de manhã",
@@ -500,18 +500,18 @@
       "options": [
         {
           "pt": "Eu acordo às seis e meia de manhã.",
-          "en": "I shower, have breakfast and leave at eight.",
+          "en": "I wake up at six thirty in the morning.",
           "ar": "أستيقظ في السادسة والنصف صباحًا."
         },
         {
           "pt": "Tomo banho, tomo café e saio às oito.",
-          "en": "I wake up at six thirty in the morning.",
-          "ar": "برونو، في أي ساعة تستيقظ؟"
+          "en": "I shower, have breakfast and leave at eight.",
+          "ar": "أستحم، أتناول الفطور وأخرج في الثامنة."
         },
         {
           "pt": "Bruno, que horas você acorda?",
           "en": "Bruno, what time do you wake up?",
-          "ar": "أستحم، أتناول الفطور وأخرج في الثامنة."
+          "ar": "برونو، في أي ساعة تستيقظ؟"
         }
       ],
       "answer": "Bruno, que horas você acorda?",
@@ -539,12 +539,12 @@
         {
           "pt": "E o que você faz depois?",
           "en": "And what do you do after?",
-          "ar": "أستيقظ في السادسة والنصف صباحًا."
+          "ar": "وماذا تفعل بعد ذلك؟"
         },
         {
           "pt": "Eu acordo às seis e meia de manhã.",
           "en": "I wake up at six thirty in the morning.",
-          "ar": "وماذا تفعل بعد ذلك؟"
+          "ar": "أستيقظ في السادسة والنصف صباحًا."
         }
       ],
       "answer": "Eu acordo às seis e meia de manhã.",
@@ -690,17 +690,17 @@
         {
           "pt": "Bruno, que horas você acorda?",
           "en": "Bruno, what time do you wake up?",
-          "ar": "في أي ساعة تصل إلى المنزل؟"
+          "ar": "برونو، في أي ساعة تستيقظ؟"
         },
         {
           "pt": "E o que você faz depois?",
-          "en": "What time do you arrive home?",
+          "en": "And what do you do after?",
           "ar": "وماذا تفعل بعد ذلك؟"
         },
         {
           "pt": "Você chega em casa que horas?",
-          "en": "And what do you do after?",
-          "ar": "برونو، في أي ساعة تستيقظ؟"
+          "en": "What time do you arrive home?",
+          "ar": "في أي ساعة تصل إلى المنزل؟"
         }
       ],
       "answer": "Bruno, que horas você acorda?",
@@ -727,13 +727,13 @@
         },
         {
           "pt": "Você chega em casa que horas?",
-          "en": "At six in the evening. Then I sleep early.",
-          "ar": "في السادسة مساءً. ثم أنام مبكرًا."
+          "en": "What time do you arrive home?",
+          "ar": "في أي ساعة تصل إلى المنزل؟"
         },
         {
           "pt": "Às seis da noite. Depois eu durmo cedo.",
-          "en": "What time do you arrive home?",
-          "ar": "في أي ساعة تصل إلى المنزل؟"
+          "en": "At six in the evening. Then I sleep early.",
+          "ar": "في السادسة مساءً. ثم أنام مبكرًا."
         }
       ],
       "answer": "Eu acordo às seis e meia de manhã.",
@@ -791,18 +791,18 @@
       "options": [
         {
           "pt": "Bruno, que horas você acorda?",
-          "en": "Bruno, que horas você acorda?",
-          "ar": "Bruno, que horas você acorda?"
+          "en": "Bruno, what time do you wake up?",
+          "ar": "برونو، في أي ساعة تستيقظ؟"
         },
         {
           "pt": "Você chega em casa que horas?",
-          "en": "Você chega em casa que horas?",
-          "ar": "Você chega em casa que horas?"
+          "en": "What time do you arrive home?",
+          "ar": "في أي ساعة تصل إلى المنزل؟"
         },
         {
           "pt": "Eu acordo às seis e meia de manhã.",
-          "en": "Eu acordo às seis e meia de manhã.",
-          "ar": "Eu acordo às seis e meia de manhã."
+          "en": "I wake up at six thirty in the morning.",
+          "ar": "أستيقظ في السادسة والنصف صباحًا."
         }
       ],
       "answer": "Bruno, que horas você acorda?",
@@ -824,18 +824,18 @@
       "options": [
         {
           "pt": "Eu acordo às seis e meia de manhã.",
-          "en": "Eu acordo às seis e meia de manhã.",
-          "ar": "Eu acordo às seis e meia de manhã."
+          "en": "I wake up at six thirty in the morning.",
+          "ar": "أستيقظ في السادسة والنصف صباحًا."
         },
         {
           "pt": "Tomo banho, tomo café e saio às oito.",
-          "en": "Tomo banho, tomo café e saio às oito.",
-          "ar": "Tomo banho, tomo café e saio às oito."
+          "en": "I shower, have breakfast and leave at eight.",
+          "ar": "أستحم، أتناول الفطور وأخرج في الثامنة."
         },
         {
           "pt": "Você chega em casa que horas?",
-          "en": "Você chega em casa que horas?",
-          "ar": "Você chega em casa que horas?"
+          "en": "What time do you arrive home?",
+          "ar": "في أي ساعة تصل إلى المنزل؟"
         }
       ],
       "answer": "Eu acordo às seis e meia de manhã.",

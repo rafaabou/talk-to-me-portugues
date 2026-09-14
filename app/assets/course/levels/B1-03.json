@@ -488,17 +488,17 @@
         {
           "pt": "Sim, a amiga com quem estudo na universidade.",
           "en": "Yes, she is the friend I study with at university.",
-          "ar": "والمقهى الذي التقينا فيه أمس؟"
+          "ar": "نعم، إنها صديقتي التي أدرس معها في الجامعة."
         },
         {
           "pt": "E o café onde nos encontramos ontem?",
           "en": "And the café where we met yesterday?",
-          "ar": "هل تعرف الفتاة التي تعمل في المخبز؟"
+          "ar": "والمقهى الذي التقينا فيه أمس؟"
         },
         {
           "pt": "Conhece a moça que trabalha na padaria?",
           "en": "Do you know the girl who works at the bakery?",
-          "ar": "نعم، إنها صديقتي التي أدرس معها في الجامعة."
+          "ar": "هل تعرف الفتاة التي تعمل في المخبز؟"
         }
       ],
       "answer": "Conhece a moça que trabalha na padaria?",
@@ -520,8 +520,8 @@
       "options": [
         {
           "pt": "E o café onde nos encontramos ontem?",
-          "en": "I loved it! The cake we ate was delicious.",
-          "ar": "أعجبني كثيراً! الكعكة التي أكلناها كانت لذيذة."
+          "en": "And the café where we met yesterday?",
+          "ar": "والمقهى الذي التقينا فيه أمس؟"
         },
         {
           "pt": "Sim, a amiga com quem estudo na universidade.",
@@ -530,8 +530,8 @@
         },
         {
           "pt": "Gostei muito! O bolo que comemos era delicioso.",
-          "en": "And the café where we met yesterday?",
-          "ar": "والمقهى الذي التقينا فيه أمس؟"
+          "en": "I loved it! The cake we ate was delicious.",
+          "ar": "أعجبني كثيراً! الكعكة التي أكلناها كانت لذيذة."
         }
       ],
       "answer": "Sim, a amiga com quem estudo na universidade.",
@@ -687,17 +687,17 @@
         {
           "pt": "Gostei muito! O bolo que comemos era delicioso.",
           "en": "I loved it! The cake we ate was delicious.",
-          "ar": "نعم، إنها صديقتي التي أدرس معها في الجامعة."
+          "ar": "أعجبني كثيراً! الكعكة التي أكلناها كانت لذيذة."
         },
         {
           "pt": "Sim, a amiga com quem estudo na universidade.",
           "en": "Yes, she is the friend I study with at university.",
-          "ar": "هل تعرف الفتاة التي تعمل في المخبز؟"
+          "ar": "نعم، إنها صديقتي التي أدرس معها في الجامعة."
         },
         {
           "pt": "Conhece a moça que trabalha na padaria?",
           "en": "Do you know the girl who works at the bakery?",
-          "ar": "أعجبني كثيراً! الكعكة التي أكلناها كانت لذيذة."
+          "ar": "هل تعرف الفتاة التي تعمل في المخبز؟"
         }
       ],
       "answer": "Conhece a moça que trabalha na padaria?",
@@ -719,7 +719,7 @@
       "options": [
         {
           "pt": "Conhece a moça que trabalha na padaria?",
-          "en": "The place whose prices are fair is perfect for us.",
+          "en": "Do you know the girl who works at the bakery?",
           "ar": "هل تعرف الفتاة التي تعمل في المخبز؟"
         },
         {
@@ -729,7 +729,7 @@
         },
         {
           "pt": "O lugar cujo preço é justo é perfeito para nós.",
-          "en": "Do you know the girl who works at the bakery?",
+          "en": "The place whose prices are fair is perfect for us.",
           "ar": "المكان الذي أسعاره معقولة مثالي لنا."
         }
       ],
@@ -788,18 +788,18 @@
       "options": [
         {
           "pt": "Conhece a moça que trabalha na padaria?",
-          "en": "Conhece a moça que trabalha na padaria?",
-          "ar": "Conhece a moça que trabalha na padaria?"
+          "en": "Do you know the girl who works at the bakery?",
+          "ar": "هل تعرف الفتاة التي تعمل في المخبز؟"
         },
         {
           "pt": "E o café onde nos encontramos ontem?",
-          "en": "E o café onde nos encontramos ontem?",
-          "ar": "E o café onde nos encontramos ontem?"
+          "en": "And the café where we met yesterday?",
+          "ar": "والمقهى الذي التقينا فيه أمس؟"
         },
         {
           "pt": "O lugar cujo preço é justo é perfeito para nós.",
-          "en": "O lugar cujo preço é justo é perfeito para nós.",
-          "ar": "O lugar cujo preço é justo é perfeito para nós."
+          "en": "The place whose prices are fair is perfect for us.",
+          "ar": "المكان الذي أسعاره معقولة مثالي لنا."
         }
       ],
       "answer": "Conhece a moça que trabalha na padaria?",
@@ -821,18 +821,18 @@
       "options": [
         {
           "pt": "Sim, a amiga com quem estudo na universidade.",
-          "en": "Sim, a amiga com quem estudo na universidade.",
-          "ar": "Sim, a amiga com quem estudo na universidade."
+          "en": "Yes, she is the friend I study with at university.",
+          "ar": "نعم، إنها صديقتي التي أدرس معها في الجامعة."
         },
         {
           "pt": "E o café onde nos encontramos ontem?",
-          "en": "E o café onde nos encontramos ontem?",
-          "ar": "E o café onde nos encontramos ontem?"
+          "en": "And the café where we met yesterday?",
+          "ar": "والمقهى الذي التقينا فيه أمس؟"
         },
         {
           "pt": "Conhece a moça que trabalha na padaria?",
-          "en": "Conhece a moça que trabalha na padaria?",
-          "ar": "Conhece a moça que trabalha na padaria?"
+          "en": "Do you know the girl who works at the bakery?",
+          "ar": "هل تعرف الفتاة التي تعمل في المخبز؟"
         }
       ],
       "answer": "Sim, a amiga com quem estudo na universidade.",

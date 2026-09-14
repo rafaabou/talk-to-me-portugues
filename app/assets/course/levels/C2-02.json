@@ -391,12 +391,12 @@
         {
           "pt": "a antítese",
           "en": "antithesis",
-          "ar": "الطباق"
+          "ar": "الطباق / التقابل"
         },
         {
           "pt": "o eufemismo",
           "en": "euphemism",
-          "ar": "التلطيف"
+          "ar": "التلطيف / اللفظ الموازي"
         },
         {
           "pt": "a metonímia",
@@ -543,7 +543,7 @@
         {
           "pt": "Como o narrador constrói a atmosfera nesse trecho?",
           "en": "How does the narrator build the atmosphere in this passage?",
-          "ar": "المبالغة: 'قلب بحجم البحر'. وهناك أيضًا مفارقة في الخاتمة."
+          "ar": "كيف يبني الراوي الأجواء في هذا المقطع؟"
         },
         {
           "pt": "Entendi. E o mais-que-perfeito em 'vira' marca a analepse da infância dela.",
@@ -553,7 +553,7 @@
         {
           "pt": "A hipérbole: 'um coração do tamanho do mar'. Há também um paradoxo no desfecho.",
           "en": "Hyperbole: 'a heart the size of the sea'. There is also a paradox in the ending.",
-          "ar": "كيف يبني الراوي الأجواء في هذا المقطع؟"
+          "ar": "المبالغة: 'قلب بحجم البحر'. وهناك أيضًا مفارقة في الخاتمة."
         }
       ],
       "answer": "Como o narrador constrói a atmosfera nesse trecho?",
@@ -576,12 +576,12 @@
         {
           "pt": "Exato. E que figura de linguagem marca a descrição do protagonista?",
           "en": "Exactly. And what figure of speech marks the description of the protagonist?",
-          "ar": "المبالغة: 'قلب بحجم البحر'. وهناك أيضًا مفارقة في الخاتمة."
+          "ar": "تمامًا. وما المجاز الذي يميز وصف الشخصية الرئيسية؟"
         },
         {
           "pt": "A hipérbole: 'um coração do tamanho do mar'. Há também um paradoxo no desfecho.",
           "en": "Hyperbole: 'a heart the size of the sea'. There is also a paradox in the ending.",
-          "ar": "تمامًا. وما المجاز الذي يميز وصف الشخصية الرئيسية؟"
+          "ar": "المبالغة: 'قلب بحجم البحر'. وهناك أيضًا مفارقة في الخاتمة."
         },
         {
           "pt": "Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.",
@@ -746,18 +746,18 @@
       "options": [
         {
           "pt": "A hipérbole: 'um coração do tamanho do mar'. Há também um paradoxo no desfecho.",
-          "en": "Very good. Note that the narrator is omniscient and uses free indirect speech in the character's reflections.",
+          "en": "Hyperbole: 'a heart the size of the sea'. There is also a paradox in the ending.",
           "ar": "المبالغة: 'قلب بحجم البحر'. وهناك أيضًا مفارقة في الخاتمة."
         },
         {
           "pt": "Como o narrador constrói a atmosfera nesse trecho?",
           "en": "How does the narrator build the atmosphere in this passage?",
-          "ar": "أحسنتِ. لاحظي أن الراوي عليم بكل شيء ويستخدم الخطاب غير المباشر الحر في تأملات الشخصية."
+          "ar": "كيف يبني الراوي الأجواء في هذا المقطع؟"
         },
         {
           "pt": "Muito bem. Observe que o narrador é onisciente e usa o discurso indireto livre nas reflexões da personagem.",
-          "en": "Hyperbole: 'a heart the size of the sea'. There is also a paradox in the ending.",
-          "ar": "كيف يبني الراوي الأجواء في هذا المقطع؟"
+          "en": "Very good. Note that the narrator is omniscient and uses free indirect speech in the character's reflections.",
+          "ar": "أحسنتِ. لاحظي أن الراوي عليم بكل شيء ويستخدم الخطاب غير المباشر الحر في تأملات الشخصية."
         }
       ],
       "answer": "Como o narrador constrói a atmosfera nesse trecho?",
@@ -780,17 +780,17 @@
         {
           "pt": "Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.",
           "en": "Through the imperfect, professor: 'the afternoon was falling', 'the shadows lengthened' create the setting.",
-          "ar": "كيف يبني الراوي الأجواء في هذا المقطع؟"
+          "ar": "من خلال الماضي الناقص، أستاذة: 'كانت تُسدل الغروب' و'كانت الظلال تمدد' يخلقان الجو."
         },
         {
           "pt": "Como o narrador constrói a atmosfera nesse trecho?",
-          "en": "I see. And the pluperfect in 'vira' marks the flashback to her childhood.",
-          "ar": "فهمت. والماضي الأسبق في 'vira' يشير إلى استرجاع طفولتها."
+          "en": "How does the narrator build the atmosphere in this passage?",
+          "ar": "كيف يبني الراوي الأجواء في هذا المقطع؟"
         },
         {
           "pt": "Entendi. E o mais-que-perfeito em 'vira' marca a analepse da infância dela.",
-          "en": "How does the narrator build the atmosphere in this passage?",
-          "ar": "من خلال الماضي الناقص، أستاذة: 'كانت تُسدل الغروب' و'كانت الظلال تمدد' يخلقان الجو."
+          "en": "I see. And the pluperfect in 'vira' marks the flashback to her childhood.",
+          "ar": "فهمت. والماضي الأسبق في 'vira' يشير إلى استرجاع طفولتها."
         }
       ],
       "answer": "Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.",
@@ -848,18 +848,18 @@
       "options": [
         {
           "pt": "Como o narrador constrói a atmosfera nesse trecho?",
-          "en": "Como o narrador constrói a atmosfera nesse trecho?",
-          "ar": "Como o narrador constrói a atmosfera nesse trecho?"
+          "en": "How does the narrator build the atmosphere in this passage?",
+          "ar": "كيف يبني الراوي الأجواء في هذا المقطع؟"
         },
         {
           "pt": "Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.",
-          "en": "Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.",
-          "ar": "Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação."
+          "en": "Through the imperfect, professor: 'the afternoon was falling', 'the shadows lengthened' create the setting.",
+          "ar": "من خلال الماضي الناقص، أستاذة: 'كانت تُسدل الغروب' و'كانت الظلال تمدد' يخلقان الجو."
         },
         {
           "pt": "Entendi. E o mais-que-perfeito em 'vira' marca a analepse da infância dela.",
-          "en": "Entendi. E o mais-que-perfeito em 'vira' marca a analepse da infância dela.",
-          "ar": "Entendi. E o mais-que-perfeito em 'vira' marca a analepse da infância dela."
+          "en": "I see. And the pluperfect in 'vira' marks the flashback to her childhood.",
+          "ar": "فهمت. والماضي الأسبق في 'vira' يشير إلى استرجاع طفولتها."
         }
       ],
       "answer": "Como o narrador constrói a atmosfera nesse trecho?",
@@ -881,18 +881,18 @@
       "options": [
         {
           "pt": "Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.",
-          "en": "Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.",
-          "ar": "Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação."
+          "en": "Through the imperfect, professor: 'the afternoon was falling', 'the shadows lengthened' create the setting.",
+          "ar": "من خلال الماضي الناقص، أستاذة: 'كانت تُسدل الغروب' و'كانت الظلال تمدد' يخلقان الجو."
         },
         {
           "pt": "Como o narrador constrói a atmosfera nesse trecho?",
-          "en": "Como o narrador constrói a atmosfera nesse trecho?",
-          "ar": "Como o narrador constrói a atmosfera nesse trecho?"
+          "en": "How does the narrator build the atmosphere in this passage?",
+          "ar": "كيف يبني الراوي الأجواء في هذا المقطع؟"
         },
         {
           "pt": "Muito bem. Observe que o narrador é onisciente e usa o discurso indireto livre nas reflexões da personagem.",
-          "en": "Muito bem. Observe que o narrador é onisciente e usa o discurso indireto livre nas reflexões da personagem.",
-          "ar": "Muito bem. Observe que o narrador é onisciente e usa o discurso indireto livre nas reflexões da personagem."
+          "en": "Very good. Note that the narrator is omniscient and uses free indirect speech in the character's reflections.",
+          "ar": "أحسنتِ. لاحظي أن الراوي عليم بكل شيء ويستخدم الخطاب غير المباشر الحر في تأملات الشخصية."
         }
       ],
       "answer": "Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.",

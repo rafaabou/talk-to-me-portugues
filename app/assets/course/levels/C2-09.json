@@ -391,7 +391,7 @@
         {
           "pt": "o sofisma",
           "en": "sophism",
-          "ar": "الشبهة السفسطائية"
+          "ar": "الشبهة / الحجة السفسطائية"
         },
         {
           "pt": "o silogismo",
@@ -543,7 +543,7 @@
         {
           "pt": "E, do ponto de vista ético, devemos suspender o juízo quando faltam dados.",
           "en": "And, from an ethical standpoint, we should suspend judgment when data are lacking.",
-          "ar": "اعرض بنية القياس المنطقي الذي قرأناه أمس."
+          "ar": "ومن منظور أخلاقي، ينبغي أن نعلّق الحكم عندما تنقص البيانات."
         },
         {
           "pt": "Exato. Provavelmente precisamos de mais evidências antes de concluir.",
@@ -553,7 +553,7 @@
         {
           "pt": "Apresente a estrutura do silogismo que lemos ontem.",
           "en": "Present the structure of the syllogism we read yesterday.",
-          "ar": "ومن منظور أخلاقي، ينبغي أن نعلّق الحكم عندما تنقص البيانات."
+          "ar": "اعرض بنية القياس المنطقي الذي قرأناه أمس."
         }
       ],
       "answer": "Apresente a estrutura do silogismo que lemos ontem.",
@@ -576,12 +576,12 @@
         {
           "pt": "Cuidado: essa inferência pode esconder uma falácia de generalização.",
           "en": "Careful: that inference may hide a fallacy of generalization.",
-          "ar": "مقدمتان ونتيجة: إذا كان كل المعرفة يأتي من التجربة، فإن العقلانية تغرق."
+          "ar": "انتبه: قد يخفي هذا الاستدلال مغالطة تعميم."
         },
         {
           "pt": "Duas premissas e uma conclusão: se todo conhecimento vem da experiência, então o racionalismo naufraga.",
           "en": "Two premises and a conclusion: if all knowledge comes from experience, then rationalism founders.",
-          "ar": "انتبه: قد يخفي هذا الاستدلال مغالطة تعميم."
+          "ar": "مقدمتان ونتيجة: إذا كان كل المعرفة يأتي من التجربة، فإن العقلانية تغرق."
         },
         {
           "pt": "Caso isso proceda, a conclusão perde validade, embora as premissas pareçam sólidas.",
@@ -780,16 +780,16 @@
         {
           "pt": "Duas premissas e uma conclusão: se todo conhecimento vem da experiência, então o racionalismo naufraga.",
           "en": "Two premises and a conclusion: if all knowledge comes from experience, then rationalism founders.",
-          "ar": "في حال صحة ذلك، تفقد النتيجة صلاحيتها، وإن بدت المقدمات راسخة."
-        },
-        {
-          "pt": "Caso isso proceda, a conclusão perde validade, embora as premissas pareçam sólidas.",
-          "en": "Careful: that inference may hide a fallacy of generalization.",
           "ar": "مقدمتان ونتيجة: إذا كان كل المعرفة يأتي من التجربة، فإن العقلانية تغرق."
         },
         {
-          "pt": "Cuidado: essa inferência pode esconder uma falácia de generalização.",
+          "pt": "Caso isso proceda, a conclusão perde validade, embora as premissas pareçam sólidas.",
           "en": "If that holds, the conclusion loses validity, although the premises seem solid.",
+          "ar": "في حال صحة ذلك، تفقد النتيجة صلاحيتها، وإن بدت المقدمات راسخة."
+        },
+        {
+          "pt": "Cuidado: essa inferência pode esconder uma falácia de generalização.",
+          "en": "Careful: that inference may hide a fallacy of generalization.",
           "ar": "انتبه: قد يخفي هذا الاستدلال مغالطة تعميم."
         }
       ],
@@ -848,18 +848,18 @@
       "options": [
         {
           "pt": "Apresente a estrutura do silogismo que lemos ontem.",
-          "en": "Apresente a estrutura do silogismo que lemos ontem.",
-          "ar": "Apresente a estrutura do silogismo que lemos ontem."
+          "en": "Present the structure of the syllogism we read yesterday.",
+          "ar": "اعرض بنية القياس المنطقي الذي قرأناه أمس."
         },
         {
           "pt": "Exato. Provavelmente precisamos de mais evidências antes de concluir.",
-          "en": "Exato. Provavelmente precisamos de mais evidências antes de concluir.",
-          "ar": "Exato. Provavelmente precisamos de mais evidências antes de concluir."
+          "en": "Exactly. We probably need more evidence before concluding.",
+          "ar": "بالضبط. نحتاج على الأرجح إلى مزيد من الأدلة قبل الاستنتاج."
         },
         {
           "pt": "Caso isso proceda, a conclusão perde validade, embora as premissas pareçam sólidas.",
-          "en": "Caso isso proceda, a conclusão perde validade, embora as premissas pareçam sólidas.",
-          "ar": "Caso isso proceda, a conclusão perde validade, embora as premissas pareçam sólidas."
+          "en": "If that holds, the conclusion loses validity, although the premises seem solid.",
+          "ar": "في حال صحة ذلك، تفقد النتيجة صلاحيتها، وإن بدت المقدمات راسخة."
         }
       ],
       "answer": "Apresente a estrutura do silogismo que lemos ontem.",
@@ -881,18 +881,18 @@
       "options": [
         {
           "pt": "Caso isso proceda, a conclusão perde validade, embora as premissas pareçam sólidas.",
-          "en": "Caso isso proceda, a conclusão perde validade, embora as premissas pareçam sólidas.",
-          "ar": "Caso isso proceda, a conclusão perde validade, embora as premissas pareçam sólidas."
+          "en": "If that holds, the conclusion loses validity, although the premises seem solid.",
+          "ar": "في حال صحة ذلك، تفقد النتيجة صلاحيتها، وإن بدت المقدمات راسخة."
         },
         {
           "pt": "Duas premissas e uma conclusão: se todo conhecimento vem da experiência, então o racionalismo naufraga.",
-          "en": "Duas premissas e uma conclusão: se todo conhecimento vem da experiência, então o racionalismo naufraga.",
-          "ar": "Duas premissas e uma conclusão: se todo conhecimento vem da experiência, então o racionalismo naufraga."
+          "en": "Two premises and a conclusion: if all knowledge comes from experience, then rationalism founders.",
+          "ar": "مقدمتان ونتيجة: إذا كان كل المعرفة يأتي من التجربة، فإن العقلانية تغرق."
         },
         {
           "pt": "E, do ponto de vista ético, devemos suspender o juízo quando faltam dados.",
-          "en": "E, do ponto de vista ético, devemos suspender o juízo quando faltam dados.",
-          "ar": "E, do ponto de vista ético, devemos suspender o juízo quando faltam dados."
+          "en": "And, from an ethical standpoint, we should suspend judgment when data are lacking.",
+          "ar": "ومن منظور أخلاقي، ينبغي أن نعلّق الحكم عندما تنقص البيانات."
         }
       ],
       "answer": "Duas premissas e uma conclusão: se todo conhecimento vem da experiência, então o racionalismo naufraga.",

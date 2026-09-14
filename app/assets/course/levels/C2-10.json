@@ -567,18 +567,18 @@
       "options": [
         {
           "pt": "Sim. 'É o compromisso que transforma ideias em resultados', e deixo a pergunta no ar.",
+          "en": "Yes. 'It is commitment that turns ideas into results', and I leave the question hanging.",
+          "ar": "نعم. 'إن الالتزام هو الذي يحوّل الأفكار إلى نتائج'، وأترك السؤال معلقًا."
+        },
+        {
+          "pt": "Boa ideia. E no fechamento, você vai usar uma pergunta retórica?",
           "en": "Good idea. And in the closing, will you use a rhetorical question?",
           "ar": "فكرة جيدة. وفي الخاتمة، هل ستستخدمين سؤالًا بلاغيًا؟"
         },
         {
-          "pt": "Boa ideia. E no fechamento, você vai usar uma pergunta retórica?",
-          "en": "Yes. 'It is commitment that turns ideas into results', and I leave the question hanging.",
-          "ar": "سأفتتح بحكاية طريفة لكسر الجمود وكسب الجمهور."
-        },
-        {
           "pt": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
           "en": "I will open with an anecdote to break the ice and win the audience.",
-          "ar": "نعم. 'إن الالتزام هو الذي يحوّل الأفكار إلى نتائج'، وأترك السؤال معلقًا."
+          "ar": "سأفتتح بحكاية طريفة لكسر الجمود وكسب الجمهور."
         }
       ],
       "answer": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
@@ -797,7 +797,7 @@
         {
           "pt": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
           "en": "I will open with an anecdote to break the ice and win the audience.",
-          "ar": "وأحافظ على التواصل البصري مع ثلاث نقاط مختلفة من الجمهور."
+          "ar": "سأفتتح بحكاية طريفة لكسر الجمود وكسب الجمهور."
         },
         {
           "pt": "Boa ideia. E no fechamento, você vai usar uma pergunta retórica?",
@@ -807,7 +807,7 @@
         {
           "pt": "E mantenho o contato visual com três pontos distintos da plateia.",
           "en": "And I keep eye contact with three distinct points of the audience.",
-          "ar": "سأفتتح بحكاية طريفة لكسر الجمود وكسب الجمهور."
+          "ar": "وأحافظ على التواصل البصري مع ثلاث نقاط مختلفة من الجمهور."
         }
       ],
       "answer": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
@@ -830,12 +830,12 @@
         {
           "pt": "Boa ideia. E no fechamento, você vai usar uma pergunta retórica?",
           "en": "Good idea. And in the closing, will you use a rhetorical question?",
-          "ar": "نعم. 'إن الالتزام هو الذي يحوّل الأفكار إلى نتائج'، وأترك السؤال معلقًا."
+          "ar": "فكرة جيدة. وفي الخاتمة، هل ستستخدمين سؤالًا بلاغيًا؟"
         },
         {
           "pt": "Sim. 'É o compromisso que transforma ideias em resultados', e deixo a pergunta no ar.",
           "en": "Yes. 'It is commitment that turns ideas into results', and I leave the question hanging.",
-          "ar": "فكرة جيدة. وفي الخاتمة، هل ستستخدمين سؤالًا بلاغيًا؟"
+          "ar": "نعم. 'إن الالتزام هو الذي يحوّل الأفكار إلى نتائج'، وأترك السؤال معلقًا."
         },
         {
           "pt": "Perfeito. Sem improviso no roteiro, mas com espaço para a naturalidade.",
@@ -898,18 +898,18 @@
       "options": [
         {
           "pt": "E mantenho o contato visual com três pontos distintos da plateia.",
-          "en": "E mantenho o contato visual com três pontos distintos da plateia.",
-          "ar": "E mantenho o contato visual com três pontos distintos da plateia."
+          "en": "And I keep eye contact with three distinct points of the audience.",
+          "ar": "وأحافظ على التواصل البصري مع ثلاث نقاط مختلفة من الجمهور."
         },
         {
           "pt": "Perfeito. Sem improviso no roteiro, mas com espaço para a naturalidade.",
-          "en": "Perfeito. Sem improviso no roteiro, mas com espaço para a naturalidade.",
-          "ar": "Perfeito. Sem improviso no roteiro, mas com espaço para a naturalidade."
+          "en": "Perfect. No improvisation in the script, but with room for naturalness.",
+          "ar": "ممتاز. بلا ارتجال في النص، لكن مع مساحة للطبيعية."
         },
         {
           "pt": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
-          "en": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
-          "ar": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia."
+          "en": "I will open with an anecdote to break the ice and win the audience.",
+          "ar": "سأفتتح بحكاية طريفة لكسر الجمود وكسب الجمهور."
         }
       ],
       "answer": "Vou abrir com uma anedota para quebrar o gelo e ganhar a plateia.",
@@ -931,18 +931,18 @@
       "options": [
         {
           "pt": "Perfeito. Sem improviso no roteiro, mas com espaço para a naturalidade.",
-          "en": "Perfeito. Sem improviso no roteiro, mas com espaço para a naturalidade.",
-          "ar": "Perfeito. Sem improviso no roteiro, mas com espaço para a naturalidade."
+          "en": "Perfect. No improvisation in the script, but with room for naturalness.",
+          "ar": "ممتاز. بلا ارتجال في النص، لكن مع مساحة للطبيعية."
         },
         {
           "pt": "Boa ideia. E no fechamento, você vai usar uma pergunta retórica?",
-          "en": "Boa ideia. E no fechamento, você vai usar uma pergunta retórica?",
-          "ar": "Boa ideia. E no fechamento, você vai usar uma pergunta retórica?"
+          "en": "Good idea. And in the closing, will you use a rhetorical question?",
+          "ar": "فكرة جيدة. وفي الخاتمة، هل ستستخدمين سؤالًا بلاغيًا؟"
         },
         {
           "pt": "E mantenho o contato visual com três pontos distintos da plateia.",
-          "en": "E mantenho o contato visual com três pontos distintos da plateia.",
-          "ar": "E mantenho o contato visual com três pontos distintos da plateia."
+          "en": "And I keep eye contact with three distinct points of the audience.",
+          "ar": "وأحافظ على التواصل البصري مع ثلاث نقاط مختلفة من الجمهور."
         }
       ],
       "answer": "Boa ideia. E no fechamento, você vai usar uma pergunta retórica?",

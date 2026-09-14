@@ -505,17 +505,17 @@
         {
           "pt": "Perfeito! Estamos esperando você.",
           "en": "Perfect! We are waiting for you.",
-          "ar": "ألو؟ ماذا تفعل الآن؟"
+          "ar": "ممتاز! نحن في انتظارك."
         },
         {
           "pt": "Alô? O que você está fazendo agora?",
           "en": "Hello? What are you doing right now?",
-          "ar": "وبيدرو؟ هل يدرس؟"
+          "ar": "ألو؟ ماذا تفعل الآن؟"
         },
         {
           "pt": "E o Pedro? Está estudando?",
           "en": "And Pedro? Is he studying?",
-          "ar": "ممتاز! نحن في انتظارك."
+          "ar": "وبيدرو؟ هل يدرس؟"
         }
       ],
       "answer": "Alô? O que você está fazendo agora?",
@@ -537,18 +537,18 @@
       "options": [
         {
           "pt": "Alô? O que você está fazendo agora?",
-          "en": "Then I will walk over to your house.",
-          "ar": "أنا أكتب رسالة إلكترونية إلى مديرتي."
+          "en": "Hello? What are you doing right now?",
+          "ar": "ألو؟ ماذا تفعل الآن؟"
         },
         {
           "pt": "Estou escrevendo um e-mail para minha chefe.",
           "en": "I am writing an email to my boss.",
-          "ar": "إذن سأمشي إلى منزلك."
+          "ar": "أنا أكتب رسالة إلكترونية إلى مديرتي."
         },
         {
           "pt": "Então vou andando até a sua casa.",
-          "en": "Hello? What are you doing right now?",
-          "ar": "ألو؟ ماذا تفعل الآن؟"
+          "en": "Then I will walk over to your house.",
+          "ar": "إذن سأمشي إلى منزلك."
         }
       ],
       "answer": "Estou escrevendo um e-mail para minha chefe.",
@@ -704,12 +704,12 @@
         {
           "pt": "Não, ele está assistindo futebol na TV.",
           "en": "No, he is watching soccer on TV.",
-          "ar": "ألو؟ ماذا تفعل الآن؟"
+          "ar": "لا، إنه يشاهد كرة القدم على التلفزيون."
         },
         {
           "pt": "Alô? O que você está fazendo agora?",
           "en": "Hello? What are you doing right now?",
-          "ar": "لا، إنه يشاهد كرة القدم على التلفزيون."
+          "ar": "ألو؟ ماذا تفعل الآن؟"
         },
         {
           "pt": "Estou escrevendo um e-mail para minha chefe.",
@@ -742,12 +742,12 @@
         {
           "pt": "Estou escrevendo um e-mail para minha chefe.",
           "en": "I am writing an email to my boss.",
-          "ar": "وبيدرو؟ هل يدرس؟"
+          "ar": "أنا أكتب رسالة إلكترونية إلى مديرتي."
         },
         {
           "pt": "E o Pedro? Está estudando?",
           "en": "And Pedro? Is he studying?",
-          "ar": "أنا أكتب رسالة إلكترونية إلى مديرتي."
+          "ar": "وبيدرو؟ هل يدرس؟"
         }
       ],
       "answer": "Estou escrevendo um e-mail para minha chefe.",
@@ -805,18 +805,18 @@
       "options": [
         {
           "pt": "Não, ele está assistindo futebol na TV.",
-          "en": "Não, ele está assistindo futebol na TV.",
-          "ar": "Não, ele está assistindo futebol na TV."
+          "en": "No, he is watching soccer on TV.",
+          "ar": "لا، إنه يشاهد كرة القدم على التلفزيون."
         },
         {
           "pt": "Então vou andando até a sua casa.",
-          "en": "Então vou andando até a sua casa.",
-          "ar": "Então vou andando até a sua casa."
+          "en": "Then I will walk over to your house.",
+          "ar": "إذن سأمشي إلى منزلك."
         },
         {
           "pt": "Alô? O que você está fazendo agora?",
-          "en": "Alô? O que você está fazendo agora?",
-          "ar": "Alô? O que você está fazendo agora?"
+          "en": "Hello? What are you doing right now?",
+          "ar": "ألو؟ ماذا تفعل الآن؟"
         }
       ],
       "answer": "Alô? O que você está fazendo agora?",
@@ -838,18 +838,18 @@
       "options": [
         {
           "pt": "Não, ele está assistindo futebol na TV.",
-          "en": "Não, ele está assistindo futebol na TV.",
-          "ar": "Não, ele está assistindo futebol na TV."
+          "en": "No, he is watching soccer on TV.",
+          "ar": "لا، إنه يشاهد كرة القدم على التلفزيون."
         },
         {
           "pt": "Estou escrevendo um e-mail para minha chefe.",
-          "en": "Estou escrevendo um e-mail para minha chefe.",
-          "ar": "Estou escrevendo um e-mail para minha chefe."
+          "en": "I am writing an email to my boss.",
+          "ar": "أنا أكتب رسالة إلكترونية إلى مديرتي."
         },
         {
           "pt": "Perfeito! Estamos esperando você.",
-          "en": "Perfeito! Estamos esperando você.",
-          "ar": "Perfeito! Estamos esperando você."
+          "en": "Perfect! We are waiting for you.",
+          "ar": "ممتاز! نحن في انتظارك."
         }
       ],
       "answer": "Estou escrevendo um e-mail para minha chefe.",

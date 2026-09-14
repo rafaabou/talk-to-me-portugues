@@ -550,12 +550,12 @@
         {
           "pt": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
           "en": "The text has an error: '30% da turma faltou' can also be 'faltaram'.",
-          "ar": "بالضبط. 'A gente vai'، ولا نقول أبدًا 'a gente vamos'."
+          "ar": "النص فيه خطأ: '30% da turma faltou' يمكن أيضًا أن تكون 'faltaram'."
         },
         {
           "pt": "Isso. 'A gente vai', nunca 'a gente vamos'.",
           "en": "Exactly. 'A gente vai', never 'a gente vamos'.",
-          "ar": "النص فيه خطأ: '30% da turma faltou' يمكن أيضًا أن تكون 'faltaram'."
+          "ar": "بالضبط. 'A gente vai'، ولا نقول أبدًا 'a gente vamos'."
         }
       ],
       "answer": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
@@ -583,12 +583,12 @@
         {
           "pt": "Isso. 'A gente vai', nunca 'a gente vamos'.",
           "en": "Exactly. 'A gente vai', never 'a gente vamos'.",
-          "ar": "ومع 'a gente'، دائمًا في الغائب؟"
+          "ar": "بالضبط. 'A gente vai'، ولا نقول أبدًا 'a gente vamos'."
         },
         {
           "pt": "E com 'a gente', sempre na terceira pessoa?",
           "en": "And with 'a gente', always in the third person?",
-          "ar": "بالضبط. 'A gente vai'، ولا نقول أبدًا 'a gente vamos'."
+          "ar": "ومع 'a gente'، دائمًا في الغائب؟"
         }
       ],
       "answer": "Então as duas formas estão corretas?",
@@ -773,18 +773,18 @@
       "options": [
         {
           "pt": "Sim, com percentuais o verbo pode concordar com o número ou com o termo seguinte.",
-          "en": "And with 'a gente', always in the third person?",
+          "en": "Yes, with percentages the verb can agree with the number or with the following term.",
           "ar": "نعم، مع النسب المئوية يمكن أن يطابق الفعل العدد أو ما يليه."
         },
         {
           "pt": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
           "en": "The text has an error: '30% da turma faltou' can also be 'faltaram'.",
-          "ar": "ومع 'a gente'، دائمًا في الغائب؟"
+          "ar": "النص فيه خطأ: '30% da turma faltou' يمكن أيضًا أن تكون 'faltaram'."
         },
         {
           "pt": "E com 'a gente', sempre na terceira pessoa?",
-          "en": "Yes, with percentages the verb can agree with the number or with the following term.",
-          "ar": "النص فيه خطأ: '30% da turma faltou' يمكن أيضًا أن تكون 'faltaram'."
+          "en": "And with 'a gente', always in the third person?",
+          "ar": "ومع 'a gente'، دائمًا في الغائب؟"
         }
       ],
       "answer": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
@@ -807,16 +807,16 @@
         {
           "pt": "Então as duas formas estão corretas?",
           "en": "So both forms are correct?",
-          "ar": "ومع 'a gente'، دائمًا في الغائب؟"
-        },
-        {
-          "pt": "E com 'a gente', sempre na terceira pessoa?",
-          "en": "Exactly. 'A gente vai', never 'a gente vamos'.",
           "ar": "إذن الصيغتان صحيحتان؟"
         },
         {
-          "pt": "Isso. 'A gente vai', nunca 'a gente vamos'.",
+          "pt": "E com 'a gente', sempre na terceira pessoa?",
           "en": "And with 'a gente', always in the third person?",
+          "ar": "ومع 'a gente'، دائمًا في الغائب؟"
+        },
+        {
+          "pt": "Isso. 'A gente vai', nunca 'a gente vamos'.",
+          "en": "Exactly. 'A gente vai', never 'a gente vamos'.",
           "ar": "بالضبط. 'A gente vai'، ولا نقول أبدًا 'a gente vamos'."
         }
       ],
@@ -875,18 +875,18 @@
       "options": [
         {
           "pt": "E com 'a gente', sempre na terceira pessoa?",
-          "en": "E com 'a gente', sempre na terceira pessoa?",
-          "ar": "E com 'a gente', sempre na terceira pessoa?"
+          "en": "And with 'a gente', always in the third person?",
+          "ar": "ومع 'a gente'، دائمًا في الغائب؟"
         },
         {
           "pt": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
-          "en": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
-          "ar": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'."
+          "en": "The text has an error: '30% da turma faltou' can also be 'faltaram'.",
+          "ar": "النص فيه خطأ: '30% da turma faltou' يمكن أيضًا أن تكون 'faltaram'."
         },
         {
           "pt": "Sim, com percentuais o verbo pode concordar com o número ou com o termo seguinte.",
-          "en": "Sim, com percentuais o verbo pode concordar com o número ou com o termo seguinte.",
-          "ar": "Sim, com percentuais o verbo pode concordar com o número ou com o termo seguinte."
+          "en": "Yes, with percentages the verb can agree with the number or with the following term.",
+          "ar": "نعم، مع النسب المئوية يمكن أن يطابق الفعل العدد أو ما يليه."
         }
       ],
       "answer": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
@@ -908,18 +908,18 @@
       "options": [
         {
           "pt": "Isso. 'A gente vai', nunca 'a gente vamos'.",
-          "en": "Isso. 'A gente vai', nunca 'a gente vamos'.",
-          "ar": "Isso. 'A gente vai', nunca 'a gente vamos'."
+          "en": "Exactly. 'A gente vai', never 'a gente vamos'.",
+          "ar": "بالضبط. 'A gente vai'، ولا نقول أبدًا 'a gente vamos'."
         },
         {
           "pt": "Então as duas formas estão corretas?",
-          "en": "Então as duas formas estão corretas?",
-          "ar": "Então as duas formas estão corretas?"
+          "en": "So both forms are correct?",
+          "ar": "إذن الصيغتان صحيحتان؟"
         },
         {
           "pt": "Sim, com percentuais o verbo pode concordar com o número ou com o termo seguinte.",
-          "en": "Sim, com percentuais o verbo pode concordar com o número ou com o termo seguinte.",
-          "ar": "Sim, com percentuais o verbo pode concordar com o número ou com o termo seguinte."
+          "en": "Yes, with percentages the verb can agree with the number or with the following term.",
+          "ar": "نعم، مع النسب المئوية يمكن أن يطابق الفعل العدد أو ما يليه."
         }
       ],
       "answer": "Então as duas formas estão corretas?",

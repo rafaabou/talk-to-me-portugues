@@ -521,18 +521,18 @@
       "options": [
         {
           "pt": "Meus avós moram com a gente. São muito queridos.",
-          "en": "Do you have siblings?",
-          "ar": "هل لديك إخوة؟"
+          "en": "My grandparents live with us. They are very dear.",
+          "ar": "يعيش أجدادي معنا. إنهم عزيزون جدًا."
         },
         {
           "pt": "Lucas, me conta sobre a sua família.",
           "en": "Lucas, tell me about your family.",
-          "ar": "يعيش أجدادي معنا. إنهم عزيزون جدًا."
+          "ar": "لوكاس، حدثني عن عائلتك."
         },
         {
           "pt": "Você tem irmãos?",
-          "en": "My grandparents live with us. They are very dear.",
-          "ar": "لوكاس، حدثني عن عائلتك."
+          "en": "Do you have siblings?",
+          "ar": "هل لديك إخوة؟"
         }
       ],
       "answer": "Lucas, me conta sobre a sua família.",
@@ -554,18 +554,18 @@
       "options": [
         {
           "pt": "Meus avós moram com a gente. São muito queridos.",
-          "en": "And your grandparents?",
-          "ar": "أبي مهندس وأمي معلمة."
+          "en": "My grandparents live with us. They are very dear.",
+          "ar": "يعيش أجدادي معنا. إنهم عزيزون جدًا."
         },
         {
           "pt": "Meu pai é engenheiro e minha mãe é professora.",
           "en": "My father is an engineer and my mother is a teacher.",
-          "ar": "وأجدادك؟"
+          "ar": "أبي مهندس وأمي معلمة."
         },
         {
           "pt": "E os seus avós?",
-          "en": "My grandparents live with us. They are very dear.",
-          "ar": "يعيش أجدادي معنا. إنهم عزيزون جدًا."
+          "en": "And your grandparents?",
+          "ar": "وأجدادك؟"
         }
       ],
       "answer": "Meu pai é engenheiro e minha mãe é professora.",
@@ -721,12 +721,12 @@
         {
           "pt": "Lucas, me conta sobre a sua família.",
           "en": "Lucas, tell me about your family.",
-          "ar": "نعم، لدي أخت أصغر. عمرها خمسة عشر عامًا."
+          "ar": "لوكاس، حدثني عن عائلتك."
         },
         {
           "pt": "Sim, tenho uma irmã mais nova. Ela tem quinze anos.",
           "en": "Yes, I have a younger sister. She is fifteen.",
-          "ar": "لوكاس، حدثني عن عائلتك."
+          "ar": "نعم، لدي أخت أصغر. عمرها خمسة عشر عامًا."
         },
         {
           "pt": "Meus avós moram com a gente. São muito queridos.",
@@ -754,12 +754,12 @@
         {
           "pt": "Você tem irmãos?",
           "en": "Do you have siblings?",
-          "ar": "أبي مهندس وأمي معلمة."
+          "ar": "هل لديك إخوة؟"
         },
         {
           "pt": "Meu pai é engenheiro e minha mãe é professora.",
           "en": "My father is an engineer and my mother is a teacher.",
-          "ar": "هل لديك إخوة؟"
+          "ar": "أبي مهندس وأمي معلمة."
         },
         {
           "pt": "Lucas, me conta sobre a sua família.",
@@ -822,18 +822,18 @@
       "options": [
         {
           "pt": "Lucas, me conta sobre a sua família.",
-          "en": "Lucas, me conta sobre a sua família.",
-          "ar": "Lucas, me conta sobre a sua família."
+          "en": "Lucas, tell me about your family.",
+          "ar": "لوكاس، حدثني عن عائلتك."
         },
         {
           "pt": "Meus avós moram com a gente. São muito queridos.",
-          "en": "Meus avós moram com a gente. São muito queridos.",
-          "ar": "Meus avós moram com a gente. São muito queridos."
+          "en": "My grandparents live with us. They are very dear.",
+          "ar": "يعيش أجدادي معنا. إنهم عزيزون جدًا."
         },
         {
           "pt": "E os seus avós?",
-          "en": "E os seus avós?",
-          "ar": "E os seus avós?"
+          "en": "And your grandparents?",
+          "ar": "وأجدادك؟"
         }
       ],
       "answer": "Lucas, me conta sobre a sua família.",
@@ -855,18 +855,18 @@
       "options": [
         {
           "pt": "Meu pai é engenheiro e minha mãe é professora.",
-          "en": "Meu pai é engenheiro e minha mãe é professora.",
-          "ar": "Meu pai é engenheiro e minha mãe é professora."
+          "en": "My father is an engineer and my mother is a teacher.",
+          "ar": "أبي مهندس وأمي معلمة."
         },
         {
           "pt": "Você tem irmãos?",
-          "en": "Você tem irmãos?",
-          "ar": "Você tem irmãos?"
+          "en": "Do you have siblings?",
+          "ar": "هل لديك إخوة؟"
         },
         {
           "pt": "Sim, tenho uma irmã mais nova. Ela tem quinze anos.",
-          "en": "Sim, tenho uma irmã mais nova. Ela tem quinze anos.",
-          "ar": "Sim, tenho uma irmã mais nova. Ela tem quinze anos."
+          "en": "Yes, I have a younger sister. She is fifteen.",
+          "ar": "نعم، لدي أخت أصغر. عمرها خمسة عشر عامًا."
         }
       ],
       "answer": "Meu pai é engenheiro e minha mãe é professora.",

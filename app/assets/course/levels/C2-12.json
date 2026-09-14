@@ -364,8 +364,8 @@
         },
         {
           "pt": "apesar de",
-          "en": "apesar de",
-          "ar": "apesar de"
+          "en": "despite",
+          "ar": "رغم"
         },
         {
           "pt": "embora",
@@ -553,17 +553,17 @@
         {
           "pt": "Parabéns! Você acaba de concluir o nível C2 do curso.",
           "en": "Congratulations! You have just completed the C2 level of the course.",
-          "ar": "بالتأكيد. بحلول نهاية العام، سأكون قد راسخ روتين انغماس."
+          "ar": "مبروك! لقد أكملت للتو المستوى C2 من الدورة."
         },
         {
           "pt": "Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.",
-          "en": "Certainly. By the end of the year, I will have consolidated an immersion routine.",
+          "en": "Thank you very much. It was a long journey, but immensely rewarding.",
           "ar": "شكرًا جزيلًا. كانت رحلة طويلة، لكنها مجزية للغاية."
         },
         {
           "pt": "Certamente. Até o fim do ano, terei consolidado uma rotina de imersão.",
-          "en": "Thank you very much. It was a long journey, but immensely rewarding.",
-          "ar": "مبروك! لقد أكملت للتو المستوى C2 من الدورة."
+          "en": "Certainly. By the end of the year, I will have consolidated an immersion routine.",
+          "ar": "بالتأكيد. بحلول نهاية العام، سأكون قد راسخ روتين انغماس."
         }
       ],
       "answer": "Parabéns! Você acaba de concluir o nível C2 do curso.",
@@ -586,12 +586,12 @@
         {
           "pt": "Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.",
           "en": "Thank you very much. It was a long journey, but immensely rewarding.",
-          "ar": "ممتاز. تذكر: الصيانة لا تقل أهمية عن التقدم."
+          "ar": "شكرًا جزيلًا. كانت رحلة طويلة، لكنها مجزية للغاية."
         },
         {
           "pt": "Excelente. Lembre-se: a manutenção é tão importante quanto o avanço.",
           "en": "Excellent. Remember: maintenance is as important as progress.",
-          "ar": "شكرًا جزيلًا. كانت رحلة طويلة، لكنها مجزية للغاية."
+          "ar": "ممتاز. تذكر: الصيانة لا تقل أهمية عن التقدم."
         },
         {
           "pt": "Certamente. Até o fim do ano, terei consolidado uma rotina de imersão.",
@@ -767,17 +767,17 @@
         {
           "pt": "Planejo um intercâmbio com vistas a ativar o vocabulário no dia a dia.",
           "en": "I plan an exchange program with a view to activating the vocabulary in daily life.",
-          "ar": "مبروك! لقد أكملت للتو المستوى C2 من الدورة."
+          "ar": "أخطط لتبادل دراسي بهدف تفعيل المفردات في الحياة اليومية."
         },
         {
           "pt": "Excelente. Lembre-se: a manutenção é tão importante quanto o avanço.",
           "en": "Excellent. Remember: maintenance is as important as progress.",
-          "ar": "أخطط لتبادل دراسي بهدف تفعيل المفردات في الحياة اليومية."
+          "ar": "ممتاز. تذكر: الصيانة لا تقل أهمية عن التقدم."
         },
         {
           "pt": "Parabéns! Você acaba de concluir o nível C2 do curso.",
           "en": "Congratulations! You have just completed the C2 level of the course.",
-          "ar": "ممتاز. تذكر: الصيانة لا تقل أهمية عن التقدم."
+          "ar": "مبروك! لقد أكملت للتو المستوى C2 من الدورة."
         }
       ],
       "answer": "Parabéns! Você acaba de concluir o nível C2 do curso.",
@@ -799,8 +799,8 @@
       "options": [
         {
           "pt": "Parabéns! Você acaba de concluir o nível C2 do curso.",
-          "en": "Excellent. Remember: maintenance is as important as progress.",
-          "ar": "ممتاز. تذكر: الصيانة لا تقل أهمية عن التقدم."
+          "en": "Congratulations! You have just completed the C2 level of the course.",
+          "ar": "مبروك! لقد أكملت للتو المستوى C2 من الدورة."
         },
         {
           "pt": "Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.",
@@ -809,8 +809,8 @@
         },
         {
           "pt": "Excelente. Lembre-se: a manutenção é tão importante quanto o avanço.",
-          "en": "Congratulations! You have just completed the C2 level of the course.",
-          "ar": "مبروك! لقد أكملت للتو المستوى C2 من الدورة."
+          "en": "Excellent. Remember: maintenance is as important as progress.",
+          "ar": "ممتاز. تذكر: الصيانة لا تقل أهمية عن التقدم."
         }
       ],
       "answer": "Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.",
@@ -868,18 +868,18 @@
       "options": [
         {
           "pt": "Agora o certificado será emitido, e o que você faz com o idioma é com você.",
-          "en": "Agora o certificado será emitido, e o que você faz com o idioma é com você.",
-          "ar": "Agora o certificado será emitido, e o que você faz com o idioma é com você."
+          "en": "Now the certificate will be issued, and what you do with the language is up to you.",
+          "ar": "الآن ستصدر الشهادة، وما تفعله باللغة يعود إليك."
         },
         {
           "pt": "Excelente. Lembre-se: a manutenção é tão importante quanto o avanço.",
-          "en": "Excelente. Lembre-se: a manutenção é tão importante quanto o avanço.",
-          "ar": "Excelente. Lembre-se: a manutenção é tão importante quanto o avanço."
+          "en": "Excellent. Remember: maintenance is as important as progress.",
+          "ar": "ممتاز. تذكر: الصيانة لا تقل أهمية عن التقدم."
         },
         {
           "pt": "Parabéns! Você acaba de concluir o nível C2 do curso.",
-          "en": "Parabéns! Você acaba de concluir o nível C2 do curso.",
-          "ar": "Parabéns! Você acaba de concluir o nível C2 do curso."
+          "en": "Congratulations! You have just completed the C2 level of the course.",
+          "ar": "مبروك! لقد أكملت للتو المستوى C2 من الدورة."
         }
       ],
       "answer": "Parabéns! Você acaba de concluir o nível C2 do curso.",
@@ -901,18 +901,18 @@
       "options": [
         {
           "pt": "Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.",
-          "en": "Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.",
-          "ar": "Muito obrigado. Foi uma jornada longa, mas imensamente gratificante."
+          "en": "Thank you very much. It was a long journey, but immensely rewarding.",
+          "ar": "شكرًا جزيلًا. كانت رحلة طويلة، لكنها مجزية للغاية."
         },
         {
           "pt": "Planejo um intercâmbio com vistas a ativar o vocabulário no dia a dia.",
-          "en": "Planejo um intercâmbio com vistas a ativar o vocabulário no dia a dia.",
-          "ar": "Planejo um intercâmbio com vistas a ativar o vocabulário no dia a dia."
+          "en": "I plan an exchange program with a view to activating the vocabulary in daily life.",
+          "ar": "أخطط لتبادل دراسي بهدف تفعيل المفردات في الحياة اليومية."
         },
         {
           "pt": "Certamente. Até o fim do ano, terei consolidado uma rotina de imersão.",
-          "en": "Certamente. Até o fim do ano, terei consolidado uma rotina de imersão.",
-          "ar": "Certamente. Até o fim do ano, terei consolidado uma rotina de imersão."
+          "en": "Certainly. By the end of the year, I will have consolidated an immersion routine.",
+          "ar": "بالتأكيد. بحلول نهاية العام، سأكون قد راسخ روتين انغماس."
         }
       ],
       "answer": "Muito obrigado. Foi uma jornada longa, mas imensamente gratificante.",

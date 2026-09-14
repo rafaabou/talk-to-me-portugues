@@ -528,16 +528,16 @@
         {
           "pt": "Boa noite! Aqui está o cardápio.",
           "en": "Good evening! Here is the menu.",
-          "ar": "قهوة والحساب، من فضلك."
-        },
-        {
-          "pt": "Um café e a conta, por favor.",
-          "en": "Then I'd like the fish and a water, please.",
           "ar": "مساء الخير! هذه قائمة الطعام."
         },
         {
-          "pt": "Então eu gostaria do peixe e uma água, por favor.",
+          "pt": "Um café e a conta, por favor.",
           "en": "A coffee and the bill, please.",
+          "ar": "قهوة والحساب، من فضلك."
+        },
+        {
+          "pt": "Então eu gostaria do peixe e uma água, por favor.",
+          "en": "Then I'd like the fish and a water, please.",
           "ar": "إذن أود السمك والماء، من فضلك."
         }
       ],
@@ -565,12 +565,12 @@
         },
         {
           "pt": "Muito bem! Alguma sobremesa?",
-          "en": "Good evening! Here is the menu.",
+          "en": "Very well! Any dessert?",
           "ar": "ممتاز! أي حلوى؟"
         },
         {
           "pt": "Boa noite! Aqui está o cardápio.",
-          "en": "Very well! Any dessert?",
+          "en": "Good evening! Here is the menu.",
           "ar": "مساء الخير! هذه قائمة الطعام."
         }
       ],
@@ -722,17 +722,17 @@
         {
           "pt": "O peixe com arroz é delicioso.",
           "en": "The fish with rice is delicious.",
-          "ar": "ممتاز! أي حلوى؟"
+          "ar": "السمك مع الأرز لذيذ."
         },
         {
           "pt": "Muito bem! Alguma sobremesa?",
           "en": "Very well! Any dessert?",
-          "ar": "مساء الخير! هذه قائمة الطعام."
+          "ar": "ممتاز! أي حلوى؟"
         },
         {
           "pt": "Boa noite! Aqui está o cardápio.",
           "en": "Good evening! Here is the menu.",
-          "ar": "السمك مع الأرز لذيذ."
+          "ar": "مساء الخير! هذه قائمة الطعام."
         }
       ],
       "answer": "Boa noite! Aqui está o cardápio.",
@@ -755,7 +755,7 @@
         {
           "pt": "Boa noite! Aqui está o cardápio.",
           "en": "Good evening! Here is the menu.",
-          "ar": "ممتاز! أي حلوى؟"
+          "ar": "مساء الخير! هذه قائمة الطعام."
         },
         {
           "pt": "Obrigado. O que você recomenda?",
@@ -765,7 +765,7 @@
         {
           "pt": "Muito bem! Alguma sobremesa?",
           "en": "Very well! Any dessert?",
-          "ar": "مساء الخير! هذه قائمة الطعام."
+          "ar": "ممتاز! أي حلوى؟"
         }
       ],
       "answer": "Obrigado. O que você recomenda?",
@@ -823,18 +823,18 @@
       "options": [
         {
           "pt": "Boa noite! Aqui está o cardápio.",
-          "en": "Boa noite! Aqui está o cardápio.",
-          "ar": "Boa noite! Aqui está o cardápio."
+          "en": "Good evening! Here is the menu.",
+          "ar": "مساء الخير! هذه قائمة الطعام."
         },
         {
           "pt": "Obrigado. O que você recomenda?",
-          "en": "Obrigado. O que você recomenda?",
-          "ar": "Obrigado. O que você recomenda?"
+          "en": "Thank you. What do you recommend?",
+          "ar": "شكرًا. ماذا تنصح؟"
         },
         {
           "pt": "Então eu gostaria do peixe e uma água, por favor.",
-          "en": "Então eu gostaria do peixe e uma água, por favor.",
-          "ar": "Então eu gostaria do peixe e uma água, por favor."
+          "en": "Then I'd like the fish and a water, please.",
+          "ar": "إذن أود السمك والماء، من فضلك."
         }
       ],
       "answer": "Boa noite! Aqui está o cardápio.",
@@ -856,18 +856,18 @@
       "options": [
         {
           "pt": "Um café e a conta, por favor.",
-          "en": "Um café e a conta, por favor.",
-          "ar": "Um café e a conta, por favor."
+          "en": "A coffee and the bill, please.",
+          "ar": "قهوة والحساب، من فضلك."
         },
         {
           "pt": "Muito bem! Alguma sobremesa?",
-          "en": "Muito bem! Alguma sobremesa?",
-          "ar": "Muito bem! Alguma sobremesa?"
+          "en": "Very well! Any dessert?",
+          "ar": "ممتاز! أي حلوى؟"
         },
         {
           "pt": "Obrigado. O que você recomenda?",
-          "en": "Obrigado. O que você recomenda?",
-          "ar": "Obrigado. O que você recomenda?"
+          "en": "Thank you. What do you recommend?",
+          "ar": "شكرًا. ماذا تنصح؟"
         }
       ],
       "answer": "Obrigado. O que você recomenda?",

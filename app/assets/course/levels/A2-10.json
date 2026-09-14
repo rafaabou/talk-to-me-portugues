@@ -523,16 +523,16 @@
         {
           "pt": "Alô, empresa Silva. Bom dia!",
           "en": "Hello, Silva company. Good morning!",
-          "ar": "لحظة واحدة. إنه في اجتماع."
-        },
-        {
-          "pt": "Um momento. Ele está em uma reunião.",
-          "en": "Then can I leave a message?",
           "ar": "ألو، شركة سيلفا. صباح الخير!"
         },
         {
-          "pt": "Então posso deixar um recado?",
+          "pt": "Um momento. Ele está em uma reunião.",
           "en": "One moment. He is in a meeting.",
+          "ar": "لحظة واحدة. إنه في اجتماع."
+        },
+        {
+          "pt": "Então posso deixar um recado?",
+          "en": "Then can I leave a message?",
           "ar": "إذن هل يمكنني ترك رسالة؟"
         }
       ],
@@ -555,18 +555,18 @@
       "options": [
         {
           "pt": "Você fala com a secretária.",
-          "en": "Then can I leave a message?",
-          "ar": "صباح الخير! مع من أتحدث؟"
+          "en": "You are speaking with the secretary.",
+          "ar": "تتحدث مع السكرتيرة."
         },
         {
           "pt": "Bom dia! Com quem eu falo?",
           "en": "Good morning! Who am I speaking with?",
-          "ar": "إذن هل يمكنني ترك رسالة؟"
+          "ar": "صباح الخير! مع من أتحدث؟"
         },
         {
           "pt": "Então posso deixar um recado?",
-          "en": "You are speaking with the secretary.",
-          "ar": "تتحدث مع السكرتيرة."
+          "en": "Then can I leave a message?",
+          "ar": "إذن هل يمكنني ترك رسالة؟"
         }
       ],
       "answer": "Bom dia! Com quem eu falo?",
@@ -716,13 +716,13 @@
         },
         {
           "pt": "Pode falar com o gerente, por favor?",
-          "en": "Then can I leave a message?",
-          "ar": "إذن هل يمكنني ترك رسالة؟"
+          "en": "Can I speak with the manager, please?",
+          "ar": "هل يمكنني التحدث مع المدير، من فضلك؟"
         },
         {
           "pt": "Então posso deixar um recado?",
-          "en": "Can I speak with the manager, please?",
-          "ar": "هل يمكنني التحدث مع المدير، من فضلك؟"
+          "en": "Then can I leave a message?",
+          "ar": "إذن هل يمكنني ترك رسالة؟"
         }
       ],
       "answer": "Alô, empresa Silva. Bom dia!",
@@ -744,18 +744,18 @@
       "options": [
         {
           "pt": "Pode falar com o gerente, por favor?",
-          "en": "You are speaking with the secretary.",
-          "ar": "تتحدث مع السكرتيرة."
+          "en": "Can I speak with the manager, please?",
+          "ar": "هل يمكنني التحدث مع المدير، من فضلك؟"
         },
         {
           "pt": "Bom dia! Com quem eu falo?",
           "en": "Good morning! Who am I speaking with?",
-          "ar": "هل يمكنني التحدث مع المدير، من فضلك؟"
+          "ar": "صباح الخير! مع من أتحدث؟"
         },
         {
           "pt": "Você fala com a secretária.",
-          "en": "Can I speak with the manager, please?",
-          "ar": "صباح الخير! مع من أتحدث؟"
+          "en": "You are speaking with the secretary.",
+          "ar": "تتحدث مع السكرتيرة."
         }
       ],
       "answer": "Bom dia! Com quem eu falo?",
@@ -813,18 +813,18 @@
       "options": [
         {
           "pt": "Pode falar com o gerente, por favor?",
-          "en": "Pode falar com o gerente, por favor?",
-          "ar": "Pode falar com o gerente, por favor?"
+          "en": "Can I speak with the manager, please?",
+          "ar": "هل يمكنني التحدث مع المدير، من فضلك؟"
         },
         {
           "pt": "Alô, empresa Silva. Bom dia!",
-          "en": "Alô, empresa Silva. Bom dia!",
-          "ar": "Alô, empresa Silva. Bom dia!"
+          "en": "Hello, Silva company. Good morning!",
+          "ar": "ألو، شركة سيلفا. صباح الخير!"
         },
         {
           "pt": "Um momento. Ele está em uma reunião.",
-          "en": "Um momento. Ele está em uma reunião.",
-          "ar": "Um momento. Ele está em uma reunião."
+          "en": "One moment. He is in a meeting.",
+          "ar": "لحظة واحدة. إنه في اجتماع."
         }
       ],
       "answer": "Alô, empresa Silva. Bom dia!",
@@ -846,18 +846,18 @@
       "options": [
         {
           "pt": "Você fala com a secretária.",
-          "en": "Você fala com a secretária.",
-          "ar": "Você fala com a secretária."
+          "en": "You are speaking with the secretary.",
+          "ar": "تتحدث مع السكرتيرة."
         },
         {
           "pt": "Bom dia! Com quem eu falo?",
-          "en": "Bom dia! Com quem eu falo?",
-          "ar": "Bom dia! Com quem eu falo?"
+          "en": "Good morning! Who am I speaking with?",
+          "ar": "صباح الخير! مع من أتحدث؟"
         },
         {
           "pt": "Alô, empresa Silva. Bom dia!",
-          "en": "Alô, empresa Silva. Bom dia!",
-          "ar": "Alô, empresa Silva. Bom dia!"
+          "en": "Hello, Silva company. Good morning!",
+          "ar": "ألو، شركة سيلفا. صباح الخير!"
         }
       ],
       "answer": "Bom dia! Com quem eu falo?",

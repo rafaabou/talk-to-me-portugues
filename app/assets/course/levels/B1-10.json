@@ -500,17 +500,17 @@
         {
           "pt": "Vamos comemorar meu aniversário na sexta-feira!",
           "en": "Let's celebrate my birthday on Friday!",
-          "ar": "رائع! هل ستكون الحفلة يوم السبت؟"
+          "ar": "هيا نحتفل بعيد ميلادي يوم الجمعة!"
         },
         {
           "pt": "Que ótimo! A festa será no sábado?",
-          "en": "Yes, it starts at eight in the evening at my house.",
-          "ar": "نعم، تبدأ الساعة الثامنة مساءً في منزلي."
+          "en": "How great! Will the party be on Saturday?",
+          "ar": "رائع! هل ستكون الحفلة يوم السبت؟"
         },
         {
           "pt": "Sim, começa às oito da noite na minha casa.",
-          "en": "How great! Will the party be on Saturday?",
-          "ar": "هيا نحتفل بعيد ميلادي يوم الجمعة!"
+          "en": "Yes, it starts at eight in the evening at my house.",
+          "ar": "نعم، تبدأ الساعة الثامنة مساءً في منزلي."
         }
       ],
       "answer": "Vamos comemorar meu aniversário na sexta-feira!",
@@ -533,16 +533,16 @@
         {
           "pt": "Que ótimo! A festa será no sábado?",
           "en": "How great! Will the party be on Saturday?",
-          "ar": "نعم، تبدأ الساعة الثامنة مساءً في منزلي."
-        },
-        {
-          "pt": "Sim, começa às oito da noite na minha casa.",
-          "en": "I will prepare a special toast. Can I bring a cake?",
           "ar": "رائع! هل ستكون الحفلة يوم السبت؟"
         },
         {
-          "pt": "Vou preparar um brinde especial. Posso trazer um bolo?",
+          "pt": "Sim, começa às oito da noite na minha casa.",
           "en": "Yes, it starts at eight in the evening at my house.",
+          "ar": "نعم، تبدأ الساعة الثامنة مساءً في منزلي."
+        },
+        {
+          "pt": "Vou preparar um brinde especial. Posso trazer um bolo?",
+          "en": "I will prepare a special toast. Can I bring a cake?",
           "ar": "سأحضّر نخباً خاصاً. هل يمكنني إحضار كعكة؟"
         }
       ],
@@ -694,16 +694,16 @@
         {
           "pt": "Vamos comemorar meu aniversário na sexta-feira!",
           "en": "Let's celebrate my birthday on Friday!",
-          "ar": "سأحضّر نخباً خاصاً. هل يمكنني إحضار كعكة؟"
-        },
-        {
-          "pt": "Vou preparar um brinde especial. Posso trazer um bolo?",
-          "en": "Yes, it starts at eight in the evening at my house.",
           "ar": "هيا نحتفل بعيد ميلادي يوم الجمعة!"
         },
         {
-          "pt": "Sim, começa às oito da noite na minha casa.",
+          "pt": "Vou preparar um brinde especial. Posso trazer um bolo?",
           "en": "I will prepare a special toast. Can I bring a cake?",
+          "ar": "سأحضّر نخباً خاصاً. هل يمكنني إحضار كعكة؟"
+        },
+        {
+          "pt": "Sim, começa às oito da noite na minha casa.",
+          "en": "Yes, it starts at eight in the evening at my house.",
           "ar": "نعم، تبدأ الساعة الثامنة مساءً في منزلي."
         }
       ],
@@ -726,13 +726,13 @@
       "options": [
         {
           "pt": "Vamos comemorar meu aniversário na sexta-feira!",
-          "en": "Of course! Don't forget to invite Ana.",
-          "ar": "بالطبع! لا تنسَ دعوة آنا."
+          "en": "Let's celebrate my birthday on Friday!",
+          "ar": "هيا نحتفل بعيد ميلادي يوم الجمعة!"
         },
         {
           "pt": "Claro! Não se esqueça de convidar a Ana.",
-          "en": "Let's celebrate my birthday on Friday!",
-          "ar": "هيا نحتفل بعيد ميلادي يوم الجمعة!"
+          "en": "Of course! Don't forget to invite Ana.",
+          "ar": "بالطبع! لا تنسَ دعوة آنا."
         },
         {
           "pt": "Que ótimo! A festa será no sábado?",
@@ -795,18 +795,18 @@
       "options": [
         {
           "pt": "Vou preparar um brinde especial. Posso trazer um bolo?",
-          "en": "Vou preparar um brinde especial. Posso trazer um bolo?",
-          "ar": "Vou preparar um brinde especial. Posso trazer um bolo?"
+          "en": "I will prepare a special toast. Can I bring a cake?",
+          "ar": "سأحضّر نخباً خاصاً. هل يمكنني إحضار كعكة؟"
         },
         {
           "pt": "Claro! Não se esqueça de convidar a Ana.",
-          "en": "Claro! Não se esqueça de convidar a Ana.",
-          "ar": "Claro! Não se esqueça de convidar a Ana."
+          "en": "Of course! Don't forget to invite Ana.",
+          "ar": "بالطبع! لا تنسَ دعوة آنا."
         },
         {
           "pt": "Vamos comemorar meu aniversário na sexta-feira!",
-          "en": "Vamos comemorar meu aniversário na sexta-feira!",
-          "ar": "Vamos comemorar meu aniversário na sexta-feira!"
+          "en": "Let's celebrate my birthday on Friday!",
+          "ar": "هيا نحتفل بعيد ميلادي يوم الجمعة!"
         }
       ],
       "answer": "Vamos comemorar meu aniversário na sexta-feira!",
@@ -828,18 +828,18 @@
       "options": [
         {
           "pt": "Que ótimo! A festa será no sábado?",
-          "en": "Que ótimo! A festa será no sábado?",
-          "ar": "Que ótimo! A festa será no sábado?"
+          "en": "How great! Will the party be on Saturday?",
+          "ar": "رائع! هل ستكون الحفلة يوم السبت؟"
         },
         {
           "pt": "Sim, começa às oito da noite na minha casa.",
-          "en": "Sim, começa às oito da noite na minha casa.",
-          "ar": "Sim, começa às oito da noite na minha casa."
+          "en": "Yes, it starts at eight in the evening at my house.",
+          "ar": "نعم، تبدأ الساعة الثامنة مساءً في منزلي."
         },
         {
           "pt": "Claro! Não se esqueça de convidar a Ana.",
-          "en": "Claro! Não se esqueça de convidar a Ana.",
-          "ar": "Claro! Não se esqueça de convidar a Ana."
+          "en": "Of course! Don't forget to invite Ana.",
+          "ar": "بالطبع! لا تنسَ دعوة آنا."
         }
       ],
       "answer": "Que ótimo! A festa será no sábado?",

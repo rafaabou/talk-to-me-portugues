@@ -522,12 +522,12 @@
         {
           "pt": "E o trânsito?",
           "en": "And the traffic?",
-          "ar": "صحيح. الحياة هناك أفضل للعائلة."
+          "ar": "وحركة المرور؟"
         },
         {
           "pt": "Verdade. Lá a vida é melhor para a família.",
           "en": "True. There, life is better for the family.",
-          "ar": "وحركة المرور؟"
+          "ar": "صحيح. الحياة هناك أفضل للعائلة."
         },
         {
           "pt": "O que você acha de São Paulo?",
@@ -559,13 +559,13 @@
         },
         {
           "pt": "O que você acha de São Paulo?",
-          "en": "São Paulo's traffic is the worst in Brazil.",
-          "ar": "حركة مرور ساو باولو هي الأسوأ في البرازيل."
+          "en": "What do you think of São Paulo?",
+          "ar": "ما رأيك في ساو باولو؟"
         },
         {
           "pt": "O trânsito de São Paulo é o pior do Brasil.",
-          "en": "What do you think of São Paulo?",
-          "ar": "ما رأيك في ساو باولو؟"
+          "en": "São Paulo's traffic is the worst in Brazil.",
+          "ar": "حركة مرور ساو باولو هي الأسوأ في البرازيل."
         }
       ],
       "answer": "É maior do que Recife, mas é mais cara.",
@@ -720,18 +720,18 @@
       "options": [
         {
           "pt": "Verdade. Lá a vida é melhor para a família.",
-          "en": "It is bigger than Recife, but it is more expensive.",
-          "ar": "إنها أكبر من ريسيفي، لكنها أغلى."
+          "en": "True. There, life is better for the family.",
+          "ar": "صحيح. الحياة هناك أفضل للعائلة."
         },
         {
           "pt": "O que você acha de São Paulo?",
           "en": "What do you think of São Paulo?",
-          "ar": "صحيح. الحياة هناك أفضل للعائلة."
+          "ar": "ما رأيك في ساو باولو؟"
         },
         {
           "pt": "É maior do que Recife, mas é mais cara.",
-          "en": "True. There, life is better for the family.",
-          "ar": "ما رأيك في ساو باولو؟"
+          "en": "It is bigger than Recife, but it is more expensive.",
+          "ar": "إنها أكبر من ريسيفي، لكنها أغلى."
         }
       ],
       "answer": "O que você acha de São Paulo?",
@@ -753,18 +753,18 @@
       "options": [
         {
           "pt": "O que você acha de São Paulo?",
-          "en": "And the traffic?",
-          "ar": "إنها أكبر من ريسيفي، لكنها أغلى."
+          "en": "What do you think of São Paulo?",
+          "ar": "ما رأيك في ساو باولو؟"
         },
         {
           "pt": "E o trânsito?",
-          "en": "What do you think of São Paulo?",
+          "en": "And the traffic?",
           "ar": "وحركة المرور؟"
         },
         {
           "pt": "É maior do que Recife, mas é mais cara.",
           "en": "It is bigger than Recife, but it is more expensive.",
-          "ar": "ما رأيك في ساو باولو؟"
+          "ar": "إنها أكبر من ريسيفي، لكنها أغلى."
         }
       ],
       "answer": "É maior do que Recife, mas é mais cara.",
@@ -822,18 +822,18 @@
       "options": [
         {
           "pt": "O que você acha de São Paulo?",
-          "en": "O que você acha de São Paulo?",
-          "ar": "O que você acha de São Paulo?"
+          "en": "What do you think of São Paulo?",
+          "ar": "ما رأيك في ساو باولو؟"
         },
         {
           "pt": "É maior do que Recife, mas é mais cara.",
-          "en": "É maior do que Recife, mas é mais cara.",
-          "ar": "É maior do que Recife, mas é mais cara."
+          "en": "It is bigger than Recife, but it is more expensive.",
+          "ar": "إنها أكبر من ريسيفي، لكنها أغلى."
         },
         {
           "pt": "E o trânsito?",
-          "en": "E o trânsito?",
-          "ar": "E o trânsito?"
+          "en": "And the traffic?",
+          "ar": "وحركة المرور؟"
         }
       ],
       "answer": "O que você acha de São Paulo?",
@@ -855,18 +855,18 @@
       "options": [
         {
           "pt": "E o trânsito?",
-          "en": "E o trânsito?",
-          "ar": "E o trânsito?"
+          "en": "And the traffic?",
+          "ar": "وحركة المرور؟"
         },
         {
           "pt": "Verdade. Lá a vida é melhor para a família.",
-          "en": "Verdade. Lá a vida é melhor para a família.",
-          "ar": "Verdade. Lá a vida é melhor para a família."
+          "en": "True. There, life is better for the family.",
+          "ar": "صحيح. الحياة هناك أفضل للعائلة."
         },
         {
           "pt": "É maior do que Recife, mas é mais cara.",
-          "en": "É maior do que Recife, mas é mais cara.",
-          "ar": "É maior do que Recife, mas é mais cara."
+          "en": "It is bigger than Recife, but it is more expensive.",
+          "ar": "إنها أكبر من ريسيفي، لكنها أغلى."
         }
       ],
       "answer": "É maior do que Recife, mas é mais cara.",

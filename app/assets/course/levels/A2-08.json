@@ -538,12 +538,12 @@
         {
           "pt": "Bom dia! O que você está sentindo?",
           "en": "Good morning! What are you feeling?",
-          "ar": "منذ الليلة الماضية."
+          "ar": "صباح الخير! بماذا تشعر؟"
         },
         {
           "pt": "Desde ontem à noite.",
           "en": "Since last night.",
-          "ar": "صباح الخير! بماذا تشعر؟"
+          "ar": "منذ الليلة الماضية."
         }
       ],
       "answer": "Bom dia! O que você está sentindo?",
@@ -565,18 +565,18 @@
       "options": [
         {
           "pt": "Obrigado, doutor. Eu sigo as instruções.",
-          "en": "Good morning! What are you feeling?",
-          "ar": "أعاني من التهاب في الحلق وحمى."
+          "en": "Thank you, doctor. I will follow the instructions.",
+          "ar": "شكرًا يا دكتور. سأتبع التعليمات."
         },
         {
           "pt": "Estou com dor de garganta e febre.",
           "en": "I have a sore throat and a fever.",
-          "ar": "صباح الخير! بماذا تشعر؟"
+          "ar": "أعاني من التهاب في الحلق وحمى."
         },
         {
           "pt": "Bom dia! O que você está sentindo?",
-          "en": "Thank you, doctor. I will follow the instructions.",
-          "ar": "شكرًا يا دكتور. سأتبع التعليمات."
+          "en": "Good morning! What are you feeling?",
+          "ar": "صباح الخير! بماذا تشعر؟"
         }
       ],
       "answer": "Estou com dor de garganta e febre.",
@@ -732,17 +732,17 @@
         {
           "pt": "Desde quando?",
           "en": "Since when?",
-          "ar": "أعاني من التهاب في الحلق وحمى."
+          "ar": "منذ متى؟"
         },
         {
           "pt": "Bom dia! O que você está sentindo?",
           "en": "Good morning! What are you feeling?",
-          "ar": "منذ متى؟"
+          "ar": "صباح الخير! بماذا تشعر؟"
         },
         {
           "pt": "Estou com dor de garganta e febre.",
           "en": "I have a sore throat and a fever.",
-          "ar": "صباح الخير! بماذا تشعر؟"
+          "ar": "أعاني من التهاب في الحلق وحمى."
         }
       ],
       "answer": "Bom dia! O que você está sentindo?",
@@ -765,12 +765,12 @@
         {
           "pt": "Bom dia! O que você está sentindo?",
           "en": "Good morning! What are you feeling?",
-          "ar": "منذ متى؟"
+          "ar": "صباح الخير! بماذا تشعر؟"
         },
         {
           "pt": "Desde quando?",
           "en": "Since when?",
-          "ar": "صباح الخير! بماذا تشعر؟"
+          "ar": "منذ متى؟"
         },
         {
           "pt": "Estou com dor de garganta e febre.",
@@ -833,18 +833,18 @@
       "options": [
         {
           "pt": "Desde quando?",
-          "en": "Desde quando?",
-          "ar": "Desde quando?"
+          "en": "Since when?",
+          "ar": "منذ متى؟"
         },
         {
           "pt": "Bom dia! O que você está sentindo?",
-          "en": "Bom dia! O que você está sentindo?",
-          "ar": "Bom dia! O que você está sentindo?"
+          "en": "Good morning! What are you feeling?",
+          "ar": "صباح الخير! بماذا تشعر؟"
         },
         {
           "pt": "Desde ontem à noite.",
-          "en": "Desde ontem à noite.",
-          "ar": "Desde ontem à noite."
+          "en": "Since last night.",
+          "ar": "منذ الليلة الماضية."
         }
       ],
       "answer": "Bom dia! O que você está sentindo?",
@@ -866,18 +866,18 @@
       "options": [
         {
           "pt": "Estou com dor de garganta e febre.",
-          "en": "Estou com dor de garganta e febre.",
-          "ar": "Estou com dor de garganta e febre."
+          "en": "I have a sore throat and a fever.",
+          "ar": "أعاني من التهاب في الحلق وحمى."
         },
         {
           "pt": "Você tem que tomar este remédio e descansar.",
-          "en": "Você tem que tomar este remédio e descansar.",
-          "ar": "Você tem que tomar este remédio e descansar."
+          "en": "You have to take this medicine and rest.",
+          "ar": "يجب أن تتناول هذا الدواء وتستريح."
         },
         {
           "pt": "Desde quando?",
-          "en": "Desde quando?",
-          "ar": "Desde quando?"
+          "en": "Since when?",
+          "ar": "منذ متى؟"
         }
       ],
       "answer": "Estou com dor de garganta e febre.",

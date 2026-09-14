@@ -343,13 +343,13 @@
       "options": [
         {
           "pt": "bom dia",
-          "en": "bom dia",
-          "ar": "bom dia"
+          "en": "good morning",
+          "ar": "صباح الخير"
         },
         {
           "pt": "boa noite",
-          "en": "boa noite",
-          "ar": "boa noite"
+          "en": "good night",
+          "ar": "ليلة سعيدة"
         },
         {
           "pt": "tchau",
@@ -522,7 +522,7 @@
         {
           "pt": "Tchau, Ana! Até amanhã.",
           "en": "Bye, Ana! See you tomorrow.",
-          "ar": "مرحبًا آنا! أنا بيدرو. سررت بلقائك."
+          "ar": "وداعًا آنا! أراك غدًا."
         },
         {
           "pt": "Olá! Meu nome é Ana. E você?",
@@ -532,7 +532,7 @@
         {
           "pt": "Oi, Ana! Eu sou o Pedro. Muito prazer.",
           "en": "Hi, Ana! I'm Pedro. Nice to meet you.",
-          "ar": "وداعًا آنا! أراك غدًا."
+          "ar": "مرحبًا آنا! أنا بيدرو. سررت بلقائك."
         }
       ],
       "answer": "Olá! Meu nome é Ana. E você?",
@@ -555,16 +555,16 @@
         {
           "pt": "Oi, Ana! Eu sou o Pedro. Muito prazer.",
           "en": "Hi, Ana! I'm Pedro. Nice to meet you.",
-          "ar": "وداعًا آنا! أراك غدًا."
-        },
-        {
-          "pt": "Tchau, Ana! Até amanhã.",
-          "en": "The pleasure is mine. How are you?",
           "ar": "مرحبًا آنا! أنا بيدرو. سررت بلقائك."
         },
         {
-          "pt": "O prazer é meu. Como vai você?",
+          "pt": "Tchau, Ana! Até amanhã.",
           "en": "Bye, Ana! See you tomorrow.",
+          "ar": "وداعًا آنا! أراك غدًا."
+        },
+        {
+          "pt": "O prazer é meu. Como vai você?",
+          "en": "The pleasure is mine. How are you?",
           "ar": "بسرور. كيف حالك؟"
         }
       ],
@@ -721,17 +721,17 @@
         {
           "pt": "O prazer é meu. Como vai você?",
           "en": "The pleasure is mine. How are you?",
-          "ar": "مرحبًا! اسمي آنا. وأنت؟"
+          "ar": "بسرور. كيف حالك؟"
         },
         {
           "pt": "Olá! Meu nome é Ana. E você?",
           "en": "Hello! My name is Ana. And you?",
-          "ar": "أنا بخير، شكرًا! وأنت؟"
+          "ar": "مرحبًا! اسمي آنا. وأنت؟"
         },
         {
           "pt": "Tudo bem, obrigado! E você?",
           "en": "I'm fine, thanks! And you?",
-          "ar": "بسرور. كيف حالك؟"
+          "ar": "أنا بخير، شكرًا! وأنت؟"
         }
       ],
       "answer": "Olá! Meu nome é Ana. E você?",
@@ -758,12 +758,12 @@
         },
         {
           "pt": "Olá! Meu nome é Ana. E você?",
-          "en": "The pleasure is mine. How are you?",
+          "en": "Hello! My name is Ana. And you?",
           "ar": "مرحبًا! اسمي آنا. وأنت؟"
         },
         {
           "pt": "O prazer é meu. Como vai você?",
-          "en": "Hello! My name is Ana. And you?",
+          "en": "The pleasure is mine. How are you?",
           "ar": "بسرور. كيف حالك؟"
         }
       ],
@@ -822,18 +822,18 @@
       "options": [
         {
           "pt": "Tudo ótimo. Até logo, Pedro!",
-          "en": "Tudo ótimo. Até logo, Pedro!",
-          "ar": "Tudo ótimo. Até logo, Pedro!"
+          "en": "Everything great. See you later, Pedro!",
+          "ar": "كل شيء رائع. أراك لاحقًا يا بيدرو!"
         },
         {
           "pt": "Olá! Meu nome é Ana. E você?",
-          "en": "Olá! Meu nome é Ana. E você?",
-          "ar": "Olá! Meu nome é Ana. E você?"
+          "en": "Hello! My name is Ana. And you?",
+          "ar": "مرحبًا! اسمي آنا. وأنت؟"
         },
         {
           "pt": "Tchau, Ana! Até amanhã.",
-          "en": "Tchau, Ana! Até amanhã.",
-          "ar": "Tchau, Ana! Até amanhã."
+          "en": "Bye, Ana! See you tomorrow.",
+          "ar": "وداعًا آنا! أراك غدًا."
         }
       ],
       "answer": "Olá! Meu nome é Ana. E você?",
@@ -855,18 +855,18 @@
       "options": [
         {
           "pt": "Olá! Meu nome é Ana. E você?",
-          "en": "Olá! Meu nome é Ana. E você?",
-          "ar": "Olá! Meu nome é Ana. E você?"
+          "en": "Hello! My name is Ana. And you?",
+          "ar": "مرحبًا! اسمي آنا. وأنت؟"
         },
         {
           "pt": "Tudo bem, obrigado! E você?",
-          "en": "Tudo bem, obrigado! E você?",
-          "ar": "Tudo bem, obrigado! E você?"
+          "en": "I'm fine, thanks! And you?",
+          "ar": "أنا بخير، شكرًا! وأنت؟"
         },
         {
           "pt": "Oi, Ana! Eu sou o Pedro. Muito prazer.",
-          "en": "Oi, Ana! Eu sou o Pedro. Muito prazer.",
-          "ar": "Oi, Ana! Eu sou o Pedro. Muito prazer."
+          "en": "Hi, Ana! I'm Pedro. Nice to meet you.",
+          "ar": "مرحبًا آنا! أنا بيدرو. سررت بلقائك."
         }
       ],
       "answer": "Oi, Ana! Eu sou o Pedro. Muito prazer.",

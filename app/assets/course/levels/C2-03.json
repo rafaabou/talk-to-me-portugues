@@ -547,18 +547,18 @@
       "options": [
         {
           "pt": "Perfeito. E por que não usamos 'concluídos'?",
-          "en": "The report finished, we sent the email.",
-          "ar": "أعد كتابة الجملة المطوّرة إلى جملة مختزلة باسم المفعول."
-        },
-        {
-          "pt": "Concluído o relatório, enviamos o e-mail.",
           "en": "Perfect. And why do we not use 'concluídos'?",
           "ar": "ممتاز. ولماذا لا نستخدم 'concluídos'؟"
         },
         {
+          "pt": "Concluído o relatório, enviamos o e-mail.",
+          "en": "The report finished, we sent the email.",
+          "ar": "بعد إنجاز التقرير، أرسلنا البريد الإلكتروني."
+        },
+        {
           "pt": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
           "en": "Rewrite the developed clause as a reduced participle clause.",
-          "ar": "بعد إنجاز التقرير، أرسلنا البريد الإلكتروني."
+          "ar": "أعد كتابة الجملة المطوّرة إلى جملة مختزلة باسم المفعول."
         }
       ],
       "answer": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
@@ -580,18 +580,18 @@
       "options": [
         {
           "pt": "Perfeito. E por que não usamos 'concluídos'?",
-          "en": "The report finished, we sent the email.",
-          "ar": "بعد أن أُنجز التقرير، أرسلنا البريد الإلكتروني."
-        },
-        {
-          "pt": "Concluído o relatório, enviamos o e-mail.",
           "en": "Perfect. And why do we not use 'concluídos'?",
           "ar": "ممتاز. ولماذا لا نستخدم 'concluídos'؟"
         },
         {
+          "pt": "Concluído o relatório, enviamos o e-mail.",
+          "en": "The report finished, we sent the email.",
+          "ar": "بعد إنجاز التقرير، أرسلنا البريد الإلكتروني."
+        },
+        {
           "pt": "Depois que o relatório foi concluído, enviamos o e-mail.",
           "en": "After the report was finished, we sent the email.",
-          "ar": "بعد إنجاز التقرير، أرسلنا البريد الإلكتروني."
+          "ar": "بعد أن أُنجز التقرير، أرسلنا البريد الإلكتروني."
         }
       ],
       "answer": "Depois que o relatório foi concluído, enviamos o e-mail.",
@@ -757,17 +757,17 @@
         {
           "pt": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
           "en": "Rewrite the developed clause as a reduced participle clause.",
-          "ar": "بعد إنجاز التقرير، أرسلنا البريد الإلكتروني."
+          "ar": "أعد كتابة الجملة المطوّرة إلى جملة مختزلة باسم المفعول."
         },
         {
           "pt": "Concluído o relatório, enviamos o e-mail.",
           "en": "The report finished, we sent the email.",
-          "ar": "الآن اختصرها باسم المفعول."
+          "ar": "بعد إنجاز التقرير، أرسلنا البريد الإلكتروني."
         },
         {
           "pt": "Agora reduza com o particípio.",
           "en": "Now reduce it with the participle.",
-          "ar": "أعد كتابة الجملة المطوّرة إلى جملة مختزلة باسم المفعول."
+          "ar": "الآن اختصرها باسم المفعول."
         }
       ],
       "answer": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
@@ -790,12 +790,12 @@
         {
           "pt": "Depois que o relatório foi concluído, enviamos o e-mail.",
           "en": "After the report was finished, we sent the email.",
-          "ar": "بعد إنجاز التقرير، أرسلنا البريد الإلكتروني."
+          "ar": "بعد أن أُنجز التقرير، أرسلنا البريد الإلكتروني."
         },
         {
           "pt": "Concluído o relatório, enviamos o e-mail.",
           "en": "The report finished, we sent the email.",
-          "ar": "بعد أن أُنجز التقرير، أرسلنا البريد الإلكتروني."
+          "ar": "بعد إنجاز التقرير، أرسلنا البريد الإلكتروني."
         },
         {
           "pt": "Agora reduza com o particípio.",
@@ -858,18 +858,18 @@
       "options": [
         {
           "pt": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
-          "en": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
-          "ar": "Reescreva a oração desenvolvida em uma reduzida de particípio."
+          "en": "Rewrite the developed clause as a reduced participle clause.",
+          "ar": "أعد كتابة الجملة المطوّرة إلى جملة مختزلة باسم المفعول."
         },
         {
           "pt": "Porque 'relatório' está no singular; o particípio concorda com ele.",
-          "en": "Porque 'relatório' está no singular; o particípio concorda com ele.",
-          "ar": "Porque 'relatório' está no singular; o particípio concorda com ele."
+          "en": "Because 'relatório' is singular; the participle agrees with it.",
+          "ar": "لأن 'relatório' مفرد؛ فيطابقه اسم المفعول في العدد والجنس."
         },
         {
           "pt": "Concluído o relatório, enviamos o e-mail.",
-          "en": "Concluído o relatório, enviamos o e-mail.",
-          "ar": "Concluído o relatório, enviamos o e-mail."
+          "en": "The report finished, we sent the email.",
+          "ar": "بعد إنجاز التقرير، أرسلنا البريد الإلكتروني."
         }
       ],
       "answer": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
@@ -891,18 +891,18 @@
       "options": [
         {
           "pt": "Concluído o relatório, enviamos o e-mail.",
-          "en": "Concluído o relatório, enviamos o e-mail.",
-          "ar": "Concluído o relatório, enviamos o e-mail."
+          "en": "The report finished, we sent the email.",
+          "ar": "بعد إنجاز التقرير، أرسلنا البريد الإلكتروني."
         },
         {
           "pt": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
-          "en": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
-          "ar": "Reescreva a oração desenvolvida em uma reduzida de particípio."
+          "en": "Rewrite the developed clause as a reduced participle clause.",
+          "ar": "أعد كتابة الجملة المطوّرة إلى جملة مختزلة باسم المفعول."
         },
         {
           "pt": "Depois que o relatório foi concluído, enviamos o e-mail.",
-          "en": "Depois que o relatório foi concluído, enviamos o e-mail.",
-          "ar": "Depois que o relatório foi concluído, enviamos o e-mail."
+          "en": "After the report was finished, we sent the email.",
+          "ar": "بعد أن أُنجز التقرير، أرسلنا البريد الإلكتروني."
         }
       ],
       "answer": "Depois que o relatório foi concluído, enviamos o e-mail.",

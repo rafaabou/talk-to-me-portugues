@@ -497,12 +497,12 @@
       "options": [
         {
           "pt": "Sério? E onde a senhora tinha morado antes?",
-          "en": "I had never heard that story.",
+          "en": "Really? And where had you lived before?",
           "ar": "حقاً؟ وأين كنتِ قد سكنتِ من قبل؟"
         },
         {
           "pt": "Eu nunca tinha ouvido essa história.",
-          "en": "Really? And where had you lived before?",
+          "en": "I had never heard that story.",
           "ar": "لم أكن قد سمعت هذه القصة من قبل."
         },
         {
@@ -530,18 +530,18 @@
       "options": [
         {
           "pt": "Quando o trem chegou, já tínhamos preparado tudo.",
-          "en": "I had lived in the countryside, near the river.",
+          "en": "When the train arrived, we had already prepared everything.",
           "ar": "عندما وصل القطار، كنا قد جهّزنا كل شيء."
         },
         {
           "pt": "Sério? E onde a senhora tinha morado antes?",
           "en": "Really? And where had you lived before?",
-          "ar": "كنت قد سكنت في الريف، قرب النهر."
+          "ar": "حقاً؟ وأين كنتِ قد سكنتِ من قبل؟"
         },
         {
           "pt": "Eu tinha morado no interior, perto do rio.",
-          "en": "When the train arrived, we had already prepared everything.",
-          "ar": "حقاً؟ وأين كنتِ قد سكنتِ من قبل؟"
+          "en": "I had lived in the countryside, near the river.",
+          "ar": "كنت قد سكنت في الريف، قرب النهر."
         }
       ],
       "answer": "Sério? E onde a senhora tinha morado antes?",
@@ -707,17 +707,17 @@
         {
           "pt": "Quando eu era criança, já tinha conhecido o mar.",
           "en": "When I was a child, I had already seen the sea.",
-          "ar": "لم أكن قد سمعت هذه القصة من قبل."
+          "ar": "عندما كنت طفلة، كنت قد رأيت البحر بالفعل."
         },
         {
           "pt": "Eu nunca tinha ouvido essa história.",
-          "en": "I had lived in the countryside, near the river.",
-          "ar": "كنت قد سكنت في الريف، قرب النهر."
+          "en": "I had never heard that story.",
+          "ar": "لم أكن قد سمعت هذه القصة من قبل."
         },
         {
           "pt": "Eu tinha morado no interior, perto do rio.",
-          "en": "I had never heard that story.",
-          "ar": "عندما كنت طفلة، كنت قد رأيت البحر بالفعل."
+          "en": "I had lived in the countryside, near the river.",
+          "ar": "كنت قد سكنت في الريف، قرب النهر."
         }
       ],
       "answer": "Quando eu era criança, já tinha conhecido o mar.",
@@ -740,12 +740,12 @@
         {
           "pt": "Sério? E onde a senhora tinha morado antes?",
           "en": "Really? And where had you lived before?",
-          "ar": "كنت قد سكنت في الريف، قرب النهر."
+          "ar": "حقاً؟ وأين كنتِ قد سكنتِ من قبل؟"
         },
         {
           "pt": "Eu tinha morado no interior, perto do rio.",
           "en": "I had lived in the countryside, near the river.",
-          "ar": "حقاً؟ وأين كنتِ قد سكنتِ من قبل؟"
+          "ar": "كنت قد سكنت في الريف، قرب النهر."
         },
         {
           "pt": "Eu nunca tinha ouvido essa história.",
@@ -808,18 +808,18 @@
       "options": [
         {
           "pt": "Quando eu era criança, já tinha conhecido o mar.",
-          "en": "Quando eu era criança, já tinha conhecido o mar.",
-          "ar": "Quando eu era criança, já tinha conhecido o mar."
+          "en": "When I was a child, I had already seen the sea.",
+          "ar": "عندما كنت طفلة، كنت قد رأيت البحر بالفعل."
         },
         {
           "pt": "Quando o trem chegou, já tínhamos preparado tudo.",
-          "en": "Quando o trem chegou, já tínhamos preparado tudo.",
-          "ar": "Quando o trem chegou, já tínhamos preparado tudo."
+          "en": "When the train arrived, we had already prepared everything.",
+          "ar": "عندما وصل القطار، كنا قد جهّزنا كل شيء."
         },
         {
           "pt": "Eu tinha morado no interior, perto do rio.",
-          "en": "Eu tinha morado no interior, perto do rio.",
-          "ar": "Eu tinha morado no interior, perto do rio."
+          "en": "I had lived in the countryside, near the river.",
+          "ar": "كنت قد سكنت في الريف، قرب النهر."
         }
       ],
       "answer": "Quando eu era criança, já tinha conhecido o mar.",
@@ -841,18 +841,18 @@
       "options": [
         {
           "pt": "Quando eu era criança, já tinha conhecido o mar.",
-          "en": "Quando eu era criança, já tinha conhecido o mar.",
-          "ar": "Quando eu era criança, já tinha conhecido o mar."
+          "en": "When I was a child, I had already seen the sea.",
+          "ar": "عندما كنت طفلة، كنت قد رأيت البحر بالفعل."
         },
         {
           "pt": "Quando o trem chegou, já tínhamos preparado tudo.",
-          "en": "Quando o trem chegou, já tínhamos preparado tudo.",
-          "ar": "Quando o trem chegou, já tínhamos preparado tudo."
+          "en": "When the train arrived, we had already prepared everything.",
+          "ar": "عندما وصل القطار، كنا قد جهّزنا كل شيء."
         },
         {
           "pt": "Sério? E onde a senhora tinha morado antes?",
-          "en": "Sério? E onde a senhora tinha morado antes?",
-          "ar": "Sério? E onde a senhora tinha morado antes?"
+          "en": "Really? And where had you lived before?",
+          "ar": "حقاً؟ وأين كنتِ قد سكنتِ من قبل؟"
         }
       ],
       "answer": "Sério? E onde a senhora tinha morado antes?",

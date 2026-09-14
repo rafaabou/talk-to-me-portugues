@@ -581,12 +581,12 @@
         {
           "pt": "Vou viajar para o Rio de Janeiro.",
           "en": "I am going to travel to Rio de Janeiro.",
-          "ar": "نعود ليلة الأحد. ثم سأحكي لك كل شيء!"
+          "ar": "سأسافر إلى ريو دي جانيرو."
         },
         {
           "pt": "Voltamos no domingo à noite. Depois te conto tudo!",
           "en": "We come back Sunday night. Then I will tell you everything!",
-          "ar": "سأسافر إلى ريو دي جانيرو."
+          "ar": "نعود ليلة الأحد. ثم سأحكي لك كل شيء!"
         }
       ],
       "answer": "Vou viajar para o Rio de Janeiro.",
@@ -751,18 +751,18 @@
       "options": [
         {
           "pt": "Voltamos no domingo à noite. Depois te conto tudo!",
-          "en": "With my sister. We are going to see friends.",
-          "ar": "ماذا ستفعل في عطلة نهاية الأسبوع؟"
-        },
-        {
-          "pt": "Vou com a minha irmã. Vamos ver os amigos.",
           "en": "We come back Sunday night. Then I will tell you everything!",
           "ar": "نعود ليلة الأحد. ثم سأحكي لك كل شيء!"
         },
         {
+          "pt": "Vou com a minha irmã. Vamos ver os amigos.",
+          "en": "With my sister. We are going to see friends.",
+          "ar": "مع أختي. سنزور الأصدقاء."
+        },
+        {
           "pt": "O que você vai fazer no fim de semana?",
           "en": "What are you going to do on the weekend?",
-          "ar": "مع أختي. سنزور الأصدقاء."
+          "ar": "ماذا ستفعل في عطلة نهاية الأسبوع؟"
         }
       ],
       "answer": "O que você vai fazer no fim de semana?",
@@ -784,18 +784,18 @@
       "options": [
         {
           "pt": "Vou com a minha irmã. Vamos ver os amigos.",
-          "en": "What are you going to do on the weekend?",
-          "ar": "سأسافر إلى ريو دي جانيرو."
-        },
-        {
-          "pt": "O que você vai fazer no fim de semana?",
           "en": "With my sister. We are going to see friends.",
           "ar": "مع أختي. سنزور الأصدقاء."
         },
         {
+          "pt": "O que você vai fazer no fim de semana?",
+          "en": "What are you going to do on the weekend?",
+          "ar": "ماذا ستفعل في عطلة نهاية الأسبوع؟"
+        },
+        {
           "pt": "Vou viajar para o Rio de Janeiro.",
           "en": "I am going to travel to Rio de Janeiro.",
-          "ar": "ماذا ستفعل في عطلة نهاية الأسبوع؟"
+          "ar": "سأسافر إلى ريو دي جانيرو."
         }
       ],
       "answer": "Vou viajar para o Rio de Janeiro.",
@@ -853,18 +853,18 @@
       "options": [
         {
           "pt": "E quando vocês voltam?",
-          "en": "E quando vocês voltam?",
-          "ar": "E quando vocês voltam?"
+          "en": "And when do you come back?",
+          "ar": "ومتى تعودان؟"
         },
         {
           "pt": "Vou viajar para o Rio de Janeiro.",
-          "en": "Vou viajar para o Rio de Janeiro.",
-          "ar": "Vou viajar para o Rio de Janeiro."
+          "en": "I am going to travel to Rio de Janeiro.",
+          "ar": "سأسافر إلى ريو دي جانيرو."
         },
         {
           "pt": "O que você vai fazer no fim de semana?",
-          "en": "O que você vai fazer no fim de semana?",
-          "ar": "O que você vai fazer no fim de semana?"
+          "en": "What are you going to do on the weekend?",
+          "ar": "ماذا ستفعل في عطلة نهاية الأسبوع؟"
         }
       ],
       "answer": "O que você vai fazer no fim de semana?",
@@ -886,18 +886,18 @@
       "options": [
         {
           "pt": "Voltamos no domingo à noite. Depois te conto tudo!",
-          "en": "Voltamos no domingo à noite. Depois te conto tudo!",
-          "ar": "Voltamos no domingo à noite. Depois te conto tudo!"
+          "en": "We come back Sunday night. Then I will tell you everything!",
+          "ar": "نعود ليلة الأحد. ثم سأحكي لك كل شيء!"
         },
         {
           "pt": "Vou viajar para o Rio de Janeiro.",
-          "en": "Vou viajar para o Rio de Janeiro.",
-          "ar": "Vou viajar para o Rio de Janeiro."
+          "en": "I am going to travel to Rio de Janeiro.",
+          "ar": "سأسافر إلى ريو دي جانيرو."
         },
         {
           "pt": "O que você vai fazer no fim de semana?",
-          "en": "O que você vai fazer no fim de semana?",
-          "ar": "O que você vai fazer no fim de semana?"
+          "en": "What are you going to do on the weekend?",
+          "ar": "ماذا ستفعل في عطلة نهاية الأسبوع؟"
         }
       ],
       "answer": "Vou viajar para o Rio de Janeiro.",

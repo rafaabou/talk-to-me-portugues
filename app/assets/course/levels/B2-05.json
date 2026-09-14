@@ -541,17 +541,17 @@
         {
           "pt": "Talvez fosse melhor ficar no Brasil mesmo.",
           "en": "Maybe it would be better to stay in Brazil after all.",
-          "ar": "لو استطعت العيش في أي مكان في العالم، أين كنت ستعيش؟"
+          "ar": "ربما كان من الأفضل البقاء في البرازيل أصلًا."
         },
         {
           "pt": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
           "en": "If you could live anywhere in the world, where would you live?",
-          "ar": "صحيح. لن أستبدل البرازيل بأي شيء."
+          "ar": "لو استطعت العيش في أي مكان في العالم، أين كنت ستعيش؟"
         },
         {
           "pt": "Verdade. Não trocaria o Brasil por nada.",
           "en": "True. I wouldn't trade Brazil for anything.",
-          "ar": "ربما كان من الأفضل البقاء في البرازيل أصلًا."
+          "ar": "صحيح. لن أستبدل البرازيل بأي شيء."
         }
       ],
       "answer": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
@@ -574,17 +574,17 @@
         {
           "pt": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
           "en": "If you could live anywhere in the world, where would you live?",
-          "ar": "ربما كان من الأفضل البقاء في البرازيل أصلًا."
+          "ar": "لو استطعت العيش في أي مكان في العالم، أين كنت ستعيش؟"
         },
         {
           "pt": "Talvez fosse melhor ficar no Brasil mesmo.",
           "en": "Maybe it would be better to stay in Brazil after all.",
-          "ar": "سأختار ريو دي جانيرو، لو سنحت لي الفرصة."
+          "ar": "ربما كان من الأفضل البقاء في البرازيل أصلًا."
         },
         {
           "pt": "Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.",
           "en": "I would choose Rio de Janeiro, if I had the chance.",
-          "ar": "لو استطعت العيش في أي مكان في العالم، أين كنت ستعيش؟"
+          "ar": "سأختار ريو دي جانيرو، لو سنحت لي الفرصة."
         }
       ],
       "answer": "Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.",
@@ -765,12 +765,12 @@
         {
           "pt": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
           "en": "If you could live anywhere in the world, where would you live?",
-          "ar": "أود أيضًا أن أسكن قرب البحر."
+          "ar": "لو استطعت العيش في أي مكان في العالم، أين كنت ستعيش؟"
         },
         {
           "pt": "Eu também gostaria de morar perto do mar.",
           "en": "I would also like to live near the sea.",
-          "ar": "لو استطعت العيش في أي مكان في العالم، أين كنت ستعيش؟"
+          "ar": "أود أيضًا أن أسكن قرب البحر."
         }
       ],
       "answer": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
@@ -793,16 +793,16 @@
         {
           "pt": "Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.",
           "en": "I would choose Rio de Janeiro, if I had the chance.",
-          "ar": "ربما كان من الأفضل البقاء في البرازيل أصلًا."
-        },
-        {
-          "pt": "Talvez fosse melhor ficar no Brasil mesmo.",
-          "en": "If you could live anywhere in the world, where would you live?",
           "ar": "سأختار ريو دي جانيرو، لو سنحت لي الفرصة."
         },
         {
-          "pt": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
+          "pt": "Talvez fosse melhor ficar no Brasil mesmo.",
           "en": "Maybe it would be better to stay in Brazil after all.",
+          "ar": "ربما كان من الأفضل البقاء في البرازيل أصلًا."
+        },
+        {
+          "pt": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
+          "en": "If you could live anywhere in the world, where would you live?",
           "ar": "لو استطعت العيش في أي مكان في العالم، أين كنت ستعيش؟"
         }
       ],
@@ -861,18 +861,18 @@
       "options": [
         {
           "pt": "Se falássemos espanhol, poderíamos morar na Argentina também.",
-          "en": "Se falássemos espanhol, poderíamos morar na Argentina também.",
-          "ar": "Se falássemos espanhol, poderíamos morar na Argentina também."
+          "en": "If we spoke Spanish, we could also live in Argentina.",
+          "ar": "لو كنا نتحدث الإسبانية، لأمكننا العيش في الأرجنتين أيضًا."
         },
         {
           "pt": "Talvez fosse melhor ficar no Brasil mesmo.",
-          "en": "Talvez fosse melhor ficar no Brasil mesmo.",
-          "ar": "Talvez fosse melhor ficar no Brasil mesmo."
+          "en": "Maybe it would be better to stay in Brazil after all.",
+          "ar": "ربما كان من الأفضل البقاء في البرازيل أصلًا."
         },
         {
           "pt": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
-          "en": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
-          "ar": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?"
+          "en": "If you could live anywhere in the world, where would you live?",
+          "ar": "لو استطعت العيش في أي مكان في العالم، أين كنت ستعيش؟"
         }
       ],
       "answer": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
@@ -894,18 +894,18 @@
       "options": [
         {
           "pt": "Verdade. Não trocaria o Brasil por nada.",
-          "en": "Verdade. Não trocaria o Brasil por nada.",
-          "ar": "Verdade. Não trocaria o Brasil por nada."
+          "en": "True. I wouldn't trade Brazil for anything.",
+          "ar": "صحيح. لن أستبدل البرازيل بأي شيء."
         },
         {
           "pt": "Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.",
-          "en": "Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.",
-          "ar": "Eu escolheria o Rio de Janeiro, se tivesse a oportunidade."
+          "en": "I would choose Rio de Janeiro, if I had the chance.",
+          "ar": "سأختار ريو دي جانيرو، لو سنحت لي الفرصة."
         },
         {
           "pt": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
-          "en": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
-          "ar": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?"
+          "en": "If you could live anywhere in the world, where would you live?",
+          "ar": "لو استطعت العيش في أي مكان في العالم، أين كنت ستعيش؟"
         }
       ],
       "answer": "Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.",

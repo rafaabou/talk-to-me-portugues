@@ -359,18 +359,18 @@
       "options": [
         {
           "pt": "morder a língua",
-          "en": "morder a língua",
-          "ar": "morder a língua"
+          "en": "to eat one's words",
+          "ar": "يتراجع عن كلامه نادمًا"
         },
         {
           "pt": "dar com a língua nos dentes",
-          "en": "dar com a língua nos dentes",
-          "ar": "dar com a língua nos dentes"
+          "en": "to spill the beans",
+          "ar": "يفشي السر"
         },
         {
           "pt": "chover no molhado",
-          "en": "chover no molhado",
-          "ar": "chover no molhado"
+          "en": "to state the obvious",
+          "ar": "يُطيل في كلام بديهي"
         }
       ],
       "answer": "dar com a língua nos dentes",
@@ -395,13 +395,13 @@
         },
         {
           "pt": "viajar na maionese",
-          "en": "viajar na maionese",
-          "ar": "viajar na maionese"
+          "en": "to talk nonsense, to be confused",
+          "ar": "يتكلم كلامًا غير مفهوم"
         },
         {
           "pt": "segurar vela",
-          "en": "segurar vela",
-          "ar": "segurar vela"
+          "en": "to be a third wheel",
+          "ar": "يكون طرفًا ثالثًا محرجًا"
         }
       ],
       "answer": "adular",
@@ -558,12 +558,12 @@
         {
           "pt": "E a Mariana? Deixou a peteca cair de novo e não levou o relatório.",
           "en": "And Mariana? She let things fall apart again and did not bring the report.",
-          "ar": "هل رأيتِ بيدرو يتملق المدير طوال الليل؟"
+          "ar": "وماريانا؟ لقد استسلمت مجددًا ولم تحضر التقرير."
         },
         {
           "pt": "Você viu o Pedro puxando saco do diretor a noite inteira?",
           "en": "Did you see Pedro sucking up to the director all night?",
-          "ar": "وماريانا؟ لقد استسلمت مجددًا ولم تحضر التقرير."
+          "ar": "هل رأيتِ بيدرو يتملق المدير طوال الليل؟"
         },
         {
           "pt": "Combinado. Antes eu deixar na mão ninguém do que encher linguiça até de madrugada.",
@@ -591,17 +591,17 @@
         {
           "pt": "Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.",
           "en": "Of course I saw. He went off the rails when he tried to praise the lecture.",
-          "ar": "وماريانا؟ لقد استسلمت مجددًا ولم تحضر التقرير."
+          "ar": "بالتأكيد رأيتُه. لقد تلخبط في كلامه عندما حاول مدح المحاضرة."
         },
         {
           "pt": "E a Mariana? Deixou a peteca cair de novo e não levou o relatório.",
           "en": "And Mariana? She let things fall apart again and did not bring the report.",
-          "ar": "صحيح، لكنني سأبقى كما هو الحال دائمًا في موقف صعب وأنهي المشروع وحدي."
+          "ar": "وماريانا؟ لقد استسلمت مجددًا ولم تحضر التقرير."
         },
         {
           "pt": "Pois é, mas eu vou segurar vela, como sempre, e terminar o projeto sozinho.",
           "en": "Right, but as always I'll be the one left holding the bag and finish the project alone.",
-          "ar": "بالتأكيد رأيتُه. لقد تلخبط في كلامه عندما حاول مدح المحاضرة."
+          "ar": "صحيح، لكنني سأبقى كما هو الحال دائمًا في موقف صعب وأنهي المشروع وحدي."
         }
       ],
       "answer": "Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.",
@@ -776,18 +776,18 @@
       "options": [
         {
           "pt": "Pois é, mas eu vou segurar vela, como sempre, e terminar o projeto sozinho.",
-          "en": "Of course I saw. He went off the rails when he tried to praise the lecture.",
-          "ar": "بالتأكيد رأيتُه. لقد تلخبط في كلامه عندما حاول مدح المحاضرة."
+          "en": "Right, but as always I'll be the one left holding the bag and finish the project alone.",
+          "ar": "صحيح، لكنني سأبقى كما هو الحال دائمًا في موقف صعب وأنهي المشروع وحدي."
         },
         {
           "pt": "Você viu o Pedro puxando saco do diretor a noite inteira?",
           "en": "Did you see Pedro sucking up to the director all night?",
-          "ar": "صحيح، لكنني سأبقى كما هو الحال دائمًا في موقف صعب وأنهي المشروع وحدي."
+          "ar": "هل رأيتِ بيدرو يتملق المدير طوال الليل؟"
         },
         {
           "pt": "Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.",
-          "en": "Right, but as always I'll be the one left holding the bag and finish the project alone.",
-          "ar": "هل رأيتِ بيدرو يتملق المدير طوال الليل؟"
+          "en": "Of course I saw. He went off the rails when he tried to praise the lecture.",
+          "ar": "بالتأكيد رأيتُه. لقد تلخبط في كلامه عندما حاول مدح المحاضرة."
         }
       ],
       "answer": "Você viu o Pedro puxando saco do diretor a noite inteira?",
@@ -810,17 +810,17 @@
         {
           "pt": "Pois é, mas eu vou segurar vela, como sempre, e terminar o projeto sozinho.",
           "en": "Right, but as always I'll be the one left holding the bag and finish the project alone.",
-          "ar": "لا تتراجع عن كلامك لاحقًا، اتفقنا؟ أنا بدأت أشك في هذه المجموعة."
+          "ar": "صحيح، لكنني سأبقى كما هو الحال دائمًا في موقف صعب وأنهي المشروع وحدي."
         },
         {
           "pt": "Não morda a língua depois, viu? Já estou ficando de orelha em pé com essa turma.",
           "en": "Don't eat your words later, okay? I am already getting suspicious of this crowd.",
-          "ar": "بالتأكيد رأيتُه. لقد تلخبط في كلامه عندما حاول مدح المحاضرة."
+          "ar": "لا تتراجع عن كلامك لاحقًا، اتفقنا؟ أنا بدأت أشك في هذه المجموعة."
         },
         {
           "pt": "Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.",
           "en": "Of course I saw. He went off the rails when he tried to praise the lecture.",
-          "ar": "صحيح، لكنني سأبقى كما هو الحال دائمًا في موقف صعب وأنهي المشروع وحدي."
+          "ar": "بالتأكيد رأيتُه. لقد تلخبط في كلامه عندما حاول مدح المحاضرة."
         }
       ],
       "answer": "Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.",
@@ -878,18 +878,18 @@
       "options": [
         {
           "pt": "Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.",
-          "en": "Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.",
-          "ar": "Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra."
+          "en": "Of course I saw. He went off the rails when he tried to praise the lecture.",
+          "ar": "بالتأكيد رأيتُه. لقد تلخبط في كلامه عندما حاول مدح المحاضرة."
         },
         {
           "pt": "Combinado. Antes eu deixar na mão ninguém do que encher linguiça até de madrugada.",
-          "en": "Combinado. Antes eu deixar na mão ninguém do que encher linguiça até de madrugada.",
-          "ar": "Combinado. Antes eu deixar na mão ninguém do que encher linguiça até de madrugada."
+          "en": "Deal. I would rather not leave anyone in the lurch than drag things on until dawn.",
+          "ar": "متّفق. الأفضل ألا أتخلى عن أحد بدلًا من إطالة الكلام بلا طائل حتى الفجر."
         },
         {
           "pt": "Você viu o Pedro puxando saco do diretor a noite inteira?",
-          "en": "Você viu o Pedro puxando saco do diretor a noite inteira?",
-          "ar": "Você viu o Pedro puxando saco do diretor a noite inteira?"
+          "en": "Did you see Pedro sucking up to the director all night?",
+          "ar": "هل رأيتِ بيدرو يتملق المدير طوال الليل؟"
         }
       ],
       "answer": "Você viu o Pedro puxando saco do diretor a noite inteira?",
@@ -911,18 +911,18 @@
       "options": [
         {
           "pt": "Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.",
-          "en": "Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.",
-          "ar": "Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra."
+          "en": "Of course I saw. He went off the rails when he tried to praise the lecture.",
+          "ar": "بالتأكيد رأيتُه. لقد تلخبط في كلامه عندما حاول مدح المحاضرة."
         },
         {
           "pt": "E a Mariana? Deixou a peteca cair de novo e não levou o relatório.",
-          "en": "E a Mariana? Deixou a peteca cair de novo e não levou o relatório.",
-          "ar": "E a Mariana? Deixou a peteca cair de novo e não levou o relatório."
+          "en": "And Mariana? She let things fall apart again and did not bring the report.",
+          "ar": "وماريانا؟ لقد استسلمت مجددًا ولم تحضر التقرير."
         },
         {
           "pt": "Pois é, mas eu vou segurar vela, como sempre, e terminar o projeto sozinho.",
-          "en": "Pois é, mas eu vou segurar vela, como sempre, e terminar o projeto sozinho.",
-          "ar": "Pois é, mas eu vou segurar vela, como sempre, e terminar o projeto sozinho."
+          "en": "Right, but as always I'll be the one left holding the bag and finish the project alone.",
+          "ar": "صحيح، لكنني سأبقى كما هو الحال دائمًا في موقف صعب وأنهي المشروع وحدي."
         }
       ],
       "answer": "Claro que vi. Ele viajou na maionese quando tentou elogiar a palestra.",

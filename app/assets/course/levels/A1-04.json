@@ -510,17 +510,17 @@
       "options": [
         {
           "pt": "Os exercícios são para hoje?",
-          "en": "Teacher, where is my pen?",
-          "ar": "افتحوا الكتب في الصفحة عشرة."
+          "en": "Are the exercises due today?",
+          "ar": "هل الواجبات لهذا اليوم؟"
         },
         {
           "pt": "Abram os livros na página dez.",
           "en": "Open your books to page ten.",
-          "ar": "هل الواجبات لهذا اليوم؟"
+          "ar": "افتحوا الكتب في الصفحة عشرة."
         },
         {
           "pt": "Professora, onde está a minha caneta?",
-          "en": "Are the exercises due today?",
+          "en": "Teacher, where is my pen?",
           "ar": "أستاذة، أين قلمي؟"
         }
       ],
@@ -544,17 +544,17 @@
         {
           "pt": "Abram os livros na página dez.",
           "en": "Open your books to page ten.",
-          "ar": "هل الواجبات لهذا اليوم؟"
+          "ar": "افتحوا الكتب في الصفحة عشرة."
         },
         {
           "pt": "Professora, onde está a minha caneta?",
           "en": "Teacher, where is my pen?",
-          "ar": "افتحوا الكتب في الصفحة عشرة."
+          "ar": "أستاذة، أين قلمي؟"
         },
         {
           "pt": "Os exercícios são para hoje?",
           "en": "Are the exercises due today?",
-          "ar": "أستاذة، أين قلمي؟"
+          "ar": "هل الواجبات لهذا اليوم؟"
         }
       ],
       "answer": "Professora, onde está a minha caneta?",
@@ -705,17 +705,17 @@
         {
           "pt": "Os exercícios são para hoje?",
           "en": "Are the exercises due today?",
-          "ar": "افتحوا الكتب في الصفحة عشرة."
+          "ar": "هل الواجبات لهذا اليوم؟"
         },
         {
           "pt": "Abram os livros na página dez.",
           "en": "Open your books to page ten.",
-          "ar": "نعم، تمارين الصفحة اثني عشر."
+          "ar": "افتحوا الكتب في الصفحة عشرة."
         },
         {
           "pt": "Sim, os exercícios da página doze.",
           "en": "Yes, the exercises on page twelve.",
-          "ar": "هل الواجبات لهذا اليوم؟"
+          "ar": "نعم، تمارين الصفحة اثني عشر."
         }
       ],
       "answer": "Abram os livros na página dez.",
@@ -738,17 +738,17 @@
         {
           "pt": "Professora, onde está a minha caneta?",
           "en": "Teacher, where is my pen?",
-          "ar": "إنه على الطاولة، بجانب الدفتر."
-        },
-        {
-          "pt": "Abram os livros na página dez.",
-          "en": "It's on the table, next to the notebook.",
           "ar": "أستاذة، أين قلمي؟"
         },
         {
-          "pt": "Está sobre a mesa, ao lado do caderno.",
+          "pt": "Abram os livros na página dez.",
           "en": "Open your books to page ten.",
           "ar": "افتحوا الكتب في الصفحة عشرة."
+        },
+        {
+          "pt": "Está sobre a mesa, ao lado do caderno.",
+          "en": "It's on the table, next to the notebook.",
+          "ar": "إنه على الطاولة، بجانب الدفتر."
         }
       ],
       "answer": "Professora, onde está a minha caneta?",
@@ -806,18 +806,18 @@
       "options": [
         {
           "pt": "Sim, os exercícios da página doze.",
-          "en": "Sim, os exercícios da página doze.",
-          "ar": "Sim, os exercícios da página doze."
+          "en": "Yes, the exercises on page twelve.",
+          "ar": "نعم، تمارين الصفحة اثني عشر."
         },
         {
           "pt": "Professora, onde está a minha caneta?",
-          "en": "Professora, onde está a minha caneta?",
-          "ar": "Professora, onde está a minha caneta?"
+          "en": "Teacher, where is my pen?",
+          "ar": "أستاذة، أين قلمي؟"
         },
         {
           "pt": "Abram os livros na página dez.",
-          "en": "Abram os livros na página dez.",
-          "ar": "Abram os livros na página dez."
+          "en": "Open your books to page ten.",
+          "ar": "افتحوا الكتب في الصفحة عشرة."
         }
       ],
       "answer": "Abram os livros na página dez.",
@@ -839,18 +839,18 @@
       "options": [
         {
           "pt": "Sim, os exercícios da página doze.",
-          "en": "Sim, os exercícios da página doze.",
-          "ar": "Sim, os exercícios da página doze."
+          "en": "Yes, the exercises on page twelve.",
+          "ar": "نعم، تمارين الصفحة اثني عشر."
         },
         {
           "pt": "Professora, onde está a minha caneta?",
-          "en": "Professora, onde está a minha caneta?",
-          "ar": "Professora, onde está a minha caneta?"
+          "en": "Teacher, where is my pen?",
+          "ar": "أستاذة، أين قلمي؟"
         },
         {
           "pt": "Abram os livros na página dez.",
-          "en": "Abram os livros na página dez.",
-          "ar": "Abram os livros na página dez."
+          "en": "Open your books to page ten.",
+          "ar": "افتحوا الكتب في الصفحة عشرة."
         }
       ],
       "answer": "Professora, onde está a minha caneta?",

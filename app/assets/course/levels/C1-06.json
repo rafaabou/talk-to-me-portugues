@@ -535,17 +535,17 @@
         {
           "pt": "Essa canção de bossa nova tem uma melodia que me acalma.",
           "en": "This bossa nova song has a melody that calms me.",
-          "ar": "لا تقل لي! وهل تغني لازمة السيرتانيجو؟"
+          "ar": "هذه الأغنية من البوسا نوفا لها لحن يهدئني."
         },
         {
           "pt": "Então deixe a letra comigo e o ritmo com você.",
           "en": "Then leave the lyrics to me and the rhythm to you.",
-          "ar": "هذه الأغنية من البوسا نوفا لها لحن يهدئني."
+          "ar": "إذن اترك الكلمات لي والإيقاع لك."
         },
         {
           "pt": "Não me diga! E o refrão de sertanejo, você canta?",
           "en": "Don't tell me! And the sertanejo chorus, do you sing it?",
-          "ar": "إذن اترك الكلمات لي والإيقاع لك."
+          "ar": "لا تقل لي! وهل تغني لازمة السيرتانيجو؟"
         }
       ],
       "answer": "Essa canção de bossa nova tem uma melodia que me acalma.",
@@ -572,12 +572,12 @@
         },
         {
           "pt": "Essa canção de bossa nova tem uma melodia que me acalma.",
-          "en": "I sing the whole verse, but I go off-key in the last part.",
+          "en": "This bossa nova song has a melody that calms me.",
           "ar": "هذه الأغنية من البوسا نوفا لها لحن يهدئني."
         },
         {
           "pt": "Canto a estrofe inteira, mas desafino na última parte.",
-          "en": "This bossa nova song has a melody that calms me.",
+          "en": "I sing the whole verse, but I go off-key in the last part.",
           "ar": "أغني المقطع كاملًا، لكن أخرج عن اللحن في الجزء الأخير."
         }
       ],
@@ -758,13 +758,13 @@
         },
         {
           "pt": "Canto a estrofe inteira, mas desafino na última parte.",
-          "en": "Then leave the lyrics to me and the rhythm to you.",
-          "ar": "إذن اترك الكلمات لي والإيقاع لك."
+          "en": "I sing the whole verse, but I go off-key in the last part.",
+          "ar": "أغني المقطع كاملًا، لكن أخرج عن اللحن في الجزء الأخير."
         },
         {
           "pt": "Então deixe a letra comigo e o ritmo com você.",
-          "en": "I sing the whole verse, but I go off-key in the last part.",
-          "ar": "أغني المقطع كاملًا، لكن أخرج عن اللحن في الجزء الأخير."
+          "en": "Then leave the lyrics to me and the rhythm to you.",
+          "ar": "إذن اترك الكلمات لي والإيقاع لك."
         }
       ],
       "answer": "Essa canção de bossa nova tem uma melodia que me acalma.",
@@ -786,18 +786,18 @@
       "options": [
         {
           "pt": "Canto a estrofe inteira, mas desafino na última parte.",
-          "en": "This bossa nova song has a melody that calms me.",
+          "en": "I sing the whole verse, but I go off-key in the last part.",
           "ar": "أغني المقطع كاملًا، لكن أخرج عن اللحن في الجزء الأخير."
         },
         {
           "pt": "Essa canção de bossa nova tem uma melodia que me acalma.",
-          "en": "I sing the whole verse, but I go off-key in the last part.",
-          "ar": "سبق أن أخبرتك أن الفورو هو شغفي في الحفلة."
+          "en": "This bossa nova song has a melody that calms me.",
+          "ar": "هذه الأغنية من البوسا نوفا لها لحن يهدئني."
         },
         {
           "pt": "Já te disse que o forró é a minha paixão na festa.",
           "en": "I already told you that forró is my passion at the party.",
-          "ar": "هذه الأغنية من البوسا نوفا لها لحن يهدئني."
+          "ar": "سبق أن أخبرتك أن الفورو هو شغفي في الحفلة."
         }
       ],
       "answer": "Já te disse que o forró é a minha paixão na festa.",
@@ -855,18 +855,18 @@
       "options": [
         {
           "pt": "Então deixe a letra comigo e o ritmo com você.",
-          "en": "Então deixe a letra comigo e o ritmo com você.",
-          "ar": "Então deixe a letra comigo e o ritmo com você."
+          "en": "Then leave the lyrics to me and the rhythm to you.",
+          "ar": "إذن اترك الكلمات لي والإيقاع لك."
         },
         {
           "pt": "Essa canção de bossa nova tem uma melodia que me acalma.",
-          "en": "Essa canção de bossa nova tem uma melodia que me acalma.",
-          "ar": "Essa canção de bossa nova tem uma melodia que me acalma."
+          "en": "This bossa nova song has a melody that calms me.",
+          "ar": "هذه الأغنية من البوسا نوفا لها لحن يهدئني."
         },
         {
           "pt": "Já te disse que o forró é a minha paixão na festa.",
-          "en": "Já te disse que o forró é a minha paixão na festa.",
-          "ar": "Já te disse que o forró é a minha paixão na festa."
+          "en": "I already told you that forró is my passion at the party.",
+          "ar": "سبق أن أخبرتك أن الفورو هو شغفي في الحفلة."
         }
       ],
       "answer": "Essa canção de bossa nova tem uma melodia que me acalma.",
@@ -888,18 +888,18 @@
       "options": [
         {
           "pt": "Já te disse que o forró é a minha paixão na festa.",
-          "en": "Já te disse que o forró é a minha paixão na festa.",
-          "ar": "Já te disse que o forró é a minha paixão na festa."
+          "en": "I already told you that forró is my passion at the party.",
+          "ar": "سبق أن أخبرتك أن الفورو هو شغفي في الحفلة."
         },
         {
           "pt": "Não me diga! E o refrão de sertanejo, você canta?",
-          "en": "Não me diga! E o refrão de sertanejo, você canta?",
-          "ar": "Não me diga! E o refrão de sertanejo, você canta?"
+          "en": "Don't tell me! And the sertanejo chorus, do you sing it?",
+          "ar": "لا تقل لي! وهل تغني لازمة السيرتانيجو؟"
         },
         {
           "pt": "Canto a estrofe inteira, mas desafino na última parte.",
-          "en": "Canto a estrofe inteira, mas desafino na última parte.",
-          "ar": "Canto a estrofe inteira, mas desafino na última parte."
+          "en": "I sing the whole verse, but I go off-key in the last part.",
+          "ar": "أغني المقطع كاملًا، لكن أخرج عن اللحن في الجزء الأخير."
         }
       ],
       "answer": "Já te disse que o forró é a minha paixão na festa.",

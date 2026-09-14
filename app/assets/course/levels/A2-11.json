@@ -543,12 +543,12 @@
         {
           "pt": "Sim! Tínhamos vacas, cavalos e galinhas.",
           "en": "Yes! We had cows, horses and chickens.",
-          "ar": "عندما كنت طفلة، كنت أسكن في مزرعة."
+          "ar": "نعم! كان لدينا أبقار وخيول ودجاج."
         },
         {
           "pt": "Quando eu era criança, morava em uma fazenda.",
           "en": "When I was a child, I lived on a farm.",
-          "ar": "نعم! كان لدينا أبقار وخيول ودجاج."
+          "ar": "عندما كنت طفلة، كنت أسكن في مزرعة."
         }
       ],
       "answer": "Quando eu era criança, morava em uma fazenda.",
@@ -570,8 +570,8 @@
       "options": [
         {
           "pt": "Que saudade daquele tempo, vovó!",
-          "en": "Yes! We had cows, horses and chickens.",
-          "ar": "نعم! كان لدينا أبقار وخيول ودجاج."
+          "en": "How you miss those times, grandma!",
+          "ar": "كم تشتاقين إلى تلك الأيام يا جدتي!"
         },
         {
           "pt": "E como era a sua rotina?",
@@ -580,8 +580,8 @@
         },
         {
           "pt": "Sim! Tínhamos vacas, cavalos e galinhas.",
-          "en": "How you miss those times, grandma!",
-          "ar": "كم تشتاقين إلى تلك الأيام يا جدتي!"
+          "en": "Yes! We had cows, horses and chickens.",
+          "ar": "نعم! كان لدينا أبقار وخيول ودجاج."
         }
       ],
       "answer": "E como era a sua rotina?",
@@ -747,12 +747,12 @@
         {
           "pt": "Quando eu era criança, morava em uma fazenda.",
           "en": "When I was a child, I lived on a farm.",
-          "ar": "وكيف كان روتينك؟"
+          "ar": "عندما كنت طفلة، كنت أسكن في مزرعة."
         },
         {
           "pt": "E como era a sua rotina?",
           "en": "And what was your routine like?",
-          "ar": "عندما كنت طفلة، كنت أسكن في مزرعة."
+          "ar": "وكيف كان روتينك؟"
         }
       ],
       "answer": "Quando eu era criança, morava em uma fazenda.",
@@ -774,12 +774,12 @@
       "options": [
         {
           "pt": "Vocês tinham muitos animais?",
-          "en": "How you miss those times, grandma!",
+          "en": "Did you have many animals?",
           "ar": "هل كان لديكم حيوانات كثيرة؟"
         },
         {
           "pt": "Que saudade daquele tempo, vovó!",
-          "en": "Did you have many animals?",
+          "en": "How you miss those times, grandma!",
           "ar": "كم تشتاقين إلى تلك الأيام يا جدتي!"
         },
         {
@@ -843,18 +843,18 @@
       "options": [
         {
           "pt": "E como era a sua rotina?",
-          "en": "E como era a sua rotina?",
-          "ar": "E como era a sua rotina?"
+          "en": "And what was your routine like?",
+          "ar": "وكيف كان روتينك؟"
         },
         {
           "pt": "Quando eu era criança, morava em uma fazenda.",
-          "en": "Quando eu era criança, morava em uma fazenda.",
-          "ar": "Quando eu era criança, morava em uma fazenda."
+          "en": "When I was a child, I lived on a farm.",
+          "ar": "عندما كنت طفلة، كنت أسكن في مزرعة."
         },
         {
           "pt": "Sim! Tínhamos vacas, cavalos e galinhas.",
-          "en": "Sim! Tínhamos vacas, cavalos e galinhas.",
-          "ar": "Sim! Tínhamos vacas, cavalos e galinhas."
+          "en": "Yes! We had cows, horses and chickens.",
+          "ar": "نعم! كان لدينا أبقار وخيول ودجاج."
         }
       ],
       "answer": "Quando eu era criança, morava em uma fazenda.",
@@ -876,18 +876,18 @@
       "options": [
         {
           "pt": "E como era a sua rotina?",
-          "en": "E como era a sua rotina?",
-          "ar": "E como era a sua rotina?"
+          "en": "And what was your routine like?",
+          "ar": "وكيف كان روتينك؟"
         },
         {
           "pt": "Quando eu era criança, morava em uma fazenda.",
-          "en": "Quando eu era criança, morava em uma fazenda.",
-          "ar": "Quando eu era criança, morava em uma fazenda."
+          "en": "When I was a child, I lived on a farm.",
+          "ar": "عندما كنت طفلة، كنت أسكن في مزرعة."
         },
         {
           "pt": "Sim! Tínhamos vacas, cavalos e galinhas.",
-          "en": "Sim! Tínhamos vacas, cavalos e galinhas.",
-          "ar": "Sim! Tínhamos vacas, cavalos e galinhas."
+          "en": "Yes! We had cows, horses and chickens.",
+          "ar": "نعم! كان لدينا أبقار وخيول ودجاج."
         }
       ],
       "answer": "E como era a sua rotina?",

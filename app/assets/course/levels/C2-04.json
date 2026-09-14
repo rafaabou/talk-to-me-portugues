@@ -558,17 +558,17 @@
         {
           "pt": "O laudo foi homologado, e a sentença será publicada na sexta.",
           "en": "The expert report has been ratified, and the judgment will be published on Friday.",
-          "ar": "إذن سأعد مسودة الطعن مستشهدًا بالفقه القضائي ذي الصلة."
-        },
-        {
-          "pt": "Perfeito. Homologado o aditivo, protocolo tudo até quarta-feira.",
-          "en": "Then I will prepare the draft appeal, citing the relevant case law.",
           "ar": "تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة."
         },
         {
-          "pt": "Então preparo a minuta do recurso, citando a jurisprudência pertinente.",
+          "pt": "Perfeito. Homologado o aditivo, protocolo tudo até quarta-feira.",
           "en": "Perfect. Once the addendum is ratified, I will file everything by Wednesday.",
           "ar": "ممتاز. بعد التصديق على الملحق، سأقدّم كل شيء حتى الأربعاء."
+        },
+        {
+          "pt": "Então preparo a minuta do recurso, citando a jurisprudência pertinente.",
+          "en": "Then I will prepare the draft appeal, citing the relevant case law.",
+          "ar": "إذن سأعد مسودة الطعن مستشهدًا بالفقه القضائي ذي الصلة."
         }
       ],
       "answer": "O laudo foi homologado, e a sentença será publicada na sexta.",
@@ -590,7 +590,7 @@
       "options": [
         {
           "pt": "Sim, mas seria prudente aguardar a publicação da ementa.",
-          "en": "Then I will prepare the draft appeal, citing the relevant case law.",
+          "en": "Yes, but it would be prudent to wait for the publication of the headnote.",
           "ar": "نعم، لكن سيكون من الحكمة انتظار نشر الملخص."
         },
         {
@@ -600,7 +600,7 @@
         },
         {
           "pt": "Então preparo a minuta do recurso, citando a jurisprudência pertinente.",
-          "en": "Yes, but it would be prudent to wait for the publication of the headnote.",
+          "en": "Then I will prepare the draft appeal, citing the relevant case law.",
           "ar": "إذن سأعد مسودة الطعن مستشهدًا بالفقه القضائي ذي الصلة."
         }
       ],
@@ -777,17 +777,17 @@
         {
           "pt": "O laudo foi homologado, e a sentença será publicada na sexta.",
           "en": "The expert report has been ratified, and the judgment will be published on Friday.",
-          "ar": "ممتاز. بعد التصديق على الملحق، سأقدّم كل شيء حتى الأربعاء."
+          "ar": "تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة."
         },
         {
           "pt": "Perfeito. Homologado o aditivo, protocolo tudo até quarta-feira.",
           "en": "Perfect. Once the addendum is ratified, I will file everything by Wednesday.",
-          "ar": "فهمت. هل يزال بإمكاننا تقديم الطعن ضمن المهلة القانونية؟"
+          "ar": "ممتاز. بعد التصديق على الملحق، سأقدّم كل شيء حتى الأربعاء."
         },
         {
           "pt": "Compreendo. O recurso caberia ainda dentro do prazo legal?",
           "en": "I see. Would the appeal still lie within the legal deadline?",
-          "ar": "تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة."
+          "ar": "فهمت. هل يزال بإمكاننا تقديم الطعن ضمن المهلة القانونية؟"
         }
       ],
       "answer": "O laudo foi homologado, e a sentença será publicada na sexta.",
@@ -809,18 +809,18 @@
       "options": [
         {
           "pt": "Perfeito. Homologado o aditivo, protocolo tudo até quarta-feira.",
-          "en": "Then I will prepare the draft appeal, citing the relevant case law.",
-          "ar": "فهمت. هل يزال بإمكاننا تقديم الطعن ضمن المهلة القانونية؟"
+          "en": "Perfect. Once the addendum is ratified, I will file everything by Wednesday.",
+          "ar": "ممتاز. بعد التصديق على الملحق، سأقدّم كل شيء حتى الأربعاء."
         },
         {
           "pt": "Então preparo a minuta do recurso, citando a jurisprudência pertinente.",
-          "en": "Perfect. Once the addendum is ratified, I will file everything by Wednesday.",
+          "en": "Then I will prepare the draft appeal, citing the relevant case law.",
           "ar": "إذن سأعد مسودة الطعن مستشهدًا بالفقه القضائي ذي الصلة."
         },
         {
           "pt": "Compreendo. O recurso caberia ainda dentro do prazo legal?",
           "en": "I see. Would the appeal still lie within the legal deadline?",
-          "ar": "ممتاز. بعد التصديق على الملحق، سأقدّم كل شيء حتى الأربعاء."
+          "ar": "فهمت. هل يزال بإمكاننا تقديم الطعن ضمن المهلة القانونية؟"
         }
       ],
       "answer": "Compreendo. O recurso caberia ainda dentro do prazo legal?",
@@ -878,18 +878,18 @@
       "options": [
         {
           "pt": "O laudo foi homologado, e a sentença será publicada na sexta.",
-          "en": "O laudo foi homologado, e a sentença será publicada na sexta.",
-          "ar": "O laudo foi homologado, e a sentença será publicada na sexta."
+          "en": "The expert report has been ratified, and the judgment will be published on Friday.",
+          "ar": "تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة."
         },
         {
           "pt": "Compreendo. O recurso caberia ainda dentro do prazo legal?",
-          "en": "Compreendo. O recurso caberia ainda dentro do prazo legal?",
-          "ar": "Compreendo. O recurso caberia ainda dentro do prazo legal?"
+          "en": "I see. Would the appeal still lie within the legal deadline?",
+          "ar": "فهمت. هل يزال بإمكاننا تقديم الطعن ضمن المهلة القانونية؟"
         },
         {
           "pt": "Gostaríamos também de anexar o aditivo ao contrato original.",
-          "en": "Gostaríamos também de anexar o aditivo ao contrato original.",
-          "ar": "Gostaríamos também de anexar o aditivo ao contrato original."
+          "en": "We would also like to attach the addendum to the original contract.",
+          "ar": "نود أيضًا إرفاق الملحق التعديلي بالعقد الأصلي."
         }
       ],
       "answer": "O laudo foi homologado, e a sentença será publicada na sexta.",
@@ -911,18 +911,18 @@
       "options": [
         {
           "pt": "O laudo foi homologado, e a sentença será publicada na sexta.",
-          "en": "O laudo foi homologado, e a sentença será publicada na sexta.",
-          "ar": "O laudo foi homologado, e a sentença será publicada na sexta."
+          "en": "The expert report has been ratified, and the judgment will be published on Friday.",
+          "ar": "تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة."
         },
         {
           "pt": "Perfeito. Homologado o aditivo, protocolo tudo até quarta-feira.",
-          "en": "Perfeito. Homologado o aditivo, protocolo tudo até quarta-feira.",
-          "ar": "Perfeito. Homologado o aditivo, protocolo tudo até quarta-feira."
+          "en": "Perfect. Once the addendum is ratified, I will file everything by Wednesday.",
+          "ar": "ممتاز. بعد التصديق على الملحق، سأقدّم كل شيء حتى الأربعاء."
         },
         {
           "pt": "Compreendo. O recurso caberia ainda dentro do prazo legal?",
-          "en": "Compreendo. O recurso caberia ainda dentro do prazo legal?",
-          "ar": "Compreendo. O recurso caberia ainda dentro do prazo legal?"
+          "en": "I see. Would the appeal still lie within the legal deadline?",
+          "ar": "فهمت. هل يزال بإمكاننا تقديم الطعن ضمن المهلة القانونية؟"
         }
       ],
       "answer": "Compreendo. O recurso caberia ainda dentro do prazo legal?",

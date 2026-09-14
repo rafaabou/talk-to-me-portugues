@@ -512,12 +512,12 @@
         {
           "pt": "Boa tarde! Posso ajudar?",
           "en": "Good afternoon! Can I help you?",
-          "ar": "لدينا هذا القميص. إنه جميل جدًا."
+          "ar": "مساء الخير! هل يمكنني مساعدتك؟"
         },
         {
           "pt": "Temos esta camisa. É muito bonita.",
           "en": "We have this shirt. It's very pretty.",
-          "ar": "مساء الخير! هل يمكنني مساعدتك؟"
+          "ar": "لدينا هذا القميص. إنه جميل جدًا."
         },
         {
           "pt": "Quero uma camisa branca, por favor.",
@@ -545,12 +545,12 @@
         {
           "pt": "Quero uma camisa branca, por favor.",
           "en": "I want a white shirt, please.",
-          "ar": "لدينا هذا القميص. إنه جميل جدًا."
+          "ar": "أريد قميصًا أبيض، من فضلك."
         },
         {
           "pt": "Temos esta camisa. É muito bonita.",
           "en": "We have this shirt. It's very pretty.",
-          "ar": "أريد قميصًا أبيض، من فضلك."
+          "ar": "لدينا هذا القميص. إنه جميل جدًا."
         },
         {
           "pt": "Boa tarde! Posso ajudar?",
@@ -696,12 +696,12 @@
         {
           "pt": "Boa tarde! Posso ajudar?",
           "en": "Good afternoon! Can I help you?",
-          "ar": "لدينا هذا القميص. إنه جميل جدًا."
+          "ar": "مساء الخير! هل يمكنني مساعدتك؟"
         },
         {
           "pt": "Temos esta camisa. É muito bonita.",
           "en": "We have this shirt. It's very pretty.",
-          "ar": "مساء الخير! هل يمكنني مساعدتك؟"
+          "ar": "لدينا هذا القميص. إنه جميل جدًا."
         },
         {
           "pt": "Sim, custa noventa reais.",
@@ -729,7 +729,7 @@
         {
           "pt": "Boa tarde! Posso ajudar?",
           "en": "Good afternoon! Can I help you?",
-          "ar": "والبنطال الأسود؟ هل هو في تخفيضات؟"
+          "ar": "مساء الخير! هل يمكنني مساعدتك؟"
         },
         {
           "pt": "Quero uma camisa branca, por favor.",
@@ -739,7 +739,7 @@
         {
           "pt": "E a calça preta? Está em promoção?",
           "en": "And the black pants? Are they on sale?",
-          "ar": "مساء الخير! هل يمكنني مساعدتك؟"
+          "ar": "والبنطال الأسود؟ هل هو في تخفيضات؟"
         }
       ],
       "answer": "Quero uma camisa branca, por favor.",
@@ -797,18 +797,18 @@
       "options": [
         {
           "pt": "Boa tarde! Posso ajudar?",
-          "en": "Boa tarde! Posso ajudar?",
-          "ar": "Boa tarde! Posso ajudar?"
+          "en": "Good afternoon! Can I help you?",
+          "ar": "مساء الخير! هل يمكنني مساعدتك؟"
         },
         {
           "pt": "Sim, custa noventa reais.",
-          "en": "Sim, custa noventa reais.",
-          "ar": "Sim, custa noventa reais."
+          "en": "Yes, it costs ninety reais.",
+          "ar": "نعم، سعره تسعون ريالًا."
         },
         {
           "pt": "Temos esta camisa. É muito bonita.",
-          "en": "Temos esta camisa. É muito bonita.",
-          "ar": "Temos esta camisa. É muito bonita."
+          "en": "We have this shirt. It's very pretty.",
+          "ar": "لدينا هذا القميص. إنه جميل جدًا."
         }
       ],
       "answer": "Boa tarde! Posso ajudar?",
@@ -830,18 +830,18 @@
       "options": [
         {
           "pt": "Sim, custa noventa reais.",
-          "en": "Sim, custa noventa reais.",
-          "ar": "Sim, custa noventa reais."
+          "en": "Yes, it costs ninety reais.",
+          "ar": "نعم، سعره تسعون ريالًا."
         },
         {
           "pt": "Temos esta camisa. É muito bonita.",
-          "en": "Temos esta camisa. É muito bonita.",
-          "ar": "Temos esta camisa. É muito bonita."
+          "en": "We have this shirt. It's very pretty.",
+          "ar": "لدينا هذا القميص. إنه جميل جدًا."
         },
         {
           "pt": "Quero uma camisa branca, por favor.",
-          "en": "Quero uma camisa branca, por favor.",
-          "ar": "Quero uma camisa branca, por favor."
+          "en": "I want a white shirt, please.",
+          "ar": "أريد قميصًا أبيض، من فضلك."
         }
       ],
       "answer": "Quero uma camisa branca, por favor.",

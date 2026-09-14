@@ -545,12 +545,12 @@
         {
           "pt": "Que ótimo! É fundamental que a gente separe o lixo em casa.",
           "en": "Great! It's essential that we sort the garbage at home.",
-          "ar": "هل تعلم أن حينا سيحصل على نظام لإعادة التدوير؟"
+          "ar": "رائع! من الضروري أن نفرز القمامة في المنزل."
         },
         {
           "pt": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
           "en": "Did you know our neighborhood will get a recycling system?",
-          "ar": "رائع! من الضروري أن نفرز القمامة في المنزل."
+          "ar": "هل تعلم أن حينا سيحصل على نظام لإعادة التدوير؟"
         }
       ],
       "answer": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
@@ -573,16 +573,16 @@
         {
           "pt": "Que ótimo! É fundamental que a gente separe o lixo em casa.",
           "en": "Great! It's essential that we sort the garbage at home.",
-          "ar": "أوافق. أقترح أن نزرع الأشجار في الحديقة أيضًا."
-        },
-        {
-          "pt": "Concordo. Sugiro que a gente também plante árvores no parque.",
-          "en": "Good idea! If everyone does their part, the neighborhood gets better.",
           "ar": "رائع! من الضروري أن نفرز القمامة في المنزل."
         },
         {
-          "pt": "Boa ideia! Se cada um fizer a sua parte, o bairro fica melhor.",
+          "pt": "Concordo. Sugiro que a gente também plante árvores no parque.",
           "en": "I agree. I suggest we also plant trees in the park.",
+          "ar": "أوافق. أقترح أن نزرع الأشجار في الحديقة أيضًا."
+        },
+        {
+          "pt": "Boa ideia! Se cada um fizer a sua parte, o bairro fica melhor.",
+          "en": "Good idea! If everyone does their part, the neighborhood gets better.",
           "ar": "فكرة جيدة! إذا قام كل واحد بدوره، سيصبح الحي أفضل."
         }
       ],
@@ -764,17 +764,17 @@
         {
           "pt": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
           "en": "Did you know our neighborhood will get a recycling system?",
-          "ar": "فكرة جيدة! إذا قام كل واحد بدوره، سيصبح الحي أفضل."
+          "ar": "هل تعلم أن حينا سيحصل على نظام لإعادة التدوير؟"
         },
         {
           "pt": "Que ótimo! É fundamental que a gente separe o lixo em casa.",
-          "en": "Good idea! If everyone does their part, the neighborhood gets better.",
+          "en": "Great! It's essential that we sort the garbage at home.",
           "ar": "رائع! من الضروري أن نفرز القمامة في المنزل."
         },
         {
           "pt": "Boa ideia! Se cada um fizer a sua parte, o bairro fica melhor.",
-          "en": "Great! It's essential that we sort the garbage at home.",
-          "ar": "هل تعلم أن حينا سيحصل على نظام لإعادة التدوير؟"
+          "en": "Good idea! If everyone does their part, the neighborhood gets better.",
+          "ar": "فكرة جيدة! إذا قام كل واحد بدوره، سيصبح الحي أفضل."
         }
       ],
       "answer": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
@@ -865,18 +865,18 @@
       "options": [
         {
           "pt": "Por causa do aquecimento global, temos que agir já.",
-          "en": "Por causa do aquecimento global, temos que agir já.",
-          "ar": "Por causa do aquecimento global, temos que agir já."
+          "en": "Because of global warming, we have to act now.",
+          "ar": "بسبب الاحتباس الحراري، يجب أن نتحرك الآن."
         },
         {
           "pt": "Boa ideia! Se cada um fizer a sua parte, o bairro fica melhor.",
-          "en": "Boa ideia! Se cada um fizer a sua parte, o bairro fica melhor.",
-          "ar": "Boa ideia! Se cada um fizer a sua parte, o bairro fica melhor."
+          "en": "Good idea! If everyone does their part, the neighborhood gets better.",
+          "ar": "فكرة جيدة! إذا قام كل واحد بدوره، سيصبح الحي أفضل."
         },
         {
           "pt": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
-          "en": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
-          "ar": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?"
+          "en": "Did you know our neighborhood will get a recycling system?",
+          "ar": "هل تعلم أن حينا سيحصل على نظام لإعادة التدوير؟"
         }
       ],
       "answer": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
@@ -898,18 +898,18 @@
       "options": [
         {
           "pt": "Concordo. Sugiro que a gente também plante árvores no parque.",
-          "en": "Concordo. Sugiro que a gente também plante árvores no parque.",
-          "ar": "Concordo. Sugiro que a gente também plante árvores no parque."
+          "en": "I agree. I suggest we also plant trees in the park.",
+          "ar": "أوافق. أقترح أن نزرع الأشجار في الحديقة أيضًا."
         },
         {
           "pt": "Que ótimo! É fundamental que a gente separe o lixo em casa.",
-          "en": "Que ótimo! É fundamental que a gente separe o lixo em casa.",
-          "ar": "Que ótimo! É fundamental que a gente separe o lixo em casa."
+          "en": "Great! It's essential that we sort the garbage at home.",
+          "ar": "رائع! من الضروري أن نفرز القمامة في المنزل."
         },
         {
           "pt": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
-          "en": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
-          "ar": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?"
+          "en": "Did you know our neighborhood will get a recycling system?",
+          "ar": "هل تعلم أن حينا سيحصل على نظام لإعادة التدوير؟"
         }
       ],
       "answer": "Que ótimo! É fundamental que a gente separe o lixo em casa.",

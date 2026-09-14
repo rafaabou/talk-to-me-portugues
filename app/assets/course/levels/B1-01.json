@@ -499,17 +499,17 @@
         {
           "pt": "Se eu tivesse dinheiro, viajaria para o Brasil.",
           "en": "If I had money, I would travel to Brazil.",
-          "ar": "وأنا أيضاً. أودّ زيارة ريو دي جانيرو."
+          "ar": "لو كان معي مال، لسافرت إلى البرازيل."
         },
         {
           "pt": "Obrigada! Seria uma grande oportunidade.",
-          "en": "Me too. I would like to visit Rio de Janeiro.",
+          "en": "Thank you! It would be a great opportunity.",
           "ar": "شكراً لك! ستكون فرصة عظيمة."
         },
         {
           "pt": "Eu também. Eu gostaria de visitar o Rio de Janeiro.",
-          "en": "Thank you! It would be a great opportunity.",
-          "ar": "لو كان معي مال، لسافرت إلى البرازيل."
+          "en": "Me too. I would like to visit Rio de Janeiro.",
+          "ar": "وأنا أيضاً. أودّ زيارة ريو دي جانيرو."
         }
       ],
       "answer": "Se eu tivesse dinheiro, viajaria para o Brasil.",
@@ -531,7 +531,7 @@
       "options": [
         {
           "pt": "Você poderia me emprestar um guia de viagem?",
-          "en": "Thank you! It would be a great opportunity.",
+          "en": "Could you lend me a travel guide?",
           "ar": "هل يمكنك أن تعيرني دليلاً للسفر؟"
         },
         {
@@ -541,7 +541,7 @@
         },
         {
           "pt": "Obrigada! Seria uma grande oportunidade.",
-          "en": "Could you lend me a travel guide?",
+          "en": "Thank you! It would be a great opportunity.",
           "ar": "شكراً لك! ستكون فرصة عظيمة."
         }
       ],
@@ -702,7 +702,7 @@
       "options": [
         {
           "pt": "Eu também. Eu gostaria de visitar o Rio de Janeiro.",
-          "en": "Of course! I would gladly lend it to you.",
+          "en": "Me too. I would like to visit Rio de Janeiro.",
           "ar": "وأنا أيضاً. أودّ زيارة ريو دي جانيرو."
         },
         {
@@ -712,7 +712,7 @@
         },
         {
           "pt": "Claro! Eu te emprestaria com prazer.",
-          "en": "Me too. I would like to visit Rio de Janeiro.",
+          "en": "Of course! I would gladly lend it to you.",
           "ar": "بالطبع! سأعيره لك بكل سرور."
         }
       ],
@@ -735,18 +735,18 @@
       "options": [
         {
           "pt": "Se eu tivesse dinheiro, viajaria para o Brasil.",
+          "en": "If I had money, I would travel to Brazil.",
+          "ar": "لو كان معي مال، لسافرت إلى البرازيل."
+        },
+        {
+          "pt": "Obrigada! Seria uma grande oportunidade.",
           "en": "Thank you! It would be a great opportunity.",
           "ar": "شكراً لك! ستكون فرصة عظيمة."
         },
         {
-          "pt": "Obrigada! Seria uma grande oportunidade.",
-          "en": "If I had money, I would travel to Brazil.",
-          "ar": "وأنا أيضاً. أودّ زيارة ريو دي جانيرو."
-        },
-        {
           "pt": "Eu também. Eu gostaria de visitar o Rio de Janeiro.",
           "en": "Me too. I would like to visit Rio de Janeiro.",
-          "ar": "لو كان معي مال، لسافرت إلى البرازيل."
+          "ar": "وأنا أيضاً. أودّ زيارة ريو دي جانيرو."
         }
       ],
       "answer": "Eu também. Eu gostaria de visitar o Rio de Janeiro.",
@@ -804,18 +804,18 @@
       "options": [
         {
           "pt": "Claro! Eu te emprestaria com prazer.",
-          "en": "Claro! Eu te emprestaria com prazer.",
-          "ar": "Claro! Eu te emprestaria com prazer."
+          "en": "Of course! I would gladly lend it to you.",
+          "ar": "بالطبع! سأعيره لك بكل سرور."
         },
         {
           "pt": "Você poderia me emprestar um guia de viagem?",
-          "en": "Você poderia me emprestar um guia de viagem?",
-          "ar": "Você poderia me emprestar um guia de viagem?"
+          "en": "Could you lend me a travel guide?",
+          "ar": "هل يمكنك أن تعيرني دليلاً للسفر؟"
         },
         {
           "pt": "Se eu tivesse dinheiro, viajaria para o Brasil.",
-          "en": "Se eu tivesse dinheiro, viajaria para o Brasil.",
-          "ar": "Se eu tivesse dinheiro, viajaria para o Brasil."
+          "en": "If I had money, I would travel to Brazil.",
+          "ar": "لو كان معي مال، لسافرت إلى البرازيل."
         }
       ],
       "answer": "Se eu tivesse dinheiro, viajaria para o Brasil.",
@@ -837,18 +837,18 @@
       "options": [
         {
           "pt": "Eu também. Eu gostaria de visitar o Rio de Janeiro.",
-          "en": "Eu também. Eu gostaria de visitar o Rio de Janeiro.",
-          "ar": "Eu também. Eu gostaria de visitar o Rio de Janeiro."
+          "en": "Me too. I would like to visit Rio de Janeiro.",
+          "ar": "وأنا أيضاً. أودّ زيارة ريو دي جانيرو."
         },
         {
           "pt": "Você poderia me emprestar um guia de viagem?",
-          "en": "Você poderia me emprestar um guia de viagem?",
-          "ar": "Você poderia me emprestar um guia de viagem?"
+          "en": "Could you lend me a travel guide?",
+          "ar": "هل يمكنك أن تعيرني دليلاً للسفر؟"
         },
         {
           "pt": "Obrigada! Seria uma grande oportunidade.",
-          "en": "Obrigada! Seria uma grande oportunidade.",
-          "ar": "Obrigada! Seria uma grande oportunidade."
+          "en": "Thank you! It would be a great opportunity.",
+          "ar": "شكراً لك! ستكون فرصة عظيمة."
         }
       ],
       "answer": "Eu também. Eu gostaria de visitar o Rio de Janeiro.",

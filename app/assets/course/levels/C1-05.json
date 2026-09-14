@@ -529,17 +529,17 @@
       "options": [
         {
           "pt": "Certo. O resultado final dependerá da aprovação de todos.",
-          "en": "Remember to attach the document I referred to yesterday.",
-          "ar": "أصرّ المدير على مراجعة التقرير قبل إرساله."
+          "en": "Right. The final result will depend on everyone's approval.",
+          "ar": "حسنًا. ستعتمد النتيجة النهائية على موافقة الجميع."
         },
         {
           "pt": "O gerente insistiu em revisar o relatório antes do envio.",
           "en": "The manager insisted on reviewing the report before sending it.",
-          "ar": "حسنًا. ستعتمد النتيجة النهائية على موافقة الجميع."
+          "ar": "أصرّ المدير على مراجعة التقرير قبل إرساله."
         },
         {
           "pt": "Lembre-se de anexar o documento a que me referi ontem.",
-          "en": "Right. The final result will depend on everyone's approval.",
+          "en": "Remember to attach the document I referred to yesterday.",
           "ar": "تذكر أن ترفق الوثيقة التي أشرت إليها أمس."
         }
       ],
@@ -563,17 +563,17 @@
         {
           "pt": "Já respondi a todos os e-mails e agradeci a participação de cada um.",
           "en": "I already replied to all the emails and thanked everyone for their participation.",
-          "ar": "تذكر أن ترفق الوثيقة التي أشرت إليها أمس."
+          "ar": "لقد رددت بالفعل على جميع الرسائل وشكرت الجميع على مشاركتهم."
         },
         {
           "pt": "Concordo com ele, mas precisamos do parecer do jurídico.",
           "en": "I agree with him, but we need the legal department's opinion.",
-          "ar": "لقد رددت بالفعل على جميع الرسائل وشكرت الجميع على مشاركتهم."
+          "ar": "أتفق معه، لكننا بحاجة إلى رأي الإدارة القانونية."
         },
         {
           "pt": "Lembre-se de anexar o documento a que me referi ontem.",
           "en": "Remember to attach the document I referred to yesterday.",
-          "ar": "أتفق معه، لكننا بحاجة إلى رأي الإدارة القانونية."
+          "ar": "تذكر أن ترفق الوثيقة التي أشرت إليها أمس."
         }
       ],
       "answer": "Concordo com ele, mas precisamos do parecer do jurídico.",
@@ -749,12 +749,12 @@
         {
           "pt": "O gerente insistiu em revisar o relatório antes do envio.",
           "en": "The manager insisted on reviewing the report before sending it.",
-          "ar": "لقد رددت بالفعل على جميع الرسائل وشكرت الجميع على مشاركتهم."
+          "ar": "أصرّ المدير على مراجعة التقرير قبل إرساله."
         },
         {
           "pt": "Já respondi a todos os e-mails e agradeci a participação de cada um.",
           "en": "I already replied to all the emails and thanked everyone for their participation.",
-          "ar": "أصرّ المدير على مراجعة التقرير قبل إرساله."
+          "ar": "لقد رددت بالفعل على جميع الرسائل وشكرت الجميع على مشاركتهم."
         }
       ],
       "answer": "O gerente insistiu em revisar o relatório antes do envio.",
@@ -776,17 +776,17 @@
       "options": [
         {
           "pt": "O gerente insistiu em revisar o relatório antes do envio.",
-          "en": "I already replied to all the emails and thanked everyone for their participation.",
-          "ar": "أتفق معه، لكننا بحاجة إلى رأي الإدارة القانونية."
+          "en": "The manager insisted on reviewing the report before sending it.",
+          "ar": "أصرّ المدير على مراجعة التقرير قبل إرساله."
         },
         {
           "pt": "Concordo com ele, mas precisamos do parecer do jurídico.",
           "en": "I agree with him, but we need the legal department's opinion.",
-          "ar": "أصرّ المدير على مراجعة التقرير قبل إرساله."
+          "ar": "أتفق معه، لكننا بحاجة إلى رأي الإدارة القانونية."
         },
         {
           "pt": "Já respondi a todos os e-mails e agradeci a participação de cada um.",
-          "en": "The manager insisted on reviewing the report before sending it.",
+          "en": "I already replied to all the emails and thanked everyone for their participation.",
           "ar": "لقد رددت بالفعل على جميع الرسائل وشكرت الجميع على مشاركتهم."
         }
       ],
@@ -845,18 +845,18 @@
       "options": [
         {
           "pt": "Concordo com ele, mas precisamos do parecer do jurídico.",
-          "en": "Concordo com ele, mas precisamos do parecer do jurídico.",
-          "ar": "Concordo com ele, mas precisamos do parecer do jurídico."
+          "en": "I agree with him, but we need the legal department's opinion.",
+          "ar": "أتفق معه، لكننا بحاجة إلى رأي الإدارة القانونية."
         },
         {
           "pt": "O gerente insistiu em revisar o relatório antes do envio.",
-          "en": "O gerente insistiu em revisar o relatório antes do envio.",
-          "ar": "O gerente insistiu em revisar o relatório antes do envio."
+          "en": "The manager insisted on reviewing the report before sending it.",
+          "ar": "أصرّ المدير على مراجعة التقرير قبل إرساله."
         },
         {
           "pt": "Certo. O resultado final dependerá da aprovação de todos.",
-          "en": "Certo. O resultado final dependerá da aprovação de todos.",
-          "ar": "Certo. O resultado final dependerá da aprovação de todos."
+          "en": "Right. The final result will depend on everyone's approval.",
+          "ar": "حسنًا. ستعتمد النتيجة النهائية على موافقة الجميع."
         }
       ],
       "answer": "O gerente insistiu em revisar o relatório antes do envio.",
@@ -878,18 +878,18 @@
       "options": [
         {
           "pt": "Concordo com ele, mas precisamos do parecer do jurídico.",
-          "en": "Concordo com ele, mas precisamos do parecer do jurídico.",
-          "ar": "Concordo com ele, mas precisamos do parecer do jurídico."
+          "en": "I agree with him, but we need the legal department's opinion.",
+          "ar": "أتفق معه، لكننا بحاجة إلى رأي الإدارة القانونية."
         },
         {
           "pt": "Certo. O resultado final dependerá da aprovação de todos.",
-          "en": "Certo. O resultado final dependerá da aprovação de todos.",
-          "ar": "Certo. O resultado final dependerá da aprovação de todos."
+          "en": "Right. The final result will depend on everyone's approval.",
+          "ar": "حسنًا. ستعتمد النتيجة النهائية على موافقة الجميع."
         },
         {
           "pt": "O gerente insistiu em revisar o relatório antes do envio.",
-          "en": "O gerente insistiu em revisar o relatório antes do envio.",
-          "ar": "O gerente insistiu em revisar o relatório antes do envio."
+          "en": "The manager insisted on reviewing the report before sending it.",
+          "ar": "أصرّ المدير على مراجعة التقرير قبل إرساله."
         }
       ],
       "answer": "Concordo com ele, mas precisamos do parecer do jurídico.",

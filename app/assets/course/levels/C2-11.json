@@ -558,17 +558,17 @@
         {
           "pt": "Você terá noventa minutos para a redação e a compreensão leitora.",
           "en": "You will have ninety minutes for the essay and reading comprehension.",
-          "ar": "يتبع السلم واصفات المستوى C2 في الإطار الأوروبي."
-        },
-        {
-          "pt": "Compreendo. E a expressão oral será avaliada em seguida pela banca?",
-          "en": "The scale follows the C2 level descriptors of the European framework.",
           "ar": "سيتوفر لديك تسعون دقيقة للإنشاء والفهم القرائي."
         },
         {
-          "pt": "A escala segue os descritores do nível C2 do quadro europeu.",
+          "pt": "Compreendo. E a expressão oral será avaliada em seguida pela banca?",
           "en": "I understand. And will the oral expression be assessed next by the board?",
           "ar": "فهمت. وهل سيقيّم التعبير الشفهي بعد ذلك من اللجنة؟"
+        },
+        {
+          "pt": "A escala segue os descritores do nível C2 do quadro europeu.",
+          "en": "The scale follows the C2 level descriptors of the European framework.",
+          "ar": "يتبع السلم واصفات المستوى C2 في الإطار الأوروبي."
         }
       ],
       "answer": "Você terá noventa minutos para a redação e a compreensão leitora.",
@@ -777,17 +777,17 @@
         {
           "pt": "Você terá noventa minutos para a redação e a compreensão leitora.",
           "en": "You will have ninety minutes for the essay and reading comprehension.",
-          "ar": "ممتاز. إن وُجد أي لبس، سأسأل قبل البدء."
+          "ar": "سيتوفر لديك تسعون دقيقة للإنشاء والفهم القرائي."
         },
         {
           "pt": "Perfeito. Havendo qualquer dúvida, perguntarei antes de iniciar.",
-          "en": "Yes, in a fifteen-minute individual interview.",
-          "ar": "نعم، في مقابلة فردية مدتها خمس عشرة دقيقة."
+          "en": "Perfect. Should there be any doubt, I will ask before starting.",
+          "ar": "ممتاز. إن وُجد أي لبس، سأسأل قبل البدء."
         },
         {
           "pt": "Sim, em entrevista individual de quinze minutos.",
-          "en": "Perfect. Should there be any doubt, I will ask before starting.",
-          "ar": "سيتوفر لديك تسعون دقيقة للإنشاء والفهم القرائي."
+          "en": "Yes, in a fifteen-minute individual interview.",
+          "ar": "نعم، في مقابلة فردية مدتها خمس عشرة دقيقة."
         }
       ],
       "answer": "Você terá noventa minutos para a redação e a compreensão leitora.",
@@ -815,12 +815,12 @@
         {
           "pt": "Compreendo. E a expressão oral será avaliada em seguida pela banca?",
           "en": "I understand. And will the oral expression be assessed next by the board?",
-          "ar": "يتبع السلم واصفات المستوى C2 في الإطار الأوروبي."
+          "ar": "فهمت. وهل سيقيّم التعبير الشفهي بعد ذلك من اللجنة؟"
         },
         {
           "pt": "A escala segue os descritores do nível C2 do quadro europeu.",
           "en": "The scale follows the C2 level descriptors of the European framework.",
-          "ar": "فهمت. وهل سيقيّم التعبير الشفهي بعد ذلك من اللجنة؟"
+          "ar": "يتبع السلم واصفات المستوى C2 في الإطار الأوروبي."
         }
       ],
       "answer": "Compreendo. E a expressão oral será avaliada em seguida pela banca?",
@@ -878,18 +878,18 @@
       "options": [
         {
           "pt": "Perfeito. Havendo qualquer dúvida, perguntarei antes de iniciar.",
-          "en": "Perfeito. Havendo qualquer dúvida, perguntarei antes de iniciar.",
-          "ar": "Perfeito. Havendo qualquer dúvida, perguntarei antes de iniciar."
+          "en": "Perfect. Should there be any doubt, I will ask before starting.",
+          "ar": "ممتاز. إن وُجد أي لبس، سأسأل قبل البدء."
         },
         {
           "pt": "A escala segue os descritores do nível C2 do quadro europeu.",
-          "en": "A escala segue os descritores do nível C2 do quadro europeu.",
-          "ar": "A escala segue os descritores do nível C2 do quadro europeu."
+          "en": "The scale follows the C2 level descriptors of the European framework.",
+          "ar": "يتبع السلم واصفات المستوى C2 في الإطار الأوروبي."
         },
         {
           "pt": "Você terá noventa minutos para a redação e a compreensão leitora.",
-          "en": "Você terá noventa minutos para a redação e a compreensão leitora.",
-          "ar": "Você terá noventa minutos para a redação e a compreensão leitora."
+          "en": "You will have ninety minutes for the essay and reading comprehension.",
+          "ar": "سيتوفر لديك تسعون دقيقة للإنشاء والفهم القرائي."
         }
       ],
       "answer": "Você terá noventa minutos para a redação e a compreensão leitora.",
@@ -911,18 +911,18 @@
       "options": [
         {
           "pt": "Você terá noventa minutos para a redação e a compreensão leitora.",
-          "en": "Você terá noventa minutos para a redação e a compreensão leitora.",
-          "ar": "Você terá noventa minutos para a redação e a compreensão leitora."
+          "en": "You will have ninety minutes for the essay and reading comprehension.",
+          "ar": "سيتوفر لديك تسعون دقيقة للإنشاء والفهم القرائي."
         },
         {
           "pt": "Compreendo. E a expressão oral será avaliada em seguida pela banca?",
-          "en": "Compreendo. E a expressão oral será avaliada em seguida pela banca?",
-          "ar": "Compreendo. E a expressão oral será avaliada em seguida pela banca?"
+          "en": "I understand. And will the oral expression be assessed next by the board?",
+          "ar": "فهمت. وهل سيقيّم التعبير الشفهي بعد ذلك من اللجنة؟"
         },
         {
           "pt": "A escala segue os descritores do nível C2 do quadro europeu.",
-          "en": "A escala segue os descritores do nível C2 do quadro europeu.",
-          "ar": "A escala segue os descritores do nível C2 do quadro europeu."
+          "en": "The scale follows the C2 level descriptors of the European framework.",
+          "ar": "يتبع السلم واصفات المستوى C2 في الإطار الأوروبي."
         }
       ],
       "answer": "Compreendo. E a expressão oral será avaliada em seguida pela banca?",

@@ -525,17 +525,17 @@
         {
           "pt": "O professor disse que a prova seria na segunda-feira.",
           "en": "The teacher said the exam would be on Monday.",
-          "ar": "أجبت أنني سأدرس طوال عطلة نهاية الأسبوع."
+          "ar": "قال المعلم إن الامتحان سيكون يوم الاثنين."
         },
         {
           "pt": "Ele explicou que mudou de ideia e que avisaria por e-mail.",
           "en": "He explained he changed his mind and would notify by email.",
-          "ar": "قال المعلم إن الامتحان سيكون يوم الاثنين."
+          "ar": "أوضح أنه غيّر رأيه وأنه سيعلن ذلك عبر البريد الإلكتروني."
         },
         {
           "pt": "Eu respondi que estudaria o fim de semana inteiro.",
           "en": "I answered that I would study the whole weekend.",
-          "ar": "أوضح أنه غيّر رأيه وأنه سيعلن ذلك عبر البريد الإلكتروني."
+          "ar": "أجبت أنني سأدرس طوال عطلة نهاية الأسبوع."
         }
       ],
       "answer": "O professor disse que a prova seria na segunda-feira.",
@@ -563,12 +563,12 @@
         {
           "pt": "E quando ele perguntou se você estava preparado?",
           "en": "And when did he ask if you were prepared?",
-          "ar": "لكنه كان قد أكد أنه سيكون يوم الجمعة!"
+          "ar": "ومتى سألك إذا كنت مستعدًا؟"
         },
         {
           "pt": "Mas ele tinha afirmado que seria na sexta!",
           "en": "But he had stated it would be on Friday!",
-          "ar": "ومتى سألك إذا كنت مستعدًا؟"
+          "ar": "لكنه كان قد أكد أنه سيكون يوم الجمعة!"
         }
       ],
       "answer": "Mas ele tinha afirmado que seria na sexta!",
@@ -702,12 +702,12 @@
         {
           "pt": "O professor disse que a prova seria na segunda-feira.",
           "en": "The teacher said the exam would be on Monday.",
-          "ar": "أوضح أنه غيّر رأيه وأنه سيعلن ذلك عبر البريد الإلكتروني."
+          "ar": "قال المعلم إن الامتحان سيكون يوم الاثنين."
         },
         {
           "pt": "Ele explicou que mudou de ideia e que avisaria por e-mail.",
           "en": "He explained he changed his mind and would notify by email.",
-          "ar": "قال المعلم إن الامتحان سيكون يوم الاثنين."
+          "ar": "أوضح أنه غيّر رأيه وأنه سيعلن ذلك عبر البريد الإلكتروني."
         },
         {
           "pt": "Mas ele tinha afirmado que seria na sexta!",
@@ -735,17 +735,17 @@
         {
           "pt": "Mas ele tinha afirmado que seria na sexta!",
           "en": "But he had stated it would be on Friday!",
-          "ar": "أجبت أنني سأدرس طوال عطلة نهاية الأسبوع."
-        },
-        {
-          "pt": "Ele explicou que mudou de ideia e que avisaria por e-mail.",
-          "en": "I answered that I would study the whole weekend.",
           "ar": "لكنه كان قد أكد أنه سيكون يوم الجمعة!"
         },
         {
-          "pt": "Eu respondi que estudaria o fim de semana inteiro.",
+          "pt": "Ele explicou que mudou de ideia e que avisaria por e-mail.",
           "en": "He explained he changed his mind and would notify by email.",
           "ar": "أوضح أنه غيّر رأيه وأنه سيعلن ذلك عبر البريد الإلكتروني."
+        },
+        {
+          "pt": "Eu respondi que estudaria o fim de semana inteiro.",
+          "en": "I answered that I would study the whole weekend.",
+          "ar": "أجبت أنني سأدرس طوال عطلة نهاية الأسبوع."
         }
       ],
       "answer": "Mas ele tinha afirmado que seria na sexta!",
@@ -837,18 +837,18 @@
       "options": [
         {
           "pt": "Eu respondi que estudaria o fim de semana inteiro.",
-          "en": "Eu respondi que estudaria o fim de semana inteiro.",
-          "ar": "Eu respondi que estudaria o fim de semana inteiro."
+          "en": "I answered that I would study the whole weekend.",
+          "ar": "أجبت أنني سأدرس طوال عطلة نهاية الأسبوع."
         },
         {
           "pt": "O professor disse que a prova seria na segunda-feira.",
-          "en": "O professor disse que a prova seria na segunda-feira.",
-          "ar": "O professor disse que a prova seria na segunda-feira."
+          "en": "The teacher said the exam would be on Monday.",
+          "ar": "قال المعلم إن الامتحان سيكون يوم الاثنين."
         },
         {
           "pt": "E quando ele perguntou se você estava preparado?",
-          "en": "E quando ele perguntou se você estava preparado?",
-          "ar": "E quando ele perguntou se você estava preparado?"
+          "en": "And when did he ask if you were prepared?",
+          "ar": "ومتى سألك إذا كنت مستعدًا؟"
         }
       ],
       "answer": "O professor disse que a prova seria na segunda-feira.",
@@ -870,18 +870,18 @@
       "options": [
         {
           "pt": "E quando ele perguntou se você estava preparado?",
-          "en": "E quando ele perguntou se você estava preparado?",
-          "ar": "E quando ele perguntou se você estava preparado?"
+          "en": "And when did he ask if you were prepared?",
+          "ar": "ومتى سألك إذا كنت مستعدًا؟"
         },
         {
           "pt": "Eu respondi que estudaria o fim de semana inteiro.",
-          "en": "Eu respondi que estudaria o fim de semana inteiro.",
-          "ar": "Eu respondi que estudaria o fim de semana inteiro."
+          "en": "I answered that I would study the whole weekend.",
+          "ar": "أجبت أنني سأدرس طوال عطلة نهاية الأسبوع."
         },
         {
           "pt": "Mas ele tinha afirmado que seria na sexta!",
-          "en": "Mas ele tinha afirmado que seria na sexta!",
-          "ar": "Mas ele tinha afirmado que seria na sexta!"
+          "en": "But he had stated it would be on Friday!",
+          "ar": "لكنه كان قد أكد أنه سيكون يوم الجمعة!"
         }
       ],
       "answer": "Mas ele tinha afirmado que seria na sexta!",

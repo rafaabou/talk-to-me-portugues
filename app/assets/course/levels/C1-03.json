@@ -549,12 +549,12 @@
       "options": [
         {
           "pt": "\"Conta outra!\", gritavam todos toda noite.",
-          "en": "And what was the most fun thing that happened?",
+          "en": "\"Tell another one!\", everyone shouted every night.",
           "ar": "«احكِ غيرها!» كان الجميع يصرخون كل ليلة."
         },
         {
           "pt": "E o que acontecia de mais divertido?",
-          "en": "\"Tell another one!\", everyone shouted every night.",
+          "en": "And what was the most fun thing that happened?",
           "ar": "وما الذي كان يحدث من أمتع الأشياء؟"
         },
         {
@@ -587,12 +587,12 @@
         },
         {
           "pt": "A gente juntava as crianças e inventava histórias de assombração.",
-          "en": "When I was little, the street was dirt and everyone knew each other.",
+          "en": "We gathered the kids and made up ghost stories.",
           "ar": "كنا نجمع الأطفال ونختلق قصص الأشباح."
         },
         {
           "pt": "Quando eu era pequena, a rua era de terra e todo mundo se conhecia.",
-          "en": "We gathered the kids and made up ghost stories.",
+          "en": "When I was little, the street was dirt and everyone knew each other.",
           "ar": "عندما كنت صغيرة، كان الشارع ترابيًا وكان الجميع يعرف بعضهم."
         }
       ],
@@ -783,18 +783,18 @@
       "options": [
         {
           "pt": "E o que acontecia de mais divertido?",
-          "en": "\"Tell another one!\", everyone shouted every night.",
-          "ar": "عندما كنت صغيرة، كان الشارع ترابيًا وكان الجميع يعرف بعضهم."
+          "en": "And what was the most fun thing that happened?",
+          "ar": "وما الذي كان يحدث من أمتع الأشياء؟"
         },
         {
           "pt": "\"Conta outra!\", gritavam todos toda noite.",
-          "en": "And what was the most fun thing that happened?",
+          "en": "\"Tell another one!\", everyone shouted every night.",
           "ar": "«احكِ غيرها!» كان الجميع يصرخون كل ليلة."
         },
         {
           "pt": "Quando eu era pequena, a rua era de terra e todo mundo se conhecia.",
           "en": "When I was little, the street was dirt and everyone knew each other.",
-          "ar": "وما الذي كان يحدث من أمتع الأشياء؟"
+          "ar": "عندما كنت صغيرة، كان الشارع ترابيًا وكان الجميع يعرف بعضهم."
         }
       ],
       "answer": "Quando eu era pequena, a rua era de terra e todo mundo se conhecia.",
@@ -822,12 +822,12 @@
         {
           "pt": "A gente juntava as crianças e inventava histórias de assombração.",
           "en": "We gathered the kids and made up ghost stories.",
-          "ar": "وما الذي كان يحدث من أمتع الأشياء؟"
+          "ar": "كنا نجمع الأطفال ونختلق قصص الأشباح."
         },
         {
           "pt": "E o que acontecia de mais divertido?",
           "en": "And what was the most fun thing that happened?",
-          "ar": "كنا نجمع الأطفال ونختلق قصص الأشباح."
+          "ar": "وما الذي كان يحدث من أمتع الأشياء؟"
         }
       ],
       "answer": "E o que acontecia de mais divertido?",
@@ -885,18 +885,18 @@
       "options": [
         {
           "pt": "Quando eu era pequena, a rua era de terra e todo mundo se conhecia.",
-          "en": "Quando eu era pequena, a rua era de terra e todo mundo se conhecia.",
-          "ar": "Quando eu era pequena, a rua era de terra e todo mundo se conhecia."
+          "en": "When I was little, the street was dirt and everyone knew each other.",
+          "ar": "عندما كنت صغيرة، كان الشارع ترابيًا وكان الجميع يعرف بعضهم."
         },
         {
           "pt": "A gente juntava as crianças e inventava histórias de assombração.",
-          "en": "A gente juntava as crianças e inventava histórias de assombração.",
-          "ar": "A gente juntava as crianças e inventava histórias de assombração."
+          "en": "We gathered the kids and made up ghost stories.",
+          "ar": "كنا نجمع الأطفال ونختلق قصص الأشباح."
         },
         {
           "pt": "E aí eu fazia suspense e todos ficavam quietinhos, esperando o desfecho.",
-          "en": "E aí eu fazia suspense e todos ficavam quietinhos, esperando o desfecho.",
-          "ar": "E aí eu fazia suspense e todos ficavam quietinhos, esperando o desfecho."
+          "en": "Then I would build suspense and everyone stayed quiet, waiting for the ending.",
+          "ar": "ثم كنت أثير التشويق ويبقى الجميع صامتين في انتظار الخاتمة."
         }
       ],
       "answer": "Quando eu era pequena, a rua era de terra e todo mundo se conhecia.",
@@ -918,18 +918,18 @@
       "options": [
         {
           "pt": "E o que acontecia de mais divertido?",
-          "en": "E o que acontecia de mais divertido?",
-          "ar": "E o que acontecia de mais divertido?"
+          "en": "And what was the most fun thing that happened?",
+          "ar": "وما الذي كان يحدث من أمتع الأشياء؟"
         },
         {
           "pt": "\"Conta outra!\", gritavam todos toda noite.",
-          "en": "\"Conta outra!\", gritavam todos toda noite.",
-          "ar": "\"Conta outra!\", gritavam todos toda noite."
+          "en": "\"Tell another one!\", everyone shouted every night.",
+          "ar": "«احكِ غيرها!» كان الجميع يصرخون كل ليلة."
         },
         {
           "pt": "Quando eu era pequena, a rua era de terra e todo mundo se conhecia.",
-          "en": "Quando eu era pequena, a rua era de terra e todo mundo se conhecia.",
-          "ar": "Quando eu era pequena, a rua era de terra e todo mundo se conhecia."
+          "en": "When I was little, the street was dirt and everyone knew each other.",
+          "ar": "عندما كنت صغيرة، كان الشارع ترابيًا وكان الجميع يعرف بعضهم."
         }
       ],
       "answer": "E o que acontecia de mais divertido?",

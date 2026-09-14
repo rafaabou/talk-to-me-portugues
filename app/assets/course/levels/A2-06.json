@@ -542,18 +542,18 @@
       "options": [
         {
           "pt": "Como você sabe?",
+          "en": "How do you know?",
+          "ar": "كيف تعرف؟"
+        },
+        {
+          "pt": "Então vou levar o guarda-chuva.",
           "en": "Then I will take the umbrella.",
           "ar": "إذن سآخذ المظلة."
         },
         {
-          "pt": "Então vou levar o guarda-chuva.",
-          "en": "How do you know?",
-          "ar": "يا له من حر اليوم! درجة الحرارة خمس وثلاثون درجة."
-        },
-        {
           "pt": "Que calor hoje! Está fazendo trinta e cinco graus.",
           "en": "It is so hot today! It is thirty-five degrees.",
-          "ar": "كيف تعرف؟"
+          "ar": "يا له من حر اليوم! درجة الحرارة خمس وثلاثون درجة."
         }
       ],
       "answer": "Que calor hoje! Está fazendo trinta e cinco graus.",
@@ -576,17 +576,17 @@
         {
           "pt": "Sim, mas à noite vai chover.",
           "en": "Yes, but it is going to rain tonight.",
-          "ar": "فكرة جيدة! تمطر كثيرًا هنا في الصيف."
+          "ar": "نعم، لكنها ستمطر في الليل."
         },
         {
           "pt": "Então vou levar o guarda-chuva.",
-          "en": "Good idea! In summer it rains a lot here.",
+          "en": "Then I will take the umbrella.",
           "ar": "إذن سآخذ المظلة."
         },
         {
           "pt": "Boa ideia! No verão chove muito aqui.",
-          "en": "Then I will take the umbrella.",
-          "ar": "نعم، لكنها ستمطر في الليل."
+          "en": "Good idea! In summer it rains a lot here.",
+          "ar": "فكرة جيدة! تمطر كثيرًا هنا في الصيف."
         }
       ],
       "answer": "Sim, mas à noite vai chover.",
@@ -751,12 +751,12 @@
       "options": [
         {
           "pt": "Então vou levar o guarda-chuva.",
-          "en": "Yes, but it is going to rain tonight.",
+          "en": "Then I will take the umbrella.",
           "ar": "إذن سآخذ المظلة."
         },
         {
           "pt": "Sim, mas à noite vai chover.",
-          "en": "Then I will take the umbrella.",
+          "en": "Yes, but it is going to rain tonight.",
           "ar": "نعم، لكنها ستمطر في الليل."
         },
         {
@@ -785,17 +785,17 @@
         {
           "pt": "Como você sabe?",
           "en": "How do you know?",
-          "ar": "نعم، لكنها ستمطر في الليل."
+          "ar": "كيف تعرف؟"
         },
         {
           "pt": "Sim, mas à noite vai chover.",
           "en": "Yes, but it is going to rain tonight.",
-          "ar": "فكرة جيدة! تمطر كثيرًا هنا في الصيف."
+          "ar": "نعم، لكنها ستمطر في الليل."
         },
         {
           "pt": "Boa ideia! No verão chove muito aqui.",
           "en": "Good idea! In summer it rains a lot here.",
-          "ar": "كيف تعرف؟"
+          "ar": "فكرة جيدة! تمطر كثيرًا هنا في الصيف."
         }
       ],
       "answer": "Sim, mas à noite vai chover.",
@@ -853,18 +853,18 @@
       "options": [
         {
           "pt": "Sim, mas à noite vai chover.",
-          "en": "Sim, mas à noite vai chover.",
-          "ar": "Sim, mas à noite vai chover."
+          "en": "Yes, but it is going to rain tonight.",
+          "ar": "نعم، لكنها ستمطر في الليل."
         },
         {
           "pt": "O céu está cheio de nuvens e o vento está forte.",
-          "en": "O céu está cheio de nuvens e o vento está forte.",
-          "ar": "O céu está cheio de nuvens e o vento está forte."
+          "en": "The sky is full of clouds and the wind is strong.",
+          "ar": "السماء مليئة بالغيوم والرياح قوية."
         },
         {
           "pt": "Que calor hoje! Está fazendo trinta e cinco graus.",
-          "en": "Que calor hoje! Está fazendo trinta e cinco graus.",
-          "ar": "Que calor hoje! Está fazendo trinta e cinco graus."
+          "en": "It is so hot today! It is thirty-five degrees.",
+          "ar": "يا له من حر اليوم! درجة الحرارة خمس وثلاثون درجة."
         }
       ],
       "answer": "Que calor hoje! Está fazendo trinta e cinco graus.",
@@ -886,18 +886,18 @@
       "options": [
         {
           "pt": "Sim, mas à noite vai chover.",
-          "en": "Sim, mas à noite vai chover.",
-          "ar": "Sim, mas à noite vai chover."
+          "en": "Yes, but it is going to rain tonight.",
+          "ar": "نعم، لكنها ستمطر في الليل."
         },
         {
           "pt": "Então vou levar o guarda-chuva.",
-          "en": "Então vou levar o guarda-chuva.",
-          "ar": "Então vou levar o guarda-chuva."
+          "en": "Then I will take the umbrella.",
+          "ar": "إذن سآخذ المظلة."
         },
         {
           "pt": "O céu está cheio de nuvens e o vento está forte.",
-          "en": "O céu está cheio de nuvens e o vento está forte.",
-          "ar": "O céu está cheio de nuvens e o vento está forte."
+          "en": "The sky is full of clouds and the wind is strong.",
+          "ar": "السماء مليئة بالغيوم والرياح قوية."
         }
       ],
       "answer": "Sim, mas à noite vai chover.",

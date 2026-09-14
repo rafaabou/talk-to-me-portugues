@@ -527,13 +527,13 @@
       "options": [
         {
           "pt": "Sim, aceito. Obrigado!",
-          "en": "Twenty percent. Do you accept card?",
-          "ar": "عشرون بالمئة. هل تقبل البطاقة؟"
+          "en": "Yes, I do. Thank you!",
+          "ar": "نعم، أقبل. شكرًا!"
         },
         {
           "pt": "Vinte por cento. Aceita cartão?",
-          "en": "Yes, I do. Thank you!",
-          "ar": "نعم، أقبل. شكرًا!"
+          "en": "Twenty percent. Do you accept card?",
+          "ar": "عشرون بالمئة. هل تقبل البطاقة؟"
         },
         {
           "pt": "Bom dia! Quer experimentar esta camisa?",
@@ -561,12 +561,12 @@
         {
           "pt": "Vinte por cento. Aceita cartão?",
           "en": "Twenty percent. Do you accept card?",
-          "ar": "نعم، أقبل. شكرًا!"
+          "ar": "عشرون بالمئة. هل تقبل البطاقة؟"
         },
         {
           "pt": "Sim, aceito. Obrigado!",
           "en": "Yes, I do. Thank you!",
-          "ar": "عشرون بالمئة. هل تقبل البطاقة؟"
+          "ar": "نعم، أقبل. شكرًا!"
         },
         {
           "pt": "Sim. Quanto custa?",
@@ -722,17 +722,17 @@
         {
           "pt": "Sim. Quanto custa?",
           "en": "Yes. How much does it cost?",
-          "ar": "صباح الخير! هل تريد تجربة هذا القميص؟"
+          "ar": "نعم. كم سعره؟"
         },
         {
           "pt": "Sim, aceito. Obrigado!",
           "en": "Yes, I do. Thank you!",
-          "ar": "نعم. كم سعره؟"
+          "ar": "نعم، أقبل. شكرًا!"
         },
         {
           "pt": "Bom dia! Quer experimentar esta camisa?",
           "en": "Good morning! Would you like to try on this shirt?",
-          "ar": "نعم، أقبل. شكرًا!"
+          "ar": "صباح الخير! هل تريد تجربة هذا القميص؟"
         }
       ],
       "answer": "Bom dia! Quer experimentar esta camisa?",
@@ -755,12 +755,12 @@
         {
           "pt": "Sim. Quanto custa?",
           "en": "Yes. How much does it cost?",
-          "ar": "صباح الخير! هل تريد تجربة هذا القميص؟"
+          "ar": "نعم. كم سعره؟"
         },
         {
           "pt": "Bom dia! Quer experimentar esta camisa?",
           "en": "Good morning! Would you like to try on this shirt?",
-          "ar": "نعم. كم سعره؟"
+          "ar": "صباح الخير! هل تريد تجربة هذا القميص؟"
         },
         {
           "pt": "Que bom! Qual é o desconto?",
@@ -823,18 +823,18 @@
       "options": [
         {
           "pt": "Sim, aceito. Obrigado!",
-          "en": "Sim, aceito. Obrigado!",
-          "ar": "Sim, aceito. Obrigado!"
+          "en": "Yes, I do. Thank you!",
+          "ar": "نعم، أقبل. شكرًا!"
         },
         {
           "pt": "Custa oitenta reais, mas está em promoção: sessenta.",
-          "en": "Custa oitenta reais, mas está em promoção: sessenta.",
-          "ar": "Custa oitenta reais, mas está em promoção: sessenta."
+          "en": "It costs eighty reais, but it is on sale: sixty.",
+          "ar": "سعره ثمانون ريالًا، لكنه في تخفيض: ستون."
         },
         {
           "pt": "Bom dia! Quer experimentar esta camisa?",
-          "en": "Bom dia! Quer experimentar esta camisa?",
-          "ar": "Bom dia! Quer experimentar esta camisa?"
+          "en": "Good morning! Would you like to try on this shirt?",
+          "ar": "صباح الخير! هل تريد تجربة هذا القميص؟"
         }
       ],
       "answer": "Bom dia! Quer experimentar esta camisa?",
@@ -856,18 +856,18 @@
       "options": [
         {
           "pt": "Vinte por cento. Aceita cartão?",
-          "en": "Vinte por cento. Aceita cartão?",
-          "ar": "Vinte por cento. Aceita cartão?"
+          "en": "Twenty percent. Do you accept card?",
+          "ar": "عشرون بالمئة. هل تقبل البطاقة؟"
         },
         {
           "pt": "Sim, aceito. Obrigado!",
-          "en": "Sim, aceito. Obrigado!",
-          "ar": "Sim, aceito. Obrigado!"
+          "en": "Yes, I do. Thank you!",
+          "ar": "نعم، أقبل. شكرًا!"
         },
         {
           "pt": "Sim. Quanto custa?",
-          "en": "Sim. Quanto custa?",
-          "ar": "Sim. Quanto custa?"
+          "en": "Yes. How much does it cost?",
+          "ar": "نعم. كم سعره؟"
         }
       ],
       "answer": "Sim. Quanto custa?",

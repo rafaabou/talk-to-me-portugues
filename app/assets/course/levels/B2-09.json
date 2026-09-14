@@ -518,7 +518,7 @@
       "options": [
         {
           "pt": "Perfeito. A menos que chova, vamos nos divertir.",
-          "en": "Great! If I finish the project early, I'll go with you.",
+          "en": "Perfect. Unless it rains, we'll have fun.",
           "ar": "رائع. ما لم يهطل المطر، سنستمتع."
         },
         {
@@ -528,7 +528,7 @@
         },
         {
           "pt": "Ótimo! Se eu terminar o projeto cedo, vou junto com você.",
-          "en": "Perfect. Unless it rains, we'll have fun.",
+          "en": "Great! If I finish the project early, I'll go with you.",
           "ar": "رائع! إذا أنهيت المشروع مبكرًا، سأذهب معك."
         }
       ],
@@ -552,17 +552,17 @@
         {
           "pt": "Ótimo! Se eu terminar o projeto cedo, vou junto com você.",
           "en": "Great! If I finish the project early, I'll go with you.",
-          "ar": "حسنًا. بمجرد أن تنتهي، أخبرني."
+          "ar": "رائع! إذا أنهيت المشروع مبكرًا، سأذهب معك."
         },
         {
           "pt": "Legal. Assim que você terminar, me avisa.",
           "en": "Cool. As soon as you finish, let me know.",
-          "ar": "عندما أنتهي من العمل اليوم، أريد الذهاب إلى النادي الرياضي."
+          "ar": "حسنًا. بمجرد أن تنتهي، أخبرني."
         },
         {
           "pt": "Quando eu sair do trabalho hoje, quero ir à academia.",
           "en": "When I finish work today, I want to go to the gym.",
-          "ar": "رائع! إذا أنهيت المشروع مبكرًا، سأذهب معك."
+          "ar": "عندما أنتهي من العمل اليوم، أريد الذهاب إلى النادي الرياضي."
         }
       ],
       "answer": "Ótimo! Se eu terminar o projeto cedo, vou junto com você.",
@@ -738,12 +738,12 @@
         {
           "pt": "Combinado. Depois, quem sabe, jantamos fora.",
           "en": "Deal. Then, who knows, we have dinner out.",
-          "ar": "عندما أنتهي من العمل اليوم، أريد الذهاب إلى النادي الرياضي."
+          "ar": "متفق. ثم بعد ذلك، من يدري، ربما نتناول العشاء خارجًا."
         },
         {
           "pt": "Quando eu sair do trabalho hoje, quero ir à academia.",
           "en": "When I finish work today, I want to go to the gym.",
-          "ar": "متفق. ثم بعد ذلك، من يدري، ربما نتناول العشاء خارجًا."
+          "ar": "عندما أنتهي من العمل اليوم، أريد الذهاب إلى النادي الرياضي."
         }
       ],
       "answer": "Quando eu sair do trabalho hoje, quero ir à academia.",
@@ -766,17 +766,17 @@
         {
           "pt": "Ótimo! Se eu terminar o projeto cedo, vou junto com você.",
           "en": "Great! If I finish the project early, I'll go with you.",
-          "ar": "حسنًا. بمجرد أن تنتهي، أخبرني."
+          "ar": "رائع! إذا أنهيت المشروع مبكرًا، سأذهب معك."
         },
         {
           "pt": "Legal. Assim que você terminar, me avisa.",
-          "en": "When I finish work today, I want to go to the gym.",
-          "ar": "عندما أنتهي من العمل اليوم، أريد الذهاب إلى النادي الرياضي."
+          "en": "Cool. As soon as you finish, let me know.",
+          "ar": "حسنًا. بمجرد أن تنتهي، أخبرني."
         },
         {
           "pt": "Quando eu sair do trabalho hoje, quero ir à academia.",
-          "en": "Cool. As soon as you finish, let me know.",
-          "ar": "رائع! إذا أنهيت المشروع مبكرًا، سأذهب معك."
+          "en": "When I finish work today, I want to go to the gym.",
+          "ar": "عندما أنتهي من العمل اليوم، أريد الذهاب إلى النادي الرياضي."
         }
       ],
       "answer": "Ótimo! Se eu terminar o projeto cedo, vou junto com você.",
@@ -834,18 +834,18 @@
       "options": [
         {
           "pt": "Ótimo! Se eu terminar o projeto cedo, vou junto com você.",
-          "en": "Ótimo! Se eu terminar o projeto cedo, vou junto com você.",
-          "ar": "Ótimo! Se eu terminar o projeto cedo, vou junto com você."
+          "en": "Great! If I finish the project early, I'll go with you.",
+          "ar": "رائع! إذا أنهيت المشروع مبكرًا، سأذهب معك."
         },
         {
           "pt": "Combinado. Depois, quem sabe, jantamos fora.",
-          "en": "Combinado. Depois, quem sabe, jantamos fora.",
-          "ar": "Combinado. Depois, quem sabe, jantamos fora."
+          "en": "Deal. Then, who knows, we have dinner out.",
+          "ar": "متفق. ثم بعد ذلك، من يدري، ربما نتناول العشاء خارجًا."
         },
         {
           "pt": "Quando eu sair do trabalho hoje, quero ir à academia.",
-          "en": "Quando eu sair do trabalho hoje, quero ir à academia.",
-          "ar": "Quando eu sair do trabalho hoje, quero ir à academia."
+          "en": "When I finish work today, I want to go to the gym.",
+          "ar": "عندما أنتهي من العمل اليوم، أريد الذهاب إلى النادي الرياضي."
         }
       ],
       "answer": "Quando eu sair do trabalho hoje, quero ir à academia.",
@@ -867,18 +867,18 @@
       "options": [
         {
           "pt": "Ótimo! Se eu terminar o projeto cedo, vou junto com você.",
-          "en": "Ótimo! Se eu terminar o projeto cedo, vou junto com você.",
-          "ar": "Ótimo! Se eu terminar o projeto cedo, vou junto com você."
+          "en": "Great! If I finish the project early, I'll go with you.",
+          "ar": "رائع! إذا أنهيت المشروع مبكرًا، سأذهب معك."
         },
         {
           "pt": "Legal. Assim que você terminar, me avisa.",
-          "en": "Legal. Assim que você terminar, me avisa.",
-          "ar": "Legal. Assim que você terminar, me avisa."
+          "en": "Cool. As soon as you finish, let me know.",
+          "ar": "حسنًا. بمجرد أن تنتهي، أخبرني."
         },
         {
           "pt": "Perfeito. A menos que chova, vamos nos divertir.",
-          "en": "Perfeito. A menos que chova, vamos nos divertir.",
-          "ar": "Perfeito. A menos que chova, vamos nos divertir."
+          "en": "Perfect. Unless it rains, we'll have fun.",
+          "ar": "رائع. ما لم يهطل المطر، سنستمتع."
         }
       ],
       "answer": "Ótimo! Se eu terminar o projeto cedo, vou junto com você.",

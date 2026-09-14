@@ -333,8 +333,8 @@
         },
         {
           "pt": "de nada",
-          "en": "de nada",
-          "ar": "de nada"
+          "en": "you're welcome",
+          "ar": "عفوًا"
         }
       ],
       "answer": "obrigada",
@@ -507,16 +507,16 @@
         {
           "pt": "Olá! Meu nome é Karim. Sou do Egito.",
           "en": "Hello! My name is Karim. I'm from Egypt.",
-          "ar": "سررت بلقائك يا كريم! أنا مارينا."
-        },
-        {
-          "pt": "Muito prazer, Karim! Eu sou a Marina.",
-          "en": "Yes, thank you. I would like a coffee with milk.",
           "ar": "مرحبًا! اسمي كريم. أنا من مصر."
         },
         {
-          "pt": "Sim, obrigado. Eu gostaria de um café com leite.",
+          "pt": "Muito prazer, Karim! Eu sou a Marina.",
           "en": "Nice to meet you, Karim! I'm Marina.",
+          "ar": "سررت بلقائك يا كريم! أنا مارينا."
+        },
+        {
+          "pt": "Sim, obrigado. Eu gostaria de um café com leite.",
+          "en": "Yes, thank you. I would like a coffee with milk.",
           "ar": "نعم، شكرًا. أود قهوة بالحليب."
         }
       ],
@@ -539,18 +539,18 @@
       "options": [
         {
           "pt": "Aqui está. Bom apetite!",
-          "en": "Yes, thank you. I would like a coffee with milk.",
-          "ar": "سررت بلقائك يا كريم! أنا مارينا."
-        },
-        {
-          "pt": "Sim, obrigado. Eu gostaria de um café com leite.",
           "en": "Here you go. Enjoy!",
           "ar": "تفضل. بالهناء والشفاء!"
         },
         {
+          "pt": "Sim, obrigado. Eu gostaria de um café com leite.",
+          "en": "Yes, thank you. I would like a coffee with milk.",
+          "ar": "نعم، شكرًا. أود قهوة بالحليب."
+        },
+        {
           "pt": "Muito prazer, Karim! Eu sou a Marina.",
           "en": "Nice to meet you, Karim! I'm Marina.",
-          "ar": "نعم، شكرًا. أود قهوة بالحليب."
+          "ar": "سررت بلقائك يا كريم! أنا مارينا."
         }
       ],
       "answer": "Muito prazer, Karim! Eu sou a Marina.",
@@ -711,12 +711,12 @@
         {
           "pt": "Olá! Meu nome é Karim. Sou do Egito.",
           "en": "Hello! My name is Karim. I'm from Egypt.",
-          "ar": "سررت بلقائك يا كريم! أنا مارينا."
+          "ar": "مرحبًا! اسمي كريم. أنا من مصر."
         },
         {
           "pt": "Muito prazer, Karim! Eu sou a Marina.",
           "en": "Nice to meet you, Karim! I'm Marina.",
-          "ar": "مرحبًا! اسمي كريم. أنا من مصر."
+          "ar": "سررت بلقائك يا كريم! أنا مارينا."
         },
         {
           "pt": "Sim, obrigado. Eu gostaria de um café com leite.",
@@ -743,18 +743,18 @@
       "options": [
         {
           "pt": "Que horas são?",
-          "en": "Hello! My name is Karim. I'm from Egypt.",
-          "ar": "سررت بلقائك يا كريم! أنا مارينا."
+          "en": "What time is it?",
+          "ar": "كم الساعة؟"
         },
         {
           "pt": "Olá! Meu nome é Karim. Sou do Egito.",
-          "en": "What time is it?",
+          "en": "Hello! My name is Karim. I'm from Egypt.",
           "ar": "مرحبًا! اسمي كريم. أنا من مصر."
         },
         {
           "pt": "Muito prazer, Karim! Eu sou a Marina.",
           "en": "Nice to meet you, Karim! I'm Marina.",
-          "ar": "كم الساعة؟"
+          "ar": "سررت بلقائك يا كريم! أنا مارينا."
         }
       ],
       "answer": "Muito prazer, Karim! Eu sou a Marina.",
@@ -812,18 +812,18 @@
       "options": [
         {
           "pt": "Muito prazer, Karim! Eu sou a Marina.",
-          "en": "Muito prazer, Karim! Eu sou a Marina.",
-          "ar": "Muito prazer, Karim! Eu sou a Marina."
+          "en": "Nice to meet you, Karim! I'm Marina.",
+          "ar": "سررت بلقائك يا كريم! أنا مارينا."
         },
         {
           "pt": "Olá! Meu nome é Karim. Sou do Egito.",
-          "en": "Olá! Meu nome é Karim. Sou do Egito.",
-          "ar": "Olá! Meu nome é Karim. Sou do Egito."
+          "en": "Hello! My name is Karim. I'm from Egypt.",
+          "ar": "مرحبًا! اسمي كريم. أنا من مصر."
         },
         {
           "pt": "Que horas são?",
-          "en": "Que horas são?",
-          "ar": "Que horas são?"
+          "en": "What time is it?",
+          "ar": "كم الساعة؟"
         }
       ],
       "answer": "Olá! Meu nome é Karim. Sou do Egito.",
@@ -845,18 +845,18 @@
       "options": [
         {
           "pt": "Que horas são?",
-          "en": "Que horas são?",
-          "ar": "Que horas são?"
+          "en": "What time is it?",
+          "ar": "كم الساعة؟"
         },
         {
           "pt": "Aqui está. Bom apetite!",
-          "en": "Aqui está. Bom apetite!",
-          "ar": "Aqui está. Bom apetite!"
+          "en": "Here you go. Enjoy!",
+          "ar": "تفضل. بالهناء والشفاء!"
         },
         {
           "pt": "Muito prazer, Karim! Eu sou a Marina.",
-          "en": "Muito prazer, Karim! Eu sou a Marina.",
-          "ar": "Muito prazer, Karim! Eu sou a Marina."
+          "en": "Nice to meet you, Karim! I'm Marina.",
+          "ar": "سررت بلقائك يا كريم! أنا مارينا."
         }
       ],
       "answer": "Muito prazer, Karim! Eu sou a Marina.",

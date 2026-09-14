@@ -529,13 +529,13 @@
       "options": [
         {
           "pt": "Excelente. Lembrem-se de que o subjuntivo precisa de prática diária.",
-          "en": "Right. When you feel confident, move on to level C1.",
-          "ar": "صحيح. عندما تشعرون بالثقة، انتقلوا إلى المستوى C1."
+          "en": "Excellent. Remember that the subjunctive needs daily practice.",
+          "ar": "ممتاز. تذكروا أن صيغة الشرط تحتاج إلى ممارسة يومية."
         },
         {
           "pt": "Certo. Quando vocês se sentirem confiantes, passem para o nível C1.",
-          "en": "Excellent. Remember that the subjunctive needs daily practice.",
-          "ar": "ممتاز. تذكروا أن صيغة الشرط تحتاج إلى ممارسة يومية."
+          "en": "Right. When you feel confident, move on to level C1.",
+          "ar": "صحيح. عندما تشعرون بالثقة، انتقلوا إلى المستوى C1."
         },
         {
           "pt": "Vocês chegaram ao fim do nível B2. Como se sentem?",
@@ -563,17 +563,17 @@
         {
           "pt": "Certo. Quando vocês se sentirem confiantes, passem para o nível C1.",
           "en": "Right. When you feel confident, move on to level C1.",
-          "ar": "نعم. إذا تدربت كل يوم، سأتحسن أكثر فأكثر."
+          "ar": "صحيح. عندما تشعرون بالثقة، انتقلوا إلى المستوى C1."
         },
         {
           "pt": "Muito bem! Agora consigo discutir temas complexos em português.",
           "en": "Very good! Now I can discuss complex topics in Portuguese.",
-          "ar": "صحيح. عندما تشعرون بالثقة، انتقلوا إلى المستوى C1."
+          "ar": "جيد جدًا! الآن أستطيع مناقشة مواضيع معقدة بالبرتغالية."
         },
         {
           "pt": "Sim. Se eu praticar todos os dias, vou melhorar cada vez mais.",
           "en": "Yes. If I practice every day, I'll keep improving.",
-          "ar": "جيد جدًا! الآن أستطيع مناقشة مواضيع معقدة بالبرتغالية."
+          "ar": "نعم. إذا تدربت كل يوم، سأتحسن أكثر فأكثر."
         }
       ],
       "answer": "Muito bem! Agora consigo discutir temas complexos em português.",
@@ -743,17 +743,17 @@
       "options": [
         {
           "pt": "Excelente. Lembrem-se de que o subjuntivo precisa de prática diária.",
-          "en": "Yes. If I practice every day, I'll keep improving.",
-          "ar": "لقد وصلتم إلى نهاية المستوى B2. كيف تشعرون؟"
+          "en": "Excellent. Remember that the subjunctive needs daily practice.",
+          "ar": "ممتاز. تذكروا أن صيغة الشرط تحتاج إلى ممارسة يومية."
         },
         {
           "pt": "Vocês chegaram ao fim do nível B2. Como se sentem?",
           "en": "You've reached the end of level B2. How do you feel?",
-          "ar": "ممتاز. تذكروا أن صيغة الشرط تحتاج إلى ممارسة يومية."
+          "ar": "لقد وصلتم إلى نهاية المستوى B2. كيف تشعرون؟"
         },
         {
           "pt": "Sim. Se eu praticar todos os dias, vou melhorar cada vez mais.",
-          "en": "Excellent. Remember that the subjunctive needs daily practice.",
+          "en": "Yes. If I practice every day, I'll keep improving.",
           "ar": "نعم. إذا تدربت كل يوم، سأتحسن أكثر فأكثر."
         }
       ],
@@ -776,7 +776,7 @@
       "options": [
         {
           "pt": "Excelente. Lembrem-se de que o subjuntivo precisa de prática diária.",
-          "en": "You've reached the end of level B2. How do you feel?",
+          "en": "Excellent. Remember that the subjunctive needs daily practice.",
           "ar": "ممتاز. تذكروا أن صيغة الشرط تحتاج إلى ممارسة يومية."
         },
         {
@@ -786,7 +786,7 @@
         },
         {
           "pt": "Vocês chegaram ao fim do nível B2. Como se sentem?",
-          "en": "Excellent. Remember that the subjunctive needs daily practice.",
+          "en": "You've reached the end of level B2. How do you feel?",
           "ar": "لقد وصلتم إلى نهاية المستوى B2. كيف تشعرون؟"
         }
       ],
@@ -845,18 +845,18 @@
       "options": [
         {
           "pt": "Certo. Quando vocês se sentirem confiantes, passem para o nível C1.",
-          "en": "Certo. Quando vocês se sentirem confiantes, passem para o nível C1.",
-          "ar": "Certo. Quando vocês se sentirem confiantes, passem para o nível C1."
+          "en": "Right. When you feel confident, move on to level C1.",
+          "ar": "صحيح. عندما تشعرون بالثقة، انتقلوا إلى المستوى C1."
         },
         {
           "pt": "Muito bem! Agora consigo discutir temas complexos em português.",
-          "en": "Muito bem! Agora consigo discutir temas complexos em português.",
-          "ar": "Muito bem! Agora consigo discutir temas complexos em português."
+          "en": "Very good! Now I can discuss complex topics in Portuguese.",
+          "ar": "جيد جدًا! الآن أستطيع مناقشة مواضيع معقدة بالبرتغالية."
         },
         {
           "pt": "Vocês chegaram ao fim do nível B2. Como se sentem?",
-          "en": "Vocês chegaram ao fim do nível B2. Como se sentem?",
-          "ar": "Vocês chegaram ao fim do nível B2. Como se sentem?"
+          "en": "You've reached the end of level B2. How do you feel?",
+          "ar": "لقد وصلتم إلى نهاية المستوى B2. كيف تشعرون؟"
         }
       ],
       "answer": "Vocês chegaram ao fim do nível B2. Como se sentem?",
@@ -878,18 +878,18 @@
       "options": [
         {
           "pt": "Muito bem! Agora consigo discutir temas complexos em português.",
-          "en": "Muito bem! Agora consigo discutir temas complexos em português.",
-          "ar": "Muito bem! Agora consigo discutir temas complexos em português."
+          "en": "Very good! Now I can discuss complex topics in Portuguese.",
+          "ar": "جيد جدًا! الآن أستطيع مناقشة مواضيع معقدة بالبرتغالية."
         },
         {
           "pt": "Sim. Se eu praticar todos os dias, vou melhorar cada vez mais.",
-          "en": "Sim. Se eu praticar todos os dias, vou melhorar cada vez mais.",
-          "ar": "Sim. Se eu praticar todos os dias, vou melhorar cada vez mais."
+          "en": "Yes. If I practice every day, I'll keep improving.",
+          "ar": "نعم. إذا تدربت كل يوم، سأتحسن أكثر فأكثر."
         },
         {
           "pt": "Vocês chegaram ao fim do nível B2. Como se sentem?",
-          "en": "Vocês chegaram ao fim do nível B2. Como se sentem?",
-          "ar": "Vocês chegaram ao fim do nível B2. Como se sentem?"
+          "en": "You've reached the end of level B2. How do you feel?",
+          "ar": "لقد وصلتم إلى نهاية المستوى B2. كيف تشعرون؟"
         }
       ],
       "answer": "Muito bem! Agora consigo discutir temas complexos em português.",

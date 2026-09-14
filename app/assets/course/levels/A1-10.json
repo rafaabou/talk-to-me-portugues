@@ -561,17 +561,17 @@
         {
           "pt": "É grande! Tem uma sala, três quartos e uma cozinha enorme.",
           "en": "It's big! It has a living room, three bedrooms and a huge kitchen.",
-          "ar": "وماذا يوجد في غرفة المعيشة؟"
-        },
-        {
-          "pt": "Tem um sofá novo e uma mesa de centro.",
-          "en": "And what's in the living room?",
           "ar": "إنه كبير! فيه غرفة معيشة وثلاث غرف نوم ومطبخ ضخم."
         },
         {
-          "pt": "E o que tem na sala?",
+          "pt": "Tem um sofá novo e uma mesa de centro.",
           "en": "There's a new sofa and a coffee table.",
           "ar": "توجد أريكة جديدة وطاولة قهوة."
+        },
+        {
+          "pt": "E o que tem na sala?",
+          "en": "And what's in the living room?",
+          "ar": "وماذا يوجد في غرفة المعيشة؟"
         }
       ],
       "answer": "É grande! Tem uma sala, três quartos e uma cozinha enorme.",
@@ -722,17 +722,17 @@
         {
           "pt": "Tem um sofá novo e uma mesa de centro.",
           "en": "There's a new sofa and a coffee table.",
-          "ar": "إنه بجانب غرفة النوم الرئيسية."
+          "ar": "توجد أريكة جديدة وطاولة قهوة."
         },
         {
           "pt": "Como é a sua nova casa?",
           "en": "What's your new house like?",
-          "ar": "توجد أريكة جديدة وطاولة قهوة."
+          "ar": "كيف هو منزلك الجديد؟"
         },
         {
           "pt": "Fica ao lado do quarto principal.",
           "en": "It's next to the main bedroom.",
-          "ar": "كيف هو منزلك الجديد؟"
+          "ar": "إنه بجانب غرفة النوم الرئيسية."
         }
       ],
       "answer": "Como é a sua nova casa?",
@@ -760,12 +760,12 @@
         {
           "pt": "Como é a sua nova casa?",
           "en": "What's your new house like?",
-          "ar": "توجد أريكة جديدة وطاولة قهوة."
+          "ar": "كيف هو منزلك الجديد؟"
         },
         {
           "pt": "Tem um sofá novo e uma mesa de centro.",
           "en": "There's a new sofa and a coffee table.",
-          "ar": "كيف هو منزلك الجديد؟"
+          "ar": "توجد أريكة جديدة وطاولة قهوة."
         }
       ],
       "answer": "É grande! Tem uma sala, três quartos e uma cozinha enorme.",
@@ -823,18 +823,18 @@
       "options": [
         {
           "pt": "Onde fica o banheiro?",
-          "en": "Onde fica o banheiro?",
-          "ar": "Onde fica o banheiro?"
+          "en": "Where is the bathroom?",
+          "ar": "أين الحمام؟"
         },
         {
           "pt": "Fica ao lado do quarto principal.",
-          "en": "Fica ao lado do quarto principal.",
-          "ar": "Fica ao lado do quarto principal."
+          "en": "It's next to the main bedroom.",
+          "ar": "إنه بجانب غرفة النوم الرئيسية."
         },
         {
           "pt": "Como é a sua nova casa?",
-          "en": "Como é a sua nova casa?",
-          "ar": "Como é a sua nova casa?"
+          "en": "What's your new house like?",
+          "ar": "كيف هو منزلك الجديد؟"
         }
       ],
       "answer": "Como é a sua nova casa?",
@@ -856,18 +856,18 @@
       "options": [
         {
           "pt": "Fica ao lado do quarto principal.",
-          "en": "Fica ao lado do quarto principal.",
-          "ar": "Fica ao lado do quarto principal."
+          "en": "It's next to the main bedroom.",
+          "ar": "إنه بجانب غرفة النوم الرئيسية."
         },
         {
           "pt": "É grande! Tem uma sala, três quartos e uma cozinha enorme.",
-          "en": "É grande! Tem uma sala, três quartos e uma cozinha enorme.",
-          "ar": "É grande! Tem uma sala, três quartos e uma cozinha enorme."
+          "en": "It's big! It has a living room, three bedrooms and a huge kitchen.",
+          "ar": "إنه كبير! فيه غرفة معيشة وثلاث غرف نوم ومطبخ ضخم."
         },
         {
           "pt": "Como é a sua nova casa?",
-          "en": "Como é a sua nova casa?",
-          "ar": "Como é a sua nova casa?"
+          "en": "What's your new house like?",
+          "ar": "كيف هو منزلك الجديد؟"
         }
       ],
       "answer": "É grande! Tem uma sala, três quartos e uma cozinha enorme.",

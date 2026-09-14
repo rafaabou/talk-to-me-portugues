@@ -522,17 +522,17 @@
         {
           "pt": "Não, é fácil. Escute e repita.",
           "en": "No, it's easy. Listen and repeat.",
-          "ar": "صباح الخير يا أستاذ! هل هو صعب جدًا؟"
+          "ar": "لا، إنه سهل. استمع وكرر."
         },
         {
           "pt": "Bom dia! Vamos aprender o alfabeto.",
           "en": "Good morning! Let's learn the alphabet.",
-          "ar": "لا، إنه سهل. استمع وكرر."
+          "ar": "صباح الخير! دعونا نتعلم الأبجدية."
         },
         {
           "pt": "Bom dia, professor! É muito difícil?",
           "en": "Good morning, professor! Is it very difficult?",
-          "ar": "صباح الخير! دعونا نتعلم الأبجدية."
+          "ar": "صباح الخير يا أستاذ! هل هو صعب جدًا؟"
         }
       ],
       "answer": "Bom dia, professor! É muito difícil?",
@@ -683,12 +683,12 @@
         {
           "pt": "Bom dia! Vamos aprender o alfabeto.",
           "en": "Good morning! Let's learn the alphabet.",
-          "ar": "ممتاز! الآن دعونا نقرأ بعض الكلمات."
+          "ar": "صباح الخير! دعونا نتعلم الأبجدية."
         },
         {
           "pt": "Muito bem! Agora vamos ler algumas palavras.",
           "en": "Very good! Now let's read some words.",
-          "ar": "صباح الخير! دعونا نتعلم الأبجدية."
+          "ar": "ممتاز! الآن دعونا نقرأ بعض الكلمات."
         },
         {
           "pt": "Não, é fácil. Escute e repita.",
@@ -716,17 +716,17 @@
         {
           "pt": "Bom dia, professor! É muito difícil?",
           "en": "Good morning, professor! Is it very difficult?",
-          "ar": "ممتاز! الآن دعونا نقرأ بعض الكلمات."
+          "ar": "صباح الخير يا أستاذ! هل هو صعب جدًا؟"
         },
         {
           "pt": "Não, é fácil. Escute e repita.",
           "en": "No, it's easy. Listen and repeat.",
-          "ar": "صباح الخير يا أستاذ! هل هو صعب جدًا؟"
+          "ar": "لا، إنه سهل. استمع وكرر."
         },
         {
           "pt": "Muito bem! Agora vamos ler algumas palavras.",
           "en": "Very good! Now let's read some words.",
-          "ar": "لا، إنه سهل. استمع وكرر."
+          "ar": "ممتاز! الآن دعونا نقرأ بعض الكلمات."
         }
       ],
       "answer": "Bom dia, professor! É muito difícil?",
@@ -784,18 +784,18 @@
       "options": [
         {
           "pt": "Muito bem! Agora vamos ler algumas palavras.",
-          "en": "Muito bem! Agora vamos ler algumas palavras.",
-          "ar": "Muito bem! Agora vamos ler algumas palavras."
+          "en": "Very good! Now let's read some words.",
+          "ar": "ممتاز! الآن دعونا نقرأ بعض الكلمات."
         },
         {
           "pt": "Bom dia! Vamos aprender o alfabeto.",
-          "en": "Bom dia! Vamos aprender o alfabeto.",
-          "ar": "Bom dia! Vamos aprender o alfabeto."
+          "en": "Good morning! Let's learn the alphabet.",
+          "ar": "صباح الخير! دعونا نتعلم الأبجدية."
         },
         {
           "pt": "Não, é fácil. Escute e repita.",
-          "en": "Não, é fácil. Escute e repita.",
-          "ar": "Não, é fácil. Escute e repita."
+          "en": "No, it's easy. Listen and repeat.",
+          "ar": "لا، إنه سهل. استمع وكرر."
         }
       ],
       "answer": "Bom dia! Vamos aprender o alfabeto.",
@@ -817,18 +817,18 @@
       "options": [
         {
           "pt": "Não, é fácil. Escute e repita.",
-          "en": "Não, é fácil. Escute e repita.",
-          "ar": "Não, é fácil. Escute e repita."
+          "en": "No, it's easy. Listen and repeat.",
+          "ar": "لا، إنه سهل. استمع وكرر."
         },
         {
           "pt": "Bom dia! Vamos aprender o alfabeto.",
-          "en": "Bom dia! Vamos aprender o alfabeto.",
-          "ar": "Bom dia! Vamos aprender o alfabeto."
+          "en": "Good morning! Let's learn the alphabet.",
+          "ar": "صباح الخير! دعونا نتعلم الأبجدية."
         },
         {
           "pt": "Bom dia, professor! É muito difícil?",
-          "en": "Bom dia, professor! É muito difícil?",
-          "ar": "Bom dia, professor! É muito difícil?"
+          "en": "Good morning, professor! Is it very difficult?",
+          "ar": "صباح الخير يا أستاذ! هل هو صعب جدًا؟"
         }
       ],
       "answer": "Bom dia, professor! É muito difícil?",

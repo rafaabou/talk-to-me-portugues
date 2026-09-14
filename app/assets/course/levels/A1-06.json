@@ -492,18 +492,18 @@
       "options": [
         {
           "pt": "Você estuda também?",
-          "en": "I eat a sandwich and drink coffee. It's fast.",
-          "ar": "أعمل في ساو باولو وأسكن في المركز."
+          "en": "Do you also study?",
+          "ar": "هل تدرسين أيضًا؟"
         },
         {
           "pt": "Eu como sanduíche e bebo café. É rápido.",
-          "en": "Do you also study?",
+          "en": "I eat a sandwich and drink coffee. It's fast.",
           "ar": "آكل شطيرة وأشرب القهوة. إنه سريع."
         },
         {
           "pt": "Eu trabalho em São Paulo e moro no centro.",
           "en": "I work in São Paulo and live downtown.",
-          "ar": "هل تدرسين أيضًا؟"
+          "ar": "أعمل في ساو باولو وأسكن في المركز."
         }
       ],
       "answer": "Eu trabalho em São Paulo e moro no centro.",
@@ -526,17 +526,17 @@
         {
           "pt": "Você estuda também?",
           "en": "Do you also study?",
-          "ar": "وماذا تأكلين في العمل؟"
+          "ar": "هل تدرسين أيضًا؟"
         },
         {
           "pt": "Eu trabalho em São Paulo e moro no centro.",
-          "en": "And what do you eat at work?",
+          "en": "I work in São Paulo and live downtown.",
           "ar": "أعمل في ساو باولو وأسكن في المركز."
         },
         {
           "pt": "E o que você come no trabalho?",
-          "en": "I work in São Paulo and live downtown.",
-          "ar": "هل تدرسين أيضًا؟"
+          "en": "And what do you eat at work?",
+          "ar": "وماذا تأكلين في العمل؟"
         }
       ],
       "answer": "Você estuda também?",
@@ -702,7 +702,7 @@
         {
           "pt": "Eu trabalho em São Paulo e moro no centro.",
           "en": "I work in São Paulo and live downtown.",
-          "ar": "نعم، أتعلم الإسبانية في الليل."
+          "ar": "أعمل في ساو باولو وأسكن في المركز."
         },
         {
           "pt": "Você estuda também?",
@@ -712,7 +712,7 @@
         {
           "pt": "Sim, eu aprendo espanhol à noite.",
           "en": "Yes, I learn Spanish at night.",
-          "ar": "أعمل في ساو باولو وأسكن في المركز."
+          "ar": "نعم، أتعلم الإسبانية في الليل."
         }
       ],
       "answer": "Eu trabalho em São Paulo e moro no centro.",
@@ -735,17 +735,17 @@
         {
           "pt": "Você estuda também?",
           "en": "Do you also study?",
-          "ar": "نعم، أتعلم الإسبانية في الليل."
+          "ar": "هل تدرسين أيضًا؟"
         },
         {
           "pt": "Sim, eu aprendo espanhol à noite.",
           "en": "Yes, I learn Spanish at night.",
-          "ar": "آكل شطيرة وأشرب القهوة. إنه سريع."
+          "ar": "نعم، أتعلم الإسبانية في الليل."
         },
         {
           "pt": "Eu como sanduíche e bebo café. É rápido.",
           "en": "I eat a sandwich and drink coffee. It's fast.",
-          "ar": "هل تدرسين أيضًا؟"
+          "ar": "آكل شطيرة وأشرب القهوة. إنه سريع."
         }
       ],
       "answer": "Você estuda também?",
@@ -803,18 +803,18 @@
       "options": [
         {
           "pt": "Eu trabalho em São Paulo e moro no centro.",
-          "en": "Eu trabalho em São Paulo e moro no centro.",
-          "ar": "Eu trabalho em São Paulo e moro no centro."
+          "en": "I work in São Paulo and live downtown.",
+          "ar": "أعمل في ساو باولو وأسكن في المركز."
         },
         {
           "pt": "Eu como sanduíche e bebo café. É rápido.",
-          "en": "Eu como sanduíche e bebo café. É rápido.",
-          "ar": "Eu como sanduíche e bebo café. É rápido."
+          "en": "I eat a sandwich and drink coffee. It's fast.",
+          "ar": "آكل شطيرة وأشرب القهوة. إنه سريع."
         },
         {
           "pt": "E o que você come no trabalho?",
-          "en": "E o que você come no trabalho?",
-          "ar": "E o que você come no trabalho?"
+          "en": "And what do you eat at work?",
+          "ar": "وماذا تأكلين في العمل؟"
         }
       ],
       "answer": "Eu trabalho em São Paulo e moro no centro.",
@@ -836,18 +836,18 @@
       "options": [
         {
           "pt": "Eu trabalho em São Paulo e moro no centro.",
-          "en": "Eu trabalho em São Paulo e moro no centro.",
-          "ar": "Eu trabalho em São Paulo e moro no centro."
+          "en": "I work in São Paulo and live downtown.",
+          "ar": "أعمل في ساو باولو وأسكن في المركز."
         },
         {
           "pt": "Sim, eu aprendo espanhol à noite.",
-          "en": "Sim, eu aprendo espanhol à noite.",
-          "ar": "Sim, eu aprendo espanhol à noite."
+          "en": "Yes, I learn Spanish at night.",
+          "ar": "نعم، أتعلم الإسبانية في الليل."
         },
         {
           "pt": "Você estuda também?",
-          "en": "Você estuda também?",
-          "ar": "Você estuda também?"
+          "en": "Do you also study?",
+          "ar": "هل تدرسين أيضًا؟"
         }
       ],
       "answer": "Você estuda também?",
