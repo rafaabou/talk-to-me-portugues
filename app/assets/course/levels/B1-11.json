@@ -30,9 +30,9 @@
       "en": "the bank",
       "ar": "البنك",
       "example": {
-        "pt": "Perfeito. Qual é o valor e a conta de destino?",
-        "en": "Perfect. What is the amount and the destination account?",
-        "ar": "ممتاز. ما المبلغ وحساب المستلم؟"
+        "pt": "O banco fecha às quatro.",
+        "en": "The bank closes at four.",
+        "ar": "يغلق البنك في الرابعة."
       }
     },
     {
@@ -41,9 +41,9 @@
       "en": "the account",
       "ar": "الحساب",
       "example": {
-        "pt": "Perfeito. Qual é o valor e a conta de destino?",
-        "en": "Perfect. What is the amount and the destination account?",
-        "ar": "ممتاز. ما المبلغ وحساب المستلم؟"
+        "pt": "A conta vence amanhã.",
+        "en": "The account is due tomorrow.",
+        "ar": "يستحق الحساب غدًا."
       }
     },
     {
@@ -52,9 +52,9 @@
       "en": "the credit card",
       "ar": "بطاقة الائتمان",
       "example": {
-        "pt": "Perfeito. Qual é o valor e a conta de destino?",
-        "en": "Perfect. What is the amount and the destination account?",
-        "ar": "ممتاز. ما المبلغ وحساب المستلم؟"
+        "pt": "Paguei com o cartão de crédito.",
+        "en": "I paid with the credit card.",
+        "ar": "دفعت ببطاقة الائتمان."
       }
     },
     {
@@ -63,9 +63,9 @@
       "en": "the debit card",
       "ar": "بطاقة الخصم",
       "example": {
-        "pt": "Perfeito. Qual é o valor e a conta de destino?",
-        "en": "Perfect. What is the amount and the destination account?",
-        "ar": "ممتاز. ما المبلغ وحساب المستلم؟"
+        "pt": "O cartão de débito está bloqueado.",
+        "en": "The debit card is blocked.",
+        "ar": "بطاقة الخصم محظورة."
       }
     },
     {
@@ -74,9 +74,9 @@
       "en": "the Pix (instant payment)",
       "ar": "بيكس (دفع فوري)",
       "example": {
-        "pt": "Perfeito. Qual é o valor e a conta de destino?",
-        "en": "Perfect. What is the amount and the destination account?",
-        "ar": "ممتاز. ما المبلغ وحساب المستلم؟"
+        "pt": "Paguei com o pix ontem.",
+        "en": "I paid with Pix yesterday.",
+        "ar": "دفعت عبر البيكس أمس."
       }
     },
     {
@@ -85,9 +85,9 @@
       "en": "the transfer",
       "ar": "التحويل",
       "example": {
-        "pt": "Perfeito. Qual é o valor e a conta de destino?",
-        "en": "Perfect. What is the amount and the destination account?",
-        "ar": "ممتاز. ما المبلغ وحساب المستلم؟"
+        "pt": "Fiz a transferência agora.",
+        "en": "I made the transfer now.",
+        "ar": "أتممت التحويل الآن."
       }
     },
     {
@@ -96,9 +96,9 @@
       "en": "the withdrawal",
       "ar": "السحب",
       "example": {
-        "pt": "Perfeito. Qual é o valor e a conta de destino?",
-        "en": "Perfect. What is the amount and the destination account?",
-        "ar": "ممتاز. ما المبلغ وحساب المستلم؟"
+        "pt": "O saque falhou.",
+        "en": "The withdrawal failed.",
+        "ar": "فشل السحب."
       }
     },
     {
@@ -107,9 +107,9 @@
       "en": "the deposit",
       "ar": "الإيداع",
       "example": {
-        "pt": "Perfeito. Qual é o valor e a conta de destino?",
-        "en": "Perfect. What is the amount and the destination account?",
-        "ar": "ممتاز. ما المبلغ وحساب المستلم؟"
+        "pt": "O depósito foi confirmado.",
+        "en": "The deposit was confirmed.",
+        "ar": "تم تأكيد الإيداع."
       }
     },
     {
@@ -118,9 +118,9 @@
       "en": "the bank statement",
       "ar": "كشف الحساب",
       "example": {
-        "pt": "Perfeito. Qual é o valor e a conta de destino?",
-        "en": "Perfect. What is the amount and the destination account?",
-        "ar": "ممتاز. ما المبلغ وحساب المستلم؟"
+        "pt": "Baixei o extrato do banco.",
+        "en": "I downloaded the bank statement.",
+        "ar": "نزّلت كشف حساب البنك."
       }
     },
     {
@@ -129,9 +129,9 @@
       "en": "the loan",
       "ar": "القرض",
       "example": {
-        "pt": "Perfeito. Qual é o valor e a conta de destino?",
-        "en": "Perfect. What is the amount and the destination account?",
-        "ar": "ممتاز. ما المبلغ وحساب المستلم؟"
+        "pt": "O empréstimo foi aprovado.",
+        "en": "The loan was approved.",
+        "ar": "تمت الموافقة على القرض."
       }
     },
     {
@@ -140,9 +140,9 @@
       "en": "the interest",
       "ar": "الفائدة",
       "example": {
-        "pt": "Bom dia! Como posso ajudar?",
-        "en": "Good morning! How can I help you?",
-        "ar": "صباح الخير! كيف يمكنني مساعدتك؟"
+        "pt": "Os juros são altos.",
+        "en": "The interest is high.",
+        "ar": "الفائدة مرتفعة."
       }
     },
     {
@@ -151,9 +151,9 @@
       "en": "the payment",
       "ar": "الدفع",
       "example": {
-        "pt": "Perfeito. Qual é o valor e a conta de destino?",
-        "en": "Perfect. What is the amount and the destination account?",
-        "ar": "ممتاز. ما المبلغ وحساب المستلم؟"
+        "pt": "O pagamento foi recusado.",
+        "en": "The payment was refused.",
+        "ar": "رُفض الدفع."
       }
     },
     {
@@ -162,9 +162,9 @@
       "en": "the balance",
       "ar": "الرصيد",
       "example": {
-        "pt": "Perfeito. Qual é o valor e a conta de destino?",
-        "en": "Perfect. What is the amount and the destination account?",
-        "ar": "ممتاز. ما المبلغ وحساب المستلم؟"
+        "pt": "O saldo caiu muito.",
+        "en": "The balance dropped a lot.",
+        "ar": "انخفض الرصيد كثيرًا."
       }
     },
     {
@@ -173,9 +173,9 @@
       "en": "the currency",
       "ar": "العملة",
       "example": {
-        "pt": "Perfeito. Qual é o valor e a conta de destino?",
-        "en": "Perfect. What is the amount and the destination account?",
-        "ar": "ممتاز. ما المبلغ وحساب المستلم؟"
+        "pt": "A moeda do Brasil é o real.",
+        "en": "Brazil's currency is the real.",
+        "ar": "عملة البرازيل هي الريال."
       }
     },
     {
@@ -184,9 +184,9 @@
       "en": "the bill / invoice",
       "ar": "الفاتورة",
       "example": {
-        "pt": "Perfeito. Qual é o valor e a conta de destino?",
-        "en": "Perfect. What is the amount and the destination account?",
-        "ar": "ممتاز. ما المبلغ وحساب المستلم؟"
+        "pt": "A fatura fecha dia cinco.",
+        "en": "The invoice closes on the fifth.",
+        "ar": "تُغلق الفاتورة في الخامس من الشهر."
       }
     },
     {
@@ -195,9 +195,9 @@
       "en": "to save money",
       "ar": "يوفّر / يدّخر",
       "example": {
-        "pt": "Bom dia! Como posso ajudar?",
-        "en": "Good morning! How can I help you?",
-        "ar": "صباح الخير! كيف يمكنني مساعدتك؟"
+        "pt": "Tento economizar todo mês.",
+        "en": "I try to save money every month.",
+        "ar": "أحاول الادخار كل شهر."
       }
     }
   ],
@@ -867,6 +867,242 @@
         "pt": "A frase correta: 'Bom dia! Como posso ajudar?'",
         "en": "The correct sentence: 'Bom dia! Como posso ajudar?'",
         "ar": "الجملة الصحيحة: 'Bom dia! Como posso ajudar?'"
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the bank'?",
+        "en": "Which word means 'the bank'?",
+        "ar": "أي كلمة تعني 'البنك'؟"
+      },
+      "options": [
+        {
+          "pt": "a moeda",
+          "en": "the currency",
+          "ar": "العملة"
+        },
+        {
+          "pt": "o depósito",
+          "en": "the deposit",
+          "ar": "الإيداع"
+        },
+        {
+          "pt": "o banco",
+          "en": "the bank",
+          "ar": "البنك"
+        }
+      ],
+      "answer": "o banco",
+      "explanation": {
+        "pt": "'o banco' significa 'the bank'.",
+        "en": "'o banco' means 'the bank'.",
+        "ar": "تعني 'o banco' 'البنك'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the debit card'?",
+        "en": "Which word means 'the debit card'?",
+        "ar": "أي كلمة تعني 'بطاقة الخصم'؟"
+      },
+      "options": [
+        {
+          "pt": "o cartão de débito",
+          "en": "the debit card",
+          "ar": "بطاقة الخصم"
+        },
+        {
+          "pt": "o banco",
+          "en": "the bank",
+          "ar": "البنك"
+        },
+        {
+          "pt": "o extrato",
+          "en": "the bank statement",
+          "ar": "كشف الحساب"
+        }
+      ],
+      "answer": "o cartão de débito",
+      "explanation": {
+        "pt": "'o cartão de débito' significa 'the debit card'.",
+        "en": "'o cartão de débito' means 'the debit card'.",
+        "ar": "تعني 'o cartão de débito' 'بطاقة الخصم'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"I made the transfer now.\"",
+        "en": "Translate into Portuguese: \"I made the transfer now.\"",
+        "ar": "ترجم إلى البرتغالية: \"أتممت التحويل الآن.\""
+      },
+      "options": [],
+      "answer": "Fiz a transferência agora.",
+      "explanation": {
+        "pt": "Resposta: \"Fiz a transferência agora.\".",
+        "en": "Answer: \"Fiz a transferência agora.\". (EN: \"I made the transfer now.\")",
+        "ar": "الإجابة: \"Fiz a transferência agora.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"The payment was refused.\"",
+        "en": "Translate into Portuguese: \"The payment was refused.\"",
+        "ar": "ترجم إلى البرتغالية: \"رُفض الدفع.\""
+      },
+      "options": [],
+      "answer": "O pagamento foi recusado.",
+      "explanation": {
+        "pt": "Resposta: \"O pagamento foi recusado.\".",
+        "en": "Answer: \"O pagamento foi recusado.\". (EN: \"The payment was refused.\")",
+        "ar": "الإجابة: \"O pagamento foi recusado.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Paguei com ___ ontem.\"",
+        "en": "Complete: \"Paguei com ___ ontem.\"",
+        "ar": "أكمل: \"Paguei com ___ ontem.\""
+      },
+      "options": [
+        {
+          "pt": "o cartão de débito",
+          "en": "o cartão de débito",
+          "ar": "o cartão de débito"
+        },
+        {
+          "pt": "a conta",
+          "en": "a conta",
+          "ar": "a conta"
+        },
+        {
+          "pt": "o pix",
+          "en": "o pix",
+          "ar": "o pix"
+        }
+      ],
+      "answer": "o pix",
+      "explanation": {
+        "pt": "A lacuna é 'o pix'.",
+        "en": "The blank is 'o pix'.",
+        "ar": "الفراغ هو 'o pix'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Baixei ___ do banco.\"",
+        "en": "Complete: \"Baixei ___ do banco.\"",
+        "ar": "أكمل: \"Baixei ___ do banco.\""
+      },
+      "options": [
+        {
+          "pt": "o depósito",
+          "en": "o depósito",
+          "ar": "o depósito"
+        },
+        {
+          "pt": "o banco",
+          "en": "o banco",
+          "ar": "o banco"
+        },
+        {
+          "pt": "o extrato",
+          "en": "o extrato",
+          "ar": "o extrato"
+        }
+      ],
+      "answer": "o extrato",
+      "explanation": {
+        "pt": "A lacuna é 'o extrato'.",
+        "en": "The blank is 'o extrato'.",
+        "ar": "الفراغ هو 'o extrato'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: \"The withdrawal failed.\"",
+        "en": "Type in Portuguese: \"The withdrawal failed.\"",
+        "ar": "اكتب بالبرتغالية: \"فشل السحب.\""
+      },
+      "options": [],
+      "answer": "O saque falhou.",
+      "accepted": [
+        "O saque falhou."
+      ],
+      "explanation": {
+        "pt": "Resposta possível: \"O saque falhou.\".",
+        "en": "One possible answer: \"O saque falhou.\".",
+        "ar": "إجابة ممكنة: \"O saque falhou.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "e",
+          "en": "e",
+          "ar": "e"
+        },
+        {
+          "pt": "reais.",
+          "en": "reais.",
+          "ar": "reais."
+        },
+        {
+          "pt": "Seu",
+          "en": "Seu",
+          "ar": "Seu"
+        },
+        {
+          "pt": "mil",
+          "en": "mil",
+          "ar": "mil"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "saldo",
+          "en": "saldo",
+          "ar": "saldo"
+        },
+        {
+          "pt": "é",
+          "en": "é",
+          "ar": "é"
+        },
+        {
+          "pt": "trezentos",
+          "en": "trezentos",
+          "ar": "trezentos"
+        }
+      ],
+      "answer": "Seu saldo é de mil e trezentos reais.",
+      "gen": "v1.8",
+      "explanation": {
+        "pt": "A frase correta é: \"Seu saldo é de mil e trezentos reais.\".",
+        "en": "The correct sentence is: \"Seu saldo é de mil e trezentos reais.\".",
+        "ar": "الجملة الصحيحة هي: \"Seu saldo é de mil e trezentos reais.\"."
       }
     }
   ],

@@ -35,9 +35,9 @@
       "en": "the family",
       "ar": "العائلة",
       "example": {
-        "pt": "Lucas, me conta sobre a sua família.",
-        "en": "Lucas, tell me about your family.",
-        "ar": "لوكاس، حدثني عن عائلتك."
+        "pt": "A família se reúne no domingo.",
+        "en": "The family gathers on Sunday.",
+        "ar": "تتجمع العائلة يوم الأحد."
       }
     },
     {
@@ -46,9 +46,9 @@
       "en": "the father",
       "ar": "الأب",
       "example": {
-        "pt": "O tio Paulo tem cabelo curto.",
-        "en": "Uncle Paulo has short hair.",
-        "ar": "العم باولو لديه شعر قصير."
+        "pt": "O pai dela é médico.",
+        "en": "Her father is a doctor.",
+        "ar": "والدها طبيب."
       }
     },
     {
@@ -57,9 +57,9 @@
       "en": "the mother",
       "ar": "الأم",
       "example": {
-        "pt": "Lucas, me conta sobre a sua família.",
-        "en": "Lucas, tell me about your family.",
-        "ar": "لوكاس، حدثني عن عائلتك."
+        "pt": "A mãe cozinha bem.",
+        "en": "The mother cooks well.",
+        "ar": "تطبخ الأم جيدًا."
       }
     },
     {
@@ -68,9 +68,9 @@
       "en": "the brother",
       "ar": "الأخ",
       "example": {
-        "pt": "O tio Paulo tem cabelo curto.",
-        "en": "Uncle Paulo has short hair.",
-        "ar": "العم باولو لديه شعر قصير."
+        "pt": "O irmão é mais alto.",
+        "en": "The brother is taller.",
+        "ar": "الأخ أطول."
       }
     },
     {
@@ -79,9 +79,9 @@
       "en": "the sister",
       "ar": "الأخت",
       "example": {
-        "pt": "Lucas, me conta sobre a sua família.",
-        "en": "Lucas, tell me about your family.",
-        "ar": "لوكاس، حدثني عن عائلتك."
+        "pt": "A irmã estuda medicina.",
+        "en": "The sister studies medicine.",
+        "ar": "تدرس الأخت الطب."
       }
     },
     {
@@ -90,9 +90,9 @@
       "en": "the son",
       "ar": "الابن",
       "example": {
-        "pt": "O tio Paulo tem cabelo curto.",
-        "en": "Uncle Paulo has short hair.",
-        "ar": "العم باولو لديه شعر قصير."
+        "pt": "O filho tem cinco anos.",
+        "en": "The son is five years old.",
+        "ar": "الابن عمره خمس سنوات."
       }
     },
     {
@@ -101,9 +101,9 @@
       "en": "the daughter",
       "ar": "الابنة",
       "example": {
-        "pt": "Lucas, me conta sobre a sua família.",
-        "en": "Lucas, tell me about your family.",
-        "ar": "لوكاس، حدثني عن عائلتك."
+        "pt": "A filha nasceu em junho.",
+        "en": "The daughter was born in June.",
+        "ar": "وُلدت الابنة في يونيو."
       }
     },
     {
@@ -112,9 +112,9 @@
       "en": "the grandfather",
       "ar": "الجد",
       "example": {
-        "pt": "O tio Paulo tem cabelo curto.",
-        "en": "Uncle Paulo has short hair.",
-        "ar": "العم باولو لديه شعر قصير."
+        "pt": "O avô conta histórias.",
+        "en": "The grandfather tells stories.",
+        "ar": "يروي الجد القصص."
       }
     },
     {
@@ -123,9 +123,9 @@
       "en": "the grandmother",
       "ar": "الجدة",
       "example": {
-        "pt": "Lucas, me conta sobre a sua família.",
-        "en": "Lucas, tell me about your family.",
-        "ar": "لوكاس، حدثني عن عائلتك."
+        "pt": "A avó mora conosco.",
+        "en": "The grandmother lives with us.",
+        "ar": "تسكن الجدة معنا."
       }
     },
     {
@@ -134,9 +134,9 @@
       "en": "the husband",
       "ar": "الزوج",
       "example": {
-        "pt": "O tio Paulo tem cabelo curto.",
-        "en": "Uncle Paulo has short hair.",
-        "ar": "العم باولو لديه شعر قصير."
+        "pt": "O marido dela é professor.",
+        "en": "Her husband is a teacher.",
+        "ar": "زوجها معلم."
       }
     },
     {
@@ -145,9 +145,9 @@
       "en": "the wife",
       "ar": "الزوجة",
       "example": {
-        "pt": "Lucas, me conta sobre a sua família.",
-        "en": "Lucas, tell me about your family.",
-        "ar": "لوكاس، حدثني عن عائلتك."
+        "pt": "A esposa trabalha no hospital.",
+        "en": "The wife works at the hospital.",
+        "ar": "تعمل الزوجة في المستشفى."
       }
     },
     {
@@ -156,9 +156,9 @@
       "en": "my (m)",
       "ar": "ملكي (مذكر)",
       "example": {
-        "pt": "Meu pai é engenheiro e minha mãe é professora.",
-        "en": "My father is an engineer and my mother is a teacher.",
-        "ar": "أبي مهندس وأمي معلمة."
+        "pt": "Meu aniversário é em maio.",
+        "en": "My birthday is in May.",
+        "ar": "عيد ميلادي في مايو."
       }
     },
     {
@@ -167,9 +167,9 @@
       "en": "my (f)",
       "ar": "ملكي (مؤنث)",
       "example": {
-        "pt": "Meu pai é engenheiro e minha mãe é professora.",
-        "en": "My father is an engineer and my mother is a teacher.",
-        "ar": "أبي مهندس وأمي معلمة."
+        "pt": "Minha família mora aqui.",
+        "en": "My family lives here.",
+        "ar": "عائلتي تسكن هنا."
       }
     },
     {
@@ -178,9 +178,9 @@
       "en": "your/his/her",
       "ar": "ملكك / ملكه",
       "example": {
-        "pt": "Lucas, me conta sobre a sua família.",
-        "en": "Lucas, tell me about your family.",
-        "ar": "لوكاس، حدثني عن عائلتك."
+        "pt": "Seu carro é muito rápido.",
+        "en": "Your car is very fast.",
+        "ar": "سيارتك سريعة جدًا."
       }
     },
     {
@@ -189,9 +189,9 @@
       "en": "the cousin (m)",
       "ar": "ابن العم / الخال",
       "example": {
-        "pt": "O tio Paulo tem cabelo curto.",
-        "en": "Uncle Paulo has short hair.",
-        "ar": "العم باولو لديه شعر قصير."
+        "pt": "O primo mora em Lisboa.",
+        "en": "The cousin lives in Lisbon.",
+        "ar": "ابن العم يسكن في لشبونة."
       }
     },
     {
@@ -200,9 +200,9 @@
       "en": "the aunt",
       "ar": "العمة / الخالة",
       "example": {
-        "pt": "Lucas, me conta sobre a sua família.",
-        "en": "Lucas, tell me about your family.",
-        "ar": "لوكاس، حدثني عن عائلتك."
+        "pt": "A tia visitou ontem.",
+        "en": "The aunt visited yesterday.",
+        "ar": "زارت العمة أمس."
       }
     },
     {
@@ -211,9 +211,9 @@
       "en": "the uncle",
       "ar": "العم / الخال",
       "example": {
-        "pt": "O tio Paulo tem cabelo curto.",
-        "en": "Uncle Paulo has short hair.",
-        "ar": "العم باولو لديه شعر قصير."
+        "pt": "O tio mora no Rio.",
+        "en": "The uncle lives in Rio.",
+        "ar": "يعيش العم في ريو."
       }
     }
   ],
@@ -894,6 +894,232 @@
         "en": "The correct sentence: 'Lucas, me conta sobre a sua família.'",
         "ar": "الجملة الصحيحة: 'Lucas, me conta sobre a sua família.'"
       }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the mother'?",
+        "en": "Which word means 'the mother'?",
+        "ar": "أي كلمة تعني 'الأم'؟"
+      },
+      "options": [
+        {
+          "pt": "a família",
+          "en": "the family",
+          "ar": "العائلة"
+        },
+        {
+          "pt": "o avô",
+          "en": "the grandfather",
+          "ar": "الجد"
+        },
+        {
+          "pt": "a mãe",
+          "en": "the mother",
+          "ar": "الأم"
+        },
+        {
+          "pt": "o marido",
+          "en": "the husband",
+          "ar": "الزوج"
+        }
+      ],
+      "answer": "a mãe",
+      "explanation": {
+        "pt": "'a mãe' significa 'the mother'.",
+        "en": "'a mãe' means 'the mother'.",
+        "ar": "تعني 'a mãe' 'الأم'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the wife'?",
+        "en": "Which word means 'the wife'?",
+        "ar": "أي كلمة تعني 'الزوجة'؟"
+      },
+      "options": [
+        {
+          "pt": "a esposa",
+          "en": "the wife",
+          "ar": "الزوجة"
+        },
+        {
+          "pt": "a avó",
+          "en": "the grandmother",
+          "ar": "الجدة"
+        },
+        {
+          "pt": "minha",
+          "en": "my (f)",
+          "ar": "ملكي (مؤنث)"
+        }
+      ],
+      "answer": "a esposa",
+      "explanation": {
+        "pt": "'a esposa' significa 'the wife'.",
+        "en": "'a esposa' means 'the wife'.",
+        "ar": "تعني 'a esposa' 'الزوجة'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"The grandfather tells stories.\"",
+        "en": "Translate into Portuguese: \"The grandfather tells stories.\"",
+        "ar": "ترجم إلى البرتغالية: \"يروي الجد القصص.\""
+      },
+      "options": [],
+      "answer": "O avô conta histórias.",
+      "explanation": {
+        "pt": "Resposta: \"O avô conta histórias.\".",
+        "en": "Answer: \"O avô conta histórias.\". (EN: \"The grandfather tells stories.\")",
+        "ar": "الإجابة: \"O avô conta histórias.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"The aunt visited yesterday.\"",
+        "en": "Translate into Portuguese: \"The aunt visited yesterday.\"",
+        "ar": "ترجم إلى البرتغالية: \"زارت العمة أمس.\""
+      },
+      "options": [],
+      "answer": "A tia visitou ontem.",
+      "explanation": {
+        "pt": "Resposta: \"A tia visitou ontem.\".",
+        "en": "Answer: \"A tia visitou ontem.\". (EN: \"The aunt visited yesterday.\")",
+        "ar": "الإجابة: \"A tia visitou ontem.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: \"The grandfather tells stories.\"",
+        "en": "Type in Portuguese: \"The grandfather tells stories.\"",
+        "ar": "اكتب بالبرتغالية: \"يروي الجد القصص.\""
+      },
+      "options": [],
+      "answer": "O avô conta histórias.",
+      "accepted": [
+        "O avô conta histórias."
+      ],
+      "explanation": {
+        "pt": "Resposta possível: \"O avô conta histórias.\".",
+        "en": "One possible answer: \"O avô conta histórias.\".",
+        "ar": "إجابة ممكنة: \"O avô conta histórias.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Lisboa.",
+          "en": "Lisboa.",
+          "ar": "Lisboa."
+        },
+        {
+          "pt": "em",
+          "en": "em",
+          "ar": "em"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "mora",
+          "en": "mora",
+          "ar": "mora"
+        },
+        {
+          "pt": "primo",
+          "en": "primo",
+          "ar": "primo"
+        }
+      ],
+      "answer": "O primo mora em Lisboa.",
+      "gen": "v1.8",
+      "explanation": {
+        "pt": "A frase correta é: \"O primo mora em Lisboa.\".",
+        "en": "The correct sentence is: \"O primo mora em Lisboa.\".",
+        "ar": "الجملة الصحيحة هي: \"O primo mora em Lisboa.\"."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the son'?",
+        "en": "Which word means 'the son'?",
+        "ar": "أي كلمة تعني 'الابن'؟"
+      },
+      "options": [
+        {
+          "pt": "seu/sua",
+          "en": "your/his/her",
+          "ar": "ملكك / ملكه"
+        },
+        {
+          "pt": "o filho",
+          "en": "the son",
+          "ar": "الابن"
+        },
+        {
+          "pt": "o irmão",
+          "en": "the brother",
+          "ar": "الأخ"
+        }
+      ],
+      "answer": "o filho",
+      "explanation": {
+        "pt": "'o filho' significa 'the son'.",
+        "en": "'o filho' means 'the son'.",
+        "ar": "تعني 'o filho' 'الابن'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the grandfather'?",
+        "en": "Which word means 'the grandfather'?",
+        "ar": "أي كلمة تعني 'الجد'؟"
+      },
+      "options": [
+        {
+          "pt": "o irmão",
+          "en": "the brother",
+          "ar": "الأخ"
+        },
+        {
+          "pt": "o avô",
+          "en": "the grandfather",
+          "ar": "الجد"
+        },
+        {
+          "pt": "a tia",
+          "en": "the aunt",
+          "ar": "العمة / الخالة"
+        }
+      ],
+      "answer": "o avô",
+      "explanation": {
+        "pt": "'o avô' significa 'the grandfather'.",
+        "en": "'o avô' means 'the grandfather'.",
+        "ar": "تعني 'o avô' 'الجد'."
+      },
+      "gen": "v1.8"
     }
   ],
   "speaking": {

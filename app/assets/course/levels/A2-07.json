@@ -35,9 +35,9 @@
       "en": "tomorrow",
       "ar": "غدًا",
       "example": {
-        "pt": "O que você vai fazer amanhã?",
-        "en": "What are you going to do tomorrow?",
-        "ar": "ماذا ستفعل غدًا؟"
+        "pt": "Amanhã tem prova.",
+        "en": "There's a test tomorrow.",
+        "ar": "هناك امتحان غدًا."
       }
     },
     {
@@ -46,9 +46,9 @@
       "en": "later / after",
       "ar": "بعد ذلك",
       "example": {
-        "pt": "Voltamos no domingo à noite. Depois te conto tudo!",
-        "en": "We come back Sunday night. Then I will tell you everything!",
-        "ar": "نعود ليلة الأحد. ثم سأحكي لك كل شيء!"
+        "pt": "Vamos falar depois.",
+        "en": "Let's talk later.",
+        "ar": "دعونا نتحدث لاحقًا."
       }
     },
     {
@@ -57,9 +57,9 @@
       "en": "next week",
       "ar": "الأسبوع القادم",
       "example": {
-        "pt": "Vou com a minha irmã. Vamos ver os amigos.",
-        "en": "With my sister. We are going to see friends.",
-        "ar": "مع أختي. سنزور الأصدقاء."
+        "pt": "Viajamos na próxima semana.",
+        "en": "We travel next week.",
+        "ar": "نسافر الأسبوع القادم."
       }
     },
     {
@@ -68,9 +68,9 @@
       "en": "next year",
       "ar": "السنة القادمة",
       "example": {
-        "pt": "O que você vai fazer no fim de semana?",
-        "en": "What are you going to do on the weekend?",
-        "ar": "ماذا ستفعل في عطلة نهاية الأسبوع؟"
+        "pt": "Vou viajar o ano que vem.",
+        "en": "I'm going to travel next year.",
+        "ar": "سأسافر السنة القادمة."
       }
     },
     {
@@ -79,9 +79,9 @@
       "en": "to go",
       "ar": "يذهب",
       "example": {
-        "pt": "O que você vai fazer no fim de semana?",
-        "en": "What are you going to do on the weekend?",
-        "ar": "ماذا ستفعل في عطلة نهاية الأسبوع؟"
+        "pt": "É hora de ir.",
+        "en": "It's time to go.",
+        "ar": "حان وقت الذهاب."
       }
     },
     {
@@ -90,9 +90,9 @@
       "en": "to see",
       "ar": "يرى",
       "example": {
-        "pt": "Vou com a minha irmã. Vamos ver os amigos.",
-        "en": "With my sister. We are going to see friends.",
-        "ar": "مع أختي. سنزور الأصدقاء."
+        "pt": "Eu quero ver o jogo.",
+        "en": "I want to see the game.",
+        "ar": "أريد رؤية المباراة."
       }
     },
     {
@@ -101,9 +101,9 @@
       "en": "to have dinner",
       "ar": "يتعشى",
       "example": {
-        "pt": "Nós vamos jantar fora hoje.",
-        "en": "We are going to have dinner out tonight.",
-        "ar": "سنتعشى خارج المنزل الليلة."
+        "pt": "Vamos jantar fora?",
+        "en": "Shall we have dinner out?",
+        "ar": "هل نتعشى في الخارج؟"
       }
     },
     {
@@ -112,9 +112,9 @@
       "en": "to buy",
       "ar": "يشتري",
       "example": {
-        "pt": "O que você vai fazer no fim de semana?",
-        "en": "What are you going to do on the weekend?",
-        "ar": "ماذا ستفعل في عطلة نهاية الأسبوع؟"
+        "pt": "Ele vai comprar um carro.",
+        "en": "He is going to buy a car.",
+        "ar": "سيشتري سيارة."
       }
     },
     {
@@ -123,9 +123,9 @@
       "en": "to meet",
       "ar": "يلتقي",
       "example": {
-        "pt": "O que você vai fazer no fim de semana?",
-        "en": "What are you going to do on the weekend?",
-        "ar": "ماذا ستفعل في عطلة نهاية الأسبوع؟"
+        "pt": "Eu vou encontrar meus amigos.",
+        "en": "I'm going to meet my friends.",
+        "ar": "سألتقي بأصدقائي."
       }
     },
     {
@@ -134,9 +134,9 @@
       "en": "to finish",
       "ar": "ينهي",
       "example": {
-        "pt": "O que você vai fazer no fim de semana?",
-        "en": "What are you going to do on the weekend?",
-        "ar": "ماذا ستفعل في عطلة نهاية الأسبوع؟"
+        "pt": "Tudo vai terminar bem.",
+        "en": "Everything will end well.",
+        "ar": "سينتهي كل شيء على خير."
       }
     },
     {
@@ -145,9 +145,9 @@
       "en": "to begin",
       "ar": "يبدأ",
       "example": {
-        "pt": "O que você vai fazer no fim de semana?",
-        "en": "What are you going to do on the weekend?",
-        "ar": "ماذا ستفعل في عطلة نهاية الأسبوع؟"
+        "pt": "A aula vai começar agora.",
+        "en": "The class is going to start now.",
+        "ar": "ستبدأ الحصة الآن."
       }
     },
     {
@@ -156,9 +156,9 @@
       "en": "to return",
       "ar": "يعود",
       "example": {
-        "pt": "O que você vai fazer no fim de semana?",
-        "en": "What are you going to do on the weekend?",
-        "ar": "ماذا ستفعل في عطلة نهاية الأسبوع؟"
+        "pt": "Vamos voltar amanhã?",
+        "en": "Shall we come back tomorrow?",
+        "ar": "هل نعود غدًا؟"
       }
     },
     {
@@ -167,9 +167,9 @@
       "en": "to decide",
       "ar": "يقرر",
       "example": {
-        "pt": "O que você vai fazer no fim de semana?",
-        "en": "What are you going to do on the weekend?",
-        "ar": "ماذا ستفعل في عطلة نهاية الأسبوع؟"
+        "pt": "Precisamos decidir agora.",
+        "en": "We need to decide now.",
+        "ar": "علينا أن نقرر الآن."
       }
     },
     {
@@ -178,9 +178,9 @@
       "en": "the plan",
       "ar": "الخطة",
       "example": {
-        "pt": "O que você vai fazer no fim de semana?",
-        "en": "What are you going to do on the weekend?",
-        "ar": "ماذا ستفعل في عطلة نهاية الأسبوع؟"
+        "pt": "O plano deu errado.",
+        "en": "The plan failed.",
+        "ar": "فشل الخطة."
       }
     },
     {
@@ -189,9 +189,9 @@
       "en": "probably",
       "ar": "على الأرجح",
       "example": {
-        "pt": "O que você vai fazer no fim de semana?",
-        "en": "What are you going to do on the weekend?",
-        "ar": "ماذا ستفعل في عطلة نهاية الأسبوع؟"
+        "pt": "Provavelmente ele vem.",
+        "en": "He will probably come.",
+        "ar": "على الأرجح سيأتي."
       }
     },
     {
@@ -200,9 +200,9 @@
       "en": "the day after tomorrow",
       "ar": "بعد غد",
       "example": {
-        "pt": "Voltamos no domingo à noite. Depois te conto tudo!",
-        "en": "We come back Sunday night. Then I will tell you everything!",
-        "ar": "نعود ليلة الأحد. ثم سأحكي لك كل شيء!"
+        "pt": "Depois de amanhã viajamos.",
+        "en": "The day after tomorrow we travel.",
+        "ar": "نسافر بعد غد."
       }
     },
     {
@@ -211,9 +211,9 @@
       "en": "the party",
       "ar": "الحفلة",
       "example": {
-        "pt": "Vou com a minha irmã. Vamos ver os amigos.",
-        "en": "With my sister. We are going to see friends.",
-        "ar": "مع أختي. سنزور الأصدقاء."
+        "pt": "A festa começa às oito.",
+        "en": "The party starts at eight.",
+        "ar": "تبدأ الحفلة في الثامنة."
       }
     },
     {
@@ -222,9 +222,9 @@
       "en": "to watch",
       "ar": "يشاهد",
       "example": {
-        "pt": "O que você vai fazer no fim de semana?",
-        "en": "What are you going to do on the weekend?",
-        "ar": "ماذا ستفعل في عطلة نهاية الأسبوع؟"
+        "pt": "Vamos assistir ao jogo.",
+        "en": "Let's watch the game.",
+        "ar": "دعونا نشاهد المباراة."
       }
     }
   ],
@@ -924,6 +924,237 @@
         "pt": "A frase correta: 'O que você vai fazer no fim de semana?'",
         "en": "The correct sentence: 'O que você vai fazer no fim de semana?'",
         "ar": "الجملة الصحيحة: 'O que você vai fazer no fim de semana?'"
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the plan'?",
+        "en": "Which word means 'the plan'?",
+        "ar": "أي كلمة تعني 'الخطة'؟"
+      },
+      "options": [
+        {
+          "pt": "o plano",
+          "en": "the plan",
+          "ar": "الخطة"
+        },
+        {
+          "pt": "voltar",
+          "en": "to return",
+          "ar": "يعود"
+        },
+        {
+          "pt": "ir",
+          "en": "to go",
+          "ar": "يذهب"
+        }
+      ],
+      "answer": "o plano",
+      "explanation": {
+        "pt": "'o plano' significa 'the plan'.",
+        "en": "'o plano' means 'the plan'.",
+        "ar": "تعني 'o plano' 'الخطة'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the party'?",
+        "en": "Which word means 'the party'?",
+        "ar": "أي كلمة تعني 'الحفلة'؟"
+      },
+      "options": [
+        {
+          "pt": "ver",
+          "en": "to see",
+          "ar": "يرى"
+        },
+        {
+          "pt": "a festa",
+          "en": "the party",
+          "ar": "الحفلة"
+        },
+        {
+          "pt": "provavelmente",
+          "en": "probably",
+          "ar": "على الأرجح"
+        }
+      ],
+      "answer": "a festa",
+      "explanation": {
+        "pt": "'a festa' significa 'the party'.",
+        "en": "'a festa' means 'the party'.",
+        "ar": "تعني 'a festa' 'الحفلة'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"There's a test tomorrow.\"",
+        "en": "Translate into Portuguese: \"There's a test tomorrow.\"",
+        "ar": "ترجم إلى البرتغالية: \"هناك امتحان غدًا.\""
+      },
+      "options": [],
+      "answer": "Amanhã tem prova.",
+      "explanation": {
+        "pt": "Resposta: \"Amanhã tem prova.\".",
+        "en": "Answer: \"Amanhã tem prova.\". (EN: \"There's a test tomorrow.\")",
+        "ar": "الإجابة: \"Amanhã tem prova.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"He is going to buy a car.\"",
+        "en": "Translate into Portuguese: \"He is going to buy a car.\"",
+        "ar": "ترجم إلى البرتغالية: \"سيشتري سيارة.\""
+      },
+      "options": [],
+      "answer": "Ele vai comprar um carro.",
+      "explanation": {
+        "pt": "Resposta: \"Ele vai comprar um carro.\".",
+        "en": "Answer: \"Ele vai comprar um carro.\". (EN: \"He is going to buy a car.\")",
+        "ar": "الإجابة: \"Ele vai comprar um carro.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Tudo vai ___ bem.\"",
+        "en": "Complete: \"Tudo vai ___ bem.\"",
+        "ar": "أكمل: \"Tudo vai ___ bem.\""
+      },
+      "options": [
+        {
+          "pt": "terminar",
+          "en": "terminar",
+          "ar": "terminar"
+        },
+        {
+          "pt": "ver",
+          "en": "ver",
+          "ar": "ver"
+        },
+        {
+          "pt": "amanhã",
+          "en": "amanhã",
+          "ar": "amanhã"
+        }
+      ],
+      "answer": "terminar",
+      "explanation": {
+        "pt": "A lacuna é 'terminar'.",
+        "en": "The blank is 'terminar'.",
+        "ar": "الفراغ هو 'terminar'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Viajamos n___.\"",
+        "en": "Complete: \"Viajamos n___.\"",
+        "ar": "أكمل: \"Viajamos n___.\""
+      },
+      "options": [
+        {
+          "pt": "depois",
+          "en": "depois",
+          "ar": "depois"
+        },
+        {
+          "pt": "encontrar",
+          "en": "encontrar",
+          "ar": "encontrar"
+        },
+        {
+          "pt": "a próxima semana",
+          "en": "a próxima semana",
+          "ar": "a próxima semana"
+        }
+      ],
+      "answer": "a próxima semana",
+      "explanation": {
+        "pt": "A lacuna é 'a próxima semana'.",
+        "en": "The blank is 'a próxima semana'.",
+        "ar": "الفراغ هو 'a próxima semana'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: \"Shall we come back tomorrow?\"",
+        "en": "Type in Portuguese: \"Shall we come back tomorrow?\"",
+        "ar": "اكتب بالبرتغالية: \"هل نعود غدًا؟\""
+      },
+      "options": [],
+      "answer": "Vamos voltar amanhã?",
+      "accepted": [
+        "Vamos voltar amanhã?"
+      ],
+      "explanation": {
+        "pt": "Resposta possível: \"Vamos voltar amanhã?\".",
+        "en": "One possible answer: \"Vamos voltar amanhã?\".",
+        "ar": "إجابة ممكنة: \"Vamos voltar amanhã?\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "viajar",
+          "en": "viajar",
+          "ar": "viajar"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "Janeiro.",
+          "en": "Janeiro.",
+          "ar": "Janeiro."
+        },
+        {
+          "pt": "Rio",
+          "en": "Rio",
+          "ar": "Rio"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "para",
+          "en": "para",
+          "ar": "para"
+        },
+        {
+          "pt": "Vou",
+          "en": "Vou",
+          "ar": "Vou"
+        }
+      ],
+      "answer": "Vou viajar para o Rio de Janeiro.",
+      "gen": "v1.8",
+      "explanation": {
+        "pt": "A frase correta é: \"Vou viajar para o Rio de Janeiro.\".",
+        "en": "The correct sentence is: \"Vou viajar para o Rio de Janeiro.\".",
+        "ar": "الجملة الصحيحة هي: \"Vou viajar para o Rio de Janeiro.\"."
       }
     }
   ],

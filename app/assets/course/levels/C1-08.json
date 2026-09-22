@@ -35,9 +35,9 @@
       "en": "nominal agreement",
       "ar": "المطابقة الاسمية",
       "example": {
-        "pt": "A maioria dos alunos chegou à aula.",
-        "en": "Most of the students arrived at class.",
-        "ar": "وصل معظم الطلاب إلى الصف."
+        "pt": "A concordância nominal é básica.",
+        "en": "Nominal agreement is basic.",
+        "ar": "المطابقة الاسمية أساسية."
       }
     },
     {
@@ -46,9 +46,9 @@
       "en": "verbal agreement",
       "ar": "مطابقة الفعل مع الفاعل",
       "example": {
-        "pt": "A maioria dos alunos chegou à aula.",
-        "en": "Most of the students arrived at class.",
-        "ar": "وصل معظم الطلاب إلى الصف."
+        "pt": "A concordância verbal depende do sujeito.",
+        "en": "Verbal agreement depends on the subject.",
+        "ar": "تعتمد مطابقة الفعل على الفاعل."
       }
     },
     {
@@ -57,9 +57,9 @@
       "en": "the subject",
       "ar": "الفاعل",
       "example": {
-        "pt": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
-        "en": "The text has an error: '30% da turma faltou' can also be 'faltaram'.",
-        "ar": "النص فيه خطأ: '30% da turma faltou' يمكن أيضًا أن تكون 'faltaram'."
+        "pt": "O sujeito vem antes do verbo.",
+        "en": "The subject comes before the verb.",
+        "ar": "يأتي الفاعل قبل الفعل."
       }
     },
     {
@@ -68,9 +68,9 @@
       "en": "the nucleus, core",
       "ar": "الرأس، النواة",
       "example": {
-        "pt": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
-        "en": "The text has an error: '30% da turma faltou' can also be 'faltaram'.",
-        "ar": "النص فيه خطأ: '30% da turma faltou' يمكن أيضًا أن تكون 'faltaram'."
+        "pt": "O núcleo do sujeito é plural.",
+        "en": "The core of the subject is plural.",
+        "ar": "نواة الفاعل جمع."
       }
     },
     {
@@ -79,9 +79,9 @@
       "en": "the compound subject",
       "ar": "الفاعل المركب",
       "example": {
-        "pt": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
-        "en": "The text has an error: '30% da turma faltou' can also be 'faltaram'.",
-        "ar": "النص فيه خطأ: '30% da turma faltou' يمكن أيضًا أن تكون 'faltaram'."
+        "pt": "O sujeito composto pede verbo no plural.",
+        "en": "The compound subject takes a plural verb.",
+        "ar": "يطلب الفاعل المركب فعلًا جمعًا."
       }
     },
     {
@@ -90,9 +90,9 @@
       "en": "the partitive expression",
       "ar": "التعبير الجزئي",
       "example": {
-        "pt": "A maioria dos alunos chegou à aula.",
-        "en": "Most of the students arrived at class.",
-        "ar": "وصل معظم الطلاب إلى الصف."
+        "pt": "A expressão partitiva usa 'de'.",
+        "en": "The partitive expression uses 'of'.",
+        "ar": "يستخدم التعبير الجزئي حرف \"من\"."
       }
     },
     {
@@ -101,9 +101,9 @@
       "en": "most of",
       "ar": "أغلبية، معظم",
       "example": {
-        "pt": "A maioria dos alunos chegou à aula.",
-        "en": "Most of the students arrived at class.",
-        "ar": "وصل معظم الطلاب إلى الصف."
+        "pt": "A maioria de nós concorda.",
+        "en": "Most of us agree.",
+        "ar": "معظمنا يوافق."
       }
     },
     {
@@ -112,9 +112,9 @@
       "en": "we (colloquial)",
       "ar": "نحن (عامية)",
       "example": {
-        "pt": "A maioria dos alunos chegou à aula.",
-        "en": "Most of the students arrived at class.",
-        "ar": "وصل معظم الطلاب إلى الصف."
+        "pt": "A gente vai ao cinema.",
+        "en": "We're going to the movies.",
+        "ar": "سنذهب إلى السينما."
       }
     },
     {
@@ -123,9 +123,9 @@
       "en": "the percentage",
       "ar": "النسبة المئوية",
       "example": {
-        "pt": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
-        "en": "The text has an error: '30% da turma faltou' can also be 'faltaram'.",
-        "ar": "النص فيه خطأ: '30% da turma faltou' يمكن أيضًا أن تكون 'faltaram'."
+        "pt": "O percentual subiu dois pontos.",
+        "en": "The percentage went up two points.",
+        "ar": "ارتفعت النسبة المئوية نقطتين."
       }
     },
     {
@@ -134,9 +134,9 @@
       "en": "the fraction",
       "ar": "الكسر",
       "example": {
-        "pt": "A maioria dos alunos chegou à aula.",
-        "en": "Most of the students arrived at class.",
-        "ar": "وصل معظم الطلاب إلى الصف."
+        "pt": "A fração representa parte do todo.",
+        "en": "The fraction represents part of the whole.",
+        "ar": "يمثل الكسر جزءًا من الكل."
       }
     },
     {
@@ -145,9 +145,9 @@
       "en": "the collective noun",
       "ar": "اسم الجمع",
       "example": {
-        "pt": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
-        "en": "The text has an error: '30% da turma faltou' can also be 'faltaram'.",
-        "ar": "النص فيه خطأ: '30% da turma faltou' يمكن أيضًا أن تكون 'faltaram'."
+        "pt": "O coletivo agrupa os nomes.",
+        "en": "The collective noun groups names.",
+        "ar": "يجمّع اسم الجمع الأسماء."
       }
     },
     {
@@ -156,9 +156,9 @@
       "en": "the term of address",
       "ar": "ضمير المخاطبة",
       "example": {
-        "pt": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
-        "en": "The text has an error: '30% da turma faltou' can also be 'faltaram'.",
-        "ar": "النص فيه خطأ: '30% da turma faltou' يمكن أيضًا أن تكون 'faltaram'."
+        "pt": "O pronome de tratamento é 'você'.",
+        "en": "The term of address is 'você'.",
+        "ar": "ضمير المخاطبة هو \"você\"."
       }
     },
     {
@@ -167,9 +167,9 @@
       "en": "the rule",
       "ar": "القاعدة",
       "example": {
-        "pt": "A maioria dos alunos chegou à aula.",
-        "en": "Most of the students arrived at class.",
-        "ar": "وصل معظم الطلاب إلى الصف."
+        "pt": "A regra tem exceções.",
+        "en": "The rule has exceptions.",
+        "ar": "للقاعدة استثناءات."
       }
     },
     {
@@ -178,9 +178,9 @@
       "en": "the adjective",
       "ar": "الصفة",
       "example": {
-        "pt": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
-        "en": "The text has an error: '30% da turma faltou' can also be 'faltaram'.",
-        "ar": "النص فيه خطأ: '30% da turma faltou' يمكن أيضًا أن تكون 'faltaram'."
+        "pt": "O adjetivo concorda em gênero.",
+        "en": "The adjective agrees in gender.",
+        "ar": "تتفق الصفة في الجنس."
       }
     },
     {
@@ -189,9 +189,9 @@
       "en": "the phrase, locution",
       "ar": "التركيب",
       "example": {
-        "pt": "A maioria dos alunos chegou à aula.",
-        "en": "Most of the students arrived at class.",
-        "ar": "وصل معظم الطلاب إلى الصف."
+        "pt": "A locução verbal usa dois verbos.",
+        "en": "The verbal periphrasis uses two verbs.",
+        "ar": "تستخدم التركيب الفعلي فعلين."
       }
     },
     {
@@ -200,9 +200,9 @@
       "en": "the passive pronoun",
       "ar": "ضمير المبني للمجهول",
       "example": {
-        "pt": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
-        "en": "The text has an error: '30% da turma faltou' can also be 'faltaram'.",
-        "ar": "النص فيه خطأ: '30% da turma faltou' يمكن أيضًا أن تكون 'faltaram'."
+        "pt": "O pronome apassivador forma a passiva.",
+        "en": "The passive pronoun forms the passive.",
+        "ar": "يشكّل ضمير المبني للمجهول المبني للمجهول."
       }
     }
   ],
@@ -947,6 +947,242 @@
         "en": "The correct sentence: 'O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.'",
         "ar": "الجملة الصحيحة: 'O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.'"
       }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the partitive expression'?",
+        "en": "Which word means 'the partitive expression'?",
+        "ar": "أي كلمة تعني 'التعبير الجزئي'؟"
+      },
+      "options": [
+        {
+          "pt": "a fração",
+          "en": "the fraction",
+          "ar": "الكسر"
+        },
+        {
+          "pt": "a concordância verbal",
+          "en": "verbal agreement",
+          "ar": "مطابقة الفعل مع الفاعل"
+        },
+        {
+          "pt": "a expressão partitiva",
+          "en": "the partitive expression",
+          "ar": "التعبير الجزئي"
+        }
+      ],
+      "answer": "a expressão partitiva",
+      "explanation": {
+        "pt": "'a expressão partitiva' significa 'the partitive expression'.",
+        "en": "'a expressão partitiva' means 'the partitive expression'.",
+        "ar": "تعني 'a expressão partitiva' 'التعبير الجزئي'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the fraction'?",
+        "en": "Which word means 'the fraction'?",
+        "ar": "أي كلمة تعني 'الكسر'؟"
+      },
+      "options": [
+        {
+          "pt": "o adjetivo",
+          "en": "the adjective",
+          "ar": "الصفة"
+        },
+        {
+          "pt": "a fração",
+          "en": "the fraction",
+          "ar": "الكسر"
+        },
+        {
+          "pt": "a gente",
+          "en": "we (colloquial)",
+          "ar": "نحن (عامية)"
+        },
+        {
+          "pt": "a expressão partitiva",
+          "en": "the partitive expression",
+          "ar": "التعبير الجزئي"
+        }
+      ],
+      "answer": "a fração",
+      "explanation": {
+        "pt": "'a fração' significa 'the fraction'.",
+        "en": "'a fração' means 'the fraction'.",
+        "ar": "تعني 'a fração' 'الكسر'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"The rule has exceptions.\"",
+        "en": "Translate into Portuguese: \"The rule has exceptions.\"",
+        "ar": "ترجم إلى البرتغالية: \"للقاعدة استثناءات.\""
+      },
+      "options": [],
+      "answer": "A regra tem exceções.",
+      "explanation": {
+        "pt": "Resposta: \"A regra tem exceções.\".",
+        "en": "Answer: \"A regra tem exceções.\". (EN: \"The rule has exceptions.\")",
+        "ar": "الإجابة: \"A regra tem exceções.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"The fraction represents part of the whole.\"",
+        "en": "Translate into Portuguese: \"The fraction represents part of the whole.\"",
+        "ar": "ترجم إلى البرتغالية: \"يمثل الكسر جزءًا من الكل.\""
+      },
+      "options": [],
+      "answer": "A fração representa parte do todo.",
+      "explanation": {
+        "pt": "Resposta: \"A fração representa parte do todo.\".",
+        "en": "Answer: \"A fração representa parte do todo.\". (EN: \"The fraction represents part of the whole.\")",
+        "ar": "الإجابة: \"A fração representa parte do todo.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: \"The text has an error: '30% da turma faltou' can also be 'faltaram'.\"",
+        "en": "Type in Portuguese: \"The text has an error: '30% da turma faltou' can also be 'faltaram'.\"",
+        "ar": "اكتب بالبرتغالية: \"النص فيه خطأ: '30% da turma faltou' يمكن أيضًا أن تكون 'faltaram'.\""
+      },
+      "options": [],
+      "answer": "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.",
+      "accepted": [
+        "O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'."
+      ],
+      "explanation": {
+        "pt": "Resposta possível: \"O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.\".",
+        "en": "One possible answer: \"O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.\".",
+        "ar": "إجابة ممكنة: \"O texto tem um erro: '30% da turma faltou' também pode ser 'faltaram'.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "concorda",
+          "en": "concorda",
+          "ar": "concorda"
+        },
+        {
+          "pt": "em",
+          "en": "em",
+          "ar": "em"
+        },
+        {
+          "pt": "gênero.",
+          "en": "gênero.",
+          "ar": "gênero."
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "adjetivo",
+          "en": "adjetivo",
+          "ar": "adjetivo"
+        }
+      ],
+      "answer": "O adjetivo concorda em gênero.",
+      "gen": "v1.8",
+      "explanation": {
+        "pt": "A frase correta é: \"O adjetivo concorda em gênero.\".",
+        "en": "The correct sentence is: \"O adjetivo concorda em gênero.\".",
+        "ar": "الجملة الصحيحة هي: \"O adjetivo concorda em gênero.\"."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the term of address'?",
+        "en": "Which word means 'the term of address'?",
+        "ar": "أي كلمة تعني 'ضمير المخاطبة'؟"
+      },
+      "options": [
+        {
+          "pt": "a fração",
+          "en": "the fraction",
+          "ar": "الكسر"
+        },
+        {
+          "pt": "o pronome de tratamento",
+          "en": "the term of address",
+          "ar": "ضمير المخاطبة"
+        },
+        {
+          "pt": "a locução",
+          "en": "the phrase, locution",
+          "ar": "التركيب"
+        },
+        {
+          "pt": "a gente",
+          "en": "we (colloquial)",
+          "ar": "نحن (عامية)"
+        }
+      ],
+      "answer": "o pronome de tratamento",
+      "explanation": {
+        "pt": "'o pronome de tratamento' significa 'the term of address'.",
+        "en": "'o pronome de tratamento' means 'the term of address'.",
+        "ar": "تعني 'o pronome de tratamento' 'ضمير المخاطبة'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the percentage'?",
+        "en": "Which word means 'the percentage'?",
+        "ar": "أي كلمة تعني 'النسبة المئوية'؟"
+      },
+      "options": [
+        {
+          "pt": "a gente",
+          "en": "we (colloquial)",
+          "ar": "نحن (عامية)"
+        },
+        {
+          "pt": "a concordância verbal",
+          "en": "verbal agreement",
+          "ar": "مطابقة الفعل مع الفاعل"
+        },
+        {
+          "pt": "o percentual",
+          "en": "the percentage",
+          "ar": "النسبة المئوية"
+        },
+        {
+          "pt": "a locução",
+          "en": "the phrase, locution",
+          "ar": "التركيب"
+        }
+      ],
+      "answer": "o percentual",
+      "explanation": {
+        "pt": "'o percentual' significa 'the percentage'.",
+        "en": "'o percentual' means 'the percentage'.",
+        "ar": "تعني 'o percentual' 'النسبة المئوية'."
+      },
+      "gen": "v1.8"
     }
   ],
   "speaking": {

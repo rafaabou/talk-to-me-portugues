@@ -35,9 +35,9 @@
       "en": "the research",
       "ar": "البحث",
       "example": {
-        "pt": "Você viu a notícia sobre os avanços da inteligência artificial?",
-        "en": "Did you see the news about advances in artificial intelligence?",
-        "ar": "هل رأيت خبر التقدم في الذكاء الاصطناعي؟"
+        "pt": "A pesquisa terminou ontem.",
+        "en": "The research finished yesterday.",
+        "ar": "انتهى البحث أمس."
       }
     },
     {
@@ -46,9 +46,9 @@
       "en": "the scientist",
       "ar": "العالم",
       "example": {
-        "pt": "Vi. O cientista disse que os novos sistemas aprendem sozinhos.",
-        "en": "I did. The scientist said the new systems learn on their own.",
-        "ar": "نعم. قال العالم إن الأنظمة الجديدة تتعلم بمفردها."
+        "pt": "O cientista ganhou o prêmio.",
+        "en": "The scientist won the award.",
+        "ar": "فاز العالم بالجائزة."
       }
     },
     {
@@ -57,9 +57,9 @@
       "en": "the discovery",
       "ar": "الاكتشاف",
       "example": {
-        "pt": "Você viu a notícia sobre os avanços da inteligência artificial?",
-        "en": "Did you see the news about advances in artificial intelligence?",
-        "ar": "هل رأيت خبر التقدم في الذكاء الاصطناعي؟"
+        "pt": "A descoberta surpreendeu a equipe.",
+        "en": "The discovery surprised the team.",
+        "ar": "فاجأ الاكتشاف الفريق."
       }
     },
     {
@@ -68,9 +68,9 @@
       "en": "the experiment",
       "ar": "التجربة",
       "example": {
-        "pt": "Vi. O cientista disse que os novos sistemas aprendem sozinhos.",
-        "en": "I did. The scientist said the new systems learn on their own.",
-        "ar": "نعم. قال العالم إن الأنظمة الجديدة تتعلم بمفردها."
+        "pt": "O experimento deu certo.",
+        "en": "The experiment worked.",
+        "ar": "نجحت التجربة."
       }
     },
     {
@@ -79,9 +79,9 @@
       "en": "the laboratory",
       "ar": "المختبر",
       "example": {
-        "pt": "Vi. O cientista disse que os novos sistemas aprendem sozinhos.",
-        "en": "I did. The scientist said the new systems learn on their own.",
-        "ar": "نعم. قال العالم إن الأنظمة الجديدة تتعلم بمفردها."
+        "pt": "O laboratório é equipado.",
+        "en": "The laboratory is equipped.",
+        "ar": "المختبر مجهز."
       }
     },
     {
@@ -90,9 +90,9 @@
       "en": "artificial intelligence",
       "ar": "الذكاء الاصطناعي",
       "example": {
-        "pt": "Você viu a notícia sobre os avanços da inteligência artificial?",
-        "en": "Did you see the news about advances in artificial intelligence?",
-        "ar": "هل رأيت خبر التقدم في الذكاء الاصطناعي؟"
+        "pt": "A inteligência artificial avança rápido.",
+        "en": "Artificial intelligence advances fast.",
+        "ar": "يتقدم الذكاء الاصطناعي بسرعة."
       }
     },
     {
@@ -101,9 +101,9 @@
       "en": "the data",
       "ar": "البيانات",
       "example": {
-        "pt": "Vi. O cientista disse que os novos sistemas aprendem sozinhos.",
-        "en": "I did. The scientist said the new systems learn on their own.",
-        "ar": "نعم. قال العالم إن الأنظمة الجديدة تتعلم بمفردها."
+        "pt": "O dado está no gráfico.",
+        "en": "The data is in the chart.",
+        "ar": "البيانات في الرسم البياني."
       }
     },
     {
@@ -112,9 +112,9 @@
       "en": "the innovation",
       "ar": "الابتكار",
       "example": {
-        "pt": "Você viu a notícia sobre os avanços da inteligência artificial?",
-        "en": "Did you see the news about advances in artificial intelligence?",
-        "ar": "هل رأيت خبر التقدم في الذكاء الاصطناعي؟"
+        "pt": "A inovação exige riscos.",
+        "en": "Innovation requires risk.",
+        "ar": "يتطلب الابتكار المخاطرة."
       }
     },
     {
@@ -123,9 +123,9 @@
       "en": "the advance",
       "ar": "التقدم",
       "example": {
-        "pt": "Vi. O cientista disse que os novos sistemas aprendem sozinhos.",
-        "en": "I did. The scientist said the new systems learn on their own.",
-        "ar": "نعم. قال العالم إن الأنظمة الجديدة تتعلم بمفردها."
+        "pt": "O avanço tecnológico é rápido.",
+        "en": "Technological advance is fast.",
+        "ar": "التقدم التكنولوجي سريع."
       }
     },
     {
@@ -134,9 +134,9 @@
       "en": "the device",
       "ar": "الجهاز",
       "example": {
-        "pt": "Vi. O cientista disse que os novos sistemas aprendem sozinhos.",
-        "en": "I did. The scientist said the new systems learn on their own.",
-        "ar": "نعم. قال العالم إن الأنظمة الجديدة تتعلم بمفردها."
+        "pt": "O dispositivo quebrou ontem.",
+        "en": "The device broke yesterday.",
+        "ar": "تعطل الجهاز أمس."
       }
     },
     {
@@ -145,9 +145,9 @@
       "en": "the app",
       "ar": "التطبيق",
       "example": {
-        "pt": "Vi. O cientista disse que os novos sistemas aprendem sozinhos.",
-        "en": "I did. The scientist said the new systems learn on their own.",
-        "ar": "نعم. قال العالم إن الأنظمة الجديدة تتعلم بمفردها."
+        "pt": "O aplicativo recebeu atualização.",
+        "en": "The app received an update.",
+        "ar": "تلقى التطبيق تحديثًا."
       }
     },
     {
@@ -156,9 +156,9 @@
       "en": "the social network",
       "ar": "شبكة التواصل الاجتماعي",
       "example": {
-        "pt": "Você viu a notícia sobre os avanços da inteligência artificial?",
-        "en": "Did you see the news about advances in artificial intelligence?",
-        "ar": "هل رأيت خبر التقدم في الذكاء الاصطناعي؟"
+        "pt": "A rede social conecta o mundo.",
+        "en": "The social network connects the world.",
+        "ar": "تربط شبكة التواصل العالم."
       }
     },
     {
@@ -167,9 +167,9 @@
       "en": "cybersecurity",
       "ar": "الأمن السيبراني",
       "example": {
-        "pt": "Você viu a notícia sobre os avanços da inteligência artificial?",
-        "en": "Did you see the news about advances in artificial intelligence?",
-        "ar": "هل رأيت خبر التقدم في الذكاء الاصطناعي؟"
+        "pt": "A segurança cibernética evita ataques.",
+        "en": "Cybersecurity prevents attacks.",
+        "ar": "يمنع الأمن السيبراني الهجمات."
       }
     },
     {
@@ -178,9 +178,9 @@
       "en": "the database",
       "ar": "قاعدة البيانات",
       "example": {
-        "pt": "Vi. O cientista disse que os novos sistemas aprendem sozinhos.",
-        "en": "I did. The scientist said the new systems learn on their own.",
-        "ar": "نعم. قال العالم إن الأنظمة الجديدة تتعلم بمفردها."
+        "pt": "O banco de dados cresceu.",
+        "en": "The database grew.",
+        "ar": "نمت قاعدة البيانات."
       }
     },
     {
@@ -189,9 +189,9 @@
       "en": "the algorithm",
       "ar": "الخوارزمية",
       "example": {
-        "pt": "Vi. O cientista disse que os novos sistemas aprendem sozinhos.",
-        "en": "I did. The scientist said the new systems learn on their own.",
-        "ar": "نعم. قال العالم إن الأنظمة الجديدة تتعلم بمفردها."
+        "pt": "O algoritmo precisa de ajustes.",
+        "en": "The algorithm needs adjustments.",
+        "ar": "يحتاج الخوارزمية إلى ضبط."
       }
     },
     {
@@ -200,9 +200,9 @@
       "en": "to develop",
       "ar": "يطور",
       "example": {
-        "pt": "Você viu a notícia sobre os avanços da inteligência artificial?",
-        "en": "Did you see the news about advances in artificial intelligence?",
-        "ar": "هل رأيت خبر التقدم في الذكاء الاصطناعي؟"
+        "pt": "É preciso desenvolver novas ideias.",
+        "en": "It's necessary to develop new ideas.",
+        "ar": "من الضروري تطوير أفكار جديدة."
       }
     }
   ],
@@ -917,6 +917,227 @@
         "en": "The correct sentence: 'Você viu a notícia sobre os avanços da inteligência artificial?'",
         "ar": "الجملة الصحيحة: 'Você viu a notícia sobre os avanços da inteligência artificial?'"
       }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the laboratory'?",
+        "en": "Which word means 'the laboratory'?",
+        "ar": "أي كلمة تعني 'المختبر'؟"
+      },
+      "options": [
+        {
+          "pt": "a inovação",
+          "en": "the innovation",
+          "ar": "الابتكار"
+        },
+        {
+          "pt": "o avanço",
+          "en": "the advance",
+          "ar": "التقدم"
+        },
+        {
+          "pt": "o laboratório",
+          "en": "the laboratory",
+          "ar": "المختبر"
+        }
+      ],
+      "answer": "o laboratório",
+      "explanation": {
+        "pt": "'o laboratório' significa 'the laboratory'.",
+        "en": "'o laboratório' means 'the laboratory'.",
+        "ar": "تعني 'o laboratório' 'المختبر'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the database'?",
+        "en": "Which word means 'the database'?",
+        "ar": "أي كلمة تعني 'قاعدة البيانات'؟"
+      },
+      "options": [
+        {
+          "pt": "a inovação",
+          "en": "the innovation",
+          "ar": "الابتكار"
+        },
+        {
+          "pt": "o banco de dados",
+          "en": "the database",
+          "ar": "قاعدة البيانات"
+        },
+        {
+          "pt": "o dispositivo",
+          "en": "the device",
+          "ar": "الجهاز"
+        }
+      ],
+      "answer": "o banco de dados",
+      "explanation": {
+        "pt": "'o banco de dados' significa 'the database'.",
+        "en": "'o banco de dados' means 'the database'.",
+        "ar": "تعني 'o banco de dados' 'قاعدة البيانات'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"The research finished yesterday.\"",
+        "en": "Translate into Portuguese: \"The research finished yesterday.\"",
+        "ar": "ترجم إلى البرتغالية: \"انتهى البحث أمس.\""
+      },
+      "options": [],
+      "answer": "A pesquisa terminou ontem.",
+      "explanation": {
+        "pt": "Resposta: \"A pesquisa terminou ontem.\".",
+        "en": "Answer: \"A pesquisa terminou ontem.\". (EN: \"The research finished yesterday.\")",
+        "ar": "الإجابة: \"A pesquisa terminou ontem.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"The database grew.\"",
+        "en": "Translate into Portuguese: \"The database grew.\"",
+        "ar": "ترجم إلى البرتغالية: \"نمت قاعدة البيانات.\""
+      },
+      "options": [],
+      "answer": "O banco de dados cresceu.",
+      "explanation": {
+        "pt": "Resposta: \"O banco de dados cresceu.\".",
+        "en": "Answer: \"O banco de dados cresceu.\". (EN: \"The database grew.\")",
+        "ar": "الإجابة: \"O banco de dados cresceu.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"É preciso ___ novas ideias.\"",
+        "en": "Complete: \"É preciso ___ novas ideias.\"",
+        "ar": "أكمل: \"É preciso ___ novas ideias.\""
+      },
+      "options": [
+        {
+          "pt": "desenvolver",
+          "en": "desenvolver",
+          "ar": "desenvolver"
+        },
+        {
+          "pt": "a inovação",
+          "en": "a inovação",
+          "ar": "a inovação"
+        },
+        {
+          "pt": "o dado",
+          "en": "o dado",
+          "ar": "o dado"
+        }
+      ],
+      "answer": "desenvolver",
+      "explanation": {
+        "pt": "A lacuna é 'desenvolver'.",
+        "en": "The blank is 'desenvolver'.",
+        "ar": "الفراغ هو 'desenvolver'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: \"Innovation requires risk.\"",
+        "en": "Type in Portuguese: \"Innovation requires risk.\"",
+        "ar": "اكتب بالبرتغالية: \"يتطلب الابتكار المخاطرة.\""
+      },
+      "options": [],
+      "answer": "A inovação exige riscos.",
+      "accepted": [
+        "A inovação exige riscos."
+      ],
+      "explanation": {
+        "pt": "Resposta possível: \"A inovação exige riscos.\".",
+        "en": "One possible answer: \"A inovação exige riscos.\".",
+        "ar": "إجابة ممكنة: \"A inovação exige riscos.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "avança",
+          "en": "avança",
+          "ar": "avança"
+        },
+        {
+          "pt": "artificial",
+          "en": "artificial",
+          "ar": "artificial"
+        },
+        {
+          "pt": "A",
+          "en": "A",
+          "ar": "A"
+        },
+        {
+          "pt": "inteligência",
+          "en": "inteligência",
+          "ar": "inteligência"
+        },
+        {
+          "pt": "rápido.",
+          "en": "rápido.",
+          "ar": "rápido."
+        }
+      ],
+      "answer": "A inteligência artificial avança rápido.",
+      "gen": "v1.8",
+      "explanation": {
+        "pt": "A frase correta é: \"A inteligência artificial avança rápido.\".",
+        "en": "The correct sentence is: \"A inteligência artificial avança rápido.\".",
+        "ar": "الجملة الصحيحة هي: \"A inteligência artificial avança rápido.\"."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the experiment'?",
+        "en": "Which word means 'the experiment'?",
+        "ar": "أي كلمة تعني 'التجربة'؟"
+      },
+      "options": [
+        {
+          "pt": "o experimento",
+          "en": "the experiment",
+          "ar": "التجربة"
+        },
+        {
+          "pt": "a inovação",
+          "en": "the innovation",
+          "ar": "الابتكار"
+        },
+        {
+          "pt": "o laboratório",
+          "en": "the laboratory",
+          "ar": "المختبر"
+        }
+      ],
+      "answer": "o experimento",
+      "explanation": {
+        "pt": "'o experimento' significa 'the experiment'.",
+        "en": "'o experimento' means 'the experiment'.",
+        "ar": "تعني 'o experimento' 'التجربة'."
+      },
+      "gen": "v1.8"
     }
   ],
   "speaking": {

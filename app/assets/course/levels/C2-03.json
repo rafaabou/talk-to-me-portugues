@@ -40,9 +40,9 @@
       "en": "subordinate clause",
       "ar": "الجملة التابعة",
       "example": {
-        "pt": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
-        "en": "Rewrite the developed clause as a reduced participle clause.",
-        "ar": "أعد كتابة الجملة المطوّرة إلى جملة مختزلة باسم المفعول."
+        "pt": "A oração subordinada pode ser adverbial.",
+        "en": "The subordinate clause can be adverbial.",
+        "ar": "قد تكون الجملة التابعة ظرفية."
       }
     },
     {
@@ -51,9 +51,9 @@
       "en": "main clause",
       "ar": "الجملة الرئيسية",
       "example": {
-        "pt": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
-        "en": "Rewrite the developed clause as a reduced participle clause.",
-        "ar": "أعد كتابة الجملة المطوّرة إلى جملة مختزلة باسم المفعول."
+        "pt": "A oração principal carrega o verbo.",
+        "en": "The main clause carries the verb.",
+        "ar": "تحمل الجملة الرئيسية الفعل."
       }
     },
     {
@@ -62,9 +62,9 @@
       "en": "conjunction",
       "ar": "حرف العطف / الرابط",
       "example": {
-        "pt": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
-        "en": "Rewrite the developed clause as a reduced participle clause.",
-        "ar": "أعد كتابة الجملة المطوّرة إلى جملة مختزلة باسم المفعول."
+        "pt": "A conjunção liga as orações.",
+        "en": "The conjunction links the clauses.",
+        "ar": "تربط الحرف الجواب الجمل."
       }
     },
     {
@@ -73,9 +73,9 @@
       "en": "relative pronoun",
       "ar": "الضمير الموصول",
       "example": {
-        "pt": "Depois que o relatório foi concluído, enviamos o e-mail.",
-        "en": "After the report was finished, we sent the email.",
-        "ar": "بعد أن أُنجز التقرير، أرسلنا البريد الإلكتروني."
+        "pt": "O pronome relativo retoma o antecedente.",
+        "en": "The relative pronoun picks up the antecedent.",
+        "ar": "يعيد الضمير الموصول إلى المرجع."
       }
     },
     {
@@ -84,9 +84,9 @@
       "en": "ellipsis",
       "ar": "الحذف",
       "example": {
-        "pt": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
-        "en": "Rewrite the developed clause as a reduced participle clause.",
-        "ar": "أعد كتابة الجملة المطوّرة إلى جملة مختزلة باسم المفعول."
+        "pt": "A elipse omite o óbvio.",
+        "en": "Ellipsis omits the obvious.",
+        "ar": "يُحذف الحذف البديهي."
       }
     },
     {
@@ -95,9 +95,9 @@
       "en": "anaphora",
       "ar": "الإحالة المرجعية",
       "example": {
-        "pt": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
-        "en": "Rewrite the developed clause as a reduced participle clause.",
-        "ar": "أعد كتابة الجملة المطوّرة إلى جملة مختزلة باسم المفعول."
+        "pt": "A anáfora repete no início.",
+        "en": "Anaphora repeats at the start.",
+        "ar": "تكرر الإحالة المرجعية في البداية."
       }
     },
     {
@@ -106,9 +106,9 @@
       "en": "cohesion",
       "ar": "التماسك",
       "example": {
-        "pt": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
-        "en": "Rewrite the developed clause as a reduced participle clause.",
-        "ar": "أعد كتابة الجملة المطوّرة إلى جملة مختزلة باسم المفعول."
+        "pt": "A coesão amarra o texto.",
+        "en": "Cohesion binds the text.",
+        "ar": "يربط التماسك النص."
       }
     },
     {
@@ -117,9 +117,9 @@
       "en": "gerund",
       "ar": "اسم الفاعل المستمر",
       "example": {
-        "pt": "Depois que o relatório foi concluído, enviamos o e-mail.",
-        "en": "After the report was finished, we sent the email.",
-        "ar": "بعد أن أُنجز التقرير، أرسلنا البريد الإلكتروني."
+        "pt": "O gerúndio indica ação contínua.",
+        "en": "The gerund indicates continuous action.",
+        "ar": "يشير اسم الفاعل المستمر إلى استمرار الفعل."
       }
     },
     {
@@ -128,9 +128,9 @@
       "en": "personal infinitive",
       "ar": "المصدر المُصرَّف",
       "example": {
-        "pt": "Depois que o relatório foi concluído, enviamos o e-mail.",
-        "en": "After the report was finished, we sent the email.",
-        "ar": "بعد أن أُنجز التقرير، أرسلنا البريد الإلكتروني."
+        "pt": "O infinitivo pessoal concorda com o sujeito.",
+        "en": "The personal infinitive agrees with the subject.",
+        "ar": "يتفق المصدر المُصرَّف مع الفاعل."
       }
     },
     {
@@ -139,9 +139,9 @@
       "en": "participle",
       "ar": "اسم المفعول",
       "example": {
-        "pt": "Depois que o relatório foi concluído, enviamos o e-mail.",
-        "en": "After the report was finished, we sent the email.",
-        "ar": "بعد أن أُنجز التقرير، أرسلنا البريد الإلكتروني."
+        "pt": "O particípio forma tempos perfeitos.",
+        "en": "The participle forms perfect tenses.",
+        "ar": "يشكّل اسم المفعول الأزمنة التامة."
       }
     },
     {
@@ -150,9 +150,9 @@
       "en": "passive voice",
       "ar": "المبني للمجهول",
       "example": {
-        "pt": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
-        "en": "Rewrite the developed clause as a reduced participle clause.",
-        "ar": "أعد كتابة الجملة المطوّرة إلى جملة مختزلة باسم المفعول."
+        "pt": "A voz passiva dispensa o agente.",
+        "en": "The passive voice omits the agent.",
+        "ar": "يستغني المبني للمجهول عن الفاعل."
       }
     },
     {
@@ -161,9 +161,9 @@
       "en": "the passive particle 'se'",
       "ar": "أداة 'se' للمجهول",
       "example": {
-        "pt": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
-        "en": "Rewrite the developed clause as a reduced participle clause.",
-        "ar": "أعد كتابة الجملة المطوّرة إلى جملة مختزلة باسم المفعول."
+        "pt": "A apassivadora forma a passiva.",
+        "en": "The passive particle forms the passive.",
+        "ar": "تشكّل أداة المجهول المبني للمجهول."
       }
     },
     {
@@ -172,9 +172,9 @@
       "en": "index of indeterminacy of the subject",
       "ar": "أداة إبهام الفاعل",
       "example": {
-        "pt": "Depois que o relatório foi concluído, enviamos o e-mail.",
-        "en": "After the report was finished, we sent the email.",
-        "ar": "بعد أن أُنجز التقرير، أرسلنا البريد الإلكتروني."
+        "pt": "O índice de indeterminação é o 'se'.",
+        "en": "The index of subject indeterminacy is 'se'.",
+        "ar": "أداة إبهام الفاعل هي \"se\"."
       }
     },
     {
@@ -183,9 +183,9 @@
       "en": "compound sentence",
       "ar": "الجملة المركبة",
       "example": {
-        "pt": "Depois que o relatório foi concluído, enviamos o e-mail.",
-        "en": "After the report was finished, we sent the email.",
-        "ar": "بعد أن أُنجز التقرير، أرسلنا البريد الإلكتروني."
+        "pt": "O período composto tem duas orações.",
+        "en": "The compound sentence has two clauses.",
+        "ar": "للجملة المركبة جملتان."
       }
     },
     {
@@ -194,9 +194,9 @@
       "en": "coordination",
       "ar": "العطف",
       "example": {
-        "pt": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
-        "en": "Rewrite the developed clause as a reduced participle clause.",
-        "ar": "أعد كتابة الجملة المطوّرة إلى جملة مختزلة باسم المفعول."
+        "pt": "A coordenação usa conjunções.",
+        "en": "Coordination uses conjunctions.",
+        "ar": "يستخدم العطف حروف العطف."
       }
     },
     {
@@ -205,9 +205,9 @@
       "en": "subordination",
       "ar": "التبعية",
       "example": {
-        "pt": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
-        "en": "Rewrite the developed clause as a reduced participle clause.",
-        "ar": "أعد كتابة الجملة المطوّرة إلى جملة مختزلة باسم المفعول."
+        "pt": "A subordinação cria hierarquia.",
+        "en": "Subordination creates hierarchy.",
+        "ar": "تنشئ التبعية تراتبية."
       }
     },
     {
@@ -216,9 +216,9 @@
       "en": "reduced clause",
       "ar": "الجملة المختزلة",
       "example": {
-        "pt": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
-        "en": "Rewrite the developed clause as a reduced participle clause.",
-        "ar": "أعد كتابة الجملة المطوّرة إلى جملة مختزلة باسم المفعول."
+        "pt": "A oração reduzida economiza palavras.",
+        "en": "The reduced clause saves words.",
+        "ar": "توفر الجملة المختزلة الكلمات."
       }
     },
     {
@@ -227,9 +227,9 @@
       "en": "developed clause",
       "ar": "الجملة المطوّرة",
       "example": {
-        "pt": "Reescreva a oração desenvolvida em uma reduzida de particípio.",
-        "en": "Rewrite the developed clause as a reduced participle clause.",
-        "ar": "أعد كتابة الجملة المطوّرة إلى جملة مختزلة باسم المفعول."
+        "pt": "A oração desenvolvida traz mais informação.",
+        "en": "The developed clause brings more information.",
+        "ar": "تزيد الجملة المطوّرة المعلومات."
       }
     }
   ],
@@ -930,6 +930,242 @@
         "en": "The correct sentence: 'Reescreva a oração desenvolvida em uma reduzida de particípio.'",
         "ar": "الجملة الصحيحة: 'Reescreva a oração desenvolvida em uma reduzida de particípio.'"
       }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'conjunction'?",
+        "en": "Which word means 'conjunction'?",
+        "ar": "أي كلمة تعني 'حرف العطف / الرابط'؟"
+      },
+      "options": [
+        {
+          "pt": "o particípio",
+          "en": "participle",
+          "ar": "اسم المفعول"
+        },
+        {
+          "pt": "o período composto",
+          "en": "compound sentence",
+          "ar": "الجملة المركبة"
+        },
+        {
+          "pt": "a conjunção",
+          "en": "conjunction",
+          "ar": "حرف العطف / الرابط"
+        }
+      ],
+      "answer": "a conjunção",
+      "explanation": {
+        "pt": "'a conjunção' significa 'conjunction'.",
+        "en": "'a conjunção' means 'conjunction'.",
+        "ar": "تعني 'a conjunção' 'حرف العطف / الرابط'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'anaphora'?",
+        "en": "Which word means 'anaphora'?",
+        "ar": "أي كلمة تعني 'الإحالة المرجعية'؟"
+      },
+      "options": [
+        {
+          "pt": "a anáfora",
+          "en": "anaphora",
+          "ar": "الإحالة المرجعية"
+        },
+        {
+          "pt": "a conjunção",
+          "en": "conjunction",
+          "ar": "حرف العطف / الرابط"
+        },
+        {
+          "pt": "o pronome relativo",
+          "en": "relative pronoun",
+          "ar": "الضمير الموصول"
+        }
+      ],
+      "answer": "a anáfora",
+      "explanation": {
+        "pt": "'a anáfora' significa 'anaphora'.",
+        "en": "'a anáfora' means 'anaphora'.",
+        "ar": "تعني 'a anáfora' 'الإحالة المرجعية'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"The subordinate clause can be adverbial.\"",
+        "en": "Translate into Portuguese: \"The subordinate clause can be adverbial.\"",
+        "ar": "ترجم إلى البرتغالية: \"قد تكون الجملة التابعة ظرفية.\""
+      },
+      "options": [],
+      "answer": "A oração subordinada pode ser adverbial.",
+      "explanation": {
+        "pt": "Resposta: \"A oração subordinada pode ser adverbial.\".",
+        "en": "Answer: \"A oração subordinada pode ser adverbial.\". (EN: \"The subordinate clause can be adverbial.\")",
+        "ar": "الإجابة: \"A oração subordinada pode ser adverbial.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"Because 'relatório' is singular; the participle agrees with it.\"",
+        "en": "Translate into Portuguese: \"Because 'relatório' is singular; the participle agrees with it.\"",
+        "ar": "ترجم إلى البرتغالية: \"لأن 'relatório' مفرد؛ فيطابقه اسم المفعول في العدد والجنس.\""
+      },
+      "options": [],
+      "answer": "Porque 'relatório' está no singular; o particípio concorda com ele.",
+      "explanation": {
+        "pt": "Resposta: \"Porque 'relatório' está no singular; o particípio concorda com ele.\".",
+        "en": "Answer: \"Porque 'relatório' está no singular; o particípio concorda com ele.\". (EN: \"Because 'relatório' is singular; the participle agrees with it.\")",
+        "ar": "الإجابة: \"Porque 'relatório' está no singular; o particípio concorda com ele.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: \"Now reduce it with the participle.\"",
+        "en": "Type in Portuguese: \"Now reduce it with the participle.\"",
+        "ar": "اكتب بالبرتغالية: \"الآن اختصرها باسم المفعول.\""
+      },
+      "options": [],
+      "answer": "Agora reduza com o particípio.",
+      "accepted": [
+        "Agora reduza com o particípio."
+      ],
+      "explanation": {
+        "pt": "Resposta possível: \"Agora reduza com o particípio.\".",
+        "en": "One possible answer: \"Agora reduza com o particípio.\".",
+        "ar": "إجابة ممكنة: \"Agora reduza com o particípio.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "infinitivo",
+          "en": "infinitivo",
+          "ar": "infinitivo"
+        },
+        {
+          "pt": "concorda",
+          "en": "concorda",
+          "ar": "concorda"
+        },
+        {
+          "pt": "com",
+          "en": "com",
+          "ar": "com"
+        },
+        {
+          "pt": "sujeito.",
+          "en": "sujeito.",
+          "ar": "sujeito."
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "pessoal",
+          "en": "pessoal",
+          "ar": "pessoal"
+        }
+      ],
+      "answer": "O infinitivo pessoal concorda com o sujeito.",
+      "gen": "v1.8",
+      "explanation": {
+        "pt": "A frase correta é: \"O infinitivo pessoal concorda com o sujeito.\".",
+        "en": "The correct sentence is: \"O infinitivo pessoal concorda com o sujeito.\".",
+        "ar": "الجملة الصحيحة هي: \"O infinitivo pessoal concorda com o sujeito.\"."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'personal infinitive'?",
+        "en": "Which word means 'personal infinitive'?",
+        "ar": "أي كلمة تعني 'المصدر المُصرَّف'؟"
+      },
+      "options": [
+        {
+          "pt": "a oração desenvolvida",
+          "en": "developed clause",
+          "ar": "الجملة المطوّرة"
+        },
+        {
+          "pt": "o infinitivo pessoal",
+          "en": "personal infinitive",
+          "ar": "المصدر المُصرَّف"
+        },
+        {
+          "pt": "o índice de indeterminação",
+          "en": "index of indeterminacy of the subject",
+          "ar": "أداة إبهام الفاعل"
+        }
+      ],
+      "answer": "o infinitivo pessoal",
+      "explanation": {
+        "pt": "'o infinitivo pessoal' significa 'personal infinitive'.",
+        "en": "'o infinitivo pessoal' means 'personal infinitive'.",
+        "ar": "تعني 'o infinitivo pessoal' 'المصدر المُصرَّف'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'coordination'?",
+        "en": "Which word means 'coordination'?",
+        "ar": "أي كلمة تعني 'العطف'؟"
+      },
+      "options": [
+        {
+          "pt": "a oração reduzida",
+          "en": "reduced clause",
+          "ar": "الجملة المختزلة"
+        },
+        {
+          "pt": "a coordenação",
+          "en": "coordination",
+          "ar": "العطف"
+        },
+        {
+          "pt": "o infinitivo pessoal",
+          "en": "personal infinitive",
+          "ar": "المصدر المُصرَّف"
+        },
+        {
+          "pt": "a coesão",
+          "en": "cohesion",
+          "ar": "التماسك"
+        }
+      ],
+      "answer": "a coordenação",
+      "explanation": {
+        "pt": "'a coordenação' significa 'coordination'.",
+        "en": "'a coordenação' means 'coordination'.",
+        "ar": "تعني 'a coordenação' 'العطف'."
+      },
+      "gen": "v1.8"
     }
   ],
   "speaking": {

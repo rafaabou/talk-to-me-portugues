@@ -35,9 +35,9 @@
       "en": "to speak",
       "ar": "يتكلم",
       "example": {
-        "pt": "Eu trabalho em São Paulo e moro no centro.",
-        "en": "I work in São Paulo and live downtown.",
-        "ar": "أعمل في ساو باولو وأسكن في المركز."
+        "pt": "Vamos falar em português.",
+        "en": "Let's speak in Portuguese.",
+        "ar": "دعونا نتحدث بالبرتغالية."
       }
     },
     {
@@ -46,9 +46,9 @@
       "en": "to eat",
       "ar": "يأكل",
       "example": {
-        "pt": "Eu trabalho em São Paulo e moro no centro.",
-        "en": "I work in São Paulo and live downtown.",
-        "ar": "أعمل في ساو باولو وأسكن في المركز."
+        "pt": "Vamos comer às sete?",
+        "en": "Shall we eat at seven?",
+        "ar": "هل نتناول الطعام في السابعة؟"
       }
     },
     {
@@ -57,9 +57,9 @@
       "en": "to drink",
       "ar": "يشرب",
       "example": {
-        "pt": "Eu trabalho em São Paulo e moro no centro.",
-        "en": "I work in São Paulo and live downtown.",
-        "ar": "أعمل في ساو باولو وأسكن في المركز."
+        "pt": "Eu gosto de beber suco.",
+        "en": "I like drinking juice.",
+        "ar": "أحب شرب العصير."
       }
     },
     {
@@ -68,9 +68,9 @@
       "en": "to live",
       "ar": "يعيش",
       "example": {
-        "pt": "Eu trabalho em São Paulo e moro no centro.",
-        "en": "I work in São Paulo and live downtown.",
-        "ar": "أعمل في ساو باولو وأسكن في المركز."
+        "pt": "Eu quero viver perto do mar.",
+        "en": "I want to live near the sea.",
+        "ar": "أريد أن أسكن قرب البحر."
       }
     },
     {
@@ -79,9 +79,9 @@
       "en": "to open",
       "ar": "يفتح",
       "example": {
-        "pt": "Eu trabalho em São Paulo e moro no centro.",
-        "en": "I work in São Paulo and live downtown.",
-        "ar": "أعمل في ساو باولو وأسكن في المركز."
+        "pt": "Pode abrir a porta?",
+        "en": "Can you open the door?",
+        "ar": "هل يمكنك فتح الباب؟"
       }
     },
     {
@@ -90,9 +90,9 @@
       "en": "to work",
       "ar": "يعمل",
       "example": {
-        "pt": "Eu trabalho em São Paulo e moro no centro.",
-        "en": "I work in São Paulo and live downtown.",
-        "ar": "أعمل في ساو باولو وأسكن في المركز."
+        "pt": "Eu vou trabalhar amanhã.",
+        "en": "I'm going to work tomorrow.",
+        "ar": "سأعمل غدًا."
       }
     },
     {
@@ -101,9 +101,9 @@
       "en": "to study",
       "ar": "يدرس",
       "example": {
-        "pt": "Eu trabalho em São Paulo e moro no centro.",
-        "en": "I work in São Paulo and live downtown.",
-        "ar": "أعمل في ساو باولو وأسكن في المركز."
+        "pt": "Eu preciso estudar hoje.",
+        "en": "I need to study today.",
+        "ar": "أحتاج أندرس اليوم."
       }
     },
     {
@@ -112,9 +112,9 @@
       "en": "to live (in a place)",
       "ar": "يسكن",
       "example": {
-        "pt": "Eu trabalho em São Paulo e moro no centro.",
-        "en": "I work in São Paulo and live downtown.",
-        "ar": "أعمل في ساو باولو وأسكن في المركز."
+        "pt": "Eu quero morar na cidade.",
+        "en": "I want to live in the city.",
+        "ar": "أريد أن أسكن في المدينة."
       }
     },
     {
@@ -123,9 +123,9 @@
       "en": "to learn",
       "ar": "يتعلم",
       "example": {
-        "pt": "Eu trabalho em São Paulo e moro no centro.",
-        "en": "I work in São Paulo and live downtown.",
-        "ar": "أعمل في ساو باولو وأسكن في المركز."
+        "pt": "Vamos aprender juntos?",
+        "en": "Let's learn together.",
+        "ar": "دعونا نتعلم معًا."
       }
     },
     {
@@ -134,9 +134,9 @@
       "en": "to understand",
       "ar": "يفهم",
       "example": {
-        "pt": "Eu trabalho em São Paulo e moro no centro.",
-        "en": "I work in São Paulo and live downtown.",
-        "ar": "أعمل في ساو باولو وأسكن في المركز."
+        "pt": "Eu preciso entender a regra.",
+        "en": "I need to understand the rule.",
+        "ar": "أحتاج أن أفهم القاعدة."
       }
     },
     {
@@ -145,9 +145,9 @@
       "en": "to write",
       "ar": "يكتب",
       "example": {
-        "pt": "Eu trabalho em São Paulo e moro no centro.",
-        "en": "I work in São Paulo and live downtown.",
-        "ar": "أعمل في ساو باولو وأسكن في المركز."
+        "pt": "Vou escrever no diário.",
+        "en": "I'm going to write in the diary.",
+        "ar": "سأكتب في اليومية."
       }
     },
     {
@@ -156,9 +156,9 @@
       "en": "to watch",
       "ar": "يشاهد",
       "example": {
-        "pt": "Eu trabalho em São Paulo e moro no centro.",
-        "en": "I work in São Paulo and live downtown.",
-        "ar": "أعمل في ساو باولو وأسكن في المركز."
+        "pt": "Vamos assistir a um filme.",
+        "en": "Let's watch a movie.",
+        "ar": "دعونا نشاهد فيلمًا."
       }
     },
     {
@@ -167,9 +167,9 @@
       "en": "to travel",
       "ar": "يسافر",
       "example": {
-        "pt": "Eu trabalho em São Paulo e moro no centro.",
-        "en": "I work in São Paulo and live downtown.",
-        "ar": "أعمل في ساو باولو وأسكن في المركز."
+        "pt": "Eu quero viajar pelo mundo.",
+        "en": "I want to travel around the world.",
+        "ar": "أريد أن أسافر حول العالم."
       }
     },
     {
@@ -178,9 +178,9 @@
       "en": "every day",
       "ar": "كل يوم",
       "example": {
-        "pt": "Você estuda todos os dias.",
-        "en": "You study every day.",
-        "ar": "أنت تدرس كل يوم."
+        "pt": "Eu corro todos os dias.",
+        "en": "I run every day.",
+        "ar": "أركض كل يوم."
       }
     }
   ],
@@ -874,6 +874,222 @@
         "pt": "A frase correta: 'Eu trabalho em São Paulo e moro no centro.'",
         "en": "The correct sentence: 'Eu trabalho em São Paulo e moro no centro.'",
         "ar": "الجملة الصحيحة: 'Eu trabalho em São Paulo e moro no centro.'"
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'to drink'?",
+        "en": "Which word means 'to drink'?",
+        "ar": "أي كلمة تعني 'يشرب'؟"
+      },
+      "options": [
+        {
+          "pt": "todos os dias",
+          "en": "every day",
+          "ar": "كل يوم"
+        },
+        {
+          "pt": "escrever",
+          "en": "to write",
+          "ar": "يكتب"
+        },
+        {
+          "pt": "beber",
+          "en": "to drink",
+          "ar": "يشرب"
+        }
+      ],
+      "answer": "beber",
+      "explanation": {
+        "pt": "'beber' significa 'to drink'.",
+        "en": "'beber' means 'to drink'.",
+        "ar": "تعني 'beber' 'يشرب'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'to travel'?",
+        "en": "Which word means 'to travel'?",
+        "ar": "أي كلمة تعني 'يسافر'؟"
+      },
+      "options": [
+        {
+          "pt": "viajar",
+          "en": "to travel",
+          "ar": "يسافر"
+        },
+        {
+          "pt": "entender",
+          "en": "to understand",
+          "ar": "يفهم"
+        },
+        {
+          "pt": "trabalhar",
+          "en": "to work",
+          "ar": "يعمل"
+        }
+      ],
+      "answer": "viajar",
+      "explanation": {
+        "pt": "'viajar' significa 'to travel'.",
+        "en": "'viajar' means 'to travel'.",
+        "ar": "تعني 'viajar' 'يسافر'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"Let's watch a movie.\"",
+        "en": "Translate into Portuguese: \"Let's watch a movie.\"",
+        "ar": "ترجم إلى البرتغالية: \"دعونا نشاهد فيلمًا.\""
+      },
+      "options": [],
+      "answer": "Vamos assistir a um filme.",
+      "explanation": {
+        "pt": "Resposta: \"Vamos assistir a um filme.\".",
+        "en": "Answer: \"Vamos assistir a um filme.\". (EN: \"Let's watch a movie.\")",
+        "ar": "الإجابة: \"Vamos assistir a um filme.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"Can you open the door?\"",
+        "en": "Translate into Portuguese: \"Can you open the door?\"",
+        "ar": "ترجم إلى البرتغالية: \"هل يمكنك فتح الباب؟\""
+      },
+      "options": [],
+      "answer": "Pode abrir a porta?",
+      "explanation": {
+        "pt": "Resposta: \"Pode abrir a porta?\".",
+        "en": "Answer: \"Pode abrir a porta?\". (EN: \"Can you open the door?\")",
+        "ar": "الإجابة: \"Pode abrir a porta?\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Eu quero ___ perto do mar.\"",
+        "en": "Complete: \"Eu quero ___ perto do mar.\"",
+        "ar": "أكمل: \"Eu quero ___ perto do mar.\""
+      },
+      "options": [
+        {
+          "pt": "viver",
+          "en": "viver",
+          "ar": "viver"
+        },
+        {
+          "pt": "trabalhar",
+          "en": "trabalhar",
+          "ar": "trabalhar"
+        },
+        {
+          "pt": "morar",
+          "en": "morar",
+          "ar": "morar"
+        }
+      ],
+      "answer": "viver",
+      "explanation": {
+        "pt": "A lacuna é 'viver'.",
+        "en": "The blank is 'viver'.",
+        "ar": "الفراغ هو 'viver'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Eu preciso ___ hoje.\"",
+        "en": "Complete: \"Eu preciso ___ hoje.\"",
+        "ar": "أكمل: \"Eu preciso ___ hoje.\""
+      },
+      "options": [
+        {
+          "pt": "estudar",
+          "en": "estudar",
+          "ar": "estudar"
+        },
+        {
+          "pt": "viver",
+          "en": "viver",
+          "ar": "viver"
+        },
+        {
+          "pt": "morar",
+          "en": "morar",
+          "ar": "morar"
+        }
+      ],
+      "answer": "estudar",
+      "explanation": {
+        "pt": "A lacuna é 'estudar'.",
+        "en": "The blank is 'estudar'.",
+        "ar": "الفراغ هو 'estudar'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: \"I eat a sandwich and drink coffee. It's fast.\"",
+        "en": "Type in Portuguese: \"I eat a sandwich and drink coffee. It's fast.\"",
+        "ar": "اكتب بالبرتغالية: \"آكل شطيرة وأشرب القهوة. إنه سريع.\""
+      },
+      "options": [],
+      "answer": "Eu como sanduíche e bebo café. É rápido.",
+      "accepted": [
+        "Eu como sanduíche e bebo café. É rápido."
+      ],
+      "explanation": {
+        "pt": "Resposta possível: \"Eu como sanduíche e bebo café. É rápido.\".",
+        "en": "One possible answer: \"Eu como sanduíche e bebo café. É rápido.\".",
+        "ar": "إجابة ممكنة: \"Eu como sanduíche e bebo café. É rápido.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "vou",
+          "en": "vou",
+          "ar": "vou"
+        },
+        {
+          "pt": "Eu",
+          "en": "Eu",
+          "ar": "Eu"
+        },
+        {
+          "pt": "amanhã.",
+          "en": "amanhã.",
+          "ar": "amanhã."
+        },
+        {
+          "pt": "trabalhar",
+          "en": "trabalhar",
+          "ar": "trabalhar"
+        }
+      ],
+      "answer": "Eu vou trabalhar amanhã.",
+      "gen": "v1.8",
+      "explanation": {
+        "pt": "A frase correta é: \"Eu vou trabalhar amanhã.\".",
+        "en": "The correct sentence is: \"Eu vou trabalhar amanhã.\".",
+        "ar": "الجملة الصحيحة هي: \"Eu vou trabalhar amanhã.\"."
       }
     }
   ],

@@ -30,9 +30,9 @@
       "en": "the gerund",
       "ar": "صيغة المتابعة (gerúndio)",
       "example": {
-        "pt": "Alô? O que você está fazendo agora?",
-        "en": "Hello? What are you doing right now?",
-        "ar": "ألو؟ ماذا تفعل الآن؟"
+        "pt": "Estou aprendendo o gerúndio.",
+        "en": "I'm learning the gerund.",
+        "ar": "أتعلم صيغة المتابعة الآن."
       }
     },
     {
@@ -41,9 +41,9 @@
       "en": "progressive",
       "ar": "مستمر",
       "example": {
-        "pt": "Alô? O que você está fazendo agora?",
-        "en": "Hello? What are you doing right now?",
-        "ar": "ألو؟ ماذا تفعل الآن؟"
+        "pt": "Explicamos o progressivo na aula.",
+        "en": "We explained the progressive in class.",
+        "ar": "شرحنا الصيغة المستمرة في الحصة."
       }
     },
     {
@@ -52,9 +52,9 @@
       "en": "happening",
       "ar": "جارٍ الحدوث",
       "example": {
-        "pt": "Alô? O que você está fazendo agora?",
-        "en": "Hello? What are you doing right now?",
-        "ar": "ألو؟ ماذا تفعل الآن؟"
+        "pt": "Algo estranho está acontecendo.",
+        "en": "Something strange is happening.",
+        "ar": "شيء غريب يحدث."
       }
     },
     {
@@ -63,9 +63,9 @@
       "en": "studying",
       "ar": "يدرس",
       "example": {
-        "pt": "E o Pedro? Está estudando?",
-        "en": "And Pedro? Is he studying?",
-        "ar": "وبيدرو؟ هل يدرس؟"
+        "pt": "Ele está estudando para a prova.",
+        "en": "He is studying for the test.",
+        "ar": "يدرس للامتحان."
       }
     },
     {
@@ -74,9 +74,9 @@
       "en": "watching",
       "ar": "يشاهد",
       "example": {
-        "pt": "Não, ele está assistindo futebol na TV.",
-        "en": "No, he is watching soccer on TV.",
-        "ar": "لا، إنه يشاهد كرة القدم على التلفزيون."
+        "pt": "Ela está assistindo TV.",
+        "en": "She is watching TV.",
+        "ar": "تشاهد التلفاز."
       }
     },
     {
@@ -85,9 +85,9 @@
       "en": "working",
       "ar": "يعمل",
       "example": {
-        "pt": "Eles estão trabalhando neste momento.",
-        "en": "They are working right now.",
-        "ar": "إنهم يعملون في هذه اللحظة."
+        "pt": "Ela está trabalhando muito.",
+        "en": "She is working a lot.",
+        "ar": "تعمل كثيرًا."
       }
     },
     {
@@ -96,9 +96,9 @@
       "en": "speaking",
       "ar": "يتحدث",
       "example": {
-        "pt": "Alô? O que você está fazendo agora?",
-        "en": "Hello? What are you doing right now?",
-        "ar": "ألو؟ ماذا تفعل الآن؟"
+        "pt": "Estou falando sério.",
+        "en": "I'm speaking seriously.",
+        "ar": "أتحدث بجدية."
       }
     },
     {
@@ -107,9 +107,9 @@
       "en": "walking",
       "ar": "يمشي",
       "example": {
-        "pt": "Então vou andando até a sua casa.",
-        "en": "Then I will walk over to your house.",
-        "ar": "إذن سأمشي إلى منزلك."
+        "pt": "Ele está andando devagar.",
+        "en": "He is walking slowly.",
+        "ar": "يمشي ببطء."
       }
     },
     {
@@ -118,9 +118,9 @@
       "en": "waiting",
       "ar": "ينتظر",
       "example": {
-        "pt": "Perfeito! Estamos esperando você.",
-        "en": "Perfect! We are waiting for you.",
-        "ar": "ممتاز! نحن في انتظارك."
+        "pt": "Estou esperando meu amigo.",
+        "en": "I'm waiting for my friend.",
+        "ar": "أنتظر صديقي."
       }
     },
     {
@@ -129,9 +129,9 @@
       "en": "running",
       "ar": "يجري",
       "example": {
-        "pt": "Alô? O que você está fazendo agora?",
-        "en": "Hello? What are you doing right now?",
-        "ar": "ألو؟ ماذا تفعل الآن؟"
+        "pt": "Ele está correndo no parque.",
+        "en": "He is running in the park.",
+        "ar": "يركض في الحديقة."
       }
     },
     {
@@ -140,9 +140,9 @@
       "en": "eating",
       "ar": "يأكل",
       "example": {
-        "pt": "Alô? O que você está fazendo agora?",
-        "en": "Hello? What are you doing right now?",
-        "ar": "ألو؟ ماذا تفعل الآن؟"
+        "pt": "Ela está comendo salada.",
+        "en": "She is eating a salad.",
+        "ar": "تأكل السلطة."
       }
     },
     {
@@ -151,9 +151,9 @@
       "en": "writing",
       "ar": "يكتب",
       "example": {
-        "pt": "Estou escrevendo um e-mail para minha chefe.",
-        "en": "I am writing an email to my boss.",
-        "ar": "أنا أكتب رسالة إلكترونية إلى مديرتي."
+        "pt": "Estou escrevendo meu livro.",
+        "en": "I'm writing my book.",
+        "ar": "أكتب كتابي."
       }
     },
     {
@@ -162,9 +162,9 @@
       "en": "listening",
       "ar": "يستمع",
       "example": {
-        "pt": "Alô? O que você está fazendo agora?",
-        "en": "Hello? What are you doing right now?",
-        "ar": "ألو؟ ماذا تفعل الآن؟"
+        "pt": "Estou ouvindo música clássica.",
+        "en": "I'm listening to classical music.",
+        "ar": "أستمع إلى الموسيقى الكلاسيكية."
       }
     },
     {
@@ -173,9 +173,9 @@
       "en": "the change",
       "ar": "التغيير",
       "example": {
-        "pt": "Então vou andando até a sua casa.",
-        "en": "Then I will walk over to your house.",
-        "ar": "إذن سأمشي إلى منزلك."
+        "pt": "A mudança já começou.",
+        "en": "The change has already begun.",
+        "ar": "بدأ التغيير بالفعل."
       }
     },
     {
@@ -184,9 +184,9 @@
       "en": "the process",
       "ar": "العملية",
       "example": {
-        "pt": "Alô? O que você está fazendo agora?",
-        "en": "Hello? What are you doing right now?",
-        "ar": "ألو؟ ماذا تفعل الآن؟"
+        "pt": "O processo é longo.",
+        "en": "The process is long.",
+        "ar": "العملية طويلة."
       }
     }
   ],
@@ -876,6 +876,222 @@
         "pt": "A frase correta: 'Alô? O que você está fazendo agora?'",
         "en": "The correct sentence: 'Alô? O que você está fazendo agora?'",
         "ar": "الجملة الصحيحة: 'Alô? O que você está fazendo agora?'"
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'eating'?",
+        "en": "Which word means 'eating'?",
+        "ar": "أي كلمة تعني 'يأكل'؟"
+      },
+      "options": [
+        {
+          "pt": "comendo",
+          "en": "eating",
+          "ar": "يأكل"
+        },
+        {
+          "pt": "progressivo",
+          "en": "progressive",
+          "ar": "مستمر"
+        },
+        {
+          "pt": "falando",
+          "en": "speaking",
+          "ar": "يتحدث"
+        }
+      ],
+      "answer": "comendo",
+      "explanation": {
+        "pt": "'comendo' significa 'eating'.",
+        "en": "'comendo' means 'eating'.",
+        "ar": "تعني 'comendo' 'يأكل'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the gerund'?",
+        "en": "Which word means 'the gerund'?",
+        "ar": "أي كلمة تعني 'صيغة المتابعة (gerúndio)'؟"
+      },
+      "options": [
+        {
+          "pt": "estudando",
+          "en": "studying",
+          "ar": "يدرس"
+        },
+        {
+          "pt": "trabalhando",
+          "en": "working",
+          "ar": "يعمل"
+        },
+        {
+          "pt": "o gerúndio",
+          "en": "the gerund",
+          "ar": "صيغة المتابعة (gerúndio)"
+        }
+      ],
+      "answer": "o gerúndio",
+      "explanation": {
+        "pt": "'o gerúndio' significa 'the gerund'.",
+        "en": "'o gerúndio' means 'the gerund'.",
+        "ar": "تعني 'o gerúndio' 'صيغة المتابعة (gerúndio)'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"I'm writing my book.\"",
+        "en": "Translate into Portuguese: \"I'm writing my book.\"",
+        "ar": "ترجم إلى البرتغالية: \"أكتب كتابي.\""
+      },
+      "options": [],
+      "answer": "Estou escrevendo meu livro.",
+      "explanation": {
+        "pt": "Resposta: \"Estou escrevendo meu livro.\".",
+        "en": "Answer: \"Estou escrevendo meu livro.\". (EN: \"I'm writing my book.\")",
+        "ar": "الإجابة: \"Estou escrevendo meu livro.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"Something strange is happening.\"",
+        "en": "Translate into Portuguese: \"Something strange is happening.\"",
+        "ar": "ترجم إلى البرتغالية: \"شيء غريب يحدث.\""
+      },
+      "options": [],
+      "answer": "Algo estranho está acontecendo.",
+      "explanation": {
+        "pt": "Resposta: \"Algo estranho está acontecendo.\".",
+        "en": "Answer: \"Algo estranho está acontecendo.\". (EN: \"Something strange is happening.\")",
+        "ar": "الإجابة: \"Algo estranho está acontecendo.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Estou ___ música clássica.\"",
+        "en": "Complete: \"Estou ___ música clássica.\"",
+        "ar": "أكمل: \"Estou ___ música clássica.\""
+      },
+      "options": [
+        {
+          "pt": "assistindo",
+          "en": "assistindo",
+          "ar": "assistindo"
+        },
+        {
+          "pt": "ouvindo",
+          "en": "ouvindo",
+          "ar": "ouvindo"
+        },
+        {
+          "pt": "progressivo",
+          "en": "progressivo",
+          "ar": "progressivo"
+        }
+      ],
+      "answer": "ouvindo",
+      "explanation": {
+        "pt": "A lacuna é 'ouvindo'.",
+        "en": "The blank is 'ouvindo'.",
+        "ar": "الفراغ هو 'ouvindo'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Algo estranho está ___.\"",
+        "en": "Complete: \"Algo estranho está ___.\"",
+        "ar": "أكمل: \"Algo estranho está ___.\""
+      },
+      "options": [
+        {
+          "pt": "o gerúndio",
+          "en": "o gerúndio",
+          "ar": "o gerúndio"
+        },
+        {
+          "pt": "trabalhando",
+          "en": "trabalhando",
+          "ar": "trabalhando"
+        },
+        {
+          "pt": "acontecendo",
+          "en": "acontecendo",
+          "ar": "acontecendo"
+        }
+      ],
+      "answer": "acontecendo",
+      "explanation": {
+        "pt": "A lacuna é 'acontecendo'.",
+        "en": "The blank is 'acontecendo'.",
+        "ar": "الفراغ هو 'acontecendo'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: \"He is walking slowly.\"",
+        "en": "Type in Portuguese: \"He is walking slowly.\"",
+        "ar": "اكتب بالبرتغالية: \"يمشي ببطء.\""
+      },
+      "options": [],
+      "answer": "Ele está andando devagar.",
+      "accepted": [
+        "Ele está andando devagar."
+      ],
+      "explanation": {
+        "pt": "Resposta possível: \"Ele está andando devagar.\".",
+        "en": "One possible answer: \"Ele está andando devagar.\".",
+        "ar": "إجابة ممكنة: \"Ele está andando devagar.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "devagar.",
+          "en": "devagar.",
+          "ar": "devagar."
+        },
+        {
+          "pt": "está",
+          "en": "está",
+          "ar": "está"
+        },
+        {
+          "pt": "Ele",
+          "en": "Ele",
+          "ar": "Ele"
+        },
+        {
+          "pt": "andando",
+          "en": "andando",
+          "ar": "andando"
+        }
+      ],
+      "answer": "Ele está andando devagar.",
+      "gen": "v1.8",
+      "explanation": {
+        "pt": "A frase correta é: \"Ele está andando devagar.\".",
+        "en": "The correct sentence is: \"Ele está andando devagar.\".",
+        "ar": "الجملة الصحيحة هي: \"Ele está andando devagar.\"."
       }
     }
   ],

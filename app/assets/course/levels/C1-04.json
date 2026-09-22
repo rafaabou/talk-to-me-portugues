@@ -35,9 +35,9 @@
       "en": "reported speech",
       "ar": "الكلام المنقول",
       "example": {
-        "pt": "O professor disse que a prova seria na segunda-feira.",
-        "en": "The teacher said the exam would be on Monday.",
-        "ar": "قال المعلم إن الامتحان سيكون يوم الاثنين."
+        "pt": "No discurso indireto, o tempo muda.",
+        "en": "In reported speech, the tense changes.",
+        "ar": "في الكلام المنقول يتغير الزمن."
       }
     },
     {
@@ -46,9 +46,9 @@
       "en": "to report",
       "ar": "يروي، ينقل",
       "example": {
-        "pt": "O professor disse que a prova seria na segunda-feira.",
-        "en": "The teacher said the exam would be on Monday.",
-        "ar": "قال المعلم إن الامتحان سيكون يوم الاثنين."
+        "pt": "Vou relatar o que aconteceu.",
+        "en": "I'm going to report what happened.",
+        "ar": "سأروي ما حدث."
       }
     },
     {
@@ -57,9 +57,9 @@
       "en": "to quote",
       "ar": "يقتبس",
       "example": {
-        "pt": "O professor disse que a prova seria na segunda-feira.",
-        "en": "The teacher said the exam would be on Monday.",
-        "ar": "قال المعلم إن الامتحان سيكون يوم الاثنين."
+        "pt": "Pode citar a fonte.",
+        "en": "You can quote the source.",
+        "ar": "يمكنك الاقتباس من المصدر."
       }
     },
     {
@@ -68,9 +68,9 @@
       "en": "the introductory verb",
       "ar": "الفعل التمهيدي",
       "example": {
-        "pt": "O professor disse que a prova seria na segunda-feira.",
-        "en": "The teacher said the exam would be on Monday.",
-        "ar": "قال المعلم إن الامتحان سيكون يوم الاثنين."
+        "pt": "Escolha o verbo introdutório certo.",
+        "en": "Choose the right introductory verb.",
+        "ar": "اختر الفعل التمهيدي الصحيح."
       }
     },
     {
@@ -79,9 +79,9 @@
       "en": "the tense change",
       "ar": "تغيير الزمن",
       "example": {
-        "pt": "O professor disse que a prova seria na segunda-feira.",
-        "en": "The teacher said the exam would be on Monday.",
-        "ar": "قال المعلم إن الامتحان سيكون يوم الاثنين."
+        "pt": "A mudança de tempo é obrigatória.",
+        "en": "The tense change is mandatory.",
+        "ar": "تغيير الزمن إلزامي."
       }
     },
     {
@@ -90,9 +90,9 @@
       "en": "the grammatical person",
       "ar": "الضمير النحوي",
       "example": {
-        "pt": "O professor disse que a prova seria na segunda-feira.",
-        "en": "The teacher said the exam would be on Monday.",
-        "ar": "قال المعلم إن الامتحان سيكون يوم الاثنين."
+        "pt": "A pessoa gramatical do verbo importa.",
+        "en": "The grammatical person of the verb matters.",
+        "ar": "تهم الضمير النحوي للفعل."
       }
     },
     {
@@ -101,9 +101,9 @@
       "en": "the pronoun",
       "ar": "الضمير",
       "example": {
-        "pt": "O professor disse que a prova seria na segunda-feira.",
-        "en": "The teacher said the exam would be on Monday.",
-        "ar": "قال المعلم إن الامتحان سيكون يوم الاثنين."
+        "pt": "O pronome pode ser oblíquo.",
+        "en": "The pronoun can be oblique.",
+        "ar": "قد يكون الضمير منصوبًا."
       }
     },
     {
@@ -112,9 +112,9 @@
       "en": "to affirm",
       "ar": "يؤكد",
       "example": {
-        "pt": "O professor disse que a prova seria na segunda-feira.",
-        "en": "The teacher said the exam would be on Monday.",
-        "ar": "قال المعلم إن الامتحان سيكون يوم الاثنين."
+        "pt": "Ele veio afirmar seu ponto.",
+        "en": "He came to affirm his point.",
+        "ar": "جاء ليؤكد وجهة نظره."
       }
     },
     {
@@ -123,9 +123,9 @@
       "en": "to ask",
       "ar": "يسأل",
       "example": {
-        "pt": "O professor disse que a prova seria na segunda-feira.",
-        "en": "The teacher said the exam would be on Monday.",
-        "ar": "قال المعلم إن الامتحان سيكون يوم الاثنين."
+        "pt": "O professor vai perguntar tudo.",
+        "en": "The teacher is going to ask everything.",
+        "ar": "سيسأل الأستاذ كل شيء."
       }
     },
     {
@@ -134,9 +134,9 @@
       "en": "to answer",
       "ar": "يجيب",
       "example": {
-        "pt": "O professor disse que a prova seria na segunda-feira.",
-        "en": "The teacher said the exam would be on Monday.",
-        "ar": "قال المعلم إن الامتحان سيكون يوم الاثنين."
+        "pt": "Tente responder com calma.",
+        "en": "Try to answer calmly.",
+        "ar": "حاول أن تجيب بهدوء."
       }
     },
     {
@@ -145,9 +145,9 @@
       "en": "to comment",
       "ar": "يعلّق",
       "example": {
-        "pt": "O professor disse que a prova seria na segunda-feira.",
-        "en": "The teacher said the exam would be on Monday.",
-        "ar": "قال المعلم إن الامتحان سيكون يوم الاثنين."
+        "pt": "Vamos comentar o artigo?",
+        "en": "Shall we comment on the article?",
+        "ar": "هل نعلّق على المقال؟"
       }
     },
     {
@@ -156,9 +156,9 @@
       "en": "to explain",
       "ar": "يشرح",
       "example": {
-        "pt": "O professor disse que a prova seria na segunda-feira.",
-        "en": "The teacher said the exam would be on Monday.",
-        "ar": "قال المعلم إن الامتحان سيكون يوم الاثنين."
+        "pt": "É difícil explicar em uma frase.",
+        "en": "It's hard to explain in one sentence.",
+        "ar": "من الصعب الشرح في جملة واحدة."
       }
     },
     {
@@ -167,9 +167,9 @@
       "en": "the paraphrase",
       "ar": "إعادة الصياغة",
       "example": {
-        "pt": "O professor disse que a prova seria na segunda-feira.",
-        "en": "The teacher said the exam would be on Monday.",
-        "ar": "قال المعلم إن الامتحان سيكون يوم الاثنين."
+        "pt": "A paráfrase ajuda a entender.",
+        "en": "The paraphrase helps understanding.",
+        "ar": "تساعد إعادة الصياغة على الفهم."
       }
     },
     {
@@ -178,9 +178,9 @@
       "en": "the subordinate clause",
       "ar": "الجملة التابعة",
       "example": {
-        "pt": "O professor disse que a prova seria na segunda-feira.",
-        "en": "The teacher said the exam would be on Monday.",
-        "ar": "قال المعلم إن الامتحان سيكون يوم الاثنين."
+        "pt": "A oração subordinada depende da principal.",
+        "en": "The subordinate clause depends on the main one.",
+        "ar": "تعتمد الجملة التابعة على الرئيسية."
       }
     },
     {
@@ -189,9 +189,9 @@
       "en": "the point of view",
       "ar": "وجهة النظر",
       "example": {
-        "pt": "O professor disse que a prova seria na segunda-feira.",
-        "en": "The teacher said the exam would be on Monday.",
-        "ar": "قال المعلم إن الامتحان سيكون يوم الاثنين."
+        "pt": "O ponto de vista dele mudou.",
+        "en": "His point of view changed.",
+        "ar": "تغيّرت وجهة نظره."
       }
     },
     {
@@ -200,9 +200,9 @@
       "en": "the quotation",
       "ar": "الاقتباس",
       "example": {
-        "pt": "O professor disse que a prova seria na segunda-feira.",
-        "en": "The teacher said the exam would be on Monday.",
-        "ar": "قال المعلم إن الامتحان سيكون يوم الاثنين."
+        "pt": "A citação aparece no texto.",
+        "en": "The quotation appears in the text.",
+        "ar": "يظهر الاقتباس في النص."
       }
     }
   ],
@@ -908,6 +908,237 @@
         "pt": "A frase correta: 'O professor disse que a prova seria na segunda-feira.'",
         "en": "The correct sentence: 'O professor disse que a prova seria na segunda-feira.'",
         "ar": "الجملة الصحيحة: 'O professor disse que a prova seria na segunda-feira.'"
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the quotation'?",
+        "en": "Which word means 'the quotation'?",
+        "ar": "أي كلمة تعني 'الاقتباس'؟"
+      },
+      "options": [
+        {
+          "pt": "responder",
+          "en": "to answer",
+          "ar": "يجيب"
+        },
+        {
+          "pt": "a citação",
+          "en": "the quotation",
+          "ar": "الاقتباس"
+        },
+        {
+          "pt": "a pessoa gramatical",
+          "en": "the grammatical person",
+          "ar": "الضمير النحوي"
+        },
+        {
+          "pt": "relatar",
+          "en": "to report",
+          "ar": "يروي، ينقل"
+        }
+      ],
+      "answer": "a citação",
+      "explanation": {
+        "pt": "'a citação' significa 'the quotation'.",
+        "en": "'a citação' means 'the quotation'.",
+        "ar": "تعني 'a citação' 'الاقتباس'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the subordinate clause'?",
+        "en": "Which word means 'the subordinate clause'?",
+        "ar": "أي كلمة تعني 'الجملة التابعة'؟"
+      },
+      "options": [
+        {
+          "pt": "a mudança de tempo",
+          "en": "the tense change",
+          "ar": "تغيير الزمن"
+        },
+        {
+          "pt": "a oração subordinada",
+          "en": "the subordinate clause",
+          "ar": "الجملة التابعة"
+        },
+        {
+          "pt": "o ponto de vista",
+          "en": "the point of view",
+          "ar": "وجهة النظر"
+        },
+        {
+          "pt": "explicar",
+          "en": "to explain",
+          "ar": "يشرح"
+        }
+      ],
+      "answer": "a oração subordinada",
+      "explanation": {
+        "pt": "'a oração subordinada' significa 'the subordinate clause'.",
+        "en": "'a oração subordinada' means 'the subordinate clause'.",
+        "ar": "تعني 'a oração subordinada' 'الجملة التابعة'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"The teacher is going to ask everything.\"",
+        "en": "Translate into Portuguese: \"The teacher is going to ask everything.\"",
+        "ar": "ترجم إلى البرتغالية: \"سيسأل الأستاذ كل شيء.\""
+      },
+      "options": [],
+      "answer": "O professor vai perguntar tudo.",
+      "explanation": {
+        "pt": "Resposta: \"O professor vai perguntar tudo.\".",
+        "en": "Answer: \"O professor vai perguntar tudo.\". (EN: \"The teacher is going to ask everything.\")",
+        "ar": "الإجابة: \"O professor vai perguntar tudo.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"You can quote the source.\"",
+        "en": "Translate into Portuguese: \"You can quote the source.\"",
+        "ar": "ترجم إلى البرتغالية: \"يمكنك الاقتباس من المصدر.\""
+      },
+      "options": [],
+      "answer": "Pode citar a fonte.",
+      "explanation": {
+        "pt": "Resposta: \"Pode citar a fonte.\".",
+        "en": "Answer: \"Pode citar a fonte.\". (EN: \"You can quote the source.\")",
+        "ar": "الإجابة: \"Pode citar a fonte.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Ele veio ___ seu ponto.\"",
+        "en": "Complete: \"Ele veio ___ seu ponto.\"",
+        "ar": "أكمل: \"Ele veio ___ seu ponto.\""
+      },
+      "options": [
+        {
+          "pt": "o discurso indireto",
+          "en": "o discurso indireto",
+          "ar": "o discurso indireto"
+        },
+        {
+          "pt": "afirmar",
+          "en": "afirmar",
+          "ar": "afirmar"
+        },
+        {
+          "pt": "citar",
+          "en": "citar",
+          "ar": "citar"
+        }
+      ],
+      "answer": "afirmar",
+      "explanation": {
+        "pt": "A lacuna é 'afirmar'.",
+        "en": "The blank is 'afirmar'.",
+        "ar": "الفراغ هو 'afirmar'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Pode ___ a fonte.\"",
+        "en": "Complete: \"Pode ___ a fonte.\"",
+        "ar": "أكمل: \"Pode ___ a fonte.\""
+      },
+      "options": [
+        {
+          "pt": "citar",
+          "en": "citar",
+          "ar": "citar"
+        },
+        {
+          "pt": "a mudança de tempo",
+          "en": "a mudança de tempo",
+          "ar": "a mudança de tempo"
+        },
+        {
+          "pt": "o verbo introdutório",
+          "en": "o verbo introdutório",
+          "ar": "o verbo introdutório"
+        }
+      ],
+      "answer": "citar",
+      "explanation": {
+        "pt": "A lacuna é 'citar'.",
+        "en": "The blank is 'citar'.",
+        "ar": "الفراغ هو 'citar'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: \"The paraphrase helps understanding.\"",
+        "en": "Type in Portuguese: \"The paraphrase helps understanding.\"",
+        "ar": "اكتب بالبرتغالية: \"تساعد إعادة الصياغة على الفهم.\""
+      },
+      "options": [],
+      "answer": "A paráfrase ajuda a entender.",
+      "accepted": [
+        "A paráfrase ajuda a entender."
+      ],
+      "explanation": {
+        "pt": "Resposta possível: \"A paráfrase ajuda a entender.\".",
+        "en": "One possible answer: \"A paráfrase ajuda a entender.\".",
+        "ar": "إجابة ممكنة: \"A paráfrase ajuda a entender.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "verbo",
+          "en": "verbo",
+          "ar": "verbo"
+        },
+        {
+          "pt": "Escolha",
+          "en": "Escolha",
+          "ar": "Escolha"
+        },
+        {
+          "pt": "introdutório",
+          "en": "introdutório",
+          "ar": "introdutório"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "certo.",
+          "en": "certo.",
+          "ar": "certo."
+        }
+      ],
+      "answer": "Escolha o verbo introdutório certo.",
+      "gen": "v1.8",
+      "explanation": {
+        "pt": "A frase correta é: \"Escolha o verbo introdutório certo.\".",
+        "en": "The correct sentence is: \"Escolha o verbo introdutório certo.\".",
+        "ar": "الجملة الصحيحة هي: \"Escolha o verbo introdutório certo.\"."
       }
     }
   ],

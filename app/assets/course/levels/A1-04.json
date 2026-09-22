@@ -46,9 +46,9 @@
       "en": "the table",
       "ar": "الطاولة",
       "example": {
-        "pt": "Professora, onde está a minha caneta?",
-        "en": "Teacher, where is my pen?",
-        "ar": "أستاذة، أين قلمي؟"
+        "pt": "A mesa é de madeira.",
+        "en": "The table is made of wood.",
+        "ar": "الطاولة من خشب."
       }
     },
     {
@@ -57,9 +57,9 @@
       "en": "the pen",
       "ar": "القلم",
       "example": {
-        "pt": "Professora, onde está a minha caneta?",
-        "en": "Teacher, where is my pen?",
-        "ar": "أستاذة، أين قلمي؟"
+        "pt": "A caneta é azul.",
+        "en": "The pen is blue.",
+        "ar": "القلم أزرق."
       }
     },
     {
@@ -68,9 +68,9 @@
       "en": "the notebook",
       "ar": "الدفتر",
       "example": {
-        "pt": "O livro está na mesa.",
-        "en": "The book is on the table.",
-        "ar": "الكتاب على الطاولة."
+        "pt": "Escreva no caderno agora.",
+        "en": "Write in the notebook now.",
+        "ar": "اكتب في الدفتر الآن."
       }
     },
     {
@@ -79,9 +79,9 @@
       "en": "the school",
       "ar": "المدرسة",
       "example": {
-        "pt": "Professora, onde está a minha caneta?",
-        "en": "Teacher, where is my pen?",
-        "ar": "أستاذة، أين قلمي؟"
+        "pt": "A escola fica perto daqui.",
+        "en": "The school is near here.",
+        "ar": "المدرسة قريبة من هنا."
       }
     },
     {
@@ -90,9 +90,9 @@
       "en": "the teacher (m)",
       "ar": "المعلم",
       "example": {
-        "pt": "O livro está na mesa.",
-        "en": "The book is on the table.",
-        "ar": "الكتاب على الطاولة."
+        "pt": "O professor explica bem.",
+        "en": "The teacher explains well.",
+        "ar": "يشرح الأستاذ جيدًا."
       }
     },
     {
@@ -101,9 +101,9 @@
       "en": "the teacher (f)",
       "ar": "المعلمة",
       "example": {
-        "pt": "Professora, onde está a minha caneta?",
-        "en": "Teacher, where is my pen?",
-        "ar": "أستاذة، أين قلمي؟"
+        "pt": "A professora é muito legal.",
+        "en": "The teacher is very nice.",
+        "ar": "المعلمة لطيفة جدًا."
       }
     },
     {
@@ -112,9 +112,9 @@
       "en": "the student (m)",
       "ar": "الطالب",
       "example": {
-        "pt": "O livro está na mesa.",
-        "en": "The book is on the table.",
-        "ar": "الكتاب على الطاولة."
+        "pt": "O aluno faz a prova.",
+        "en": "The student takes the test.",
+        "ar": "يؤدي الطالب الامتحان."
       }
     },
     {
@@ -123,9 +123,9 @@
       "en": "the student (f)",
       "ar": "الطالبة",
       "example": {
-        "pt": "Professora, onde está a minha caneta?",
-        "en": "Teacher, where is my pen?",
-        "ar": "أستاذة، أين قلمي؟"
+        "pt": "A aluna responde à pergunta.",
+        "en": "The student (f) answers the question.",
+        "ar": "تجيب الطالبة عن السؤال."
       }
     },
     {
@@ -134,9 +134,9 @@
       "en": "the house",
       "ar": "المنزل",
       "example": {
-        "pt": "Professora, onde está a minha caneta?",
-        "en": "Teacher, where is my pen?",
-        "ar": "أستاذة، أين قلمي؟"
+        "pt": "A casa é grande.",
+        "en": "The house is big.",
+        "ar": "المنزل كبير."
       }
     },
     {
@@ -145,9 +145,9 @@
       "en": "the car",
       "ar": "السيارة",
       "example": {
-        "pt": "O livro está na mesa.",
-        "en": "The book is on the table.",
-        "ar": "الكتاب على الطاولة."
+        "pt": "O carro é novo.",
+        "en": "The car is new.",
+        "ar": "السيارة جديدة."
       }
     },
     {
@@ -156,9 +156,9 @@
       "en": "the city",
       "ar": "المدينة",
       "example": {
-        "pt": "Professora, onde está a minha caneta?",
-        "en": "Teacher, where is my pen?",
-        "ar": "أستاذة، أين قلمي؟"
+        "pt": "A cidade acorda cedo.",
+        "en": "The city wakes up early.",
+        "ar": " تستيقظ المدينة مبكرًا."
       }
     },
     {
@@ -167,9 +167,9 @@
       "en": "the dog",
       "ar": "الكلب",
       "example": {
-        "pt": "O livro está na mesa.",
-        "en": "The book is on the table.",
-        "ar": "الكتاب على الطاولة."
+        "pt": "O cachorro late à noite.",
+        "en": "The dog barks at night.",
+        "ar": "ينبح الكلب في الليل."
       }
     },
     {
@@ -178,9 +178,9 @@
       "en": "a (m)",
       "ar": "أداة تنكير مذكر",
       "example": {
-        "pt": "Abram os livros na página dez.",
-        "en": "Open your books to page ten.",
-        "ar": "افتحوا الكتب في الصفحة عشرة."
+        "pt": "Um aluno chegou cedo.",
+        "en": "A student arrived early.",
+        "ar": "وصل طالب مبكرًا."
       }
     },
     {
@@ -189,9 +189,9 @@
       "en": "a (f)",
       "ar": "أداة تنكير مؤنث",
       "example": {
-        "pt": "Abram os livros na página dez.",
-        "en": "Open your books to page ten.",
-        "ar": "افتحوا الكتب في الصفحة عشرة."
+        "pt": "Ela tem uma caneta.",
+        "en": "She has a pen.",
+        "ar": "لديها قلم."
       }
     },
     {
@@ -200,9 +200,9 @@
       "en": "the (m, pl)",
       "ar": "ال (جمع مذكر)",
       "example": {
-        "pt": "Abram os livros na página dez.",
-        "en": "Open your books to page ten.",
-        "ar": "افتحوا الكتب في الصفحة عشرة."
+        "pt": "Os livros estão na mesa.",
+        "en": "The books are on the table.",
+        "ar": "الكتب على الطاولة."
       }
     },
     {
@@ -211,9 +211,9 @@
       "en": "the (f, pl)",
       "ar": "ال (جمع مؤنث)",
       "example": {
-        "pt": "Abram os livros na página dez.",
-        "en": "Open your books to page ten.",
-        "ar": "افتحوا الكتب في الصفحة عشرة."
+        "pt": "As aulas começam cedo.",
+        "en": "The classes start early.",
+        "ar": "تبدأ الحصص مبكرًا."
       }
     }
   ],
@@ -877,6 +877,227 @@
         "pt": "A frase correta: 'Abram os livros na página dez.'",
         "en": "The correct sentence: 'Abram os livros na página dez.'",
         "ar": "الجملة الصحيحة: 'Abram os livros na página dez.'"
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the school'?",
+        "en": "Which word means 'the school'?",
+        "ar": "أي كلمة تعني 'المدرسة'؟"
+      },
+      "options": [
+        {
+          "pt": "a cidade",
+          "en": "the city",
+          "ar": "المدينة"
+        },
+        {
+          "pt": "a mesa",
+          "en": "the table",
+          "ar": "الطاولة"
+        },
+        {
+          "pt": "a escola",
+          "en": "the school",
+          "ar": "المدرسة"
+        }
+      ],
+      "answer": "a escola",
+      "explanation": {
+        "pt": "'a escola' significa 'the school'.",
+        "en": "'a escola' means 'the school'.",
+        "ar": "تعني 'a escola' 'المدرسة'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the student (f)'?",
+        "en": "Which word means 'the student (f)'?",
+        "ar": "أي كلمة تعني 'الطالبة'؟"
+      },
+      "options": [
+        {
+          "pt": "a aluna",
+          "en": "the student (f)",
+          "ar": "الطالبة"
+        },
+        {
+          "pt": "uma",
+          "en": "a (f)",
+          "ar": "أداة تنكير مؤنث"
+        },
+        {
+          "pt": "o professor",
+          "en": "the teacher (m)",
+          "ar": "المعلم"
+        }
+      ],
+      "answer": "a aluna",
+      "explanation": {
+        "pt": "'a aluna' significa 'the student (f)'.",
+        "en": "'a aluna' means 'the student (f)'.",
+        "ar": "تعني 'a aluna' 'الطالبة'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"The house is big.\"",
+        "en": "Translate into Portuguese: \"The house is big.\"",
+        "ar": "ترجم إلى البرتغالية: \"المنزل كبير.\""
+      },
+      "options": [],
+      "answer": "A casa é grande.",
+      "explanation": {
+        "pt": "Resposta: \"A casa é grande.\".",
+        "en": "Answer: \"A casa é grande.\". (EN: \"The house is big.\")",
+        "ar": "الإجابة: \"A casa é grande.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"It's on the table, next to the notebook.\"",
+        "en": "Translate into Portuguese: \"It's on the table, next to the notebook.\"",
+        "ar": "ترجم إلى البرتغالية: \"إنه على الطاولة، بجانب الدفتر.\""
+      },
+      "options": [],
+      "answer": "Está sobre a mesa, ao lado do caderno.",
+      "explanation": {
+        "pt": "Resposta: \"Está sobre a mesa, ao lado do caderno.\".",
+        "en": "Answer: \"Está sobre a mesa, ao lado do caderno.\". (EN: \"It's on the table, next to the notebook.\")",
+        "ar": "الإجابة: \"Está sobre a mesa, ao lado do caderno.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"As aul___ começam cedo.\"",
+        "en": "Complete: \"As aul___ começam cedo.\"",
+        "ar": "أكمل: \"As aul___ começam cedo.\""
+      },
+      "options": [
+        {
+          "pt": "o livro",
+          "en": "o livro",
+          "ar": "o livro"
+        },
+        {
+          "pt": "o caderno",
+          "en": "o caderno",
+          "ar": "o caderno"
+        },
+        {
+          "pt": "as",
+          "en": "as",
+          "ar": "as"
+        }
+      ],
+      "answer": "as",
+      "explanation": {
+        "pt": "A lacuna é 'as'.",
+        "en": "The blank is 'as'.",
+        "ar": "الفراغ هو 'as'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Os livr___ estão na mesa.\"",
+        "en": "Complete: \"Os livr___ estão na mesa.\"",
+        "ar": "أكمل: \"Os livr___ estão na mesa.\""
+      },
+      "options": [
+        {
+          "pt": "o professor",
+          "en": "o professor",
+          "ar": "o professor"
+        },
+        {
+          "pt": "o livro",
+          "en": "o livro",
+          "ar": "o livro"
+        },
+        {
+          "pt": "os",
+          "en": "os",
+          "ar": "os"
+        }
+      ],
+      "answer": "os",
+      "explanation": {
+        "pt": "A lacuna é 'os'.",
+        "en": "The blank is 'os'.",
+        "ar": "الفراغ هو 'os'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: \"The house is big.\"",
+        "en": "Type in Portuguese: \"The house is big.\"",
+        "ar": "اكتب بالبرتغالية: \"المنزل كبير.\""
+      },
+      "options": [],
+      "answer": "A casa é grande.",
+      "accepted": [
+        "A casa é grande."
+      ],
+      "explanation": {
+        "pt": "Resposta possível: \"A casa é grande.\".",
+        "en": "One possible answer: \"A casa é grande.\".",
+        "ar": "إجابة ممكنة: \"A casa é grande.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "à",
+          "en": "à",
+          "ar": "à"
+        },
+        {
+          "pt": "noite.",
+          "en": "noite.",
+          "ar": "noite."
+        },
+        {
+          "pt": "late",
+          "en": "late",
+          "ar": "late"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "cachorro",
+          "en": "cachorro",
+          "ar": "cachorro"
+        }
+      ],
+      "answer": "O cachorro late à noite.",
+      "gen": "v1.8",
+      "explanation": {
+        "pt": "A frase correta é: \"O cachorro late à noite.\".",
+        "en": "The correct sentence is: \"O cachorro late à noite.\".",
+        "ar": "الجملة الصحيحة هي: \"O cachorro late à noite.\"."
       }
     }
   ],

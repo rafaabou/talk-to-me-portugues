@@ -35,9 +35,9 @@
       "en": "the novel",
       "ar": "الرواية",
       "example": {
-        "pt": "O personagem Bentinho é fascinante, não acha?",
-        "en": "The character Bentinho is fascinating, don't you think?",
-        "ar": "شخصية بينتينيو رائعة، أليس كذلك؟"
+        "pt": "Li o romance em uma semana.",
+        "en": "I read the novel in a week.",
+        "ar": "قرأت الرواية في أسبوع."
       }
     },
     {
@@ -46,9 +46,9 @@
       "en": "the short story",
       "ar": "القصة القصيرة",
       "example": {
-        "pt": "O personagem Bentinho é fascinante, não acha?",
-        "en": "The character Bentinho is fascinating, don't you think?",
-        "ar": "شخصية بينتينيو رائعة، أليس كذلك؟"
+        "pt": "Escrevi o conto em uma noite.",
+        "en": "I wrote a short story.",
+        "ar": "كتبت قصة قصيرة."
       }
     },
     {
@@ -57,9 +57,9 @@
       "en": "the poem",
       "ar": "القصيدة",
       "example": {
-        "pt": "O personagem Bentinho é fascinante, não acha?",
-        "en": "The character Bentinho is fascinating, don't you think?",
-        "ar": "شخصية بينتينيو رائعة، أليس كذلك؟"
+        "pt": "O poema fala de amor.",
+        "en": "The poem speaks of love.",
+        "ar": "تخاطب القصيدة الحب."
       }
     },
     {
@@ -68,9 +68,9 @@
       "en": "the poet",
       "ar": "الشاعر",
       "example": {
-        "pt": "O personagem Bentinho é fascinante, não acha?",
-        "en": "The character Bentinho is fascinating, don't you think?",
-        "ar": "شخصية بينتينيو رائعة، أليس كذلك؟"
+        "pt": "O poeta brasileiro é famoso.",
+        "en": "The Brazilian poet is famous.",
+        "ar": "الشاعر البرازيلي مشهور."
       }
     },
     {
@@ -79,9 +79,9 @@
       "en": "the writer",
       "ar": "الكاتب",
       "example": {
-        "pt": "O personagem Bentinho é fascinante, não acha?",
-        "en": "The character Bentinho is fascinating, don't you think?",
-        "ar": "شخصية بينتينيو رائعة، أليس كذلك؟"
+        "pt": "O escritor lançou um livro.",
+        "en": "The writer released a book.",
+        "ar": "أصدر الكاتب كتابًا."
       }
     },
     {
@@ -90,9 +90,9 @@
       "en": "the work",
       "ar": "العمل",
       "example": {
-        "pt": "No final, o personagem descobriu a verdade.",
-        "en": "In the end, the character discovered the truth.",
-        "ar": "في النهاية، اكتشفت الشخصية الحقيقة."
+        "pt": "A obra do autor é vasta.",
+        "en": "The author's body of work is vast.",
+        "ar": "اسعة مؤلفات المؤلف."
       }
     },
     {
@@ -101,9 +101,9 @@
       "en": "the chapter",
       "ar": "الفصل",
       "example": {
-        "pt": "O personagem Bentinho é fascinante, não acha?",
-        "en": "The character Bentinho is fascinating, don't you think?",
-        "ar": "شخصية بينتينيو رائعة، أليس كذلك؟"
+        "pt": "Adorei o capítulo final.",
+        "en": "I loved the final chapter.",
+        "ar": "أعجبني الفصل الأخير."
       }
     },
     {
@@ -112,9 +112,9 @@
       "en": "the character",
       "ar": "الشخصية",
       "example": {
-        "pt": "O personagem Bentinho é fascinante, não acha?",
-        "en": "The character Bentinho is fascinating, don't you think?",
-        "ar": "شخصية بينتينيو رائعة، أليس كذلك؟"
+        "pt": "O personagem é complexo.",
+        "en": "The character is complex.",
+        "ar": "الشخصية معقدة."
       }
     },
     {
@@ -123,9 +123,9 @@
       "en": "the plot",
       "ar": "الحبكة",
       "example": {
-        "pt": "O personagem Bentinho é fascinante, não acha?",
-        "en": "The character Bentinho is fascinating, don't you think?",
-        "ar": "شخصية بينتينيو رائعة، أليس كذلك؟"
+        "pt": "O enredo é confuso no início.",
+        "en": "The plot is confusing at first.",
+        "ar": "الحبكة محيرة في البداية."
       }
     },
     {
@@ -134,9 +134,9 @@
       "en": "the painting",
       "ar": "اللوحة",
       "example": {
-        "pt": "No final, o personagem descobriu a verdade.",
-        "en": "In the end, the character discovered the truth.",
-        "ar": "في النهاية، اكتشفت الشخصية الحقيقة."
+        "pt": "A pintura foi leiloada.",
+        "en": "The painting was auctioned.",
+        "ar": "بُيعت اللوحة في مزاد."
       }
     },
     {
@@ -145,9 +145,9 @@
       "en": "the painting (canvas)",
       "ar": "اللوحة",
       "example": {
-        "pt": "O personagem Bentinho é fascinante, não acha?",
-        "en": "The character Bentinho is fascinating, don't you think?",
-        "ar": "شخصية بينتينيو رائعة، أليس كذلك؟"
+        "pt": "O quadro está na parede.",
+        "en": "The painting is on the wall.",
+        "ar": "اللوحة على الجدار."
       }
     },
     {
@@ -156,9 +156,9 @@
       "en": "the museum",
       "ar": "المتحف",
       "example": {
-        "pt": "O personagem Bentinho é fascinante, não acha?",
-        "en": "The character Bentinho is fascinating, don't you think?",
-        "ar": "شخصية بينتينيو رائعة، أليس كذلك؟"
+        "pt": "O museu fecha às seis.",
+        "en": "The museum closes at six.",
+        "ar": "يغلق المتحف في السادسة."
       }
     },
     {
@@ -167,9 +167,9 @@
       "en": "the exhibition",
       "ar": "المعرض",
       "example": {
-        "pt": "No final, o personagem descobriu a verdade.",
-        "en": "In the end, the character discovered the truth.",
-        "ar": "في النهاية، اكتشفت الشخصية الحقيقة."
+        "pt": "A exposição dura até março.",
+        "en": "The exhibition lasts until March.",
+        "ar": "يستمر المعرض حتى مارس."
       }
     },
     {
@@ -178,9 +178,9 @@
       "en": "the theater",
       "ar": "المسرح",
       "example": {
-        "pt": "O personagem Bentinho é fascinante, não acha?",
-        "en": "The character Bentinho is fascinating, don't you think?",
-        "ar": "شخصية بينتينيو رائعة، أليس كذلك؟"
+        "pt": "O teatro lotou na estreia.",
+        "en": "The theater was full on opening night.",
+        "ar": "امتلأ المسرح في ليلة الافتتاح."
       }
     },
     {
@@ -189,9 +189,9 @@
       "en": "the play",
       "ar": "المسرحية",
       "example": {
-        "pt": "No final, o personagem descobriu a verdade.",
-        "en": "In the end, the character discovered the truth.",
-        "ar": "في النهاية، اكتشفت الشخصية الحقيقة."
+        "pt": "A peça começa às nove.",
+        "en": "The play starts at nine.",
+        "ar": "تبدأ المسرحية في التاسعة."
       }
     },
     {
@@ -200,9 +200,9 @@
       "en": "the reader",
       "ar": "القارئ",
       "example": {
-        "pt": "O personagem Bentinho é fascinante, não acha?",
-        "en": "The character Bentinho is fascinating, don't you think?",
-        "ar": "شخصية بينتينيو رائعة، أليس كذلك؟"
+        "pt": "O leitor comentou o texto.",
+        "en": "The reader commented on the text.",
+        "ar": "علّق القارئ على النص."
       }
     },
     {
@@ -211,9 +211,9 @@
       "en": "the inspiration",
       "ar": "الإلهام",
       "example": {
-        "pt": "No final, o personagem descobriu a verdade.",
-        "en": "In the end, the character discovered the truth.",
-        "ar": "في النهاية، اكتشفت الشخصية الحقيقة."
+        "pt": "A inspiração veio de repente.",
+        "en": "The inspiration came suddenly.",
+        "ar": "جاء الإلهام فجأة."
       }
     }
   ],
@@ -923,6 +923,237 @@
         "pt": "A frase correta: 'Você já leu 'Dom Casmurro', do Machado de Assis?'",
         "en": "The correct sentence: 'Você já leu 'Dom Casmurro', do Machado de Assis?'",
         "ar": "الجملة الصحيحة: 'Você já leu 'Dom Casmurro', do Machado de Assis?'"
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the plot'?",
+        "en": "Which word means 'the plot'?",
+        "ar": "أي كلمة تعني 'الحبكة'؟"
+      },
+      "options": [
+        {
+          "pt": "o poema",
+          "en": "the poem",
+          "ar": "القصيدة"
+        },
+        {
+          "pt": "o leitor",
+          "en": "the reader",
+          "ar": "القارئ"
+        },
+        {
+          "pt": "o enredo",
+          "en": "the plot",
+          "ar": "الحبكة"
+        }
+      ],
+      "answer": "o enredo",
+      "explanation": {
+        "pt": "'o enredo' significa 'the plot'.",
+        "en": "'o enredo' means 'the plot'.",
+        "ar": "تعني 'o enredo' 'الحبكة'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the chapter'?",
+        "en": "Which word means 'the chapter'?",
+        "ar": "أي كلمة تعني 'الفصل'؟"
+      },
+      "options": [
+        {
+          "pt": "o personagem",
+          "en": "the character",
+          "ar": "الشخصية"
+        },
+        {
+          "pt": "o escritor",
+          "en": "the writer",
+          "ar": "الكاتب"
+        },
+        {
+          "pt": "o capítulo",
+          "en": "the chapter",
+          "ar": "الفصل"
+        },
+        {
+          "pt": "a peça",
+          "en": "the play",
+          "ar": "المسرحية"
+        }
+      ],
+      "answer": "o capítulo",
+      "explanation": {
+        "pt": "'o capítulo' significa 'the chapter'.",
+        "en": "'o capítulo' means 'the chapter'.",
+        "ar": "تعني 'o capítulo' 'الفصل'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"The painting was auctioned.\"",
+        "en": "Translate into Portuguese: \"The painting was auctioned.\"",
+        "ar": "ترجم إلى البرتغالية: \"بُيعت اللوحة في مزاد.\""
+      },
+      "options": [],
+      "answer": "A pintura foi leiloada.",
+      "explanation": {
+        "pt": "Resposta: \"A pintura foi leiloada.\".",
+        "en": "Answer: \"A pintura foi leiloada.\". (EN: \"The painting was auctioned.\")",
+        "ar": "الإجابة: \"A pintura foi leiloada.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"The museum closes at six.\"",
+        "en": "Translate into Portuguese: \"The museum closes at six.\"",
+        "ar": "ترجم إلى البرتغالية: \"يغلق المتحف في السادسة.\""
+      },
+      "options": [],
+      "answer": "O museu fecha às seis.",
+      "explanation": {
+        "pt": "Resposta: \"O museu fecha às seis.\".",
+        "en": "Answer: \"O museu fecha às seis.\". (EN: \"The museum closes at six.\")",
+        "ar": "الإجابة: \"O museu fecha às seis.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Adorei ___ final.\"",
+        "en": "Complete: \"Adorei ___ final.\"",
+        "ar": "أكمل: \"Adorei ___ final.\""
+      },
+      "options": [
+        {
+          "pt": "a obra",
+          "en": "a obra",
+          "ar": "a obra"
+        },
+        {
+          "pt": "o capítulo",
+          "en": "o capítulo",
+          "ar": "o capítulo"
+        },
+        {
+          "pt": "o romance",
+          "en": "o romance",
+          "ar": "o romance"
+        }
+      ],
+      "answer": "o capítulo",
+      "explanation": {
+        "pt": "A lacuna é 'o capítulo'.",
+        "en": "The blank is 'o capítulo'.",
+        "ar": "الفراغ هو 'o capítulo'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Escrevi ___ em uma noite.\"",
+        "en": "Complete: \"Escrevi ___ em uma noite.\"",
+        "ar": "أكمل: \"Escrevi ___ em uma noite.\""
+      },
+      "options": [
+        {
+          "pt": "o personagem",
+          "en": "o personagem",
+          "ar": "o personagem"
+        },
+        {
+          "pt": "o capítulo",
+          "en": "o capítulo",
+          "ar": "o capítulo"
+        },
+        {
+          "pt": "o conto",
+          "en": "o conto",
+          "ar": "o conto"
+        }
+      ],
+      "answer": "o conto",
+      "explanation": {
+        "pt": "A lacuna é 'o conto'.",
+        "en": "The blank is 'o conto'.",
+        "ar": "الفراغ هو 'o conto'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: \"The character Bentinho is fascinating, don't you think?\"",
+        "en": "Type in Portuguese: \"The character Bentinho is fascinating, don't you think?\"",
+        "ar": "اكتب بالبرتغالية: \"شخصية بينتينيو رائعة، أليس كذلك؟\""
+      },
+      "options": [],
+      "answer": "O personagem Bentinho é fascinante, não acha?",
+      "accepted": [
+        "O personagem Bentinho é fascinante, não acha?"
+      ],
+      "explanation": {
+        "pt": "Resposta possível: \"O personagem Bentinho é fascinante, não acha?\".",
+        "en": "One possible answer: \"O personagem Bentinho é fascinante, não acha?\".",
+        "ar": "إجابة ممكنة: \"O personagem Bentinho é fascinante, não acha?\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "vasta.",
+          "en": "vasta.",
+          "ar": "vasta."
+        },
+        {
+          "pt": "obra",
+          "en": "obra",
+          "ar": "obra"
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "A",
+          "en": "A",
+          "ar": "A"
+        },
+        {
+          "pt": "é",
+          "en": "é",
+          "ar": "é"
+        },
+        {
+          "pt": "autor",
+          "en": "autor",
+          "ar": "autor"
+        }
+      ],
+      "answer": "A obra do autor é vasta.",
+      "gen": "v1.8",
+      "explanation": {
+        "pt": "A frase correta é: \"A obra do autor é vasta.\".",
+        "en": "The correct sentence is: \"A obra do autor é vasta.\".",
+        "ar": "الجملة الصحيحة هي: \"A obra do autor é vasta.\"."
       }
     }
   ],

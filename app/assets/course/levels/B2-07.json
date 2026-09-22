@@ -35,9 +35,9 @@
       "en": "therefore",
       "ar": "لذلك",
       "example": {
-        "pt": "Entendido. Portanto, devemos começar com uma introdução clara.",
-        "en": "Understood. Therefore, we should begin with a clear introduction.",
-        "ar": "مفهوم. لذلك يجب أن نبدأ بمقدمة واضحة."
+        "pt": "Estudei muito; portanto, passei.",
+        "en": "I studied a lot; therefore, I passed.",
+        "ar": "درست كثيرًا؛ لذلك نجحت."
       }
     },
     {
@@ -46,9 +46,9 @@
       "en": "however",
       "ar": "لكن",
       "example": {
-        "pt": "O livro é longo; porém, vale a pena.",
-        "en": "The book is long; however, it's worth it.",
-        "ar": "الكتاب طويل؛ لكنه يستحق القراءة."
+        "pt": "Quero ir, porém não posso.",
+        "en": "I want to go, however I can't.",
+        "ar": "أريد الذهاب، لكن لا أستطيع."
       }
     },
     {
@@ -57,9 +57,9 @@
       "en": "however",
       "ar": "ومع ذلك",
       "example": {
-        "pt": "Primeiramente, vocês devem definir o tema da redação.",
-        "en": "First, you must define the essay topic.",
-        "ar": "أولًا، يجب عليكم تحديد موضوع المقالة."
+        "pt": "Estava cansado; contudo, continuei.",
+        "en": "I was tired; however, I continued.",
+        "ar": "كنت متعبًا؛ ومع ذلك واصلت."
       }
     },
     {
@@ -68,9 +68,9 @@
       "en": "meanwhile / however",
       "ar": "وفي الوقت نفسه",
       "example": {
-        "pt": "Primeiramente, vocês devem definir o tema da redação.",
-        "en": "First, you must define the essay topic.",
-        "ar": "أولًا، يجب عليكم تحديد موضوع المقالة."
+        "pt": "Chovia; entretanto, saímos.",
+        "en": "It was raining; however, we went out.",
+        "ar": "كان تمطر؛ ومع ذلك خرجنا."
       }
     },
     {
@@ -79,9 +79,9 @@
       "en": "however",
       "ar": "مع ذلك",
       "example": {
-        "pt": "Ótimo. No entanto, lembrem-se de organizar as ideias com conectivos.",
-        "en": "Great. However, remember to organize your ideas with connectors.",
-        "ar": "رائع. ومع ذلك، تذكروا أن تنظموا الأفكار بأدوات الربط."
+        "pt": "O plano era bom; no entanto, falhou.",
+        "en": "The plan was good; nevertheless, it failed.",
+        "ar": "كانت الخطة جيدة؛ لكنها فشلت."
       }
     },
     {
@@ -90,9 +90,9 @@
       "en": "moreover",
       "ar": "علاوة على ذلك",
       "example": {
-        "pt": "Podemos falar sobre tecnologia; além disso, queremos citar exemplos do dia a dia.",
-        "en": "We can talk about technology; besides, we want to cite everyday examples.",
-        "ar": "يمكننا التحدث عن التكنولوجيا؛ وعلاوة على ذلك، نريد أن نذكر أمثلة من الحياة اليومية."
+        "pt": "Além disso, o preço é bom.",
+        "en": "Besides, the price is good.",
+        "ar": "علاوة على ذلك، السعر جيد."
       }
     },
     {
@@ -101,9 +101,9 @@
       "en": "that is",
       "ar": "أي بمعنى آخر",
       "example": {
-        "pt": "Primeiramente, vocês devem definir o tema da redação.",
-        "en": "First, you must define the essay topic.",
-        "ar": "أولًا، يجب عليكم تحديد موضوع المقالة."
+        "pt": "Ele é bilíngue, ou seja, fala dois idiomas.",
+        "en": "He's bilingual, that is, he speaks two languages.",
+        "ar": "هو ثنائي اللغة، أي أنه يتحدث لغتين."
       }
     },
     {
@@ -112,9 +112,9 @@
       "en": "that's why",
       "ar": "لهذا السبب",
       "example": {
-        "pt": "Primeiramente, vocês devem definir o tema da redação.",
-        "en": "First, you must define the essay topic.",
-        "ar": "أولًا، يجب عليكم تحديد موضوع المقالة."
+        "pt": "Ele não estudou; por isso, reprovou.",
+        "en": "He didn't study; that's why he failed.",
+        "ar": "لم يدرس؛ لهذا السبب رسب."
       }
     },
     {
@@ -123,9 +123,9 @@
       "en": "although",
       "ar": "على الرغم من أن",
       "example": {
-        "pt": "Embora esteja cansado, ele continua trabalhando.",
-        "en": "Although he is tired, he keeps working.",
-        "ar": "على الرغم من أنه متعب، فإنه يواصل العمل."
+        "pt": "Embora esteja cedo, vamos.",
+        "en": "Although it's early, let's go.",
+        "ar": "رغم أنه مبكر، هيّا."
       }
     },
     {
@@ -134,9 +134,9 @@
       "en": "despite",
       "ar": "رغم",
       "example": {
-        "pt": "Primeiramente, vocês devem definir o tema da redação.",
-        "en": "First, you must define the essay topic.",
-        "ar": "أولًا، يجب عليكم تحديد موضوع المقالة."
+        "pt": "Apesar de tudo, deu certo.",
+        "en": "Despite everything, it worked out.",
+        "ar": "رغم كل شيء، نجح الأمر."
       }
     },
     {
@@ -145,9 +145,9 @@
       "en": "while",
       "ar": "بينما",
       "example": {
-        "pt": "Enquanto eu cozinhava, ele organizava a casa.",
-        "en": "While I was cooking, he was tidying the house.",
-        "ar": "بينما كنت أطبخ، كان يرتب المنزل."
+        "pt": "Enquanto espero, leio.",
+        "en": "While I wait, I read.",
+        "ar": "بينما أنتظر، أقرأ."
       }
     },
     {
@@ -156,9 +156,9 @@
       "en": "as soon as",
       "ar": "بمجرد أن",
       "example": {
-        "pt": "Assim que cheguei, liguei para a minha mãe.",
-        "en": "As soon as I arrived, I called my mother.",
-        "ar": "بمجرد وصولي، اتصلت بأمي."
+        "pt": "Assim que puder, responda.",
+        "en": "As soon as you can, reply.",
+        "ar": "بمجرد أن تتمكن، أجب."
       }
     },
     {
@@ -167,9 +167,9 @@
       "en": "in order to",
       "ar": "لكي",
       "example": {
-        "pt": "Podemos falar sobre tecnologia; além disso, queremos citar exemplos do dia a dia.",
-        "en": "We can talk about technology; besides, we want to cite everyday examples.",
-        "ar": "يمكننا التحدث عن التكنولوجيا؛ وعلاوة على ذلك، نريد أن نذكر أمثلة من الحياة اليومية."
+        "pt": "Treinei a fim de melhorar.",
+        "en": "I trained in order to improve.",
+        "ar": "تدرّبت لكي أفضل."
       }
     },
     {
@@ -178,9 +178,9 @@
       "en": "on the contrary",
       "ar": "على العكس",
       "example": {
-        "pt": "Primeiramente, vocês devem definir o tema da redação.",
-        "en": "First, you must define the essay topic.",
-        "ar": "أولًا، يجب عليكم تحديد موضوع المقالة."
+        "pt": "Ela é séria, ao contrário do irmão.",
+        "en": "She is serious, on the contrary to her brother.",
+        "ar": "هي جادة، على عكس أخيها."
       }
     },
     {
@@ -189,9 +189,9 @@
       "en": "in short",
       "ar": "باختصار",
       "example": {
-        "pt": "Primeiramente, vocês devem definir o tema da redação.",
-        "en": "First, you must define the essay topic.",
-        "ar": "أولًا، يجب عليكم تحديد موضوع المقالة."
+        "pt": "Em resumo, foi um sucesso.",
+        "en": "In short, it was a success.",
+        "ar": "باختصار، كان نجاحًا."
       }
     },
     {
@@ -200,9 +200,9 @@
       "en": "firstly",
       "ar": "أولًا",
       "example": {
-        "pt": "Primeiramente, vocês devem definir o tema da redação.",
-        "en": "First, you must define the essay topic.",
-        "ar": "أولًا، يجب عليكم تحديد موضوع المقالة."
+        "pt": "Primeiramente, leia o enunciado.",
+        "en": "Firstly, read the instructions.",
+        "ar": "أولًا، اقرأ التعليمات."
       }
     }
   ],
@@ -896,6 +896,232 @@
         "pt": "A frase correta: 'Primeiramente, vocês devem definir o tema da redação.'",
         "en": "The correct sentence: 'Primeiramente, vocês devem definir o tema da redação.'",
         "ar": "الجملة الصحيحة: 'Primeiramente, vocês devem definir o tema da redação.'"
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'in order to'?",
+        "en": "Which word means 'in order to'?",
+        "ar": "أي كلمة تعني 'لكي'؟"
+      },
+      "options": [
+        {
+          "pt": "a fim de",
+          "en": "in order to",
+          "ar": "لكي"
+        },
+        {
+          "pt": "contudo",
+          "en": "however",
+          "ar": "ومع ذلك"
+        },
+        {
+          "pt": "no entanto",
+          "en": "however",
+          "ar": "مع ذلك"
+        }
+      ],
+      "answer": "a fim de",
+      "explanation": {
+        "pt": "'a fim de' significa 'in order to'.",
+        "en": "'a fim de' means 'in order to'.",
+        "ar": "تعني 'a fim de' 'لكي'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'as soon as'?",
+        "en": "Which word means 'as soon as'?",
+        "ar": "أي كلمة تعني 'بمجرد أن'؟"
+      },
+      "options": [
+        {
+          "pt": "embora",
+          "en": "although",
+          "ar": "على الرغم من أن"
+        },
+        {
+          "pt": "por isso",
+          "en": "that's why",
+          "ar": "لهذا السبب"
+        },
+        {
+          "pt": "porém",
+          "en": "however",
+          "ar": "لكن"
+        },
+        {
+          "pt": "assim que",
+          "en": "as soon as",
+          "ar": "بمجرد أن"
+        }
+      ],
+      "answer": "assim que",
+      "explanation": {
+        "pt": "'assim que' significa 'as soon as'.",
+        "en": "'assim que' means 'as soon as'.",
+        "ar": "تعني 'assim que' 'بمجرد أن'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"As soon as you can, reply.\"",
+        "en": "Translate into Portuguese: \"As soon as you can, reply.\"",
+        "ar": "ترجم إلى البرتغالية: \"بمجرد أن تتمكن، أجب.\""
+      },
+      "options": [],
+      "answer": "Assim que puder, responda.",
+      "explanation": {
+        "pt": "Resposta: \"Assim que puder, responda.\".",
+        "en": "Answer: \"Assim que puder, responda.\". (EN: \"As soon as you can, reply.\")",
+        "ar": "الإجابة: \"Assim que puder, responda.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"It was raining; however, we went out.\"",
+        "en": "Translate into Portuguese: \"It was raining; however, we went out.\"",
+        "ar": "ترجم إلى البرتغالية: \"كان تمطر؛ ومع ذلك خرجنا.\""
+      },
+      "options": [],
+      "answer": "Chovia; entretanto, saímos.",
+      "explanation": {
+        "pt": "Resposta: \"Chovia; entretanto, saímos.\".",
+        "en": "Answer: \"Chovia; entretanto, saímos.\". (EN: \"It was raining; however, we went out.\")",
+        "ar": "الإجابة: \"Chovia; entretanto, saímos.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Quero ir, ___ não posso.\"",
+        "en": "Complete: \"Quero ir, ___ não posso.\"",
+        "ar": "أكمل: \"Quero ir, ___ não posso.\""
+      },
+      "options": [
+        {
+          "pt": "por isso",
+          "en": "por isso",
+          "ar": "por isso"
+        },
+        {
+          "pt": "embora",
+          "en": "embora",
+          "ar": "embora"
+        },
+        {
+          "pt": "porém",
+          "en": "porém",
+          "ar": "porém"
+        }
+      ],
+      "answer": "porém",
+      "explanation": {
+        "pt": "A lacuna é 'porém'.",
+        "en": "The blank is 'porém'.",
+        "ar": "الفراغ هو 'porém'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Ele não estudou; ___, reprovou.\"",
+        "en": "Complete: \"Ele não estudou; ___, reprovou.\"",
+        "ar": "أكمل: \"Ele não estudou; ___, reprovou.\""
+      },
+      "options": [
+        {
+          "pt": "além disso",
+          "en": "além disso",
+          "ar": "além disso"
+        },
+        {
+          "pt": "ou seja",
+          "en": "ou seja",
+          "ar": "ou seja"
+        },
+        {
+          "pt": "por isso",
+          "en": "por isso",
+          "ar": "por isso"
+        }
+      ],
+      "answer": "por isso",
+      "explanation": {
+        "pt": "A lacuna é 'por isso'.",
+        "en": "The blank is 'por isso'.",
+        "ar": "الفراغ هو 'por isso'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: \"Although it's early, let's go.\"",
+        "en": "Type in Portuguese: \"Although it's early, let's go.\"",
+        "ar": "اكتب بالبرتغالية: \"رغم أنه مبكر، هيّا.\""
+      },
+      "options": [],
+      "answer": "Embora esteja cedo, vamos.",
+      "accepted": [
+        "Embora esteja cedo, vamos."
+      ],
+      "explanation": {
+        "pt": "Resposta possível: \"Embora esteja cedo, vamos.\".",
+        "en": "One possible answer: \"Embora esteja cedo, vamos.\".",
+        "ar": "إجابة ممكنة: \"Embora esteja cedo, vamos.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "melhorar.",
+          "en": "melhorar.",
+          "ar": "melhorar."
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "fim",
+          "en": "fim",
+          "ar": "fim"
+        },
+        {
+          "pt": "Treinei",
+          "en": "Treinei",
+          "ar": "Treinei"
+        }
+      ],
+      "answer": "Treinei a fim de melhorar.",
+      "gen": "v1.8",
+      "explanation": {
+        "pt": "A frase correta é: \"Treinei a fim de melhorar.\".",
+        "en": "The correct sentence is: \"Treinei a fim de melhorar.\".",
+        "ar": "الجملة الصحيحة هي: \"Treinei a fim de melhorar.\"."
       }
     }
   ],

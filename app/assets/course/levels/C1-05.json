@@ -35,9 +35,9 @@
       "en": "verbal regimen",
       "ar": "تعدية الفعل",
       "example": {
-        "pt": "Já respondi a todos os e-mails e agradeci a participação de cada um.",
-        "en": "I already replied to all the emails and thanked everyone for their participation.",
-        "ar": "لقد رددت بالفعل على جميع الرسائل وشكرت الجميع على مشاركتهم."
+        "pt": "A regência verbal confunde muitos.",
+        "en": "Verbal regimen confuses many.",
+        "ar": "تربك تعدية الفعل كثيرين."
       }
     },
     {
@@ -46,9 +46,9 @@
       "en": "the preposition",
       "ar": "حرف الجر",
       "example": {
-        "pt": "Já respondi a todos os e-mails e agradeci a participação de cada um.",
-        "en": "I already replied to all the emails and thanked everyone for their participation.",
-        "ar": "لقد رددت بالفعل على جميع الرسائل وشكرت الجميع على مشاركتهم."
+        "pt": "A preposição liga palavras.",
+        "en": "The preposition links words.",
+        "ar": "يربط حرف الجر الكلمات."
       }
     },
     {
@@ -57,9 +57,9 @@
       "en": "to depend on",
       "ar": "يعتمد على",
       "example": {
-        "pt": "O gerente insistiu em revisar o relatório antes do envio.",
-        "en": "The manager insisted on reviewing the report before sending it.",
-        "ar": "أصرّ المدير على مراجعة التقرير قبل إرساله."
+        "pt": "Tudo vai depender de nós.",
+        "en": "Everything will depend on us.",
+        "ar": "كل شيء سيعتمد علينا."
       }
     },
     {
@@ -68,9 +68,9 @@
       "en": "to need",
       "ar": "يحتاج إلى",
       "example": {
-        "pt": "O gerente insistiu em revisar o relatório antes do envio.",
-        "en": "The manager insisted on reviewing the report before sending it.",
-        "ar": "أصرّ المدير على مراجعة التقرير قبل إرساله."
+        "pt": "Você vai precisar de tempo.",
+        "en": "You will need time.",
+        "ar": "ستحتاج إلى وقت."
       }
     },
     {
@@ -79,9 +79,9 @@
       "en": "to like",
       "ar": "يحب",
       "example": {
-        "pt": "O gerente insistiu em revisar o relatório antes do envio.",
-        "en": "The manager insisted on reviewing the report before sending it.",
-        "ar": "أصرّ المدير على مراجعة التقرير قبل إرساله."
+        "pt": "Vou gostar de viajar.",
+        "en": "I'm going to like traveling.",
+        "ar": "سأحب السفر."
       }
     },
     {
@@ -90,9 +90,9 @@
       "en": "to remember",
       "ar": "يتذكر",
       "example": {
-        "pt": "O gerente insistiu em revisar o relatório antes do envio.",
-        "en": "The manager insisted on reviewing the report before sending it.",
-        "ar": "أصرّ المدير على مراجعة التقرير قبل إرساله."
+        "pt": "É bom lembrar-se de tudo.",
+        "en": "It's good to remember everything.",
+        "ar": "من الجيد أن تتذكر كل شيء."
       }
     },
     {
@@ -101,9 +101,9 @@
       "en": "to forget",
       "ar": "ينسى",
       "example": {
-        "pt": "O gerente insistiu em revisar o relatório antes do envio.",
-        "en": "The manager insisted on reviewing the report before sending it.",
-        "ar": "أصرّ المدير على مراجعة التقرير قبل إرساله."
+        "pt": "É difícil esquecer-se de você.",
+        "en": "It's hard to forget you.",
+        "ar": "من الصعب ألا أنساك."
       }
     },
     {
@@ -112,9 +112,9 @@
       "en": "to insist on",
       "ar": "يصرّ على",
       "example": {
-        "pt": "O gerente insistiu em revisar o relatório antes do envio.",
-        "en": "The manager insisted on reviewing the report before sending it.",
-        "ar": "أصرّ المدير على مراجعة التقرير قبل إرساله."
+        "pt": "Vou insistir em minha ideia.",
+        "en": "I'm going to insist on my idea.",
+        "ar": "سأصرّ على فكرتي."
       }
     },
     {
@@ -123,9 +123,9 @@
       "en": "to agree with",
       "ar": "يتفق مع",
       "example": {
-        "pt": "O gerente insistiu em revisar o relatório antes do envio.",
-        "en": "The manager insisted on reviewing the report before sending it.",
-        "ar": "أصرّ المدير على مراجعة التقرير قبل إرساله."
+        "pt": "Prefiro concordar com o grupo.",
+        "en": "I prefer to agree with the group.",
+        "ar": "أفضل أن أوافق المجموعة."
       }
     },
     {
@@ -134,9 +134,9 @@
       "en": "to obey",
       "ar": "يطيع",
       "example": {
-        "pt": "O gerente insistiu em revisar o relatório antes do envio.",
-        "en": "The manager insisted on reviewing the report before sending it.",
-        "ar": "أصرّ المدير على مراجعة التقرير قبل إرساله."
+        "pt": "Obedecer a regras salva tempo.",
+        "en": "Obeying rules saves time.",
+        "ar": "الطاعة للقواعد توفر الوقت."
       }
     },
     {
@@ -145,9 +145,9 @@
       "en": "to respond to",
       "ar": "يردّ على",
       "example": {
-        "pt": "O gerente insistiu em revisar o relatório antes do envio.",
-        "en": "The manager insisted on reviewing the report before sending it.",
-        "ar": "أصرّ المدير على مراجعة التقرير قبل إرساله."
+        "pt": "Vou responder a todos hoje.",
+        "en": "I'll reply to everyone today.",
+        "ar": "سأجيب الجميع اليوم."
       }
     },
     {
@@ -156,9 +156,9 @@
       "en": "to watch",
       "ar": "يشاهد",
       "example": {
-        "pt": "O gerente insistiu em revisar o relatório antes do envio.",
-        "en": "The manager insisted on reviewing the report before sending it.",
-        "ar": "أصرّ المدير على مراجعة التقرير قبل إرساله."
+        "pt": "Vamos assistir a uma peça?",
+        "en": "Shall we watch a play?",
+        "ar": "هل نشاهد مسرحية؟"
       }
     },
     {
@@ -167,9 +167,9 @@
       "en": "to thank for",
       "ar": "يشكر على",
       "example": {
-        "pt": "O gerente insistiu em revisar o relatório antes do envio.",
-        "en": "The manager insisted on reviewing the report before sending it.",
-        "ar": "أصرّ المدير على مراجعة التقرير قبل إرساله."
+        "pt": "Vou agradecer por tudo.",
+        "en": "I'm going to thank for everything.",
+        "ar": "سأشكر على كل شيء."
       }
     },
     {
@@ -178,9 +178,9 @@
       "en": "to pay for",
       "ar": "يدفع مقابل",
       "example": {
-        "pt": "Ele insistiu em pagar a conta.",
-        "en": "He insisted on paying the bill.",
-        "ar": "أصرّ على دفع الحساب."
+        "pt": "Obrigado por pagar por mim.",
+        "en": "Thanks for paying for me.",
+        "ar": "شكرًا لدفعك عني."
       }
     },
     {
@@ -189,9 +189,9 @@
       "en": "to live in",
       "ar": "يسكن في",
       "example": {
-        "pt": "O gerente insistiu em revisar o relatório antes do envio.",
-        "en": "The manager insisted on reviewing the report before sending it.",
-        "ar": "أصرّ المدير على مراجعة التقرير قبل إرساله."
+        "pt": "Quero morar em Lisboa.",
+        "en": "I want to live in Lisbon.",
+        "ar": "أريد أن أسكن في لشبونة."
       }
     },
     {
@@ -200,9 +200,9 @@
       "en": "to refer to",
       "ar": "يشير إلى",
       "example": {
-        "pt": "O gerente insistiu em revisar o relatório antes do envio.",
-        "en": "The manager insisted on reviewing the report before sending it.",
-        "ar": "أصرّ المدير على مراجعة التقرير قبل إرساله."
+        "pt": "O autor evita referir-se a política.",
+        "en": "The author avoids referring to politics.",
+        "ar": "يتجنب الكاتب الإشارة إلى السياسة."
       }
     }
   ],
@@ -916,6 +916,232 @@
         "pt": "A frase correta: 'O gerente insistiu em revisar o relatório antes do envio.'",
         "en": "The correct sentence: 'O gerente insistiu em revisar o relatório antes do envio.'",
         "ar": "الجملة الصحيحة: 'O gerente insistiu em revisar o relatório antes do envio.'"
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'to respond to'?",
+        "en": "Which word means 'to respond to'?",
+        "ar": "أي كلمة تعني 'يردّ على'؟"
+      },
+      "options": [
+        {
+          "pt": "esquecer-se de",
+          "en": "to forget",
+          "ar": "ينسى"
+        },
+        {
+          "pt": "insistir em",
+          "en": "to insist on",
+          "ar": "يصرّ على"
+        },
+        {
+          "pt": "gostar de",
+          "en": "to like",
+          "ar": "يحب"
+        },
+        {
+          "pt": "responder a",
+          "en": "to respond to",
+          "ar": "يردّ على"
+        }
+      ],
+      "answer": "responder a",
+      "explanation": {
+        "pt": "'responder a' significa 'to respond to'.",
+        "en": "'responder a' means 'to respond to'.",
+        "ar": "تعني 'responder a' 'يردّ على'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'to watch'?",
+        "en": "Which word means 'to watch'?",
+        "ar": "أي كلمة تعني 'يشاهد'؟"
+      },
+      "options": [
+        {
+          "pt": "insistir em",
+          "en": "to insist on",
+          "ar": "يصرّ على"
+        },
+        {
+          "pt": "assistir a",
+          "en": "to watch",
+          "ar": "يشاهد"
+        },
+        {
+          "pt": "pagar por",
+          "en": "to pay for",
+          "ar": "يدفع مقابل"
+        }
+      ],
+      "answer": "assistir a",
+      "explanation": {
+        "pt": "'assistir a' significa 'to watch'.",
+        "en": "'assistir a' means 'to watch'.",
+        "ar": "تعني 'assistir a' 'يشاهد'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"Shall we watch a play?\"",
+        "en": "Translate into Portuguese: \"Shall we watch a play?\"",
+        "ar": "ترجم إلى البرتغالية: \"هل نشاهد مسرحية؟\""
+      },
+      "options": [],
+      "answer": "Vamos assistir a uma peça?",
+      "explanation": {
+        "pt": "Resposta: \"Vamos assistir a uma peça?\".",
+        "en": "Answer: \"Vamos assistir a uma peça?\". (EN: \"Shall we watch a play?\")",
+        "ar": "الإجابة: \"Vamos assistir a uma peça?\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"I'm going to like traveling.\"",
+        "en": "Translate into Portuguese: \"I'm going to like traveling.\"",
+        "ar": "ترجم إلى البرتغالية: \"سأحب السفر.\""
+      },
+      "options": [],
+      "answer": "Vou gostar de viajar.",
+      "explanation": {
+        "pt": "Resposta: \"Vou gostar de viajar.\".",
+        "en": "Answer: \"Vou gostar de viajar.\". (EN: \"I'm going to like traveling.\")",
+        "ar": "الإجابة: \"Vou gostar de viajar.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"É difícil ___ você.\"",
+        "en": "Complete: \"É difícil ___ você.\"",
+        "ar": "أكمل: \"É difícil ___ você.\""
+      },
+      "options": [
+        {
+          "pt": "concordar com",
+          "en": "concordar com",
+          "ar": "concordar com"
+        },
+        {
+          "pt": "esquecer-se de",
+          "en": "esquecer-se de",
+          "ar": "esquecer-se de"
+        },
+        {
+          "pt": "insistir em",
+          "en": "insistir em",
+          "ar": "insistir em"
+        }
+      ],
+      "answer": "esquecer-se de",
+      "explanation": {
+        "pt": "A lacuna é 'esquecer-se de'.",
+        "en": "The blank is 'esquecer-se de'.",
+        "ar": "الفراغ هو 'esquecer-se de'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Vou ___ viajar.\"",
+        "en": "Complete: \"Vou ___ viajar.\"",
+        "ar": "أكمل: \"Vou ___ viajar.\""
+      },
+      "options": [
+        {
+          "pt": "gostar de",
+          "en": "gostar de",
+          "ar": "gostar de"
+        },
+        {
+          "pt": "concordar com",
+          "en": "concordar com",
+          "ar": "concordar com"
+        },
+        {
+          "pt": "insistir em",
+          "en": "insistir em",
+          "ar": "insistir em"
+        }
+      ],
+      "answer": "gostar de",
+      "explanation": {
+        "pt": "A lacuna é 'gostar de'.",
+        "en": "The blank is 'gostar de'.",
+        "ar": "الفراغ هو 'gostar de'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: \"The manager insisted on reviewing the report before sending it.\"",
+        "en": "Type in Portuguese: \"The manager insisted on reviewing the report before sending it.\"",
+        "ar": "اكتب بالبرتغالية: \"أصرّ المدير على مراجعة التقرير قبل إرساله.\""
+      },
+      "options": [],
+      "answer": "O gerente insistiu em revisar o relatório antes do envio.",
+      "accepted": [
+        "O gerente insistiu em revisar o relatório antes do envio."
+      ],
+      "explanation": {
+        "pt": "Resposta possível: \"O gerente insistiu em revisar o relatório antes do envio.\".",
+        "en": "One possible answer: \"O gerente insistiu em revisar o relatório antes do envio.\".",
+        "ar": "إجابة ممكنة: \"O gerente insistiu em revisar o relatório antes do envio.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "É",
+          "en": "É",
+          "ar": "É"
+        },
+        {
+          "pt": "difícil",
+          "en": "difícil",
+          "ar": "difícil"
+        },
+        {
+          "pt": "esquecer-se",
+          "en": "esquecer-se",
+          "ar": "esquecer-se"
+        },
+        {
+          "pt": "você.",
+          "en": "você.",
+          "ar": "você."
+        }
+      ],
+      "answer": "É difícil esquecer-se de você.",
+      "gen": "v1.8",
+      "explanation": {
+        "pt": "A frase correta é: \"É difícil esquecer-se de você.\".",
+        "en": "The correct sentence is: \"É difícil esquecer-se de você.\".",
+        "ar": "الجملة الصحيحة هي: \"É difícil esquecer-se de você.\"."
       }
     }
   ],

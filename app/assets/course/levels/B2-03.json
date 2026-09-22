@@ -35,9 +35,9 @@
       "en": "the passive voice",
       "ar": "المبني للمجهول",
       "example": {
-        "pt": "A nova biblioteca foi inaugurada ontem na avenida central.",
-        "en": "The new library was inaugurated yesterday on the central avenue.",
-        "ar": "تم افتتاح المكتبة الجديدة أمس في الشارع الرئيسي."
+        "pt": "A voz passiva é comum em notícias.",
+        "en": "The passive voice is common in news.",
+        "ar": "المبني للمجهول شائع في الأخبار."
       }
     },
     {
@@ -46,9 +46,9 @@
       "en": "the past participle",
       "ar": "اسم المفعول",
       "example": {
-        "pt": "O livro foi publicado em 2020.",
-        "en": "The book was published in 2020.",
-        "ar": "نُشر الكتاب في عام 2020."
+        "pt": "Aprenda o particípio dos verbos.",
+        "en": "Learn the participle of the verbs.",
+        "ar": "احفظ اسم مفعول الأفعال."
       }
     },
     {
@@ -57,9 +57,9 @@
       "en": "the agent",
       "ar": "الفاعل",
       "example": {
-        "pt": "O livro foi publicado em 2020.",
-        "en": "The book was published in 2020.",
-        "ar": "نُشر الكتاب في عام 2020."
+        "pt": "Encontre o agente da frase.",
+        "en": "Find the agent of the sentence.",
+        "ar": "اعثر على فاعل الجملة."
       }
     },
     {
@@ -68,9 +68,9 @@
       "en": "to be built",
       "ar": "يُبنى",
       "example": {
-        "pt": "A nova biblioteca foi inaugurada ontem na avenida central.",
-        "en": "The new library was inaugurated yesterday on the central avenue.",
-        "ar": "تم افتتاح المكتبة الجديدة أمس في الشارع الرئيسي."
+        "pt": "O prédio vai ser construído aqui.",
+        "en": "The building will be built here.",
+        "ar": "سيُبنى المبنى هنا."
       }
     },
     {
@@ -79,9 +79,9 @@
       "en": "to be published",
       "ar": "يُنشر",
       "example": {
-        "pt": "A nova biblioteca foi inaugurada ontem na avenida central.",
-        "en": "The new library was inaugurated yesterday on the central avenue.",
-        "ar": "تم افتتاح المكتبة الجديدة أمس في الشارع الرئيسي."
+        "pt": "O artigo vai ser publicado amanhã.",
+        "en": "The article will be published tomorrow.",
+        "ar": "سيُنشر المقال غدًا."
       }
     },
     {
@@ -90,9 +90,9 @@
       "en": "to be elected",
       "ar": "يُنتخب",
       "example": {
-        "pt": "A nova biblioteca foi inaugurada ontem na avenida central.",
-        "en": "The new library was inaugurated yesterday on the central avenue.",
-        "ar": "تم افتتاح المكتبة الجديدة أمس في الشارع الرئيسي."
+        "pt": "O candidato pode ser eleito agora.",
+        "en": "The candidate can be elected now.",
+        "ar": "يمكن انتخاب المرشح الآن."
       }
     },
     {
@@ -101,9 +101,9 @@
       "en": "to be approved",
       "ar": "يُوافق عليه",
       "example": {
-        "pt": "A nova biblioteca foi inaugurada ontem na avenida central.",
-        "en": "The new library was inaugurated yesterday on the central avenue.",
-        "ar": "تم افتتاح المكتبة الجديدة أمس في الشارع الرئيسي."
+        "pt": "O pedido vai ser aprovado.",
+        "en": "The request will be approved.",
+        "ar": "سيتم الموافقة على الطلب."
       }
     },
     {
@@ -112,9 +112,9 @@
       "en": "to be inaugurated",
       "ar": "يُفتتح",
       "example": {
-        "pt": "A nova biblioteca foi inaugurada ontem na avenida central.",
-        "en": "The new library was inaugurated yesterday on the central avenue.",
-        "ar": "تم افتتاح المكتبة الجديدة أمس في الشارع الرئيسي."
+        "pt": "O museu vai ser inaugurado em julho.",
+        "en": "The museum will be inaugurated in July.",
+        "ar": "سيُفتتح المتحف في يوليو."
       }
     },
     {
@@ -123,9 +123,9 @@
       "en": "to be destroyed",
       "ar": "يُدمَّر",
       "example": {
-        "pt": "A nova biblioteca foi inaugurada ontem na avenida central.",
-        "en": "The new library was inaugurated yesterday on the central avenue.",
-        "ar": "تم افتتاح المكتبة الجديدة أمس في الشارع الرئيسي."
+        "pt": "O prédio antigo vai ser destruído.",
+        "en": "The old building will be destroyed.",
+        "ar": "سيُهدم المبنى القديم."
       }
     },
     {
@@ -134,9 +134,9 @@
       "en": "the award",
       "ar": "الجائزة",
       "example": {
-        "pt": "O livro foi publicado em 2020.",
-        "en": "The book was published in 2020.",
-        "ar": "نُشر الكتاب في عام 2020."
+        "pt": "O prêmio foi entregue ontem.",
+        "en": "The award was given yesterday.",
+        "ar": "مُنحت الجائزة أمس."
       }
     },
     {
@@ -145,9 +145,9 @@
       "en": "the announcement",
       "ar": "الإعلان",
       "example": {
-        "pt": "O livro foi publicado em 2020.",
-        "en": "The book was published in 2020.",
-        "ar": "نُشر الكتاب في عام 2020."
+        "pt": "O anúncio surpreendeu todos.",
+        "en": "The announcement surprised everyone.",
+        "ar": "فاجأ الإعلان الجميع."
       }
     },
     {
@@ -156,9 +156,9 @@
       "en": "the result",
       "ar": "النتيجة",
       "example": {
-        "pt": "O livro foi publicado em 2020.",
-        "en": "The book was published in 2020.",
-        "ar": "نُشر الكتاب في عام 2020."
+        "pt": "O resultado saiu hoje.",
+        "en": "The result came out today.",
+        "ar": "ظهرت النتيجة اليوم."
       }
     },
     {
@@ -167,9 +167,9 @@
       "en": "the discovery",
       "ar": "الاكتشاف",
       "example": {
-        "pt": "A nova biblioteca foi inaugurada ontem na avenida central.",
-        "en": "The new library was inaugurated yesterday on the central avenue.",
-        "ar": "تم افتتاح المكتبة الجديدة أمس في الشارع الرئيسي."
+        "pt": "A descoberta mudou a ciência.",
+        "en": "The discovery changed science.",
+        "ar": "غيّر الاكتشاف العلم."
       }
     },
     {
@@ -178,9 +178,9 @@
       "en": "the decision",
       "ar": "القرار",
       "example": {
-        "pt": "A nova biblioteca foi inaugurada ontem na avenida central.",
-        "en": "The new library was inaugurated yesterday on the central avenue.",
-        "ar": "تم افتتاح المكتبة الجديدة أمس في الشارع الرئيسي."
+        "pt": "A decisão foi rápida.",
+        "en": "The decision was fast.",
+        "ar": "كان القرار سريعًا."
       }
     },
     {
@@ -189,9 +189,9 @@
       "en": "it is sold",
       "ar": "يُباع",
       "example": {
-        "pt": "Vende-se casa no centro.",
-        "en": "A house in the center is sold.",
-        "ar": "يُباع منزل في وسط المدينة."
+        "pt": "Vende-se terreno no centro.",
+        "en": "Land for sale downtown.",
+        "ar": "يُباع أرض في وسط المدينة."
       }
     },
     {
@@ -200,9 +200,9 @@
       "en": "it is rented",
       "ar": "يُستأجر",
       "example": {
-        "pt": "A nova biblioteca foi inaugurada ontem na avenida central.",
-        "en": "The new library was inaugurated yesterday on the central avenue.",
-        "ar": "تم افتتاح المكتبة الجديدة أمس في الشارع الرئيسي."
+        "pt": "Aluga-se quarto mobiliado.",
+        "en": "Room for rent, furnished.",
+        "ar": "يُستأجر غرفة مفروشة."
       }
     }
   ],
@@ -906,6 +906,227 @@
         "pt": "A frase correta: 'A nova biblioteca foi inaugurada ontem na avenida central.'",
         "en": "The correct sentence: 'A nova biblioteca foi inaugurada ontem na avenida central.'",
         "ar": "الجملة الصحيحة: 'A nova biblioteca foi inaugurada ontem na avenida central.'"
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'it is sold'?",
+        "en": "Which word means 'it is sold'?",
+        "ar": "أي كلمة تعني 'يُباع'؟"
+      },
+      "options": [
+        {
+          "pt": "a decisão",
+          "en": "the decision",
+          "ar": "القرار"
+        },
+        {
+          "pt": "o particípio",
+          "en": "the past participle",
+          "ar": "اسم المفعول"
+        },
+        {
+          "pt": "vende-se",
+          "en": "it is sold",
+          "ar": "يُباع"
+        }
+      ],
+      "answer": "vende-se",
+      "explanation": {
+        "pt": "'vende-se' significa 'it is sold'.",
+        "en": "'vende-se' means 'it is sold'.",
+        "ar": "تعني 'vende-se' 'يُباع'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the discovery'?",
+        "en": "Which word means 'the discovery'?",
+        "ar": "أي كلمة تعني 'الاكتشاف'؟"
+      },
+      "options": [
+        {
+          "pt": "ser inaugurado",
+          "en": "to be inaugurated",
+          "ar": "يُفتتح"
+        },
+        {
+          "pt": "vende-se",
+          "en": "it is sold",
+          "ar": "يُباع"
+        },
+        {
+          "pt": "a descoberta",
+          "en": "the discovery",
+          "ar": "الاكتشاف"
+        }
+      ],
+      "answer": "a descoberta",
+      "explanation": {
+        "pt": "'a descoberta' significa 'the discovery'.",
+        "en": "'a descoberta' means 'the discovery'.",
+        "ar": "تعني 'a descoberta' 'الاكتشاف'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"Yes, it was funded with public resources.\"",
+        "en": "Translate into Portuguese: \"Yes, it was funded with public resources.\"",
+        "ar": "ترجم إلى البرتغالية: \"نعم، تم تمويلها بأموال عامة.\""
+      },
+      "options": [],
+      "answer": "Sim, foi financiada com recursos públicos.",
+      "explanation": {
+        "pt": "Resposta: \"Sim, foi financiada com recursos públicos.\".",
+        "en": "Answer: \"Sim, foi financiada com recursos públicos.\". (EN: \"Yes, it was funded with public resources.\")",
+        "ar": "الإجابة: \"Sim, foi financiada com recursos públicos.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"Was it built by the state government?\"",
+        "en": "Translate into Portuguese: \"Was it built by the state government?\"",
+        "ar": "ترجم إلى البرتغالية: \"هل بناها حكومة الولاية؟\""
+      },
+      "options": [],
+      "answer": "Foi construída pelo governo estadual?",
+      "explanation": {
+        "pt": "Resposta: \"Foi construída pelo governo estadual?\".",
+        "en": "Answer: \"Foi construída pelo governo estadual?\". (EN: \"Was it built by the state government?\")",
+        "ar": "الإجابة: \"Foi construída pelo governo estadual?\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"O prédio vai ___ aqui.\"",
+        "en": "Complete: \"O prédio vai ___ aqui.\"",
+        "ar": "أكمل: \"O prédio vai ___ aqui.\""
+      },
+      "options": [
+        {
+          "pt": "o particípio",
+          "en": "o particípio",
+          "ar": "o particípio"
+        },
+        {
+          "pt": "ser inaugurado",
+          "en": "ser inaugurado",
+          "ar": "ser inaugurado"
+        },
+        {
+          "pt": "ser construído",
+          "en": "ser construído",
+          "ar": "ser construído"
+        }
+      ],
+      "answer": "ser construído",
+      "explanation": {
+        "pt": "A lacuna é 'ser construído'.",
+        "en": "The blank is 'ser construído'.",
+        "ar": "الفراغ هو 'ser construído'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"O artigo vai ___ amanhã.\"",
+        "en": "Complete: \"O artigo vai ___ amanhã.\"",
+        "ar": "أكمل: \"O artigo vai ___ amanhã.\""
+      },
+      "options": [
+        {
+          "pt": "ser destruído",
+          "en": "ser destruído",
+          "ar": "ser destruído"
+        },
+        {
+          "pt": "ser publicado",
+          "en": "ser publicado",
+          "ar": "ser publicado"
+        },
+        {
+          "pt": "ser inaugurado",
+          "en": "ser inaugurado",
+          "ar": "ser inaugurado"
+        }
+      ],
+      "answer": "ser publicado",
+      "explanation": {
+        "pt": "A lacuna é 'ser publicado'.",
+        "en": "The blank is 'ser publicado'.",
+        "ar": "الفراغ هو 'ser publicado'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: \"Land for sale downtown.\"",
+        "en": "Type in Portuguese: \"Land for sale downtown.\"",
+        "ar": "اكتب بالبرتغالية: \"يُباع أرض في وسط المدينة.\""
+      },
+      "options": [],
+      "answer": "Vende-se terreno no centro.",
+      "accepted": [
+        "Vende-se terreno no centro."
+      ],
+      "explanation": {
+        "pt": "Resposta possível: \"Vende-se terreno no centro.\".",
+        "en": "One possible answer: \"Vende-se terreno no centro.\".",
+        "ar": "إجابة ممكنة: \"Vende-se terreno no centro.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "Encontre",
+          "en": "Encontre",
+          "ar": "Encontre"
+        },
+        {
+          "pt": "agente",
+          "en": "agente",
+          "ar": "agente"
+        },
+        {
+          "pt": "da",
+          "en": "da",
+          "ar": "da"
+        },
+        {
+          "pt": "frase.",
+          "en": "frase.",
+          "ar": "frase."
+        }
+      ],
+      "answer": "Encontre o agente da frase.",
+      "gen": "v1.8",
+      "explanation": {
+        "pt": "A frase correta é: \"Encontre o agente da frase.\".",
+        "en": "The correct sentence is: \"Encontre o agente da frase.\".",
+        "ar": "الجملة الصحيحة هي: \"Encontre o agente da frase.\"."
       }
     }
   ],

@@ -35,9 +35,9 @@
       "en": "the debate",
       "ar": "النقاش",
       "example": {
-        "pt": "No entanto, os dados mostram que o transporte público melhorou.",
-        "en": "However, the data show that public transport improved.",
-        "ar": "ومع ذلك، تظهر البيانات أن وسائل النقل العام تحسنت."
+        "pt": "O debate ficou acalorado.",
+        "en": "The debate got heated.",
+        "ar": "أصبح النقاش حادًا."
       }
     },
     {
@@ -46,9 +46,9 @@
       "en": "the opinion",
       "ar": "الرأي",
       "example": {
-        "pt": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
-        "en": "In short, the congestion rate only grows in big cities.",
-        "ar": "باختصار، معدل الازدحام يزداد فقط في المدن الكبرى."
+        "pt": "A opinião pública mudou de rumo.",
+        "en": "Public opinion changed course.",
+        "ar": "غيّر الرأي العام مساره."
       }
     },
     {
@@ -57,9 +57,9 @@
       "en": "the argument",
       "ar": "الحجة",
       "example": {
-        "pt": "No entanto, os dados mostram que o transporte público melhorou.",
-        "en": "However, the data show that public transport improved.",
-        "ar": "ومع ذلك، تظهر البيانات أن وسائل النقل العام تحسنت."
+        "pt": "O argumento convenceu a todos.",
+        "en": "The argument convinced everyone.",
+        "ar": "أقنعت الحجة الجميع."
       }
     },
     {
@@ -68,9 +68,9 @@
       "en": "the thesis",
       "ar": "الأطروحة",
       "example": {
-        "pt": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
-        "en": "In short, the congestion rate only grows in big cities.",
-        "ar": "باختصار، معدل الازدحام يزداد فقط في المدن الكبرى."
+        "pt": "A tese do artigo é clara.",
+        "en": "The thesis of the article is clear.",
+        "ar": "أطروحة المقال واضحة."
       }
     },
     {
@@ -79,9 +79,9 @@
       "en": "the rebuttal",
       "ar": "الرد",
       "example": {
-        "pt": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
-        "en": "In short, the congestion rate only grows in big cities.",
-        "ar": "باختصار، معدل الازدحام يزداد فقط في المدن الكبرى."
+        "pt": "A réplica veio imediata.",
+        "en": "The rebuttal came immediately.",
+        "ar": "جاء الرد فورًا."
       }
     },
     {
@@ -90,9 +90,9 @@
       "en": "the counterpoint",
       "ar": "النقطة المقابلة",
       "example": {
-        "pt": "No entanto, os dados mostram que o transporte público melhorou.",
-        "en": "However, the data show that public transport improved.",
-        "ar": "ومع ذلك، تظهر البيانات أن وسائل النقل العام تحسنت."
+        "pt": "O contraponto enriquece o debate.",
+        "en": "The counterpoint enriches the debate.",
+        "ar": "يثري النقطة المقابلة النقاش."
       }
     },
     {
@@ -101,9 +101,9 @@
       "en": "to convince",
       "ar": "يقنع",
       "example": {
-        "pt": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
-        "en": "In short, the congestion rate only grows in big cities.",
-        "ar": "باختصار، معدل الازدحام يزداد فقط في المدن الكبرى."
+        "pt": "É preciso convencer com evidências.",
+        "en": "It's necessary to convince with evidence.",
+        "ar": "من الضروري الإقناع بالأدلة."
       }
     },
     {
@@ -112,9 +112,9 @@
       "en": "to persuade",
       "ar": "يستمال، يقنع",
       "example": {
-        "pt": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
-        "en": "In short, the congestion rate only grows in big cities.",
-        "ar": "باختصار، معدل الازدحام يزداد فقط في المدن الكبرى."
+        "pt": "Persuadir não é manipular.",
+        "en": "To persuade is not to manipulate.",
+        "ar": "الإقناع ليس تشويهًا."
       }
     },
     {
@@ -123,9 +123,9 @@
       "en": "the evidence",
       "ar": "الدليل",
       "example": {
-        "pt": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
-        "en": "In short, the congestion rate only grows in big cities.",
-        "ar": "باختصار، معدل الازدحام يزداد فقط في المدن الكبرى."
+        "pt": "A evidência é irrefutável.",
+        "en": "The evidence is irrefutable.",
+        "ar": "الدليل لا يُدحض."
       }
     },
     {
@@ -134,9 +134,9 @@
       "en": "the refutation",
       "ar": "الدحض",
       "example": {
-        "pt": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
-        "en": "In short, the congestion rate only grows in big cities.",
-        "ar": "باختصار، معدل الازدحام يزداد فقط في المدن الكبرى."
+        "pt": "A refutação foi cirúrgica.",
+        "en": "The refutation was surgical.",
+        "ar": "كان الدحض دقيقًا."
       }
     },
     {
@@ -145,9 +145,9 @@
       "en": "the consideration",
       "ar": "الموازنة",
       "example": {
-        "pt": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
-        "en": "In short, the congestion rate only grows in big cities.",
-        "ar": "باختصار، معدل الازدحام يزداد فقط في المدن الكبرى."
+        "pt": "A ponderação evita extremos.",
+        "en": "Consideration avoids extremes.",
+        "ar": "تتجنب الموازنة الغلو."
       }
     },
     {
@@ -156,9 +156,9 @@
       "en": "the consensus",
       "ar": "الإجماع",
       "example": {
-        "pt": "No entanto, os dados mostram que o transporte público melhorou.",
-        "en": "However, the data show that public transport improved.",
-        "ar": "ومع ذلك، تظهر البيانات أن وسائل النقل العام تحسنت."
+        "pt": "O consenso foi alcançado.",
+        "en": "The consensus was reached.",
+        "ar": "تُحقق الإجماع."
       }
     },
     {
@@ -167,9 +167,9 @@
       "en": "the disagreement",
       "ar": "الاختلاف",
       "example": {
-        "pt": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
-        "en": "In short, the congestion rate only grows in big cities.",
-        "ar": "باختصار، معدل الازدحام يزداد فقط في المدن الكبرى."
+        "pt": "A divergência é saudável.",
+        "en": "Disagreement is healthy.",
+        "ar": "الاختلاف صحي."
       }
     },
     {
@@ -178,9 +178,9 @@
       "en": "to defend",
       "ar": "يدافع عن",
       "example": {
-        "pt": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
-        "en": "In short, the congestion rate only grows in big cities.",
-        "ar": "باختصار، معدل الازدحام يزداد فقط في المدن الكبرى."
+        "pt": "Vou defender minha ideia.",
+        "en": "I'm going to defend my idea.",
+        "ar": "سأدافع عن فكرتي."
       }
     },
     {
@@ -189,9 +189,9 @@
       "en": "to criticize",
       "ar": "ينتقد",
       "example": {
-        "pt": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
-        "en": "In short, the congestion rate only grows in big cities.",
-        "ar": "باختصار، معدل الازدحام يزداد فقط في المدن الكبرى."
+        "pt": "Aprenda a criticar com respeito.",
+        "en": "Learn to criticize with respect.",
+        "ar": "تعلم النقد باحترام."
       }
     },
     {
@@ -200,9 +200,9 @@
       "en": "to question",
       "ar": "يشكك في، يستفهم",
       "example": {
-        "pt": "Em suma, a taxa de congestionamento só cresce nas grandes cidades.",
-        "en": "In short, the congestion rate only grows in big cities.",
-        "ar": "باختصار، معدل الازدحام يزداد فقط في المدن الكبرى."
+        "pt": "Nunca pare de questionar tudo.",
+        "en": "Never stop questioning everything.",
+        "ar": "توقّف أبدًا عن التشكيك في كل شيء."
       }
     }
   ],
@@ -932,6 +932,252 @@
         "pt": "A frase correta: 'Em suma, a taxa de congestionamento só cresce nas grandes cidades.'",
         "en": "The correct sentence: 'Em suma, a taxa de congestionamento só cresce nas grandes cidades.'",
         "ar": "الجملة الصحيحة: 'Em suma, a taxa de congestionamento só cresce nas grandes cidades.'"
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'to question'?",
+        "en": "Which word means 'to question'?",
+        "ar": "أي كلمة تعني 'يشكك في، يستفهم'؟"
+      },
+      "options": [
+        {
+          "pt": "a divergência",
+          "en": "the disagreement",
+          "ar": "الاختلاف"
+        },
+        {
+          "pt": "a ponderação",
+          "en": "the consideration",
+          "ar": "الموازنة"
+        },
+        {
+          "pt": "a opinião",
+          "en": "the opinion",
+          "ar": "الرأي"
+        },
+        {
+          "pt": "questionar",
+          "en": "to question",
+          "ar": "يشكك في، يستفهم"
+        }
+      ],
+      "answer": "questionar",
+      "explanation": {
+        "pt": "'questionar' significa 'to question'.",
+        "en": "'questionar' means 'to question'.",
+        "ar": "تعني 'questionar' 'يشكك في، يستفهم'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'to defend'?",
+        "en": "Which word means 'to defend'?",
+        "ar": "أي كلمة تعني 'يدافع عن'؟"
+      },
+      "options": [
+        {
+          "pt": "a evidência",
+          "en": "the evidence",
+          "ar": "الدليل"
+        },
+        {
+          "pt": "a refutação",
+          "en": "the refutation",
+          "ar": "الدحض"
+        },
+        {
+          "pt": "defender",
+          "en": "to defend",
+          "ar": "يدافع عن"
+        }
+      ],
+      "answer": "defender",
+      "explanation": {
+        "pt": "'defender' significa 'to defend'.",
+        "en": "'defender' means 'to defend'.",
+        "ar": "تعني 'defender' 'يدافع عن'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"The refutation was surgical.\"",
+        "en": "Translate into Portuguese: \"The refutation was surgical.\"",
+        "ar": "ترجم إلى البرتغالية: \"كان الدحض دقيقًا.\""
+      },
+      "options": [],
+      "answer": "A refutação foi cirúrgica.",
+      "explanation": {
+        "pt": "Resposta: \"A refutação foi cirúrgica.\".",
+        "en": "Answer: \"A refutação foi cirúrgica.\". (EN: \"The refutation was surgical.\")",
+        "ar": "الإجابة: \"A refutação foi cirúrgica.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"The debate got heated.\"",
+        "en": "Translate into Portuguese: \"The debate got heated.\"",
+        "ar": "ترجم إلى البرتغالية: \"أصبح النقاش حادًا.\""
+      },
+      "options": [],
+      "answer": "O debate ficou acalorado.",
+      "explanation": {
+        "pt": "Resposta: \"O debate ficou acalorado.\".",
+        "en": "Answer: \"O debate ficou acalorado.\". (EN: \"The debate got heated.\")",
+        "ar": "الإجابة: \"O debate ficou acalorado.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Aprenda a ___ com respeito.\"",
+        "en": "Complete: \"Aprenda a ___ com respeito.\"",
+        "ar": "أكمل: \"Aprenda a ___ com respeito.\""
+      },
+      "options": [
+        {
+          "pt": "criticar",
+          "en": "criticar",
+          "ar": "criticar"
+        },
+        {
+          "pt": "o debate",
+          "en": "o debate",
+          "ar": "o debate"
+        },
+        {
+          "pt": "o argumento",
+          "en": "o argumento",
+          "ar": "o argumento"
+        }
+      ],
+      "answer": "criticar",
+      "explanation": {
+        "pt": "A lacuna é 'criticar'.",
+        "en": "The blank is 'criticar'.",
+        "ar": "الفراغ هو 'criticar'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Vou ___ minha ideia.\"",
+        "en": "Complete: \"Vou ___ minha ideia.\"",
+        "ar": "أكمل: \"Vou ___ minha ideia.\""
+      },
+      "options": [
+        {
+          "pt": "defender",
+          "en": "defender",
+          "ar": "defender"
+        },
+        {
+          "pt": "persuadir",
+          "en": "persuadir",
+          "ar": "persuadir"
+        },
+        {
+          "pt": "a réplica",
+          "en": "a réplica",
+          "ar": "a réplica"
+        }
+      ],
+      "answer": "defender",
+      "explanation": {
+        "pt": "A lacuna é 'defender'.",
+        "en": "The blank is 'defender'.",
+        "ar": "الفراغ هو 'defender'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: \"Learn to criticize with respect.\"",
+        "en": "Type in Portuguese: \"Learn to criticize with respect.\"",
+        "ar": "اكتب بالبرتغالية: \"تعلم النقد باحترام.\""
+      },
+      "options": [],
+      "answer": "Aprenda a criticar com respeito.",
+      "accepted": [
+        "Aprenda a criticar com respeito."
+      ],
+      "explanation": {
+        "pt": "Resposta possível: \"Aprenda a criticar com respeito.\".",
+        "en": "One possible answer: \"Aprenda a criticar com respeito.\".",
+        "ar": "إجابة ممكنة: \"Aprenda a criticar com respeito.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "mais",
+          "en": "mais",
+          "ar": "mais"
+        },
+        {
+          "pt": "precisa.",
+          "en": "precisa.",
+          "ar": "precisa."
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "Concordo,",
+          "en": "Concordo,",
+          "ar": "Concordo,"
+        },
+        {
+          "pt": "desde",
+          "en": "desde",
+          "ar": "desde"
+        },
+        {
+          "pt": "quem",
+          "en": "quem",
+          "ar": "quem"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "subsídio",
+          "en": "subsídio",
+          "ar": "subsídio"
+        },
+        {
+          "pt": "proteja",
+          "en": "proteja",
+          "ar": "proteja"
+        }
+      ],
+      "answer": "Concordo, desde que o subsídio proteja quem mais precisa.",
+      "gen": "v1.8",
+      "explanation": {
+        "pt": "A frase correta é: \"Concordo, desde que o subsídio proteja quem mais precisa.\".",
+        "en": "The correct sentence is: \"Concordo, desde que o subsídio proteja quem mais precisa.\".",
+        "ar": "الجملة الصحيحة هي: \"Concordo, desde que o subsídio proteja quem mais precisa.\"."
       }
     }
   ],

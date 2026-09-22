@@ -35,9 +35,9 @@
       "en": "the inversion",
       "ar": "القلب، التقديم",
       "example": {
-        "pt": "Foi você que marcou a reunião de amanhã?",
-        "en": "Was it you who scheduled tomorrow's meeting?",
-        "ar": "هل أنت من حدد اجتماع الغد؟"
+        "pt": "A inversão deu ênfase à frase.",
+        "en": "The inversion emphasized the sentence.",
+        "ar": "منح التقديم الجملة توكيدًا."
       }
     },
     {
@@ -46,9 +46,9 @@
       "en": "the emphasis",
       "ar": "التوكيد",
       "example": {
-        "pt": "Foi você que marcou a reunião de amanhã?",
-        "en": "Was it you who scheduled tomorrow's meeting?",
-        "ar": "هل أنت من حدد اجتماع الغد؟"
+        "pt": "A ênfase está no verbo.",
+        "en": "The emphasis is on the verb.",
+        "ar": "التركيز على الفعل."
       }
     },
     {
@@ -57,9 +57,9 @@
       "en": "the topic",
       "ar": "الموضوع، المحور",
       "example": {
-        "pt": "O que me preocupa é o horário, não a pauta.",
-        "en": "What worries me is the time, not the agenda.",
-        "ar": "ما يقلقني هو التوقيت، لا جدول الأعمال."
+        "pt": "O tópico foi escolhido antes.",
+        "en": "The topic was chosen beforehand.",
+        "ar": "حُدد الموضوع مسبقًا."
       }
     },
     {
@@ -68,9 +68,9 @@
       "en": "the focus",
       "ar": "التركيز",
       "example": {
-        "pt": "O que me preocupa é o horário, não a pauta.",
-        "en": "What worries me is the time, not the agenda.",
-        "ar": "ما يقلقني هو التوقيت، لا جدول الأعمال."
+        "pt": "O foco da aula é a regência.",
+        "en": "The focus of the lesson is verbal regimen.",
+        "ar": "محور الحصة هو تعدية الفعل."
       }
     },
     {
@@ -79,9 +79,9 @@
       "en": "to highlight",
       "ar": "يبرز",
       "example": {
-        "pt": "Foi você que marcou a reunião de amanhã?",
-        "en": "Was it you who scheduled tomorrow's meeting?",
-        "ar": "هل أنت من حدد اجتماع الغد؟"
+        "pt": "Quero realçar esta conquista.",
+        "en": "I want to highlight this achievement.",
+        "ar": "أريد إبراز هذا الإنجاز."
       }
     },
     {
@@ -90,9 +90,9 @@
       "en": "to emphasize",
       "ar": "يسلط الضوء",
       "example": {
-        "pt": "Foi você que marcou a reunião de amanhã?",
-        "en": "Was it you who scheduled tomorrow's meeting?",
-        "ar": "هل أنت من حدد اجتماع الغد؟"
+        "pt": "É preciso destacar o positivo.",
+        "en": "It's necessary to highlight the positive.",
+        "ar": "من الضروري تسليط الضوء على الإيجابي."
       }
     },
     {
@@ -101,9 +101,9 @@
       "en": "the complement",
       "ar": "المتمم",
       "example": {
-        "pt": "O que me preocupa é o horário, não a pauta.",
-        "en": "What worries me is the time, not the agenda.",
-        "ar": "ما يقلقني هو التوقيت، لا جدول الأعمال."
+        "pt": "O complemento vem com preposição.",
+        "en": "The complement comes with a preposition.",
+        "ar": "يأتي المتمم مع حرف جر."
       }
     },
     {
@@ -112,9 +112,9 @@
       "en": "the postposed subject",
       "ar": "الفاعل المؤخر",
       "example": {
-        "pt": "O que me preocupa é o horário, não a pauta.",
-        "en": "What worries me is the time, not the agenda.",
-        "ar": "ما يقلقني هو التوقيت، لا جدول الأعمال."
+        "pt": "O sujeito posposto dá naturalidade.",
+        "en": "The postposed subject gives naturalness.",
+        "ar": "يعطي الفاعل المؤخر طبيعية."
       }
     },
     {
@@ -123,9 +123,9 @@
       "en": "the cleft sentence",
       "ar": "الجملة المقسّمة",
       "example": {
-        "pt": "Foi você que marcou a reunião de amanhã?",
-        "en": "Was it you who scheduled tomorrow's meeting?",
-        "ar": "هل أنت من حدد اجتماع الغد؟"
+        "pt": "A oração clivada usa 'é que'.",
+        "en": "The cleft sentence uses 'é que'.",
+        "ar": "تستخدم الجملة المقسّمة \"é que\"."
       }
     },
     {
@@ -134,9 +134,9 @@
       "en": "the adverb",
       "ar": "الظرف",
       "example": {
-        "pt": "O que me preocupa é o horário, não a pauta.",
-        "en": "What worries me is the time, not the agenda.",
-        "ar": "ما يقلقني هو التوقيت، لا جدول الأعمال."
+        "pt": "O advérbio modifica o verbo.",
+        "en": "The adverb modifies the verb.",
+        "ar": "يعدّل الظرف الفعل."
       }
     },
     {
@@ -145,9 +145,9 @@
       "en": "the preposed adjective",
       "ar": "الصفة المقدّمة",
       "example": {
-        "pt": "O que me preocupa é o horário, não a pauta.",
-        "en": "What worries me is the time, not the agenda.",
-        "ar": "ما يقلقني هو التوقيت، لا جدول الأعمال."
+        "pt": "O adjetivo anteposto dá vivacidade.",
+        "en": "The preposed adjective gives liveliness.",
+        "ar": "يعطي الصفة المقدّمة حيوية."
       }
     },
     {
@@ -156,9 +156,9 @@
       "en": "the structure",
       "ar": "البنية",
       "example": {
-        "pt": "Foi você que marcou a reunião de amanhã?",
-        "en": "Was it you who scheduled tomorrow's meeting?",
-        "ar": "هل أنت من حدد اجتماع الغد؟"
+        "pt": "A estrutura da frase importa.",
+        "en": "The structure of the sentence matters.",
+        "ar": "تهم بنية الجملة."
       }
     },
     {
@@ -167,9 +167,9 @@
       "en": "emphatically",
       "ar": "بتوكيد",
       "example": {
-        "pt": "Foi você que marcou a reunião de amanhã?",
-        "en": "Was it you who scheduled tomorrow's meeting?",
-        "ar": "هل أنت من حدد اجتماع الغد؟"
+        "pt": "Repetiu enfaticamente a frase.",
+        "en": "He repeated the sentence emphatically.",
+        "ar": "كرر الجملة بتوكيد."
       }
     },
     {
@@ -178,9 +178,9 @@
       "en": "to emphasize",
       "ar": "يؤكد، يشدد",
       "example": {
-        "pt": "Foi você que marcou a reunião de amanhã?",
-        "en": "Was it you who scheduled tomorrow's meeting?",
-        "ar": "هل أنت من حدد اجتماع الغد؟"
+        "pt": "É preciso enfatizar o essencial.",
+        "en": "It's necessary to emphasize the essential.",
+        "ar": "من الضروري التأكيد على الجوهري."
       }
     },
     {
@@ -189,9 +189,9 @@
       "en": "the emphasis, relief",
       "ar": "الإبراز",
       "example": {
-        "pt": "O que me preocupa é o horário, não a pauta.",
-        "en": "What worries me is the time, not the agenda.",
-        "ar": "ما يقلقني هو التوقيت، لا جدول الأعمال."
+        "pt": "O realce da palavra é sutil.",
+        "en": "The word's emphasis is subtle.",
+        "ar": "إبراز الكلمة دقيق."
       }
     },
     {
@@ -200,9 +200,9 @@
       "en": "to put in relief",
       "ar": "يبرز، يسلط الضوء",
       "example": {
-        "pt": "Foi você que marcou a reunião de amanhã?",
-        "en": "Was it you who scheduled tomorrow's meeting?",
-        "ar": "هل أنت من حدد اجتماع الغد؟"
+        "pt": "Precisamos colocar em relevo os fatos.",
+        "en": "We need to put the facts in relief.",
+        "ar": "علينا إبراز الحقائق."
       }
     }
   ],
@@ -896,6 +896,227 @@
         "pt": "A frase correta: 'Foi você que marcou a reunião de amanhã?'",
         "en": "The correct sentence: 'Foi você que marcou a reunião de amanhã?'",
         "ar": "الجملة الصحيحة: 'Foi você que marcou a reunião de amanhã?'"
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the adverb'?",
+        "en": "Which word means 'the adverb'?",
+        "ar": "أي كلمة تعني 'الظرف'؟"
+      },
+      "options": [
+        {
+          "pt": "o advérbio",
+          "en": "the adverb",
+          "ar": "الظرف"
+        },
+        {
+          "pt": "o adjetivo anteposto",
+          "en": "the preposed adjective",
+          "ar": "الصفة المقدّمة"
+        },
+        {
+          "pt": "o realce",
+          "en": "the emphasis, relief",
+          "ar": "الإبراز"
+        }
+      ],
+      "answer": "o advérbio",
+      "explanation": {
+        "pt": "'o advérbio' significa 'the adverb'.",
+        "en": "'o advérbio' means 'the adverb'.",
+        "ar": "تعني 'o advérbio' 'الظرف'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the complement'?",
+        "en": "Which word means 'the complement'?",
+        "ar": "أي كلمة تعني 'المتمم'؟"
+      },
+      "options": [
+        {
+          "pt": "o complemento",
+          "en": "the complement",
+          "ar": "المتمم"
+        },
+        {
+          "pt": "enfaticamente",
+          "en": "emphatically",
+          "ar": "بتوكيد"
+        },
+        {
+          "pt": "o tópico",
+          "en": "the topic",
+          "ar": "الموضوع، المحور"
+        }
+      ],
+      "answer": "o complemento",
+      "explanation": {
+        "pt": "'o complemento' significa 'the complement'.",
+        "en": "'o complemento' means 'the complement'.",
+        "ar": "تعني 'o complemento' 'المتمم'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"Perfect. That is exactly what I expected to hear.\"",
+        "en": "Translate into Portuguese: \"Perfect. That is exactly what I expected to hear.\"",
+        "ar": "ترجم إلى البرتغالية: \"ممتاز. هذا بالضبط ما كنت أتوقع سماعه.\""
+      },
+      "options": [],
+      "answer": "Perfeito. É isso mesmo que eu esperava ouvir.",
+      "explanation": {
+        "pt": "Resposta: \"Perfeito. É isso mesmo que eu esperava ouvir.\".",
+        "en": "Answer: \"Perfeito. É isso mesmo que eu esperava ouvir.\". (EN: \"Perfect. That is exactly what I expected to hear.\")",
+        "ar": "الإجابة: \"Perfeito. É isso mesmo que eu esperava ouvir.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"The postposed subject gives naturalness.\"",
+        "en": "Translate into Portuguese: \"The postposed subject gives naturalness.\"",
+        "ar": "ترجم إلى البرتغالية: \"يعطي الفاعل المؤخر طبيعية.\""
+      },
+      "options": [],
+      "answer": "O sujeito posposto dá naturalidade.",
+      "explanation": {
+        "pt": "Resposta: \"O sujeito posposto dá naturalidade.\".",
+        "en": "Answer: \"O sujeito posposto dá naturalidade.\". (EN: \"The postposed subject gives naturalness.\")",
+        "ar": "الإجابة: \"O sujeito posposto dá naturalidade.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"É preciso ___ o positivo.\"",
+        "en": "Complete: \"É preciso ___ o positivo.\"",
+        "ar": "أكمل: \"É preciso ___ o positivo.\""
+      },
+      "options": [
+        {
+          "pt": "o foco",
+          "en": "o foco",
+          "ar": "o foco"
+        },
+        {
+          "pt": "realçar",
+          "en": "realçar",
+          "ar": "realçar"
+        },
+        {
+          "pt": "destacar",
+          "en": "destacar",
+          "ar": "destacar"
+        }
+      ],
+      "answer": "destacar",
+      "explanation": {
+        "pt": "A lacuna é 'destacar'.",
+        "en": "The blank is 'destacar'.",
+        "ar": "الفراغ هو 'destacar'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Quero ___ esta conquista.\"",
+        "en": "Complete: \"Quero ___ esta conquista.\"",
+        "ar": "أكمل: \"Quero ___ esta conquista.\""
+      },
+      "options": [
+        {
+          "pt": "realçar",
+          "en": "realçar",
+          "ar": "realçar"
+        },
+        {
+          "pt": "o complemento",
+          "en": "o complemento",
+          "ar": "o complemento"
+        },
+        {
+          "pt": "a ênfase",
+          "en": "a ênfase",
+          "ar": "a ênfase"
+        }
+      ],
+      "answer": "realçar",
+      "explanation": {
+        "pt": "A lacuna é 'realçar'.",
+        "en": "The blank is 'realçar'.",
+        "ar": "الفراغ هو 'realçar'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: \"The structure of the sentence matters.\"",
+        "en": "Type in Portuguese: \"The structure of the sentence matters.\"",
+        "ar": "اكتب بالبرتغالية: \"تهم بنية الجملة.\""
+      },
+      "options": [],
+      "answer": "A estrutura da frase importa.",
+      "accepted": [
+        "A estrutura da frase importa."
+      ],
+      "explanation": {
+        "pt": "Resposta possível: \"A estrutura da frase importa.\".",
+        "en": "One possible answer: \"A estrutura da frase importa.\".",
+        "ar": "إجابة ممكنة: \"A estrutura da frase importa.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "essencial.",
+          "en": "essencial.",
+          "ar": "essencial."
+        },
+        {
+          "pt": "preciso",
+          "en": "preciso",
+          "ar": "preciso"
+        },
+        {
+          "pt": "enfatizar",
+          "en": "enfatizar",
+          "ar": "enfatizar"
+        },
+        {
+          "pt": "É",
+          "en": "É",
+          "ar": "É"
+        }
+      ],
+      "answer": "É preciso enfatizar o essencial.",
+      "gen": "v1.8",
+      "explanation": {
+        "pt": "A frase correta é: \"É preciso enfatizar o essencial.\".",
+        "en": "The correct sentence is: \"É preciso enfatizar o essencial.\".",
+        "ar": "الجملة الصحيحة هي: \"É preciso enfatizar o essencial.\"."
       }
     }
   ],

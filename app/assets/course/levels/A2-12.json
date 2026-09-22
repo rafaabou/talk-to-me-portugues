@@ -35,9 +35,9 @@
       "en": "yesterday",
       "ar": "أمس",
       "example": {
-        "pt": "O que você fez ontem?",
-        "en": "What did you do yesterday?",
-        "ar": "ماذا فعلت بالأمس؟"
+        "pt": "Choveu muito ontem.",
+        "en": "It rained a lot yesterday.",
+        "ar": "أمطرت كثيرًا أمس."
       }
     },
     {
@@ -46,9 +46,9 @@
       "en": "the money",
       "ar": "المال",
       "example": {
-        "pt": "O que você fez ontem?",
-        "en": "What did you do yesterday?",
-        "ar": "ماذا فعلت بالأمس؟"
+        "pt": "Guardei o dinheiro em casa.",
+        "en": "I kept the money at home.",
+        "ar": "حفظت المال في المنزل."
       }
     },
     {
@@ -57,9 +57,9 @@
       "en": "the store",
       "ar": "المتجر",
       "example": {
-        "pt": "Vou visitar a praia e comprar um presente para minha mãe.",
-        "en": "I am going to visit the beach and buy a gift for my mother.",
-        "ar": "سأزور الشاطئ وأشتري هدية لأمي."
+        "pt": "A loja do bairro é pequena.",
+        "en": "The neighborhood store is small.",
+        "ar": "متجر الحي صغير."
       }
     },
     {
@@ -68,9 +68,9 @@
       "en": "the price",
       "ar": "السعر",
       "example": {
-        "pt": "O que você fez ontem?",
-        "en": "What did you do yesterday?",
-        "ar": "ماذا فعلت بالأمس؟"
+        "pt": "O preço está bom agora.",
+        "en": "The price is good now.",
+        "ar": "السعر جيد الآن."
       }
     },
     {
@@ -79,9 +79,9 @@
       "en": "the trip",
       "ar": "الرحلة",
       "example": {
-        "pt": "Vou visitar a praia e comprar um presente para minha mãe.",
-        "en": "I am going to visit the beach and buy a gift for my mother.",
-        "ar": "سأزور الشاطئ وأشتري هدية لأمي."
+        "pt": "A viagem começou cedo.",
+        "en": "The trip started early.",
+        "ar": "بدأت الرحلة مبكرًا."
       }
     },
     {
@@ -90,9 +90,9 @@
       "en": "the beach",
       "ar": "الشاطئ",
       "example": {
-        "pt": "Vou visitar a praia e comprar um presente para minha mãe.",
-        "en": "I am going to visit the beach and buy a gift for my mother.",
-        "ar": "سأزور الشاطئ وأشتري هدية لأمي."
+        "pt": "A praia é bonita aqui.",
+        "en": "The beach is beautiful here.",
+        "ar": "الشاطئ جميل هنا."
       }
     },
     {
@@ -101,9 +101,9 @@
       "en": "more",
       "ar": "أكثر",
       "example": {
-        "pt": "Fale mais devagar, por favor.",
-        "en": "Speak more slowly, please.",
-        "ar": "تكلّم ببطء أكثر، من فضلك."
+        "pt": "Eu preciso mais tempo.",
+        "en": "I need more time.",
+        "ar": "أحتاج مزيدًا من الوقت."
       }
     },
     {
@@ -112,9 +112,9 @@
       "en": "the summer",
       "ar": "الصيف",
       "example": {
-        "pt": "O que você fez ontem?",
-        "en": "What did you do yesterday?",
-        "ar": "ماذا فعلت بالأمس؟"
+        "pt": "No verão eu viajo.",
+        "en": "In summer I travel.",
+        "ar": "أسافر في الصيف."
       }
     },
     {
@@ -123,9 +123,9 @@
       "en": "tomorrow",
       "ar": "غدًا",
       "example": {
-        "pt": "Que lembrança bonita! E o que você vai fazer amanhã?",
-        "en": "What a nice memory! And what are you going to do tomorrow?",
-        "ar": "يا لها من ذكرى جميلة! وماذا ستفعلين غدًا؟"
+        "pt": "Amanhã é feriado.",
+        "en": "Tomorrow is a holiday.",
+        "ar": "غدًا عطلة."
       }
     },
     {
@@ -134,9 +134,9 @@
       "en": "the doctor",
       "ar": "الطبيب",
       "example": {
-        "pt": "O que você fez ontem?",
-        "en": "What did you do yesterday?",
-        "ar": "ماذا فعلت بالأمس؟"
+        "pt": "O médico atende de manhã.",
+        "en": "The doctor sees patients in the morning.",
+        "ar": "يستقبل الطبيب في الصباح."
       }
     },
     {
@@ -145,9 +145,9 @@
       "en": "the cell phone",
       "ar": "الهاتف المحمول",
       "example": {
-        "pt": "O que você fez ontem?",
-        "en": "What did you do yesterday?",
-        "ar": "ماذا فعلت بالأمس؟"
+        "pt": "O celular dela é novo.",
+        "en": "Her cell phone is new.",
+        "ar": "هاتفها المحمول جديد."
       }
     },
     {
@@ -156,9 +156,9 @@
       "en": "to call",
       "ar": "يتصل",
       "example": {
-        "pt": "Ótimo! Não esqueça de me ligar quando voltar.",
-        "en": "Great! Do not forget to call me when you come back.",
-        "ar": "رائع! لا تنسي الاتصال بي عندما تعودين."
+        "pt": "Ela vai ligar depois.",
+        "en": "She will call later.",
+        "ar": "ستتصل لاحقًا."
       }
     },
     {
@@ -167,9 +167,9 @@
       "en": "when",
       "ar": "عندما",
       "example": {
-        "pt": "Quando eu era criança, eu adorava ir ao mercado com meu pai.",
-        "en": "When I was a child, I loved going to the market with my father.",
-        "ar": "عندما كنت طفلة، كنت أحب الذهاب إلى السوق مع أبي."
+        "pt": "Eu vou ligar quando puder.",
+        "en": "I will call when I can.",
+        "ar": "سأتصل عندما أتمكن."
       }
     },
     {
@@ -178,9 +178,9 @@
       "en": "the childhood",
       "ar": "الطفولة",
       "example": {
-        "pt": "Vou visitar a praia e comprar um presente para minha mãe.",
-        "en": "I am going to visit the beach and buy a gift for my mother.",
-        "ar": "سأزور الشاطئ وأشتري هدية لأمي."
+        "pt": "Adoro fotos da minha infância.",
+        "en": "I love photos from my childhood.",
+        "ar": "أحب صور طفولتي."
       }
     },
     {
@@ -189,9 +189,9 @@
       "en": "the past",
       "ar": "الماضي",
       "example": {
-        "pt": "O que você fez ontem?",
-        "en": "What did you do yesterday?",
-        "ar": "ماذا فعلت بالأمس؟"
+        "pt": "O passado não volta.",
+        "en": "The past doesn't come back.",
+        "ar": "الماضي لا يعود."
       }
     },
     {
@@ -200,9 +200,9 @@
       "en": "the future",
       "ar": "المستقبل",
       "example": {
-        "pt": "O que você fez ontem?",
-        "en": "What did you do yesterday?",
-        "ar": "ماذا فعلت بالأمس؟"
+        "pt": "O futuro é incerto.",
+        "en": "The future is uncertain.",
+        "ar": "المستقبل غير مؤكد."
       }
     },
     {
@@ -211,9 +211,9 @@
       "en": "longing / nostalgia",
       "ar": "الحنين",
       "example": {
-        "pt": "Vou visitar a praia e comprar um presente para minha mãe.",
-        "en": "I am going to visit the beach and buy a gift for my mother.",
-        "ar": "سأزور الشاطئ وأشتري هدية لأمي."
+        "pt": "A saudade é forte.",
+        "en": "The longing is strong.",
+        "ar": "الحنين شديد."
       }
     },
     {
@@ -222,9 +222,9 @@
       "en": "therefore / that is why",
       "ar": "لذلك",
       "example": {
-        "pt": "Fale mais devagar, por favor.",
-        "en": "Speak more slowly, please.",
-        "ar": "تكلّم ببطء أكثر، من فضلك."
+        "pt": "Estava cansado, por isso dormi.",
+        "en": "I was tired, that's why I slept.",
+        "ar": "كنت متعبًا، لذلك نمت."
       }
     }
   ],
@@ -884,6 +884,232 @@
         "pt": "A frase correta: 'O que você fez ontem?'",
         "en": "The correct sentence: 'O que você fez ontem?'",
         "ar": "الجملة الصحيحة: 'O que você fez ontem?'"
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'longing / nostalgia'?",
+        "en": "Which word means 'longing / nostalgia'?",
+        "ar": "أي كلمة تعني 'الحنين'؟"
+      },
+      "options": [
+        {
+          "pt": "a praia",
+          "en": "the beach",
+          "ar": "الشاطئ"
+        },
+        {
+          "pt": "a infância",
+          "en": "the childhood",
+          "ar": "الطفولة"
+        },
+        {
+          "pt": "ontem",
+          "en": "yesterday",
+          "ar": "أمس"
+        },
+        {
+          "pt": "a saudade",
+          "en": "longing / nostalgia",
+          "ar": "الحنين"
+        }
+      ],
+      "answer": "a saudade",
+      "explanation": {
+        "pt": "'a saudade' significa 'longing / nostalgia'.",
+        "en": "'a saudade' means 'longing / nostalgia'.",
+        "ar": "تعني 'a saudade' 'الحنين'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'therefore / that is why'?",
+        "en": "Which word means 'therefore / that is why'?",
+        "ar": "أي كلمة تعني 'لذلك'؟"
+      },
+      "options": [
+        {
+          "pt": "o passado",
+          "en": "the past",
+          "ar": "الماضي"
+        },
+        {
+          "pt": "o celular",
+          "en": "the cell phone",
+          "ar": "الهاتف المحمول"
+        },
+        {
+          "pt": "por isso",
+          "en": "therefore / that is why",
+          "ar": "لذلك"
+        }
+      ],
+      "answer": "por isso",
+      "explanation": {
+        "pt": "'por isso' significa 'therefore / that is why'.",
+        "en": "'por isso' means 'therefore / that is why'.",
+        "ar": "تعني 'por isso' 'لذلك'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"I worked in the morning and went to the market in the afternoon.\"",
+        "en": "Translate into Portuguese: \"I worked in the morning and went to the market in the afternoon.\"",
+        "ar": "ترجم إلى البرتغالية: \"عملت صباحًا وذهبت إلى السوق في الظهيرة.\""
+      },
+      "options": [],
+      "answer": "Eu trabalhei de manhã e à tarde fui ao mercado.",
+      "explanation": {
+        "pt": "Resposta: \"Eu trabalhei de manhã e à tarde fui ao mercado.\".",
+        "en": "Answer: \"Eu trabalhei de manhã e à tarde fui ao mercado.\". (EN: \"I worked in the morning and went to the market in the afternoon.\")",
+        "ar": "الإجابة: \"Eu trabalhei de manhã e à tarde fui ao mercado.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"What did you do yesterday?\"",
+        "en": "Translate into Portuguese: \"What did you do yesterday?\"",
+        "ar": "ترجم إلى البرتغالية: \"ماذا فعلت بالأمس؟\""
+      },
+      "options": [],
+      "answer": "O que você fez ontem?",
+      "explanation": {
+        "pt": "Resposta: \"O que você fez ontem?\".",
+        "en": "Answer: \"O que você fez ontem?\". (EN: \"What did you do yesterday?\")",
+        "ar": "الإجابة: \"O que você fez ontem?\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Estava cansado, ___ dormi.\"",
+        "en": "Complete: \"Estava cansado, ___ dormi.\"",
+        "ar": "أكمل: \"Estava cansado, ___ dormi.\""
+      },
+      "options": [
+        {
+          "pt": "mais",
+          "en": "mais",
+          "ar": "mais"
+        },
+        {
+          "pt": "o verão",
+          "en": "o verão",
+          "ar": "o verão"
+        },
+        {
+          "pt": "por isso",
+          "en": "por isso",
+          "ar": "por isso"
+        }
+      ],
+      "answer": "por isso",
+      "explanation": {
+        "pt": "A lacuna é 'por isso'.",
+        "en": "The blank is 'por isso'.",
+        "ar": "الفراغ هو 'por isso'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Ela vai ___ depois.\"",
+        "en": "Complete: \"Ela vai ___ depois.\"",
+        "ar": "أكمل: \"Ela vai ___ depois.\""
+      },
+      "options": [
+        {
+          "pt": "ligar",
+          "en": "ligar",
+          "ar": "ligar"
+        },
+        {
+          "pt": "o verão",
+          "en": "o verão",
+          "ar": "o verão"
+        },
+        {
+          "pt": "a praia",
+          "en": "a praia",
+          "ar": "a praia"
+        }
+      ],
+      "answer": "ligar",
+      "explanation": {
+        "pt": "A lacuna é 'ligar'.",
+        "en": "The blank is 'ligar'.",
+        "ar": "الفراغ هو 'ligar'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: \"Her cell phone is new.\"",
+        "en": "Type in Portuguese: \"Her cell phone is new.\"",
+        "ar": "اكتب بالبرتغالية: \"هاتفها المحمول جديد.\""
+      },
+      "options": [],
+      "answer": "O celular dela é novo.",
+      "accepted": [
+        "O celular dela é novo."
+      ],
+      "explanation": {
+        "pt": "Resposta possível: \"O celular dela é novo.\".",
+        "en": "One possible answer: \"O celular dela é novo.\".",
+        "ar": "إجابة ممكنة: \"O celular dela é novo.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "em",
+          "en": "em",
+          "ar": "em"
+        },
+        {
+          "pt": "dinheiro",
+          "en": "dinheiro",
+          "ar": "dinheiro"
+        },
+        {
+          "pt": "casa.",
+          "en": "casa.",
+          "ar": "casa."
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "Guardei",
+          "en": "Guardei",
+          "ar": "Guardei"
+        }
+      ],
+      "answer": "Guardei o dinheiro em casa.",
+      "gen": "v1.8",
+      "explanation": {
+        "pt": "A frase correta é: \"Guardei o dinheiro em casa.\".",
+        "en": "The correct sentence is: \"Guardei o dinheiro em casa.\".",
+        "ar": "الجملة الصحيحة هي: \"Guardei o dinheiro em casa.\"."
       }
     }
   ],

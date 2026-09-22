@@ -35,9 +35,9 @@
       "en": "speak (you)",
       "ar": "تكلّم",
       "example": {
-        "pt": "Fale mais devagar, por favor.",
-        "en": "Speak more slowly, please.",
-        "ar": "تكلّم ببطء أكثر، من فضلك."
+        "pt": "Fale comigo depois.",
+        "en": "Talk to me later.",
+        "ar": "تحدث معي لاحقًا."
       }
     },
     {
@@ -46,9 +46,9 @@
       "en": "wait (you)",
       "ar": "انتظر",
       "example": {
-        "pt": "Não feche a porta do forno. Espere quinze minutos.",
-        "en": "Do not close the oven door. Wait fifteen minutes.",
-        "ar": "لا تغلق باب الفرن. انتظر خمس عشرة دقيقة."
+        "pt": "Espere um minuto, por favor.",
+        "en": "Wait a minute, please.",
+        "ar": "انتظر دقيقة، من فضلك."
       }
     },
     {
@@ -57,9 +57,9 @@
       "en": "listen (you)",
       "ar": "استمع",
       "example": {
-        "pt": "Filho, me ajuda a preparar o jantar.",
-        "en": "Son, help me prepare dinner.",
-        "ar": "يا بني، ساعدني في تحضير العشاء."
+        "pt": "Escute a professora.",
+        "en": "Listen to the teacher.",
+        "ar": "استمع إلى المعلمة."
       }
     },
     {
@@ -68,9 +68,9 @@
       "en": "open (you)",
       "ar": "افتح",
       "example": {
-        "pt": "Abra a janela, está quente aqui.",
-        "en": "Open the window, it is hot here.",
-        "ar": "افتح النافذة، الجو حار هنا."
+        "pt": "Abra a porta, por favor.",
+        "en": "Open the door, please.",
+        "ar": "افتح الباب، من فضلك."
       }
     },
     {
@@ -79,9 +79,9 @@
       "en": "close (you)",
       "ar": "أغلق",
       "example": {
-        "pt": "Não feche a porta do forno. Espere quinze minutos.",
-        "en": "Do not close the oven door. Wait fifteen minutes.",
-        "ar": "لا تغلق باب الفرن. انتظر خمس عشرة دقيقة."
+        "pt": "Feche a janela, está frio.",
+        "en": "Close the window, it's cold.",
+        "ar": "أغلق النافذة، الجو بارد."
       }
     },
     {
@@ -90,9 +90,9 @@
       "en": "look (you)",
       "ar": "انظر",
       "example": {
-        "pt": "Filho, me ajuda a preparar o jantar.",
-        "en": "Son, help me prepare dinner.",
-        "ar": "يا بني، ساعدني في تحضير العشاء."
+        "pt": "Olhe para mim.",
+        "en": "Look at me.",
+        "ar": "انظر إليّ."
       }
     },
     {
@@ -101,9 +101,9 @@
       "en": "come (you)",
       "ar": "تعال",
       "example": {
-        "pt": "Venha cá agora!",
-        "en": "Come here now!",
-        "ar": "تعال إلى هنا الآن!"
+        "pt": "Venha comigo.",
+        "en": "Come with me.",
+        "ar": "تعال معي."
       }
     },
     {
@@ -112,9 +112,9 @@
       "en": "go (you)",
       "ar": "اذهب",
       "example": {
-        "pt": "Filho, me ajuda a preparar o jantar.",
-        "en": "Son, help me prepare dinner.",
-        "ar": "يا بني، ساعدني في تحضير العشاء."
+        "pt": "Vá até a porta.",
+        "en": "Go to the door.",
+        "ar": "اذهب إلى الباب."
       }
     },
     {
@@ -123,9 +123,9 @@
       "en": "do / make (you)",
       "ar": "افعل",
       "example": {
-        "pt": "Filho, me ajuda a preparar o jantar.",
-        "en": "Son, help me prepare dinner.",
-        "ar": "يا بني، ساعدني في تحضير العشاء."
+        "pt": "Faça uma pausa agora.",
+        "en": "Take a break now.",
+        "ar": "خذ استراحة الآن."
       }
     },
     {
@@ -134,9 +134,9 @@
       "en": "say (you)",
       "ar": "قل",
       "example": {
-        "pt": "Filho, me ajuda a preparar o jantar.",
-        "en": "Son, help me prepare dinner.",
-        "ar": "يا بني، ساعدني في تحضير العشاء."
+        "pt": "Diga seu nome, por favor.",
+        "en": "Say your name, please.",
+        "ar": "قل اسمك، من فضلك."
       }
     },
     {
@@ -145,9 +145,9 @@
       "en": "give (you)",
       "ar": "أعطِ",
       "example": {
-        "pt": "Filho, me ajuda a preparar o jantar.",
-        "en": "Son, help me prepare dinner.",
-        "ar": "يا بني، ساعدني في تحضير العشاء."
+        "pt": "Dê atenção à aula.",
+        "en": "Pay attention to the class.",
+        "ar": "انتبه للحصة."
       }
     },
     {
@@ -156,9 +156,9 @@
       "en": "stay (you)",
       "ar": "ابقَ",
       "example": {
-        "pt": "Filho, me ajuda a preparar o jantar.",
-        "en": "Son, help me prepare dinner.",
-        "ar": "يا بني، ساعدني في تحضير العشاء."
+        "pt": "Fique aqui um momento.",
+        "en": "Stay here a moment.",
+        "ar": "ابقَ هنا للحظة."
       }
     },
     {
@@ -167,9 +167,9 @@
       "en": "sit down",
       "ar": "اجلس",
       "example": {
-        "pt": "Filho, me ajuda a preparar o jantar.",
-        "en": "Son, help me prepare dinner.",
-        "ar": "يا بني، ساعدني في تحضير العشاء."
+        "pt": "Sente-se, por favor.",
+        "en": "Sit down, please.",
+        "ar": "اجلس، من فضلك."
       }
     },
     {
@@ -178,9 +178,9 @@
       "en": "quickly",
       "ar": "بسرعة",
       "example": {
-        "pt": "Filho, me ajuda a preparar o jantar.",
-        "en": "Son, help me prepare dinner.",
-        "ar": "يا بني، ساعدني في تحضير العشاء."
+        "pt": "Ele fala depressa demais.",
+        "en": "He speaks too fast.",
+        "ar": "يتحدث بسرعة مفرطة."
       }
     },
     {
@@ -189,9 +189,9 @@
       "en": "slowly",
       "ar": "ببطء",
       "example": {
-        "pt": "Fale mais devagar, por favor.",
-        "en": "Speak more slowly, please.",
-        "ar": "تكلّم ببطء أكثر، من فضلك."
+        "pt": "Ande devagar na escada.",
+        "en": "Walk slowly on the stairs.",
+        "ar": "امشِ ببطء على الدرج."
       }
     },
     {
@@ -200,9 +200,9 @@
       "en": "careful",
       "ar": "احذر",
       "example": {
-        "pt": "Filho, me ajuda a preparar o jantar.",
-        "en": "Son, help me prepare dinner.",
-        "ar": "يا بني، ساعدني في تحضير العشاء."
+        "pt": "Cuidado com o carro!",
+        "en": "Watch out for the car!",
+        "ar": "احذر السيارة!"
       }
     },
     {
@@ -211,9 +211,9 @@
       "en": "the silence",
       "ar": "الصمت",
       "example": {
-        "pt": "Filho, me ajuda a preparar o jantar.",
-        "en": "Son, help me prepare dinner.",
-        "ar": "يا بني، ساعدني في تحضير العشاء."
+        "pt": "O silêncio era total.",
+        "en": "The silence was total.",
+        "ar": "كان الصمت تامًا."
       }
     },
     {
@@ -222,9 +222,9 @@
       "en": "no / don't",
       "ar": "لا",
       "example": {
-        "pt": "Não feche a porta do forno. Espere quinze minutos.",
-        "en": "Do not close the oven door. Wait fifteen minutes.",
-        "ar": "لا تغلق باب الفرن. انتظر خمس عشرة دقيقة."
+        "pt": "Não fume aqui.",
+        "en": "Don't smoke here.",
+        "ar": "لا تدخن هنا."
       }
     }
   ],
@@ -904,6 +904,232 @@
         "pt": "A frase correta: 'Filho, me ajuda a preparar o jantar.'",
         "en": "The correct sentence: 'Filho, me ajuda a preparar o jantar.'",
         "ar": "الجملة الصحيحة: 'Filho, me ajuda a preparar o jantar.'"
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'look (you)'?",
+        "en": "Which word means 'look (you)'?",
+        "ar": "أي كلمة تعني 'انظر'؟"
+      },
+      "options": [
+        {
+          "pt": "espere",
+          "en": "wait (you)",
+          "ar": "انتظر"
+        },
+        {
+          "pt": "venha",
+          "en": "come (you)",
+          "ar": "تعال"
+        },
+        {
+          "pt": "olhe",
+          "en": "look (you)",
+          "ar": "انظر"
+        },
+        {
+          "pt": "abra",
+          "en": "open (you)",
+          "ar": "افتح"
+        }
+      ],
+      "answer": "olhe",
+      "explanation": {
+        "pt": "'olhe' significa 'look (you)'.",
+        "en": "'olhe' means 'look (you)'.",
+        "ar": "تعني 'olhe' 'انظر'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'stay (you)'?",
+        "en": "Which word means 'stay (you)'?",
+        "ar": "أي كلمة تعني 'ابقَ'؟"
+      },
+      "options": [
+        {
+          "pt": "fique",
+          "en": "stay (you)",
+          "ar": "ابقَ"
+        },
+        {
+          "pt": "fale",
+          "en": "speak (you)",
+          "ar": "تكلّم"
+        },
+        {
+          "pt": "escute",
+          "en": "listen (you)",
+          "ar": "استمع"
+        }
+      ],
+      "answer": "fique",
+      "explanation": {
+        "pt": "'fique' significa 'stay (you)'.",
+        "en": "'fique' means 'stay (you)'.",
+        "ar": "تعني 'fique' 'ابقَ'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"Don't smoke here.\"",
+        "en": "Translate into Portuguese: \"Don't smoke here.\"",
+        "ar": "ترجم إلى البرتغالية: \"لا تدخن هنا.\""
+      },
+      "options": [],
+      "answer": "Não fume aqui.",
+      "explanation": {
+        "pt": "Resposta: \"Não fume aqui.\".",
+        "en": "Answer: \"Não fume aqui.\". (EN: \"Don't smoke here.\")",
+        "ar": "الإجابة: \"Não fume aqui.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"Got it. I will set the table.\"",
+        "en": "Translate into Portuguese: \"Got it. I will set the table.\"",
+        "ar": "ترجم إلى البرتغالية: \"فهمت. سأجهز المائدة.\""
+      },
+      "options": [],
+      "answer": "Entendido. Vou pôr a mesa.",
+      "explanation": {
+        "pt": "Resposta: \"Entendido. Vou pôr a mesa.\".",
+        "en": "Answer: \"Entendido. Vou pôr a mesa.\". (EN: \"Got it. I will set the table.\")",
+        "ar": "الإجابة: \"Entendido. Vou pôr a mesa.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Ande ___ na escada.\"",
+        "en": "Complete: \"Ande ___ na escada.\"",
+        "ar": "أكمل: \"Ande ___ na escada.\""
+      },
+      "options": [
+        {
+          "pt": "abra",
+          "en": "abra",
+          "ar": "abra"
+        },
+        {
+          "pt": "venha",
+          "en": "venha",
+          "ar": "venha"
+        },
+        {
+          "pt": "devagar",
+          "en": "devagar",
+          "ar": "devagar"
+        }
+      ],
+      "answer": "devagar",
+      "explanation": {
+        "pt": "A lacuna é 'devagar'.",
+        "en": "The blank is 'devagar'.",
+        "ar": "الفراغ هو 'devagar'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Ele fala ___ demais.\"",
+        "en": "Complete: \"Ele fala ___ demais.\"",
+        "ar": "أكمل: \"Ele fala ___ demais.\""
+      },
+      "options": [
+        {
+          "pt": "escute",
+          "en": "escute",
+          "ar": "escute"
+        },
+        {
+          "pt": "olhe",
+          "en": "olhe",
+          "ar": "olhe"
+        },
+        {
+          "pt": "depressa",
+          "en": "depressa",
+          "ar": "depressa"
+        }
+      ],
+      "answer": "depressa",
+      "explanation": {
+        "pt": "A lacuna é 'depressa'.",
+        "en": "The blank is 'depressa'.",
+        "ar": "الفراغ هو 'depressa'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: \"The silence was total.\"",
+        "en": "Type in Portuguese: \"The silence was total.\"",
+        "ar": "اكتب بالبرتغالية: \"كان الصمت تامًا.\""
+      },
+      "options": [],
+      "answer": "O silêncio era total.",
+      "accepted": [
+        "O silêncio era total."
+      ],
+      "explanation": {
+        "pt": "Resposta possível: \"O silêncio era total.\".",
+        "en": "One possible answer: \"O silêncio era total.\".",
+        "ar": "إجابة ممكنة: \"O silêncio era total.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "eu",
+          "en": "eu",
+          "ar": "eu"
+        },
+        {
+          "pt": "Claro!",
+          "en": "Claro!",
+          "ar": "Claro!"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "faço?",
+          "en": "faço?",
+          "ar": "faço?"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        }
+      ],
+      "answer": "Claro! O que eu faço?",
+      "gen": "v1.8",
+      "explanation": {
+        "pt": "A frase correta é: \"Claro! O que eu faço?\".",
+        "en": "The correct sentence is: \"Claro! O que eu faço?\".",
+        "ar": "الجملة الصحيحة هي: \"Claro! O que eu faço?\"."
       }
     }
   ],

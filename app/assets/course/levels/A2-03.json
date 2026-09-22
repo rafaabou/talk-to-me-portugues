@@ -35,9 +35,9 @@
       "en": "me",
       "ar": "إياي / لي",
       "example": {
-        "pt": "Pedro, você pode me ajudar?",
-        "en": "Pedro, can you help me?",
-        "ar": "بيدرو، هل يمكنك مساعدتي؟"
+        "pt": "Ele me viu ontem.",
+        "en": "He saw me yesterday.",
+        "ar": "راني أمس."
       }
     },
     {
@@ -46,9 +46,9 @@
       "en": "you",
       "ar": "إياك / لك",
       "example": {
-        "pt": "Sem problema. Eu te espero na garagem.",
-        "en": "No problem. I will wait for you at the garage.",
-        "ar": "لا مشكلة. سأنتظرك في المرآب."
+        "pt": "Eu te espero em casa.",
+        "en": "I'll wait for you at home.",
+        "ar": "سأنتظرك في المنزل."
       }
     },
     {
@@ -57,9 +57,9 @@
       "en": "him / her / it",
       "ar": "إياه / إياها",
       "example": {
-        "pt": "Claro! O que você precisa?",
-        "en": "Of course! What do you need?",
-        "ar": "بالتأكيد! ماذا تحتاجين؟"
+        "pt": "Eu o vi na rua.",
+        "en": "I saw him in the street.",
+        "ar": "رأيته في الشارع."
       }
     },
     {
@@ -68,9 +68,9 @@
       "en": "them",
       "ar": "إياهم / إياهن",
       "example": {
-        "pt": "Nós os convidamos para a festa.",
-        "en": "We invited them to the party.",
-        "ar": "دعونا إياهم إلى الحفلة."
+        "pt": "Eu os vi no mercado.",
+        "en": "I saw them at the market.",
+        "ar": "رأيتهم في السوق."
       }
     },
     {
@@ -79,9 +79,9 @@
       "en": "to him / to her",
       "ar": "له / لها",
       "example": {
-        "pt": "Muito obrigada! Eu lhe devolvo à noite.",
-        "en": "Thank you very much! I will return it to you tonight.",
-        "ar": "شكرًا جزيلًا! سأعيدها لك في الليل."
+        "pt": "Diga-lhe a verdade.",
+        "en": "Tell him/her the truth.",
+        "ar": "أخبره/أخبرها بالحقيقة."
       }
     },
     {
@@ -90,9 +90,9 @@
       "en": "us",
       "ar": "إيانا / لنا",
       "example": {
-        "pt": "Pedro, você pode me ajudar?",
-        "en": "Pedro, can you help me?",
-        "ar": "بيدرو، هل يمكنك مساعدتي؟"
+        "pt": "Ele nos chamou cedo.",
+        "en": "He called us early.",
+        "ar": "اتصل بنا مبكرًا."
       }
     },
     {
@@ -101,9 +101,9 @@
       "en": "to give",
       "ar": "يعطي",
       "example": {
-        "pt": "Pedro, você pode me ajudar?",
-        "en": "Pedro, can you help me?",
-        "ar": "بيدرو، هل يمكنك مساعدتي؟"
+        "pt": "Ele vai dar uma festa.",
+        "en": "He is going to give a party.",
+        "ar": "سيقيم حفلة."
       }
     },
     {
@@ -112,9 +112,9 @@
       "en": "to lend",
       "ar": "يعير",
       "example": {
-        "pt": "Pedro, você pode me ajudar?",
-        "en": "Pedro, can you help me?",
-        "ar": "بيدرو، هل يمكنك مساعدتي؟"
+        "pt": "Posso emprestar meu livro.",
+        "en": "I can lend my book.",
+        "ar": "يمكنني إعارة كتابي."
       }
     },
     {
@@ -123,9 +123,9 @@
       "en": "to ask for",
       "ar": "يطلب",
       "example": {
-        "pt": "Pedro, você pode me ajudar?",
-        "en": "Pedro, can you help me?",
-        "ar": "بيدرو، هل يمكنك مساعدتي؟"
+        "pt": "Eu vou pedir um café.",
+        "en": "I'm going to order a coffee.",
+        "ar": "سأطلب قهوة."
       }
     },
     {
@@ -134,9 +134,9 @@
       "en": "to help",
       "ar": "يساعد",
       "example": {
-        "pt": "Pedro, você pode me ajudar?",
-        "en": "Pedro, can you help me?",
-        "ar": "بيدرو، هل يمكنك مساعدتي؟"
+        "pt": "Eu posso ajudar você.",
+        "en": "I can help you.",
+        "ar": "يمكنني مساعدتك."
       }
     },
     {
@@ -145,9 +145,9 @@
       "en": "to hear / to listen",
       "ar": "يسمع",
       "example": {
-        "pt": "Pedro, você pode me ajudar?",
-        "en": "Pedro, can you help me?",
-        "ar": "بيدرو، هل يمكنك مساعدتي؟"
+        "pt": "Eu quero ouvir a rádio.",
+        "en": "I want to listen to the radio.",
+        "ar": "أريد الاستماع إلى الراديو."
       }
     },
     {
@@ -156,9 +156,9 @@
       "en": "to invite",
       "ar": "يدعو",
       "example": {
-        "pt": "Pedro, você pode me ajudar?",
-        "en": "Pedro, can you help me?",
-        "ar": "بيدرو، هل يمكنك مساعدتي؟"
+        "pt": "Vou convidar minha prima.",
+        "en": "I'm going to invite my cousin.",
+        "ar": "سأدعو ابنة عمي."
       }
     },
     {
@@ -167,9 +167,9 @@
       "en": "to wait for",
       "ar": "ينتظر",
       "example": {
-        "pt": "Pedro, você pode me ajudar?",
-        "en": "Pedro, can you help me?",
-        "ar": "بيدرو، هل يمكنك مساعدتي؟"
+        "pt": "Você pode esperar aqui.",
+        "en": "You can wait here.",
+        "ar": "يمكنك الانتظار هنا."
       }
     },
     {
@@ -178,9 +178,9 @@
       "en": "to hug",
       "ar": "يعانق",
       "example": {
-        "pt": "Pedro, você pode me ajudar?",
-        "en": "Pedro, can you help me?",
-        "ar": "بيدرو، هل يمكنك مساعدتي؟"
+        "pt": "É bom abraçar os amigos.",
+        "en": "It's good to hug friends.",
+        "ar": "من الجيد أن تعانق أصدقاءك."
       }
     },
     {
@@ -189,9 +189,9 @@
       "en": "the favor",
       "ar": "المعروف",
       "example": {
-        "pt": "Claro! O que você precisa?",
-        "en": "Of course! What do you need?",
-        "ar": "بالتأكيد! ماذا تحتاجين؟"
+        "pt": "Pedi o favor dela.",
+        "en": "I asked for her favor.",
+        "ar": "طلبت مساعدتها."
       }
     },
     {
@@ -200,9 +200,9 @@
       "en": "the advice",
       "ar": "النصيحة",
       "example": {
-        "pt": "Claro! O que você precisa?",
-        "en": "Of course! What do you need?",
-        "ar": "بالتأكيد! ماذا تحتاجين؟"
+        "pt": "O conselho dela ajudou.",
+        "en": "Her advice helped.",
+        "ar": "نصحها ساعدني."
       }
     },
     {
@@ -211,9 +211,9 @@
       "en": "the answer",
       "ar": "الإجابة",
       "example": {
-        "pt": "Nós os convidamos para a festa.",
-        "en": "We invited them to the party.",
-        "ar": "دعونا إياهم إلى الحفلة."
+        "pt": "A resposta está certa.",
+        "en": "The answer is correct.",
+        "ar": "الإجابة صحيحة."
       }
     },
     {
@@ -222,9 +222,9 @@
       "en": "to understand",
       "ar": "يفهم",
       "example": {
-        "pt": "Pedro, você pode me ajudar?",
-        "en": "Pedro, can you help me?",
-        "ar": "بيدرو، هل يمكنك مساعدتي؟"
+        "pt": "Eu quero entender tudo.",
+        "en": "I want to understand everything.",
+        "ar": "أريد أن أفهم كل شيء."
       }
     }
   ],
@@ -884,6 +884,232 @@
         "pt": "A frase correta: 'Pedro, você pode me ajudar?'",
         "en": "The correct sentence: 'Pedro, você pode me ajudar?'",
         "ar": "الجملة الصحيحة: 'Pedro, você pode me ajudar?'"
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'to understand'?",
+        "en": "Which word means 'to understand'?",
+        "ar": "أي كلمة تعني 'يفهم'؟"
+      },
+      "options": [
+        {
+          "pt": "o favor",
+          "en": "the favor",
+          "ar": "المعروف"
+        },
+        {
+          "pt": "entender",
+          "en": "to understand",
+          "ar": "يفهم"
+        },
+        {
+          "pt": "a resposta",
+          "en": "the answer",
+          "ar": "الإجابة"
+        }
+      ],
+      "answer": "entender",
+      "explanation": {
+        "pt": "'entender' significa 'to understand'.",
+        "en": "'entender' means 'to understand'.",
+        "ar": "تعني 'entender' 'يفهم'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'me'?",
+        "en": "Which word means 'me'?",
+        "ar": "أي كلمة تعني 'إياي / لي'؟"
+      },
+      "options": [
+        {
+          "pt": "entender",
+          "en": "to understand",
+          "ar": "يفهم"
+        },
+        {
+          "pt": "me",
+          "en": "me",
+          "ar": "إياي / لي"
+        },
+        {
+          "pt": "ajudar",
+          "en": "to help",
+          "ar": "يساعد"
+        }
+      ],
+      "answer": "me",
+      "explanation": {
+        "pt": "'me' significa 'me'.",
+        "en": "'me' means 'me'.",
+        "ar": "تعني 'me' 'إياي / لي'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"Do not worry. Anything, call me.\"",
+        "en": "Translate into Portuguese: \"Do not worry. Anything, call me.\"",
+        "ar": "ترجم إلى البرتغالية: \"لا تقلقي. أي شيء، اتصل بي.\""
+      },
+      "options": [],
+      "answer": "Pode deixar. Qualquer coisa, me liga.",
+      "explanation": {
+        "pt": "Resposta: \"Pode deixar. Qualquer coisa, me liga.\".",
+        "en": "Answer: \"Pode deixar. Qualquer coisa, me liga.\". (EN: \"Do not worry. Anything, call me.\")",
+        "ar": "الإجابة: \"Pode deixar. Qualquer coisa, me liga.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"I can lend my book.\"",
+        "en": "Translate into Portuguese: \"I can lend my book.\"",
+        "ar": "ترجم إلى البرتغالية: \"يمكنني إعارة كتابي.\""
+      },
+      "options": [],
+      "answer": "Posso emprestar meu livro.",
+      "explanation": {
+        "pt": "Resposta: \"Posso emprestar meu livro.\".",
+        "en": "Answer: \"Posso emprestar meu livro.\". (EN: \"I can lend my book.\")",
+        "ar": "الإجابة: \"Posso emprestar meu livro.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Eu vou ___ um café.\"",
+        "en": "Complete: \"Eu vou ___ um café.\"",
+        "ar": "أكمل: \"Eu vou ___ um café.\""
+      },
+      "options": [
+        {
+          "pt": "emprestar",
+          "en": "emprestar",
+          "ar": "emprestar"
+        },
+        {
+          "pt": "pedir",
+          "en": "pedir",
+          "ar": "pedir"
+        },
+        {
+          "pt": "nos",
+          "en": "nos",
+          "ar": "nos"
+        }
+      ],
+      "answer": "pedir",
+      "explanation": {
+        "pt": "A lacuna é 'pedir'.",
+        "en": "The blank is 'pedir'.",
+        "ar": "الفراغ هو 'pedir'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Vou ___ minha prima.\"",
+        "en": "Complete: \"Vou ___ minha prima.\"",
+        "ar": "أكمل: \"Vou ___ minha prima.\""
+      },
+      "options": [
+        {
+          "pt": "nos",
+          "en": "nos",
+          "ar": "nos"
+        },
+        {
+          "pt": "convidar",
+          "en": "convidar",
+          "ar": "convidar"
+        },
+        {
+          "pt": "o / a",
+          "en": "o / a",
+          "ar": "o / a"
+        }
+      ],
+      "answer": "convidar",
+      "explanation": {
+        "pt": "A lacuna é 'convidar'.",
+        "en": "The blank is 'convidar'.",
+        "ar": "الفراغ هو 'convidar'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: \"Do not worry. Anything, call me.\"",
+        "en": "Type in Portuguese: \"Do not worry. Anything, call me.\"",
+        "ar": "اكتب بالبرتغالية: \"لا تقلقي. أي شيء، اتصل بي.\""
+      },
+      "options": [],
+      "answer": "Pode deixar. Qualquer coisa, me liga.",
+      "accepted": [
+        "Pode deixar. Qualquer coisa, me liga."
+      ],
+      "explanation": {
+        "pt": "Resposta possível: \"Pode deixar. Qualquer coisa, me liga.\".",
+        "en": "One possible answer: \"Pode deixar. Qualquer coisa, me liga.\".",
+        "ar": "إجابة ممكنة: \"Pode deixar. Qualquer coisa, me liga.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Pode",
+          "en": "Pode",
+          "ar": "Pode"
+        },
+        {
+          "pt": "liga.",
+          "en": "liga.",
+          "ar": "liga."
+        },
+        {
+          "pt": "me",
+          "en": "me",
+          "ar": "me"
+        },
+        {
+          "pt": "deixar.",
+          "en": "deixar.",
+          "ar": "deixar."
+        },
+        {
+          "pt": "Qualquer",
+          "en": "Qualquer",
+          "ar": "Qualquer"
+        },
+        {
+          "pt": "coisa,",
+          "en": "coisa,",
+          "ar": "coisa,"
+        }
+      ],
+      "answer": "Pode deixar. Qualquer coisa, me liga.",
+      "gen": "v1.8",
+      "explanation": {
+        "pt": "A frase correta é: \"Pode deixar. Qualquer coisa, me liga.\".",
+        "en": "The correct sentence is: \"Pode deixar. Qualquer coisa, me liga.\".",
+        "ar": "الجملة الصحيحة هي: \"Pode deixar. Qualquer coisa, me liga.\"."
       }
     }
   ],

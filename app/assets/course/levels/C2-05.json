@@ -40,9 +40,9 @@
       "en": "regionalism",
       "ar": "الإقليمية / اللفظ الإقليمي",
       "example": {
-        "pt": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
-        "en": "Sure. But just so you know, the restaurant next door is packed.",
-        "ar": "يمكن ذلك. لكن لتكن على علم، المطعم المجاور ممتلئ."
+        "pt": "O regionalismo aparece no vocabulário.",
+        "en": "Regionalism appears in vocabulary.",
+        "ar": "تظهر الإقليمية في المفردات."
       }
     },
     {
@@ -51,9 +51,9 @@
       "en": "dialect",
       "ar": "اللهجة",
       "example": {
-        "pt": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
-        "en": "Sure. But just so you know, the restaurant next door is packed.",
-        "ar": "يمكن ذلك. لكن لتكن على علم، المطعم المجاور ممتلئ."
+        "pt": "O dialeto varia por região.",
+        "en": "The dialect varies by region.",
+        "ar": "تختلف اللهجة حسب المنطقة."
       }
     },
     {
@@ -62,9 +62,9 @@
       "en": "slang",
       "ar": "اللغة الدارجة",
       "example": {
-        "pt": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
-        "en": "Do you (tu) want to have lunch with us, or are you heading straight to the lecture?",
-        "ar": "هل تريد الغداء معنا، أم ستتوجه مباشرة إلى المحاضرة؟"
+        "pt": "A gíria circula entre jovens.",
+        "en": "Slang circulates among young people.",
+        "ar": "تدور اللغة الدارجة بين الشباب."
       }
     },
     {
@@ -73,9 +73,9 @@
       "en": "accent",
       "ar": "اللهجة / النبر",
       "example": {
-        "pt": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
-        "en": "Sure. But just so you know, the restaurant next door is packed.",
-        "ar": "يمكن ذلك. لكن لتكن على علم، المطعم المجاور ممتلئ."
+        "pt": "O sotaque mudou com o tempo.",
+        "en": "The accent changed over time.",
+        "ar": "تغيّر السوتاك مع الوقت."
       }
     },
     {
@@ -84,9 +84,9 @@
       "en": "Northeastern speech",
       "ar": "كلام الشمال الشرقي",
       "example": {
-        "pt": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
-        "en": "Sure. But just so you know, the restaurant next door is packed.",
-        "ar": "يمكن ذلك. لكن لتكن على علم، المطعم المجاور ممتلئ."
+        "pt": "O falar nordestino é musical.",
+        "en": "Northeastern speech is musical.",
+        "ar": "كلام الشمال الشرقي موسيقي."
       }
     },
     {
@@ -95,9 +95,9 @@
       "en": "the 'caipira' dialect (rural interior)",
       "ar": "اللهجة الريفية الداخلية",
       "example": {
-        "pt": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
-        "en": "Sure. But just so you know, the restaurant next door is packed.",
-        "ar": "يمكن ذلك. لكن لتكن على علم، المطعم المجاور ممتلئ."
+        "pt": "Dizem que o caipira fala assim.",
+        "en": "They say the caipira speaks like this.",
+        "ar": "يقولون إن اللهجة الريفية تُقال هكذا."
       }
     },
     {
@@ -106,9 +106,9 @@
       "en": "the 'gaúcho' (Southern) speech",
       "ar": "لهجة الجنوب",
       "example": {
-        "pt": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
-        "en": "Sure. But just so you know, the restaurant next door is packed.",
-        "ar": "يمكن ذلك. لكن لتكن على علم، المطعم المجاور ممتلئ."
+        "pt": "O gaúcho usa 'tu' com frequência.",
+        "en": "The gaúcho uses 'tu' frequently.",
+        "ar": "يستخدم الجنوب البرازيلي \"tu\" كثيرًا."
       }
     },
     {
@@ -117,9 +117,9 @@
       "en": "the 'carioca' (Rio) speech",
       "ar": "لهجة ريو دي جانيرو",
       "example": {
-        "pt": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
-        "en": "Sure. But just so you know, the restaurant next door is packed.",
-        "ar": "يمكن ذلك. لكن لتكن على علم، المطعم المجاور ممتلئ."
+        "pt": "O carioca fala com sotaque próprio.",
+        "en": "The carioca speaks with their own accent.",
+        "ar": "يتحدث الكاريوكي بلهجته الخاصة."
       }
     },
     {
@@ -128,9 +128,9 @@
       "en": "the 'mineiro' (Minas Gerais) speech",
       "ar": "لهجة ميناس جرايس",
       "example": {
-        "pt": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
-        "en": "Sure. But just so you know, the restaurant next door is packed.",
-        "ar": "يمكن ذلك. لكن لتكن على علم، المطعم المجاور ممتلئ."
+        "pt": "O mineiro fala devagar.",
+        "en": "The mineiro speaks slowly.",
+        "ar": "يتحدث المينيرو ببطء."
       }
     },
     {
@@ -139,9 +139,9 @@
       "en": "the 'baiano' (Bahia) speech",
       "ar": "لهجة باهيا",
       "example": {
-        "pt": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
-        "en": "Sure. But just so you know, the restaurant next door is packed.",
-        "ar": "يمكن ذلك. لكن لتكن على علم، المطعم المجاور ممتلئ."
+        "pt": "O baiano tem falar agradável.",
+        "en": "The baiano has pleasant speech.",
+        "ar": "لأهل باهيا كلام لطيف."
       }
     },
     {
@@ -150,9 +150,9 @@
       "en": "prosody",
       "ar": "العروض / الإيقاع الصوتي",
       "example": {
-        "pt": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
-        "en": "Do you (tu) want to have lunch with us, or are you heading straight to the lecture?",
-        "ar": "هل تريد الغداء معنا، أم ستتوجه مباشرة إلى المحاضرة؟"
+        "pt": "A prosódia marca o sentido.",
+        "en": "Prosody marks meaning.",
+        "ar": "يحدّد العروض المعنى."
       }
     },
     {
@@ -161,9 +161,9 @@
       "en": "neologism",
       "ar": "اللفظ المستحدث",
       "example": {
-        "pt": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
-        "en": "Sure. But just so you know, the restaurant next door is packed.",
-        "ar": "يمكن ذلك. لكن لتكن على علم، المطعم المجاور ممتلئ."
+        "pt": "O neologismo nasce na internet.",
+        "en": "The neologism is born on the internet.",
+        "ar": "يولد اللفظ المستحدث على الإنترنت."
       }
     },
     {
@@ -172,9 +172,9 @@
       "en": "foreignism / loanword",
       "ar": "اللفظ الدخيل",
       "example": {
-        "pt": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
-        "en": "Sure. But just so you know, the restaurant next door is packed.",
-        "ar": "يمكن ذلك. لكن لتكن على علم، المطعم المجاور ممتلئ."
+        "pt": "O estrangeirismo entra no dicionário.",
+        "en": "The loanword enters the dictionary.",
+        "ar": "يدخل اللفظ الدخيل القاموس."
       }
     },
     {
@@ -183,9 +183,9 @@
       "en": "palatalization",
       "ar": "التحنيك",
       "example": {
-        "pt": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
-        "en": "Do you (tu) want to have lunch with us, or are you heading straight to the lecture?",
-        "ar": "هل تريد الغداء معنا، أم ستتوجه مباشرة إلى المحاضرة؟"
+        "pt": "A palatalização é um fenômeno comum.",
+        "en": "Palatalization is a common phenomenon.",
+        "ar": "التحنيك ظاهرة شائعة."
       }
     },
     {
@@ -194,9 +194,9 @@
       "en": "rhotacism",
       "ar": "إبدال الراء / النطق بالراء",
       "example": {
-        "pt": "Pode ser. Mas, para você saber, o restaurante do lado está lotado.",
-        "en": "Sure. But just so you know, the restaurant next door is packed.",
-        "ar": "يمكن ذلك. لكن لتكن على علم، المطعم المجاور ممتلئ."
+        "pt": "O rotacismo altera a pronúncia.",
+        "en": "Rhotacism alters pronunciation.",
+        "ar": "يغيّر إبدال الراء النطق."
       }
     },
     {
@@ -205,9 +205,9 @@
       "en": "diatopic (geographic) variation",
       "ar": "التنوع الجغرافي",
       "example": {
-        "pt": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
-        "en": "Do you (tu) want to have lunch with us, or are you heading straight to the lecture?",
-        "ar": "هل تريد الغداء معنا، أم ستتوجه مباشرة إلى المحاضرة؟"
+        "pt": "A variação diatópica é geográfica.",
+        "en": "Diatopic variation is geographic.",
+        "ar": "التنوع الجغرافي جغرافي المصدر."
       }
     },
     {
@@ -216,9 +216,9 @@
       "en": "diaphasic (register) variation",
       "ar": "التنوع الأسلوبي",
       "example": {
-        "pt": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
-        "en": "Do you (tu) want to have lunch with us, or are you heading straight to the lecture?",
-        "ar": "هل تريد الغداء معنا، أم ستتوجه مباشرة إلى المحاضرة؟"
+        "pt": "A variação diafásica muda com a situação.",
+        "en": "Diaphasic variation changes with situation.",
+        "ar": "يتغير التنوع الأسلوبي حسب الموقف."
       }
     },
     {
@@ -227,9 +227,9 @@
       "en": "the educated standard",
       "ar": "القاعدة الفصيحة المتعلمة",
       "example": {
-        "pt": "Tu quer almoçar com a gente, ou vai seguir direto para a palestra?",
-        "en": "Do you (tu) want to have lunch with us, or are you heading straight to the lecture?",
-        "ar": "هل تريد الغداء معنا، أم ستتوجه مباشرة إلى المحاضرة؟"
+        "pt": "A norma culta orienta a escrita.",
+        "en": "The educated standard guides writing.",
+        "ar": "توجه القاعدة الفصيحة الكتابة."
       }
     }
   ],
@@ -970,6 +970,237 @@
         "en": "The correct sentence: 'Tu quer almoçar com a gente, ou vai seguir direto para a palestra?'",
         "ar": "الجملة الصحيحة: 'Tu quer almoçar com a gente, ou vai seguir direto para a palestra?'"
       }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the 'caipira' dialect (rural interior)'?",
+        "en": "Which word means 'the 'caipira' dialect (rural interior)'?",
+        "ar": "أي كلمة تعني 'اللهجة الريفية الداخلية'؟"
+      },
+      "options": [
+        {
+          "pt": "a variação diatópica",
+          "en": "diatopic (geographic) variation",
+          "ar": "التنوع الجغرافي"
+        },
+        {
+          "pt": "o caipira",
+          "en": "the 'caipira' dialect (rural interior)",
+          "ar": "اللهجة الريفية الداخلية"
+        },
+        {
+          "pt": "o estrangeirismo",
+          "en": "foreignism / loanword",
+          "ar": "اللفظ الدخيل"
+        },
+        {
+          "pt": "o baiano",
+          "en": "the 'baiano' (Bahia) speech",
+          "ar": "لهجة باهيا"
+        }
+      ],
+      "answer": "o caipira",
+      "explanation": {
+        "pt": "'o caipira' significa 'the 'caipira' dialect (rural interior)'.",
+        "en": "'o caipira' means 'the 'caipira' dialect (rural interior)'.",
+        "ar": "تعني 'o caipira' 'اللهجة الريفية الداخلية'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'dialect'?",
+        "en": "Which word means 'dialect'?",
+        "ar": "أي كلمة تعني 'اللهجة'؟"
+      },
+      "options": [
+        {
+          "pt": "o dialeto",
+          "en": "dialect",
+          "ar": "اللهجة"
+        },
+        {
+          "pt": "o mineiro",
+          "en": "the 'mineiro' (Minas Gerais) speech",
+          "ar": "لهجة ميناس جرايس"
+        },
+        {
+          "pt": "o baiano",
+          "en": "the 'baiano' (Bahia) speech",
+          "ar": "لهجة باهيا"
+        }
+      ],
+      "answer": "o dialeto",
+      "explanation": {
+        "pt": "'o dialeto' significa 'dialect'.",
+        "en": "'o dialeto' means 'dialect'.",
+        "ar": "تعني 'o dialeto' 'اللهجة'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"The neologism is born on the internet.\"",
+        "en": "Translate into Portuguese: \"The neologism is born on the internet.\"",
+        "ar": "ترجم إلى البرتغالية: \"يولد اللفظ المستحدث على الإنترنت.\""
+      },
+      "options": [],
+      "answer": "O neologismo nasce na internet.",
+      "explanation": {
+        "pt": "Resposta: \"O neologismo nasce na internet.\".",
+        "en": "Answer: \"O neologismo nasce na internet.\". (EN: \"The neologism is born on the internet.\")",
+        "ar": "الإجابة: \"O neologismo nasce na internet.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"Exactly. Prosody, lexicon and pronouns vary, but the educated standard brings everyone together in formal writing.\"",
+        "en": "Translate into Portuguese: \"Exactly. Prosody, lexicon and pronouns vary, but the educated standard brings everyone together in formal writing.\"",
+        "ar": "ترجم إلى البرتغالية: \"بالضبط. يختلف الإيقاع والمعجم والضمائر، لكن القاعدة الفصيحة تجمع الجميع في الكتابة الرسمية.\""
+      },
+      "options": [],
+      "answer": "Exato. Prosódia, léxico e pronomes variam, mas a norma culta aproxima todos na escrita formal.",
+      "explanation": {
+        "pt": "Resposta: \"Exato. Prosódia, léxico e pronomes variam, mas a norma culta aproxima todos na escrita formal.\".",
+        "en": "Answer: \"Exato. Prosódia, léxico e pronomes variam, mas a norma culta aproxima todos na escrita formal.\". (EN: \"Exactly. Prosody, lexicon and pronouns vary, but the educated standard brings everyone together in formal writing.\")",
+        "ar": "الإجابة: \"Exato. Prosódia, léxico e pronomes variam, mas a norma culta aproxima todos na escrita formal.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Dizem que ___ fala assim.\"",
+        "en": "Complete: \"Dizem que ___ fala assim.\"",
+        "ar": "أكمل: \"Dizem que ___ fala assim.\""
+      },
+      "options": [
+        {
+          "pt": "o gaúcho",
+          "en": "o gaúcho",
+          "ar": "o gaúcho"
+        },
+        {
+          "pt": "o mineiro",
+          "en": "o mineiro",
+          "ar": "o mineiro"
+        },
+        {
+          "pt": "o caipira",
+          "en": "o caipira",
+          "ar": "o caipira"
+        }
+      ],
+      "answer": "o caipira",
+      "explanation": {
+        "pt": "A lacuna é 'o caipira'.",
+        "en": "The blank is 'o caipira'.",
+        "ar": "الفراغ هو 'o caipira'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: \"The gaúcho uses 'tu' frequently.\"",
+        "en": "Type in Portuguese: \"The gaúcho uses 'tu' frequently.\"",
+        "ar": "اكتب بالبرتغالية: \"يستخدم الجنوب البرازيلي \"tu\" كثيرًا.\""
+      },
+      "options": [],
+      "answer": "O gaúcho usa 'tu' com frequência.",
+      "accepted": [
+        "O gaúcho usa 'tu' com frequência."
+      ],
+      "explanation": {
+        "pt": "Resposta possível: \"O gaúcho usa 'tu' com frequência.\".",
+        "en": "One possible answer: \"O gaúcho usa 'tu' com frequência.\".",
+        "ar": "إجابة ممكنة: \"O gaúcho usa 'tu' com frequência.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "caipira",
+          "en": "caipira",
+          "ar": "caipira"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "assim.",
+          "en": "assim.",
+          "ar": "assim."
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "Dizem",
+          "en": "Dizem",
+          "ar": "Dizem"
+        },
+        {
+          "pt": "fala",
+          "en": "fala",
+          "ar": "fala"
+        }
+      ],
+      "answer": "Dizem que o caipira fala assim.",
+      "gen": "v1.8",
+      "explanation": {
+        "pt": "A frase correta é: \"Dizem que o caipira fala assim.\".",
+        "en": "The correct sentence is: \"Dizem que o caipira fala assim.\".",
+        "ar": "الجملة الصحيحة هي: \"Dizem que o caipira fala assim.\"."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'Northeastern speech'?",
+        "en": "Which word means 'Northeastern speech'?",
+        "ar": "أي كلمة تعني 'كلام الشمال الشرقي'؟"
+      },
+      "options": [
+        {
+          "pt": "a norma culta",
+          "en": "the educated standard",
+          "ar": "القاعدة الفصيحة المتعلمة"
+        },
+        {
+          "pt": "o falar nordestino",
+          "en": "Northeastern speech",
+          "ar": "كلام الشمال الشرقي"
+        },
+        {
+          "pt": "a prosódia",
+          "en": "prosody",
+          "ar": "العروض / الإيقاع الصوتي"
+        }
+      ],
+      "answer": "o falar nordestino",
+      "explanation": {
+        "pt": "'o falar nordestino' significa 'Northeastern speech'.",
+        "en": "'o falar nordestino' means 'Northeastern speech'.",
+        "ar": "تعني 'o falar nordestino' 'كلام الشمال الشرقي'."
+      },
+      "gen": "v1.8"
     }
   ],
   "speaking": {

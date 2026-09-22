@@ -35,9 +35,9 @@
       "en": "more",
       "ar": "أكثر",
       "example": {
-        "pt": "É maior do que Recife, mas é mais cara.",
-        "en": "It is bigger than Recife, but it is more expensive.",
-        "ar": "إنها أكبر من ريسيفي، لكنها أغلى."
+        "pt": "Este café é mais forte.",
+        "en": "This coffee is stronger.",
+        "ar": "هذه القهوة أقوى."
       }
     },
     {
@@ -46,9 +46,9 @@
       "en": "less",
       "ar": "أقل",
       "example": {
-        "pt": "Este livro é menos interessante do que aquele.",
-        "en": "This book is less interesting than that one.",
-        "ar": "هذا الكتاب أقل إثارة من ذلك."
+        "pt": "Hoje choveu menos.",
+        "en": "It rained less today.",
+        "ar": "أمطرت اليوم أقل."
       }
     },
     {
@@ -57,9 +57,9 @@
       "en": "than",
       "ar": "من (للمقارنة)",
       "example": {
-        "pt": "É maior do que Recife, mas é mais cara.",
-        "en": "It is bigger than Recife, but it is more expensive.",
-        "ar": "إنها أكبر من ريسيفي، لكنها أغلى."
+        "pt": "Ele é mais alto do que eu.",
+        "en": "He is taller than me.",
+        "ar": "هو أطول مني."
       }
     },
     {
@@ -68,9 +68,9 @@
       "en": "as... as",
       "ar": "بنفس قدر",
       "example": {
-        "pt": "O que você acha de São Paulo?",
-        "en": "What do you think of São Paulo?",
-        "ar": "ما رأيك في ساو باولو؟"
+        "pt": "Ela é tão alta quanto a irmã.",
+        "en": "She is as tall as her sister.",
+        "ar": "هي بنفس طول أختها."
       }
     },
     {
@@ -79,9 +79,9 @@
       "en": "better",
       "ar": "أفضل",
       "example": {
-        "pt": "Verdade. Lá a vida é melhor para a família.",
-        "en": "True. There, life is better for the family.",
-        "ar": "صحيح. الحياة هناك أفضل للعائلة."
+        "pt": "Este restaurante é melhor.",
+        "en": "This restaurant is better.",
+        "ar": "هذا المطعم أفضل."
       }
     },
     {
@@ -90,9 +90,9 @@
       "en": "worse",
       "ar": "أسوأ",
       "example": {
-        "pt": "O trânsito de São Paulo é o pior do Brasil.",
-        "en": "São Paulo's traffic is the worst in Brazil.",
-        "ar": "حركة مرور ساو باولو هي الأسوأ في البرازيل."
+        "pt": "Nada pior que perder tempo.",
+        "en": "Nothing worse than wasting time.",
+        "ar": "لا شيء أسوأ من إضاعة الوقت."
       }
     },
     {
@@ -101,9 +101,9 @@
       "en": "the best",
       "ar": "الأفضل",
       "example": {
-        "pt": "O que você acha de São Paulo?",
-        "en": "What do you think of São Paulo?",
-        "ar": "ما رأيك في ساو باولو؟"
+        "pt": "Ele é o melhor aluno.",
+        "en": "He is the best student.",
+        "ar": "هو أفضل طالب."
       }
     },
     {
@@ -112,9 +112,9 @@
       "en": "the worst",
       "ar": "الأسوأ",
       "example": {
-        "pt": "O que você acha de São Paulo?",
-        "en": "What do you think of São Paulo?",
-        "ar": "ما رأيك في ساو باولو؟"
+        "pt": "Este foi o pior filme.",
+        "en": "This was the worst movie.",
+        "ar": "كان أسوأ فيلم."
       }
     },
     {
@@ -123,9 +123,9 @@
       "en": "bigger",
       "ar": "أكبر",
       "example": {
-        "pt": "É maior do que Recife, mas é mais cara.",
-        "en": "It is bigger than Recife, but it is more expensive.",
-        "ar": "إنها أكبر من ريسيفي، لكنها أغلى."
+        "pt": "São Paulo é a maior cidade.",
+        "en": "São Paulo is the biggest city.",
+        "ar": "ساو باولو أكبر مدينة."
       }
     },
     {
@@ -134,9 +134,9 @@
       "en": "smaller",
       "ar": "أصغر",
       "example": {
-        "pt": "O que você acha de São Paulo?",
-        "en": "What do you think of São Paulo?",
-        "ar": "ما رأيك في ساو باولو؟"
+        "pt": "O irmão é menor.",
+        "en": "The brother is younger/smaller.",
+        "ar": "الأخ أصغر."
       }
     },
     {
@@ -145,9 +145,9 @@
       "en": "big",
       "ar": "كبير",
       "example": {
-        "pt": "O que você acha de São Paulo?",
-        "en": "What do you think of São Paulo?",
-        "ar": "ما رأيك في ساو باولو؟"
+        "pt": "Ele tem um apartamento grande.",
+        "en": "He has a big apartment.",
+        "ar": "لديه شقة كبيرة."
       }
     },
     {
@@ -156,9 +156,9 @@
       "en": "small",
       "ar": "صغير",
       "example": {
-        "pt": "O que você acha de São Paulo?",
-        "en": "What do you think of São Paulo?",
-        "ar": "ما رأيك في ساو باولو؟"
+        "pt": "O apartamento é pequeno.",
+        "en": "The apartment is small.",
+        "ar": "الشقة صغيرة."
       }
     },
     {
@@ -167,9 +167,9 @@
       "en": "beautiful",
       "ar": "جميل",
       "example": {
-        "pt": "O que você acha de São Paulo?",
-        "en": "What do you think of São Paulo?",
-        "ar": "ما رأيك في ساو باولو؟"
+        "pt": "Que retrato bonito!",
+        "en": "What a beautiful portrait!",
+        "ar": "يا لها من صورة جميلة!"
       }
     },
     {
@@ -178,9 +178,9 @@
       "en": "equal / the same",
       "ar": "متساوٍ / مماثل",
       "example": {
-        "pt": "O que você acha de São Paulo?",
-        "en": "What do you think of São Paulo?",
-        "ar": "ما رأيك في ساو باولو؟"
+        "pt": "Ela é igual à mãe.",
+        "en": "She is like her mother.",
+        "ar": "هي تشبه أمها."
       }
     },
     {
@@ -189,9 +189,9 @@
       "en": "different",
       "ar": "مختلف",
       "example": {
-        "pt": "O que você acha de São Paulo?",
-        "en": "What do you think of São Paulo?",
-        "ar": "ما رأيك في ساو باولو؟"
+        "pt": "Ela pensa diferente.",
+        "en": "She thinks differently.",
+        "ar": "تفكر بشكل مختلف."
       }
     },
     {
@@ -200,9 +200,9 @@
       "en": "the height",
       "ar": "الطول",
       "example": {
-        "pt": "Verdade. Lá a vida é melhor para a família.",
-        "en": "True. There, life is better for the family.",
-        "ar": "صحيح. الحياة هناك أفضل للعائلة."
+        "pt": "Qual é a altura do prédio?",
+        "en": "What is the height of the building?",
+        "ar": "ما ارتفاع المبنى؟"
       }
     },
     {
@@ -211,9 +211,9 @@
       "en": "the age",
       "ar": "العمر",
       "example": {
-        "pt": "Verdade. Lá a vida é melhor para a família.",
-        "en": "True. There, life is better for the family.",
-        "ar": "صحيح. الحياة هناك أفضل للعائلة."
+        "pt": "A idade não importa.",
+        "en": "Age doesn't matter.",
+        "ar": "العمر لا يهم."
       }
     }
   ],
@@ -893,6 +893,232 @@
         "pt": "A frase correta: 'O que você acha de São Paulo?'",
         "en": "The correct sentence: 'O que você acha de São Paulo?'",
         "ar": "الجملة الصحيحة: 'O que você acha de São Paulo?'"
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'beautiful'?",
+        "en": "Which word means 'beautiful'?",
+        "ar": "أي كلمة تعني 'جميل'؟"
+      },
+      "options": [
+        {
+          "pt": "tão... quanto",
+          "en": "as... as",
+          "ar": "بنفس قدر"
+        },
+        {
+          "pt": "bonito",
+          "en": "beautiful",
+          "ar": "جميل"
+        },
+        {
+          "pt": "pior",
+          "en": "worse",
+          "ar": "أسوأ"
+        }
+      ],
+      "answer": "bonito",
+      "explanation": {
+        "pt": "'bonito' significa 'beautiful'.",
+        "en": "'bonito' means 'beautiful'.",
+        "ar": "تعني 'bonito' 'جميل'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'worse'?",
+        "en": "Which word means 'worse'?",
+        "ar": "أي كلمة تعني 'أسوأ'؟"
+      },
+      "options": [
+        {
+          "pt": "a altura",
+          "en": "the height",
+          "ar": "الطول"
+        },
+        {
+          "pt": "pior",
+          "en": "worse",
+          "ar": "أسوأ"
+        },
+        {
+          "pt": "grande",
+          "en": "big",
+          "ar": "كبير"
+        }
+      ],
+      "answer": "pior",
+      "explanation": {
+        "pt": "'pior' significa 'worse'.",
+        "en": "'pior' means 'worse'.",
+        "ar": "تعني 'pior' 'أسوأ'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"This coffee is stronger.\"",
+        "en": "Translate into Portuguese: \"This coffee is stronger.\"",
+        "ar": "ترجم إلى البرتغالية: \"هذه القهوة أقوى.\""
+      },
+      "options": [],
+      "answer": "Este café é mais forte.",
+      "explanation": {
+        "pt": "Resposta: \"Este café é mais forte.\".",
+        "en": "Answer: \"Este café é mais forte.\". (EN: \"This coffee is stronger.\")",
+        "ar": "الإجابة: \"Este café é mais forte.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"She is like her mother.\"",
+        "en": "Translate into Portuguese: \"She is like her mother.\"",
+        "ar": "ترجم إلى البرتغالية: \"هي تشبه أمها.\""
+      },
+      "options": [],
+      "answer": "Ela é igual à mãe.",
+      "explanation": {
+        "pt": "Resposta: \"Ela é igual à mãe.\".",
+        "en": "Answer: \"Ela é igual à mãe.\". (EN: \"She is like her mother.\")",
+        "ar": "الإجابة: \"Ela é igual à mãe.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"O irmão é ___.\"",
+        "en": "Complete: \"O irmão é ___.\"",
+        "ar": "أكمل: \"O irmão é ___.\""
+      },
+      "options": [
+        {
+          "pt": "mais",
+          "en": "mais",
+          "ar": "mais"
+        },
+        {
+          "pt": "menos",
+          "en": "menos",
+          "ar": "menos"
+        },
+        {
+          "pt": "menor",
+          "en": "menor",
+          "ar": "menor"
+        }
+      ],
+      "answer": "menor",
+      "explanation": {
+        "pt": "A lacuna é 'menor'.",
+        "en": "The blank is 'menor'.",
+        "ar": "الفراغ هو 'menor'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Ele tem um apartamento ___.\"",
+        "en": "Complete: \"Ele tem um apartamento ___.\"",
+        "ar": "أكمل: \"Ele tem um apartamento ___.\""
+      },
+      "options": [
+        {
+          "pt": "grande",
+          "en": "grande",
+          "ar": "grande"
+        },
+        {
+          "pt": "o melhor",
+          "en": "o melhor",
+          "ar": "o melhor"
+        },
+        {
+          "pt": "pior",
+          "en": "pior",
+          "ar": "pior"
+        }
+      ],
+      "answer": "grande",
+      "explanation": {
+        "pt": "A lacuna é 'grande'.",
+        "en": "The blank is 'grande'.",
+        "ar": "الفراغ هو 'grande'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: \"What is the height of the building?\"",
+        "en": "Type in Portuguese: \"What is the height of the building?\"",
+        "ar": "اكتب بالبرتغالية: \"ما ارتفاع المبنى؟\""
+      },
+      "options": [],
+      "answer": "Qual é a altura do prédio?",
+      "accepted": [
+        "Qual é a altura do prédio?"
+      ],
+      "explanation": {
+        "pt": "Resposta possível: \"Qual é a altura do prédio?\".",
+        "en": "One possible answer: \"Qual é a altura do prédio?\".",
+        "ar": "إجابة ممكنة: \"Qual é a altura do prédio?\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Florianópolis.",
+          "en": "Florianópolis.",
+          "ar": "Florianópolis."
+        },
+        {
+          "pt": "como",
+          "en": "como",
+          "ar": "como"
+        },
+        {
+          "pt": "cidades",
+          "en": "cidades",
+          "ar": "cidades"
+        },
+        {
+          "pt": "Prefiro",
+          "en": "Prefiro",
+          "ar": "Prefiro"
+        },
+        {
+          "pt": "calmas,",
+          "en": "calmas,",
+          "ar": "calmas,"
+        },
+        {
+          "pt": "mais",
+          "en": "mais",
+          "ar": "mais"
+        }
+      ],
+      "answer": "Prefiro cidades mais calmas, como Florianópolis.",
+      "gen": "v1.8",
+      "explanation": {
+        "pt": "A frase correta é: \"Prefiro cidades mais calmas, como Florianópolis.\".",
+        "en": "The correct sentence is: \"Prefiro cidades mais calmas, como Florianópolis.\".",
+        "ar": "الجملة الصحيحة هي: \"Prefiro cidades mais calmas, como Florianópolis.\"."
       }
     }
   ],

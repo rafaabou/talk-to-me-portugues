@@ -35,9 +35,9 @@
       "en": "the environment",
       "ar": "البيئة",
       "example": {
-        "pt": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
-        "en": "Did you know our neighborhood will get a recycling system?",
-        "ar": "هل تعلم أن حينا سيحصل على نظام لإعادة التدوير؟"
+        "pt": "O meio ambiente precisa de cuidado.",
+        "en": "The environment needs care.",
+        "ar": "البيئة تحتاج إلى عناية."
       }
     },
     {
@@ -46,9 +46,9 @@
       "en": "the sustainability",
       "ar": "الاستدامة",
       "example": {
-        "pt": "Que ótimo! É fundamental que a gente separe o lixo em casa.",
-        "en": "Great! It's essential that we sort the garbage at home.",
-        "ar": "رائع! من الضروري أن نفرز القمامة في المنزل."
+        "pt": "A sustentabilidade é essencial.",
+        "en": "Sustainability is essential.",
+        "ar": "الاستدامة ضرورية."
       }
     },
     {
@@ -57,9 +57,9 @@
       "en": "the deforestation",
       "ar": "إزالة الغابات",
       "example": {
-        "pt": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
-        "en": "Did you know our neighborhood will get a recycling system?",
-        "ar": "هل تعلم أن حينا سيحصل على نظام لإعادة التدوير؟"
+        "pt": "O desmatamento aumentou.",
+        "en": "Deforestation increased.",
+        "ar": "ازداد إتلاف الغابات."
       }
     },
     {
@@ -68,9 +68,9 @@
       "en": "the pollution",
       "ar": "التلوث",
       "example": {
-        "pt": "Que ótimo! É fundamental que a gente separe o lixo em casa.",
-        "en": "Great! It's essential that we sort the garbage at home.",
-        "ar": "رائع! من الضروري أن نفرز القمامة في المنزل."
+        "pt": "A poluição do ar é grave.",
+        "en": "Air pollution is serious.",
+        "ar": "تلوث الهواء خطير."
       }
     },
     {
@@ -79,9 +79,9 @@
       "en": "the garbage",
       "ar": "القمامة",
       "example": {
-        "pt": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
-        "en": "Did you know our neighborhood will get a recycling system?",
-        "ar": "هل تعلم أن حينا سيحصل على نظام لإعادة التدوير؟"
+        "pt": "O lixo deve ser reciclado.",
+        "en": "Garbage should be recycled.",
+        "ar": "يجب إعادة تدوير القمامة."
       }
     },
     {
@@ -90,9 +90,9 @@
       "en": "the recycling",
       "ar": "إعادة التدوير",
       "example": {
-        "pt": "Que ótimo! É fundamental que a gente separe o lixo em casa.",
-        "en": "Great! It's essential that we sort the garbage at home.",
-        "ar": "رائع! من الضروري أن نفرز القمامة في المنزل."
+        "pt": "A reciclagem ajuda o planeta.",
+        "en": "Recycling helps the planet.",
+        "ar": "تعيد التدوير المساعدة على الكوكب."
       }
     },
     {
@@ -101,9 +101,9 @@
       "en": "the global warming",
       "ar": "الاحتباس الحراري",
       "example": {
-        "pt": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
-        "en": "Did you know our neighborhood will get a recycling system?",
-        "ar": "هل تعلم أن حينا سيحصل على نظام لإعادة التدوير؟"
+        "pt": "O aquecimento global acelera.",
+        "en": "Global warming is accelerating.",
+        "ar": "يتسارع الاحتباس الحراري."
       }
     },
     {
@@ -112,9 +112,9 @@
       "en": "the renewable energy",
       "ar": "الطاقة المتجددة",
       "example": {
-        "pt": "Que ótimo! É fundamental que a gente separe o lixo em casa.",
-        "en": "Great! It's essential that we sort the garbage at home.",
-        "ar": "رائع! من الضروري أن نفرز القمامة في المنزل."
+        "pt": "A energia renovável é o futuro.",
+        "en": "Renewable energy is the future.",
+        "ar": "الطاقة المتجددة هي المستقبل."
       }
     },
     {
@@ -123,9 +123,9 @@
       "en": "the preservation",
       "ar": "الحفاظ",
       "example": {
-        "pt": "Que ótimo! É fundamental que a gente separe o lixo em casa.",
-        "en": "Great! It's essential that we sort the garbage at home.",
-        "ar": "رائع! من الضروري أن نفرز القمامة في المنزل."
+        "pt": "A preservação é urgente.",
+        "en": "Preservation is urgent.",
+        "ar": "الحفظ عاجل."
       }
     },
     {
@@ -134,9 +134,9 @@
       "en": "the ecosystem",
       "ar": "النظام البيئي",
       "example": {
-        "pt": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
-        "en": "Did you know our neighborhood will get a recycling system?",
-        "ar": "هل تعلم أن حينا سيحصل على نظام لإعادة التدوير؟"
+        "pt": "O ecossistema marinho mudou.",
+        "en": "The marine ecosystem changed.",
+        "ar": "تغيّر النظام البيئي البحري."
       }
     },
     {
@@ -145,9 +145,9 @@
       "en": "the endangered species",
       "ar": "الأنواع المهددة بالانقراض",
       "example": {
-        "pt": "Que ótimo! É fundamental que a gente separe o lixo em casa.",
-        "en": "Great! It's essential that we sort the garbage at home.",
-        "ar": "رائع! من الضروري أن نفرز القمامة في المنزل."
+        "pt": "A espécie ameaçada precisa de proteção.",
+        "en": "The endangered species needs protection.",
+        "ar": "تحتاج الأنواع المهددة بالانقراض إلى حماية."
       }
     },
     {
@@ -156,9 +156,9 @@
       "en": "the natural resource",
       "ar": "المورد الطبيعي",
       "example": {
-        "pt": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
-        "en": "Did you know our neighborhood will get a recycling system?",
-        "ar": "هل تعلم أن حينا سيحصل على نظام لإعادة التدوير؟"
+        "pt": "O recurso natural mais importante é a água.",
+        "en": "The most important natural resource is water.",
+        "ar": "أهم مورد طبيعي هو الماء."
       }
     },
     {
@@ -167,9 +167,9 @@
       "en": "the drought",
       "ar": "الجفاف",
       "example": {
-        "pt": "Que ótimo! É fundamental que a gente separe o lixo em casa.",
-        "en": "Great! It's essential that we sort the garbage at home.",
-        "ar": "رائع! من الضروري أن نفرز القمامة في المنزل."
+        "pt": "A seca durou meses.",
+        "en": "The drought lasted months.",
+        "ar": "استمر الجفاف شهورًا."
       }
     },
     {
@@ -178,9 +178,9 @@
       "en": "the flood",
       "ar": "الفيضان",
       "example": {
-        "pt": "Que ótimo! É fundamental que a gente separe o lixo em casa.",
-        "en": "Great! It's essential that we sort the garbage at home.",
-        "ar": "رائع! من الضروري أن نفرز القمامة في المنزل."
+        "pt": "A enchente surpreendeu todos.",
+        "en": "The flood surprised everyone.",
+        "ar": "فاجأ الفيضان الجميع."
       }
     },
     {
@@ -189,9 +189,9 @@
       "en": "to reduce",
       "ar": "يقلل",
       "example": {
-        "pt": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
-        "en": "Did you know our neighborhood will get a recycling system?",
-        "ar": "هل تعلم أن حينا سيحصل على نظام لإعادة التدوير؟"
+        "pt": "Precisamos reduzir o consumo.",
+        "en": "We need to reduce consumption.",
+        "ar": "علينا تقليل الاستهلاك."
       }
     },
     {
@@ -200,9 +200,9 @@
       "en": "to reuse",
       "ar": "يعيد الاستخدام",
       "example": {
-        "pt": "Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?",
-        "en": "Did you know our neighborhood will get a recycling system?",
-        "ar": "هل تعلم أن حينا سيحصل على نظام لإعادة التدوير؟"
+        "pt": "É bom reutilizar materiais.",
+        "en": "It's good to reuse materials.",
+        "ar": "من الجيد إعادة استخدام المواد."
       }
     }
   ],
@@ -936,6 +936,232 @@
         "pt": "A frase correta: 'Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?'",
         "en": "The correct sentence: 'Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?'",
         "ar": "الجملة الصحيحة: 'Você sabia que o nosso bairro vai ganhar um sistema de reciclagem?'"
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the global warming'?",
+        "en": "Which word means 'the global warming'?",
+        "ar": "أي كلمة تعني 'الاحتباس الحراري'؟"
+      },
+      "options": [
+        {
+          "pt": "o ecossistema",
+          "en": "the ecosystem",
+          "ar": "النظام البيئي"
+        },
+        {
+          "pt": "o aquecimento global",
+          "en": "the global warming",
+          "ar": "الاحتباس الحراري"
+        },
+        {
+          "pt": "a espécie ameaçada",
+          "en": "the endangered species",
+          "ar": "الأنواع المهددة بالانقراض"
+        }
+      ],
+      "answer": "o aquecimento global",
+      "explanation": {
+        "pt": "'o aquecimento global' significa 'the global warming'.",
+        "en": "'o aquecimento global' means 'the global warming'.",
+        "ar": "تعني 'o aquecimento global' 'الاحتباس الحراري'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the garbage'?",
+        "en": "Which word means 'the garbage'?",
+        "ar": "أي كلمة تعني 'القمامة'؟"
+      },
+      "options": [
+        {
+          "pt": "o lixo",
+          "en": "the garbage",
+          "ar": "القمامة"
+        },
+        {
+          "pt": "o ecossistema",
+          "en": "the ecosystem",
+          "ar": "النظام البيئي"
+        },
+        {
+          "pt": "o meio ambiente",
+          "en": "the environment",
+          "ar": "البيئة"
+        }
+      ],
+      "answer": "o lixo",
+      "explanation": {
+        "pt": "'o lixo' significa 'the garbage'.",
+        "en": "'o lixo' means 'the garbage'.",
+        "ar": "تعني 'o lixo' 'القمامة'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"Because of global warming, we have to act now.\"",
+        "en": "Translate into Portuguese: \"Because of global warming, we have to act now.\"",
+        "ar": "ترجم إلى البرتغالية: \"بسبب الاحتباس الحراري، يجب أن نتحرك الآن.\""
+      },
+      "options": [],
+      "answer": "Por causa do aquecimento global, temos que agir já.",
+      "explanation": {
+        "pt": "Resposta: \"Por causa do aquecimento global, temos que agir já.\".",
+        "en": "Answer: \"Por causa do aquecimento global, temos que agir já.\". (EN: \"Because of global warming, we have to act now.\")",
+        "ar": "الإجابة: \"Por causa do aquecimento global, temos que agir já.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"Global warming is accelerating.\"",
+        "en": "Translate into Portuguese: \"Global warming is accelerating.\"",
+        "ar": "ترجم إلى البرتغالية: \"يتسارع الاحتباس الحراري.\""
+      },
+      "options": [],
+      "answer": "O aquecimento global acelera.",
+      "explanation": {
+        "pt": "Resposta: \"O aquecimento global acelera.\".",
+        "en": "Answer: \"O aquecimento global acelera.\". (EN: \"Global warming is accelerating.\")",
+        "ar": "الإجابة: \"O aquecimento global acelera.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"É bom ___ materiais.\"",
+        "en": "Complete: \"É bom ___ materiais.\"",
+        "ar": "أكمل: \"É bom ___ materiais.\""
+      },
+      "options": [
+        {
+          "pt": "reutilizar",
+          "en": "reutilizar",
+          "ar": "reutilizar"
+        },
+        {
+          "pt": "o meio ambiente",
+          "en": "o meio ambiente",
+          "ar": "o meio ambiente"
+        },
+        {
+          "pt": "a reciclagem",
+          "en": "a reciclagem",
+          "ar": "a reciclagem"
+        }
+      ],
+      "answer": "reutilizar",
+      "explanation": {
+        "pt": "A lacuna é 'reutilizar'.",
+        "en": "The blank is 'reutilizar'.",
+        "ar": "الفراغ هو 'reutilizar'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Precisamos ___ o consumo.\"",
+        "en": "Complete: \"Precisamos ___ o consumo.\"",
+        "ar": "أكمل: \"Precisamos ___ o consumo.\""
+      },
+      "options": [
+        {
+          "pt": "reduzir",
+          "en": "reduzir",
+          "ar": "reduzir"
+        },
+        {
+          "pt": "o desmatamento",
+          "en": "o desmatamento",
+          "ar": "o desmatamento"
+        },
+        {
+          "pt": "a energia renovável",
+          "en": "a energia renovável",
+          "ar": "a energia renovável"
+        }
+      ],
+      "answer": "reduzir",
+      "explanation": {
+        "pt": "A lacuna é 'reduzir'.",
+        "en": "The blank is 'reduzir'.",
+        "ar": "الفراغ هو 'reduzir'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: \"The marine ecosystem changed.\"",
+        "en": "Type in Portuguese: \"The marine ecosystem changed.\"",
+        "ar": "اكتب بالبرتغالية: \"تغيّر النظام البيئي البحري.\""
+      },
+      "options": [],
+      "answer": "O ecossistema marinho mudou.",
+      "accepted": [
+        "O ecossistema marinho mudou."
+      ],
+      "explanation": {
+        "pt": "Resposta possível: \"O ecossistema marinho mudou.\".",
+        "en": "One possible answer: \"O ecossistema marinho mudou.\".",
+        "ar": "إجابة ممكنة: \"O ecossistema marinho mudou.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "A",
+          "en": "A",
+          "ar": "A"
+        },
+        {
+          "pt": "precisa",
+          "en": "precisa",
+          "ar": "precisa"
+        },
+        {
+          "pt": "espécie",
+          "en": "espécie",
+          "ar": "espécie"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "proteção.",
+          "en": "proteção.",
+          "ar": "proteção."
+        },
+        {
+          "pt": "ameaçada",
+          "en": "ameaçada",
+          "ar": "ameaçada"
+        }
+      ],
+      "answer": "A espécie ameaçada precisa de proteção.",
+      "gen": "v1.8",
+      "explanation": {
+        "pt": "A frase correta é: \"A espécie ameaçada precisa de proteção.\".",
+        "en": "The correct sentence is: \"A espécie ameaçada precisa de proteção.\".",
+        "ar": "الجملة الصحيحة هي: \"A espécie ameaçada precisa de proteção.\"."
       }
     }
   ],

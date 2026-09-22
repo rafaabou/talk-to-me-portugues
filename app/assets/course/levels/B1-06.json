@@ -30,9 +30,9 @@
       "en": "the soccer",
       "ar": "كرة القدم",
       "example": {
-        "pt": "Este time é mais forte que o rival.",
-        "en": "This team is stronger than the rival.",
-        "ar": "هذا الفريق أقوى من الخصم."
+        "pt": "O futebol é popular no Brasil.",
+        "en": "Soccer is popular in Brazil.",
+        "ar": "كرة القدم شائعة في البرازيل."
       }
     },
     {
@@ -41,9 +41,9 @@
       "en": "the team",
       "ar": "الفريق",
       "example": {
-        "pt": "Este time é mais forte que o rival.",
-        "en": "This team is stronger than the rival.",
-        "ar": "هذا الفريق أقوى من الخصم."
+        "pt": "O time ganhou ontem.",
+        "en": "The team won yesterday.",
+        "ar": "فاز الفريق أمس."
       }
     },
     {
@@ -52,9 +52,9 @@
       "en": "the player",
       "ar": "اللاعب",
       "example": {
-        "pt": "Este time é mais forte que o rival.",
-        "en": "This team is stronger than the rival.",
-        "ar": "هذا الفريق أقوى من الخصم."
+        "pt": "O jogador se machucou.",
+        "en": "The player got hurt.",
+        "ar": "أُذي اللاعب."
       }
     },
     {
@@ -63,9 +63,9 @@
       "en": "the match",
       "ar": "المباراة",
       "example": {
-        "pt": "Vou sim. A torcida está animada!",
-        "en": "Yes, I am. The fans are excited!",
-        "ar": "نعم سأذهب. الجمهور متحمّس!"
+        "pt": "A partida foi intensa.",
+        "en": "The match was intense.",
+        "ar": "كانت المباراة حماسية."
       }
     },
     {
@@ -74,9 +74,9 @@
       "en": "the goal",
       "ar": "الهدف",
       "example": {
-        "pt": "Este time é mais forte que o rival.",
-        "en": "This team is stronger than the rival.",
-        "ar": "هذا الفريق أقوى من الخصم."
+        "pt": "O gol decidiu o jogo.",
+        "en": "The goal decided the game.",
+        "ar": "حسم الهدف المباراة."
       }
     },
     {
@@ -85,9 +85,9 @@
       "en": "the fans",
       "ar": "جمهور المشجعين",
       "example": {
-        "pt": "Vou sim. A torcida está animada!",
-        "en": "Yes, I am. The fans are excited!",
-        "ar": "نعم سأذهب. الجمهور متحمّس!"
+        "pt": "A torcida comemorou.",
+        "en": "The fans celebrated.",
+        "ar": "احتفل الجمهور."
       }
     },
     {
@@ -96,9 +96,9 @@
       "en": "the stadium",
       "ar": "الملعب",
       "example": {
-        "pt": "Este time é mais forte que o rival.",
-        "en": "This team is stronger than the rival.",
-        "ar": "هذا الفريق أقوى من الخصم."
+        "pt": "O estádio está lotado.",
+        "en": "The stadium is full.",
+        "ar": "الملعب مكتظ."
       }
     },
     {
@@ -107,9 +107,9 @@
       "en": "the championship",
       "ar": "البطولة",
       "example": {
-        "pt": "Este time é mais forte que o rival.",
-        "en": "This team is stronger than the rival.",
-        "ar": "هذا الفريق أقوى من الخصم."
+        "pt": "O campeonato começa em maio.",
+        "en": "The championship starts in May.",
+        "ar": "تبدأ البطولة في مايو."
       }
     },
     {
@@ -118,9 +118,9 @@
       "en": "the coach",
       "ar": "المدرب",
       "example": {
-        "pt": "Este time é mais forte que o rival.",
-        "en": "This team is stronger than the rival.",
-        "ar": "هذا الفريق أقوى من الخصم."
+        "pt": "O treinador elogiou a equipe.",
+        "en": "The coach praised the team.",
+        "ar": "مدح المدرب الفريق."
       }
     },
     {
@@ -129,9 +129,9 @@
       "en": "the referee",
       "ar": "الحكم",
       "example": {
-        "pt": "Este time é mais forte que o rival.",
-        "en": "This team is stronger than the rival.",
-        "ar": "هذا الفريق أقوى من الخصم."
+        "pt": "O árbitro parou o jogo.",
+        "en": "The referee stopped the game.",
+        "ar": "أوقف الحكم المباراة."
       }
     },
     {
@@ -140,9 +140,9 @@
       "en": "the card",
       "ar": "البطاقة",
       "example": {
-        "pt": "Este time é mais forte que o rival.",
-        "en": "This team is stronger than the rival.",
-        "ar": "هذا الفريق أقوى من الخصم."
+        "pt": "O árbitro mostrou o cartão vermelho.",
+        "en": "The referee showed the red card.",
+        "ar": "أظهر الحكم البطاقة الحمراء."
       }
     },
     {
@@ -151,9 +151,9 @@
       "en": "the penalty",
       "ar": "ركلة الجزاء",
       "example": {
-        "pt": "Este time é mais forte que o rival.",
-        "en": "This team is stronger than the rival.",
-        "ar": "هذا الفريق أقوى من الخصم."
+        "pt": "O pênalti foi marcado.",
+        "en": "The penalty was called.",
+        "ar": "احتُسبت ركلة الجزاء."
       }
     },
     {
@@ -162,9 +162,9 @@
       "en": "the champion",
       "ar": "البطل",
       "example": {
-        "pt": "Este time é mais forte que o rival.",
-        "en": "This team is stronger than the rival.",
-        "ar": "هذا الفريق أقوى من الخصم."
+        "pt": "Ele é o campeão da copa.",
+        "en": "He is the cup champion.",
+        "ar": "هو بطل الكأس."
       }
     },
     {
@@ -173,9 +173,9 @@
       "en": "the defeat",
       "ar": "الهزيمة",
       "example": {
-        "pt": "Vou sim. A torcida está animada!",
-        "en": "Yes, I am. The fans are excited!",
-        "ar": "نعم سأذهب. الجمهور متحمّس!"
+        "pt": "A derrota foi dolorosa.",
+        "en": "The defeat was painful.",
+        "ar": "كانت الهزيمة مؤلمة."
       }
     },
     {
@@ -184,9 +184,9 @@
       "en": "the victory",
       "ar": "الانتصار",
       "example": {
-        "pt": "Vou sim. A torcida está animada!",
-        "en": "Yes, I am. The fans are excited!",
-        "ar": "نعم سأذهب. الجمهور متحمّس!"
+        "pt": "A vitória foi merecida.",
+        "en": "The victory was deserved.",
+        "ar": "كان الانتصار مستحقًا."
       }
     },
     {
@@ -195,9 +195,9 @@
       "en": "the exercise",
       "ar": "التمرين",
       "example": {
-        "pt": "Este time é mais forte que o rival.",
-        "en": "This team is stronger than the rival.",
-        "ar": "هذا الفريق أقوى من الخصم."
+        "pt": "Faça o exercício de casa.",
+        "en": "Do the homework exercise.",
+        "ar": "افعل تمرين الواجب."
       }
     }
   ],
@@ -867,6 +867,237 @@
         "pt": "A frase correta: 'Você vai ao estádio hoje?'",
         "en": "The correct sentence: 'Você vai ao estádio hoje?'",
         "ar": "الجملة الصحيحة: 'Você vai ao estádio hoje?'"
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the victory'?",
+        "en": "Which word means 'the victory'?",
+        "ar": "أي كلمة تعني 'الانتصار'؟"
+      },
+      "options": [
+        {
+          "pt": "o campeão",
+          "en": "the champion",
+          "ar": "البطل"
+        },
+        {
+          "pt": "a partida",
+          "en": "the match",
+          "ar": "المباراة"
+        },
+        {
+          "pt": "a vitória",
+          "en": "the victory",
+          "ar": "الانتصار"
+        },
+        {
+          "pt": "o estádio",
+          "en": "the stadium",
+          "ar": "الملعب"
+        }
+      ],
+      "answer": "a vitória",
+      "explanation": {
+        "pt": "'a vitória' significa 'the victory'.",
+        "en": "'a vitória' means 'the victory'.",
+        "ar": "تعني 'a vitória' 'الانتصار'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the exercise'?",
+        "en": "Which word means 'the exercise'?",
+        "ar": "أي كلمة تعني 'التمرين'؟"
+      },
+      "options": [
+        {
+          "pt": "o treinador",
+          "en": "the coach",
+          "ar": "المدرب"
+        },
+        {
+          "pt": "o time",
+          "en": "the team",
+          "ar": "الفريق"
+        },
+        {
+          "pt": "o exercício",
+          "en": "the exercise",
+          "ar": "التمرين"
+        }
+      ],
+      "answer": "o exercício",
+      "explanation": {
+        "pt": "'o exercício' significa 'the exercise'.",
+        "en": "'o exercício' means 'the exercise'.",
+        "ar": "تعني 'o exercício' 'التمرين'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"Yes, I am. The fans are excited!\"",
+        "en": "Translate into Portuguese: \"Yes, I am. The fans are excited!\"",
+        "ar": "ترجم إلى البرتغالية: \"نعم سأذهب. الجمهور متحمّس!\""
+      },
+      "options": [],
+      "answer": "Vou sim. A torcida está animada!",
+      "explanation": {
+        "pt": "Resposta: \"Vou sim. A torcida está animada!\".",
+        "en": "Answer: \"Vou sim. A torcida está animada!\". (EN: \"Yes, I am. The fans are excited!\")",
+        "ar": "الإجابة: \"Vou sim. A torcida está animada!\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"The goal decided the game.\"",
+        "en": "Translate into Portuguese: \"The goal decided the game.\"",
+        "ar": "ترجم إلى البرتغالية: \"حسم الهدف المباراة.\""
+      },
+      "options": [],
+      "answer": "O gol decidiu o jogo.",
+      "explanation": {
+        "pt": "Resposta: \"O gol decidiu o jogo.\".",
+        "en": "Answer: \"O gol decidiu o jogo.\". (EN: \"The goal decided the game.\")",
+        "ar": "الإجابة: \"O gol decidiu o jogo.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Faça ___ de casa.\"",
+        "en": "Complete: \"Faça ___ de casa.\"",
+        "ar": "أكمل: \"Faça ___ de casa.\""
+      },
+      "options": [
+        {
+          "pt": "o exercício",
+          "en": "o exercício",
+          "ar": "o exercício"
+        },
+        {
+          "pt": "a partida",
+          "en": "a partida",
+          "ar": "a partida"
+        },
+        {
+          "pt": "o campeonato",
+          "en": "o campeonato",
+          "ar": "o campeonato"
+        }
+      ],
+      "answer": "o exercício",
+      "explanation": {
+        "pt": "A lacuna é 'o exercício'.",
+        "en": "The blank is 'o exercício'.",
+        "ar": "الفراغ هو 'o exercício'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Ele é ___ da copa.\"",
+        "en": "Complete: \"Ele é ___ da copa.\"",
+        "ar": "أكمل: \"Ele é ___ da copa.\""
+      },
+      "options": [
+        {
+          "pt": "o jogador",
+          "en": "o jogador",
+          "ar": "o jogador"
+        },
+        {
+          "pt": "o campeão",
+          "en": "o campeão",
+          "ar": "o campeão"
+        },
+        {
+          "pt": "o estádio",
+          "en": "o estádio",
+          "ar": "o estádio"
+        }
+      ],
+      "answer": "o campeão",
+      "explanation": {
+        "pt": "A lacuna é 'o campeão'.",
+        "en": "The blank is 'o campeão'.",
+        "ar": "الفراغ هو 'o campeão'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: \"He is the cup champion.\"",
+        "en": "Type in Portuguese: \"He is the cup champion.\"",
+        "ar": "اكتب بالبرتغالية: \"هو بطل الكأس.\""
+      },
+      "options": [],
+      "answer": "Ele é o campeão da copa.",
+      "accepted": [
+        "Ele é o campeão da copa."
+      ],
+      "explanation": {
+        "pt": "Resposta possível: \"Ele é o campeão da copa.\".",
+        "en": "One possible answer: \"Ele é o campeão da copa.\".",
+        "ar": "إجابة ممكنة: \"Ele é o campeão da copa.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "popular",
+          "en": "popular",
+          "ar": "popular"
+        },
+        {
+          "pt": "é",
+          "en": "é",
+          "ar": "é"
+        },
+        {
+          "pt": "Brasil.",
+          "en": "Brasil.",
+          "ar": "Brasil."
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "no",
+          "en": "no",
+          "ar": "no"
+        },
+        {
+          "pt": "futebol",
+          "en": "futebol",
+          "ar": "futebol"
+        }
+      ],
+      "answer": "O futebol é popular no Brasil.",
+      "gen": "v1.8",
+      "explanation": {
+        "pt": "A frase correta é: \"O futebol é popular no Brasil.\".",
+        "en": "The correct sentence is: \"O futebol é popular no Brasil.\".",
+        "ar": "الجملة الصحيحة هي: \"O futebol é popular no Brasil.\"."
       }
     }
   ],

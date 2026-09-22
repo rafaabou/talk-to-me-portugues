@@ -35,9 +35,9 @@
       "en": "the formal letter",
       "ar": "الرسالة الرسمية",
       "example": {
-        "pt": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
-        "en": "Dear Dr. Martins, I am writing to confirm Friday's meeting.",
-        "ar": "عزيزي الدكتور مارتنز، أكتب إليكم لتأكيد اجتماع يوم الجمعة."
+        "pt": "A carta formal exige cuidado.",
+        "en": "The formal letter requires care.",
+        "ar": "تتطلب الرسالة الرسمية عناية."
       }
     },
     {
@@ -46,9 +46,9 @@
       "en": "the email",
       "ar": "البريد الإلكتروني",
       "example": {
-        "pt": "Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.",
-        "en": "Dear Mr. Lopes, I thank you for your contact and confirm the ten o'clock slot.",
-        "ar": "عزيزي السيد لوبيز، أشكركم على تواصلكم وأؤكد موعد الساعة العاشرة."
+        "pt": "O e-mail chegou agora.",
+        "en": "The email just arrived.",
+        "ar": "وصل البريد الإلكتروني الآن."
       }
     },
     {
@@ -57,9 +57,9 @@
       "en": "the recipient",
       "ar": "المرسل إليه",
       "example": {
-        "pt": "Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.",
-        "en": "Dear Mr. Lopes, I thank you for your contact and confirm the ten o'clock slot.",
-        "ar": "عزيزي السيد لوبيز، أشكركم على تواصلكم وأؤكد موعد الساعة العاشرة."
+        "pt": "O destinatário é o gerente.",
+        "en": "The recipient is the manager.",
+        "ar": "المرسل إليه هو المدير."
       }
     },
     {
@@ -68,9 +68,9 @@
       "en": "the sender",
       "ar": "المرسل",
       "example": {
-        "pt": "Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.",
-        "en": "Dear Mr. Lopes, I thank you for your contact and confirm the ten o'clock slot.",
-        "ar": "عزيزي السيد لوبيز، أشكركم على تواصلكم وأؤكد موعد الساعة العاشرة."
+        "pt": "Confira o remetente.",
+        "en": "Check the sender.",
+        "ar": "تحقق من المرسل."
       }
     },
     {
@@ -79,9 +79,9 @@
       "en": "the subject",
       "ar": "الموضوع",
       "example": {
-        "pt": "Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.",
-        "en": "Dear Mr. Lopes, I thank you for your contact and confirm the ten o'clock slot.",
-        "ar": "عزيزي السيد لوبيز، أشكركم على تواصلكم وأؤكد موعد الساعة العاشرة."
+        "pt": "O assunto do e-mail está claro.",
+        "en": "The subject of the email is clear.",
+        "ar": "موضوع البريد الإلكتروني واضح."
       }
     },
     {
@@ -90,9 +90,9 @@
       "en": "the attachment",
       "ar": "المرفق",
       "example": {
-        "pt": "Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.",
-        "en": "Dear Mr. Lopes, I thank you for your contact and confirm the ten o'clock slot.",
-        "ar": "عزيزي السيد لوبيز، أشكركم على تواصلكم وأؤكد موعد الساعة العاشرة."
+        "pt": "O anexo é um PDF.",
+        "en": "The attachment is a PDF.",
+        "ar": "المرفق ملف PDF."
       }
     },
     {
@@ -101,9 +101,9 @@
       "en": "the greeting",
       "ar": "التحية",
       "example": {
-        "pt": "Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.",
-        "en": "Dear Mr. Lopes, I thank you for your contact and confirm the ten o'clock slot.",
-        "ar": "عزيزي السيد لوبيز، أشكركم على تواصلكم وأؤكد موعد الساعة العاشرة."
+        "pt": "O cumprimento no e-mail é breve.",
+        "en": "The greeting in the email is brief.",
+        "ar": "التحية في البريد مختصرة."
       }
     },
     {
@@ -112,9 +112,9 @@
       "en": "the salutation",
       "ar": "التحية، السلام",
       "example": {
-        "pt": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
-        "en": "Dear Dr. Martins, I am writing to confirm Friday's meeting.",
-        "ar": "عزيزي الدكتور مارتنز، أكتب إليكم لتأكيد اجتماع يوم الجمعة."
+        "pt": "A saudação inicial é 'Prezado'.",
+        "en": "The opening salutation is 'Dear'.",
+        "ar": "التحية الافتتاحية هي \"عزيزي\"."
       }
     },
     {
@@ -123,9 +123,9 @@
       "en": "the closing",
       "ar": "الخاتمة، التوديع",
       "example": {
-        "pt": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
-        "en": "Dear Dr. Martins, I am writing to confirm Friday's meeting.",
-        "ar": "عزيزي الدكتور مارتنز، أكتب إليكم لتأكيد اجتماع يوم الجمعة."
+        "pt": "A despedida deve ser cordial.",
+        "en": "The closing should be cordial.",
+        "ar": "يجب أن تكون بتحية طيبة."
       }
     },
     {
@@ -134,9 +134,9 @@
       "en": "cordially",
       "ar": "باحترام، بتحية طيبة",
       "example": {
-        "pt": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
-        "en": "Dear Dr. Martins, I am writing to confirm Friday's meeting.",
-        "ar": "عزيزي الدكتور مارتنز، أكتب إليكم لتأكيد اجتماع يوم الجمعة."
+        "pt": "Encerre cordialmente a mensagem.",
+        "en": "Close the message cordially.",
+        "ar": "اختم الرسالة بتحية طيبة."
       }
     },
     {
@@ -145,9 +145,9 @@
       "en": "sincerely",
       "ar": "مع خالص التحية",
       "example": {
-        "pt": "Fico à disposição também. Atenciosamente, Antônio Lopes.",
-        "en": "I am at your disposal as well. Sincerely, Antônio Lopes.",
-        "ar": "وأنا أيضًا تحت تصرفكم. مع خالص التحية، أنطونيو لوبيز."
+        "pt": "Assine atenciosamente o e-mail.",
+        "en": "Sign the email 'sincerely'.",
+        "ar": "وقّع البريد بـ\"مع خالص التحية\"."
       }
     },
     {
@@ -156,9 +156,9 @@
       "en": "the request",
       "ar": "الطلب",
       "example": {
-        "pt": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
-        "en": "Dear Dr. Martins, I am writing to confirm Friday's meeting.",
-        "ar": "عزيزي الدكتور مارتنز، أكتب إليكم لتأكيد اجتماع يوم الجمعة."
+        "pt": "A solicitação foi protocolada.",
+        "en": "The request was filed.",
+        "ar": "حُوِّل الطلب رسميًا."
       }
     },
     {
@@ -167,9 +167,9 @@
       "en": "the clarification",
       "ar": "التوضيح",
       "example": {
-        "pt": "Caro Sr. Lopes, agradeço o contato e confirmo o horário das dez horas.",
-        "en": "Dear Mr. Lopes, I thank you for your contact and confirm the ten o'clock slot.",
-        "ar": "عزيزي السيد لوبيز، أشكركم على تواصلكم وأؤكد موعد الساعة العاشرة."
+        "pt": "O esclarecimento veio por e-mail.",
+        "en": "The clarification came by email.",
+        "ar": "جاء التوضيح عبر البريد."
       }
     },
     {
@@ -178,9 +178,9 @@
       "en": "to thank",
       "ar": "يشكر",
       "example": {
-        "pt": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
-        "en": "Dear Dr. Martins, I am writing to confirm Friday's meeting.",
-        "ar": "عزيزي الدكتور مارتنز، أكتب إليكم لتأكيد اجتماع يوم الجمعة."
+        "pt": "Gosto de agradecer pessoalmente.",
+        "en": "I like to thank in person.",
+        "ar": "أحب أن أشكر شخصيًا."
       }
     },
     {
@@ -189,9 +189,9 @@
       "en": "to forward",
       "ar": "يحيل، يوجّه",
       "example": {
-        "pt": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
-        "en": "Dear Dr. Martins, I am writing to confirm Friday's meeting.",
-        "ar": "عزيزي الدكتور مارتنز، أكتب إليكم لتأكيد اجتماع يوم الجمعة."
+        "pt": "Vou encaminhar a mensagem à equipe.",
+        "en": "I'll forward the message to the team.",
+        "ar": "سأحيل الرسالة إلى الفريق."
       }
     },
     {
@@ -200,9 +200,9 @@
       "en": "to attach",
       "ar": "يرفق",
       "example": {
-        "pt": "Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.",
-        "en": "Dear Dr. Martins, I am writing to confirm Friday's meeting.",
-        "ar": "عزيزي الدكتور مارتنز، أكتب إليكم لتأكيد اجتماع يوم الجمعة."
+        "pt": "Pode anexar o PDF?",
+        "en": "Can you attach the PDF?",
+        "ar": "هل يمكنك إرفاق ملف PDF؟"
       }
     }
   ],
@@ -906,6 +906,237 @@
         "pt": "A frase correta: 'Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.'",
         "en": "The correct sentence: 'Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.'",
         "ar": "الجملة الصحيحة: 'Prezado Dr. Martins, venho confirmar a reunião de sexta-feira.'"
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'to thank'?",
+        "en": "Which word means 'to thank'?",
+        "ar": "أي كلمة تعني 'يشكر'؟"
+      },
+      "options": [
+        {
+          "pt": "a saudação",
+          "en": "the salutation",
+          "ar": "التحية، السلام"
+        },
+        {
+          "pt": "o cumprimento",
+          "en": "the greeting",
+          "ar": "التحية"
+        },
+        {
+          "pt": "agradecer",
+          "en": "to thank",
+          "ar": "يشكر"
+        }
+      ],
+      "answer": "agradecer",
+      "explanation": {
+        "pt": "'agradecer' significa 'to thank'.",
+        "en": "'agradecer' means 'to thank'.",
+        "ar": "تعني 'agradecer' 'يشكر'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the closing'?",
+        "en": "Which word means 'the closing'?",
+        "ar": "أي كلمة تعني 'الخاتمة، التوديع'؟"
+      },
+      "options": [
+        {
+          "pt": "o remetente",
+          "en": "the sender",
+          "ar": "المرسل"
+        },
+        {
+          "pt": "a despedida",
+          "en": "the closing",
+          "ar": "الخاتمة، التوديع"
+        },
+        {
+          "pt": "anexar",
+          "en": "to attach",
+          "ar": "يرفق"
+        },
+        {
+          "pt": "a carta formal",
+          "en": "the formal letter",
+          "ar": "الرسالة الرسمية"
+        }
+      ],
+      "answer": "a despedida",
+      "explanation": {
+        "pt": "'a despedida' significa 'the closing'.",
+        "en": "'a despedida' means 'the closing'.",
+        "ar": "تعني 'a despedida' 'الخاتمة، التوديع'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"Can you attach the PDF?\"",
+        "en": "Translate into Portuguese: \"Can you attach the PDF?\"",
+        "ar": "ترجم إلى البرتغالية: \"هل يمكنك إرفاق ملف PDF؟\""
+      },
+      "options": [],
+      "answer": "Pode anexar o PDF?",
+      "explanation": {
+        "pt": "Resposta: \"Pode anexar o PDF?\".",
+        "en": "Answer: \"Pode anexar o PDF?\". (EN: \"Can you attach the PDF?\")",
+        "ar": "الإجابة: \"Pode anexar o PDF?\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"Received. Should you need clarifications, I am at your disposal.\"",
+        "en": "Translate into Portuguese: \"Received. Should you need clarifications, I am at your disposal.\"",
+        "ar": "ترجم إلى البرتغالية: \"تم الاستلام. إذا احتجتم أي توضيحات، فأنا تحت تصرفكم.\""
+      },
+      "options": [],
+      "answer": "Recebido. Caso precise de esclarecimentos, estou à disposição.",
+      "explanation": {
+        "pt": "Resposta: \"Recebido. Caso precise de esclarecimentos, estou à disposição.\".",
+        "en": "Answer: \"Recebido. Caso precise de esclarecimentos, estou à disposição.\". (EN: \"Received. Should you need clarifications, I am at your disposal.\")",
+        "ar": "الإجابة: \"Recebido. Caso precise de esclarecimentos, estou à disposição.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Gosto de ___ pessoalmente.\"",
+        "en": "Complete: \"Gosto de ___ pessoalmente.\"",
+        "ar": "أكمل: \"Gosto de ___ pessoalmente.\""
+      },
+      "options": [
+        {
+          "pt": "agradecer",
+          "en": "agradecer",
+          "ar": "agradecer"
+        },
+        {
+          "pt": "o cumprimento",
+          "en": "o cumprimento",
+          "ar": "o cumprimento"
+        },
+        {
+          "pt": "a carta formal",
+          "en": "a carta formal",
+          "ar": "a carta formal"
+        }
+      ],
+      "answer": "agradecer",
+      "explanation": {
+        "pt": "A lacuna é 'agradecer'.",
+        "en": "The blank is 'agradecer'.",
+        "ar": "الفراغ هو 'agradecer'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Pode ___ o PDF?\"",
+        "en": "Complete: \"Pode ___ o PDF?\"",
+        "ar": "أكمل: \"Pode ___ o PDF?\""
+      },
+      "options": [
+        {
+          "pt": "o remetente",
+          "en": "o remetente",
+          "ar": "o remetente"
+        },
+        {
+          "pt": "anexar",
+          "en": "anexar",
+          "ar": "anexar"
+        },
+        {
+          "pt": "o anexo",
+          "en": "o anexo",
+          "ar": "o anexo"
+        }
+      ],
+      "answer": "anexar",
+      "explanation": {
+        "pt": "A lacuna é 'anexar'.",
+        "en": "The blank is 'anexar'.",
+        "ar": "الفراغ هو 'anexar'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: \"Sign the email 'sincerely'.\"",
+        "en": "Type in Portuguese: \"Sign the email 'sincerely'.\"",
+        "ar": "اكتب بالبرتغالية: \"وقّع البريد بـ\"مع خالص التحية\".\""
+      },
+      "options": [],
+      "answer": "Assine atenciosamente o e-mail.",
+      "accepted": [
+        "Assine atenciosamente o e-mail."
+      ],
+      "explanation": {
+        "pt": "Resposta possível: \"Assine atenciosamente o e-mail.\".",
+        "en": "One possible answer: \"Assine atenciosamente o e-mail.\".",
+        "ar": "إجابة ممكنة: \"Assine atenciosamente o e-mail.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "e-mail",
+          "en": "e-mail",
+          "ar": "e-mail"
+        },
+        {
+          "pt": "do",
+          "en": "do",
+          "ar": "do"
+        },
+        {
+          "pt": "claro.",
+          "en": "claro.",
+          "ar": "claro."
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "assunto",
+          "en": "assunto",
+          "ar": "assunto"
+        },
+        {
+          "pt": "está",
+          "en": "está",
+          "ar": "está"
+        }
+      ],
+      "answer": "O assunto do e-mail está claro.",
+      "gen": "v1.8",
+      "explanation": {
+        "pt": "A frase correta é: \"O assunto do e-mail está claro.\".",
+        "en": "The correct sentence is: \"O assunto do e-mail está claro.\".",
+        "ar": "الجملة الصحيحة هي: \"O assunto do e-mail está claro.\"."
       }
     }
   ],

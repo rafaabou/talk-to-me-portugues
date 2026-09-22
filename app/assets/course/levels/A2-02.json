@@ -35,9 +35,9 @@
       "en": "the money",
       "ar": "المال",
       "example": {
-        "pt": "Que bom! Qual é o desconto?",
-        "en": "Great! What is the discount?",
-        "ar": "رائع! ما الخصم؟"
+        "pt": "O dinheiro acabou.",
+        "en": "The money ran out.",
+        "ar": "نفد المال."
       }
     },
     {
@@ -46,9 +46,9 @@
       "en": "the price",
       "ar": "السعر",
       "example": {
-        "pt": "Que bom! Qual é o desconto?",
-        "en": "Great! What is the discount?",
-        "ar": "رائع! ما الخصم؟"
+        "pt": "O preço subiu muito.",
+        "en": "The price went up a lot.",
+        "ar": "ارتفع السعر كثيرًا."
       }
     },
     {
@@ -57,9 +57,9 @@
       "en": "cheap",
       "ar": "رخيص",
       "example": {
-        "pt": "Bom dia! Quer experimentar esta camisa?",
-        "en": "Good morning! Would you like to try on this shirt?",
-        "ar": "صباح الخير! هل تريد تجربة هذا القميص؟"
+        "pt": "Este sapato é barato.",
+        "en": "This shoe is cheap.",
+        "ar": "هذا الحذاء رخيص."
       }
     },
     {
@@ -68,9 +68,9 @@
       "en": "expensive",
       "ar": "غالٍ",
       "example": {
-        "pt": "Bom dia! Quer experimentar esta camisa?",
-        "en": "Good morning! Would you like to try on this shirt?",
-        "ar": "صباح الخير! هل تريد تجربة هذا القميص؟"
+        "pt": "O hotel é caro demais.",
+        "en": "The hotel is too expensive.",
+        "ar": "الفندق غالٍ جدًا."
       }
     },
     {
@@ -79,9 +79,9 @@
       "en": "the store",
       "ar": "المتجر",
       "example": {
-        "pt": "Bom dia! Quer experimentar esta camisa?",
-        "en": "Good morning! Would you like to try on this shirt?",
-        "ar": "صباح الخير! هل تريد تجربة هذا القميص؟"
+        "pt": "A loja fecha às nove.",
+        "en": "The store closes at nine.",
+        "ar": "يغلق المتجر في التاسعة."
       }
     },
     {
@@ -90,9 +90,9 @@
       "en": "the market",
       "ar": "السوق",
       "example": {
-        "pt": "Que bom! Qual é o desconto?",
-        "en": "Great! What is the discount?",
-        "ar": "رائع! ما الخصم؟"
+        "pt": "Compro frutas no mercado.",
+        "en": "I buy fruits at the market.",
+        "ar": "أشتري الفاكهة في السوق."
       }
     },
     {
@@ -101,9 +101,9 @@
       "en": "the supermarket",
       "ar": "السوبرماركت",
       "example": {
-        "pt": "Que bom! Qual é o desconto?",
-        "en": "Great! What is the discount?",
-        "ar": "رائع! ما الخصم؟"
+        "pt": "O supermercado está lotado.",
+        "en": "The supermarket is crowded.",
+        "ar": "السوبرماركت مزدحم."
       }
     },
     {
@@ -112,9 +112,9 @@
       "en": "the sale",
       "ar": "التخفيض",
       "example": {
-        "pt": "Bom dia! Quer experimentar esta camisa?",
-        "en": "Good morning! Would you like to try on this shirt?",
-        "ar": "صباح الخير! هل تريد تجربة هذا القميص؟"
+        "pt": "A promoção termina hoje.",
+        "en": "The sale ends today.",
+        "ar": "ينتهي التخفيض اليوم."
       }
     },
     {
@@ -123,9 +123,9 @@
       "en": "to pay",
       "ar": "يدفع",
       "example": {
-        "pt": "Posso pagar com cartão de crédito?",
-        "en": "Can I pay with a credit card?",
-        "ar": "هل يمكنني الدفع ببطاقة الائتمان؟"
+        "pt": "Eu vou pagar em dinheiro.",
+        "en": "I'm going to pay in cash.",
+        "ar": "سأدفع نقدًا."
       }
     },
     {
@@ -134,9 +134,9 @@
       "en": "to cost",
       "ar": "يكلف",
       "example": {
-        "pt": "Bom dia! Quer experimentar esta camisa?",
-        "en": "Good morning! Would you like to try on this shirt?",
-        "ar": "صباح الخير! هل تريد تجربة هذا القميص؟"
+        "pt": "Quanto vai custar a passagem?",
+        "en": "How much will the ticket cost?",
+        "ar": "كم سيكلّف التذكرة؟"
       }
     },
     {
@@ -145,9 +145,9 @@
       "en": "the change",
       "ar": "الباقي (الفكة)",
       "example": {
-        "pt": "Que bom! Qual é o desconto?",
-        "en": "Great! What is the discount?",
-        "ar": "رائع! ما الخصم؟"
+        "pt": "Pode me dar o troco?",
+        "en": "Can you give me the change?",
+        "ar": "هل يمكنك إعطائي الباقي؟"
       }
     },
     {
@@ -156,9 +156,9 @@
       "en": "the discount",
       "ar": "الخصم",
       "example": {
-        "pt": "Que bom! Qual é o desconto?",
-        "en": "Great! What is the discount?",
-        "ar": "رائع! ما الخصم؟"
+        "pt": "O desconto é de vinte por cento.",
+        "en": "The discount is twenty percent.",
+        "ar": "الخصم عشرون بالمئة."
       }
     },
     {
@@ -167,9 +167,9 @@
       "en": "in cash / one payment",
       "ar": "نقدًا",
       "example": {
-        "pt": "Bom dia! Quer experimentar esta camisa?",
-        "en": "Good morning! Would you like to try on this shirt?",
-        "ar": "صباح الخير! هل تريد تجربة هذا القميص؟"
+        "pt": "Pago à vista, por favor.",
+        "en": "Pay in one payment, please.",
+        "ar": "أدفع نقدًا، من فضلك."
       }
     },
     {
@@ -178,9 +178,9 @@
       "en": "in installments",
       "ar": "بالتقسيط",
       "example": {
-        "pt": "Bom dia! Quer experimentar esta camisa?",
-        "en": "Good morning! Would you like to try on this shirt?",
-        "ar": "صباح الخير! هل تريد تجربة هذا القميص؟"
+        "pt": "Ela comprou a prazo.",
+        "en": "She bought in installments.",
+        "ar": "اشترت بالتقسيط."
       }
     },
     {
@@ -189,9 +189,9 @@
       "en": "the card",
       "ar": "البطاقة",
       "example": {
-        "pt": "Que bom! Qual é o desconto?",
-        "en": "Great! What is the discount?",
-        "ar": "رائع! ما الخصم؟"
+        "pt": "Esqueci o cartão em casa.",
+        "en": "I forgot the card at home.",
+        "ar": "نسيت البطاقة في المنزل."
       }
     },
     {
@@ -200,9 +200,9 @@
       "en": "the shopping bag",
       "ar": "حقيبة التسوق",
       "example": {
-        "pt": "Bom dia! Quer experimentar esta camisa?",
-        "en": "Good morning! Would you like to try on this shirt?",
-        "ar": "صباح الخير! هل تريد تجربة هذا القميص؟"
+        "pt": "Levei uma sacola grande.",
+        "en": "I brought a big bag.",
+        "ar": "أخذت حقيبة كبيرة."
       }
     },
     {
@@ -211,9 +211,9 @@
       "en": "to try on",
       "ar": "يجرب",
       "example": {
-        "pt": "Bom dia! Quer experimentar esta camisa?",
-        "en": "Good morning! Would you like to try on this shirt?",
-        "ar": "صباح الخير! هل تريد تجربة هذا القميص؟"
+        "pt": "Você pode experimentar a calça.",
+        "en": "You can try on the pants.",
+        "ar": "يمكنك تجربة البنطال."
       }
     },
     {
@@ -222,9 +222,9 @@
       "en": "the salesperson",
       "ar": "البائع",
       "example": {
-        "pt": "Que bom! Qual é o desconto?",
-        "en": "Great! What is the discount?",
-        "ar": "رائع! ما الخصم؟"
+        "pt": "O vendedor é atencioso.",
+        "en": "The salesperson is attentive.",
+        "ar": "البائع مهتم بالعملاء."
       }
     }
   ],
@@ -894,6 +894,227 @@
         "pt": "A frase correta: 'Bom dia! Quer experimentar esta camisa?'",
         "en": "The correct sentence: 'Bom dia! Quer experimentar esta camisa?'",
         "ar": "الجملة الصحيحة: 'Bom dia! Quer experimentar esta camisa?'"
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the salesperson'?",
+        "en": "Which word means 'the salesperson'?",
+        "ar": "أي كلمة تعني 'البائع'؟"
+      },
+      "options": [
+        {
+          "pt": "o vendedor",
+          "en": "the salesperson",
+          "ar": "البائع"
+        },
+        {
+          "pt": "o supermercado",
+          "en": "the supermarket",
+          "ar": "السوبرماركت"
+        },
+        {
+          "pt": "caro",
+          "en": "expensive",
+          "ar": "غالٍ"
+        },
+        {
+          "pt": "à vista",
+          "en": "in cash / one payment",
+          "ar": "نقدًا"
+        }
+      ],
+      "answer": "o vendedor",
+      "explanation": {
+        "pt": "'o vendedor' significa 'the salesperson'.",
+        "en": "'o vendedor' means 'the salesperson'.",
+        "ar": "تعني 'o vendedor' 'البائع'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the store'?",
+        "en": "Which word means 'the store'?",
+        "ar": "أي كلمة تعني 'المتجر'؟"
+      },
+      "options": [
+        {
+          "pt": "caro",
+          "en": "expensive",
+          "ar": "غالٍ"
+        },
+        {
+          "pt": "a loja",
+          "en": "the store",
+          "ar": "المتجر"
+        },
+        {
+          "pt": "o dinheiro",
+          "en": "the money",
+          "ar": "المال"
+        }
+      ],
+      "answer": "a loja",
+      "explanation": {
+        "pt": "'a loja' significa 'the store'.",
+        "en": "'a loja' means 'the store'.",
+        "ar": "تعني 'a loja' 'المتجر'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"The sale ends today.\"",
+        "en": "Translate into Portuguese: \"The sale ends today.\"",
+        "ar": "ترجم إلى البرتغالية: \"ينتهي التخفيض اليوم.\""
+      },
+      "options": [],
+      "answer": "A promoção termina hoje.",
+      "explanation": {
+        "pt": "Resposta: \"A promoção termina hoje.\".",
+        "en": "Answer: \"A promoção termina hoje.\". (EN: \"The sale ends today.\")",
+        "ar": "الإجابة: \"A promoção termina hoje.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"I brought a big bag.\"",
+        "en": "Translate into Portuguese: \"I brought a big bag.\"",
+        "ar": "ترجم إلى البرتغالية: \"أخذت حقيبة كبيرة.\""
+      },
+      "options": [],
+      "answer": "Levei uma sacola grande.",
+      "explanation": {
+        "pt": "Resposta: \"Levei uma sacola grande.\".",
+        "en": "Answer: \"Levei uma sacola grande.\". (EN: \"I brought a big bag.\")",
+        "ar": "الإجابة: \"Levei uma sacola grande.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Esqueci ___ em casa.\"",
+        "en": "Complete: \"Esqueci ___ em casa.\"",
+        "ar": "أكمل: \"Esqueci ___ em casa.\""
+      },
+      "options": [
+        {
+          "pt": "o cartão",
+          "en": "o cartão",
+          "ar": "o cartão"
+        },
+        {
+          "pt": "o supermercado",
+          "en": "o supermercado",
+          "ar": "o supermercado"
+        },
+        {
+          "pt": "caro",
+          "en": "caro",
+          "ar": "caro"
+        }
+      ],
+      "answer": "o cartão",
+      "explanation": {
+        "pt": "A lacuna é 'o cartão'.",
+        "en": "The blank is 'o cartão'.",
+        "ar": "الفراغ هو 'o cartão'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Você pode ___ a calça.\"",
+        "en": "Complete: \"Você pode ___ a calça.\"",
+        "ar": "أكمل: \"Você pode ___ a calça.\""
+      },
+      "options": [
+        {
+          "pt": "a promoção",
+          "en": "a promoção",
+          "ar": "a promoção"
+        },
+        {
+          "pt": "experimentar",
+          "en": "experimentar",
+          "ar": "experimentar"
+        },
+        {
+          "pt": "o mercado",
+          "en": "o mercado",
+          "ar": "o mercado"
+        }
+      ],
+      "answer": "experimentar",
+      "explanation": {
+        "pt": "A lacuna é 'experimentar'.",
+        "en": "The blank is 'experimentar'.",
+        "ar": "الفراغ هو 'experimentar'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: \"Twenty percent. Do you accept card?\"",
+        "en": "Type in Portuguese: \"Twenty percent. Do you accept card?\"",
+        "ar": "اكتب بالبرتغالية: \"عشرون بالمئة. هل تقبل البطاقة؟\""
+      },
+      "options": [],
+      "answer": "Vinte por cento. Aceita cartão?",
+      "accepted": [
+        "Vinte por cento. Aceita cartão?"
+      ],
+      "explanation": {
+        "pt": "Resposta possível: \"Vinte por cento. Aceita cartão?\".",
+        "en": "One possible answer: \"Vinte por cento. Aceita cartão?\".",
+        "ar": "إجابة ممكنة: \"Vinte por cento. Aceita cartão?\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "subiu",
+          "en": "subiu",
+          "ar": "subiu"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "preço",
+          "en": "preço",
+          "ar": "preço"
+        },
+        {
+          "pt": "muito.",
+          "en": "muito.",
+          "ar": "muito."
+        }
+      ],
+      "answer": "O preço subiu muito.",
+      "gen": "v1.8",
+      "explanation": {
+        "pt": "A frase correta é: \"O preço subiu muito.\".",
+        "en": "The correct sentence is: \"O preço subiu muito.\".",
+        "ar": "الجملة الصحيحة هي: \"O preço subiu muito.\"."
       }
     }
   ],

@@ -40,9 +40,9 @@
       "en": "argument",
       "ar": "الحجة / البرهان",
       "example": {
-        "pt": "Duas premissas e uma conclusão: se todo conhecimento vem da experiência, então o racionalismo naufraga.",
-        "en": "Two premises and a conclusion: if all knowledge comes from experience, then rationalism founders.",
-        "ar": "مقدمتان ونتيجة: إذا كان كل المعرفة يأتي من التجربة، فإن العقلانية تغرق."
+        "pt": "O argumento sustenta a tese.",
+        "en": "The argument supports the thesis.",
+        "ar": "تدعم الحجة الأطروحة."
       }
     },
     {
@@ -51,9 +51,9 @@
       "en": "premise",
       "ar": "المقدمة",
       "example": {
-        "pt": "Apresente a estrutura do silogismo que lemos ontem.",
-        "en": "Present the structure of the syllogism we read yesterday.",
-        "ar": "اعرض بنية القياس المنطقي الذي قرأناه أمس."
+        "pt": "A premissa principal é falsa.",
+        "en": "The main premise is false.",
+        "ar": "المقدمة الرئيسية زائفة."
       }
     },
     {
@@ -62,9 +62,9 @@
       "en": "conclusion",
       "ar": "النتيجة",
       "example": {
-        "pt": "Apresente a estrutura do silogismo que lemos ontem.",
-        "en": "Present the structure of the syllogism we read yesterday.",
-        "ar": "اعرض بنية القياس المنطقي الذي قرأناه أمس."
+        "pt": "A conclusão não segue.",
+        "en": "The conclusion doesn't follow.",
+        "ar": "لا تتبع النتيجة."
       }
     },
     {
@@ -73,9 +73,9 @@
       "en": "sophism",
       "ar": "الشبهة / الحجة السفسطائية",
       "example": {
-        "pt": "Duas premissas e uma conclusão: se todo conhecimento vem da experiência, então o racionalismo naufraga.",
-        "en": "Two premises and a conclusion: if all knowledge comes from experience, then rationalism founders.",
-        "ar": "مقدمتان ونتيجة: إذا كان كل المعرفة يأتي من التجربة، فإن العقلانية تغرق."
+        "pt": "O sofisma parece convincente.",
+        "en": "The sophism seems convincing.",
+        "ar": "تبدو الشبهة مقنعة."
       }
     },
     {
@@ -84,9 +84,9 @@
       "en": "fallacy",
       "ar": "المغالطة",
       "example": {
-        "pt": "Apresente a estrutura do silogismo que lemos ontem.",
-        "en": "Present the structure of the syllogism we read yesterday.",
-        "ar": "اعرض بنية القياس المنطقي الذي قرأناه أمس."
+        "pt": "A falácia distorce o debate.",
+        "en": "The fallacy distorts the debate.",
+        "ar": "شوّهت المغالطة النقاش."
       }
     },
     {
@@ -95,9 +95,9 @@
       "en": "syllogism",
       "ar": "القياس المنطقي",
       "example": {
-        "pt": "Duas premissas e uma conclusão: se todo conhecimento vem da experiência, então o racionalismo naufraga.",
-        "en": "Two premises and a conclusion: if all knowledge comes from experience, then rationalism founders.",
-        "ar": "مقدمتان ونتيجة: إذا كان كل المعرفة يأتي من التجربة، فإن العقلانية تغرق."
+        "pt": "O silogismo parte de premissas.",
+        "en": "The syllogism starts from premises.",
+        "ar": "يبدأ القياس المنطقي من المقدمات."
       }
     },
     {
@@ -106,9 +106,9 @@
       "en": "induction",
       "ar": "الاستقراء",
       "example": {
-        "pt": "Apresente a estrutura do silogismo que lemos ontem.",
-        "en": "Present the structure of the syllogism we read yesterday.",
-        "ar": "اعرض بنية القياس المنطقي الذي قرأناه أمس."
+        "pt": "A indução parte dos casos.",
+        "en": "Induction starts from cases.",
+        "ar": "يبدأ الاستقراء من الحالات."
       }
     },
     {
@@ -117,9 +117,9 @@
       "en": "deduction",
       "ar": "الاستنباط",
       "example": {
-        "pt": "Apresente a estrutura do silogismo que lemos ontem.",
-        "en": "Present the structure of the syllogism we read yesterday.",
-        "ar": "اعرض بنية القياس المنطقي الذي قرأناه أمس."
+        "pt": "A dedução vai do geral ao particular.",
+        "en": "Deduction goes from general to particular.",
+        "ar": "ينتقل الاستنباط من العام إلى الخاص."
       }
     },
     {
@@ -128,9 +128,9 @@
       "en": "dialectics",
       "ar": "الجدل",
       "example": {
-        "pt": "Apresente a estrutura do silogismo que lemos ontem.",
-        "en": "Present the structure of the syllogism we read yesterday.",
-        "ar": "اعرض بنية القياس المنطقي الذي قرأناه أمس."
+        "pt": "A dialética busca a síntese.",
+        "en": "Dialectics seeks synthesis.",
+        "ar": "يبحث الجدل عن التوفيق."
       }
     },
     {
@@ -139,9 +139,9 @@
       "en": "ethics",
       "ar": "الأخلاق",
       "example": {
-        "pt": "Apresente a estrutura do silogismo que lemos ontem.",
-        "en": "Present the structure of the syllogism we read yesterday.",
-        "ar": "اعرض بنية القياس المنطقي الذي قرأناه أمس."
+        "pt": "A ética orienta a ação.",
+        "en": "Ethics guides action.",
+        "ar": "توجه الأخلاق الفعل."
       }
     },
     {
@@ -150,9 +150,9 @@
       "en": "aesthetics",
       "ar": "علم الجمال",
       "example": {
-        "pt": "Apresente a estrutura do silogismo que lemos ontem.",
-        "en": "Present the structure of the syllogism we read yesterday.",
-        "ar": "اعرض بنية القياس المنطقي الذي قرأناه أمس."
+        "pt": "A estética estuda a beleza.",
+        "en": "Aesthetics studies beauty.",
+        "ar": "يدرس علم الجمال الجمال."
       }
     },
     {
@@ -161,9 +161,9 @@
       "en": "existentialism",
       "ar": "الوجودية",
       "example": {
-        "pt": "Duas premissas e uma conclusão: se todo conhecimento vem da experiência, então o racionalismo naufraga.",
-        "en": "Two premises and a conclusion: if all knowledge comes from experience, then rationalism founders.",
-        "ar": "مقدمتان ونتيجة: إذا كان كل المعرفة يأتي من التجربة، فإن العقلانية تغرق."
+        "pt": "O existencialismo enfatiza a liberdade.",
+        "en": "Existentialism emphasizes freedom.",
+        "ar": "يؤكد الوجودية الحرية."
       }
     },
     {
@@ -172,9 +172,9 @@
       "en": "empiricism",
       "ar": "التجريبية",
       "example": {
-        "pt": "Duas premissas e uma conclusão: se todo conhecimento vem da experiência, então o racionalismo naufraga.",
-        "en": "Two premises and a conclusion: if all knowledge comes from experience, then rationalism founders.",
-        "ar": "مقدمتان ونتيجة: إذا كان كل المعرفة يأتي من التجربة، فإن العقلانية تغرق."
+        "pt": "O empirismo confia na experiência.",
+        "en": "Empiricism trusts experience.",
+        "ar": "يثق التجريبية في الخبرة."
       }
     },
     {
@@ -183,9 +183,9 @@
       "en": "rationalism",
       "ar": "العقلانية",
       "example": {
-        "pt": "Duas premissas e uma conclusão: se todo conhecimento vem da experiência, então o racionalismo naufraga.",
-        "en": "Two premises and a conclusion: if all knowledge comes from experience, then rationalism founders.",
-        "ar": "مقدمتان ونتيجة: إذا كان كل المعرفة يأتي من التجربة، فإن العقلانية تغرق."
+        "pt": "O racionalismo valoriza a razão.",
+        "en": "Rationalism values reason.",
+        "ar": "يعتز العقلانية بالعقل."
       }
     },
     {
@@ -194,9 +194,9 @@
       "en": "ontology",
       "ar": "الأنطولوجيا",
       "example": {
-        "pt": "Apresente a estrutura do silogismo que lemos ontem.",
-        "en": "Present the structure of the syllogism we read yesterday.",
-        "ar": "اعرض بنية القياس المنطقي الذي قرأناه أمس."
+        "pt": "A ontologia estuda o ser.",
+        "en": "Ontology studies being.",
+        "ar": "يدرس الأنطولوجيا الوجود."
       }
     },
     {
@@ -205,9 +205,9 @@
       "en": "epistemology",
       "ar": "نظرية المعرفة",
       "example": {
-        "pt": "Apresente a estrutura do silogismo que lemos ontem.",
-        "en": "Present the structure of the syllogism we read yesterday.",
-        "ar": "اعرض بنية القياس المنطقي الذي قرأناه أمس."
+        "pt": "A epistemologia estuda o conhecimento.",
+        "en": "Epistemology studies knowledge.",
+        "ar": "تدرس نظرية المعرفة."
       }
     },
     {
@@ -216,9 +216,9 @@
       "en": "skepticism",
       "ar": "الشكية",
       "example": {
-        "pt": "Duas premissas e uma conclusão: se todo conhecimento vem da experiência, então o racionalismo naufraga.",
-        "en": "Two premises and a conclusion: if all knowledge comes from experience, then rationalism founders.",
-        "ar": "مقدمتان ونتيجة: إذا كان كل المعرفة يأتي من التجربة، فإن العقلانية تغرق."
+        "pt": "O ceticismo duvida de tudo.",
+        "en": "Skepticism doubts everything.",
+        "ar": "يشك الشكية في كل شيء."
       }
     },
     {
@@ -227,9 +227,9 @@
       "en": "value judgment",
       "ar": "الحكم القيمي",
       "example": {
-        "pt": "Duas premissas e uma conclusão: se todo conhecimento vem da experiência, então o racionalismo naufraga.",
-        "en": "Two premises and a conclusion: if all knowledge comes from experience, then rationalism founders.",
-        "ar": "مقدمتان ونتيجة: إذا كان كل المعرفة يأتي من التجربة، فإن العقلانية تغرق."
+        "pt": "O juízo de valor é subjetivo.",
+        "en": "The value judgment is subjective.",
+        "ar": "الحكم القيمي ذاتي."
       }
     }
   ],
@@ -920,6 +920,227 @@
         "en": "The correct sentence: 'Apresente a estrutura do silogismo que lemos ontem.'",
         "ar": "الجملة الصحيحة: 'Apresente a estrutura do silogismo que lemos ontem.'"
       }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'skepticism'?",
+        "en": "Which word means 'skepticism'?",
+        "ar": "أي كلمة تعني 'الشكية'؟"
+      },
+      "options": [
+        {
+          "pt": "o ceticismo",
+          "en": "skepticism",
+          "ar": "الشكية"
+        },
+        {
+          "pt": "o existencialismo",
+          "en": "existentialism",
+          "ar": "الوجودية"
+        },
+        {
+          "pt": "a premissa",
+          "en": "premise",
+          "ar": "المقدمة"
+        }
+      ],
+      "answer": "o ceticismo",
+      "explanation": {
+        "pt": "'o ceticismo' significa 'skepticism'.",
+        "en": "'o ceticismo' means 'skepticism'.",
+        "ar": "تعني 'o ceticismo' 'الشكية'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'dialectics'?",
+        "en": "Which word means 'dialectics'?",
+        "ar": "أي كلمة تعني 'الجدل'؟"
+      },
+      "options": [
+        {
+          "pt": "a dialética",
+          "en": "dialectics",
+          "ar": "الجدل"
+        },
+        {
+          "pt": "o juízo de valor",
+          "en": "value judgment",
+          "ar": "الحكم القيمي"
+        },
+        {
+          "pt": "o argumento",
+          "en": "argument",
+          "ar": "الحجة / البرهان"
+        }
+      ],
+      "answer": "a dialética",
+      "explanation": {
+        "pt": "'a dialética' significa 'dialectics'.",
+        "en": "'a dialética' means 'dialectics'.",
+        "ar": "تعني 'a dialética' 'الجدل'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"The sophism seems convincing.\"",
+        "en": "Translate into Portuguese: \"The sophism seems convincing.\"",
+        "ar": "ترجم إلى البرتغالية: \"تبدو الشبهة مقنعة.\""
+      },
+      "options": [],
+      "answer": "O sofisma parece convincente.",
+      "explanation": {
+        "pt": "Resposta: \"O sofisma parece convincente.\".",
+        "en": "Answer: \"O sofisma parece convincente.\". (EN: \"The sophism seems convincing.\")",
+        "ar": "الإجابة: \"O sofisma parece convincente.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"Careful: that inference may hide a fallacy of generalization.\"",
+        "en": "Translate into Portuguese: \"Careful: that inference may hide a fallacy of generalization.\"",
+        "ar": "ترجم إلى البرتغالية: \"انتبه: قد يخفي هذا الاستدلال مغالطة تعميم.\""
+      },
+      "options": [],
+      "answer": "Cuidado: essa inferência pode esconder uma falácia de generalização.",
+      "explanation": {
+        "pt": "Resposta: \"Cuidado: essa inferência pode esconder uma falácia de generalização.\".",
+        "en": "Answer: \"Cuidado: essa inferência pode esconder uma falácia de generalização.\". (EN: \"Careful: that inference may hide a fallacy of generalization.\")",
+        "ar": "الإجابة: \"Cuidado: essa inferência pode esconder uma falácia de generalização.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: \"The conclusion doesn't follow.\"",
+        "en": "Type in Portuguese: \"The conclusion doesn't follow.\"",
+        "ar": "اكتب بالبرتغالية: \"لا تتبع النتيجة.\""
+      },
+      "options": [],
+      "answer": "A conclusão não segue.",
+      "accepted": [
+        "A conclusão não segue."
+      ],
+      "explanation": {
+        "pt": "Resposta possível: \"A conclusão não segue.\".",
+        "en": "One possible answer: \"A conclusão não segue.\".",
+        "ar": "إجابة ممكنة: \"A conclusão não segue.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "premissas.",
+          "en": "premissas.",
+          "ar": "premissas."
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "silogismo",
+          "en": "silogismo",
+          "ar": "silogismo"
+        },
+        {
+          "pt": "parte",
+          "en": "parte",
+          "ar": "parte"
+        }
+      ],
+      "answer": "O silogismo parte de premissas.",
+      "gen": "v1.8",
+      "explanation": {
+        "pt": "A frase correta é: \"O silogismo parte de premissas.\".",
+        "en": "The correct sentence is: \"O silogismo parte de premissas.\".",
+        "ar": "الجملة الصحيحة هي: \"O silogismo parte de premissas.\"."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'induction'?",
+        "en": "Which word means 'induction'?",
+        "ar": "أي كلمة تعني 'الاستقراء'؟"
+      },
+      "options": [
+        {
+          "pt": "a falácia",
+          "en": "fallacy",
+          "ar": "المغالطة"
+        },
+        {
+          "pt": "a conclusão",
+          "en": "conclusion",
+          "ar": "النتيجة"
+        },
+        {
+          "pt": "a indução",
+          "en": "induction",
+          "ar": "الاستقراء"
+        }
+      ],
+      "answer": "a indução",
+      "explanation": {
+        "pt": "'a indução' significa 'induction'.",
+        "en": "'a indução' means 'induction'.",
+        "ar": "تعني 'a indução' 'الاستقراء'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'empiricism'?",
+        "en": "Which word means 'empiricism'?",
+        "ar": "أي كلمة تعني 'التجريبية'؟"
+      },
+      "options": [
+        {
+          "pt": "o silogismo",
+          "en": "syllogism",
+          "ar": "القياس المنطقي"
+        },
+        {
+          "pt": "a epistemologia",
+          "en": "epistemology",
+          "ar": "نظرية المعرفة"
+        },
+        {
+          "pt": "o empirismo",
+          "en": "empiricism",
+          "ar": "التجريبية"
+        }
+      ],
+      "answer": "o empirismo",
+      "explanation": {
+        "pt": "'o empirismo' significa 'empiricism'.",
+        "en": "'o empirismo' means 'empiricism'.",
+        "ar": "تعني 'o empirismo' 'التجريبية'."
+      },
+      "gen": "v1.8"
     }
   ],
   "speaking": {

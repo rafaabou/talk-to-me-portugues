@@ -35,9 +35,9 @@
       "en": "the subjunctive",
       "ar": "صيغة الشرط",
       "example": {
-        "pt": "Você já domina o subjuntivo em concessões complexas?",
-        "en": "Do you already master the subjunctive in complex concessions?",
-        "ar": "هل أتقنت صيغة الشرط في المقابلات المعقدة؟"
+        "pt": "O subjuntivo aparece depois de 'que'.",
+        "en": "The subjunctive appears after 'que'.",
+        "ar": "تظهر صيغة الشرط بعد \"que\"."
       }
     },
     {
@@ -46,9 +46,9 @@
       "en": "the slang",
       "ar": "اللغة الدارجة",
       "example": {
-        "pt": "Foi com a prática que você consolidou a concordância e a regência.",
-        "en": "It was through practice that you consolidated agreement and regimen.",
-        "ar": "بالممارسة ثبّت المطابقة والتعدية."
+        "pt": "A gíria muda por região.",
+        "en": "The slang varies by region.",
+        "ar": "تختلف اللغة الدارجة حسب المنطقة."
       }
     },
     {
@@ -57,9 +57,9 @@
       "en": "the chronicle",
       "ar": "المقالة",
       "example": {
-        "pt": "Foi com a prática que você consolidou a concordância e a regência.",
-        "en": "It was through practice that you consolidated agreement and regimen.",
-        "ar": "بالممارسة ثبّت المطابقة والتعدية."
+        "pt": "A crônica mistura fato e opinião.",
+        "en": "The chronicle mixes fact and opinion.",
+        "ar": "تمزج المقالة بين факт ورأي."
       }
     },
     {
@@ -68,9 +68,9 @@
       "en": "reported speech",
       "ar": "الكلام المنقول",
       "example": {
-        "pt": "Você já domina o subjuntivo em concessões complexas?",
-        "en": "Do you already master the subjunctive in complex concessions?",
-        "ar": "هل أتقنت صيغة الشرط في المقابلات المعقدة؟"
+        "pt": "O discurso indireto pede atenção.",
+        "en": "Reported speech requires attention.",
+        "ar": "يتطلب الكلام المنقول انتباهًا."
       }
     },
     {
@@ -79,9 +79,9 @@
       "en": "the regimen",
       "ar": "التعدية",
       "example": {
-        "pt": "Foi com a prática que você consolidou a concordância e a regência.",
-        "en": "It was through practice that you consolidated agreement and regimen.",
-        "ar": "بالممارسة ثبّت المطابقة والتعدية."
+        "pt": "A regência exige atenção.",
+        "en": "Verbal regimen requires attention.",
+        "ar": "تتطلب التعدية انتباهًا."
       }
     },
     {
@@ -90,9 +90,9 @@
       "en": "the agreement",
       "ar": "المطابقة",
       "example": {
-        "pt": "Foi com a prática que você consolidou a concordância e a regência.",
-        "en": "It was through practice that you consolidated agreement and regimen.",
-        "ar": "بالممارسة ثبّت المطابقة والتعدية."
+        "pt": "A concordância evita erros.",
+        "en": "Agreement avoids errors.",
+        "ar": "تتجنّب المطابقة الأخطاء."
       }
     },
     {
@@ -101,9 +101,9 @@
       "en": "the emphasis",
       "ar": "التوكيد",
       "example": {
-        "pt": "Foi com a prática que você consolidou a concordância e a regência.",
-        "en": "It was through practice that you consolidated agreement and regimen.",
-        "ar": "بالممارسة ثبّت المطابقة والتعدية."
+        "pt": "A ênfase muda o sentido.",
+        "en": "Emphasis changes the meaning.",
+        "ar": "يغيّر التوكيد المعنى."
       }
     },
     {
@@ -112,9 +112,9 @@
       "en": "the register",
       "ar": "المستوى اللغوي",
       "example": {
-        "pt": "Você já domina o subjuntivo em concessões complexas?",
-        "en": "Do you already master the subjunctive in complex concessions?",
-        "ar": "هل أتقنت صيغة الشرط في المقابلات المعقدة؟"
+        "pt": "O registro formal exige cuidado.",
+        "en": "The formal register requires care.",
+        "ar": "يتطلب المستوى اللغوي الرسمي عناية."
       }
     },
     {
@@ -123,9 +123,9 @@
       "en": "the argumentation",
       "ar": "الحجاج، الجدل",
       "example": {
-        "pt": "Foi com a prática que você consolidou a concordância e a regência.",
-        "en": "It was through practice that you consolidated agreement and regimen.",
-        "ar": "بالممارسة ثبّت المطابقة والتعدية."
+        "pt": "A argumentação precisa de lógica.",
+        "en": "Argumentation needs logic.",
+        "ar": "تحتاج الحجاج إلى منطق."
       }
     },
     {
@@ -134,9 +134,9 @@
       "en": "the inversion",
       "ar": "القلب، التقديم",
       "example": {
-        "pt": "Foi com a prática que você consolidou a concordância e a regência.",
-        "en": "It was through practice that you consolidated agreement and regimen.",
-        "ar": "بالممارسة ثبّت المطابقة والتعدية."
+        "pt": "A inversão quebra o padrão.",
+        "en": "The inversion breaks the pattern.",
+        "ar": "يكسر التقديم النمط."
       }
     },
     {
@@ -145,9 +145,9 @@
       "en": "fluent",
       "ar": "طليق",
       "example": {
-        "pt": "Você já domina o subjuntivo em concessões complexas?",
-        "en": "Do you already master the subjunctive in complex concessions?",
-        "ar": "هل أتقنت صيغة الشرط في المقابلات المعقدة؟"
+        "pt": "Quero ficar fluente em português.",
+        "en": "I want to become fluent in Portuguese.",
+        "ar": "أريد أن أصبح طليقًا في البرتغالية."
       }
     },
     {
@@ -156,9 +156,9 @@
       "en": "to nuance",
       "ar": "يضفي فروقًا دقيقة",
       "example": {
-        "pt": "Você já domina o subjuntivo em concessões complexas?",
-        "en": "Do you already master the subjunctive in complex concessions?",
-        "ar": "هل أتقنت صيغة الشرط في المقابلات المعقدة؟"
+        "pt": "É preciso matizar o discurso.",
+        "en": "It's necessary to nuance the discourse.",
+        "ar": "من الضروري تلوين الخطاب."
       }
     },
     {
@@ -167,9 +167,9 @@
       "en": "the subtlety",
       "ar": "البراعة، الدقة",
       "example": {
-        "pt": "Foi com a prática que você consolidou a concordância e a regência.",
-        "en": "It was through practice that you consolidated agreement and regimen.",
-        "ar": "بالممارسة ثبّت المطابقة والتعدية."
+        "pt": "A sutileza escapa ao leitor.",
+        "en": "The subtlety escapes the reader.",
+        "ar": "تهرب الدقة من القارئ."
       }
     },
     {
@@ -178,9 +178,9 @@
       "en": "to contextualize",
       "ar": "يضع في سياقه",
       "example": {
-        "pt": "A maioria dos exercícios me ajudou a contextualizar o vocabulário.",
-        "en": "Most of the exercises helped me contextualize the vocabulary.",
-        "ar": "ساعدتني معظم التمارين على وضع المفردات في سياقها."
+        "pt": "É preciso contextualizar o período.",
+        "en": "It's necessary to contextualize the period.",
+        "ar": "من الضروري وضع الفترة في سياقها."
       }
     },
     {
@@ -189,9 +189,9 @@
       "en": "to review",
       "ar": "يراجع",
       "example": {
-        "pt": "Você já domina o subjuntivo em concessões complexas?",
-        "en": "Do you already master the subjunctive in complex concessions?",
-        "ar": "هل أتقنت صيغة الشرط في المقابلات المعقدة؟"
+        "pt": "Vou revisar tudo amanhã.",
+        "en": "I'll review everything tomorrow.",
+        "ar": "سأراجع كل شيء غدًا."
       }
     },
     {
@@ -200,9 +200,9 @@
       "en": "to consolidate",
       "ar": "يوطد، يثبت",
       "example": {
-        "pt": "Você já domina o subjuntivo em concessões complexas?",
-        "en": "Do you already master the subjunctive in complex concessions?",
-        "ar": "هل أتقنت صيغة الشرط في المقابلات المعقدة؟"
+        "pt": "Vamos consolidar o aprendizado.",
+        "en": "Let's consolidate the learning.",
+        "ar": "دعونا نوطد التعلم."
       }
     }
   ],
@@ -896,6 +896,237 @@
         "pt": "A frase correta: 'Você já domina o subjuntivo em concessões complexas?'",
         "en": "The correct sentence: 'Você já domina o subjuntivo em concessões complexas?'",
         "ar": "الجملة الصحيحة: 'Você já domina o subjuntivo em concessões complexas?'"
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'reported speech'?",
+        "en": "Which word means 'reported speech'?",
+        "ar": "أي كلمة تعني 'الكلام المنقول'؟"
+      },
+      "options": [
+        {
+          "pt": "consolidar",
+          "en": "to consolidate",
+          "ar": "يوطد، يثبت"
+        },
+        {
+          "pt": "a inversão",
+          "en": "the inversion",
+          "ar": "القلب، التقديم"
+        },
+        {
+          "pt": "o discurso indireto",
+          "en": "reported speech",
+          "ar": "الكلام المنقول"
+        },
+        {
+          "pt": "a ênfase",
+          "en": "the emphasis",
+          "ar": "التوكيد"
+        }
+      ],
+      "answer": "o discurso indireto",
+      "explanation": {
+        "pt": "'o discurso indireto' significa 'reported speech'.",
+        "en": "'o discurso indireto' means 'reported speech'.",
+        "ar": "تعني 'o discurso indireto' 'الكلام المنقول'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the agreement'?",
+        "en": "Which word means 'the agreement'?",
+        "ar": "أي كلمة تعني 'المطابقة'؟"
+      },
+      "options": [
+        {
+          "pt": "revisar",
+          "en": "to review",
+          "ar": "يراجع"
+        },
+        {
+          "pt": "a concordância",
+          "en": "the agreement",
+          "ar": "المطابقة"
+        },
+        {
+          "pt": "a regência",
+          "en": "the regimen",
+          "ar": "التعدية"
+        }
+      ],
+      "answer": "a concordância",
+      "explanation": {
+        "pt": "'a concordância' significa 'the agreement'.",
+        "en": "'a concordância' means 'the agreement'.",
+        "ar": "تعني 'a concordância' 'المطابقة'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"The slang varies by region.\"",
+        "en": "Translate into Portuguese: \"The slang varies by region.\"",
+        "ar": "ترجم إلى البرتغالية: \"تختلف اللغة الدارجة حسب المنطقة.\""
+      },
+      "options": [],
+      "answer": "A gíria muda por região.",
+      "explanation": {
+        "pt": "Resposta: \"A gíria muda por região.\".",
+        "en": "Answer: \"A gíria muda por região.\". (EN: \"The slang varies by region.\")",
+        "ar": "الإجابة: \"A gíria muda por região.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"In short, you are ready for the next challenge. Congratulations!\"",
+        "en": "Translate into Portuguese: \"In short, you are ready for the next challenge. Congratulations!\"",
+        "ar": "ترجم إلى البرتغالية: \"باختصار، أنت جاهز للتحدي القادم. تهانينا!\""
+      },
+      "options": [],
+      "answer": "Em suma, você está pronto para o próximo desafio. Parabéns!",
+      "explanation": {
+        "pt": "Resposta: \"Em suma, você está pronto para o próximo desafio. Parabéns!\".",
+        "en": "Answer: \"Em suma, você está pronto para o próximo desafio. Parabéns!\". (EN: \"In short, you are ready for the next challenge. Congratulations!\")",
+        "ar": "الإجابة: \"Em suma, você está pronto para o próximo desafio. Parabéns!\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Quero ficar ___ em português.\"",
+        "en": "Complete: \"Quero ficar ___ em português.\"",
+        "ar": "أكمل: \"Quero ficar ___ em português.\""
+      },
+      "options": [
+        {
+          "pt": "a gíria",
+          "en": "a gíria",
+          "ar": "a gíria"
+        },
+        {
+          "pt": "a concordância",
+          "en": "a concordância",
+          "ar": "a concordância"
+        },
+        {
+          "pt": "fluente",
+          "en": "fluente",
+          "ar": "fluente"
+        }
+      ],
+      "answer": "fluente",
+      "explanation": {
+        "pt": "A lacuna é 'fluente'.",
+        "en": "The blank is 'fluente'.",
+        "ar": "الفراغ هو 'fluente'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"É preciso ___ o discurso.\"",
+        "en": "Complete: \"É preciso ___ o discurso.\"",
+        "ar": "أكمل: \"É preciso ___ o discurso.\""
+      },
+      "options": [
+        {
+          "pt": "a crônica",
+          "en": "a crônica",
+          "ar": "a crônica"
+        },
+        {
+          "pt": "matizar",
+          "en": "matizar",
+          "ar": "matizar"
+        },
+        {
+          "pt": "o subjuntivo",
+          "en": "o subjuntivo",
+          "ar": "o subjuntivo"
+        }
+      ],
+      "answer": "matizar",
+      "explanation": {
+        "pt": "A lacuna é 'matizar'.",
+        "en": "The blank is 'matizar'.",
+        "ar": "الفراغ هو 'matizar'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: \"Let's consolidate the learning.\"",
+        "en": "Type in Portuguese: \"Let's consolidate the learning.\"",
+        "ar": "اكتب بالبرتغالية: \"دعونا نوطد التعلم.\""
+      },
+      "options": [],
+      "answer": "Vamos consolidar o aprendizado.",
+      "accepted": [
+        "Vamos consolidar o aprendizado."
+      ],
+      "explanation": {
+        "pt": "Resposta possível: \"Vamos consolidar o aprendizado.\".",
+        "en": "One possible answer: \"Vamos consolidar o aprendizado.\".",
+        "ar": "إجابة ممكنة: \"Vamos consolidar o aprendizado.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "subjuntivo",
+          "en": "subjuntivo",
+          "ar": "subjuntivo"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "depois",
+          "en": "depois",
+          "ar": "depois"
+        },
+        {
+          "pt": "'que'.",
+          "en": "'que'.",
+          "ar": "'que'."
+        },
+        {
+          "pt": "aparece",
+          "en": "aparece",
+          "ar": "aparece"
+        }
+      ],
+      "answer": "O subjuntivo aparece depois de 'que'.",
+      "gen": "v1.8",
+      "explanation": {
+        "pt": "A frase correta é: \"O subjuntivo aparece depois de 'que'.\".",
+        "en": "The correct sentence is: \"O subjuntivo aparece depois de 'que'.\".",
+        "ar": "الجملة الصحيحة هي: \"O subjuntivo aparece depois de 'que'.\"."
       }
     }
   ],

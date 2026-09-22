@@ -35,9 +35,9 @@
       "en": "hello",
       "ar": "مرحبًا",
       "example": {
-        "pt": "Olá! Meu nome é Ana. E você?",
-        "en": "Hello! My name is Ana. And you?",
-        "ar": "مرحبًا! اسمي آنا. وأنت؟"
+        "pt": "Olá, como você está?",
+        "en": "Hello, how are you?",
+        "ar": "مرحبًا، كيف حالك؟"
       }
     },
     {
@@ -46,9 +46,9 @@
       "en": "good morning",
       "ar": "صباح الخير",
       "example": {
-        "pt": "Bom dia, senhor Silva. (formal)",
-        "en": "Good morning, Mr. Silva. (formal)",
-        "ar": "صباح الخير، سيد سيلفا. (رسمي)"
+        "pt": "Bom dia! Vamos estudar.",
+        "en": "Good morning! Let's study.",
+        "ar": "صباح الخير! دعونا ندرس."
       }
     },
     {
@@ -57,9 +57,9 @@
       "en": "good afternoon",
       "ar": "مساء الخير",
       "example": {
-        "pt": "Olá! Meu nome é Ana. E você?",
-        "en": "Hello! My name is Ana. And you?",
-        "ar": "مرحبًا! اسمي آنا. وأنت؟"
+        "pt": "Boa tarde, professor!",
+        "en": "Good afternoon, teacher!",
+        "ar": "مساء الخير يا أستاذ!"
       }
     },
     {
@@ -68,9 +68,9 @@
       "en": "good night",
       "ar": "ليلة سعيدة",
       "example": {
-        "pt": "Olá! Meu nome é Ana. E você?",
-        "en": "Hello! My name is Ana. And you?",
-        "ar": "مرحبًا! اسمي آنا. وأنت؟"
+        "pt": "Desejo uma boa noite a todos.",
+        "en": "I wish everyone a good night.",
+        "ar": "أتمنى للجميع ليلة سعيدة."
       }
     },
     {
@@ -79,9 +79,9 @@
       "en": "bye",
       "ar": "وداعًا",
       "example": {
-        "pt": "Tchau, Ana! Até amanhã.",
-        "en": "Bye, Ana! See you tomorrow.",
-        "ar": "وداعًا آنا! أراك غدًا."
+        "pt": "Tchau! Nos vemos depois.",
+        "en": "Bye! See you later.",
+        "ar": "وداعًا! أراك لاحقًا."
       }
     },
     {
@@ -90,9 +90,9 @@
       "en": "see you later",
       "ar": "أراك لاحقًا",
       "example": {
-        "pt": "Tudo ótimo. Até logo, Pedro!",
-        "en": "Everything great. See you later, Pedro!",
-        "ar": "كل شيء رائع. أراك لاحقًا يا بيدرو!"
+        "pt": "Até logo, amigos!",
+        "en": "See you later, friends!",
+        "ar": "أراك لاحقًا يا أصدقاء!"
       }
     },
     {
@@ -101,9 +101,9 @@
       "en": "nice to meet you",
       "ar": "سررت بلقائك",
       "example": {
-        "pt": "Oi, Ana! Eu sou o Pedro. Muito prazer.",
-        "en": "Hi, Ana! I'm Pedro. Nice to meet you.",
-        "ar": "مرحبًا آنا! أنا بيدرو. سررت بلقائك."
+        "pt": "Muito prazer em conhecê-lo.",
+        "en": "Nice to meet you.",
+        "ar": "سررت بلقائك."
       }
     },
     {
@@ -112,9 +112,9 @@
       "en": "my name is",
       "ar": "اسمي هو",
       "example": {
-        "pt": "Olá! Meu nome é Ana. E você?",
-        "en": "Hello! My name is Ana. And you?",
-        "ar": "مرحبًا! اسمي آنا. وأنت؟"
+        "pt": "Meu nome é Ana.",
+        "en": "My name is Ana.",
+        "ar": "اسمي أنا."
       }
     },
     {
@@ -123,9 +123,9 @@
       "en": "I am",
       "ar": "أنا",
       "example": {
-        "pt": "Oi, Ana! Eu sou o Pedro. Muito prazer.",
-        "en": "Hi, Ana! I'm Pedro. Nice to meet you.",
-        "ar": "مرحبًا آنا! أنا بيدرو. سررت بلقائك."
+        "pt": "Eu sou estudante.",
+        "en": "I am a student.",
+        "ar": "أنا طالب."
       }
     },
     {
@@ -134,9 +134,9 @@
       "en": "how are you?",
       "ar": "كيف حالك؟",
       "example": {
-        "pt": "O prazer é meu. Como vai você?",
-        "en": "The pleasure is mine. How are you?",
-        "ar": "بسرور. كيف حالك؟"
+        "pt": "Oi, como vai?",
+        "en": "Hi, how are you?",
+        "ar": "أهلًا، كيف حالك؟"
       }
     },
     {
@@ -145,9 +145,9 @@
       "en": "everything ok?",
       "ar": "كل شيء بخير؟",
       "example": {
-        "pt": "Tudo bem, obrigado! E você?",
-        "en": "I'm fine, thanks! And you?",
-        "ar": "أنا بخير، شكرًا! وأنت؟"
+        "pt": "Como você está? Tudo bem?",
+        "en": "How are you? Everything OK?",
+        "ar": "كيف حالك؟ كل شيء بخير؟"
       }
     },
     {
@@ -156,9 +156,9 @@
       "en": "thank you (m)",
       "ar": "شكرًا",
       "example": {
-        "pt": "Tudo bem, obrigado! E você?",
-        "en": "I'm fine, thanks! And you?",
-        "ar": "أنا بخير، شكرًا! وأنت؟"
+        "pt": "Muito obrigado pela ajuda.",
+        "en": "Thank you very much for the help.",
+        "ar": "شكرًا جزيلًا على المساعدة."
       }
     },
     {
@@ -167,9 +167,9 @@
       "en": "thank you (f)",
       "ar": "شكرًا",
       "example": {
-        "pt": "Obrigada, de nada. (feminine)",
-        "en": "Thank you, you're welcome. (feminine)",
-        "ar": "شكرًا، عفوًا. (مؤنث)"
+        "pt": "Muito obrigada, senhora.",
+        "en": "Thank you very much, ma'am.",
+        "ar": "شكرًا جزيلًا يا سيدتي."
       }
     },
     {
@@ -178,9 +178,9 @@
       "en": "you're welcome",
       "ar": "عفوًا",
       "example": {
-        "pt": "Obrigada, de nada. (feminine)",
-        "en": "Thank you, you're welcome. (feminine)",
-        "ar": "شكرًا، عفوًا. (مؤنث)"
+        "pt": "De nada, estou aqui para isso.",
+        "en": "You're welcome, I'm here for that.",
+        "ar": "على الرحب، أنا من أجل هذا."
       }
     },
     {
@@ -189,9 +189,9 @@
       "en": "please",
       "ar": "من فضلك",
       "example": {
-        "pt": "Olá! Meu nome é Ana. E você?",
-        "en": "Hello! My name is Ana. And you?",
-        "ar": "مرحبًا! اسمي آنا. وأنت؟"
+        "pt": "Água, por favor.",
+        "en": "Water, please.",
+        "ar": "ماء، من فضلك."
       }
     },
     {
@@ -200,9 +200,9 @@
       "en": "sorry",
       "ar": "آسف",
       "example": {
-        "pt": "Olá! Meu nome é Ana. E você?",
-        "en": "Hello! My name is Ana. And you?",
-        "ar": "مرحبًا! اسمي آنا. وأنت؟"
+        "pt": "Desculpa, cheguei atrasado.",
+        "en": "Sorry, I arrived late.",
+        "ar": "آسف، وصلت متأخرًا."
       }
     },
     {
@@ -211,9 +211,9 @@
       "en": "see you tomorrow",
       "ar": "أراك غدًا",
       "example": {
-        "pt": "Tudo ótimo. Até logo, Pedro!",
-        "en": "Everything great. See you later, Pedro!",
-        "ar": "كل شيء رائع. أراك لاحقًا يا بيدرو!"
+        "pt": "Então, até amanhã!",
+        "en": "Well then, see you tomorrow!",
+        "ar": "إذًا، أراك غدًا!"
       }
     }
   ],
@@ -893,6 +893,242 @@
         "pt": "A frase correta: 'Olá! Meu nome é Ana. E você?'",
         "en": "The correct sentence: 'Olá! Meu nome é Ana. E você?'",
         "ar": "الجملة الصحيحة: 'Olá! Meu nome é Ana. E você?'"
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'I am'?",
+        "en": "Which word means 'I am'?",
+        "ar": "أي كلمة تعني 'أنا'؟"
+      },
+      "options": [
+        {
+          "pt": "eu sou",
+          "en": "I am",
+          "ar": "أنا"
+        },
+        {
+          "pt": "bom dia",
+          "en": "good morning",
+          "ar": "صباح الخير"
+        },
+        {
+          "pt": "como vai?",
+          "en": "how are you?",
+          "ar": "كيف حالك؟"
+        },
+        {
+          "pt": "até amanhã",
+          "en": "see you tomorrow",
+          "ar": "أراك غدًا"
+        }
+      ],
+      "answer": "eu sou",
+      "explanation": {
+        "pt": "'eu sou' significa 'I am'.",
+        "en": "'eu sou' means 'I am'.",
+        "ar": "تعني 'eu sou' 'أنا'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'see you later'?",
+        "en": "Which word means 'see you later'?",
+        "ar": "أي كلمة تعني 'أراك لاحقًا'؟"
+      },
+      "options": [
+        {
+          "pt": "até logo",
+          "en": "see you later",
+          "ar": "أراك لاحقًا"
+        },
+        {
+          "pt": "tudo bem?",
+          "en": "everything ok?",
+          "ar": "كل شيء بخير؟"
+        },
+        {
+          "pt": "por favor",
+          "en": "please",
+          "ar": "من فضلك"
+        }
+      ],
+      "answer": "até logo",
+      "explanation": {
+        "pt": "'até logo' significa 'see you later'.",
+        "en": "'até logo' means 'see you later'.",
+        "ar": "تعني 'até logo' 'أراك لاحقًا'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"I'm fine, thanks! And you?\"",
+        "en": "Translate into Portuguese: \"I'm fine, thanks! And you?\"",
+        "ar": "ترجم إلى البرتغالية: \"أنا بخير، شكرًا! وأنت؟\""
+      },
+      "options": [],
+      "answer": "Tudo bem, obrigado! E você?",
+      "explanation": {
+        "pt": "Resposta: \"Tudo bem, obrigado! E você?\".",
+        "en": "Answer: \"Tudo bem, obrigado! E você?\". (EN: \"I'm fine, thanks! And you?\")",
+        "ar": "الإجابة: \"Tudo bem, obrigado! E você?\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"Everything great. See you later, Pedro!\"",
+        "en": "Translate into Portuguese: \"Everything great. See you later, Pedro!\"",
+        "ar": "ترجم إلى البرتغالية: \"كل شيء رائع. أراك لاحقًا يا بيدرو!\""
+      },
+      "options": [],
+      "answer": "Tudo ótimo. Até logo, Pedro!",
+      "explanation": {
+        "pt": "Resposta: \"Tudo ótimo. Até logo, Pedro!\".",
+        "en": "Answer: \"Tudo ótimo. Até logo, Pedro!\". (EN: \"Everything great. See you later, Pedro!\")",
+        "ar": "الإجابة: \"Tudo ótimo. Até logo, Pedro!\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Muito ___ em conhecê-lo.\"",
+        "en": "Complete: \"Muito ___ em conhecê-lo.\"",
+        "ar": "أكمل: \"Muito ___ em conhecê-lo.\""
+      },
+      "options": [
+        {
+          "pt": "eu sou",
+          "en": "eu sou",
+          "ar": "eu sou"
+        },
+        {
+          "pt": "prazer",
+          "en": "prazer",
+          "ar": "prazer"
+        },
+        {
+          "pt": "olá",
+          "en": "olá",
+          "ar": "olá"
+        }
+      ],
+      "answer": "prazer",
+      "explanation": {
+        "pt": "A lacuna é 'prazer'.",
+        "en": "The blank is 'prazer'.",
+        "ar": "الفراغ هو 'prazer'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Muito ___ pela ajuda.\"",
+        "en": "Complete: \"Muito ___ pela ajuda.\"",
+        "ar": "أكمل: \"Muito ___ pela ajuda.\""
+      },
+      "options": [
+        {
+          "pt": "obrigado",
+          "en": "obrigado",
+          "ar": "obrigado"
+        },
+        {
+          "pt": "meu nome é",
+          "en": "meu nome é",
+          "ar": "meu nome é"
+        },
+        {
+          "pt": "boa noite",
+          "en": "boa noite",
+          "ar": "boa noite"
+        }
+      ],
+      "answer": "obrigado",
+      "explanation": {
+        "pt": "A lacuna é 'obrigado'.",
+        "en": "The blank is 'obrigado'.",
+        "ar": "الفراغ هو 'obrigado'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: \"Hi, Ana! I'm Pedro. Nice to meet you.\"",
+        "en": "Type in Portuguese: \"Hi, Ana! I'm Pedro. Nice to meet you.\"",
+        "ar": "اكتب بالبرتغالية: \"مرحبًا آنا! أنا بيدرو. سررت بلقائك.\""
+      },
+      "options": [],
+      "answer": "Oi, Ana! Eu sou o Pedro. Muito prazer.",
+      "accepted": [
+        "Oi, Ana! Eu sou o Pedro. Muito prazer."
+      ],
+      "explanation": {
+        "pt": "Resposta possível: \"Oi, Ana! Eu sou o Pedro. Muito prazer.\".",
+        "en": "One possible answer: \"Oi, Ana! Eu sou o Pedro. Muito prazer.\".",
+        "ar": "إجابة ممكنة: \"Oi, Ana! Eu sou o Pedro. Muito prazer.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "prazer",
+          "en": "prazer",
+          "ar": "prazer"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "você?",
+          "en": "você?",
+          "ar": "você?"
+        },
+        {
+          "pt": "vai",
+          "en": "vai",
+          "ar": "vai"
+        },
+        {
+          "pt": "é",
+          "en": "é",
+          "ar": "é"
+        },
+        {
+          "pt": "meu.",
+          "en": "meu.",
+          "ar": "meu."
+        },
+        {
+          "pt": "Como",
+          "en": "Como",
+          "ar": "Como"
+        }
+      ],
+      "answer": "O prazer é meu. Como vai você?",
+      "gen": "v1.8",
+      "explanation": {
+        "pt": "A frase correta é: \"O prazer é meu. Como vai você?\".",
+        "en": "The correct sentence is: \"O prazer é meu. Como vai você?\".",
+        "ar": "الجملة الصحيحة هي: \"O prazer é meu. Como vai você?\"."
       }
     }
   ],

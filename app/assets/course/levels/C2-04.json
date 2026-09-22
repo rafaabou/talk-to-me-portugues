@@ -40,9 +40,9 @@
       "en": "contract",
       "ar": "العقد",
       "example": {
-        "pt": "O laudo foi homologado, e a sentença será publicada na sexta.",
-        "en": "The expert report has been ratified, and the judgment will be published on Friday.",
-        "ar": "تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة."
+        "pt": "O contrato tem duas vias.",
+        "en": "The contract has two copies.",
+        "ar": "للعقد نسختان."
       }
     },
     {
@@ -51,9 +51,9 @@
       "en": "clause",
       "ar": "البند",
       "example": {
-        "pt": "O laudo foi homologado, e a sentença será publicada na sexta.",
-        "en": "The expert report has been ratified, and the judgment will be published on Friday.",
-        "ar": "تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة."
+        "pt": "A cláusula exige assinatura.",
+        "en": "The clause requires a signature.",
+        "ar": "يتطلب البند توقيعًا."
       }
     },
     {
@@ -62,9 +62,9 @@
       "en": "term / instrument",
       "ar": "المصطلح / الوثيقة",
       "example": {
-        "pt": "O laudo foi homologado, e a sentença será publicada na sexta.",
-        "en": "The expert report has been ratified, and the judgment will be published on Friday.",
-        "ar": "تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة."
+        "pt": "O termo está claro no contrato.",
+        "en": "Read every term of the contract.",
+        "ar": "اقرأ كل مصطلح من العقد."
       }
     },
     {
@@ -73,9 +73,9 @@
       "en": "defendant",
       "ar": "المدعى عليه",
       "example": {
-        "pt": "O laudo foi homologado, e a sentença será publicada na sexta.",
-        "en": "The expert report has been ratified, and the judgment will be published on Friday.",
-        "ar": "تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة."
+        "pt": "O réu negou as acusações.",
+        "en": "The defendant denied the charges.",
+        "ar": "أنكر المدعى عليه الاتهامات."
       }
     },
     {
@@ -84,9 +84,9 @@
       "en": "judge",
       "ar": "القاضي",
       "example": {
-        "pt": "O laudo foi homologado, e a sentença será publicada na sexta.",
-        "en": "The expert report has been ratified, and the judgment will be published on Friday.",
-        "ar": "تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة."
+        "pt": "O juiz proferiu a sentença.",
+        "en": "The judge pronounced the sentence.",
+        "ar": "أصدر القاضي الحكم."
       }
     },
     {
@@ -95,9 +95,9 @@
       "en": "sentence / judgment",
       "ar": "الحكم",
       "example": {
-        "pt": "O laudo foi homologado, e a sentença será publicada na sexta.",
-        "en": "The expert report has been ratified, and the judgment will be published on Friday.",
-        "ar": "تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة."
+        "pt": "A sentença foi publicada.",
+        "en": "The judgment was published.",
+        "ar": "نُشر الحكم."
       }
     },
     {
@@ -106,9 +106,9 @@
       "en": "appeal",
       "ar": "الاستئناف / الطعن",
       "example": {
-        "pt": "O laudo foi homologado, e a sentença será publicada na sexta.",
-        "en": "The expert report has been ratified, and the judgment will be published on Friday.",
-        "ar": "تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة."
+        "pt": "O recurso foi aceito.",
+        "en": "The appeal was accepted.",
+        "ar": "قُبل الاستئناف."
       }
     },
     {
@@ -117,9 +117,9 @@
       "en": "hearing",
       "ar": "الجلسة",
       "example": {
-        "pt": "O laudo foi homologado, e a sentença será publicada na sexta.",
-        "en": "The expert report has been ratified, and the judgment will be published on Friday.",
-        "ar": "تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة."
+        "pt": "A audiência será em março.",
+        "en": "The hearing will be in March.",
+        "ar": "ستكون الجلسة في مارس."
       }
     },
     {
@@ -128,9 +128,9 @@
       "en": "defense",
       "ar": "الدفاع",
       "example": {
-        "pt": "O laudo foi homologado, e a sentença será publicada na sexta.",
-        "en": "The expert report has been ratified, and the judgment will be published on Friday.",
-        "ar": "تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة."
+        "pt": "A defesa pediu mais tempo.",
+        "en": "The defense asked for more time.",
+        "ar": "طلب الدفاع مزيدًا من الوقت."
       }
     },
     {
@@ -139,9 +139,9 @@
       "en": "witness",
       "ar": "الشاهد",
       "example": {
-        "pt": "O laudo foi homologado, e a sentença será publicada na sexta.",
-        "en": "The expert report has been ratified, and the judgment will be published on Friday.",
-        "ar": "تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة."
+        "pt": "A testemunha confirmou os fatos.",
+        "en": "The witness confirmed the facts.",
+        "ar": "أكّد الشاهد الوقائع."
       }
     },
     {
@@ -150,9 +150,9 @@
       "en": "expert report",
       "ar": "تقرير الخبير",
       "example": {
-        "pt": "O laudo foi homologado, e a sentença será publicada na sexta.",
-        "en": "The expert report has been ratified, and the judgment will be published on Friday.",
-        "ar": "تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة."
+        "pt": "O laudo aponta fratura.",
+        "en": "The expert report points to a fracture.",
+        "ar": "يشير تقرير الخبير إلى كسر."
       }
     },
     {
@@ -161,9 +161,9 @@
       "en": "case law",
       "ar": "الفقه القضائي / السوابق",
       "example": {
-        "pt": "O laudo foi homologado, e a sentença será publicada na sexta.",
-        "en": "The expert report has been ratified, and the judgment will be published on Friday.",
-        "ar": "تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة."
+        "pt": "A jurisprudência é favorável.",
+        "en": "Case law is favorable.",
+        "ar": "الفقه القضائي موافق."
       }
     },
     {
@@ -172,9 +172,9 @@
       "en": "provision / operative part",
       "ar": "النص الحكمي",
       "example": {
-        "pt": "O laudo foi homologado, e a sentença será publicada na sexta.",
-        "en": "The expert report has been ratified, and the judgment will be published on Friday.",
-        "ar": "تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة."
+        "pt": "O dispositivo legal foi violado.",
+        "en": "The legal provision was violated.",
+        "ar": "تعدّى النص الحكمي."
       }
     },
     {
@@ -183,9 +183,9 @@
       "en": "legal opinion",
       "ar": "رأي قانوني / تقرير",
       "example": {
-        "pt": "O laudo foi homologado, e a sentença será publicada na sexta.",
-        "en": "The expert report has been ratified, and the judgment will be published on Friday.",
-        "ar": "تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة."
+        "pt": "O parecer do juiz veio ontem.",
+        "en": "The judge's opinion came yesterday.",
+        "ar": "جاء رأي القاضي أمس."
       }
     },
     {
@@ -194,9 +194,9 @@
       "en": "headnote / abstract",
       "ar": "الملخص / التذييل",
       "example": {
-        "pt": "O laudo foi homologado, e a sentença será publicada na sexta.",
-        "en": "The expert report has been ratified, and the judgment will be published on Friday.",
-        "ar": "تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة."
+        "pt": "A ementa resume a decisão.",
+        "en": "The headnote summarizes the decision.",
+        "ar": "يلخّص التذييل القرار."
       }
     },
     {
@@ -205,9 +205,9 @@
       "en": "ratification",
       "ar": "التصديق",
       "example": {
-        "pt": "O laudo foi homologado, e a sentença será publicada na sexta.",
-        "en": "The expert report has been ratified, and the judgment will be published on Friday.",
-        "ar": "تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة."
+        "pt": "A homologação foi publicada.",
+        "en": "The ratification was published.",
+        "ar": "نُشر التصديق."
       }
     },
     {
@@ -216,9 +216,9 @@
       "en": "addendum / amendment",
       "ar": "الملحق التعديلي",
       "example": {
-        "pt": "O laudo foi homologado, e a sentença será publicada na sexta.",
-        "en": "The expert report has been ratified, and the judgment will be published on Friday.",
-        "ar": "تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة."
+        "pt": "O aditivo altera o prazo.",
+        "en": "The amendment changes the deadline.",
+        "ar": "يغيّر الملحق التعديلي الموعد."
       }
     },
     {
@@ -227,9 +227,9 @@
       "en": "power of attorney",
       "ar": "التوكيل",
       "example": {
-        "pt": "O laudo foi homologado, e a sentença será publicada na sexta.",
-        "en": "The expert report has been ratified, and the judgment will be published on Friday.",
-        "ar": "تم التصديق على تقرير الخبير، وسيُنشر الحكم يوم الجمعة."
+        "pt": "A procuração é necessária.",
+        "en": "The power of attorney is necessary.",
+        "ar": "التوكيل ضروري."
       }
     }
   ],
@@ -950,6 +950,262 @@
         "en": "The correct sentence: 'O laudo foi homologado, e a sentença será publicada na sexta.'",
         "ar": "الجملة الصحيحة: 'O laudo foi homologado, e a sentença será publicada na sexta.'"
       }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'provision / operative part'?",
+        "en": "Which word means 'provision / operative part'?",
+        "ar": "أي كلمة تعني 'النص الحكمي'؟"
+      },
+      "options": [
+        {
+          "pt": "o dispositivo",
+          "en": "provision / operative part",
+          "ar": "النص الحكمي"
+        },
+        {
+          "pt": "a homologação",
+          "en": "ratification",
+          "ar": "التصديق"
+        },
+        {
+          "pt": "o recurso",
+          "en": "appeal",
+          "ar": "الاستئناف / الطعن"
+        }
+      ],
+      "answer": "o dispositivo",
+      "explanation": {
+        "pt": "'o dispositivo' significa 'provision / operative part'.",
+        "en": "'o dispositivo' means 'provision / operative part'.",
+        "ar": "تعني 'o dispositivo' 'النص الحكمي'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'term / instrument'?",
+        "en": "Which word means 'term / instrument'?",
+        "ar": "أي كلمة تعني 'المصطلح / الوثيقة'؟"
+      },
+      "options": [
+        {
+          "pt": "o termo",
+          "en": "term / instrument",
+          "ar": "المصطلح / الوثيقة"
+        },
+        {
+          "pt": "a sentença",
+          "en": "sentence / judgment",
+          "ar": "الحكم"
+        },
+        {
+          "pt": "a cláusula",
+          "en": "clause",
+          "ar": "البند"
+        },
+        {
+          "pt": "a defesa",
+          "en": "defense",
+          "ar": "الدفاع"
+        }
+      ],
+      "answer": "o termo",
+      "explanation": {
+        "pt": "'o termo' significa 'term / instrument'.",
+        "en": "'o termo' means 'term / instrument'.",
+        "ar": "تعني 'o termo' 'المصطلح / الوثيقة'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"The judge pronounced the sentence.\"",
+        "en": "Translate into Portuguese: \"The judge pronounced the sentence.\"",
+        "ar": "ترجم إلى البرتغالية: \"أصدر القاضي الحكم.\""
+      },
+      "options": [],
+      "answer": "O juiz proferiu a sentença.",
+      "explanation": {
+        "pt": "Resposta: \"O juiz proferiu a sentença.\".",
+        "en": "Answer: \"O juiz proferiu a sentença.\". (EN: \"The judge pronounced the sentence.\")",
+        "ar": "الإجابة: \"O juiz proferiu a sentença.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"Perfect. Once the addendum is ratified, I will file everything by Wednesday.\"",
+        "en": "Translate into Portuguese: \"Perfect. Once the addendum is ratified, I will file everything by Wednesday.\"",
+        "ar": "ترجم إلى البرتغالية: \"ممتاز. بعد التصديق على الملحق، سأقدّم كل شيء حتى الأربعاء.\""
+      },
+      "options": [],
+      "answer": "Perfeito. Homologado o aditivo, protocolo tudo até quarta-feira.",
+      "explanation": {
+        "pt": "Resposta: \"Perfeito. Homologado o aditivo, protocolo tudo até quarta-feira.\".",
+        "en": "Answer: \"Perfeito. Homologado o aditivo, protocolo tudo até quarta-feira.\". (EN: \"Perfect. Once the addendum is ratified, I will file everything by Wednesday.\")",
+        "ar": "الإجابة: \"Perfeito. Homologado o aditivo, protocolo tudo até quarta-feira.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: \"The amendment changes the deadline.\"",
+        "en": "Type in Portuguese: \"The amendment changes the deadline.\"",
+        "ar": "اكتب بالبرتغالية: \"يغيّر الملحق التعديلي الموعد.\""
+      },
+      "options": [],
+      "answer": "O aditivo altera o prazo.",
+      "accepted": [
+        "O aditivo altera o prazo."
+      ],
+      "explanation": {
+        "pt": "Resposta possível: \"O aditivo altera o prazo.\".",
+        "en": "One possible answer: \"O aditivo altera o prazo.\".",
+        "ar": "إجابة ممكنة: \"O aditivo altera o prazo.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "também",
+          "en": "também",
+          "ar": "também"
+        },
+        {
+          "pt": "Gostaríamos",
+          "en": "Gostaríamos",
+          "ar": "Gostaríamos"
+        },
+        {
+          "pt": "original.",
+          "en": "original.",
+          "ar": "original."
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "ao",
+          "en": "ao",
+          "ar": "ao"
+        },
+        {
+          "pt": "aditivo",
+          "en": "aditivo",
+          "ar": "aditivo"
+        },
+        {
+          "pt": "contrato",
+          "en": "contrato",
+          "ar": "contrato"
+        },
+        {
+          "pt": "anexar",
+          "en": "anexar",
+          "ar": "anexar"
+        }
+      ],
+      "answer": "Gostaríamos também de anexar o aditivo ao contrato original.",
+      "gen": "v1.8",
+      "explanation": {
+        "pt": "A frase correta é: \"Gostaríamos também de anexar o aditivo ao contrato original.\".",
+        "en": "The correct sentence is: \"Gostaríamos também de anexar o aditivo ao contrato original.\".",
+        "ar": "الجملة الصحيحة هي: \"Gostaríamos também de anexar o aditivo ao contrato original.\"."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'expert report'?",
+        "en": "Which word means 'expert report'?",
+        "ar": "أي كلمة تعني 'تقرير الخبير'؟"
+      },
+      "options": [
+        {
+          "pt": "o aditivo",
+          "en": "addendum / amendment",
+          "ar": "الملحق التعديلي"
+        },
+        {
+          "pt": "o laudo",
+          "en": "expert report",
+          "ar": "تقرير الخبير"
+        },
+        {
+          "pt": "a homologação",
+          "en": "ratification",
+          "ar": "التصديق"
+        },
+        {
+          "pt": "a defesa",
+          "en": "defense",
+          "ar": "الدفاع"
+        }
+      ],
+      "answer": "o laudo",
+      "explanation": {
+        "pt": "'o laudo' significa 'expert report'.",
+        "en": "'o laudo' means 'expert report'.",
+        "ar": "تعني 'o laudo' 'تقرير الخبير'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'sentence / judgment'?",
+        "en": "Which word means 'sentence / judgment'?",
+        "ar": "أي كلمة تعني 'الحكم'؟"
+      },
+      "options": [
+        {
+          "pt": "o termo",
+          "en": "term / instrument",
+          "ar": "المصطلح / الوثيقة"
+        },
+        {
+          "pt": "a homologação",
+          "en": "ratification",
+          "ar": "التصديق"
+        },
+        {
+          "pt": "a audiência",
+          "en": "hearing",
+          "ar": "الجلسة"
+        },
+        {
+          "pt": "a sentença",
+          "en": "sentence / judgment",
+          "ar": "الحكم"
+        }
+      ],
+      "answer": "a sentença",
+      "explanation": {
+        "pt": "'a sentença' significa 'sentence / judgment'.",
+        "en": "'a sentença' means 'sentence / judgment'.",
+        "ar": "تعني 'a sentença' 'الحكم'."
+      },
+      "gen": "v1.8"
     }
   ],
   "speaking": {

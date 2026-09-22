@@ -1,6 +1,6 @@
 # User Guide — Talk To Me Portugues Brasileiro
 
-**Version 1.7.0** | By Mohamed Rafaa Tounekti
+**Version 1.8.0** | By Mohamed Rafaa Tounekti
 
 Learn Brazilian Portuguese from zero to fluency. 100% offline, trilingual (Portuguese + English + Arabic).
 

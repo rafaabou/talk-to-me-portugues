@@ -35,9 +35,9 @@
       "en": "the restaurant",
       "ar": "المطعم",
       "example": {
-        "pt": "Boa noite! Aqui está o cardápio.",
-        "en": "Good evening! Here is the menu.",
-        "ar": "مساء الخير! هذه قائمة الطعام."
+        "pt": "O restaurante abre às dez.",
+        "en": "The restaurant opens at ten.",
+        "ar": "يفتح المطعم في العاشرة."
       }
     },
     {
@@ -46,9 +46,9 @@
       "en": "the waiter",
       "ar": "النادل",
       "example": {
-        "pt": "Boa noite! Aqui está o cardápio.",
-        "en": "Good evening! Here is the menu.",
-        "ar": "مساء الخير! هذه قائمة الطعام."
+        "pt": "O garçom trouxe o cardápio.",
+        "en": "The waiter brought the menu.",
+        "ar": "أحضر النادل قائمة الطعام."
       }
     },
     {
@@ -57,9 +57,9 @@
       "en": "the menu",
       "ar": "قائمة الطعام",
       "example": {
-        "pt": "Boa noite! Aqui está o cardápio.",
-        "en": "Good evening! Here is the menu.",
-        "ar": "مساء الخير! هذه قائمة الطعام."
+        "pt": "O cardápio tem muitas opções.",
+        "en": "The menu has many options.",
+        "ar": "قائمة الطعام فيها خيارات كثيرة."
       }
     },
     {
@@ -68,9 +68,9 @@
       "en": "the dish",
       "ar": "الطبق",
       "example": {
-        "pt": "Boa noite! Aqui está o cardápio.",
-        "en": "Good evening! Here is the menu.",
-        "ar": "مساء الخير! هذه قائمة الطعام."
+        "pt": "O prato é quente.",
+        "en": "The dish is hot.",
+        "ar": "الطبق ساخن."
       }
     },
     {
@@ -79,9 +79,9 @@
       "en": "the drink",
       "ar": "المشروب",
       "example": {
-        "pt": "Um café e a conta, por favor.",
-        "en": "A coffee and the bill, please.",
-        "ar": "قهوة والحساب، من فضلك."
+        "pt": "A bebida chegou gelada.",
+        "en": "The drink arrived icy cold.",
+        "ar": "وصلت المشروب مثلجًا."
       }
     },
     {
@@ -90,9 +90,9 @@
       "en": "the water",
       "ar": "الماء",
       "example": {
-        "pt": "Um café e a conta, por favor.",
-        "en": "A coffee and the bill, please.",
-        "ar": "قهوة والحساب، من فضلك."
+        "pt": "A água está fria.",
+        "en": "The water is cold.",
+        "ar": "الماء بارد."
       }
     },
     {
@@ -101,9 +101,9 @@
       "en": "the juice",
       "ar": "العصير",
       "example": {
-        "pt": "Boa noite! Aqui está o cardápio.",
-        "en": "Good evening! Here is the menu.",
-        "ar": "مساء الخير! هذه قائمة الطعام."
+        "pt": "O suco de laranja é bom.",
+        "en": "Orange juice is good.",
+        "ar": "عصير البرتقال جيد."
       }
     },
     {
@@ -112,9 +112,9 @@
       "en": "the coffee",
       "ar": "القهوة",
       "example": {
-        "pt": "Boa noite! Aqui está o cardápio.",
-        "en": "Good evening! Here is the menu.",
-        "ar": "مساء الخير! هذه قائمة الطعام."
+        "pt": "Eu tomo café toda manhã.",
+        "en": "I drink coffee every morning.",
+        "ar": "أشرب القهوة كل صباح."
       }
     },
     {
@@ -123,9 +123,9 @@
       "en": "the meat",
       "ar": "اللحم",
       "example": {
-        "pt": "Um café e a conta, por favor.",
-        "en": "A coffee and the bill, please.",
-        "ar": "قهوة والحساب، من فضلك."
+        "pt": "A carne está assada.",
+        "en": "The meat is roasted.",
+        "ar": "اللحم مشوي."
       }
     },
     {
@@ -134,9 +134,9 @@
       "en": "the chicken",
       "ar": "الدجاج",
       "example": {
-        "pt": "Boa noite! Aqui está o cardápio.",
-        "en": "Good evening! Here is the menu.",
-        "ar": "مساء الخير! هذه قائمة الطعام."
+        "pt": "O frango com arroz é ótimo.",
+        "en": "Chicken with rice is great.",
+        "ar": "الدجاج مع الأرز رائع."
       }
     },
     {
@@ -145,9 +145,9 @@
       "en": "the fish",
       "ar": "السمك",
       "example": {
-        "pt": "Boa noite! Aqui está o cardápio.",
-        "en": "Good evening! Here is the menu.",
-        "ar": "مساء الخير! هذه قائمة الطعام."
+        "pt": "O peixe vem do mar.",
+        "en": "The fish comes from the sea.",
+        "ar": "السمك يأتي من البحر."
       }
     },
     {
@@ -156,9 +156,9 @@
       "en": "the rice",
       "ar": "الأرز",
       "example": {
-        "pt": "Boa noite! Aqui está o cardápio.",
-        "en": "Good evening! Here is the menu.",
-        "ar": "مساء الخير! هذه قائمة الطعام."
+        "pt": "O arroz está pronto.",
+        "en": "The rice is ready.",
+        "ar": "الأرز جاهز."
       }
     },
     {
@@ -167,9 +167,9 @@
       "en": "the beans",
       "ar": "الفاصوليا",
       "example": {
-        "pt": "Boa noite! Aqui está o cardápio.",
-        "en": "Good evening! Here is the menu.",
-        "ar": "مساء الخير! هذه قائمة الطعام."
+        "pt": "O feijão é típico no Brasil.",
+        "en": "Beans are typical in Brazil.",
+        "ar": "الفاصوليا نوعية في البرازيل."
       }
     },
     {
@@ -178,9 +178,9 @@
       "en": "the salad",
       "ar": "السلطة",
       "example": {
-        "pt": "Um café e a conta, por favor.",
-        "en": "A coffee and the bill, please.",
-        "ar": "قهوة والحساب، من فضلك."
+        "pt": "A salada é fresca.",
+        "en": "The salad is fresh.",
+        "ar": "السلطة منعشة."
       }
     },
     {
@@ -189,9 +189,9 @@
       "en": "the bill",
       "ar": "الحساب",
       "example": {
-        "pt": "Um café e a conta, por favor.",
-        "en": "A coffee and the bill, please.",
-        "ar": "قهوة والحساب، من فضلك."
+        "pt": "A conta, por favor.",
+        "en": "The bill, please.",
+        "ar": "الحساب، من فضلك."
       }
     },
     {
@@ -200,9 +200,9 @@
       "en": "delicious",
       "ar": "لذيذ",
       "example": {
-        "pt": "O peixe com arroz é delicioso.",
-        "en": "The fish with rice is delicious.",
-        "ar": "السمك مع الأرز لذيذ."
+        "pt": "O bolo é delicioso.",
+        "en": "The cake is delicious.",
+        "ar": "الكيك لذيذ."
       }
     },
     {
@@ -211,9 +211,9 @@
       "en": "I want",
       "ar": "أريد",
       "example": {
-        "pt": "Eu quero um prato de feijoada.",
-        "en": "I want a feijoada dish.",
-        "ar": "أريد طبقًا من فيجوعادا."
+        "pt": "Quero reservar uma mesa.",
+        "en": "I want to reserve a table.",
+        "ar": "أريد حجز طاولة."
       }
     },
     {
@@ -222,9 +222,9 @@
       "en": "I would like",
       "ar": "أود",
       "example": {
-        "pt": "Então eu gostaria do peixe e uma água, por favor.",
-        "en": "Then I'd like the fish and a water, please.",
-        "ar": "إذن أود السمك والماء، من فضلك."
+        "pt": "Eu gostaria de reservar um quarto.",
+        "en": "I would like to reserve a room.",
+        "ar": "أود حجز غرفة."
       }
     }
   ],
@@ -894,6 +894,232 @@
         "pt": "A frase correta: 'Boa noite! Aqui está o cardápio.'",
         "en": "The correct sentence: 'Boa noite! Aqui está o cardápio.'",
         "ar": "الجملة الصحيحة: 'Boa noite! Aqui está o cardápio.'"
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the beans'?",
+        "en": "Which word means 'the beans'?",
+        "ar": "أي كلمة تعني 'الفاصوليا'؟"
+      },
+      "options": [
+        {
+          "pt": "o cardápio",
+          "en": "the menu",
+          "ar": "قائمة الطعام"
+        },
+        {
+          "pt": "delicioso",
+          "en": "delicious",
+          "ar": "لذيذ"
+        },
+        {
+          "pt": "o feijão",
+          "en": "the beans",
+          "ar": "الفاصوليا"
+        },
+        {
+          "pt": "o restaurante",
+          "en": "the restaurant",
+          "ar": "المطعم"
+        }
+      ],
+      "answer": "o feijão",
+      "explanation": {
+        "pt": "'o feijão' significa 'the beans'.",
+        "en": "'o feijão' means 'the beans'.",
+        "ar": "تعني 'o feijão' 'الفاصوليا'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the juice'?",
+        "en": "Which word means 'the juice'?",
+        "ar": "أي كلمة تعني 'العصير'؟"
+      },
+      "options": [
+        {
+          "pt": "o cardápio",
+          "en": "the menu",
+          "ar": "قائمة الطعام"
+        },
+        {
+          "pt": "o suco",
+          "en": "the juice",
+          "ar": "العصير"
+        },
+        {
+          "pt": "o restaurante",
+          "en": "the restaurant",
+          "ar": "المطعم"
+        }
+      ],
+      "answer": "o suco",
+      "explanation": {
+        "pt": "'o suco' significa 'the juice'.",
+        "en": "'o suco' means 'the juice'.",
+        "ar": "تعني 'o suco' 'العصير'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"The meat is roasted.\"",
+        "en": "Translate into Portuguese: \"The meat is roasted.\"",
+        "ar": "ترجم إلى البرتغالية: \"اللحم مشوي.\""
+      },
+      "options": [],
+      "answer": "A carne está assada.",
+      "explanation": {
+        "pt": "Resposta: \"A carne está assada.\".",
+        "en": "Answer: \"A carne está assada.\". (EN: \"The meat is roasted.\")",
+        "ar": "الإجابة: \"A carne está assada.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"Then I'd like the fish and a water, please.\"",
+        "en": "Translate into Portuguese: \"Then I'd like the fish and a water, please.\"",
+        "ar": "ترجم إلى البرتغالية: \"إذن أود السمك والماء، من فضلك.\""
+      },
+      "options": [],
+      "answer": "Então eu gostaria do peixe e uma água, por favor.",
+      "explanation": {
+        "pt": "Resposta: \"Então eu gostaria do peixe e uma água, por favor.\".",
+        "en": "Answer: \"Então eu gostaria do peixe e uma água, por favor.\". (EN: \"Then I'd like the fish and a water, please.\")",
+        "ar": "الإجابة: \"Então eu gostaria do peixe e uma água, por favor.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"O bolo é ___.\"",
+        "en": "Complete: \"O bolo é ___.\"",
+        "ar": "أكمل: \"O bolo é ___.\""
+      },
+      "options": [
+        {
+          "pt": "a bebida",
+          "en": "a bebida",
+          "ar": "a bebida"
+        },
+        {
+          "pt": "o restaurante",
+          "en": "o restaurante",
+          "ar": "o restaurante"
+        },
+        {
+          "pt": "delicioso",
+          "en": "delicioso",
+          "ar": "delicioso"
+        }
+      ],
+      "answer": "delicioso",
+      "explanation": {
+        "pt": "A lacuna é 'delicioso'.",
+        "en": "The blank is 'delicioso'.",
+        "ar": "الفراغ هو 'delicioso'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Eu tom___ toda manhã.\"",
+        "en": "Complete: \"Eu tom___ toda manhã.\"",
+        "ar": "أكمل: \"Eu tom___ toda manhã.\""
+      },
+      "options": [
+        {
+          "pt": "o café",
+          "en": "o café",
+          "ar": "o café"
+        },
+        {
+          "pt": "o restaurante",
+          "en": "o restaurante",
+          "ar": "o restaurante"
+        },
+        {
+          "pt": "a carne",
+          "en": "a carne",
+          "ar": "a carne"
+        }
+      ],
+      "answer": "o café",
+      "explanation": {
+        "pt": "A lacuna é 'o café'.",
+        "en": "The blank is 'o café'.",
+        "ar": "الفراغ هو 'o café'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: \"The restaurant opens at ten.\"",
+        "en": "Type in Portuguese: \"The restaurant opens at ten.\"",
+        "ar": "اكتب بالبرتغالية: \"يفتح المطعم في العاشرة.\""
+      },
+      "options": [],
+      "answer": "O restaurante abre às dez.",
+      "accepted": [
+        "O restaurante abre às dez."
+      ],
+      "explanation": {
+        "pt": "Resposta possível: \"O restaurante abre às dez.\".",
+        "en": "One possible answer: \"O restaurante abre às dez.\".",
+        "ar": "إجابة ممكنة: \"O restaurante abre às dez.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "opções.",
+          "en": "opções.",
+          "ar": "opções."
+        },
+        {
+          "pt": "tem",
+          "en": "tem",
+          "ar": "tem"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "cardápio",
+          "en": "cardápio",
+          "ar": "cardápio"
+        },
+        {
+          "pt": "muitas",
+          "en": "muitas",
+          "ar": "muitas"
+        }
+      ],
+      "answer": "O cardápio tem muitas opções.",
+      "gen": "v1.8",
+      "explanation": {
+        "pt": "A frase correta é: \"O cardápio tem muitas opções.\".",
+        "en": "The correct sentence is: \"O cardápio tem muitas opções.\".",
+        "ar": "الجملة الصحيحة هي: \"O cardápio tem muitas opções.\"."
       }
     }
   ],

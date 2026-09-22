@@ -35,9 +35,9 @@
       "en": "the letter",
       "ar": "الحرف",
       "example": {
-        "pt": "Bom dia! Vamos aprender o alfabeto.",
-        "en": "Good morning! Let's learn the alphabet.",
-        "ar": "صباح الخير! دعونا نتعلم الأبجدية."
+        "pt": "A letra 'a' é uma vogal.",
+        "en": "The letter 'a' is a vowel.",
+        "ar": "الحرف \"a\" هو حرف علة."
       }
     },
     {
@@ -46,9 +46,9 @@
       "en": "the sound",
       "ar": "الصوت",
       "example": {
-        "pt": "Bom dia! Vamos aprender o alfabeto.",
-        "en": "Good morning! Let's learn the alphabet.",
-        "ar": "صباح الخير! دعونا نتعلم الأبجدية."
+        "pt": "O som da música está alto.",
+        "en": "The sound of the music is loud.",
+        "ar": "صوت الموسيقى مرتفع."
       }
     },
     {
@@ -57,9 +57,9 @@
       "en": "the vowel",
       "ar": "حرف العلة",
       "example": {
-        "pt": "Bom dia! Vamos aprender o alfabeto.",
-        "en": "Good morning! Let's learn the alphabet.",
-        "ar": "صباح الخير! دعونا نتعلم الأبجدية."
+        "pt": "A vogal 'o' é redonda.",
+        "en": "The vowel 'o' is rounded.",
+        "ar": "حرف العلة \"o\" مستدير."
       }
     },
     {
@@ -68,9 +68,9 @@
       "en": "the consonant",
       "ar": "الحرف الساكن",
       "example": {
-        "pt": "Bom dia! Vamos aprender o alfabeto.",
-        "en": "Good morning! Let's learn the alphabet.",
-        "ar": "صباح الخير! دعونا نتعلم الأبجدية."
+        "pt": "A consoante 'r' é difícil.",
+        "en": "The consonant 'r' is hard.",
+        "ar": "الحرف الساكن \"r\" صعب."
       }
     },
     {
@@ -79,9 +79,9 @@
       "en": "the accent",
       "ar": "علامة التشكيل",
       "example": {
-        "pt": "Bom dia! Vamos aprender o alfabeto.",
-        "en": "Good morning! Let's learn the alphabet.",
-        "ar": "صباح الخير! دعونا نتعلم الأبجدية."
+        "pt": "O acento muda o som.",
+        "en": "The accent changes the sound.",
+        "ar": "علامة التشكيل تغيّر الصوت."
       }
     },
     {
@@ -90,9 +90,9 @@
       "en": "the pronunciation",
       "ar": "النطق",
       "example": {
-        "pt": "Bom dia! Vamos aprender o alfabeto.",
-        "en": "Good morning! Let's learn the alphabet.",
-        "ar": "صباح الخير! دعونا نتعلم الأبجدية."
+        "pt": "A pronúncia dela é ótima.",
+        "en": "Her pronunciation is great.",
+        "ar": "نطقها ممتاز."
       }
     },
     {
@@ -101,9 +101,9 @@
       "en": "the alphabet",
       "ar": "الأبجدية",
       "example": {
-        "pt": "Bom dia! Vamos aprender o alfabeto.",
-        "en": "Good morning! Let's learn the alphabet.",
-        "ar": "صباح الخير! دعونا نتعلم الأبجدية."
+        "pt": "O alfabeto português tem 26 letras.",
+        "en": "The Portuguese alphabet has 26 letters.",
+        "ar": "الأبجدية البرتغالية لها 26 حرفًا."
       }
     },
     {
@@ -112,9 +112,9 @@
       "en": "the example",
       "ar": "المثال",
       "example": {
-        "pt": "Bom dia! Vamos aprender o alfabeto.",
-        "en": "Good morning! Let's learn the alphabet.",
-        "ar": "صباح الخير! دعونا نتعلم الأبجدية."
+        "pt": "O exemplo é muito claro.",
+        "en": "The example is very clear.",
+        "ar": "المثال واضح جدًا."
       }
     },
     {
@@ -123,9 +123,9 @@
       "en": "the word",
       "ar": "الكلمة",
       "example": {
-        "pt": "Bom dia! Vamos aprender o alfabeto.",
-        "en": "Good morning! Let's learn the alphabet.",
-        "ar": "صباح الخير! دعونا نتعلم الأبجدية."
+        "pt": "A palavra começa com 'b'.",
+        "en": "The word starts with 'b'.",
+        "ar": "تبدأ الكلمة بحرف \"b\"."
       }
     },
     {
@@ -134,9 +134,9 @@
       "en": "to read",
       "ar": "يقرأ",
       "example": {
-        "pt": "Muito bem! Agora vamos ler algumas palavras.",
-        "en": "Very good! Now let's read some words.",
-        "ar": "ممتاز! الآن دعونا نقرأ بعض الكلمات."
+        "pt": "Vou ler o livro hoje.",
+        "en": "I'm going to read the book today.",
+        "ar": "سأقرأ الكتاب اليوم."
       }
     },
     {
@@ -145,9 +145,9 @@
       "en": "to write",
       "ar": "يكتب",
       "example": {
-        "pt": "Bom dia! Vamos aprender o alfabeto.",
-        "en": "Good morning! Let's learn the alphabet.",
-        "ar": "صباح الخير! دعونا نتعلم الأبجدية."
+        "pt": "Ela vai escrever uma carta.",
+        "en": "She is going to write a letter.",
+        "ar": "ستكتب رسالة."
       }
     },
     {
@@ -156,9 +156,9 @@
       "en": "to speak",
       "ar": "يتكلم",
       "example": {
-        "pt": "Bom dia! Vamos aprender o alfabeto.",
-        "en": "Good morning! Let's learn the alphabet.",
-        "ar": "صباح الخير! دعونا نتعلم الأبجدية."
+        "pt": "Eu quero falar com você.",
+        "en": "I want to speak with you.",
+        "ar": "أريد أن أتحدث معك."
       }
     },
     {
@@ -167,9 +167,9 @@
       "en": "to listen",
       "ar": "يستمع",
       "example": {
-        "pt": "Bom dia! Vamos aprender o alfabeto.",
-        "en": "Good morning! Let's learn the alphabet.",
-        "ar": "صباح الخير! دعونا نتعلم الأبجدية."
+        "pt": "Eu gosto de ouvir música.",
+        "en": "I like listening to music.",
+        "ar": "أحب الاستماع إلى الموسيقى."
       }
     },
     {
@@ -178,9 +178,9 @@
       "en": "the name",
       "ar": "الاسم",
       "example": {
-        "pt": "Bom dia! Vamos aprender o alfabeto.",
-        "en": "Good morning! Let's learn the alphabet.",
-        "ar": "صباح الخير! دعونا نتعلم الأبجدية."
+        "pt": "O nome dela é Maria.",
+        "en": "Her name is Maria.",
+        "ar": "اسمها ماريا."
       }
     },
     {
@@ -189,9 +189,9 @@
       "en": "good",
       "ar": "جيد",
       "example": {
-        "pt": "Bom dia! Vamos aprender o alfabeto.",
-        "en": "Good morning! Let's learn the alphabet.",
-        "ar": "صباح الخير! دعونا نتعلم الأبجدية."
+        "pt": "O filme foi muito bom.",
+        "en": "The movie was very good.",
+        "ar": "كان الفيلم جيدًا جدًا."
       }
     }
   ],
@@ -855,6 +855,232 @@
         "pt": "A frase correta: 'Bom dia! Vamos aprender o alfabeto.'",
         "en": "The correct sentence: 'Bom dia! Vamos aprender o alfabeto.'",
         "ar": "الجملة الصحيحة: 'Bom dia! Vamos aprender o alfabeto.'"
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'to write'?",
+        "en": "Which word means 'to write'?",
+        "ar": "أي كلمة تعني 'يكتب'؟"
+      },
+      "options": [
+        {
+          "pt": "bom",
+          "en": "good",
+          "ar": "جيد"
+        },
+        {
+          "pt": "o exemplo",
+          "en": "the example",
+          "ar": "المثال"
+        },
+        {
+          "pt": "escrever",
+          "en": "to write",
+          "ar": "يكتب"
+        }
+      ],
+      "answer": "escrever",
+      "explanation": {
+        "pt": "'escrever' significa 'to write'.",
+        "en": "'escrever' means 'to write'.",
+        "ar": "تعني 'escrever' 'يكتب'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the alphabet'?",
+        "en": "Which word means 'the alphabet'?",
+        "ar": "أي كلمة تعني 'الأبجدية'؟"
+      },
+      "options": [
+        {
+          "pt": "a pronúncia",
+          "en": "the pronunciation",
+          "ar": "النطق"
+        },
+        {
+          "pt": "o alfabeto",
+          "en": "the alphabet",
+          "ar": "الأبجدية"
+        },
+        {
+          "pt": "o nome",
+          "en": "the name",
+          "ar": "الاسم"
+        }
+      ],
+      "answer": "o alfabeto",
+      "explanation": {
+        "pt": "'o alfabeto' significa 'the alphabet'.",
+        "en": "'o alfabeto' means 'the alphabet'.",
+        "ar": "تعني 'o alfabeto' 'الأبجدية'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"I like listening to music.\"",
+        "en": "Translate into Portuguese: \"I like listening to music.\"",
+        "ar": "ترجم إلى البرتغالية: \"أحب الاستماع إلى الموسيقى.\""
+      },
+      "options": [],
+      "answer": "Eu gosto de ouvir música.",
+      "explanation": {
+        "pt": "Resposta: \"Eu gosto de ouvir música.\".",
+        "en": "Answer: \"Eu gosto de ouvir música.\". (EN: \"I like listening to music.\")",
+        "ar": "الإجابة: \"Eu gosto de ouvir música.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"I want to speak with you.\"",
+        "en": "Translate into Portuguese: \"I want to speak with you.\"",
+        "ar": "ترجم إلى البرتغالية: \"أريد أن أتحدث معك.\""
+      },
+      "options": [],
+      "answer": "Eu quero falar com você.",
+      "explanation": {
+        "pt": "Resposta: \"Eu quero falar com você.\".",
+        "en": "Answer: \"Eu quero falar com você.\". (EN: \"I want to speak with you.\")",
+        "ar": "الإجابة: \"Eu quero falar com você.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Eu quero ___ com você.\"",
+        "en": "Complete: \"Eu quero ___ com você.\"",
+        "ar": "أكمل: \"Eu quero ___ com você.\""
+      },
+      "options": [
+        {
+          "pt": "o acento",
+          "en": "o acento",
+          "ar": "o acento"
+        },
+        {
+          "pt": "a vogal",
+          "en": "a vogal",
+          "ar": "a vogal"
+        },
+        {
+          "pt": "falar",
+          "en": "falar",
+          "ar": "falar"
+        }
+      ],
+      "answer": "falar",
+      "explanation": {
+        "pt": "A lacuna é 'falar'.",
+        "en": "The blank is 'falar'.",
+        "ar": "الفراغ هو 'falar'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Vou ___ o livro hoje.\"",
+        "en": "Complete: \"Vou ___ o livro hoje.\"",
+        "ar": "أكمل: \"Vou ___ o livro hoje.\""
+      },
+      "options": [
+        {
+          "pt": "a consoante",
+          "en": "a consoante",
+          "ar": "a consoante"
+        },
+        {
+          "pt": "ler",
+          "en": "ler",
+          "ar": "ler"
+        },
+        {
+          "pt": "a letra",
+          "en": "a letra",
+          "ar": "a letra"
+        }
+      ],
+      "answer": "ler",
+      "explanation": {
+        "pt": "A lacuna é 'ler'.",
+        "en": "The blank is 'ler'.",
+        "ar": "الفراغ هو 'ler'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: \"The movie was very good.\"",
+        "en": "Type in Portuguese: \"The movie was very good.\"",
+        "ar": "اكتب بالبرتغالية: \"كان الفيلم جيدًا جدًا.\""
+      },
+      "options": [],
+      "answer": "O filme foi muito bom.",
+      "accepted": [
+        "O filme foi muito bom."
+      ],
+      "explanation": {
+        "pt": "Resposta possível: \"O filme foi muito bom.\".",
+        "en": "One possible answer: \"O filme foi muito bom.\".",
+        "ar": "إجابة ممكنة: \"O filme foi muito bom.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "português",
+          "en": "português",
+          "ar": "português"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "letras.",
+          "en": "letras.",
+          "ar": "letras."
+        },
+        {
+          "pt": "tem",
+          "en": "tem",
+          "ar": "tem"
+        },
+        {
+          "pt": "26",
+          "en": "26",
+          "ar": "26"
+        },
+        {
+          "pt": "alfabeto",
+          "en": "alfabeto",
+          "ar": "alfabeto"
+        }
+      ],
+      "answer": "O alfabeto português tem 26 letras.",
+      "gen": "v1.8",
+      "explanation": {
+        "pt": "A frase correta é: \"O alfabeto português tem 26 letras.\".",
+        "en": "The correct sentence is: \"O alfabeto português tem 26 letras.\".",
+        "ar": "الجملة الصحيحة هي: \"O alfabeto português tem 26 letras.\"."
       }
     }
   ],

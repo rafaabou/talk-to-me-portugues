@@ -35,9 +35,9 @@
       "en": "the health",
       "ar": "الصحة",
       "example": {
-        "pt": "Bom dia! O que você está sentindo?",
-        "en": "Good morning! What are you feeling?",
-        "ar": "صباح الخير! بماذا تشعر؟"
+        "pt": "Cuide da sua saúde.",
+        "en": "Take care of your health.",
+        "ar": "اعتنِ بصحتك."
       }
     },
     {
@@ -46,9 +46,9 @@
       "en": "the head",
       "ar": "الرأس",
       "example": {
-        "pt": "Bom dia! O que você está sentindo?",
-        "en": "Good morning! What are you feeling?",
-        "ar": "صباح الخير! بماذا تشعر؟"
+        "pt": "Minha cabeça dói.",
+        "en": "My head hurts.",
+        "ar": "رأس يؤلمني."
       }
     },
     {
@@ -57,9 +57,9 @@
       "en": "the throat",
       "ar": "الحلق",
       "example": {
-        "pt": "Bom dia! O que você está sentindo?",
-        "en": "Good morning! What are you feeling?",
-        "ar": "صباح الخير! بماذا تشعر؟"
+        "pt": "A garganta arde muito.",
+        "en": "The throat burns a lot.",
+        "ar": "يحرق الحلق كثيرًا."
       }
     },
     {
@@ -68,9 +68,9 @@
       "en": "the stomach / belly",
       "ar": "البطن",
       "example": {
-        "pt": "Bom dia! O que você está sentindo?",
-        "en": "Good morning! What are you feeling?",
-        "ar": "صباح الخير! بماذا تشعر؟"
+        "pt": "A barriga está cheia.",
+        "en": "The belly is full.",
+        "ar": "البطن ممتلئة."
       }
     },
     {
@@ -79,9 +79,9 @@
       "en": "the pain",
       "ar": "الألم",
       "example": {
-        "pt": "Bom dia! O que você está sentindo?",
-        "en": "Good morning! What are you feeling?",
-        "ar": "صباح الخير! بماذا تشعر؟"
+        "pt": "A dor passou depois.",
+        "en": "The pain passed afterwards.",
+        "ar": "مر الألم لاحقًا."
       }
     },
     {
@@ -90,9 +90,9 @@
       "en": "the medicine",
       "ar": "الدواء",
       "example": {
-        "pt": "Bom dia! O que você está sentindo?",
-        "en": "Good morning! What are you feeling?",
-        "ar": "صباح الخير! بماذا تشعر؟"
+        "pt": "Esqueci o remédio.",
+        "en": "I forgot the medicine.",
+        "ar": "نسيت الدواء."
       }
     },
     {
@@ -101,9 +101,9 @@
       "en": "the doctor",
       "ar": "الطبيب",
       "example": {
-        "pt": "Bom dia! O que você está sentindo?",
-        "en": "Good morning! What are you feeling?",
-        "ar": "صباح الخير! بماذا تشعر؟"
+        "pt": "O médico chegou agora.",
+        "en": "The doctor just arrived.",
+        "ar": "وصل الطبيب الآن."
       }
     },
     {
@@ -112,9 +112,9 @@
       "en": "the appointment",
       "ar": "الموعد الطبي",
       "example": {
-        "pt": "Bom dia! O que você está sentindo?",
-        "en": "Good morning! What are you feeling?",
-        "ar": "صباح الخير! بماذا تشعر؟"
+        "pt": "A consulta é amanhã.",
+        "en": "The appointment is tomorrow.",
+        "ar": "الموعد غدًا."
       }
     },
     {
@@ -123,9 +123,9 @@
       "en": "sick",
       "ar": "مريض",
       "example": {
-        "pt": "Bom dia! O que você está sentindo?",
-        "en": "Good morning! What are you feeling?",
-        "ar": "صباح الخير! بماذا تشعر؟"
+        "pt": "Ela ficou doente ontem.",
+        "en": "She got sick yesterday.",
+        "ar": "أصيبت بالمرض أمس."
       }
     },
     {
@@ -134,9 +134,9 @@
       "en": "the fever",
       "ar": "الحمى",
       "example": {
-        "pt": "Bom dia! O que você está sentindo?",
-        "en": "Good morning! What are you feeling?",
-        "ar": "صباح الخير! بماذا تشعر؟"
+        "pt": "A febre é alta.",
+        "en": "The fever is high.",
+        "ar": "الحمى مرتفعة."
       }
     },
     {
@@ -145,9 +145,9 @@
       "en": "to cough",
       "ar": "يسعل",
       "example": {
-        "pt": "Bom dia! O que você está sentindo?",
-        "en": "Good morning! What are you feeling?",
-        "ar": "صباح الخير! بماذا تشعر؟"
+        "pt": "Tossir muito cansa.",
+        "en": "Coughing a lot is tiring.",
+        "ar": "السعال الكثير مُرهِق."
       }
     },
     {
@@ -156,9 +156,9 @@
       "en": "the pharmacy",
       "ar": "الصيدلية",
       "example": {
-        "pt": "Bom dia! O que você está sentindo?",
-        "en": "Good morning! What are you feeling?",
-        "ar": "صباح الخير! بماذا تشعر؟"
+        "pt": "A farmácia abre às oito.",
+        "en": "The pharmacy opens at eight.",
+        "ar": "تفتح الصيدلية في الثامنة."
       }
     },
     {
@@ -167,9 +167,9 @@
       "en": "the prescription",
       "ar": "الوصفة الطبية",
       "example": {
-        "pt": "Bom dia! O que você está sentindo?",
-        "en": "Good morning! What are you feeling?",
-        "ar": "صباح الخير! بماذا تشعر؟"
+        "pt": "Seguir a receita é fácil.",
+        "en": "Following the recipe is easy.",
+        "ar": "اتباع الوصفة سهل."
       }
     },
     {
@@ -178,9 +178,9 @@
       "en": "to rest",
       "ar": "يستريح",
       "example": {
-        "pt": "Você tem que tomar este remédio e descansar.",
-        "en": "You have to take this medicine and rest.",
-        "ar": "يجب أن تتناول هذا الدواء وتستريح."
+        "pt": "Você precisa descansar hoje.",
+        "en": "You need to rest today.",
+        "ar": "تحتاج أن تستريح اليوم."
       }
     },
     {
@@ -189,9 +189,9 @@
       "en": "better",
       "ar": "أفضل",
       "example": {
-        "pt": "Eu me sinto melhor hoje.",
-        "en": "I feel better today.",
-        "ar": "أشعر بتحسن اليوم."
+        "pt": "Você está melhor hoje?",
+        "en": "Are you feeling better today?",
+        "ar": "هل تشعر بتحسن اليوم؟"
       }
     },
     {
@@ -200,9 +200,9 @@
       "en": "the arm",
       "ar": "الذراع",
       "example": {
-        "pt": "Bom dia! O que você está sentindo?",
-        "en": "Good morning! What are you feeling?",
-        "ar": "صباح الخير! بماذا تشعر؟"
+        "pt": "O braço dói muito.",
+        "en": "The arm hurts a lot.",
+        "ar": "الذراع يؤلمني كثيرًا."
       }
     },
     {
@@ -211,9 +211,9 @@
       "en": "the leg",
       "ar": "الساق",
       "example": {
-        "pt": "Bom dia! O que você está sentindo?",
-        "en": "Good morning! What are you feeling?",
-        "ar": "صباح الخير! بماذا تشعر؟"
+        "pt": "A perna esquerda machucou.",
+        "en": "The left leg got hurt.",
+        "ar": "أُذيت الساق اليسرى."
       }
     },
     {
@@ -222,9 +222,9 @@
       "en": "to feel",
       "ar": "يشعر",
       "example": {
-        "pt": "Bom dia! O que você está sentindo?",
-        "en": "Good morning! What are you feeling?",
-        "ar": "صباح الخير! بماذا تشعر؟"
+        "pt": "É bom sentir-se bem.",
+        "en": "It's good to feel well.",
+        "ar": "من الجيد أن تشعر بالراحة."
       }
     }
   ],
@@ -904,6 +904,222 @@
         "pt": "A frase correta: 'Bom dia! O que você está sentindo?'",
         "en": "The correct sentence: 'Bom dia! O que você está sentindo?'",
         "ar": "الجملة الصحيحة: 'Bom dia! O que você está sentindo?'"
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the medicine'?",
+        "en": "Which word means 'the medicine'?",
+        "ar": "أي كلمة تعني 'الدواء'؟"
+      },
+      "options": [
+        {
+          "pt": "a cabeça",
+          "en": "the head",
+          "ar": "الرأس"
+        },
+        {
+          "pt": "o remédio",
+          "en": "the medicine",
+          "ar": "الدواء"
+        },
+        {
+          "pt": "doente",
+          "en": "sick",
+          "ar": "مريض"
+        }
+      ],
+      "answer": "o remédio",
+      "explanation": {
+        "pt": "'o remédio' significa 'the medicine'.",
+        "en": "'o remédio' means 'the medicine'.",
+        "ar": "تعني 'o remédio' 'الدواء'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the doctor'?",
+        "en": "Which word means 'the doctor'?",
+        "ar": "أي كلمة تعني 'الطبيب'؟"
+      },
+      "options": [
+        {
+          "pt": "melhor",
+          "en": "better",
+          "ar": "أفضل"
+        },
+        {
+          "pt": "doente",
+          "en": "sick",
+          "ar": "مريض"
+        },
+        {
+          "pt": "o médico",
+          "en": "the doctor",
+          "ar": "الطبيب"
+        }
+      ],
+      "answer": "o médico",
+      "explanation": {
+        "pt": "'o médico' significa 'the doctor'.",
+        "en": "'o médico' means 'the doctor'.",
+        "ar": "تعني 'o médico' 'الطبيب'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"The left leg got hurt.\"",
+        "en": "Translate into Portuguese: \"The left leg got hurt.\"",
+        "ar": "ترجم إلى البرتغالية: \"أُذيت الساق اليسرى.\""
+      },
+      "options": [],
+      "answer": "A perna esquerda machucou.",
+      "explanation": {
+        "pt": "Resposta: \"A perna esquerda machucou.\".",
+        "en": "Answer: \"A perna esquerda machucou.\". (EN: \"The left leg got hurt.\")",
+        "ar": "الإجابة: \"A perna esquerda machucou.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"Are you feeling better today?\"",
+        "en": "Translate into Portuguese: \"Are you feeling better today?\"",
+        "ar": "ترجم إلى البرتغالية: \"هل تشعر بتحسن اليوم؟\""
+      },
+      "options": [],
+      "answer": "Você está melhor hoje?",
+      "explanation": {
+        "pt": "Resposta: \"Você está melhor hoje?\".",
+        "en": "Answer: \"Você está melhor hoje?\". (EN: \"Are you feeling better today?\")",
+        "ar": "الإجابة: \"Você está melhor hoje?\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Você precisa ___ hoje.\"",
+        "en": "Complete: \"Você precisa ___ hoje.\"",
+        "ar": "أكمل: \"Você precisa ___ hoje.\""
+      },
+      "options": [
+        {
+          "pt": "descansar",
+          "en": "descansar",
+          "ar": "descansar"
+        },
+        {
+          "pt": "a dor",
+          "en": "a dor",
+          "ar": "a dor"
+        },
+        {
+          "pt": "a garganta",
+          "en": "a garganta",
+          "ar": "a garganta"
+        }
+      ],
+      "answer": "descansar",
+      "explanation": {
+        "pt": "A lacuna é 'descansar'.",
+        "en": "The blank is 'descansar'.",
+        "ar": "الفراغ هو 'descansar'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"É bom ___ bem.\"",
+        "en": "Complete: \"É bom ___ bem.\"",
+        "ar": "أكمل: \"É bom ___ bem.\""
+      },
+      "options": [
+        {
+          "pt": "sentir-se",
+          "en": "sentir-se",
+          "ar": "sentir-se"
+        },
+        {
+          "pt": "a dor",
+          "en": "a dor",
+          "ar": "a dor"
+        },
+        {
+          "pt": "o remédio",
+          "en": "o remédio",
+          "ar": "o remédio"
+        }
+      ],
+      "answer": "sentir-se",
+      "explanation": {
+        "pt": "A lacuna é 'sentir-se'.",
+        "en": "The blank is 'sentir-se'.",
+        "ar": "الفراغ هو 'sentir-se'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: \"The left leg got hurt.\"",
+        "en": "Type in Portuguese: \"The left leg got hurt.\"",
+        "ar": "اكتب بالبرتغالية: \"أُذيت الساق اليسرى.\""
+      },
+      "options": [],
+      "answer": "A perna esquerda machucou.",
+      "accepted": [
+        "A perna esquerda machucou."
+      ],
+      "explanation": {
+        "pt": "Resposta possível: \"A perna esquerda machucou.\".",
+        "en": "One possible answer: \"A perna esquerda machucou.\".",
+        "ar": "إجابة ممكنة: \"A perna esquerda machucou.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "é",
+          "en": "é",
+          "ar": "é"
+        },
+        {
+          "pt": "amanhã.",
+          "en": "amanhã.",
+          "ar": "amanhã."
+        },
+        {
+          "pt": "consulta",
+          "en": "consulta",
+          "ar": "consulta"
+        },
+        {
+          "pt": "A",
+          "en": "A",
+          "ar": "A"
+        }
+      ],
+      "answer": "A consulta é amanhã.",
+      "gen": "v1.8",
+      "explanation": {
+        "pt": "A frase correta é: \"A consulta é amanhã.\".",
+        "en": "The correct sentence is: \"A consulta é amanhã.\".",
+        "ar": "الجملة الصحيحة هي: \"A consulta é amanhã.\"."
       }
     }
   ],

@@ -40,9 +40,9 @@
       "en": "metaphor",
       "ar": "الاستعارة",
       "example": {
-        "pt": "Como o narrador constrói a atmosfera nesse trecho?",
-        "en": "How does the narrator build the atmosphere in this passage?",
-        "ar": "كيف يبني الراوي الأجواء في هذا المقطع؟"
+        "pt": "A metáfora enriquece o texto.",
+        "en": "The metaphor enriches the text.",
+        "ar": "تثري الاستعارة النص."
       }
     },
     {
@@ -51,9 +51,9 @@
       "en": "metonymy",
       "ar": "المجاز المرسل",
       "example": {
-        "pt": "Como o narrador constrói a atmosfera nesse trecho?",
-        "en": "How does the narrator build the atmosphere in this passage?",
-        "ar": "كيف يبني الراوي الأجواء في هذا المقطع؟"
+        "pt": "A metonímia é comum na poesia.",
+        "en": "Metonymy is common in poetry.",
+        "ar": "الجاز المرسل شائع في الشعر."
       }
     },
     {
@@ -62,9 +62,9 @@
       "en": "allegory",
       "ar": "الرمزية",
       "example": {
-        "pt": "Como o narrador constrói a atmosfera nesse trecho?",
-        "en": "How does the narrator build the atmosphere in this passage?",
-        "ar": "كيف يبني الراوي الأجواء في هذا المقطع؟"
+        "pt": "A alegoria esconde um significado.",
+        "en": "The allegory hides a meaning.",
+        "ar": "تخفي الرمزية معنى."
       }
     },
     {
@@ -73,9 +73,9 @@
       "en": "the narrator",
       "ar": "الراوي",
       "example": {
-        "pt": "Como o narrador constrói a atmosfera nesse trecho?",
-        "en": "How does the narrator build the atmosphere in this passage?",
-        "ar": "كيف يبني الراوي الأجواء في هذا المقطع؟"
+        "pt": "O narrador conduz a história.",
+        "en": "The narrator guides the story.",
+        "ar": "يقود الراوي القصة."
       }
     },
     {
@@ -84,9 +84,9 @@
       "en": "omniscient",
       "ar": "عليم بكل شيء",
       "example": {
-        "pt": "Muito bem. Observe que o narrador é onisciente e usa o discurso indireto livre nas reflexões da personagem.",
-        "en": "Very good. Note that the narrator is omniscient and uses free indirect speech in the character's reflections.",
-        "ar": "أحسنتِ. لاحظي أن الراوي عليم بكل شيء ويستخدم الخطاب غير المباشر الحر في تأملات الشخصية."
+        "pt": "A narrativa onisciente revela tudo.",
+        "en": "Omniscient narrative reveals everything.",
+        "ar": "تكشف السردية العليم كل شيء."
       }
     },
     {
@@ -95,9 +95,9 @@
       "en": "euphemism",
       "ar": "التلطيف / اللفظ الموازي",
       "example": {
-        "pt": "Como o narrador constrói a atmosfera nesse trecho?",
-        "en": "How does the narrator build the atmosphere in this passage?",
-        "ar": "كيف يبني الراوي الأجواء في هذا المقطع؟"
+        "pt": "O eufemismo suaviza a fala.",
+        "en": "The euphemism softens speech.",
+        "ar": "يلطّف التلطيف الكلام."
       }
     },
     {
@@ -106,9 +106,9 @@
       "en": "hyperbole",
       "ar": "المبالغة",
       "example": {
-        "pt": "Como o narrador constrói a atmosfera nesse trecho?",
-        "en": "How does the narrator build the atmosphere in this passage?",
-        "ar": "كيف يبني الراوي الأجواء في هذا المقطع؟"
+        "pt": "A hipérbole exagera de propósito.",
+        "en": "Hyperbole exaggerates on purpose.",
+        "ar": "تبالغ المبالغة عن قصد."
       }
     },
     {
@@ -117,9 +117,9 @@
       "en": "irony",
       "ar": "السخرية",
       "example": {
-        "pt": "Como o narrador constrói a atmosfera nesse trecho?",
-        "en": "How does the narrator build the atmosphere in this passage?",
-        "ar": "كيف يبني الراوي الأجواء في هذا المقطع؟"
+        "pt": "A ironia depende do contexto.",
+        "en": "Irony depends on context.",
+        "ar": "تعتمد السخرية على السياق."
       }
     },
     {
@@ -128,9 +128,9 @@
       "en": "the character",
       "ar": "الشخصية",
       "example": {
-        "pt": "Como o narrador constrói a atmosfera nesse trecho?",
-        "en": "How does the narrator build the atmosphere in this passage?",
-        "ar": "كيف يبني الراوي الأجواء في هذا المقطع؟"
+        "pt": "A personagem principal muda.",
+        "en": "The main character changes.",
+        "ar": "تتغير الشخصية الرئيسية."
       }
     },
     {
@@ -139,9 +139,9 @@
       "en": "the plot",
       "ar": "الحبكة",
       "example": {
-        "pt": "Como o narrador constrói a atmosfera nesse trecho?",
-        "en": "How does the narrator build the atmosphere in this passage?",
-        "ar": "كيف يبني الراوي الأجواء في هذا المقطع؟"
+        "pt": "O enredo amarra todos os fios.",
+        "en": "The plot ties all threads together.",
+        "ar": "تربط الحبكة كل الخيوط."
       }
     },
     {
@@ -150,9 +150,9 @@
       "en": "the ending / resolution",
       "ar": "الخاتمة / الحل",
       "example": {
-        "pt": "Como o narrador constrói a atmosfera nesse trecho?",
-        "en": "How does the narrator build the atmosphere in this passage?",
-        "ar": "كيف يبني الراوي الأجواء في هذا المقطع؟"
+        "pt": "O desfecho foi inesperado.",
+        "en": "The ending was unexpected.",
+        "ar": "كانت الخاتمة غير متوقعة."
       }
     },
     {
@@ -161,9 +161,9 @@
       "en": "the climax",
       "ar": "الذروة",
       "example": {
-        "pt": "Como o narrador constrói a atmosfera nesse trecho?",
-        "en": "How does the narrator build the atmosphere in this passage?",
-        "ar": "كيف يبني الراوي الأجواء في هذا المقطع؟"
+        "pt": "O clímax chega no meio.",
+        "en": "The climax arrives in the middle.",
+        "ar": "تأتي الذروة في المنتصف."
       }
     },
     {
@@ -172,9 +172,9 @@
       "en": "antithesis",
       "ar": "الطباق / التقابل",
       "example": {
-        "pt": "Como o narrador constrói a atmosfera nesse trecho?",
-        "en": "How does the narrator build the atmosphere in this passage?",
-        "ar": "كيف يبني الراوي الأجواء في هذا المقطع؟"
+        "pt": "A antítese contrapõe ideias.",
+        "en": "Antithesis opposes ideas.",
+        "ar": "تقابل الطباق الأفكار."
       }
     },
     {
@@ -183,9 +183,9 @@
       "en": "paradox",
       "ar": "المفارقة",
       "example": {
-        "pt": "Como o narrador constrói a atmosfera nesse trecho?",
-        "en": "How does the narrator build the atmosphere in this passage?",
-        "ar": "كيف يبني الراوي الأجواء في هذا المقطع؟"
+        "pt": "O paradoxo instiga a reflexão.",
+        "en": "The paradox provokes reflection.",
+        "ar": "تثير المفارقة التفكير."
       }
     },
     {
@@ -194,9 +194,9 @@
       "en": "intertextuality",
       "ar": "التناص",
       "example": {
-        "pt": "Como o narrador constrói a atmosfera nesse trecho?",
-        "en": "How does the narrator build the atmosphere in this passage?",
-        "ar": "كيف يبني الراوي الأجواء في هذا المقطع؟"
+        "pt": "A intertextualidade enriquece a leitura.",
+        "en": "Intertextuality enriches reading.",
+        "ar": "تثري التناص القراءة."
       }
     },
     {
@@ -205,9 +205,9 @@
       "en": "catharsis",
       "ar": "التطهير النفسي",
       "example": {
-        "pt": "Como o narrador constrói a atmosfera nesse trecho?",
-        "en": "How does the narrator build the atmosphere in this passage?",
-        "ar": "كيف يبني الراوي الأجواء في هذا المقطع؟"
+        "pt": "A catarse purga emoções.",
+        "en": "Catharsis purges emotions.",
+        "ar": "تطهّر التمشية النفسي المشاعر."
       }
     },
     {
@@ -216,9 +216,9 @@
       "en": "flash-forward",
       "ar": "الاستباق",
       "example": {
-        "pt": "Como o narrador constrói a atmosfera nesse trecho?",
-        "en": "How does the narrator build the atmosphere in this passage?",
-        "ar": "كيف يبني الراوي الأجواء في هذا المقطع؟"
+        "pt": "A prolepse antecipa o futuro.",
+        "en": "Flash-forward anticipates the future.",
+        "ar": "يستبق الاستباق المستقبل."
       }
     },
     {
@@ -227,9 +227,9 @@
       "en": "flashback",
       "ar": "الاسترجاع",
       "example": {
-        "pt": "Como o narrador constrói a atmosfera nesse trecho?",
-        "en": "How does the narrator build the atmosphere in this passage?",
-        "ar": "كيف يبني الراوي الأجواء في هذا المقطع؟"
+        "pt": "A analepse volta ao passado.",
+        "en": "Flashback returns to the past.",
+        "ar": "يرجع الاسترجاع إلى الماضي."
       }
     }
   ],
@@ -920,6 +920,232 @@
         "en": "The correct sentence: 'Como o narrador constrói a atmosfera nesse trecho?'",
         "ar": "الجملة الصحيحة: 'Como o narrador constrói a atmosfera nesse trecho?'"
       }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'paradox'?",
+        "en": "Which word means 'paradox'?",
+        "ar": "أي كلمة تعني 'المفارقة'؟"
+      },
+      "options": [
+        {
+          "pt": "onisciente",
+          "en": "omniscient",
+          "ar": "عليم بكل شيء"
+        },
+        {
+          "pt": "o paradoxo",
+          "en": "paradox",
+          "ar": "المفارقة"
+        },
+        {
+          "pt": "a antítese",
+          "en": "antithesis",
+          "ar": "الطباق / التقابل"
+        }
+      ],
+      "answer": "o paradoxo",
+      "explanation": {
+        "pt": "'o paradoxo' significa 'paradox'.",
+        "en": "'o paradoxo' means 'paradox'.",
+        "ar": "تعني 'o paradoxo' 'المفارقة'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'catharsis'?",
+        "en": "Which word means 'catharsis'?",
+        "ar": "أي كلمة تعني 'التطهير النفسي'؟"
+      },
+      "options": [
+        {
+          "pt": "o eufemismo",
+          "en": "euphemism",
+          "ar": "التلطيف / اللفظ الموازي"
+        },
+        {
+          "pt": "a catarse",
+          "en": "catharsis",
+          "ar": "التطهير النفسي"
+        },
+        {
+          "pt": "a prolepse",
+          "en": "flash-forward",
+          "ar": "الاستباق"
+        },
+        {
+          "pt": "a metáfora",
+          "en": "metaphor",
+          "ar": "الاستعارة"
+        }
+      ],
+      "answer": "a catarse",
+      "explanation": {
+        "pt": "'a catarse' significa 'catharsis'.",
+        "en": "'a catarse' means 'catharsis'.",
+        "ar": "تعني 'a catarse' 'التطهير النفسي'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"The climax arrives in the middle.\"",
+        "en": "Translate into Portuguese: \"The climax arrives in the middle.\"",
+        "ar": "ترجم إلى البرتغالية: \"تأتي الذروة في المنتصف.\""
+      },
+      "options": [],
+      "answer": "O clímax chega no meio.",
+      "explanation": {
+        "pt": "Resposta: \"O clímax chega no meio.\".",
+        "en": "Answer: \"O clímax chega no meio.\". (EN: \"The climax arrives in the middle.\")",
+        "ar": "الإجابة: \"O clímax chega no meio.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"The plot ties all threads together.\"",
+        "en": "Translate into Portuguese: \"The plot ties all threads together.\"",
+        "ar": "ترجم إلى البرتغالية: \"تربط الحبكة كل الخيوط.\""
+      },
+      "options": [],
+      "answer": "O enredo amarra todos os fios.",
+      "explanation": {
+        "pt": "Resposta: \"O enredo amarra todos os fios.\".",
+        "en": "Answer: \"O enredo amarra todos os fios.\". (EN: \"The plot ties all threads together.\")",
+        "ar": "الإجابة: \"O enredo amarra todos os fios.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"A narrativa ___ revela tudo.\"",
+        "en": "Complete: \"A narrativa ___ revela tudo.\"",
+        "ar": "أكمل: \"A narrativa ___ revela tudo.\""
+      },
+      "options": [
+        {
+          "pt": "a ironia",
+          "en": "a ironia",
+          "ar": "a ironia"
+        },
+        {
+          "pt": "a alegoria",
+          "en": "a alegoria",
+          "ar": "a alegoria"
+        },
+        {
+          "pt": "onisciente",
+          "en": "onisciente",
+          "ar": "onisciente"
+        }
+      ],
+      "answer": "onisciente",
+      "explanation": {
+        "pt": "A lacuna é 'onisciente'.",
+        "en": "The blank is 'onisciente'.",
+        "ar": "الفراغ هو 'onisciente'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: \"Through the imperfect, professor: 'the afternoon was falling', 'the shadows lengthened' create the setting.\"",
+        "en": "Type in Portuguese: \"Through the imperfect, professor: 'the afternoon was falling', 'the shadows lengthened' create the setting.\"",
+        "ar": "اكتب بالبرتغالية: \"من خلال الماضي الناقص، أستاذة: 'كانت تُسدل الغروب' و'كانت الظلال تمدد' يخلقان الجو.\""
+      },
+      "options": [],
+      "answer": "Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.",
+      "accepted": [
+        "Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação."
+      ],
+      "explanation": {
+        "pt": "Resposta possível: \"Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.\".",
+        "en": "One possible answer: \"Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.\".",
+        "ar": "إجابة ممكنة: \"Pelo imperfeito, professora: 'a tarde caía', 'as sombras se alongavam' criam a ambientação.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "conduz",
+          "en": "conduz",
+          "ar": "conduz"
+        },
+        {
+          "pt": "narrador",
+          "en": "narrador",
+          "ar": "narrador"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "história.",
+          "en": "história.",
+          "ar": "história."
+        }
+      ],
+      "answer": "O narrador conduz a história.",
+      "gen": "v1.8",
+      "explanation": {
+        "pt": "A frase correta é: \"O narrador conduz a história.\".",
+        "en": "The correct sentence is: \"O narrador conduz a história.\".",
+        "ar": "الجملة الصحيحة هي: \"O narrador conduz a história.\"."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'irony'?",
+        "en": "Which word means 'irony'?",
+        "ar": "أي كلمة تعني 'السخرية'؟"
+      },
+      "options": [
+        {
+          "pt": "onisciente",
+          "en": "omniscient",
+          "ar": "عليم بكل شيء"
+        },
+        {
+          "pt": "o eufemismo",
+          "en": "euphemism",
+          "ar": "التلطيف / اللفظ الموازي"
+        },
+        {
+          "pt": "a ironia",
+          "en": "irony",
+          "ar": "السخرية"
+        }
+      ],
+      "answer": "a ironia",
+      "explanation": {
+        "pt": "'a ironia' significa 'irony'.",
+        "en": "'a ironia' means 'irony'.",
+        "ar": "تعني 'a ironia' 'السخرية'."
+      },
+      "gen": "v1.8"
     }
   ],
   "speaking": {

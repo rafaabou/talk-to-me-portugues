@@ -35,9 +35,9 @@
       "en": "to be (permanent)",
       "ar": "يكون (صفة دائمة)",
       "example": {
-        "pt": "Olá, eu sou o João. Eu sou engenheiro.",
-        "en": "Hello, I'm João. I'm an engineer.",
-        "ar": "مرحبًا، أنا جواو. أنا مهندس."
+        "pt": "Ela quer ser professora.",
+        "en": "She wants to be a teacher.",
+        "ar": "تريد أن تصبح معلمة."
       }
     },
     {
@@ -46,9 +46,9 @@
       "en": "to be (temporary)",
       "ar": "يكون (حالة مؤقتة)",
       "example": {
-        "pt": "Olá, eu sou o João. Eu sou engenheiro.",
-        "en": "Hello, I'm João. I'm an engineer.",
-        "ar": "مرحبًا، أنا جواو. أنا مهندس."
+        "pt": "Eu preciso estar pronto.",
+        "en": "I need to be ready.",
+        "ar": "أحتاج أن أكون جاهزًا."
       }
     },
     {
@@ -57,9 +57,9 @@
       "en": "I am",
       "ar": "أنا (دائم)",
       "example": {
-        "pt": "Olá, eu sou o João. Eu sou engenheiro.",
-        "en": "Hello, I'm João. I'm an engineer.",
-        "ar": "مرحبًا، أنا جواو. أنا مهندس."
+        "pt": "Eu sou brasileiro.",
+        "en": "I am Brazilian.",
+        "ar": "أنا برازيلي."
       }
     },
     {
@@ -68,9 +68,9 @@
       "en": "I am (temporarily)",
       "ar": "أنا (مؤقتًا)",
       "example": {
-        "pt": "Olá, eu sou o João. Eu sou engenheiro.",
-        "en": "Hello, I'm João. I'm an engineer.",
-        "ar": "مرحبًا، أنا جواو. أنا مهندس."
+        "pt": "Eu estou em casa agora.",
+        "en": "I am at home now.",
+        "ar": "أنا في المنزل الآن."
       }
     },
     {
@@ -79,9 +79,9 @@
       "en": "happy",
       "ar": "سعيد",
       "example": {
-        "pt": "Muito prazer! Eu estou muito feliz de trabalhar com você.",
-        "en": "Nice to meet you! I'm very happy to work with you.",
-        "ar": "سررت بلقائك! أنا سعيدة جدًا بالعمل معك."
+        "pt": "Estou feliz com o resultado.",
+        "en": "I'm happy with the result.",
+        "ar": "سعيد بالنتيجة."
       }
     },
     {
@@ -90,9 +90,9 @@
       "en": "tired",
       "ar": "متعب",
       "example": {
-        "pt": "Eu também. Eu estou um pouco cansado hoje.",
-        "en": "Me too. I'm a little tired today.",
-        "ar": "وأنا أيضًا. أنا متعب قليلًا اليوم."
+        "pt": "Depois da prova, estou cansado.",
+        "en": "After the test, I'm tired.",
+        "ar": "بعد الامتحان، أنا متعب."
       }
     },
     {
@@ -101,9 +101,9 @@
       "en": "Brazilian",
       "ar": "برازيلي",
       "example": {
-        "pt": "Olá, eu sou o João. Eu sou engenheiro.",
-        "en": "Hello, I'm João. I'm an engineer.",
-        "ar": "مرحبًا، أنا جواو. أنا مهندس."
+        "pt": "Ele é brasileiro de São Paulo.",
+        "en": "He is Brazilian from São Paulo.",
+        "ar": "هو برازيلي من ساو باولو."
       }
     },
     {
@@ -112,9 +112,9 @@
       "en": "teacher",
       "ar": "معلم",
       "example": {
-        "pt": "Eu sou professor.",
-        "en": "I am a teacher. (identity)",
-        "ar": "أنا معلم. (هوية)"
+        "pt": "Ele trabalha como professor.",
+        "en": "He works as a teacher.",
+        "ar": "يعمل كمعلم."
       }
     },
     {
@@ -123,9 +123,9 @@
       "en": "sick",
       "ar": "مريض",
       "example": {
-        "pt": "Ele está doente.",
-        "en": "He is sick. (temporary)",
-        "ar": "هو مريض. (حالة مؤقتة)"
+        "pt": "O gato está doente.",
+        "en": "The cat is sick.",
+        "ar": "القط مريض."
       }
     },
     {
@@ -134,9 +134,9 @@
       "en": "busy",
       "ar": "مشغول",
       "example": {
-        "pt": "Olá, eu sou o João. Eu sou engenheiro.",
-        "en": "Hello, I'm João. I'm an engineer.",
-        "ar": "مرحبًا، أنا جواو. أنا مهندس."
+        "pt": "Estou ocupado agora.",
+        "en": "I'm busy now.",
+        "ar": "أنا مشغول الآن."
       }
     },
     {
@@ -145,9 +145,9 @@
       "en": "tall",
       "ar": "طويل القامة",
       "example": {
-        "pt": "Olá, eu sou o João. Eu sou engenheiro.",
-        "en": "Hello, I'm João. I'm an engineer.",
-        "ar": "مرحبًا، أنا جواو. أنا مهندس."
+        "pt": "O prédio é muito alto.",
+        "en": "The building is very tall.",
+        "ar": "المبنى طويل جدًا."
       }
     },
     {
@@ -156,9 +156,9 @@
       "en": "intelligent",
       "ar": "ذكي",
       "example": {
-        "pt": "Você é muito inteligente.",
-        "en": "You are very intelligent.",
-        "ar": "أنت ذكي جدًا."
+        "pt": "A aluna é muito inteligente.",
+        "en": "The student (f) is very intelligent.",
+        "ar": "الطالبة ذكية جدًا."
       }
     },
     {
@@ -167,9 +167,9 @@
       "en": "today",
       "ar": "اليوم",
       "example": {
-        "pt": "Eu também. Eu estou um pouco cansado hoje.",
-        "en": "Me too. I'm a little tired today.",
-        "ar": "وأنا أيضًا. أنا متعب قليلًا اليوم."
+        "pt": "Hoje é segunda-feira.",
+        "en": "Today is Monday.",
+        "ar": "اليوم هو الاثنين."
       }
     },
     {
@@ -178,9 +178,9 @@
       "en": "now",
       "ar": "الآن",
       "example": {
-        "pt": "Eles estão na escola agora.",
-        "en": "They are at school now.",
-        "ar": "هم في المدرسة الآن."
+        "pt": "Agora está tudo claro.",
+        "en": "Now everything is clear.",
+        "ar": "الآن كل شيء واضح."
       }
     }
   ],
@@ -863,6 +863,227 @@
         "pt": "A frase correta: 'Olá, eu sou o João. Eu sou engenheiro.'",
         "en": "The correct sentence: 'Olá, eu sou o João. Eu sou engenheiro.'",
         "ar": "الجملة الصحيحة: 'Olá, eu sou o João. Eu sou engenheiro.'"
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'I am'?",
+        "en": "Which word means 'I am'?",
+        "ar": "أي كلمة تعني 'أنا (دائم)'؟"
+      },
+      "options": [
+        {
+          "pt": "eu sou",
+          "en": "I am",
+          "ar": "أنا (دائم)"
+        },
+        {
+          "pt": "ocupado",
+          "en": "busy",
+          "ar": "مشغول"
+        },
+        {
+          "pt": "inteligente",
+          "en": "intelligent",
+          "ar": "ذكي"
+        },
+        {
+          "pt": "feliz",
+          "en": "happy",
+          "ar": "سعيد"
+        }
+      ],
+      "answer": "eu sou",
+      "explanation": {
+        "pt": "'eu sou' significa 'I am'.",
+        "en": "'eu sou' means 'I am'.",
+        "ar": "تعني 'eu sou' 'أنا (دائم)'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'tall'?",
+        "en": "Which word means 'tall'?",
+        "ar": "أي كلمة تعني 'طويل القامة'؟"
+      },
+      "options": [
+        {
+          "pt": "alto",
+          "en": "tall",
+          "ar": "طويل القامة"
+        },
+        {
+          "pt": "professor",
+          "en": "teacher",
+          "ar": "معلم"
+        },
+        {
+          "pt": "ser",
+          "en": "to be (permanent)",
+          "ar": "يكون (صفة دائمة)"
+        }
+      ],
+      "answer": "alto",
+      "explanation": {
+        "pt": "'alto' significa 'tall'.",
+        "en": "'alto' means 'tall'.",
+        "ar": "تعني 'alto' 'طويل القامة'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"He is Brazilian from São Paulo.\"",
+        "en": "Translate into Portuguese: \"He is Brazilian from São Paulo.\"",
+        "ar": "ترجم إلى البرتغالية: \"هو برازيلي من ساو باولو.\""
+      },
+      "options": [],
+      "answer": "Ele é brasileiro de São Paulo.",
+      "explanation": {
+        "pt": "Resposta: \"Ele é brasileiro de São Paulo.\".",
+        "en": "Answer: \"Ele é brasileiro de São Paulo.\". (EN: \"He is Brazilian from São Paulo.\")",
+        "ar": "الإجابة: \"Ele é brasileiro de São Paulo.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"The building is very tall.\"",
+        "en": "Translate into Portuguese: \"The building is very tall.\"",
+        "ar": "ترجم إلى البرتغالية: \"المبنى طويل جدًا.\""
+      },
+      "options": [],
+      "answer": "O prédio é muito alto.",
+      "explanation": {
+        "pt": "Resposta: \"O prédio é muito alto.\".",
+        "en": "Answer: \"O prédio é muito alto.\". (EN: \"The building is very tall.\")",
+        "ar": "الإجابة: \"O prédio é muito alto.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Depois da prova, estou ___.\"",
+        "en": "Complete: \"Depois da prova, estou ___.\"",
+        "ar": "أكمل: \"Depois da prova, estou ___.\""
+      },
+      "options": [
+        {
+          "pt": "ser",
+          "en": "ser",
+          "ar": "ser"
+        },
+        {
+          "pt": "cansado",
+          "en": "cansado",
+          "ar": "cansado"
+        },
+        {
+          "pt": "estar",
+          "en": "estar",
+          "ar": "estar"
+        }
+      ],
+      "answer": "cansado",
+      "explanation": {
+        "pt": "A lacuna é 'cansado'.",
+        "en": "The blank is 'cansado'.",
+        "ar": "الفراغ هو 'cansado'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Ele é ___ de São Paulo.\"",
+        "en": "Complete: \"Ele é ___ de São Paulo.\"",
+        "ar": "أكمل: \"Ele é ___ de São Paulo.\""
+      },
+      "options": [
+        {
+          "pt": "brasileiro",
+          "en": "brasileiro",
+          "ar": "brasileiro"
+        },
+        {
+          "pt": "feliz",
+          "en": "feliz",
+          "ar": "feliz"
+        },
+        {
+          "pt": "eu estou",
+          "en": "eu estou",
+          "ar": "eu estou"
+        }
+      ],
+      "answer": "brasileiro",
+      "explanation": {
+        "pt": "A lacuna é 'brasileiro'.",
+        "en": "The blank is 'brasileiro'.",
+        "ar": "الفراغ هو 'brasileiro'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: \"She wants to be a teacher.\"",
+        "en": "Type in Portuguese: \"She wants to be a teacher.\"",
+        "ar": "اكتب بالبرتغالية: \"تريد أن تصبح معلمة.\""
+      },
+      "options": [],
+      "answer": "Ela quer ser professora.",
+      "accepted": [
+        "Ela quer ser professora."
+      ],
+      "explanation": {
+        "pt": "Resposta possível: \"Ela quer ser professora.\".",
+        "en": "One possible answer: \"Ela quer ser professora.\".",
+        "ar": "إجابة ممكنة: \"Ela quer ser professora.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "gato",
+          "en": "gato",
+          "ar": "gato"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "está",
+          "en": "está",
+          "ar": "está"
+        },
+        {
+          "pt": "doente.",
+          "en": "doente.",
+          "ar": "doente."
+        }
+      ],
+      "answer": "O gato está doente.",
+      "gen": "v1.8",
+      "explanation": {
+        "pt": "A frase correta é: \"O gato está doente.\".",
+        "en": "The correct sentence is: \"O gato está doente.\".",
+        "ar": "الجملة الصحيحة هي: \"O gato está doente.\"."
       }
     }
   ],

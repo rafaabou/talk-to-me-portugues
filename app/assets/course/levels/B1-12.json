@@ -30,9 +30,9 @@
       "en": "the review",
       "ar": "المراجعة",
       "example": {
-        "pt": "A pessoa que conheci está viajando agora.",
-        "en": "The person I met is travelling right now.",
-        "ar": "الشخص الذي قابلته مسافر الآن."
+        "pt": "A revisão ajuda muito.",
+        "en": "The review helps a lot.",
+        "ar": "تساعد المراجعة كثيرًا."
       }
     },
     {
@@ -41,9 +41,9 @@
       "en": "the grammar",
       "ar": "القواعد",
       "example": {
-        "pt": "A pessoa que conheci está viajando agora.",
-        "en": "The person I met is travelling right now.",
-        "ar": "الشخص الذي قابلته مسافر الآن."
+        "pt": "A gramática parece difícil.",
+        "en": "Grammar seems difficult.",
+        "ar": "تبدو القواعد صعبة."
       }
     },
     {
@@ -52,9 +52,9 @@
       "en": "the content",
       "ar": "المحتوى",
       "example": {
-        "pt": "Terminamos o nível B1! Que progresso, hein?",
-        "en": "We finished level B1! What progress, right?",
-        "ar": "أنهينا المستوى B1! يا له من تقدم، أليس كذلك؟"
+        "pt": "O conteúdo é organizado.",
+        "en": "The content is organized.",
+        "ar": "المحتوى منظم."
       }
     },
     {
@@ -63,9 +63,9 @@
       "en": "to master",
       "ar": "يتقن",
       "example": {
-        "pt": "Acho que com mais prática você vai dominar.",
-        "en": "I think with more practice you will master it.",
-        "ar": "أعتقد أنك ستتقنه مع المزيد من التمرين."
+        "pt": "Quero dominar o idioma.",
+        "en": "I want to master the language.",
+        "ar": "أريد إتقان اللغة."
       }
     },
     {
@@ -74,9 +74,9 @@
       "en": "to practice",
       "ar": "يمارس",
       "example": {
-        "pt": "Terminamos o nível B1! Que progresso, hein?",
-        "en": "We finished level B1! What progress, right?",
-        "ar": "أنهينا المستوى B1! يا له من تقدم، أليس كذلك؟"
+        "pt": "Você deve praticar mais.",
+        "en": "You should practice more.",
+        "ar": "يجب أن تمارس أكثر."
       }
     },
     {
@@ -85,9 +85,9 @@
       "en": "to review",
       "ar": "يراجع",
       "example": {
-        "pt": "Vamos revisar o capítulo de pronomes relativos?",
-        "en": "Shall we review the chapter on relative pronouns?",
-        "ar": "هل نراجع فصل ضمائر الوصل؟"
+        "pt": "Preciso revisar a lição.",
+        "en": "I need to review the lesson.",
+        "ar": "أحتاج أن أراجع الدرس."
       }
     },
     {
@@ -96,9 +96,9 @@
       "en": "to finish",
       "ar": "يُنهي",
       "example": {
-        "pt": "Se eu concluir as atividades, estarei pronto para o próximo nível.",
-        "en": "If I finish the activities, I will be ready for the next level.",
-        "ar": "إذا أنهيت الأنشطة، سأكون جاهزاً للمستوى التالي."
+        "pt": "É preciso concluir a prova.",
+        "en": "You need to finish the test.",
+        "ar": "يجب إنهاء الامتحان."
       }
     },
     {
@@ -107,9 +107,9 @@
       "en": "the doubt",
       "ar": "الشك / السؤال",
       "example": {
-        "pt": "A pessoa que conheci está viajando agora.",
-        "en": "The person I met is travelling right now.",
-        "ar": "الشخص الذي قابلته مسافر الآن."
+        "pt": "A dúvida é normal.",
+        "en": "The doubt is normal.",
+        "ar": "الشك أمر طبيعي."
       }
     },
     {
@@ -118,9 +118,9 @@
       "en": "the chapter",
       "ar": "الفصل",
       "example": {
-        "pt": "Terminamos o nível B1! Que progresso, hein?",
-        "en": "We finished level B1! What progress, right?",
-        "ar": "أنهينا المستوى B1! يا له من تقدم، أليس كذلك؟"
+        "pt": "Li o capítulo todo.",
+        "en": "I read the whole chapter.",
+        "ar": "قرأت الفصل كله."
       }
     },
     {
@@ -129,9 +129,9 @@
       "en": "the goal",
       "ar": "الهدف",
       "example": {
-        "pt": "A pessoa que conheci está viajando agora.",
-        "en": "The person I met is travelling right now.",
-        "ar": "الشخص الذي قابلته مسافر الآن."
+        "pt": "A meta é clara.",
+        "en": "The goal is clear.",
+        "ar": "الهدف واضح."
       }
     },
     {
@@ -140,9 +140,9 @@
       "en": "the progress",
       "ar": "التقدم",
       "example": {
-        "pt": "Terminamos o nível B1! Que progresso, hein?",
-        "en": "We finished level B1! What progress, right?",
-        "ar": "أنهينا المستوى B1! يا له من تقدم، أليس كذلك؟"
+        "pt": "O progresso é visível.",
+        "en": "The progress is visible.",
+        "ar": "التقدم مرئي."
       }
     },
     {
@@ -151,9 +151,9 @@
       "en": "the fluency",
       "ar": "الطلاقة",
       "example": {
-        "pt": "A pessoa que conheci está viajando agora.",
-        "en": "The person I met is travelling right now.",
-        "ar": "الشخص الذي قابلته مسافر الآن."
+        "pt": "A fluência melhora aos poucos.",
+        "en": "Fluency improves gradually.",
+        "ar": "تتحسن الطلاقة تدريجيًا."
       }
     },
     {
@@ -162,9 +162,9 @@
       "en": "the difficulty",
       "ar": "الصعوبة",
       "example": {
-        "pt": "A pessoa que conheci está viajando agora.",
-        "en": "The person I met is travelling right now.",
-        "ar": "الشخص الذي قابلته مسافر الآن."
+        "pt": "A dificuldade é temporária.",
+        "en": "The difficulty is temporary.",
+        "ar": "الصعوبة مؤقتة."
       }
     },
     {
@@ -173,9 +173,9 @@
       "en": "the summary",
       "ar": "الملخص",
       "example": {
-        "pt": "Terminamos o nível B1! Que progresso, hein?",
-        "en": "We finished level B1! What progress, right?",
-        "ar": "أنهينا المستوى B1! يا له من تقدم، أليس كذلك؟"
+        "pt": "Escreva o resumo agora.",
+        "en": "Write the summary now.",
+        "ar": "اكتب الملخص الآن."
       }
     },
     {
@@ -184,9 +184,9 @@
       "en": "to prepare",
       "ar": "يحضّر",
       "example": {
-        "pt": "Terminamos o nível B1! Que progresso, hein?",
-        "en": "We finished level B1! What progress, right?",
-        "ar": "أنهينا المستوى B1! يا له من تقدم، أليس كذلك؟"
+        "pt": "Vou preparar o jantar.",
+        "en": "I'm going to prepare dinner.",
+        "ar": "سأجهّز العشاء."
       }
     }
   ],
@@ -876,6 +876,257 @@
         "pt": "A frase correta: 'Terminamos o nível B1! Que progresso, hein?'",
         "en": "The correct sentence: 'Terminamos o nível B1! Que progresso, hein?'",
         "ar": "الجملة الصحيحة: 'Terminamos o nível B1! Que progresso, hein?'"
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'to practice'?",
+        "en": "Which word means 'to practice'?",
+        "ar": "أي كلمة تعني 'يمارس'؟"
+      },
+      "options": [
+        {
+          "pt": "o conteúdo",
+          "en": "the content",
+          "ar": "المحتوى"
+        },
+        {
+          "pt": "praticar",
+          "en": "to practice",
+          "ar": "يمارس"
+        },
+        {
+          "pt": "a gramática",
+          "en": "the grammar",
+          "ar": "القواعد"
+        }
+      ],
+      "answer": "praticar",
+      "explanation": {
+        "pt": "'praticar' significa 'to practice'.",
+        "en": "'praticar' means 'to practice'.",
+        "ar": "تعني 'praticar' 'يمارس'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'to finish'?",
+        "en": "Which word means 'to finish'?",
+        "ar": "أي كلمة تعني 'يُنهي'؟"
+      },
+      "options": [
+        {
+          "pt": "o resumo",
+          "en": "the summary",
+          "ar": "الملخص"
+        },
+        {
+          "pt": "concluir",
+          "en": "to finish",
+          "ar": "يُنهي"
+        },
+        {
+          "pt": "a fluência",
+          "en": "the fluency",
+          "ar": "الطلاقة"
+        }
+      ],
+      "answer": "concluir",
+      "explanation": {
+        "pt": "'concluir' significa 'to finish'.",
+        "en": "'concluir' means 'to finish'.",
+        "ar": "تعني 'concluir' 'يُنهي'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"The doubt is normal.\"",
+        "en": "Translate into Portuguese: \"The doubt is normal.\"",
+        "ar": "ترجم إلى البرتغالية: \"الشك أمر طبيعي.\""
+      },
+      "options": [],
+      "answer": "A dúvida é normal.",
+      "explanation": {
+        "pt": "Resposta: \"A dúvida é normal.\".",
+        "en": "Answer: \"A dúvida é normal.\". (EN: \"The doubt is normal.\")",
+        "ar": "الإجابة: \"A dúvida é normal.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"I want to master the language.\"",
+        "en": "Translate into Portuguese: \"I want to master the language.\"",
+        "ar": "ترجم إلى البرتغالية: \"أريد إتقان اللغة.\""
+      },
+      "options": [],
+      "answer": "Quero dominar o idioma.",
+      "explanation": {
+        "pt": "Resposta: \"Quero dominar o idioma.\".",
+        "en": "Answer: \"Quero dominar o idioma.\". (EN: \"I want to master the language.\")",
+        "ar": "الإجابة: \"Quero dominar o idioma.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Li ___ todo.\"",
+        "en": "Complete: \"Li ___ todo.\"",
+        "ar": "أكمل: \"Li ___ todo.\""
+      },
+      "options": [
+        {
+          "pt": "a gramática",
+          "en": "a gramática",
+          "ar": "a gramática"
+        },
+        {
+          "pt": "concluir",
+          "en": "concluir",
+          "ar": "concluir"
+        },
+        {
+          "pt": "o capítulo",
+          "en": "o capítulo",
+          "ar": "o capítulo"
+        }
+      ],
+      "answer": "o capítulo",
+      "explanation": {
+        "pt": "A lacuna é 'o capítulo'.",
+        "en": "The blank is 'o capítulo'.",
+        "ar": "الفراغ هو 'o capítulo'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"É preciso ___ a prova.\"",
+        "en": "Complete: \"É preciso ___ a prova.\"",
+        "ar": "أكمل: \"É preciso ___ a prova.\""
+      },
+      "options": [
+        {
+          "pt": "dominar",
+          "en": "dominar",
+          "ar": "dominar"
+        },
+        {
+          "pt": "concluir",
+          "en": "concluir",
+          "ar": "concluir"
+        },
+        {
+          "pt": "o capítulo",
+          "en": "o capítulo",
+          "ar": "o capítulo"
+        }
+      ],
+      "answer": "concluir",
+      "explanation": {
+        "pt": "A lacuna é 'concluir'.",
+        "en": "The blank is 'concluir'.",
+        "ar": "الفراغ هو 'concluir'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: \"Yes, but I still have doubts about the conditional.\"",
+        "en": "Type in Portuguese: \"Yes, but I still have doubts about the conditional.\"",
+        "ar": "اكتب بالبرتغالية: \"نعم، لكن ما زال لديّ شكوك حول الماضي المستقبلي.\""
+      },
+      "options": [],
+      "answer": "Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.",
+      "accepted": [
+        "Sim, mas ainda tenho dúvidas sobre o futuro do pretérito."
+      ],
+      "explanation": {
+        "pt": "Resposta possível: \"Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.\".",
+        "en": "One possible answer: \"Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.\".",
+        "ar": "إجابة ممكنة: \"Sim, mas ainda tenho dúvidas sobre o futuro do pretérito.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "estarei",
+          "en": "estarei",
+          "ar": "estarei"
+        },
+        {
+          "pt": "Se",
+          "en": "Se",
+          "ar": "Se"
+        },
+        {
+          "pt": "as",
+          "en": "as",
+          "ar": "as"
+        },
+        {
+          "pt": "para",
+          "en": "para",
+          "ar": "para"
+        },
+        {
+          "pt": "nível.",
+          "en": "nível.",
+          "ar": "nível."
+        },
+        {
+          "pt": "pronto",
+          "en": "pronto",
+          "ar": "pronto"
+        },
+        {
+          "pt": "concluir",
+          "en": "concluir",
+          "ar": "concluir"
+        },
+        {
+          "pt": "próximo",
+          "en": "próximo",
+          "ar": "próximo"
+        },
+        {
+          "pt": "atividades,",
+          "en": "atividades,",
+          "ar": "atividades,"
+        },
+        {
+          "pt": "o",
+          "en": "o",
+          "ar": "o"
+        },
+        {
+          "pt": "eu",
+          "en": "eu",
+          "ar": "eu"
+        }
+      ],
+      "answer": "Se eu concluir as atividades, estarei pronto para o próximo nível.",
+      "gen": "v1.8",
+      "explanation": {
+        "pt": "A frase correta é: \"Se eu concluir as atividades, estarei pronto para o próximo nível.\".",
+        "en": "The correct sentence is: \"Se eu concluir as atividades, estarei pronto para o próximo nível.\".",
+        "ar": "الجملة الصحيحة هي: \"Se eu concluir as atividades, estarei pronto para o próximo nível.\"."
       }
     }
   ],

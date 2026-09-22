@@ -35,9 +35,9 @@
       "en": "the hour",
       "ar": "الساعة",
       "example": {
-        "pt": "Bruno, que horas você acorda?",
-        "en": "Bruno, what time do you wake up?",
-        "ar": "برونو، في أي ساعة تستيقظ؟"
+        "pt": "Está na hora de comer.",
+        "en": "It's time to eat.",
+        "ar": "حان وقت الأكل."
       }
     },
     {
@@ -46,9 +46,9 @@
       "en": "the clock",
       "ar": "الساعة",
       "example": {
-        "pt": "E o que você faz depois?",
-        "en": "And what do you do after?",
-        "ar": "وماذا تفعل بعد ذلك؟"
+        "pt": "O relógio está na parede.",
+        "en": "The clock is on the wall.",
+        "ar": "الساعة على الجدار."
       }
     },
     {
@@ -57,9 +57,9 @@
       "en": "what time is it?",
       "ar": "كم الساعة؟",
       "example": {
-        "pt": "Bruno, que horas você acorda?",
-        "en": "Bruno, what time do you wake up?",
-        "ar": "برونو، في أي ساعة تستيقظ؟"
+        "pt": "Pode me dizer que horas são?",
+        "en": "Can you tell me what time it is?",
+        "ar": "هل يمكنك إخباري كم الساعة؟"
       }
     },
     {
@@ -68,9 +68,9 @@
       "en": "it's one o'clock",
       "ar": "الساعة الواحدة",
       "example": {
-        "pt": "É uma hora da tarde.",
-        "en": "It's one in the afternoon.",
-        "ar": "إنها الواحدة ظهرًا."
+        "pt": "Agora é uma hora e meia.",
+        "en": "Now it's one thirty.",
+        "ar": "الآن الساعة الواحدة والنصف."
       }
     },
     {
@@ -79,9 +79,9 @@
       "en": "it's two o'clock",
       "ar": "الساعة الثانية",
       "example": {
-        "pt": "Que horas são? São oito horas.",
-        "en": "What time is it? It's eight o'clock.",
-        "ar": "كم الساعة؟ إنها الثامنة."
+        "pt": "São duas horas da tarde.",
+        "en": "It's two in the afternoon.",
+        "ar": "الثانية ظهرًا."
       }
     },
     {
@@ -90,9 +90,9 @@
       "en": "in the morning",
       "ar": "في الصباح",
       "example": {
-        "pt": "Eu acordo às seis e meia de manhã.",
-        "en": "I wake up at six thirty in the morning.",
-        "ar": "أستيقظ في السادسة والنصف صباحًا."
+        "pt": "Eu corro de manhã.",
+        "en": "I run in the morning.",
+        "ar": "أركض في الصباح."
       }
     },
     {
@@ -101,9 +101,9 @@
       "en": "in the afternoon",
       "ar": "في الظهيرة",
       "example": {
-        "pt": "À noite, eu vejo TV.",
-        "en": "At night, I watch TV.",
-        "ar": "في الليل، أشاهد التلفاز."
+        "pt": "Eu estudo à tarde.",
+        "en": "I study in the afternoon.",
+        "ar": "أدرس في الظهيرة."
       }
     },
     {
@@ -112,9 +112,9 @@
       "en": "at night",
       "ar": "في الليل",
       "example": {
-        "pt": "À noite, eu vejo TV.",
-        "en": "At night, I watch TV.",
-        "ar": "في الليل، أشاهد التلفاز."
+        "pt": "Eu leio à noite.",
+        "en": "I read at night.",
+        "ar": "أقرأ في الليل."
       }
     },
     {
@@ -123,9 +123,9 @@
       "en": "to wake up",
       "ar": "يستيقظ",
       "example": {
-        "pt": "Bruno, que horas você acorda?",
-        "en": "Bruno, what time do you wake up?",
-        "ar": "برونو، في أي ساعة تستيقظ؟"
+        "pt": "Tento acordar cedo.",
+        "en": "I try to wake up early.",
+        "ar": "أحاول الاستيقاظ مبكرًا."
       }
     },
     {
@@ -134,9 +134,9 @@
       "en": "to get up",
       "ar": "يقوم",
       "example": {
-        "pt": "Bruno, que horas você acorda?",
-        "en": "Bruno, what time do you wake up?",
-        "ar": "برونو، في أي ساعة تستيقظ؟"
+        "pt": "Vou levantar agora.",
+        "en": "I'm going to get up now.",
+        "ar": "سأقوم الآن."
       }
     },
     {
@@ -145,9 +145,9 @@
       "en": "to shower",
       "ar": "يستحم",
       "example": {
-        "pt": "Bruno, que horas você acorda?",
-        "en": "Bruno, what time do you wake up?",
-        "ar": "برونو، في أي ساعة تستيقظ؟"
+        "pt": "Eu vou tomar banho.",
+        "en": "I'm going to take a shower.",
+        "ar": "سأستحم الآن."
       }
     },
     {
@@ -156,9 +156,9 @@
       "en": "to have breakfast",
       "ar": "يتناول الفطور",
       "example": {
-        "pt": "Bruno, que horas você acorda?",
-        "en": "Bruno, what time do you wake up?",
-        "ar": "برونو، في أي ساعة تستيقظ؟"
+        "pt": "Vamos tomar café?",
+        "en": "Shall we have coffee?",
+        "ar": "هل نتشارك القهوة؟"
       }
     },
     {
@@ -167,9 +167,9 @@
       "en": "to leave",
       "ar": "يخرج",
       "example": {
-        "pt": "Bruno, que horas você acorda?",
-        "en": "Bruno, what time do you wake up?",
-        "ar": "برونو، في أي ساعة تستيقظ؟"
+        "pt": "Preciso sair agora.",
+        "en": "I need to leave now.",
+        "ar": "أحتاج أن أخرج الآن."
       }
     },
     {
@@ -178,9 +178,9 @@
       "en": "to arrive",
       "ar": "يصل",
       "example": {
-        "pt": "Bruno, que horas você acorda?",
-        "en": "Bruno, what time do you wake up?",
-        "ar": "برونو، في أي ساعة تستيقظ؟"
+        "pt": "Ele pode chegar mais tarde.",
+        "en": "He can arrive later.",
+        "ar": "يمكنه أن يصل لاحقًا."
       }
     },
     {
@@ -189,9 +189,9 @@
       "en": "to sleep",
       "ar": "ينام",
       "example": {
-        "pt": "Bruno, que horas você acorda?",
-        "en": "Bruno, what time do you wake up?",
-        "ar": "برونو، في أي ساعة تستيقظ؟"
+        "pt": "Eu preciso dormir cedo.",
+        "en": "I need to sleep early.",
+        "ar": "أحتاج أن أنام مبكرًا."
       }
     },
     {
@@ -200,9 +200,9 @@
       "en": "the morning",
       "ar": "الصباح",
       "example": {
-        "pt": "Bruno, que horas você acorda?",
-        "en": "Bruno, what time do you wake up?",
-        "ar": "برونو، في أي ساعة تستيقظ؟"
+        "pt": "A manhã está fria.",
+        "en": "The morning is cold.",
+        "ar": "الصباح بارد."
       }
     }
   ],
@@ -862,6 +862,247 @@
         "pt": "A frase correta: 'Bruno, que horas você acorda?'",
         "en": "The correct sentence: 'Bruno, que horas você acorda?'",
         "ar": "الجملة الصحيحة: 'Bruno, que horas você acorda?'"
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the hour'?",
+        "en": "Which word means 'the hour'?",
+        "ar": "أي كلمة تعني 'الساعة'؟"
+      },
+      "options": [
+        {
+          "pt": "a hora",
+          "en": "the hour",
+          "ar": "الساعة"
+        },
+        {
+          "pt": "tomar banho",
+          "en": "to shower",
+          "ar": "يستحم"
+        },
+        {
+          "pt": "a manhã",
+          "en": "the morning",
+          "ar": "الصباح"
+        }
+      ],
+      "answer": "a hora",
+      "explanation": {
+        "pt": "'a hora' significa 'the hour'.",
+        "en": "'a hora' means 'the hour'.",
+        "ar": "تعني 'a hora' 'الساعة'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'to arrive'?",
+        "en": "Which word means 'to arrive'?",
+        "ar": "أي كلمة تعني 'يصل'؟"
+      },
+      "options": [
+        {
+          "pt": "o relógio",
+          "en": "the clock",
+          "ar": "الساعة"
+        },
+        {
+          "pt": "tomar banho",
+          "en": "to shower",
+          "ar": "يستحم"
+        },
+        {
+          "pt": "chegar",
+          "en": "to arrive",
+          "ar": "يصل"
+        },
+        {
+          "pt": "a hora",
+          "en": "the hour",
+          "ar": "الساعة"
+        }
+      ],
+      "answer": "chegar",
+      "explanation": {
+        "pt": "'chegar' significa 'to arrive'.",
+        "en": "'chegar' means 'to arrive'.",
+        "ar": "تعني 'chegar' 'يصل'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"I need to sleep early.\"",
+        "en": "Translate into Portuguese: \"I need to sleep early.\"",
+        "ar": "ترجم إلى البرتغالية: \"أحتاج أن أنام مبكرًا.\""
+      },
+      "options": [],
+      "answer": "Eu preciso dormir cedo.",
+      "explanation": {
+        "pt": "Resposta: \"Eu preciso dormir cedo.\".",
+        "en": "Answer: \"Eu preciso dormir cedo.\". (EN: \"I need to sleep early.\")",
+        "ar": "الإجابة: \"Eu preciso dormir cedo.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"And what do you do after?\"",
+        "en": "Translate into Portuguese: \"And what do you do after?\"",
+        "ar": "ترجم إلى البرتغالية: \"وماذا تفعل بعد ذلك؟\""
+      },
+      "options": [],
+      "answer": "E o que você faz depois?",
+      "explanation": {
+        "pt": "Resposta: \"E o que você faz depois?\".",
+        "en": "Answer: \"E o que você faz depois?\". (EN: \"And what do you do after?\")",
+        "ar": "الإجابة: \"E o que você faz depois?\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Está n___ de comer.\"",
+        "en": "Complete: \"Está n___ de comer.\"",
+        "ar": "أكمل: \"Está n___ de comer.\""
+      },
+      "options": [
+        {
+          "pt": "é uma hora",
+          "en": "é uma hora",
+          "ar": "é uma hora"
+        },
+        {
+          "pt": "a hora",
+          "en": "a hora",
+          "ar": "a hora"
+        },
+        {
+          "pt": "são duas horas",
+          "en": "são duas horas",
+          "ar": "são duas horas"
+        }
+      ],
+      "answer": "a hora",
+      "explanation": {
+        "pt": "A lacuna é 'a hora'.",
+        "en": "The blank is 'a hora'.",
+        "ar": "الفراغ هو 'a hora'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Pode me dizer ___\"",
+        "en": "Complete: \"Pode me dizer ___\"",
+        "ar": "أكمل: \"Pode me dizer ___\""
+      },
+      "options": [
+        {
+          "pt": "que horas são?",
+          "en": "que horas são?",
+          "ar": "que horas são?"
+        },
+        {
+          "pt": "são duas horas",
+          "en": "são duas horas",
+          "ar": "são duas horas"
+        },
+        {
+          "pt": "a hora",
+          "en": "a hora",
+          "ar": "a hora"
+        }
+      ],
+      "answer": "que horas são?",
+      "explanation": {
+        "pt": "A lacuna é 'que horas são?'.",
+        "en": "The blank is 'que horas são?'.",
+        "ar": "الفراغ هو 'que horas são?'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: \"At six in the evening. Then I sleep early.\"",
+        "en": "Type in Portuguese: \"At six in the evening. Then I sleep early.\"",
+        "ar": "اكتب بالبرتغالية: \"في السادسة مساءً. ثم أنام مبكرًا.\""
+      },
+      "options": [],
+      "answer": "Às seis da noite. Depois eu durmo cedo.",
+      "accepted": [
+        "Às seis da noite. Depois eu durmo cedo."
+      ],
+      "explanation": {
+        "pt": "Resposta possível: \"Às seis da noite. Depois eu durmo cedo.\".",
+        "en": "One possible answer: \"Às seis da noite. Depois eu durmo cedo.\".",
+        "ar": "إجابة ممكنة: \"Às seis da noite. Depois eu durmo cedo.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "da",
+          "en": "da",
+          "ar": "da"
+        },
+        {
+          "pt": "noite.",
+          "en": "noite.",
+          "ar": "noite."
+        },
+        {
+          "pt": "cedo.",
+          "en": "cedo.",
+          "ar": "cedo."
+        },
+        {
+          "pt": "durmo",
+          "en": "durmo",
+          "ar": "durmo"
+        },
+        {
+          "pt": "seis",
+          "en": "seis",
+          "ar": "seis"
+        },
+        {
+          "pt": "Às",
+          "en": "Às",
+          "ar": "Às"
+        },
+        {
+          "pt": "eu",
+          "en": "eu",
+          "ar": "eu"
+        },
+        {
+          "pt": "Depois",
+          "en": "Depois",
+          "ar": "Depois"
+        }
+      ],
+      "answer": "Às seis da noite. Depois eu durmo cedo.",
+      "gen": "v1.8",
+      "explanation": {
+        "pt": "A frase correta é: \"Às seis da noite. Depois eu durmo cedo.\".",
+        "en": "The correct sentence is: \"Às seis da noite. Depois eu durmo cedo.\".",
+        "ar": "الجملة الصحيحة هي: \"Às seis da noite. Depois eu durmo cedo.\"."
       }
     }
   ],

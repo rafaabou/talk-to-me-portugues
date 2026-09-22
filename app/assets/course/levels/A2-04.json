@@ -35,9 +35,9 @@
       "en": "the trip",
       "ar": "الرحلة",
       "example": {
-        "pt": "A que horas sai o voo para Salvador?",
-        "en": "What time does the flight to Salvador leave?",
-        "ar": "في أي ساعة تغادر الرحلة إلى سالفادور؟"
+        "pt": "A viagem foi longa.",
+        "en": "The trip was long.",
+        "ar": "كانت الرحلة طويلة."
       }
     },
     {
@@ -46,9 +46,9 @@
       "en": "to travel",
       "ar": "يسافر",
       "example": {
-        "pt": "Nós vamos viajar de ônibus.",
-        "en": "We are going to travel by bus.",
-        "ar": "سنسافر بالحافلة."
+        "pt": "Em julho vamos viajar.",
+        "en": "In July we will travel.",
+        "ar": "سنسافر في يوليو."
       }
     },
     {
@@ -57,9 +57,9 @@
       "en": "the ticket",
       "ar": "التذكرة",
       "example": {
-        "pt": "A que horas sai o voo para Salvador?",
-        "en": "What time does the flight to Salvador leave?",
-        "ar": "في أي ساعة تغادر الرحلة إلى سالفادور؟"
+        "pt": "Comprei a passagem ontem.",
+        "en": "I bought the ticket yesterday.",
+        "ar": "اشتريت التذكرة أمس."
       }
     },
     {
@@ -68,9 +68,9 @@
       "en": "the airport",
       "ar": "المطار",
       "example": {
-        "pt": "Com licença, onde fica o portão de embarque?",
-        "en": "Excuse me, where is the boarding gate?",
-        "ar": "عذرًا، أين بوابة الصعود إلى الطائرة؟"
+        "pt": "O aeroporto fica longe.",
+        "en": "The airport is far away.",
+        "ar": "المطار بعيد."
       }
     },
     {
@@ -79,9 +79,9 @@
       "en": "the suitcase",
       "ar": "الحقيبة",
       "example": {
-        "pt": "A que horas sai o voo para Salvador?",
-        "en": "What time does the flight to Salvador leave?",
-        "ar": "في أي ساعة تغادر الرحلة إلى سالفادور؟"
+        "pt": "Minha mala está pesada.",
+        "en": "My suitcase is heavy.",
+        "ar": "حقيبتي ثقيلة."
       }
     },
     {
@@ -90,9 +90,9 @@
       "en": "the flight",
       "ar": "الرحلة الجوية",
       "example": {
-        "pt": "Com licença, onde fica o portão de embarque?",
-        "en": "Excuse me, where is the boarding gate?",
-        "ar": "عذرًا، أين بوابة الصعود إلى الطائرة؟"
+        "pt": "O voo atrasou duas horas.",
+        "en": "The flight was delayed two hours.",
+        "ar": "تأخر الرحلة ساعتين."
       }
     },
     {
@@ -101,9 +101,9 @@
       "en": "the hotel",
       "ar": "الفندق",
       "example": {
-        "pt": "Com licença, onde fica o portão de embarque?",
-        "en": "Excuse me, where is the boarding gate?",
-        "ar": "عذرًا، أين بوابة الصعود إلى الطائرة؟"
+        "pt": "O hotel tem cinco estrelas.",
+        "en": "The hotel has five stars.",
+        "ar": "الفندق له خمس نجوم."
       }
     },
     {
@@ -112,9 +112,9 @@
       "en": "to reserve",
       "ar": "يحجز",
       "example": {
-        "pt": "Com licença, onde fica o portão de embarque?",
-        "en": "Excuse me, where is the boarding gate?",
-        "ar": "عذرًا، أين بوابة الصعود إلى الطائرة؟"
+        "pt": "Eu vou reservar uma mesa.",
+        "en": "I'm going to reserve a table.",
+        "ar": "سأحجز طاولة."
       }
     },
     {
@@ -123,9 +123,9 @@
       "en": "the beach",
       "ar": "الشاطئ",
       "example": {
-        "pt": "A que horas sai o voo para Salvador?",
-        "en": "What time does the flight to Salvador leave?",
-        "ar": "في أي ساعة تغادر الرحلة إلى سالفادور؟"
+        "pt": "A praia está lotada.",
+        "en": "The beach is crowded.",
+        "ar": "الشاطئ مزدحم."
       }
     },
     {
@@ -134,9 +134,9 @@
       "en": "the waterfall",
       "ar": "الشلال",
       "example": {
-        "pt": "A que horas sai o voo para Salvador?",
-        "en": "What time does the flight to Salvador leave?",
-        "ar": "في أي ساعة تغادر الرحلة إلى سالفادور؟"
+        "pt": "A cachoeira é alta.",
+        "en": "The waterfall is high.",
+        "ar": "الشلال مرتفع."
       }
     },
     {
@@ -145,9 +145,9 @@
       "en": "the guide",
       "ar": "الدليل",
       "example": {
-        "pt": "Com licença, onde fica o portão de embarque?",
-        "en": "Excuse me, where is the boarding gate?",
-        "ar": "عذرًا، أين بوابة الصعود إلى الطائرة؟"
+        "pt": "O guia conhece o caminho.",
+        "en": "The guide knows the way.",
+        "ar": "الدليل يعرف الطريق."
       }
     },
     {
@@ -156,9 +156,9 @@
       "en": "the entrance / ticket",
       "ar": "الدخول",
       "example": {
-        "pt": "A que horas sai o voo para Salvador?",
-        "en": "What time does the flight to Salvador leave?",
-        "ar": "في أي ساعة تغادر الرحلة إلى سالفادور؟"
+        "pt": "A entrada é gratuita.",
+        "en": "The entrance is free.",
+        "ar": "الدخول مجاني."
       }
     },
     {
@@ -167,9 +167,9 @@
       "en": "the tourist",
       "ar": "السائح",
       "example": {
-        "pt": "Com licença, onde fica o portão de embarque?",
-        "en": "Excuse me, where is the boarding gate?",
-        "ar": "عذرًا، أين بوابة الصعود إلى الطائرة؟"
+        "pt": "O turista tirou fotos.",
+        "en": "The tourist took pictures.",
+        "ar": "التقط السائح صورًا."
       }
     },
     {
@@ -178,9 +178,9 @@
       "en": "the river",
       "ar": "النهر",
       "example": {
-        "pt": "Com licença, onde fica o portão de embarque?",
-        "en": "Excuse me, where is the boarding gate?",
-        "ar": "عذرًا، أين بوابة الصعود إلى الطائرة؟"
+        "pt": "O rio corre rápido.",
+        "en": "The river runs fast.",
+        "ar": "يجري النهر بسرعة."
       }
     },
     {
@@ -189,9 +189,9 @@
       "en": "the tour",
       "ar": "الجولة",
       "example": {
-        "pt": "Com licença, onde fica o portão de embarque?",
-        "en": "Excuse me, where is the boarding gate?",
-        "ar": "عذرًا، أين بوابة الصعود إلى الطائرة؟"
+        "pt": "O passeio durou três horas.",
+        "en": "The tour lasted three hours.",
+        "ar": "استمرت الجولة ثلاث ساعات."
       }
     },
     {
@@ -200,9 +200,9 @@
       "en": "the destination",
       "ar": "الوجهة",
       "example": {
-        "pt": "Com licença, onde fica o portão de embarque?",
-        "en": "Excuse me, where is the boarding gate?",
-        "ar": "عذرًا، أين بوابة الصعود إلى الطائرة؟"
+        "pt": "O destino é Salvador.",
+        "en": "The destination is Salvador.",
+        "ar": "الوجهة سالفادور."
       }
     },
     {
@@ -211,9 +211,9 @@
       "en": "the bus",
       "ar": "الحافلة",
       "example": {
-        "pt": "Com licença, onde fica o portão de embarque?",
-        "en": "Excuse me, where is the boarding gate?",
-        "ar": "عذرًا، أين بوابة الصعود إلى الطائرة؟"
+        "pt": "O ônibus está atrasado.",
+        "en": "The bus is late.",
+        "ar": "الحافلة متأخرة."
       }
     },
     {
@@ -222,9 +222,9 @@
       "en": "by plane",
       "ar": "بالطائرة",
       "example": {
-        "pt": "Com licença, onde fica o portão de embarque?",
-        "en": "Excuse me, where is the boarding gate?",
-        "ar": "عذرًا، أين بوابة الصعود إلى الطائرة؟"
+        "pt": "Fui para São Paulo de avião.",
+        "en": "I went to São Paulo by plane.",
+        "ar": "ذهبت إلى ساو باولو بالطائرة."
       }
     }
   ],
@@ -914,6 +914,252 @@
         "pt": "A frase correta: 'Com licença, onde fica o portão de embarque?'",
         "en": "The correct sentence: 'Com licença, onde fica o portão de embarque?'",
         "ar": "الجملة الصحيحة: 'Com licença, onde fica o portão de embarque?'"
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the trip'?",
+        "en": "Which word means 'the trip'?",
+        "ar": "أي كلمة تعني 'الرحلة'؟"
+      },
+      "options": [
+        {
+          "pt": "de avião",
+          "en": "by plane",
+          "ar": "بالطائرة"
+        },
+        {
+          "pt": "a viagem",
+          "en": "the trip",
+          "ar": "الرحلة"
+        },
+        {
+          "pt": "a entrada",
+          "en": "the entrance / ticket",
+          "ar": "الدخول"
+        }
+      ],
+      "answer": "a viagem",
+      "explanation": {
+        "pt": "'a viagem' significa 'the trip'.",
+        "en": "'a viagem' means 'the trip'.",
+        "ar": "تعني 'a viagem' 'الرحلة'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'by plane'?",
+        "en": "Which word means 'by plane'?",
+        "ar": "أي كلمة تعني 'بالطائرة'؟"
+      },
+      "options": [
+        {
+          "pt": "de avião",
+          "en": "by plane",
+          "ar": "بالطائرة"
+        },
+        {
+          "pt": "reservar",
+          "en": "to reserve",
+          "ar": "يحجز"
+        },
+        {
+          "pt": "o ônibus",
+          "en": "the bus",
+          "ar": "الحافلة"
+        },
+        {
+          "pt": "a mala",
+          "en": "the suitcase",
+          "ar": "الحقيبة"
+        }
+      ],
+      "answer": "de avião",
+      "explanation": {
+        "pt": "'de avião' significa 'by plane'.",
+        "en": "'de avião' means 'by plane'.",
+        "ar": "تعني 'de avião' 'بالطائرة'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"My suitcase is heavy.\"",
+        "en": "Translate into Portuguese: \"My suitcase is heavy.\"",
+        "ar": "ترجم إلى البرتغالية: \"حقيبتي ثقيلة.\""
+      },
+      "options": [],
+      "answer": "Minha mala está pesada.",
+      "explanation": {
+        "pt": "Resposta: \"Minha mala está pesada.\".",
+        "en": "Answer: \"Minha mala está pesada.\". (EN: \"My suitcase is heavy.\")",
+        "ar": "الإجابة: \"Minha mala está pesada.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"The flight leaves at ten thirty.\"",
+        "en": "Translate into Portuguese: \"The flight leaves at ten thirty.\"",
+        "ar": "ترجم إلى البرتغالية: \"تغادر الرحلة في العاشرة والنصف.\""
+      },
+      "options": [],
+      "answer": "O voo sai às dez e meia.",
+      "explanation": {
+        "pt": "Resposta: \"O voo sai às dez e meia.\".",
+        "en": "Answer: \"O voo sai às dez e meia.\". (EN: \"The flight leaves at ten thirty.\")",
+        "ar": "الإجابة: \"O voo sai às dez e meia.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Eu vou ___ uma mesa.\"",
+        "en": "Complete: \"Eu vou ___ uma mesa.\"",
+        "ar": "أكمل: \"Eu vou ___ uma mesa.\""
+      },
+      "options": [
+        {
+          "pt": "reservar",
+          "en": "reservar",
+          "ar": "reservar"
+        },
+        {
+          "pt": "o aeroporto",
+          "en": "o aeroporto",
+          "ar": "o aeroporto"
+        },
+        {
+          "pt": "o hotel",
+          "en": "o hotel",
+          "ar": "o hotel"
+        }
+      ],
+      "answer": "reservar",
+      "explanation": {
+        "pt": "A lacuna é 'reservar'.",
+        "en": "The blank is 'reservar'.",
+        "ar": "الفراغ هو 'reservar'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Fui para São Paulo ___.\"",
+        "en": "Complete: \"Fui para São Paulo ___.\"",
+        "ar": "أكمل: \"Fui para São Paulo ___.\""
+      },
+      "options": [
+        {
+          "pt": "o hotel",
+          "en": "o hotel",
+          "ar": "o hotel"
+        },
+        {
+          "pt": "de avião",
+          "en": "de avião",
+          "ar": "de avião"
+        },
+        {
+          "pt": "a viagem",
+          "en": "a viagem",
+          "ar": "a viagem"
+        }
+      ],
+      "answer": "de avião",
+      "explanation": {
+        "pt": "A lacuna é 'de avião'.",
+        "en": "The blank is 'de avião'.",
+        "ar": "الفراغ هو 'de avião'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: \"What time does the flight to Salvador leave?\"",
+        "en": "Type in Portuguese: \"What time does the flight to Salvador leave?\"",
+        "ar": "اكتب بالبرتغالية: \"في أي ساعة تغادر الرحلة إلى سالفادور؟\""
+      },
+      "options": [],
+      "answer": "A que horas sai o voo para Salvador?",
+      "accepted": [
+        "A que horas sai o voo para Salvador?"
+      ],
+      "explanation": {
+        "pt": "Resposta possível: \"A que horas sai o voo para Salvador?\".",
+        "en": "One possible answer: \"A que horas sai o voo para Salvador?\".",
+        "ar": "إجابة ممكنة: \"A que horas sai o voo para Salvador?\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "ônibus",
+          "en": "ônibus",
+          "ar": "ônibus"
+        },
+        {
+          "pt": "em",
+          "en": "em",
+          "ar": "em"
+        },
+        {
+          "pt": "fica",
+          "en": "fica",
+          "ar": "fica"
+        },
+        {
+          "pt": "ao",
+          "en": "ao",
+          "ar": "ao"
+        },
+        {
+          "pt": "aeroporto.",
+          "en": "aeroporto.",
+          "ar": "aeroporto."
+        },
+        {
+          "pt": "viagem!",
+          "en": "viagem!",
+          "ar": "viagem!"
+        },
+        {
+          "pt": "frente",
+          "en": "frente",
+          "ar": "frente"
+        },
+        {
+          "pt": "Boa",
+          "en": "Boa",
+          "ar": "Boa"
+        }
+      ],
+      "answer": "O ônibus fica em frente ao aeroporto. Boa viagem!",
+      "gen": "v1.8",
+      "explanation": {
+        "pt": "A frase correta é: \"O ônibus fica em frente ao aeroporto. Boa viagem!\".",
+        "en": "The correct sentence is: \"O ônibus fica em frente ao aeroporto. Boa viagem!\".",
+        "ar": "الجملة الصحيحة هي: \"O ônibus fica em frente ao aeroporto. Boa viagem!\"."
       }
     }
   ],

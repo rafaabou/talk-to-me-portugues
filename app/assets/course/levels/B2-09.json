@@ -35,9 +35,9 @@
       "en": "when I go",
       "ar": "عندما أذهب",
       "example": {
-        "pt": "Quando eu sair do trabalho hoje, quero ir à academia.",
-        "en": "When I finish work today, I want to go to the gym.",
-        "ar": "عندما أنتهي من العمل اليوم، أريد الذهاب إلى النادي الرياضي."
+        "pt": "Quando eu for viajar, aviso.",
+        "en": "When I go traveling, I'll let you know.",
+        "ar": "عندما أسافر، سأخبرك."
       }
     },
     {
@@ -46,9 +46,9 @@
       "en": "if I can",
       "ar": "إذا استطعت",
       "example": {
-        "pt": "Ótimo! Se eu terminar o projeto cedo, vou junto com você.",
-        "en": "Great! If I finish the project early, I'll go with you.",
-        "ar": "رائع! إذا أنهيت المشروع مبكرًا، سأذهب معك."
+        "pt": "Se eu puder, ajudo.",
+        "en": "If I can, I'll help.",
+        "ar": "إذا استطعت، سأساعد."
       }
     },
     {
@@ -57,9 +57,9 @@
       "en": "when I arrive",
       "ar": "عندما أصل",
       "example": {
-        "pt": "Quando eu sair do trabalho hoje, quero ir à academia.",
-        "en": "When I finish work today, I want to go to the gym.",
-        "ar": "عندما أنتهي من العمل اليوم، أريد الذهاب إلى النادي الرياضي."
+        "pt": "Quando chegar, me avise.",
+        "en": "When you arrive, let me know.",
+        "ar": "عندما تصل، أخبرني."
       }
     },
     {
@@ -68,9 +68,9 @@
       "en": "while I am",
       "ar": "بينما أكون",
       "example": {
-        "pt": "Enquanto estiver no Brasil, quero viajar pelo Nordeste.",
-        "en": "While I'm in Brazil, I want to travel through the Northeast.",
-        "ar": "بينما أكون في البرازيل، أريد السفر عبر الشمال الشرقي."
+        "pt": "Enquanto estiver aqui, estudo.",
+        "en": "While I am here, I study.",
+        "ar": "بينما أكون هنا، أدرس."
       }
     },
     {
@@ -79,9 +79,9 @@
       "en": "as soon as I finish",
       "ar": "بمجرد أن أنتهي",
       "example": {
-        "pt": "Legal. Assim que você terminar, me avisa.",
-        "en": "Cool. As soon as you finish, let me know.",
-        "ar": "حسنًا. بمجرد أن تنتهي، أخبرني."
+        "pt": "Assim que terminar, te chamo.",
+        "en": "As soon as I finish, I'll call you.",
+        "ar": "بمجرد أن أنهي، سأتصل بك."
       }
     },
     {
@@ -90,9 +90,9 @@
       "en": "as soon as",
       "ar": "حالما",
       "example": {
-        "pt": "Quando eu sair do trabalho hoje, quero ir à academia.",
-        "en": "When I finish work today, I want to go to the gym.",
-        "ar": "عندما أنتهي من العمل اليوم، أريد الذهاب إلى النادي الرياضي."
+        "pt": "Logo que chover, saio.",
+        "en": "As soon as it rains, I leave.",
+        "ar": "حالما تمطر، أخرج."
       }
     },
     {
@@ -101,9 +101,9 @@
       "en": "as soon as possible",
       "ar": "في أقرب وقت",
       "example": {
-        "pt": "Ótimo! Se eu terminar o projeto cedo, vou junto com você.",
-        "en": "Great! If I finish the project early, I'll go with you.",
-        "ar": "رائع! إذا أنهيت المشروع مبكرًا، سأذهب معك."
+        "pt": "Venha o quanto antes.",
+        "en": "Come as soon as possible.",
+        "ar": "تع في أقرب وقت ممكن."
       }
     },
     {
@@ -112,9 +112,9 @@
       "en": "unless",
       "ar": "ما لم",
       "example": {
-        "pt": "Perfeito. A menos que chova, vamos nos divertir.",
-        "en": "Perfect. Unless it rains, we'll have fun.",
-        "ar": "رائع. ما لم يهطل المطر، سنستمتع."
+        "pt": "Vou sair a menos que chova.",
+        "en": "I'll leave unless it rains.",
+        "ar": "سأخرج ما لم تمطر."
       }
     },
     {
@@ -123,9 +123,9 @@
       "en": "unless",
       "ar": "إلا إذا",
       "example": {
-        "pt": "Quando eu sair do trabalho hoje, quero ir à academia.",
-        "en": "When I finish work today, I want to go to the gym.",
-        "ar": "عندما أنتهي من العمل اليوم، أريد الذهاب إلى النادي الرياضي."
+        "pt": "Aceito, salvo se houver problema.",
+        "en": "I accept, unless there's a problem.",
+        "ar": "أقبل، إلا إذا كانت هناك مشكلة."
       }
     },
     {
@@ -134,9 +134,9 @@
       "en": "in case",
       "ar": "في حال",
       "example": {
-        "pt": "Enquanto estiver no Brasil, quero viajar pelo Nordeste.",
-        "en": "While I'm in Brazil, I want to travel through the Northeast.",
-        "ar": "بينما أكون في البرازيل، أريد السفر عبر الشمال الشرقي."
+        "pt": "No caso de chuva, adiamos.",
+        "en": "In case of rain, we postpone.",
+        "ar": "في حال المطر، نؤجل."
       }
     },
     {
@@ -145,9 +145,9 @@
       "en": "even if",
       "ar": "حتى لو",
       "example": {
-        "pt": "Quando eu sair do trabalho hoje, quero ir à academia.",
-        "en": "When I finish work today, I want to go to the gym.",
-        "ar": "عندما أنتهي من العمل اليوم، أريد الذهاب إلى النادي الرياضي."
+        "pt": "Vou ir ainda que esteja frio.",
+        "en": "I'll go even if it's cold.",
+        "ar": "سأذهب حتى لو كان الجو باردًا."
       }
     },
     {
@@ -156,9 +156,9 @@
       "en": "whoever",
       "ar": "من كان",
       "example": {
-        "pt": "Combinado. Depois, quem sabe, jantamos fora.",
-        "en": "Deal. Then, who knows, we have dinner out.",
-        "ar": "متفق. ثم بعد ذلك، من يدري، ربما نتناول العشاء خارجًا."
+        "pt": "Quem quer que chegue é bem-vindo.",
+        "en": "Whoever arrives is welcome.",
+        "ar": "من يأتي مرحى به."
       }
     },
     {
@@ -167,9 +167,9 @@
       "en": "if necessary",
       "ar": "إذا لزم الأمر",
       "example": {
-        "pt": "Ótimo! Se eu terminar o projeto cedo, vou junto com você.",
-        "en": "Great! If I finish the project early, I'll go with you.",
-        "ar": "رائع! إذا أنهيت المشروع مبكرًا، سأذهب معك."
+        "pt": "Vou ligar se necessário.",
+        "en": "I'll call if necessary.",
+        "ar": "سأتصل إذا لزم الأمر."
       }
     },
     {
@@ -178,9 +178,9 @@
       "en": "there to be",
       "ar": "إذا كان هناك",
       "example": {
-        "pt": "Quando eu sair do trabalho hoje, quero ir à academia.",
-        "en": "When I finish work today, I want to go to the gym.",
-        "ar": "عندما أنتهي من العمل اليوم، أريد الذهاب إلى النادي الرياضي."
+        "pt": "Se houver dúvidas, pergunte.",
+        "en": "If there are doubts, ask.",
+        "ar": "إذا وُجد شك، اسأل."
       }
     },
     {
@@ -189,9 +189,9 @@
       "en": "(if I) do",
       "ar": "إذا فعلت",
       "example": {
-        "pt": "Quando eu sair do trabalho hoje, quero ir à academia.",
-        "en": "When I finish work today, I want to go to the gym.",
-        "ar": "عندما أنتهي من العمل اليوم، أريد الذهاب إلى النادي الرياضي."
+        "pt": "Se fizer frio, fique em casa.",
+        "en": "If it gets cold, stay home.",
+        "ar": "إذا كان الجو باردًا، ابقَ في المنزل."
       }
     }
   ],
@@ -905,6 +905,237 @@
         "pt": "A frase correta: 'Quando eu sair do trabalho hoje, quero ir à academia.'",
         "en": "The correct sentence: 'Quando eu sair do trabalho hoje, quero ir à academia.'",
         "ar": "الجملة الصحيحة: 'Quando eu sair do trabalho hoje, quero ir à academia.'"
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'when I arrive'?",
+        "en": "Which word means 'when I arrive'?",
+        "ar": "أي كلمة تعني 'عندما أصل'؟"
+      },
+      "options": [
+        {
+          "pt": "quando chegar",
+          "en": "when I arrive",
+          "ar": "عندما أصل"
+        },
+        {
+          "pt": "no caso de",
+          "en": "in case",
+          "ar": "في حال"
+        },
+        {
+          "pt": "assim que terminar",
+          "en": "as soon as I finish",
+          "ar": "بمجرد أن أنتهي"
+        }
+      ],
+      "answer": "quando chegar",
+      "explanation": {
+        "pt": "'quando chegar' significa 'when I arrive'.",
+        "en": "'quando chegar' means 'when I arrive'.",
+        "ar": "تعني 'quando chegar' 'عندما أصل'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'if necessary'?",
+        "en": "Which word means 'if necessary'?",
+        "ar": "أي كلمة تعني 'إذا لزم الأمر'؟"
+      },
+      "options": [
+        {
+          "pt": "se necessário",
+          "en": "if necessary",
+          "ar": "إذا لزم الأمر"
+        },
+        {
+          "pt": "quando chegar",
+          "en": "when I arrive",
+          "ar": "عندما أصل"
+        },
+        {
+          "pt": "houver",
+          "en": "there to be",
+          "ar": "إذا كان هناك"
+        },
+        {
+          "pt": "salvo se",
+          "en": "unless",
+          "ar": "إلا إذا"
+        }
+      ],
+      "answer": "se necessário",
+      "explanation": {
+        "pt": "'se necessário' significa 'if necessary'.",
+        "en": "'se necessário' means 'if necessary'.",
+        "ar": "تعني 'se necessário' 'إذا لزم الأمر'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"I'll go even if it's cold.\"",
+        "en": "Translate into Portuguese: \"I'll go even if it's cold.\"",
+        "ar": "ترجم إلى البرتغالية: \"سأذهب حتى لو كان الجو باردًا.\""
+      },
+      "options": [],
+      "answer": "Vou ir ainda que esteja frio.",
+      "explanation": {
+        "pt": "Resposta: \"Vou ir ainda que esteja frio.\".",
+        "en": "Answer: \"Vou ir ainda que esteja frio.\". (EN: \"I'll go even if it's cold.\")",
+        "ar": "الإجابة: \"Vou ir ainda que esteja frio.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"Come as soon as possible.\"",
+        "en": "Translate into Portuguese: \"Come as soon as possible.\"",
+        "ar": "ترجم إلى البرتغالية: \"تع في أقرب وقت ممكن.\""
+      },
+      "options": [],
+      "answer": "Venha o quanto antes.",
+      "explanation": {
+        "pt": "Resposta: \"Venha o quanto antes.\".",
+        "en": "Answer: \"Venha o quanto antes.\". (EN: \"Come as soon as possible.\")",
+        "ar": "الإجابة: \"Venha o quanto antes.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Vou ir ___ esteja frio.\"",
+        "en": "Complete: \"Vou ir ___ esteja frio.\"",
+        "ar": "أكمل: \"Vou ir ___ esteja frio.\""
+      },
+      "options": [
+        {
+          "pt": "ainda que",
+          "en": "ainda que",
+          "ar": "ainda que"
+        },
+        {
+          "pt": "quando chegar",
+          "en": "quando chegar",
+          "ar": "quando chegar"
+        },
+        {
+          "pt": "assim que terminar",
+          "en": "assim que terminar",
+          "ar": "assim que terminar"
+        }
+      ],
+      "answer": "ainda que",
+      "explanation": {
+        "pt": "A lacuna é 'ainda que'.",
+        "en": "The blank is 'ainda que'.",
+        "ar": "الفراغ هو 'ainda que'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Aceito, ___ houver problema.\"",
+        "en": "Complete: \"Aceito, ___ houver problema.\"",
+        "ar": "أكمل: \"Aceito, ___ houver problema.\""
+      },
+      "options": [
+        {
+          "pt": "se eu puder",
+          "en": "se eu puder",
+          "ar": "se eu puder"
+        },
+        {
+          "pt": "salvo se",
+          "en": "salvo se",
+          "ar": "salvo se"
+        },
+        {
+          "pt": "logo que",
+          "en": "logo que",
+          "ar": "logo que"
+        }
+      ],
+      "answer": "salvo se",
+      "explanation": {
+        "pt": "A lacuna é 'salvo se'.",
+        "en": "The blank is 'salvo se'.",
+        "ar": "الفراغ هو 'salvo se'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: \"I accept, unless there's a problem.\"",
+        "en": "Type in Portuguese: \"I accept, unless there's a problem.\"",
+        "ar": "اكتب بالبرتغالية: \"أقبل، إلا إذا كانت هناك مشكلة.\""
+      },
+      "options": [],
+      "answer": "Aceito, salvo se houver problema.",
+      "accepted": [
+        "Aceito, salvo se houver problema."
+      ],
+      "explanation": {
+        "pt": "Resposta possível: \"Aceito, salvo se houver problema.\".",
+        "en": "One possible answer: \"Aceito, salvo se houver problema.\".",
+        "ar": "إجابة ممكنة: \"Aceito, salvo se houver problema.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "chova.",
+          "en": "chova.",
+          "ar": "chova."
+        },
+        {
+          "pt": "Vou",
+          "en": "Vou",
+          "ar": "Vou"
+        },
+        {
+          "pt": "sair",
+          "en": "sair",
+          "ar": "sair"
+        },
+        {
+          "pt": "menos",
+          "en": "menos",
+          "ar": "menos"
+        }
+      ],
+      "answer": "Vou sair a menos que chova.",
+      "gen": "v1.8",
+      "explanation": {
+        "pt": "A frase correta é: \"Vou sair a menos que chova.\".",
+        "en": "The correct sentence is: \"Vou sair a menos que chova.\".",
+        "ar": "الجملة الصحيحة هي: \"Vou sair a menos que chova.\"."
       }
     }
   ],

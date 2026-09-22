@@ -35,9 +35,9 @@
       "en": "before",
       "ar": "قبل",
       "example": {
-        "pt": "Quando eu era criança, morava em uma fazenda.",
-        "en": "When I was a child, I lived on a farm.",
-        "ar": "عندما كنت طفلة، كنت أسكن في مزرعة."
+        "pt": "Antes eu morava no centro.",
+        "en": "Before, I lived downtown.",
+        "ar": "كنت أسكن في وسط المدينة سابقًا."
       }
     },
     {
@@ -46,9 +46,9 @@
       "en": "when",
       "ar": "عندما",
       "example": {
-        "pt": "Quando eu era criança, morava em uma fazenda.",
-        "en": "When I was a child, I lived on a farm.",
-        "ar": "عندما كنت طفلة، كنت أسكن في مزرعة."
+        "pt": "Não sei quando ele vem.",
+        "en": "I don't know when he's coming.",
+        "ar": "لا أعرف متى سيأتي."
       }
     },
     {
@@ -57,9 +57,9 @@
       "en": "always",
       "ar": "دائمًا",
       "example": {
-        "pt": "Ela sempre contava histórias engraçadas.",
-        "en": "She always told funny stories.",
-        "ar": "كانت تحكي دائمًا قصصًا مضحكة."
+        "pt": "Ele sempre chega cedo.",
+        "en": "He always arrives early.",
+        "ar": "يصل دائمًا مبكرًا."
       }
     },
     {
@@ -68,9 +68,9 @@
       "en": "in the past",
       "ar": "قديمًا",
       "example": {
-        "pt": "Antigamente, nós morávamos no interior.",
-        "en": "In the past, we lived in the countryside.",
-        "ar": "قديمًا، كنا نسكن في الريف."
+        "pt": "Antigamente havia mais árvores.",
+        "en": "In the past there were more trees.",
+        "ar": "في الماضي كانت هناك أشجار أكثر."
       }
     },
     {
@@ -79,9 +79,9 @@
       "en": "sometimes / from time to time",
       "ar": "من حين لآخر",
       "example": {
-        "pt": "Nós íamos à praia de vez em quando.",
-        "en": "We went to the beach from time to time.",
-        "ar": "كنا نذهب إلى الشاطئ من حين لآخر."
+        "pt": "De vez em quando eu ligo.",
+        "en": "From time to time I call.",
+        "ar": "من حين لآخر أتصل."
       }
     },
     {
@@ -90,9 +90,9 @@
       "en": "every day",
       "ar": "كل يوم",
       "example": {
-        "pt": "Eu estudava inglês todos os dias.",
-        "en": "I studied English every day.",
-        "ar": "كنت أدرس الإنجليزية كل يوم."
+        "pt": "Leio todos os dias.",
+        "en": "I read every day.",
+        "ar": "أقرأ كل يوم."
       }
     },
     {
@@ -101,9 +101,9 @@
       "en": "to play",
       "ar": "يلعب",
       "example": {
-        "pt": "Quando eu era criança, morava em uma fazenda.",
-        "en": "When I was a child, I lived on a farm.",
-        "ar": "عندما كنت طفلة، كنت أسكن في مزرعة."
+        "pt": "As crianças vão brincar no parque.",
+        "en": "The children are going to play in the park.",
+        "ar": "ستلعب الأطفال في الحديقة."
       }
     },
     {
@@ -112,9 +112,9 @@
       "en": "to live / to reside",
       "ar": "يسكن",
       "example": {
-        "pt": "Quando eu era criança, morava em uma fazenda.",
-        "en": "When I was a child, I lived on a farm.",
-        "ar": "عندما كنت طفلة، كنت أسكن في مزرعة."
+        "pt": "Ela pode morar conosco.",
+        "en": "She can live with us.",
+        "ar": "يمكنها أن تسكن معنا."
       }
     },
     {
@@ -123,9 +123,9 @@
       "en": "to dream",
       "ar": "يحلم",
       "example": {
-        "pt": "Quando eu era criança, morava em uma fazenda.",
-        "en": "When I was a child, I lived on a farm.",
-        "ar": "عندما كنت طفلة، كنت أسكن في مزرعة."
+        "pt": "É bom sonhar alto.",
+        "en": "It's good to dream big.",
+        "ar": "من الجيد أن تحلم بكبير."
       }
     },
     {
@@ -134,9 +134,9 @@
       "en": "to remember",
       "ar": "يتذكر",
       "example": {
-        "pt": "Quando eu era criança, morava em uma fazenda.",
-        "en": "When I was a child, I lived on a farm.",
-        "ar": "عندما كنت طفلة، كنت أسكن في مزرعة."
+        "pt": "Eu tento lembrar do nome.",
+        "en": "I try to remember the name.",
+        "ar": "أحاول تذكر الاسم."
       }
     },
     {
@@ -145,9 +145,9 @@
       "en": "the childhood",
       "ar": "الطفولة",
       "example": {
-        "pt": "E como era a sua rotina?",
-        "en": "And what was your routine like?",
-        "ar": "وكيف كان روتينك؟"
+        "pt": "A infância dela foi feliz.",
+        "en": "Her childhood was happy.",
+        "ar": "كانت طفولتها سعيدة."
       }
     },
     {
@@ -156,9 +156,9 @@
       "en": "the child",
       "ar": "الطفل",
       "example": {
-        "pt": "E como era a sua rotina?",
-        "en": "And what was your routine like?",
-        "ar": "وكيف كان روتينك؟"
+        "pt": "A criança dorme cedo.",
+        "en": "The child sleeps early.",
+        "ar": "ينام الطفل مبكرًا."
       }
     },
     {
@@ -167,9 +167,9 @@
       "en": "the school",
       "ar": "المدرسة",
       "example": {
-        "pt": "E como era a sua rotina?",
-        "en": "And what was your routine like?",
-        "ar": "وكيف كان روتينك؟"
+        "pt": "A escola fica longe de casa.",
+        "en": "The school is far from home.",
+        "ar": "المدرسة بعيدة عن المنزل."
       }
     },
     {
@@ -178,9 +178,9 @@
       "en": "to play (a game)",
       "ar": "يلعب",
       "example": {
-        "pt": "Quando eu era criança, morava em uma fazenda.",
-        "en": "When I was a child, I lived on a farm.",
-        "ar": "عندما كنت طفلة، كنت أسكن في مزرعة."
+        "pt": "Vamos jogar cartas?",
+        "en": "Shall we play cards?",
+        "ar": "هل نلعب الورق؟"
       }
     },
     {
@@ -189,9 +189,9 @@
       "en": "to read",
       "ar": "يقرأ",
       "example": {
-        "pt": "Quando eu era criança, morava em uma fazenda.",
-        "en": "When I was a child, I lived on a farm.",
-        "ar": "عندما كنت طفلة، كنت أسكن في مزرعة."
+        "pt": "Eu amo ler romances.",
+        "en": "I love reading novels.",
+        "ar": "أحب قراءة الروايات."
       }
     },
     {
@@ -200,9 +200,9 @@
       "en": "to tell",
       "ar": "يحكي",
       "example": {
-        "pt": "Quando eu era criança, morava em uma fazenda.",
-        "en": "When I was a child, I lived on a farm.",
-        "ar": "عندما كنت طفلة، كنت أسكن في مزرعة."
+        "pt": "Vou contar um segredo.",
+        "en": "I'm going to tell a secret.",
+        "ar": "سأخبرك بسر."
       }
     },
     {
@@ -211,9 +211,9 @@
       "en": "the neighbor",
       "ar": "الجار",
       "example": {
-        "pt": "Eu acordava cedo, levava o café para o meu pai e brincava com meus irmãos.",
-        "en": "I woke up early, took coffee to my father and played with my brothers.",
-        "ar": "كنت أستيقظ مبكرًا، وأحمل القهوة لأبي وألعب مع إخوتي."
+        "pt": "O vizinho tem um jardim.",
+        "en": "The neighbor has a garden.",
+        "ar": "للجار حديقة."
       }
     },
     {
@@ -222,9 +222,9 @@
       "en": "the party",
       "ar": "الحفلة",
       "example": {
-        "pt": "E como era a sua rotina?",
-        "en": "And what was your routine like?",
-        "ar": "وكيف كان روتينك؟"
+        "pt": "A festa terminou tarde.",
+        "en": "The party ended late.",
+        "ar": "انتهت الحفلة متأخرة."
       }
     }
   ],
@@ -914,6 +914,232 @@
         "pt": "A frase correta: 'Quando eu era criança, morava em uma fazenda.'",
         "en": "The correct sentence: 'Quando eu era criança, morava em uma fazenda.'",
         "ar": "الجملة الصحيحة: 'Quando eu era criança, morava em uma fazenda.'"
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'before'?",
+        "en": "Which word means 'before'?",
+        "ar": "أي كلمة تعني 'قبل'؟"
+      },
+      "options": [
+        {
+          "pt": "antes",
+          "en": "before",
+          "ar": "قبل"
+        },
+        {
+          "pt": "lembrar",
+          "en": "to remember",
+          "ar": "يتذكر"
+        },
+        {
+          "pt": "contar",
+          "en": "to tell",
+          "ar": "يحكي"
+        }
+      ],
+      "answer": "antes",
+      "explanation": {
+        "pt": "'antes' significa 'before'.",
+        "en": "'antes' means 'before'.",
+        "ar": "تعني 'antes' 'قبل'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'to remember'?",
+        "en": "Which word means 'to remember'?",
+        "ar": "أي كلمة تعني 'يتذكر'؟"
+      },
+      "options": [
+        {
+          "pt": "lembrar",
+          "en": "to remember",
+          "ar": "يتذكر"
+        },
+        {
+          "pt": "ler",
+          "en": "to read",
+          "ar": "يقرأ"
+        },
+        {
+          "pt": "a festa",
+          "en": "the party",
+          "ar": "الحفلة"
+        }
+      ],
+      "answer": "lembrar",
+      "explanation": {
+        "pt": "'lembrar' significa 'to remember'.",
+        "en": "'lembrar' means 'to remember'.",
+        "ar": "تعني 'lembrar' 'يتذكر'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"I try to remember the name.\"",
+        "en": "Translate into Portuguese: \"I try to remember the name.\"",
+        "ar": "ترجم إلى البرتغالية: \"أحاول تذكر الاسم.\""
+      },
+      "options": [],
+      "answer": "Eu tento lembrar do nome.",
+      "explanation": {
+        "pt": "Resposta: \"Eu tento lembrar do nome.\".",
+        "en": "Answer: \"Eu tento lembrar do nome.\". (EN: \"I try to remember the name.\")",
+        "ar": "الإجابة: \"Eu tento lembrar do nome.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"Her childhood was happy.\"",
+        "en": "Translate into Portuguese: \"Her childhood was happy.\"",
+        "ar": "ترجم إلى البرتغالية: \"كانت طفولتها سعيدة.\""
+      },
+      "options": [],
+      "answer": "A infância dela foi feliz.",
+      "explanation": {
+        "pt": "Resposta: \"A infância dela foi feliz.\".",
+        "en": "Answer: \"A infância dela foi feliz.\". (EN: \"Her childhood was happy.\")",
+        "ar": "الإجابة: \"A infância dela foi feliz.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Eu tento ___ do nome.\"",
+        "en": "Complete: \"Eu tento ___ do nome.\"",
+        "ar": "أكمل: \"Eu tento ___ do nome.\""
+      },
+      "options": [
+        {
+          "pt": "quando",
+          "en": "quando",
+          "ar": "quando"
+        },
+        {
+          "pt": "antes",
+          "en": "antes",
+          "ar": "antes"
+        },
+        {
+          "pt": "lembrar",
+          "en": "lembrar",
+          "ar": "lembrar"
+        }
+      ],
+      "answer": "lembrar",
+      "explanation": {
+        "pt": "A lacuna é 'lembrar'.",
+        "en": "The blank is 'lembrar'.",
+        "ar": "الفراغ هو 'lembrar'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Ele ___ chega cedo.\"",
+        "en": "Complete: \"Ele ___ chega cedo.\"",
+        "ar": "أكمل: \"Ele ___ chega cedo.\""
+      },
+      "options": [
+        {
+          "pt": "sonhar",
+          "en": "sonhar",
+          "ar": "sonhar"
+        },
+        {
+          "pt": "todos os dias",
+          "en": "todos os dias",
+          "ar": "todos os dias"
+        },
+        {
+          "pt": "sempre",
+          "en": "sempre",
+          "ar": "sempre"
+        }
+      ],
+      "answer": "sempre",
+      "explanation": {
+        "pt": "A lacuna é 'sempre'.",
+        "en": "The blank is 'sempre'.",
+        "ar": "الفراغ هو 'sempre'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: \"Her childhood was happy.\"",
+        "en": "Type in Portuguese: \"Her childhood was happy.\"",
+        "ar": "اكتب بالبرتغالية: \"كانت طفولتها سعيدة.\""
+      },
+      "options": [],
+      "answer": "A infância dela foi feliz.",
+      "accepted": [
+        "A infância dela foi feliz."
+      ],
+      "explanation": {
+        "pt": "Resposta possível: \"A infância dela foi feliz.\".",
+        "en": "One possible answer: \"A infância dela foi feliz.\".",
+        "ar": "إجابة ممكنة: \"A infância dela foi feliz.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "vacas,",
+          "en": "vacas,",
+          "ar": "vacas,"
+        },
+        {
+          "pt": "Tínhamos",
+          "en": "Tínhamos",
+          "ar": "Tínhamos"
+        },
+        {
+          "pt": "cavalos",
+          "en": "cavalos",
+          "ar": "cavalos"
+        },
+        {
+          "pt": "galinhas.",
+          "en": "galinhas.",
+          "ar": "galinhas."
+        },
+        {
+          "pt": "Sim!",
+          "en": "Sim!",
+          "ar": "Sim!"
+        },
+        {
+          "pt": "e",
+          "en": "e",
+          "ar": "e"
+        }
+      ],
+      "answer": "Sim! Tínhamos vacas, cavalos e galinhas.",
+      "gen": "v1.8",
+      "explanation": {
+        "pt": "A frase correta é: \"Sim! Tínhamos vacas, cavalos e galinhas.\".",
+        "en": "The correct sentence is: \"Sim! Tínhamos vacas, cavalos e galinhas.\".",
+        "ar": "الجملة الصحيحة هي: \"Sim! Tínhamos vacas, cavalos e galinhas.\"."
       }
     }
   ],

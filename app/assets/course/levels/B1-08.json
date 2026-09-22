@@ -30,9 +30,9 @@
       "en": "the rent",
       "ar": "الإيجار",
       "example": {
-        "pt": "Quanto é o aluguel? Preciso pagar caução?",
-        "en": "How much is the rent? Do I need to pay a deposit?",
-        "ar": "كم الإيجار؟ هل أحتاج إلى دفع ضمانة؟"
+        "pt": "O aluguel vence dia dez.",
+        "en": "The rent is due on the tenth.",
+        "ar": "يستحق الإيجار في العاشر من الشهر."
       }
     },
     {
@@ -41,9 +41,9 @@
       "en": "to live",
       "ar": "يسكن",
       "example": {
-        "pt": "Este apartamento tem dois quartos e uma cozinha ampla.",
-        "en": "This apartment has two bedrooms and a spacious kitchen.",
-        "ar": "هذه الشقة تحتوي على غرفتي نوم ومطبخ واسع."
+        "pt": "Vou morar sozinho.",
+        "en": "I'm going to live alone.",
+        "ar": "سأسكن وحدي."
       }
     },
     {
@@ -52,9 +52,9 @@
       "en": "the apartment",
       "ar": "الشقة",
       "example": {
-        "pt": "Quanto é o aluguel? Preciso pagar caução?",
-        "en": "How much is the rent? Do I need to pay a deposit?",
-        "ar": "كم الإيجار؟ هل أحتاج إلى دفع ضمانة؟"
+        "pt": "O apartamento foi alugado.",
+        "en": "The apartment was rented.",
+        "ar": "تم تأجير الشقة."
       }
     },
     {
@@ -63,9 +63,9 @@
       "en": "the house",
       "ar": "المنزل",
       "example": {
-        "pt": "Sim, fica a dez minutos do metrô.",
-        "en": "Yes, it is ten minutes from the subway.",
-        "ar": "نعم، تبعد عشر دقائق عن المترو."
+        "pt": "A casa precisa de reparos.",
+        "en": "The house needs repairs.",
+        "ar": "يحتاج المنزل إلى إصلاحات."
       }
     },
     {
@@ -74,9 +74,9 @@
       "en": "the bedroom",
       "ar": "غرفة النوم",
       "example": {
-        "pt": "Quanto é o aluguel? Preciso pagar caução?",
-        "en": "How much is the rent? Do I need to pay a deposit?",
-        "ar": "كم الإيجار؟ هل أحتاج إلى دفع ضمانة؟"
+        "pt": "O quarto tem vista para o mar.",
+        "en": "The bedroom has a sea view.",
+        "ar": "غرفة النوم لها إطلالة على البحر."
       }
     },
     {
@@ -85,9 +85,9 @@
       "en": "the living room",
       "ar": "غرفة المعيشة",
       "example": {
-        "pt": "Sim, fica a dez minutos do metrô.",
-        "en": "Yes, it is ten minutes from the subway.",
-        "ar": "نعم، تبعد عشر دقائق عن المترو."
+        "pt": "A sala dá para o jardim.",
+        "en": "The living room faces the garden.",
+        "ar": "غرفة المعيشة تطل على الحديقة."
       }
     },
     {
@@ -96,9 +96,9 @@
       "en": "the kitchen",
       "ar": "المطبخ",
       "example": {
-        "pt": "Sim, fica a dez minutos do metrô.",
-        "en": "Yes, it is ten minutes from the subway.",
-        "ar": "نعم، تبعد عشر دقائق عن المترو."
+        "pt": "A cozinha está em reforma.",
+        "en": "The kitchen is under renovation.",
+        "ar": "المطبخ قيد الترميم."
       }
     },
     {
@@ -107,9 +107,9 @@
       "en": "the bathroom",
       "ar": "الحمّام",
       "example": {
-        "pt": "Quanto é o aluguel? Preciso pagar caução?",
-        "en": "How much is the rent? Do I need to pay a deposit?",
-        "ar": "كم الإيجار؟ هل أحتاج إلى دفع ضمانة؟"
+        "pt": "O banheiro fica ao fundo.",
+        "en": "The bathroom is at the back.",
+        "ar": "الحمام في العمق."
       }
     },
     {
@@ -118,9 +118,9 @@
       "en": "the condominium",
       "ar": "العمارة السكنية",
       "example": {
-        "pt": "Quanto é o aluguel? Preciso pagar caução?",
-        "en": "How much is the rent? Do I need to pay a deposit?",
-        "ar": "كم الإيجار؟ هل أحتاج إلى دفع ضمانة؟"
+        "pt": "O condomínio é tranquilo.",
+        "en": "The condominium is quiet.",
+        "ar": "العمارة السكنية هادئة."
       }
     },
     {
@@ -129,9 +129,9 @@
       "en": "the owner / landlord",
       "ar": "المالك",
       "example": {
-        "pt": "Quanto é o aluguel? Preciso pagar caução?",
-        "en": "How much is the rent? Do I need to pay a deposit?",
-        "ar": "كم الإيجار؟ هل أحتاج إلى دفع ضمانة؟"
+        "pt": "O proprietário aumentou o aluguel.",
+        "en": "The landlord raised the rent.",
+        "ar": "رفع المالك الإيجار."
       }
     },
     {
@@ -140,9 +140,9 @@
       "en": "the tenant",
       "ar": "المستأجر",
       "example": {
-        "pt": "Quanto é o aluguel? Preciso pagar caução?",
-        "en": "How much is the rent? Do I need to pay a deposit?",
-        "ar": "كم الإيجار؟ هل أحتاج إلى دفع ضمانة؟"
+        "pt": "O inquilino é novo.",
+        "en": "The tenant is new.",
+        "ar": "المستأجر جديد."
       }
     },
     {
@@ -151,9 +151,9 @@
       "en": "the lease agreement",
       "ar": "عقد الإيجار",
       "example": {
-        "pt": "Quanto é o aluguel? Preciso pagar caução?",
-        "en": "How much is the rent? Do I need to pay a deposit?",
-        "ar": "كم الإيجار؟ هل أحتاج إلى دفع ضمانة؟"
+        "pt": "O contrato de locação vence em junho.",
+        "en": "The lease agreement expires in June.",
+        "ar": "ينتهي عقد الإيجار في يونيو."
       }
     },
     {
@@ -162,9 +162,9 @@
       "en": "the guarantor",
       "ar": "الكفيل",
       "example": {
-        "pt": "Quanto é o aluguel? Preciso pagar caução?",
-        "en": "How much is the rent? Do I need to pay a deposit?",
-        "ar": "كم الإيجار؟ هل أحتاج إلى دفع ضمانة؟"
+        "pt": "O fiador assinou o contrato.",
+        "en": "The guarantor signed the contract.",
+        "ar": "وقّع الكفيل العقد."
       }
     },
     {
@@ -173,9 +173,9 @@
       "en": "the deposit",
       "ar": "الضمانة",
       "example": {
-        "pt": "Sim, fica a dez minutos do metrô.",
-        "en": "Yes, it is ten minutes from the subway.",
-        "ar": "نعم، تبعد عشر دقائق عن المترو."
+        "pt": "A caução foi devolvida.",
+        "en": "The deposit was returned.",
+        "ar": "أُعيدت الضمانة."
       }
     },
     {
@@ -184,9 +184,9 @@
       "en": "the real estate agency",
       "ar": "الوكالة العقارية",
       "example": {
-        "pt": "Sim, fica a dez minutos do metrô.",
-        "en": "Yes, it is ten minutes from the subway.",
-        "ar": "نعم، تبعد عشر دقائق عن المترو."
+        "pt": "A imobiliária é confiável.",
+        "en": "The real estate agency is reliable.",
+        "ar": "الوكالة العقارية موثوقة."
       }
     }
   ],
@@ -897,6 +897,227 @@
         "en": "The correct sentence: 'Este apartamento tem dois quartos e uma cozinha ampla.'",
         "ar": "الجملة الصحيحة: 'Este apartamento tem dois quartos e uma cozinha ampla.'"
       }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the kitchen'?",
+        "en": "Which word means 'the kitchen'?",
+        "ar": "أي كلمة تعني 'المطبخ'؟"
+      },
+      "options": [
+        {
+          "pt": "a cozinha",
+          "en": "the kitchen",
+          "ar": "المطبخ"
+        },
+        {
+          "pt": "o inquilino",
+          "en": "the tenant",
+          "ar": "المستأجر"
+        },
+        {
+          "pt": "morar",
+          "en": "to live",
+          "ar": "يسكن"
+        }
+      ],
+      "answer": "a cozinha",
+      "explanation": {
+        "pt": "'a cozinha' significa 'the kitchen'.",
+        "en": "'a cozinha' means 'the kitchen'.",
+        "ar": "تعني 'a cozinha' 'المطبخ'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the bathroom'?",
+        "en": "Which word means 'the bathroom'?",
+        "ar": "أي كلمة تعني 'الحمّام'؟"
+      },
+      "options": [
+        {
+          "pt": "o inquilino",
+          "en": "the tenant",
+          "ar": "المستأجر"
+        },
+        {
+          "pt": "o banheiro",
+          "en": "the bathroom",
+          "ar": "الحمّام"
+        },
+        {
+          "pt": "o quarto",
+          "en": "the bedroom",
+          "ar": "غرفة النوم"
+        },
+        {
+          "pt": "o fiador",
+          "en": "the guarantor",
+          "ar": "الكفيل"
+        }
+      ],
+      "answer": "o banheiro",
+      "explanation": {
+        "pt": "'o banheiro' significa 'the bathroom'.",
+        "en": "'o banheiro' means 'the bathroom'.",
+        "ar": "تعني 'o banheiro' 'الحمّام'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"The rent is due on the tenth.\"",
+        "en": "Translate into Portuguese: \"The rent is due on the tenth.\"",
+        "ar": "ترجم إلى البرتغالية: \"يستحق الإيجار في العاشر من الشهر.\""
+      },
+      "options": [],
+      "answer": "O aluguel vence dia dez.",
+      "explanation": {
+        "pt": "Resposta: \"O aluguel vence dia dez.\".",
+        "en": "Answer: \"O aluguel vence dia dez.\". (EN: \"The rent is due on the tenth.\")",
+        "ar": "الإجابة: \"O aluguel vence dia dez.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"The deposit was returned.\"",
+        "en": "Translate into Portuguese: \"The deposit was returned.\"",
+        "ar": "ترجم إلى البرتغالية: \"أُعيدت الضمانة.\""
+      },
+      "options": [],
+      "answer": "A caução foi devolvida.",
+      "explanation": {
+        "pt": "Resposta: \"A caução foi devolvida.\".",
+        "en": "Answer: \"A caução foi devolvida.\". (EN: \"The deposit was returned.\")",
+        "ar": "الإجابة: \"A caução foi devolvida.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Vou ___ sozinho.\"",
+        "en": "Complete: \"Vou ___ sozinho.\"",
+        "ar": "أكمل: \"Vou ___ sozinho.\""
+      },
+      "options": [
+        {
+          "pt": "morar",
+          "en": "morar",
+          "ar": "morar"
+        },
+        {
+          "pt": "o apartamento",
+          "en": "o apartamento",
+          "ar": "o apartamento"
+        },
+        {
+          "pt": "o condomínio",
+          "en": "o condomínio",
+          "ar": "o condomínio"
+        }
+      ],
+      "answer": "morar",
+      "explanation": {
+        "pt": "A lacuna é 'morar'.",
+        "en": "The blank is 'morar'.",
+        "ar": "الفراغ هو 'morar'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: \"The tenant is new.\"",
+        "en": "Type in Portuguese: \"The tenant is new.\"",
+        "ar": "اكتب بالبرتغالية: \"المستأجر جديد.\""
+      },
+      "options": [],
+      "answer": "O inquilino é novo.",
+      "accepted": [
+        "O inquilino é novo."
+      ],
+      "explanation": {
+        "pt": "Resposta possível: \"O inquilino é novo.\".",
+        "en": "One possible answer: \"O inquilino é novo.\".",
+        "ar": "إجابة ممكنة: \"O inquilino é novo.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "caução",
+          "en": "caução",
+          "ar": "caução"
+        },
+        {
+          "pt": "foi",
+          "en": "foi",
+          "ar": "foi"
+        },
+        {
+          "pt": "devolvida.",
+          "en": "devolvida.",
+          "ar": "devolvida."
+        },
+        {
+          "pt": "A",
+          "en": "A",
+          "ar": "A"
+        }
+      ],
+      "answer": "A caução foi devolvida.",
+      "gen": "v1.8",
+      "explanation": {
+        "pt": "A frase correta é: \"A caução foi devolvida.\".",
+        "en": "The correct sentence is: \"A caução foi devolvida.\".",
+        "ar": "الجملة الصحيحة هي: \"A caução foi devolvida.\"."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the rent'?",
+        "en": "Which word means 'the rent'?",
+        "ar": "أي كلمة تعني 'الإيجار'؟"
+      },
+      "options": [
+        {
+          "pt": "o aluguel",
+          "en": "the rent",
+          "ar": "الإيجار"
+        },
+        {
+          "pt": "o proprietário",
+          "en": "the owner / landlord",
+          "ar": "المالك"
+        },
+        {
+          "pt": "o contrato de locação",
+          "en": "the lease agreement",
+          "ar": "عقد الإيجار"
+        }
+      ],
+      "answer": "o aluguel",
+      "explanation": {
+        "pt": "'o aluguel' significa 'the rent'.",
+        "en": "'o aluguel' means 'the rent'.",
+        "ar": "تعني 'o aluguel' 'الإيجار'."
+      },
+      "gen": "v1.8"
     }
   ],
   "speaking": {

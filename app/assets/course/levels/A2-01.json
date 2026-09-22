@@ -35,9 +35,9 @@
       "en": "yesterday",
       "ar": "أمس",
       "example": {
-        "pt": "Ontem eu trabalhei até tarde.",
-        "en": "Yesterday I worked until late.",
-        "ar": "بالأمس عملت حتى وقت متأخر."
+        "pt": "Ontem fui ao cinema.",
+        "en": "I went to the movies yesterday.",
+        "ar": "ذهبت إلى السينما أمس."
       }
     },
     {
@@ -46,9 +46,9 @@
       "en": "today",
       "ar": "اليوم",
       "example": {
-        "pt": "O que você fez no fim de semana?",
-        "en": "What did you do on the weekend?",
-        "ar": "ماذا فعلتِ في عطلة نهاية الأسبوع؟"
+        "pt": "Hoje não trabalho.",
+        "en": "I don't work today.",
+        "ar": "لا أعمل اليوم."
       }
     },
     {
@@ -57,9 +57,9 @@
       "en": "last week",
       "ar": "الأسبوع الماضي",
       "example": {
-        "pt": "Comprei um presente para a minha mãe. Ela adorou!",
-        "en": "I bought a gift for my mother. She loved it!",
-        "ar": "اشتريت هدية لأمي. لقد أحبّتها!"
+        "pt": "A semana passada viajei.",
+        "en": "I traveled last week.",
+        "ar": "سافرت الأسبوع الماضي."
       }
     },
     {
@@ -68,9 +68,9 @@
       "en": "the weekend",
       "ar": "عطلة نهاية الأسبوع",
       "example": {
-        "pt": "O que você fez no fim de semana?",
-        "en": "What did you do on the weekend?",
-        "ar": "ماذا فعلتِ في عطلة نهاية الأسبوع؟"
+        "pt": "O fim de semana foi ótimo.",
+        "en": "The weekend was great.",
+        "ar": "كانت عطلة نهاية الأسبوع رائعة."
       }
     },
     {
@@ -79,9 +79,9 @@
       "en": "to travel",
       "ar": "يسافر",
       "example": {
-        "pt": "O que você fez no fim de semana?",
-        "en": "What did you do on the weekend?",
-        "ar": "ماذا فعلتِ في عطلة نهاية الأسبوع؟"
+        "pt": "Eles vão viajar em julho.",
+        "en": "They are going to travel in July.",
+        "ar": "سيسافرون في يوليو."
       }
     },
     {
@@ -90,9 +90,9 @@
       "en": "to work",
       "ar": "يعمل",
       "example": {
-        "pt": "O que você fez no fim de semana?",
-        "en": "What did you do on the weekend?",
-        "ar": "ماذا فعلتِ في عطلة نهاية الأسبوع؟"
+        "pt": "Ela pode trabalhar de casa.",
+        "en": "She can work from home.",
+        "ar": "يمكنها العمل من المنزل."
       }
     },
     {
@@ -101,9 +101,9 @@
       "en": "to buy",
       "ar": "يشتري",
       "example": {
-        "pt": "O que você fez no fim de semana?",
-        "en": "What did you do on the weekend?",
-        "ar": "ماذا فعلتِ في عطلة نهاية الأسبوع؟"
+        "pt": "Vamos comprar pão?",
+        "en": "Shall we buy bread?",
+        "ar": "هل نشتري الخبز؟"
       }
     },
     {
@@ -112,9 +112,9 @@
       "en": "to meet / to find",
       "ar": "يلتقي / يجد",
       "example": {
-        "pt": "O que você fez no fim de semana?",
-        "en": "What did you do on the weekend?",
-        "ar": "ماذا فعلتِ في عطلة نهاية الأسبوع؟"
+        "pt": "Podemos encontrar no centro.",
+        "en": "We can meet downtown.",
+        "ar": "يمكننا اللقاء في وسط المدينة."
       }
     },
     {
@@ -123,9 +123,9 @@
       "en": "to finish",
       "ar": "ينهي",
       "example": {
-        "pt": "O que você fez no fim de semana?",
-        "en": "What did you do on the weekend?",
-        "ar": "ماذا فعلتِ في عطلة نهاية الأسبوع؟"
+        "pt": "Vou terminar o trabalho.",
+        "en": "I'm going to finish the work.",
+        "ar": "سأنهي العمل."
       }
     },
     {
@@ -134,9 +134,9 @@
       "en": "to arrive",
       "ar": "يصل",
       "example": {
-        "pt": "O que você fez no fim de semana?",
-        "en": "What did you do on the weekend?",
-        "ar": "ماذا فعلتِ في عطلة نهاية الأسبوع؟"
+        "pt": "Ele vai chegar tarde.",
+        "en": "He will arrive late.",
+        "ar": "سيصل متأخرًا."
       }
     },
     {
@@ -145,9 +145,9 @@
       "en": "to return",
       "ar": "يعود",
       "example": {
-        "pt": "O que você fez no fim de semana?",
-        "en": "What did you do on the weekend?",
-        "ar": "ماذا فعلتِ في عطلة نهاية الأسبوع؟"
+        "pt": "Eu preciso voltar cedo.",
+        "en": "I need to return early.",
+        "ar": "أحتاج أن أعود مبكرًا."
       }
     },
     {
@@ -156,9 +156,9 @@
       "en": "to speak",
       "ar": "يتحدث",
       "example": {
-        "pt": "O que você fez no fim de semana?",
-        "en": "What did you do on the weekend?",
-        "ar": "ماذا فعلتِ في عطلة نهاية الأسبوع؟"
+        "pt": "Eu vou falar com o gerente.",
+        "en": "I'm going to speak with the manager.",
+        "ar": "سأتحدث مع المدير."
       }
     },
     {
@@ -167,9 +167,9 @@
       "en": "to celebrate",
       "ar": "يحتفل",
       "example": {
-        "pt": "O que você fez no fim de semana?",
-        "en": "What did you do on the weekend?",
-        "ar": "ماذا فعلتِ في عطلة نهاية الأسبوع؟"
+        "pt": "Vamos comemorar seu aniversário.",
+        "en": "Let's celebrate your birthday.",
+        "ar": "دعونا نحتفل بعيد ميلادك."
       }
     },
     {
@@ -178,9 +178,9 @@
       "en": "to stay",
       "ar": "يبقى",
       "example": {
-        "pt": "O que você fez no fim de semana?",
-        "en": "What did you do on the weekend?",
-        "ar": "ماذا فعلتِ في عطلة نهاية الأسبوع؟"
+        "pt": "Eu vou ficar em casa.",
+        "en": "I'm going to stay home.",
+        "ar": "سأبقى في المنزل."
       }
     },
     {
@@ -189,9 +189,9 @@
       "en": "to stroll / to go out",
       "ar": "يتنزه",
       "example": {
-        "pt": "O que você fez no fim de semana?",
-        "en": "What did you do on the weekend?",
-        "ar": "ماذا فعلتِ في عطلة نهاية الأسبوع؟"
+        "pt": "Vamos passear no parque?",
+        "en": "Shall we take a walk in the park?",
+        "ar": "هل نتنزه في الحديقة؟"
       }
     },
     {
@@ -200,9 +200,9 @@
       "en": "to happen",
       "ar": "يحدث",
       "example": {
-        "pt": "O que você fez no fim de semana?",
-        "en": "What did you do on the weekend?",
-        "ar": "ماذا فعلتِ في عطلة نهاية الأسبوع؟"
+        "pt": "O que vai acontecer agora?",
+        "en": "What is going to happen now?",
+        "ar": "ما الذي سيحدث الآن؟"
       }
     },
     {
@@ -211,9 +211,9 @@
       "en": "the lunch",
       "ar": "الغداء",
       "example": {
-        "pt": "O que você fez no fim de semana?",
-        "en": "What did you do on the weekend?",
-        "ar": "ماذا فعلتِ في عطلة نهاية الأسبوع؟"
+        "pt": "O almoço está pronto.",
+        "en": "Lunch is ready.",
+        "ar": "الغداء جاهز."
       }
     },
     {
@@ -222,9 +222,9 @@
       "en": "two days ago",
       "ar": "قبل يومين",
       "example": {
-        "pt": "O que você fez no fim de semana?",
-        "en": "What did you do on the weekend?",
-        "ar": "ماذا فعلتِ في عطلة نهاية الأسبوع؟"
+        "pt": "Há dois dias fomos à praia.",
+        "en": "Two days ago we went to the beach.",
+        "ar": "قبل يومين ذهبنا إلى الشاطئ."
       }
     }
   ],
@@ -914,6 +914,232 @@
         "pt": "A frase correta: 'O que você fez no fim de semana?'",
         "en": "The correct sentence: 'O que você fez no fim de semana?'",
         "ar": "الجملة الصحيحة: 'O que você fez no fim de semana?'"
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'to finish'?",
+        "en": "Which word means 'to finish'?",
+        "ar": "أي كلمة تعني 'ينهي'؟"
+      },
+      "options": [
+        {
+          "pt": "trabalhar",
+          "en": "to work",
+          "ar": "يعمل"
+        },
+        {
+          "pt": "a semana passada",
+          "en": "last week",
+          "ar": "الأسبوع الماضي"
+        },
+        {
+          "pt": "chegar",
+          "en": "to arrive",
+          "ar": "يصل"
+        },
+        {
+          "pt": "terminar",
+          "en": "to finish",
+          "ar": "ينهي"
+        }
+      ],
+      "answer": "terminar",
+      "explanation": {
+        "pt": "'terminar' significa 'to finish'.",
+        "en": "'terminar' means 'to finish'.",
+        "ar": "تعني 'terminar' 'ينهي'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'to meet / to find'?",
+        "en": "Which word means 'to meet / to find'?",
+        "ar": "أي كلمة تعني 'يلتقي / يجد'؟"
+      },
+      "options": [
+        {
+          "pt": "ficar",
+          "en": "to stay",
+          "ar": "يبقى"
+        },
+        {
+          "pt": "voltar",
+          "en": "to return",
+          "ar": "يعود"
+        },
+        {
+          "pt": "encontrar",
+          "en": "to meet / to find",
+          "ar": "يلتقي / يجد"
+        }
+      ],
+      "answer": "encontrar",
+      "explanation": {
+        "pt": "'encontrar' significa 'to meet / to find'.",
+        "en": "'encontrar' means 'to meet / to find'.",
+        "ar": "تعني 'encontrar' 'يلتقي / يجد'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"I'm going to stay home.\"",
+        "en": "Translate into Portuguese: \"I'm going to stay home.\"",
+        "ar": "ترجم إلى البرتغالية: \"سأبقى في المنزل.\""
+      },
+      "options": [],
+      "answer": "Eu vou ficar em casa.",
+      "explanation": {
+        "pt": "Resposta: \"Eu vou ficar em casa.\".",
+        "en": "Answer: \"Eu vou ficar em casa.\". (EN: \"I'm going to stay home.\")",
+        "ar": "الإجابة: \"Eu vou ficar em casa.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"Great! Did you stay there two days?\"",
+        "en": "Translate into Portuguese: \"Great! Did you stay there two days?\"",
+        "ar": "ترجم إلى البرتغالية: \"رائع! هل بقيتِ هناك يومين؟\""
+      },
+      "options": [],
+      "answer": "Que bom! Você ficou lá dois dias?",
+      "explanation": {
+        "pt": "Resposta: \"Que bom! Você ficou lá dois dias?\".",
+        "en": "Answer: \"Que bom! Você ficou lá dois dias?\". (EN: \"Great! Did you stay there two days?\")",
+        "ar": "الإجابة: \"Que bom! Você ficou lá dois dias?\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"O que vai ___ agora?\"",
+        "en": "Complete: \"O que vai ___ agora?\"",
+        "ar": "أكمل: \"O que vai ___ agora?\""
+      },
+      "options": [
+        {
+          "pt": "hoje",
+          "en": "hoje",
+          "ar": "hoje"
+        },
+        {
+          "pt": "acontecer",
+          "en": "acontecer",
+          "ar": "acontecer"
+        },
+        {
+          "pt": "comprar",
+          "en": "comprar",
+          "ar": "comprar"
+        }
+      ],
+      "answer": "acontecer",
+      "explanation": {
+        "pt": "A lacuna é 'acontecer'.",
+        "en": "The blank is 'acontecer'.",
+        "ar": "الفراغ هو 'acontecer'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Eu vou ___ com o gerente.\"",
+        "en": "Complete: \"Eu vou ___ com o gerente.\"",
+        "ar": "أكمل: \"Eu vou ___ com o gerente.\""
+      },
+      "options": [
+        {
+          "pt": "o fim de semana",
+          "en": "o fim de semana",
+          "ar": "o fim de semana"
+        },
+        {
+          "pt": "falar",
+          "en": "falar",
+          "ar": "falar"
+        },
+        {
+          "pt": "trabalhar",
+          "en": "trabalhar",
+          "ar": "trabalhar"
+        }
+      ],
+      "answer": "falar",
+      "explanation": {
+        "pt": "A lacuna é 'falar'.",
+        "en": "The blank is 'falar'.",
+        "ar": "الفراغ هو 'falar'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: \"I'm going to speak with the manager.\"",
+        "en": "Type in Portuguese: \"I'm going to speak with the manager.\"",
+        "ar": "اكتب بالبرتغالية: \"سأتحدث مع المدير.\""
+      },
+      "options": [],
+      "answer": "Eu vou falar com o gerente.",
+      "accepted": [
+        "Eu vou falar com o gerente."
+      ],
+      "explanation": {
+        "pt": "Resposta possível: \"Eu vou falar com o gerente.\".",
+        "en": "One possible answer: \"Eu vou falar com o gerente.\".",
+        "ar": "إجابة ممكنة: \"Eu vou falar com o gerente.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "vão",
+          "en": "vão",
+          "ar": "vão"
+        },
+        {
+          "pt": "viajar",
+          "en": "viajar",
+          "ar": "viajar"
+        },
+        {
+          "pt": "Eles",
+          "en": "Eles",
+          "ar": "Eles"
+        },
+        {
+          "pt": "em",
+          "en": "em",
+          "ar": "em"
+        },
+        {
+          "pt": "julho.",
+          "en": "julho.",
+          "ar": "julho."
+        }
+      ],
+      "answer": "Eles vão viajar em julho.",
+      "gen": "v1.8",
+      "explanation": {
+        "pt": "A frase correta é: \"Eles vão viajar em julho.\".",
+        "en": "The correct sentence is: \"Eles vão viajar em julho.\".",
+        "ar": "الجملة الصحيحة هي: \"Eles vão viajar em julho.\"."
       }
     }
   ],

@@ -30,9 +30,9 @@
       "en": "the news item",
       "ar": "الخبر",
       "example": {
-        "pt": "Sim, a notícia foi publicada esta manhã.",
-        "en": "Yes, the news was published this morning.",
-        "ar": "نعم، نُشر الخبر هذا الصباح."
+        "pt": "A notícia chegou tarde.",
+        "en": "The news arrived late.",
+        "ar": "وصل الخبر متأخرًا."
       }
     },
     {
@@ -41,9 +41,9 @@
       "en": "the newspaper",
       "ar": "الجريدة",
       "example": {
-        "pt": "O acidente foi confirmado pela polícia.",
-        "en": "The accident was confirmed by the police.",
-        "ar": "أكّدت الشرطة الحادث."
+        "pt": "Comprei o jornal na banca.",
+        "en": "I bought the newspaper at the kiosk.",
+        "ar": "اشتريت الجريدة من الكشك."
       }
     },
     {
@@ -52,9 +52,9 @@
       "en": "the magazine",
       "ar": "المجلة",
       "example": {
-        "pt": "Sim, a notícia foi publicada esta manhã.",
-        "en": "Yes, the news was published this morning.",
-        "ar": "نعم، نُشر الخبر هذا الصباح."
+        "pt": "A revista é mensal.",
+        "en": "The magazine is monthly.",
+        "ar": "المجلة شهرية."
       }
     },
     {
@@ -63,9 +63,9 @@
       "en": "the reporter",
       "ar": "المراسل",
       "example": {
-        "pt": "O acidente foi confirmado pela polícia.",
-        "en": "The accident was confirmed by the police.",
-        "ar": "أكّدت الشرطة الحادث."
+        "pt": "O repórter chegou cedo.",
+        "en": "The reporter arrived early.",
+        "ar": "وصل المراسل مبكرًا."
       }
     },
     {
@@ -74,9 +74,9 @@
       "en": "the headline",
       "ar": "العنوان الرئيسي",
       "example": {
-        "pt": "Sim, a notícia foi publicada esta manhã.",
-        "en": "Yes, the news was published this morning.",
-        "ar": "نعم، نُشر الخبر هذا الصباح."
+        "pt": "A manchete é impactante.",
+        "en": "The headline is striking.",
+        "ar": "العنوان الرئيسي مثير."
       }
     },
     {
@@ -85,9 +85,9 @@
       "en": "the news report",
       "ar": "التقرير",
       "example": {
-        "pt": "Sim, a notícia foi publicada esta manhã.",
-        "en": "Yes, the news was published this morning.",
-        "ar": "نعم، نُشر الخبر هذا الصباح."
+        "pt": "A reportagem terminou agora.",
+        "en": "The report just finished.",
+        "ar": "انتهى التقرير الآن."
       }
     },
     {
@@ -96,9 +96,9 @@
       "en": "the television",
       "ar": "التلفزيون",
       "example": {
-        "pt": "Sim, a notícia foi publicada esta manhã.",
-        "en": "Yes, the news was published this morning.",
-        "ar": "نعم، نُشر الخبر هذا الصباح."
+        "pt": "A televisão está ligada.",
+        "en": "The television is on.",
+        "ar": "التلفزيون مضاء."
       }
     },
     {
@@ -107,9 +107,9 @@
       "en": "the radio",
       "ar": "الراديو / الإذاعة",
       "example": {
-        "pt": "O acidente foi confirmado pela polícia.",
-        "en": "The accident was confirmed by the police.",
-        "ar": "أكّدت الشرطة الحادث."
+        "pt": "Eu escuto o rádio no carro.",
+        "en": "I listen to the radio in the car.",
+        "ar": "أستمع إلى الراديو في السيارة."
       }
     },
     {
@@ -118,9 +118,9 @@
       "en": "the journalist",
       "ar": "الصحفي",
       "example": {
-        "pt": "O acidente foi confirmado pela polícia.",
-        "en": "The accident was confirmed by the police.",
-        "ar": "أكّدت الشرطة الحادث."
+        "pt": "O jornalista é experiente.",
+        "en": "The journalist is experienced.",
+        "ar": "الصحفي ذو خبرة."
       }
     },
     {
@@ -129,9 +129,9 @@
       "en": "the newscast",
       "ar": "نشرة الأخبار",
       "example": {
-        "pt": "O acidente foi confirmado pela polícia.",
-        "en": "The accident was confirmed by the police.",
-        "ar": "أكّدت الشرطة الحادث."
+        "pt": "O noticiário termina tarde.",
+        "en": "The newscast ends late.",
+        "ar": "تنتهي نشرة الأخبار متأخرة."
       }
     },
     {
@@ -140,9 +140,9 @@
       "en": "the gossip",
       "ar": "النميمة",
       "example": {
-        "pt": "Sim, a notícia foi publicada esta manhã.",
-        "en": "Yes, the news was published this morning.",
-        "ar": "نعم، نُشر الخبر هذا الصباح."
+        "pt": "A fofoca não é boa.",
+        "en": "Gossip is not good.",
+        "ar": "النميمة ليست شيئًا جيدًا."
       }
     },
     {
@@ -151,9 +151,9 @@
       "en": "truthful",
       "ar": "حقيقي / موثوق",
       "example": {
-        "pt": "Preciso verificar se é verídico.",
-        "en": "I need to check if it is true.",
-        "ar": "أحتاج إلى التحقق من صحة الخبر."
+        "pt": "O testemunho foi verídico.",
+        "en": "The testimony was truthful.",
+        "ar": "كان الشهاد صادقًا."
       }
     },
     {
@@ -162,9 +162,9 @@
       "en": "the rumor",
       "ar": "الشائعة",
       "example": {
-        "pt": "O acidente foi confirmado pela polícia.",
-        "en": "The accident was confirmed by the police.",
-        "ar": "أكّدت الشرطة الحادث."
+        "pt": "O boato se espalhou rápido.",
+        "en": "The rumor spread quickly.",
+        "ar": "انتشرت الشائعة بسرعة."
       }
     },
     {
@@ -173,9 +173,9 @@
       "en": "the audience / ratings",
       "ar": "الجمهور / المتابَعة",
       "example": {
-        "pt": "Sim, a notícia foi publicada esta manhã.",
-        "en": "Yes, the news was published this morning.",
-        "ar": "نعم، نُشر الخبر هذا الصباح."
+        "pt": "A audiência cresceu muito.",
+        "en": "The audience grew a lot.",
+        "ar": "نما الجمهور كثيرًا."
       }
     },
     {
@@ -184,9 +184,9 @@
       "en": "live",
       "ar": "مباشر",
       "example": {
-        "pt": "Você viu as notícias hoje?",
-        "en": "Did you watch the news today?",
-        "ar": "هل شاهدت الأخبار اليوم؟"
+        "pt": "O jogo é ao vivo.",
+        "en": "The game is live.",
+        "ar": "المباراة مباشرة."
       }
     }
   ],
@@ -856,6 +856,227 @@
         "pt": "A frase correta: 'Você viu as notícias hoje?'",
         "en": "The correct sentence: 'Você viu as notícias hoje?'",
         "ar": "الجملة الصحيحة: 'Você viu as notícias hoje?'"
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'live'?",
+        "en": "Which word means 'live'?",
+        "ar": "أي كلمة تعني 'مباشر'؟"
+      },
+      "options": [
+        {
+          "pt": "ao vivo",
+          "en": "live",
+          "ar": "مباشر"
+        },
+        {
+          "pt": "a revista",
+          "en": "the magazine",
+          "ar": "المجلة"
+        },
+        {
+          "pt": "verídico",
+          "en": "truthful",
+          "ar": "حقيقي / موثوق"
+        }
+      ],
+      "answer": "ao vivo",
+      "explanation": {
+        "pt": "'ao vivo' significa 'live'.",
+        "en": "'ao vivo' means 'live'.",
+        "ar": "تعني 'ao vivo' 'مباشر'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the headline'?",
+        "en": "Which word means 'the headline'?",
+        "ar": "أي كلمة تعني 'العنوان الرئيسي'؟"
+      },
+      "options": [
+        {
+          "pt": "verídico",
+          "en": "truthful",
+          "ar": "حقيقي / موثوق"
+        },
+        {
+          "pt": "a manchete",
+          "en": "the headline",
+          "ar": "العنوان الرئيسي"
+        },
+        {
+          "pt": "o rádio",
+          "en": "the radio",
+          "ar": "الراديو / الإذاعة"
+        }
+      ],
+      "answer": "a manchete",
+      "explanation": {
+        "pt": "'a manchete' significa 'the headline'.",
+        "en": "'a manchete' means 'the headline'.",
+        "ar": "تعني 'a manchete' 'العنوان الرئيسي'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"The journalist is experienced.\"",
+        "en": "Translate into Portuguese: \"The journalist is experienced.\"",
+        "ar": "ترجم إلى البرتغالية: \"الصحفي ذو خبرة.\""
+      },
+      "options": [],
+      "answer": "O jornalista é experiente.",
+      "explanation": {
+        "pt": "Resposta: \"O jornalista é experiente.\".",
+        "en": "Answer: \"O jornalista é experiente.\". (EN: \"The journalist is experienced.\")",
+        "ar": "الإجابة: \"O jornalista é experiente.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"The report just finished.\"",
+        "en": "Translate into Portuguese: \"The report just finished.\"",
+        "ar": "ترجم إلى البرتغالية: \"انتهى التقرير الآن.\""
+      },
+      "options": [],
+      "answer": "A reportagem terminou agora.",
+      "explanation": {
+        "pt": "Resposta: \"A reportagem terminou agora.\".",
+        "en": "Answer: \"A reportagem terminou agora.\". (EN: \"The report just finished.\")",
+        "ar": "الإجابة: \"A reportagem terminou agora.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Eu escuto ___ no carro.\"",
+        "en": "Complete: \"Eu escuto ___ no carro.\"",
+        "ar": "أكمل: \"Eu escuto ___ no carro.\""
+      },
+      "options": [
+        {
+          "pt": "a notícia",
+          "en": "a notícia",
+          "ar": "a notícia"
+        },
+        {
+          "pt": "o jornalista",
+          "en": "o jornalista",
+          "ar": "o jornalista"
+        },
+        {
+          "pt": "o rádio",
+          "en": "o rádio",
+          "ar": "o rádio"
+        }
+      ],
+      "answer": "o rádio",
+      "explanation": {
+        "pt": "A lacuna é 'o rádio'.",
+        "en": "The blank is 'o rádio'.",
+        "ar": "الفراغ هو 'o rádio'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"O jogo é ___.\"",
+        "en": "Complete: \"O jogo é ___.\"",
+        "ar": "أكمل: \"O jogo é ___.\""
+      },
+      "options": [
+        {
+          "pt": "ao vivo",
+          "en": "ao vivo",
+          "ar": "ao vivo"
+        },
+        {
+          "pt": "a notícia",
+          "en": "a notícia",
+          "ar": "a notícia"
+        },
+        {
+          "pt": "a reportagem",
+          "en": "a reportagem",
+          "ar": "a reportagem"
+        }
+      ],
+      "answer": "ao vivo",
+      "explanation": {
+        "pt": "A lacuna é 'ao vivo'.",
+        "en": "The blank is 'ao vivo'.",
+        "ar": "الفراغ هو 'ao vivo'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: \"The magazine is monthly.\"",
+        "en": "Type in Portuguese: \"The magazine is monthly.\"",
+        "ar": "اكتب بالبرتغالية: \"المجلة شهرية.\""
+      },
+      "options": [],
+      "answer": "A revista é mensal.",
+      "accepted": [
+        "A revista é mensal."
+      ],
+      "explanation": {
+        "pt": "Resposta possível: \"A revista é mensal.\".",
+        "en": "One possible answer: \"A revista é mensal.\".",
+        "ar": "إجابة ممكنة: \"A revista é mensal.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "jogo",
+          "en": "jogo",
+          "ar": "jogo"
+        },
+        {
+          "pt": "é",
+          "en": "é",
+          "ar": "é"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "vivo.",
+          "en": "vivo.",
+          "ar": "vivo."
+        },
+        {
+          "pt": "ao",
+          "en": "ao",
+          "ar": "ao"
+        }
+      ],
+      "answer": "O jogo é ao vivo.",
+      "gen": "v1.8",
+      "explanation": {
+        "pt": "A frase correta é: \"O jogo é ao vivo.\".",
+        "en": "The correct sentence is: \"O jogo é ao vivo.\".",
+        "ar": "الجملة الصحيحة هي: \"O jogo é ao vivo.\"."
       }
     }
   ],

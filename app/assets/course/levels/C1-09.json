@@ -35,9 +35,9 @@
       "en": "the colonization",
       "ar": "الاستعمار",
       "example": {
-        "pt": "Sabia que a independência foi proclamada em 1822 por Dom Pedro I?",
-        "en": "Did you know that independence was proclaimed in 1822 by Dom Pedro I?",
-        "ar": "هل تعلمين أن الاستقلال أُعلن عام 1822 على يد دوم بيدرو الأول؟"
+        "pt": "A colonização durou séculos.",
+        "en": "The colonization lasted centuries.",
+        "ar": "استمر الاستعمار قرونًا."
       }
     },
     {
@@ -46,9 +46,9 @@
       "en": "the discovery",
       "ar": "الاكتشاف",
       "example": {
-        "pt": "Sim, e antes disso o país viveu séculos de colonização e escravidão.",
-        "en": "Yes, and before that the country lived through centuries of colonization and slavery.",
-        "ar": "نعم، وقبل ذلك عاشت البلاد قرونًا من الاستعمار والعبودية."
+        "pt": "O descobrimento mudou a história.",
+        "en": "The discovery changed history.",
+        "ar": "غيّر الاكتشاف التاريخ."
       }
     },
     {
@@ -57,9 +57,9 @@
       "en": "the indigenous person",
       "ar": "السكان الأصليون",
       "example": {
-        "pt": "Sim, e antes disso o país viveu séculos de colonização e escravidão.",
-        "en": "Yes, and before that the country lived through centuries of colonization and slavery.",
-        "ar": "نعم، وقبل ذلك عاشت البلاد قرونًا من الاستعمار والعبودية."
+        "pt": "O indígena protegeu a floresta.",
+        "en": "The indigenous person protected the forest.",
+        "ar": "حمى السكان الأصليون الغابة."
       }
     },
     {
@@ -68,9 +68,9 @@
       "en": "the slave",
       "ar": "العبد",
       "example": {
-        "pt": "Sim, e antes disso o país viveu séculos de colonização e escravidão.",
-        "en": "Yes, and before that the country lived through centuries of colonization and slavery.",
-        "ar": "نعم، وقبل ذلك عاشت البلاد قرونًا من الاستعمار والعبودية."
+        "pt": "O escravo não tinha direitos.",
+        "en": "The slave had no rights.",
+        "ar": "لم يكن للعبد حقوق."
       }
     },
     {
@@ -79,9 +79,9 @@
       "en": "slavery",
       "ar": "العبودية",
       "example": {
-        "pt": "Sabia que a independência foi proclamada em 1822 por Dom Pedro I?",
-        "en": "Did you know that independence was proclaimed in 1822 by Dom Pedro I?",
-        "ar": "هل تعلمين أن الاستقلال أُعلن عام 1822 على يد دوم بيدرو الأول؟"
+        "pt": "A escravidão marcou a história.",
+        "en": "Slavery marked history.",
+        "ar": "علّمت العبودية التاريخ."
       }
     },
     {
@@ -90,9 +90,9 @@
       "en": "independence",
       "ar": "الاستقلال",
       "example": {
-        "pt": "Sabia que a independência foi proclamada em 1822 por Dom Pedro I?",
-        "en": "Did you know that independence was proclaimed in 1822 by Dom Pedro I?",
-        "ar": "هل تعلمين أن الاستقلال أُعلن عام 1822 على يد دوم بيدرو الأول؟"
+        "pt": "A independência foi em 1822.",
+        "en": "Independence was in 1822.",
+        "ar": "كان الاستقلال في عام 1822."
       }
     },
     {
@@ -101,9 +101,9 @@
       "en": "the empire",
       "ar": "الإمبراطورية",
       "example": {
-        "pt": "Sim, e antes disso o país viveu séculos de colonização e escravidão.",
-        "en": "Yes, and before that the country lived through centuries of colonization and slavery.",
-        "ar": "نعم، وقبل ذلك عاشت البلاد قرونًا من الاستعمار والعبودية."
+        "pt": "O império durou décadas.",
+        "en": "The empire lasted decades.",
+        "ar": "استمرت الإمبراطورية عقودًا."
       }
     },
     {
@@ -112,9 +112,9 @@
       "en": "the republic",
       "ar": "الجمهورية",
       "example": {
-        "pt": "Sabia que a independência foi proclamada em 1822 por Dom Pedro I?",
-        "en": "Did you know that independence was proclaimed in 1822 by Dom Pedro I?",
-        "ar": "هل تعلمين أن الاستقلال أُعلن عام 1822 على يد دوم بيدرو الأول؟"
+        "pt": "A república foi proclamada no Rio.",
+        "en": "The republic was proclaimed in Rio.",
+        "ar": "أُعلنت الجمهورية في ريو."
       }
     },
     {
@@ -123,9 +123,9 @@
       "en": "the coup",
       "ar": "الانقلاب",
       "example": {
-        "pt": "Sim, e antes disso o país viveu séculos de colonização e escravidão.",
-        "en": "Yes, and before that the country lived through centuries of colonization and slavery.",
-        "ar": "نعم، وقبل ذلك عاشت البلاد قرونًا من الاستعمار والعبودية."
+        "pt": "O golpe ocorreu em 1964.",
+        "en": "The coup happened in 1964.",
+        "ar": "وقع الانقلاب عام 1964."
       }
     },
     {
@@ -134,9 +134,9 @@
       "en": "the dictatorship",
       "ar": "الديكتاتورية",
       "example": {
-        "pt": "Sabia que a independência foi proclamada em 1822 por Dom Pedro I?",
-        "en": "Did you know that independence was proclaimed in 1822 by Dom Pedro I?",
-        "ar": "هل تعلمين أن الاستقلال أُعلن عام 1822 على يد دوم بيدرو الأول؟"
+        "pt": "A ditadura durou 21 anos.",
+        "en": "The dictatorship lasted 21 years.",
+        "ar": "استمرت الديكتاتورية 21 عامًا."
       }
     },
     {
@@ -145,9 +145,9 @@
       "en": "democracy",
       "ar": "الديمقراطية",
       "example": {
-        "pt": "Sabia que a independência foi proclamada em 1822 por Dom Pedro I?",
-        "en": "Did you know that independence was proclaimed in 1822 by Dom Pedro I?",
-        "ar": "هل تعلمين أن الاستقلال أُعلن عام 1822 على يد دوم بيدرو الأول؟"
+        "pt": "A democracia precisa de votos.",
+        "en": "Democracy needs votes.",
+        "ar": "تحتاج الديمقراطية إلى أصوات."
       }
     },
     {
@@ -156,9 +156,9 @@
       "en": "the constitution",
       "ar": "الدستور",
       "example": {
-        "pt": "Sabia que a independência foi proclamada em 1822 por Dom Pedro I?",
-        "en": "Did you know that independence was proclaimed in 1822 by Dom Pedro I?",
-        "ar": "هل تعلمين أن الاستقلال أُعلن عام 1822 على يد دوم بيدرو الأول؟"
+        "pt": "A constituição garante direitos.",
+        "en": "The constitution guarantees rights.",
+        "ar": "يضمن الدستور الحقوق."
       }
     },
     {
@@ -167,9 +167,9 @@
       "en": "the abolition",
       "ar": "الإلغاء",
       "example": {
-        "pt": "Sabia que a independência foi proclamada em 1822 por Dom Pedro I?",
-        "en": "Did you know that independence was proclaimed in 1822 by Dom Pedro I?",
-        "ar": "هل تعلمين أن الاستقلال أُعلن عام 1822 على يد دوم بيدرو الأول؟"
+        "pt": "A abolição veio em 1888.",
+        "en": "Abolition came in 1888.",
+        "ar": "جاء الإلغاء عام 1888."
       }
     },
     {
@@ -178,9 +178,9 @@
       "en": "the immigrant",
       "ar": "المهاجر",
       "example": {
-        "pt": "Sim, e antes disso o país viveu séculos de colonização e escravidão.",
-        "en": "Yes, and before that the country lived through centuries of colonization and slavery.",
-        "ar": "نعم، وقبل ذلك عاشت البلاد قرونًا من الاستعمار والعبودية."
+        "pt": "O imigrante busca trabalho.",
+        "en": "The immigrant looks for work.",
+        "ar": "يبحث المهاجر عن عمل."
       }
     },
     {
@@ -189,9 +189,9 @@
       "en": "the economy",
       "ar": "الاقتصاد",
       "example": {
-        "pt": "Sabia que a independência foi proclamada em 1822 por Dom Pedro I?",
-        "en": "Did you know that independence was proclaimed in 1822 by Dom Pedro I?",
-        "ar": "هل تعلمين أن الاستقلال أُعلن عام 1822 على يد دوم بيدرو الأول؟"
+        "pt": "A economia está estável.",
+        "en": "The economy is stable.",
+        "ar": "الاقتصاد مستقر."
       }
     },
     {
@@ -200,9 +200,9 @@
       "en": "the war",
       "ar": "الحرب",
       "example": {
-        "pt": "Sabia que a independência foi proclamada em 1822 por Dom Pedro I?",
-        "en": "Did you know that independence was proclaimed in 1822 by Dom Pedro I?",
-        "ar": "هل تعلمين أن الاستقلال أُعلن عام 1822 على يد دوم بيدرو الأول؟"
+        "pt": "A guerra durou anos.",
+        "en": "The war lasted years.",
+        "ar": "استمرت الحرب سنوات."
       }
     }
   ],
@@ -937,6 +937,237 @@
         "en": "The correct sentence: 'Sabia que a independência foi proclamada em 1822 por Dom Pedro I?'",
         "ar": "الجملة الصحيحة: 'Sabia que a independência foi proclamada em 1822 por Dom Pedro I?'"
       }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the discovery'?",
+        "en": "Which word means 'the discovery'?",
+        "ar": "أي كلمة تعني 'الاكتشاف'؟"
+      },
+      "options": [
+        {
+          "pt": "a escravidão",
+          "en": "slavery",
+          "ar": "العبودية"
+        },
+        {
+          "pt": "o descobrimento",
+          "en": "the discovery",
+          "ar": "الاكتشاف"
+        },
+        {
+          "pt": "o imigrante",
+          "en": "the immigrant",
+          "ar": "المهاجر"
+        },
+        {
+          "pt": "o escravo",
+          "en": "the slave",
+          "ar": "العبد"
+        }
+      ],
+      "answer": "o descobrimento",
+      "explanation": {
+        "pt": "'o descobrimento' significa 'the discovery'.",
+        "en": "'o descobrimento' means 'the discovery'.",
+        "ar": "تعني 'o descobrimento' 'الاكتشاف'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the abolition'?",
+        "en": "Which word means 'the abolition'?",
+        "ar": "أي كلمة تعني 'الإلغاء'؟"
+      },
+      "options": [
+        {
+          "pt": "a abolição",
+          "en": "the abolition",
+          "ar": "الإلغاء"
+        },
+        {
+          "pt": "a constituição",
+          "en": "the constitution",
+          "ar": "الدستور"
+        },
+        {
+          "pt": "o indígena",
+          "en": "the indigenous person",
+          "ar": "السكان الأصليون"
+        }
+      ],
+      "answer": "a abolição",
+      "explanation": {
+        "pt": "'a abolição' significa 'the abolition'.",
+        "en": "'a abolição' means 'the abolition'.",
+        "ar": "تعني 'a abolição' 'الإلغاء'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"Slavery marked history.\"",
+        "en": "Translate into Portuguese: \"Slavery marked history.\"",
+        "ar": "ترجم إلى البرتغالية: \"علّمت العبودية التاريخ.\""
+      },
+      "options": [],
+      "answer": "A escravidão marcou a história.",
+      "explanation": {
+        "pt": "Resposta: \"A escravidão marcou a história.\".",
+        "en": "Answer: \"A escravidão marcou a história.\". (EN: \"Slavery marked history.\")",
+        "ar": "الإجابة: \"A escravidão marcou a história.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"Slavery was abolished in 1888, the last major abolition in the Americas.\"",
+        "en": "Translate into Portuguese: \"Slavery was abolished in 1888, the last major abolition in the Americas.\"",
+        "ar": "ترجم إلى البرتغالية: \"أُلغيت العبودية عام 1888، وهو آخر إلغاء كبير في الأمريكتين.\""
+      },
+      "options": [],
+      "answer": "A escravidão foi abolida em 1888, a última grande abolição das Américas.",
+      "explanation": {
+        "pt": "Resposta: \"A escravidão foi abolida em 1888, a última grande abolição das Américas.\".",
+        "en": "Answer: \"A escravidão foi abolida em 1888, a última grande abolição das Américas.\". (EN: \"Slavery was abolished in 1888, the last major abolition in the Americas.\")",
+        "ar": "الإجابة: \"A escravidão foi abolida em 1888, a última grande abolição das Américas.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: \"The discovery changed history.\"",
+        "en": "Type in Portuguese: \"The discovery changed history.\"",
+        "ar": "اكتب بالبرتغالية: \"غيّر الاكتشاف التاريخ.\""
+      },
+      "options": [],
+      "answer": "O descobrimento mudou a história.",
+      "accepted": [
+        "O descobrimento mudou a história."
+      ],
+      "explanation": {
+        "pt": "Resposta possível: \"O descobrimento mudou a história.\".",
+        "en": "One possible answer: \"O descobrimento mudou a história.\".",
+        "ar": "إجابة ممكنة: \"O descobrimento mudou a história.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "durou",
+          "en": "durou",
+          "ar": "durou"
+        },
+        {
+          "pt": "anos.",
+          "en": "anos.",
+          "ar": "anos."
+        },
+        {
+          "pt": "21",
+          "en": "21",
+          "ar": "21"
+        },
+        {
+          "pt": "A",
+          "en": "A",
+          "ar": "A"
+        },
+        {
+          "pt": "ditadura",
+          "en": "ditadura",
+          "ar": "ditadura"
+        }
+      ],
+      "answer": "A ditadura durou 21 anos.",
+      "gen": "v1.8",
+      "explanation": {
+        "pt": "A frase correta é: \"A ditadura durou 21 anos.\".",
+        "en": "The correct sentence is: \"A ditadura durou 21 anos.\".",
+        "ar": "الجملة الصحيحة هي: \"A ditadura durou 21 anos.\"."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the war'?",
+        "en": "Which word means 'the war'?",
+        "ar": "أي كلمة تعني 'الحرب'؟"
+      },
+      "options": [
+        {
+          "pt": "a guerra",
+          "en": "the war",
+          "ar": "الحرب"
+        },
+        {
+          "pt": "a independência",
+          "en": "independence",
+          "ar": "الاستقلال"
+        },
+        {
+          "pt": "a escravidão",
+          "en": "slavery",
+          "ar": "العبودية"
+        }
+      ],
+      "answer": "a guerra",
+      "explanation": {
+        "pt": "'a guerra' significa 'the war'.",
+        "en": "'a guerra' means 'the war'.",
+        "ar": "تعني 'a guerra' 'الحرب'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'democracy'?",
+        "en": "Which word means 'democracy'?",
+        "ar": "أي كلمة تعني 'الديمقراطية'؟"
+      },
+      "options": [
+        {
+          "pt": "a democracia",
+          "en": "democracy",
+          "ar": "الديمقراطية"
+        },
+        {
+          "pt": "o descobrimento",
+          "en": "the discovery",
+          "ar": "الاكتشاف"
+        },
+        {
+          "pt": "a independência",
+          "en": "independence",
+          "ar": "الاستقلال"
+        },
+        {
+          "pt": "a guerra",
+          "en": "the war",
+          "ar": "الحرب"
+        }
+      ],
+      "answer": "a democracia",
+      "explanation": {
+        "pt": "'a democracia' significa 'democracy'.",
+        "en": "'a democracia' means 'democracy'.",
+        "ar": "تعني 'a democracia' 'الديمقراطية'."
+      },
+      "gen": "v1.8"
     }
   ],
   "speaking": {

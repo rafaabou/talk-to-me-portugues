@@ -35,9 +35,9 @@
       "en": "cool, fine, no worries",
       "ar": "تمام، على ما يُرام",
       "example": {
-        "pt": "Tô de boa, só um pouco quebrado esse mês.",
-        "en": "I'm fine, just a bit broke this month.",
-        "ar": "أنا بخير، لكن مفلس قليلًا هذا الشهر."
+        "pt": "Tudo de boa por aqui.",
+        "en": "All good around here.",
+        "ar": "كل شيء تمام هنا."
       }
     },
     {
@@ -46,9 +46,9 @@
       "en": "all good?",
       "ar": "تمام؟",
       "example": {
-        "pt": "E aí, parça, tudo beleza?",
-        "en": "Hey, buddy, everything good?",
-        "ar": "أهلًا يا رفيق، كل شيء تمام؟"
+        "pt": "Beleza? Então vamos.",
+        "en": "All good? Then let's go.",
+        "ar": "تمام؟ إذًا هيّا."
       }
     },
     {
@@ -57,9 +57,9 @@
       "en": "dude",
       "ar": "يا رجل",
       "example": {
-        "pt": "Pode deixar, cara. Tá tudo certo.",
-        "en": "Leave it to me, dude. Everything's fine.",
-        "ar": "اترك الأمر لي يا رجل. كل شيء على ما يُرام."
+        "pt": "Cara, olha isso!",
+        "en": "Dude, look at this!",
+        "ar": "يا رجل، انظر إلى هذا!"
       }
     },
     {
@@ -68,9 +68,9 @@
       "en": "bro",
       "ar": "يا أخي",
       "example": {
-        "pt": "E aí, parça, tudo beleza?",
-        "en": "Hey, buddy, everything good?",
-        "ar": "أهلًا يا رفيق، كل شيء تمام؟"
+        "pt": "Mano, que legal!",
+        "en": "Bro, how cool!",
+        "ar": "يا أخي، ما أروعه!"
       }
     },
     {
@@ -79,9 +79,9 @@
       "en": "money",
       "ar": "فلوس",
       "example": {
-        "pt": "E aí, parça, tudo beleza?",
-        "en": "Hey, buddy, everything good?",
-        "ar": "أهلًا يا رفيق، كل شيء تمام؟"
+        "pt": "Não tenho grana hoje.",
+        "en": "I don't have money today.",
+        "ar": "ليس معي فلوس اليوم."
       }
     },
     {
@@ -90,9 +90,9 @@
       "en": "got it?",
       "ar": "فهمت؟",
       "example": {
-        "pt": "E aí, parça, tudo beleza?",
-        "en": "Hey, buddy, everything good?",
-        "ar": "أهلًا يا رفيق، كل شيء تمام؟"
+        "pt": "Entendeu, sacou?",
+        "en": "You got it?",
+        "ar": "فهمت، أمسكت بالفكرة؟"
       }
     },
     {
@@ -101,9 +101,9 @@
       "en": "you know?",
       "ar": "تعرف؟",
       "example": {
-        "pt": "Mó legal esse visual, tá ligado?",
-        "en": "That view is really cool, you know?",
-        "ar": "هذا المنظر رائع جدًا، تعرف؟"
+        "pt": "Oi, tá ligado?",
+        "en": "Hi, you know?",
+        "ar": "أهلًا، تعرف؟"
       }
     },
     {
@@ -112,9 +112,9 @@
       "en": "to joke around, tease",
       "ar": "يهزأ، يستهزئ",
       "example": {
-        "pt": "Falou! Mas não deixa ninguém zoar com a gente, hein?",
-        "en": "Alright! But don't let anyone mess with us, ok?",
-        "ar": "تمام! لكن لا تدع أحدًا يسخر منا، اتفقنا؟"
+        "pt": "Ele tenta zoar todo mundo.",
+        "en": "He tries to tease everyone.",
+        "ar": "يحاول استهزاء الجميع."
       }
     },
     {
@@ -123,9 +123,9 @@
       "en": "drama, feud",
       "ar": "مشكلة، خلاف",
       "example": {
-        "pt": "Rolou uma treta na festa.",
-        "en": "There was drama at the party.",
-        "ar": "وقع شجار في الحفلة."
+        "pt": "Teve uma treta ontem.",
+        "en": "There was drama yesterday.",
+        "ar": "كان هناك خلاف أمس."
       }
     },
     {
@@ -134,9 +134,9 @@
       "en": "upset, concerned",
       "ar": "منزعج، قلق",
       "example": {
-        "pt": "Ficou todo mundo bolado com a notícia.",
-        "en": "Everyone got upset with the news.",
-        "ar": "أصيب الجميع بالانزعاج بسبب الخبر."
+        "pt": "Fiquei bolado com a notícia.",
+        "en": "I got upset with the news.",
+        "ar": "انزعجت من الخبر."
       }
     },
     {
@@ -145,9 +145,9 @@
       "en": "very (slang)",
       "ar": "جدًا (عامية)",
       "example": {
-        "pt": "Mó legal esse visual, tá ligado?",
-        "en": "That view is really cool, you know?",
-        "ar": "هذا المنظر رائع جدًا، تعرف؟"
+        "pt": "Foi mó graça!",
+        "en": "It was so funny!",
+        "ar": "كان مضحكًا جدًا!"
       }
     },
     {
@@ -156,9 +156,9 @@
       "en": "pal, buddy",
       "ar": "رفيق",
       "example": {
-        "pt": "E aí, parça, tudo beleza?",
-        "en": "Hey, buddy, everything good?",
-        "ar": "أهلًا يا رفيق، كل شيء تمام؟"
+        "pt": "Ei, parça, vem cá!",
+        "en": "Pal, come here!",
+        "ar": "أيتها الرفيق، تعال هنا!"
       }
     },
     {
@@ -167,9 +167,9 @@
       "en": "I am (reduced)",
       "ar": "أنا (مختصر)",
       "example": {
-        "pt": "Tô de boa, só um pouco quebrado esse mês.",
-        "en": "I'm fine, just a bit broke this month.",
-        "ar": "أنا بخير، لكن مفلس قليلًا هذا الشهر."
+        "pt": "Tô chegando já.",
+        "en": "I'm arriving now.",
+        "ar": "سأصل الآن."
       }
     },
     {
@@ -178,9 +178,9 @@
       "en": "bye, alright",
       "ar": "مع السلامة، تمام",
       "example": {
-        "pt": "Falou! Mas não deixa ninguém zoar com a gente, hein?",
-        "en": "Alright! But don't let anyone mess with us, ok?",
-        "ar": "تمام! لكن لا تدع أحدًا يسخر منا، اتفقنا؟"
+        "pt": "Falou, até mais!",
+        "en": "Bye, see you!",
+        "ar": "مع السلامة، أراك!"
       }
     },
     {
@@ -189,9 +189,9 @@
       "en": "broke, without money",
       "ar": "مفلس",
       "example": {
-        "pt": "Tô de boa, só um pouco quebrado esse mês.",
-        "en": "I'm fine, just a bit broke this month.",
-        "ar": "أنا بخير، لكن مفلس قليلًا هذا الشهر."
+        "pt": "Estou quebrado este mês.",
+        "en": "I'm broke this month.",
+        "ar": "أنا مفلس هذا الشهر."
       }
     },
     {
@@ -200,9 +200,9 @@
       "en": "to hang out",
       "ar": "يخرج للتنزه",
       "example": {
-        "pt": "Vou dar um rolê com os manos.",
-        "en": "I'm going to hang out with the guys.",
-        "ar": "سأخرج للتنزه مع الرفاق."
+        "pt": "Quero dar um rolê hoje.",
+        "en": "I want to hang out today.",
+        "ar": "أريد أن أخرج للتنزه اليوم."
       }
     }
   ],
@@ -872,6 +872,257 @@
         "pt": "A frase correta: 'E aí, parça, tudo beleza?'",
         "en": "The correct sentence: 'E aí, parça, tudo beleza?'",
         "ar": "الجملة الصحيحة: 'E aí, parça, tudo beleza?'"
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'very (slang)'?",
+        "en": "Which word means 'very (slang)'?",
+        "ar": "أي كلمة تعني 'جدًا (عامية)'؟"
+      },
+      "options": [
+        {
+          "pt": "grana",
+          "en": "money",
+          "ar": "فلوس"
+        },
+        {
+          "pt": "parça",
+          "en": "pal, buddy",
+          "ar": "رفيق"
+        },
+        {
+          "pt": "tá ligado?",
+          "en": "you know?",
+          "ar": "تعرف؟"
+        },
+        {
+          "pt": "mó",
+          "en": "very (slang)",
+          "ar": "جدًا (عامية)"
+        }
+      ],
+      "answer": "mó",
+      "explanation": {
+        "pt": "'mó' significa 'very (slang)'.",
+        "en": "'mó' means 'very (slang)'.",
+        "ar": "تعني 'mó' 'جدًا (عامية)'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'upset, concerned'?",
+        "en": "Which word means 'upset, concerned'?",
+        "ar": "أي كلمة تعني 'منزعج، قلق'؟"
+      },
+      "options": [
+        {
+          "pt": "quebrado",
+          "en": "broke, without money",
+          "ar": "مفلس"
+        },
+        {
+          "pt": "bolado",
+          "en": "upset, concerned",
+          "ar": "منزعج، قلق"
+        },
+        {
+          "pt": "falou",
+          "en": "bye, alright",
+          "ar": "مع السلامة، تمام"
+        },
+        {
+          "pt": "grana",
+          "en": "money",
+          "ar": "فلوس"
+        }
+      ],
+      "answer": "bolado",
+      "explanation": {
+        "pt": "'bolado' significa 'upset, concerned'.",
+        "en": "'bolado' means 'upset, concerned'.",
+        "ar": "تعني 'bolado' 'منزعج، قلق'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"All good around here.\"",
+        "en": "Translate into Portuguese: \"All good around here.\"",
+        "ar": "ترجم إلى البرتغالية: \"كل شيء تمام هنا.\""
+      },
+      "options": [],
+      "answer": "Tudo de boa por aqui.",
+      "explanation": {
+        "pt": "Resposta: \"Tudo de boa por aqui.\".",
+        "en": "Answer: \"Tudo de boa por aqui.\". (EN: \"All good around here.\")",
+        "ar": "الإجابة: \"Tudo de boa por aqui.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"Alright! But don't let anyone mess with us, ok?\"",
+        "en": "Translate into Portuguese: \"Alright! But don't let anyone mess with us, ok?\"",
+        "ar": "ترجم إلى البرتغالية: \"تمام! لكن لا تدع أحدًا يسخر منا، اتفقنا؟\""
+      },
+      "options": [],
+      "answer": "Falou! Mas não deixa ninguém zoar com a gente, hein?",
+      "explanation": {
+        "pt": "Resposta: \"Falou! Mas não deixa ninguém zoar com a gente, hein?\".",
+        "en": "Answer: \"Falou! Mas não deixa ninguém zoar com a gente, hein?\". (EN: \"Alright! But don't let anyone mess with us, ok?\")",
+        "ar": "الإجابة: \"Falou! Mas não deixa ninguém zoar com a gente, hein?\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Estou ___ este mês.\"",
+        "en": "Complete: \"Estou ___ este mês.\"",
+        "ar": "أكمل: \"Estou ___ este mês.\""
+      },
+      "options": [
+        {
+          "pt": "beleza?",
+          "en": "beleza?",
+          "ar": "beleza?"
+        },
+        {
+          "pt": "sacou?",
+          "en": "sacou?",
+          "ar": "sacou?"
+        },
+        {
+          "pt": "quebrado",
+          "en": "quebrado",
+          "ar": "quebrado"
+        }
+      ],
+      "answer": "quebrado",
+      "explanation": {
+        "pt": "A lacuna é 'quebrado'.",
+        "en": "The blank is 'quebrado'.",
+        "ar": "الفراغ هو 'quebrado'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Teve uma ___ ontem.\"",
+        "en": "Complete: \"Teve uma ___ ontem.\"",
+        "ar": "أكمل: \"Teve uma ___ ontem.\""
+      },
+      "options": [
+        {
+          "pt": "grana",
+          "en": "grana",
+          "ar": "grana"
+        },
+        {
+          "pt": "mano",
+          "en": "mano",
+          "ar": "mano"
+        },
+        {
+          "pt": "treta",
+          "en": "treta",
+          "ar": "treta"
+        }
+      ],
+      "answer": "treta",
+      "explanation": {
+        "pt": "A lacuna é 'treta'.",
+        "en": "The blank is 'treta'.",
+        "ar": "الفراغ هو 'treta'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: \"I don't have money today.\"",
+        "en": "Type in Portuguese: \"I don't have money today.\"",
+        "ar": "اكتب بالبرتغالية: \"ليس معي فلوس اليوم.\""
+      },
+      "options": [],
+      "answer": "Não tenho grana hoje.",
+      "accepted": [
+        "Não tenho grana hoje."
+      ],
+      "explanation": {
+        "pt": "Resposta possível: \"Não tenho grana hoje.\".",
+        "en": "One possible answer: \"Não tenho grana hoje.\".",
+        "ar": "إجابة ممكنة: \"Não tenho grana hoje.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "esse",
+          "en": "esse",
+          "ar": "esse"
+        },
+        {
+          "pt": "boa,",
+          "en": "boa,",
+          "ar": "boa,"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "Tô",
+          "en": "Tô",
+          "ar": "Tô"
+        },
+        {
+          "pt": "um",
+          "en": "um",
+          "ar": "um"
+        },
+        {
+          "pt": "quebrado",
+          "en": "quebrado",
+          "ar": "quebrado"
+        },
+        {
+          "pt": "mês.",
+          "en": "mês.",
+          "ar": "mês."
+        },
+        {
+          "pt": "só",
+          "en": "só",
+          "ar": "só"
+        },
+        {
+          "pt": "pouco",
+          "en": "pouco",
+          "ar": "pouco"
+        }
+      ],
+      "answer": "Tô de boa, só um pouco quebrado esse mês.",
+      "gen": "v1.8",
+      "explanation": {
+        "pt": "A frase correta é: \"Tô de boa, só um pouco quebrado esse mês.\".",
+        "en": "The correct sentence is: \"Tô de boa, só um pouco quebrado esse mês.\".",
+        "ar": "الجملة الصحيحة هي: \"Tô de boa, só um pouco quebrado esse mês.\"."
       }
     }
   ],

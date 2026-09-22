@@ -35,9 +35,9 @@
       "en": "the climate",
       "ar": "المناخ",
       "example": {
-        "pt": "O céu está cheio de nuvens e o vento está forte.",
-        "en": "The sky is full of clouds and the wind is strong.",
-        "ar": "السماء مليئة بالغيوم والرياح قوية."
+        "pt": "O clima mudou muito.",
+        "en": "The climate changed a lot.",
+        "ar": "تغيّر المناخ كثيرًا."
       }
     },
     {
@@ -46,9 +46,9 @@
       "en": "the weather",
       "ar": "الطقس",
       "example": {
-        "pt": "O céu está cheio de nuvens e o vento está forte.",
-        "en": "The sky is full of clouds and the wind is strong.",
-        "ar": "السماء مليئة بالغيوم والرياح قوية."
+        "pt": "O tempo mudou rápido.",
+        "en": "The weather changed quickly.",
+        "ar": "تغيّر الطقس بسرعة."
       }
     },
     {
@@ -57,9 +57,9 @@
       "en": "the rain",
       "ar": "المطر",
       "example": {
-        "pt": "A primavera é uma estação bonita.",
-        "en": "Spring is a beautiful season.",
-        "ar": "الربيع فصل جميل."
+        "pt": "A chuva começou de repente.",
+        "en": "The rain started suddenly.",
+        "ar": "بدأ المطر فجأة."
       }
     },
     {
@@ -68,9 +68,9 @@
       "en": "to rain",
       "ar": "يمطر",
       "example": {
-        "pt": "Sim, mas à noite vai chover.",
-        "en": "Yes, but it is going to rain tonight.",
-        "ar": "نعم، لكنها ستمطر في الليل."
+        "pt": "Vai chover amanhã.",
+        "en": "It will rain tomorrow.",
+        "ar": "سيمطر غدًا."
       }
     },
     {
@@ -79,9 +79,9 @@
       "en": "the sun",
       "ar": "الشمس",
       "example": {
-        "pt": "O céu está cheio de nuvens e o vento está forte.",
-        "en": "The sky is full of clouds and the wind is strong.",
-        "ar": "السماء مليئة بالغيوم والرياح قوية."
+        "pt": "O sol brilha forte.",
+        "en": "The sun shines brightly.",
+        "ar": "تشرق الشمس بقوة."
       }
     },
     {
@@ -90,9 +90,9 @@
       "en": "the cloud",
       "ar": "السحابة",
       "example": {
-        "pt": "A primavera é uma estação bonita.",
-        "en": "Spring is a beautiful season.",
-        "ar": "الربيع فصل جميل."
+        "pt": "A nuvem está escura.",
+        "en": "The cloud is dark.",
+        "ar": "السحابة داكنة."
       }
     },
     {
@@ -101,9 +101,9 @@
       "en": "the wind",
       "ar": "الرياح",
       "example": {
-        "pt": "O céu está cheio de nuvens e o vento está forte.",
-        "en": "The sky is full of clouds and the wind is strong.",
-        "ar": "السماء مليئة بالغيوم والرياح قوية."
+        "pt": "O vento está forte.",
+        "en": "The wind is strong.",
+        "ar": "الرياح قوية."
       }
     },
     {
@@ -112,9 +112,9 @@
       "en": "the heat",
       "ar": "الحر",
       "example": {
-        "pt": "O céu está cheio de nuvens e o vento está forte.",
-        "en": "The sky is full of clouds and the wind is strong.",
-        "ar": "السماء مليئة بالغيوم والرياح قوية."
+        "pt": "Faz muito calor hoje.",
+        "en": "It's very hot today.",
+        "ar": "الجو حار جدًا اليوم."
       }
     },
     {
@@ -123,9 +123,9 @@
       "en": "the cold",
       "ar": "البرد",
       "example": {
-        "pt": "O céu está cheio de nuvens e o vento está forte.",
-        "en": "The sky is full of clouds and the wind is strong.",
-        "ar": "السماء مليئة بالغيوم والرياح قوية."
+        "pt": "O frio me incomoda.",
+        "en": "The cold bothers me.",
+        "ar": "البرد يزعجني."
       }
     },
     {
@@ -134,9 +134,9 @@
       "en": "the temperature",
       "ar": "درجة الحرارة",
       "example": {
-        "pt": "A primavera é uma estação bonita.",
-        "en": "Spring is a beautiful season.",
-        "ar": "الربيع فصل جميل."
+        "pt": "A temperatura caiu à noite.",
+        "en": "The temperature dropped at night.",
+        "ar": "انخفضتدرجة الحرارة ليلًا."
       }
     },
     {
@@ -145,9 +145,9 @@
       "en": "the season",
       "ar": "الفصل",
       "example": {
-        "pt": "A primavera é uma estação bonita.",
-        "en": "Spring is a beautiful season.",
-        "ar": "الربيع فصل جميل."
+        "pt": "A estação das chuvas começou.",
+        "en": "The rainy season has begun.",
+        "ar": "بدأ موسم الأمطار."
       }
     },
     {
@@ -156,9 +156,9 @@
       "en": "the spring",
       "ar": "الربيع",
       "example": {
-        "pt": "A primavera é uma estação bonita.",
-        "en": "Spring is a beautiful season.",
-        "ar": "الربيع فصل جميل."
+        "pt": "A primavera é bonita.",
+        "en": "Spring is beautiful.",
+        "ar": "الربيع جميل."
       }
     },
     {
@@ -167,9 +167,9 @@
       "en": "the summer",
       "ar": "الصيف",
       "example": {
-        "pt": "O céu está cheio de nuvens e o vento está forte.",
-        "en": "The sky is full of clouds and the wind is strong.",
-        "ar": "السماء مليئة بالغيوم والرياح قوية."
+        "pt": "O verão é quente.",
+        "en": "Summer is hot.",
+        "ar": "الصيف حار."
       }
     },
     {
@@ -178,9 +178,9 @@
       "en": "the autumn",
       "ar": "الخريف",
       "example": {
-        "pt": "O céu está cheio de nuvens e o vento está forte.",
-        "en": "The sky is full of clouds and the wind is strong.",
-        "ar": "السماء مليئة بالغيوم والرياح قوية."
+        "pt": "As folhas caem no outono.",
+        "en": "The leaves fall in autumn.",
+        "ar": "تتساقط الأوراق في الخريف."
       }
     },
     {
@@ -189,9 +189,9 @@
       "en": "the winter",
       "ar": "الشتاء",
       "example": {
-        "pt": "O céu está cheio de nuvens e o vento está forte.",
-        "en": "The sky is full of clouds and the wind is strong.",
-        "ar": "السماء مليئة بالغيوم والرياح قوية."
+        "pt": "O inverno é frio.",
+        "en": "Winter is cold.",
+        "ar": "الشتاء بارد."
       }
     },
     {
@@ -200,9 +200,9 @@
       "en": "humid",
       "ar": "رطب",
       "example": {
-        "pt": "Que calor hoje! Está fazendo trinta e cinco graus.",
-        "en": "It is so hot today! It is thirty-five degrees.",
-        "ar": "يا له من حر اليوم! درجة الحرارة خمس وثلاثون درجة."
+        "pt": "O ar está úmido.",
+        "en": "The air is humid.",
+        "ar": "الهواء رطب."
       }
     },
     {
@@ -211,9 +211,9 @@
       "en": "dry",
       "ar": "جاف",
       "example": {
-        "pt": "Que calor hoje! Está fazendo trinta e cinco graus.",
-        "en": "It is so hot today! It is thirty-five degrees.",
-        "ar": "يا له من حر اليوم! درجة الحرارة خمس وثلاثون درجة."
+        "pt": "O pano ficou seco.",
+        "en": "The cloth got dry.",
+        "ar": "جفّ القماش."
       }
     },
     {
@@ -222,9 +222,9 @@
       "en": "the umbrella",
       "ar": "المظلة",
       "example": {
-        "pt": "O céu está cheio de nuvens e o vento está forte.",
-        "en": "The sky is full of clouds and the wind is strong.",
-        "ar": "السماء مليئة بالغيوم والرياح قوية."
+        "pt": "Esqueci o guarda-chuva em casa.",
+        "en": "I forgot the umbrella at home.",
+        "ar": "نسيت المظلة في المنزل."
       }
     }
   ],
@@ -924,6 +924,227 @@
         "pt": "A frase correta: 'Que calor hoje! Está fazendo trinta e cinco graus.'",
         "en": "The correct sentence: 'Que calor hoje! Está fazendo trinta e cinco graus.'",
         "ar": "الجملة الصحيحة: 'Que calor hoje! Está fazendo trinta e cinco graus.'"
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the cloud'?",
+        "en": "Which word means 'the cloud'?",
+        "ar": "أي كلمة تعني 'السحابة'؟"
+      },
+      "options": [
+        {
+          "pt": "o sol",
+          "en": "the sun",
+          "ar": "الشمس"
+        },
+        {
+          "pt": "a nuvem",
+          "en": "the cloud",
+          "ar": "السحابة"
+        },
+        {
+          "pt": "o outono",
+          "en": "the autumn",
+          "ar": "الخريف"
+        },
+        {
+          "pt": "a chuva",
+          "en": "the rain",
+          "ar": "المطر"
+        }
+      ],
+      "answer": "a nuvem",
+      "explanation": {
+        "pt": "'a nuvem' significa 'the cloud'.",
+        "en": "'a nuvem' means 'the cloud'.",
+        "ar": "تعني 'a nuvem' 'السحابة'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the winter'?",
+        "en": "Which word means 'the winter'?",
+        "ar": "أي كلمة تعني 'الشتاء'؟"
+      },
+      "options": [
+        {
+          "pt": "chover",
+          "en": "to rain",
+          "ar": "يمطر"
+        },
+        {
+          "pt": "o inverno",
+          "en": "the winter",
+          "ar": "الشتاء"
+        },
+        {
+          "pt": "o guarda-chuva",
+          "en": "the umbrella",
+          "ar": "المظلة"
+        }
+      ],
+      "answer": "o inverno",
+      "explanation": {
+        "pt": "'o inverno' significa 'the winter'.",
+        "en": "'o inverno' means 'the winter'.",
+        "ar": "تعني 'o inverno' 'الشتاء'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"The weather changed quickly.\"",
+        "en": "Translate into Portuguese: \"The weather changed quickly.\"",
+        "ar": "ترجم إلى البرتغالية: \"تغيّر الطقس بسرعة.\""
+      },
+      "options": [],
+      "answer": "O tempo mudou rápido.",
+      "explanation": {
+        "pt": "Resposta: \"O tempo mudou rápido.\".",
+        "en": "Answer: \"O tempo mudou rápido.\". (EN: \"The weather changed quickly.\")",
+        "ar": "الإجابة: \"O tempo mudou rápido.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"The sun shines brightly.\"",
+        "en": "Translate into Portuguese: \"The sun shines brightly.\"",
+        "ar": "ترجم إلى البرتغالية: \"تشرق الشمس بقوة.\""
+      },
+      "options": [],
+      "answer": "O sol brilha forte.",
+      "explanation": {
+        "pt": "Resposta: \"O sol brilha forte.\".",
+        "en": "Answer: \"O sol brilha forte.\". (EN: \"The sun shines brightly.\")",
+        "ar": "الإجابة: \"O sol brilha forte.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"O ar está ___.\"",
+        "en": "Complete: \"O ar está ___.\"",
+        "ar": "أكمل: \"O ar está ___.\""
+      },
+      "options": [
+        {
+          "pt": "úmido",
+          "en": "úmido",
+          "ar": "úmido"
+        },
+        {
+          "pt": "o clima",
+          "en": "o clima",
+          "ar": "o clima"
+        },
+        {
+          "pt": "o calor",
+          "en": "o calor",
+          "ar": "o calor"
+        }
+      ],
+      "answer": "úmido",
+      "explanation": {
+        "pt": "A lacuna é 'úmido'.",
+        "en": "The blank is 'úmido'.",
+        "ar": "الفراغ هو 'úmido'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"As folhas caem n___.\"",
+        "en": "Complete: \"As folhas caem n___.\"",
+        "ar": "أكمل: \"As folhas caem n___.\""
+      },
+      "options": [
+        {
+          "pt": "chover",
+          "en": "chover",
+          "ar": "chover"
+        },
+        {
+          "pt": "o outono",
+          "en": "o outono",
+          "ar": "o outono"
+        },
+        {
+          "pt": "o tempo",
+          "en": "o tempo",
+          "ar": "o tempo"
+        }
+      ],
+      "answer": "o outono",
+      "explanation": {
+        "pt": "A lacuna é 'o outono'.",
+        "en": "The blank is 'o outono'.",
+        "ar": "الفراغ هو 'o outono'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: \"The rainy season has begun.\"",
+        "en": "Type in Portuguese: \"The rainy season has begun.\"",
+        "ar": "اكتب بالبرتغالية: \"بدأ موسم الأمطار.\""
+      },
+      "options": [],
+      "answer": "A estação das chuvas começou.",
+      "accepted": [
+        "A estação das chuvas começou."
+      ],
+      "explanation": {
+        "pt": "Resposta possível: \"A estação das chuvas começou.\".",
+        "en": "One possible answer: \"A estação das chuvas começou.\".",
+        "ar": "إجابة ممكنة: \"A estação das chuvas começou.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "forte.",
+          "en": "forte.",
+          "ar": "forte."
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "está",
+          "en": "está",
+          "ar": "está"
+        },
+        {
+          "pt": "vento",
+          "en": "vento",
+          "ar": "vento"
+        }
+      ],
+      "answer": "O vento está forte.",
+      "gen": "v1.8",
+      "explanation": {
+        "pt": "A frase correta é: \"O vento está forte.\".",
+        "en": "The correct sentence is: \"O vento está forte.\".",
+        "ar": "الجملة الصحيحة هي: \"O vento está forte.\"."
       }
     }
   ],

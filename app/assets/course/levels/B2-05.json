@@ -35,9 +35,9 @@
       "en": "if I could",
       "ar": "لو استطعت",
       "example": {
-        "pt": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
-        "en": "If you could live anywhere in the world, where would you live?",
-        "ar": "لو استطعت العيش في أي مكان في العالم، أين كنت ستعيش؟"
+        "pt": "Se eu pudesse, aprenderia mais.",
+        "en": "If I could, I would learn more.",
+        "ar": "لو أستطيع، سأتعلم أكثر."
       }
     },
     {
@@ -46,9 +46,9 @@
       "en": "if I had",
       "ar": "لو كان لدي",
       "example": {
-        "pt": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
-        "en": "If you could live anywhere in the world, where would you live?",
-        "ar": "لو استطعت العيش في أي مكان في العالم، أين كنت ستعيش؟"
+        "pt": "Se eu tivesse dinheiro, compraria.",
+        "en": "If I had money, I would buy.",
+        "ar": "لو كان لدي مال، لاشتريت."
       }
     },
     {
@@ -57,9 +57,9 @@
       "en": "if I were",
       "ar": "لو كنت",
       "example": {
-        "pt": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
-        "en": "If you could live anywhere in the world, where would you live?",
-        "ar": "لو استطعت العيش في أي مكان في العالم، أين كنت ستعيش؟"
+        "pt": "Se eu fosse você, esperaria.",
+        "en": "If I were you, I would wait.",
+        "ar": "لو كنت مكانك، لانتظرت."
       }
     },
     {
@@ -68,9 +68,9 @@
       "en": "(that I) spoke",
       "ar": "(أن) أتكلم",
       "example": {
-        "pt": "Eu gostaria que você falasse com ele.",
-        "en": "I would like you to speak with him.",
-        "ar": "كنت أود أن تتحدث معه."
+        "pt": "Parecia que eu falasse sozinho.",
+        "en": "It seemed like I was talking to myself.",
+        "ar": "بدا أني أتحدث وحدي."
       }
     },
     {
@@ -79,9 +79,9 @@
       "en": "(that I) knew",
       "ar": "(أن) أعرف",
       "example": {
-        "pt": "Ele age como se soubesse tudo.",
-        "en": "He acts as if he knew everything.",
-        "ar": "يتصرف كما لو كان يعرف كل شيء."
+        "pt": "Se eu soubesse, te diria.",
+        "en": "If I knew, I would tell you.",
+        "ar": "لو كنت أعرف، لأخبرتك."
       }
     },
     {
@@ -90,9 +90,9 @@
       "en": "(that I) wanted",
       "ar": "(أن) أريد",
       "example": {
-        "pt": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
-        "en": "If you could live anywhere in the world, where would you live?",
-        "ar": "لو استطعت العيش في أي مكان في العالم، أين كنت ستعيش؟"
+        "pt": "Ele faria o que eu quisesse.",
+        "en": "He would do what I wanted.",
+        "ar": "سيفعل ما أريد."
       }
     },
     {
@@ -101,9 +101,9 @@
       "en": "(that I) could",
       "ar": "(أن) أستطيع",
       "example": {
-        "pt": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
-        "en": "If you could live anywhere in the world, where would you live?",
-        "ar": "لو استطعت العيش في أي مكان في العالم، أين كنت ستعيش؟"
+        "pt": "Ele disse que eu pudesse escolher.",
+        "en": "He said I could choose.",
+        "ar": "قال إنه يمكنني الاختيار."
       }
     },
     {
@@ -112,9 +112,9 @@
       "en": "had time",
       "ar": "كان لديه وقت",
       "example": {
-        "pt": "Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.",
-        "en": "I would choose Rio de Janeiro, if I had the chance.",
-        "ar": "سأختار ريو دي جانيرو، لو سنحت لي الفرصة."
+        "pt": "Como seria bom se eu tivesse tempo!",
+        "en": "How good it would be if I had time!",
+        "ar": "كم سيكون رائعًا لو كان لدي وقت!"
       }
     },
     {
@@ -123,9 +123,9 @@
       "en": "(that I) preferred",
       "ar": "(أن) أفضل",
       "example": {
-        "pt": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
-        "en": "If you could live anywhere in the world, where would you live?",
-        "ar": "لو استطعت العيش في أي مكان في العالم، أين كنت ستعيش؟"
+        "pt": "Talvez eu preferisse outro caminho.",
+        "en": "Maybe I would prefer another path.",
+        "ar": "ربما كنت سأفضل طريقًا آخر."
       }
     },
     {
@@ -134,9 +134,9 @@
       "en": "(that I) did",
       "ar": "(أن) أفعل",
       "example": {
-        "pt": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
-        "en": "If you could live anywhere in the world, where would you live?",
-        "ar": "لو استطعت العيش في أي مكان في العالم، أين كنت ستعيش؟"
+        "pt": "Era como se eu fizesse nada.",
+        "en": "It was as if I were doing nothing.",
+        "ar": "كان وكأنني لا أفعل شيئًا."
       }
     },
     {
@@ -145,9 +145,9 @@
       "en": "would like",
       "ar": "كنت أرغب",
       "example": {
-        "pt": "Eu também gostaria de morar perto do mar.",
-        "en": "I would also like to live near the sea.",
-        "ar": "أود أيضًا أن أسكن قرب البحر."
+        "pt": "Eu gostaria de uma chance.",
+        "en": "I would like a chance.",
+        "ar": "أودّ فرصة."
       }
     },
     {
@@ -156,9 +156,9 @@
       "en": "would do",
       "ar": "كنت أفعل",
       "example": {
-        "pt": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
-        "en": "If you could live anywhere in the world, where would you live?",
-        "ar": "لو استطعت العيش في أي مكان في العالم، أين كنت ستعيش؟"
+        "pt": "Eu faria o mesmo.",
+        "en": "I would do the same.",
+        "ar": "سأفعل الشيء نفسه."
       }
     },
     {
@@ -167,9 +167,9 @@
       "en": "as if",
       "ar": "كما لو",
       "example": {
-        "pt": "Ele age como se soubesse tudo.",
-        "en": "He acts as if he knew everything.",
-        "ar": "يتصرف كما لو كان يعرف كل شيء."
+        "pt": "Agia como se nada houvesse.",
+        "en": "He acted as if nothing had happened.",
+        "ar": "تصرّف وكأن شيئًا لم يكن."
       }
     },
     {
@@ -178,9 +178,9 @@
       "en": "although",
       "ar": "على الرغم من أن",
       "example": {
-        "pt": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
-        "en": "If you could live anywhere in the world, where would you live?",
-        "ar": "لو استطعت العيش في أي مكان في العالم، أين كنت ستعيش؟"
+        "pt": "Embora estivesse cansado, saiu.",
+        "en": "Although he was tired, he went out.",
+        "ar": "رغم أنه كان متعبًا، خرج."
       }
     },
     {
@@ -189,9 +189,9 @@
       "en": "maybe it were",
       "ar": "ربما كان",
       "example": {
-        "pt": "Talvez fosse melhor ficar no Brasil mesmo.",
-        "en": "Maybe it would be better to stay in Brazil after all.",
-        "ar": "ربما كان من الأفضل البقاء في البرازيل أصلًا."
+        "pt": "Talvez fosse melhor assim.",
+        "en": "Maybe it would be better this way.",
+        "ar": "ربما كان هذا أفضل."
       }
     },
     {
@@ -200,9 +200,9 @@
       "en": "if I were you",
       "ar": "لو كنت مكانك",
       "example": {
-        "pt": "Se você pudesse viver em qualquer lugar do mundo, onde moraria?",
-        "en": "If you could live anywhere in the world, where would you live?",
-        "ar": "لو استطعت العيش في أي مكان في العالم، أين كنت ستعيش؟"
+        "pt": "Se fosse você, não faria.",
+        "en": "If I were you, I wouldn't do it.",
+        "ar": "لو كنت مكانك، لما فعلت."
       }
     }
   ],
@@ -932,6 +932,227 @@
         "pt": "A frase correta: 'Se você pudesse viver em qualquer lugar do mundo, onde moraria?'",
         "en": "The correct sentence: 'Se você pudesse viver em qualquer lugar do mundo, onde moraria?'",
         "ar": "الجملة الصحيحة: 'Se você pudesse viver em qualquer lugar do mundo, onde moraria?'"
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'had time'?",
+        "en": "Which word means 'had time'?",
+        "ar": "أي كلمة تعني 'كان لديه وقت'؟"
+      },
+      "options": [
+        {
+          "pt": "faria",
+          "en": "would do",
+          "ar": "كنت أفعل"
+        },
+        {
+          "pt": "preferisse",
+          "en": "(that I) preferred",
+          "ar": "(أن) أفضل"
+        },
+        {
+          "pt": "tivesse tempo",
+          "en": "had time",
+          "ar": "كان لديه وقت"
+        }
+      ],
+      "answer": "tivesse tempo",
+      "explanation": {
+        "pt": "'tivesse tempo' significa 'had time'.",
+        "en": "'tivesse tempo' means 'had time'.",
+        "ar": "تعني 'tivesse tempo' 'كان لديه وقت'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa '(that I) spoke'?",
+        "en": "Which word means '(that I) spoke'?",
+        "ar": "أي كلمة تعني '(أن) أتكلم'؟"
+      },
+      "options": [
+        {
+          "pt": "se eu tivesse",
+          "en": "if I had",
+          "ar": "لو كان لدي"
+        },
+        {
+          "pt": "embora",
+          "en": "although",
+          "ar": "على الرغم من أن"
+        },
+        {
+          "pt": "falasse",
+          "en": "(that I) spoke",
+          "ar": "(أن) أتكلم"
+        }
+      ],
+      "answer": "falasse",
+      "explanation": {
+        "pt": "'falasse' significa '(that I) spoke'.",
+        "en": "'falasse' means '(that I) spoke'.",
+        "ar": "تعني 'falasse' '(أن) أتكلم'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"I would choose Rio de Janeiro, if I had the chance.\"",
+        "en": "Translate into Portuguese: \"I would choose Rio de Janeiro, if I had the chance.\"",
+        "ar": "ترجم إلى البرتغالية: \"سأختار ريو دي جانيرو، لو سنحت لي الفرصة.\""
+      },
+      "options": [],
+      "answer": "Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.",
+      "explanation": {
+        "pt": "Resposta: \"Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.\".",
+        "en": "Answer: \"Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.\". (EN: \"I would choose Rio de Janeiro, if I had the chance.\")",
+        "ar": "الإجابة: \"Eu escolheria o Rio de Janeiro, se tivesse a oportunidade.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"He acted as if nothing had happened.\"",
+        "en": "Translate into Portuguese: \"He acted as if nothing had happened.\"",
+        "ar": "ترجم إلى البرتغالية: \"تصرّف وكأن شيئًا لم يكن.\""
+      },
+      "options": [],
+      "answer": "Agia como se nada houvesse.",
+      "explanation": {
+        "pt": "Resposta: \"Agia como se nada houvesse.\".",
+        "en": "Answer: \"Agia como se nada houvesse.\". (EN: \"He acted as if nothing had happened.\")",
+        "ar": "الإجابة: \"Agia como se nada houvesse.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Agia ___ nada houvesse.\"",
+        "en": "Complete: \"Agia ___ nada houvesse.\"",
+        "ar": "أكمل: \"Agia ___ nada houvesse.\""
+      },
+      "options": [
+        {
+          "pt": "como se",
+          "en": "como se",
+          "ar": "como se"
+        },
+        {
+          "pt": "pudesse",
+          "en": "pudesse",
+          "ar": "pudesse"
+        },
+        {
+          "pt": "se eu tivesse",
+          "en": "se eu tivesse",
+          "ar": "se eu tivesse"
+        }
+      ],
+      "answer": "como se",
+      "explanation": {
+        "pt": "A lacuna é 'como se'.",
+        "en": "The blank is 'como se'.",
+        "ar": "الفراغ هو 'como se'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Como seria bom se eu ___!\"",
+        "en": "Complete: \"Como seria bom se eu ___!\"",
+        "ar": "أكمل: \"Como seria bom se eu ___!\""
+      },
+      "options": [
+        {
+          "pt": "quisesse",
+          "en": "quisesse",
+          "ar": "quisesse"
+        },
+        {
+          "pt": "se eu pudesse",
+          "en": "se eu pudesse",
+          "ar": "se eu pudesse"
+        },
+        {
+          "pt": "tivesse tempo",
+          "en": "tivesse tempo",
+          "ar": "tivesse tempo"
+        }
+      ],
+      "answer": "tivesse tempo",
+      "explanation": {
+        "pt": "A lacuna é 'tivesse tempo'.",
+        "en": "The blank is 'tivesse tempo'.",
+        "ar": "الفراغ هو 'tivesse tempo'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: \"If I were you, I would wait.\"",
+        "en": "Type in Portuguese: \"If I were you, I would wait.\"",
+        "ar": "اكتب بالبرتغالية: \"لو كنت مكانك، لانتظرت.\""
+      },
+      "options": [],
+      "answer": "Se eu fosse você, esperaria.",
+      "accepted": [
+        "Se eu fosse você, esperaria."
+      ],
+      "explanation": {
+        "pt": "Resposta possível: \"Se eu fosse você, esperaria.\".",
+        "en": "One possible answer: \"Se eu fosse você, esperaria.\".",
+        "ar": "إجابة ممكنة: \"Se eu fosse você, esperaria.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "não",
+          "en": "não",
+          "ar": "não"
+        },
+        {
+          "pt": "faria.",
+          "en": "faria.",
+          "ar": "faria."
+        },
+        {
+          "pt": "Se",
+          "en": "Se",
+          "ar": "Se"
+        },
+        {
+          "pt": "você,",
+          "en": "você,",
+          "ar": "você,"
+        },
+        {
+          "pt": "fosse",
+          "en": "fosse",
+          "ar": "fosse"
+        }
+      ],
+      "answer": "Se fosse você, não faria.",
+      "gen": "v1.8",
+      "explanation": {
+        "pt": "A frase correta é: \"Se fosse você, não faria.\".",
+        "en": "The correct sentence is: \"Se fosse você, não faria.\".",
+        "ar": "الجملة الصحيحة هي: \"Se fosse você, não faria.\"."
       }
     }
   ],

@@ -40,9 +40,9 @@
       "en": "although",
       "ar": "على الرغم من",
       "example": {
-        "pt": "Embora esteja cansado, vou continuar o projeto.",
-        "en": "Although I am tired, I will continue the project.",
-        "ar": "على الرغم من أنني متعب، سأواصل المشروع."
+        "pt": "Embora chova, vamos sair.",
+        "en": "Although it's raining, we'll go out.",
+        "ar": "رغم أنها تمطر، سنخرج."
       }
     },
     {
@@ -51,9 +51,9 @@
       "en": "even though",
       "ar": "حتى لو",
       "example": {
-        "pt": "Para que dê certo, precisamos decidir ainda esta semana.",
-        "en": "For it to work out, we need to decide this week.",
-        "ar": "لكي ينجح الأمر، علينا أن نقرر هذا الأسبوع."
+        "pt": "Vou ir ainda que seja difícil.",
+        "en": "I'll go even if it's hard.",
+        "ar": "سأذهب حتى لو كان صعبًا."
       }
     },
     {
@@ -62,9 +62,9 @@
       "en": "even if",
       "ar": "حتى وإن",
       "example": {
-        "pt": "Mesmo que custe mais, prefiro ir em julho.",
-        "en": "Even if it costs more, I prefer to go in July.",
-        "ar": "حتى لو كلفت أكثر، أفضل الذهاب في يوليو."
+        "pt": "Vou estudar mesmo que canse.",
+        "en": "I'll study even if it's tiring.",
+        "ar": "سأدرس حتى لو كان مُرهِقًا."
       }
     },
     {
@@ -73,9 +73,9 @@
       "en": "as long as",
       "ar": "بشرط أن",
       "example": {
-        "pt": "Contanto que eu organize tudo, dá para tentar.",
-        "en": "As long as I arrange everything, we can try.",
-        "ar": "بشرط أن أنظم كل شيء، يمكننا أن نحاول."
+        "pt": "Aceito, contanto que melhore.",
+        "en": "I accept, as long as it improves.",
+        "ar": "أقبل، بشرط أن يتحسن."
       }
     },
     {
@@ -84,9 +84,9 @@
       "en": "unless",
       "ar": "ما لم",
       "example": {
-        "pt": "É possível que a viagem saia cara se formos em julho.",
-        "en": "The trip may be expensive if we go in July.",
-        "ar": "من الممكن أن تكون الرحلة مكلفة إذا ذهبنا في يوليو."
+        "pt": "Não saio a menos que seja preciso.",
+        "en": "I don't go out unless it's necessary.",
+        "ar": "لا أخرج إلا إذا كان ضروريًا."
       }
     },
     {
@@ -95,9 +95,9 @@
       "en": "provided that",
       "ar": "بشرط أن",
       "example": {
-        "pt": "É possível que a viagem saia cara se formos em julho.",
-        "en": "The trip may be expensive if we go in July.",
-        "ar": "من الممكن أن تكون الرحلة مكلفة إذا ذهبنا في يوليو."
+        "pt": "Aceito desde que seja justo.",
+        "en": "I accept provided that it's fair.",
+        "ar": "أقبل بشرط أن يكون عادلًا."
       }
     },
     {
@@ -106,9 +106,9 @@
       "en": "without",
       "ar": "من دون أن",
       "example": {
-        "pt": "É possível que a viagem saia cara se formos em julho.",
-        "en": "The trip may be expensive if we go in July.",
-        "ar": "من الممكن أن تكون الرحلة مكلفة إذا ذهبنا في يوليو."
+        "pt": "Saí sem que ninguém soubesse.",
+        "en": "I left without anyone knowing.",
+        "ar": "خرجت دون أن يعلم أحد."
       }
     },
     {
@@ -117,9 +117,9 @@
       "en": "so that",
       "ar": "لكي",
       "example": {
-        "pt": "Contanto que eu organize tudo, dá para tentar.",
-        "en": "As long as I arrange everything, we can try.",
-        "ar": "بشرط أن أنظم كل شيء، يمكننا أن نحاول."
+        "pt": "Estudo para que eu melhore.",
+        "en": "I study so that I improve.",
+        "ar": "أدرس لكي أفضل."
       }
     },
     {
@@ -128,9 +128,9 @@
       "en": "maybe",
       "ar": "ربما",
       "example": {
-        "pt": "A menos que você consiga folga, talvez não dê certo.",
-        "en": "Unless you get time off, it may not work out.",
-        "ar": "ما لم تحصلي على إجازة، ربما لا ينجح الأمر."
+        "pt": "Talvez ele não venha hoje.",
+        "en": "Maybe he won't come today.",
+        "ar": "ربما لا يأتي اليوم."
       }
     },
     {
@@ -139,9 +139,9 @@
       "en": "hopefully",
       "ar": "ليت، يا ليت",
       "example": {
-        "pt": "Tomara que encontremos passagens baratas.",
-        "en": "Hopefully we find cheap tickets.",
-        "ar": "ليتنا نجد تذاكر رخيصة."
+        "pt": "Tomara que ele chege logo.",
+        "en": "Hopefully he arrives soon.",
+        "ar": "ليت يصل قريبًا."
       }
     },
     {
@@ -150,9 +150,9 @@
       "en": "even so",
       "ar": "ومع ذلك",
       "example": {
-        "pt": "Mesmo que custe mais, prefiro ir em julho.",
-        "en": "Even if it costs more, I prefer to go in July.",
-        "ar": "حتى لو كلفت أكثر، أفضل الذهاب في يوليو."
+        "pt": "Estava cansado; mesmo assim, fui.",
+        "en": "I was tired; even so, I went.",
+        "ar": "كنت متعبًا؛ ومع ذلك ذهبت."
       }
     },
     {
@@ -161,9 +161,9 @@
       "en": "in order that",
       "ar": "من أجل أن",
       "example": {
-        "pt": "É possível que a viagem saia cara se formos em julho.",
-        "en": "The trip may be expensive if we go in July.",
-        "ar": "من الممكن أن تكون الرحلة مكلفة إذا ذهبنا في يوليو."
+        "pt": "Estudei a fim de que eu passasse.",
+        "en": "I studied in order that I might pass.",
+        "ar": "درست لكي أنجح."
       }
     },
     {
@@ -172,9 +172,9 @@
       "en": "in case",
       "ar": "في حال",
       "example": {
-        "pt": "É possível que a viagem saia cara se formos em julho.",
-        "en": "The trip may be expensive if we go in July.",
-        "ar": "من الممكن أن تكون الرحلة مكلفة إذا ذهبنا في يوليو."
+        "pt": "Ligo caso seja urgente.",
+        "en": "I'll call in case it's urgent.",
+        "ar": "سأتصل في حال كان عاجلًا."
       }
     },
     {
@@ -183,9 +183,9 @@
       "en": "although",
       "ar": "رغم أن",
       "example": {
-        "pt": "É possível que a viagem saia cara se formos em julho.",
-        "en": "The trip may be expensive if we go in July.",
-        "ar": "من الممكن أن تكون الرحلة مكلفة إذا ذهبنا في يوليو."
+        "pt": "Conquanto seja difícil, é possível.",
+        "en": "Although it's hard, it's possible.",
+        "ar": "رغم أنه صعب، إنها ممكنة."
       }
     },
     {
@@ -194,9 +194,9 @@
       "en": "may it be; (I) be",
       "ar": "يكون",
       "example": {
-        "pt": "É possível que a viagem saia cara se formos em julho.",
-        "en": "The trip may be expensive if we go in July.",
-        "ar": "من الممكن أن تكون الرحلة مكلفة إذا ذهبنا في يوليو."
+        "pt": "Seja o que for, estarei lá.",
+        "en": "Whatever happens, I'll be there.",
+        "ar": "مهما كان، سأكون هناك."
       }
     },
     {
@@ -205,9 +205,9 @@
       "en": "were",
       "ar": "كان",
       "example": {
-        "pt": "Quem dera que a vida fosse mais simples.",
-        "en": "If only life were simpler.",
-        "ar": "ليت الحياة أبسط."
+        "pt": "Ele falou como se eu fosse culpado.",
+        "en": "He spoke as if I were guilty.",
+        "ar": "تحدّث وكأنني مذنب."
       }
     }
   ],
@@ -937,6 +937,227 @@
         "pt": "A frase correta: 'É possível que a viagem saia cara se formos em julho.'",
         "en": "The correct sentence: 'É possível que a viagem saia cara se formos em julho.'",
         "ar": "الجملة الصحيحة: 'É possível que a viagem saia cara se formos em julho.'"
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'even if'?",
+        "en": "Which word means 'even if'?",
+        "ar": "أي كلمة تعني 'حتى وإن'؟"
+      },
+      "options": [
+        {
+          "pt": "a menos que",
+          "en": "unless",
+          "ar": "ما لم"
+        },
+        {
+          "pt": "mesmo que",
+          "en": "even if",
+          "ar": "حتى وإن"
+        },
+        {
+          "pt": "sem que",
+          "en": "without",
+          "ar": "من دون أن"
+        }
+      ],
+      "answer": "mesmo que",
+      "explanation": {
+        "pt": "'mesmo que' significa 'even if'.",
+        "en": "'mesmo que' means 'even if'.",
+        "ar": "تعني 'mesmo que' 'حتى وإن'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'in case'?",
+        "en": "Which word means 'in case'?",
+        "ar": "أي كلمة تعني 'في حال'؟"
+      },
+      "options": [
+        {
+          "pt": "seja",
+          "en": "may it be; (I) be",
+          "ar": "يكون"
+        },
+        {
+          "pt": "talvez",
+          "en": "maybe",
+          "ar": "ربما"
+        },
+        {
+          "pt": "caso",
+          "en": "in case",
+          "ar": "في حال"
+        }
+      ],
+      "answer": "caso",
+      "explanation": {
+        "pt": "'caso' significa 'in case'.",
+        "en": "'caso' means 'in case'.",
+        "ar": "تعني 'caso' 'في حال'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"Unless you get time off, it may not work out.\"",
+        "en": "Translate into Portuguese: \"Unless you get time off, it may not work out.\"",
+        "ar": "ترجم إلى البرتغالية: \"ما لم تحصلي على إجازة، ربما لا ينجح الأمر.\""
+      },
+      "options": [],
+      "answer": "A menos que você consiga folga, talvez não dê certo.",
+      "explanation": {
+        "pt": "Resposta: \"A menos que você consiga folga, talvez não dê certo.\".",
+        "en": "Answer: \"A menos que você consiga folga, talvez não dê certo.\". (EN: \"Unless you get time off, it may not work out.\")",
+        "ar": "الإجابة: \"A menos que você consiga folga, talvez não dê certo.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"I accept provided that it's fair.\"",
+        "en": "Translate into Portuguese: \"I accept provided that it's fair.\"",
+        "ar": "ترجم إلى البرتغالية: \"أقبل بشرط أن يكون عادلًا.\""
+      },
+      "options": [],
+      "answer": "Aceito desde que seja justo.",
+      "explanation": {
+        "pt": "Resposta: \"Aceito desde que seja justo.\".",
+        "en": "Answer: \"Aceito desde que seja justo.\". (EN: \"I accept provided that it's fair.\")",
+        "ar": "الإجابة: \"Aceito desde que seja justo.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Vou estudar ___ canse.\"",
+        "en": "Complete: \"Vou estudar ___ canse.\"",
+        "ar": "أكمل: \"Vou estudar ___ canse.\""
+      },
+      "options": [
+        {
+          "pt": "sem que",
+          "en": "sem que",
+          "ar": "sem que"
+        },
+        {
+          "pt": "contanto que",
+          "en": "contanto que",
+          "ar": "contanto que"
+        },
+        {
+          "pt": "mesmo que",
+          "en": "mesmo que",
+          "ar": "mesmo que"
+        }
+      ],
+      "answer": "mesmo que",
+      "explanation": {
+        "pt": "A lacuna é 'mesmo que'.",
+        "en": "The blank is 'mesmo que'.",
+        "ar": "الفراغ هو 'mesmo que'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Aceito, ___ melhore.\"",
+        "en": "Complete: \"Aceito, ___ melhore.\"",
+        "ar": "أكمل: \"Aceito, ___ melhore.\""
+      },
+      "options": [
+        {
+          "pt": "mesmo que",
+          "en": "mesmo que",
+          "ar": "mesmo que"
+        },
+        {
+          "pt": "contanto que",
+          "en": "contanto que",
+          "ar": "contanto que"
+        },
+        {
+          "pt": "para que",
+          "en": "para que",
+          "ar": "para que"
+        }
+      ],
+      "answer": "contanto que",
+      "explanation": {
+        "pt": "A lacuna é 'contanto que'.",
+        "en": "The blank is 'contanto que'.",
+        "ar": "الفراغ هو 'contanto que'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: \"Hopefully we find cheap tickets.\"",
+        "en": "Type in Portuguese: \"Hopefully we find cheap tickets.\"",
+        "ar": "اكتب بالبرتغالية: \"ليتنا نجد تذاكر رخيصة.\""
+      },
+      "options": [],
+      "answer": "Tomara que encontremos passagens baratas.",
+      "accepted": [
+        "Tomara que encontremos passagens baratas."
+      ],
+      "explanation": {
+        "pt": "Resposta possível: \"Tomara que encontremos passagens baratas.\".",
+        "en": "One possible answer: \"Tomara que encontremos passagens baratas.\".",
+        "ar": "إجابة ممكنة: \"Tomara que encontremos passagens baratas.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "mesmo",
+          "en": "mesmo",
+          "ar": "mesmo"
+        },
+        {
+          "pt": "Estava",
+          "en": "Estava",
+          "ar": "Estava"
+        },
+        {
+          "pt": "assim,",
+          "en": "assim,",
+          "ar": "assim,"
+        },
+        {
+          "pt": "fui.",
+          "en": "fui.",
+          "ar": "fui."
+        },
+        {
+          "pt": "cansado;",
+          "en": "cansado;",
+          "ar": "cansado;"
+        }
+      ],
+      "answer": "Estava cansado; mesmo assim, fui.",
+      "gen": "v1.8",
+      "explanation": {
+        "pt": "A frase correta é: \"Estava cansado; mesmo assim, fui.\".",
+        "en": "The correct sentence is: \"Estava cansado; mesmo assim, fui.\".",
+        "ar": "الجملة الصحيحة هي: \"Estava cansado; mesmo assim, fui.\"."
       }
     }
   ],

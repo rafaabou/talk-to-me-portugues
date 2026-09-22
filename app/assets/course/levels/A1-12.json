@@ -35,9 +35,9 @@
       "en": "hello / hi",
       "ar": "مرحبًا / أهلاً",
       "example": {
-        "pt": "Olá! Meu nome é Karim. Sou do Egito.",
-        "en": "Hello! My name is Karim. I'm from Egypt.",
-        "ar": "مرحبًا! اسمي كريم. أنا من مصر."
+        "pt": "Oi, prazer!",
+        "en": "Hi, nice to meet you!",
+        "ar": "أهلًا، سررت بلقائك!"
       }
     },
     {
@@ -46,9 +46,9 @@
       "en": "thank you (m/f)",
       "ar": "شكرًا (مذكر/مؤنث)",
       "example": {
-        "pt": "Sim, obrigado. Eu gostaria de um café com leite.",
-        "en": "Yes, thank you. I would like a coffee with milk.",
-        "ar": "نعم، شكرًا. أود قهوة بالحليب."
+        "pt": "Obrigado, professora.",
+        "en": "Thank you, teacher (f).",
+        "ar": "شكرًا يا أستاذة."
       }
     },
     {
@@ -57,9 +57,9 @@
       "en": "my name is",
       "ar": "اسمي",
       "example": {
-        "pt": "Olá! Meu nome é Karim. Sou do Egito.",
-        "en": "Hello! My name is Karim. I'm from Egypt.",
-        "ar": "مرحبًا! اسمي كريم. أنا من مصر."
+        "pt": "Meu nome é Carlos.",
+        "en": "My name is Carlos.",
+        "ar": "اسمي كارلوس."
       }
     },
     {
@@ -68,9 +68,9 @@
       "en": "I am",
       "ar": "أنا",
       "example": {
-        "pt": "Muito prazer, Karim! Eu sou a Marina.",
-        "en": "Nice to meet you, Karim! I'm Marina.",
-        "ar": "سررت بلقائك يا كريم! أنا مارينا."
+        "pt": "Eu sou o filho dela.",
+        "en": "I am her son.",
+        "ar": "أنا ابنها."
       }
     },
     {
@@ -79,9 +79,9 @@
       "en": "I have / I am (age)",
       "ar": "أملك / عمري",
       "example": {
-        "pt": "Muito prazer, Karim! Eu sou a Marina.",
-        "en": "Nice to meet you, Karim! I'm Marina.",
-        "ar": "سررت بلقائك يا كريم! أنا مارينا."
+        "pt": "Eu tenho vinte e cinco anos.",
+        "en": "I am twenty-five years old.",
+        "ar": "عمري خمس وعشرون سنة."
       }
     },
     {
@@ -90,9 +90,9 @@
       "en": "the family",
       "ar": "العائلة",
       "example": {
-        "pt": "Muito prazer, Karim! Eu sou a Marina.",
-        "en": "Nice to meet you, Karim! I'm Marina.",
-        "ar": "سررت بلقائك يا كريم! أنا مارينا."
+        "pt": "A família chegou agora.",
+        "en": "The family just arrived.",
+        "ar": "وصلت العائلة الآن."
       }
     },
     {
@@ -101,9 +101,9 @@
       "en": "the house",
       "ar": "المنزل",
       "example": {
-        "pt": "Muito prazer, Karim! Eu sou a Marina.",
-        "en": "Nice to meet you, Karim! I'm Marina.",
-        "ar": "سررت بلقائك يا كريم! أنا مارينا."
+        "pt": "Comprei a casa ontem.",
+        "en": "I bought the house yesterday.",
+        "ar": "اشتريت المنزل أمس."
       }
     },
     {
@@ -112,9 +112,9 @@
       "en": "to eat",
       "ar": "يأكل",
       "example": {
-        "pt": "Olá! Meu nome é Karim. Sou do Egito.",
-        "en": "Hello! My name is Karim. I'm from Egypt.",
-        "ar": "مرحبًا! اسمي كريم. أنا من مصر."
+        "pt": "Adoro comer pizza.",
+        "en": "I love eating pizza.",
+        "ar": "أحب أكل البيتزا."
       }
     },
     {
@@ -123,9 +123,9 @@
       "en": "to drink",
       "ar": "يشرب",
       "example": {
-        "pt": "Olá! Meu nome é Karim. Sou do Egito.",
-        "en": "Hello! My name is Karim. I'm from Egypt.",
-        "ar": "مرحبًا! اسمي كريم. أنا من مصر."
+        "pt": "Prefiro beber água.",
+        "en": "I prefer drinking water.",
+        "ar": "أفضل شرب الماء."
       }
     },
     {
@@ -134,9 +134,9 @@
       "en": "to speak",
       "ar": "يتكلم",
       "example": {
-        "pt": "Olá! Meu nome é Karim. Sou do Egito.",
-        "en": "Hello! My name is Karim. I'm from Egypt.",
-        "ar": "مرحبًا! اسمي كريم. أنا من مصر."
+        "pt": "É bom falar devagar.",
+        "en": "It's good to speak slowly.",
+        "ar": "من الجيد أن تتحدث ببطء."
       }
     },
     {
@@ -145,9 +145,9 @@
       "en": "to study",
       "ar": "يدرس",
       "example": {
-        "pt": "Olá! Meu nome é Karim. Sou do Egito.",
-        "en": "Hello! My name is Karim. I'm from Egypt.",
-        "ar": "مرحبًا! اسمي كريم. أنا من مصر."
+        "pt": "Vamos estudar juntos?",
+        "en": "Let's study together.",
+        "ar": "دعونا ندرس معًا."
       }
     },
     {
@@ -156,9 +156,9 @@
       "en": "the price",
       "ar": "السعر",
       "example": {
-        "pt": "O livro está na mesa, ao lado da caneta.",
-        "en": "The book is on the table, next to the pen.",
-        "ar": "الكتاب على الطاولة، بجانب القلم."
+        "pt": "Qual é o preço?",
+        "en": "What is the price?",
+        "ar": "ما السعر؟"
       }
     },
     {
@@ -167,9 +167,9 @@
       "en": "what time is it?",
       "ar": "كم الساعة؟",
       "example": {
-        "pt": "Que horas são?",
-        "en": "What time is it?",
-        "ar": "كم الساعة؟"
+        "pt": "Senhor, que horas são?",
+        "en": "Sir, what time is it?",
+        "ar": "سيدي، كم الساعة؟"
       }
     },
     {
@@ -178,9 +178,9 @@
       "en": "please",
       "ar": "من فضلك",
       "example": {
-        "pt": "Olá! Meu nome é Karim. Sou do Egito.",
-        "en": "Hello! My name is Karim. I'm from Egypt.",
-        "ar": "مرحبًا! اسمي كريم. أنا من مصر."
+        "pt": "Mais um café, por favor.",
+        "en": "One more coffee, please.",
+        "ar": "قهوة أخرى، من فضلك."
       }
     },
     {
@@ -189,9 +189,9 @@
       "en": "sorry",
       "ar": "آسف",
       "example": {
-        "pt": "Olá! Meu nome é Karim. Sou do Egito.",
-        "en": "Hello! My name is Karim. I'm from Egypt.",
-        "ar": "مرحبًا! اسمي كريم. أنا من مصر."
+        "pt": "Desculpa, não entendi.",
+        "en": "Sorry, I didn't understand.",
+        "ar": "آسف، لم أفهم."
       }
     }
   ],
@@ -883,6 +883,222 @@
         "pt": "A frase correta: 'Olá! Meu nome é Karim. Sou do Egito.'",
         "en": "The correct sentence: 'Olá! Meu nome é Karim. Sou do Egito.'",
         "ar": "الجملة الصحيحة: 'Olá! Meu nome é Karim. Sou do Egito.'"
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'to study'?",
+        "en": "Which word means 'to study'?",
+        "ar": "أي كلمة تعني 'يدرس'؟"
+      },
+      "options": [
+        {
+          "pt": "estudar",
+          "en": "to study",
+          "ar": "يدرس"
+        },
+        {
+          "pt": "a casa",
+          "en": "the house",
+          "ar": "المنزل"
+        },
+        {
+          "pt": "o preço",
+          "en": "the price",
+          "ar": "السعر"
+        }
+      ],
+      "answer": "estudar",
+      "explanation": {
+        "pt": "'estudar' significa 'to study'.",
+        "en": "'estudar' means 'to study'.",
+        "ar": "تعني 'estudar' 'يدرس'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the price'?",
+        "en": "Which word means 'the price'?",
+        "ar": "أي كلمة تعني 'السعر'؟"
+      },
+      "options": [
+        {
+          "pt": "desculpa",
+          "en": "sorry",
+          "ar": "آسف"
+        },
+        {
+          "pt": "que horas são?",
+          "en": "what time is it?",
+          "ar": "كم الساعة؟"
+        },
+        {
+          "pt": "o preço",
+          "en": "the price",
+          "ar": "السعر"
+        }
+      ],
+      "answer": "o preço",
+      "explanation": {
+        "pt": "'o preço' significa 'the price'.",
+        "en": "'o preço' means 'the price'.",
+        "ar": "تعني 'o preço' 'السعر'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"What is the price?\"",
+        "en": "Translate into Portuguese: \"What is the price?\"",
+        "ar": "ترجم إلى البرتغالية: \"ما السعر؟\""
+      },
+      "options": [],
+      "answer": "Qual é o preço?",
+      "explanation": {
+        "pt": "Resposta: \"Qual é o preço?\".",
+        "en": "Answer: \"Qual é o preço?\". (EN: \"What is the price?\")",
+        "ar": "الإجابة: \"Qual é o preço?\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"The family just arrived.\"",
+        "en": "Translate into Portuguese: \"The family just arrived.\"",
+        "ar": "ترجم إلى البرتغالية: \"وصلت العائلة الآن.\""
+      },
+      "options": [],
+      "answer": "A família chegou agora.",
+      "explanation": {
+        "pt": "Resposta: \"A família chegou agora.\".",
+        "en": "Answer: \"A família chegou agora.\". (EN: \"The family just arrived.\")",
+        "ar": "الإجابة: \"A família chegou agora.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"É bom ___ devagar.\"",
+        "en": "Complete: \"É bom ___ devagar.\"",
+        "ar": "أكمل: \"É bom ___ devagar.\""
+      },
+      "options": [
+        {
+          "pt": "eu sou",
+          "en": "eu sou",
+          "ar": "eu sou"
+        },
+        {
+          "pt": "meu nome é",
+          "en": "meu nome é",
+          "ar": "meu nome é"
+        },
+        {
+          "pt": "falar",
+          "en": "falar",
+          "ar": "falar"
+        }
+      ],
+      "answer": "falar",
+      "explanation": {
+        "pt": "A lacuna é 'falar'.",
+        "en": "The blank is 'falar'.",
+        "ar": "الفراغ هو 'falar'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Comprei ___ ontem.\"",
+        "en": "Complete: \"Comprei ___ ontem.\"",
+        "ar": "أكمل: \"Comprei ___ ontem.\""
+      },
+      "options": [
+        {
+          "pt": "a casa",
+          "en": "a casa",
+          "ar": "a casa"
+        },
+        {
+          "pt": "obrigado / obrigada",
+          "en": "obrigado / obrigada",
+          "ar": "obrigado / obrigada"
+        },
+        {
+          "pt": "eu tenho",
+          "en": "eu tenho",
+          "ar": "eu tenho"
+        }
+      ],
+      "answer": "a casa",
+      "explanation": {
+        "pt": "A lacuna é 'a casa'.",
+        "en": "The blank is 'a casa'.",
+        "ar": "الفراغ هو 'a casa'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: \"The family just arrived.\"",
+        "en": "Type in Portuguese: \"The family just arrived.\"",
+        "ar": "اكتب بالبرتغالية: \"وصلت العائلة الآن.\""
+      },
+      "options": [],
+      "answer": "A família chegou agora.",
+      "accepted": [
+        "A família chegou agora."
+      ],
+      "explanation": {
+        "pt": "Resposta possível: \"A família chegou agora.\".",
+        "en": "One possible answer: \"A família chegou agora.\".",
+        "ar": "إجابة ممكنة: \"A família chegou agora.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "agora.",
+          "en": "agora.",
+          "ar": "agora."
+        },
+        {
+          "pt": "família",
+          "en": "família",
+          "ar": "família"
+        },
+        {
+          "pt": "A",
+          "en": "A",
+          "ar": "A"
+        },
+        {
+          "pt": "chegou",
+          "en": "chegou",
+          "ar": "chegou"
+        }
+      ],
+      "answer": "A família chegou agora.",
+      "gen": "v1.8",
+      "explanation": {
+        "pt": "A frase correta é: \"A família chegou agora.\".",
+        "en": "The correct sentence is: \"A família chegou agora.\".",
+        "ar": "الجملة الصحيحة هي: \"A família chegou agora.\"."
       }
     }
   ],

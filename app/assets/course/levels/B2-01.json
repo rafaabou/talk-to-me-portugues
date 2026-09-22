@@ -35,9 +35,9 @@
       "en": "maybe",
       "ar": "ربما",
       "example": {
-        "pt": "Tomara que não chova! Talvez o tempo fique bom.",
-        "en": "Hopefully it won't rain! Maybe the weather will be good.",
-        "ar": "ليت المطر لا يهطل! ربما يكون الطقس جيدًا."
+        "pt": "Talvez ele venha tarde.",
+        "en": "Maybe he'll come late.",
+        "ar": "ربما يأتي متأخرًا."
       }
     },
     {
@@ -46,9 +46,9 @@
       "en": "to wish",
       "ar": "يتمنى",
       "example": {
-        "pt": "Espero que você possa ir à praia comigo no sábado.",
-        "en": "I hope you can go to the beach with me on Saturday.",
-        "ar": "آمل أن تتمكن من الذهاب إلى الشاطئ معي يوم السبت."
+        "pt": "Tudo o que desejar está aqui.",
+        "en": "Everything you wish for is here.",
+        "ar": "كل ما تتمناه موجود هنا."
       }
     },
     {
@@ -57,9 +57,9 @@
       "en": "to hope",
       "ar": "يأمل",
       "example": {
-        "pt": "Espero que você possa ir à praia comigo no sábado.",
-        "en": "I hope you can go to the beach with me on Saturday.",
-        "ar": "آمل أن تتمكن من الذهاب إلى الشاطئ معي يوم السبت."
+        "pt": "Só posso esperar o melhor.",
+        "en": "I can only hope for the best.",
+        "ar": "لا أستطيع سوى الأمل في الأفضل."
       }
     },
     {
@@ -68,9 +68,9 @@
       "en": "to doubt",
       "ar": "يشك",
       "example": {
-        "pt": "Espero que você possa ir à praia comigo no sábado.",
-        "en": "I hope you can go to the beach with me on Saturday.",
-        "ar": "آمل أن تتمكن من الذهاب إلى الشاطئ معي يوم السبت."
+        "pt": "É saudável duvidar um pouco.",
+        "en": "It's healthy to doubt a little.",
+        "ar": "من الصحي أن تشك قليلًا."
       }
     },
     {
@@ -79,9 +79,9 @@
       "en": "to demand",
       "ar": "يطالب",
       "example": {
-        "pt": "Espero que você possa ir à praia comigo no sábado.",
-        "en": "I hope you can go to the beach with me on Saturday.",
-        "ar": "آمل أن تتمكن من الذهاب إلى الشاطئ معي يوم السبت."
+        "pt": "A prova vai exigir foco.",
+        "en": "The test will require focus.",
+        "ar": "سيتطلب الامتحان تركيزًا."
       }
     },
     {
@@ -90,9 +90,9 @@
       "en": "to ask (for)",
       "ar": "يطلب",
       "example": {
-        "pt": "Espero que você possa ir à praia comigo no sábado.",
-        "en": "I hope you can go to the beach with me on Saturday.",
-        "ar": "آمل أن تتمكن من الذهاب إلى الشاطئ معي يوم السبت."
+        "pt": "Ele veio pedir ajuda.",
+        "en": "He came to ask for help.",
+        "ar": "جاء لطلب المساعدة."
       }
     },
     {
@@ -101,9 +101,9 @@
       "en": "necessary",
       "ar": "ضروري",
       "example": {
-        "pt": "Espero que você possa ir à praia comigo no sábado.",
-        "en": "I hope you can go to the beach with me on Saturday.",
-        "ar": "آمل أن تتمكن من الذهاب إلى الشاطئ معي يوم السبت."
+        "pt": "É necessário chegar cedo.",
+        "en": "It's necessary to arrive early.",
+        "ar": "من الضروري الوصول مبكرًا."
       }
     },
     {
@@ -112,9 +112,9 @@
       "en": "important",
       "ar": "مهم",
       "example": {
-        "pt": "É importante que a gente saia um pouco da cidade.",
-        "en": "It's important that we get out of the city a little.",
-        "ar": "من المهم أن نخرج قليلًا من المدينة."
+        "pt": "O mais importante é a saúde.",
+        "en": "The most important thing is health.",
+        "ar": "أهم شيء هو الصحة."
       }
     },
     {
@@ -123,9 +123,9 @@
       "en": "possible",
       "ar": "ممكن",
       "example": {
-        "pt": "Espero que você possa ir à praia comigo no sábado.",
-        "en": "I hope you can go to the beach with me on Saturday.",
-        "ar": "آمل أن تتمكن من الذهاب إلى الشاطئ معي يوم السبت."
+        "pt": "Tudo é possível com esforço.",
+        "en": "Everything is possible with effort.",
+        "ar": "كل شيء ممكن مع الجهد."
       }
     },
     {
@@ -134,9 +134,9 @@
       "en": "the wish",
       "ar": "الرغبة",
       "example": {
-        "pt": "Tomara que não chova! Talvez o tempo fique bom.",
-        "en": "Hopefully it won't rain! Maybe the weather will be good.",
-        "ar": "ليت المطر لا يهطل! ربما يكون الطقس جيدًا."
+        "pt": "O desejo de aprender cresce.",
+        "en": "The desire to learn grows.",
+        "ar": "الرغبة في التعلم تزداد."
       }
     },
     {
@@ -145,9 +145,9 @@
       "en": "the doubt",
       "ar": "الشك",
       "example": {
-        "pt": "É importante que a gente saia um pouco da cidade.",
-        "en": "It's important that we get out of the city a little.",
-        "ar": "من المهم أن نخرج قليلًا من المدينة."
+        "pt": "A dúvida apareceu de novo.",
+        "en": "The doubt appeared again.",
+        "ar": "ظهر الشك مرة أخرى."
       }
     },
     {
@@ -156,9 +156,9 @@
       "en": "the suggestion",
       "ar": "الاقتراح",
       "example": {
-        "pt": "É importante que a gente saia um pouco da cidade.",
-        "en": "It's important that we get out of the city a little.",
-        "ar": "من المهم أن نخرج قليلًا من المدينة."
+        "pt": "A sugestão foi boa.",
+        "en": "The suggestion was good.",
+        "ar": "كان الاقتراح جيدًا."
       }
     },
     {
@@ -167,9 +167,9 @@
       "en": "hopefully",
       "ar": "ليت",
       "example": {
-        "pt": "Tomara que não chova! Talvez o tempo fique bom.",
-        "en": "Hopefully it won't rain! Maybe the weather will be good.",
-        "ar": "ليت المطر لا يهطل! ربما يكون الطقس جيدًا."
+        "pt": "Tomara que tudo dê certo.",
+        "en": "Hopefully everything works out.",
+        "ar": "ليت كل شيء يسير على ما يرام."
       }
     },
     {
@@ -178,9 +178,9 @@
       "en": "if only",
       "ar": "ليت",
       "example": {
-        "pt": "Espero que você possa ir à praia comigo no sábado.",
-        "en": "I hope you can go to the beach with me on Saturday.",
-        "ar": "آمل أن تتمكن من الذهاب إلى الشاطئ معي يوم السبت."
+        "pt": "Oxalá tudo fique bem.",
+        "en": "If only everything goes well.",
+        "ar": "ليت كل شيء بخير."
       }
     },
     {
@@ -189,9 +189,9 @@
       "en": "I hope that",
       "ar": "آمل أن",
       "example": {
-        "pt": "Espero que você possa ir à praia comigo no sábado.",
-        "en": "I hope you can go to the beach with me on Saturday.",
-        "ar": "آمل أن تتمكن من الذهاب إلى الشاطئ معي يوم السبت."
+        "pt": "Espero que você venha.",
+        "en": "I hope you come.",
+        "ar": "آمل أن تأتي."
       }
     },
     {
@@ -200,9 +200,9 @@
       "en": "it's important that",
       "ar": "من المهم أن",
       "example": {
-        "pt": "É importante que a gente saia um pouco da cidade.",
-        "en": "It's important that we get out of the city a little.",
-        "ar": "من المهم أن نخرج قليلًا من المدينة."
+        "pt": "É importante que todos participem.",
+        "en": "It's important that everyone participates.",
+        "ar": "من المهم أن يشارك الجميع."
       }
     }
   ],
@@ -916,6 +916,257 @@
         "pt": "A frase correta: 'Espero que você possa ir à praia comigo no sábado.'",
         "en": "The correct sentence: 'Espero que você possa ir à praia comigo no sábado.'",
         "ar": "الجملة الصحيحة: 'Espero que você possa ir à praia comigo no sábado.'"
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'it's important that'?",
+        "en": "Which word means 'it's important that'?",
+        "ar": "أي كلمة تعني 'من المهم أن'؟"
+      },
+      "options": [
+        {
+          "pt": "espero que",
+          "en": "I hope that",
+          "ar": "آمل أن"
+        },
+        {
+          "pt": "a sugestão",
+          "en": "the suggestion",
+          "ar": "الاقتراح"
+        },
+        {
+          "pt": "é importante que",
+          "en": "it's important that",
+          "ar": "من المهم أن"
+        }
+      ],
+      "answer": "é importante que",
+      "explanation": {
+        "pt": "'é importante que' significa 'it's important that'.",
+        "en": "'é importante que' means 'it's important that'.",
+        "ar": "تعني 'é importante que' 'من المهم أن'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'if only'?",
+        "en": "Which word means 'if only'?",
+        "ar": "أي كلمة تعني 'ليت'؟"
+      },
+      "options": [
+        {
+          "pt": "exigir",
+          "en": "to demand",
+          "ar": "يطالب"
+        },
+        {
+          "pt": "oxalá",
+          "en": "if only",
+          "ar": "ليت"
+        },
+        {
+          "pt": "é importante que",
+          "en": "it's important that",
+          "ar": "من المهم أن"
+        },
+        {
+          "pt": "esperar",
+          "en": "to hope",
+          "ar": "يأمل"
+        }
+      ],
+      "answer": "oxalá",
+      "explanation": {
+        "pt": "'oxalá' significa 'if only'.",
+        "en": "'oxalá' means 'if only'.",
+        "ar": "تعني 'oxalá' 'ليت'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"The suggestion was good.\"",
+        "en": "Translate into Portuguese: \"The suggestion was good.\"",
+        "ar": "ترجم إلى البرتغالية: \"كان الاقتراح جيدًا.\""
+      },
+      "options": [],
+      "answer": "A sugestão foi boa.",
+      "explanation": {
+        "pt": "Resposta: \"A sugestão foi boa.\".",
+        "en": "Answer: \"A sugestão foi boa.\". (EN: \"The suggestion was good.\")",
+        "ar": "الإجابة: \"A sugestão foi boa.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"Hopefully everything works out.\"",
+        "en": "Translate into Portuguese: \"Hopefully everything works out.\"",
+        "ar": "ترجم إلى البرتغالية: \"ليت كل شيء يسير على ما يرام.\""
+      },
+      "options": [],
+      "answer": "Tomara que tudo dê certo.",
+      "explanation": {
+        "pt": "Resposta: \"Tomara que tudo dê certo.\".",
+        "en": "Answer: \"Tomara que tudo dê certo.\". (EN: \"Hopefully everything works out.\")",
+        "ar": "الإجابة: \"Tomara que tudo dê certo.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Só posso ___ o melhor.\"",
+        "en": "Complete: \"Só posso ___ o melhor.\"",
+        "ar": "أكمل: \"Só posso ___ o melhor.\""
+      },
+      "options": [
+        {
+          "pt": "desejar",
+          "en": "desejar",
+          "ar": "desejar"
+        },
+        {
+          "pt": "talvez",
+          "en": "talvez",
+          "ar": "talvez"
+        },
+        {
+          "pt": "esperar",
+          "en": "esperar",
+          "ar": "esperar"
+        }
+      ],
+      "answer": "esperar",
+      "explanation": {
+        "pt": "A lacuna é 'esperar'.",
+        "en": "The blank is 'esperar'.",
+        "ar": "الفراغ هو 'esperar'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Tudo é ___ com esforço.\"",
+        "en": "Complete: \"Tudo é ___ com esforço.\"",
+        "ar": "أكمل: \"Tudo é ___ com esforço.\""
+      },
+      "options": [
+        {
+          "pt": "desejar",
+          "en": "desejar",
+          "ar": "desejar"
+        },
+        {
+          "pt": "importante",
+          "en": "importante",
+          "ar": "importante"
+        },
+        {
+          "pt": "possível",
+          "en": "possível",
+          "ar": "possível"
+        }
+      ],
+      "answer": "possível",
+      "explanation": {
+        "pt": "A lacuna é 'possível'.",
+        "en": "The blank is 'possível'.",
+        "ar": "الفراغ هو 'possível'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: \"If only everything goes well.\"",
+        "en": "Type in Portuguese: \"If only everything goes well.\"",
+        "ar": "اكتب بالبرتغالية: \"ليت كل شيء بخير.\""
+      },
+      "options": [],
+      "answer": "Oxalá tudo fique bem.",
+      "accepted": [
+        "Oxalá tudo fique bem."
+      ],
+      "explanation": {
+        "pt": "Resposta possível: \"Oxalá tudo fique bem.\".",
+        "en": "One possible answer: \"Oxalá tudo fique bem.\".",
+        "ar": "إجابة ممكنة: \"Oxalá tudo fique bem.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        },
+        {
+          "pt": "você",
+          "en": "você",
+          "ar": "você"
+        },
+        {
+          "pt": "praia",
+          "en": "praia",
+          "ar": "praia"
+        },
+        {
+          "pt": "descobri.",
+          "en": "descobri.",
+          "ar": "descobri."
+        },
+        {
+          "pt": "eu",
+          "en": "eu",
+          "ar": "eu"
+        },
+        {
+          "pt": "conheça",
+          "en": "conheça",
+          "ar": "conheça"
+        },
+        {
+          "pt": "Quero",
+          "en": "Quero",
+          "ar": "Quero"
+        },
+        {
+          "pt": "linda",
+          "en": "linda",
+          "ar": "linda"
+        },
+        {
+          "pt": "uma",
+          "en": "uma",
+          "ar": "uma"
+        },
+        {
+          "pt": "que",
+          "en": "que",
+          "ar": "que"
+        }
+      ],
+      "answer": "Quero que você conheça uma praia linda que eu descobri.",
+      "gen": "v1.8",
+      "explanation": {
+        "pt": "A frase correta é: \"Quero que você conheça uma praia linda que eu descobri.\".",
+        "en": "The correct sentence is: \"Quero que você conheça uma praia linda que eu descobri.\".",
+        "ar": "الجملة الصحيحة هي: \"Quero que você conheça uma praia linda que eu descobri.\"."
       }
     }
   ],

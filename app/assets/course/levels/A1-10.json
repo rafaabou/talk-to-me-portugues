@@ -35,9 +35,9 @@
       "en": "the house",
       "ar": "المنزل",
       "example": {
-        "pt": "Como é a sua nova casa?",
-        "en": "What's your new house like?",
-        "ar": "كيف هو منزلك الجديد؟"
+        "pt": "Nós compramos a casa nova.",
+        "en": "We bought the new house.",
+        "ar": "اشترينا المنزل الجديد."
       }
     },
     {
@@ -46,9 +46,9 @@
       "en": "the living room",
       "ar": "غرفة المعيشة",
       "example": {
-        "pt": "Como é a sua nova casa?",
-        "en": "What's your new house like?",
-        "ar": "كيف هو منزلك الجديد؟"
+        "pt": "A sala tem dois sofás.",
+        "en": "The living room has two sofas.",
+        "ar": "غرفة المعيشة فيها أريكتان."
       }
     },
     {
@@ -57,9 +57,9 @@
       "en": "the kitchen",
       "ar": "المطبخ",
       "example": {
-        "pt": "Como é a sua nova casa?",
-        "en": "What's your new house like?",
-        "ar": "كيف هو منزلك الجديد؟"
+        "pt": "A cozinha é limpa.",
+        "en": "The kitchen is clean.",
+        "ar": "المطبخ نظيف."
       }
     },
     {
@@ -68,9 +68,9 @@
       "en": "the bedroom",
       "ar": "غرفة النوم",
       "example": {
-        "pt": "E o que tem na sala?",
-        "en": "And what's in the living room?",
-        "ar": "وماذا يوجد في غرفة المعيشة؟"
+        "pt": "O quarto está arrumado.",
+        "en": "The bedroom is tidy.",
+        "ar": "غرفة النوم مرتبة."
       }
     },
     {
@@ -79,9 +79,9 @@
       "en": "the bathroom",
       "ar": "الحمام",
       "example": {
-        "pt": "E o que tem na sala?",
-        "en": "And what's in the living room?",
-        "ar": "وماذا يوجد في غرفة المعيشة؟"
+        "pt": "O banheiro é pequeno.",
+        "en": "The bathroom is small.",
+        "ar": "الحمام صغير."
       }
     },
     {
@@ -90,9 +90,9 @@
       "en": "the door",
       "ar": "الباب",
       "example": {
-        "pt": "Como é a sua nova casa?",
-        "en": "What's your new house like?",
-        "ar": "كيف هو منزلك الجديد؟"
+        "pt": "A porta está aberta.",
+        "en": "The door is open.",
+        "ar": "الباب مفتوح."
       }
     },
     {
@@ -101,9 +101,9 @@
       "en": "the window",
       "ar": "النافذة",
       "example": {
-        "pt": "Como é a sua nova casa?",
-        "en": "What's your new house like?",
-        "ar": "كيف هو منزلك الجديد؟"
+        "pt": "A janela está fechada.",
+        "en": "The window is closed.",
+        "ar": "النافذة مغلقة."
       }
     },
     {
@@ -112,9 +112,9 @@
       "en": "the wall",
       "ar": "الجدار",
       "example": {
-        "pt": "Como é a sua nova casa?",
-        "en": "What's your new house like?",
-        "ar": "كيف هو منزلك الجديد؟"
+        "pt": "A parede é branca.",
+        "en": "The wall is white.",
+        "ar": "الجدار أبيض."
       }
     },
     {
@@ -123,9 +123,9 @@
       "en": "the bed",
       "ar": "السرير",
       "example": {
-        "pt": "Como é a sua nova casa?",
-        "en": "What's your new house like?",
-        "ar": "كيف هو منزلك الجديد؟"
+        "pt": "A cama é confortável.",
+        "en": "The bed is comfortable.",
+        "ar": "السرير مريح."
       }
     },
     {
@@ -134,9 +134,9 @@
       "en": "the table",
       "ar": "الطاولة",
       "example": {
-        "pt": "Como é a sua nova casa?",
-        "en": "What's your new house like?",
-        "ar": "كيف هو منزلك الجديد؟"
+        "pt": "A mesa da cozinha é grande.",
+        "en": "The kitchen table is big.",
+        "ar": "طاولة المطبخ كبيرة."
       }
     },
     {
@@ -145,9 +145,9 @@
       "en": "the chair",
       "ar": "الكرسي",
       "example": {
-        "pt": "Como é a sua nova casa?",
-        "en": "What's your new house like?",
-        "ar": "كيف هو منزلك الجديد؟"
+        "pt": "A cadeira está na sala.",
+        "en": "The chair is in the living room.",
+        "ar": "الكرسي في غرفة المعيشة."
       }
     },
     {
@@ -156,9 +156,9 @@
       "en": "the sofa",
       "ar": "الأريكة",
       "example": {
-        "pt": "E o que tem na sala?",
-        "en": "And what's in the living room?",
-        "ar": "وماذا يوجد في غرفة المعيشة؟"
+        "pt": "O sofá é azul.",
+        "en": "The sofa is blue.",
+        "ar": "الأريكة زرقاء."
       }
     },
     {
@@ -167,9 +167,9 @@
       "en": "the wardrobe",
       "ar": "خزانة الملابس",
       "example": {
-        "pt": "E o que tem na sala?",
-        "en": "And what's in the living room?",
-        "ar": "وماذا يوجد في غرفة المعيشة؟"
+        "pt": "O armário está cheio.",
+        "en": "The wardrobe is full.",
+        "ar": "خزانة الملابس ممتلئة."
       }
     },
     {
@@ -178,9 +178,9 @@
       "en": "the refrigerator",
       "ar": "الثلاجة",
       "example": {
-        "pt": "Como é a sua nova casa?",
-        "en": "What's your new house like?",
-        "ar": "كيف هو منزلك الجديد؟"
+        "pt": "A geladeira tem comida.",
+        "en": "The refrigerator has food.",
+        "ar": "في الثلاجة طعام."
       }
     },
     {
@@ -189,9 +189,9 @@
       "en": "the stove",
       "ar": "الموقد",
       "example": {
-        "pt": "E o que tem na sala?",
-        "en": "And what's in the living room?",
-        "ar": "وماذا يوجد في غرفة المعيشة؟"
+        "pt": "O fogão está ligado.",
+        "en": "The stove is on.",
+        "ar": "الموقد مضاء."
       }
     },
     {
@@ -200,9 +200,9 @@
       "en": "in/at/on",
       "ar": "في",
       "example": {
-        "pt": "Eu estou em casa hoje.",
-        "en": "I'm at home today.",
-        "ar": "أنا في المنزل اليوم."
+        "pt": "O trem chega em cinco minutos.",
+        "en": "The train arrives in five minutes.",
+        "ar": "يصل القطار خلال خمس دقائق."
       }
     },
     {
@@ -211,9 +211,9 @@
       "en": "in the (m/f)",
       "ar": "في (مذكر/مؤنث)",
       "example": {
-        "pt": "Como é a sua nova casa?",
-        "en": "What's your new house like?",
-        "ar": "كيف هو منزلك الجديد؟"
+        "pt": "A chave está na bolsa.",
+        "en": "The key is in the bag.",
+        "ar": "المفتاح في الحقيبة."
       }
     },
     {
@@ -222,9 +222,9 @@
       "en": "on top of",
       "ar": "فوق",
       "example": {
-        "pt": "Eu estou em casa hoje.",
-        "en": "I'm at home today.",
-        "ar": "أنا في المنزل اليوم."
+        "pt": "O gato dorme em cima de uma almofada.",
+        "en": "The cat sleeps on top of a cushion.",
+        "ar": "ينام القط فوق وسادة."
       }
     }
   ],
@@ -894,6 +894,222 @@
         "pt": "A frase correta: 'Como é a sua nova casa?'",
         "en": "The correct sentence: 'Como é a sua nova casa?'",
         "ar": "الجملة الصحيحة: 'Como é a sua nova casa?'"
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'on top of'?",
+        "en": "Which word means 'on top of'?",
+        "ar": "أي كلمة تعني 'فوق'؟"
+      },
+      "options": [
+        {
+          "pt": "em cima de",
+          "en": "on top of",
+          "ar": "فوق"
+        },
+        {
+          "pt": "a geladeira",
+          "en": "the refrigerator",
+          "ar": "الثلاجة"
+        },
+        {
+          "pt": "o armário",
+          "en": "the wardrobe",
+          "ar": "خزانة الملابس"
+        }
+      ],
+      "answer": "em cima de",
+      "explanation": {
+        "pt": "'em cima de' significa 'on top of'.",
+        "en": "'em cima de' means 'on top of'.",
+        "ar": "تعني 'em cima de' 'فوق'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the house'?",
+        "en": "Which word means 'the house'?",
+        "ar": "أي كلمة تعني 'المنزل'؟"
+      },
+      "options": [
+        {
+          "pt": "a sala",
+          "en": "the living room",
+          "ar": "غرفة المعيشة"
+        },
+        {
+          "pt": "em",
+          "en": "in/at/on",
+          "ar": "في"
+        },
+        {
+          "pt": "a casa",
+          "en": "the house",
+          "ar": "المنزل"
+        }
+      ],
+      "answer": "a casa",
+      "explanation": {
+        "pt": "'a casa' significa 'the house'.",
+        "en": "'a casa' means 'the house'.",
+        "ar": "تعني 'a casa' 'المنزل'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"The bathroom is small.\"",
+        "en": "Translate into Portuguese: \"The bathroom is small.\"",
+        "ar": "ترجم إلى البرتغالية: \"الحمام صغير.\""
+      },
+      "options": [],
+      "answer": "O banheiro é pequeno.",
+      "explanation": {
+        "pt": "Resposta: \"O banheiro é pequeno.\".",
+        "en": "Answer: \"O banheiro é pequeno.\". (EN: \"The bathroom is small.\")",
+        "ar": "الإجابة: \"O banheiro é pequeno.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"The wardrobe is full.\"",
+        "en": "Translate into Portuguese: \"The wardrobe is full.\"",
+        "ar": "ترجم إلى البرتغالية: \"خزانة الملابس ممتلئة.\""
+      },
+      "options": [],
+      "answer": "O armário está cheio.",
+      "explanation": {
+        "pt": "Resposta: \"O armário está cheio.\".",
+        "en": "Answer: \"O armário está cheio.\". (EN: \"The wardrobe is full.\")",
+        "ar": "الإجابة: \"O armário está cheio.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"O gato dorme ___ uma almofada.\"",
+        "en": "Complete: \"O gato dorme ___ uma almofada.\"",
+        "ar": "أكمل: \"O gato dorme ___ uma almofada.\""
+      },
+      "options": [
+        {
+          "pt": "em cima de",
+          "en": "em cima de",
+          "ar": "em cima de"
+        },
+        {
+          "pt": "a casa",
+          "en": "a casa",
+          "ar": "a casa"
+        },
+        {
+          "pt": "a cozinha",
+          "en": "a cozinha",
+          "ar": "a cozinha"
+        }
+      ],
+      "answer": "em cima de",
+      "explanation": {
+        "pt": "A lacuna é 'em cima de'.",
+        "en": "The blank is 'em cima de'.",
+        "ar": "الفراغ هو 'em cima de'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"O tr___ chega em cinco minutos.\"",
+        "en": "Complete: \"O tr___ chega em cinco minutos.\"",
+        "ar": "أكمل: \"O tr___ chega em cinco minutos.\""
+      },
+      "options": [
+        {
+          "pt": "em",
+          "en": "em",
+          "ar": "em"
+        },
+        {
+          "pt": "a parede",
+          "en": "a parede",
+          "ar": "a parede"
+        },
+        {
+          "pt": "o quarto",
+          "en": "o quarto",
+          "ar": "o quarto"
+        }
+      ],
+      "answer": "em",
+      "explanation": {
+        "pt": "A lacuna é 'em'.",
+        "en": "The blank is 'em'.",
+        "ar": "الفراغ هو 'em'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: \"The wall is white.\"",
+        "en": "Type in Portuguese: \"The wall is white.\"",
+        "ar": "اكتب بالبرتغالية: \"الجدار أبيض.\""
+      },
+      "options": [],
+      "answer": "A parede é branca.",
+      "accepted": [
+        "A parede é branca."
+      ],
+      "explanation": {
+        "pt": "Resposta possível: \"A parede é branca.\".",
+        "en": "One possible answer: \"A parede é branca.\".",
+        "ar": "إجابة ممكنة: \"A parede é branca.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "é",
+          "en": "é",
+          "ar": "é"
+        },
+        {
+          "pt": "banheiro",
+          "en": "banheiro",
+          "ar": "banheiro"
+        },
+        {
+          "pt": "pequeno.",
+          "en": "pequeno.",
+          "ar": "pequeno."
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        }
+      ],
+      "answer": "O banheiro é pequeno.",
+      "gen": "v1.8",
+      "explanation": {
+        "pt": "A frase correta é: \"O banheiro é pequeno.\".",
+        "en": "The correct sentence is: \"O banheiro é pequeno.\".",
+        "ar": "الجملة الصحيحة هي: \"O banheiro é pequeno.\"."
       }
     }
   ],

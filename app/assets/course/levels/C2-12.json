@@ -40,9 +40,9 @@
       "en": "certificate",
       "ar": "الشهادة",
       "example": {
-        "pt": "Parabéns! Você acaba de concluir o nível C2 do curso.",
-        "en": "Congratulations! You have just completed the C2 level of the course.",
-        "ar": "مبروك! لقد أكملت للتو المستوى C2 من الدورة."
+        "pt": "O certificado vale internacionalmente.",
+        "en": "The certificate is internationally valid.",
+        "ar": "الشهادة معتمدة دوليًا."
       }
     },
     {
@@ -51,9 +51,9 @@
       "en": "career",
       "ar": "المسيرة المهنية",
       "example": {
-        "pt": "Planejo um intercâmbio com vistas a ativar o vocabulário no dia a dia.",
-        "en": "I plan an exchange program with a view to activating the vocabulary in daily life.",
-        "ar": "أخطط لتبادل دراسي بهدف تفعيل المفردات في الحياة اليومية."
+        "pt": "A carreira no idioma cresce.",
+        "en": "The career in the language grows.",
+        "ar": "تنمو المسيرة المهنية في اللغة."
       }
     },
     {
@@ -62,9 +62,9 @@
       "en": "language",
       "ar": "اللغة",
       "example": {
-        "pt": "Parabéns! Você acaba de concluir o nível C2 do curso.",
-        "en": "Congratulations! You have just completed the C2 level of the course.",
-        "ar": "مبروك! لقد أكملت للتو المستوى C2 من الدورة."
+        "pt": "O idioma brasileiro é rico.",
+        "en": "Brazilian Portuguese is rich.",
+        "ar": "البرتغالية البرازيلية غنية."
       }
     },
     {
@@ -73,9 +73,9 @@
       "en": "advance / progress",
       "ar": "التقدم",
       "example": {
-        "pt": "Parabéns! Você acaba de concluir o nível C2 do curso.",
-        "en": "Congratulations! You have just completed the C2 level of the course.",
-        "ar": "مبروك! لقد أكملت للتو المستوى C2 من الدورة."
+        "pt": "O avanço foi gradual.",
+        "en": "The progress was gradual.",
+        "ar": "كان التقدم تدريجيًا."
       }
     },
     {
@@ -84,9 +84,9 @@
       "en": "continuous learning",
       "ar": "التعلم المستمر",
       "example": {
-        "pt": "Parabéns! Você acaba de concluir o nível C2 do curso.",
-        "en": "Congratulations! You have just completed the C2 level of the course.",
-        "ar": "مبروك! لقد أكملت للتو المستوى C2 من الدورة."
+        "pt": "O aprendizado contínuo é a chave.",
+        "en": "Continuous learning is the key.",
+        "ar": "التعلم المستمر هو المفتاح."
       }
     },
     {
@@ -95,9 +95,9 @@
       "en": "immersion",
       "ar": "الانغماس",
       "example": {
-        "pt": "Planejo um intercâmbio com vistas a ativar o vocabulário no dia a dia.",
-        "en": "I plan an exchange program with a view to activating the vocabulary in daily life.",
-        "ar": "أخطط لتبادل دراسي بهدف تفعيل المفردات في الحياة اليومية."
+        "pt": "A imersão total funciona melhor.",
+        "en": "Total immersion works better.",
+        "ar": "الانغماس الكامل أنجع."
       }
     },
     {
@@ -106,9 +106,9 @@
       "en": "exchange program",
       "ar": "التبادل الدراسي",
       "example": {
-        "pt": "Parabéns! Você acaba de concluir o nível C2 do curso.",
-        "en": "Congratulations! You have just completed the C2 level of the course.",
-        "ar": "مبروك! لقد أكملت للتو المستوى C2 من الدورة."
+        "pt": "O intercâmbio dura um ano.",
+        "en": "The exchange program lasts one year.",
+        "ar": "يستمر التبادل الدراسي عامًا."
       }
     },
     {
@@ -117,9 +117,9 @@
       "en": "networking",
       "ar": "التواصل المهني",
       "example": {
-        "pt": "Parabéns! Você acaba de concluir o nível C2 do curso.",
-        "en": "Congratulations! You have just completed the C2 level of the course.",
-        "ar": "مبروك! لقد أكملت للتو المستوى C2 من الدورة."
+        "pt": "O networking vale muito.",
+        "en": "Networking is worth a lot.",
+        "ar": "التواصل المهني كثير القيمة."
       }
     },
     {
@@ -128,9 +128,9 @@
       "en": "advanced course",
       "ar": "الدورة المتقدمة",
       "example": {
-        "pt": "Parabéns! Você acaba de concluir o nível C2 do curso.",
-        "en": "Congratulations! You have just completed the C2 level of the course.",
-        "ar": "مبروك! لقد أكملت للتو المستوى C2 من الدورة."
+        "pt": "O curso avançado começa em setembro.",
+        "en": "The advanced course starts in September.",
+        "ar": "تبدأ الدورة المتقدمة في سبتمبر."
       }
     },
     {
@@ -139,9 +139,9 @@
       "en": "fluent reading",
       "ar": "القراءة الطليقة",
       "example": {
-        "pt": "Planejo um intercâmbio com vistas a ativar o vocabulário no dia a dia.",
-        "en": "I plan an exchange program with a view to activating the vocabulary in daily life.",
-        "ar": "أخطط لتبادل دراسي بهدف تفعيل المفردات في الحياة اليومية."
+        "pt": "A leitura fluente vem com o tempo.",
+        "en": "Fluent reading comes with time.",
+        "ar": "تأتي القراءة الطليقة مع الوقت."
       }
     },
     {
@@ -150,9 +150,9 @@
       "en": "native speaker",
       "ar": "المتحدث الأصلي",
       "example": {
-        "pt": "Parabéns! Você acaba de concluir o nível C2 do curso.",
-        "en": "Congratulations! You have just completed the C2 level of the course.",
-        "ar": "مبروك! لقد أكملت للتو المستوى C2 من الدورة."
+        "pt": "O falante nativo corrige erros.",
+        "en": "The native speaker corrects mistakes.",
+        "ar": "يصحّح المتحدث الأصلي الأخطاء."
       }
     },
     {
@@ -161,9 +161,9 @@
       "en": "maintenance",
       "ar": "الصيانة / الاستمرار",
       "example": {
-        "pt": "Planejo um intercâmbio com vistas a ativar o vocabulário no dia a dia.",
-        "en": "I plan an exchange program with a view to activating the vocabulary in daily life.",
-        "ar": "أخطط لتبادل دراسي بهدف تفعيل المفردات في الحياة اليومية."
+        "pt": "A manutenção semanal é obrigatória.",
+        "en": "Weekly maintenance is mandatory.",
+        "ar": "الصيانة الأسبوعية إلزامية."
       }
     },
     {
@@ -172,9 +172,9 @@
       "en": "passive vocabulary",
       "ar": "المفردات السلبية",
       "example": {
-        "pt": "Parabéns! Você acaba de concluir o nível C2 do curso.",
-        "en": "Congratulations! You have just completed the C2 level of the course.",
-        "ar": "مبروك! لقد أكملت للتو المستوى C2 من الدورة."
+        "pt": "O vocabulário passivo cresce na leitura.",
+        "en": "Passive vocabulary grows through reading.",
+        "ar": "تنمو المفردات السلبية بالقراءة."
       }
     },
     {
@@ -183,9 +183,9 @@
       "en": "active vocabulary",
       "ar": "المفردات الفاعلة",
       "example": {
-        "pt": "Parabéns! Você acaba de concluir o nível C2 do curso.",
-        "en": "Congratulations! You have just completed the C2 level of the course.",
-        "ar": "مبروك! لقد أكملت للتو المستوى C2 من الدورة."
+        "pt": "O vocabulário ativo cresce falando.",
+        "en": "Active vocabulary grows by speaking.",
+        "ar": "تنمو المفردات الفاعلة بالحديث."
       }
     },
     {
@@ -194,9 +194,9 @@
       "en": "accent",
       "ar": "اللهجة / النبر",
       "example": {
-        "pt": "Parabéns! Você acaba de concluir o nível C2 do curso.",
-        "en": "Congratulations! You have just completed the C2 level of the course.",
-        "ar": "مبروك! لقد أكملت للتو المستوى C2 من الدورة."
+        "pt": "O sotaque mistura influências.",
+        "en": "The accent mixes influences.",
+        "ar": "يخلط السوتاك بين التأثيرات."
       }
     },
     {
@@ -205,9 +205,9 @@
       "en": "fluency",
       "ar": "الطلاقة",
       "example": {
-        "pt": "Planejo um intercâmbio com vistas a ativar o vocabulário no dia a dia.",
-        "en": "I plan an exchange program with a view to activating the vocabulary in daily life.",
-        "ar": "أخطط لتبادل دراسي بهدف تفعيل المفردات في الحياة اليومية."
+        "pt": "A fluência combina quatro habilidades.",
+        "en": "Fluency combines four skills.",
+        "ar": "تجمع الطلاقة أربع مهارات."
       }
     },
     {
@@ -216,9 +216,9 @@
       "en": "goal",
       "ar": "الهدف",
       "example": {
-        "pt": "Parabéns! Você acaba de concluir o nível C2 do curso.",
-        "en": "Congratulations! You have just completed the C2 level of the course.",
-        "ar": "مبروك! لقد أكملت للتو المستوى C2 من الدورة."
+        "pt": "O objetivo foi atingido.",
+        "en": "The goal was reached.",
+        "ar": "تحقق الهدف."
       }
     },
     {
@@ -227,9 +227,9 @@
       "en": "assessment",
       "ar": "التقييم",
       "example": {
-        "pt": "Planejo um intercâmbio com vistas a ativar o vocabulário no dia a dia.",
-        "en": "I plan an exchange program with a view to activating the vocabulary in daily life.",
-        "ar": "أخطط لتبادل دراسي بهدف تفعيل المفردات في الحياة اليومية."
+        "pt": "A avaliação acontece na terça.",
+        "en": "The assessment happens on Tuesday.",
+        "ar": "يحدث التقييم يوم الثلاثاء."
       }
     }
   ],
@@ -940,6 +940,237 @@
         "en": "The correct sentence: 'Parabéns! Você acaba de concluir o nível C2 do curso.'",
         "ar": "الجملة الصحيحة: 'Parabéns! Você acaba de concluir o nível C2 do curso.'"
       }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'passive vocabulary'?",
+        "en": "Which word means 'passive vocabulary'?",
+        "ar": "أي كلمة تعني 'المفردات السلبية'؟"
+      },
+      "options": [
+        {
+          "pt": "o vocabulário passivo",
+          "en": "passive vocabulary",
+          "ar": "المفردات السلبية"
+        },
+        {
+          "pt": "o intercâmbio",
+          "en": "exchange program",
+          "ar": "التبادل الدراسي"
+        },
+        {
+          "pt": "a leitura fluente",
+          "en": "fluent reading",
+          "ar": "القراءة الطليقة"
+        }
+      ],
+      "answer": "o vocabulário passivo",
+      "explanation": {
+        "pt": "'o vocabulário passivo' significa 'passive vocabulary'.",
+        "en": "'o vocabulário passivo' means 'passive vocabulary'.",
+        "ar": "تعني 'o vocabulário passivo' 'المفردات السلبية'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'exchange program'?",
+        "en": "Which word means 'exchange program'?",
+        "ar": "أي كلمة تعني 'التبادل الدراسي'؟"
+      },
+      "options": [
+        {
+          "pt": "o intercâmbio",
+          "en": "exchange program",
+          "ar": "التبادل الدراسي"
+        },
+        {
+          "pt": "a manutenção",
+          "en": "maintenance",
+          "ar": "الصيانة / الاستمرار"
+        },
+        {
+          "pt": "a carreira",
+          "en": "career",
+          "ar": "المسيرة المهنية"
+        }
+      ],
+      "answer": "o intercâmbio",
+      "explanation": {
+        "pt": "'o intercâmbio' significa 'exchange program'.",
+        "en": "'o intercâmbio' means 'exchange program'.",
+        "ar": "تعني 'o intercâmbio' 'التبادل الدراسي'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"Fluent reading comes with time.\"",
+        "en": "Translate into Portuguese: \"Fluent reading comes with time.\"",
+        "ar": "ترجم إلى البرتغالية: \"تأتي القراءة الطليقة مع الوقت.\""
+      },
+      "options": [],
+      "answer": "A leitura fluente vem com o tempo.",
+      "explanation": {
+        "pt": "Resposta: \"A leitura fluente vem com o tempo.\".",
+        "en": "Answer: \"A leitura fluente vem com o tempo.\". (EN: \"Fluent reading comes with time.\")",
+        "ar": "الإجابة: \"A leitura fluente vem com o tempo.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"The career in the language grows.\"",
+        "en": "Translate into Portuguese: \"The career in the language grows.\"",
+        "ar": "ترجم إلى البرتغالية: \"تنمو المسيرة المهنية في اللغة.\""
+      },
+      "options": [],
+      "answer": "A carreira no idioma cresce.",
+      "explanation": {
+        "pt": "Resposta: \"A carreira no idioma cresce.\".",
+        "en": "Answer: \"A carreira no idioma cresce.\". (EN: \"The career in the language grows.\")",
+        "ar": "الإجابة: \"A carreira no idioma cresce.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: \"The exchange program lasts one year.\"",
+        "en": "Type in Portuguese: \"The exchange program lasts one year.\"",
+        "ar": "اكتب بالبرتغالية: \"يستمر التبادل الدراسي عامًا.\""
+      },
+      "options": [],
+      "answer": "O intercâmbio dura um ano.",
+      "accepted": [
+        "O intercâmbio dura um ano."
+      ],
+      "explanation": {
+        "pt": "Resposta possível: \"O intercâmbio dura um ano.\".",
+        "en": "One possible answer: \"O intercâmbio dura um ano.\".",
+        "ar": "إجابة ممكنة: \"O intercâmbio dura um ano.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "A",
+          "en": "A",
+          "ar": "A"
+        },
+        {
+          "pt": "quatro",
+          "en": "quatro",
+          "ar": "quatro"
+        },
+        {
+          "pt": "habilidades.",
+          "en": "habilidades.",
+          "ar": "habilidades."
+        },
+        {
+          "pt": "fluência",
+          "en": "fluência",
+          "ar": "fluência"
+        },
+        {
+          "pt": "combina",
+          "en": "combina",
+          "ar": "combina"
+        }
+      ],
+      "answer": "A fluência combina quatro habilidades.",
+      "gen": "v1.8",
+      "explanation": {
+        "pt": "A frase correta é: \"A fluência combina quatro habilidades.\".",
+        "en": "The correct sentence is: \"A fluência combina quatro habilidades.\".",
+        "ar": "الجملة الصحيحة هي: \"A fluência combina quatro habilidades.\"."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'active vocabulary'?",
+        "en": "Which word means 'active vocabulary'?",
+        "ar": "أي كلمة تعني 'المفردات الفاعلة'؟"
+      },
+      "options": [
+        {
+          "pt": "a leitura fluente",
+          "en": "fluent reading",
+          "ar": "القراءة الطليقة"
+        },
+        {
+          "pt": "o vocabulário ativo",
+          "en": "active vocabulary",
+          "ar": "المفردات الفاعلة"
+        },
+        {
+          "pt": "a imersão",
+          "en": "immersion",
+          "ar": "الانغماس"
+        },
+        {
+          "pt": "o avanço",
+          "en": "advance / progress",
+          "ar": "التقدم"
+        }
+      ],
+      "answer": "o vocabulário ativo",
+      "explanation": {
+        "pt": "'o vocabulário ativo' significa 'active vocabulary'.",
+        "en": "'o vocabulário ativo' means 'active vocabulary'.",
+        "ar": "تعني 'o vocabulário ativo' 'المفردات الفاعلة'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'language'?",
+        "en": "Which word means 'language'?",
+        "ar": "أي كلمة تعني 'اللغة'؟"
+      },
+      "options": [
+        {
+          "pt": "o networking",
+          "en": "networking",
+          "ar": "التواصل المهني"
+        },
+        {
+          "pt": "o avanço",
+          "en": "advance / progress",
+          "ar": "التقدم"
+        },
+        {
+          "pt": "a imersão",
+          "en": "immersion",
+          "ar": "الانغماس"
+        },
+        {
+          "pt": "o idioma",
+          "en": "language",
+          "ar": "اللغة"
+        }
+      ],
+      "answer": "o idioma",
+      "explanation": {
+        "pt": "'o idioma' significa 'language'.",
+        "en": "'o idioma' means 'language'.",
+        "ar": "تعني 'o idioma' 'اللغة'."
+      },
+      "gen": "v1.8"
     }
   ],
   "speaking": {

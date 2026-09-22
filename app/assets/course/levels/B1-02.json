@@ -30,9 +30,9 @@
       "en": "the interview",
       "ar": "المقابلة",
       "example": {
-        "pt": "A vaga foi preenchida pela empresa.",
-        "en": "The position was filled by the company.",
-        "ar": "شغّلت الشركة الوظيفة الشاغرة."
+        "pt": "A entrevista será amanhã.",
+        "en": "The interview is tomorrow.",
+        "ar": "المقابلة غدًا."
       }
     },
     {
@@ -41,9 +41,9 @@
       "en": "the résumé",
       "ar": "السيرة الذاتية",
       "example": {
-        "pt": "O currículo foi enviado ontem.",
-        "en": "The résumé was sent yesterday.",
-        "ar": "أُرسلت السيرة الذاتية أمس."
+        "pt": "Enviei o currículo ontem.",
+        "en": "I sent the résumé yesterday.",
+        "ar": "أرسلت السيرة الذاتية أمس."
       }
     },
     {
@@ -52,9 +52,9 @@
       "en": "the job opening",
       "ar": "الوظيفة الشاغرة",
       "example": {
-        "pt": "A vaga foi preenchida pela empresa.",
-        "en": "The position was filled by the company.",
-        "ar": "شغّلت الشركة الوظيفة الشاغرة."
+        "pt": "A vaga é para analista.",
+        "en": "The opening is for an analyst.",
+        "ar": "الوظيفة الشاغرة لمحلل."
       }
     },
     {
@@ -63,9 +63,9 @@
       "en": "the candidate",
       "ar": "المرشح",
       "example": {
-        "pt": "O currículo foi enviado ontem.",
-        "en": "The résumé was sent yesterday.",
-        "ar": "أُرسلت السيرة الذاتية أمس."
+        "pt": "O candidato é experiente.",
+        "en": "The candidate is experienced.",
+        "ar": "المرشح ذو خبرة."
       }
     },
     {
@@ -74,9 +74,9 @@
       "en": "the company",
       "ar": "الشركة",
       "example": {
-        "pt": "A vaga foi preenchida pela empresa.",
-        "en": "The position was filled by the company.",
-        "ar": "شغّلت الشركة الوظيفة الشاغرة."
+        "pt": "A empresa cresceu muito.",
+        "en": "The company grew a lot.",
+        "ar": "نمت الشركة كثيرًا."
       }
     },
     {
@@ -85,9 +85,9 @@
       "en": "the salary",
       "ar": "الراتب",
       "example": {
-        "pt": "O currículo foi enviado ontem.",
-        "en": "The résumé was sent yesterday.",
-        "ar": "أُرسلت السيرة الذاتية أمس."
+        "pt": "O salário sobe anualmente.",
+        "en": "The salary rises annually.",
+        "ar": "يرتفع الراتب سنويًا."
       }
     },
     {
@@ -96,9 +96,9 @@
       "en": "the experience",
       "ar": "الخبرة",
       "example": {
-        "pt": "A vaga foi preenchida pela empresa.",
-        "en": "The position was filled by the company.",
-        "ar": "شغّلت الشركة الوظيفة الشاغرة."
+        "pt": "Minha experiência é em vendas.",
+        "en": "My experience is in sales.",
+        "ar": "خبرتي في المبيعات."
       }
     },
     {
@@ -107,9 +107,9 @@
       "en": "the skill",
       "ar": "المهارة",
       "example": {
-        "pt": "A vaga foi preenchida pela empresa.",
-        "en": "The position was filled by the company.",
-        "ar": "شغّلت الشركة الوظيفة الشاغرة."
+        "pt": "A habilidade é importante.",
+        "en": "The skill is important.",
+        "ar": "المهارة مهمة."
       }
     },
     {
@@ -118,9 +118,9 @@
       "en": "the contract",
       "ar": "العقد",
       "example": {
-        "pt": "O currículo foi enviado ontem.",
-        "en": "The résumé was sent yesterday.",
-        "ar": "أُرسلت السيرة الذاتية أمس."
+        "pt": "O contrato vence em dezembro.",
+        "en": "The contract expires in December.",
+        "ar": "ينتهي العقد في ديسمبر."
       }
     },
     {
@@ -129,9 +129,9 @@
       "en": "the position",
       "ar": "المنصب",
       "example": {
-        "pt": "O currículo foi enviado ontem.",
-        "en": "The résumé was sent yesterday.",
-        "ar": "أُرسلت السيرة الذاتية أمس."
+        "pt": "Ele assumiu o cargo.",
+        "en": "He took over the position.",
+        "ar": "تولى المنصب."
       }
     },
     {
@@ -140,9 +140,9 @@
       "en": "the employee",
       "ar": "الموظف",
       "example": {
-        "pt": "O currículo foi enviado ontem.",
-        "en": "The résumé was sent yesterday.",
-        "ar": "أُرسلت السيرة الذاتية أمس."
+        "pt": "O funcionário trabalha há anos.",
+        "en": "The employee has worked for years.",
+        "ar": "يعمل الموظف منذ سنوات."
       }
     },
     {
@@ -151,9 +151,9 @@
       "en": "the dismissal",
       "ar": "الفصل من العمل",
       "example": {
-        "pt": "A vaga foi preenchida pela empresa.",
-        "en": "The position was filled by the company.",
-        "ar": "شغّلت الشركة الوظيفة الشاغرة."
+        "pt": "A demissão foi inesperada.",
+        "en": "The dismissal was unexpected.",
+        "ar": "كان الفصل من العمل غير متوقع."
       }
     },
     {
@@ -162,9 +162,9 @@
       "en": "the promotion",
       "ar": "الترقية",
       "example": {
-        "pt": "A vaga foi preenchida pela empresa.",
-        "en": "The position was filled by the company.",
-        "ar": "شغّلت الشركة الوظيفة الشاغرة."
+        "pt": "Ele mereceu a promoção.",
+        "en": "He deserved the promotion.",
+        "ar": "استحق الترقية."
       }
     },
     {
@@ -173,9 +173,9 @@
       "en": "the benefit",
       "ar": "الميزة",
       "example": {
-        "pt": "O currículo foi enviado ontem.",
-        "en": "The résumé was sent yesterday.",
-        "ar": "أُرسلت السيرة الذاتية أمس."
+        "pt": "O benefício inclui plano de saúde.",
+        "en": "The benefit includes health insurance.",
+        "ar": "تتضمن هذه الميزة تأمينًا صحيًا."
       }
     },
     {
@@ -184,9 +184,9 @@
       "en": "the team",
       "ar": "الفريق",
       "example": {
-        "pt": "A vaga foi preenchida pela empresa.",
-        "en": "The position was filled by the company.",
-        "ar": "شغّلت الشركة الوظيفة الشاغرة."
+        "pt": "A equipe ganhou o campeonato.",
+        "en": "The team won the championship.",
+        "ar": "فاز الفريق بالبطولة."
       }
     }
   ],
@@ -856,6 +856,227 @@
         "pt": "A frase correta: 'Conte-me sobre sua experiência profissional.'",
         "en": "The correct sentence: 'Conte-me sobre sua experiência profissional.'",
         "ar": "الجملة الصحيحة: 'Conte-me sobre sua experiência profissional.'"
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the contract'?",
+        "en": "Which word means 'the contract'?",
+        "ar": "أي كلمة تعني 'العقد'؟"
+      },
+      "options": [
+        {
+          "pt": "a habilidade",
+          "en": "the skill",
+          "ar": "المهارة"
+        },
+        {
+          "pt": "o contrato",
+          "en": "the contract",
+          "ar": "العقد"
+        },
+        {
+          "pt": "o cargo",
+          "en": "the position",
+          "ar": "المنصب"
+        },
+        {
+          "pt": "a experiência",
+          "en": "the experience",
+          "ar": "الخبرة"
+        }
+      ],
+      "answer": "o contrato",
+      "explanation": {
+        "pt": "'o contrato' significa 'the contract'.",
+        "en": "'o contrato' means 'the contract'.",
+        "ar": "تعني 'o contrato' 'العقد'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the interview'?",
+        "en": "Which word means 'the interview'?",
+        "ar": "أي كلمة تعني 'المقابلة'؟"
+      },
+      "options": [
+        {
+          "pt": "a demissão",
+          "en": "the dismissal",
+          "ar": "الفصل من العمل"
+        },
+        {
+          "pt": "a entrevista",
+          "en": "the interview",
+          "ar": "المقابلة"
+        },
+        {
+          "pt": "o candidato",
+          "en": "the candidate",
+          "ar": "المرشح"
+        }
+      ],
+      "answer": "a entrevista",
+      "explanation": {
+        "pt": "'a entrevista' significa 'the interview'.",
+        "en": "'a entrevista' means 'the interview'.",
+        "ar": "تعني 'a entrevista' 'المقابلة'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"The employee has worked for years.\"",
+        "en": "Translate into Portuguese: \"The employee has worked for years.\"",
+        "ar": "ترجم إلى البرتغالية: \"يعمل الموظف منذ سنوات.\""
+      },
+      "options": [],
+      "answer": "O funcionário trabalha há anos.",
+      "explanation": {
+        "pt": "Resposta: \"O funcionário trabalha há anos.\".",
+        "en": "Answer: \"O funcionário trabalha há anos.\". (EN: \"The employee has worked for years.\")",
+        "ar": "الإجابة: \"O funcionário trabalha há anos.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"The interview is tomorrow.\"",
+        "en": "Translate into Portuguese: \"The interview is tomorrow.\"",
+        "ar": "ترجم إلى البرتغالية: \"المقابلة غدًا.\""
+      },
+      "options": [],
+      "answer": "A entrevista será amanhã.",
+      "explanation": {
+        "pt": "Resposta: \"A entrevista será amanhã.\".",
+        "en": "Answer: \"A entrevista será amanhã.\". (EN: \"The interview is tomorrow.\")",
+        "ar": "الإجابة: \"A entrevista será amanhã.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Ele assumiu ___.\"",
+        "en": "Complete: \"Ele assumiu ___.\"",
+        "ar": "أكمل: \"Ele assumiu ___.\""
+      },
+      "options": [
+        {
+          "pt": "o cargo",
+          "en": "o cargo",
+          "ar": "o cargo"
+        },
+        {
+          "pt": "a experiência",
+          "en": "a experiência",
+          "ar": "a experiência"
+        },
+        {
+          "pt": "a empresa",
+          "en": "a empresa",
+          "ar": "a empresa"
+        }
+      ],
+      "answer": "o cargo",
+      "explanation": {
+        "pt": "A lacuna é 'o cargo'.",
+        "en": "The blank is 'o cargo'.",
+        "ar": "الفراغ هو 'o cargo'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Minh___ é em vendas.\"",
+        "en": "Complete: \"Minh___ é em vendas.\"",
+        "ar": "أكمل: \"Minh___ é em vendas.\""
+      },
+      "options": [
+        {
+          "pt": "o currículo",
+          "en": "o currículo",
+          "ar": "o currículo"
+        },
+        {
+          "pt": "a experiência",
+          "en": "a experiência",
+          "ar": "a experiência"
+        },
+        {
+          "pt": "o candidato",
+          "en": "o candidato",
+          "ar": "o candidato"
+        }
+      ],
+      "answer": "a experiência",
+      "explanation": {
+        "pt": "A lacuna é 'a experiência'.",
+        "en": "The blank is 'a experiência'.",
+        "ar": "الفراغ هو 'a experiência'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: \"He took over the position.\"",
+        "en": "Type in Portuguese: \"He took over the position.\"",
+        "ar": "اكتب بالبرتغالية: \"تولى المنصب.\""
+      },
+      "options": [],
+      "answer": "Ele assumiu o cargo.",
+      "accepted": [
+        "Ele assumiu o cargo."
+      ],
+      "explanation": {
+        "pt": "Resposta possível: \"Ele assumiu o cargo.\".",
+        "en": "One possible answer: \"Ele assumiu o cargo.\".",
+        "ar": "إجابة ممكنة: \"Ele assumiu o cargo.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Ele",
+          "en": "Ele",
+          "ar": "Ele"
+        },
+        {
+          "pt": "promoção.",
+          "en": "promoção.",
+          "ar": "promoção."
+        },
+        {
+          "pt": "mereceu",
+          "en": "mereceu",
+          "ar": "mereceu"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        }
+      ],
+      "answer": "Ele mereceu a promoção.",
+      "gen": "v1.8",
+      "explanation": {
+        "pt": "A frase correta é: \"Ele mereceu a promoção.\".",
+        "en": "The correct sentence is: \"Ele mereceu a promoção.\".",
+        "ar": "الجملة الصحيحة هي: \"Ele mereceu a promoção.\"."
       }
     }
   ],

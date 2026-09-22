@@ -35,9 +35,9 @@
       "en": "the market",
       "ar": "السوق",
       "example": {
-        "pt": "Com certeza. Seria possível aumentar o prazo de pagamento?",
-        "en": "Of course. Would it be possible to extend the payment period?",
-        "ar": "بالتأكيد. هل يمكن تمديد مدة السداد؟"
+        "pt": "O mercado reagiu bem.",
+        "en": "The market reacted well.",
+        "ar": "تفاعل السوق جيدًا."
       }
     },
     {
@@ -46,9 +46,9 @@
       "en": "the company",
       "ar": "الشركة",
       "example": {
-        "pt": "Justo. Além disso, precisamos de um prazo maior para a entrega.",
-        "en": "Fair. Besides, we need a longer delivery deadline.",
-        "ar": "عادل. بالإضافة إلى ذلك، نحتاج إلى مهلة أطول للتسليم."
+        "pt": "A empresa cortou custos.",
+        "en": "The company cut costs.",
+        "ar": "خفّضت الشركة التكاليف."
       }
     },
     {
@@ -57,9 +57,9 @@
       "en": "the investment",
       "ar": "الاستثمار",
       "example": {
-        "pt": "Com certeza. Seria possível aumentar o prazo de pagamento?",
-        "en": "Of course. Would it be possible to extend the payment period?",
-        "ar": "بالتأكيد. هل يمكن تمديد مدة السداد؟"
+        "pt": "O investimento deu retorno.",
+        "en": "The investment paid off.",
+        "ar": "حقق الاستثمار عائدًا."
       }
     },
     {
@@ -68,9 +68,9 @@
       "en": "the profit",
       "ar": "الربح",
       "example": {
-        "pt": "Com certeza. Seria possível aumentar o prazo de pagamento?",
-        "en": "Of course. Would it be possible to extend the payment period?",
-        "ar": "بالتأكيد. هل يمكن تمديد مدة السداد؟"
+        "pt": "O lucro dobrou este ano.",
+        "en": "The profit doubled this year.",
+        "ar": "تضاعف الربح هذا العام."
       }
     },
     {
@@ -79,9 +79,9 @@
       "en": "the loss",
       "ar": "الخسارة",
       "example": {
-        "pt": "Com certeza. Seria possível aumentar o prazo de pagamento?",
-        "en": "Of course. Would it be possible to extend the payment period?",
-        "ar": "بالتأكيد. هل يمكن تمديد مدة السداد؟"
+        "pt": "O prejuízo foi grande.",
+        "en": "The loss was big.",
+        "ar": "كانت الخسارة كبيرة."
       }
     },
     {
@@ -90,9 +90,9 @@
       "en": "the inflation",
       "ar": "التضخم",
       "example": {
-        "pt": "Justo. Além disso, precisamos de um prazo maior para a entrega.",
-        "en": "Fair. Besides, we need a longer delivery deadline.",
-        "ar": "عادل. بالإضافة إلى ذلك، نحتاج إلى مهلة أطول للتسليم."
+        "pt": "A inflação desacelerou.",
+        "en": "Inflation slowed down.",
+        "ar": "تباطأ التضخم."
       }
     },
     {
@@ -101,9 +101,9 @@
       "en": "the interest",
       "ar": "الفائدة",
       "example": {
-        "pt": "Com certeza. Seria possível aumentar o prazo de pagamento?",
-        "en": "Of course. Would it be possible to extend the payment period?",
-        "ar": "بالتأكيد. هل يمكن تمديد مدة السداد؟"
+        "pt": "O juro do empréstimo subiu.",
+        "en": "The loan interest went up.",
+        "ar": "ارتفعت فائدة القرض."
       }
     },
     {
@@ -112,9 +112,9 @@
       "en": "the budget",
       "ar": "الميزانية",
       "example": {
-        "pt": "Com certeza. Seria possível aumentar o prazo de pagamento?",
-        "en": "Of course. Would it be possible to extend the payment period?",
-        "ar": "بالتأكيد. هل يمكن تمديد مدة السداد؟"
+        "pt": "O orçamento está apertado.",
+        "en": "The budget is tight.",
+        "ar": "الميزانية ضيقة."
       }
     },
     {
@@ -123,9 +123,9 @@
       "en": "the negotiation",
       "ar": "التفاوض",
       "example": {
-        "pt": "Justo. Além disso, precisamos de um prazo maior para a entrega.",
-        "en": "Fair. Besides, we need a longer delivery deadline.",
-        "ar": "عادل. بالإضافة إلى ذلك، نحتاج إلى مهلة أطول للتسليم."
+        "pt": "A negociação levou semanas.",
+        "en": "The negotiation took weeks.",
+        "ar": "استغرق التفاوض أسابيع."
       }
     },
     {
@@ -134,9 +134,9 @@
       "en": "the contract",
       "ar": "العقد",
       "example": {
-        "pt": "Com certeza. Seria possível aumentar o prazo de pagamento?",
-        "en": "Of course. Would it be possible to extend the payment period?",
-        "ar": "بالتأكيد. هل يمكن تمديد مدة السداد؟"
+        "pt": "O contrato prevê multa.",
+        "en": "The contract provides for a fine.",
+        "ar": "ينص العقد على غرامة."
       }
     },
     {
@@ -145,9 +145,9 @@
       "en": "the client",
       "ar": "العميل",
       "example": {
-        "pt": "Com certeza. Seria possível aumentar o prazo de pagamento?",
-        "en": "Of course. Would it be possible to extend the payment period?",
-        "ar": "بالتأكيد. هل يمكن تمديد مدة السداد؟"
+        "pt": "O cliente satisfeito volta.",
+        "en": "The satisfied customer comes back.",
+        "ar": "العميل الراضي يعود."
       }
     },
     {
@@ -156,9 +156,9 @@
       "en": "the supplier",
       "ar": "المورد",
       "example": {
-        "pt": "Com certeza. Seria possível aumentar o prazo de pagamento?",
-        "en": "Of course. Would it be possible to extend the payment period?",
-        "ar": "بالتأكيد. هل يمكن تمديد مدة السداد؟"
+        "pt": "O fornecedor é de confiança.",
+        "en": "The supplier is trustworthy.",
+        "ar": "المورد موثوق."
       }
     },
     {
@@ -167,9 +167,9 @@
       "en": "the competition",
       "ar": "المنافسة",
       "example": {
-        "pt": "Justo. Além disso, precisamos de um prazo maior para a entrega.",
-        "en": "Fair. Besides, we need a longer delivery deadline.",
-        "ar": "عادل. بالإضافة إلى ذلك، نحتاج إلى مهلة أطول للتسليم."
+        "pt": "A concorrência está forte.",
+        "en": "The competition is strong.",
+        "ar": "المنافسة شديدة."
       }
     },
     {
@@ -178,9 +178,9 @@
       "en": "the stock exchange",
       "ar": "البورصة",
       "example": {
-        "pt": "Justo. Além disso, precisamos de um prazo maior para a entrega.",
-        "en": "Fair. Besides, we need a longer delivery deadline.",
-        "ar": "عادل. بالإضافة إلى ذلك، نحتاج إلى مهلة أطول للتسليم."
+        "pt": "A bolsa de valores caiu.",
+        "en": "The stock exchange fell.",
+        "ar": "انخفضت البورصة."
       }
     },
     {
@@ -189,9 +189,9 @@
       "en": "the growth",
       "ar": "النمو",
       "example": {
-        "pt": "Com certeza. Seria possível aumentar o prazo de pagamento?",
-        "en": "Of course. Would it be possible to extend the payment period?",
-        "ar": "بالتأكيد. هل يمكن تمديد مدة السداد؟"
+        "pt": "O crescimento foi constante.",
+        "en": "The growth was steady.",
+        "ar": "كان النمو ثابتًا."
       }
     },
     {
@@ -200,9 +200,9 @@
       "en": "the currency",
       "ar": "العملة",
       "example": {
-        "pt": "Justo. Além disso, precisamos de um prazo maior para a entrega.",
-        "en": "Fair. Besides, we need a longer delivery deadline.",
-        "ar": "عادل. بالإضافة إلى ذلك، نحتاج إلى مهلة أطول للتسليم."
+        "pt": "A moeda desvalorizou.",
+        "en": "The currency lost value.",
+        "ar": "فقدت العملة قيمتها."
       }
     },
     {
@@ -211,9 +211,9 @@
       "en": "the job",
       "ar": "الوظيفة",
       "example": {
-        "pt": "Com certeza. Seria possível aumentar o prazo de pagamento?",
-        "en": "Of course. Would it be possible to extend the payment period?",
-        "ar": "بالتأكيد. هل يمكن تمديد مدة السداد؟"
+        "pt": "O emprego cresceu em junho.",
+        "en": "Employment grew in June.",
+        "ar": "نما التوظيف في يونيو."
       }
     }
   ],
@@ -918,6 +918,232 @@
         "en": "The correct sentence: 'Boa tarde. Gostaríamos de discutir os termos do contrato.'",
         "ar": "الجملة الصحيحة: 'Boa tarde. Gostaríamos de discutir os termos do contrato.'"
       }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the interest'?",
+        "en": "Which word means 'the interest'?",
+        "ar": "أي كلمة تعني 'الفائدة'؟"
+      },
+      "options": [
+        {
+          "pt": "o contrato",
+          "en": "the contract",
+          "ar": "العقد"
+        },
+        {
+          "pt": "o juro",
+          "en": "the interest",
+          "ar": "الفائدة"
+        },
+        {
+          "pt": "o cliente",
+          "en": "the client",
+          "ar": "العميل"
+        },
+        {
+          "pt": "a negociação",
+          "en": "the negotiation",
+          "ar": "التفاوض"
+        }
+      ],
+      "answer": "o juro",
+      "explanation": {
+        "pt": "'o juro' significa 'the interest'.",
+        "en": "'o juro' means 'the interest'.",
+        "ar": "تعني 'o juro' 'الفائدة'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the profit'?",
+        "en": "Which word means 'the profit'?",
+        "ar": "أي كلمة تعني 'الربح'؟"
+      },
+      "options": [
+        {
+          "pt": "o lucro",
+          "en": "the profit",
+          "ar": "الربح"
+        },
+        {
+          "pt": "o investimento",
+          "en": "the investment",
+          "ar": "الاستثمار"
+        },
+        {
+          "pt": "o contrato",
+          "en": "the contract",
+          "ar": "العقد"
+        }
+      ],
+      "answer": "o lucro",
+      "explanation": {
+        "pt": "'o lucro' significa 'the profit'.",
+        "en": "'o lucro' means 'the profit'.",
+        "ar": "تعني 'o lucro' 'الربح'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"The competition is strong.\"",
+        "en": "Translate into Portuguese: \"The competition is strong.\"",
+        "ar": "ترجم إلى البرتغالية: \"المنافسة شديدة.\""
+      },
+      "options": [],
+      "answer": "A concorrência está forte.",
+      "explanation": {
+        "pt": "Resposta: \"A concorrência está forte.\".",
+        "en": "Answer: \"A concorrência está forte.\". (EN: \"The competition is strong.\")",
+        "ar": "الإجابة: \"A concorrência está forte.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"Inflation slowed down.\"",
+        "en": "Translate into Portuguese: \"Inflation slowed down.\"",
+        "ar": "ترجم إلى البرتغالية: \"تباطأ التضخم.\""
+      },
+      "options": [],
+      "answer": "A inflação desacelerou.",
+      "explanation": {
+        "pt": "Resposta: \"A inflação desacelerou.\".",
+        "en": "Answer: \"A inflação desacelerou.\". (EN: \"Inflation slowed down.\")",
+        "ar": "الإجابة: \"A inflação desacelerou.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: \"The growth was steady.\"",
+        "en": "Type in Portuguese: \"The growth was steady.\"",
+        "ar": "اكتب بالبرتغالية: \"كان النمو ثابتًا.\""
+      },
+      "options": [],
+      "answer": "O crescimento foi constante.",
+      "accepted": [
+        "O crescimento foi constante."
+      ],
+      "explanation": {
+        "pt": "Resposta possível: \"O crescimento foi constante.\".",
+        "en": "One possible answer: \"O crescimento foi constante.\".",
+        "ar": "إجابة ممكنة: \"O crescimento foi constante.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "A",
+          "en": "A",
+          "ar": "A"
+        },
+        {
+          "pt": "caiu.",
+          "en": "caiu.",
+          "ar": "caiu."
+        },
+        {
+          "pt": "bolsa",
+          "en": "bolsa",
+          "ar": "bolsa"
+        },
+        {
+          "pt": "de",
+          "en": "de",
+          "ar": "de"
+        },
+        {
+          "pt": "valores",
+          "en": "valores",
+          "ar": "valores"
+        }
+      ],
+      "answer": "A bolsa de valores caiu.",
+      "gen": "v1.8",
+      "explanation": {
+        "pt": "A frase correta é: \"A bolsa de valores caiu.\".",
+        "en": "The correct sentence is: \"A bolsa de valores caiu.\".",
+        "ar": "الجملة الصحيحة هي: \"A bolsa de valores caiu.\"."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the market'?",
+        "en": "Which word means 'the market'?",
+        "ar": "أي كلمة تعني 'السوق'؟"
+      },
+      "options": [
+        {
+          "pt": "a negociação",
+          "en": "the negotiation",
+          "ar": "التفاوض"
+        },
+        {
+          "pt": "o mercado",
+          "en": "the market",
+          "ar": "السوق"
+        },
+        {
+          "pt": "a moeda",
+          "en": "the currency",
+          "ar": "العملة"
+        }
+      ],
+      "answer": "o mercado",
+      "explanation": {
+        "pt": "'o mercado' significa 'the market'.",
+        "en": "'o mercado' means 'the market'.",
+        "ar": "تعني 'o mercado' 'السوق'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the supplier'?",
+        "en": "Which word means 'the supplier'?",
+        "ar": "أي كلمة تعني 'المورد'؟"
+      },
+      "options": [
+        {
+          "pt": "o fornecedor",
+          "en": "the supplier",
+          "ar": "المورد"
+        },
+        {
+          "pt": "o mercado",
+          "en": "the market",
+          "ar": "السوق"
+        },
+        {
+          "pt": "a bolsa de valores",
+          "en": "the stock exchange",
+          "ar": "البورصة"
+        }
+      ],
+      "answer": "o fornecedor",
+      "explanation": {
+        "pt": "'o fornecedor' significa 'the supplier'.",
+        "en": "'o fornecedor' means 'the supplier'.",
+        "ar": "تعني 'o fornecedor' 'المورد'."
+      },
+      "gen": "v1.8"
     }
   ],
   "speaking": {

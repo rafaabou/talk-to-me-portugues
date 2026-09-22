@@ -35,9 +35,9 @@
       "en": "zero",
       "ar": "صفر",
       "example": {
-        "pt": "Bom dia! Um café, por favor.",
-        "en": "Good morning! A coffee, please.",
-        "ar": "صباح الخير! فنجان قهوة، من فضلك."
+        "pt": "O time terminou zero a zero.",
+        "en": "The match ended zero to zero.",
+        "ar": "انتهى المباراة صفرًا مقابل صفر."
       }
     },
     {
@@ -46,9 +46,9 @@
       "en": "one",
       "ar": "واحد",
       "example": {
-        "pt": "Bom dia! Um café, por favor.",
-        "en": "Good morning! A coffee, please.",
-        "ar": "صباح الخير! فنجان قهوة، من فضلك."
+        "pt": "Eu tenho um irmão.",
+        "en": "I have a brother.",
+        "ar": "لديّ أخ."
       }
     },
     {
@@ -57,9 +57,9 @@
       "en": "two",
       "ar": "اثنان",
       "example": {
-        "pt": "Bom dia! Um café, por favor.",
-        "en": "Good morning! A coffee, please.",
-        "ar": "صباح الخير! فنجان قهوة، من فضلك."
+        "pt": "A casa tem dois quartos.",
+        "en": "The house has two rooms.",
+        "ar": "المنزل غرفتان."
       }
     },
     {
@@ -68,9 +68,9 @@
       "en": "three",
       "ar": "ثلاثة",
       "example": {
-        "pt": "E o troco são três reais. Obrigado!",
-        "en": "And the change is three reais. Thank you!",
-        "ar": "والباقي ثلاثة ريالات. شكرًا!"
+        "pt": "Eu tenho três gatos.",
+        "en": "I have three cats.",
+        "ar": "لديّ ثلاثة قطط."
       }
     },
     {
@@ -79,9 +79,9 @@
       "en": "four",
       "ar": "أربعة",
       "example": {
-        "pt": "Bom dia! Um café, por favor.",
-        "en": "Good morning! A coffee, please.",
-        "ar": "صباح الخير! فنجان قهوة، من فضلك."
+        "pt": "A mesa tem quatro cadeiras.",
+        "en": "The table has four chairs.",
+        "ar": "الطاولة لها أربعة كراسي."
       }
     },
     {
@@ -90,9 +90,9 @@
       "en": "five",
       "ar": "خمسة",
       "example": {
-        "pt": "Eu tenho vinte e cinco anos.",
-        "en": "I am twenty-five years old.",
-        "ar": "عمري خمسة وعشرون عامًا."
+        "pt": "A aula começa às cinco.",
+        "en": "The class starts at five.",
+        "ar": "تبدأ الحصة في الخامسة."
       }
     },
     {
@@ -101,9 +101,9 @@
       "en": "six",
       "ar": "ستة",
       "example": {
-        "pt": "Bom dia! Um café, por favor.",
-        "en": "Good morning! A coffee, please.",
-        "ar": "صباح الخير! فنجان قهوة، من فضلك."
+        "pt": "São seis da manhã.",
+        "en": "It's six in the morning.",
+        "ar": "السادسة صباحًا."
       }
     },
     {
@@ -112,9 +112,9 @@
       "en": "seven",
       "ar": "سبعة",
       "example": {
-        "pt": "Bom dia! São sete reais.",
-        "en": "Good morning! It's seven reais.",
-        "ar": "صباح الخير! سبعة ريالات."
+        "pt": "Eu acordo às sete.",
+        "en": "I wake up at seven.",
+        "ar": "أستيقظ في السابعة."
       }
     },
     {
@@ -123,9 +123,9 @@
       "en": "eight",
       "ar": "ثمانية",
       "example": {
-        "pt": "Meu número é nove, oito, sete.",
-        "en": "My number is nine, eight, seven.",
-        "ar": "رقمي هو تسعة، ثمانية، سبعة."
+        "pt": "O ônibus sai às oito.",
+        "en": "The bus leaves at eight.",
+        "ar": "يغادر الحافلة في الثامنة."
       }
     },
     {
@@ -134,9 +134,9 @@
       "en": "nine",
       "ar": "تسعة",
       "example": {
-        "pt": "Meu número é nove, oito, sete.",
-        "en": "My number is nine, eight, seven.",
-        "ar": "رقمي هو تسعة، ثمانية، سبعة."
+        "pt": "Trabalho das nove às cinco.",
+        "en": "I work from nine to five.",
+        "ar": "أعمل من التاسعة إلى الخامسة."
       }
     },
     {
@@ -145,9 +145,9 @@
       "en": "ten",
       "ar": "عشرة",
       "example": {
-        "pt": "Aqui estão dez reais.",
-        "en": "Here is ten reais.",
-        "ar": "ها هي عشرة ريالات."
+        "pt": "Faltam dez minutos.",
+        "en": "Ten minutes are left.",
+        "ar": "تبقّت عشر دقائق."
       }
     },
     {
@@ -156,9 +156,9 @@
       "en": "twenty",
       "ar": "عشرون",
       "example": {
-        "pt": "Eu tenho vinte e cinco anos.",
-        "en": "I am twenty-five years old.",
-        "ar": "عمري خمسة وعشرون عامًا."
+        "pt": "São vinte reais no total.",
+        "en": "It's twenty reais in total.",
+        "ar": "المجموع عشرون ريالًا."
       }
     },
     {
@@ -167,9 +167,9 @@
       "en": "thirty",
       "ar": "ثلاثون",
       "example": {
-        "pt": "Eu tenho trinta anos.",
-        "en": "I am thirty years old.",
-        "ar": "عمري ثلاثون عامًا."
+        "pt": "A prova dura trinta minutos.",
+        "en": "The test lasts thirty minutes.",
+        "ar": "تستغرق الامتحان ثلاثين دقيقة."
       }
     },
     {
@@ -178,9 +178,9 @@
       "en": "one hundred",
       "ar": "مئة",
       "example": {
-        "pt": "Bom dia! Um café, por favor.",
-        "en": "Good morning! A coffee, please.",
-        "ar": "صباح الخير! فنجان قهوة، من فضلك."
+        "pt": "Contei cem passos.",
+        "en": "I counted a hundred steps.",
+        "ar": "عدّت مئة خطوة."
       }
     },
     {
@@ -189,9 +189,9 @@
       "en": "the age",
       "ar": "العمر",
       "example": {
-        "pt": "Bom dia! Um café, por favor.",
-        "en": "Good morning! A coffee, please.",
-        "ar": "صباح الخير! فنجان قهوة، من فضلك."
+        "pt": "A idade dele é vinte e cinco.",
+        "en": "His age is twenty-five.",
+        "ar": "عمره خمس وعشرون سنة."
       }
     },
     {
@@ -200,9 +200,9 @@
       "en": "the price",
       "ar": "السعر",
       "example": {
-        "pt": "E o troco são três reais. Obrigado!",
-        "en": "And the change is three reais. Thank you!",
-        "ar": "والباقي ثلاثة ريالات. شكرًا!"
+        "pt": "O preço do livro é baixo.",
+        "en": "The price of the book is low.",
+        "ar": "سعر الكتاب منخفض."
       }
     }
   ],
@@ -866,6 +866,232 @@
         "pt": "A frase correta: 'Bom dia! Um café, por favor.'",
         "en": "The correct sentence: 'Bom dia! Um café, por favor.'",
         "ar": "الجملة الصحيحة: 'Bom dia! Um café, por favor.'"
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'twenty'?",
+        "en": "Which word means 'twenty'?",
+        "ar": "أي كلمة تعني 'عشرون'؟"
+      },
+      "options": [
+        {
+          "pt": "dez",
+          "en": "ten",
+          "ar": "عشرة"
+        },
+        {
+          "pt": "quatro",
+          "en": "four",
+          "ar": "أربعة"
+        },
+        {
+          "pt": "vinte",
+          "en": "twenty",
+          "ar": "عشرون"
+        },
+        {
+          "pt": "nove",
+          "en": "nine",
+          "ar": "تسعة"
+        }
+      ],
+      "answer": "vinte",
+      "explanation": {
+        "pt": "'vinte' significa 'twenty'.",
+        "en": "'vinte' means 'twenty'.",
+        "ar": "تعني 'vinte' 'عشرون'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'ten'?",
+        "en": "Which word means 'ten'?",
+        "ar": "أي كلمة تعني 'عشرة'؟"
+      },
+      "options": [
+        {
+          "pt": "zero",
+          "en": "zero",
+          "ar": "صفر"
+        },
+        {
+          "pt": "trinta",
+          "en": "thirty",
+          "ar": "ثلاثون"
+        },
+        {
+          "pt": "dez",
+          "en": "ten",
+          "ar": "عشرة"
+        },
+        {
+          "pt": "três",
+          "en": "three",
+          "ar": "ثلاثة"
+        }
+      ],
+      "answer": "dez",
+      "explanation": {
+        "pt": "'dez' significa 'ten'.",
+        "en": "'dez' means 'ten'.",
+        "ar": "تعني 'dez' 'عشرة'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"The bus leaves at eight.\"",
+        "en": "Translate into Portuguese: \"The bus leaves at eight.\"",
+        "ar": "ترجم إلى البرتغالية: \"يغادر الحافلة في الثامنة.\""
+      },
+      "options": [],
+      "answer": "O ônibus sai às oito.",
+      "explanation": {
+        "pt": "Resposta: \"O ônibus sai às oito.\".",
+        "en": "Answer: \"O ônibus sai às oito.\". (EN: \"The bus leaves at eight.\")",
+        "ar": "الإجابة: \"O ônibus sai às oito.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"The class starts at five.\"",
+        "en": "Translate into Portuguese: \"The class starts at five.\"",
+        "ar": "ترجم إلى البرتغالية: \"تبدأ الحصة في الخامسة.\""
+      },
+      "options": [],
+      "answer": "A aula começa às cinco.",
+      "explanation": {
+        "pt": "Resposta: \"A aula começa às cinco.\".",
+        "en": "Answer: \"A aula começa às cinco.\". (EN: \"The class starts at five.\")",
+        "ar": "الإجابة: \"A aula começa às cinco.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"A casa tem ___ quartos.\"",
+        "en": "Complete: \"A casa tem ___ quartos.\"",
+        "ar": "أكمل: \"A casa tem ___ quartos.\""
+      },
+      "options": [
+        {
+          "pt": "cinco",
+          "en": "cinco",
+          "ar": "cinco"
+        },
+        {
+          "pt": "dois",
+          "en": "dois",
+          "ar": "dois"
+        },
+        {
+          "pt": "seis",
+          "en": "seis",
+          "ar": "seis"
+        }
+      ],
+      "answer": "dois",
+      "explanation": {
+        "pt": "A lacuna é 'dois'.",
+        "en": "The blank is 'dois'.",
+        "ar": "الفراغ هو 'dois'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Eu tenho ___ gatos.\"",
+        "en": "Complete: \"Eu tenho ___ gatos.\"",
+        "ar": "أكمل: \"Eu tenho ___ gatos.\""
+      },
+      "options": [
+        {
+          "pt": "zero",
+          "en": "zero",
+          "ar": "zero"
+        },
+        {
+          "pt": "três",
+          "en": "três",
+          "ar": "três"
+        },
+        {
+          "pt": "cinco",
+          "en": "cinco",
+          "ar": "cinco"
+        }
+      ],
+      "answer": "três",
+      "explanation": {
+        "pt": "A lacuna é 'três'.",
+        "en": "The blank is 'três'.",
+        "ar": "الفراغ هو 'três'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: \"I work from nine to five.\"",
+        "en": "Type in Portuguese: \"I work from nine to five.\"",
+        "ar": "اكتب بالبرتغالية: \"أعمل من التاسعة إلى الخامسة.\""
+      },
+      "options": [],
+      "answer": "Trabalho das nove às cinco.",
+      "accepted": [
+        "Trabalho das nove às cinco."
+      ],
+      "explanation": {
+        "pt": "Resposta possível: \"Trabalho das nove às cinco.\".",
+        "en": "One possible answer: \"Trabalho das nove às cinco.\".",
+        "ar": "إجابة ممكنة: \"Trabalho das nove às cinco.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "Eu",
+          "en": "Eu",
+          "ar": "Eu"
+        },
+        {
+          "pt": "um",
+          "en": "um",
+          "ar": "um"
+        },
+        {
+          "pt": "irmão.",
+          "en": "irmão.",
+          "ar": "irmão."
+        },
+        {
+          "pt": "tenho",
+          "en": "tenho",
+          "ar": "tenho"
+        }
+      ],
+      "answer": "Eu tenho um irmão.",
+      "gen": "v1.8",
+      "explanation": {
+        "pt": "A frase correta é: \"Eu tenho um irmão.\".",
+        "en": "The correct sentence is: \"Eu tenho um irmão.\".",
+        "ar": "الجملة الصحيحة هي: \"Eu tenho um irmão.\"."
       }
     }
   ],

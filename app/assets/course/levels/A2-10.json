@@ -35,9 +35,9 @@
       "en": "the telephone",
       "ar": "الهاتف",
       "example": {
-        "pt": "Pode falar com o gerente, por favor?",
-        "en": "Can I speak with the manager, please?",
-        "ar": "هل يمكنني التحدث مع المدير، من فضلك؟"
+        "pt": "O telefone está na mesa.",
+        "en": "The phone is on the table.",
+        "ar": "الهاتف على الطاولة."
       }
     },
     {
@@ -46,9 +46,9 @@
       "en": "the cell phone",
       "ar": "الهاتف المحمول",
       "example": {
-        "pt": "Pode falar com o gerente, por favor?",
-        "en": "Can I speak with the manager, please?",
-        "ar": "هل يمكنني التحدث مع المدير، من فضلك؟"
+        "pt": "O celular quebrou.",
+        "en": "The cell phone broke.",
+        "ar": "انكسر الهاتف المحمول."
       }
     },
     {
@@ -57,9 +57,9 @@
       "en": "to call",
       "ar": "يتصل",
       "example": {
-        "pt": "Vou te ligar depois do almoço.",
-        "en": "I will call you after lunch.",
-        "ar": "سأتصل بك بعد الغداء."
+        "pt": "Vou ligar para a mãe.",
+        "en": "I'm going to call mom.",
+        "ar": "سأتصل بالأم."
       }
     },
     {
@@ -68,9 +68,9 @@
       "en": "the call",
       "ar": "المكالمة",
       "example": {
-        "pt": "Você fala com a secretária.",
-        "en": "You are speaking with the secretary.",
-        "ar": "تتحدث مع السكرتيرة."
+        "pt": "A ligação foi longa.",
+        "en": "The call was long.",
+        "ar": "كانت المكالمة طويلة."
       }
     },
     {
@@ -79,9 +79,9 @@
       "en": "to answer",
       "ar": "يرد",
       "example": {
-        "pt": "Alô, empresa Silva. Bom dia!",
-        "en": "Hello, Silva company. Good morning!",
-        "ar": "ألو، شركة سيلفا. صباح الخير!"
+        "pt": "Vou atender a porta.",
+        "en": "I'm going to answer the door.",
+        "ar": "سأفتح الباب."
       }
     },
     {
@@ -90,9 +90,9 @@
       "en": "to dial",
       "ar": "يطلب الرقم",
       "example": {
-        "pt": "Alô, empresa Silva. Bom dia!",
-        "en": "Hello, Silva company. Good morning!",
-        "ar": "ألو، شركة سيلفا. صباح الخير!"
+        "pt": "Preciso discar o número.",
+        "en": "I need to dial the number.",
+        "ar": "أحتاج أن أطلب الرقم."
       }
     },
     {
@@ -101,9 +101,9 @@
       "en": "the number",
       "ar": "الرقم",
       "example": {
-        "pt": "Pode falar com o gerente, por favor?",
-        "en": "Can I speak with the manager, please?",
-        "ar": "هل يمكنني التحدث مع المدير، من فضلك؟"
+        "pt": "O número está errado.",
+        "en": "The number is wrong.",
+        "ar": "الرقم خاطئ."
       }
     },
     {
@@ -112,9 +112,9 @@
       "en": "the message",
       "ar": "الرسالة",
       "example": {
-        "pt": "Você fala com a secretária.",
-        "en": "You are speaking with the secretary.",
-        "ar": "تتحدث مع السكرتيرة."
+        "pt": "A mensagem chegou tarde.",
+        "en": "The message arrived late.",
+        "ar": "وصلت الرسالة متأخرة."
       }
     },
     {
@@ -123,9 +123,9 @@
       "en": "the voicemail",
       "ar": "البريد الصوتي",
       "example": {
-        "pt": "Você fala com a secretária.",
-        "en": "You are speaking with the secretary.",
-        "ar": "تتحدث مع السكرتيرة."
+        "pt": "Verifique a caixa postal.",
+        "en": "Check the voicemail.",
+        "ar": "تحقق من البريد الصوتي."
       }
     },
     {
@@ -134,9 +134,9 @@
       "en": "the carrier",
       "ar": "شركة الاتصالات",
       "example": {
-        "pt": "Você fala com a secretária.",
-        "en": "You are speaking with the secretary.",
-        "ar": "تتحدث مع السكرتيرة."
+        "pt": "Liguei para a operadora.",
+        "en": "I called the carrier.",
+        "ar": "اتصلت بشركة الاتصالات."
       }
     },
     {
@@ -145,9 +145,9 @@
       "en": "the signal",
       "ar": "الإشارة",
       "example": {
-        "pt": "Pode falar com o gerente, por favor?",
-        "en": "Can I speak with the manager, please?",
-        "ar": "هل يمكنني التحدث مع المدير، من فضلك؟"
+        "pt": "O sinal está fraco aqui.",
+        "en": "The signal is weak here.",
+        "ar": "الإشارة ضعيفة هنا."
       }
     },
     {
@@ -156,9 +156,9 @@
       "en": "the call",
       "ar": "المكالمة",
       "example": {
-        "pt": "Você fala com a secretária.",
-        "en": "You are speaking with the secretary.",
-        "ar": "تتحدث مع السكرتيرة."
+        "pt": "A chamada terminou rápido.",
+        "en": "The call ended quickly.",
+        "ar": "انتهت المكالمة بسرعة."
       }
     },
     {
@@ -167,9 +167,9 @@
       "en": "the message",
       "ar": "الرسالة",
       "example": {
-        "pt": "Pode falar com o gerente, por favor?",
-        "en": "Can I speak with the manager, please?",
-        "ar": "هل يمكنني التحدث مع المدير، من فضلك؟"
+        "pt": "O recado é importante.",
+        "en": "The message is important.",
+        "ar": "الرسالة مهمة."
       }
     },
     {
@@ -178,9 +178,9 @@
       "en": "to hang up",
       "ar": "ينهي المكالمة",
       "example": {
-        "pt": "Alô, empresa Silva. Bom dia!",
-        "en": "Hello, Silva company. Good morning!",
-        "ar": "ألو، شركة سيلفا. صباح الخير!"
+        "pt": "Vou desligar agora.",
+        "en": "I'm going to hang up now.",
+        "ar": "سأغلق الخط الآن."
       }
     },
     {
@@ -189,9 +189,9 @@
       "en": "to send",
       "ar": "يرسل",
       "example": {
-        "pt": "Alô, empresa Silva. Bom dia!",
-        "en": "Hello, Silva company. Good morning!",
-        "ar": "ألو، شركة سيلفا. صباح الخير!"
+        "pt": "Pode mandar a foto?",
+        "en": "Can you send the photo?",
+        "ar": "هل يمكنك إرسال الصورة؟"
       }
     },
     {
@@ -200,9 +200,9 @@
       "en": "the internet",
       "ar": "الإنترنت",
       "example": {
-        "pt": "Você fala com a secretária.",
-        "en": "You are speaking with the secretary.",
-        "ar": "تتحدث مع السكرتيرة."
+        "pt": "A internet caiu de novo.",
+        "en": "The internet went down again.",
+        "ar": "انقطعت الإنترنت مرة أخرى."
       }
     },
     {
@@ -211,9 +211,9 @@
       "en": "the app",
       "ar": "التطبيق",
       "example": {
-        "pt": "Pode falar com o gerente, por favor?",
-        "en": "Can I speak with the manager, please?",
-        "ar": "هل يمكنني التحدث مع المدير، من فضلك؟"
+        "pt": "O aplicativo travou hoje.",
+        "en": "The app crashed today.",
+        "ar": "تعطل التطبيق اليوم."
       }
     },
     {
@@ -222,9 +222,9 @@
       "en": "the video call",
       "ar": "مكالمة الفيديو",
       "example": {
-        "pt": "Você fala com a secretária.",
-        "en": "You are speaking with the secretary.",
-        "ar": "تتحدث مع السكرتيرة."
+        "pt": "Fiz uma videochamada ontem.",
+        "en": "I made a video call yesterday.",
+        "ar": "أجرت مكالمة فيديو أمس."
       }
     }
   ],
@@ -884,6 +884,232 @@
         "pt": "A frase correta: 'Alô, empresa Silva. Bom dia!'",
         "en": "The correct sentence: 'Alô, empresa Silva. Bom dia!'",
         "ar": "الجملة الصحيحة: 'Alô, empresa Silva. Bom dia!'"
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'to hang up'?",
+        "en": "Which word means 'to hang up'?",
+        "ar": "أي كلمة تعني 'ينهي المكالمة'؟"
+      },
+      "options": [
+        {
+          "pt": "o recado",
+          "en": "the message",
+          "ar": "الرسالة"
+        },
+        {
+          "pt": "a ligação",
+          "en": "the call",
+          "ar": "المكالمة"
+        },
+        {
+          "pt": "o aplicativo",
+          "en": "the app",
+          "ar": "التطبيق"
+        },
+        {
+          "pt": "desligar",
+          "en": "to hang up",
+          "ar": "ينهي المكالمة"
+        }
+      ],
+      "answer": "desligar",
+      "explanation": {
+        "pt": "'desligar' significa 'to hang up'.",
+        "en": "'desligar' means 'to hang up'.",
+        "ar": "تعني 'desligar' 'ينهي المكالمة'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the message'?",
+        "en": "Which word means 'the message'?",
+        "ar": "أي كلمة تعني 'الرسالة'؟"
+      },
+      "options": [
+        {
+          "pt": "a internet",
+          "en": "the internet",
+          "ar": "الإنترنت"
+        },
+        {
+          "pt": "a mensagem",
+          "en": "the message",
+          "ar": "الرسالة"
+        },
+        {
+          "pt": "o celular",
+          "en": "the cell phone",
+          "ar": "الهاتف المحمول"
+        }
+      ],
+      "answer": "a mensagem",
+      "explanation": {
+        "pt": "'a mensagem' significa 'the message'.",
+        "en": "'a mensagem' means 'the message'.",
+        "ar": "تعني 'a mensagem' 'الرسالة'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"Can I speak with the manager, please?\"",
+        "en": "Translate into Portuguese: \"Can I speak with the manager, please?\"",
+        "ar": "ترجم إلى البرتغالية: \"هل يمكنني التحدث مع المدير، من فضلك؟\""
+      },
+      "options": [],
+      "answer": "Pode falar com o gerente, por favor?",
+      "explanation": {
+        "pt": "Resposta: \"Pode falar com o gerente, por favor?\".",
+        "en": "Answer: \"Pode falar com o gerente, por favor?\". (EN: \"Can I speak with the manager, please?\")",
+        "ar": "الإجابة: \"Pode falar com o gerente, por favor?\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"Good morning! Who am I speaking with?\"",
+        "en": "Translate into Portuguese: \"Good morning! Who am I speaking with?\"",
+        "ar": "ترجم إلى البرتغالية: \"صباح الخير! مع من أتحدث؟\""
+      },
+      "options": [],
+      "answer": "Bom dia! Com quem eu falo?",
+      "explanation": {
+        "pt": "Resposta: \"Bom dia! Com quem eu falo?\".",
+        "en": "Answer: \"Bom dia! Com quem eu falo?\". (EN: \"Good morning! Who am I speaking with?\")",
+        "ar": "الإجابة: \"Bom dia! Com quem eu falo?\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Preciso ___ o número.\"",
+        "en": "Complete: \"Preciso ___ o número.\"",
+        "ar": "أكمل: \"Preciso ___ o número.\""
+      },
+      "options": [
+        {
+          "pt": "o telefone",
+          "en": "o telefone",
+          "ar": "o telefone"
+        },
+        {
+          "pt": "discar",
+          "en": "discar",
+          "ar": "discar"
+        },
+        {
+          "pt": "o número",
+          "en": "o número",
+          "ar": "o número"
+        }
+      ],
+      "answer": "discar",
+      "explanation": {
+        "pt": "A lacuna é 'discar'.",
+        "en": "The blank is 'discar'.",
+        "ar": "الفراغ هو 'discar'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Verifique ___.\"",
+        "en": "Complete: \"Verifique ___.\"",
+        "ar": "أكمل: \"Verifique ___.\""
+      },
+      "options": [
+        {
+          "pt": "a caixa postal",
+          "en": "a caixa postal",
+          "ar": "a caixa postal"
+        },
+        {
+          "pt": "atender",
+          "en": "atender",
+          "ar": "atender"
+        },
+        {
+          "pt": "o telefone",
+          "en": "o telefone",
+          "ar": "o telefone"
+        }
+      ],
+      "answer": "a caixa postal",
+      "explanation": {
+        "pt": "A lacuna é 'a caixa postal'.",
+        "en": "The blank is 'a caixa postal'.",
+        "ar": "الفراغ هو 'a caixa postal'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: \"Good morning! Who am I speaking with?\"",
+        "en": "Type in Portuguese: \"Good morning! Who am I speaking with?\"",
+        "ar": "اكتب بالبرتغالية: \"صباح الخير! مع من أتحدث؟\""
+      },
+      "options": [],
+      "answer": "Bom dia! Com quem eu falo?",
+      "accepted": [
+        "Bom dia! Com quem eu falo?"
+      ],
+      "explanation": {
+        "pt": "Resposta possível: \"Bom dia! Com quem eu falo?\".",
+        "en": "One possible answer: \"Bom dia! Com quem eu falo?\".",
+        "ar": "إجابة ممكنة: \"Bom dia! Com quem eu falo?\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "sinal",
+          "en": "sinal",
+          "ar": "sinal"
+        },
+        {
+          "pt": "O",
+          "en": "O",
+          "ar": "O"
+        },
+        {
+          "pt": "está",
+          "en": "está",
+          "ar": "está"
+        },
+        {
+          "pt": "aqui.",
+          "en": "aqui.",
+          "ar": "aqui."
+        },
+        {
+          "pt": "fraco",
+          "en": "fraco",
+          "ar": "fraco"
+        }
+      ],
+      "answer": "O sinal está fraco aqui.",
+      "gen": "v1.8",
+      "explanation": {
+        "pt": "A frase correta é: \"O sinal está fraco aqui.\".",
+        "en": "The correct sentence is: \"O sinal está fraco aqui.\".",
+        "ar": "الجملة الصحيحة هي: \"O sinal está fraco aqui.\"."
       }
     }
   ],

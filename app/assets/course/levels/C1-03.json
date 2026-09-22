@@ -35,9 +35,9 @@
       "en": "the chronicle, column",
       "ar": "المقالة، العمود",
       "example": {
-        "pt": "Quando eu era pequena, a rua era de terra e todo mundo se conhecia.",
-        "en": "When I was little, the street was dirt and everyone knew each other.",
-        "ar": "عندما كنت صغيرة، كان الشارع ترابيًا وكان الجميع يعرف بعضهم."
+        "pt": "A crônica narra o cotidiano.",
+        "en": "The chronicle narrates everyday life.",
+        "ar": "تحكي المقالة عن الحياة اليومية."
       }
     },
     {
@@ -46,9 +46,9 @@
       "en": "the short story",
       "ar": "القصة القصيرة",
       "example": {
-        "pt": "E o que acontecia de mais divertido?",
-        "en": "And what was the most fun thing that happened?",
-        "ar": "وما الذي كان يحدث من أمتع الأشياء؟"
+        "pt": "O conto foi premiado.",
+        "en": "The short story won an award.",
+        "ar": "فازت القصة القصيرة بجائزة."
       }
     },
     {
@@ -57,9 +57,9 @@
       "en": "the narrator",
       "ar": "الراوي",
       "example": {
-        "pt": "E o que acontecia de mais divertido?",
-        "en": "And what was the most fun thing that happened?",
-        "ar": "وما الذي كان يحدث من أمتع الأشياء؟"
+        "pt": "O narrador é em primeira pessoa.",
+        "en": "The narrator is in first person.",
+        "ar": "الراوي من المتكلم."
       }
     },
     {
@@ -68,9 +68,9 @@
       "en": "the plot",
       "ar": "الحبكة",
       "example": {
-        "pt": "E o que acontecia de mais divertido?",
-        "en": "And what was the most fun thing that happened?",
-        "ar": "وما الذي كان يحدث من أمتع الأشياء؟"
+        "pt": "O enredo surpreende no fim.",
+        "en": "The plot surprises at the end.",
+        "ar": "تفاجئ الحبكة في النهاية."
       }
     },
     {
@@ -79,9 +79,9 @@
       "en": "the irony",
       "ar": "السخرية",
       "example": {
-        "pt": "Quando eu era pequena, a rua era de terra e todo mundo se conhecia.",
-        "en": "When I was little, the street was dirt and everyone knew each other.",
-        "ar": "عندما كنت صغيرة، كان الشارع ترابيًا وكان الجميع يعرف بعضهم."
+        "pt": "A ironia do autor é sutil.",
+        "en": "The author's irony is subtle.",
+        "ar": "سخرية الكاتب دقيقة."
       }
     },
     {
@@ -90,9 +90,9 @@
       "en": "the humor",
       "ar": "الفكاهة",
       "example": {
-        "pt": "E o que acontecia de mais divertido?",
-        "en": "And what was the most fun thing that happened?",
-        "ar": "وما الذي كان يحدث من أمتع الأشياء؟"
+        "pt": "O humor da peça é ácido.",
+        "en": "The play's humor is acid.",
+        "ar": "فكاهة المسرحية لاذعة."
       }
     },
     {
@@ -101,9 +101,9 @@
       "en": "the everyday life",
       "ar": "الحياة اليومية",
       "example": {
-        "pt": "E o que acontecia de mais divertido?",
-        "en": "And what was the most fun thing that happened?",
-        "ar": "وما الذي كان يحدث من أمتع الأشياء؟"
+        "pt": "O cotidiano virou literatura.",
+        "en": "Everyday life became literature.",
+        "ar": "صارت الحياة اليومية أدبًا."
       }
     },
     {
@@ -112,9 +112,9 @@
       "en": "the observation",
       "ar": "الملاحظة",
       "example": {
-        "pt": "Quando eu era pequena, a rua era de terra e todo mundo se conhecia.",
-        "en": "When I was little, the street was dirt and everyone knew each other.",
-        "ar": "عندما كنت صغيرة، كان الشارع ترابيًا وكان الجميع يعرف بعضهم."
+        "pt": "A observação mudou tudo.",
+        "en": "The observation changed everything.",
+        "ar": "غيّرت الملاحظة كل شيء."
       }
     },
     {
@@ -123,9 +123,9 @@
       "en": "the character",
       "ar": "الشخصية",
       "example": {
-        "pt": "E o que acontecia de mais divertido?",
-        "en": "And what was the most fun thing that happened?",
-        "ar": "وما الذي كان يحدث من أمتع الأشياء؟"
+        "pt": "O personagem principal é ambíguo.",
+        "en": "The main character is ambiguous.",
+        "ar": "الشخصية الرئيسية غامضة."
       }
     },
     {
@@ -134,9 +134,9 @@
       "en": "the setting",
       "ar": "المشهد، الخلفية",
       "example": {
-        "pt": "E o que acontecia de mais divertido?",
-        "en": "And what was the most fun thing that happened?",
-        "ar": "وما الذي كان يحدث من أمتع الأشياء؟"
+        "pt": "O cenário muda no terceiro ato.",
+        "en": "The setting changes in the third act.",
+        "ar": "يتغير المشهد في الفصل الثالث."
       }
     },
     {
@@ -145,9 +145,9 @@
       "en": "the ending, outcome",
       "ar": "الخاتمة",
       "example": {
-        "pt": "E o que acontecia de mais divertido?",
-        "en": "And what was the most fun thing that happened?",
-        "ar": "وما الذي كان يحدث من أمتع الأشياء؟"
+        "pt": "O desfecho surpreende o leitor.",
+        "en": "The ending surprises the reader.",
+        "ar": "تفاجئ الخاتمة القارئ."
       }
     },
     {
@@ -156,9 +156,9 @@
       "en": "the reader",
       "ar": "القارئ",
       "example": {
-        "pt": "E o que acontecia de mais divertido?",
-        "en": "And what was the most fun thing that happened?",
-        "ar": "وما الذي كان يحدث من أمتع الأشياء؟"
+        "pt": "O leitor sente a tensão.",
+        "en": "The reader feels the tension.",
+        "ar": "يشعر القارئ بالتوتر."
       }
     },
     {
@@ -167,9 +167,9 @@
       "en": "the author",
       "ar": "الكاتب",
       "example": {
-        "pt": "E o que acontecia de mais divertido?",
-        "en": "And what was the most fun thing that happened?",
-        "ar": "وما الذي كان يحدث من أمتع الأشياء؟"
+        "pt": "O autor falou em entrevista.",
+        "en": "The author spoke in an interview.",
+        "ar": "تحدّث الكاتب في مقابلة."
       }
     },
     {
@@ -178,9 +178,9 @@
       "en": "social criticism",
       "ar": "النقد الاجتماعي",
       "example": {
-        "pt": "Quando eu era pequena, a rua era de terra e todo mundo se conhecia.",
-        "en": "When I was little, the street was dirt and everyone knew each other.",
-        "ar": "عندما كنت صغيرة، كان الشارع ترابيًا وكان الجميع يعرف بعضهم."
+        "pt": "A crítica social fica implícita.",
+        "en": "The social criticism stays implicit.",
+        "ar": "يبقى النقد الاجتماعي ضمنيًا."
       }
     },
     {
@@ -189,9 +189,9 @@
       "en": "the tone",
       "ar": "النبرة، الأسلوب",
       "example": {
-        "pt": "E o que acontecia de mais divertido?",
-        "en": "And what was the most fun thing that happened?",
-        "ar": "وما الذي كان يحدث من أمتع الأشياء؟"
+        "pt": "O tom da carta é formal.",
+        "en": "The tone of the letter is formal.",
+        "ar": "نبرة الرسالة رسمية."
       }
     },
     {
@@ -200,9 +200,9 @@
       "en": "the climax",
       "ar": "الذروة",
       "example": {
-        "pt": "E o que acontecia de mais divertido?",
-        "en": "And what was the most fun thing that happened?",
-        "ar": "وما الذي كان يحدث من أمتع الأشياء؟"
+        "pt": "O clímax do romance é impactante.",
+        "en": "The novel's climax is striking.",
+        "ar": "ذروة الرواية مؤثرة."
       }
     }
   ],
@@ -957,6 +957,237 @@
         "en": "The correct sentence: 'Quando eu era pequena, a rua era de terra e todo mundo se conhecia.'",
         "ar": "الجملة الصحيحة: 'Quando eu era pequena, a rua era de terra e todo mundo se conhecia.'"
       }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the ending, outcome'?",
+        "en": "Which word means 'the ending, outcome'?",
+        "ar": "أي كلمة تعني 'الخاتمة'؟"
+      },
+      "options": [
+        {
+          "pt": "o desfecho",
+          "en": "the ending, outcome",
+          "ar": "الخاتمة"
+        },
+        {
+          "pt": "o narrador",
+          "en": "the narrator",
+          "ar": "الراوي"
+        },
+        {
+          "pt": "o enredo",
+          "en": "the plot",
+          "ar": "الحبكة"
+        }
+      ],
+      "answer": "o desfecho",
+      "explanation": {
+        "pt": "'o desfecho' significa 'the ending, outcome'.",
+        "en": "'o desfecho' means 'the ending, outcome'.",
+        "ar": "تعني 'o desfecho' 'الخاتمة'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the tone'?",
+        "en": "Which word means 'the tone'?",
+        "ar": "أي كلمة تعني 'النبرة، الأسلوب'؟"
+      },
+      "options": [
+        {
+          "pt": "o tom",
+          "en": "the tone",
+          "ar": "النبرة، الأسلوب"
+        },
+        {
+          "pt": "o narrador",
+          "en": "the narrator",
+          "ar": "الراوي"
+        },
+        {
+          "pt": "o cotidiano",
+          "en": "the everyday life",
+          "ar": "الحياة اليومية"
+        }
+      ],
+      "answer": "o tom",
+      "explanation": {
+        "pt": "'o tom' significa 'the tone'.",
+        "en": "'o tom' means 'the tone'.",
+        "ar": "تعني 'o tom' 'النبرة، الأسلوب'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"The narrator is in first person.\"",
+        "en": "Translate into Portuguese: \"The narrator is in first person.\"",
+        "ar": "ترجم إلى البرتغالية: \"الراوي من المتكلم.\""
+      },
+      "options": [],
+      "answer": "O narrador é em primeira pessoa.",
+      "explanation": {
+        "pt": "Resposta: \"O narrador é em primeira pessoa.\".",
+        "en": "Answer: \"O narrador é em primeira pessoa.\". (EN: \"The narrator is in first person.\")",
+        "ar": "الإجابة: \"O narrador é em primeira pessoa.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"The author spoke in an interview.\"",
+        "en": "Translate into Portuguese: \"The author spoke in an interview.\"",
+        "ar": "ترجم إلى البرتغالية: \"تحدّث الكاتب في مقابلة.\""
+      },
+      "options": [],
+      "answer": "O autor falou em entrevista.",
+      "explanation": {
+        "pt": "Resposta: \"O autor falou em entrevista.\".",
+        "en": "Answer: \"O autor falou em entrevista.\". (EN: \"The author spoke in an interview.\")",
+        "ar": "الإجابة: \"O autor falou em entrevista.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: \"The setting changes in the third act.\"",
+        "en": "Type in Portuguese: \"The setting changes in the third act.\"",
+        "ar": "اكتب بالبرتغالية: \"يتغير المشهد في الفصل الثالث.\""
+      },
+      "options": [],
+      "answer": "O cenário muda no terceiro ato.",
+      "accepted": [
+        "O cenário muda no terceiro ato."
+      ],
+      "explanation": {
+        "pt": "Resposta possível: \"O cenário muda no terceiro ato.\".",
+        "en": "One possible answer: \"O cenário muda no terceiro ato.\".",
+        "ar": "إجابة ممكنة: \"O cenário muda no terceiro ato.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "gritavam",
+          "en": "gritavam",
+          "ar": "gritavam"
+        },
+        {
+          "pt": "toda",
+          "en": "toda",
+          "ar": "toda"
+        },
+        {
+          "pt": "outra!\",",
+          "en": "outra!\",",
+          "ar": "outra!\","
+        },
+        {
+          "pt": "noite.",
+          "en": "noite.",
+          "ar": "noite."
+        },
+        {
+          "pt": "todos",
+          "en": "todos",
+          "ar": "todos"
+        },
+        {
+          "pt": "\"Conta",
+          "en": "\"Conta",
+          "ar": "\"Conta"
+        }
+      ],
+      "answer": "\"Conta outra!\", gritavam todos toda noite.",
+      "gen": "v1.8",
+      "explanation": {
+        "pt": "A frase correta é: \"\"Conta outra!\", gritavam todos toda noite.\".",
+        "en": "The correct sentence is: \"\"Conta outra!\", gritavam todos toda noite.\".",
+        "ar": "الجملة الصحيحة هي: \"\"Conta outra!\", gritavam todos toda noite.\"."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the author'?",
+        "en": "Which word means 'the author'?",
+        "ar": "أي كلمة تعني 'الكاتب'؟"
+      },
+      "options": [
+        {
+          "pt": "o cotidiano",
+          "en": "the everyday life",
+          "ar": "الحياة اليومية"
+        },
+        {
+          "pt": "o tom",
+          "en": "the tone",
+          "ar": "النبرة، الأسلوب"
+        },
+        {
+          "pt": "o autor",
+          "en": "the author",
+          "ar": "الكاتب"
+        }
+      ],
+      "answer": "o autor",
+      "explanation": {
+        "pt": "'o autor' significa 'the author'.",
+        "en": "'o autor' means 'the author'.",
+        "ar": "تعني 'o autor' 'الكاتب'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the narrator'?",
+        "en": "Which word means 'the narrator'?",
+        "ar": "أي كلمة تعني 'الراوي'؟"
+      },
+      "options": [
+        {
+          "pt": "o autor",
+          "en": "the author",
+          "ar": "الكاتب"
+        },
+        {
+          "pt": "a crítica social",
+          "en": "social criticism",
+          "ar": "النقد الاجتماعي"
+        },
+        {
+          "pt": "o humor",
+          "en": "the humor",
+          "ar": "الفكاهة"
+        },
+        {
+          "pt": "o narrador",
+          "en": "the narrator",
+          "ar": "الراوي"
+        }
+      ],
+      "answer": "o narrador",
+      "explanation": {
+        "pt": "'o narrador' significa 'the narrator'.",
+        "en": "'o narrador' means 'the narrator'.",
+        "ar": "تعني 'o narrador' 'الراوي'."
+      },
+      "gen": "v1.8"
     }
   ],
   "speaking": {

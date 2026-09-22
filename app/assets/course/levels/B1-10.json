@@ -30,9 +30,9 @@
       "en": "the party",
       "ar": "الحفلة",
       "example": {
-        "pt": "Que ótimo! A festa será no sábado?",
-        "en": "How great! Will the party be on Saturday?",
-        "ar": "رائع! هل ستكون الحفلة يوم السبت؟"
+        "pt": "A festa terá música ao vivo.",
+        "en": "The party will have live music.",
+        "ar": "ستكون في الحفلة موسيقى مباشرة."
       }
     },
     {
@@ -41,9 +41,9 @@
       "en": "the birthday",
       "ar": "عيد الميلاد",
       "example": {
-        "pt": "Vamos comemorar o aniversário dela!",
-        "en": "Let's celebrate her birthday!",
-        "ar": "هيا نحتفل بعيد ميلادها!"
+        "pt": "O aniversário é sexta.",
+        "en": "The birthday is on Friday.",
+        "ar": "عيد الميلاد يوم الجمعة."
       }
     },
     {
@@ -52,9 +52,9 @@
       "en": "the wedding",
       "ar": "حفل الزفاف",
       "example": {
-        "pt": "Vamos comemorar o aniversário dela!",
-        "en": "Let's celebrate her birthday!",
-        "ar": "هيا نحتفل بعيد ميلادها!"
+        "pt": "O casamento será em junho.",
+        "en": "The wedding will be in June.",
+        "ar": "سيكون الزفاف في يونيو."
       }
     },
     {
@@ -63,9 +63,9 @@
       "en": "the celebration",
       "ar": "الاحتفال",
       "example": {
-        "pt": "Que ótimo! A festa será no sábado?",
-        "en": "How great! Will the party be on Saturday?",
-        "ar": "رائع! هل ستكون الحفلة يوم السبت؟"
+        "pt": "A celebração começa agora.",
+        "en": "The celebration starts now.",
+        "ar": "يبدأ الاحتفال الآن."
       }
     },
     {
@@ -74,9 +74,9 @@
       "en": "the gift",
       "ar": "الهدية",
       "example": {
-        "pt": "Vamos comemorar o aniversário dela!",
-        "en": "Let's celebrate her birthday!",
-        "ar": "هيا نحتفل بعيد ميلادها!"
+        "pt": "O presente é para você.",
+        "en": "The gift is for you.",
+        "ar": "الهدية لك."
       }
     },
     {
@@ -85,9 +85,9 @@
       "en": "the guest",
       "ar": "المدعو / الضيف",
       "example": {
-        "pt": "Vamos comemorar o aniversário dela!",
-        "en": "Let's celebrate her birthday!",
-        "ar": "هيا نحتفل بعيد ميلادها!"
+        "pt": "O convidado chegou tarde.",
+        "en": "The guest arrived late.",
+        "ar": "وصل الضيف متأخرًا."
       }
     },
     {
@@ -96,9 +96,9 @@
       "en": "the cake",
       "ar": "الكعكة",
       "example": {
-        "pt": "Vamos comemorar o aniversário dela!",
-        "en": "Let's celebrate her birthday!",
-        "ar": "هيا نحتفل بعيد ميلادها!"
+        "pt": "O bolo ficou perfeito.",
+        "en": "The cake turned out perfect.",
+        "ar": "أصبح الكيك مثاليًا."
       }
     },
     {
@@ -107,9 +107,9 @@
       "en": "the candle",
       "ar": "الشمعة",
       "example": {
-        "pt": "Que ótimo! A festa será no sábado?",
-        "en": "How great! Will the party be on Saturday?",
-        "ar": "رائع! هل ستكون الحفلة يوم السبت؟"
+        "pt": "Acenda a vela, por favor.",
+        "en": "Light the candle, please.",
+        "ar": "أشعل الشمعة، من فضلك."
       }
     },
     {
@@ -118,9 +118,9 @@
       "en": "the toast",
       "ar": "النخب",
       "example": {
-        "pt": "Vamos comemorar o aniversário dela!",
-        "en": "Let's celebrate her birthday!",
-        "ar": "هيا نحتفل بعيد ميلادها!"
+        "pt": "Eles fizeram o brinde juntos.",
+        "en": "They made the toast together.",
+        "ar": "تشاركا النخب معًا."
       }
     },
     {
@@ -129,9 +129,9 @@
       "en": "the barbecue",
       "ar": "الشواء",
       "example": {
-        "pt": "Vamos comemorar o aniversário dela!",
-        "en": "Let's celebrate her birthday!",
-        "ar": "هيا نحتفل بعيد ميلادها!"
+        "pt": "O churrasco é no domingo.",
+        "en": "The barbecue is on Sunday.",
+        "ar": "الشواء يوم الأحد."
       }
     },
     {
@@ -140,9 +140,9 @@
       "en": "to dance",
       "ar": "يرقص",
       "example": {
-        "pt": "Vamos comemorar meu aniversário na sexta-feira!",
-        "en": "Let's celebrate my birthday on Friday!",
-        "ar": "هيا نحتفل بعيد ميلادي يوم الجمعة!"
+        "pt": "Vamos dançar até tarde.",
+        "en": "Let's dance until late.",
+        "ar": "دعونا نرقص حتى وقت متأخر."
       }
     },
     {
@@ -151,9 +151,9 @@
       "en": "to sing",
       "ar": "يغني",
       "example": {
-        "pt": "Vamos comemorar meu aniversário na sexta-feira!",
-        "en": "Let's celebrate my birthday on Friday!",
-        "ar": "هيا نحتفل بعيد ميلادي يوم الجمعة!"
+        "pt": "Vamos cantar uma música.",
+        "en": "Let's sing a song.",
+        "ar": "دعونا نغني أغنية."
       }
     },
     {
@@ -162,9 +162,9 @@
       "en": "to celebrate",
       "ar": "يحتفل",
       "example": {
-        "pt": "Vamos comemorar meu aniversário na sexta-feira!",
-        "en": "Let's celebrate my birthday on Friday!",
-        "ar": "هيا نحتفل بعيد ميلادي يوم الجمعة!"
+        "pt": "Vamos comemorar a vitória.",
+        "en": "Let's celebrate the victory.",
+        "ar": "دعونا نحتفل بالانتصار."
       }
     },
     {
@@ -173,9 +173,9 @@
       "en": "congratulations",
       "ar": "مبروك / تهانينا",
       "example": {
-        "pt": "Vamos comemorar meu aniversário na sexta-feira!",
-        "en": "Let's celebrate my birthday on Friday!",
-        "ar": "هيا نحتفل بعيد ميلادي يوم الجمعة!"
+        "pt": "Parabéns pelo novo emprego!",
+        "en": "Congratulations on the new job!",
+        "ar": "مبروك على الوظيفة الجديدة!"
       }
     },
     {
@@ -184,9 +184,9 @@
       "en": "to enjoy",
       "ar": "يستمتع",
       "example": {
-        "pt": "Combinado. Vamos aproveitar a noite!",
-        "en": "Deal. Let's enjoy the night!",
-        "ar": "اتفقنا. هيا نستمتع بالمساء!"
+        "pt": "Vamos aproveitar o dia.",
+        "en": "Let's enjoy the day.",
+        "ar": "دعونا نستمتع بيومنا."
       }
     }
   ],
@@ -866,6 +866,237 @@
         "pt": "A frase correta: 'Vamos comemorar meu aniversário na sexta-feira!'",
         "en": "The correct sentence: 'Vamos comemorar meu aniversário na sexta-feira!'",
         "ar": "الجملة الصحيحة: 'Vamos comemorar meu aniversário na sexta-feira!'"
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'to celebrate'?",
+        "en": "Which word means 'to celebrate'?",
+        "ar": "أي كلمة تعني 'يحتفل'؟"
+      },
+      "options": [
+        {
+          "pt": "o bolo",
+          "en": "the cake",
+          "ar": "الكعكة"
+        },
+        {
+          "pt": "comemorar",
+          "en": "to celebrate",
+          "ar": "يحتفل"
+        },
+        {
+          "pt": "parabéns",
+          "en": "congratulations",
+          "ar": "مبروك / تهانينا"
+        }
+      ],
+      "answer": "comemorar",
+      "explanation": {
+        "pt": "'comemorar' significa 'to celebrate'.",
+        "en": "'comemorar' means 'to celebrate'.",
+        "ar": "تعني 'comemorar' 'يحتفل'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the candle'?",
+        "en": "Which word means 'the candle'?",
+        "ar": "أي كلمة تعني 'الشمعة'؟"
+      },
+      "options": [
+        {
+          "pt": "o casamento",
+          "en": "the wedding",
+          "ar": "حفل الزفاف"
+        },
+        {
+          "pt": "o convidado",
+          "en": "the guest",
+          "ar": "المدعو / الضيف"
+        },
+        {
+          "pt": "a vela",
+          "en": "the candle",
+          "ar": "الشمعة"
+        }
+      ],
+      "answer": "a vela",
+      "explanation": {
+        "pt": "'a vela' significa 'the candle'.",
+        "en": "'a vela' means 'the candle'.",
+        "ar": "تعني 'a vela' 'الشمعة'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"The barbecue is on Sunday.\"",
+        "en": "Translate into Portuguese: \"The barbecue is on Sunday.\"",
+        "ar": "ترجم إلى البرتغالية: \"الشواء يوم الأحد.\""
+      },
+      "options": [],
+      "answer": "O churrasco é no domingo.",
+      "explanation": {
+        "pt": "Resposta: \"O churrasco é no domingo.\".",
+        "en": "Answer: \"O churrasco é no domingo.\". (EN: \"The barbecue is on Sunday.\")",
+        "ar": "الإجابة: \"O churrasco é no domingo.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"Of course! Don't forget to invite Ana.\"",
+        "en": "Translate into Portuguese: \"Of course! Don't forget to invite Ana.\"",
+        "ar": "ترجم إلى البرتغالية: \"بالطبع! لا تنسَ دعوة آنا.\""
+      },
+      "options": [],
+      "answer": "Claro! Não se esqueça de convidar a Ana.",
+      "explanation": {
+        "pt": "Resposta: \"Claro! Não se esqueça de convidar a Ana.\".",
+        "en": "Answer: \"Claro! Não se esqueça de convidar a Ana.\". (EN: \"Of course! Don't forget to invite Ana.\")",
+        "ar": "الإجابة: \"Claro! Não se esqueça de convidar a Ana.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Eles fizeram ___ juntos.\"",
+        "en": "Complete: \"Eles fizeram ___ juntos.\"",
+        "ar": "أكمل: \"Eles fizeram ___ juntos.\""
+      },
+      "options": [
+        {
+          "pt": "o convidado",
+          "en": "o convidado",
+          "ar": "o convidado"
+        },
+        {
+          "pt": "o presente",
+          "en": "o presente",
+          "ar": "o presente"
+        },
+        {
+          "pt": "o brinde",
+          "en": "o brinde",
+          "ar": "o brinde"
+        }
+      ],
+      "answer": "o brinde",
+      "explanation": {
+        "pt": "A lacuna é 'o brinde'.",
+        "en": "The blank is 'o brinde'.",
+        "ar": "الفراغ هو 'o brinde'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Vamos ___ até tarde.\"",
+        "en": "Complete: \"Vamos ___ até tarde.\"",
+        "ar": "أكمل: \"Vamos ___ até tarde.\""
+      },
+      "options": [
+        {
+          "pt": "a vela",
+          "en": "a vela",
+          "ar": "a vela"
+        },
+        {
+          "pt": "dançar",
+          "en": "dançar",
+          "ar": "dançar"
+        },
+        {
+          "pt": "o convidado",
+          "en": "o convidado",
+          "ar": "o convidado"
+        }
+      ],
+      "answer": "dançar",
+      "explanation": {
+        "pt": "A lacuna é 'dançar'.",
+        "en": "The blank is 'dançar'.",
+        "ar": "الفراغ هو 'dançar'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: \"Yes, it starts at eight in the evening at my house.\"",
+        "en": "Type in Portuguese: \"Yes, it starts at eight in the evening at my house.\"",
+        "ar": "اكتب بالبرتغالية: \"نعم، تبدأ الساعة الثامنة مساءً في منزلي.\""
+      },
+      "options": [],
+      "answer": "Sim, começa às oito da noite na minha casa.",
+      "accepted": [
+        "Sim, começa às oito da noite na minha casa."
+      ],
+      "explanation": {
+        "pt": "Resposta possível: \"Sim, começa às oito da noite na minha casa.\".",
+        "en": "One possible answer: \"Sim, começa às oito da noite na minha casa.\".",
+        "ar": "إجابة ممكنة: \"Sim, começa às oito da noite na minha casa.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "ótimo!",
+          "en": "ótimo!",
+          "ar": "ótimo!"
+        },
+        {
+          "pt": "sábado?",
+          "en": "sábado?",
+          "ar": "sábado?"
+        },
+        {
+          "pt": "A",
+          "en": "A",
+          "ar": "A"
+        },
+        {
+          "pt": "será",
+          "en": "será",
+          "ar": "será"
+        },
+        {
+          "pt": "Que",
+          "en": "Que",
+          "ar": "Que"
+        },
+        {
+          "pt": "no",
+          "en": "no",
+          "ar": "no"
+        },
+        {
+          "pt": "festa",
+          "en": "festa",
+          "ar": "festa"
+        }
+      ],
+      "answer": "Que ótimo! A festa será no sábado?",
+      "gen": "v1.8",
+      "explanation": {
+        "pt": "A frase correta é: \"Que ótimo! A festa será no sábado?\".",
+        "en": "The correct sentence is: \"Que ótimo! A festa será no sábado?\".",
+        "ar": "الجملة الصحيحة هي: \"Que ótimo! A festa será no sábado?\"."
       }
     }
   ],

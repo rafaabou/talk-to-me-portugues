@@ -40,9 +40,9 @@
       "en": "translation",
       "ar": "الترجمة",
       "example": {
-        "pt": "Para o público jovem, um equivalente adaptado funciona melhor que a nota.",
-        "en": "For a young audience, an adapted equivalent works better than a footnote.",
-        "ar": "بالنسبة لجمهور الشباب، يعمل المكافئ المُكيَّف أفضل من الحاشية."
+        "pt": "A tradução ficou fiel.",
+        "en": "The translation stayed faithful.",
+        "ar": "بقيت الترجمة أمينة."
       }
     },
     {
@@ -51,9 +51,9 @@
       "en": "translator",
       "ar": "المترجم",
       "example": {
-        "pt": "E o trocadilho do anúncio? Domesticamos ou mantemos com nota?",
-        "en": "And the pun in the ad? Do we domesticate it or keep it with a footnote?",
-        "ar": "والتلاعب اللفظي في الإعلان؟ هل نقربه من القارئ أم نحتفظ به مع حاشية؟"
+        "pt": "O tradutor escolheu o sentido certo.",
+        "en": "The translator chose the right meaning.",
+        "ar": "اختار المترجم المعنى الصحيح."
       }
     },
     {
@@ -62,9 +62,9 @@
       "en": "denotative meaning",
       "ar": "المعنى اللفظي المباشر",
       "example": {
-        "pt": "E o trocadilho do anúncio? Domesticamos ou mantemos com nota?",
-        "en": "And the pun in the ad? Do we domesticate it or keep it with a footnote?",
-        "ar": "والتلاعب اللفظي في الإعلان؟ هل نقربه من القارئ أم نحتفظ به مع حاشية؟"
+        "pt": "O sentido denotativo é o literal.",
+        "en": "The denotative meaning is the literal one.",
+        "ar": "المعنى اللفظي هو الحرفى."
       }
     },
     {
@@ -73,9 +73,9 @@
       "en": "connotative meaning",
       "ar": "المعنى الدلالي المجازي",
       "example": {
-        "pt": "E o trocadilho do anúncio? Domesticamos ou mantemos com nota?",
-        "en": "And the pun in the ad? Do we domesticate it or keep it with a footnote?",
-        "ar": "والتلاعب اللفظي في الإعلان؟ هل نقربه من القارئ أم نحتفظ به مع حاشية؟"
+        "pt": "O sentido conotativo é mais rico.",
+        "en": "The connotative meaning is richer.",
+        "ar": "المعنى الدلالي المجازي أغنى."
       }
     },
     {
@@ -84,9 +84,9 @@
       "en": "calque",
       "ar": "الترجمة الحرفية التركيبية",
       "example": {
-        "pt": "E o trocadilho do anúncio? Domesticamos ou mantemos com nota?",
-        "en": "And the pun in the ad? Do we domesticate it or keep it with a footnote?",
-        "ar": "والتلاعب اللفظي في الإعلان؟ هل نقربه من القارئ أم نحتفظ به مع حاشية؟"
+        "pt": "O calque traduz palavra por palavra.",
+        "en": "A calque translates word for word.",
+        "ar": "تترجم التركيبية كلمة بكلمة."
       }
     },
     {
@@ -95,9 +95,9 @@
       "en": "loanword",
       "ar": "اللفظ المقترض",
       "example": {
-        "pt": "E o trocadilho do anúncio? Domesticamos ou mantemos com nota?",
-        "en": "And the pun in the ad? Do we domesticate it or keep it with a footnote?",
-        "ar": "والتلاعب اللفظي في الإعلان؟ هل نقربه من القارئ أم نحتفظ به مع حاشية؟"
+        "pt": "O empréstimo linguístico é comum.",
+        "en": "The linguistic loanword is common.",
+        "ar": "اللفظ المقترح لغويًا شائع."
       }
     },
     {
@@ -106,9 +106,9 @@
       "en": "equivalence",
       "ar": "التكافؤ",
       "example": {
-        "pt": "Para o público jovem, um equivalente adaptado funciona melhor que a nota.",
-        "en": "For a young audience, an adapted equivalent works better than a footnote.",
-        "ar": "بالنسبة لجمهور الشباب، يعمل المكافئ المُكيَّف أفضل من الحاشية."
+        "pt": "A equivalência não é perfeita.",
+        "en": "The equivalence isn't perfect.",
+        "ar": "التكافؤ ليس مثاليًا."
       }
     },
     {
@@ -117,9 +117,9 @@
       "en": "adaptation",
       "ar": "التكييف",
       "example": {
-        "pt": "Para o público jovem, um equivalente adaptado funciona melhor que a nota.",
-        "en": "For a young audience, an adapted equivalent works better than a footnote.",
-        "ar": "بالنسبة لجمهور الشباب، يعمل المكافئ المُكيَّف أفضل من الحاشية."
+        "pt": "A adaptação mudou o final.",
+        "en": "The adaptation changed the ending.",
+        "ar": "غيّر التكييف النهاية."
       }
     },
     {
@@ -128,9 +128,9 @@
       "en": "domestication",
       "ar": "الترجمة المقربة من القارئ",
       "example": {
-        "pt": "Para o público jovem, um equivalente adaptado funciona melhor que a nota.",
-        "en": "For a young audience, an adapted equivalent works better than a footnote.",
-        "ar": "بالنسبة لجمهور الشباب، يعمل المكافئ المُكيَّف أفضل من الحاشية."
+        "pt": "A domesticação aproxima o leitor.",
+        "en": "Domestication brings the reader closer.",
+        "ar": "تقرب الترجمة المقربة القارئ."
       }
     },
     {
@@ -139,9 +139,9 @@
       "en": "foreignization",
       "ar": "الترجمة المبعدة عن القارئ",
       "example": {
-        "pt": "Para o público jovem, um equivalente adaptado funciona melhor que a nota.",
-        "en": "For a young audience, an adapted equivalent works better than a footnote.",
-        "ar": "بالنسبة لجمهور الشباب، يعمل المكافئ المُكيَّف أفضل من الحاشية."
+        "pt": "A estrangeirização mantém a estranheza.",
+        "en": "Foreignization preserves strangeness.",
+        "ar": "تحافظ الترجمة المبعدة على الغربة."
       }
     },
     {
@@ -150,9 +150,9 @@
       "en": "false cognate",
       "ar": "المشترك اللفظي الخادع",
       "example": {
-        "pt": "E o trocadilho do anúncio? Domesticamos ou mantemos com nota?",
-        "en": "And the pun in the ad? Do we domesticate it or keep it with a footnote?",
-        "ar": "والتلاعب اللفظي في الإعلان؟ هل نقربه من القارئ أم نحتفظ به مع حاشية؟"
+        "pt": "O falso cognato engana estudantes.",
+        "en": "The false cognate tricks students.",
+        "ar": "يخدع المشترك اللفظي الخادع الطلاب."
       }
     },
     {
@@ -161,9 +161,9 @@
       "en": "cognate",
       "ar": "اللفظ المشترك",
       "example": {
-        "pt": "E o trocadilho do anúncio? Domesticamos ou mantemos com nota?",
-        "en": "And the pun in the ad? Do we domesticate it or keep it with a footnote?",
-        "ar": "والتلاعب اللفظي في الإعلان؟ هل نقربه من القارئ أم نحتفظ به مع حاشية؟"
+        "pt": "O cognato facilita a tradução.",
+        "en": "The cognate eases translation.",
+        "ar": "يسهّل اللفظ المشترك الترجمة."
       }
     },
     {
@@ -172,9 +172,9 @@
       "en": "register",
       "ar": "المستوى اللغوي",
       "example": {
-        "pt": "E o trocadilho do anúncio? Domesticamos ou mantemos com nota?",
-        "en": "And the pun in the ad? Do we domesticate it or keep it with a footnote?",
-        "ar": "والتلاعب اللفظي في الإعلان؟ هل نقربه من القارئ أم نحتفظ به مع حاشية؟"
+        "pt": "O registro muda conforme a ocasião.",
+        "en": "The register changes according to the occasion.",
+        "ar": "يتغير المستوى اللغوي حسب المناسبة."
       }
     },
     {
@@ -183,9 +183,9 @@
       "en": "ambiguity",
       "ar": "الغموض",
       "example": {
-        "pt": "Para o público jovem, um equivalente adaptado funciona melhor que a nota.",
-        "en": "For a young audience, an adapted equivalent works better than a footnote.",
-        "ar": "بالنسبة لجمهور الشباب، يعمل المكافئ المُكيَّف أفضل من الحاشية."
+        "pt": "A ambiguidade exige contexto.",
+        "en": "Ambiguity requires context.",
+        "ar": "يتطلب الغموض سياقًا."
       }
     },
     {
@@ -194,9 +194,9 @@
       "en": "context",
       "ar": "السياق",
       "example": {
-        "pt": "E o trocadilho do anúncio? Domesticamos ou mantemos com nota?",
-        "en": "And the pun in the ad? Do we domesticate it or keep it with a footnote?",
-        "ar": "والتلاعب اللفظي في الإعلان؟ هل نقربه من القارئ أم نحتفظ به مع حاشية؟"
+        "pt": "O contexto define o sentido.",
+        "en": "Context defines meaning.",
+        "ar": "يحدد السياق المعنى."
       }
     },
     {
@@ -205,9 +205,9 @@
       "en": "target audience",
       "ar": "الجمهور المستهدف",
       "example": {
-        "pt": "E o trocadilho do anúncio? Domesticamos ou mantemos com nota?",
-        "en": "And the pun in the ad? Do we domesticate it or keep it with a footnote?",
-        "ar": "والتلاعب اللفظي في الإعلان؟ هل نقربه من القارئ أم نحتفظ به مع حاشية؟"
+        "pt": "O público-alvo é jovem.",
+        "en": "The target audience is young.",
+        "ar": "الجمهور المستهدف شاب."
       }
     },
     {
@@ -216,9 +216,9 @@
       "en": "revision / proofreading",
       "ar": "المراجعة",
       "example": {
-        "pt": "Para o público jovem, um equivalente adaptado funciona melhor que a nota.",
-        "en": "For a young audience, an adapted equivalent works better than a footnote.",
-        "ar": "بالنسبة لجمهور الشباب، يعمل المكافئ المُكيَّف أفضل من الحاشية."
+        "pt": "A revisão pega erros de digitação.",
+        "en": "Revision catches typos.",
+        "ar": "تمسك المراجعة بأخطاء الطباعة."
       }
     },
     {
@@ -227,9 +227,9 @@
       "en": "footnote",
       "ar": "الحاشية السفلية",
       "example": {
-        "pt": "Para o público jovem, um equivalente adaptado funciona melhor que a nota.",
-        "en": "For a young audience, an adapted equivalent works better than a footnote.",
-        "ar": "بالنسبة لجمهور الشباب، يعمل المكافئ المُكيَّف أفضل من الحاشية."
+        "pt": "A nota de rodapé explica o termo.",
+        "en": "The footnote explains the term.",
+        "ar": "تشرح الحاشية السفلية المصطلح."
       }
     }
   ],
@@ -930,6 +930,227 @@
         "en": "The correct sentence: 'Este texto técnico pede equivalência precisa, não tradução literal.'",
         "ar": "الجملة الصحيحة: 'Este texto técnico pede equivalência precisa, não tradução literal.'"
       }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'translation'?",
+        "en": "Which word means 'translation'?",
+        "ar": "أي كلمة تعني 'الترجمة'؟"
+      },
+      "options": [
+        {
+          "pt": "o empréstimo",
+          "en": "loanword",
+          "ar": "اللفظ المقترض"
+        },
+        {
+          "pt": "a tradução",
+          "en": "translation",
+          "ar": "الترجمة"
+        },
+        {
+          "pt": "a equivalência",
+          "en": "equivalence",
+          "ar": "التكافؤ"
+        }
+      ],
+      "answer": "a tradução",
+      "explanation": {
+        "pt": "'a tradução' significa 'translation'.",
+        "en": "'a tradução' means 'translation'.",
+        "ar": "تعني 'a tradução' 'الترجمة'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'register'?",
+        "en": "Which word means 'register'?",
+        "ar": "أي كلمة تعني 'المستوى اللغوي'؟"
+      },
+      "options": [
+        {
+          "pt": "a adaptação",
+          "en": "adaptation",
+          "ar": "التكييف"
+        },
+        {
+          "pt": "o registro",
+          "en": "register",
+          "ar": "المستوى اللغوي"
+        },
+        {
+          "pt": "a equivalência",
+          "en": "equivalence",
+          "ar": "التكافؤ"
+        }
+      ],
+      "answer": "o registro",
+      "explanation": {
+        "pt": "'o registro' significa 'register'.",
+        "en": "'o registro' means 'register'.",
+        "ar": "تعني 'o registro' 'المستوى اللغوي'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"Context defines meaning.\"",
+        "en": "Translate into Portuguese: \"Context defines meaning.\"",
+        "ar": "ترجم إلى البرتغالية: \"يحدد السياق المعنى.\""
+      },
+      "options": [],
+      "answer": "O contexto define o sentido.",
+      "explanation": {
+        "pt": "Resposta: \"O contexto define o sentido.\".",
+        "en": "Answer: \"O contexto define o sentido.\". (EN: \"Context defines meaning.\")",
+        "ar": "الإجابة: \"O contexto define o sentido.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"This technical text calls for precise equivalence, not literal translation.\"",
+        "en": "Translate into Portuguese: \"This technical text calls for precise equivalence, not literal translation.\"",
+        "ar": "ترجم إلى البرتغالية: \"هذا النص التقني يتطلب تكافؤًا دقيقًا لا ترجمة حرفية.\""
+      },
+      "options": [],
+      "answer": "Este texto técnico pede equivalência precisa, não tradução literal.",
+      "explanation": {
+        "pt": "Resposta: \"Este texto técnico pede equivalência precisa, não tradução literal.\".",
+        "en": "Answer: \"Este texto técnico pede equivalência precisa, não tradução literal.\". (EN: \"This technical text calls for precise equivalence, not literal translation.\")",
+        "ar": "الإجابة: \"Este texto técnico pede equivalência precisa, não tradução literal.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: \"The connotative meaning is richer.\"",
+        "en": "Type in Portuguese: \"The connotative meaning is richer.\"",
+        "ar": "اكتب بالبرتغالية: \"المعنى الدلالي المجازي أغنى.\""
+      },
+      "options": [],
+      "answer": "O sentido conotativo é mais rico.",
+      "accepted": [
+        "O sentido conotativo é mais rico."
+      ],
+      "explanation": {
+        "pt": "Resposta possível: \"O sentido conotativo é mais rico.\".",
+        "en": "One possible answer: \"O sentido conotativo é mais rico.\".",
+        "ar": "إجابة ممكنة: \"O sentido conotativo é mais rico.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "mantém",
+          "en": "mantém",
+          "ar": "mantém"
+        },
+        {
+          "pt": "A",
+          "en": "A",
+          "ar": "A"
+        },
+        {
+          "pt": "estranheza.",
+          "en": "estranheza.",
+          "ar": "estranheza."
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "estrangeirização",
+          "en": "estrangeirização",
+          "ar": "estrangeirização"
+        }
+      ],
+      "answer": "A estrangeirização mantém a estranheza.",
+      "gen": "v1.8",
+      "explanation": {
+        "pt": "A frase correta é: \"A estrangeirização mantém a estranheza.\".",
+        "en": "The correct sentence is: \"A estrangeirização mantém a estranheza.\".",
+        "ar": "الجملة الصحيحة هي: \"A estrangeirização mantém a estranheza.\"."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'revision / proofreading'?",
+        "en": "Which word means 'revision / proofreading'?",
+        "ar": "أي كلمة تعني 'المراجعة'؟"
+      },
+      "options": [
+        {
+          "pt": "a revisão",
+          "en": "revision / proofreading",
+          "ar": "المراجعة"
+        },
+        {
+          "pt": "o sentido denotativo",
+          "en": "denotative meaning",
+          "ar": "المعنى اللفظي المباشر"
+        },
+        {
+          "pt": "a estrangeirização",
+          "en": "foreignization",
+          "ar": "الترجمة المبعدة عن القارئ"
+        }
+      ],
+      "answer": "a revisão",
+      "explanation": {
+        "pt": "'a revisão' significa 'revision / proofreading'.",
+        "en": "'a revisão' means 'revision / proofreading'.",
+        "ar": "تعني 'a revisão' 'المراجعة'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'calque'?",
+        "en": "Which word means 'calque'?",
+        "ar": "أي كلمة تعني 'الترجمة الحرفية التركيبية'؟"
+      },
+      "options": [
+        {
+          "pt": "o calque",
+          "en": "calque",
+          "ar": "الترجمة الحرفية التركيبية"
+        },
+        {
+          "pt": "o tradutor",
+          "en": "translator",
+          "ar": "المترجم"
+        },
+        {
+          "pt": "o sentido conotativo",
+          "en": "connotative meaning",
+          "ar": "المعنى الدلالي المجازي"
+        }
+      ],
+      "answer": "o calque",
+      "explanation": {
+        "pt": "'o calque' significa 'calque'.",
+        "en": "'o calque' means 'calque'.",
+        "ar": "تعني 'o calque' 'الترجمة الحرفية التركيبية'."
+      },
+      "gen": "v1.8"
     }
   ],
   "speaking": {

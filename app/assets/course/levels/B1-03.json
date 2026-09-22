@@ -30,9 +30,9 @@
       "en": "the pronoun",
       "ar": "الضمير",
       "example": {
-        "pt": "E o café onde nos encontramos ontem?",
-        "en": "And the café where we met yesterday?",
-        "ar": "والمقهى الذي التقينا فيه أمس؟"
+        "pt": "O pronome evita repetição.",
+        "en": "The pronoun avoids repetition.",
+        "ar": "الضمير يمنع التكرار."
       }
     },
     {
@@ -41,9 +41,9 @@
       "en": "relative",
       "ar": "موصول",
       "example": {
-        "pt": "Conhece a moça que trabalha na padaria?",
-        "en": "Do you know the girl who works at the bakery?",
-        "ar": "هل تعرف الفتاة التي تعمل في المخبز؟"
+        "pt": "Use o pronome relativo aqui.",
+        "en": "Use the relative pronoun here.",
+        "ar": "استخدم الضمير الموصول هنا."
       }
     },
     {
@@ -52,9 +52,9 @@
       "en": "that / who / which",
       "ar": "الذي / التي",
       "example": {
-        "pt": "Conhece a moça que trabalha na padaria?",
-        "en": "Do you know the girl who works at the bakery?",
-        "ar": "هل تعرف الفتاة التي تعمل في المخبز؟"
+        "pt": "Este é o livro que eu li.",
+        "en": "This is the book that I read.",
+        "ar": "هذا هو الكتاب الذي قرأته."
       }
     },
     {
@@ -63,9 +63,9 @@
       "en": "who (with preposition)",
       "ar": "من",
       "example": {
-        "pt": "Sim, a amiga com quem estudo na universidade.",
-        "en": "Yes, she is the friend I study with at university.",
-        "ar": "نعم، إنها صديقتي التي أدرس معها في الجامعة."
+        "pt": "Quem chegou tão tarde?",
+        "en": "Who arrived so late?",
+        "ar": "من وصل متأخرًا هكذا؟"
       }
     },
     {
@@ -74,9 +74,9 @@
       "en": "where",
       "ar": "حيث / أين",
       "example": {
-        "pt": "E o café onde nos encontramos ontem?",
-        "en": "And the café where we met yesterday?",
-        "ar": "والمقهى الذي التقينا فيه أمس؟"
+        "pt": "Onde fica a estação?",
+        "en": "Where is the station?",
+        "ar": "أين تقع المحطة؟"
       }
     },
     {
@@ -85,9 +85,9 @@
       "en": "whose",
       "ar": "الذي له",
       "example": {
-        "pt": "O lugar cujo preço é justo é perfeito para nós.",
-        "en": "The place whose prices are fair is perfect for us.",
-        "ar": "المكان الذي أسعاره معقولة مثالي لنا."
+        "pt": "Gostei do livro, cujo final me surpreendeu.",
+        "en": "I liked the book, whose ending surprised me.",
+        "ar": "أعجبني الكتاب الذي فاجأني نهايته."
       }
     },
     {
@@ -96,9 +96,9 @@
       "en": "the person",
       "ar": "الشخص",
       "example": {
-        "pt": "Conhece a moça que trabalha na padaria?",
-        "en": "Do you know the girl who works at the bakery?",
-        "ar": "هل تعرف الفتاة التي تعمل في المخبز؟"
+        "pt": "A pessoa que falou é advogada.",
+        "en": "The person who spoke is a lawyer.",
+        "ar": "الشخص الذي تحدث محامٍ."
       }
     },
     {
@@ -107,9 +107,9 @@
       "en": "the place",
       "ar": "المكان",
       "example": {
-        "pt": "E o café onde nos encontramos ontem?",
-        "en": "And the café where we met yesterday?",
-        "ar": "والمقهى الذي التقينا فيه أمس؟"
+        "pt": "O lugar é tranquilo.",
+        "en": "The place is quiet.",
+        "ar": "المكان هادئ."
       }
     },
     {
@@ -118,9 +118,9 @@
       "en": "the thing",
       "ar": "الشيء",
       "example": {
-        "pt": "Conhece a moça que trabalha na padaria?",
-        "en": "Do you know the girl who works at the bakery?",
-        "ar": "هل تعرف الفتاة التي تعمل في المخبز؟"
+        "pt": "A coisa mais fácil é começar.",
+        "en": "The easiest thing is to begin.",
+        "ar": "أسهل شيء هو البدء."
       }
     },
     {
@@ -129,9 +129,9 @@
       "en": "the explanation",
       "ar": "الشرح",
       "example": {
-        "pt": "Conhece a moça que trabalha na padaria?",
-        "en": "Do you know the girl who works at the bakery?",
-        "ar": "هل تعرف الفتاة التي تعمل في المخبز؟"
+        "pt": "A explicação dele ajudou.",
+        "en": "His explanation helped.",
+        "ar": "شرحه ساعدني."
       }
     },
     {
@@ -140,9 +140,9 @@
       "en": "the sentence",
       "ar": "الجملة",
       "example": {
-        "pt": "Conhece a moça que trabalha na padaria?",
-        "en": "Do you know the girl who works at the bakery?",
-        "ar": "هل تعرف الفتاة التي تعمل في المخبز؟"
+        "pt": "A frase começa com verbo.",
+        "en": "The sentence starts with a verb.",
+        "ar": "تبدأ الجملة بفعل."
       }
     },
     {
@@ -151,9 +151,9 @@
       "en": "to replace",
       "ar": "يستبدل",
       "example": {
-        "pt": "Conhece a moça que trabalha na padaria?",
-        "en": "Do you know the girl who works at the bakery?",
-        "ar": "هل تعرف الفتاة التي تعمل في المخبز؟"
+        "pt": "Preciso substituir a peça.",
+        "en": "I need to replace the part.",
+        "ar": "أحتاج إلى استبدال القطعة."
       }
     },
     {
@@ -162,9 +162,9 @@
       "en": "the antecedent",
       "ar": "المرجع السابق",
       "example": {
-        "pt": "E o café onde nos encontramos ontem?",
-        "en": "And the café where we met yesterday?",
-        "ar": "والمقهى الذي التقينا فيه أمس؟"
+        "pt": "Encontre o antecedente do pronome.",
+        "en": "Find the antecedent of the pronoun.",
+        "ar": "اعثر على مرجع الضمير."
       }
     },
     {
@@ -173,9 +173,9 @@
       "en": "the question",
       "ar": "السؤال",
       "example": {
-        "pt": "Conhece a moça que trabalha na padaria?",
-        "en": "Do you know the girl who works at the bakery?",
-        "ar": "هل تعرف الفتاة التي تعمل في المخبز؟"
+        "pt": "A pergunta era complicada.",
+        "en": "The question was complicated.",
+        "ar": "كان السؤال معقدًا."
       }
     }
   ],
@@ -859,6 +859,222 @@
         "pt": "A frase correta: 'Conhece a moça que trabalha na padaria?'",
         "en": "The correct sentence: 'Conhece a moça que trabalha na padaria?'",
         "ar": "الجملة الصحيحة: 'Conhece a moça que trabalha na padaria?'"
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the place'?",
+        "en": "Which word means 'the place'?",
+        "ar": "أي كلمة تعني 'المكان'؟"
+      },
+      "options": [
+        {
+          "pt": "o pronome",
+          "en": "the pronoun",
+          "ar": "الضمير"
+        },
+        {
+          "pt": "a frase",
+          "en": "the sentence",
+          "ar": "الجملة"
+        },
+        {
+          "pt": "o lugar",
+          "en": "the place",
+          "ar": "المكان"
+        }
+      ],
+      "answer": "o lugar",
+      "explanation": {
+        "pt": "'o lugar' significa 'the place'.",
+        "en": "'o lugar' means 'the place'.",
+        "ar": "تعني 'o lugar' 'المكان'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'the sentence'?",
+        "en": "Which word means 'the sentence'?",
+        "ar": "أي كلمة تعني 'الجملة'؟"
+      },
+      "options": [
+        {
+          "pt": "a frase",
+          "en": "the sentence",
+          "ar": "الجملة"
+        },
+        {
+          "pt": "quem",
+          "en": "who (with preposition)",
+          "ar": "من"
+        },
+        {
+          "pt": "a explicação",
+          "en": "the explanation",
+          "ar": "الشرح"
+        }
+      ],
+      "answer": "a frase",
+      "explanation": {
+        "pt": "'a frase' significa 'the sentence'.",
+        "en": "'a frase' means 'the sentence'.",
+        "ar": "تعني 'a frase' 'الجملة'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"This is the book that I read.\"",
+        "en": "Translate into Portuguese: \"This is the book that I read.\"",
+        "ar": "ترجم إلى البرتغالية: \"هذا هو الكتاب الذي قرأته.\""
+      },
+      "options": [],
+      "answer": "Este é o livro que eu li.",
+      "explanation": {
+        "pt": "Resposta: \"Este é o livro que eu li.\".",
+        "en": "Answer: \"Este é o livro que eu li.\". (EN: \"This is the book that I read.\")",
+        "ar": "الإجابة: \"Este é o livro que eu li.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"The person who spoke is a lawyer.\"",
+        "en": "Translate into Portuguese: \"The person who spoke is a lawyer.\"",
+        "ar": "ترجم إلى البرتغالية: \"الشخص الذي تحدث محامٍ.\""
+      },
+      "options": [],
+      "answer": "A pessoa que falou é advogada.",
+      "explanation": {
+        "pt": "Resposta: \"A pessoa que falou é advogada.\".",
+        "en": "Answer: \"A pessoa que falou é advogada.\". (EN: \"The person who spoke is a lawyer.\")",
+        "ar": "الإجابة: \"A pessoa que falou é advogada.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Preciso ___ a peça.\"",
+        "en": "Complete: \"Preciso ___ a peça.\"",
+        "ar": "أكمل: \"Preciso ___ a peça.\""
+      },
+      "options": [
+        {
+          "pt": "substituir",
+          "en": "substituir",
+          "ar": "substituir"
+        },
+        {
+          "pt": "o lugar",
+          "en": "o lugar",
+          "ar": "o lugar"
+        },
+        {
+          "pt": "relativo",
+          "en": "relativo",
+          "ar": "relativo"
+        }
+      ],
+      "answer": "substituir",
+      "explanation": {
+        "pt": "A lacuna é 'substituir'.",
+        "en": "The blank is 'substituir'.",
+        "ar": "الفراغ هو 'substituir'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": {
+        "pt": "Complete: \"Encontre ___ do pronome.\"",
+        "en": "Complete: \"Encontre ___ do pronome.\"",
+        "ar": "أكمل: \"Encontre ___ do pronome.\""
+      },
+      "options": [
+        {
+          "pt": "o pronome",
+          "en": "o pronome",
+          "ar": "o pronome"
+        },
+        {
+          "pt": "a pessoa",
+          "en": "a pessoa",
+          "ar": "a pessoa"
+        },
+        {
+          "pt": "o antecedente",
+          "en": "o antecedente",
+          "ar": "o antecedente"
+        }
+      ],
+      "answer": "o antecedente",
+      "explanation": {
+        "pt": "A lacuna é 'o antecedente'.",
+        "en": "The blank is 'o antecedente'.",
+        "ar": "الفراغ هو 'o antecedente'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: \"Use the relative pronoun here.\"",
+        "en": "Type in Portuguese: \"Use the relative pronoun here.\"",
+        "ar": "اكتب بالبرتغالية: \"استخدم الضمير الموصول هنا.\""
+      },
+      "options": [],
+      "answer": "Use o pronome relativo aqui.",
+      "accepted": [
+        "Use o pronome relativo aqui."
+      ],
+      "explanation": {
+        "pt": "Resposta possível: \"Use o pronome relativo aqui.\".",
+        "en": "One possible answer: \"Use o pronome relativo aqui.\".",
+        "ar": "إجابة ممكنة: \"Use o pronome relativo aqui.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "substituir",
+          "en": "substituir",
+          "ar": "substituir"
+        },
+        {
+          "pt": "a",
+          "en": "a",
+          "ar": "a"
+        },
+        {
+          "pt": "Preciso",
+          "en": "Preciso",
+          "ar": "Preciso"
+        },
+        {
+          "pt": "peça.",
+          "en": "peça.",
+          "ar": "peça."
+        }
+      ],
+      "answer": "Preciso substituir a peça.",
+      "gen": "v1.8",
+      "explanation": {
+        "pt": "A frase correta é: \"Preciso substituir a peça.\".",
+        "en": "The correct sentence is: \"Preciso substituir a peça.\".",
+        "ar": "الجملة الصحيحة هي: \"Preciso substituir a peça.\"."
       }
     }
   ],

@@ -40,9 +40,9 @@
       "en": "experiment",
       "ar": "التجربة",
       "example": {
-        "pt": "Embora o gráfico mostre uma tendência, a tabela revela dispersão alta.",
-        "en": "Although the chart shows a trend, the table reveals high dispersion.",
-        "ar": "رغم أن الرسم البياني يُظهر اتجاهًا، يكشف الجدول تبعثرًا كبيرًا."
+        "pt": "O experimento confirmou a hipótese.",
+        "en": "The experiment confirmed the hypothesis.",
+        "ar": "أكدت التجربة الفرضية."
       }
     },
     {
@@ -51,9 +51,9 @@
       "en": "hypothesis",
       "ar": "الفرضية",
       "example": {
-        "pt": "Verificou-se que a temperatura interferiu nos resultados.",
-        "en": "It was verified that the temperature interfered with the results.",
-        "ar": "تأكد أن درجة الحرارة أثرت في النتائج."
+        "pt": "A hipótese inicial era fraca.",
+        "en": "The initial hypothesis was weak.",
+        "ar": "كانت الفرضية الأولية ضعيفة."
       }
     },
     {
@@ -62,9 +62,9 @@
       "en": "variable",
       "ar": "المتغير",
       "example": {
-        "pt": "Verificou-se que a temperatura interferiu nos resultados.",
-        "en": "It was verified that the temperature interfered with the results.",
-        "ar": "تأكد أن درجة الحرارة أثرت في النتائج."
+        "pt": "A variável depende do tempo.",
+        "en": "The variable depends on time.",
+        "ar": "يعتمد المتغير على الزمن."
       }
     },
     {
@@ -73,9 +73,9 @@
       "en": "sample",
       "ar": "العينة",
       "example": {
-        "pt": "Verificou-se que a temperatura interferiu nos resultados.",
-        "en": "It was verified that the temperature interfered with the results.",
-        "ar": "تأكد أن درجة الحرارة أثرت في النتائج."
+        "pt": "A amostra foi representativa.",
+        "en": "The sample was representative.",
+        "ar": "كانت العينة ممثّلة."
       }
     },
     {
@@ -84,9 +84,9 @@
       "en": "data point / datum",
       "ar": "المعطى / البيان",
       "example": {
-        "pt": "Embora o gráfico mostre uma tendência, a tabela revela dispersão alta.",
-        "en": "Although the chart shows a trend, the table reveals high dispersion.",
-        "ar": "رغم أن الرسم البياني يُظهر اتجاهًا، يكشف الجدول تبعثرًا كبيرًا."
+        "pt": "O dado bruto precisa de limpeza.",
+        "en": "Raw data needs cleaning.",
+        "ar": "يحتاج المعطى الخام إلى تنظيف."
       }
     },
     {
@@ -95,9 +95,9 @@
       "en": "result",
       "ar": "النتيجة",
       "example": {
-        "pt": "Embora o gráfico mostre uma tendência, a tabela revela dispersão alta.",
-        "en": "Although the chart shows a trend, the table reveals high dispersion.",
-        "ar": "رغم أن الرسم البياني يُظهر اتجاهًا، يكشف الجدول تبعثرًا كبيرًا."
+        "pt": "O resultado surpreendeu a todos.",
+        "en": "The result surprised everyone.",
+        "ar": "فاجأت النتيجة الجميع."
       }
     },
     {
@@ -106,9 +106,9 @@
       "en": "conclusion",
       "ar": "الاستنتاج",
       "example": {
-        "pt": "Verificou-se que a temperatura interferiu nos resultados.",
-        "en": "It was verified that the temperature interfered with the results.",
-        "ar": "تأكد أن درجة الحرارة أثرت في النتائج."
+        "pt": "A conclusão é conservadora.",
+        "en": "The conclusion is conservative.",
+        "ar": "الاستنتاج تحفظي."
       }
     },
     {
@@ -117,9 +117,9 @@
       "en": "methodology",
       "ar": "المنهجية",
       "example": {
-        "pt": "Verificou-se que a temperatura interferiu nos resultados.",
-        "en": "It was verified that the temperature interfered with the results.",
-        "ar": "تأكد أن درجة الحرارة أثرت في النتائج."
+        "pt": "A metodologia está descrita no artigo.",
+        "en": "The methodology is described in the article.",
+        "ar": "يُوصف المنهج في المقال."
       }
     },
     {
@@ -128,9 +128,9 @@
       "en": "theoretical framework",
       "ar": "الإطار النظري",
       "example": {
-        "pt": "Embora o gráfico mostre uma tendência, a tabela revela dispersão alta.",
-        "en": "Although the chart shows a trend, the table reveals high dispersion.",
-        "ar": "رغم أن الرسم البياني يُظهر اتجاهًا، يكشف الجدول تبعثرًا كبيرًا."
+        "pt": "O referencial teórico é sólido.",
+        "en": "The theoretical framework is solid.",
+        "ar": "الإطار النظري متين."
       }
     },
     {
@@ -139,9 +139,9 @@
       "en": "literature review",
       "ar": "مراجعة الأدبيات",
       "example": {
-        "pt": "Verificou-se que a temperatura interferiu nos resultados.",
-        "en": "It was verified that the temperature interfered with the results.",
-        "ar": "تأكد أن درجة الحرارة أثرت في النتائج."
+        "pt": "A revisão bibliográfica vem primeiro.",
+        "en": "The literature review comes first.",
+        "ar": "تأتي مراجعة الأدبيات أولًا."
       }
     },
     {
@@ -150,9 +150,9 @@
       "en": "article",
       "ar": "المقال",
       "example": {
-        "pt": "Embora o gráfico mostre uma tendência, a tabela revela dispersão alta.",
-        "en": "Although the chart shows a trend, the table reveals high dispersion.",
-        "ar": "رغم أن الرسم البياني يُظهر اتجاهًا، يكشف الجدول تبعثرًا كبيرًا."
+        "pt": "O artigo foi aceito pela revista.",
+        "en": "The article was accepted by the journal.",
+        "ar": "قُبل المقال في الدورية."
       }
     },
     {
@@ -161,9 +161,9 @@
       "en": "journal",
       "ar": "الدورية العلمية",
       "example": {
-        "pt": "Embora o gráfico mostre uma tendência, a tabela revela dispersão alta.",
-        "en": "Although the chart shows a trend, the table reveals high dispersion.",
-        "ar": "رغم أن الرسم البياني يُظهر اتجاهًا، يكشف الجدول تبعثرًا كبيرًا."
+        "pt": "O periódico é trimestral.",
+        "en": "The journal is quarterly.",
+        "ar": "الدورية ربع سنوية."
       }
     },
     {
@@ -172,9 +172,9 @@
       "en": "index",
       "ar": "المؤشر",
       "example": {
-        "pt": "Embora o gráfico mostre uma tendência, a tabela revela dispersão alta.",
-        "en": "Although the chart shows a trend, the table reveals high dispersion.",
-        "ar": "رغم أن الرسم البياني يُظهر اتجاهًا، يكشف الجدول تبعثرًا كبيرًا."
+        "pt": "O índice mede o impacto.",
+        "en": "The index measures impact.",
+        "ar": "يقيس المؤشر الأثر."
       }
     },
     {
@@ -183,9 +183,9 @@
       "en": "chart",
       "ar": "الرسم البياني",
       "example": {
-        "pt": "Embora o gráfico mostre uma tendência, a tabela revela dispersão alta.",
-        "en": "Although the chart shows a trend, the table reveals high dispersion.",
-        "ar": "رغم أن الرسم البياني يُظهر اتجاهًا، يكشف الجدول تبعثرًا كبيرًا."
+        "pt": "O gráfico mostra a queda.",
+        "en": "The chart shows the drop.",
+        "ar": "يوضح الرسم البياني الانخفاض."
       }
     },
     {
@@ -194,9 +194,9 @@
       "en": "table",
       "ar": "الجدول",
       "example": {
-        "pt": "Verificou-se que a temperatura interferiu nos resultados.",
-        "en": "It was verified that the temperature interfered with the results.",
-        "ar": "تأكد أن درجة الحرارة أثرت في النتائج."
+        "pt": "A tabela resume os dados.",
+        "en": "The table summarizes the data.",
+        "ar": "تلخّص الجدول البيانات."
       }
     },
     {
@@ -205,9 +205,9 @@
       "en": "precision",
       "ar": "الدقة",
       "example": {
-        "pt": "Verificou-se que a temperatura interferiu nos resultados.",
-        "en": "It was verified that the temperature interfered with the results.",
-        "ar": "تأكد أن درجة الحرارة أثرت في النتائج."
+        "pt": "A precisão do método é alta.",
+        "en": "The method's precision is high.",
+        "ar": "دقة المنهج عالية."
       }
     },
     {
@@ -216,9 +216,9 @@
       "en": "reproducibility",
       "ar": "قابلية إعادة الإنتاج",
       "example": {
-        "pt": "Verificou-se que a temperatura interferiu nos resultados.",
-        "en": "It was verified that the temperature interfered with the results.",
-        "ar": "تأكد أن درجة الحرارة أثرت في النتائج."
+        "pt": "A reprodutibilidade é essencial na ciência.",
+        "en": "Reproducibility is essential in science.",
+        "ar": "قابلية إعادة الإنتاج أساسية في العلم."
       }
     },
     {
@@ -227,9 +227,9 @@
       "en": "peer review",
       "ar": "التحكيم / مراجعة الأقران",
       "example": {
-        "pt": "Verificou-se que a temperatura interferiu nos resultados.",
-        "en": "It was verified that the temperature interfered with the results.",
-        "ar": "تأكد أن درجة الحرارة أثرت في النتائج."
+        "pt": "A revisão por pares é anônima.",
+        "en": "Peer review is anonymous.",
+        "ar": "التحكيم مجهول الهوية."
       }
     }
   ],
@@ -910,6 +910,237 @@
         "en": "The correct sentence: 'Verificou-se que a temperatura interferiu nos resultados.'",
         "ar": "الجملة الصحيحة: 'Verificou-se que a temperatura interferiu nos resultados.'"
       }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'methodology'?",
+        "en": "Which word means 'methodology'?",
+        "ar": "أي كلمة تعني 'المنهجية'؟"
+      },
+      "options": [
+        {
+          "pt": "o índice",
+          "en": "index",
+          "ar": "المؤشر"
+        },
+        {
+          "pt": "a revisão bibliográfica",
+          "en": "literature review",
+          "ar": "مراجعة الأدبيات"
+        },
+        {
+          "pt": "a metodologia",
+          "en": "methodology",
+          "ar": "المنهجية"
+        }
+      ],
+      "answer": "a metodologia",
+      "explanation": {
+        "pt": "'a metodologia' significa 'methodology'.",
+        "en": "'a metodologia' means 'methodology'.",
+        "ar": "تعني 'a metodologia' 'المنهجية'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'conclusion'?",
+        "en": "Which word means 'conclusion'?",
+        "ar": "أي كلمة تعني 'الاستنتاج'؟"
+      },
+      "options": [
+        {
+          "pt": "a revisão bibliográfica",
+          "en": "literature review",
+          "ar": "مراجعة الأدبيات"
+        },
+        {
+          "pt": "a conclusão",
+          "en": "conclusion",
+          "ar": "الاستنتاج"
+        },
+        {
+          "pt": "a amostra",
+          "en": "sample",
+          "ar": "العينة"
+        },
+        {
+          "pt": "o índice",
+          "en": "index",
+          "ar": "المؤشر"
+        }
+      ],
+      "answer": "a conclusão",
+      "explanation": {
+        "pt": "'a conclusão' significa 'conclusion'.",
+        "en": "'a conclusão' means 'conclusion'.",
+        "ar": "تعني 'a conclusão' 'الاستنتاج'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"The conclusion is conservative.\"",
+        "en": "Translate into Portuguese: \"The conclusion is conservative.\"",
+        "ar": "ترجم إلى البرتغالية: \"الاستنتاج تحفظي.\""
+      },
+      "options": [],
+      "answer": "A conclusão é conservadora.",
+      "explanation": {
+        "pt": "Resposta: \"A conclusão é conservadora.\".",
+        "en": "Answer: \"A conclusão é conservadora.\". (EN: \"The conclusion is conservative.\")",
+        "ar": "الإجابة: \"A conclusão é conservadora.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "translation",
+      "prompt": {
+        "pt": "Traduza para o português: \"It was verified that the temperature interfered with the results.\"",
+        "en": "Translate into Portuguese: \"It was verified that the temperature interfered with the results.\"",
+        "ar": "ترجم إلى البرتغالية: \"تأكد أن درجة الحرارة أثرت في النتائج.\""
+      },
+      "options": [],
+      "answer": "Verificou-se que a temperatura interferiu nos resultados.",
+      "explanation": {
+        "pt": "Resposta: \"Verificou-se que a temperatura interferiu nos resultados.\".",
+        "en": "Answer: \"Verificou-se que a temperatura interferiu nos resultados.\". (EN: \"It was verified that the temperature interfered with the results.\")",
+        "ar": "الإجابة: \"Verificou-se que a temperatura interferiu nos resultados.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "writing",
+      "prompt": {
+        "pt": "Escreva em português: \"Since peer review is still pending, we cannot publish yet.\"",
+        "en": "Type in Portuguese: \"Since peer review is still pending, we cannot publish yet.\"",
+        "ar": "اكتب بالبرتغالية: \"نظرًا لأن التحكيم ما زال معلقًا، لا يمكننا النشر بعد.\""
+      },
+      "options": [],
+      "answer": "Uma vez que falta a revisão por pares, ainda não podemos publicar.",
+      "accepted": [
+        "Uma vez que falta a revisão por pares, ainda não podemos publicar."
+      ],
+      "explanation": {
+        "pt": "Resposta possível: \"Uma vez que falta a revisão por pares, ainda não podemos publicar.\".",
+        "en": "One possible answer: \"Uma vez que falta a revisão por pares, ainda não podemos publicar.\".",
+        "ar": "إجابة ممكنة: \"Uma vez que falta a revisão por pares, ainda não podemos publicar.\"."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "sentence_reorder",
+      "prompt": {
+        "pt": "Reordene as palavras para formar a frase:",
+        "en": "Reorder the words to form the sentence:",
+        "ar": "أعد ترتيب الكلمات لتكوين الجملة:"
+      },
+      "options": [
+        {
+          "pt": "A",
+          "en": "A",
+          "ar": "A"
+        },
+        {
+          "pt": "descrita",
+          "en": "descrita",
+          "ar": "descrita"
+        },
+        {
+          "pt": "está",
+          "en": "está",
+          "ar": "está"
+        },
+        {
+          "pt": "artigo.",
+          "en": "artigo.",
+          "ar": "artigo."
+        },
+        {
+          "pt": "no",
+          "en": "no",
+          "ar": "no"
+        },
+        {
+          "pt": "metodologia",
+          "en": "metodologia",
+          "ar": "metodologia"
+        }
+      ],
+      "answer": "A metodologia está descrita no artigo.",
+      "gen": "v1.8",
+      "explanation": {
+        "pt": "A frase correta é: \"A metodologia está descrita no artigo.\".",
+        "en": "The correct sentence is: \"A metodologia está descrita no artigo.\".",
+        "ar": "الجملة الصحيحة هي: \"A metodologia está descrita no artigo.\"."
+      }
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'chart'?",
+        "en": "Which word means 'chart'?",
+        "ar": "أي كلمة تعني 'الرسم البياني'؟"
+      },
+      "options": [
+        {
+          "pt": "o gráfico",
+          "en": "chart",
+          "ar": "الرسم البياني"
+        },
+        {
+          "pt": "o experimento",
+          "en": "experiment",
+          "ar": "التجربة"
+        },
+        {
+          "pt": "o periódico",
+          "en": "journal",
+          "ar": "الدورية العلمية"
+        }
+      ],
+      "answer": "o gráfico",
+      "explanation": {
+        "pt": "'o gráfico' significa 'chart'.",
+        "en": "'o gráfico' means 'chart'.",
+        "ar": "تعني 'o gráfico' 'الرسم البياني'."
+      },
+      "gen": "v1.8"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "pt": "Qual palavra significa 'sample'?",
+        "en": "Which word means 'sample'?",
+        "ar": "أي كلمة تعني 'العينة'؟"
+      },
+      "options": [
+        {
+          "pt": "a amostra",
+          "en": "sample",
+          "ar": "العينة"
+        },
+        {
+          "pt": "o resultado",
+          "en": "result",
+          "ar": "النتيجة"
+        },
+        {
+          "pt": "a conclusão",
+          "en": "conclusion",
+          "ar": "الاستنتاج"
+        }
+      ],
+      "answer": "a amostra",
+      "explanation": {
+        "pt": "'a amostra' significa 'sample'.",
+        "en": "'a amostra' means 'sample'.",
+        "ar": "تعني 'a amostra' 'العينة'."
+      },
+      "gen": "v1.8"
     }
   ],
   "speaking": {
