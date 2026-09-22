@@ -132,6 +132,36 @@ void main() {
       expect(score.passed, isTrue);
     });
 
+    test('sub-token answer fails containment floor', () {
+      final score = VoiceCompareService.compareAny([
+        'Bom dia, tudo bem senhor?',
+      ], 'de');
+      expect(score.score, lessThan(90));
+      expect(score.passed, isFalse);
+    });
+
+    test('excludes listening_mcq answers from free-answer enrichment', () {
+      final listeningMcq = Exercise(
+        'listening_mcq',
+        TriText('Como você se chama?', '', ''),
+        const [],
+        'Eu sou a Ana.',
+        const [],
+        null,
+        TriText('', '', ''),
+      );
+      final turns = ConversationTurnEngine.build(
+        lines: [
+          _line('Ana', 'Como você se chama?'),
+          _line('Pedro', 'Eu sou o Pedro.'),
+        ],
+        exercises: [listeningMcq],
+        targetLang: 'pt',
+      );
+      expect(turns[1].accepted, contains('Eu sou o Pedro.'));
+      expect(turns[1].accepted, isNot(contains('Eu sou a Ana.')));
+    });
+
     test('wrong answer fails below retry band', () {
       final score = VoiceCompareService.compareAny([
         'Sim, eu gostaria de viajar.',

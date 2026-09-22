@@ -79,6 +79,15 @@ void main() {
       expect(s.score, 100);
       expect(s.passed, isTrue);
     });
+
+    test('sub-token heard cannot pass via containment', () {
+      final s = VoiceCompareService.compareAny(
+        ['Bom dia, tudo bem senhor?'],
+        'de',
+      );
+      expect(s.score, lessThan(90));
+      expect(s.passed, isFalse);
+    });
   });
 
   group('thresholds', () {

@@ -64,7 +64,7 @@ The app requests no special permissions:
 
 ## Audio Content
 
-All 5,041 audio pronunciation files are generated during development and bundled into the APK. They are not downloaded at runtime. No audio is recorded from the user.
+All 6,556 audio pronunciation files are generated during development and bundled into the APK. They are not downloaded at runtime. No audio is recorded from the user.
 
 ---
 

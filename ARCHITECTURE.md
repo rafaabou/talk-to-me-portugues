@@ -1,6 +1,6 @@
 # Architecture — Talk To Me Portugues Brasileiro
 
-**Version 1.8.0** | By Mohamed Rafaa Tounekti
+**Version 1.10.0** | By Mohamed Rafaa Tounekti
 
 ---
 
@@ -86,7 +86,7 @@ ptbr-zero-to-hero/
 │   │   │   ├── levels/*.json       # 72 lesson files
 │   │   │   ├── index.json          # Search index
 │   │   │   └── verbs.json          # 1,834 verbs x 8 tenses
-│   │   └── audio/                  # 5,041 .opus files (MD5-keyed)
+│   │   └── audio/                  # 6,556 .opus files (MD5-keyed)
 │   └── test/                       # 55 unit + widget tests
 ├── tools/                          # Python content pipeline
 ├── .github/workflows/build.yml     # GitHub Actions CI/CD

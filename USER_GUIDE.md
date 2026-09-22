@@ -1,6 +1,6 @@
 # User Guide — Talk To Me Portugues Brasileiro
 
-**Version 1.8.0** | By Mohamed Rafaa Tounekti
+**Version 1.10.0** | By Mohamed Rafaa Tounekti
 
 Learn Brazilian Portuguese from zero to fluency. 100% offline, trilingual (Portuguese + English + Arabic).
 
@@ -336,7 +336,7 @@ On the web version, export downloads a JSON file. Import opens a file picker.
 
 The app works 100% offline:
 - All 72 lessons are bundled in the app
-- All 5,041 audio files are included
+- All 6,556 audio files are included
 - All 1,834 verb conjugations are available
 - No internet connection required
 - No data is sent anywhere

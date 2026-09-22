@@ -56,9 +56,13 @@ class _ConversationScreenState extends State<ConversationScreen> {
   String? _recPath;
   Timer? _recSafety;
   AudioPlayer? _abPlayer;
+  final ScrollController _scrollCtrl = ScrollController();
 
   ConversationTurn? get _current =>
       _index < widget.turns.length ? widget.turns[_index] : null;
+
+  int get _learnerTotal =>
+      widget.turns.where((t) => t.role == TurnRole.learner).length;
 
   @override
   void initState() {
@@ -82,6 +86,7 @@ class _ConversationScreenState extends State<ConversationScreen> {
   @override
   void dispose() {
     _recSafety?.cancel();
+    _scrollCtrl.dispose();
     SpeechService.instance.cancelCurrent();
     if (_recording) {
       _recorder.cancel().catchError((_) {});
@@ -105,6 +110,23 @@ class _ConversationScreenState extends State<ConversationScreen> {
     HapticFeedback.mediumImpact();
   }
 
+  Future<void> _deleteQuietly(String path) async {
+    try {
+      await File(path).delete();
+    } catch (_) {}
+  }
+
+  void _scrollToBottom() {
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      if (!mounted || !_scrollCtrl.hasClients) return;
+      _scrollCtrl.animateTo(
+        _scrollCtrl.position.maxScrollExtent,
+        duration: const Duration(milliseconds: 250),
+        curve: Curves.easeOut,
+      );
+    });
+  }
+
   String _primary(ConversationTurn t) => t.text.tr(targetLang);
 
   void _startTurn() {
@@ -121,6 +143,12 @@ class _ConversationScreenState extends State<ConversationScreen> {
   }
 
   void _advance() {
+    _recSafety?.cancel();
+    if (_recording) {
+      _recording = false;
+      _recorder.cancel().catchError((_) {});
+    }
+    final oldRec = _recPath;
     final turn = _current;
     if (turn != null && turn.role == TurnRole.learner) {
       setState(() {
@@ -138,6 +166,9 @@ class _ConversationScreenState extends State<ConversationScreen> {
       _score = null;
       _recPath = null;
     });
+    if (oldRec != null && oldRec.isNotEmpty) _deleteQuietly(oldRec);
+    _cleanupOldRecordings();
+    _scrollToBottom();
     if (_index < widget.turns.length) {
       _startTurn();
     } else if (mounted) {
@@ -220,16 +251,17 @@ class _ConversationScreenState extends State<ConversationScreen> {
   }
 
   Future<void> _onMicPressed() async {
-    if (_busy) return;
     if (_phase == _Phase.listening) {
       await SpeechService.instance.cancelCurrent();
       return;
     }
+    if (_busy) return;
     final turn = _current;
     if (turn == null || turn.role != TurnRole.learner) return;
 
     if (!_sttChecked || !SpeechService.instance.available) {
       final ok = await SpeechService.instance.ensureInitialized();
+      if (!mounted) return;
       if (!ok) {
         setState(() {
           _fallback = true;
@@ -248,7 +280,23 @@ class _ConversationScreenState extends State<ConversationScreen> {
     }
 
     final allowed = await _showRationale();
-    if (!allowed) return;
+    if (!allowed || !mounted) return;
+    if (!kIsWeb) {
+      final hasMic = await _recorder.hasPermission();
+      if (!mounted) return;
+      if (!hasMic) {
+        setState(() => _fallback = true);
+        _msg(
+          uiText(
+            widget.lang,
+            ar: 'إذن الميكروفون مرفوض',
+            pt: 'Permissão de microfone negada',
+            other: 'Microphone permission denied',
+          ),
+        );
+        return;
+      }
+    }
 
     setState(() {
       _busy = true;
@@ -298,6 +346,7 @@ class _ConversationScreenState extends State<ConversationScreen> {
       _partial = '';
     });
     _haptic();
+    _scrollToBottom();
     if (score.passed && _passed.add(_index)) {
       ProgressService.instance.incrementSpeakingDone();
     }
@@ -513,6 +562,7 @@ class _ConversationScreenState extends State<ConversationScreen> {
     return Scaffold(
       appBar: AppBar(title: Text(widget.title)),
       body: ListView(
+        controller: _scrollCtrl,
         padding: const EdgeInsets.all(12),
         children: [
           if (!done) ...[
@@ -1182,11 +1232,11 @@ class _ConversationScreenState extends State<ConversationScreen> {
             const SizedBox(height: 8),
             Text(
               uiText(
-                lang,
-                ar: '${_passed.length}/${widget.turns.length} جمل صحيحة',
-                pt: '${_passed.length}/${widget.turns.length} frases corretas',
+                widget.lang,
+                ar: '${_passed.length}/$_learnerTotal جمل صحيحة',
+                pt: '${_passed.length}/$_learnerTotal frases corretas',
                 other:
-                    '${_passed.length}/${widget.turns.length} correct phrases',
+                    '${_passed.length}/$_learnerTotal correct phrases',
               ),
               style: Theme.of(context).textTheme.bodyLarge,
             ),
