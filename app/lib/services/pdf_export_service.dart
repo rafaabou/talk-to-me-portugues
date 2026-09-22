@@ -179,10 +179,14 @@ class PdfExportService {
                             ),
                         ],
                       ),
-                      pw.Text(
-                        '${v.tr(lang)}${lang == 'en' && v.ar.isNotEmpty ? ' · ${v.ar}' : ''}',
-                        style: pw.TextStyle(fontSize: 14),
-                      ),
+                      pw.Text(v.tr(lang), style: pw.TextStyle(fontSize: 14)),
+                      if (v.ar.isNotEmpty && v.ar != v.tr(lang))
+                        pw.Text(
+                          v.ar,
+                          textDirection: pw.TextDirection.rtl,
+                          textAlign: pw.TextAlign.right,
+                          style: pw.TextStyle(fontSize: 12),
+                        ),
                       if (v.example != null) ...[
                         pw.SizedBox(height: 4),
                         pw.Text(
@@ -192,13 +196,24 @@ class PdfExportService {
                             fontStyle: pw.FontStyle.italic,
                           ),
                         ),
-                        pw.Text(
-                          uiText(lang, ar: v.example!.ar, other: v.example!.en),
-                          style: pw.TextStyle(
-                            fontSize: 12,
-                            color: PdfColors.grey600,
+                        if (v.example!.en.isNotEmpty)
+                          pw.Text(
+                            v.example!.en,
+                            style: pw.TextStyle(
+                              fontSize: 12,
+                              color: PdfColors.grey600,
+                            ),
                           ),
-                        ),
+                        if (v.example!.ar.isNotEmpty)
+                          pw.Text(
+                            v.example!.ar,
+                            textDirection: pw.TextDirection.rtl,
+                            textAlign: pw.TextAlign.right,
+                            style: pw.TextStyle(
+                              fontSize: 12,
+                              color: PdfColors.grey600,
+                            ),
+                          ),
                       ],
                     ],
                   ),
@@ -255,13 +270,24 @@ class PdfExportService {
                                   fontStyle: pw.FontStyle.italic,
                                 ),
                               ),
-                              pw.Text(
-                                uiText(lang, ar: ex.ar, other: ex.en),
-                                style: pw.TextStyle(
-                                  fontSize: 12,
-                                  color: PdfColors.grey600,
+                              if (ex.en.isNotEmpty)
+                                pw.Text(
+                                  ex.en,
+                                  style: pw.TextStyle(
+                                    fontSize: 12,
+                                    color: PdfColors.grey600,
+                                  ),
                                 ),
-                              ),
+                              if (ex.ar.isNotEmpty)
+                                pw.Text(
+                                  ex.ar,
+                                  textDirection: pw.TextDirection.rtl,
+                                  textAlign: pw.TextAlign.right,
+                                  style: pw.TextStyle(
+                                    fontSize: 12,
+                                    color: PdfColors.grey600,
+                                  ),
+                                ),
                             ],
                           ),
                         ),

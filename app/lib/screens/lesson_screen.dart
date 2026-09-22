@@ -13,6 +13,8 @@ import '../services/ui_text.dart';
 import 'lesson_exercise_tile.dart';
 import 'lesson_search_sheet.dart';
 import 'lesson_sections.dart';
+import 'conversation_screen.dart';
+import '../services/conversation_turn_engine.dart';
 
 class LessonScreen extends StatefulWidget {
   final String lessonId;
@@ -284,6 +286,42 @@ class _LessonScreenState extends State<LessonScreen> {
                 uiText(lang, ar: 'الحوار', pt: 'Diálogo', other: 'Dialogue'),
               ),
               ...lesson.dialogueLines.map((l) => DialogueLineTile(l, lang)),
+              const SizedBox(height: 4),
+              FilledButton.tonalIcon(
+                onPressed: () {
+                  Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                      builder:
+                          (_) => ConversationScreen(
+                            lang: lang,
+                            title:
+                                lesson.dialogueTitle?.tr(lang) ??
+                                uiText(
+                                  lang,
+                                  ar: 'المحادثة',
+                                  pt: 'Conversa',
+                                  other: 'Conversation',
+                                ),
+                            turns: ConversationTurnEngine.build(
+                              lines: lesson.dialogueLines,
+                              exercises: lesson.exercises,
+                              targetLang: 'pt',
+                            ),
+                          ),
+                    ),
+                  );
+                },
+                icon: const Icon(Icons.record_voice_over),
+                label: Text(
+                  uiText(
+                    lang,
+                    ar: 'تدرب على المحادثة',
+                    pt: 'Praticar conversa',
+                    other: 'Practice conversation',
+                  ),
+                ),
+              ),
             ],
             const SizedBox(height: 12),
             // Reading
