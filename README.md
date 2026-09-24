@@ -79,7 +79,7 @@ It serves the prebuilt web app (`app/build/web`) and opens your browser automati
 - Data export/import (JSON backup)
 - Web support — run in browser
 - `build-all.sh` — one command builds APK + web
-- 104/104 tests passing, 0 analyze issues
+- 108/108 tests passing, 0 analyze issues
 
 ---
 
@@ -166,7 +166,7 @@ git clone https://github.com/rafaabou/ptbr-zero-to-hero.git
 cd ptbr-zero-to-hero/app
 flutter pub get
 flutter analyze              # Must be 0 issues
-flutter test                 # Must pass 104 tests
+flutter test                 # Must pass 108 tests
 
 # 5. Build release APK
 JAVA_HOME=/usr/lib/jvm/java-17-openjdk-amd64 \
@@ -184,7 +184,7 @@ cd app
 flutter pub get              # Install dependencies
 flutter run                  # Run on device/emulator
 flutter analyze              # Static analysis (must be 0 issues)
-flutter test                 # Run 104 tests
+flutter test                 # Run 108 tests
 dart format --set-exit-if-changed --output=none .  # Format check
 ```
 
@@ -557,7 +557,7 @@ See `SECURITY.md` for the full security policy and vulnerability reporting proce
 ```bash
 cd app
 flutter analyze              # Must be 0 issues
-flutter test                 # Must pass 104 tests
+flutter test                 # Must pass 108 tests
 git status                   # Nothing unintended staged
 dart format --set-exit-if-changed --output=none .  # Format check
 gitleaks detect --no-git -c .gitleaks.toml         # Optional local secret scan
@@ -591,6 +591,8 @@ Apache-2.0 — see `LICENSE` and `NOTICE`.
 - **Font fix**: bundled Noto Sans (covers the full IPA Extensions block, so transcriptions like `/a ˈlɛ.tɾa/` render instead of empty boxes) + Noto Sans Arabic (firmer strokes than the Naskh face it replaces), and raised the text weight scale to remove the thin, washed-out look.
 - **Weakest-first review**: the Home "words due" card now opens a review session ordered by memory stability (lowest first, then most lapses, then longest waiting) instead of a shuffle, capped at 20 cards.
 - **Verb favorites + honest audio label**: star any verb (stored namespaced as `verb:<infinitive>`), filter by favorites, and the audio chip now says "All forms audio" because only 45 verbs have audio for every conjugation (all 1,834 have the infinitive).
+- **Arabic is always shown**: the Phase 1 "two-language blocks" rule hid Arabic whenever the interface language was English. `visibleTranslationLangs()` now pins Arabic in every content block and the Settings switch (renamed to "Show English translation") only controls the English line. The stored preference key is unchanged, so nobody's saved setting was reset.
+- **Fixed an unanswerable drill**: the generated Spanish `listening` exercises were emitted with no `options`, but both the lesson tile and the quiz render `listening` as multiple choice — so those questions showed no answer buttons. 72 drills repaired, the generator now refuses to emit an option-less choice drill, and the quiz test fails loudly on a question with no answer widget instead of ending early.
 - **Global search covers verbs**: searching now also matches the 1,834 verb forms, loaded lazily so start-up stays fast; tapping a verb result opens the verbs screen.
 - **PDF exports keep IPA**: the export used the `pdf` package default (Helvetica, no IPA glyphs), so a Noto Sans subset is now embedded via `app/tools/build_pdf_font_subset.py`. Arabic stays out of exports on purpose — the package does no complex-script shaping.
 

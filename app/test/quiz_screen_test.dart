@@ -51,7 +51,12 @@ void main() {
       final result = find.textContaining('Best score:');
       for (var i = 0; i < 60 && tester.any(result) == false; i++) {
         final option = find.byType(OutlinedButton);
-        if (tester.any(option) == false) break;
+        if (tester.any(option) == false) {
+          throw StateError(
+            'question ${i + 1} rendered no answer buttons: a quiz question '
+            'must offer options or a text field',
+          );
+        }
         await tester.tap(option.first);
         final next = find.widgetWithText(FilledButton, 'Next');
         await pumpUntil(tester, () => tester.any(next));
