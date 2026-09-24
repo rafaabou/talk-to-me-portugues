@@ -79,7 +79,7 @@ It serves the prebuilt web app (`app/build/web`) and opens your browser automati
 - Data export/import (JSON backup)
 - Web support — run in browser
 - `build-all.sh` — one command builds APK + web
-- 87/87 tests passing, 0 analyze issues
+- 92/92 tests passing, 0 analyze issues
 
 ---
 
@@ -166,7 +166,7 @@ git clone https://github.com/rafaabou/ptbr-zero-to-hero.git
 cd ptbr-zero-to-hero/app
 flutter pub get
 flutter analyze              # Must be 0 issues
-flutter test                 # Must pass 87 tests
+flutter test                 # Must pass 92 tests
 
 # 5. Build release APK
 JAVA_HOME=/usr/lib/jvm/java-17-openjdk-amd64 \
@@ -184,7 +184,7 @@ cd app
 flutter pub get              # Install dependencies
 flutter run                  # Run on device/emulator
 flutter analyze              # Static analysis (must be 0 issues)
-flutter test                 # Run 87 tests
+flutter test                 # Run 92 tests
 dart format --set-exit-if-changed --output=none .  # Format check
 ```
 
@@ -557,7 +557,7 @@ See `SECURITY.md` for the full security policy and vulnerability reporting proce
 ```bash
 cd app
 flutter analyze              # Must be 0 issues
-flutter test                 # Must pass 87 tests
+flutter test                 # Must pass 92 tests
 git status                   # Nothing unintended staged
 dart format --set-exit-if-changed --output=none .  # Format check
 gitleaks detect --no-git -c .gitleaks.toml         # Optional local secret scan
@@ -584,6 +584,7 @@ Apache-2.0 — see `LICENSE` and `NOTICE`.
 - **Web parity**: bundled Noto Naskh Arabic (web Arabic was invisible — CanvasKit was fetching Noto from a CDN), removed the `dart:io` import that made `flutter build web` fail, full RTL layout flip, viewport meta, immutable caching + gzip + Range in `serve_web.py`, and a `web` CI job so it can't rot again
 - **Web speech**: Firefox has no SpeechRecognition, so the browser build now detects it and offers record + replay + self-check instead of a dead mic button; insecure-context and browser-network errors get accurate messages
 - **Exercise de-duplication**: 216 of 1,807 repeats removed from view (1,591 shown, 0 repeats), 3 cross-lesson duplicates replaced in place, and lesson/stat counters now match what is displayed
+- **Audio drills numbered**: the 4 `listening_mcq` + 2 `listening` drills per lesson share one instruction line, so each now carries an `Áudio 1/4 … 4/4` badge (all 432 kept). Also fixed the hardcoded `lang: 'pt'` audio key that would have broken audio drills in the Spanish app.
 
 ### v1.8.0 (2026-09-12)
 - Unique example phrases for all 1,190 vocab words (PT/EN/AR) with per-word audio buttons
