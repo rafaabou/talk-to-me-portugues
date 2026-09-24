@@ -770,38 +770,40 @@
     {
       "type": "writing",
       "prompt": {
-        "pt": "Escreva em português: 'yesterday'",
-        "en": "Type in Portuguese: 'yesterday'",
-        "ar": "اكتب بالبرتغالية: 'أمس'"
+        "pt": "Escreva em português: 'the store'",
+        "en": "Type in Portuguese: 'the store'",
+        "ar": "اكتب بالبرتغالية: 'المتجر'"
       },
       "options": [],
-      "answer": "ontem",
+      "answer": "a loja",
       "accepted": [
-        "ontem"
+        "a loja"
       ],
       "explanation": {
         "pt": "'ontem' significa 'yesterday'.",
         "en": "'ontem' means 'yesterday'.",
         "ar": "'$ontem' بالعربية: '$أمس'."
-      }
+      },
+      "gen": "dedup-v1"
     },
     {
       "type": "writing",
       "prompt": {
-        "pt": "Escreva em português: 'the money'",
-        "en": "Type in Portuguese: 'the money'",
-        "ar": "اكتب بالبرتغالية: 'المال'"
+        "pt": "Escreva em português: 'the beach'",
+        "en": "Type in Portuguese: 'the beach'",
+        "ar": "اكتب بالبرتغالية: 'الشاطئ'"
       },
       "options": [],
-      "answer": "o dinheiro",
+      "answer": "a praia",
       "accepted": [
-        "o dinheiro"
+        "a praia"
       ],
       "explanation": {
         "pt": "'o dinheiro' significa 'the money'.",
         "en": "'o dinheiro' means 'the money'.",
         "ar": "'$o dinheiro' بالعربية: '$المال'."
-      }
+      },
+      "gen": "dedup-v1"
     },
     {
       "type": "listening",

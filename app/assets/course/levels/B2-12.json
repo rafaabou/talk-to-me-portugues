@@ -820,20 +820,21 @@
     {
       "type": "writing",
       "prompt": {
-        "pt": "Escreva em português: 'the passive voice'",
-        "en": "Type in Portuguese: 'the passive voice'",
-        "ar": "اكتب بالبرتغالية: 'المبني للمجهول'"
+        "pt": "Escreva em português: 'the connector'",
+        "en": "Type in Portuguese: 'the connector'",
+        "ar": "اكتب بالبرتغالية: 'أداة الربط'"
       },
       "options": [],
-      "answer": "a voz passiva",
+      "answer": "o conectivo",
       "accepted": [
-        "a voz passiva"
+        "o conectivo"
       ],
       "explanation": {
         "pt": "'a voz passiva' significa 'the passive voice'.",
         "en": "'a voz passiva' means 'the passive voice'.",
         "ar": "'$a voz passiva' بالعربية: '$المبني للمجهول'."
-      }
+      },
+      "gen": "dedup-v1"
     },
     {
       "type": "listening",
