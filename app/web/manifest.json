@@ -3,10 +3,12 @@
     "short_name": "Talk To Me PT",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#1a5276",
-    "theme_color": "#2ecc71",
+    "background_color": "#ffffff",
+    "theme_color": "#008000",
     "description": "Learn Brazilian Portuguese with interactive lessons and flashcards",
-    "orientation": "portrait-primary",
+    "lang": "pt-BR",
+    "dir": "ltr",
+    "categories": ["education", "productivity"],
     "prefer_related_applications": false,
     "icons": [
         {
