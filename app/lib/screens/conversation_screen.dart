@@ -595,6 +595,7 @@ class _ConversationScreenState extends State<ConversationScreen> {
       );
     });
     _haptic();
+    _scrollToBottom();
   }
 
   void _retry() {

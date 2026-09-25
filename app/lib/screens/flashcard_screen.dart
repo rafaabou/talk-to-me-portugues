@@ -29,10 +29,17 @@ class FlashcardScreen extends StatefulWidget {
   State<FlashcardScreen> createState() => _FlashcardScreenState();
 }
 
+/// One review card. Word, SRS key and example travel together in a single
+/// object so a shuffle can never pair a word with another card's key.
+class _Flashcard {
+  final VocabWord word;
+  final String key;
+  final TriText? example;
+  const _Flashcard(this.word, this.key, this.example);
+}
+
 class _FlashcardScreenState extends State<FlashcardScreen> {
-  List<VocabWord>? _deck;
-  List<String> _keys = [];
-  List<TriText?> _examples = [];
+  List<_Flashcard>? _deck;
   int _index = 0;
   bool _revealed = false;
   int _known = 0;
@@ -55,42 +62,43 @@ class _FlashcardScreenState extends State<FlashcardScreen> {
     final allKeys =
         (await ProgressService.instance.getFsrsCards()).keys.toSet();
     final repeatCount = await ProgressService.instance.getRepeatCount();
-    final weakKeys =
+    // Ranked order matters for a weak review, so keep the list, not a set.
+    final weakOrder =
         widget.weakestFirst && due.isNotEmpty
             ? weakestFirstCards(
               due,
               limit: widget.limit,
-            ).map((c) => c.key).toSet()
+            ).map((c) => c.key).toList()
             : null;
-    final words = <VocabWord>[];
-    final keys = <String>[];
-    final examples = <String, TriText>{};
+    final weakRank = <String, int>{
+      for (var i = 0; i < weakOrder!.length; i++) weakOrder[i]: i,
+    };
+    final cards = <_Flashcard>[];
     for (final v in index.vocab) {
       final key = v.key;
+      if (weakRank.isNotEmpty && !weakRank.containsKey(key)) continue;
       final inSrs = allKeys.contains(key);
       final isDue = due.containsKey(key);
       final isUnseen = !inSrs;
-      if (weakKeys != null && !weakKeys.contains(key)) continue;
       if (isDue || (!_dueOnly && isUnseen)) {
-        words.add(VocabWord(v.text.pt, v.ipa, v.text.en, v.text.ar));
-        keys.add(key);
-        if (v.example != null) examples[key] = v.example!;
+        cards.add(
+          _Flashcard(
+            VocabWord(v.text.pt, v.ipa, v.text.en, v.text.ar),
+            key,
+            v.example,
+          ),
+        );
       }
     }
-    // A weak review keeps the ranked order; a normal session shuffles.
-    final order =
-        weakKeys != null
-            ? List<int>.generate(words.length, (i) => i)
-            : (List<int>.generate(words.length, (i) => i)..shuffle(Random()));
-    final pairs = order;
-    final shuffledWords = [for (final i in pairs) words[i]];
-    final shuffledKeys = [for (final i in pairs) keys[i]];
-    final shuffledExamples = [for (final i in pairs) examples[shuffledKeys[i]]];
+    if (weakRank.isNotEmpty) {
+      // Weakest first: the ranking from weakestFirstCards is the deck order.
+      cards.sort((a, b) => weakRank[a.key]!.compareTo(weakRank[b.key]!));
+    } else {
+      cards.shuffle(Random());
+    }
     if (!mounted) return;
     setState(() {
-      _deck = shuffledWords;
-      _keys = shuffledKeys;
-      _examples = shuffledExamples;
+      _deck = cards;
       _dueOnly = due.isNotEmpty;
       _repeatCount = repeatCount;
       _loading = false;
@@ -99,13 +107,17 @@ class _FlashcardScreenState extends State<FlashcardScreen> {
 
   Future<void> _setRepeatCount(int count) async {
     await ProgressService.instance.setRepeatCount(count);
+    if (!mounted) return;
     setState(() => _repeatCount = count);
   }
 
-  void _next({required int rating}) {
-    final key = _keys[_index];
-    ProgressService.instance.markSrs(key, known: rating > 1);
-    ProgressService.instance.incrementFlashcardsReviewed(1);
+  Future<void> _next({required int rating}) async {
+    final card = _deck![_index];
+    // Awaited: both writes are read-modify-write on the same store, so
+    // firing them unawaited loses updates when taps arrive quickly.
+    await ProgressService.instance.markSrs(card.key, known: rating > 1);
+    await ProgressService.instance.incrementFlashcardsReviewed(1);
+    if (!mounted) return;
     setState(() {
       if (rating > 1) {
         _known++;
@@ -113,9 +125,7 @@ class _FlashcardScreenState extends State<FlashcardScreen> {
         _again++;
         final repeats = _repeatCount.clamp(1, _repeatOptions.last);
         for (int i = 0; i < repeats; i++) {
-          _deck!.add(_deck![_index]);
-          _keys.add(_keys[_index]);
-          _examples.add(_examples[_index]);
+          _deck!.add(card);
         }
       }
       _index++;
@@ -128,7 +138,8 @@ class _FlashcardScreenState extends State<FlashcardScreen> {
 
   void _newSession() {
     setState(() {
-      _deck = List.of(_deck!)..shuffle(Random());
+      // The whole card moves together, so its SRS key stays correct.
+      _deck!.shuffle(Random());
       _index = 0;
       _known = 0;
       _again = 0;
@@ -182,10 +193,10 @@ class _FlashcardScreenState extends State<FlashcardScreen> {
             done
                 ? _buildResult(lang)
                 : _buildCard(
-                  deck[_index],
+                  deck[_index].word,
                   lang,
                   deck.length,
-                  _examples[_index],
+                  deck[_index].example,
                 ),
       ),
     );
@@ -213,7 +224,7 @@ class _FlashcardScreenState extends State<FlashcardScreen> {
                     uiText(
                       lang,
                       ar: 'انتهت الجلسة!',
-                      pt: '¡Sesión completada!',
+                      pt: 'Sessão concluída!',
                       other: 'Session complete!',
                     ),
                     style: Theme.of(context).textTheme.headlineSmall?.copyWith(
@@ -225,7 +236,7 @@ class _FlashcardScreenState extends State<FlashcardScreen> {
                     uiText(
                       lang,
                       ar: 'عرفت $pct٪',
-                      pt: 'Sabías el $pct%',
+                      pt: 'Você acertou $pct%',
                       other: 'You knew $pct%',
                     ),
                     style: Theme.of(context).textTheme.titleMedium,
@@ -235,7 +246,7 @@ class _FlashcardScreenState extends State<FlashcardScreen> {
                     uiText(
                       lang,
                       ar: 'معروف: $_known · كرر لاحقًا: $_again',
-                      pt: 'Sabías: $_known · Repasar después: $_again',
+                      pt: 'Acertos: $_known · Revisar depois: $_again',
                       other: 'Known: $_known · Review again: $_again',
                     ),
                     style: Theme.of(context).textTheme.bodyMedium,
@@ -247,7 +258,7 @@ class _FlashcardScreenState extends State<FlashcardScreen> {
                       uiText(
                         lang,
                         ar: 'جلسة جديدة',
-                        pt: 'Nueva sesión',
+                        pt: 'Nova sessão',
                         other: 'New session',
                       ),
                     ),
@@ -278,7 +289,7 @@ class _FlashcardScreenState extends State<FlashcardScreen> {
                 uiText(
                   lang,
                   ar: 'أصايب: $_known · أخطاء: $_again',
-                  pt: 'Sabías: $_known · Errores: $_again',
+                  pt: 'Acertos: $_known · Erros: $_again',
                   other: 'Known: $_known · Errors: $_again',
                 ),
                 style: Theme.of(context).textTheme.labelMedium,
@@ -354,7 +365,7 @@ class _FlashcardScreenState extends State<FlashcardScreen> {
                           uiText(
                             lang,
                             ar: 'اضغط للكشف عن المعنى',
-                            pt: 'Toca para revelar',
+                            pt: 'Toque para revelar',
                             other: 'Tap to reveal',
                           ),
                           style: Theme.of(context).textTheme.bodySmall,
@@ -405,7 +416,7 @@ class _FlashcardScreenState extends State<FlashcardScreen> {
                           uiText(
                             lang,
                             ar: 'مرة أخرى',
-                            pt: 'Otra vez',
+                            pt: 'De novo',
                             other: 'Again',
                           ),
                         ),
@@ -420,7 +431,7 @@ class _FlashcardScreenState extends State<FlashcardScreen> {
                           uiText(
                             lang,
                             ar: 'أعرفها',
-                            pt: 'Sé',
+                            pt: 'Sei',
                             other: 'I know it',
                           ),
                         ),

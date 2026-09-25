@@ -144,9 +144,28 @@ class _QuizScreenState extends State<QuizScreen> {
           ),
         ),
         body:
-            _finished
+            _questions == null || _questions!.isEmpty
+                ? _buildEmpty(lang)
+                : _finished
                 ? _buildResult(lang)
                 : _buildQuestion(_questions![_index], lang),
+      ),
+    );
+  }
+
+  Widget _buildEmpty(String lang) {
+    return Center(
+      child: Padding(
+        padding: const EdgeInsets.all(24),
+        child: Text(
+          uiText(
+            lang,
+            ar: 'لا يوجد أسئلة في هذا المستوى بعد.',
+            pt: 'Nenhuma questão disponível neste nível ainda.',
+            other: 'No questions are available for this level yet.',
+          ),
+          textAlign: TextAlign.center,
+        ),
       ),
     );
   }
