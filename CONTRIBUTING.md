@@ -42,7 +42,7 @@ This project adheres to a Code of Conduct. By participating, you are expected to
 
 ```bash
 # Clone the repository
-git clone https://github.com/rafaabou/ptbr-zero-to-hero.git
+git clone https://github.com/rafaabou/talk-to-me-portugues.git
 cd ptbr-zero-to-hero/app
 
 # Install dependencies

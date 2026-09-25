@@ -10,7 +10,7 @@ Learn Brazilian Portuguese from zero to fluency. 100% offline, trilingual (Portu
 
 ### Installation
 
-1. Download the APK from [GitHub Releases](https://github.com/rafaabou/ptbr-zero-to-hero/releases)
+1. Download the APK from [GitHub Releases](https://github.com/rafaabou/talk-to-me-portugues/releases)
 2. Open the APK on your Android device (Android 7.0+)
 3. Allow installation from unknown sources if prompted
 4. Open the app
@@ -380,11 +380,11 @@ The app works 100% offline:
 
 ## Support
 
-- **Issues**: https://github.com/rafaabou/ptbr-zero-to-hero/issues
+- **Issues**: https://github.com/rafaabou/talk-to-me-portugues/issues
 - **Author**: Mohamed Rafaa Tounekti
 - **License**: Apache-2.0
 
 ---
 
 **Maintainer**: Mohamed Rafaa Tounekti
-**Repository**: https://github.com/rafaabou/ptbr-zero-to-hero
+**Repository**: https://github.com/rafaabou/talk-to-me-portugues

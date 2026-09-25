@@ -163,7 +163,7 @@ yes | sdkmanager --licenses
 sdkmanager "platforms;android-34" "build-tools;34.0.0" "ndk;27.0.12077973"
 
 # 4. Clone and build
-git clone https://github.com/rafaabou/ptbr-zero-to-hero.git
+git clone https://github.com/rafaabou/talk-to-me-portugues.git
 cd ptbr-zero-to-hero/app
 flutter pub get
 flutter analyze              # Must be 0 issues
@@ -232,7 +232,7 @@ tar xzf runner.tar.gz
 
 ```bash
 ./config.sh \
-  --url https://github.com/rafaabou/ptbr-zero-to-hero \
+  --url https://github.com/rafaabou/talk-to-me-portugues \
   --token <YOUR_TOKEN> \
   --labels "self-hosted,linux,X64,portuguese" \
   --name "ptbr-runner" \
@@ -663,5 +663,5 @@ Apache-2.0 — see `LICENSE` and `NOTICE`.
 ---
 
 **Maintainer**: Mohamed Rafaa Tounekti
-**Repository**: https://github.com/rafaabou/ptbr-zero-to-hero
+**Repository**: https://github.com/rafaabou/talk-to-me-portugues
 **Architecture**: See [ARCHITECTURE.md](ARCHITECTURE.md) for complete technical reference.
