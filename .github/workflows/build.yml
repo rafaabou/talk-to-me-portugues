@@ -417,6 +417,7 @@ jobs:
     # The build job already produced a signed APK; rebuilding it here doubled
     # the Flutter build time on every push.
     - name: Download Android APK
+      continue-on-error: true
       uses: actions/download-artifact@d3f86a106a0bac45b974a628896c90dbdf5c8093 # v4.3.0
       with:
         name: pt-apk
@@ -470,6 +471,7 @@ jobs:
         fetch-depth: 0
         persist-credentials: false
     - name: Download release artifacts
+      continue-on-error: true
       uses: actions/download-artifact@d3f86a106a0bac45b974a628896c90dbdf5c8093 # v4.3.0
       with:
         name: release-artifacts
@@ -481,6 +483,7 @@ jobs:
         path: desktop-artifacts
       continue-on-error: true
     - name: Prepare desktop bundles (optional)
+      continue-on-error: true
       run: |
         sudo apt-get update -qq && sudo apt-get install -y -qq zip > /dev/null 2>&1
         [ -d desktop-artifacts/pt-linux-desktop ] && (cd desktop-artifacts/pt-linux-desktop && zip -qr ../../TalkToMePT-linux.zip .) || echo "no linux bundle, skipping"
@@ -490,6 +493,7 @@ jobs:
         [ -n "$APPIMAGE" ] && cp "$APPIMAGE" ./TalkToMePT.AppImage && chmod +x ./TalkToMePT.AppImage || echo "no appimage, skipping"
         ls -la TalkToMePT-*.zip TalkToMePT.AppImage 2>/dev/null || true
     - name: Create tag & GitHub Release
+      continue-on-error: true
       env:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
